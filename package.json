@@ -1,0 +1,58 @@
+{
+  "name": "el-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "supabase start",
+    "stop": "supabase stop",
+    "reset": "supabase db reset",
+    "migrate": "supabase db push",
+    "generate-types": "supabase gen types typescript --local > types/database.ts",
+    "functions:serve": "supabase functions serve",
+    "functions:deploy": "supabase functions deploy",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint . --ext .ts,.js,.sql",
+    "lint:fix": "eslint . --ext .ts,.js,.sql --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "sql:format": "sql-formatter --config .sqlformatterrc.json -o supabase/migrations/*.sql",
+    "type-check": "tsc --noEmit",
+    "prepare": "husky",
+    "commit": "cz"
+  },
+  "keywords": [
+    "supabase",
+    "backend",
+    "audio",
+    "translation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Supabase backend for EL audio translation platform",
+  "dependencies": {
+    "@types/node": "^24.0.3",
+    "@typescript-eslint/eslint-plugin": "^8.34.1",
+    "@typescript-eslint/parser": "^8.34.1",
+    "eslint": "^9.29.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.0",
+    "eslint-plugin-sql": "^3.2.2",
+    "husky": "^9.1.7",
+    "jest": "^30.0.2",
+    "lint-staged": "^16.1.2",
+    "prettier": "^3.5.3",
+    "sql-formatter": "^15.6.5",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "language": "postgresql",
+  "dialect": "postgresql",
+  "keywordCase": "upper",
+  "identifierCase": "lower",
+  "functionCase": "upper",
+  "dataTypeCase": "upper",
+  "linesBetweenQueries": 2,
+  "denseOperators": false,
+  "semicolonAtEndOfStatement": true,
+  "indentStyle": "standard",
+  "logicalOperatorNewline": "before",
+  "tabulateAlias": false,
+  "commaPosition": "after",
+  "expressionWidth": 50,
+  "lineWidth": 80,
+  "paramTypes": {
+    "numbered": ["$1", "$2"],
+    "named": [":name"],
+    "quoted": ["'name'"]
+  }
+}

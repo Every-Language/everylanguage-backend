@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+
+# Supabase generated/temp files
+supabase/.temp/
+supabase/.branches/
+types/database.ts
+
+# SQL files (use sql-formatter instead)
+*.sql
+
+# Generated files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation that should preserve formatting
+CHANGELOG.md
+LICENSE 
