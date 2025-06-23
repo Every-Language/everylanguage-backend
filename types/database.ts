@@ -17,10 +17,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          operationName?: string
-          extensions?: Json
-          variables?: Json
           query?: string
+          operationName?: string
+          variables?: Json
+          extensions?: Json
         }
         Returns: Json
       }
@@ -34,7 +34,179 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      analytics_events: {
+        Row: {
+          created_at: string | null
+          device_info: Json | null
+          event_data: Json | null
+          event_type: string
+          id: string
+          session_id: string | null
+          user_id: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          device_info?: Json | null
+          event_data?: Json | null
+          event_type: string
+          id?: string
+          session_id?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          device_info?: Json | null
+          event_data?: Json | null
+          event_type?: string
+          id?: string
+          session_id?: string | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
+      audio_recordings: {
+        Row: {
+          audio_file_url: string
+          created_at: string | null
+          description: string | null
+          duration_seconds: number | null
+          id: string
+          original_language: string
+          status: string | null
+          target_language: string
+          title: string
+          updated_at: string | null
+          user_id: string | null
+        }
+        Insert: {
+          audio_file_url: string
+          created_at?: string | null
+          description?: string | null
+          duration_seconds?: number | null
+          id?: string
+          original_language: string
+          status?: string | null
+          target_language: string
+          title: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          audio_file_url?: string
+          created_at?: string | null
+          description?: string | null
+          duration_seconds?: number | null
+          id?: string
+          original_language?: string
+          status?: string | null
+          target_language?: string
+          title?: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
+      npm_test_projects: {
+        Row: {
+          created_at: string | null
+          description: string | null
+          id: string
+          name: string
+          status: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          name: string
+          status?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          name?: string
+          status?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
+      profiles: {
+        Row: {
+          avatar_url: string | null
+          created_at: string | null
+          email: string
+          full_name: string | null
+          id: string
+          updated_at: string | null
+          user_id: string | null
+        }
+        Insert: {
+          avatar_url?: string | null
+          created_at?: string | null
+          email: string
+          full_name?: string | null
+          id?: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          avatar_url?: string | null
+          created_at?: string | null
+          email?: string
+          full_name?: string | null
+          id?: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
+      translation_segments: {
+        Row: {
+          confidence_score: number | null
+          created_at: string | null
+          end_time_seconds: number
+          id: string
+          original_text: string | null
+          recording_id: string | null
+          speaker_id: string | null
+          start_time_seconds: number
+          translated_text: string | null
+        }
+        Insert: {
+          confidence_score?: number | null
+          created_at?: string | null
+          end_time_seconds: number
+          id?: string
+          original_text?: string | null
+          recording_id?: string | null
+          speaker_id?: string | null
+          start_time_seconds: number
+          translated_text?: string | null
+        }
+        Update: {
+          confidence_score?: number | null
+          created_at?: string | null
+          end_time_seconds?: number
+          id?: string
+          original_text?: string | null
+          recording_id?: string | null
+          speaker_id?: string | null
+          start_time_seconds?: number
+          translated_text?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "translation_segments_recording_id_fkey"
+            columns: ["recording_id"]
+            isOneToOne: false
+            referencedRelation: "audio_recordings"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       [_ in never]: never

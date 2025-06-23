@@ -131,9 +131,15 @@ export default [
     },
   },
 
-  // JavaScript configuration files
+  // JavaScript configuration files and scripts
   {
-    files: ['*.config.js', '*.config.ts', 'eslint.config.js', 'tests/**/*.js', 'scripts/**/*.js'],
+    files: [
+      '*.config.js',
+      '*.config.ts',
+      'eslint.config.js',
+      'tests/**/*.js',
+      'scripts/**/*.js',
+    ],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'module',
@@ -150,6 +156,7 @@ export default [
     },
     rules: {
       'no-console': 'off',
+      'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     },
   },
 
@@ -161,10 +168,12 @@ export default [
       'coverage/**',
       'supabase/.temp/**',
       'supabase/.branches/**',
-      '*.sql',
+      '**/*.sql', // All SQL files
       '*.log',
       '.env*',
       'types/database.ts', // Generated file
+      'types/database.d.ts', // Generated declaration file
+      'types/database.js', // Generated JS file
     ],
   },
 ];

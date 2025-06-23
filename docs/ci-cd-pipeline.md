@@ -220,12 +220,12 @@ npm run commit
 #### Migration Best Practices
 
 1. **Always test migrations locally first**
-2. **Include both up and down migrations** 
+2. **Include both up and down migrations**
 3. **Generate types after schema changes**
 4. **Test that CI passes before requesting review**
 5. **Use conventional commits for proper version bumping**:
    - `feat:` for new tables/columns → Minor version bump
-   - `fix:` for bug fixes → Patch version bump  
+   - `fix:` for bug fixes → Patch version bump
    - `feat!:` or `BREAKING CHANGE:` → Major version bump
 
 #### Schema Change Workflow
@@ -378,6 +378,7 @@ NPM_TOKEN=npm_...                 # Your NPM automation token
    - Create new token with appropriate permissions
 
 2. **SUPABASE_PROJECT_REF**:
+
    - Go to your project settings
    - Copy the Project Reference ID
 

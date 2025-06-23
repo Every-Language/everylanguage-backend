@@ -170,7 +170,7 @@ Click **Create** to save the branch protection rule.
 Once you have production Supabase set up:
 
 1. **Merge your test PR** (this will trigger deployment)
-2. **Go to Actions tab** and watch the Deploy workflow  
+2. **Go to Actions tab** and watch the Deploy workflow
 3. **Verify deployment succeeded**
 4. **Watch NPM Publishing** (triggers after successful deployment)
    - Go to Actions → "Publish Types Package"

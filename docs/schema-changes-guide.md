@@ -24,6 +24,7 @@ supabase migration new add_audio_segments_table
 ```
 
 **Example Migration:**
+
 ```sql
 -- Add audio segments table for storing individual audio chunks
 CREATE TABLE audio_segments (
@@ -85,11 +86,12 @@ npm run commit
 
 # Choose commit type based on impact:
 # - feat: new table/columns → Minor version bump (1.1.0)
-# - fix: bug fixes → Patch version bump (1.0.1)  
+# - fix: bug fixes → Patch version bump (1.0.1)
 # - feat!: breaking changes → Major version bump (2.0.0)
 ```
 
 **Example Commit Messages:**
+
 ```bash
 # For new features (minor bump)
 feat: add audio_segments table for chunked audio processing
@@ -116,6 +118,7 @@ git push origin feature/add-audio-segments
 ```
 
 **What CI Tests:**
+
 - ✅ Migration syntax and logic
 - ✅ RLS policies are present
 - ✅ Types generation works
@@ -153,11 +156,11 @@ The system automatically:
 
 ### Version Bumping Rules
 
-| Commit Pattern | Version Bump | Example |
-|---------------|--------------|---------|
-| `feat:` | **Minor** (1.1.0) | New tables, columns, functions |
-| `fix:` | **Patch** (1.0.1) | Bug fixes, performance improvements |
-| `feat!:` or `BREAKING CHANGE:` | **Major** (2.0.0) | Breaking schema changes |
+| Commit Pattern                 | Version Bump      | Example                             |
+| ------------------------------ | ----------------- | ----------------------------------- |
+| `feat:`                        | **Minor** (1.1.0) | New tables, columns, functions      |
+| `fix:`                         | **Patch** (1.0.1) | Bug fixes, performance improvements |
+| `feat!:` or `BREAKING CHANGE:` | **Major** (2.0.0) | Breaking schema changes             |
 
 ### Manual Publishing
 
@@ -173,25 +176,27 @@ If you need to publish manually:
 ## 🏗️ Schema Design Best Practices
 
 ### Table Naming
+
 - Use `snake_case` for table and column names
 - Use descriptive, plural table names: `audio_segments`, `user_profiles`
 - Include clear foreign key relationships
 
 ### Required Elements
+
 Always include these in new tables:
 
 ```sql
 CREATE TABLE example_table (
     -- Primary key
     id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
-    
+
     -- Foreign keys with proper constraints
     user_id UUID REFERENCES profiles(id) ON DELETE CASCADE,
-    
+
     -- Timestamps
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
-    
+
     -- Your columns...
     name TEXT NOT NULL,
     description TEXT
@@ -201,7 +206,7 @@ CREATE TABLE example_table (
 ALTER TABLE example_table ENABLE ROW LEVEL SECURITY;
 
 -- Add policies
-CREATE POLICY "policy_name" ON example_table 
+CREATE POLICY "policy_name" ON example_table
     FOR SELECT USING (user_id = auth.uid());
 
 -- Add useful indexes
@@ -210,6 +215,7 @@ CREATE INDEX idx_example_table_created_at ON example_table(created_at);
 ```
 
 ### RLS Policies
+
 Always add Row Level Security policies:
 
 ```sql
@@ -302,6 +308,7 @@ supabase gen types typescript > types/database-prod.ts
 ### NPM Publishing Issues
 
 Common problems:
+
 - **Package name taken**: Update name in `package.json`
 - **Version already published**: Let workflow auto-bump version
 - **Permission denied**: Check NPM_TOKEN secret in GitHub
@@ -385,14 +392,14 @@ CREATE INDEX idx_languages_active ON languages(is_active);
 
 ```sql
 -- File: supabase/migrations/20241201000002_add_recording_metadata.sql
-ALTER TABLE recordings 
+ALTER TABLE recordings
 ADD COLUMN duration_ms INTEGER,
 ADD COLUMN file_size_bytes BIGINT,
 ADD COLUMN sample_rate INTEGER DEFAULT 44100,
 ADD COLUMN bit_depth INTEGER DEFAULT 16;
 
 -- Add check constraints
-ALTER TABLE recordings 
+ALTER TABLE recordings
 ADD CONSTRAINT check_duration_positive CHECK (duration_ms > 0),
 ADD CONSTRAINT check_file_size_positive CHECK (file_size_bytes > 0);
 ```
@@ -402,17 +409,17 @@ ADD CONSTRAINT check_file_size_positive CHECK (file_size_bytes > 0);
 ```sql
 -- File: supabase/migrations/20241201000003_add_performance_indexes.sql
 -- Composite index for common query patterns
-CREATE INDEX idx_recordings_user_created 
+CREATE INDEX idx_recordings_user_created
     ON recordings(user_id, created_at DESC);
 
 -- Partial index for active records only
-CREATE INDEX idx_recordings_active 
-    ON recordings(created_at) 
+CREATE INDEX idx_recordings_active
+    ON recordings(created_at)
     WHERE deleted_at IS NULL;
 
 -- Full-text search index
-CREATE INDEX idx_recordings_search 
-    ON recordings 
+CREATE INDEX idx_recordings_search
+    ON recordings
     USING GIN(to_tsvector('english', title || ' ' || description));
 ```
 
@@ -434,4 +441,4 @@ After reading this guide:
 
 ---
 
-**Remember**: Every schema change affects multiple applications. Plan changes carefully and communicate with all teams! 🚀 
+**Remember**: Every schema change affects multiple applications. Plan changes carefully and communicate with all teams! 🚀

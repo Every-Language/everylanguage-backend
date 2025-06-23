@@ -3,11 +3,11 @@ name: Publish Types Package
 on:
   # Trigger on successful deploy to main (after schema changes)
   workflow_run:
-    workflows: ["Deploy"]
+    workflows: ['Deploy']
     types:
       - completed
     branches: [main]
-  
+
   # Allow manual triggering for immediate publishing
   workflow_dispatch:
     inputs:
@@ -96,13 +96,13 @@ jobs:
               VERSION_TYPE="patch"
             fi
           fi
-          
+
           echo "🏷️ Bumping $VERSION_TYPE version..."
           npm run version:$VERSION_TYPE
-          
+
           echo "📦 Preparing package..."
           npm run prepare-package
-          
+
           # Get the new version for output
           NEW_VERSION=$(node -p "require('./package.json').version")
           echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
@@ -137,15 +137,15 @@ jobs:
           release_name: Types Package v${{ steps.version.outputs.new_version }}
           body: |
             🎉 New version of @everylanguage/shared-types published!
-            
+
             ## Changes
             - Updated database types to match latest schema
-            
+
             ## Installation
             ```bash
             npm install @everylanguage/shared-types@${{ steps.version.outputs.new_version }}
             ```
-            
+
             ## Usage
             ```typescript
             import { Database } from '@everylanguage/shared-types';
@@ -157,4 +157,4 @@ jobs:
         if: steps.check_changes.outputs.changed == 'false' && github.event_name != 'workflow_dispatch'
         run: |
           echo "ℹ️ No database schema changes detected. Package publishing skipped."
-          echo "To manually publish, trigger this workflow with the 'workflow_dispatch' event." 
+          echo "To manually publish, trigger this workflow with the 'workflow_dispatch' event."

@@ -10,8 +10,7 @@
   "semicolonAtEndOfStatement": true,
   "indentStyle": "standard",
   "logicalOperatorNewline": "before",
-  "tabulateAlias": false,
-  "commaPosition": "after",
+
   "expressionWidth": 50,
   "lineWidth": 80,
   "paramTypes": {

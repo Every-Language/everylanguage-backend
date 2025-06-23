@@ -13,6 +13,7 @@ npm install @everylanguage/shared-types
 ## 🔄 Type Updates
 
 Types are automatically updated when:
+
 - Database schema changes are deployed to production
 - The CI/CD pipeline detects schema modifications
 - Manual publishing is triggered
@@ -25,7 +26,7 @@ For the backend team:
 # 1. Make schema changes
 supabase migration new your_change_name
 
-# 2. Apply migration locally  
+# 2. Apply migration locally
 npm run migrate
 
 # 3. Test changes
@@ -53,7 +54,7 @@ npm install @everylanguage/shared-types@1.2.3
 This package follows [Semantic Versioning](https://semver.org/):
 
 - **Patch** (1.0.x) - Type fixes, documentation updates
-- **Minor** (1.x.0) - New tables, non-breaking schema additions  
+- **Minor** (1.x.0) - New tables, non-breaking schema additions
 - **Major** (x.0.0) - Breaking schema changes
 
 ## 🐛 Issues & Support

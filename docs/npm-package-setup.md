@@ -21,11 +21,7 @@ The package is configured in `package.json` with these key settings:
       "import": "./types/database.js"
     }
   },
-  "files": [
-    "types/database.d.ts",
-    "types/database.js",
-    "README.md"
-  ]
+  "files": ["types/database.d.ts", "types/database.js", "README.md"]
 }
 ```
 
@@ -39,8 +35,9 @@ npm run setup-npm
 ```
 
 This script will:
+
 - ✅ Check all required files exist
-- ✅ Validate package.json configuration  
+- ✅ Validate package.json configuration
 - ✅ Create types directory structure
 - ✅ Test build process
 - ✅ Check NPM authentication
@@ -63,11 +60,11 @@ npm run prepare-package
 
 Add these secrets to your GitHub repository (Settings → Secrets and Variables → Actions):
 
-| Secret Name | Description | How to Get |
-|-------------|-------------|------------|
-| `NPM_TOKEN` | NPM automation token | [NPM.com](https://www.npmjs.com) → Profile → Access Tokens → Create (Automation type) |
-| `SUPABASE_ACCESS_TOKEN` | Supabase access token | [Supabase Dashboard](https://app.supabase.com) → Profile → Access Tokens |
-| `SUPABASE_PROJECT_REF` | Production project reference | Supabase Project → Settings → General → Reference ID |
+| Secret Name             | Description                  | How to Get                                                                            |
+| ----------------------- | ---------------------------- | ------------------------------------------------------------------------------------- |
+| `NPM_TOKEN`             | NPM automation token         | [NPM.com](https://www.npmjs.com) → Profile → Access Tokens → Create (Automation type) |
+| `SUPABASE_ACCESS_TOKEN` | Supabase access token        | [Supabase Dashboard](https://app.supabase.com) → Profile → Access Tokens              |
+| `SUPABASE_PROJECT_REF`  | Production project reference | Supabase Project → Settings → General → Reference ID                                  |
 
 ### Step 4: Test the Workflow
 
@@ -113,17 +110,18 @@ graph TD
 
 The system automatically determines version bumps based on commit messages:
 
-| Commit Message Pattern | Version Bump | Example |
-|----------------------|--------------|---------|
-| `feat: add new table` | **Minor** (1.1.0) | New tables, columns |
+| Commit Message Pattern   | Version Bump      | Example                  |
+| ------------------------ | ----------------- | ------------------------ |
+| `feat: add new table`    | **Minor** (1.1.0) | New tables, columns      |
 | `fix: add missing index` | **Patch** (1.0.1) | Bug fixes, optimizations |
-| `feat!: breaking change` | **Major** (2.0.0) | Breaking schema changes |
+| `feat!: breaking change` | **Major** (2.0.0) | Breaking schema changes  |
 
 ### Manual Publishing
 
 You can also publish manually:
 
 1. **Via GitHub Actions**:
+
    - Go to Actions → "Publish Types Package"
    - Click "Run workflow"
    - Choose version bump type
@@ -239,11 +237,13 @@ npm run prepare-package   # Test build
 ### Debugging Steps
 
 1. **Check GitHub Actions Logs**:
+
    - Go to Actions tab in GitHub
    - Click on failed workflow
    - Expand log sections to see errors
 
 2. **Test Locally**:
+
    ```bash
    npm run setup-npm       # Validate configuration
    npm run generate-types  # Test type generation
@@ -251,10 +251,11 @@ npm run prepare-package   # Test build
    ```
 
 3. **Verify Secrets**:
+
    ```bash
    # In your local terminal, test NPM auth:
    npm whoami
-   
+
    # Test Supabase connection:
    supabase projects list
    ```
@@ -270,6 +271,7 @@ npm run prepare-package   # Test build
 ### Version Tracking
 
 Each published version includes:
+
 - 🏷️ **GitHub Release** with changelog
 - 📝 **Version tags** for tracking
 - 📊 **Download statistics** on NPM
@@ -300,7 +302,7 @@ npm run commit
 ## 📚 Related Documentation
 
 - [Schema Changes Guide](./schema-changes-guide.md) - Complete database workflow
-- [CI/CD Pipeline](./ci-cd-pipeline.md) - Full pipeline documentation  
+- [CI/CD Pipeline](./ci-cd-pipeline.md) - Full pipeline documentation
 - [GitHub Setup Guide](./github-setup-guide.md) - Initial repository setup
 - [Development Setup](./development-setup.md) - Local development guide
 
@@ -309,9 +311,9 @@ npm run commit
 Once setup is complete, your schema changes will automatically:
 
 1. ✅ **Validate** through CI/CD
-2. 🚀 **Deploy** to production  
+2. 🚀 **Deploy** to production
 3. 📦 **Publish** types to NPM
 4. 🏷️ **Tag** releases for tracking
 5. 📢 **Notify** teams to update dependencies
 
-Your teams can now enjoy type-safe development across all applications! 🚀 
+Your teams can now enjoy type-safe development across all applications! 🚀
