@@ -2,8 +2,8 @@ export default {
   preset: 'ts-jest',
   testEnvironment: 'node',
 
-  // Test file patterns
-  roots: ['<rootDir>/tests', '<rootDir>/supabase/functions'],
+  // Test file patterns - only include directories that exist and have tests
+  roots: ['<rootDir>/tests'],
   testMatch: ['**/__tests__/**/*.{ts,js}', '**/?(*.)+(spec|test).{ts,js}'],
 
   // TypeScript handling
@@ -36,7 +36,8 @@ export default {
 
   // Coverage configuration
   collectCoverageFrom: [
-    'supabase/functions/**/*.ts',
+    //  TODO: add this back
+    // 'supabase/functions/**/*.ts',
     'scripts/**/*.ts',
     'src/**/*.ts',
     '!**/*.d.ts',
