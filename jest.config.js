@@ -86,7 +86,7 @@ export default {
     },
     Deno: {
       env: {
-        get: jest.fn(),
+        get: () => undefined,
       },
     },
   },
