@@ -1,0 +1,79 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run linting
+        run: npm run lint
+
+      - name: Check formatting
+        run: npm run format:check
+
+      - name: Type check
+        run: npm run type-check
+
+      - name: Setup Supabase CLI
+        uses: supabase/setup-cli@v1
+        with:
+          version: latest
+
+      - name: Start Supabase local development
+        run: supabase start
+
+      - name: Wait for Supabase to be ready
+        run: |
+          timeout=60
+          while ! curl -f http://127.0.0.1:54321/rest/v1/ >/dev/null 2>&1; do
+            echo "Waiting for Supabase to start..."
+            sleep 2
+            timeout=$((timeout-2))
+            if [ $timeout -le 0 ]; then
+              echo "Timeout waiting for Supabase"
+              exit 1
+            fi
+          done
+          echo "Supabase is ready!"
+
+      - name: Run tests
+        run: npm test
+        env:
+          NODE_ENV: test
+          SUPABASE_URL: http://127.0.0.1:54321
+          # Keys will be automatically available from local instance
+
+      - name: Verify generated types are up to date
+        run: |
+          npm run generate-types
+          if ! git diff --ignore-space-at-eol --exit-code --quiet types/database.ts; then
+            echo "❌ Generated types are out of date!"
+            echo "Please run 'npm run generate-types' locally and commit the changes."
+            echo ""
+            echo "Changes detected:"
+            git diff types/database.ts
+            exit 1
+          fi
+          echo "✅ Generated types are up to date"
+
+      - name: Stop Supabase
+        if: always()
+        run: supabase stop

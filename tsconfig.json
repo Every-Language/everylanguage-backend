@@ -32,7 +32,9 @@
     "types/**/*",
     "scripts/**/*",
     "tests/**/*",
-    "src/**/*"
+    "src/**/*",
+    "supabase/tests/setup.ts",
+    "supabase/tests/env.setup.js"
   ],
   "exclude": [
     "node_modules",
