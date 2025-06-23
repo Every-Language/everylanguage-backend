@@ -28,7 +28,7 @@ export default {
   },
 
   // Module resolution
-  moduleNameMapping: {
+  moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
     '^@/types/(.*)$': '<rootDir>/types/$1',
     '^@/functions/(.*)$': '<rootDir>/supabase/functions/$1',
