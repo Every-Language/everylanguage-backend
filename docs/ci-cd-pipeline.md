@@ -4,10 +4,11 @@ This document explains how our automated CI/CD pipeline works, what it does, and
 
 ## 📋 Overview
 
-Our CI/CD pipeline consists of two main workflows:
+Our CI/CD pipeline consists of three main workflows:
 
 1. **CI (Continuous Integration)** - Runs on every push and pull request
 2. **Deploy** - Runs when code is merged to `main` branch
+3. **Publish Types** - Automatically publishes NPM package when schema changes
 
 ## 🔄 CI Workflow (`ci.yml`)
 
@@ -76,6 +77,39 @@ Our CI/CD pipeline consists of two main workflows:
    - Deploys Edge Functions (if any exist)
    - Verifies production schema
 
+## 📦 Publish Types Workflow (`publish-types.yml`)
+
+### When It Runs
+
+- Automatically after successful deployment to `main`
+- Manually triggered from GitHub Actions tab with version options
+- Only when database schema changes are detected
+
+### What It Does
+
+1. **Type Generation & Publishing**
+   - Generates TypeScript types from production database
+   - Compares with previously published types
+   - Automatically bumps version (patch/minor/major)
+   - Publishes `@everylanguage/shared-types` to NPM
+   - Creates GitHub release with version notes
+   - Updates repository with new types
+
+### Version Bumping Logic
+
+- **Major (x.0.0)**: Breaking changes detected in commit messages (`BREAKING CHANGE`, `feat!`)
+- **Minor (1.x.0)**: New features detected (`feat:` commits)
+- **Patch (1.0.x)**: Bug fixes and other changes
+
+### Manual Publishing
+
+You can manually trigger type publishing:
+
+1. Go to Actions tab → "Publish Types Package"
+2. Click "Run workflow"
+3. Choose version bump type (patch/minor/major)
+4. Click "Run workflow"
+
 ### Deployment Process
 
 ```mermaid
@@ -86,6 +120,11 @@ graph LR
     D --> E[Deploy Functions]
     E --> F[Verify Schema]
     F --> G[Deployment Complete]
+    G --> H[Publish Types Workflow Triggers]
+    H --> I[Generate Types from Production]
+    I --> J[Check for Changes]
+    J --> K[Bump Version & Publish to NPM]
+    K --> L[Create GitHub Release]
 ```
 
 ## 🛠️ Developer Workflow
@@ -181,9 +220,49 @@ npm run commit
 #### Migration Best Practices
 
 1. **Always test migrations locally first**
-2. **Include both up and down migrations**
+2. **Include both up and down migrations** 
 3. **Generate types after schema changes**
 4. **Test that CI passes before requesting review**
+5. **Use conventional commits for proper version bumping**:
+   - `feat:` for new tables/columns → Minor version bump
+   - `fix:` for bug fixes → Patch version bump  
+   - `feat!:` or `BREAKING CHANGE:` → Major version bump
+
+#### Schema Change Workflow
+
+```bash
+# 1. Create and test migration locally
+supabase migration new your_change_name
+# Edit migration file...
+npm run migrate
+npm run generate-types
+
+# 2. Test locally
+npm test
+
+# 3. Commit with proper conventional commit
+npm run commit
+# Choose appropriate type (feat/fix/feat! for breaking)
+
+# 4. Create PR and wait for CI
+git push origin feature/your-change
+
+# 5. After PR merge → Deploy runs → Types automatically published!
+```
+
+#### Post-Deployment: NPM Package
+
+After your schema changes are deployed:
+
+1. **Automatic Publishing**: Types package is automatically published to NPM
+2. **Version Bumping**: Version is automatically determined from commit messages
+3. **GitHub Release**: Automatically created with change notes
+4. **Team Notification**: Other teams can update their dependencies
+
+```bash
+# In other repositories (React Native apps, web dashboards)
+npm update @everylanguage/shared-types
+```
 
 ## 🚨 Troubleshooting CI Failures
 
@@ -246,6 +325,38 @@ supabase status
 # Check logs for errors
 ```
 
+#### ❌ NPM Publishing Failures
+
+```bash
+# Error: NPM package publishing failed
+
+# Check if NPM_TOKEN secret is configured correctly
+# Verify package name is available on NPM registry
+# Ensure version isn't already published
+```
+
+**Common NPM Issues:**
+
+1. **Permission denied**: Check NPM_TOKEN secret
+2. **Package name taken**: Update package name in package.json
+3. **Version already exists**: Workflow will auto-bump, but manual bumps might conflict
+4. **Network timeout**: Re-run workflow
+
+#### ❌ Types Out of Sync
+
+```bash
+# Error: Types don't match production schema
+
+# Manually sync types:
+npm run generate-types
+git add types/database.ts
+git commit -m "fix: sync types with production schema"
+git push
+
+# Or trigger manual publishing:
+# Go to Actions → Publish Types Package → Run workflow
+```
+
 ## 🔐 Secrets Management
 
 ### Required Secrets
@@ -255,6 +366,7 @@ Set these in GitHub repository settings (Settings → Secrets and Variables → 
 ```bash
 SUPABASE_ACCESS_TOKEN=sbp_...     # Your Supabase access token
 SUPABASE_PROJECT_REF=abcdef...    # Your production project reference
+NPM_TOKEN=npm_...                 # Your NPM automation token
 ```
 
 ### How to Get These Values
@@ -268,6 +380,12 @@ SUPABASE_PROJECT_REF=abcdef...    # Your production project reference
 2. **SUPABASE_PROJECT_REF**:
    - Go to your project settings
    - Copy the Project Reference ID
+
+3. **NPM_TOKEN**:
+   - Go to [NPM website](https://www.npmjs.com) and login
+   - Click your profile → Access Tokens
+   - Generate new token with "Automation" type
+   - Copy the token (starts with `npm_`)
 
 ### Local vs CI Environment
 

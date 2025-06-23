@@ -133,7 +133,7 @@ export default [
 
   // JavaScript configuration files
   {
-    files: ['*.config.js', '*.config.ts', 'eslint.config.js', 'tests/**/*.js'],
+    files: ['*.config.js', '*.config.ts', 'eslint.config.js', 'tests/**/*.js', 'scripts/**/*.js'],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'module',
