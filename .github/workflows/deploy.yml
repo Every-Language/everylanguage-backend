@@ -41,7 +41,9 @@ jobs:
 
       - name: Generate and verify production types
         run: |
-          supabase gen types typescript > types/database-production.ts
+          supabase gen types typescript --linked --password ${{ secrets.SUPABASE_DB_PASSWORD }} > types/database-production.ts
           echo "✅ Production types generated successfully"
           # Note: We don't commit these back as they should match the committed types
           # This step is mainly for verification that production schema matches expectations
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
