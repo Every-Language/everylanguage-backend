@@ -132,43 +132,47 @@ jobs:
         with:
           script: |
             const version = '${{ steps.version.outputs.new_version }}';
+            const issueBody = [
+              '## 🎉 New TypeScript Types Published!',
+              '',
+              'The database types have been automatically updated and published to NPM.',
+              '',
+              '### 📋 Details',
+              `- **Version**: \`v${version}\``,
+              `- **NPM Package**: \`@everylanguage/shared-types@${version}\``,
+              '- **Generated from**: Production database schema',
+              `- **Published at**: ${new Date().toISOString()}`,
+              '',
+              '### 🔄 What happened',
+              '1. ✅ Types generated from production database',
+              '2. ✅ Version automatically bumped',
+              '3. ✅ Package published to NPM',
+              '4. ✅ GitHub release created',
+              '',
+              '### 📱 For Application Teams',
+              'Update your dependencies:',
+              '```bash',
+              'npm update @everylanguage/shared-types',
+              '```',
+              '',
+              '### 🗂️ Next Steps',
+              '- Types are ready to use immediately',
+              '- No manual merge required',
+              '- Repository types will be updated in next development cycle',
+              '',
+              '---',
+              '*This is an automated notification. The types package has been successfully published.*'
+            ].join('\n');
+
             const { data: issue } = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `📦 Types Package v${version} Published`,
-              body: `## 🎉 New TypeScript Types Published!
-
-            The database types have been automatically updated and published to NPM.
-
-            ### 📋 Details
-            - **Version**: \`v${version}\`
-            - **NPM Package**: \`@everylanguage/shared-types@${version}\`
-            - **Generated from**: Production database schema
-            - **Published at**: ${new Date().toISOString()}
-
-            ### 🔄 What happened
-            1. ✅ Types generated from production database
-            2. ✅ Version automatically bumped
-            3. ✅ Package published to NPM
-            4. ✅ GitHub release created
-
-            ### 📱 For Application Teams
-            Update your dependencies:
-            \`\`\`bash
-            npm update @everylanguage/shared-types
-            \`\`\`
-
-            ### 🗂️ Next Steps
-            - Types are ready to use immediately
-            - No manual merge required
-            - Repository types will be updated in next development cycle
-
-            ---
-            *This is an automated notification. The types package has been successfully published.*`,
+              body: issueBody,
               labels: ['automated', 'types', 'published']
             });
 
-            console.log(\`Created notification issue #\${issue.number}\`);
+            console.log(`Created notification issue #${issue.number}`);
             return issue.number;
 
       - name: Push version tags
