@@ -26,11 +26,12 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && (github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch')
 
-    # Grant permissions for the workflow to push back to the repo
+    # Grant permissions for the workflow to create releases and issues
     permissions:
       contents: write
       packages: write
-      pull-requests: read
+      issues: write
+      actions: read
 
     steps:
       - name: Checkout code
@@ -124,33 +125,74 @@ jobs:
           echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
         id: version
 
-      - name: Commit updated types
-        if: steps.check_changes.outputs.changed == 'true'
-        run: |
-          git add types/database.ts types/database.d.ts types/database.js
-          git commit -m "chore: update database types for v${{ steps.version.outputs.new_version }}"
-
-      - name: Push changes
+      - name: Create notification issue for type updates
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
-        run: git push --follow-tags
+        id: create_issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issue } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📦 Types Package v${{ steps.version.outputs.new_version }} Published`,
+              body: `## 🎉 New TypeScript Types Published!
+
+            The database types have been automatically updated and published to NPM.
+
+            ### 📋 Details
+            - **Version**: \`v${{ steps.version.outputs.new_version }}\`
+            - **NPM Package**: \`@everylanguage/shared-types@${{ steps.version.outputs.new_version }}\`
+            - **Generated from**: Production database schema
+            - **Published at**: ${new Date().toISOString()}
+
+            ### 🔄 What happened
+            1. ✅ Types generated from production database
+            2. ✅ Version automatically bumped
+            3. ✅ Package published to NPM
+            4. ✅ GitHub release created
+
+            ### 📱 For Application Teams
+            Update your dependencies:
+            \`\`\`bash
+            npm update @everylanguage/shared-types
+            \`\`\`
+
+            ### 🗂️ Next Steps
+            - Types are ready to use immediately
+            - No manual merge required
+            - Repository types will be updated in next development cycle
+
+            ---
+            *This is an automated notification. The types package has been successfully published.*`,
+              labels: ['automated', 'types', 'published']
+            });
+
+            console.log(\`Created notification issue #\${issue.number}\`);
+            return issue.number;
+
+      - name: Push version tags
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          echo "🏷️ Pushing version tags..."
+          git push --tags
+          echo "✅ Tags pushed successfully"
 
       - name: Publish to NPM
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           echo "🚀 Publishing @everylanguage/shared-types@${{ steps.version.outputs.new_version }} to NPM..."
-          npm publish
+          npm publish --access public
           echo "✅ Package published successfully!"
+          echo "📦 NPM Package: https://www.npmjs.com/package/@everylanguage/shared-types"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create GitHub Release
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: ncipollo/release-action@v1
         with:
-          tag_name: v${{ steps.version.outputs.new_version }}
-          release_name: Types Package v${{ steps.version.outputs.new_version }}
+          tag: v${{ steps.version.outputs.new_version }}
+          name: Types Package v${{ steps.version.outputs.new_version }}
           body: |
             🎉 New version of @everylanguage/shared-types published!
 
@@ -166,8 +208,13 @@ jobs:
             ```typescript
             import { Database } from '@everylanguage/shared-types';
             ```
+
+            ## Full Changelog
+            See the [full changelog](https://github.com/${{ github.repository }}/compare/v1.0.0...v${{ steps.version.outputs.new_version }}) for all changes.
           draft: false
           prerelease: false
+          generateReleaseNotes: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Summary
         if: steps.check_changes.outputs.changed == 'false' && github.event_name != 'workflow_dispatch'

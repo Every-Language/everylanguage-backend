@@ -39,11 +39,7 @@ jobs:
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Generate and verify production types
+      - name: Verify deployment success
         run: |
-          supabase gen types typescript --linked > types/database-production.ts
-          echo "✅ Production types generated successfully"
-          # Note: We don't commit these back as they should match the committed types
-          # This step is mainly for verification that production schema matches expectations
-        env:
-          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+          echo "✅ Database migrations deployed successfully"
+          echo "🔄 Type publishing will be handled by the separate publish workflow"

@@ -65,28 +65,23 @@ jobs:
       - name: Verify generated types are up to date
         run: |
           npm run generate-types
-          # Normalize whitespace and sort object properties for consistent comparison
-          if ! git diff --ignore-space-at-eol --ignore-blank-lines --exit-code --quiet types/database.ts; then
-            echo "⚠️ Types differ from committed version, checking if changes are significant..."
-            
-            # Check if this is just ordering/formatting differences
-            SIGNIFICANT_CHANGES=$(git diff types/database.ts | grep -E "^[+-]" | grep -v -E "^[+-]{3}" | grep -E "^[+-][^+-]" | grep -v -E "^\s*[+-]\s*$" | wc -l)
-            
-            if [ "$SIGNIFICANT_CHANGES" -gt 10 ]; then
-              echo "❌ Significant changes detected in generated types!"
-            echo "Please run 'npm run generate-types' locally and commit the changes."
+
+          # Check if types have changed
+          if ! git diff --quiet types/database.ts; then
+            echo "⚠️ Types differ from committed version"
             echo ""
             echo "Changes detected:"
-            git diff types/database.ts
+            git diff --stat types/database.ts
+            echo ""
+            echo "❌ Generated types are out of date!"
+            echo "Please run 'npm run generate-types' locally and commit the changes."
+            echo ""
+            echo "To fix this:"
+            echo "1. Run: npm run generate-types"
+            echo "2. Run: git add types/database.ts"
+            echo "3. Run: git commit -m 'fix: update database types'"
+            echo "4. Push your changes"
             exit 1
-            else
-              echo "✅ Only minor formatting differences detected (likely function argument ordering)"
-              echo "This is normal with Supabase type generation. Updating types..."
-              git config --local user.email "action@github.com"
-              git config --local user.name "GitHub Action"
-              git add types/database.ts
-              git commit -m "ci: normalize generated types formatting [skip ci]" || echo "No changes to commit"
-            fi
           else
           echo "✅ Generated types are up to date"
           fi
