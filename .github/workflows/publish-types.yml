@@ -131,17 +131,18 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
+            const version = '${{ steps.version.outputs.new_version }}';
             const { data: issue } = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `📦 Types Package v${{ steps.version.outputs.new_version }} Published`,
+              title: `📦 Types Package v${version} Published`,
               body: `## 🎉 New TypeScript Types Published!
 
             The database types have been automatically updated and published to NPM.
 
             ### 📋 Details
-            - **Version**: \`v${{ steps.version.outputs.new_version }}\`
-            - **NPM Package**: \`@everylanguage/shared-types@${{ steps.version.outputs.new_version }}\`
+            - **Version**: \`v${version}\`
+            - **NPM Package**: \`@everylanguage/shared-types@${version}\`
             - **Generated from**: Production database schema
             - **Published at**: ${new Date().toISOString()}
 
