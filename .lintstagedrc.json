@@ -1,5 +1,5 @@
 {
   "*.{ts,js}": ["eslint --fix", "prettier --write"],
   "*.{json,md,yml,yaml}": ["prettier --write"],
-  "*.sql": ["sql-formatter --config .sqlformatterrc.json --write"]
+  "*.sql": ["sql-formatter --config .sqlformatterrc.json --fix"]
 }

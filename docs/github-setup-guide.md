@@ -57,6 +57,21 @@ Click **New repository secret** and add each of these:
 3. Go to **General** tab
 4. Copy the **Reference ID** (usually a short string like `abcdefghijk`)
 
+#### 3. NPM_TOKEN
+
+- **Name**: `NPM_TOKEN`
+- **Value**: Your NPM automation token
+
+**How to get this:**
+
+1. Go to [NPM website](https://www.npmjs.com) and login
+2. Click your profile picture (top right)
+3. Select **Access Tokens**
+4. Click **Create New Token**
+5. Choose **Automation** type (for CI/CD)
+6. Give it a name like "EL Backend Types Publishing"
+7. Copy the token (starts with `npm_`)
+
 > ⚠️ **Important**: You'll need a production Supabase project for deployment. If you only have local development set up, you can add these secrets later when you create your production project.
 
 ## 🛡️ Step 3: Set Up Branch Protection Rules
@@ -157,6 +172,10 @@ Once you have production Supabase set up:
 1. **Merge your test PR** (this will trigger deployment)
 2. **Go to Actions tab** and watch the Deploy workflow
 3. **Verify deployment succeeded**
+4. **Watch NPM Publishing** (triggers after successful deployment)
+   - Go to Actions → "Publish Types Package"
+   - Verify types are published to NPM
+   - Check GitHub Releases for new version
 
 ## ⚙️ Step 5: Configure Additional Settings
 

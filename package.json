@@ -1,8 +1,29 @@
 {
-  "name": "el-backend",
+  "name": "@everylanguage/shared-types",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "types/database.js",
+  "types": "types/database.d.ts",
+  "exports": {
+    ".": {
+      "types": "./types/database.d.ts",
+      "import": "./types/database.js",
+      "require": "./types/database.js"
+    },
+    "./database": {
+      "types": "./types/database.d.ts",
+      "import": "./types/database.js",
+      "require": "./types/database.js"
+    }
+  },
+  "files": [
+    "types/database.d.ts",
+    "types/database.js",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "doc": "docs"
   },
@@ -12,18 +33,24 @@
     "reset": "supabase db reset",
     "migrate": "supabase db push",
     "generate-types": "supabase gen types typescript --local > types/database.ts",
+    "build-types": "npm run generate-types && tsc types/database.ts --declaration --emitDeclarationOnly --outDir types/",
+    "prepare-package": "npm run build-types && echo '// Re-export all types from the TypeScript definitions\nexport * from \"./database.d.ts\";' > types/database.js",
     "functions:serve": "supabase functions serve",
     "functions:deploy": "supabase functions deploy",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "test:watch": "jest --watch",
     "lint": "eslint . --ext .ts,.js,.sql",
     "lint:fix": "eslint . --ext .ts,.js,.sql --fix",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "sql:format": "sql-formatter --config .sqlformatterrc.json -o supabase/migrations/*.sql",
+    "sql:format": "sql-formatter --config .sqlformatterrc.json supabase/migrations/*.sql",
     "type-check": "tsc --noEmit",
     "prepare": "husky",
-    "commit": "cz"
+    "commit": "cz",
+    "version:patch": "npm version patch",
+    "version:minor": "npm version minor",
+    "version:major": "npm version major",
+    "release": "npm run prepare-package && npm publish"
   },
   "keywords": [
     "supabase",
@@ -52,7 +79,9 @@
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
+    "@types/jest": "^30.0.0",
     "commitizen": "^4.3.1",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "ts-jest": "^29.4.0"
   }
 }

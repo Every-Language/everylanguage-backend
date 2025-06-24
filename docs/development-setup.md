@@ -1,328 +1,111 @@
-# Development Setup
+# Development Setup Guide
 
-This document covers the complete development environment setup for the EL Backend project.
+Quick guide to get started developing on the EL Backend project.
 
-## 🏗️ Project Architecture
-
-The EL Backend is built using:
-
-- **Supabase** - Backend-as-a-Service with PostgreSQL, Auth, and Edge Functions
-- **TypeScript** - Type-safe development
-- **Modern tooling** - ESLint v9+, Prettier, Jest, Husky
-
-## 📦 Configuration Overview
-
-### TypeScript Configuration (`tsconfig.json`)
-
-- **Target**: ES2022 for modern JavaScript features
-- **Module Resolution**: Bundler (optimized for modern tooling)
-- **Strict Mode**: Enabled for maximum type safety
-- **Path Aliases**: Clean imports with `@/` prefixes
-- **Supabase Optimized**: Configured for Edge Functions development
-
-```typescript
-// Example of path aliases in use
-import { Database } from '@/types/database';
-import { processAudio } from '@/functions/audio-processing';
-```
-
-### ESLint Configuration (`eslint.config.js`)
-
-- **Version**: ESLint v9+ with flat config format (future-proof)
-- **TypeScript**: Full TypeScript support with advanced rules
-- **Environment-Specific Rules**:
-  - **Edge Functions**: Deno environment with relaxed console rules
-  - **Tests**: Jest globals and relaxed type checking
-  - **Config Files**: Node.js environment
-- **Code Quality**: Async/await best practices, optional chaining enforcement
-
-### Prettier Configuration (`.prettierrc`)
-
-- **Consistent Formatting**: 80-character line width, single quotes
-- **Modern Standards**: Trailing commas, arrow function formatting
-- **Intelligent Ignores**: Generated files, dependencies, SQL files
-
-### SQL Formatter (`.sqlformatterrc.json`)
-
-- **PostgreSQL Optimized**: Supabase-specific formatting
-- **Professional Standards**: Uppercase keywords, proper indentation
-- **Migration Ready**: Consistent formatting for version control
-
-### Jest Configuration (`jest.config.js`)
-
-- **TypeScript Support**: Full TS compilation with ts-jest
-- **ES Modules**: Compatible with modern module system
-- **Coverage**: 70% threshold for branches, functions, lines, statements
-- **Supabase Testing**: Mock client and Edge Function support
-- **Path Aliases**: Matching TypeScript configuration
-
-## 🚀 Available Scripts
-
-### Development Commands
+## 🚀 Quick Start
 
 ```bash
-npm run dev              # Start Supabase locally
-npm run stop             # Stop Supabase
-npm run reset            # Reset local database
-npm run migrate          # Push migrations to database
-npm run generate-types   # Generate TypeScript types from schema
+git clone <repo-url>
+cd el-backend
+npm install
+cp .env.example .env.local  # Fill in your environment variables
+npm run dev                 # Start Supabase locally
 ```
 
-### Function Development
+**Ready to develop!** 🎉
+
+## 📋 Prerequisites
+
+- **Node.js 18+** - [Download here](https://nodejs.org/)
+- **Docker Desktop** - Required for local Supabase
+- **Git** - For version control
+
+## 🛠️ Essential Commands
+
+| Command                  | Purpose                    |
+| ------------------------ | -------------------------- |
+| `npm run dev`            | Start local Supabase       |
+| `npm run migrate`        | Apply database migrations  |
+| `npm run generate-types` | Generate TypeScript types  |
+| `npm test`               | Run tests                  |
+| `npm run lint`           | Check code quality         |
+| `npm run commit`         | Create conventional commit |
+
+## 🗄️ Database Development
+
+### Creating Migrations
 
 ```bash
-npm run functions:serve  # Serve Edge Functions locally
-npm run functions:deploy # Deploy Edge Functions
+supabase migration new your_feature_name
+# Edit the migration file in supabase/migrations/
+npm run migrate                # Apply locally
+npm run generate-types         # Update types
 ```
 
-### Code Quality
+### Edge Functions
 
 ```bash
-npm run lint            # Check code with ESLint
-npm run lint:fix        # Auto-fix linting issues
-npm run format          # Format code with Prettier
-npm run format:check    # Check formatting without changes
-npm run type-check      # Verify TypeScript types
-```
-
-### Testing
-
-```bash
-npm test               # Run all tests
-npm run test:watch     # Run tests in watch mode
-```
-
-### SQL Development
-
-```bash
-npm run sql:format     # Format SQL migration files
-```
-
-### Git Workflow
-
-```bash
-npm run commit         # Conventional commits with Commitizen
+supabase functions new your-function-name
+npm run functions:serve        # Test locally
+npm run functions:deploy       # Deploy to production
 ```
 
 ## 🔧 Development Workflow
 
-### 1. Starting Development
+1. **Start development:** `npm run dev`
+2. **Make changes** to code/schema
+3. **Test locally:** `npm test && npm run lint`
+4. **Commit:** `npm run commit` (uses conventional commits)
+5. **Push:** Git push triggers CI/CD automatically
 
-```bash
-# Clone and setup
-git clone <repo-url>
-cd el-backend
-npm install
+## 🏗️ Project Architecture
 
-# Setup environment
-cp .env.example .env.local
-# Fill in your environment variables
+- **TypeScript** - Type-safe development
+- **Supabase** - PostgreSQL database + auth + Edge Functions
+- **ESLint v9+** - Modern linting with flat config
+- **Jest** - Testing framework
+- **Husky** - Git hooks for quality checks
 
-# Start development
-npm run dev
-```
-
-### 2. Making Changes
-
-```bash
-# Create feature branch
-git checkout -b feature/your-feature
-
-# Make changes...
-# Code will be automatically linted and formatted on commit
-
-# Commit changes
-npm run commit
-# Follow the prompts for conventional commits
-
-# Push and create PR
-git push origin feature/your-feature
-```
-
-### 3. Database Changes
-
-```bash
-# Create migration
-supabase migration new your_migration_name
-
-# Edit the migration file in supabase/migrations/
-# Apply migration
-npm run migrate
-
-# Generate updated types
-npm run generate-types
-```
-
-### 4. Edge Functions
-
-```bash
-# Create new function
-supabase functions new your-function-name
-
-# Serve locally for testing
-npm run functions:serve
-
-# Deploy to production
-npm run functions:deploy your-function-name
-```
-
-## 🧪 Testing Setup
-
-### Test Structure
-
-```
-tests/
-├── setup.ts           # Global test configuration
-├── env.setup.js       # Environment setup
-├── __mocks__/         # Mock implementations
-└── integration/       # Integration tests
-```
-
-### Writing Tests
-
-```typescript
-// Example test file: tests/audio-processing.test.ts
-import { mockSupabaseClient } from './setup';
-
-describe('Audio Processing', () => {
-  it('should process audio file', async () => {
-    // Test implementation
-    expect(result).toBeDefined();
-  });
-});
-```
-
-### Test Utilities
-
-- **Mock Supabase Client**: Pre-configured for testing
-- **Environment Variables**: Automatically set for test environment
-- **Coverage Reports**: Generated in `coverage/` directory
-
-## 🔍 Code Quality Standards
-
-### TypeScript Best Practices
-
-- Use strict type checking
-- Avoid `any` type (warnings enforced)
-- Use optional chaining (`?.`) and nullish coalescing (`??`)
-- Explicit return types for complex functions
-
-### ESLint Rules
-
-- **Async/Await**: Enforce proper promise handling
-- **Imports**: Sorted imports for consistency
-- **TypeScript**: Advanced type checking rules
-- **Code Style**: Consistent formatting with Prettier
-
-### SQL Standards
-
-- **Uppercase Keywords**: `SELECT`, `FROM`, `WHERE`
-- **Consistent Indentation**: 2 spaces
-- **Semicolons**: Required at end of statements
-- **Line Length**: 80 characters for readability
-
-## 🌍 Environment Configuration
-
-### Local Development (`.env.local`)
-
-```env
-# Supabase Local
-SUPABASE_URL=http://127.0.0.1:54321
-SUPABASE_ANON_KEY=your_local_anon_key
-SUPABASE_SERVICE_ROLE_KEY=your_local_service_key
-
-# External Services
-BACKBLAZE_B2_APPLICATION_KEY_ID=your_key_id
-BACKBLAZE_B2_APPLICATION_KEY=your_key
-BACKBLAZE_B2_BUCKET_NAME=your_bucket
-
-# AI Services
-OPENAI_API_KEY=your_openai_key
-```
-
-### Testing Environment
-
-Tests automatically use:
-
-- Local Supabase instance (127.0.0.1:54321)
-- Mock external API calls
-- Isolated test database
-
-## 🚨 Troubleshooting
+## 🔍 Troubleshooting
 
 ### Common Issues
 
-**ESLint Errors:**
-
 ```bash
-# Fix most issues automatically
+# Reset local database
+npm run stop && npm run reset && npm run dev
+
+# Fix linting issues
 npm run lint:fix
 
-# Check specific file
-npx eslint path/to/file.ts
-```
-
-**TypeScript Errors:**
-
-```bash
-# Check types without emitting
-npm run type-check
-
-# Generate fresh types from database
+# Regenerate types if out of sync
 npm run generate-types
-```
 
-**Formatting Issues:**
-
-```bash
-# Format all files
-npm run format
-
-# Check what needs formatting
-npm run format:check
-```
-
-**Test Failures:**
-
-```bash
-# Run tests with verbose output
-npm test -- --verbose
-
-# Run specific test file
-npm test -- tests/specific-test.test.ts
-```
-
-**Supabase Issues:**
-
-```bash
-# Reset everything
-npm run stop
-npm run reset
-
-# Check status
+# Check Supabase status
 supabase status
 ```
 
-## 📚 Additional Resources
+### CI/CD Failures
 
-- [Supabase Documentation](https://supabase.com/docs)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [ESLint Rules](https://eslint.org/docs/rules/)
-- [Jest Testing Framework](https://jestjs.io/docs/getting-started)
-- [Prettier Configuration](https://prettier.io/docs/en/configuration.html)
+- Check GitHub Actions logs for detailed errors
+- Ensure all tests pass locally before pushing
+- Verify types are up to date after schema changes
 
-## 🤝 Contributing
+## 📚 Next Steps
 
-1. Follow the conventional commit format
-2. Ensure all tests pass: `npm test`
-3. Check code quality: `npm run lint`
-4. Verify formatting: `npm run format:check`
-5. Update documentation for new features
-6. Add tests for new functionality
+- Read [Schema Changes Guide](./schema-changes-guide.md) for database workflow
+- Check [CI/CD Pipeline](./ci-cd-pipeline.md) for automation details
+- Start with the [Project Setup Checklist](./project-setup-checklist.md) for next priorities
 
-## 📝 Notes
+## 🆘 Getting Help
 
-- **ES Modules**: Project uses ES modules (`"type": "module"`)
-- **Node.js**: Requires Node.js 18+ for optimal compatibility
-- **Docker**: Required for local Supabase development
-- **Git Hooks**: Automatically run quality checks on commit
+- **Quick fixes:** Try the troubleshooting section above
+- **CI issues:** Check GitHub Actions logs
+- **Database problems:** Review Supabase local logs
+- **Team questions:** Create GitHub issue or ask in team chat
+
+---
+
+**Environment URLs:**
+
+- **Local Supabase:** http://127.0.0.1:54321 (API) | http://127.0.0.1:54323 (Studio)
+- **Production:** https://mmcvtfxzntimcjfncdea.supabase.co

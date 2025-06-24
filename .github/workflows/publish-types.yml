@@ -1,0 +1,160 @@
+name: Publish Types Package
+
+on:
+  # Trigger on successful deploy to main (after schema changes)
+  workflow_run:
+    workflows: ['Deploy']
+    types:
+      - completed
+    branches: [main]
+
+  # Allow manual triggering for immediate publishing
+  workflow_dispatch:
+    inputs:
+      version_bump:
+        description: 'Version bump type'
+        required: true
+        default: 'patch'
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && (github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch')
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # Need full history for version bumping
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Setup Supabase CLI
+        uses: supabase/setup-cli@v1
+        with:
+          version: latest
+
+      - name: Link to Supabase project
+        run: supabase link --project-ref ${{ secrets.SUPABASE_PROJECT_REF }}
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Generate types from production
+        run: |
+          echo "🔄 Generating types from production database..."
+          supabase gen types typescript > types/database.ts
+          echo "✅ Types generated successfully"
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Check if types have changed
+        id: check_changes
+        run: |
+          if git diff --quiet types/database.ts; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No changes detected in database types"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📝 Changes detected in database types"
+            git diff --stat types/database.ts
+          fi
+
+      - name: Configure Git
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Bump version and prepare package
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          # Determine version bump type
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            VERSION_TYPE="${{ github.event.inputs.version_bump }}"
+          else
+            # Auto-determine based on commit messages since last tag
+            if git log $(git describe --tags --abbrev=0)..HEAD --oneline | grep -q "BREAKING CHANGE\|feat!"; then
+              VERSION_TYPE="major"
+            elif git log $(git describe --tags --abbrev=0)..HEAD --oneline | grep -q "feat:"; then
+              VERSION_TYPE="minor"
+            else
+              VERSION_TYPE="patch"
+            fi
+          fi
+
+          echo "🏷️ Bumping $VERSION_TYPE version..."
+          npm run version:$VERSION_TYPE
+
+          echo "📦 Preparing package..."
+          npm run prepare-package
+
+          # Get the new version for output
+          NEW_VERSION=$(node -p "require('./package.json').version")
+          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+        id: version
+
+      - name: Commit updated types
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git add types/database.ts types/database.d.ts types/database.js
+          git commit -m "chore: update database types for v${{ steps.version.outputs.new_version }}"
+
+      - name: Push changes
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: git push --follow-tags
+
+      - name: Publish to NPM
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          echo "🚀 Publishing @everylanguage/shared-types@${{ steps.version.outputs.new_version }} to NPM..."
+          npm publish
+          echo "✅ Package published successfully!"
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Create GitHub Release
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.version.outputs.new_version }}
+          release_name: Types Package v${{ steps.version.outputs.new_version }}
+          body: |
+            🎉 New version of @everylanguage/shared-types published!
+
+            ## Changes
+            - Updated database types to match latest schema
+
+            ## Installation
+            ```bash
+            npm install @everylanguage/shared-types@${{ steps.version.outputs.new_version }}
+            ```
+
+            ## Usage
+            ```typescript
+            import { Database } from '@everylanguage/shared-types';
+            ```
+          draft: false
+          prerelease: false
+
+      - name: Summary
+        if: steps.check_changes.outputs.changed == 'false' && github.event_name != 'workflow_dispatch'
+        run: |
+          echo "ℹ️ No database schema changes detected. Package publishing skipped."
+          echo "To manually publish, trigger this workflow with the 'workflow_dispatch' event."
