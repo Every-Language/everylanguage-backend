@@ -110,7 +110,7 @@ jobs:
           npm run version:$VERSION_TYPE
 
           echo "📦 Preparing package..."
-          npm run prepare-package
+          npm run prepare-package:ci
 
           # Get the new version for output
           NEW_VERSION=$(node -p "require('./package.json').version")
