@@ -73,11 +73,11 @@ jobs:
             
             if [ "$SIGNIFICANT_CHANGES" -gt 10 ]; then
               echo "❌ Significant changes detected in generated types!"
-              echo "Please run 'npm run generate-types' locally and commit the changes."
-              echo ""
-              echo "Changes detected:"
-              git diff types/database.ts
-              exit 1
+            echo "Please run 'npm run generate-types' locally and commit the changes."
+            echo ""
+            echo "Changes detected:"
+            git diff types/database.ts
+            exit 1
             else
               echo "✅ Only minor formatting differences detected (likely function argument ordering)"
               echo "This is normal with Supabase type generation. Updating types..."
@@ -87,7 +87,7 @@ jobs:
               git commit -m "ci: normalize generated types formatting [skip ci]" || echo "No changes to commit"
             fi
           else
-            echo "✅ Generated types are up to date"
+          echo "✅ Generated types are up to date"
           fi
 
       - name: Stop Supabase
