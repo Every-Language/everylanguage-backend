@@ -87,10 +87,14 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             VERSION_TYPE="${{ github.event.inputs.version_bump }}"
           else
-            # Auto-determine based on commit messages since last tag
-            if git log $(git describe --tags --abbrev=0)..HEAD --oneline | grep -q "BREAKING CHANGE\|feat!"; then
+            # Auto-determine based on commit messages since last tag (handle no tags case)
+            LAST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+            if [ -z "$LAST_TAG" ]; then
+              echo "ℹ️ No previous tags found, defaulting to patch version"
+              VERSION_TYPE="patch"
+            elif git log $LAST_TAG..HEAD --oneline | grep -q "BREAKING CHANGE\|feat!"; then
               VERSION_TYPE="major"
-            elif git log $(git describe --tags --abbrev=0)..HEAD --oneline | grep -q "feat:"; then
+            elif git log $LAST_TAG..HEAD --oneline | grep -q "feat:"; then
               VERSION_TYPE="minor"
             else
               VERSION_TYPE="patch"
@@ -98,6 +102,11 @@ jobs:
           fi
 
           echo "🏷️ Bumping $VERSION_TYPE version..."
+
+          # Commit the generated types first so npm version has a clean working directory
+          git add types/database.ts
+          git commit -m "chore: update generated database types"
+
           npm run version:$VERSION_TYPE
 
           echo "📦 Preparing package..."
