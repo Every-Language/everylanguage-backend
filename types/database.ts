@@ -17,10 +17,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          query?: string
           operationName?: string
-          variables?: Json
           extensions?: Json
+          variables?: Json
+          query?: string
         }
         Returns: Json
       }
@@ -206,6 +206,36 @@ export type Database = {
             referencedColumns: ["id"]
           },
         ]
+      }
+      workflow_test_v2: {
+        Row: {
+          created_at: string | null
+          description: string | null
+          id: string
+          name: string
+          test_status: string | null
+          updated_at: string | null
+          workflow_version: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          name: string
+          test_status?: string | null
+          updated_at?: string | null
+          workflow_version?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          name?: string
+          test_status?: string | null
+          updated_at?: string | null
+          workflow_version?: string | null
+        }
+        Relationships: []
       }
     }
     Views: {
