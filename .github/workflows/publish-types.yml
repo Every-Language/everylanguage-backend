@@ -26,13 +26,20 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && (github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch')
 
+    # Grant permissions for the workflow to push back to the repo
+    permissions:
+      contents: write
+      packages: write
+      pull-requests: read
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           # Need full history for version bumping
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # persist-credentials: true allows pushing back to repo
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
