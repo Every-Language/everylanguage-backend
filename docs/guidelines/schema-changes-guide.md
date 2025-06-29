@@ -313,54 +313,6 @@ Common problems:
 - **Version already published**: Let workflow auto-bump version
 - **Permission denied**: Check NPM_TOKEN secret in GitHub
 
-## 📱 Impact on Applications
-
-### React Native Apps
-
-After types are published, teams update:
-
-```bash
-npm update @everylanguage/shared-types
-```
-
-```typescript
-// New types automatically available
-import { Database } from '@everylanguage/shared-types';
-
-type AudioSegment = Database['public']['Tables']['audio_segments']['Row'];
-
-// Use in Supabase queries
-const { data: segments } = await supabase
-  .from('audio_segments')
-  .select('*')
-  .eq('recording_id', recordingId);
-```
-
-### Web Dashboards
-
-```typescript
-import { Database } from '@everylanguage/shared-types';
-
-// Analytics dashboard gets new data types
-type SegmentAnalytics = {
-  segments: Database['public']['Tables']['audio_segments']['Row'][];
-  totalDuration: number;
-  avgConfidence: number;
-};
-```
-
-### Edge Functions
-
-```typescript
-import { Database } from '@everylanguage/shared-types';
-
-export async function processAudioSegments(
-  recordingId: string
-): Promise<Database['public']['Tables']['audio_segments']['Row'][]> {
-  // Type-safe Edge Function implementation
-}
-```
-
 ## 📚 Migration Examples
 
 ### Adding a New Table
@@ -422,23 +374,3 @@ CREATE INDEX idx_recordings_search
     ON recordings
     USING GIN(to_tsvector('english', title || ' ' || description));
 ```
-
-## 🎯 Next Steps
-
-After reading this guide:
-
-1. **Practice**: Try making a simple schema change
-2. **Watch**: Monitor the CI/CD pipeline in action
-3. **Collaborate**: Coordinate with app teams on major changes
-4. **Document**: Update this guide with new patterns you discover
-
-## 🆘 Getting Help
-
-- **Schema Questions**: Ask in `#backend-dev` channel
-- **CI/CD Issues**: Check GitHub Actions logs
-- **NPM Problems**: Review package publishing logs
-- **RLS Help**: Test policies in Supabase Studio
-
----
-
-**Remember**: Every schema change affects multiple applications. Plan changes carefully and communicate with all teams! 🚀
