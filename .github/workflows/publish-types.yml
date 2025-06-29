@@ -94,10 +94,13 @@ jobs:
         run: |
           echo "🔍 Checking existing versions on NPM..."
 
-          # Get all published versions from NPM
+          # Get all published versions from NPM and compact to single line
           NPM_VERSIONS=$(npm view @everylanguage/shared-types versions --json 2>/dev/null || echo "[]")
           echo "Published versions: $NPM_VERSIONS"
-          echo "npm_versions=$NPM_VERSIONS" >> $GITHUB_OUTPUT
+
+          # Convert to single line JSON for GitHub Actions output
+          NPM_VERSIONS_COMPACT=$(echo "$NPM_VERSIONS" | tr -d '\n' | tr -s ' ')
+          echo "npm_versions=$NPM_VERSIONS_COMPACT" >> $GITHUB_OUTPUT
 
       - name: Determine next version
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
