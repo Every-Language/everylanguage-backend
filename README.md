@@ -298,29 +298,3 @@ npm run type-check
 # Run CI checks locally
 npm run lint && npm run format:check && npm run type-check && npm test
 ```
-
-## 📚 Documentation
-
-- [Development Setup](./docs/development-setup.md)
-- [CI/CD Pipeline](./docs/ci-cd-pipeline.md)
-- [GitHub Setup Guide](./docs/github-setup-guide.md)
-- [Project Setup Checklist](./docs/project-setup-checklist.md)
-
-## 🤝 Contributing
-
-1. Read the [GitHub Setup Guide](./docs/github-setup-guide.md)
-2. Follow the development workflow above
-3. Ensure all CI checks pass
-4. Request review from team members
-5. Keep PRs small and focused
-
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- Check [troubleshooting section](#-troubleshooting) above
-- Review documentation in `docs/` folder
-- Create an issue for bugs or feature requests
-- Ask team members for help with setup

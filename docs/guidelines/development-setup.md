@@ -1,18 +1,31 @@
 # Development Setup Guide
 
-Quick guide to get started developing on the EL Backend project.
-
 ## 🚀 Quick Start
 
 ```bash
 git clone <repo-url>
 cd el-backend
 npm install
-cp .env.example .env.local  # Fill in your environment variables
 npm run dev                 # Start Supabase locally
 ```
 
-**Ready to develop!** 🎉
+## 🌐 Development Environments
+
+We use **three environments** for development and deployment:
+
+- **Local**: Your machine (`npm run dev`) - Individual development
+- **Development**: Shared environment - Integration testing
+- **Production**: Live environment - Real users
+
+### Environment Workflow
+
+```bash
+feature/your-feature → Local Development (your machine)
+        ↓
+develop branch → Development Environment (shared testing)
+        ↓
+main branch → Production Environment (live users)
+```
 
 ## 📋 Prerequisites
 
@@ -31,6 +44,8 @@ npm run dev                 # Start Supabase locally
 | `npm run lint`           | Check code quality         |
 | `npm run commit`         | Create conventional commit |
 
+These are all for local development. Type generation for production is handled by CD.
+
 ## 🗄️ Database Development
 
 ### Creating Migrations
@@ -39,7 +54,7 @@ npm run dev                 # Start Supabase locally
 supabase migration new your_feature_name
 # Edit the migration file in supabase/migrations/
 npm run migrate                # Apply locally
-npm run generate-types         # Update types
+npm run generate-types         # Update types for local testing
 ```
 
 ### Edge Functions
@@ -47,44 +62,64 @@ npm run generate-types         # Update types
 ```bash
 supabase functions new your-function-name
 npm run functions:serve        # Test locally
-npm run functions:deploy       # Deploy to production
 ```
 
 ## 🔧 Development Workflow
 
-1. **Start development:** `npm run dev`
-2. **Make changes** to code/schema
-3. **Test locally:** `npm test && npm run lint`
-4. **Commit:** `npm run commit` (uses conventional commits)
-5. **Push:** Git push triggers CI/CD automatically
+### **Feature Development**
 
-## 🏗️ Project Architecture
+1. **Create feature branch from develop:**
 
-- **TypeScript** - Type-safe development
-- **Supabase** - PostgreSQL database + auth + Edge Functions
-- **ESLint v9+** - Modern linting with flat config
-- **Jest** - Testing framework
-- **Husky** - Git hooks for quality checks
+   ```bash
+   git checkout develop
+   git pull origin develop
+   git checkout -b feature/your-awesome-feature
+   ```
 
-## 🔍 Troubleshooting
+2. **Develop locally:**
 
-### Common Issues
+   ```bash
+   npm run dev                # Start local Supabase
+   # Make your changes...
+   npm test && npm run lint   # Test locally
+   ```
+
+3. **Push feature branch:**
+
+   ```bash
+   git add .
+   git commit -m "feat: add awesome feature"
+   git push origin feature/your-awesome-feature
+   # → ✅ Runs CI (tests, lint, type-check)
+   # → ❌ No deployment (feature branches don't deploy)
+   ```
+
+4. **Create PR to develop:**
+
+   ```bash
+   gh pr create --base develop --title "Add awesome feature"
+   # → 👀 Code review and discussion
+   ```
+
+5. **Merge to develop:**
+
+   ```bash
+   gh pr merge --squash
+   # → 🚀 Auto-deploys to Development environment
+   # → 🌱 Seeds test data automatically
+   ```
+
+6. **Test in shared environment:**
+   - Development URL: `https://your-dev-project.supabase.co`
+   - Test users: `john.admin@test.com / test123456`, etc.
+
+### **Production Release**
+
+When ready to release to production:
 
 ```bash
-# Reset local database
-npm run stop && npm run reset && npm run dev
-
-# Fix linting issues
-npm run lint:fix
-
-# Regenerate types if out of sync
-npm run generate-types
-
-# Check Supabase status
-supabase status
+git checkout main
+git merge develop
+git push origin main
+# → 🚀 Auto-deploys to Production environment
 ```
-
-**Environment URLs:**
-
-- **Local Supabase:** http://127.0.0.1:54321 (API) | http://127.0.0.1:54323 (Studio)
-- **Production:** https://mmcvtfxzntimcjfncdea.supabase.co

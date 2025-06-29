@@ -1,24 +1,24 @@
-# Improved CI/CD Workflow (Branch Protection Compatible)
+# CI/CD Pipeline
 
-This document explains the improved CI/CD workflow that works with manual review requirements and branch protection rules.
+Automated deployment pipeline for the EL Backend project with three-environment strategy.
 
-## 🎯 Overview
+## 🏗️ Pipeline Overview
 
-The improved workflow eliminates the need to commit generated types back to the main branch, avoiding branch protection conflicts while still maintaining full automation.
+Our CI/CD pipeline uses a **three-environment strategy** for safe and efficient development:
 
-## 🔄 How It Works Now
-
-### New Improved Approach
-
-```mermaid
-graph TD
-    A[Deploy to Production] --> B[Publish Types Workflow]
-    B --> C[Generate Types from Production]
-    C --> D[Version Bump & NPM Publish]
-    D --> E[Create GitHub Release]
-    E --> F[Create Notification Issue]
-    F --> G[✅ Complete! No Branch Protection Issues]
+```bash
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│  Local Dev      │    │  Development    │    │   Production    │
+│  (Your Machine) │ →  │  (Shared)       │ →  │   (Live)        │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+ feature branches       develop branch          main branch
 ```
+
+### **Branch → Environment Mapping:**
+
+- **Feature Branches** (`feature/*`, `hotfix/*`) → CI only (no deployment)
+- **Develop Branch** → Development Environment + Test data
+- **Main Branch** → Production Environment
 
 ## 📋 Workflow Steps
 
@@ -28,12 +28,20 @@ graph TD
 - Tests code quality and database migrations
 - Verifies types are up to date with local schema
 
-### 2. **Deploy Workflow** (`deploy.yml`)
+### 2. **Deploy Workflow**
+
+(`deploy-dev.yml`)
+
+- Runs when code is merged to `develop`
+- Deploys database migrations to development supabase project
+- Deploys Edge Functions (if any)
+- ✅ **No longer generates types** (eliminated redundancy)
+
+`deploy-prod.yml`
 
 - Runs when code is merged to `main`
 - Deploys database migrations to production
 - Deploys Edge Functions (if any)
-- ✅ **No longer generates types** (eliminated redundancy)
 
 ### 3. **Publish Types Workflow** (`publish-types.yml`)
 
@@ -42,7 +50,6 @@ graph TD
 - Publishes directly to NPM
 - Creates GitHub releases
 - Creates notification issues
-- ✅ **No commits back to main** (avoids branch protection)
 
 ## 📱 Team Workflow
 

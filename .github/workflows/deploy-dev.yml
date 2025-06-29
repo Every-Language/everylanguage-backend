@@ -1,0 +1,55 @@
+name: Deploy to Development
+
+on:
+  push:
+    branches: [develop]
+
+jobs:
+  deploy-dev:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/develop'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Setup Supabase CLI
+        uses: supabase/setup-cli@v1
+        with:
+          version: latest
+
+      - name: Link to Development project
+        run: supabase link --project-ref ${{ secrets.SUPABASE_DEV_PROJECT_REF }}
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Deploy database migrations to Development
+        run: supabase db push --password ${{ secrets.SUPABASE_DEV_DB_PASSWORD }}
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Deploy Edge Functions to Development (if any exist)
+        run: |
+          if [ -d "supabase/functions" ] && [ "$(ls -A supabase/functions)" ]; then
+            echo "Deploying Edge Functions to Development..."
+            supabase functions deploy
+          else
+            echo "No Edge Functions to deploy"
+          fi
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Verify development deployment success
+        run: |
+          echo "✅ Database migrations deployed to development project successfully"
+          echo "🔄 Dev types must be published manually"
+          echo "🚀 Development environment updated"

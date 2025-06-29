@@ -3,7 +3,7 @@ name: Publish Types Package
 on:
   # Trigger on successful deploy to main (after schema changes)
   workflow_run:
-    workflows: ['Deploy']
+    workflows: ['Deploy to Production']
     types:
       - completed
     branches: [main]
@@ -58,7 +58,7 @@ jobs:
           version: latest
 
       - name: Link to Supabase project
-        run: supabase link --project-ref ${{ secrets.SUPABASE_PROJECT_REF }}
+        run: supabase link --project-ref ${{ secrets.SUPABASE_PROD_PROJECT_REF }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 

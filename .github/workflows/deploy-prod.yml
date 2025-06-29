@@ -1,11 +1,11 @@
-name: Deploy
+name: Deploy to Production
 
 on:
   push:
     branches: [main]
 
 jobs:
-  deploy:
+  deploy-production:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
 
@@ -18,20 +18,20 @@ jobs:
         with:
           version: latest
 
-      - name: Link to Supabase project
-        run: supabase link --project-ref ${{ secrets.SUPABASE_PROJECT_REF }}
+      - name: Link to Supabase Production project
+        run: supabase link --project-ref ${{ secrets.SUPABASE_PROD_PROJECT_REF }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Deploy database migrations
-        run: supabase db push --password ${{ secrets.SUPABASE_DB_PASSWORD }}
+      - name: Deploy database migrations to production supabase project
+        run: supabase db push --password ${{ secrets.SUPABASE_PROD_DB_PASSWORD }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Deploy Edge Functions (if any exist)
+      - name: Deploy Edge Functions to production supabase project (if any exist)
         run: |
           if [ -d "supabase/functions" ] && [ "$(ls -A supabase/functions)" ]; then
-            echo "Deploying Edge Functions..."
+            echo "Deploying Edge Functions to production supabase project..."
             supabase functions deploy
           else
             echo "No Edge Functions to deploy"
@@ -39,7 +39,8 @@ jobs:
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Verify deployment success
+      - name: Verify Production deployment success
         run: |
-          echo "✅ Database migrations deployed successfully"
+          echo "✅ Database migrations deployed to Production successfully"
           echo "🔄 Type publishing will be handled by the separate publish workflow"
+          echo "🚀 Production environment updated"
