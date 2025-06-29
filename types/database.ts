@@ -1,3 +1,4 @@
+
 export type Json =
   | string
   | number
@@ -18,9 +19,9 @@ export type Database = {
       graphql: {
         Args: {
           operationName?: string
-          extensions?: Json
-          variables?: Json
           query?: string
+          variables?: Json
+          extensions?: Json
         }
         Returns: Json
       }
@@ -34,206 +35,243 @@ export type Database = {
   }
   public: {
     Tables: {
-      analytics_events: {
+      bases: {
         Row: {
           created_at: string | null
-          device_info: Json | null
-          event_data: Json | null
-          event_type: string
           id: string
-          session_id: string | null
-          user_id: string | null
-        }
-        Insert: {
-          created_at?: string | null
-          device_info?: Json | null
-          event_data?: Json | null
-          event_type: string
-          id?: string
-          session_id?: string | null
-          user_id?: string | null
-        }
-        Update: {
-          created_at?: string | null
-          device_info?: Json | null
-          event_data?: Json | null
-          event_type?: string
-          id?: string
-          session_id?: string | null
-          user_id?: string | null
-        }
-        Relationships: []
-      }
-      audio_recordings: {
-        Row: {
-          audio_file_url: string
-          created_at: string | null
-          description: string | null
-          duration_seconds: number | null
-          id: string
-          original_language: string
-          status: string | null
-          target_language: string
-          title: string
-          updated_at: string | null
-          user_id: string | null
-        }
-        Insert: {
-          audio_file_url: string
-          created_at?: string | null
-          description?: string | null
-          duration_seconds?: number | null
-          id?: string
-          original_language: string
-          status?: string | null
-          target_language: string
-          title: string
-          updated_at?: string | null
-          user_id?: string | null
-        }
-        Update: {
-          audio_file_url?: string
-          created_at?: string | null
-          description?: string | null
-          duration_seconds?: number | null
-          id?: string
-          original_language?: string
-          status?: string | null
-          target_language?: string
-          title?: string
-          updated_at?: string | null
-          user_id?: string | null
-        }
-        Relationships: []
-      }
-      npm_test_projects: {
-        Row: {
-          created_at: string | null
-          description: string | null
-          id: string
+          location: unknown | null
           name: string
-          status: string | null
+          region_id: string | null
           updated_at: string | null
         }
         Insert: {
           created_at?: string | null
-          description?: string | null
           id?: string
+          location?: unknown | null
           name: string
-          status?: string | null
+          region_id?: string | null
           updated_at?: string | null
         }
         Update: {
           created_at?: string | null
-          description?: string | null
           id?: string
+          location?: unknown | null
           name?: string
-          status?: string | null
+          region_id?: string | null
           updated_at?: string | null
         }
         Relationships: []
       }
-      profiles: {
+      bases_teams: {
         Row: {
-          avatar_url: string | null
+          base_id: string
           created_at: string | null
-          email: string
-          full_name: string | null
           id: string
+          role_id: string
+          team_id: string
           updated_at: string | null
-          user_id: string | null
         }
         Insert: {
-          avatar_url?: string | null
+          base_id: string
           created_at?: string | null
-          email: string
-          full_name?: string | null
           id?: string
+          role_id: string
+          team_id: string
           updated_at?: string | null
-          user_id?: string | null
         }
         Update: {
-          avatar_url?: string | null
+          base_id?: string
           created_at?: string | null
-          email?: string
-          full_name?: string | null
           id?: string
+          role_id?: string
+          team_id?: string
           updated_at?: string | null
-          user_id?: string | null
-        }
-        Relationships: []
-      }
-      translation_segments: {
-        Row: {
-          confidence_score: number | null
-          created_at: string | null
-          end_time_seconds: number
-          id: string
-          original_text: string | null
-          recording_id: string | null
-          speaker_id: string | null
-          start_time_seconds: number
-          translated_text: string | null
-        }
-        Insert: {
-          confidence_score?: number | null
-          created_at?: string | null
-          end_time_seconds: number
-          id?: string
-          original_text?: string | null
-          recording_id?: string | null
-          speaker_id?: string | null
-          start_time_seconds: number
-          translated_text?: string | null
-        }
-        Update: {
-          confidence_score?: number | null
-          created_at?: string | null
-          end_time_seconds?: number
-          id?: string
-          original_text?: string | null
-          recording_id?: string | null
-          speaker_id?: string | null
-          start_time_seconds?: number
-          translated_text?: string | null
         }
         Relationships: [
           {
-            foreignKeyName: "translation_segments_recording_id_fkey"
-            columns: ["recording_id"]
+            foreignKeyName: "bases_teams_base_id_fkey"
+            columns: ["base_id"]
             isOneToOne: false
-            referencedRelation: "audio_recordings"
+            referencedRelation: "bases"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "bases_teams_role_id_fkey"
+            columns: ["role_id"]
+            isOneToOne: false
+            referencedRelation: "roles"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "bases_teams_team_id_fkey"
+            columns: ["team_id"]
+            isOneToOne: false
+            referencedRelation: "teams"
             referencedColumns: ["id"]
           },
         ]
       }
-      workflow_test_v2: {
+      permissions: {
+        Row: {
+          allow_deny: boolean
+          context_id: string | null
+          context_type: string
+          created_at: string | null
+          description: string
+          id: string
+          role_id: string
+          updated_at: string | null
+        }
+        Insert: {
+          allow_deny?: boolean
+          context_id?: string | null
+          context_type: string
+          created_at?: string | null
+          description: string
+          id?: string
+          role_id: string
+          updated_at?: string | null
+        }
+        Update: {
+          allow_deny?: boolean
+          context_id?: string | null
+          context_type?: string
+          created_at?: string | null
+          description?: string
+          id?: string
+          role_id?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "permissions_role_id_fkey"
+            columns: ["role_id"]
+            isOneToOne: false
+            referencedRelation: "roles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      roles: {
         Row: {
           created_at: string | null
-          description: string | null
           id: string
           name: string
-          test_status: string | null
           updated_at: string | null
-          workflow_version: string | null
         }
         Insert: {
           created_at?: string | null
-          description?: string | null
           id?: string
           name: string
-          test_status?: string | null
           updated_at?: string | null
-          workflow_version?: string | null
         }
         Update: {
           created_at?: string | null
-          description?: string | null
           id?: string
           name?: string
-          test_status?: string | null
           updated_at?: string | null
-          workflow_version?: string | null
+        }
+        Relationships: []
+      }
+      teams: {
+        Row: {
+          created_at: string | null
+          id: string
+          name: string
+          type: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string
+          name: string
+          type?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          id?: string
+          name?: string
+          type?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
+      user_roles: {
+        Row: {
+          context_id: string | null
+          context_type: string | null
+          created_at: string | null
+          id: string
+          role_id: string
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          context_id?: string | null
+          context_type?: string | null
+          created_at?: string | null
+          id?: string
+          role_id: string
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          context_id?: string | null
+          context_type?: string | null
+          created_at?: string | null
+          id?: string
+          role_id?: string
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_roles_role_id_fkey"
+            columns: ["role_id"]
+            isOneToOne: false
+            referencedRelation: "roles"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_roles_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      users: {
+        Row: {
+          auth_uid: string
+          created_at: string | null
+          email: string
+          first_name: string | null
+          id: string
+          last_name: string | null
+          phone_number: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          auth_uid: string
+          created_at?: string | null
+          email: string
+          first_name?: string | null
+          id?: string
+          last_name?: string | null
+          phone_number?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          auth_uid?: string
+          created_at?: string | null
+          email?: string
+          first_name?: string | null
+          id?: string
+          last_name?: string | null
+          phone_number?: string | null
+          updated_at?: string | null
         }
         Relationships: []
       }
@@ -366,4 +404,3 @@ export const Constants = {
     Enums: {},
   },
 } as const
-
