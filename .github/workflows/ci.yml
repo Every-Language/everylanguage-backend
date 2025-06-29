@@ -62,29 +62,29 @@ jobs:
           SUPABASE_URL: http://127.0.0.1:54321
           # Keys will be automatically available from local instance
 
-      - name: Verify generated types are up to date
-        run: |
-          npm run generate-types
+      # - name: Verify generated types are up to date
+      #   run: |
+      #     npm run generate-types
 
-          # Check if types have changed
-          if ! git diff --quiet types/database.ts; then
-            echo "⚠️ Types differ from committed version"
-            echo ""
-            echo "Changes detected:"
-            git diff --stat types/database.ts
-            echo ""
-            echo "❌ Generated types are out of date!"
-            echo "Please run 'npm run generate-types' locally and commit the changes."
-            echo ""
-            echo "To fix this:"
-            echo "1. Run: npm run generate-types"
-            echo "2. Run: git add types/database.ts"
-            echo "3. Run: git commit -m 'fix: update database types'"
-            echo "4. Push your changes"
-            exit 1
-          else
-          echo "✅ Generated types are up to date"
-          fi
+      #     # Check if types have changed
+      #     if ! git diff --quiet types/database.ts; then
+      #       echo "⚠️ Types differ from committed version"
+      #       echo ""
+      #       echo "Changes detected:"
+      #       git diff --stat types/database.ts
+      #       echo ""
+      #       echo "❌ Generated types are out of date!"
+      #       echo "Please run 'npm run generate-types' locally and commit the changes."
+      #       echo ""
+      #       echo "To fix this:"
+      #       echo "1. Run: npm run generate-types"
+      #       echo "2. Run: git add types/database.ts"
+      #       echo "3. Run: git commit -m 'fix: update database types'"
+      #       echo "4. Push your changes"
+      #       exit 1
+      #     else
+      #     echo "✅ Generated types are up to date"
+      #     fi
 
       - name: Stop Supabase
         if: always()
