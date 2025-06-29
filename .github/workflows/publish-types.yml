@@ -272,8 +272,7 @@ jobs:
         run: |
           echo "🏷️ Pushing version tags..."
           git push --tags
-          git push origin main
-          echo "✅ Tags and commits pushed successfully"
+          echo "✅ Tags pushed successfully"
 
       - name: Publish to NPM
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
