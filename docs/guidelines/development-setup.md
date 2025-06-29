@@ -84,27 +84,6 @@ npm run generate-types
 supabase status
 ```
 
-### CI/CD Failures
-
-- Check GitHub Actions logs for detailed errors
-- Ensure all tests pass locally before pushing
-- Verify types are up to date after schema changes
-
-## 📚 Next Steps
-
-- Read [Schema Changes Guide](./schema-changes-guide.md) for database workflow
-- Check [CI/CD Pipeline](./ci-cd-pipeline.md) for automation details
-- Start with the [Project Setup Checklist](./project-setup-checklist.md) for next priorities
-
-## 🆘 Getting Help
-
-- **Quick fixes:** Try the troubleshooting section above
-- **CI issues:** Check GitHub Actions logs
-- **Database problems:** Review Supabase local logs
-- **Team questions:** Create GitHub issue or ask in team chat
-
----
-
 **Environment URLs:**
 
 - **Local Supabase:** http://127.0.0.1:54321 (API) | http://127.0.0.1:54323 (Studio)
