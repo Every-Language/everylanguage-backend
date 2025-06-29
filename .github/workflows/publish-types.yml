@@ -88,9 +88,25 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Bump version and prepare package
+      - name: Check NPM for existing versions
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        id: check_npm
         run: |
+          echo "🔍 Checking existing versions on NPM..."
+
+          # Get all published versions from NPM
+          NPM_VERSIONS=$(npm view @everylanguage/shared-types versions --json 2>/dev/null || echo "[]")
+          echo "Published versions: $NPM_VERSIONS"
+          echo "npm_versions=$NPM_VERSIONS" >> $GITHUB_OUTPUT
+
+      - name: Determine next version
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        id: version_calc
+        run: |
+          # Get current version from package.json
+          CURRENT_VERSION=$(node -p "require('./package.json').version")
+          echo "Current package.json version: $CURRENT_VERSION"
+
           # Determine version bump type
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             VERSION_TYPE="${{ github.event.inputs.version_bump }}"
@@ -109,20 +125,93 @@ jobs:
             fi
           fi
 
-          echo "🏷️ Bumping $VERSION_TYPE version..."
+          echo "Version bump type: $VERSION_TYPE"
+
+          # Calculate what the next version would be
+          case $VERSION_TYPE in
+            "major")
+              NEXT_VERSION=$(node -p "
+                const v = require('./package.json').version.split('.');
+                \`\${parseInt(v[0]) + 1}.0.0\`;
+              ")
+              ;;
+            "minor")
+              NEXT_VERSION=$(node -p "
+                const v = require('./package.json').version.split('.');
+                \`\${v[0]}.\${parseInt(v[1]) + 1}.0\`;
+              ")
+              ;;
+            "patch")
+              NEXT_VERSION=$(node -p "
+                const v = require('./package.json').version.split('.');
+                \`\${v[0]}.\${v[1]}.\${parseInt(v[2]) + 1}\`;
+              ")
+              ;;
+          esac
+
+          echo "Calculated next version: $NEXT_VERSION"
+
+          # Check if this version already exists on NPM
+          NPM_VERSIONS='${{ steps.check_npm.outputs.npm_versions }}'
+          if echo "$NPM_VERSIONS" | grep -q "\"$NEXT_VERSION\""; then
+            echo "⚠️ Version $NEXT_VERSION already exists on NPM"
+            
+            # Find the next available patch version
+            BASE_VERSION=$(echo $NEXT_VERSION | cut -d. -f1-2)
+            PATCH_VERSION=$(echo $NEXT_VERSION | cut -d. -f3)
+            
+            while echo "$NPM_VERSIONS" | grep -q "\"${BASE_VERSION}.${PATCH_VERSION}\""; do
+              PATCH_VERSION=$((PATCH_VERSION + 1))
+              echo "Trying version ${BASE_VERSION}.${PATCH_VERSION}..."
+            done
+            
+            NEXT_VERSION="${BASE_VERSION}.${PATCH_VERSION}"
+            echo "🎯 Using next available version: $NEXT_VERSION"
+          fi
+
+          # Check if git tag already exists
+          if git tag -l | grep -q "^v$NEXT_VERSION$"; then
+            echo "⚠️ Git tag v$NEXT_VERSION already exists"
+            
+            # Find next available version for git as well
+            BASE_VERSION=$(echo $NEXT_VERSION | cut -d. -f1-2)
+            PATCH_VERSION=$(echo $NEXT_VERSION | cut -d. -f3)
+            
+            while git tag -l | grep -q "^v${BASE_VERSION}.${PATCH_VERSION}$"; do
+              PATCH_VERSION=$((PATCH_VERSION + 1))
+              echo "Trying git tag v${BASE_VERSION}.${PATCH_VERSION}..."
+            done
+            
+            NEXT_VERSION="${BASE_VERSION}.${PATCH_VERSION}"
+            echo "🎯 Using next available version for git: $NEXT_VERSION"
+          fi
+
+          echo "final_version=$NEXT_VERSION" >> $GITHUB_OUTPUT
+          echo "version_type=$VERSION_TYPE" >> $GITHUB_OUTPUT
+          echo "🎉 Final version to use: $NEXT_VERSION"
+
+      - name: Bump version and prepare package
+        if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          TARGET_VERSION="${{ steps.version_calc.outputs.final_version }}"
+          echo "🏷️ Setting version to $TARGET_VERSION..."
 
           # Commit the generated types first so npm version has a clean working directory
           git add types/database.ts
           git commit -m "chore: update generated database types"
 
-          npm run version:$VERSION_TYPE
+          # Manually set the version in package.json and package-lock.json
+          npm version $TARGET_VERSION --no-git-tag-version
+
+          # Create the git tag manually
+          git add package.json package-lock.json
+          git commit -m "chore: bump version to $TARGET_VERSION"
+          git tag -a "v$TARGET_VERSION" -m "v$TARGET_VERSION"
 
           echo "📦 Preparing package..."
           npm run prepare-package:ci
 
-          # Get the new version for output
-          NEW_VERSION=$(node -p "require('./package.json').version")
-          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "new_version=$TARGET_VERSION" >> $GITHUB_OUTPUT
         id: version
 
       - name: Create notification issue for type updates
@@ -145,7 +234,7 @@ jobs:
               '',
               '### 🔄 What happened',
               '1. ✅ Types generated from production database',
-              '2. ✅ Version automatically bumped',
+              '2. ✅ Version automatically bumped (with conflict resolution)',
               '3. ✅ Package published to NPM',
               '4. ✅ GitHub release created',
               '',
@@ -180,15 +269,24 @@ jobs:
         run: |
           echo "🏷️ Pushing version tags..."
           git push --tags
-          echo "✅ Tags pushed successfully"
+          git push origin main
+          echo "✅ Tags and commits pushed successfully"
 
       - name: Publish to NPM
         if: steps.check_changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
-          echo "🚀 Publishing @everylanguage/shared-types@${{ steps.version.outputs.new_version }} to NPM..."
-          npm publish --access public
-          echo "✅ Package published successfully!"
-          echo "📦 NPM Package: https://www.npmjs.com/package/@everylanguage/shared-types"
+          VERSION="${{ steps.version.outputs.new_version }}"
+          echo "🚀 Publishing @everylanguage/shared-types@$VERSION to NPM..."
+
+          # Double-check version doesn't exist on NPM before publishing
+          if npm view @everylanguage/shared-types@$VERSION version >/dev/null 2>&1; then
+            echo "⚠️ Version $VERSION already exists on NPM, skipping publish"
+            echo "This shouldn't happen with our conflict detection, but being safe!"
+          else
+            npm publish --access public
+            echo "✅ Package published successfully!"
+            echo "📦 NPM Package: https://www.npmjs.com/package/@everylanguage/shared-types"
+          fi
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
