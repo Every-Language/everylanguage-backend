@@ -3,7 +3,7 @@ name: Publish Types Package
 on:
   # Trigger on successful deploy to main (after schema changes)
   workflow_run:
-    workflows: ['Deploy']
+    workflows: ['Deploy to Production']
     types:
       - completed
     branches: [main]

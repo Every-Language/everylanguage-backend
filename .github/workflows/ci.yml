@@ -1,11 +1,11 @@
 name: CI
 
 on:
-  pull_request:
-    branches: [main, develop]
-  # Only run on push to non-main branches (development branches)
+  # Run CI on feature branches only (not main or develop)
   push:
-    branches-ignore: [main]
+    branches-ignore: [main, develop]
+  pull_request:
+    branches: [develop, main]
 
 jobs:
   lint-and-test:
