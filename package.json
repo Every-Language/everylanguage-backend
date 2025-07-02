@@ -35,6 +35,7 @@
     "generate-types": "supabase gen types typescript --local > types/database.ts",
     "build-types": "tsc types/database.ts --declaration --emitDeclarationOnly --outDir types/",
     "prepare-package": "npm run build-types && echo '// Re-export all types from the TypeScript definitions\nexport * from \"./database.d.ts\";' > types/database.js",
+    "seed:language-region": "psql -h localhost -p 54322 -U postgres -d postgres -f supabase/seed/language_region_seed.sql",
     "prepare-package:ci": "npm run build-types && echo '// Re-export all types from the TypeScript definitions\nexport * from \"./database.d.ts\";' > types/database.js",
     "functions:serve": "supabase functions serve",
     "functions:deploy": "supabase functions deploy",

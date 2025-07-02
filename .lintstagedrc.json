@@ -1,5 +1,6 @@
 {
   "*.{ts,js}": ["eslint --fix", "prettier --write"],
   "*.{json,md,yml,yaml}": ["prettier --write"],
-  "*.sql": ["sql-formatter --config .sqlformatterrc.json --fix"]
+  "*.sql": "bash -c 'for file in \"$@\"; do sql-formatter --config .sqlformatterrc.json --fix \"$file\"; done' bash",
+  "types/database.{ts,d.ts,js}": []
 }
