@@ -223,12 +223,6 @@ WHERE
   location IS NOT NULL;
 
 
--- Spatial-temporal index for advanced heatmap queries
-CREATE INDEX idx_media_listens_geo_temporal ON media_file_listens USING gist (location, listened_at)
-WHERE
-  location IS NOT NULL;
-
-
 -- Verse listens indexes
 CREATE INDEX idx_verse_listens_anon_user_id ON verse_listens (anon_user_id);
 
@@ -370,12 +364,3 @@ comment ON COLUMN media_file_listens.position_seconds IS 'Playback position when
 
 
 comment ON COLUMN media_file_listens.duration_seconds IS 'Duration of listening session in seconds';
-
-
-comment ON function get_listening_heatmap IS 'Generate heatmap data for language listening patterns with geographic clustering';
-
-
-comment ON function get_language_distribution_by_region IS 'Get language listening distribution across geographic regions';
-
-
-comment ON function get_clustered_listening_data IS 'Get clustered listening data for efficient heatmap visualization';
