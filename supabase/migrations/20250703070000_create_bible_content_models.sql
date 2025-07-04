@@ -142,7 +142,7 @@ CREATE TABLE media_files (
   file_size BIGINT CHECK (file_size > 0),
   duration_seconds INTEGER CHECK (duration_seconds > 0),
   upload_status upload_status DEFAULT 'pending',
-  publish_status publish_status DEFAULT 'draft',
+  publish_status publish_status DEFAULT 'pending',
   check_status check_status DEFAULT 'pending',
   version INTEGER DEFAULT 1,
   created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
@@ -380,36 +380,81 @@ ADD CONSTRAINT valid_verse_range CHECK (
 );
 
 
--- Add computed columns for efficient ordering and querying
+-- Add simple computed columns for efficient ordering and querying
+-- Books can use book_number directly
 ALTER TABLE books
 ADD COLUMN global_order BIGINT generated always AS (book_number) stored;
 
 
+-- For chapters and verses, we'll use triggers to maintain the computed values
+-- since PostgreSQL doesn't allow subqueries in generated columns
 ALTER TABLE chapters
-ADD COLUMN global_order BIGINT generated always AS (
-  (
-    SELECT
-      book_number
-    FROM
-      books
-    WHERE
-      id = book_id
-  ) * 1000 + chapter_number
-) stored;
+ADD COLUMN global_order BIGINT;
 
 
 ALTER TABLE verses
-ADD COLUMN global_order BIGINT generated always AS (
-  (
-    SELECT
-      (b.book_number * 1000000) + (c.chapter_number * 1000) + verse_number
-    FROM
-      chapters c
-      JOIN books b ON c.book_id = b.id
-    WHERE
-      c.id = chapter_id
-  )
-) stored;
+ADD COLUMN global_order BIGINT;
+
+
+-- Function to update chapter global order
+CREATE OR REPLACE FUNCTION update_chapter_global_order () returns trigger AS $$
+BEGIN
+  NEW.global_order = (
+    SELECT book_number * 1000 + NEW.chapter_number
+    FROM books 
+    WHERE id = NEW.book_id
+  );
+  RETURN NEW;
+END;
+$$ language plpgsql;
+
+
+-- Function to update verse global order
+CREATE OR REPLACE FUNCTION update_verse_global_order () returns trigger AS $$
+BEGIN
+  NEW.global_order = (
+    SELECT (b.book_number * 1000000) + (c.chapter_number * 1000) + NEW.verse_number
+    FROM chapters c
+    JOIN books b ON c.book_id = b.id
+    WHERE c.id = NEW.chapter_id
+  );
+  RETURN NEW;
+END;
+$$ language plpgsql;
+
+
+-- Triggers to maintain global order
+CREATE TRIGGER chapter_global_order_trigger before insert
+OR
+UPDATE ON chapters FOR each ROW
+EXECUTE function update_chapter_global_order ();
+
+
+CREATE TRIGGER verse_global_order_trigger before insert
+OR
+UPDATE ON verses FOR each ROW
+EXECUTE function update_verse_global_order ();
+
+
+-- Function to update all existing records (run after initial data load)
+CREATE OR REPLACE FUNCTION refresh_all_global_orders () returns void AS $$
+BEGIN
+  -- Update chapters
+  UPDATE chapters SET global_order = (
+    SELECT book_number * 1000 + chapter_number
+    FROM books
+    WHERE id = book_id
+  );
+  
+  -- Update verses  
+  UPDATE verses SET global_order = (
+    SELECT (b.book_number * 1000000) + (c.chapter_number * 1000) + verse_number
+    FROM chapters c
+    JOIN books b ON c.book_id = b.id
+    WHERE c.id = chapter_id
+  );
+END;
+$$ language plpgsql;
 
 
 -- ============================================================================

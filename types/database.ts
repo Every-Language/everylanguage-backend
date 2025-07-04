@@ -17,10 +17,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          query?: string
           extensions?: Json
-          variables?: Json
           operationName?: string
+          query?: string
+          variables?: Json
         }
         Returns: Json
       }
@@ -34,6 +34,63 @@ export type Database = {
   }
   public: {
     Tables: {
+      app_downloads: {
+        Row: {
+          anon_user_id: string | null
+          app_version: string
+          created_at: string | null
+          device_id: string
+          id: string
+          installed_at: string | null
+          location: unknown | null
+          os: string | null
+          os_version: string | null
+          platform: Database["public"]["Enums"]["platform_type"]
+          source_share_id: string | null
+        }
+        Insert: {
+          anon_user_id?: string | null
+          app_version: string
+          created_at?: string | null
+          device_id: string
+          id?: string
+          installed_at?: string | null
+          location?: unknown | null
+          os?: string | null
+          os_version?: string | null
+          platform: Database["public"]["Enums"]["platform_type"]
+          source_share_id?: string | null
+        }
+        Update: {
+          anon_user_id?: string | null
+          app_version?: string
+          created_at?: string | null
+          device_id?: string
+          id?: string
+          installed_at?: string | null
+          location?: unknown | null
+          os?: string | null
+          os_version?: string | null
+          platform?: Database["public"]["Enums"]["platform_type"]
+          source_share_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "app_downloads_anon_user_id_fkey"
+            columns: ["anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "app_downloads_source_share_id_fkey"
+            columns: ["source_share_id"]
+            isOneToOne: false
+            referencedRelation: "shares"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       bases: {
         Row: {
           created_at: string | null
@@ -106,6 +163,106 @@ export type Database = {
             columns: ["team_id"]
             isOneToOne: false
             referencedRelation: "teams"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      bible_versions: {
+        Row: {
+          created_at: string | null
+          id: string
+          name: string
+          structure_notes: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string
+          name: string
+          structure_notes?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          id?: string
+          name?: string
+          structure_notes?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
+      books: {
+        Row: {
+          bible_version_id: string
+          book_number: number
+          created_at: string | null
+          global_order: number | null
+          id: string
+          name: string
+          updated_at: string | null
+        }
+        Insert: {
+          bible_version_id: string
+          book_number: number
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          name: string
+          updated_at?: string | null
+        }
+        Update: {
+          bible_version_id?: string
+          book_number?: number
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          name?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "books_bible_version_id_fkey"
+            columns: ["bible_version_id"]
+            isOneToOne: false
+            referencedRelation: "bible_versions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      chapters: {
+        Row: {
+          book_id: string
+          chapter_number: number
+          created_at: string | null
+          global_order: number | null
+          id: string
+          total_verses: number
+          updated_at: string | null
+        }
+        Insert: {
+          book_id: string
+          chapter_number: number
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          total_verses: number
+          updated_at?: string | null
+        }
+        Update: {
+          book_id?: string
+          chapter_number?: number
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          total_verses?: number
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "chapters_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "books"
             referencedColumns: ["id"]
           },
         ]
@@ -375,6 +532,379 @@ export type Database = {
           },
         ]
       }
+      media_file_listens: {
+        Row: {
+          anon_user_id: string
+          connectivity: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at: string | null
+          device_id: string
+          duration_seconds: number
+          id: string
+          language_entity_id: string
+          listened_at: string | null
+          location: unknown | null
+          media_file_id: string
+          position_seconds: number
+          session_id: string
+        }
+        Insert: {
+          anon_user_id: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id: string
+          duration_seconds: number
+          id?: string
+          language_entity_id: string
+          listened_at?: string | null
+          location?: unknown | null
+          media_file_id: string
+          position_seconds: number
+          session_id: string
+        }
+        Update: {
+          anon_user_id?: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id?: string
+          duration_seconds?: number
+          id?: string
+          language_entity_id?: string
+          listened_at?: string | null
+          location?: unknown | null
+          media_file_id?: string
+          position_seconds?: number
+          session_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "media_file_listens_anon_user_id_fkey"
+            columns: ["anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_file_listens_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_file_listens_media_file_id_fkey"
+            columns: ["media_file_id"]
+            isOneToOne: false
+            referencedRelation: "media_files"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_file_listens_session_id_fkey"
+            columns: ["session_id"]
+            isOneToOne: false
+            referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      media_files: {
+        Row: {
+          check_status: Database["public"]["Enums"]["check_status"] | null
+          created_at: string | null
+          created_by: string | null
+          deleted_at: string | null
+          duration_seconds: number | null
+          file_size: number | null
+          id: string
+          language_entity_id: string
+          local_path: string | null
+          media_type: Database["public"]["Enums"]["media_type"]
+          project_id: string | null
+          publish_status: Database["public"]["Enums"]["publish_status"] | null
+          remote_path: string | null
+          updated_at: string | null
+          upload_status: Database["public"]["Enums"]["upload_status"] | null
+          version: number | null
+        }
+        Insert: {
+          check_status?: Database["public"]["Enums"]["check_status"] | null
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          duration_seconds?: number | null
+          file_size?: number | null
+          id?: string
+          language_entity_id: string
+          local_path?: string | null
+          media_type: Database["public"]["Enums"]["media_type"]
+          project_id?: string | null
+          publish_status?: Database["public"]["Enums"]["publish_status"] | null
+          remote_path?: string | null
+          updated_at?: string | null
+          upload_status?: Database["public"]["Enums"]["upload_status"] | null
+          version?: number | null
+        }
+        Update: {
+          check_status?: Database["public"]["Enums"]["check_status"] | null
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          duration_seconds?: number | null
+          file_size?: number | null
+          id?: string
+          language_entity_id?: string
+          local_path?: string | null
+          media_type?: Database["public"]["Enums"]["media_type"]
+          project_id?: string | null
+          publish_status?: Database["public"]["Enums"]["publish_status"] | null
+          remote_path?: string | null
+          updated_at?: string | null
+          upload_status?: Database["public"]["Enums"]["upload_status"] | null
+          version?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "media_files_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      media_files_tags: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          id: string
+          media_file_id: string
+          tag_id: string
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          media_file_id: string
+          tag_id: string
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          media_file_id?: string
+          tag_id?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "media_files_tags_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_tags_media_file_id_fkey"
+            columns: ["media_file_id"]
+            isOneToOne: false
+            referencedRelation: "media_files"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_tags_tag_id_fkey"
+            columns: ["tag_id"]
+            isOneToOne: false
+            referencedRelation: "tags"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      media_files_targets: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          deleted_at: string | null
+          id: string
+          is_bible_audio: boolean | null
+          media_file_id: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          is_bible_audio?: boolean | null
+          media_file_id: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          is_bible_audio?: boolean | null
+          media_file_id?: string
+          target_id?: string
+          target_type?: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "media_files_targets_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_targets_media_file_id_fkey"
+            columns: ["media_file_id"]
+            isOneToOne: false
+            referencedRelation: "media_files"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      media_files_verses: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          deleted_at: string | null
+          duration_seconds: number
+          id: string
+          media_file_id: string
+          start_time_seconds: number
+          updated_at: string | null
+          verse_id: string
+          verse_text_id: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          duration_seconds: number
+          id?: string
+          media_file_id: string
+          start_time_seconds: number
+          updated_at?: string | null
+          verse_id: string
+          verse_text_id?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          duration_seconds?: number
+          id?: string
+          media_file_id?: string
+          start_time_seconds?: number
+          updated_at?: string | null
+          verse_id?: string
+          verse_text_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "media_files_verses_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_media_file_id_fkey"
+            columns: ["media_file_id"]
+            isOneToOne: false
+            referencedRelation: "media_files"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_verse_text_id_fkey"
+            columns: ["verse_text_id"]
+            isOneToOne: false
+            referencedRelation: "verse_texts"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      passages: {
+        Row: {
+          book_id: string
+          created_at: string | null
+          created_by: string | null
+          end_verse_id: string
+          id: string
+          start_verse_id: string
+          updated_at: string | null
+        }
+        Insert: {
+          book_id: string
+          created_at?: string | null
+          created_by?: string | null
+          end_verse_id: string
+          id?: string
+          start_verse_id: string
+          updated_at?: string | null
+        }
+        Update: {
+          book_id?: string
+          created_at?: string | null
+          created_by?: string | null
+          end_verse_id?: string
+          id?: string
+          start_verse_id?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "passages_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "books"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_end_verse_id_fkey"
+            columns: ["end_verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_start_verse_id_fkey"
+            columns: ["start_verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       permissions: {
         Row: {
           allow_deny: boolean
@@ -412,6 +942,186 @@ export type Database = {
             columns: ["role_id"]
             isOneToOne: false
             referencedRelation: "roles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      playlist_groups: {
+        Row: {
+          created_at: string | null
+          description: string | null
+          id: string
+          title: string
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          title: string
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          created_at?: string | null
+          description?: string | null
+          id?: string
+          title?: string
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "playlist_groups_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      playlist_items: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          id: string
+          order_index: number
+          playlist_id: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          order_index: number
+          playlist_id: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          order_index?: number
+          playlist_id?: string
+          target_id?: string
+          target_type?: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "playlist_items_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "playlist_items_playlist_id_fkey"
+            columns: ["playlist_id"]
+            isOneToOne: false
+            referencedRelation: "playlists"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      playlists: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          description: string | null
+          id: string
+          title: string
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          description?: string | null
+          id?: string
+          title: string
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          description?: string | null
+          id?: string
+          title?: string
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "playlists_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "playlists_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      playlists_playlist_groups: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          id: string
+          index: number
+          playlist_group_id: string
+          playlist_id: string
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          index: number
+          playlist_group_id: string
+          playlist_id: string
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          index?: number
+          playlist_group_id?: string
+          playlist_id?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "playlists_playlist_groups_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "playlists_playlist_groups_playlist_group_id_fkey"
+            columns: ["playlist_group_id"]
+            isOneToOne: false
+            referencedRelation: "playlist_groups"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "playlists_playlist_groups_playlist_id_fkey"
+            columns: ["playlist_id"]
+            isOneToOne: false
+            referencedRelation: "playlists"
             referencedColumns: ["id"]
           },
         ]
@@ -660,6 +1370,205 @@ export type Database = {
         }
         Relationships: []
       }
+      sessions: {
+        Row: {
+          anon_user_id: string
+          app_version: string
+          connectivity: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at: string | null
+          device_id: string
+          ended_at: string | null
+          id: string
+          location: unknown | null
+          os: string | null
+          os_version: string | null
+          platform: Database["public"]["Enums"]["platform_type"]
+          started_at: string | null
+        }
+        Insert: {
+          anon_user_id: string
+          app_version: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id: string
+          ended_at?: string | null
+          id?: string
+          location?: unknown | null
+          os?: string | null
+          os_version?: string | null
+          platform: Database["public"]["Enums"]["platform_type"]
+          started_at?: string | null
+        }
+        Update: {
+          anon_user_id?: string
+          app_version?: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id?: string
+          ended_at?: string | null
+          id?: string
+          location?: unknown | null
+          os?: string | null
+          os_version?: string | null
+          platform?: Database["public"]["Enums"]["platform_type"]
+          started_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "sessions_anon_user_id_fkey"
+            columns: ["anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      share_opens: {
+        Row: {
+          created_at: string | null
+          device_id: string | null
+          id: string
+          language_entity_id: string
+          location: unknown | null
+          opened_at: string | null
+          opened_by_anon_user_id: string | null
+          origin_share_id: string | null
+          session_id: string | null
+          share_id: string
+        }
+        Insert: {
+          created_at?: string | null
+          device_id?: string | null
+          id?: string
+          language_entity_id: string
+          location?: unknown | null
+          opened_at?: string | null
+          opened_by_anon_user_id?: string | null
+          origin_share_id?: string | null
+          session_id?: string | null
+          share_id: string
+        }
+        Update: {
+          created_at?: string | null
+          device_id?: string | null
+          id?: string
+          language_entity_id?: string
+          location?: unknown | null
+          opened_at?: string | null
+          opened_by_anon_user_id?: string | null
+          origin_share_id?: string | null
+          session_id?: string | null
+          share_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "share_opens_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "share_opens_opened_by_anon_user_id_fkey"
+            columns: ["opened_by_anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "share_opens_origin_share_id_fkey"
+            columns: ["origin_share_id"]
+            isOneToOne: false
+            referencedRelation: "shares"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "share_opens_session_id_fkey"
+            columns: ["session_id"]
+            isOneToOne: false
+            referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "share_opens_share_id_fkey"
+            columns: ["share_id"]
+            isOneToOne: false
+            referencedRelation: "shares"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      shares: {
+        Row: {
+          anon_user_id: string
+          created_at: string | null
+          device_id: string
+          id: string
+          language_entity_id: string
+          location: unknown | null
+          origin_share_id: string | null
+          session_id: string
+          share_entity_id: string
+          share_entity_type: Database["public"]["Enums"]["share_entity_type"]
+          shared_at: string | null
+        }
+        Insert: {
+          anon_user_id: string
+          created_at?: string | null
+          device_id: string
+          id?: string
+          language_entity_id: string
+          location?: unknown | null
+          origin_share_id?: string | null
+          session_id: string
+          share_entity_id: string
+          share_entity_type: Database["public"]["Enums"]["share_entity_type"]
+          shared_at?: string | null
+        }
+        Update: {
+          anon_user_id?: string
+          created_at?: string | null
+          device_id?: string
+          id?: string
+          language_entity_id?: string
+          location?: unknown | null
+          origin_share_id?: string | null
+          session_id?: string
+          share_entity_id?: string
+          share_entity_type?: Database["public"]["Enums"]["share_entity_type"]
+          shared_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "shares_anon_user_id_fkey"
+            columns: ["anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "shares_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "shares_origin_share_id_fkey"
+            columns: ["origin_share_id"]
+            isOneToOne: false
+            referencedRelation: "shares"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "shares_session_id_fkey"
+            columns: ["session_id"]
+            isOneToOne: false
+            referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       spatial_ref_sys: {
         Row: {
           auth_name: string | null
@@ -684,6 +1593,41 @@ export type Database = {
         }
         Relationships: []
       }
+      tags: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          id: string
+          key: string
+          updated_at: string | null
+          value: string
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          key: string
+          updated_at?: string | null
+          value: string
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          id?: string
+          key?: string
+          updated_at?: string | null
+          value?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "tags_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       teams: {
         Row: {
           created_at: string | null
@@ -707,6 +1651,166 @@ export type Database = {
           updated_at?: string | null
         }
         Relationships: []
+      }
+      text_versions: {
+        Row: {
+          bible_version_id: string
+          created_at: string | null
+          created_by: string | null
+          deleted_at: string | null
+          id: string
+          language_id: string
+          name: string
+          text_version_source:
+            | Database["public"]["Enums"]["text_version_source"]
+            | null
+          updated_at: string | null
+        }
+        Insert: {
+          bible_version_id: string
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          language_id: string
+          name: string
+          text_version_source?:
+            | Database["public"]["Enums"]["text_version_source"]
+            | null
+          updated_at?: string | null
+        }
+        Update: {
+          bible_version_id?: string
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          language_id?: string
+          name?: string
+          text_version_source?:
+            | Database["public"]["Enums"]["text_version_source"]
+            | null
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "text_versions_bible_version_id_fkey"
+            columns: ["bible_version_id"]
+            isOneToOne: false
+            referencedRelation: "bible_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "text_versions_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "text_versions_language_id_fkey"
+            columns: ["language_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_bookmark_folders: {
+        Row: {
+          color: string | null
+          created_at: string | null
+          id: string
+          name: string
+          parent_folder_id: string | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          color?: string | null
+          created_at?: string | null
+          id?: string
+          name: string
+          parent_folder_id?: string | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          color?: string | null
+          created_at?: string | null
+          id?: string
+          name?: string
+          parent_folder_id?: string | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_bookmark_folders_parent_folder_id_fkey"
+            columns: ["parent_folder_id"]
+            isOneToOne: false
+            referencedRelation: "user_bookmark_folders"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_bookmark_folders_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_bookmarks: {
+        Row: {
+          bookmark_folder_id: string | null
+          color: string | null
+          created_at: string | null
+          id: string
+          note: string | null
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          bookmark_folder_id?: string | null
+          color?: string | null
+          created_at?: string | null
+          id?: string
+          note?: string | null
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          bookmark_folder_id?: string | null
+          color?: string | null
+          created_at?: string | null
+          id?: string
+          note?: string | null
+          target_id?: string
+          target_type?: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_bookmarks_bookmark_folder_id_fkey"
+            columns: ["bookmark_folder_id"]
+            isOneToOne: false
+            referencedRelation: "user_bookmark_folders"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_bookmarks_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
       }
       user_contributions: {
         Row: {
@@ -756,6 +1860,86 @@ export type Database = {
           {
             foreignKeyName: "user_contributions_reviewed_by_fkey"
             columns: ["reviewed_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_custom_texts: {
+        Row: {
+          created_at: string | null
+          created_by: string
+          formatting: Json | null
+          id: string
+          text: string
+          updated_at: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          created_by: string
+          formatting?: Json | null
+          id?: string
+          text: string
+          updated_at?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string
+          formatting?: Json | null
+          id?: string
+          text?: string
+          updated_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_custom_texts_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_positions: {
+        Row: {
+          bookmark_folder_id: string | null
+          created_at: string | null
+          id: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          bookmark_folder_id?: string | null
+          created_at?: string | null
+          id?: string
+          target_id: string
+          target_type: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          bookmark_folder_id?: string | null
+          created_at?: string | null
+          id?: string
+          target_id?: string
+          target_type?: Database["public"]["Enums"]["target_type"]
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_positions_bookmark_folder_id_fkey"
+            columns: ["bookmark_folder_id"]
+            isOneToOne: false
+            referencedRelation: "user_bookmark_folders"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_positions_user_id_fkey"
+            columns: ["user_id"]
             isOneToOne: false
             referencedRelation: "users"
             referencedColumns: ["id"]
@@ -840,6 +2024,196 @@ export type Database = {
         }
         Relationships: []
       }
+      users_anon: {
+        Row: {
+          created_at: string | null
+          device_id: string
+          id: string
+          updated_at: string | null
+          user_id: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          device_id: string
+          id?: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          device_id?: string
+          id?: string
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "users_anon_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      verse_listens: {
+        Row: {
+          anon_user_id: string
+          connectivity: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at: string | null
+          device_id: string
+          id: string
+          language_entity_id: string
+          listened_at: string | null
+          location: unknown | null
+          session_id: string
+          verse_id: string
+        }
+        Insert: {
+          anon_user_id: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id: string
+          id?: string
+          language_entity_id: string
+          listened_at?: string | null
+          location?: unknown | null
+          session_id: string
+          verse_id: string
+        }
+        Update: {
+          anon_user_id?: string
+          connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
+          created_at?: string | null
+          device_id?: string
+          id?: string
+          language_entity_id?: string
+          listened_at?: string | null
+          location?: unknown | null
+          session_id?: string
+          verse_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_listens_anon_user_id_fkey"
+            columns: ["anon_user_id"]
+            isOneToOne: false
+            referencedRelation: "users_anon"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_listens_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_listens_session_id_fkey"
+            columns: ["session_id"]
+            isOneToOne: false
+            referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_listens_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      verse_texts: {
+        Row: {
+          created_at: string | null
+          created_by: string | null
+          deleted_at: string | null
+          id: string
+          text_version_id: string
+          updated_at: string | null
+          verse_id: string
+          verse_text: string
+        }
+        Insert: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          text_version_id: string
+          updated_at?: string | null
+          verse_id: string
+          verse_text: string
+        }
+        Update: {
+          created_at?: string | null
+          created_by?: string | null
+          deleted_at?: string | null
+          id?: string
+          text_version_id?: string
+          updated_at?: string | null
+          verse_id?: string
+          verse_text?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_texts_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_texts_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      verses: {
+        Row: {
+          chapter_id: string
+          created_at: string | null
+          global_order: number | null
+          id: string
+          updated_at: string | null
+          verse_number: number
+        }
+        Insert: {
+          chapter_id: string
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          updated_at?: string | null
+          verse_number: number
+        }
+        Update: {
+          chapter_id?: string
+          created_at?: string | null
+          global_order?: number | null
+          id?: string
+          updated_at?: string | null
+          verse_number?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verses_chapter_id_fkey"
+            columns: ["chapter_id"]
+            isOneToOne: false
+            referencedRelation: "chapters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       geography_columns: {
@@ -887,11 +2261,11 @@ export type Database = {
     }
     Functions: {
       _postgis_deprecate: {
-        Args: { newname: string; version: string; oldname: string }
+        Args: { version: string; oldname: string; newname: string }
         Returns: undefined
       }
       _postgis_index_extent: {
-        Args: { tbl: unknown; col: string }
+        Args: { col: string; tbl: unknown }
         Returns: unknown
       }
       _postgis_pgsql_version: {
@@ -903,7 +2277,7 @@ export type Database = {
         Returns: string
       }
       _postgis_selectivity: {
-        Args: { mode?: string; att_name: string; tbl: unknown; geom: unknown }
+        Args: { tbl: unknown; att_name: string; geom: unknown; mode?: string }
         Returns: number
       }
       _st_3dintersects: {
@@ -1091,8 +2465,8 @@ export type Database = {
               table_name: string
               column_name: string
             }
+          | { schema_name: string; table_name: string; column_name: string }
           | { table_name: string; column_name: string }
-          | { table_name: string; schema_name: string; column_name: string }
         Returns: string
       }
       dropgeometrytable: {
@@ -1159,7 +2533,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_above: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_analyze: {
@@ -1167,11 +2541,11 @@ export type Database = {
         Returns: boolean
       }
       geometry_below: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_cmp: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: number
       }
       geometry_contained_3d: {
@@ -1191,11 +2565,11 @@ export type Database = {
         Returns: number
       }
       geometry_distance_centroid: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: number
       }
       geometry_eq: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_ge: {
@@ -1223,7 +2597,7 @@ export type Database = {
         Returns: undefined
       }
       geometry_gt: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_hash: {
@@ -1235,7 +2609,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_le: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_left: {
@@ -1259,7 +2633,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_overlaps: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overlaps_3d: {
@@ -1271,7 +2645,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_overright: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_recv: {
@@ -1319,7 +2693,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_within: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometrytype: {
@@ -1334,6 +2708,10 @@ export type Database = {
         Args: { "": string }
         Returns: unknown
       }
+      get_chapter_global_order: {
+        Args: { chapter_uuid: string }
+        Returns: number
+      }
       get_language_entity_path: {
         Args: { entity_id: string }
         Returns: string
@@ -1345,6 +2723,10 @@ export type Database = {
       get_region_path: {
         Args: { region_id: string }
         Returns: string
+      }
+      get_verse_global_order: {
+        Args: { verse_uuid: string }
+        Returns: number
       }
       gettransactionid: {
         Args: Record<PropertyKey, never>
@@ -1441,11 +2823,11 @@ export type Database = {
         Returns: number
       }
       postgis_constraint_srid: {
-        Args: { geomcolumn: string; geomtable: string; geomschema: string }
+        Args: { geomschema: string; geomcolumn: string; geomtable: string }
         Returns: number
       }
       postgis_constraint_type: {
-        Args: { geomschema: string; geomtable: string; geomcolumn: string }
+        Args: { geomtable: string; geomcolumn: string; geomschema: string }
         Returns: string
       }
       postgis_dropbbox: {
@@ -1534,9 +2916,9 @@ export type Database = {
       }
       postgis_type_name: {
         Args: {
-          coord_dimension: number
           geomname: string
           use_new_name?: boolean
+          coord_dimension: number
         }
         Returns: string
       }
@@ -1559,6 +2941,10 @@ export type Database = {
       postgis_wagyu_version: {
         Args: Record<PropertyKey, never>
         Returns: string
+      }
+      refresh_all_global_orders: {
+        Args: Record<PropertyKey, never>
+        Returns: undefined
       }
       spheroid_in: {
         Args: { "": unknown }
@@ -1611,7 +2997,7 @@ export type Database = {
       st_angle: {
         Args:
           | { line1: unknown; line2: unknown }
-          | { pt1: unknown; pt2: unknown; pt3: unknown; pt4?: unknown }
+          | { pt2: unknown; pt1: unknown; pt4?: unknown; pt3: unknown }
         Returns: number
       }
       st_area: {
@@ -1644,14 +3030,14 @@ export type Database = {
       st_asgeojson: {
         Args:
           | { "": string }
-          | { geog: unknown; options?: number; maxdecimaldigits?: number }
-          | { geom: unknown; maxdecimaldigits?: number; options?: number }
+          | { geog: unknown; maxdecimaldigits?: number; options?: number }
           | {
-              r: Record<string, unknown>
               geom_column?: string
               maxdecimaldigits?: number
+              r: Record<string, unknown>
               pretty_bool?: boolean
             }
+          | { options?: number; geom: unknown; maxdecimaldigits?: number }
         Returns: string
       }
       st_asgml: {
@@ -1664,15 +3050,15 @@ export type Database = {
               nprefix?: string
               id?: string
             }
+          | { geom: unknown; maxdecimaldigits?: number; options?: number }
           | {
-              geog: unknown
               version: number
+              geog: unknown
               maxdecimaldigits?: number
               options?: number
               nprefix?: string
               id?: string
             }
-          | { geom: unknown; maxdecimaldigits?: number; options?: number }
           | {
               version: number
               geom: unknown
@@ -1690,8 +3076,8 @@ export type Database = {
       st_askml: {
         Args:
           | { "": string }
+          | { geog: unknown; maxdecimaldigits?: number; nprefix?: string }
           | { geom: unknown; maxdecimaldigits?: number; nprefix?: string }
-          | { maxdecimaldigits?: number; nprefix?: string; geog: unknown }
         Returns: string
       }
       st_aslatlontext: {
@@ -1735,12 +3121,12 @@ export type Database = {
               with_boxes?: boolean
             }
           | {
-              geom: unknown
-              prec?: number
-              prec_z?: number
-              prec_m?: number
               with_sizes?: boolean
               with_boxes?: boolean
+              geom: unknown
+              prec_z?: number
+              prec?: number
+              prec_m?: number
             }
         Returns: string
       }
@@ -1750,8 +3136,8 @@ export type Database = {
       }
       st_azimuth: {
         Args:
-          | { geog1: unknown; geog2: unknown }
-          | { geom1: unknown; geom2: unknown }
+          | { geog2: unknown; geog1: unknown }
+          | { geom2: unknown; geom1: unknown }
         Returns: number
       }
       st_boundary: {
@@ -1759,7 +3145,7 @@ export type Database = {
         Returns: unknown
       }
       st_boundingdiagonal: {
-        Args: { geom: unknown; fits?: boolean }
+        Args: { fits?: boolean; geom: unknown }
         Returns: unknown
       }
       st_buffer: {
@@ -1806,8 +3192,8 @@ export type Database = {
       }
       st_concavehull: {
         Args: {
-          param_geom: unknown
           param_pctconvex: number
+          param_geom: unknown
           param_allow_holes?: boolean
         }
         Returns: unknown
@@ -1845,7 +3231,7 @@ export type Database = {
         Returns: boolean
       }
       st_curvetoline: {
-        Args: { geom: unknown; toltype?: number; flags?: number; tol?: number }
+        Args: { flags?: number; geom: unknown; tol?: number; toltype?: number }
         Returns: unknown
       }
       st_delaunaytriangles: {
@@ -1866,14 +3252,14 @@ export type Database = {
       }
       st_distance: {
         Args:
-          | { geog2: unknown; geog1: unknown; use_spheroid?: boolean }
           | { geom1: unknown; geom2: unknown }
+          | { use_spheroid?: boolean; geog1: unknown; geog2: unknown }
         Returns: number
       }
       st_distancesphere: {
         Args:
           | { geom1: unknown; geom2: unknown }
-          | { geom1: unknown; geom2: unknown; radius: number }
+          | { geom2: unknown; geom1: unknown; radius: number }
         Returns: number
       }
       st_distancespheroid: {
@@ -1898,9 +3284,9 @@ export type Database = {
       }
       st_dwithin: {
         Args: {
+          tolerance: number
           geog1: unknown
           geog2: unknown
-          tolerance: number
           use_spheroid?: boolean
         }
         Returns: boolean
@@ -1919,9 +3305,9 @@ export type Database = {
       }
       st_expand: {
         Args:
-          | { box: unknown; dx: number; dy: number }
-          | { box: unknown; dx: number; dy: number; dz?: number }
-          | { geom: unknown; dx: number; dy: number; dz?: number; dm?: number }
+          | { dx: number; box: unknown; dy: number }
+          | { dx: number; box: unknown; dz?: number; dy: number }
+          | { dx: number; dy: number; dz?: number; dm?: number; geom: unknown }
         Returns: unknown
       }
       st_exteriorring: {
@@ -1937,19 +3323,19 @@ export type Database = {
         Returns: unknown
       }
       st_force3d: {
-        Args: { geom: unknown; zvalue?: number }
+        Args: { zvalue?: number; geom: unknown }
         Returns: unknown
       }
       st_force3dm: {
-        Args: { geom: unknown; mvalue?: number }
+        Args: { mvalue?: number; geom: unknown }
         Returns: unknown
       }
       st_force3dz: {
-        Args: { geom: unknown; zvalue?: number }
+        Args: { zvalue?: number; geom: unknown }
         Returns: unknown
       }
       st_force4d: {
-        Args: { geom: unknown; zvalue?: number; mvalue?: number }
+        Args: { mvalue?: number; geom: unknown; zvalue?: number }
         Returns: unknown
       }
       st_forcecollection: {
@@ -2074,7 +3460,7 @@ export type Database = {
         Returns: number
       }
       st_hexagon: {
-        Args: { cell_i: number; origin?: unknown; size: number; cell_j: number }
+        Args: { size: number; cell_i: number; cell_j: number; origin?: unknown }
         Returns: unknown
       }
       st_hexagongrid: {
@@ -2082,7 +3468,7 @@ export type Database = {
         Returns: Record<string, unknown>[]
       }
       st_interpolatepoint: {
-        Args: { point: unknown; line: unknown }
+        Args: { line: unknown; point: unknown }
         Returns: number
       }
       st_intersection: {
@@ -2151,7 +3537,7 @@ export type Database = {
         Returns: number
       }
       st_letters: {
-        Args: { font?: Json; letters: string }
+        Args: { letters: string; font?: Json }
         Returns: unknown
       }
       st_linecrossingdirection: {
@@ -2191,20 +3577,20 @@ export type Database = {
         Returns: unknown
       }
       st_locatealong: {
-        Args: { geometry: unknown; leftrightoffset?: number; measure: number }
+        Args: { geometry: unknown; measure: number; leftrightoffset?: number }
         Returns: unknown
       }
       st_locatebetween: {
         Args: {
+          geometry: unknown
           frommeasure: number
           tomeasure: number
-          geometry: unknown
           leftrightoffset?: number
         }
         Returns: unknown
       }
       st_locatebetweenelevations: {
-        Args: { toelevation: number; geometry: unknown; fromelevation: number }
+        Args: { geometry: unknown; fromelevation: number; toelevation: number }
         Returns: unknown
       }
       st_longestline: {
@@ -2387,8 +3773,8 @@ export type Database = {
         Args: {
           mcoordinate: number
           xcoordinate: number
-          srid?: number
           ycoordinate: number
+          srid?: number
         }
         Returns: unknown
       }
@@ -2402,18 +3788,18 @@ export type Database = {
       }
       st_pointz: {
         Args: {
-          zcoordinate: number
-          srid?: number
-          xcoordinate: number
           ycoordinate: number
+          srid?: number
+          zcoordinate: number
+          xcoordinate: number
         }
         Returns: unknown
       }
       st_pointzm: {
         Args: {
+          ycoordinate: number
           zcoordinate: number
           xcoordinate: number
-          ycoordinate: number
           mcoordinate: number
           srid?: number
         }
@@ -2440,16 +3826,16 @@ export type Database = {
         Returns: unknown
       }
       st_project: {
-        Args: { geog: unknown; azimuth: number; distance: number }
+        Args: { geog: unknown; distance: number; azimuth: number }
         Returns: unknown
       }
       st_quantizecoordinates: {
         Args: {
-          prec_z?: number
+          prec_y?: number
           prec_m?: number
+          prec_z?: number
           g: unknown
           prec_x: number
-          prec_y?: number
         }
         Returns: unknown
       }
@@ -2498,7 +3884,7 @@ export type Database = {
         Returns: unknown
       }
       st_square: {
-        Args: { cell_i: number; origin?: unknown; size: number; cell_j: number }
+        Args: { size: number; cell_i: number; cell_j: number; origin?: unknown }
         Returns: unknown
       }
       st_squaregrid: {
@@ -2522,7 +3908,7 @@ export type Database = {
         Returns: string
       }
       st_swapordinates: {
-        Args: { ords: unknown; geom: unknown }
+        Args: { geom: unknown; ords: unknown }
         Returns: unknown
       }
       st_symdifference: {
@@ -2535,8 +3921,8 @@ export type Database = {
       }
       st_tileenvelope: {
         Args: {
-          x: number
           zoom: number
+          x: number
           y: number
           bounds?: unknown
           margin?: number
@@ -2586,7 +3972,7 @@ export type Database = {
         Returns: unknown
       }
       st_wrapx: {
-        Args: { geom: unknown; wrap: number; move: number }
+        Args: { wrap: number; geom: unknown; move: number }
         Returns: unknown
       }
       st_x: {
@@ -2647,11 +4033,20 @@ export type Database = {
         }
         Returns: string
       }
+      validate_verse_range: {
+        Args: { end_verse_uuid: string; start_verse_uuid: string }
+        Returns: boolean
+      }
     }
     Enums: {
       change_type: "create" | "update" | "delete"
+      check_status: "pending" | "approved" | "rejected" | "requires_review"
+      connectivity_type: "wifi" | "cellular" | "offline" | "unknown"
       contribution_status: "approved" | "not_approved"
       language_entity_level: "family" | "language" | "dialect" | "mother_tongue"
+      media_type: "audio" | "video"
+      platform_type: "ios" | "android" | "web" | "desktop"
+      publish_status: "pending" | "published" | "archived"
       region_level:
         | "continent"
         | "world_region"
@@ -2661,6 +4056,21 @@ export type Database = {
         | "district"
         | "town"
         | "village"
+      share_entity_type: "app" | "chapter" | "playlist" | "verse" | "passage"
+      target_type:
+        | "chapter"
+        | "book"
+        | "sermon"
+        | "passage"
+        | "verse"
+        | "podcast"
+        | "film_segment"
+        | "audio_segment"
+      text_version_source:
+        | "official_translation"
+        | "ai_transcription"
+        | "user_submitted"
+      upload_status: "pending" | "uploading" | "completed" | "failed"
     }
     CompositeTypes: {
       geometry_dump: {
@@ -2788,8 +4198,13 @@ export const Constants = {
   public: {
     Enums: {
       change_type: ["create", "update", "delete"],
+      check_status: ["pending", "approved", "rejected", "requires_review"],
+      connectivity_type: ["wifi", "cellular", "offline", "unknown"],
       contribution_status: ["approved", "not_approved"],
       language_entity_level: ["family", "language", "dialect", "mother_tongue"],
+      media_type: ["audio", "video"],
+      platform_type: ["ios", "android", "web", "desktop"],
+      publish_status: ["pending", "published", "archived"],
       region_level: [
         "continent",
         "world_region",
@@ -2800,6 +4215,23 @@ export const Constants = {
         "town",
         "village",
       ],
+      share_entity_type: ["app", "chapter", "playlist", "verse", "passage"],
+      target_type: [
+        "chapter",
+        "book",
+        "sermon",
+        "passage",
+        "verse",
+        "podcast",
+        "film_segment",
+        "audio_segment",
+      ],
+      text_version_source: [
+        "official_translation",
+        "ai_transcription",
+        "user_submitted",
+      ],
+      upload_status: ["pending", "uploading", "completed", "failed"],
     },
   },
 } as const
