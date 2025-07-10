@@ -1,11 +1,27 @@
--- Add created_by column to playlist_groups table
+-- Add created_by column to tables
 ALTER TABLE playlist_groups
 ADD COLUMN created_by UUID REFERENCES users (id);
 
 
--- Add comment for documentation
-comment ON COLUMN playlist_groups.created_by IS 'User who created this playlist group';
+ALTER TABLE projects
+ADD COLUMN created_by UUID REFERENCES users (id);
 
 
--- Create index for better query performance
-CREATE INDEX idx_playlist_groups_created_by ON playlist_groups (created_by);
+ALTER TABLE sequences
+ADD COLUMN created_by UUID REFERENCES users (id);
+
+
+ALTER TABLE sequences_segments
+ADD COLUMN created_by UUID REFERENCES users (id);
+
+
+ALTER TABLE sequences_tags
+ADD COLUMN created_by UUID REFERENCES users (id);
+
+
+ALTER TABLE segments
+ADD COLUMN created_by UUID REFERENCES users (id);
+
+
+ALTER TABLE segments_targets
+ADD COLUMN created_by UUID REFERENCES users (id);
