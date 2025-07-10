@@ -80,6 +80,13 @@ export default [
         Deno: 'readonly',
         Response: 'readonly',
         Request: 'readonly',
+        Headers: 'readonly',
+        URL: 'readonly',
+        fetch: 'readonly',
+        btoa: 'readonly',
+        atob: 'readonly',
+        FormData: 'readonly',
+        File: 'readonly',
         console: 'readonly',
       },
     },
@@ -91,6 +98,11 @@ export default [
       ...tseslint.configs.recommended.rules,
       'no-console': 'off', // Console is ok in Edge Functions
       '@typescript-eslint/no-explicit-any': 'off', // More lenient for API responses
+      '@typescript-eslint/no-unsafe-assignment': 'off', // Disable for Deno environment
+      '@typescript-eslint/no-unsafe-member-access': 'off', // Disable for Deno environment
+      '@typescript-eslint/no-unsafe-call': 'off', // Disable for Deno environment
+      '@typescript-eslint/no-unsafe-return': 'off', // Disable for Deno environment
+      '@typescript-eslint/no-unsafe-argument': 'off', // Disable for Deno environment
       'prettier/prettier': 'error',
     },
   },

@@ -421,7 +421,7 @@ VALUES
     '550e8400-e29b-41d4-a716-446655440001',
     'team',
     '770e8400-e29b-41d4-a716-446655440004'
-  ),
+  )
   -- Lisa Martinez - No team assignment (only base role)
   -- John Doe - No team assignment (only base role)
 ON CONFLICT (user_id, role_id, context_type, context_id) DO NOTHING;
