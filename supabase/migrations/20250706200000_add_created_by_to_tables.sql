@@ -14,9 +14,5 @@ ALTER TABLE sequences_tags
 ADD COLUMN created_by UUID REFERENCES users (id);
 
 
-ALTER TABLE segments
-ADD COLUMN created_by UUID REFERENCES users (id);
-
-
 ALTER TABLE segments_targets
 ADD COLUMN created_by UUID REFERENCES users (id);
