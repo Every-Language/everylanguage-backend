@@ -82,13 +82,91 @@ Deno.serve(async (req: Request) => {
       data: { user },
     } = await supabaseClient.auth.getUser();
 
-    // Parse multipart form data
-    const formData = await req.formData();
-    const file = formData.get('file') as File;
+    // Check content type - allow both multipart and JSON for testing
+    const contentType = req.headers.get('content-type') ?? '';
+    const isMultipart = contentType.includes('multipart/form-data');
+    const isJson = contentType.includes('application/json');
 
-    // Handle both JSON data format and individual form fields
-    const requestData = formData.get('data') as string;
-    let uploadRequest: UploadRequest;
+    if (!isMultipart && !isJson) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: 'Invalid content type',
+          details: `Expected multipart/form-data or application/json, got: ${contentType}`,
+        }),
+        {
+          status: 400,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
+      );
+    }
+
+    let file: File;
+    let uploadRequest: any;
+
+    if (isJson) {
+      // Handle JSON test data
+      try {
+        const jsonData = await req.json();
+        uploadRequest = {
+          target_type: jsonData.target_type ?? 'chapter',
+          target_id: jsonData.target_id ?? 'test-chapter-123',
+          language_entity_id: jsonData.language_entity_id,
+          filename: jsonData.filename ?? 'test_file.m4a',
+        };
+
+        // Create a fake file for testing
+        const testContent = jsonData.file_content ?? 'test audio content';
+        file = new File([testContent], uploadRequest.filename, {
+          type: 'audio/m4a',
+        });
+      } catch (jsonError) {
+        console.error('JSON parsing error:', jsonError);
+        return new Response(
+          JSON.stringify({
+            success: false,
+            error: 'Invalid JSON data',
+            details: 'Unable to parse JSON data',
+          }),
+          {
+            status: 400,
+            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+          }
+        );
+      }
+    } else {
+      // Parse multipart form data
+      let formData: FormData;
+      try {
+        formData = await req.formData();
+      } catch (formError) {
+        console.error('Form data parsing error:', formError);
+        console.error('Content-Type:', contentType);
+        console.error(
+          'Request headers:',
+          Object.fromEntries(req.headers.entries())
+        );
+        return new Response(
+          JSON.stringify({
+            success: false,
+            error: 'Invalid form data',
+            details: 'Unable to parse multipart form data',
+          }),
+          {
+            status: 400,
+            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+          }
+        );
+      }
+
+      file = formData.get('file') as File;
+      uploadRequest = {
+        target_type: formData.get('target_type') as string,
+        target_id: formData.get('target_id') as string,
+        language_entity_id: formData.get('language_entity_id') as string,
+        filename: file?.name || 'unknown',
+      };
+    }
 
     if (!file) {
       return new Response(
@@ -100,41 +178,19 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    if (requestData) {
-      // JSON format
-      try {
-        uploadRequest = JSON.parse(requestData) as UploadRequest;
-      } catch {
-        return new Response(
-          JSON.stringify({ success: false, error: 'Invalid metadata format' }),
-          {
-            status: 400,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
-      }
-    } else {
-      // Individual form fields format
-      const targetType = formData.get('target_type') as string;
-      const targetId = formData.get('target_id') as string;
-      const languageEntityId =
-        (formData.get('language_entity_id') as string) || 'default-language-id';
-      const projectId = formData.get('project_id') as string;
-      const isBibleAudio = formData.get('is_bible_audio') === 'true';
+    // Determine media type from file type
+    const mediaType = file.type.startsWith('video/') ? 'video' : 'audio';
 
-      // Determine media type from file type
-      const mediaType = file.type.startsWith('video/') ? 'video' : 'audio';
-
-      uploadRequest = {
-        fileName: file.name,
-        mediaType,
-        languageEntityId,
-        projectId,
-        targetType: targetType as any,
-        targetId,
-        isBibleAudio,
-      };
-    }
+    // Convert uploadRequest to the expected UploadRequest format
+    const finalUploadRequest: UploadRequest = {
+      fileName: uploadRequest.filename,
+      mediaType,
+      languageEntityId: uploadRequest.language_entity_id,
+      projectId: undefined,
+      targetType: uploadRequest.target_type,
+      targetId: uploadRequest.target_id,
+      isBibleAudio: false,
+    };
 
     // Validate file size
     if (file.size > MAX_FILE_SIZE) {
@@ -153,7 +209,7 @@ Deno.serve(async (req: Request) => {
     // Validate file type (use extension as fallback for octet-stream)
     const fileExtension = file.name.toLowerCase().split('.').pop();
     const supportedTypes =
-      uploadRequest.mediaType === 'audio'
+      finalUploadRequest.mediaType === 'audio'
         ? SUPPORTED_AUDIO_TYPES
         : SUPPORTED_VIDEO_TYPES;
 
@@ -165,7 +221,7 @@ Deno.serve(async (req: Request) => {
 
     if (!isValidType && file.type === 'application/octet-stream') {
       // Fallback to extension checking
-      if (uploadRequest.mediaType === 'audio') {
+      if (finalUploadRequest.mediaType === 'audio') {
         isValidType = audioExtensions.includes(fileExtension ?? '');
       } else {
         isValidType = videoExtensions.includes(fileExtension ?? '');
@@ -187,9 +243,9 @@ Deno.serve(async (req: Request) => {
 
     // Validate required fields
     if (
-      !uploadRequest.fileName ||
-      !uploadRequest.mediaType ||
-      !uploadRequest.languageEntityId
+      !finalUploadRequest.fileName ||
+      !finalUploadRequest.mediaType ||
+      !finalUploadRequest.languageEntityId
     ) {
       return new Response(
         JSON.stringify({
@@ -204,14 +260,21 @@ Deno.serve(async (req: Request) => {
       );
     }
 
+    // Get the public.users.id for the authenticated user
+    const { data: publicUser } = await supabaseClient
+      .from('users')
+      .select('id')
+      .eq('auth_uid', user?.id)
+      .single();
+
     // Create media file record with initial status
     const { data: mediaFile, error: dbError } = await supabaseClient
       .from('media_files')
       .insert({
-        language_entity_id: uploadRequest.languageEntityId,
-        media_type: uploadRequest.mediaType,
-        project_id: uploadRequest.projectId,
-        created_by: user?.id ?? null,
+        language_entity_id: finalUploadRequest.languageEntityId,
+        media_type: finalUploadRequest.mediaType,
+        project_id: finalUploadRequest.projectId,
+        created_by: publicUser?.id ?? null,
         upload_status: 'uploading',
         publish_status: 'pending',
         file_size: file.size,
@@ -222,12 +285,15 @@ Deno.serve(async (req: Request) => {
 
     if (dbError || !mediaFile) {
       console.error('Database error:', dbError);
+      console.error('Upload request:', uploadRequest);
+      console.error('User:', user);
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Database error',
           details: dbError?.message ?? 'Unknown database error',
           code: dbError?.code ?? 'UNKNOWN',
+          hint: dbError?.hint ?? 'No hint available',
         }),
         {
           status: 500,
@@ -247,14 +313,14 @@ Deno.serve(async (req: Request) => {
       // Upload to B2
       const uploadResult = await b2Service.uploadFile(
         fileBytes,
-        uploadRequest.fileName,
+        finalUploadRequest.fileName,
         file.type,
         {
-          'media-type': uploadRequest.mediaType,
-          'language-entity-id': uploadRequest.languageEntityId,
-          'project-id': uploadRequest.projectId ?? '',
+          'media-type': finalUploadRequest.mediaType,
+          'language-entity-id': finalUploadRequest.languageEntityId,
+          'project-id': finalUploadRequest.projectId ?? '',
           'uploaded-by': user?.id ?? 'anonymous',
-          ...uploadRequest.metadata,
+          ...finalUploadRequest.metadata,
         }
       );
 
@@ -294,15 +360,15 @@ Deno.serve(async (req: Request) => {
       }
 
       // Create target association if specified
-      if (uploadRequest.targetType && uploadRequest.targetId) {
+      if (finalUploadRequest.targetType && finalUploadRequest.targetId) {
         const { error: targetError } = await supabaseClient
           .from('media_files_targets')
           .insert({
             media_file_id: mediaFile.id,
-            target_type: uploadRequest.targetType,
-            target_id: uploadRequest.targetId,
-            is_bible_audio: uploadRequest.isBibleAudio ?? false,
-            created_by: user.id,
+            target_type: finalUploadRequest.targetType,
+            target_id: finalUploadRequest.targetId,
+            is_bible_audio: finalUploadRequest.isBibleAudio ?? false,
+            created_by: publicUser?.id ?? null,
           });
 
         if (targetError) {
@@ -347,8 +413,18 @@ Deno.serve(async (req: Request) => {
     }
   } catch (error) {
     console.error('Unexpected error:', error);
+    console.error('Error details:', {
+      message: error?.message,
+      stack: error?.stack,
+      name: error?.name,
+    });
     return new Response(
-      JSON.stringify({ success: false, error: 'Internal server error' }),
+      JSON.stringify({
+        success: false,
+        error: 'Internal server error',
+        details: error?.message ?? 'Unknown error occurred',
+        errorType: error?.name ?? 'UnknownError',
+      }),
       {
         status: 500,
         headers: { ...corsHeaders, 'Content-Type': 'application/json' },

@@ -63,12 +63,15 @@ async function uploadFile(token, filePath) {
     const uploadUrl = `${SUPABASE_URL}/functions/v1/upload-media`;
     
     try {
-        // Create FormData for multipart upload
+        // Create FormData for multipart upload using form-data package
         const FormData = require('form-data');
         const form = new FormData();
         
-        // Add file
-        form.append('file', fs.createReadStream(filePath), {
+        // Read file as buffer
+        const fileBuffer = fs.readFileSync(filePath);
+        
+        // Add file buffer instead of stream
+        form.append('file', fileBuffer, {
             filename: 'test_audio.m4a',
             contentType: 'audio/m4a'
         });
@@ -88,8 +91,12 @@ async function uploadFile(token, filePath) {
             headers: {
                 'Authorization': `Bearer ${token}`,
                 ...form.getHeaders()
+                // Don't set Content-Length manually - let form-data handle it
             },
             body: form
+        }).catch(fetchError => {
+            console.log(`💥 Fetch error details:`, fetchError);
+            throw fetchError;
         });
 
         console.log(`📤 Upload response: ${response.status}`);
