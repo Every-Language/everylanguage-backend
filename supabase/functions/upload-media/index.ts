@@ -1,63 +1,17 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
-import { B2StorageService } from '../_shared/b2-service.ts';
-
-// CORS headers for frontend requests
-const corsHeaders = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Headers':
-    'authorization, x-client-info, apikey, content-type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS',
-};
-
-// Supported file types and their MIME types
-const SUPPORTED_AUDIO_TYPES = [
-  'audio/mpeg',
-  'audio/wav',
-  'audio/m4a',
-  'audio/x-m4a',
-  'audio/aac',
-  'audio/ogg',
-  'audio/webm',
-];
-
-const SUPPORTED_VIDEO_TYPES = [
-  'video/mp4',
-  'video/webm',
-  'video/ogg',
-  'video/quicktime',
-  'video/x-msvideo',
-];
-
-const MAX_FILE_SIZE = 100 * 1024 * 1024; // 100MB
-
-interface UploadRequest {
-  fileName: string;
-  mediaType: 'audio' | 'video';
-  languageEntityId: string;
-  projectId?: string;
-  targetType?:
-    | 'chapter'
-    | 'book'
-    | 'verse'
-    | 'passage'
-    | 'sermon'
-    | 'podcast'
-    | 'film_segment'
-    | 'audio_segment';
-  targetId?: string;
-  isBibleAudio?: boolean;
-  metadata?: Record<string, string>;
-}
-
-interface UploadResponse {
-  success: boolean;
-  data?: {
-    mediaFileId: string;
-    downloadUrl: string;
-    fileSize: number;
-  };
-  error?: string;
-}
+import { B2StorageService } from '../_shared/b2-storage-service.ts';
+import {
+  validateUploadRequest,
+  validateLanguageEntity,
+  validateProject,
+  validateTargetId,
+  UploadResponse,
+} from '../_shared/media-validation.ts';
+import {
+  MediaService,
+  estimateMediaDuration,
+} from '../_shared/media-service.ts';
+import { parseUploadRequest, corsHeaders } from '../_shared/request-parser.ts';
 
 Deno.serve(async (req: Request) => {
   // Handle CORS preflight request
@@ -77,22 +31,21 @@ Deno.serve(async (req: Request) => {
       }
     );
 
-    // Get authenticated user (optional for testing)
+    // Get authenticated user
     const {
       data: { user },
     } = await supabaseClient.auth.getUser();
 
-    // Check content type - allow both multipart and JSON for testing
-    const contentType = req.headers.get('content-type') ?? '';
-    const isMultipart = contentType.includes('multipart/form-data');
-    const isJson = contentType.includes('application/json');
-
-    if (!isMultipart && !isJson) {
+    // Parse request data
+    let parsedData;
+    try {
+      parsedData = await parseUploadRequest(req);
+    } catch (parseError) {
       return new Response(
         JSON.stringify({
           success: false,
-          error: 'Invalid content type',
-          details: `Expected multipart/form-data or application/json, got: ${contentType}`,
+          error: 'Request parsing failed',
+          details: parseError.message,
         }),
         {
           status: 400,
@@ -101,138 +54,62 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    let file: File;
-    let uploadRequest: any;
+    const { file, uploadRequest } = parsedData;
 
-    if (isJson) {
-      // Handle JSON test data
-      try {
-        const jsonData = await req.json();
-        uploadRequest = {
-          target_type: jsonData.target_type ?? 'chapter',
-          target_id: jsonData.target_id ?? 'test-chapter-123',
-          language_entity_id: jsonData.language_entity_id,
-          filename: jsonData.filename ?? 'test_file.m4a',
-        };
+    // === VALIDATION PHASE ===
+    const validationErrors = validateUploadRequest(uploadRequest, file);
+    if (validationErrors.length > 0) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: 'Validation failed',
+          details: validationErrors.join('; '),
+        }),
+        {
+          status: 400,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
+      );
+    }
 
-        // Create a fake file for testing
-        const testContent = jsonData.file_content ?? 'test audio content';
-        file = new File([testContent], uploadRequest.filename, {
-          type: 'audio/m4a',
-        });
-      } catch (jsonError) {
-        console.error('JSON parsing error:', jsonError);
-        return new Response(
-          JSON.stringify({
-            success: false,
-            error: 'Invalid JSON data',
-            details: 'Unable to parse JSON data',
-          }),
-          {
-            status: 400,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
+    // === DATABASE VALIDATION PHASE ===
+    try {
+      // Validate language entity
+      const languageEntity = await validateLanguageEntity(
+        supabaseClient,
+        uploadRequest.languageEntityId
+      );
+      console.log(
+        `✅ Language entity validated: ${languageEntity.name} (${languageEntity.level})`
+      );
+
+      // Validate project (if provided)
+      let project = null;
+      if (uploadRequest.projectId) {
+        project = await validateProject(
+          supabaseClient,
+          uploadRequest.projectId
         );
-      }
-    } else {
-      // Parse multipart form data
-      let formData: FormData;
-      try {
-        formData = await req.formData();
-      } catch (formError) {
-        console.error('Form data parsing error:', formError);
-        console.error('Content-Type:', contentType);
-        console.error(
-          'Request headers:',
-          Object.fromEntries(req.headers.entries())
-        );
-        return new Response(
-          JSON.stringify({
-            success: false,
-            error: 'Invalid form data',
-            details: 'Unable to parse multipart form data',
-          }),
-          {
-            status: 400,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
+        console.log(`✅ Project validated: ${project.name}`);
       }
 
-      file = formData.get('file') as File;
-      uploadRequest = {
-        target_type: formData.get('target_type') as string,
-        target_id: formData.get('target_id') as string,
-        language_entity_id: formData.get('language_entity_id') as string,
-        filename: file?.name || 'unknown',
-      };
-    }
-
-    if (!file) {
-      return new Response(
-        JSON.stringify({ success: false, error: 'No file provided' }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-
-    // Determine media type from file type
-    const mediaType = file.type.startsWith('video/') ? 'video' : 'audio';
-
-    // Convert uploadRequest to the expected UploadRequest format
-    const finalUploadRequest: UploadRequest = {
-      fileName: uploadRequest.filename,
-      mediaType,
-      languageEntityId: uploadRequest.language_entity_id,
-      projectId: undefined,
-      targetType: uploadRequest.target_type,
-      targetId: uploadRequest.target_id,
-      isBibleAudio: false,
-    };
-
-    // Validate file size
-    if (file.size > MAX_FILE_SIZE) {
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error: `File too large. Maximum size is ${MAX_FILE_SIZE / (1024 * 1024)}MB`,
-        }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-
-    // Validate file type (use extension as fallback for octet-stream)
-    const fileExtension = file.name.toLowerCase().split('.').pop();
-    const supportedTypes =
-      finalUploadRequest.mediaType === 'audio'
-        ? SUPPORTED_AUDIO_TYPES
-        : SUPPORTED_VIDEO_TYPES;
-
-    const audioExtensions = ['mp3', 'wav', 'm4a', 'aac', 'ogg', 'webm'];
-    const videoExtensions = ['mp4', 'webm', 'ogg', 'mov', 'avi'];
-
-    // Check MIME type first, then fallback to extension
-    let isValidType = supportedTypes.includes(file.type);
-
-    if (!isValidType && file.type === 'application/octet-stream') {
-      // Fallback to extension checking
-      if (finalUploadRequest.mediaType === 'audio') {
-        isValidType = audioExtensions.includes(fileExtension ?? '');
-      } else {
-        isValidType = videoExtensions.includes(fileExtension ?? '');
+      // Validate target ID (if both targetType and targetId provided)
+      if (uploadRequest.targetType && uploadRequest.targetId) {
+        await validateTargetId(
+          supabaseClient,
+          uploadRequest.targetType,
+          uploadRequest.targetId
+        );
+        console.log(
+          `✅ Target validated: ${uploadRequest.targetType} ${uploadRequest.targetId}`
+        );
       }
-    }
-
-    if (!isValidType) {
+    } catch (validationError) {
       return new Response(
         JSON.stringify({
           success: false,
-          error: `Unsupported file type '${file.type}' for file '${file.name}'. Supported types: ${supportedTypes.join(', ')}`,
+          error: 'Database validation failed',
+          details: validationError.message,
         }),
         {
           status: 400,
@@ -241,59 +118,45 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    // Validate required fields
-    if (
-      !finalUploadRequest.fileName ||
-      !finalUploadRequest.mediaType ||
-      !finalUploadRequest.languageEntityId
-    ) {
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error:
-            'Missing required fields: fileName, mediaType, languageEntityId',
-        }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
+    // === MEDIA PROCESSING PHASE ===
+    const mediaService = new MediaService(supabaseClient);
+
+    // Get next version number
+    const nextVersion = await mediaService.getNextVersion(
+      uploadRequest.fileName,
+      uploadRequest.languageEntityId
+    );
+    console.log(
+      `📈 Next version for ${uploadRequest.fileName}: ${nextVersion}`
+    );
+
+    // Estimate media duration
+    const estimatedDuration = estimateMediaDuration(file);
+    if (estimatedDuration) {
+      console.log(`⏱️ Estimated duration: ${estimatedDuration} seconds`);
     }
 
-    // Get the public.users.id for the authenticated user
-    const { data: publicUser } = await supabaseClient
-      .from('users')
-      .select('id')
-      .eq('auth_uid', user?.id)
-      .single();
+    // Get authenticated user for database operations
+    const publicUser = await mediaService.getAuthenticatedUser(user?.id);
 
-    // Create media file record with initial status
-    const { data: mediaFile, error: dbError } = await supabaseClient
-      .from('media_files')
-      .insert({
-        language_entity_id: finalUploadRequest.languageEntityId,
-        media_type: finalUploadRequest.mediaType,
-        project_id: finalUploadRequest.projectId,
-        created_by: publicUser?.id ?? null,
-        upload_status: 'uploading',
-        publish_status: 'pending',
-        file_size: file.size,
-        version: 1,
-      })
-      .select()
-      .single();
-
-    if (dbError || !mediaFile) {
-      console.error('Database error:', dbError);
-      console.error('Upload request:', uploadRequest);
-      console.error('User:', user);
+    // Create media file record
+    let mediaFile;
+    try {
+      mediaFile = await mediaService.createMediaFile({
+        languageEntityId: uploadRequest.languageEntityId,
+        mediaType: uploadRequest.mediaType,
+        projectId: uploadRequest.projectId,
+        createdBy: publicUser?.id ?? null,
+        fileSize: file.size,
+        durationSeconds: estimatedDuration,
+        version: nextVersion,
+      });
+    } catch (dbError) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Database error',
-          details: dbError?.message ?? 'Unknown database error',
-          code: dbError?.code ?? 'UNKNOWN',
-          hint: dbError?.hint ?? 'No hint available',
+          details: dbError.message,
         }),
         {
           status: 500,
@@ -302,79 +165,43 @@ Deno.serve(async (req: Request) => {
       );
     }
 
+    // === UPLOAD PHASE ===
     try {
-      // Initialize B2 service
+      // Upload to B2 using the new service
       const b2Service = new B2StorageService();
-
-      // Convert file to bytes
       const fileBuffer = await file.arrayBuffer();
       const fileBytes = new Uint8Array(fileBuffer);
 
-      // Upload to B2
       const uploadResult = await b2Service.uploadFile(
         fileBytes,
-        finalUploadRequest.fileName,
+        uploadRequest.fileName,
         file.type,
         {
-          'media-type': finalUploadRequest.mediaType,
-          'language-entity-id': finalUploadRequest.languageEntityId,
-          'project-id': finalUploadRequest.projectId ?? '',
+          'media-type': uploadRequest.mediaType,
+          'language-entity-id': uploadRequest.languageEntityId,
+          'project-id': uploadRequest.projectId ?? '',
+          version: nextVersion.toString(),
           'uploaded-by': user?.id ?? 'anonymous',
-          ...finalUploadRequest.metadata,
+          ...uploadRequest.metadata,
         }
       );
 
       // Update media file record with upload results
-      const { error: updateError } = await supabaseClient
-        .from('media_files')
-        .update({
-          remote_path: uploadResult.downloadUrl,
-          upload_status: 'completed',
-          file_size: uploadResult.fileSize,
-          duration_seconds: null,
-        })
-        .eq('id', mediaFile.id);
-
-      if (updateError) {
-        console.error('Database update error:', updateError);
-        // Try to clean up B2 file
-        try {
-          await b2Service.deleteFile(
-            uploadResult.fileId,
-            uploadResult.fileName
-          );
-        } catch (cleanupError) {
-          console.error('Cleanup error:', cleanupError);
-        }
-
-        return new Response(
-          JSON.stringify({
-            success: false,
-            error: 'Failed to update database',
-          }),
-          {
-            status: 500,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
-      }
+      await mediaService.updateMediaFileAfterUpload(
+        mediaFile.id,
+        uploadResult.downloadUrl,
+        uploadResult.fileSize
+      );
 
       // Create target association if specified
-      if (finalUploadRequest.targetType && finalUploadRequest.targetId) {
-        const { error: targetError } = await supabaseClient
-          .from('media_files_targets')
-          .insert({
-            media_file_id: mediaFile.id,
-            target_type: finalUploadRequest.targetType,
-            target_id: finalUploadRequest.targetId,
-            is_bible_audio: finalUploadRequest.isBibleAudio ?? false,
-            created_by: publicUser?.id ?? null,
-          });
-
-        if (targetError) {
-          console.error('Target association error:', targetError);
-          // Don't fail the upload, just log the error
-        }
+      if (uploadRequest.targetType && uploadRequest.targetId) {
+        await mediaService.createTargetAssociation({
+          mediaFileId: mediaFile.id,
+          targetType: uploadRequest.targetType,
+          targetId: uploadRequest.targetId,
+          isBibleAudio: uploadRequest.isBibleAudio ?? false,
+          createdBy: publicUser?.id ?? null,
+        });
       }
 
       // Return success response
@@ -384,6 +211,8 @@ Deno.serve(async (req: Request) => {
           mediaFileId: mediaFile.id,
           downloadUrl: uploadResult.downloadUrl,
           fileSize: uploadResult.fileSize,
+          version: nextVersion,
+          duration: estimatedDuration,
         },
       };
 
@@ -395,15 +224,12 @@ Deno.serve(async (req: Request) => {
       console.error('Upload error:', uploadError);
 
       // Update database to reflect failed upload
-      await supabaseClient
-        .from('media_files')
-        .update({ upload_status: 'failed' })
-        .eq('id', mediaFile.id);
+      await mediaService.markUploadFailed(mediaFile.id);
 
       return new Response(
         JSON.stringify({
           success: false,
-          error: `Upload failed: ${(uploadError as Error).message}`,
+          error: `Upload failed: ${uploadError.message}`,
         }),
         {
           status: 500,
@@ -413,17 +239,11 @@ Deno.serve(async (req: Request) => {
     }
   } catch (error) {
     console.error('Unexpected error:', error);
-    console.error('Error details:', {
-      message: error?.message,
-      stack: error?.stack,
-      name: error?.name,
-    });
     return new Response(
       JSON.stringify({
         success: false,
         error: 'Internal server error',
         details: error?.message ?? 'Unknown error occurred',
-        errorType: error?.name ?? 'UnknownError',
       }),
       {
         status: 500,

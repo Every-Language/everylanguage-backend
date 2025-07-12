@@ -1,6 +1,6 @@
 # @everylanguage/shared-types
 
-🎯 **Shared TypeScript types for the EverlyLanguage audio translation platform**
+🎯 **Shared TypeScript types**
 
 This package contains automatically generated TypeScript types from our Supabase database schema, ensuring type safety across all applications in the EverlyLanguage ecosystem.
 
@@ -59,6 +59,6 @@ This package follows [Semantic Versioning](https://semver.org/):
 
 ## 🐛 Issues & Support
 
-- **Backend Issues**: [Backend Repository](https://github.com/your-org/el-backend/issues)
-- **Type Issues**: [Type-specific issues](https://github.com/your-org/el-backend/issues?q=label%3Atypes)
+- **Backend Issues**: [Backend Repository](https://github.com/every-language/el-backend/issues)
+- **Type Issues**: [Type-specific issues](https://github.com/every-language/el-backend/issues?q=label%3Atypes)
 - **Application Integration**: Contact your respective app team

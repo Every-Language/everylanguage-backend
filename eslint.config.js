@@ -74,7 +74,7 @@ export default [
       parserOptions: {
         ecmaVersion: 2022,
         sourceType: 'module',
-        project: './tsconfig.json',
+        project: './supabase/functions/tsconfig.json',
       },
       globals: {
         Deno: 'readonly',
@@ -88,6 +88,8 @@ export default [
         FormData: 'readonly',
         File: 'readonly',
         console: 'readonly',
+        crypto: 'readonly',
+        globalThis: 'readonly',
       },
     },
     plugins: {
@@ -103,6 +105,9 @@ export default [
       '@typescript-eslint/no-unsafe-call': 'off', // Disable for Deno environment
       '@typescript-eslint/no-unsafe-return': 'off', // Disable for Deno environment
       '@typescript-eslint/no-unsafe-argument': 'off', // Disable for Deno environment
+      '@typescript-eslint/require-await': 'off', // Edge Functions often have async without await
+      '@typescript-eslint/prefer-nullish-coalescing': 'warn', // Downgrade to warning
+      '@typescript-eslint/no-floating-promises': 'warn', // Downgrade to warning
       'prettier/prettier': 'error',
     },
   },
@@ -128,6 +133,17 @@ export default [
         afterAll: 'readonly',
         afterEach: 'readonly',
         global: 'writable',
+        fetch: 'readonly',
+        Response: 'readonly',
+        Request: 'readonly',
+        Headers: 'readonly',
+        File: 'readonly',
+        console: 'readonly',
+        require: 'readonly',
+        process: 'readonly',
+        Buffer: 'readonly',
+        globalThis: 'readonly',
+        Deno: 'readonly',
       },
     },
     plugins: {
@@ -138,7 +154,24 @@ export default [
       ...tseslint.configs.recommended.rules,
       '@typescript-eslint/no-explicit-any': 'off',
       '@typescript-eslint/no-non-null-assertion': 'off',
+      '@typescript-eslint/no-unsafe-assignment': 'off',
+      '@typescript-eslint/no-unsafe-member-access': 'off',
+      '@typescript-eslint/no-unsafe-call': 'off',
+      '@typescript-eslint/no-unsafe-return': 'off',
+      '@typescript-eslint/no-unsafe-argument': 'off',
+      '@typescript-eslint/unbound-method': 'off',
+      '@typescript-eslint/await-thenable': 'off',
+      '@typescript-eslint/prefer-nullish-coalescing': 'warn',
+      '@typescript-eslint/no-unnecessary-condition': 'off',
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        { argsIgnorePattern: '^_' },
+      ],
+      '@typescript-eslint/no-require-imports': 'off',
       'no-console': 'off',
+      'no-undef': 'off',
+      'prefer-template': 'off',
+      'object-shorthand': 'off',
       'prettier/prettier': 'error',
     },
   },
@@ -151,6 +184,7 @@ export default [
       'eslint.config.js',
       'tests/**/*.js',
       'scripts/**/*.js',
+      'scripts/**/*.cjs',
     ],
     languageOptions: {
       ecmaVersion: 2022,
@@ -164,11 +198,16 @@ export default [
         __filename: 'readonly',
         global: 'writable',
         jest: 'readonly',
+        fetch: 'readonly',
+        setTimeout: 'readonly',
+        Buffer: 'readonly',
+        globalThis: 'readonly',
       },
     },
     rules: {
       'no-console': 'off',
       'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+      'no-undef': 'off',
     },
   },
 

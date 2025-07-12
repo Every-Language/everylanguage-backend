@@ -85,8 +85,10 @@
     "@supabase/supabase-js": "^2.50.2",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.0.7",
+    "@types/node-fetch": "^2.6.12",
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
+    "node-fetch": "^3.3.2",
     "ts-jest": "^29.4.0"
   }
 }
