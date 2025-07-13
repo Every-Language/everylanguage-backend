@@ -298,7 +298,7 @@ def generate_chunked_files(verses_per_file=5000):
     print(f"Generating Bible data in chunks of {verses_per_file:,} verses each...")
     
     # Create directory
-    output_dir = "supabase/seed/bible_chunks"
+    output_dir = "supabase/seed/03_bible_chunks"
     os.makedirs(output_dir, exist_ok=True)
     
     # Generate bible version and books first

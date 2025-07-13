@@ -42,6 +42,7 @@ describe('B2StorageService', () => {
       streamFileWithRange: jest.fn(),
       streamFileWithRetry: jest.fn(),
       createStreamResponse: jest.fn(),
+      createStreamingResponse: jest.fn(),
       supportsRangeRequests: jest.fn(),
       getStreamFileSize: jest.fn(),
     } as any;

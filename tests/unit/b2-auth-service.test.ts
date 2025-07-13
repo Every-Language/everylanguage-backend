@@ -259,7 +259,7 @@ describe('B2AuthService', () => {
 
   describe('getUploadUrl', () => {
     it('should get upload URL successfully', async () => {
-      // Mock authenticate
+      // Mock authenticate call first
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
@@ -275,8 +275,9 @@ describe('B2AuthService', () => {
             ),
           json: () =>
             Promise.resolve({
-              uploadUrl: 'https://upload.example.com',
-              authorizationToken: 'upload-token',
+              authorizationToken: 'test-auth-token',
+              apiUrl: 'https://api.example.com',
+              downloadUrl: 'https://download.example.com',
             }),
         })
         .mockResolvedValueOnce({
@@ -284,9 +285,8 @@ describe('B2AuthService', () => {
           status: 200,
           json: () =>
             Promise.resolve({
-              authorizationToken: 'test-auth-token',
-              apiUrl: 'https://api.example.com',
-              downloadUrl: 'https://download.example.com',
+              uploadUrl: 'https://upload.example.com',
+              authorizationToken: 'upload-token',
             }),
         });
 

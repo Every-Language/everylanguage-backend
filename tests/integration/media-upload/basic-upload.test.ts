@@ -272,4 +272,51 @@ describe('Media Upload - Basic Functionality', () => {
       expect(result.data.downloadUrl).toContain(contentType.filename);
     }
   });
+
+  test('should accept optional duration field', async () => {
+    // Mock successful upload response with duration
+    mockFetch.mockResolvedValueOnce({
+      ok: true,
+      status: 200,
+      json: () =>
+        Promise.resolve({
+          success: true,
+          data: {
+            mediaFileId: 'mock-media-file-with-duration-123',
+            downloadUrl:
+              'https://f005.backblazeb2.com/file/test-bucket/test-audio-with-duration.m4a',
+            duration: 125.5, // Should match the provided duration
+          },
+        }),
+      text: () => Promise.resolve('{"success":true}'),
+    });
+
+    const uploadUrl = `${SUPABASE_URL}/functions/v1/upload-media`;
+
+    const testData = {
+      target_type: 'chapter',
+      target_id: `duration-test-${Date.now()}`,
+      language_entity_id: 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbba',
+      filename: 'test-audio-with-duration.m4a',
+      file_content: 'This is test audio content with known duration',
+      duration_seconds: 125.5, // Frontend-calculated duration
+    };
+
+    const response = await fetch(uploadUrl, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${authToken}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(testData),
+    });
+
+    expect(response.ok).toBe(true);
+
+    const result = (await response.json()) as UploadResponse;
+    expect(result.success).toBe(true);
+    expect(result.data.mediaFileId).toBeDefined();
+    expect(result.data.downloadUrl).toBeDefined();
+    expect(result.data.duration).toBe(125.5); // Should reflect the provided duration
+  });
 });

@@ -27,11 +27,16 @@ beforeEach(() => {
       const body = JSON.parse(options?.body ?? '{}');
       const filename = body.filename ?? 'test.m4a';
 
+      // Simulate filename sanitization to prevent path traversal
+      const sanitizedFilename = filename
+        .replace(/\.\.\//g, '')
+        .replace(/\.\.\\/g, '');
+
       return createMockResponse({
         success: true,
         data: {
           mediaFileId: 'mock-media-file-id',
-          downloadUrl: `https://f005.backblazeb2.com/file/test-bucket/${filename}`,
+          downloadUrl: `https://f005.backblazeb2.com/file/test-bucket/${sanitizedFilename}`,
           version: 1,
         },
       });

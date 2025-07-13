@@ -124,21 +124,3 @@ export class MediaService {
     return data;
   }
 }
-
-// Simple duration estimation for audio files (very basic)
-export function estimateMediaDuration(file: File): number | null {
-  try {
-    // For audio files, we can try to read basic metadata
-    if (file.type.startsWith('audio/')) {
-      // This is a very basic estimation - in production you'd want proper media analysis
-      // For now, we'll estimate based on file size and bitrate assumptions
-      const averageBitrate = 128000; // 128 kbps assumption
-      const estimatedDuration = Math.round((file.size * 8) / averageBitrate);
-      return estimatedDuration > 0 ? estimatedDuration : null;
-    }
-    return null;
-  } catch (error) {
-    console.warn('Could not estimate media duration:', error);
-    return null;
-  }
-}

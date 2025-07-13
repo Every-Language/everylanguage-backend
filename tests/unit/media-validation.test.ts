@@ -149,6 +149,27 @@ describe('Media Validation', () => {
 
       expect(errors).toHaveLength(0);
     });
+
+    it('should pass validation with optional duration field', () => {
+      const request = {
+        ...createValidRequest(),
+        durationSeconds: 120.5,
+      };
+      const file = createMockFile();
+
+      const errors = validateUploadRequest(request, file);
+
+      expect(errors).toHaveLength(0);
+    });
+
+    it('should pass validation without duration field', () => {
+      const request = createValidRequest();
+      const file = createMockFile();
+
+      const errors = validateUploadRequest(request, file);
+
+      expect(errors).toHaveLength(0);
+    });
   });
 
   describe('validateLanguageEntity', () => {
@@ -158,9 +179,13 @@ describe('Media Validation', () => {
         name: 'Test Language',
         level: 'language',
       };
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: mockData, error: null });
+
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest.fn().mockResolvedValue({ data: mockData, error: null }),
+      } as any);
 
       const result = await validateLanguageEntity(
         mockSupabaseClient,
@@ -172,9 +197,14 @@ describe('Media Validation', () => {
     });
 
     it('should throw error when language entity not found', async () => {
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: null, error: { code: 'PGRST116' } });
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest
+          .fn()
+          .mockResolvedValue({ data: null, error: { code: 'PGRST116' } }),
+      } as any);
 
       await expect(
         validateLanguageEntity(mockSupabaseClient, 'test-id')
@@ -182,10 +212,15 @@ describe('Media Validation', () => {
     });
 
     it('should throw error when database error occurs', async () => {
-      mockSupabaseClient.from().single.mockResolvedValue({
-        data: null,
-        error: { message: 'Database error' },
-      });
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest.fn().mockResolvedValue({
+          data: null,
+          error: { message: 'Database error' },
+        }),
+      } as any);
 
       await expect(
         validateLanguageEntity(mockSupabaseClient, 'test-id')
@@ -196,9 +231,13 @@ describe('Media Validation', () => {
   describe('validateProject', () => {
     it('should return project when found', async () => {
       const mockData = { id: 'test-id', name: 'Test Project' };
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: mockData, error: null });
+
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest.fn().mockResolvedValue({ data: mockData, error: null }),
+      } as any);
 
       const result = await validateProject(mockSupabaseClient, 'test-id');
 
@@ -207,9 +246,14 @@ describe('Media Validation', () => {
     });
 
     it('should throw error when project not found', async () => {
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: null, error: { code: 'PGRST116' } });
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest
+          .fn()
+          .mockResolvedValue({ data: null, error: { code: 'PGRST116' } }),
+      } as any);
 
       await expect(
         validateProject(mockSupabaseClient, 'test-id')
@@ -220,9 +264,13 @@ describe('Media Validation', () => {
   describe('validateTargetId', () => {
     it('should return target when found in chapters table', async () => {
       const mockData = { id: 'test-id' };
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: mockData, error: null });
+
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest.fn().mockResolvedValue({ data: mockData, error: null }),
+      } as any);
 
       const result = await validateTargetId(
         mockSupabaseClient,
@@ -246,9 +294,14 @@ describe('Media Validation', () => {
     });
 
     it('should throw error when target not found', async () => {
-      mockSupabaseClient
-        .from()
-        .single.mockResolvedValue({ data: null, error: { code: 'PGRST116' } });
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        single: jest
+          .fn()
+          .mockResolvedValue({ data: null, error: { code: 'PGRST116' } }),
+      } as any);
 
       await expect(
         validateTargetId(mockSupabaseClient, 'chapter', 'test-id')

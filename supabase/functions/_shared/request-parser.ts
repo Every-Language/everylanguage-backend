@@ -28,6 +28,7 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
       language_entity_id: jsonData.language_entity_id,
       project_id: jsonData.project_id,
       filename: jsonData.filename ?? 'test_file.m4a',
+      duration_seconds: jsonData.duration_seconds,
     };
 
     // Create a fake file for testing
@@ -45,6 +46,7 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
       language_entity_id: formData.get('language_entity_id') as string,
       project_id: formData.get('project_id') as string,
       filename: file?.name || 'unknown',
+      duration_seconds: formData.get('duration_seconds') as string,
     };
   }
 
@@ -57,6 +59,15 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
     ? 'video'
     : 'audio';
 
+  // Parse duration if provided
+  let durationSeconds: number | undefined = undefined;
+  if (uploadRequest.duration_seconds) {
+    durationSeconds =
+      typeof uploadRequest.duration_seconds === 'string'
+        ? parseFloat(uploadRequest.duration_seconds)
+        : uploadRequest.duration_seconds;
+  }
+
   // Create validated upload request
   const finalUploadRequest: UploadRequest = {
     fileName: uploadRequest.filename,
@@ -66,6 +77,7 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
     targetType: uploadRequest.target_type as TargetType,
     targetId: uploadRequest.target_id ?? undefined,
     isBibleAudio: false,
+    durationSeconds,
   };
 
   return { file, uploadRequest: finalUploadRequest };

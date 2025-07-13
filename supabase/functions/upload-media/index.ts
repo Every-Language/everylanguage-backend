@@ -7,10 +7,7 @@ import {
   validateTargetId,
   UploadResponse,
 } from '../_shared/media-validation.ts';
-import {
-  MediaService,
-  estimateMediaDuration,
-} from '../_shared/media-service.ts';
+import { MediaService } from '../_shared/media-service.ts';
 import { parseUploadRequest, corsHeaders } from '../_shared/request-parser.ts';
 
 Deno.serve(async (req: Request) => {
@@ -130,10 +127,10 @@ Deno.serve(async (req: Request) => {
       `📈 Next version for ${uploadRequest.fileName}: ${nextVersion}`
     );
 
-    // Estimate media duration
-    const estimatedDuration = estimateMediaDuration(file);
-    if (estimatedDuration) {
-      console.log(`⏱️ Estimated duration: ${estimatedDuration} seconds`);
+    // Use provided duration or null if not provided
+    const providedDuration = uploadRequest.durationSeconds;
+    if (providedDuration) {
+      console.log(`⏱️ Provided duration: ${providedDuration} seconds`);
     }
 
     // Get authenticated user for database operations
@@ -148,7 +145,7 @@ Deno.serve(async (req: Request) => {
         projectId: uploadRequest.projectId,
         createdBy: publicUser?.id ?? null,
         fileSize: file.size,
-        durationSeconds: estimatedDuration,
+        durationSeconds: providedDuration,
         version: nextVersion,
       });
     } catch (dbError) {
@@ -212,7 +209,7 @@ Deno.serve(async (req: Request) => {
           downloadUrl: uploadResult.downloadUrl,
           fileSize: uploadResult.fileSize,
           version: nextVersion,
-          duration: estimatedDuration,
+          duration: providedDuration,
         },
       };
 

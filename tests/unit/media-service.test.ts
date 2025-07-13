@@ -1,7 +1,4 @@
-import {
-  MediaService,
-  estimateMediaDuration,
-} from '../../supabase/functions/_shared/media-service';
+import { MediaService } from '../../supabase/functions/_shared/media-service';
 
 // Mock Supabase client
 const mockSupabaseClient = {
@@ -23,28 +20,23 @@ describe('MediaService', () => {
 
   beforeEach(() => {
     jest.clearAllMocks();
-    mediaService = new MediaService(mockSupabaseClient);
+    mediaService = new MediaService(mockSupabaseClient as any);
   });
 
   describe('getNextVersion', () => {
     it('should return incremented version for existing file', async () => {
-      // Mock the supabase client chain properly
-      const mockSelect = jest.fn().mockReturnThis();
-      const mockEq = jest.fn().mockReturnThis();
-      const mockOrder = jest.fn().mockReturnThis();
-      const mockLimit = jest.fn().mockReturnThis();
-      const mockSingle = jest.fn().mockResolvedValue({
-        data: { version: 3 },
-        error: null,
-      });
-
-      mockSupabaseClient.from.mockReturnValue({
-        select: mockSelect,
-        eq: mockEq,
-        order: mockOrder,
-        limit: mockLimit,
-        single: mockSingle,
-      });
+      // Mock the supabase client response
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        ilike: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        order: jest.fn().mockReturnThis(),
+        limit: jest.fn().mockResolvedValue({
+          data: [{ version: 3 }],
+          error: null,
+        }),
+      } as any);
 
       const version = await mediaService.getNextVersion('test.mp3', 'lang-id');
 
@@ -53,22 +45,18 @@ describe('MediaService', () => {
 
     it('should return 1 on database error', async () => {
       // Mock database error
-      const mockSelect = jest.fn().mockReturnThis();
-      const mockEq = jest.fn().mockReturnThis();
-      const mockOrder = jest.fn().mockReturnThis();
-      const mockLimit = jest.fn().mockReturnThis();
-      const mockSingle = jest.fn().mockResolvedValue({
-        data: null,
-        error: { message: 'Database error' },
-      });
-
-      mockSupabaseClient.from.mockReturnValue({
-        select: mockSelect,
-        eq: mockEq,
-        order: mockOrder,
-        limit: mockLimit,
-        single: mockSingle,
-      });
+      mockSupabaseClient.from.mockReturnValueOnce({
+        select: jest.fn().mockReturnThis(),
+        ilike: jest.fn().mockReturnThis(),
+        eq: jest.fn().mockReturnThis(),
+        is: jest.fn().mockReturnThis(),
+        order: jest.fn().mockReturnThis(),
+        limit: jest.fn().mockReturnThis(),
+        single: jest.fn().mockResolvedValue({
+          data: null,
+          error: { message: 'Database error' },
+        }),
+      } as any);
 
       const version = await mediaService.getNextVersion('test.mp3', 'lang-id');
 
@@ -81,16 +69,14 @@ describe('MediaService', () => {
       const mockMediaFile = { id: 'test-id', language_entity_id: 'lang-id' };
 
       // Create a new mock chain for this test
-      const mockChain = {
+      mockSupabaseClient.from.mockReturnValueOnce({
         insert: jest.fn().mockReturnThis(),
         select: jest.fn().mockReturnThis(),
         single: jest.fn().mockResolvedValue({
           data: mockMediaFile,
           error: null,
         }),
-      };
-
-      mockSupabaseClient.from.mockReturnValue(mockChain);
+      } as any);
 
       const result = await mediaService.createMediaFile({
         languageEntityId: 'lang-id',
@@ -105,16 +91,14 @@ describe('MediaService', () => {
 
     it('should throw error when creation fails', async () => {
       // Create a new mock chain for this test
-      const mockChain = {
+      mockSupabaseClient.from.mockReturnValueOnce({
         insert: jest.fn().mockReturnThis(),
         select: jest.fn().mockReturnThis(),
         single: jest.fn().mockResolvedValue({
           data: null,
           error: { message: 'Creation failed' },
         }),
-      };
-
-      mockSupabaseClient.from.mockReturnValue(mockChain);
+      } as any);
 
       await expect(
         mediaService.createMediaFile({
@@ -130,12 +114,10 @@ describe('MediaService', () => {
   describe('updateMediaFileAfterUpload', () => {
     it('should update media file successfully', async () => {
       // Create a new mock chain for this test
-      const mockChain = {
+      mockSupabaseClient.from.mockReturnValueOnce({
         update: jest.fn().mockReturnThis(),
         eq: jest.fn().mockResolvedValue({ error: null }),
-      };
-
-      mockSupabaseClient.from.mockReturnValue(mockChain);
+      } as any);
 
       await expect(
         mediaService.updateMediaFileAfterUpload(
@@ -150,14 +132,12 @@ describe('MediaService', () => {
 
     it('should throw error when update fails', async () => {
       // Create a new mock chain for this test
-      const mockChain = {
+      mockSupabaseClient.from.mockReturnValueOnce({
         update: jest.fn().mockReturnThis(),
         eq: jest.fn().mockResolvedValue({
           error: { message: 'Update failed' },
         }),
-      };
-
-      mockSupabaseClient.from.mockReturnValue(mockChain);
+      } as any);
 
       await expect(
         mediaService.updateMediaFileAfterUpload(
@@ -174,16 +154,14 @@ describe('MediaService', () => {
       const mockUser = { id: 'user-id' };
 
       // Create a new mock chain for this test
-      const mockChain = {
+      mockSupabaseClient.from.mockReturnValueOnce({
         select: jest.fn().mockReturnThis(),
         eq: jest.fn().mockReturnThis(),
         single: jest.fn().mockResolvedValue({
           data: mockUser,
           error: null,
         }),
-      };
-
-      mockSupabaseClient.from.mockReturnValue(mockChain);
+      } as any);
 
       const result = await mediaService.getAuthenticatedUser('auth-uid');
 
@@ -197,43 +175,5 @@ describe('MediaService', () => {
       expect(result).toBeNull();
       expect(mockSupabaseClient.from).not.toHaveBeenCalled();
     });
-  });
-});
-
-describe('estimateMediaDuration', () => {
-  // Mock File constructor for tests
-  class MockFile {
-    constructor(
-      public size: number,
-      public type: string
-    ) {}
-  }
-
-  beforeEach(() => {
-    (global as any).File = MockFile;
-  });
-
-  it('should estimate duration for audio files', () => {
-    const mockFile = new MockFile(128000, 'audio/mp3') as any;
-
-    const duration = estimateMediaDuration(mockFile);
-
-    expect(duration).toBe(8); // 128000 * 8 / 128000 = 8 seconds
-  });
-
-  it('should return null for non-audio files', () => {
-    const mockFile = new MockFile(128000, 'video/mp4') as any;
-
-    const duration = estimateMediaDuration(mockFile);
-
-    expect(duration).toBeNull();
-  });
-
-  it('should return null for zero-size files', () => {
-    const mockFile = new MockFile(0, 'audio/mp3') as any;
-
-    const duration = estimateMediaDuration(mockFile);
-
-    expect(duration).toBeNull();
   });
 });
