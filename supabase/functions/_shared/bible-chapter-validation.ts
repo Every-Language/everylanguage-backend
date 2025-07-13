@@ -97,10 +97,6 @@ export async function parseBibleChapterUploadRequest(
     };
   }
 
-  if (!file) {
-    throw new Error('No file provided');
-  }
-
   // Check all required fields
   const requiredFields = [
     'chapter_id',
@@ -133,9 +129,9 @@ export async function parseBibleChapterUploadRequest(
     startVerseId: uploadRequest.start_verse_id,
     endVerseId: uploadRequest.end_verse_id,
     durationSeconds,
-    projectId: uploadRequest.project_id || undefined,
-    verseTimings: uploadRequest.verse_timings || undefined,
-    tagIds: uploadRequest.tag_ids || undefined,
+    projectId: uploadRequest.project_id ?? undefined,
+    verseTimings: uploadRequest.verse_timings ?? undefined,
+    tagIds: uploadRequest.tag_ids ?? undefined,
   };
 
   return { file, uploadRequest: finalUploadRequest };

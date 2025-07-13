@@ -25,11 +25,8 @@ interface BibleChapterUploadResponse {
 describe('Bible Chapter Upload - Filename Robustness', () => {
   const SUPABASE_URL =
     process.env.SUPABASE_URL ?? 'https://sjczwtpnjbmscxoszlyi.supabase.co';
-  const ANON_KEY =
-    process.env.SUPABASE_ANON_KEY ??
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNqY3p3dHBuamJtc2N4b3N6bHlpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExODE2MjcsImV4cCI6MjA2Njc1NzYyN30.XqaYmc7WPXeF_eASoxHUUMIok8a1OStmfmGL2a5qnAo';
 
-  let authToken: string = 'mock-auth-token-12345';
+  const authToken: string = 'mock-auth-token-12345';
 
   async function testBibleChapterUploadWithFilename(filename: string) {
     const uploadUrl = `${SUPABASE_URL}/functions/v1/upload-bible-chapter-audio`;

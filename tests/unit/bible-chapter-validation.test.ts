@@ -8,8 +8,8 @@ global.File = class MockFile {
 
   constructor(bits: any[], name: string, options: { type?: string } = {}) {
     this.name = name;
-    this.size = bits.join('').length;
-    this.type = options.type || '';
+    this.size = bits.reduce((acc, bit) => acc + (bit?.length ?? 0), 0);
+    this.type = options.type ?? 'application/octet-stream';
   }
 } as any;
 

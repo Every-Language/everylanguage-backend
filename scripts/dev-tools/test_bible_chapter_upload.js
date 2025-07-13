@@ -50,7 +50,7 @@ const testUpload = async token => {
     chapter_id: 'gen-2',
     start_verse_id: 'gen-2-1',
     end_verse_id: 'gen-2-2',
-    duration_seconds: 180.5,
+    duration_seconds: 180,
     project_id: '',
     filename: 'genesis_2.m4a',
     file_content: 'test audio content',
@@ -58,15 +58,15 @@ const testUpload = async token => {
       {
         verseId: 'gen-2-1',
         startTimeSeconds: 0,
-        durationSeconds: 10.5,
+        durationSeconds: 10,
       },
       {
         verseId: 'gen-2-2',
-        startTimeSeconds: 10.5,
-        durationSeconds: 12.3,
+        startTimeSeconds: 10,
+        durationSeconds: 12,
       },
     ],
-    tag_ids: [''], // optional
+    tag_ids: [], // optional - empty array instead of array with empty string
   };
 
   try {
@@ -103,24 +103,24 @@ const testMultipartUpload = async token => {
   formData.append('file', audioBlob, 'genesis_1.m4a');
 
   // Add required fields
-  formData.append('language_entity_id', 'example-language-id');
-  formData.append('chapter_id', 'example-chapter-id');
-  formData.append('start_verse_id', 'example-start-verse-id');
-  formData.append('end_verse_id', 'example-end-verse-id');
-  formData.append('duration_seconds', '180.5');
+  formData.append('language_entity_id', 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbba');
+  formData.append('chapter_id', 'gen-2');
+  formData.append('start_verse_id', 'gen-2-1');
+  formData.append('end_verse_id', 'gen-2-2');
+  formData.append('duration_seconds', '180');
 
   // Add optional fields
-  formData.append('project_id', 'example-project-id');
+  formData.append('project_id', '');
 
   // Add verse timings as JSON string
   const verseTimings = [
     {
-      verseId: 'verse-1-id',
+      verseId: 'gen-2-1',
       startTimeSeconds: 0,
       durationSeconds: 10.5,
     },
     {
-      verseId: 'verse-2-id',
+      verseId: 'gen-2-2',
       startTimeSeconds: 10.5,
       durationSeconds: 12.3,
     },
@@ -128,7 +128,7 @@ const testMultipartUpload = async token => {
   formData.append('verse_timings', JSON.stringify(verseTimings));
 
   // Add tag IDs as JSON string
-  const tagIds = ['tag-1-id', 'tag-2-id'];
+  const tagIds = [];
   formData.append('tag_ids', JSON.stringify(tagIds));
 
   try {
