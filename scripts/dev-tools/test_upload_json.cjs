@@ -63,7 +63,7 @@ async function testUpload(token) {
 
     const testData = {
       target_type: 'chapter',
-      target_id: 'chapter-genesis-1', // Use real chapter ID from database
+      target_id: 'gen-1', // Use real chapter ID from database
       language_entity_id: 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbba', // This is already valid (Nepali)
       filename: filename,
       file_content: `Test content for ${filename}`,

@@ -45,7 +45,7 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
       target_id: formData.get('target_id') as string,
       language_entity_id: formData.get('language_entity_id') as string,
       project_id: formData.get('project_id') as string,
-      filename: file?.name || 'unknown',
+      filename: file.name || 'unknown',
       duration_seconds: formData.get('duration_seconds') as string,
     };
   }
