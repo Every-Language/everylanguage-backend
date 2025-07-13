@@ -14,397 +14,397 @@ INSERT INTO
   books (id, name, book_number, bible_version_id)
 VALUES
   (
-    'book-genesis',
+    'gen',
     'Genesis',
     1,
     'bible-version-protestant-standard'
   ),
   (
-    'book-exodus',
+    'exod',
     'Exodus',
     2,
     'bible-version-protestant-standard'
   ),
   (
-    'book-leviticus',
+    'lev',
     'Leviticus',
     3,
     'bible-version-protestant-standard'
   ),
   (
-    'book-numbers',
+    'num',
     'Numbers',
     4,
     'bible-version-protestant-standard'
   ),
   (
-    'book-deuteronomy',
+    'deut',
     'Deuteronomy',
     5,
     'bible-version-protestant-standard'
   ),
   (
-    'book-joshua',
+    'josh',
     'Joshua',
     6,
     'bible-version-protestant-standard'
   ),
   (
-    'book-judges',
+    'judg',
     'Judges',
     7,
     'bible-version-protestant-standard'
   ),
   (
-    'book-ruth',
+    'ruth',
     'Ruth',
     8,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_samuel',
+    '1sam',
     '1 Samuel',
     9,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_samuel',
+    '2sam',
     '2 Samuel',
     10,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_kings',
+    '1kgs',
     '1 Kings',
     11,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_kings',
+    '2kgs',
     '2 Kings',
     12,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_chronicles',
+    '1chr',
     '1 Chronicles',
     13,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_chronicles',
+    '2chr',
     '2 Chronicles',
     14,
     'bible-version-protestant-standard'
   ),
   (
-    'book-ezra',
+    'ezra',
     'Ezra',
     15,
     'bible-version-protestant-standard'
   ),
   (
-    'book-nehemiah',
+    'neh',
     'Nehemiah',
     16,
     'bible-version-protestant-standard'
   ),
   (
-    'book-esther',
+    'esth',
     'Esther',
     17,
     'bible-version-protestant-standard'
   ),
   (
-    'book-job',
+    'job',
     'Job',
     18,
     'bible-version-protestant-standard'
   ),
   (
-    'book-psalms',
+    'ps',
     'Psalms',
     19,
     'bible-version-protestant-standard'
   ),
   (
-    'book-proverbs',
+    'prov',
     'Proverbs',
     20,
     'bible-version-protestant-standard'
   ),
   (
-    'book-ecclesiastes',
+    'eccl',
     'Ecclesiastes',
     21,
     'bible-version-protestant-standard'
   ),
   (
-    'book-song_of_songs',
+    'song',
     'Song Of Songs',
     22,
     'bible-version-protestant-standard'
   ),
   (
-    'book-isaiah',
+    'isa',
     'Isaiah',
     23,
     'bible-version-protestant-standard'
   ),
   (
-    'book-jeremiah',
+    'jer',
     'Jeremiah',
     24,
     'bible-version-protestant-standard'
   ),
   (
-    'book-lamentations',
+    'lam',
     'Lamentations',
     25,
     'bible-version-protestant-standard'
   ),
   (
-    'book-ezekiel',
+    'ezek',
     'Ezekiel',
     26,
     'bible-version-protestant-standard'
   ),
   (
-    'book-daniel',
+    'dan',
     'Daniel',
     27,
     'bible-version-protestant-standard'
   ),
   (
-    'book-hosea',
+    'hos',
     'Hosea',
     28,
     'bible-version-protestant-standard'
   ),
   (
-    'book-joel',
+    'joel',
     'Joel',
     29,
     'bible-version-protestant-standard'
   ),
   (
-    'book-amos',
+    'amos',
     'Amos',
     30,
     'bible-version-protestant-standard'
   ),
   (
-    'book-obadiah',
+    'obad',
     'Obadiah',
     31,
     'bible-version-protestant-standard'
   ),
   (
-    'book-jonah',
+    'jonah',
     'Jonah',
     32,
     'bible-version-protestant-standard'
   ),
   (
-    'book-micah',
+    'mic',
     'Micah',
     33,
     'bible-version-protestant-standard'
   ),
   (
-    'book-nahum',
+    'nah',
     'Nahum',
     34,
     'bible-version-protestant-standard'
   ),
   (
-    'book-habakkuk',
+    'hab',
     'Habakkuk',
     35,
     'bible-version-protestant-standard'
   ),
   (
-    'book-zephaniah',
+    'zeph',
     'Zephaniah',
     36,
     'bible-version-protestant-standard'
   ),
   (
-    'book-haggai',
+    'hag',
     'Haggai',
     37,
     'bible-version-protestant-standard'
   ),
   (
-    'book-zechariah',
+    'zech',
     'Zechariah',
     38,
     'bible-version-protestant-standard'
   ),
   (
-    'book-malachi',
+    'mal',
     'Malachi',
     39,
     'bible-version-protestant-standard'
   ),
   (
-    'book-matthew',
+    'matt',
     'Matthew',
     40,
     'bible-version-protestant-standard'
   ),
   (
-    'book-mark',
+    'mark',
     'Mark',
     41,
     'bible-version-protestant-standard'
   ),
   (
-    'book-luke',
+    'luke',
     'Luke',
     42,
     'bible-version-protestant-standard'
   ),
   (
-    'book-john',
+    'john',
     'John',
     43,
     'bible-version-protestant-standard'
   ),
   (
-    'book-acts',
+    'acts',
     'Acts',
     44,
     'bible-version-protestant-standard'
   ),
   (
-    'book-romans',
+    'rom',
     'Romans',
     45,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_corinthians',
+    '1cor',
     '1 Corinthians',
     46,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_corinthians',
+    '2cor',
     '2 Corinthians',
     47,
     'bible-version-protestant-standard'
   ),
   (
-    'book-galatians',
+    'gal',
     'Galatians',
     48,
     'bible-version-protestant-standard'
   ),
   (
-    'book-ephesians',
+    'eph',
     'Ephesians',
     49,
     'bible-version-protestant-standard'
   ),
   (
-    'book-philippians',
+    'phil',
     'Philippians',
     50,
     'bible-version-protestant-standard'
   ),
   (
-    'book-colossians',
+    'col',
     'Colossians',
     51,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_thessalonians',
+    '1thess',
     '1 Thessalonians',
     52,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_thessalonians',
+    '2thess',
     '2 Thessalonians',
     53,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_timothy',
+    '1tim',
     '1 Timothy',
     54,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_timothy',
+    '2tim',
     '2 Timothy',
     55,
     'bible-version-protestant-standard'
   ),
   (
-    'book-titus',
+    'titus',
     'Titus',
     56,
     'bible-version-protestant-standard'
   ),
   (
-    'book-philemon',
+    'phlm',
     'Philemon',
     57,
     'bible-version-protestant-standard'
   ),
   (
-    'book-hebrews',
+    'heb',
     'Hebrews',
     58,
     'bible-version-protestant-standard'
   ),
   (
-    'book-james',
+    'jas',
     'James',
     59,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_peter',
+    '1pet',
     '1 Peter',
     60,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_peter',
+    '2pet',
     '2 Peter',
     61,
     'bible-version-protestant-standard'
   ),
   (
-    'book-1_john',
+    '1john',
     '1 John',
     62,
     'bible-version-protestant-standard'
   ),
   (
-    'book-2_john',
+    '2john',
     '2 John',
     63,
     'bible-version-protestant-standard'
   ),
   (
-    'book-3_john',
+    '3john',
     '3 John',
     64,
     'bible-version-protestant-standard'
   ),
   (
-    'book-jude',
+    'jude',
     'Jude',
     65,
     'bible-version-protestant-standard'
   ),
   (
-    'book-revelation',
+    'rev',
     'Revelation',
     66,
     'bible-version-protestant-standard'

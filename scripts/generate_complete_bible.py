@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Generates the Bible structure as SQL seed files with ALL verses (31,102 verses)
+Uses OSIS standardized abbreviations for human-readable IDs
 """
 
 import os
@@ -11,6 +12,25 @@ EXPECTED_TOTALS = {
     'books': 66,
     'chapters': 1189,
     'verses': 31102
+}
+
+# Mapping from internal book names to OSIS standardized abbreviations
+BOOK_NAME_TO_OSIS = {
+    'genesis': 'Gen', 'exodus': 'Exod', 'leviticus': 'Lev', 'numbers': 'Num', 'deuteronomy': 'Deut',
+    'joshua': 'Josh', 'judges': 'Judg', 'ruth': 'Ruth', '1_samuel': '1Sam', '2_samuel': '2Sam',
+    '1_kings': '1Kgs', '2_kings': '2Kgs', '1_chronicles': '1Chr', '2_chronicles': '2Chr',
+    'ezra': 'Ezra', 'nehemiah': 'Neh', 'esther': 'Esth', 'job': 'Job', 'psalms': 'Ps',
+    'proverbs': 'Prov', 'ecclesiastes': 'Eccl', 'song_of_songs': 'Song', 'isaiah': 'Isa',
+    'jeremiah': 'Jer', 'lamentations': 'Lam', 'ezekiel': 'Ezek', 'daniel': 'Dan',
+    'hosea': 'Hos', 'joel': 'Joel', 'amos': 'Amos', 'obadiah': 'Obad', 'jonah': 'Jonah',
+    'micah': 'Mic', 'nahum': 'Nah', 'habakkuk': 'Hab', 'zephaniah': 'Zeph', 'haggai': 'Hag',
+    'zechariah': 'Zech', 'malachi': 'Mal',
+    'matthew': 'Matt', 'mark': 'Mark', 'luke': 'Luke', 'john': 'John', 'acts': 'Acts',
+    'romans': 'Rom', '1_corinthians': '1Cor', '2_corinthians': '2Cor', 'galatians': 'Gal',
+    'ephesians': 'Eph', 'philippians': 'Phil', 'colossians': 'Col', '1_thessalonians': '1Thess',
+    '2_thessalonians': '2Thess', '1_timothy': '1Tim', '2_timothy': '2Tim', 'titus': 'Titus',
+    'philemon': 'Phlm', 'hebrews': 'Heb', 'james': 'Jas', '1_peter': '1Pet', '2_peter': '2Pet',
+    '1_john': '1John', '2_john': '2John', '3_john': '3John', 'jude': 'Jude', 'revelation': 'Rev'
 }
 
 # Known correct chapter counts for Protestant Bible (for verification)
@@ -226,7 +246,7 @@ def generate_single_file():
     
     book_values = []
     for book in PROTESTANT_BIBLE:
-        book_id = f"book-{book['name']}"
+        book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
         book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, 'bible-version-protestant-standard')")
     
     sql_parts.append(",\n".join(book_values) + ";")
@@ -238,7 +258,7 @@ def generate_single_file():
     sql_parts.append("-- ============================================================================")
     
     for book in PROTESTANT_BIBLE:
-        book_id = f"book-{book['name']}"
+        book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
         book_name = book['name'].replace('_', ' ').title()
         chapter_count = len(book['chapters'])
         
@@ -248,7 +268,7 @@ def generate_single_file():
         
         chapter_values = []
         for chapter_num, verse_count in enumerate(book['chapters'], 1):
-            chapter_id = f"chapter-{book['name']}-{chapter_num}"
+            chapter_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}"
             chapter_values.append(f"  ('{chapter_id}', '{book_id}', {chapter_num}, {verse_count})")
         
         sql_parts.append(",\n".join(chapter_values) + ";")
@@ -264,7 +284,7 @@ def generate_single_file():
         book_name = book['name'].replace('_', ' ').title()
         
         for chapter_num, chapter_verse_count in enumerate(book['chapters'], 1):
-            chapter_id = f"chapter-{book['name']}-{chapter_num}"
+            chapter_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}"
             
             sql_parts.append(f"-- {book_name.upper()} CHAPTER {chapter_num} ({chapter_verse_count} verses)")
             sql_parts.append("INSERT INTO verses (id, chapter_id, verse_number)")
@@ -272,7 +292,7 @@ def generate_single_file():
             
             verse_values = []
             for verse_num in range(1, chapter_verse_count + 1):
-                verse_id = f"verse-{book['name']}-{chapter_num}-{verse_num}"
+                verse_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}-{verse_num}"
                 verse_values.append(f"  ('{verse_id}', '{chapter_id}', {verse_num})")
                 verse_count += 1
             
@@ -298,7 +318,7 @@ def generate_chunked_files(verses_per_file=5000):
     print(f"Generating Bible data in chunks of {verses_per_file:,} verses each...")
     
     # Create directory
-    output_dir = "supabase/seed/03_bible_chunks"
+    output_dir = "./supabase/seed/03_bible_chunks"
     os.makedirs(output_dir, exist_ok=True)
     
     # Generate bible version and books first
@@ -311,7 +331,7 @@ def generate_chunked_files(verses_per_file=5000):
         f.write("INSERT INTO books (id, name, book_number, bible_version_id)\nVALUES\n")
         book_values = []
         for book in PROTESTANT_BIBLE:
-            book_id = f"book-{book['name']}"
+            book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
             book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, 'bible-version-protestant-standard')")
         f.write(",\n".join(book_values) + ";\n")
     
@@ -319,7 +339,7 @@ def generate_chunked_files(verses_per_file=5000):
     with open(f"{output_dir}/02_all_chapters.sql", "w") as f:
         f.write("-- All Chapters\n")
         for book in PROTESTANT_BIBLE:
-            book_id = f"book-{book['name']}"
+            book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
             book_name = book['name'].replace('_', ' ').title()
             
             f.write(f"-- {book_name.upper()}\n")
@@ -327,7 +347,7 @@ def generate_chunked_files(verses_per_file=5000):
             
             chapter_values = []
             for chapter_num, verse_count in enumerate(book['chapters'], 1):
-                chapter_id = f"chapter-{book['name']}-{chapter_num}"
+                chapter_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}"
                 chapter_values.append(f"  ('{chapter_id}', '{book_id}', {chapter_num}, {verse_count})")
             
             f.write(",\n".join(chapter_values) + ";\n\n")
@@ -337,36 +357,41 @@ def generate_chunked_files(verses_per_file=5000):
     file_count = 3
     current_file = None
     
+    current_insert_verses = []
+    
     for book in PROTESTANT_BIBLE:
         for chapter_num, chapter_verse_count in enumerate(book['chapters'], 1):
-            chapter_id = f"chapter-{book['name']}-{chapter_num}"
-            
-            # Check if we need a new file
-            if current_file is None or verse_count % verses_per_file == 0:
-                if current_file:
-                    current_file.close()
-                    
-                current_file = open(f"{output_dir}/{file_count:02d}_verses_{verse_count+1:06d}_{verse_count+verses_per_file:06d}.sql", "w")
-                current_file.write(f"-- Verses {verse_count+1:,} to {verse_count+verses_per_file:,}\n\n")
-                file_count += 1
-            
-            # Write chapter verses
+            chapter_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}"
             book_name = book['name'].replace('_', ' ').title()
-            current_file.write(f"-- {book_name.upper()} CHAPTER {chapter_num}\n")
-            current_file.write("INSERT INTO verses (id, chapter_id, verse_number)\nVALUES\n")
             
-            verse_values = []
             for verse_num in range(1, chapter_verse_count + 1):
-                verse_id = f"verse-{book['name']}-{chapter_num}-{verse_num}"
-                verse_values.append(f"  ('{verse_id}', '{chapter_id}', {verse_num})")
+                # Check if we need a new file
+                if current_file is None or verse_count % verses_per_file == 0:
+                    # Close previous file if it exists
+                    if current_file is not None:
+                        if current_insert_verses:
+                            current_file.write(",\n".join(current_insert_verses) + ";\n\n")
+                        current_file.close()
+                    
+                    # Open new file
+                    start_verse = verse_count + 1
+                    end_verse = min(verses_per_file + verse_count, EXPECTED_TOTALS['verses'])
+                    current_file = open(f"{output_dir}/{file_count:02d}_verses_{start_verse:06d}_{end_verse:06d}.sql", "w")
+                    current_file.write(f"-- Verses {start_verse:,} to {end_verse:,}\n\n")
+                    current_file.write("INSERT INTO verses (id, chapter_id, verse_number)\nVALUES\n")
+                    file_count += 1
+                    current_insert_verses = []
+                
+                verse_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}-{verse_num}"
+                current_insert_verses.append(f"  ('{verse_id}', '{chapter_id}', {verse_num})")
                 verse_count += 1
-            
-            current_file.write(",\n".join(verse_values) + ";\n\n")
-            
-            if verse_count % 1000 == 0:
-                print(f"Generated {verse_count:,} verses...")
+                
+                if verse_count % 1000 == 0:
+                    print(f"Generated {verse_count:,} verses...")
     
-    if current_file:
+    # Close the final file and complete the last INSERT statement
+    if current_file and current_insert_verses:
+        current_file.write(",\n".join(current_insert_verses) + ";\n")
         current_file.close()
     
     # Create final refresh file
