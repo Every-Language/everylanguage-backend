@@ -1,3 +1,52 @@
+// Test setup for Jest
+import { TextEncoder, TextDecoder } from 'util';
+
+// Polyfill for Node.js environment
+global.TextEncoder = TextEncoder;
+global.TextDecoder = TextDecoder;
+
+// Mock Deno global for Edge Functions
+(global as any).Deno = {
+  env: {
+    get: (key: string) => process.env[key] || '',
+  },
+};
+
+// Mock fetch if not available (Node.js < 18)
+if (typeof global.fetch === 'undefined') {
+  const { default: fetch, Headers, Request, Response } = require('node-fetch');
+  global.fetch = fetch;
+  global.Headers = Headers;
+  global.Request = Request;
+  global.Response = Response;
+}
+
+// Mock File constructor for tests
+if (typeof global.File === 'undefined') {
+  global.File = class MockFile {
+    name: string;
+    size: number;
+    type: string;
+
+    constructor(bits: any[], name: string, options: { type?: string } = {}) {
+      this.name = name;
+      this.size = bits.reduce((total, bit) => total + bit.length, 0);
+      this.type = options.type || '';
+    }
+  } as any;
+}
+
+// Mock crypto.subtle for tests
+if (!global.crypto) {
+  global.crypto = {
+    subtle: {
+      digest: jest
+        .fn()
+        .mockImplementation(() => Promise.resolve(new ArrayBuffer(20))),
+    },
+  } as any;
+}
+
 // Jest setup file - runs after environment setup but before tests
 
 // Global test configuration
