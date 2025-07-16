@@ -47,6 +47,7 @@
     "format:check": "prettier --check .",
     "sql:format": "sql-formatter --config .sqlformatterrc.json supabase/migrations/*.sql",
     "type-check": "tsc --noEmit",
+    "type-check:functions": "cd supabase/functions && deno check **/*.ts",
     "prepare": "husky",
     "commit": "cz",
     "version:patch": "npm version patch",
