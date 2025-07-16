@@ -1,9 +1,9 @@
 // Mock fetch at the top level to avoid network calls in tests
-const mockFetch = jest.fn();
+const mockFetchRobustness = jest.fn();
 
 beforeEach(() => {
   jest.clearAllMocks();
-  global.fetch = mockFetch;
+  global.fetch = mockFetchRobustness;
 
   // Helper function to create mock responses
   function createMockResponse(data: any, status = 200) {
@@ -15,7 +15,7 @@ beforeEach(() => {
     } as Response);
   }
 
-  mockFetch.mockImplementation((url: string, options: any) => {
+  mockFetchRobustness.mockImplementation((url: string, options: any) => {
     if (url.includes('/auth/v1/token')) {
       return createMockResponse({
         access_token: 'mock-auth-token',

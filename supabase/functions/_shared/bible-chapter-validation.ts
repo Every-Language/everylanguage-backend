@@ -23,9 +23,35 @@ export interface ParsedBibleChapterRequest {
   uploadRequest: BibleChapterUploadRequest;
 }
 
-export async function parseBibleChapterUploadRequest(
+interface BibleChapterJsonData {
+  language_entity_id: string;
+  chapter_id: string;
+  start_verse_id: string;
+  end_verse_id: string;
+  duration_seconds: number;
+  project_id: string;
+  filename?: string;
+  verse_timings: Array<{ verseId: string; startTime: number; endTime: number }>;
+  tag_ids: string[];
+  file_content?: string;
+}
+
+function isBibleChapterJsonData(data: unknown): data is BibleChapterJsonData {
+  return (
+    typeof data === 'object' &&
+    data !== null &&
+    typeof (data as any).language_entity_id === 'string' &&
+    typeof (data as any).chapter_id === 'string' &&
+    typeof (data as any).start_verse_id === 'string' &&
+    typeof (data as any).end_verse_id === 'string' &&
+    typeof (data as any).duration_seconds === 'number'
+    // Note: project_id, verse_timings and tag_ids are optional and can be missing in tests
+  );
+}
+
+export async function parseAndValidateBibleChapterRequest(
   req: Request
-): Promise<ParsedBibleChapterRequest> {
+): Promise<{ file: File; uploadRequest: BibleChapterUploadRequest }> {
   const contentType = req.headers.get('content-type') ?? '';
   const isMultipart = contentType.includes('multipart/form-data');
   const isJson = contentType.includes('application/json');
@@ -40,6 +66,11 @@ export async function parseBibleChapterUploadRequest(
   if (isJson) {
     // Handle JSON test data
     const jsonData = await req.json();
+
+    if (!isBibleChapterJsonData(jsonData)) {
+      throw new Error('Invalid JSON data format for bible chapter upload');
+    }
+
     uploadRequest = {
       language_entity_id: jsonData.language_entity_id,
       chapter_id: jsonData.chapter_id,
@@ -282,8 +313,10 @@ export async function validateBibleChapterUploadRequest(
       );
     }
 
-    const startVerse = verses.find(v => v.id === uploadRequest.startVerseId);
-    const endVerse = verses.find(v => v.id === uploadRequest.endVerseId);
+    const startVerse = verses.find(
+      (v: any) => v.id === uploadRequest.startVerseId
+    );
+    const endVerse = verses.find((v: any) => v.id === uploadRequest.endVerseId);
 
     if (!startVerse || !endVerse) {
       throw new Error('Start verse or end verse not found');
@@ -325,7 +358,7 @@ export async function validateBibleChapterUploadRequest(
 
       // Check that all timing verses exist and belong to the chapter
       for (const timing of uploadRequest.verseTimings) {
-        const verse = timingVerses.find(v => v.id === timing.verseId);
+        const verse = timingVerses.find((v: any) => v.id === timing.verseId);
         if (!verse) {
           throw new Error(`Verse with ID ${timing.verseId} not found`);
         }
@@ -358,7 +391,7 @@ export async function validateBibleChapterUploadRequest(
 
       console.log(`✅ ${uploadRequest.tagIds.length} tags validated`);
     }
-  } catch (dbError) {
+  } catch (dbError: any) {
     throw new Error(`Database validation failed: ${dbError.message}`);
   }
 }

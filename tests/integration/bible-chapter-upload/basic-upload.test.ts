@@ -1,6 +1,6 @@
 // Mock fetch for integration tests
-const mockFetchBasic = jest.fn();
-global.fetch = mockFetchBasic;
+const mockFetchBibleChapter = jest.fn();
+global.fetch = mockFetchBibleChapter;
 
 interface AuthResponse {
   access_token: string;
@@ -33,7 +33,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   beforeAll(async () => {
     // Mock authentication response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: true,
       status: 200,
       json: () =>
@@ -67,12 +67,12 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   beforeEach(() => {
     // Reset mock before each test
-    mockFetchBasic.mockClear();
+    mockFetchBibleChapter.mockClear();
   });
 
   test('should upload Bible chapter via JSON method', async () => {
     // Mock successful upload response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: true,
       status: 200,
       json: () =>
@@ -138,7 +138,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should require authentication', async () => {
     // Mock unauthorized response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: false,
       status: 401,
       json: () => Promise.resolve({ error: 'Unauthorized' }),
@@ -172,7 +172,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should validate required fields', async () => {
     // Mock validation error response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: false,
       status: 400,
       json: () => Promise.resolve({ error: 'Missing required fields' }),
@@ -202,7 +202,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should handle verse timings correctly', async () => {
     // Mock successful upload response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: true,
       status: 200,
       json: () =>
@@ -257,7 +257,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should work without optional fields', async () => {
     // Mock successful upload response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: true,
       status: 200,
       json: () =>
@@ -309,7 +309,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should handle file type validation', async () => {
     // Mock validation error response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: false,
       status: 400,
       json: () => Promise.resolve({ error: 'Only audio files are supported' }),
@@ -343,7 +343,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
 
   test('should handle database validation errors', async () => {
     // Mock database validation error response
-    mockFetchBasic.mockResolvedValueOnce({
+    mockFetchBibleChapter.mockResolvedValueOnce({
       ok: false,
       status: 400,
       json: () =>

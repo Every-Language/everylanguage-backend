@@ -1,4 +1,4 @@
-import { MediaType } from './media-validation.ts';
+import type { MediaType } from './media-validation.ts';
 
 export interface MediaFileData {
   languageEntityId: string;

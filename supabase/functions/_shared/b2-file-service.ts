@@ -19,6 +19,19 @@ interface B2FileInfo {
   uploadTimestamp: number;
 }
 
+interface B2ListFilesResponse {
+  files: B2FileInfo[];
+  nextFileName?: string;
+}
+
+function isB2ListFilesResponse(data: unknown): data is B2ListFilesResponse {
+  return (
+    typeof data === 'object' &&
+    data !== null &&
+    Array.isArray((data as any).files)
+  );
+}
+
 interface B2DownloadResult {
   data: Uint8Array;
   contentType: string;
@@ -168,44 +181,63 @@ export class B2FileService {
   /**
    * Get file info from B2
    */
-  async getFileInfo(fileName: string): Promise<B2FileInfo | null> {
-    const auth = await this.authService.authenticate();
-    const config = this.authService.getConfig();
+  async getFileInfo(fileName: string): Promise<{
+    fileId: string;
+    fileName: string;
+    contentLength: number;
+    contentType: string;
+    uploadTimestamp: number;
+  } | null> {
+    try {
+      await this.authService.ensureAuth();
 
-    const response = await fetch(`${auth.apiUrl}/b2api/v2/b2_list_file_names`, {
-      method: 'POST',
-      headers: {
-        Authorization: auth.authorizationToken,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        bucketId: config.bucketId,
-        startFileName: fileName,
-        maxFileCount: 1,
-      }),
-    });
+      const listResponse = await fetch(
+        `${this.authService.getApiUrl()}/b2api/v2/b2_list_file_names`,
+        {
+          method: 'POST',
+          headers: {
+            Authorization: this.authService.getAuthToken(),
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            bucketId: this.authService.getConfig().bucketId,
+            startFileName: fileName,
+            maxFileCount: 1,
+            prefix: fileName,
+          }),
+        }
+      );
 
-    if (!response.ok) {
-      const error = await response.text();
-      throw new Error(`Failed to get file info: ${error}`);
-    }
-
-    const data = await response.json();
-
-    if (data.files && data.files.length > 0) {
-      const file = data.files[0];
-      if (file.fileName === fileName) {
-        return {
-          fileId: file.fileId,
-          fileName: file.fileName,
-          contentType: file.contentType,
-          contentLength: file.contentLength,
-          uploadTimestamp: file.uploadTimestamp,
-        };
+      if (!listResponse.ok) {
+        throw new Error(
+          `HTTP ${listResponse.status}: ${listResponse.statusText}`
+        );
       }
-    }
 
-    return null; // File not found
+      const data = await listResponse.json();
+
+      if (!isB2ListFilesResponse(data)) {
+        throw new Error('Invalid response format from B2 API');
+      }
+
+      if (data.files && data.files.length > 0) {
+        const file = data.files[0];
+        if (file.fileName === fileName) {
+          return {
+            fileId: file.fileId,
+            fileName: file.fileName,
+            contentType: file.contentType,
+            contentLength: file.contentLength,
+            uploadTimestamp: file.uploadTimestamp,
+          };
+        }
+      }
+
+      return null; // File not found
+    } catch (error) {
+      console.error(`Failed to get file info for ${fileName}:`, error);
+      return null;
+    }
   }
 
   /**

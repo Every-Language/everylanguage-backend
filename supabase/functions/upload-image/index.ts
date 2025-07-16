@@ -1,19 +1,16 @@
 // Setup type definitions for built-in Supabase Runtime APIs
 import 'jsr:@supabase/functions-js/edge-runtime.d.ts';
 
-import { createClient } from 'jsr:@supabase/supabase-js@2';
+import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
 import {
   parseImageUploadRequest,
   validateImageUploadRequest,
   validateImageUploadInDatabase,
-  ImageUploadResponse,
 } from '../_shared/image-validation.ts';
-import {
-  ImageService,
-  ImageData,
-  ImageSetData,
-} from '../_shared/image-service.ts';
+import type { ImageUploadResponse } from '../_shared/image-validation.ts';
+import type { ImageData, ImageSetData } from '../_shared/image-service.ts';
+import { ImageService } from '../_shared/image-service.ts';
 import { B2Utils } from '../_shared/b2-utils.ts';
 
 // CORS headers

@@ -1,4 +1,4 @@
-import { parseBibleChapterUploadRequest } from '../../supabase/functions/_shared/bible-chapter-validation';
+import { parseAndValidateBibleChapterRequest } from '../../supabase/functions/_shared/bible-chapter-validation';
 
 // Mock File constructor for tests
 global.File = class MockFile {
@@ -49,7 +49,7 @@ describe('Bible Chapter Validation - Parser', () => {
         json: () => Promise.resolve(mockRequestData),
       } as any;
 
-      const result = await parseBibleChapterUploadRequest(mockRequest);
+      const result = await parseAndValidateBibleChapterRequest(mockRequest);
 
       expect(result.uploadRequest.fileName).toBe('test-chapter.m4a');
       expect(result.uploadRequest.languageEntityId).toBe('test-lang-id');
@@ -80,7 +80,9 @@ describe('Bible Chapter Validation - Parser', () => {
         json: () => Promise.resolve(mockRequestData),
       } as any;
 
-      await expect(parseBibleChapterUploadRequest(mockRequest)).rejects.toThrow(
+      await expect(
+        parseAndValidateBibleChapterRequest(mockRequest)
+      ).rejects.toThrow(
         'Missing required fields: chapter_id, start_verse_id, end_verse_id, duration_seconds'
       );
     });
@@ -107,7 +109,7 @@ describe('Bible Chapter Validation - Parser', () => {
         json: () => Promise.resolve(mockRequestData),
       } as any;
 
-      const result = await parseBibleChapterUploadRequest(mockRequest);
+      const result = await parseAndValidateBibleChapterRequest(mockRequest);
 
       expect(result.uploadRequest.fileName).toBe('test-chapter.m4a');
       expect(result.uploadRequest.languageEntityId).toBe('test-lang-id');
@@ -156,7 +158,7 @@ describe('Bible Chapter Validation - Parser', () => {
         json: () => Promise.resolve(mockRequestData),
       } as any;
 
-      const result = await parseBibleChapterUploadRequest(mockRequest);
+      const result = await parseAndValidateBibleChapterRequest(mockRequest);
 
       expect(result.uploadRequest.verseTimings).toHaveLength(2);
       expect(result.uploadRequest.verseTimings![0]).toEqual({
@@ -181,9 +183,9 @@ describe('Bible Chapter Validation - Parser', () => {
         },
       } as any;
 
-      await expect(parseBibleChapterUploadRequest(mockRequest)).rejects.toThrow(
-        'Unsupported content type: text/plain'
-      );
+      await expect(
+        parseAndValidateBibleChapterRequest(mockRequest)
+      ).rejects.toThrow('Unsupported content type: text/plain');
     });
   });
 });

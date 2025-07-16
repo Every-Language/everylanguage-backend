@@ -1,4 +1,3 @@
-import { serve } from 'https://deno.land/std@0.168.0/http/server.ts';
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
 
@@ -8,7 +7,8 @@ const corsHeaders = {
     'authorization, x-client-info, apikey, content-type',
 };
 
-serve(async req => {
+// Use Deno.serve instead of importing serve
+Deno.serve(async (req: Request) => {
   // Handle CORS preflight requests
   if (req.method === 'OPTIONS') {
     return new Response('ok', { headers: corsHeaders });
@@ -170,12 +170,12 @@ serve(async req => {
         },
       });
     }
-  } catch (error) {
+  } catch (error: unknown) {
     console.error('Download error:', error);
     return new Response(
       JSON.stringify({
         error: 'Download failed',
-        details: error.message,
+        details: (error as Error).message,
       }),
       {
         status: 500,

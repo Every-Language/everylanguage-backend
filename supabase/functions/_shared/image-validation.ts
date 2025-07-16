@@ -44,9 +44,30 @@ export interface ImageUploadResponse {
   error?: string;
 }
 
+interface ImageJsonData {
+  target_type: string;
+  target_id: string;
+  set_id?: string;
+  set_name?: string;
+  set_remote_path?: string;
+  create_new_set?: boolean;
+  filename?: string;
+  metadata?: any;
+  file_content?: string;
+}
+
+function isImageJsonData(data: unknown): data is ImageJsonData {
+  return (
+    typeof data === 'object' &&
+    data !== null &&
+    typeof (data as any).target_type === 'string' &&
+    typeof (data as any).target_id === 'string'
+  );
+}
+
 export async function parseImageUploadRequest(
   req: Request
-): Promise<ParsedImageRequest> {
+): Promise<{ file: File; uploadRequest: ImageUploadRequest }> {
   const contentType = req.headers.get('content-type') ?? '';
   const isMultipart = contentType.includes('multipart/form-data');
   const isJson = contentType.includes('application/json');
@@ -63,6 +84,11 @@ export async function parseImageUploadRequest(
   if (isJson) {
     // Handle JSON test data
     const jsonData = await req.json();
+
+    if (!isImageJsonData(jsonData)) {
+      throw new Error('Invalid JSON data format for image upload');
+    }
+
     uploadRequest = {
       target_type: jsonData.target_type,
       target_id: jsonData.target_id,
@@ -257,7 +283,7 @@ export async function validateImageUploadInDatabase(
     if (errors.length > 0) {
       throw new Error(errors.join('; '));
     }
-  } catch (dbError) {
+  } catch (dbError: any) {
     throw new Error(`Database validation failed: ${dbError.message}`);
   }
 }
