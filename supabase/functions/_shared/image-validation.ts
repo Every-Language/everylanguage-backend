@@ -110,6 +110,17 @@ export async function parseImageUploadRequest(
     const formData = await req.formData();
     file = formData.get('file') as File;
 
+    // DEBUG: Log file object properties in CI environment
+    console.log('DEBUG: File object:', file);
+    console.log('DEBUG: File name:', file?.name);
+    console.log('DEBUG: File type:', file?.type);
+    console.log('DEBUG: File constructor:', file?.constructor?.name);
+    console.log('DEBUG: File keys:', file ? Object.keys(file) : 'null');
+    console.log(
+      'DEBUG: File properties:',
+      file ? Object.getOwnPropertyNames(file) : 'null'
+    );
+
     // Parse metadata if provided
     const metadataJson = formData.get('metadata') as string;
     let metadata: Record<string, string> | undefined = undefined;
@@ -127,15 +138,20 @@ export async function parseImageUploadRequest(
       // Try file.name first (standard File API)
       if (file.name && file.name !== '' && file.name !== 'blob') {
         filename = file.name;
+        console.log('DEBUG: Got filename from file.name:', filename);
       }
       // Fallback: check if there's a filename in the FormData entry
       else {
         const fileEntry = formData.get('file');
+        console.log('DEBUG: FormData file entry:', fileEntry);
         if (fileEntry && typeof fileEntry === 'object' && 'name' in fileEntry) {
           filename = (fileEntry as any).name || 'unknown';
+          console.log('DEBUG: Got filename from FormData entry:', filename);
         }
       }
     }
+
+    console.log('DEBUG: Final filename:', filename);
 
     uploadRequest = {
       target_type: formData.get('target_type') as string,
