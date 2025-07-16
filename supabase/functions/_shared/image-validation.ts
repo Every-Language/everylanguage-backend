@@ -134,19 +134,88 @@ export async function parseImageUploadRequest(
 
     // Extract filename from multiple sources for better cross-environment compatibility
     let filename = 'unknown';
-    if (file) {
-      // Try file.name first (standard File API)
-      if (file.name && file.name !== '' && file.name !== 'blob') {
-        filename = file.name;
-        console.log('DEBUG: Got filename from file.name:', filename);
+
+    // Strategy 1: Try file.name first (standard File API)
+    if (file?.name && file.name !== '' && file.name !== 'blob') {
+      filename = file.name;
+      console.log('DEBUG: Got filename from file.name:', filename);
+    }
+    // Strategy 2: Iterate through FormData entries to find filename in headers
+    else {
+      console.log('DEBUG: file.name not available, trying FormData iteration');
+
+      try {
+        // In real multipart form data, filename is in Content-Disposition header
+        // Some polyfills might preserve this information differently
+        for (const [key, value] of formData.entries()) {
+          console.log('DEBUG: FormData entry:', key, value);
+          if (key === 'file' && value && typeof value === 'object') {
+            // Try different property names that might contain the filename
+            const possibleNames = [
+              'name',
+              'fileName',
+              'filename',
+              '_name',
+              'originalName',
+            ];
+            for (const prop of possibleNames) {
+              if (prop in value && (value as any)[prop]) {
+                filename = (value as any)[prop];
+                console.log(`DEBUG: Got filename from ${prop}:`, filename);
+                break;
+              }
+            }
+
+            // If still no filename, check if it's a string representation that contains filename
+            if (filename === 'unknown' && value.toString) {
+              const stringRep = value.toString();
+              console.log('DEBUG: File toString():', stringRep);
+              // Look for filename pattern in string representation
+              const filenameMatch = stringRep.match(
+                /filename["\s]*[:=]["\s]*([^";\s]+)/i
+              );
+              if (filenameMatch?.[1]) {
+                filename = filenameMatch[1];
+                console.log(
+                  'DEBUG: Got filename from string pattern:',
+                  filename
+                );
+              }
+            }
+            break;
+          }
+        }
+      } catch (error) {
+        console.log('DEBUG: Error iterating FormData:', error);
       }
-      // Fallback: check if there's a filename in the FormData entry
-      else {
-        const fileEntry = formData.get('file');
-        console.log('DEBUG: FormData file entry:', fileEntry);
-        if (fileEntry && typeof fileEntry === 'object' && 'name' in fileEntry) {
-          filename = (fileEntry as any).name || 'unknown';
-          console.log('DEBUG: Got filename from FormData entry:', filename);
+    }
+
+    // Strategy 3: Fallback to examining raw FormData structure
+    if (filename === 'unknown') {
+      console.log('DEBUG: Still no filename, examining FormData structure');
+      const fileEntry = formData.get('file');
+      console.log('DEBUG: FormData file entry:', fileEntry);
+      console.log('DEBUG: FormData file entry type:', typeof fileEntry);
+      console.log(
+        'DEBUG: FormData file entry constructor:',
+        fileEntry?.constructor?.name
+      );
+
+      if (fileEntry && typeof fileEntry === 'object') {
+        // Check all enumerable properties
+        console.log('DEBUG: File entry keys:', Object.keys(fileEntry));
+        console.log(
+          'DEBUG: File entry properties:',
+          Object.getOwnPropertyNames(fileEntry)
+        );
+
+        // Try accessing filename through different paths
+        if ('name' in fileEntry && (fileEntry as any).name) {
+          filename = (fileEntry as any).name;
+          console.log(
+            'DEBUG: Got filename from FormData entry.name:',
+            filename
+          );
         }
       }
     }
