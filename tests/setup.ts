@@ -39,6 +39,7 @@ if (typeof global.File === 'undefined') {
     size: number;
     type: string;
     lastModified: number;
+    webkitRelativePath: string;
 
     constructor(
       bits: any[],
@@ -54,16 +55,49 @@ if (typeof global.File === 'undefined') {
       }, 0);
       this.type = options.type || '';
       this.lastModified = options.lastModified || Date.now();
+      this.webkitRelativePath = '';
+
+      // Ensure name property is enumerable and non-writable
+      Object.defineProperty(this, 'name', {
+        value: name,
+        writable: false,
+        enumerable: true,
+        configurable: false,
+      });
+
+      // Add toString method to help with debugging
+      Object.defineProperty(this, 'toString', {
+        value: () =>
+          `[object File] { name: "${name}", size: ${this.size}, type: "${this.type}" }`,
+        writable: false,
+        enumerable: false,
+        configurable: false,
+      });
     }
 
-    // Add toString method to help with debugging
-    toString() {
-      return `[object File] { name: "${this.name}", type: "${this.type}", size: ${this.size} }`;
+    // Implement basic File methods for compatibility
+    stream(): ReadableStream<Uint8Array> {
+      return new ReadableStream({
+        start(controller) {
+          const encoder = new TextEncoder();
+          controller.enqueue(encoder.encode('test content'));
+          controller.close();
+        },
+      });
     }
 
-    // Add valueOf method
-    valueOf() {
-      return this;
+    text(): Promise<string> {
+      return Promise.resolve('test content');
+    }
+
+    arrayBuffer(): Promise<ArrayBuffer> {
+      const encoder = new TextEncoder();
+      return Promise.resolve(encoder.encode('test content').buffer);
+    }
+
+    slice(start?: number, end?: number, contentType?: string): Blob {
+      // Simple implementation for testing
+      return new (global as any).Blob(['test content'], { type: contentType });
     }
   } as any;
 }

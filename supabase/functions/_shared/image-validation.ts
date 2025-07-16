@@ -90,36 +90,25 @@ export async function parseImageUploadRequest(
     }
 
     uploadRequest = {
-      target_type: jsonData.target_type,
-      target_id: jsonData.target_id,
-      set_id: jsonData.set_id,
-      set_name: jsonData.set_name,
-      set_remote_path: jsonData.set_remote_path,
-      create_new_set: jsonData.create_new_set,
-      filename: jsonData.filename ?? 'test_image.png',
+      fileName: jsonData.filename ?? 'test_image.png',
+      targetType: jsonData.target_type,
+      targetId: jsonData.target_id,
+      setId: jsonData.set_id,
+      setName: jsonData.set_name,
+      setRemotePath: jsonData.set_remote_path,
+      createNewSet: jsonData.create_new_set,
       metadata: jsonData.metadata,
     };
 
     // Create a fake file for testing
     const testContent = jsonData.file_content ?? 'test image content';
-    file = new File([testContent], uploadRequest.filename, {
+    file = new File([testContent], uploadRequest.fileName, {
       type: 'image/png',
     });
   } else {
     // Parse multipart form data
     const formData = await req.formData();
     file = formData.get('file') as File;
-
-    // DEBUG: Log file object properties in CI environment
-    console.log('DEBUG: File object:', file);
-    console.log('DEBUG: File name:', file?.name);
-    console.log('DEBUG: File type:', file?.type);
-    console.log('DEBUG: File constructor:', file?.constructor?.name);
-    console.log('DEBUG: File keys:', file ? Object.keys(file) : 'null');
-    console.log(
-      'DEBUG: File properties:',
-      file ? Object.getOwnPropertyNames(file) : 'null'
-    );
 
     // Parse metadata if provided
     const metadataJson = formData.get('metadata') as string;
@@ -132,104 +121,39 @@ export async function parseImageUploadRequest(
       }
     }
 
-    // Extract filename from multiple sources for better cross-environment compatibility
+    // Extract filename with robust fallback strategy
     let filename = 'unknown';
-
-    // Strategy 1: Try file.name first (standard File API)
-    if (file?.name && file.name !== '' && file.name !== 'blob') {
-      filename = file.name;
-      console.log('DEBUG: Got filename from file.name:', filename);
-    }
-    // Strategy 2: Iterate through FormData entries to find filename in headers
-    else {
-      console.log('DEBUG: file.name not available, trying FormData iteration');
-
-      try {
-        // In real multipart form data, filename is in Content-Disposition header
-        // Some polyfills might preserve this information differently
-        for (const [key, value] of formData.entries()) {
-          console.log('DEBUG: FormData entry:', key, value);
-          if (key === 'file' && value && typeof value === 'object') {
-            // Try different property names that might contain the filename
-            const possibleNames = [
-              'name',
-              'fileName',
-              'filename',
-              '_name',
-              'originalName',
-            ];
-            for (const prop of possibleNames) {
-              if (prop in value && (value as any)[prop]) {
-                filename = (value as any)[prop];
-                console.log(`DEBUG: Got filename from ${prop}:`, filename);
-                break;
-              }
+    if (file) {
+      // Primary: Use file.name if available and valid
+      if (file.name && file.name !== '' && file.name !== 'blob') {
+        filename = file.name;
+      }
+      // Fallback: Check if filename exists in file properties using Object.getOwnPropertyNames
+      else {
+        const fileProps = Object.getOwnPropertyNames(file);
+        if (fileProps.includes('name') && (file as any).name) {
+          filename = (file as any).name;
+        }
+        // Last resort: Try to extract from FormData iteration
+        else {
+          for (const [key, value] of formData.entries()) {
+            if (key === 'file' && value instanceof File && value.name) {
+              filename = value.name;
+              break;
             }
-
-            // If still no filename, check if it's a string representation that contains filename
-            if (filename === 'unknown' && value.toString) {
-              const stringRep = value.toString();
-              console.log('DEBUG: File toString():', stringRep);
-              // Look for filename pattern in string representation
-              const filenameMatch = stringRep.match(
-                /filename["\s]*[:=]["\s]*([^";\s]+)/i
-              );
-              if (filenameMatch?.[1]) {
-                filename = filenameMatch[1];
-                console.log(
-                  'DEBUG: Got filename from string pattern:',
-                  filename
-                );
-              }
-            }
-            break;
           }
         }
-      } catch (error) {
-        console.log('DEBUG: Error iterating FormData:', error);
       }
     }
-
-    // Strategy 3: Fallback to examining raw FormData structure
-    if (filename === 'unknown') {
-      console.log('DEBUG: Still no filename, examining FormData structure');
-      const fileEntry = formData.get('file');
-      console.log('DEBUG: FormData file entry:', fileEntry);
-      console.log('DEBUG: FormData file entry type:', typeof fileEntry);
-      console.log(
-        'DEBUG: FormData file entry constructor:',
-        fileEntry?.constructor?.name
-      );
-
-      if (fileEntry && typeof fileEntry === 'object') {
-        // Check all enumerable properties
-        console.log('DEBUG: File entry keys:', Object.keys(fileEntry));
-        console.log(
-          'DEBUG: File entry properties:',
-          Object.getOwnPropertyNames(fileEntry)
-        );
-
-        // Try accessing filename through different paths
-        if ('name' in fileEntry && (fileEntry as any).name) {
-          filename = (fileEntry as any).name;
-          console.log(
-            'DEBUG: Got filename from FormData entry.name:',
-            filename
-          );
-        }
-      }
-    }
-
-    console.log('DEBUG: Final filename:', filename);
 
     uploadRequest = {
-      target_type: formData.get('target_type') as string,
-      target_id: formData.get('target_id') as string,
-      set_id: formData.get('set_id') as string,
-      set_name: formData.get('set_name') as string,
-      set_remote_path: formData.get('set_remote_path') as string,
-      create_new_set: formData.get('create_new_set') === 'true',
-      filename,
+      fileName: filename,
+      targetType: formData.get('target_type') as string,
+      targetId: formData.get('target_id') as string,
+      setId: formData.get('set_id') as string,
+      setName: formData.get('set_name') as string,
+      setRemotePath: formData.get('set_remote_path') as string,
+      createNewSet: formData.get('create_new_set') === 'true',
       metadata,
     };
   }
@@ -240,13 +164,13 @@ export async function parseImageUploadRequest(
 
   // Create validated upload request
   const finalUploadRequest: ImageUploadRequest = {
-    fileName: uploadRequest.filename,
-    targetType: uploadRequest.target_type,
-    targetId: uploadRequest.target_id,
-    setId: uploadRequest.set_id || undefined,
-    setName: uploadRequest.set_name || undefined,
-    setRemotePath: uploadRequest.set_remote_path || undefined,
-    createNewSet: uploadRequest.create_new_set || false,
+    fileName: uploadRequest.fileName,
+    targetType: uploadRequest.targetType,
+    targetId: uploadRequest.targetId,
+    setId: uploadRequest.setId || undefined,
+    setName: uploadRequest.setName || undefined,
+    setRemotePath: uploadRequest.setRemotePath || undefined,
+    createNewSet: uploadRequest.createNewSet || false,
     metadata: uploadRequest.metadata || undefined,
   };
 
