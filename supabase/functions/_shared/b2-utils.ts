@@ -15,12 +15,14 @@ export class B2Utils {
    */
   static sanitizeFileName(fileName: string): string {
     return fileName
+      .replace(/\s+/g, '_') // Replace spaces with underscores
       .replace(/%/g, 'percent') // Replace % to avoid URL encoding conflicts
       .replace(/\//g, '-') // Replace / to avoid path issues
       .replace(/\\/g, '-') // Replace \ to avoid path issues
       .replace(/\|/g, '-') // Replace | to avoid pipe issues
       .replace(/</g, 'lt') // Replace < to avoid HTML issues
-      .replace(/>/g, 'gt'); // Replace > to avoid HTML issues
+      .replace(/>/g, 'gt') // Replace > to avoid HTML issues
+      .replace(/[^\w\-_.]/g, '_'); // Replace any other special characters with underscores
   }
 
   /**

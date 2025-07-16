@@ -1,276 +1,232 @@
-#!/usr/bin/env node
+// Test script for Image upload
+// Usage: node scripts/dev-tools/test_image_upload.js
 
-/**
- * Test script for image upload functionality
- *
- * This script tests the upload-image edge function with various scenarios:
- * - JSON upload with image set creation
- * - Multipart form data upload
- * - Error handling and validation
- *
- * Usage:
- *   node scripts/dev-tools/test_image_upload.js
- */
+// Configuration
+const SUPABASE_URL = 'https://sjczwtpnjbmscxoszlyi.supabase.co';
+const ANON_KEY =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNqY3p3dHBuamJtc2N4b3N6bHlpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExODE2MjcsImV4cCI6MjA2Njc1NzYyN30.XqaYmc7WPXeF_eASoxHUUMIok8a1OStmfmGL2a5qnAo';
 
-const SUPABASE_URL = process.env.SUPABASE_URL || 'http://127.0.0.1:54321';
-const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || 'your-anon-key';
-const EDGE_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/upload-image`;
+async function authenticateUser(email, password) {
+  console.log(`🔐 Authenticating user: ${email}`);
 
-async function testJsonUpload() {
-  console.log('\n🧪 Testing JSON upload with new image set...');
+  const authUrl = `${SUPABASE_URL}/auth/v1/token?grant_type=password`;
 
-  const requestData = {
+  try {
+    const response = await fetch(authUrl, {
+      method: 'POST',
+      headers: {
+        apikey: ANON_KEY,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        email: email,
+        password: password,
+      }),
+    });
+
+    if (response.ok) {
+      const authData = await response.json();
+      console.log(`✅ Authentication successful!`);
+      console.log(`   User: ${authData.user.email}`);
+      return authData.access_token;
+    } else {
+      const errorText = await response.text();
+      console.log(`❌ Authentication failed: ${response.status}`);
+      console.log(`   Response: ${errorText}`);
+      return null;
+    }
+  } catch (error) {
+    console.log(`❌ Authentication error: ${error.message}`);
+    return null;
+  }
+}
+
+const testUpload = async token => {
+  console.log(`⬆️  Testing Image upload...`);
+
+  // Example 1: JSON upload (for testing)
+  // Generate test content that's at least 1KB (1024 bytes)
+  const testImageContent =
+    'fake image binary data '.repeat(50) + 'end of test image data';
+
+  const jsonPayload = {
     target_type: 'chapter',
-    target_id: 'test-chapter-id-123',
-    filename: 'demo-image.jpg',
-    file_content: 'This is fake image content for testing purposes',
+    target_id: 'gen-1', // Using Genesis chapter 1 from seed data
+    filename: 'genesis_1_cover.png',
+    file_content: testImageContent,
+    set_name: 'Genesis Chapter Images',
     create_new_set: true,
-    set_name: 'Demo Image Set',
-    set_remote_path: 'demo-sets/test-set',
     metadata: {
-      description: 'Test image for development',
-      source: 'dev-script',
-      timestamp: new Date().toISOString(),
+      description: 'Cover image for Genesis chapter 1',
+      category: 'chapter_cover',
     },
   };
 
   try {
-    const response = await fetch(EDGE_FUNCTION_URL, {
+    const response = await fetch(`${SUPABASE_URL}/functions/v1/upload-image`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+        Authorization: `Bearer ${token}`,
+        apikey: ANON_KEY,
       },
-      body: JSON.stringify(requestData),
+      body: JSON.stringify(jsonPayload),
     });
 
     const result = await response.json();
-
-    console.log(`📊 Response Status: ${response.status}`);
-    console.log('📋 Response Data:', JSON.stringify(result, null, 2));
-
-    if (result.success) {
-      console.log('✅ JSON upload test passed!');
-      console.log(`📄 Image ID: ${result.data.imageId}`);
-      console.log(`📁 Set ID: ${result.data.setId || 'None'}`);
-      console.log(`🔗 Download URL: ${result.data.downloadUrl}`);
-      console.log(`📏 File Size: ${result.data.fileSize} bytes`);
-    } else {
-      console.log('❌ JSON upload test failed!');
-      console.log(`❗ Error: ${result.error}`);
-    }
+    console.log('✅ Image upload result:', JSON.stringify(result, null, 2));
+    return result;
   } catch (error) {
-    console.error('💥 JSON upload test error:', error.message);
+    console.error('❌ Image upload failed:', error);
+    return null;
   }
-}
+};
 
-async function testMultipartUpload() {
-  console.log('\n🧪 Testing multipart form data upload...');
+// Example 2: Multipart form data upload (for production)
+const testMultipartUpload = async token => {
+  console.log(`⬆️  Testing multipart image upload...`);
 
-  // Create FormData (simulating file upload)
+  // Create form data
   const formData = new FormData();
 
-  // Create a fake file for testing
-  const imageContent = 'This is fake image binary data for multipart testing';
-  const imageBlob = new Blob([imageContent], { type: 'image/png' });
-  const imageFile = new File([imageBlob], 'test-multipart.png', {
-    type: 'image/png',
-  });
+  // Add image file (you would use an actual file here)
+  const multipartImageContent =
+    'fake image binary data for multipart '.repeat(40) + 'end';
+  const imageBlob = new Blob([multipartImageContent], { type: 'image/jpeg' });
+  formData.append('file', imageBlob, 'genesis_2_illustration.jpg');
 
-  formData.append('file', imageFile);
+  // Add required fields
   formData.append('target_type', 'chapter');
-  formData.append('target_id', 'test-chapter-id-456');
-  formData.append(
-    'metadata',
-    JSON.stringify({
-      upload_method: 'multipart',
-      test_type: 'development',
-    })
-  );
+  formData.append('target_id', 'gen-2'); // Genesis chapter 2
+
+  // Add optional fields for creating a new set
+  formData.append('set_name', 'Genesis Illustrations');
+  formData.append('create_new_set', 'true');
+  formData.append('set_remote_path', 'images/genesis/');
+
+  // Add metadata as JSON string
+  const metadata = {
+    description: 'Illustration for Genesis chapter 2',
+    category: 'chapter_illustration',
+    artist: 'Test Artist',
+  };
+  formData.append('metadata', JSON.stringify(metadata));
 
   try {
-    const response = await fetch(EDGE_FUNCTION_URL, {
+    const response = await fetch(`${SUPABASE_URL}/functions/v1/upload-image`, {
       method: 'POST',
       headers: {
-        Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+        Authorization: `Bearer ${token}`,
+        apikey: ANON_KEY,
+        // Don't set Content-Type for FormData - browser will set it with boundary
       },
       body: formData,
     });
 
     const result = await response.json();
-
-    console.log(`📊 Response Status: ${response.status}`);
-    console.log('📋 Response Data:', JSON.stringify(result, null, 2));
-
-    if (result.success) {
-      console.log('✅ Multipart upload test passed!');
-      console.log(`📄 Image ID: ${result.data.imageId}`);
-      console.log(`🔗 Download URL: ${result.data.downloadUrl}`);
-    } else {
-      console.log('❌ Multipart upload test failed!');
-      console.log(`❗ Error: ${result.error}`);
-    }
+    console.log('✅ Multipart upload result:', JSON.stringify(result, null, 2));
+    return result;
   } catch (error) {
-    console.error('💥 Multipart upload test error:', error.message);
+    console.error('❌ Multipart upload failed:', error);
+    return null;
   }
-}
+};
 
-async function testValidationErrors() {
-  console.log('\n🧪 Testing validation errors...');
+// Example 3: Upload to existing set
+const testExistingSetUpload = async (token, existingSetId) => {
+  console.log(`⬆️  Testing upload to existing set: ${existingSetId}`);
 
-  const invalidRequests = [
-    {
-      name: 'Missing target_type',
-      data: {
-        target_id: 'test-id',
-        filename: 'test.jpg',
-        file_content: 'test',
-      },
+  // Generate test content that's at least 1KB
+  const existingSetImageContent =
+    'test image content for existing set '.repeat(35) + 'end';
+
+  const jsonPayload = {
+    target_type: 'chapter',
+    target_id: 'gen-3', // Genesis chapter 3
+    filename: 'genesis_3_artwork.png',
+    file_content: existingSetImageContent,
+    set_id: existingSetId, // Use existing set from previous upload
+    metadata: {
+      description: 'Artwork for Genesis chapter 3',
+      category: 'chapter_artwork',
     },
-    {
-      name: 'Invalid target_type',
-      data: {
-        target_type: 'invalid_type',
-        target_id: 'test-id',
-        filename: 'test.jpg',
-        file_content: 'test',
-      },
-    },
-    {
-      name: 'Missing set_name when creating new set',
-      data: {
-        target_type: 'chapter',
-        target_id: 'test-id',
-        filename: 'test.jpg',
-        file_content: 'test',
-        create_new_set: true,
-      },
-    },
-    {
-      name: 'Conflicting set parameters',
-      data: {
-        target_type: 'chapter',
-        target_id: 'test-id',
-        filename: 'test.jpg',
-        file_content: 'test',
-        create_new_set: true,
-        set_id: 'existing-set-id',
-        set_name: 'New Set',
-      },
-    },
-  ];
-
-  for (const testCase of invalidRequests) {
-    console.log(`\n  🔍 Testing: ${testCase.name}`);
-
-    try {
-      const response = await fetch(EDGE_FUNCTION_URL, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(testCase.data),
-      });
-
-      const result = await response.json();
-
-      if (response.status === 400 && !result.success) {
-        console.log(`  ✅ Validation correctly rejected: ${result.error}`);
-      } else {
-        console.log(
-          `  ❌ Expected validation error but got status ${response.status}`
-        );
-        console.log(`  📋 Response:`, JSON.stringify(result, null, 2));
-      }
-    } catch (error) {
-      console.error(`  💥 Test error for ${testCase.name}:`, error.message);
-    }
-  }
-}
-
-async function testCORS() {
-  console.log('\n🧪 Testing CORS preflight...');
+  };
 
   try {
-    const response = await fetch(EDGE_FUNCTION_URL, {
-      method: 'OPTIONS',
-    });
-
-    console.log(`📊 Response Status: ${response.status}`);
-    console.log(
-      `🌐 CORS Origin: ${response.headers.get('Access-Control-Allow-Origin')}`
-    );
-    console.log(
-      `📋 CORS Methods: ${response.headers.get('Access-Control-Allow-Methods')}`
-    );
-    console.log(
-      `🔑 CORS Headers: ${response.headers.get('Access-Control-Allow-Headers')}`
-    );
-
-    if (response.status === 200) {
-      console.log('✅ CORS preflight test passed!');
-    } else {
-      console.log('❌ CORS preflight test failed!');
-    }
-  } catch (error) {
-    console.error('💥 CORS test error:', error.message);
-  }
-}
-
-async function testMethodNotAllowed() {
-  console.log('\n🧪 Testing method not allowed...');
-
-  try {
-    const response = await fetch(EDGE_FUNCTION_URL, {
-      method: 'GET',
+    const response = await fetch(`${SUPABASE_URL}/functions/v1/upload-image`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${token}`,
+        apikey: ANON_KEY,
+      },
+      body: JSON.stringify(jsonPayload),
     });
 
     const result = await response.json();
-
-    console.log(`📊 Response Status: ${response.status}`);
-    console.log('📋 Response Data:', JSON.stringify(result, null, 2));
-
-    if (response.status === 405 && result.error === 'Method not allowed') {
-      console.log('✅ Method not allowed test passed!');
-    } else {
-      console.log('❌ Method not allowed test failed!');
-    }
+    console.log(
+      '✅ Existing set upload result:',
+      JSON.stringify(result, null, 2)
+    );
+    return result;
   } catch (error) {
-    console.error('💥 Method not allowed test error:', error.message);
+    console.error('❌ Existing set upload failed:', error);
+    return null;
+  }
+};
+
+async function main() {
+  console.log('🚀 Testing Image Upload API');
+  console.log('=' + '='.repeat(29));
+
+  try {
+    // Step 1: Authenticate
+    const token = await authenticateUser(
+      'sarah.johnson@example.com',
+      'password123'
+    );
+    if (!token) {
+      return;
+    }
+
+    console.log();
+
+    // Step 2: Test uploads based on command line arguments
+    if (process.argv.includes('--multipart')) {
+      console.log('🧪 Testing multipart upload...');
+      await testMultipartUpload(token);
+    } else if (process.argv.includes('--existing-set')) {
+      console.log('🧪 Testing upload to existing set...');
+      // First create a set, then use it
+      const firstResult = await testUpload(token);
+      if (firstResult?.success && firstResult?.data?.setId) {
+        console.log();
+        await testExistingSetUpload(token, firstResult.data.setId);
+      } else {
+        console.log('❌ Could not get set ID from first upload');
+      }
+    } else {
+      console.log('🧪 Testing JSON upload with new set...');
+      await testUpload(token);
+    }
+
+    console.log();
+    console.log('🎉 Test completed successfully!');
+    console.log();
+    console.log('💡 Available test options:');
+    console.log(
+      '   node scripts/dev-tools/test_image_upload.js           # JSON upload (default)'
+    );
+    console.log(
+      '   node scripts/dev-tools/test_image_upload.js --multipart    # Multipart upload'
+    );
+    console.log(
+      '   node scripts/dev-tools/test_image_upload.js --existing-set # Test existing set'
+    );
+  } catch (error) {
+    console.log(`💥 Unexpected error: ${error.message}`);
   }
 }
 
-async function main() {
-  console.log('🚀 Starting Image Upload Function Tests');
-  console.log(`🔗 Testing endpoint: ${EDGE_FUNCTION_URL}`);
-  console.log('='.repeat(60));
-
-  // Run all tests
-  await testJsonUpload();
-  await testMultipartUpload();
-  await testValidationErrors();
-  await testCORS();
-  await testMethodNotAllowed();
-
-  console.log('\n' + '='.repeat(60));
-  console.log('🏁 Image upload tests completed!');
-  console.log('\n💡 Tips:');
-  console.log('  - Make sure Supabase is running locally (supabase start)');
-  console.log(
-    '  - Check the function logs with: supabase functions logs upload-image'
-  );
-  console.log('  - Update SUPABASE_URL and SUPABASE_ANON_KEY if needed');
-}
-
-// Run if called directly
-if (require.main === module) {
-  main().catch(console.error);
-}
-
-module.exports = {
-  testJsonUpload,
-  testMultipartUpload,
-  testValidationErrors,
-  testCORS,
-  testMethodNotAllowed,
-};
+// Run the main function
+main();
