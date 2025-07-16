@@ -121,6 +121,22 @@ export async function parseImageUploadRequest(
       }
     }
 
+    // Extract filename from multiple sources for better cross-environment compatibility
+    let filename = 'unknown';
+    if (file) {
+      // Try file.name first (standard File API)
+      if (file.name && file.name !== '' && file.name !== 'blob') {
+        filename = file.name;
+      }
+      // Fallback: check if there's a filename in the FormData entry
+      else {
+        const fileEntry = formData.get('file');
+        if (fileEntry && typeof fileEntry === 'object' && 'name' in fileEntry) {
+          filename = (fileEntry as any).name || 'unknown';
+        }
+      }
+    }
+
     uploadRequest = {
       target_type: formData.get('target_type') as string,
       target_id: formData.get('target_id') as string,
@@ -128,7 +144,7 @@ export async function parseImageUploadRequest(
       set_name: formData.get('set_name') as string,
       set_remote_path: formData.get('set_remote_path') as string,
       create_new_set: formData.get('create_new_set') === 'true',
-      filename: file?.name || 'unknown',
+      filename,
       metadata,
     };
   }

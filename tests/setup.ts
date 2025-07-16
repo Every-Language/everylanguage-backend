@@ -14,11 +14,22 @@ global.TextDecoder = TextDecoder;
 
 // Mock fetch if not available (Node.js < 18)
 if (typeof global.fetch === 'undefined') {
-  const { default: fetch, Headers, Request, Response } = require('node-fetch');
+  const {
+    default: fetch,
+    Headers,
+    Request,
+    Response,
+    FormData,
+  } = require('node-fetch');
   global.fetch = fetch;
   global.Headers = Headers;
   global.Request = Request;
   global.Response = Response;
+
+  // Only set FormData if it's not already available
+  if (typeof global.FormData === 'undefined') {
+    global.FormData = FormData;
+  }
 }
 
 // Mock File constructor for tests
@@ -27,11 +38,32 @@ if (typeof global.File === 'undefined') {
     name: string;
     size: number;
     type: string;
+    lastModified: number;
 
-    constructor(bits: any[], name: string, options: { type?: string } = {}) {
+    constructor(
+      bits: any[],
+      name: string,
+      options: { type?: string; lastModified?: number } = {}
+    ) {
       this.name = name;
-      this.size = bits.reduce((total, bit) => total + bit.length, 0);
+      this.size = bits.reduce((total, bit) => {
+        if (typeof bit === 'string') return total + bit.length;
+        if (bit instanceof ArrayBuffer) return total + bit.byteLength;
+        if (bit instanceof Uint8Array) return total + bit.length;
+        return total + (bit?.length || 0);
+      }, 0);
       this.type = options.type || '';
+      this.lastModified = options.lastModified || Date.now();
+    }
+
+    // Add toString method to help with debugging
+    toString() {
+      return `[object File] { name: "${this.name}", type: "${this.type}", size: ${this.size} }`;
+    }
+
+    // Add valueOf method
+    valueOf() {
+      return this;
     }
   } as any;
 }
