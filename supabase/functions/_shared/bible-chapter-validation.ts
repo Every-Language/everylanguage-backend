@@ -49,6 +49,26 @@ function isBibleChapterJsonData(data: unknown): data is BibleChapterJsonData {
   );
 }
 
+function validateRequiredFields(data: any): void {
+  const requiredFields = [
+    'chapter_id',
+    'start_verse_id',
+    'end_verse_id',
+    'duration_seconds',
+  ];
+  const missingFields: string[] = [];
+
+  for (const field of requiredFields) {
+    if (!(field in data) || data[field] === undefined || data[field] === null) {
+      missingFields.push(field);
+    }
+  }
+
+  if (missingFields.length > 0) {
+    throw new Error(`Missing required fields: ${missingFields.join(', ')}`);
+  }
+}
+
 export async function parseAndValidateBibleChapterRequest(
   req: Request
 ): Promise<{ file: File; uploadRequest: BibleChapterUploadRequest }> {
@@ -66,6 +86,9 @@ export async function parseAndValidateBibleChapterRequest(
   if (isJson) {
     // Handle JSON test data
     const jsonData = await req.json();
+
+    // First check for missing required fields with specific error message
+    validateRequiredFields(jsonData);
 
     if (!isBibleChapterJsonData(jsonData)) {
       throw new Error('Invalid JSON data format for bible chapter upload');

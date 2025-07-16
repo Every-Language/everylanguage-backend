@@ -179,31 +179,24 @@ export class B2FileService {
   }
 
   /**
-   * Get file info from B2
+   * Get file info by name
    */
-  async getFileInfo(fileName: string): Promise<{
-    fileId: string;
-    fileName: string;
-    contentLength: number;
-    contentType: string;
-    uploadTimestamp: number;
-  } | null> {
+  async getFileInfo(fileName: string): Promise<B2FileInfo | null> {
     try {
-      await this.authService.ensureAuth();
+      const credentials = await this.authService.authenticate();
 
       const listResponse = await fetch(
-        `${this.authService.getApiUrl()}/b2api/v2/b2_list_file_names`,
+        `${credentials.apiUrl}/b2api/v3/b2_list_file_names`,
         {
           method: 'POST',
           headers: {
-            Authorization: this.authService.getAuthToken(),
+            Authorization: credentials.authorizationToken,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
             bucketId: this.authService.getConfig().bucketId,
-            startFileName: fileName,
-            maxFileCount: 1,
-            prefix: fileName,
+            startFileName: '',
+            maxFileCount: 100, // Increased to search more files
           }),
         }
       );
@@ -221,8 +214,15 @@ export class B2FileService {
       }
 
       if (data.files && data.files.length > 0) {
-        const file = data.files[0];
-        if (file.fileName === fileName) {
+        // Look for exact match first
+        let file = data.files.find(f => f.fileName === fileName);
+
+        // If no exact match, look for timestamped version (ends with the filename)
+        if (!file) {
+          file = data.files.find(f => f.fileName.endsWith(`-${fileName}`));
+        }
+
+        if (file) {
           return {
             fileId: file.fileId,
             fileName: file.fileName,
