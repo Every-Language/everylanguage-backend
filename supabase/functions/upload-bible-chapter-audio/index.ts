@@ -6,6 +6,7 @@ import {
   parseAndValidateBibleChapterRequest,
 } from '../_shared/bible-chapter-validation.ts';
 import type { BibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
+import { getPublicUserId } from '../_shared/user-service.ts';
 
 Deno.serve(async (req: Request) => {
   // Handle CORS preflight request
@@ -38,6 +39,21 @@ Deno.serve(async (req: Request) => {
         }),
         {
           status: 401,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
+      );
+    }
+
+    // Get the public user ID for database operations
+    const publicUserId = await getPublicUserId(supabaseClient, user.id);
+    if (!publicUserId) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: 'User not found in public users table',
+        }),
+        {
+          status: 400,
           headers: { ...corsHeaders, 'Content-Type': 'application/json' },
         }
       );
@@ -114,7 +130,7 @@ Deno.serve(async (req: Request) => {
       mediaFile = await createBibleChapterMediaFile(supabaseClient, {
         languageEntityId: uploadRequest.languageEntityId,
         projectId: uploadRequest.projectId,
-        createdBy: user?.id ?? null,
+        createdBy: publicUserId,
         fileSize: file.size,
         durationSeconds: uploadRequest.durationSeconds,
         version: 1, // Placeholder, actual version will be handled by B2StreamService
@@ -156,7 +172,7 @@ Deno.serve(async (req: Request) => {
           'chapter-id': uploadRequest.chapterId,
           'is-bible-audio': 'true',
           version: '1', // Placeholder, actual version will be handled by B2StreamService
-          'uploaded-by': user?.id ?? 'anonymous',
+          'uploaded-by': publicUserId,
         }
       );
 
@@ -181,7 +197,7 @@ Deno.serve(async (req: Request) => {
         await createMediaFileVerses(supabaseClient, {
           mediaFileId: mediaFile.id,
           verseTimings: uploadRequest.verseTimings,
-          createdBy: user?.id ?? null,
+          createdBy: publicUserId,
         });
       }
 
@@ -190,7 +206,7 @@ Deno.serve(async (req: Request) => {
         await createMediaFileTags(supabaseClient, {
           mediaFileId: mediaFile.id,
           tagIds: uploadRequest.tagIds,
-          createdBy: user?.id ?? null,
+          createdBy: publicUserId,
         });
       }
 
@@ -255,7 +271,7 @@ async function createBibleChapterMediaFile(
   data: {
     languageEntityId: string;
     projectId?: string;
-    createdBy?: string;
+    createdBy: string;
     fileSize: number;
     durationSeconds: number;
     version: number;
@@ -299,7 +315,7 @@ async function createMediaFileVerses(
       startTimeSeconds: number;
       durationSeconds: number;
     }>;
-    createdBy?: string;
+    createdBy: string;
   }
 ) {
   const verseRecords = data.verseTimings.map(timing => ({
@@ -329,7 +345,7 @@ async function createMediaFileTags(
   data: {
     mediaFileId: string;
     tagIds: string[];
-    createdBy?: string;
+    createdBy: string;
   }
 ) {
   const tagRecords = data.tagIds.map(tagId => ({

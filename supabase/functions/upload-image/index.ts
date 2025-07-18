@@ -112,7 +112,7 @@ Deno.serve(async req => {
 
       const imageSetData: ImageSetData = {
         name: uploadRequest.setName,
-        remotePath: uploadRequest.setRemotePath || uploadResult.fileName,
+        remotePath: uploadRequest.setRemotePath ?? uploadResult.fileName,
         createdBy: userId,
       };
 

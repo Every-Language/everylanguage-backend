@@ -1,4 +1,4 @@
-// Image service for database operations
+import { getPublicUserId } from './user-service.ts';
 
 export interface ImageData {
   remotePath: string;
@@ -6,7 +6,7 @@ export interface ImageData {
   targetId: string;
   setId?: string;
   createdBy?: string;
-  fileSize: number;
+  fileSize?: number;
 }
 
 export interface ImageSetData {
@@ -68,17 +68,72 @@ export class ImageService {
 
   /**
    * Get authenticated user from auth UID
+   * @deprecated Use getPublicUserId from user-service.ts instead
    */
   async getAuthenticatedUser(authUid?: string) {
-    if (!authUid) return null;
+    return await getPublicUserId(this.supabaseClient, authUid);
+  }
 
-    const { data } = await this.supabaseClient
-      .from('users')
-      .select('id')
-      .eq('auth_uid', authUid)
-      .single();
+  /**
+   * Get all images for a target
+   */
+  async getImagesForTarget(targetType: string, targetId: string) {
+    const { data, error } = await this.supabaseClient
+      .from('images')
+      .select(
+        `
+        id,
+        remote_path,
+        target_type,
+        target_id,
+        set_id,
+        created_at,
+        updated_at,
+        image_sets (
+          id,
+          name,
+          remote_path
+        )
+      `
+      )
+      .eq('target_type', targetType)
+      .eq('target_id', targetId)
+      .is('deleted_at', null)
+      .order('created_at', { ascending: false });
 
-    return data;
+    if (error) {
+      throw new Error(`Failed to get images: ${error.message}`);
+    }
+
+    return data ?? [];
+  }
+
+  /**
+   * Get all images in a set
+   */
+  async getImagesInSet(setId: string) {
+    const { data, error } = await this.supabaseClient
+      .from('images')
+      .select(
+        `
+        id,
+        remote_path,
+        target_type,
+        target_id,
+        set_id,
+        created_at,
+        updated_at
+      `
+      )
+      .eq('set_id', setId)
+      .is('deleted_at', null)
+      .order('created_at', { ascending: false });
+
+    if (error) {
+      throw new Error(`Failed to get images in set: ${error.message}`);
+    }
+
+    return data ?? [];
   }
 
   /**
@@ -99,57 +154,20 @@ export class ImageService {
   }
 
   /**
-   * Get images by set ID
-   */
-  async getImagesBySet(setId: string) {
-    const { data, error } = await this.supabaseClient
-      .from('images')
-      .select('*')
-      .eq('set_id', setId)
-      .is('deleted_at', null)
-      .order('created_at', { ascending: false });
-
-    if (error) {
-      throw new Error(`Failed to get images by set: ${error.message}`);
-    }
-
-    return data;
-  }
-
-  /**
-   * Get images by target
-   */
-  async getImagesByTarget(targetType: string, targetId: string) {
-    const { data, error } = await this.supabaseClient
-      .from('images')
-      .select('*')
-      .eq('target_type', targetType)
-      .eq('target_id', targetId)
-      .is('deleted_at', null)
-      .order('created_at', { ascending: false });
-
-    if (error) {
-      throw new Error(`Failed to get images by target: ${error.message}`);
-    }
-
-    return data;
-  }
-
-  /**
    * Soft delete an image
    */
   async deleteImage(imageId: string, authUid?: string) {
     // First verify ownership
     if (authUid) {
-      const user = await this.getAuthenticatedUser(authUid);
-      if (user) {
+      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      if (userId) {
         const { data: image } = await this.supabaseClient
           .from('images')
           .select('created_by')
           .eq('id', imageId)
           .single();
 
-        if (image?.created_by !== user.id) {
+        if (image?.created_by !== userId) {
           throw new Error('Not authorized to delete this image');
         }
       }
@@ -175,15 +193,15 @@ export class ImageService {
   ) {
     // First verify ownership
     if (authUid) {
-      const user = await this.getAuthenticatedUser(authUid);
-      if (user) {
+      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      if (userId) {
         const { data: imageSet } = await this.supabaseClient
           .from('image_sets')
           .select('created_by')
           .eq('id', setId)
           .single();
 
-        if (imageSet?.created_by !== user.id) {
+        if (imageSet?.created_by !== userId) {
           throw new Error('Not authorized to update this image set');
         }
       }
@@ -207,29 +225,52 @@ export class ImageService {
   }
 
   /**
-   * Get image by ID
+   * Delete image set (and all its images)
    */
-  async getImage(imageId: string) {
-    const { data, error } = await this.supabaseClient
-      .from('images')
-      .select('*')
-      .eq('id', imageId)
-      .is('deleted_at', null)
-      .single();
+  async deleteImageSet(setId: string, authUid?: string) {
+    // First verify ownership
+    if (authUid) {
+      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      if (userId) {
+        const { data: imageSet } = await this.supabaseClient
+          .from('image_sets')
+          .select('created_by')
+          .eq('id', setId)
+          .single();
 
-    if (error) {
-      throw new Error(`Failed to get image: ${error.message}`);
+        if (imageSet?.created_by !== userId) {
+          throw new Error('Not authorized to delete this image set');
+        }
+      }
     }
 
-    return data;
+    // Soft delete all images in the set first
+    const { error: imagesError } = await this.supabaseClient
+      .from('images')
+      .update({ deleted_at: new Date().toISOString() })
+      .eq('set_id', setId);
+
+    if (imagesError) {
+      throw new Error(`Failed to delete images in set: ${imagesError.message}`);
+    }
+
+    // Then delete the set itself (hard delete for sets)
+    const { error: setError } = await this.supabaseClient
+      .from('image_sets')
+      .delete()
+      .eq('id', setId);
+
+    if (setError) {
+      throw new Error(`Failed to delete image set: ${setError.message}`);
+    }
   }
 
   /**
    * Check if user owns image set
    */
   async userOwnsImageSet(setId: string, authUid: string): Promise<boolean> {
-    const user = await this.getAuthenticatedUser(authUid);
-    if (!user) return false;
+    const userId = await getPublicUserId(this.supabaseClient, authUid);
+    if (!userId) return false;
 
     const { data } = await this.supabaseClient
       .from('image_sets')
@@ -237,15 +278,15 @@ export class ImageService {
       .eq('id', setId)
       .single();
 
-    return data?.created_by === user.id;
+    return data?.created_by === userId;
   }
 
   /**
    * Check if user owns image
    */
   async userOwnsImage(imageId: string, authUid: string): Promise<boolean> {
-    const user = await this.getAuthenticatedUser(authUid);
-    if (!user) return false;
+    const userId = await getPublicUserId(this.supabaseClient, authUid);
+    if (!userId) return false;
 
     const { data } = await this.supabaseClient
       .from('images')
@@ -253,6 +294,6 @@ export class ImageService {
       .eq('id', imageId)
       .single();
 
-    return data?.created_by === user.id;
+    return data?.created_by === userId;
   }
 }

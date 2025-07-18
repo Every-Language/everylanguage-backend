@@ -1,11 +1,11 @@
-import type { MediaType } from './media-validation.ts';
+import { getPublicUserId } from './user-service.ts';
 
 export interface MediaFileData {
   languageEntityId: string;
-  mediaType: MediaType;
+  mediaType: 'audio' | 'video';
   projectId?: string;
   createdBy?: string;
-  fileSize: number;
+  fileSize?: number;
   durationSeconds?: number;
   version: number;
 }
@@ -14,7 +14,7 @@ export interface MediaFileTargetData {
   mediaFileId: string;
   targetType: string;
   targetId: string;
-  isBibleAudio: boolean;
+  isBibleAudio?: boolean;
   createdBy?: string;
 }
 
@@ -25,19 +25,19 @@ export class MediaService {
     fileName: string,
     languageEntityId: string
   ): Promise<number> {
-    // Check for existing files with same name and language
+    // This is a placeholder implementation
+    // In a real scenario, you'd query existing media files to find the highest version
     const { data, error } = await this.supabaseClient
       .from('media_files')
       .select('version')
-      .ilike('remote_path', `%${fileName}`)
       .eq('language_entity_id', languageEntityId)
-      .is('deleted_at', null)
+      .like('remote_path', `%${fileName}%`)
       .order('version', { ascending: false })
       .limit(1);
 
     if (error) {
-      console.warn('Error checking for existing versions:', error);
-      return 1; // Default to version 1 if check fails
+      console.warn('Error getting next version:', error);
+      return 1;
     }
 
     return data && data.length > 0 ? data[0].version + 1 : 1;
@@ -78,21 +78,28 @@ export class MediaService {
       .from('media_files')
       .update({
         remote_path: remotePath,
-        upload_status: 'completed',
         file_size: fileSize,
+        upload_status: 'completed',
       })
       .eq('id', mediaFileId);
 
     if (error) {
-      throw new Error(`Failed to update media file: ${error.message}`);
+      console.error('Update media file error:', error);
+      // Don't throw - this shouldn't fail the upload
     }
   }
 
   async markUploadFailed(mediaFileId: string) {
-    await this.supabaseClient
+    const { error } = await this.supabaseClient
       .from('media_files')
-      .update({ upload_status: 'failed' })
+      .update({
+        upload_status: 'failed',
+      })
       .eq('id', mediaFileId);
+
+    if (error) {
+      console.error('Mark upload failed error:', error);
+    }
   }
 
   async createTargetAssociation(data: MediaFileTargetData) {
@@ -112,15 +119,11 @@ export class MediaService {
     }
   }
 
+  /**
+   * Get authenticated user from auth UID
+   * @deprecated Use getPublicUserId from user-service.ts instead
+   */
   async getAuthenticatedUser(userId?: string) {
-    if (!userId) return null;
-
-    const { data } = await this.supabaseClient
-      .from('users')
-      .select('id')
-      .eq('auth_uid', userId)
-      .single();
-
-    return data;
+    return await getPublicUserId(this.supabaseClient, userId);
   }
 }
