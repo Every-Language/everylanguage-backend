@@ -141,14 +141,6 @@ Deno.serve(async (req: Request) => {
       const uploadRequest = metadata[i];
 
       try {
-        // === DEBUG: Log the uploadRequest object ===
-        console.log(`🔍 DEBUG uploadRequest[${i}]:`, {
-          startVerseId: uploadRequest.startVerseId,
-          endVerseId: uploadRequest.endVerseId,
-          fileName: uploadRequest.fileName,
-          fullObject: uploadRequest,
-        });
-
         // Validate each request
         await validateBibleChapterUploadRequest(
           supabaseClient,
@@ -163,8 +155,8 @@ Deno.serve(async (req: Request) => {
           endVerseId: uploadRequest.endVerseId,
         });
 
-        // === DEBUG: Log the parameters being passed to createBibleChapterMediaFile ===
-        const createParams = {
+        // Create media file record with 'pending' status
+        const mediaFile = await createBibleChapterMediaFile(supabaseClient, {
           languageEntityId: uploadRequest.languageEntityId,
           projectId: uploadRequest.projectId,
           createdBy: publicUserId,
@@ -173,19 +165,8 @@ Deno.serve(async (req: Request) => {
           version: nextVersion,
           startVerseId: uploadRequest.startVerseId,
           endVerseId: uploadRequest.endVerseId,
-          status: 'pending' as const,
-        };
-        console.log(`🔍 DEBUG createParams[${i}]:`, {
-          startVerseId: createParams.startVerseId,
-          endVerseId: createParams.endVerseId,
-          allParams: createParams,
+          status: 'pending', // Key difference from single upload
         });
-
-        // Create media file record with 'pending' status
-        const mediaFile = await createBibleChapterMediaFile(
-          supabaseClient,
-          createParams
-        );
 
         mediaRecords.push({
           mediaFileId: mediaFile.id,
@@ -453,34 +434,23 @@ async function createBibleChapterMediaFile(
     status?: 'pending' | 'failed';
   }
 ) {
-  // === DEBUG: Log exactly what we're inserting ===
-  const insertData = {
-    language_entity_id: data.languageEntityId,
-    media_type: 'audio',
-    project_id: data.projectId,
-    created_by: data.createdBy,
-    upload_status: data.status ?? 'pending',
-    publish_status: 'pending',
-    check_status: 'pending',
-    file_size: data.fileSize,
-    duration_seconds: data.durationSeconds,
-    version: data.version,
-    start_verse_id: data.startVerseId,
-    end_verse_id: data.endVerseId,
-    is_bible_audio: true,
-  };
-
-  console.log('🔍 DEBUG insertData:', {
-    start_verse_id: insertData.start_verse_id,
-    end_verse_id: insertData.end_verse_id,
-    data_startVerseId: data.startVerseId,
-    data_endVerseId: data.endVerseId,
-    fullInsertData: insertData,
-  });
-
   const { data: mediaFile, error } = await supabaseClient
     .from('media_files')
-    .insert(insertData)
+    .insert({
+      language_entity_id: data.languageEntityId,
+      media_type: 'audio',
+      project_id: data.projectId,
+      created_by: data.createdBy,
+      upload_status: data.status ?? 'pending',
+      publish_status: 'pending',
+      check_status: 'pending',
+      file_size: data.fileSize,
+      duration_seconds: data.durationSeconds,
+      version: data.version,
+      start_verse_id: data.startVerseId,
+      end_verse_id: data.endVerseId,
+      is_bible_audio: true,
+    })
     .select()
     .single();
 
