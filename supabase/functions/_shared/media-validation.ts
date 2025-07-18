@@ -42,6 +42,7 @@ export interface UploadRequest {
   targetType?: TargetType;
   targetId?: string;
   isBibleAudio?: boolean;
+  duration?: number;
   metadata?: Record<string, string>;
 }
 

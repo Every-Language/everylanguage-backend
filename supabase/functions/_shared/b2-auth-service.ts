@@ -187,6 +187,35 @@ export class B2AuthService {
   }
 
   /**
+   * Ensure authentication and get API URL
+   */
+  async ensureAuth(): Promise<void> {
+    if (!this.authToken || !this.apiUrl) {
+      await this.authenticate();
+    }
+  }
+
+  /**
+   * Get the current API URL (must be authenticated first)
+   */
+  getApiUrl(): string {
+    if (!this.apiUrl) {
+      throw new Error('Must authenticate first');
+    }
+    return this.apiUrl;
+  }
+
+  /**
+   * Get the current auth token (must be authenticated first)
+   */
+  getAuthToken(): string {
+    if (!this.authToken) {
+      throw new Error('Must authenticate first');
+    }
+    return this.authToken;
+  }
+
+  /**
    * Get configuration (read-only)
    */
   getConfig(): Readonly<B2Config> {

@@ -1,12 +1,12 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
-import { MediaService } from '../_shared/media-service.ts';
 import { corsHeaders } from '../_shared/request-parser.ts';
 import {
   validateBibleChapterUploadRequest,
-  parseBibleChapterUploadRequest,
-  BibleChapterUploadRequest,
+  parseAndValidateBibleChapterRequest,
 } from '../_shared/bible-chapter-validation.ts';
+import type { BibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
+import { getPublicUserId } from '../_shared/user-service.ts';
 
 Deno.serve(async (req: Request) => {
   // Handle CORS preflight request
@@ -44,16 +44,34 @@ Deno.serve(async (req: Request) => {
       );
     }
 
+    // Get the public user ID for database operations
+    const publicUserId = await getPublicUserId(supabaseClient, user.id);
+    if (!publicUserId) {
+      return new Response(
+        JSON.stringify({
+          success: false,
+          error: 'User not found in public users table',
+        }),
+        {
+          status: 400,
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        }
+      );
+    }
+
     // Parse request data
     let parsedData: { file: File; uploadRequest: BibleChapterUploadRequest };
     try {
-      parsedData = await parseBibleChapterUploadRequest(req);
-    } catch (parseError) {
+      parsedData = await parseAndValidateBibleChapterRequest(req);
+    } catch (parseError: unknown) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Request parsing failed',
-          details: parseError.message,
+          details:
+            parseError instanceof Error
+              ? parseError.message
+              : 'Unknown parsing error',
         }),
         {
           status: 400,
@@ -72,12 +90,15 @@ Deno.serve(async (req: Request) => {
         file
       );
       console.log('✅ Bible chapter upload validation passed');
-    } catch (validationError) {
+    } catch (validationError: unknown) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Validation failed',
-          details: validationError.message,
+          details:
+            validationError instanceof Error
+              ? validationError.message
+              : 'Unknown validation error',
         }),
         {
           status: 400,
@@ -86,20 +107,12 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    // === MEDIA PROCESSING PHASE ===
-    const mediaService = new MediaService(supabaseClient);
-
-    // Get next version number
-    const nextVersion = await mediaService.getNextVersion(
-      uploadRequest.fileName,
-      uploadRequest.languageEntityId
-    );
-    console.log(
-      `📈 Next version for ${uploadRequest.fileName}: ${nextVersion}`
-    );
-
-    // Get authenticated user for database operations
-    const publicUser = await mediaService.getAuthenticatedUser(user?.id);
+    // Get next version number for this chapter
+    const nextVersion = await getNextVersionForChapter(supabaseClient, {
+      projectId: uploadRequest.projectId,
+      startVerseId: uploadRequest.startVerseId,
+      endVerseId: uploadRequest.endVerseId,
+    });
 
     // Create media file record
     let mediaFile;
@@ -107,19 +120,22 @@ Deno.serve(async (req: Request) => {
       mediaFile = await createBibleChapterMediaFile(supabaseClient, {
         languageEntityId: uploadRequest.languageEntityId,
         projectId: uploadRequest.projectId,
-        createdBy: publicUser?.id ?? null,
+        createdBy: publicUserId,
         fileSize: file.size,
         durationSeconds: uploadRequest.durationSeconds,
         version: nextVersion,
         startVerseId: uploadRequest.startVerseId,
         endVerseId: uploadRequest.endVerseId,
       });
-    } catch (dbError) {
+    } catch (dbError: unknown) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Database error creating media file',
-          details: dbError.message,
+          details:
+            dbError instanceof Error
+              ? dbError.message
+              : 'Unknown database error',
         }),
         {
           status: 500,
@@ -146,32 +162,33 @@ Deno.serve(async (req: Request) => {
           'chapter-id': uploadRequest.chapterId,
           'is-bible-audio': 'true',
           version: nextVersion.toString(),
-          'uploaded-by': user?.id ?? 'anonymous',
+          'uploaded-by': publicUserId,
         }
       );
 
       // Update media file record with upload results
-      await mediaService.updateMediaFileAfterUpload(
-        mediaFile.id,
-        uploadResult.downloadUrl,
-        uploadResult.fileSize
-      );
+      const { error: updateError } = await supabaseClient
+        .from('media_files')
+        .update({
+          upload_status: 'completed',
+          remote_path: uploadResult.downloadUrl,
+          file_size: uploadResult.fileSize,
+        })
+        .eq('id', mediaFile.id);
 
-      // Create target association (chapter)
-      await mediaService.createTargetAssociation({
-        mediaFileId: mediaFile.id,
-        targetType: 'chapter',
-        targetId: uploadRequest.chapterId,
-        isBibleAudio: true,
-        createdBy: publicUser?.id ?? null,
-      });
+      if (updateError) {
+        console.error('Error updating media file after upload:', updateError);
+        throw new Error(`Failed to update media file: ${updateError.message}`);
+      }
+
+      console.log(`✅ Updated media file ${mediaFile.id} with upload results`);
 
       // Create verse timing records if provided
       if (uploadRequest.verseTimings && uploadRequest.verseTimings.length > 0) {
         await createMediaFileVerses(supabaseClient, {
           mediaFileId: mediaFile.id,
           verseTimings: uploadRequest.verseTimings,
-          createdBy: publicUser?.id ?? null,
+          createdBy: publicUserId,
         });
       }
 
@@ -180,7 +197,7 @@ Deno.serve(async (req: Request) => {
         await createMediaFileTags(supabaseClient, {
           mediaFileId: mediaFile.id,
           tagIds: uploadRequest.tagIds,
-          createdBy: publicUser?.id ?? null,
+          createdBy: publicUserId,
         });
       }
 
@@ -205,16 +222,29 @@ Deno.serve(async (req: Request) => {
         status: 200,
         headers: { ...corsHeaders, 'Content-Type': 'application/json' },
       });
-    } catch (uploadError) {
+    } catch (uploadError: unknown) {
       console.error('Upload error:', uploadError);
 
       // Update database to reflect failed upload
-      await mediaService.markUploadFailed(mediaFile.id);
+      try {
+        await supabaseClient
+          .from('media_files')
+          .update({
+            upload_status: 'failed',
+          })
+          .eq('id', mediaFile.id);
+        console.log(`❌ Marked media file ${mediaFile.id} as failed`);
+      } catch (dbUpdateError) {
+        console.error(
+          'Error updating media file status to failed:',
+          dbUpdateError
+        );
+      }
 
       return new Response(
         JSON.stringify({
           success: false,
-          error: `Upload failed: ${uploadError.message}`,
+          error: `Upload failed: ${uploadError instanceof Error ? uploadError.message : 'Unknown upload error'}`,
         }),
         {
           status: 500,
@@ -222,13 +252,14 @@ Deno.serve(async (req: Request) => {
         }
       );
     }
-  } catch (error) {
+  } catch (error: unknown) {
     console.error('Unexpected error:', error);
     return new Response(
       JSON.stringify({
         success: false,
         error: 'Internal server error',
-        details: error?.message ?? 'Unknown error occurred',
+        details:
+          error instanceof Error ? error.message : 'Unknown error occurred',
       }),
       {
         status: 500,
@@ -244,7 +275,7 @@ async function createBibleChapterMediaFile(
   data: {
     languageEntityId: string;
     projectId?: string;
-    createdBy?: string;
+    createdBy: string;
     fileSize: number;
     durationSeconds: number;
     version: number;
@@ -265,6 +296,7 @@ async function createBibleChapterMediaFile(
       file_size: data.fileSize,
       duration_seconds: data.durationSeconds,
       version: data.version,
+      is_bible_audio: true,
     })
     .select()
     .single();
@@ -288,7 +320,7 @@ async function createMediaFileVerses(
       startTimeSeconds: number;
       durationSeconds: number;
     }>;
-    createdBy?: string;
+    createdBy: string;
   }
 ) {
   const verseRecords = data.verseTimings.map(timing => ({
@@ -318,7 +350,7 @@ async function createMediaFileTags(
   data: {
     mediaFileId: string;
     tagIds: string[];
-    createdBy?: string;
+    createdBy: string;
   }
 ) {
   const tagRecords = data.tagIds.map(tagId => ({
@@ -337,4 +369,38 @@ async function createMediaFileTags(
   }
 
   console.log(`✅ Created ${tagRecords.length} tag association records`);
+}
+
+// Helper function to get next version for a chapter
+async function getNextVersionForChapter(
+  supabaseClient: any,
+  data: {
+    projectId?: string;
+    startVerseId: string;
+    endVerseId: string;
+  }
+): Promise<number> {
+  const { data: existingFiles, error } = await supabaseClient
+    .from('media_files')
+    .select('version')
+    .eq('project_id', data.projectId ?? null)
+    .eq('start_verse_id', data.startVerseId)
+    .eq('end_verse_id', data.endVerseId)
+    .order('version', { ascending: false })
+    .limit(1);
+
+  if (error) {
+    console.warn('Error getting next version for chapter:', error);
+    return 1;
+  }
+
+  const highestVersion =
+    existingFiles && existingFiles.length > 0 ? existingFiles[0].version : 0;
+
+  const nextVersion = highestVersion + 1;
+  console.log(
+    `📈 Next version for chapter (${data.startVerseId} to ${data.endVerseId}): ${nextVersion}`
+  );
+
+  return nextVersion;
 }

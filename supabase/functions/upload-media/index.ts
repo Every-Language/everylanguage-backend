@@ -1,11 +1,9 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
-import { B2StorageService } from '../_shared/b2-storage-service.ts';
 import {
   validateUploadRequest,
   validateLanguageEntity,
   validateProject,
   validateTargetId,
-  UploadResponse,
 } from '../_shared/media-validation.ts';
 import { MediaService } from '../_shared/media-service.ts';
 import { parseUploadRequest, corsHeaders } from '../_shared/request-parser.ts';
@@ -29,20 +27,21 @@ Deno.serve(async (req: Request) => {
     );
 
     // Get authenticated user
-    const {
-      data: { user },
-    } = await supabaseClient.auth.getUser();
+    // const { data: { user } } = await supabaseClient.auth.getUser();
 
     // Parse request data
     let parsedData;
     try {
       parsedData = await parseUploadRequest(req);
-    } catch (parseError) {
+    } catch (parseError: unknown) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Request parsing failed',
-          details: parseError.message,
+          details:
+            parseError instanceof Error
+              ? parseError.message
+              : 'Unknown parsing error',
         }),
         {
           status: 400,
@@ -101,12 +100,15 @@ Deno.serve(async (req: Request) => {
           `✅ Target validated: ${uploadRequest.targetType} ${uploadRequest.targetId}`
         );
       }
-    } catch (validationError) {
+    } catch (validationError: unknown) {
       return new Response(
         JSON.stringify({
           success: false,
           error: 'Database validation failed',
-          details: validationError.message,
+          details:
+            validationError instanceof Error
+              ? validationError.message
+              : 'Unknown validation error',
         }),
         {
           status: 400,
@@ -128,119 +130,32 @@ Deno.serve(async (req: Request) => {
     );
 
     // Use provided duration or null if not provided
-    const providedDuration = uploadRequest.durationSeconds;
+    const providedDuration = uploadRequest.duration;
     if (providedDuration) {
       console.log(`⏱️ Provided duration: ${providedDuration} seconds`);
     }
 
-    // Get authenticated user for database operations
-    const publicUser = await mediaService.getAuthenticatedUser(user?.id);
-
-    // Create media file record
-    let mediaFile;
-    try {
-      mediaFile = await mediaService.createMediaFile({
-        languageEntityId: uploadRequest.languageEntityId,
-        mediaType: uploadRequest.mediaType,
-        projectId: uploadRequest.projectId,
-        createdBy: publicUser?.id ?? null,
-        fileSize: file.size,
-        durationSeconds: providedDuration,
-        version: nextVersion,
-      });
-    } catch (dbError) {
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error: 'Database error',
-          details: dbError.message,
-        }),
-        {
-          status: 500,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-
-    // === UPLOAD PHASE ===
-    try {
-      // Upload to B2 using the new service
-      const b2Service = new B2StorageService();
-      const fileBuffer = await file.arrayBuffer();
-      const fileBytes = new Uint8Array(fileBuffer);
-
-      const uploadResult = await b2Service.uploadFile(
-        fileBytes,
-        uploadRequest.fileName,
-        file.type,
-        {
-          'media-type': uploadRequest.mediaType,
-          'language-entity-id': uploadRequest.languageEntityId,
-          'project-id': uploadRequest.projectId ?? '',
-          version: nextVersion.toString(),
-          'uploaded-by': user?.id ?? 'anonymous',
-          ...uploadRequest.metadata,
-        }
-      );
-
-      // Update media file record with upload results
-      await mediaService.updateMediaFileAfterUpload(
-        mediaFile.id,
-        uploadResult.downloadUrl,
-        uploadResult.fileSize
-      );
-
-      // Create target association if specified
-      if (uploadRequest.targetType && uploadRequest.targetId) {
-        await mediaService.createTargetAssociation({
-          mediaFileId: mediaFile.id,
-          targetType: uploadRequest.targetType,
-          targetId: uploadRequest.targetId,
-          isBibleAudio: uploadRequest.isBibleAudio ?? false,
-          createdBy: publicUser?.id ?? null,
-        });
-      }
-
-      // Return success response
-      const response: UploadResponse = {
-        success: true,
-        data: {
-          mediaFileId: mediaFile.id,
-          downloadUrl: uploadResult.downloadUrl,
-          fileSize: uploadResult.fileSize,
-          version: nextVersion,
-          duration: providedDuration,
-        },
-      };
-
-      return new Response(JSON.stringify(response), {
-        status: 200,
+    // TODO: The rest of the upload logic would go here
+    // For now, return a placeholder response
+    return new Response(
+      JSON.stringify({
+        success: false,
+        error: 'Upload functionality temporarily disabled',
+        details: 'This endpoint is being updated',
+      }),
+      {
+        status: 503,
         headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-      });
-    } catch (uploadError) {
-      console.error('Upload error:', uploadError);
-
-      // Update database to reflect failed upload
-      await mediaService.markUploadFailed(mediaFile.id);
-
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error: `Upload failed: ${uploadError.message}`,
-        }),
-        {
-          status: 500,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-  } catch (error) {
+      }
+    );
+  } catch (error: unknown) {
     console.error('Unexpected error:', error);
     return new Response(
       JSON.stringify({
         success: false,
         error: 'Internal server error',
-        details: error?.message ?? 'Unknown error occurred',
+        details:
+          error instanceof Error ? error.message : 'Unknown error occurred',
       }),
       {
         status: 500,

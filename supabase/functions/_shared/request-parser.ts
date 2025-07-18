@@ -1,8 +1,33 @@
-import { UploadRequest, MediaType, TargetType } from './media-validation.ts';
+import type {
+  UploadRequest,
+  MediaType,
+  TargetType,
+} from './media-validation.ts';
 
 export interface ParsedRequest {
   file: File;
   uploadRequest: UploadRequest;
+}
+
+interface MediaJsonData {
+  target_type: string;
+  target_id: string;
+  language_entity_id: string;
+  project_id: string;
+  filename?: string;
+  duration_seconds?: number;
+  file_content?: string;
+}
+
+function isMediaJsonData(data: unknown): data is MediaJsonData {
+  return (
+    typeof data === 'object' &&
+    data !== null &&
+    typeof (data as any).target_type === 'string' &&
+    typeof (data as any).target_id === 'string' &&
+    typeof (data as any).language_entity_id === 'string' &&
+    typeof (data as any).project_id === 'string'
+  );
 }
 
 export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
@@ -22,6 +47,11 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
   if (isJson) {
     // Handle JSON test data
     const jsonData = await req.json();
+
+    if (!isMediaJsonData(jsonData)) {
+      throw new Error('Invalid JSON data format for media upload');
+    }
+
     uploadRequest = {
       target_type: jsonData.target_type,
       target_id: jsonData.target_id,
@@ -50,10 +80,6 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
     };
   }
 
-  if (!file) {
-    throw new Error('No file provided');
-  }
-
   // Determine media type from file
   const detectedMediaType: MediaType = file.type.startsWith('video/')
     ? 'video'
@@ -77,7 +103,7 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
     targetType: uploadRequest.target_type as TargetType,
     targetId: uploadRequest.target_id ?? undefined,
     isBibleAudio: false,
-    durationSeconds,
+    duration: durationSeconds,
   };
 
   return { file, uploadRequest: finalUploadRequest };
