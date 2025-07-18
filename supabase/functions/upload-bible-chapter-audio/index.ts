@@ -177,20 +177,21 @@ Deno.serve(async (req: Request) => {
       );
 
       // Update media file record with upload results
-      // await mediaService.updateMediaFileAfterUpload(
-      //   mediaFile.id,
-      //   uploadResult.downloadUrl,
-      //   uploadResult.fileSize
-      // );
+      const { error: updateError } = await supabaseClient
+        .from('media_files')
+        .update({
+          upload_status: 'completed',
+          remote_path: uploadResult.downloadUrl,
+          file_size: uploadResult.fileSize,
+        })
+        .eq('id', mediaFile.id);
 
-      // Create target association (chapter)
-      // await mediaService.createTargetAssociation({
-      //   mediaFileId: mediaFile.id,
-      //   targetType: 'chapter',
-      //   targetId: uploadRequest.chapterId,
-      //   isBibleAudio: true,
-      //   createdBy: publicUser?.id ?? null,
-      // });
+      if (updateError) {
+        console.error('Error updating media file after upload:', updateError);
+        throw new Error(`Failed to update media file: ${updateError.message}`);
+      }
+
+      console.log(`✅ Updated media file ${mediaFile.id} with upload results`);
 
       // Create verse timing records if provided
       if (uploadRequest.verseTimings && uploadRequest.verseTimings.length > 0) {
@@ -235,7 +236,20 @@ Deno.serve(async (req: Request) => {
       console.error('Upload error:', uploadError);
 
       // Update database to reflect failed upload
-      // await mediaService.markUploadFailed(mediaFile.id);
+      try {
+        await supabaseClient
+          .from('media_files')
+          .update({
+            upload_status: 'failed',
+          })
+          .eq('id', mediaFile.id);
+        console.log(`❌ Marked media file ${mediaFile.id} as failed`);
+      } catch (dbUpdateError) {
+        console.error(
+          'Error updating media file status to failed:',
+          dbUpdateError
+        );
+      }
 
       return new Response(
         JSON.stringify({

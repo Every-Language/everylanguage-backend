@@ -28,8 +28,11 @@ describe('ImageService', () => {
       is: jest.fn().mockReturnThis(),
       order: jest.fn().mockReturnThis(),
       update: jest.fn().mockReturnThis(),
-      single: jest.fn().mockResolvedValue({ data: null, error: null }),
+      single: jest.fn(),
     } as any;
+
+    // Set up default mock behavior
+    mockSupabaseClient.single.mockResolvedValue({ data: null, error: null });
 
     imageService = new ImageService(mockSupabaseClient);
   });
