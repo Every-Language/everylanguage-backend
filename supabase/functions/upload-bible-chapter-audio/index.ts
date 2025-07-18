@@ -107,22 +107,12 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    // === MEDIA PROCESSING PHASE ===
-    // The MediaService class and its methods are no longer imported,
-    // so these operations are removed.
-    // const mediaService = new MediaService(supabaseClient);
-
-    // Get next version number
-    // const nextVersion = await mediaService.getNextVersion(
-    //   uploadRequest.fileName,
-    //   uploadRequest.languageEntityId
-    // );
-    // console.log(
-    //   `📈 Next version for ${uploadRequest.fileName}: ${nextVersion}`
-    // );
-
-    // Get authenticated user for database operations
-    // const publicUser = await mediaService.getAuthenticatedUser(user?.id);
+    // Get next version number for this chapter
+    const nextVersion = await getNextVersionForChapter(supabaseClient, {
+      projectId: uploadRequest.projectId,
+      startVerseId: uploadRequest.startVerseId,
+      endVerseId: uploadRequest.endVerseId,
+    });
 
     // Create media file record
     let mediaFile;
@@ -133,7 +123,7 @@ Deno.serve(async (req: Request) => {
         createdBy: publicUserId,
         fileSize: file.size,
         durationSeconds: uploadRequest.durationSeconds,
-        version: 1, // Placeholder, actual version will be handled by B2StreamService
+        version: nextVersion,
         startVerseId: uploadRequest.startVerseId,
         endVerseId: uploadRequest.endVerseId,
       });
@@ -171,7 +161,7 @@ Deno.serve(async (req: Request) => {
           'project-id': uploadRequest.projectId ?? '',
           'chapter-id': uploadRequest.chapterId,
           'is-bible-audio': 'true',
-          version: '1', // Placeholder, actual version will be handled by B2StreamService
+          version: nextVersion.toString(),
           'uploaded-by': publicUserId,
         }
       );
@@ -218,7 +208,7 @@ Deno.serve(async (req: Request) => {
           mediaFileId: mediaFile.id,
           downloadUrl: uploadResult.downloadUrl,
           fileSize: uploadResult.fileSize,
-          version: 1, // Placeholder, actual version will be handled by B2StreamService
+          version: nextVersion,
           duration: uploadRequest.durationSeconds,
           chapterId: uploadRequest.chapterId,
           startVerseId: uploadRequest.startVerseId,
@@ -306,6 +296,7 @@ async function createBibleChapterMediaFile(
       file_size: data.fileSize,
       duration_seconds: data.durationSeconds,
       version: data.version,
+      is_bible_audio: true,
     })
     .select()
     .single();
@@ -378,4 +369,38 @@ async function createMediaFileTags(
   }
 
   console.log(`✅ Created ${tagRecords.length} tag association records`);
+}
+
+// Helper function to get next version for a chapter
+async function getNextVersionForChapter(
+  supabaseClient: any,
+  data: {
+    projectId?: string;
+    startVerseId: string;
+    endVerseId: string;
+  }
+): Promise<number> {
+  const { data: existingFiles, error } = await supabaseClient
+    .from('media_files')
+    .select('version')
+    .eq('project_id', data.projectId ?? null)
+    .eq('start_verse_id', data.startVerseId)
+    .eq('end_verse_id', data.endVerseId)
+    .order('version', { ascending: false })
+    .limit(1);
+
+  if (error) {
+    console.warn('Error getting next version for chapter:', error);
+    return 1;
+  }
+
+  const highestVersion =
+    existingFiles && existingFiles.length > 0 ? existingFiles[0].version : 0;
+
+  const nextVersion = highestVersion + 1;
+  console.log(
+    `📈 Next version for chapter (${data.startVerseId} to ${data.endVerseId}): ${nextVersion}`
+  );
+
+  return nextVersion;
 }

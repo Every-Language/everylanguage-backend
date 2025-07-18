@@ -218,9 +218,7 @@ export class B2FileService {
         let file = data.files.find(f => f.fileName === fileName);
 
         // If no exact match, look for timestamped version (ends with the filename)
-        if (!file) {
-          file = data.files.find(f => f.fileName.endsWith(`-${fileName}`));
-        }
+        file ??= data.files.find(f => f.fileName.endsWith(`-${fileName}`));
 
         if (file) {
           return {

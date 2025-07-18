@@ -167,11 +167,11 @@ export async function parseImageUploadRequest(
     fileName: uploadRequest.fileName,
     targetType: uploadRequest.targetType,
     targetId: uploadRequest.targetId,
-    setId: uploadRequest.setId || undefined,
-    setName: uploadRequest.setName || undefined,
-    setRemotePath: uploadRequest.setRemotePath || undefined,
-    createNewSet: uploadRequest.createNewSet || false,
-    metadata: uploadRequest.metadata || undefined,
+    setId: uploadRequest.setId ?? undefined,
+    setName: uploadRequest.setName ?? undefined,
+    setRemotePath: uploadRequest.setRemotePath ?? undefined,
+    createNewSet: uploadRequest.createNewSet ?? false,
+    metadata: uploadRequest.metadata ?? undefined,
   };
 
   return { file, uploadRequest: finalUploadRequest };

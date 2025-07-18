@@ -99,7 +99,7 @@ export class B2StreamService {
           png: 'image/png',
           pdf: 'application/pdf',
         };
-        contentType = mimeTypes[extension || ''] || 'application/octet-stream';
+        contentType = mimeTypes[extension ?? ''] ?? 'application/octet-stream';
       } else {
         contentType = 'application/octet-stream';
       }

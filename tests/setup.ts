@@ -8,7 +8,7 @@ global.TextDecoder = TextDecoder;
 // Mock Deno global for Edge Functions
 (global as any).Deno = {
   env: {
-    get: (key: string) => process.env[key] || '',
+    get: (key: string) => process.env[key] ?? '',
   },
 };
 
@@ -51,10 +51,10 @@ if (typeof global.File === 'undefined') {
         if (typeof bit === 'string') return total + bit.length;
         if (bit instanceof ArrayBuffer) return total + bit.byteLength;
         if (bit instanceof Uint8Array) return total + bit.length;
-        return total + (bit?.length || 0);
+        return total + (bit?.length ?? 0);
       }, 0);
-      this.type = options.type || '';
-      this.lastModified = options.lastModified || Date.now();
+      this.type = options.type ?? '';
+      this.lastModified = options.lastModified ?? Date.now();
       this.webkitRelativePath = '';
 
       // Ensure name property is enumerable and non-writable
