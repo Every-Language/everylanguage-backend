@@ -310,7 +310,6 @@ s3_secret_key = "env(S3_SECRET_KEY)"
 [functions.upload-image]
 enabled = true
 verify_jwt = true
-import_map = "./functions/upload-image/deno.json"
 # Uncomment to specify a custom file path to the entrypoint.
 # Supported file extensions are: .ts, .js, .mjs, .jsx, .tsx
 entrypoint = "./functions/upload-image/index.ts"
