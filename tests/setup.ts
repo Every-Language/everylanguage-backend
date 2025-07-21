@@ -8,17 +8,28 @@ global.TextDecoder = TextDecoder;
 // Mock Deno global for Edge Functions
 (global as any).Deno = {
   env: {
-    get: (key: string) => process.env[key] || '',
+    get: (key: string) => process.env[key] ?? '',
   },
 };
 
 // Mock fetch if not available (Node.js < 18)
 if (typeof global.fetch === 'undefined') {
-  const { default: fetch, Headers, Request, Response } = require('node-fetch');
+  const {
+    default: fetch,
+    Headers,
+    Request,
+    Response,
+    FormData,
+  } = require('node-fetch');
   global.fetch = fetch;
   global.Headers = Headers;
   global.Request = Request;
   global.Response = Response;
+
+  // Only set FormData if it's not already available
+  if (typeof global.FormData === 'undefined') {
+    global.FormData = FormData;
+  }
 }
 
 // Mock File constructor for tests
@@ -27,11 +38,66 @@ if (typeof global.File === 'undefined') {
     name: string;
     size: number;
     type: string;
+    lastModified: number;
+    webkitRelativePath: string;
 
-    constructor(bits: any[], name: string, options: { type?: string } = {}) {
+    constructor(
+      bits: any[],
+      name: string,
+      options: { type?: string; lastModified?: number } = {}
+    ) {
       this.name = name;
-      this.size = bits.reduce((total, bit) => total + bit.length, 0);
-      this.type = options.type || '';
+      this.size = bits.reduce((total, bit) => {
+        if (typeof bit === 'string') return total + bit.length;
+        if (bit instanceof ArrayBuffer) return total + bit.byteLength;
+        if (bit instanceof Uint8Array) return total + bit.length;
+        return total + (bit?.length ?? 0);
+      }, 0);
+      this.type = options.type ?? '';
+      this.lastModified = options.lastModified ?? Date.now();
+      this.webkitRelativePath = '';
+
+      // Ensure name property is enumerable and non-writable
+      Object.defineProperty(this, 'name', {
+        value: name,
+        writable: false,
+        enumerable: true,
+        configurable: false,
+      });
+
+      // Add toString method to help with debugging
+      Object.defineProperty(this, 'toString', {
+        value: () =>
+          `[object File] { name: "${name}", size: ${this.size}, type: "${this.type}" }`,
+        writable: false,
+        enumerable: false,
+        configurable: false,
+      });
+    }
+
+    // Implement basic File methods for compatibility
+    stream(): ReadableStream<Uint8Array> {
+      return new ReadableStream({
+        start(controller) {
+          const encoder = new TextEncoder();
+          controller.enqueue(encoder.encode('test content'));
+          controller.close();
+        },
+      });
+    }
+
+    text(): Promise<string> {
+      return Promise.resolve('test content');
+    }
+
+    arrayBuffer(): Promise<ArrayBuffer> {
+      const encoder = new TextEncoder();
+      return Promise.resolve(encoder.encode('test content').buffer);
+    }
+
+    slice(start?: number, end?: number, contentType?: string): Blob {
+      // Simple implementation for testing
+      return new (global as any).Blob(['test content'], { type: contentType });
     }
   } as any;
 }

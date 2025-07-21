@@ -51,7 +51,7 @@ const testUpload = async token => {
     start_verse_id: 'gen-2-1',
     end_verse_id: 'gen-2-2',
     duration_seconds: 180,
-    project_id: '',
+    // project_id: null, // Remove empty string, use null or omit entirely
     filename: 'genesis_2.m4a',
     file_content: 'test audio content',
     verse_timings: [
@@ -110,7 +110,7 @@ const testMultipartUpload = async token => {
   formData.append('duration_seconds', '180');
 
   // Add optional fields
-  formData.append('project_id', '');
+  // formData.append('project_id', ''); // Skip empty project_id to avoid UUID error
 
   // Add verse timings as JSON string
   const verseTimings = [

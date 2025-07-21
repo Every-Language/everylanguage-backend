@@ -14,6 +14,7 @@ export class B2Utils {
    * Sanitize filename to prevent URL encoding issues
    */
   static sanitizeFileName(fileName: string): string {
+    // Note: Preserving spaces, unicode characters, and other safe characters
     return fileName
       .replace(/%/g, 'percent') // Replace % to avoid URL encoding conflicts
       .replace(/\//g, '-') // Replace / to avoid path issues
@@ -42,6 +43,7 @@ export class B2Utils {
     Object.entries(metadata).forEach(([key, value]) => {
       // B2 header format: X-Bz-Info-<key>
       const sanitizedKey = key.replace(/[^a-zA-Z0-9]/g, '-');
+      // Preserve original values - B2 can handle spaces and most characters in header values
       b2FileInfo[`X-Bz-Info-${sanitizedKey}`] = value;
     });
     return b2FileInfo;
