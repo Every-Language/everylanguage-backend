@@ -40,6 +40,7 @@ export interface ImageUploadResponse {
     downloadUrl: string;
     fileSize: number;
     remotePath: string;
+    version: number; // Add version to response
   };
   error?: string;
 }

@@ -65,6 +65,7 @@ describe('Bible Chapter Upload - Filename Robustness', () => {
       start_verse_id: 'gen-1-1',
       end_verse_id: 'gen-1-1',
       duration_seconds: 60.0,
+      audio_version_id: 'test-audio-version-id',
       filename: filename,
       file_content: `Test content for ${filename}`,
       verse_timings: [

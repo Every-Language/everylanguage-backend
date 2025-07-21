@@ -22,6 +22,7 @@ describe('Bible Chapter Validation - Parser', () => {
         start_verse_id: 'verse-1-id',
         end_verse_id: 'verse-2-id',
         duration_seconds: 120.5,
+        audio_version_id: 'test-audio-version-id',
         filename: 'test-chapter.m4a',
         file_content: 'test audio content',
         verse_timings: [
@@ -83,7 +84,7 @@ describe('Bible Chapter Validation - Parser', () => {
       await expect(
         parseAndValidateBibleChapterRequest(mockRequest)
       ).rejects.toThrow(
-        'Missing required fields: chapter_id, start_verse_id, end_verse_id, duration_seconds'
+        'Missing required fields: chapter_id, start_verse_id, end_verse_id, duration_seconds, audio_version_id'
       );
     });
 
@@ -94,6 +95,7 @@ describe('Bible Chapter Validation - Parser', () => {
         start_verse_id: 'verse-1-id',
         end_verse_id: 'verse-2-id',
         duration_seconds: 120.5,
+        audio_version_id: 'test-audio-version-id',
         filename: 'test-chapter.m4a',
         file_content: 'test audio content',
         // No optional fields
@@ -143,6 +145,7 @@ describe('Bible Chapter Validation - Parser', () => {
         start_verse_id: 'verse-1',
         end_verse_id: 'verse-2',
         duration_seconds: 75.7,
+        audio_version_id: 'test-audio-version-id',
         filename: 'test-chapter.m4a',
         file_content: 'test audio content',
         verse_timings: verseTimings,

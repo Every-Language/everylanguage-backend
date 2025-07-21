@@ -27,6 +27,7 @@ describe('ImageService', () => {
       eq: jest.fn().mockReturnThis(),
       is: jest.fn().mockReturnThis(),
       order: jest.fn().mockReturnThis(),
+      limit: jest.fn().mockReturnThis(),
       update: jest.fn().mockReturnThis(),
       single: jest.fn(),
     } as any;
@@ -103,6 +104,7 @@ describe('ImageService', () => {
         target_id: 'chapter-id',
         set_id: 'set-id',
         created_by: 'user-id',
+        version: 1,
       });
     });
 
@@ -128,6 +130,7 @@ describe('ImageService', () => {
         target_id: 'chapter-id',
         set_id: undefined,
         created_by: 'user-id',
+        version: 1,
       });
     });
 

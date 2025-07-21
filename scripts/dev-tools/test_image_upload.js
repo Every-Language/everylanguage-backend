@@ -175,6 +175,51 @@ const testExistingSetUpload = async (token, existingSetId) => {
   }
 };
 
+// Example 4: Upload to same target and same set (for version testing)
+const testVersionIncrement = async (token, existingSetId) => {
+  console.log(
+    `⬆️  Testing version increment for same target and set: ${existingSetId}`
+  );
+
+  // Generate test content that's at least 1KB
+  const versionTestImageContent =
+    'version increment test image content '.repeat(30) + 'end';
+
+  const jsonPayload = {
+    target_type: 'chapter',
+    target_id: 'gen-1', // Same target as first upload (Genesis chapter 1)
+    filename: 'genesis_1_cover_v2.png',
+    file_content: versionTestImageContent,
+    set_id: existingSetId, // Use existing set from previous upload
+    metadata: {
+      description: 'Updated_cover_for_Genesis_chapter_1',
+      category: 'chapter_cover_v2',
+    },
+  };
+
+  try {
+    const response = await fetch(`${SUPABASE_URL}/functions/v1/upload-image`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${token}`,
+        apikey: ANON_KEY,
+      },
+      body: JSON.stringify(jsonPayload),
+    });
+
+    const result = await response.json();
+    console.log(
+      '✅ Version increment test result:',
+      JSON.stringify(result, null, 2)
+    );
+    return result;
+  } catch (error) {
+    console.error('❌ Version increment test failed:', error);
+    return null;
+  }
+};
+
 async function main() {
   console.log('🚀 Testing Image Upload API');
   console.log('=' + '='.repeat(29));
@@ -205,6 +250,24 @@ async function main() {
       } else {
         console.log('❌ Could not get set ID from first upload');
       }
+    } else if (process.argv.includes('--version-test')) {
+      console.log('🧪 Testing version incrementing...');
+      // First upload
+      console.log('📤 First upload to gen-1:');
+      const firstResult = await testUpload(token);
+      console.log();
+
+      if (firstResult?.success && firstResult?.data?.setId) {
+        // Second upload to same target AND same set to test version increment
+        console.log(
+          '📤 Second upload to same target (gen-1) and same set - should increment version:'
+        );
+        await testVersionIncrement(token, firstResult.data.setId);
+      } else {
+        console.log(
+          '❌ Could not get set ID from first upload for version test'
+        );
+      }
     } else {
       console.log('🧪 Testing JSON upload with new set...');
       await testUpload(token);
@@ -222,6 +285,9 @@ async function main() {
     );
     console.log(
       '   node scripts/dev-tools/test_image_upload.js --existing-set # Test existing set'
+    );
+    console.log(
+      '   node scripts/dev-tools/test_image_upload.js --version-test # Test version incrementing'
     );
   } catch (error) {
     console.log(`💥 Unexpected error: ${error.message}`);

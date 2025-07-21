@@ -14,14 +14,15 @@ export class B2Utils {
    * Sanitize filename to prevent URL encoding issues
    */
   static sanitizeFileName(fileName: string): string {
-    // Note: Preserving spaces, unicode characters, and other safe characters
+    // For filenames, sanitize URL-problematic characters but preserve unicode and spaces
     return fileName
       .replace(/%/g, 'percent') // Replace % to avoid URL encoding conflicts
       .replace(/\//g, '-') // Replace / to avoid path issues
       .replace(/\\/g, '-') // Replace \ to avoid path issues
       .replace(/\|/g, '-') // Replace | to avoid pipe issues
       .replace(/</g, 'lt') // Replace < to avoid HTML issues
-      .replace(/>/g, 'gt'); // Replace > to avoid HTML issues
+      .replace(/>/g, 'gt') // Replace > to avoid HTML issues
+      .replace(/[\t\n\r]/g, '_'); // Replace tabs, newlines, carriage returns
   }
 
   /**
@@ -42,9 +43,11 @@ export class B2Utils {
     const b2FileInfo: Record<string, string> = {};
     Object.entries(metadata).forEach(([key, value]) => {
       // B2 header format: X-Bz-Info-<key>
-      const sanitizedKey = key.replace(/[^a-zA-Z0-9]/g, '-');
-      // Preserve original values - B2 can handle spaces and most characters in header values
-      b2FileInfo[`X-Bz-Info-${sanitizedKey}`] = value;
+      const sanitizedKey = key.replace(/[^a-zA-Z0-9-]/g, '-');
+      // B2 supports percent-encoded UTF-8 values, so preserve more characters
+      // Only replace truly problematic characters like tabs and newlines
+      const sanitizedValue = value.replace(/[\t\n\r]/g, '_');
+      b2FileInfo[`X-Bz-Info-${sanitizedKey}`] = sanitizedValue;
     });
     return b2FileInfo;
   }

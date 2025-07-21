@@ -13,6 +13,7 @@ export interface BibleChapterUploadRequest {
   startVerseId: string;
   endVerseId: string;
   durationSeconds: number;
+  audioVersionId: string; // Required: audio version this media file belongs to
   projectId?: string;
   verseTimings?: VerseTiming[];
   tagIds?: string[];
@@ -29,7 +30,8 @@ interface BibleChapterJsonData {
   start_verse_id: string;
   end_verse_id: string;
   duration_seconds: number;
-  project_id: string;
+  audio_version_id: string;
+  project_id?: string; // Made optional
   filename?: string;
   verse_timings: Array<{ verseId: string; startTime: number; endTime: number }>;
   tag_ids: string[];
@@ -44,7 +46,8 @@ function isBibleChapterJsonData(data: unknown): data is BibleChapterJsonData {
     typeof (data as any).chapter_id === 'string' &&
     typeof (data as any).start_verse_id === 'string' &&
     typeof (data as any).end_verse_id === 'string' &&
-    typeof (data as any).duration_seconds === 'number'
+    typeof (data as any).duration_seconds === 'number' &&
+    typeof (data as any).audio_version_id === 'string'
     // Note: project_id, verse_timings and tag_ids are optional and can be missing in tests
   );
 }
@@ -55,6 +58,7 @@ function validateRequiredFields(data: any): void {
     'start_verse_id',
     'end_verse_id',
     'duration_seconds',
+    'audio_version_id',
   ];
   const missingFields: string[] = [];
 
@@ -183,6 +187,7 @@ export async function parseAndValidateBibleChapterRequest(
     startVerseId: uploadRequest.start_verse_id,
     endVerseId: uploadRequest.end_verse_id,
     durationSeconds,
+    audioVersionId: uploadRequest.audio_version_id,
     projectId: uploadRequest.project_id ?? undefined,
     verseTimings: uploadRequest.verse_timings ?? undefined,
     tagIds: uploadRequest.tag_ids ?? undefined,
@@ -209,6 +214,10 @@ export async function validateBibleChapterUploadRequest(
 
   if (!uploadRequest.startVerseId || !uploadRequest.endVerseId) {
     errors.push('Missing required fields: startVerseId, endVerseId');
+  }
+
+  if (!uploadRequest.audioVersionId) {
+    errors.push('Missing required field: audioVersionId');
   }
 
   if (!uploadRequest.durationSeconds || uploadRequest.durationSeconds <= 0) {
@@ -288,6 +297,32 @@ export async function validateBibleChapterUploadRequest(
     console.log(
       `✅ Language entity validated: ${languageEntity.name} (${languageEntity.level})`
     );
+
+    // Validate audio version
+    const { data: audioVersion, error: audioVersionError } =
+      await supabaseClient
+        .from('audio_versions')
+        .select('id, name, language_entity_id, bible_version_id')
+        .eq('id', uploadRequest.audioVersionId)
+        .is('deleted_at', null)
+        .single();
+
+    if (audioVersionError || !audioVersion) {
+      throw new Error(
+        audioVersionError?.code === 'PGRST116'
+          ? 'Audio version not found or has been deleted'
+          : `Audio version validation failed: ${audioVersionError?.message}`
+      );
+    }
+
+    // Validate that audio version belongs to the specified language entity
+    if (audioVersion.language_entity_id !== uploadRequest.languageEntityId) {
+      throw new Error(
+        `Audio version does not belong to the specified language entity`
+      );
+    }
+
+    console.log(`✅ Audio version validated: ${audioVersion.name}`);
 
     // Validate project (if provided)
     if (uploadRequest.projectId) {
