@@ -144,6 +144,7 @@ Deno.serve(async req => {
         downloadUrl: uploadResult.downloadUrl,
         fileSize: uploadResult.fileSize,
         remotePath: uploadResult.fileName,
+        version: image.version, // Include version in response
       },
     };
 

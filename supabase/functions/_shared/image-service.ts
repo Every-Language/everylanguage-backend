@@ -7,6 +7,7 @@ export interface ImageData {
   setId?: string;
   createdBy?: string;
   fileSize?: number;
+  version?: number; // Add version support
 }
 
 export interface ImageSetData {
@@ -42,9 +43,18 @@ export class ImageService {
   }
 
   /**
-   * Create a new image record
+   * Create a new image record with automatic versioning
    */
   async createImage(data: ImageData) {
+    // Get the next version if not explicitly provided
+    const version =
+      data.version ??
+      (await this.getNextVersionForTarget(
+        data.targetType,
+        data.targetId,
+        data.setId
+      ));
+
     const { data: image, error } = await this.supabaseClient
       .from('images')
       .insert({
@@ -53,6 +63,7 @@ export class ImageService {
         target_id: data.targetId,
         set_id: data.setId,
         created_by: data.createdBy,
+        version,
       })
       .select()
       .single();
@@ -295,5 +306,39 @@ export class ImageService {
       .single();
 
     return data?.created_by === userId;
+  }
+
+  /**
+   * Get the next version number for a target
+   */
+  async getNextVersionForTarget(
+    targetType: string,
+    targetId: string,
+    setId?: string
+  ): Promise<number> {
+    let query = this.supabaseClient
+      .from('images')
+      .select('version')
+      .eq('target_type', targetType)
+      .eq('target_id', targetId)
+      .is('deleted_at', null);
+
+    // If setId is provided, filter by it; if not, only consider images without a set
+    if (setId) {
+      query = query.eq('set_id', setId);
+    } else {
+      query = query.is('set_id', null);
+    }
+
+    const { data, error } = await query
+      .order('version', { ascending: false })
+      .limit(1);
+
+    if (error) {
+      throw new Error(`Failed to get version info: ${error.message}`);
+    }
+
+    // Return next version (starting from 1 if no existing images)
+    return data && data.length > 0 ? (data[0].version || 0) + 1 : 1;
   }
 }
