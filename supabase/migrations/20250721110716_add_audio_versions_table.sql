@@ -8,7 +8,7 @@
 CREATE TABLE audio_versions (
   id UUID PRIMARY KEY DEFAULT GEN_RANDOM_UUID(),
   language_entity_id UUID REFERENCES language_entities (id) ON DELETE CASCADE NOT NULL,
-  bible_version_id UUID REFERENCES bible_versions (id) ON DELETE CASCADE NOT NULL,
+  bible_version_id TEXT REFERENCES bible_versions (id) ON DELETE CASCADE NOT NULL,
   project_id UUID REFERENCES projects (id) ON DELETE SET NULL,
   name TEXT NOT NULL, -- e.g., OMT, NIV, NLT, ESV
   created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
