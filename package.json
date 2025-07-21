@@ -1,6 +1,6 @@
 {
   "name": "@everylanguage/shared-types",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "type": "module",
   "main": "types/database.js",
   "types": "types/database.d.ts",
