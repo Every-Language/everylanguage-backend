@@ -97,6 +97,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'gen-1-1',
       end_verse_id: 'gen-1-2',
       duration_seconds: 180.5,
+      audio_version_id: 'test-audio-version-id',
       project_id: 'test-project-id',
       filename: 'genesis-1.m4a',
       file_content: 'This is test Bible chapter audio content',
@@ -153,6 +154,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'gen-1-1',
       end_verse_id: 'gen-1-2',
       duration_seconds: 120.5,
+      audio_version_id: 'test-audio-version-id',
       filename: 'test-chapter.m4a',
       file_content: 'Test content',
     };
@@ -227,6 +229,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'psa-1-1',
       end_verse_id: 'psa-1-6',
       duration_seconds: 300.0,
+      audio_version_id: 'test-audio-version-id',
       filename: 'psalms-1.m4a',
       file_content: 'Psalm 1 audio content',
       verse_timings: [
@@ -283,6 +286,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'mat-1-1',
       end_verse_id: 'mat-1-25',
       duration_seconds: 600.0,
+      audio_version_id: 'test-audio-version-id',
       filename: 'matthew-1.m4a',
       file_content: 'Matthew chapter 1 audio content',
       // No optional fields: project_id, verse_timings, tag_ids
@@ -324,6 +328,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'gen-1-1',
       end_verse_id: 'gen-1-2',
       duration_seconds: 120.5,
+      audio_version_id: 'test-audio-version-id',
       filename: 'test-chapter.txt', // Wrong file type
       file_content: 'Test content',
     };
@@ -362,6 +367,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       start_verse_id: 'gen-1-1',
       end_verse_id: 'gen-1-2',
       duration_seconds: 120.5,
+      audio_version_id: 'test-audio-version-id',
       filename: 'test-chapter.m4a',
       file_content: 'Test content',
     };

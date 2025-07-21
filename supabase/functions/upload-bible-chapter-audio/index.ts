@@ -119,6 +119,7 @@ Deno.serve(async (req: Request) => {
     try {
       mediaFile = await createBibleChapterMediaFile(supabaseClient, {
         languageEntityId: uploadRequest.languageEntityId,
+        audioVersionId: uploadRequest.audioVersionId,
         projectId: uploadRequest.projectId,
         createdBy: publicUserId,
         fileSize: file.size,
@@ -274,6 +275,7 @@ async function createBibleChapterMediaFile(
   supabaseClient: any,
   data: {
     languageEntityId: string;
+    audioVersionId: string;
     projectId?: string;
     createdBy: string;
     fileSize: number;
@@ -287,6 +289,7 @@ async function createBibleChapterMediaFile(
     .from('media_files')
     .insert({
       language_entity_id: data.languageEntityId,
+      audio_version_id: data.audioVersionId,
       media_type: 'audio',
       project_id: data.projectId,
       created_by: data.createdBy,
@@ -296,6 +299,8 @@ async function createBibleChapterMediaFile(
       file_size: data.fileSize,
       duration_seconds: data.durationSeconds,
       version: data.version,
+      start_verse_id: data.startVerseId,
+      end_verse_id: data.endVerseId,
       is_bible_audio: true,
     })
     .select()
