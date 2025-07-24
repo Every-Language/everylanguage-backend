@@ -339,6 +339,6 @@ export class ImageService {
     }
 
     // Return next version (starting from 1 if no existing images)
-    return data && data.length > 0 ? (data[0].version || 0) + 1 : 1;
+    return data?.length ? (data[0].version ?? 0) + 1 : 1;
   }
 }

@@ -213,7 +213,7 @@ export class B2FileService {
         throw new Error('Invalid response format from B2 API');
       }
 
-      if (data.files && data.files.length > 0) {
+      if (data.files.length > 0) {
         // Look for exact match first
         let file = data.files.find(f => f.fileName === fileName);
 

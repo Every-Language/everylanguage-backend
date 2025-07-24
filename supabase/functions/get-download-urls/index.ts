@@ -1,4 +1,3 @@
-import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
 
 const corsHeaders = {
@@ -36,32 +35,7 @@ Deno.serve(async (req: Request) => {
   }
 
   try {
-    const authHeader = req.headers.get('Authorization');
-    if (!authHeader) {
-      return new Response(
-        JSON.stringify({ error: 'Missing authorization header' }),
-        {
-          status: 401,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-
-    // Verify authentication
-    const supabaseClient = createClient(
-      Deno.env.get('SUPABASE_URL') ?? '',
-      Deno.env.get('SUPABASE_ANON_KEY') ?? '',
-      { global: { headers: { Authorization: authHeader } } }
-    );
-
-    const { error: authError } = await supabaseClient.auth.getUser();
-    if (authError) {
-      return new Response(JSON.stringify({ error: 'Authentication failed' }), {
-        status: 401,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-      });
-    }
-
+    // Parse request data
     let requestData: DownloadRequest;
     try {
       requestData = await req.json();
@@ -78,7 +52,7 @@ Deno.serve(async (req: Request) => {
     const { filePaths, expirationHours = 24 } = requestData;
 
     // Validate input
-    if (!filePaths || !Array.isArray(filePaths) || filePaths.length === 0) {
+    if (!Array.isArray(filePaths) || filePaths.length === 0) {
       return new Response(
         JSON.stringify({ error: 'Invalid filePaths array' }),
         {
@@ -88,11 +62,16 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    // Validate expiration hours (between 1 and 168 hours = 7 days)
-    if (expirationHours < 1 || expirationHours > 168) {
+    // Apply reasonable limits for public access
+    const maxFiles = 2000;
+    const maxExpiration = 24;
+
+    // Validate file count
+    if (filePaths.length > maxFiles) {
       return new Response(
         JSON.stringify({
-          error: 'expirationHours must be between 1 and 168 (7 days)',
+          error: `Maximum ${maxFiles} files per request`,
+          hint: 'Split large requests into smaller batches',
         }),
         {
           status: 400,
@@ -101,12 +80,11 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    // Limit batch size to prevent abuse
-    if (filePaths.length > 100) {
+    // Validate expiration hours
+    if (expirationHours < 1 || expirationHours > maxExpiration) {
       return new Response(
         JSON.stringify({
-          error: 'Maximum 100 files per request',
-          hint: 'Split large requests into smaller batches',
+          error: `expirationHours must be between 1 and ${maxExpiration} hours`,
         }),
         {
           status: 400,
@@ -124,7 +102,7 @@ Deno.serve(async (req: Request) => {
       `Generating ${filePaths.length} presigned URLs with ${expirationHours}h expiration`
     );
 
-    // Generate signed URLs for each file
+    // Generate signed URLs for all requested files
     const urlPromises = filePaths.map(async filePath => {
       const fileName = filePath.split('/').pop() ?? filePath;
       try {
