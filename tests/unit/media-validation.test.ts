@@ -24,7 +24,7 @@ global.File = class MockFile {
   constructor(bits: any[], name: string, options: { type?: string } = {}) {
     this.name = name;
     this.size = bits.join('').length;
-    this.type = options.type || '';
+    this.type = options.type ?? '';
   }
 } as any;
 

@@ -159,7 +159,9 @@ def debug_bible_structure():
         print(f"❌ VERSE DISCREPANCY: {verse_diff:+d} verses")
     
     print("\n📊 BOOK-BY-BOOK ANALYSIS:")
-    print("-" * 60)
+    print("-" * 80)
+    print(f"{'Status':<2} {'Book':<15} {'Testament':<13} {'Chapters':<12} {'Expected':<10} {'Verses':<8}")
+    print("-" * 80)
     
     errors = []
     old_testament_chapters = 0
@@ -169,6 +171,8 @@ def debug_bible_structure():
         book_name = book['name']
         actual_chapters = len(book['chapters'])
         expected_chapters = CORRECT_CHAPTER_COUNTS.get(book_name, -1)
+        testament = "old" if book['book_number'] <= 39 else "new"
+        testament_display = "Old Testament" if book['book_number'] <= 39 else "New Testament"
         
         if book['book_number'] <= 39:  # Old Testament
             old_testament_chapters += actual_chapters
@@ -185,9 +189,10 @@ def debug_bible_structure():
                 'diff': actual_chapters - expected_chapters
             })
         
-        print(f"{status} {book_name:<15} | Actual: {actual_chapters:>3} | Expected: {expected_chapters:>3} | Verses: {sum(book['chapters']):>5}")
+        print(f"{status} {book_name:<15} {testament_display:<13} {actual_chapters:>3}/{expected_chapters:<3}      {sum(book['chapters']):>5}")
     
-    print(f"\nOld Testament: {old_testament_chapters} chapters")
+    print("-" * 80)
+    print(f"Old Testament: {old_testament_chapters} chapters")
     print(f"New Testament: {new_testament_chapters} chapters")
     print(f"Total: {old_testament_chapters + new_testament_chapters} chapters")
     
@@ -241,13 +246,14 @@ def generate_single_file():
     sql_parts.append("-- ============================================================================")
     sql_parts.append("-- ALL BOOKS (66 books)")
     sql_parts.append("-- ============================================================================")
-    sql_parts.append("INSERT INTO books (id, name, book_number, bible_version_id)")
+    sql_parts.append("INSERT INTO books (id, name, book_number, testament, bible_version_id)")
     sql_parts.append("VALUES")
     
     book_values = []
     for book in PROTESTANT_BIBLE:
         book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
-        book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, 'bible-version-protestant-standard')")
+        testament = "old" if book['book_number'] <= 39 else "new"
+        book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, '{testament}', 'bible-version-protestant-standard')")
     
     sql_parts.append(",\n".join(book_values) + ";")
     sql_parts.append("")
@@ -328,11 +334,12 @@ def generate_chunked_files(verses_per_file=5000):
         f.write("VALUES ('bible-version-protestant-standard', 'Protestant Bible (Standard)', 'Standard Protestant Bible with 66 books (39 Old Testament, 27 New Testament)');\n\n")
         
         f.write("-- All Books\n")
-        f.write("INSERT INTO books (id, name, book_number, bible_version_id)\nVALUES\n")
+        f.write("INSERT INTO books (id, name, book_number, testament, bible_version_id)\nVALUES\n")
         book_values = []
         for book in PROTESTANT_BIBLE:
             book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
-            book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, 'bible-version-protestant-standard')")
+            testament = "old" if book['book_number'] <= 39 else "new"
+            book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, '{testament}', 'bible-version-protestant-standard')")
         f.write(",\n".join(book_values) + ";\n")
     
     # Generate all chapters
@@ -402,6 +409,117 @@ def generate_chunked_files(verses_per_file=5000):
     print(f"✅ Generated {verse_count:,} verses in {file_count-3} chunk files")
     print(f"📁 Files saved to: {output_dir}/")
 
+def generate_migration_sql():
+    """Generate migration-friendly SQL for existing databases"""
+    
+    print("\n🚀 Generating migration-friendly SQL...")
+    
+    sql_parts = []
+    
+    # Header
+    sql_parts.append("-- MIGRATION-FRIENDLY BIBLE DATA")
+    sql_parts.append("-- Safe to run on databases with existing data")
+    sql_parts.append("-- Uses UPSERT/ON CONFLICT syntax to avoid duplicates")
+    sql_parts.append("-- Uses testament enum values: 'old', 'new'")
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("")
+    
+    # Bible Version (UPSERT)
+    sql_parts.append("-- Bible version (UPSERT)")
+    sql_parts.append("INSERT INTO bible_versions (id, name, structure_notes)")
+    sql_parts.append("VALUES ('bible-version-protestant-standard', 'Protestant Bible (Standard)', 'Standard Protestant Bible with 66 books (39 Old Testament, 27 New Testament)')")
+    sql_parts.append("ON CONFLICT (id) DO UPDATE SET")
+    sql_parts.append("  name = EXCLUDED.name,")
+    sql_parts.append("  structure_notes = EXCLUDED.structure_notes;")
+    sql_parts.append("")
+    
+    # Method 1: Update existing books to add testament field
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("-- METHOD 1: UPDATE existing books to add testament field")
+    sql_parts.append("-- Run this first if your books table doesn't have testament column yet")
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("")
+    
+    for book in PROTESTANT_BIBLE:
+        book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
+        testament = "old" if book['book_number'] <= 39 else "new"
+        sql_parts.append(f"UPDATE books SET testament = '{testament}' WHERE id = '{book_id}';")
+    
+    sql_parts.append("")
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("-- METHOD 2: UPSERT books (insert new or update existing)")
+    sql_parts.append("-- Use this if you want to insert/update all book data at once")
+    sql_parts.append("-- ============================================================================")
+    
+    book_values = []
+    for book in PROTESTANT_BIBLE:
+        book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
+        testament = "old" if book['book_number'] <= 39 else "new"
+        book_values.append(f"  ('{book_id}', '{book['name'].replace('_', ' ').title()}', {book['book_number']}, '{testament}', 'bible-version-protestant-standard')")
+    
+    sql_parts.append("INSERT INTO books (id, name, book_number, testament, bible_version_id)")
+    sql_parts.append("VALUES")
+    sql_parts.append(",\n".join(book_values))
+    sql_parts.append("ON CONFLICT (id) DO UPDATE SET")
+    sql_parts.append("  name = EXCLUDED.name,")
+    sql_parts.append("  book_number = EXCLUDED.book_number,")
+    sql_parts.append("  testament = EXCLUDED.testament,")
+    sql_parts.append("  bible_version_id = EXCLUDED.bible_version_id;")
+    sql_parts.append("")
+    
+    # Chapters (INSERT OR IGNORE)
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("-- CHAPTERS (INSERT only if not exists)")
+    sql_parts.append("-- Safe to run - will skip existing chapters")
+    sql_parts.append("-- ============================================================================")
+    
+    for book in PROTESTANT_BIBLE:
+        book_id = BOOK_NAME_TO_OSIS[book['name']].lower()
+        book_name = book['name'].replace('_', ' ').title()
+        chapter_count = len(book['chapters'])
+        
+        sql_parts.append(f"-- {book_name.upper()} ({chapter_count} chapters)")
+        
+        chapter_values = []
+        for chapter_num, verse_count in enumerate(book['chapters'], 1):
+            chapter_id = f"{BOOK_NAME_TO_OSIS[book['name']].lower()}-{chapter_num}"
+            chapter_values.append(f"  ('{chapter_id}', '{book_id}', {chapter_num}, {verse_count})")
+        
+        sql_parts.append("INSERT INTO chapters (id, book_id, chapter_number, total_verses)")
+        sql_parts.append("VALUES")
+        sql_parts.append(",\n".join(chapter_values))
+        sql_parts.append("ON CONFLICT (id) DO NOTHING;")
+        sql_parts.append("")
+    
+    # Verses note
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("-- VERSES: Use chunked files with migration syntax")
+    sql_parts.append("-- This file focuses on books/chapters. For verses, modify chunked files")
+    sql_parts.append("-- to use: INSERT ... ON CONFLICT (id) DO NOTHING;")
+    sql_parts.append("-- ============================================================================")
+    
+    # Footer
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("-- REFRESH GLOBAL ORDER VALUES")
+    sql_parts.append("-- ============================================================================")
+    sql_parts.append("SELECT refresh_all_global_orders();")
+    
+    output_file = "supabase/seed/migration_bible_with_testament.sql"
+    with open(output_file, 'w') as f:
+        f.write("\n".join(sql_parts))
+    
+    print(f"\n✅ Generated migration-friendly SQL:")
+    print(f"   📝 Safe UPSERT/UPDATE syntax")
+    print(f"   📝 Uses testament enum: 'old', 'new'")
+    print(f"   💾 Saved to: {output_file}")
+    print(f"   📊 File size: ~{len('\n'.join(sql_parts)) // 1024:,}KB")
+    print(f"\n📋 MIGRATION STEPS:")
+    print(f"   1. ⚠️  BACKUP your database first!")
+    print(f"   2. 🏗️  Ensure testament column exists (should be from migration)")
+    print(f"   3. 🚀 Run the generated SQL file")
+    print(f"   4. ✅ Existing chapters/verses will be skipped safely")
+    print(f"   5. 📊 Only books will get testament field populated")
+
 def main():
     """Main function to handle user interaction"""
     stats = get_stats()
@@ -416,11 +534,12 @@ def main():
     print("Choose generation method:")
     print("1. Single large file (~15-20MB)")
     print("2. Multiple chunk files (recommended)")
-    print("3. Debug Bible structure")
-    print("4. Verify individual books")
-    print("5. Exit")
+    print("3. Migration-friendly SQL (for existing data)")
+    print("4. Debug Bible structure")
+    print("5. Verify individual books")
+    print("6. Exit")
     
-    choice = input("\nChoice (1/2/3/4/5): ").strip()
+    choice = input("\nChoice (1/2/3/4/5/6): ").strip()
     
     if choice == "1":
         print("\n🚀 Generating single large file...")
@@ -441,12 +560,15 @@ def main():
         print("\n✅ Load files in order: 01_*, 02_*, 03_*, ..., 99_*")
         
     elif choice == "3":
-        debug_bible_structure()
+        generate_migration_sql()
         
     elif choice == "4":
-        verify_individual_books()
+        debug_bible_structure()
         
     elif choice == "5":
+        verify_individual_books()
+        
+    elif choice == "6":
         print("\n👋 Goodbye!")
         sys.exit(0)
         

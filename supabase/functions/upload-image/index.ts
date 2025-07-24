@@ -81,7 +81,7 @@ Deno.serve(async req => {
       const { data: authData } = await supabaseClient.auth.getUser(authToken);
       if (authData.user) {
         authUser = await imageService.getAuthenticatedUser(authData.user.id);
-        userId = authUser?.id;
+        userId = authUser; // authUser is already the public user ID string
       }
     }
 
@@ -144,7 +144,7 @@ Deno.serve(async req => {
         downloadUrl: uploadResult.downloadUrl,
         fileSize: uploadResult.fileSize,
         remotePath: uploadResult.fileName,
-        version: image.version, // Include version in response
+        version: image.version,
       },
     };
 
@@ -170,32 +170,3 @@ Deno.serve(async req => {
     });
   }
 });
-
-/* To invoke locally:
-
-  1. Run `supabase start` (see: https://supabase.com/docs/reference/cli/supabase-start)
-  2. Make an HTTP request:
-
-  # Upload image with multipart form data
-  curl -i --location --request POST 'http://127.0.0.1:54321/functions/v1/upload-image' \
-    --header 'Authorization: Bearer YOUR_AUTH_TOKEN' \
-    --form 'file=@"/path/to/image.jpg"' \
-    --form 'target_type="chapter"' \
-    --form 'target_id="YOUR_CHAPTER_ID"' \
-    --form 'set_name="Chapter Images"' \
-    --form 'create_new_set="true"'
-
-  # Upload image with JSON (for testing)
-  curl -i --location --request POST 'http://127.0.0.1:54321/functions/v1/upload-image' \
-    --header 'Authorization: Bearer YOUR_AUTH_TOKEN' \
-    --header 'Content-Type: application/json' \
-    --data '{
-      "target_type": "chapter",
-      "target_id": "YOUR_CHAPTER_ID",
-      "filename": "test_image.png",
-      "file_content": "test image data",
-      "set_name": "Test Set",
-      "create_new_set": true
-    }'
-
-*/
