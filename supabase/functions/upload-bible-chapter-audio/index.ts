@@ -125,6 +125,7 @@ Deno.serve(async (req: Request) => {
         fileSize: file.size,
         durationSeconds: uploadRequest.durationSeconds,
         version: nextVersion,
+        chapterId: uploadRequest.chapterId,
         startVerseId: uploadRequest.startVerseId,
         endVerseId: uploadRequest.endVerseId,
       });
@@ -281,6 +282,7 @@ async function createBibleChapterMediaFile(
     fileSize: number;
     durationSeconds: number;
     version: number;
+    chapterId: string;
     startVerseId: string;
     endVerseId: string;
   }
@@ -299,6 +301,7 @@ async function createBibleChapterMediaFile(
       file_size: data.fileSize,
       duration_seconds: data.durationSeconds,
       version: data.version,
+      chapter_id: data.chapterId,
       start_verse_id: data.startVerseId,
       end_verse_id: data.endVerseId,
       is_bible_audio: true,
