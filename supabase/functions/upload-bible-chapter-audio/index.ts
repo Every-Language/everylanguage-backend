@@ -115,7 +115,6 @@ Deno.serve(async (req: Request) => {
 
     // Get next version number for this chapter
     const nextVersion = await getNextVersionForChapter(supabaseClient, {
-      projectId: uploadRequest.projectId,
       startVerseId: uploadRequest.startVerseId,
       endVerseId: uploadRequest.endVerseId,
     });
@@ -126,7 +125,6 @@ Deno.serve(async (req: Request) => {
       mediaFile = await createBibleChapterMediaFile(supabaseClient, {
         languageEntityId: uploadRequest.languageEntityId,
         audioVersionId: uploadRequest.audioVersionId,
-        projectId: uploadRequest.projectId,
         createdBy: publicUserId,
         fileSize: file.size,
         durationSeconds: uploadRequest.durationSeconds,

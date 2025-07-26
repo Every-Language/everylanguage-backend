@@ -10,11 +10,11 @@ export const testBulkUpload = async () => {
   const testFiles = [
     {
       fileName: 'genesis_1.m4a',
-      languageEntityId: 'your-language-entity-id',
-      chapterId: 'your-chapter-id-1',
-      audioVersionId: 'your-audio-version-id', // ✅ This is now included!
-      startVerseId: 'verse-1-start',
-      endVerseId: 'verse-1-end',
+      languageEntityId: 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb',
+      chapterId: 'num-4',
+      audioVersionId: '0a4e7438-7815-46f2-bafd-c57b7405c8bf', // ✅ This is now included!
+      startVerseId: 'num-4-3',
+      endVerseId: 'num-4-7',
       durationSeconds: 120.5,
       projectId: 'your-project-id',
     },

@@ -5,9 +5,8 @@
 
 export interface MediaFileData {
   languageEntityId: string;
-  audioVersionId: string;
-  chapterId: string;
-  projectId?: string;
+  audioVersionId: string; // Added: Required field for audio version
+  chapterId: string; // Added: Required field for chapter
   createdBy: string;
   fileSize: number;
   durationSeconds: number;
@@ -52,7 +51,6 @@ export async function createBibleChapterMediaFile(
       audio_version_id: data.audioVersionId, // Added: audio version ID
       chapter_id: data.chapterId, // Added: chapter ID
       media_type: 'audio',
-      project_id: data.projectId,
       created_by: data.createdBy,
       upload_status: data.status ?? 'uploading',
       publish_status: 'pending',
@@ -143,7 +141,6 @@ export async function updateMediaFileStatus(
 export async function getNextVersionForChapter(
   supabaseClient: any,
   data: {
-    projectId?: string;
     startVerseId: string;
     endVerseId: string;
   }
@@ -151,7 +148,6 @@ export async function getNextVersionForChapter(
   const { data: existingFiles, error } = await supabaseClient
     .from('media_files')
     .select('version')
-    .eq('project_id', data.projectId ?? null)
     .eq('start_verse_id', data.startVerseId)
     .eq('end_verse_id', data.endVerseId)
     .order('version', { ascending: false })

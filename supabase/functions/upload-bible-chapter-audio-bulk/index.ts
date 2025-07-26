@@ -158,7 +158,6 @@ Deno.serve(async (req: Request) => {
 
         // Get next version for this chapter
         const nextVersion = await getNextVersionForChapter(supabaseClient, {
-          projectId: uploadRequest.projectId,
           startVerseId: uploadRequest.startVerseId,
           endVerseId: uploadRequest.endVerseId,
         });
@@ -167,7 +166,6 @@ Deno.serve(async (req: Request) => {
         const mediaFile = await createBibleChapterMediaFile(supabaseClient, {
           languageEntityId: uploadRequest.languageEntityId,
           audioVersionId: uploadRequest.audioVersionId,
-          projectId: uploadRequest.projectId,
           createdBy: publicUserId,
           fileSize: file.size,
           durationSeconds: uploadRequest.durationSeconds,
@@ -201,7 +199,6 @@ Deno.serve(async (req: Request) => {
             {
               languageEntityId: uploadRequest.languageEntityId,
               audioVersionId: uploadRequest.audioVersionId,
-              projectId: uploadRequest.projectId,
               createdBy: publicUserId,
               fileSize: file.size,
               durationSeconds: uploadRequest.durationSeconds,
@@ -281,7 +278,6 @@ Deno.serve(async (req: Request) => {
             {
               'media-type': 'audio',
               'language-entity-id': record.uploadRequest.languageEntityId,
-              'project-id': record.uploadRequest.projectId ?? '',
               'chapter-id': record.uploadRequest.chapterId,
               'is-bible-audio': 'true',
               version: record.version.toString(),
