@@ -30,7 +30,6 @@ interface BibleChapterJsonData {
   end_verse_id: string;
   duration_seconds: number;
   audio_version_id: string;
-  project_id?: string; // Made optional
   filename?: string;
   verse_timings: Array<{ verseId: string; startTime: number; endTime: number }>;
   tag_ids: string[];
@@ -47,7 +46,7 @@ function isBibleChapterJsonData(data: unknown): data is BibleChapterJsonData {
     typeof (data as any).end_verse_id === 'string' &&
     typeof (data as any).duration_seconds === 'number' &&
     typeof (data as any).audio_version_id === 'string'
-    // Note: project_id, verse_timings and tag_ids are optional and can be missing in tests
+    // Note: verse_timings and tag_ids are optional and can be missing in tests
   );
 }
 
@@ -103,7 +102,6 @@ export async function parseAndValidateBibleChapterRequest(
       start_verse_id: jsonData.start_verse_id,
       end_verse_id: jsonData.end_verse_id,
       duration_seconds: jsonData.duration_seconds,
-      project_id: jsonData.project_id,
       filename: jsonData.filename ?? 'bible_chapter.m4a',
       verse_timings: jsonData.verse_timings,
       tag_ids: jsonData.tag_ids,
@@ -147,7 +145,6 @@ export async function parseAndValidateBibleChapterRequest(
       start_verse_id: formData.get('start_verse_id') as string,
       end_verse_id: formData.get('end_verse_id') as string,
       duration_seconds: formData.get('duration_seconds') as string,
-      project_id: formData.get('project_id') as string,
       filename: file.name || 'unknown',
       verse_timings: verseTimings,
       tag_ids: tagIds,

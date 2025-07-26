@@ -13,7 +13,6 @@ interface MediaJsonData {
   target_type: string;
   target_id: string;
   language_entity_id: string;
-  project_id: string;
   filename?: string;
   duration_seconds?: number;
   file_content?: string;
@@ -25,8 +24,7 @@ function isMediaJsonData(data: unknown): data is MediaJsonData {
     data !== null &&
     typeof (data as any).target_type === 'string' &&
     typeof (data as any).target_id === 'string' &&
-    typeof (data as any).language_entity_id === 'string' &&
-    typeof (data as any).project_id === 'string'
+    typeof (data as any).language_entity_id === 'string'
   );
 }
 
@@ -56,7 +54,6 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
       target_type: jsonData.target_type,
       target_id: jsonData.target_id,
       language_entity_id: jsonData.language_entity_id,
-      project_id: jsonData.project_id,
       filename: jsonData.filename ?? 'test_file.m4a',
       duration_seconds: jsonData.duration_seconds,
     };
@@ -74,7 +71,6 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
       target_type: formData.get('target_type') as string,
       target_id: formData.get('target_id') as string,
       language_entity_id: formData.get('language_entity_id') as string,
-      project_id: formData.get('project_id') as string,
       filename: file.name || 'unknown',
       duration_seconds: formData.get('duration_seconds') as string,
     };

@@ -289,7 +289,7 @@ describe('Bible Chapter Upload - Basic Functionality', () => {
       audio_version_id: 'test-audio-version-id',
       filename: 'matthew-1.m4a',
       file_content: 'Matthew chapter 1 audio content',
-      // No optional fields: project_id, verse_timings, tag_ids
+      // No optional fields: verse_timings, tag_ids
     };
 
     const response = await fetch(uploadUrl, {
