@@ -1,9 +1,10 @@
-import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
-import { B2StorageService } from '../_shared/b2-storage-service.ts';
 import { corsHeaders } from '../_shared/request-parser.ts';
 import { validateBibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
 import type { BibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
-import { getPublicUserId } from '../_shared/user-service.ts';
+import {
+  authenticateRequest,
+  isAuthError,
+} from '../_shared/auth-middleware.ts';
 import {
   createBibleChapterMediaFile,
   getNextVersionForChapter,
@@ -11,23 +12,20 @@ import {
   createMediaFileTags,
   updateMediaFileUploadResults,
   markMediaFileAsFailed,
+  updateMediaFileStatus,
 } from '../_shared/bible-chapter-database.ts';
+import { B2StorageService } from '../_shared/b2-storage-service.ts';
 
 interface BulkUploadResponse {
   success: boolean;
   data?: {
     totalFiles: number;
-    successfulUploads: number;
-    failedUploads: number;
+    batchId: string; // For tracking this upload batch
     mediaRecords: Array<{
       mediaFileId: string;
       fileName: string;
-      status: 'completed' | 'failed';
-      uploadResult?: {
-        downloadUrl: string;
-        fileSize: number;
-        version: number;
-      };
+      status: 'pending' | 'failed';
+      version: number;
       error?: string;
     }>;
   };
@@ -41,49 +39,23 @@ Deno.serve(async (req: Request) => {
   }
 
   try {
-    // Initialize Supabase client
-    const supabaseClient = createClient(
-      Deno.env.get('SUPABASE_URL') ?? '',
-      Deno.env.get('SUPABASE_ANON_KEY') ?? '',
-      {
-        global: {
-          headers: { Authorization: req.headers.get('Authorization') },
-        },
-      }
-    );
-
-    // Get authenticated user
-    const {
-      data: { user },
-    } = await supabaseClient.auth.getUser();
-
-    if (!user) {
+    // Authenticate request
+    const authResult = await authenticateRequest(req);
+    if (isAuthError(authResult)) {
       return new Response(
         JSON.stringify({
           success: false,
-          error: 'Authentication required',
+          error: authResult.error,
+          details: authResult.details,
         }),
         {
-          status: 401,
+          status: authResult.status,
           headers: { ...corsHeaders, 'Content-Type': 'application/json' },
         }
       );
     }
 
-    // Get the public user ID for database operations
-    const publicUserId = await getPublicUserId(supabaseClient, user.id);
-    if (!publicUserId) {
-      return new Response(
-        JSON.stringify({
-          success: false,
-          error: 'User not found in public users table',
-        }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
+    const { supabaseClient, publicUserId } = authResult;
 
     // Parse multipart form data for bulk upload
     const formData = await req.formData();
@@ -139,16 +111,20 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    console.log(`🎵 Starting bulk upload of ${files.length} files`);
+    const batchId = crypto.randomUUID();
+    console.log(
+      `🚀 Starting bulk upload of ${files.length} files (batch: ${batchId})`
+    );
 
-    // === PHASE 1: VALIDATION AND RECORD CREATION ===
+    // === PHASE 1: IMMEDIATE VALIDATION AND RECORD CREATION ===
     const mediaRecords = [];
+    const pendingUploads = [];
 
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
       const metadataObj = metadata[i];
 
-      // Convert metadata from snake_case to camelCase to match BibleChapterUploadRequest interface
+      // Normalize metadata format (support both camelCase and snake_case)
       const uploadRequest: BibleChapterUploadRequest = {
         fileName: (metadataObj.fileName || metadataObj.filename) ?? file.name,
         languageEntityId:
@@ -165,7 +141,7 @@ Deno.serve(async (req: Request) => {
       };
 
       try {
-        // Validate each request
+        // Validate the upload request
         await validateBibleChapterUploadRequest(
           supabaseClient,
           uploadRequest,
@@ -189,241 +165,96 @@ Deno.serve(async (req: Request) => {
           chapterId: uploadRequest.chapterId,
           startVerseId: uploadRequest.startVerseId,
           endVerseId: uploadRequest.endVerseId,
-          status: 'pending', // Key difference from single upload
+          status: 'pending',
         });
 
+        // Store for response
         mediaRecords.push({
           mediaFileId: mediaFile.id,
           fileName: uploadRequest.fileName,
+          status: 'pending' as const,
+          version: nextVersion,
+        });
+
+        // Store for background processing
+        pendingUploads.push({
+          mediaFileId: mediaFile.id,
           file,
           uploadRequest,
           version: nextVersion,
-          status: 'pending' as const,
         });
 
-        console.log(`✅ Created pending record for: ${uploadRequest.fileName}`);
+        console.log(`✅ Created pending record: ${uploadRequest.fileName}`);
       } catch (validationError: unknown) {
         console.error(
-          `❌ Validation failed for ${(metadataObj.fileName || metadataObj.filename) ?? file.name}:`,
+          `❌ Validation failed for ${uploadRequest.fileName}:`,
           validationError
         );
 
-        // Still create a record but mark it as failed
+        // Create failed record for immediate feedback
         try {
           const failedMediaFile = await createBibleChapterMediaFile(
             supabaseClient,
             {
-              languageEntityId:
-                metadataObj.languageEntityId || metadataObj.language_entity_id,
-              audioVersionId:
-                metadataObj.audioVersionId || metadataObj.audio_version_id,
+              languageEntityId: uploadRequest.languageEntityId,
+              audioVersionId: uploadRequest.audioVersionId,
               createdBy: publicUserId,
               fileSize: file.size,
-              durationSeconds:
-                metadataObj.durationSeconds || metadataObj.duration_seconds,
+              durationSeconds: uploadRequest.durationSeconds,
               version: 1,
-              chapterId: metadataObj.chapterId || metadataObj.chapter_id,
-              startVerseId:
-                metadataObj.startVerseId || metadataObj.start_verse_id,
-              endVerseId: metadataObj.endVerseId || metadataObj.end_verse_id,
+              chapterId: uploadRequest.chapterId,
+              startVerseId: uploadRequest.startVerseId,
+              endVerseId: uploadRequest.endVerseId,
               status: 'failed',
             }
           );
 
           mediaRecords.push({
             mediaFileId: failedMediaFile.id,
-            fileName:
-              (metadataObj.fileName || metadataObj.filename) ?? file.name,
-            file,
-            uploadRequest: metadataObj,
-            version: 1,
+            fileName: uploadRequest.fileName,
             status: 'failed' as const,
+            version: 1,
             error:
               validationError instanceof Error
                 ? validationError.message
                 : 'Validation failed',
           });
         } catch {
-          // If we can't even create a failed record, we'll handle it in the response
+          // If we can't create a record, add to response anyway
           mediaRecords.push({
             mediaFileId: '',
-            fileName:
-              (metadataObj.fileName || metadataObj.filename) ?? file.name,
-            file,
-            uploadRequest: metadataObj,
-            version: 1,
+            fileName: uploadRequest.fileName,
             status: 'failed' as const,
+            version: 1,
             error: 'Failed to create database record',
           });
         }
       }
     }
 
-    console.log(`📋 Created ${mediaRecords.length} database records`);
-
-    // === PHASE 2: CONCURRENT UPLOADS ===
-    const b2Service = new B2StorageService();
-    const uploadResults = [];
-
-    // Process uploads with controlled concurrency (5 at a time)
-    const batchSize = 5;
-    for (let i = 0; i < mediaRecords.length; i += batchSize) {
-      const batch = mediaRecords.slice(i, i + batchSize);
-
-      const batchPromises = batch.map(async record => {
-        if (record.status === 'failed' || !record.mediaFileId) {
-          return {
-            mediaFileId: record.mediaFileId,
-            fileName: record.fileName,
-            status: 'failed' as const,
-            error: record.error ?? 'Pre-upload validation failed',
-          };
-        }
-
-        try {
-          // Update status to 'uploading'
-          await supabaseClient
-            .from('media_files')
-            .update({ upload_status: 'uploading' })
-            .eq('id', record.mediaFileId);
-
-          console.log(`⬆️ Starting upload for: ${record.fileName}`);
-
-          // Upload file to B2
-          const fileBuffer = await record.file.arrayBuffer();
-          const fileBytes = new Uint8Array(fileBuffer);
-
-          const uploadResult = await b2Service.uploadFile(
-            fileBytes,
-            record.uploadRequest.fileName,
-            record.file.type,
-            {
-              'media-type': 'audio',
-              'language-entity-id': record.uploadRequest.languageEntityId,
-              'chapter-id': record.uploadRequest.chapterId,
-              'is-bible-audio': 'true',
-              version: record.version.toString(),
-              'uploaded-by': publicUserId,
-            }
-          );
-
-          // Update media file record with upload results
-          await updateMediaFileUploadResults(
-            supabaseClient,
-            record.mediaFileId,
-            {
-              downloadUrl: uploadResult.downloadUrl,
-              fileSize: uploadResult.fileSize,
-            }
-          );
-
-          // Create verse timing records if provided
-          if (
-            record.uploadRequest.verseTimings &&
-            record.uploadRequest.verseTimings.length > 0
-          ) {
-            await createMediaFileVerses(supabaseClient, {
-              mediaFileId: record.mediaFileId,
-              verseTimings: record.uploadRequest.verseTimings,
-              createdBy: publicUserId,
-            });
-          }
-
-          // Create tag associations if provided
-          if (
-            record.uploadRequest.tagIds &&
-            record.uploadRequest.tagIds.length > 0
-          ) {
-            await createMediaFileTags(supabaseClient, {
-              mediaFileId: record.mediaFileId,
-              tagIds: record.uploadRequest.tagIds,
-              createdBy: publicUserId,
-            });
-          }
-
-          console.log(`✅ Completed upload for: ${record.fileName}`);
-
-          return {
-            mediaFileId: record.mediaFileId,
-            fileName: record.fileName,
-            status: 'completed' as const,
-            uploadResult: {
-              downloadUrl: uploadResult.downloadUrl,
-              fileSize: uploadResult.fileSize,
-              version: record.version,
-            },
-          };
-        } catch (uploadError: unknown) {
-          console.error(
-            `❌ Upload failed for ${record.fileName}:`,
-            uploadError
-          );
-
-          // Update database to reflect failed upload
-          try {
-            await markMediaFileAsFailed(supabaseClient, record.mediaFileId);
-          } catch (dbError) {
-            console.error(
-              `❌ Failed to update status for ${record.fileName}:`,
-              dbError
-            );
-          }
-
-          return {
-            mediaFileId: record.mediaFileId,
-            fileName: record.fileName,
-            status: 'failed' as const,
-            error:
-              uploadError instanceof Error
-                ? uploadError.message
-                : 'Upload failed',
-          };
-        }
-      });
-
-      // Wait for current batch to complete before starting next batch
-      const batchResults = await Promise.allSettled(batchPromises);
-
-      // Extract results from settled promises
-      for (const result of batchResults) {
-        if (result.status === 'fulfilled') {
-          uploadResults.push(result.value);
-        } else {
-          uploadResults.push({
-            mediaFileId: '',
-            fileName: 'unknown',
-            status: 'failed' as const,
-            error: 'Promise rejection',
-          });
-        }
-      }
-
-      console.log(
-        `📦 Completed batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(mediaRecords.length / batchSize)}`
-      );
-    }
-
-    // === PREPARE RESPONSE ===
-    const successfulUploads = uploadResults.filter(
-      r => r.status === 'completed'
-    ).length;
-    const failedUploads = uploadResults.filter(
-      r => r.status === 'failed'
-    ).length;
-
     console.log(
-      `🎉 Bulk upload completed: ${successfulUploads} successful, ${failedUploads} failed`
+      `📋 Created ${mediaRecords.length} records (${pendingUploads.length} pending uploads)`
     );
 
+    // === PHASE 2: RETURN IMMEDIATELY WITH RECORD INFO ===
     const response: BulkUploadResponse = {
       success: true,
       data: {
         totalFiles: files.length,
-        successfulUploads,
-        failedUploads,
-        mediaRecords: uploadResults,
+        batchId,
+        mediaRecords,
       },
     };
+
+    // Start background processing (no await - fire and forget)
+    if (pendingUploads.length > 0) {
+      processUploadsInBackground(
+        supabaseClient,
+        publicUserId,
+        pendingUploads,
+        batchId
+      );
+    }
 
     return new Response(JSON.stringify(response), {
       status: 200,
@@ -445,3 +276,113 @@ Deno.serve(async (req: Request) => {
     );
   }
 });
+
+// Background processing function (fire and forget)
+async function processUploadsInBackground(
+  supabaseClient: any,
+  publicUserId: string,
+  pendingUploads: any[],
+  batchId: string
+) {
+  console.log(`🔄 Starting background processing for batch ${batchId}`);
+
+  const b2Service = new B2StorageService();
+
+  // Process uploads with controlled concurrency (3 at a time for better resource management)
+  const batchSize = 3;
+
+  for (let i = 0; i < pendingUploads.length; i += batchSize) {
+    const batch = pendingUploads.slice(i, i + batchSize);
+
+    const batchPromises = batch.map(async record => {
+      try {
+        // Update status to 'uploading'
+        await updateMediaFileStatus(
+          supabaseClient,
+          record.mediaFileId,
+          'uploading'
+        );
+
+        console.log(`⬆️ Uploading: ${record.uploadRequest.fileName}`);
+
+        // Upload file to B2
+        const fileBuffer = await record.file.arrayBuffer();
+        const fileBytes = new Uint8Array(fileBuffer);
+
+        const uploadResult = await b2Service.uploadFile(
+          fileBytes,
+          record.uploadRequest.fileName,
+          record.file.type,
+          {
+            'media-type': 'audio',
+            'language-entity-id': record.uploadRequest.languageEntityId,
+            'chapter-id': record.uploadRequest.chapterId,
+            'is-bible-audio': 'true',
+            'batch-id': batchId,
+            version: record.version.toString(),
+            'uploaded-by': publicUserId,
+          }
+        );
+
+        // Update media file with upload results
+        await updateMediaFileUploadResults(supabaseClient, record.mediaFileId, {
+          downloadUrl: uploadResult.downloadUrl,
+          fileSize: uploadResult.fileSize,
+        });
+
+        // Create verse timing records if provided
+        if (
+          record.uploadRequest.verseTimings &&
+          record.uploadRequest.verseTimings.length > 0
+        ) {
+          await createMediaFileVerses(supabaseClient, {
+            mediaFileId: record.mediaFileId,
+            verseTimings: record.uploadRequest.verseTimings,
+            createdBy: publicUserId,
+          });
+        }
+
+        // Create tag associations if provided
+        if (
+          record.uploadRequest.tagIds &&
+          record.uploadRequest.tagIds.length > 0
+        ) {
+          await createMediaFileTags(supabaseClient, {
+            mediaFileId: record.mediaFileId,
+            tagIds: record.uploadRequest.tagIds,
+            createdBy: publicUserId,
+          });
+        }
+
+        console.log(`✅ Completed: ${record.uploadRequest.fileName}`);
+        return { success: true, fileName: record.uploadRequest.fileName };
+      } catch (uploadError: unknown) {
+        console.error(
+          `❌ Upload failed for ${record.uploadRequest.fileName}:`,
+          uploadError
+        );
+
+        // Mark as failed
+        await markMediaFileAsFailed(supabaseClient, record.mediaFileId);
+
+        return {
+          success: false,
+          fileName: record.uploadRequest.fileName,
+          error:
+            uploadError instanceof Error
+              ? uploadError.message
+              : 'Upload failed',
+        };
+      }
+    });
+
+    // Wait for current batch to complete
+    await Promise.allSettled(batchPromises);
+
+    console.log(
+      `📦 Batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(pendingUploads.length / batchSize)} completed`
+    );
+  }
+
+  console.log(`🎉 Background processing completed for batch ${batchId}`);
+}
