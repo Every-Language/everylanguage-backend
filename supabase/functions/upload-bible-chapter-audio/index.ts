@@ -164,7 +164,6 @@ Deno.serve(async (req: Request) => {
         {
           'media-type': 'audio',
           'language-entity-id': uploadRequest.languageEntityId,
-          'project-id': uploadRequest.projectId ?? '',
           'chapter-id': uploadRequest.chapterId,
           'is-bible-audio': 'true',
           version: nextVersion.toString(),
