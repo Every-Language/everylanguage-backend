@@ -4,6 +4,14 @@ import { corsHeaders } from '../_shared/request-parser.ts';
 import { validateBibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
 import type { BibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
 import { getPublicUserId } from '../_shared/user-service.ts';
+import {
+  createBibleChapterMediaFile,
+  getNextVersionForChapter,
+  createMediaFileVerses,
+  createMediaFileTags,
+  updateMediaFileUploadResults,
+  markMediaFileAsFailed,
+} from '../_shared/bible-chapter-database.ts';
 
 interface BulkUploadResponse {
   success: boolean;
@@ -282,14 +290,14 @@ Deno.serve(async (req: Request) => {
           );
 
           // Update media file record with upload results
-          await supabaseClient
-            .from('media_files')
-            .update({
-              upload_status: 'completed',
-              remote_path: uploadResult.downloadUrl,
-              file_size: uploadResult.fileSize,
-            })
-            .eq('id', record.mediaFileId);
+          await updateMediaFileUploadResults(
+            supabaseClient,
+            record.mediaFileId,
+            {
+              downloadUrl: uploadResult.downloadUrl,
+              fileSize: uploadResult.fileSize,
+            }
+          );
 
           // Create verse timing records if provided
           if (
@@ -335,10 +343,7 @@ Deno.serve(async (req: Request) => {
 
           // Update database to reflect failed upload
           try {
-            await supabaseClient
-              .from('media_files')
-              .update({ upload_status: 'failed' })
-              .eq('id', record.mediaFileId);
+            await markMediaFileAsFailed(supabaseClient, record.mediaFileId);
           } catch (dbError) {
             console.error(
               `❌ Failed to update status for ${record.fileName}:`,
@@ -422,146 +427,3 @@ Deno.serve(async (req: Request) => {
     );
   }
 });
-
-// Helper function to create Bible chapter media file (modified to accept status)
-async function createBibleChapterMediaFile(
-  supabaseClient: any,
-  data: {
-    languageEntityId: string;
-    audioVersionId: string;
-    projectId?: string;
-    createdBy: string;
-    fileSize: number;
-    durationSeconds: number;
-    version: number;
-    chapterId: string;
-    startVerseId: string;
-    endVerseId: string;
-    status?: 'pending' | 'failed';
-  }
-) {
-  const { data: mediaFile, error } = await supabaseClient
-    .from('media_files')
-    .insert({
-      language_entity_id: data.languageEntityId,
-      audio_version_id: data.audioVersionId,
-      media_type: 'audio',
-      project_id: data.projectId,
-      created_by: data.createdBy,
-      upload_status: data.status ?? 'pending',
-      publish_status: 'pending',
-      check_status: 'pending',
-      file_size: data.fileSize,
-      duration_seconds: data.durationSeconds,
-      version: data.version,
-      chapter_id: data.chapterId,
-      start_verse_id: data.startVerseId,
-      end_verse_id: data.endVerseId,
-      is_bible_audio: true,
-    })
-    .select()
-    .single();
-
-  if (error || !mediaFile) {
-    throw new Error(
-      `Database error: ${error?.message ?? 'Unknown database error'}`
-    );
-  }
-
-  return mediaFile;
-}
-
-// Helper function to get next version for a chapter
-async function getNextVersionForChapter(
-  supabaseClient: any,
-  data: {
-    projectId?: string;
-    startVerseId: string;
-    endVerseId: string;
-  }
-): Promise<number> {
-  const { data: existingFiles, error } = await supabaseClient
-    .from('media_files')
-    .select('version')
-    .eq('project_id', data.projectId ?? null)
-    .eq('start_verse_id', data.startVerseId)
-    .eq('end_verse_id', data.endVerseId)
-    .order('version', { ascending: false })
-    .limit(1);
-
-  if (error) {
-    console.warn('Error getting next version for chapter:', error);
-    return 1;
-  }
-
-  const highestVersion =
-    existingFiles && existingFiles.length > 0 ? existingFiles[0].version : 0;
-
-  const nextVersion = highestVersion + 1;
-  console.log(
-    `📈 Next version for chapter (${data.startVerseId} to ${data.endVerseId}): ${nextVersion}`
-  );
-
-  return nextVersion;
-}
-
-// Helper function to create media file verses
-async function createMediaFileVerses(
-  supabaseClient: any,
-  data: {
-    mediaFileId: string;
-    verseTimings: Array<{
-      verseId: string;
-      startTimeSeconds: number;
-      durationSeconds: number;
-    }>;
-    createdBy: string;
-  }
-) {
-  const verseRecords = data.verseTimings.map(timing => ({
-    media_file_id: data.mediaFileId,
-    verse_id: timing.verseId,
-    start_time_seconds: timing.startTimeSeconds,
-    duration_seconds: timing.durationSeconds,
-    verse_text_id: null,
-    created_by: data.createdBy,
-  }));
-
-  const { error } = await supabaseClient
-    .from('media_files_verses')
-    .insert(verseRecords);
-
-  if (error) {
-    console.error('Error creating verse timings:', error);
-    throw new Error(`Failed to create verse timings: ${error.message}`);
-  }
-
-  console.log(`✅ Created ${verseRecords.length} verse timing records`);
-}
-
-// Helper function to create media file tags
-async function createMediaFileTags(
-  supabaseClient: any,
-  data: {
-    mediaFileId: string;
-    tagIds: string[];
-    createdBy: string;
-  }
-) {
-  const tagRecords = data.tagIds.map(tagId => ({
-    media_file_id: data.mediaFileId,
-    tag_id: tagId,
-    created_by: data.createdBy,
-  }));
-
-  const { error } = await supabaseClient
-    .from('media_files_tags')
-    .insert(tagRecords);
-
-  if (error) {
-    console.error('Error creating tag associations:', error);
-    throw new Error(`Failed to create tag associations: ${error.message}`);
-  }
-
-  console.log(`✅ Created ${tagRecords.length} tag association records`);
-}

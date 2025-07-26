@@ -13,7 +13,7 @@ export interface BibleChapterUploadRequest {
   startVerseId: string;
   endVerseId: string;
   durationSeconds: number;
-  audioVersionId: string; // Required: audio version this media file belongs to
+  audioVersionId: string;
   projectId?: string;
   verseTimings?: VerseTiming[];
   tagIds?: string[];

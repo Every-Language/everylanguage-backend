@@ -5,6 +5,8 @@
 
 export interface MediaFileData {
   languageEntityId: string;
+  audioVersionId: string;
+  chapterId: string;
   projectId?: string;
   createdBy: string;
   fileSize: number;
@@ -47,6 +49,8 @@ export async function createBibleChapterMediaFile(
     .from('media_files')
     .insert({
       language_entity_id: data.languageEntityId,
+      audio_version_id: data.audioVersionId, // Added: audio version ID
+      chapter_id: data.chapterId, // Added: chapter ID
       media_type: 'audio',
       project_id: data.projectId,
       created_by: data.createdBy,
