@@ -146,7 +146,23 @@ Deno.serve(async (req: Request) => {
 
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
-      const uploadRequest = metadata[i];
+      const metadataObj = metadata[i];
+
+      // Convert metadata from snake_case to camelCase to match BibleChapterUploadRequest interface
+      const uploadRequest: BibleChapterUploadRequest = {
+        fileName: (metadataObj.fileName || metadataObj.filename) ?? file.name,
+        languageEntityId:
+          metadataObj.languageEntityId || metadataObj.language_entity_id,
+        chapterId: metadataObj.chapterId || metadataObj.chapter_id,
+        startVerseId: metadataObj.startVerseId || metadataObj.start_verse_id,
+        endVerseId: metadataObj.endVerseId || metadataObj.end_verse_id,
+        durationSeconds:
+          metadataObj.durationSeconds || metadataObj.duration_seconds,
+        audioVersionId:
+          metadataObj.audioVersionId || metadataObj.audio_version_id,
+        verseTimings: metadataObj.verseTimings ?? metadataObj.verse_timings,
+        tagIds: metadataObj.tagIds ?? metadataObj.tag_ids,
+      };
 
       try {
         // Validate each request
@@ -188,7 +204,7 @@ Deno.serve(async (req: Request) => {
         console.log(`✅ Created pending record for: ${uploadRequest.fileName}`);
       } catch (validationError: unknown) {
         console.error(
-          `❌ Validation failed for ${uploadRequest.fileName}:`,
+          `❌ Validation failed for ${(metadataObj.fileName || metadataObj.filename) ?? file.name}:`,
           validationError
         );
 
@@ -197,24 +213,29 @@ Deno.serve(async (req: Request) => {
           const failedMediaFile = await createBibleChapterMediaFile(
             supabaseClient,
             {
-              languageEntityId: uploadRequest.languageEntityId,
-              audioVersionId: uploadRequest.audioVersionId,
+              languageEntityId:
+                metadataObj.languageEntityId || metadataObj.language_entity_id,
+              audioVersionId:
+                metadataObj.audioVersionId || metadataObj.audio_version_id,
               createdBy: publicUserId,
               fileSize: file.size,
-              durationSeconds: uploadRequest.durationSeconds,
+              durationSeconds:
+                metadataObj.durationSeconds || metadataObj.duration_seconds,
               version: 1,
-              chapterId: uploadRequest.chapterId,
-              startVerseId: uploadRequest.startVerseId,
-              endVerseId: uploadRequest.endVerseId,
+              chapterId: metadataObj.chapterId || metadataObj.chapter_id,
+              startVerseId:
+                metadataObj.startVerseId || metadataObj.start_verse_id,
+              endVerseId: metadataObj.endVerseId || metadataObj.end_verse_id,
               status: 'failed',
             }
           );
 
           mediaRecords.push({
             mediaFileId: failedMediaFile.id,
-            fileName: uploadRequest.fileName,
+            fileName:
+              (metadataObj.fileName || metadataObj.filename) ?? file.name,
             file,
-            uploadRequest,
+            uploadRequest: metadataObj,
             version: 1,
             status: 'failed' as const,
             error:
@@ -226,9 +247,10 @@ Deno.serve(async (req: Request) => {
           // If we can't even create a failed record, we'll handle it in the response
           mediaRecords.push({
             mediaFileId: '',
-            fileName: uploadRequest.fileName,
+            fileName:
+              (metadataObj.fileName || metadataObj.filename) ?? file.name,
             file,
-            uploadRequest,
+            uploadRequest: metadataObj,
             version: 1,
             status: 'failed' as const,
             error: 'Failed to create database record',
