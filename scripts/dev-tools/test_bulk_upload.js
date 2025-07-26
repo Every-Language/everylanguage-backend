@@ -16,7 +16,6 @@ export const testBulkUpload = async () => {
       startVerseId: 'num-4-3',
       endVerseId: 'num-4-7',
       durationSeconds: 120.5,
-      projectId: 'your-project-id',
     },
     {
       fileName: 'genesis_2.m4a',
@@ -26,7 +25,6 @@ export const testBulkUpload = async () => {
       startVerseId: 'verse-2-start',
       endVerseId: 'verse-2-end',
       durationSeconds: 95.3,
-      projectId: 'your-project-id',
     },
   ];
 

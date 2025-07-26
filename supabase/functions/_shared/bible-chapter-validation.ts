@@ -14,7 +14,6 @@ export interface BibleChapterUploadRequest {
   endVerseId: string;
   durationSeconds: number;
   audioVersionId: string;
-  projectId?: string;
   verseTimings?: VerseTiming[];
   tagIds?: string[];
 }
@@ -188,7 +187,6 @@ export async function parseAndValidateBibleChapterRequest(
     endVerseId: uploadRequest.end_verse_id,
     durationSeconds,
     audioVersionId: uploadRequest.audio_version_id,
-    projectId: uploadRequest.project_id ?? undefined,
     verseTimings: uploadRequest.verse_timings ?? undefined,
     tagIds: uploadRequest.tag_ids ?? undefined,
   };
@@ -323,25 +321,6 @@ export async function validateBibleChapterUploadRequest(
     }
 
     console.log(`✅ Audio version validated: ${audioVersion.name}`);
-
-    // Validate project (if provided)
-    if (uploadRequest.projectId) {
-      const { data: project, error: projectError } = await supabaseClient
-        .from('projects')
-        .select('id, name')
-        .eq('id', uploadRequest.projectId)
-        .is('deleted_at', null)
-        .single();
-
-      if (projectError || !project) {
-        throw new Error(
-          projectError?.code === 'PGRST116'
-            ? 'Project not found or has been deleted'
-            : `Project validation failed: ${projectError?.message}`
-        );
-      }
-      console.log(`✅ Project validated: ${project.name}`);
-    }
 
     // Validate chapter
     const { data: chapter, error: chapterError } = await supabaseClient

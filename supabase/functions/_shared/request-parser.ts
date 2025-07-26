@@ -99,7 +99,6 @@ export async function parseUploadRequest(req: Request): Promise<ParsedRequest> {
     fileName: uploadRequest.filename,
     mediaType: detectedMediaType,
     languageEntityId: uploadRequest.language_entity_id,
-    projectId: uploadRequest.project_id ?? undefined,
     targetType: uploadRequest.target_type as TargetType,
     targetId: uploadRequest.target_id ?? undefined,
     isBibleAudio: false,

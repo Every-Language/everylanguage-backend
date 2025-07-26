@@ -38,7 +38,6 @@ export interface UploadRequest {
   fileName: string;
   mediaType: MediaType;
   languageEntityId: string;
-  projectId?: string;
   targetType?: TargetType;
   targetId?: string;
   isBibleAudio?: boolean;
@@ -75,24 +74,6 @@ export async function validateLanguageEntity(
       error?.code === 'PGRST116'
         ? 'Language entity not found or has been deleted'
         : `Language entity validation failed: ${error?.message}`
-    );
-  }
-  return data;
-}
-
-export async function validateProject(supabaseClient: any, projectId: string) {
-  const { data, error } = await supabaseClient
-    .from('projects')
-    .select('id, name')
-    .eq('id', projectId)
-    .is('deleted_at', null)
-    .single();
-
-  if (error || !data) {
-    throw new Error(
-      error?.code === 'PGRST116'
-        ? 'Project not found or has been deleted'
-        : `Project validation failed: ${error?.message}`
     );
   }
   return data;
