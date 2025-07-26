@@ -87,7 +87,7 @@ Deno.serve(async (req: Request) => {
 
     const { files, metadata } = requestData;
 
-    if (!files || !metadata || files.length === 0) {
+    if (files.length === 0) {
       return new Response(
         JSON.stringify({
           success: false,

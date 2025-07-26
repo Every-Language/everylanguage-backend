@@ -1,0 +1,7 @@
+---
+description:
+globs: *
+alwaysApply: false
+---
+
+for supabase migrations, use `supabase migrations new` rather than manually creating the file
