@@ -36,13 +36,20 @@ Deno.serve(async (req: Request) => {
 
     // Build package
     const builder = new BiblePackageBuilder(supabaseClient);
+
+    console.log(
+      `🚀 Building package: ${packageType} for audio=${audioVersionId}, text=${textVersionId}, lang=${languageEntityId}`
+    );
+
     const result = await builder.build({
       packageType: packageType as any,
-      audioVersionId: audioVersionId || undefined,
-      textVersionId: textVersionId || undefined,
+      audioVersionId: audioVersionId ?? undefined,
+      textVersionId: textVersionId ?? undefined,
       languageEntityId,
       requestedBy: 'system',
     });
+
+    console.log(`📦 Package built successfully: ${result.sizeInBytes} bytes`);
 
     return new Response(result.packageBuffer, {
       headers: {

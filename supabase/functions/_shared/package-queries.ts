@@ -29,7 +29,7 @@ export class PackageQueries {
         .select('*')
         .eq('audio_version_id', audioVersionId)
         .eq('publish_status', 'published')
-        .not('deleted_at', 'is', null)
+        .is('deleted_at', null)
         .order('start_verse_id');
 
       if (mediaError) {
@@ -46,7 +46,7 @@ export class PackageQueries {
             .from('media_files_verses')
             .select('*')
             .in('media_file_id', mediaFileIds)
-            .not('deleted_at', 'is', null)
+            .is('deleted_at', null)
             .order('start_time_seconds');
 
         if (timingError) {
@@ -64,7 +64,7 @@ export class PackageQueries {
             .from('media_files_targets')
             .select('*')
             .in('media_file_id', mediaFileIds)
-            .not('deleted_at', 'is', null);
+            .is('deleted_at', null);
 
         if (targetError) {
           console.warn('Failed to fetch targets:', targetError.message);
@@ -128,7 +128,7 @@ export class PackageQueries {
         .select('*')
         .eq('text_version_id', textVersionId)
         .eq('publish_status', 'published')
-        .not('deleted_at', 'is', null)
+        .is('deleted_at', null)
         .order('verse_id');
 
       if (verseError) {

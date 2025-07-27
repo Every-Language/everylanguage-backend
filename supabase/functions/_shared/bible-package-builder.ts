@@ -1,5 +1,6 @@
 import { crypto } from 'https://deno.land/std@0.177.0/crypto/mod.ts';
 import { B2StorageService } from './b2-storage-service.ts';
+import { B2Utils } from './b2-utils.ts';
 import { PackageQueries } from './package-queries.ts';
 import {
   PackageRequest,
@@ -21,6 +22,8 @@ export class BiblePackageBuilder {
 
   async build(request: PackageRequest): Promise<BuildResult> {
     try {
+      console.log(`🔨 Starting package build for: ${JSON.stringify(request)}`);
+
       // 1. Validate request
       await this.validateRequest(request);
 
@@ -122,8 +125,12 @@ export class BiblePackageBuilder {
 
     // Get audio version data if needed
     if (request.audioVersionId) {
+      console.log(`🎵 Fetching audio version: ${request.audioVersionId}`);
       data.audioVersion = await this.queries.getAudioVersionWithAllData(
         request.audioVersionId
+      );
+      console.log(
+        `🎵 Audio version fetched: ${data.audioVersion?.mediaFiles?.length || 0} media files`
       );
     }
 
@@ -215,13 +222,38 @@ export class BiblePackageBuilder {
     const audioIndex: AudioFileEntry[] = [];
     let currentOffset = 0;
 
-    // Download each audio file and build index
-    for (const mediaFile of data.audioVersion.mediaFiles) {
+    // Process audio files with smart batching for large sets
+    const totalFiles = data.audioVersion.mediaFiles.length;
+    const maxFilesPerPackage = 50; // Limit to prevent timeouts (50 files ≈ 50-500 MB)
+
+    const limitedFiles = data.audioVersion.mediaFiles.slice(
+      0,
+      Math.min(maxFilesPerPackage, totalFiles)
+    );
+    console.log(
+      `Processing ${limitedFiles.length} files out of ${totalFiles} total (max ${maxFilesPerPackage} per package)`
+    );
+
+    if (totalFiles > maxFilesPerPackage) {
+      console.log(
+        `⚠️ Large audio version detected (${totalFiles} files). Creating partial package. Consider implementing chunked package creation for full coverage.`
+      );
+    }
+
+    for (const mediaFile of limitedFiles) {
       if (mediaFile.remote_path) {
         try {
           // Download file from B2 storage
           const audioBuffer = await this.downloadAudioFile(
             mediaFile.remote_path
+          );
+
+          if (!audioBuffer || audioBuffer.length === 0) {
+            throw new Error('Downloaded audio buffer is empty');
+          }
+
+          console.log(
+            `✅ Successfully downloaded ${audioBuffer.length} bytes for ${mediaFile.remote_path}`
           );
 
           // Add to index
@@ -245,17 +277,29 @@ export class BiblePackageBuilder {
           audioBuffers.push(audioBuffer);
           currentOffset += audioBuffer.length;
         } catch (error) {
-          console.warn(
-            `Failed to download audio file: ${mediaFile.remote_path}`,
+          console.error(
+            `❌ FAILED to download audio file: ${mediaFile.remote_path}`,
             error
           );
-          // Continue with other files - allow partial packages
+          // FAIL FAST for debugging - don't create partial packages
+          throw new Error(
+            `Audio download failed for ${mediaFile.remote_path}: ${error.message}`
+          );
         }
       }
     }
 
     // Store audio index for manifest
     data.audioFileIndex = audioIndex;
+
+    // Log summary
+    const totalAudioSize = audioBuffers.reduce(
+      (sum, buf) => sum + buf.length,
+      0
+    );
+    console.log(
+      `📊 Audio processing complete: ${audioBuffers.length} files, ${(totalAudioSize / 1024 / 1024).toFixed(2)} MB total`
+    );
 
     // Concatenate all audio data
     return audioBuffers.length > 0
@@ -265,12 +309,18 @@ export class BiblePackageBuilder {
 
   private async downloadAudioFile(remotePath: string): Promise<Uint8Array> {
     try {
-      // Extract filename from remote path for B2 download
-      const fileName = remotePath.split('/').pop();
+      // Extract filename using B2Utils for proper handling
+      const fileName = B2Utils.extractFileNameFromUrl(remotePath);
       if (!fileName) throw new Error(`Invalid remote path: ${remotePath}`);
+
+      console.log(`Downloading audio file: ${fileName} from ${remotePath}`);
 
       const fileData =
         await this.b2Service.downloadFileFromPrivateBucket(fileName);
+
+      console.log(
+        `Downloaded ${fileData.data.byteLength} bytes for ${fileName}`
+      );
       return new Uint8Array(fileData.data);
     } catch (error) {
       throw new Error(
