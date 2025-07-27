@@ -1,19 +1,6 @@
 -- Migration: Drop upload_queue table - no longer needed in improved bulk upload system
 -- This table was used to store binary file data in Postgres, which was inefficient
 -- The new system uploads directly to B2 storage and tracks progress via media_files table
--- Drop all policies first
-DROP POLICY if EXISTS "Users can view own upload queue items" ON upload_queue;
-
-
-DROP POLICY if EXISTS "Users can insert own upload queue items" ON upload_queue;
-
-
-DROP POLICY if EXISTS "Users can update own upload queue items" ON upload_queue;
-
-
-DROP POLICY if EXISTS "Users can delete own upload queue items" ON upload_queue;
-
-
 -- Drop indexes
 DROP INDEX if EXISTS idx_upload_queue_status;
 
