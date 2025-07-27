@@ -342,8 +342,8 @@ export class BiblePackageBuilder {
     const manifestJson = JSON.stringify(manifest);
     const manifestBuffer = new TextEncoder().encode(manifestJson);
 
-    // Create header (64 bytes)
-    const header = new ArrayBuffer(64);
+    // Create header (68 bytes: magic(8) + version(4) + type(4) + manifest_size(4) + db_size(8) + audio_size(8) + checksum(32))
+    const header = new ArrayBuffer(68);
     const headerView = new DataView(header);
 
     // Magic bytes: 'BIBLE001'
