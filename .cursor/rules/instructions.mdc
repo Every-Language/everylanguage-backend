@@ -5,3 +5,4 @@ alwaysApply: false
 ---
 
 for supabase migrations, use `supabase migrations new` rather than manually creating the file
+my created_by fields reference public.users and not auth.users
