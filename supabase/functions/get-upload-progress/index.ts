@@ -80,7 +80,7 @@ Deno.serve(async (req: Request) => {
         id,
         file_name,
         upload_status,
-        download_url,
+        remote_path,
         created_at,
         updated_at
       `
@@ -168,9 +168,9 @@ Deno.serve(async (req: Request) => {
     // Format file data for response
     const files = mediaFiles.map(file => ({
       mediaFileId: file.id,
-      fileName: file.file_name || 'unknown',
-      status: file.upload_status || 'unknown',
-      downloadUrl: file.download_url || undefined,
+      fileName: file.file_name ?? 'unknown',
+      status: file.upload_status ?? 'unknown',
+      downloadUrl: file.download_url ?? undefined,
       createdAt: file.created_at,
       updatedAt: file.updated_at,
     }));
