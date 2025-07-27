@@ -1,153 +1,144 @@
 #!/usr/bin/env node
 
-/**
- * Test script for Bible Package Creation
- * Tests audio, text, and combined package creation with actual database IDs
- */
+const SUPABASE_URL = 'https://sjczwtpnjbmscxoszlyi.supabase.co';
+const SUPABASE_ANON_KEY =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNqY3p3dHBuamJtc2N4b3N6bHlpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExODE2MjcsImV4cCI6MjA2Njc1NzYyN30.XqaYmc7WPXeF_eASoxHUUMIok8a1OStmfmGL2a5qnAo';
 
-const SUPABASE_URL = process.env.SUPABASE_URL || 'http://127.0.0.1:54321';
-const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || 'your-anon-key-here';
+const TEST_USER = {
+  email: 'sarah.johnson@example.com',
+  password: 'password123',
+};
 
-// Test data IDs provided by user
 const TEST_IDS = {
   audioVersionId: '152855bd-6939-4bb0-88ac-70523605cc88',
   textVersionId: '742a42c0-be2d-475f-95d3-030650acc2e2',
   languageEntityId: 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbc',
 };
 
-const COLORS = {
-  reset: '\x1b[0m',
-  bright: '\x1b[1m',
-  red: '\x1b[31m',
-  green: '\x1b[32m',
-  yellow: '\x1b[33m',
-  blue: '\x1b[34m',
-  magenta: '\x1b[35m',
-  cyan: '\x1b[36m',
-};
-
 function log(level, message, data = null) {
   const timestamp = new Date().toISOString();
-  const colorMap = {
-    info: COLORS.blue,
-    success: COLORS.green,
-    warning: COLORS.yellow,
-    error: COLORS.red,
-    test: COLORS.magenta,
+  const colors = {
+    info: '\x1b[34m',
+    success: '\x1b[32m',
+    warning: '\x1b[33m',
+    error: '\x1b[31m',
+    test: '\x1b[35m',
+    reset: '\x1b[0m',
   };
 
   console.log(
-    `${colorMap[level]}[${timestamp}] ${level.toUpperCase()}: ${message}${COLORS.reset}`
+    `${colors[level]}[${timestamp}] ${level.toUpperCase()}: ${message}${colors.reset}`
   );
   if (data) {
-    console.log(
-      `${COLORS.cyan}${JSON.stringify(data, null, 2)}${COLORS.reset}`
-    );
+    console.log(`\x1b[36m${JSON.stringify(data, null, 2)}\x1b[0m`);
   }
 }
 
-async function testPackageCreation(packageType, payload) {
+async function authenticateUser() {
+  log('info', 'Authenticating user...');
+
+  const response = await fetch(
+    `${SUPABASE_URL}/auth/v1/token?grant_type=password`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        apikey: SUPABASE_ANON_KEY,
+      },
+      body: JSON.stringify({
+        email: TEST_USER.email,
+        password: TEST_USER.password,
+      }),
+    }
+  );
+
+  if (!response.ok) {
+    const errorText = await response.text();
+    throw new Error(`Authentication failed: ${response.status} ${errorText}`);
+  }
+
+  const authData = await response.json();
+  log('success', 'User authenticated successfully');
+  return authData.access_token;
+}
+
+async function testPackageCreation(packageType, payload, accessToken) {
   log('test', `Testing ${packageType} package creation...`);
 
-  try {
-    const response = await fetch(
-      `${SUPABASE_URL}/functions/v1/create-bible-package`,
-      {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-        },
-        body: JSON.stringify(payload),
-      }
-    );
-
-    const responseText = await response.text();
-    log('info', `Response status: ${response.status}`);
-    log('info', `Response headers:`, Object.fromEntries(response.headers));
-
-    if (!response.ok) {
-      log('error', `Failed to create ${packageType} package`, {
-        status: response.status,
-        statusText: response.statusText,
-        response: responseText,
-      });
-      return null;
+  const response = await fetch(
+    `${SUPABASE_URL}/functions/v1/create-bible-package`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${accessToken}`,
+      },
+      body: JSON.stringify(payload),
     }
+  );
 
-    // Check if response is JSON or binary
-    const contentType = response.headers.get('content-type');
-    if (contentType && contentType.includes('application/json')) {
-      const result = JSON.parse(responseText);
-      log('success', `${packageType} package creation response:`, result);
-      return result;
-    } else {
-      // Binary response - package file
-      const packageSize = responseText.length;
-      log(
-        'success',
-        `${packageType} package created successfully! Size: ${packageSize} bytes (${(packageSize / 1024 / 1024).toFixed(2)} MB)`
-      );
-      return { success: true, packageSize, type: 'binary' };
-    }
-  } catch (error) {
-    log('error', `Error testing ${packageType} package:`, {
-      message: error.message,
-      stack: error.stack,
+  const responseText = await response.text();
+  log('info', `Response status: ${response.status}`);
+
+  if (!response.ok) {
+    log('error', `Failed to create ${packageType} package`, {
+      status: response.status,
+      response: responseText,
     });
     return null;
   }
+
+  const packageSize = responseText.length;
+  log(
+    'success',
+    `${packageType} package created! Size: ${packageSize} bytes (${(packageSize / 1024 / 1024).toFixed(2)} MB)`
+  );
+  return { success: true, packageSize, type: 'binary' };
 }
 
-async function testDownloadEndpoint(packageType, params) {
+async function testDownloadEndpoint(packageType, params, accessToken) {
   log('test', `Testing ${packageType} package download...`);
 
   const queryParams = new URLSearchParams(params);
   const url = `${SUPABASE_URL}/functions/v1/download-bible-package?${queryParams}`;
 
-  try {
-    const response = await fetch(url);
-    const responseText = await response.text();
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${accessToken}`,
+    },
+  });
 
-    log('info', `Download response status: ${response.status}`);
+  const responseText = await response.text();
+  log('info', `Download response status: ${response.status}`);
 
-    if (!response.ok) {
-      log('error', `Failed to download ${packageType} package`, {
-        status: response.status,
-        response: responseText,
-      });
-      return null;
-    }
-
-    const packageSize = responseText.length;
-    log(
-      'success',
-      `${packageType} package downloaded successfully! Size: ${packageSize} bytes (${(packageSize / 1024 / 1024).toFixed(2)} MB)`
-    );
-    return { success: true, packageSize };
-  } catch (error) {
-    log('error', `Error downloading ${packageType} package:`, {
-      message: error.message,
-      stack: error.stack,
+  if (!response.ok) {
+    log('error', `Failed to download ${packageType} package`, {
+      status: response.status,
+      response: responseText,
     });
     return null;
   }
+
+  const packageSize = responseText.length;
+  log(
+    'success',
+    `${packageType} package downloaded! Size: ${packageSize} bytes (${(packageSize / 1024 / 1024).toFixed(2)} MB)`
+  );
+  return { success: true, packageSize };
 }
 
 async function runTests() {
-  log('info', `Starting Bible Package Creation Tests`);
+  log('info', 'Starting Bible Package Creation Tests');
   log('info', `Supabase URL: ${SUPABASE_URL}`);
-  log('info', `Test IDs:`, TEST_IDS);
+
+  // Authenticate first
+  const accessToken = await authenticateUser();
 
   const results = {
     audio: null,
     text: null,
     combined: null,
-    downloads: {
-      audio: null,
-      text: null,
-      combined: null,
-    },
+    downloads: { audio: null, text: null, combined: null },
   };
 
   // Test 1: Audio-only package
@@ -155,67 +146,85 @@ async function runTests() {
   log('info', 'TEST 1: Audio-only Package');
   log('info', '='.repeat(60));
 
-  results.audio = await testPackageCreation('audio', {
-    packageType: 'audio',
-    audioVersionId: TEST_IDS.audioVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-    options: {
-      includeStructure: true,
+  results.audio = await testPackageCreation(
+    'audio',
+    {
+      packageType: 'audio',
+      audioVersionId: TEST_IDS.audioVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+      options: { includeStructure: true },
     },
-  });
+    accessToken
+  );
 
   // Test 2: Text-only package
   log('info', '='.repeat(60));
   log('info', 'TEST 2: Text-only Package');
   log('info', '='.repeat(60));
 
-  results.text = await testPackageCreation('text', {
-    packageType: 'text',
-    textVersionId: TEST_IDS.textVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-    options: {
-      includeStructure: true,
+  results.text = await testPackageCreation(
+    'text',
+    {
+      packageType: 'text',
+      textVersionId: TEST_IDS.textVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+      options: { includeStructure: true },
     },
-  });
+    accessToken
+  );
 
   // Test 3: Combined package
   log('info', '='.repeat(60));
   log('info', 'TEST 3: Combined Package');
   log('info', '='.repeat(60));
 
-  results.combined = await testPackageCreation('combined', {
-    packageType: 'combined',
-    audioVersionId: TEST_IDS.audioVersionId,
-    textVersionId: TEST_IDS.textVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-    options: {
-      includeStructure: true,
+  results.combined = await testPackageCreation(
+    'combined',
+    {
+      packageType: 'combined',
+      audioVersionId: TEST_IDS.audioVersionId,
+      textVersionId: TEST_IDS.textVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+      options: { includeStructure: true },
     },
-  });
+    accessToken
+  );
 
   // Test download endpoints
   log('info', '='.repeat(60));
   log('info', 'DOWNLOAD ENDPOINT TESTS');
   log('info', '='.repeat(60));
 
-  results.downloads.audio = await testDownloadEndpoint('audio', {
-    packageType: 'audio',
-    audioVersionId: TEST_IDS.audioVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-  });
+  results.downloads.audio = await testDownloadEndpoint(
+    'audio',
+    {
+      packageType: 'audio',
+      audioVersionId: TEST_IDS.audioVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+    },
+    accessToken
+  );
 
-  results.downloads.text = await testDownloadEndpoint('text', {
-    packageType: 'text',
-    textVersionId: TEST_IDS.textVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-  });
+  results.downloads.text = await testDownloadEndpoint(
+    'text',
+    {
+      packageType: 'text',
+      textVersionId: TEST_IDS.textVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+    },
+    accessToken
+  );
 
-  results.downloads.combined = await testDownloadEndpoint('combined', {
-    packageType: 'combined',
-    audioVersionId: TEST_IDS.audioVersionId,
-    textVersionId: TEST_IDS.textVersionId,
-    languageEntityId: TEST_IDS.languageEntityId,
-  });
+  results.downloads.combined = await testDownloadEndpoint(
+    'combined',
+    {
+      packageType: 'combined',
+      audioVersionId: TEST_IDS.audioVersionId,
+      textVersionId: TEST_IDS.textVersionId,
+      languageEntityId: TEST_IDS.languageEntityId,
+    },
+    accessToken
+  );
 
   // Summary
   log('info', '='.repeat(60));
@@ -223,9 +232,14 @@ async function runTests() {
   log('info', '='.repeat(60));
 
   const totalTests = 6;
-  const passedTests = Object.values(results)
-    .flat()
-    .filter(result => result && result.success).length;
+  const passedTests = [
+    results.audio,
+    results.text,
+    results.combined,
+    results.downloads.audio,
+    results.downloads.text,
+    results.downloads.combined,
+  ].filter(result => result && result.success).length;
 
   log('info', `Tests passed: ${passedTests}/${totalTests}`);
 
@@ -241,13 +255,11 @@ async function runTests() {
     );
   }
 
-  log('info', 'Final results:', results);
-
   process.exit(passedTests === totalTests ? 0 : 1);
 }
 
 // Run the tests
-if (require.main === module) {
+if (import.meta.url === `file://${process.argv[1]}`) {
   runTests().catch(error => {
     log('error', 'Test execution failed:', {
       message: error.message,
@@ -256,5 +268,3 @@ if (require.main === module) {
     process.exit(1);
   });
 }
-
-module.exports = { runTests, testPackageCreation, testDownloadEndpoint };

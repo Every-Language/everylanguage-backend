@@ -1,7 +1,6 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
 import { BiblePackageBuilder } from '../_shared/bible-package-builder.ts';
 import { corsHeaders } from '../_shared/response-utils.ts';
-import { parseRequest } from '../_shared/request-parser.ts';
 
 interface CreatePackageRequest {
   packageType: 'audio' | 'text' | 'combined';
@@ -76,9 +75,9 @@ Deno.serve(async (req: Request) => {
     }
 
     // Parse and validate request
-    const requestData: CreatePackageRequest = await parseRequest(req);
+    const requestData: CreatePackageRequest = await req.json();
 
-    if (!requestData.packageType || !requestData.languageEntityId) {
+    if (!requestData.languageEntityId) {
       return new Response(
         JSON.stringify({
           success: false,
