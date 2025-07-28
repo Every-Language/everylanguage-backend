@@ -2,13 +2,15 @@ import { crypto } from 'https://deno.land/std@0.177.0/crypto/mod.ts';
 import { B2StorageService } from './b2-storage-service.ts';
 import { B2Utils } from './b2-utils.ts';
 import { PackageQueries } from './package-queries.ts';
-import {
+import { BiblePackageSplitter } from './bible-package-splitter.ts';
+import { PackageType } from './bible-package-types.ts';
+import type {
   PackageRequest,
   BuildResult,
   BiblePackageManifest,
-  PackageType,
   AudioFileEntry,
   PackageData,
+  PackageResult,
 } from './bible-package-types.ts';
 
 export class BiblePackageBuilder {
@@ -27,37 +29,166 @@ export class BiblePackageBuilder {
       // 1. Validate request
       await this.validateRequest(request);
 
-      // 2. Gather all data from database
-      const packageData = await this.gatherPackageData(request);
+      // 2. Check if chunking is needed
+      if (request.enableChunking) {
+        const estimatedSize = await this.estimatePackageSize(request);
+        const maxSize = request.maxSizeMB ?? 2048; // Default to AirDrop limit
 
-      // 3. Create package database
-      const databaseBuffer = await this.createPackageDatabase(packageData);
+        if (estimatedSize > maxSize) {
+          return await this.buildChunkedSeries(request);
+        }
+      }
 
-      // 4. Prepare audio data (if audio package)
-      const audioBuffer = await this.prepareAudioData(packageData);
-
-      // 5. Create manifest
-      const manifest = this.createManifest(
-        packageData,
-        databaseBuffer,
-        audioBuffer
-      );
-
-      // 6. Assemble final package
-      const packageBuffer = this.assemblePackage(
-        manifest,
-        databaseBuffer,
-        audioBuffer
-      );
-
-      return {
-        packageBuffer,
-        manifest,
-        sizeInBytes: packageBuffer.length,
-      };
+      // 3. Build single package (original logic)
+      return await this.buildSinglePackage(request);
     } catch (error) {
-      throw new Error(`Package build failed: ${error.message}`);
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Package build failed: ${message}`);
     }
+  }
+
+  private async buildSinglePackage(
+    request: PackageRequest
+  ): Promise<BuildResult> {
+    // 1. Gather all data from database
+    const packageData = await this.gatherPackageData(request);
+
+    // 2. Create package database
+    const databaseBuffer = await this.createPackageDatabase(packageData);
+
+    // 3. Prepare audio data (if audio package)
+    const audioBuffer = await this.prepareAudioData(packageData);
+
+    // 4. Create manifest
+    const manifest = this.createManifest(
+      packageData,
+      databaseBuffer,
+      audioBuffer
+    );
+
+    // 5. Assemble final package
+    const packageBuffer = this.assemblePackage(
+      manifest,
+      databaseBuffer,
+      audioBuffer
+    );
+
+    return {
+      packageBuffer,
+      manifest,
+      sizeInBytes: packageBuffer.length,
+    };
+  }
+
+  private async buildChunkedSeries(
+    request: PackageRequest
+  ): Promise<BuildResult> {
+    const splitter = new BiblePackageSplitter(this.supabaseClient);
+
+    // 1. Generate chunking plan
+    const chunkPlan = await splitter.createChunkingPlan(request);
+
+    // 2. Build each package in the series
+    const packages: PackageResult[] = [];
+    let partNumber = 1;
+
+    for (const chunk of chunkPlan.chunks) {
+      const chunkRequest: PackageRequest = {
+        ...request,
+        customChunkRange: chunk.range,
+        seriesId: chunkPlan.seriesId,
+        enableChunking: false, // Prevent recursive chunking
+      };
+
+      const chunkResult = await this.buildSinglePackage(chunkRequest);
+
+      // Add series info to manifest
+      if (chunkResult.manifest) {
+        chunkResult.manifest.packageType = this.getChunkPackageType(
+          request.packageType
+        );
+        chunkResult.manifest.seriesInfo = {
+          seriesId: chunkPlan.seriesId,
+          seriesName: chunkPlan.seriesName,
+          partNumber,
+          totalParts: chunkPlan.chunks.length,
+          chunkingStrategy: request.chunkingStrategy ?? 'size',
+          isComplete: chunk.isComplete,
+          estimatedSeriesSizeMB: chunkPlan.estimatedTotalSizeMB,
+          contentRange: {
+            startBook: chunk.range.startBook,
+            endBook: chunk.range.endBook,
+            description: chunk.description,
+          },
+        };
+      }
+
+      packages.push({
+        packageBuffer: chunkResult.packageBuffer!,
+        manifest: chunkResult.manifest!,
+        sizeInBytes: chunkResult.sizeInBytes!,
+        partNumber,
+      });
+
+      partNumber++;
+    }
+
+    return {
+      packages,
+      seriesInfo: {
+        seriesId: chunkPlan.seriesId,
+        seriesName: chunkPlan.seriesName,
+        totalParts: chunkPlan.chunks.length,
+        chunkingStrategy: request.chunkingStrategy ?? 'size',
+        estimatedTotalSizeMB: chunkPlan.estimatedTotalSizeMB,
+      },
+    };
+  }
+
+  private getChunkPackageType(originalType: string): PackageType {
+    switch (originalType) {
+      case 'audio':
+        return PackageType.AUDIO_CHUNK;
+      case 'text':
+        return PackageType.TEXT_CHUNK;
+      case 'combined':
+        return PackageType.COMBINED_CHUNK;
+      default:
+        return PackageType.AUDIO_ONLY;
+    }
+  }
+
+  private async estimatePackageSize(request: PackageRequest): Promise<number> {
+    // Quick estimation based on media files or text content
+    if (request.audioVersionId) {
+      const { data: mediaFiles } = await this.supabaseClient
+        .from('media_files')
+        .select('file_size')
+        .eq('audio_version_id', request.audioVersionId)
+        .eq('publish_status', 'published');
+
+      const totalBytes =
+        mediaFiles?.reduce(
+          (sum: number, file: any) => sum + (file.file_size ?? 0),
+          0
+        ) ?? 0;
+      return totalBytes / (1024 * 1024); // Convert to MB
+    } else if (request.textVersionId) {
+      const { data: verses } = await this.supabaseClient
+        .from('verse_texts')
+        .select('verse_text')
+        .eq('text_version_id', request.textVersionId)
+        .eq('publish_status', 'published');
+
+      const totalChars =
+        verses?.reduce(
+          (sum: number, verse: any) => sum + verse.verse_text.length,
+          0
+        ) ?? 0;
+      return (totalChars * 2) / (1024 * 1024); // Estimate 2 bytes per char, convert to MB
+    }
+
+    return 0;
   }
 
   private async validateRequest(request: PackageRequest): Promise<void> {
@@ -248,7 +379,7 @@ export class BiblePackageBuilder {
             mediaFile.remote_path
           );
 
-          if (!audioBuffer || audioBuffer.length === 0) {
+          if (audioBuffer.length === 0) {
             throw new Error('Downloaded audio buffer is empty');
           }
 
@@ -282,8 +413,10 @@ export class BiblePackageBuilder {
             error
           );
           // FAIL FAST for debugging - don't create partial packages
+          const message =
+            error instanceof Error ? error.message : String(error);
           throw new Error(
-            `Audio download failed for ${mediaFile.remote_path}: ${error.message}`
+            `Audio download failed for ${mediaFile.remote_path}: ${message}`
           );
         }
       }
@@ -323,8 +456,9 @@ export class BiblePackageBuilder {
       );
       return new Uint8Array(fileData.data);
     } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
       throw new Error(
-        `Failed to download audio file ${remotePath}: ${error.message}`
+        `Failed to download audio file ${remotePath}: ${message}`
       );
     }
   }

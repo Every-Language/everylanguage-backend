@@ -4,8 +4,11 @@ export enum PackageType {
   AUDIO_ONLY = 1,
   TEXT_ONLY = 2,
   COMBINED = 3,
-  SERMON = 4, // Future: non-bible audio
-  PODCAST = 5, // Future: podcast content
+  AUDIO_CHUNK = 4, // Part of a multi-package audio series
+  TEXT_CHUNK = 5, // Part of a multi-package text series
+  COMBINED_CHUNK = 6, // Part of a multi-package combined series
+  SERMON = 7, // Future: non-bible audio
+  PODCAST = 8, // Future: podcast content
 }
 
 export interface PackageRequest {
@@ -15,6 +18,17 @@ export interface PackageRequest {
   languageEntityId: string;
   requestedBy: string;
   includeStructure?: boolean;
+
+  // Multi-package support
+  enableChunking?: boolean; // Allow automatic splitting if needed
+  maxSizeMB?: number; // Maximum size constraint (default: 2048 for AirDrop)
+  chunkingStrategy?: 'size' | 'testament' | 'book_group' | 'custom';
+  customChunkRange?: {
+    // For custom chunking
+    startBook: string; // OSIS book ID
+    endBook: string; // OSIS book ID
+  };
+  seriesId?: string; // For creating specific part of existing series
 }
 
 export interface BiblePackageHeader {
@@ -88,12 +102,70 @@ export interface BiblePackageManifest {
     totalVerses: number;
     testament?: 'old' | 'new' | 'both';
   };
+
+  // Multi-Package Series Support
+  seriesInfo?: {
+    seriesId: string; // Unique identifier for the complete series
+    seriesName: string; // Human-readable series name
+    partNumber: number; // This package's position in series (1, 2, 3...)
+    totalParts: number; // Total number of packages in series
+    chunkingStrategy: 'size' | 'testament' | 'book_group' | 'custom';
+    dependencies?: string[]; // Package IDs that must be imported first
+    isComplete: boolean; // True if this package can function independently
+    estimatedSeriesSizeMB: number; // Total size when all parts combined
+    contentRange: {
+      // What portion of Bible this package contains
+      startBook: string; // OSIS book ID (e.g., "gen")
+      endBook: string; // OSIS book ID (e.g., "mal")
+      description: string; // Human-readable description (e.g., "Old Testament")
+    };
+  };
 }
 
 export interface BuildResult {
+  packageBuffer?: Uint8Array; // Single package result
+  manifest?: BiblePackageManifest; // Single package manifest
+  sizeInBytes?: number; // Single package size
+
+  // Multi-package results
+  packages?: PackageResult[]; // Multiple packages if chunking was applied
+  seriesInfo?: SeriesInfo; // Series metadata
+}
+
+export interface PackageResult {
   packageBuffer: Uint8Array;
   manifest: BiblePackageManifest;
   sizeInBytes: number;
+  partNumber: number;
+}
+
+export interface SeriesInfo {
+  seriesId: string;
+  seriesName: string;
+  totalParts: number;
+  chunkingStrategy: string;
+  estimatedTotalSizeMB: number;
+}
+
+// Chunking support interfaces
+export interface ChunkingPlan {
+  seriesId: string;
+  seriesName: string;
+  estimatedTotalSizeMB: number;
+  chunks: ChunkInfo[];
+}
+
+export interface ChunkInfo {
+  range: { startBook: string; endBook: string };
+  description: string;
+  isComplete: boolean;
+  estimatedSizeMB: number;
+}
+
+export interface BookWithSize {
+  osisId: string;
+  name: string;
+  sizeMB: number;
 }
 
 // Database record types based on your schema

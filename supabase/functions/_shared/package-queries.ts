@@ -1,4 +1,4 @@
-import {
+import type {
   AudioVersionData,
   TextVersionData,
   BibleStructureData,
@@ -52,7 +52,7 @@ export class PackageQueries {
         if (timingError) {
           console.warn('Failed to fetch verse timings:', timingError.message);
         } else {
-          verseTimings = timingData || [];
+          verseTimings = timingData ?? [];
         }
       }
 
@@ -69,7 +69,7 @@ export class PackageQueries {
         if (targetError) {
           console.warn('Failed to fetch targets:', targetError.message);
         } else {
-          targets = targetData || [];
+          targets = targetData ?? [];
         }
       }
 
@@ -97,13 +97,14 @@ export class PackageQueries {
 
       return {
         audioVersion,
-        mediaFiles: mediaFiles || [],
+        mediaFiles: mediaFiles ?? [],
         verseTimings,
         targets,
         tags,
       };
     } catch (error) {
-      throw new Error(`Failed to get audio version data: ${error.message}`);
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Failed to get audio version data: ${message}`);
     }
   }
 
@@ -137,10 +138,11 @@ export class PackageQueries {
 
       return {
         textVersion,
-        verseTexts: verseTexts || [],
+        verseTexts: verseTexts ?? [],
       };
     } catch (error) {
-      throw new Error(`Failed to get text version data: ${error.message}`);
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Failed to get text version data: ${message}`);
     }
   }
 
@@ -172,7 +174,7 @@ export class PackageQueries {
       }
 
       // Get all chapters
-      const bookIds = books?.map((b: any) => b.id) || [];
+      const bookIds = books?.map((b: any) => b.id) ?? [];
       let chapters: any[] = [];
 
       if (bookIds.length > 0) {
@@ -186,7 +188,7 @@ export class PackageQueries {
         if (chaptersError) {
           throw new Error(`Failed to fetch chapters: ${chaptersError.message}`);
         }
-        chapters = chapterData || [];
+        chapters = chapterData ?? [];
       }
 
       // Get all verses
@@ -204,17 +206,18 @@ export class PackageQueries {
         if (versesError) {
           throw new Error(`Failed to fetch verses: ${versesError.message}`);
         }
-        verses = verseData || [];
+        verses = verseData ?? [];
       }
 
       return {
         bibleVersion,
-        books: books || [],
+        books: books ?? [],
         chapters,
         verses,
       };
     } catch (error) {
-      throw new Error(`Failed to get Bible structure data: ${error.message}`);
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Failed to get Bible structure data: ${message}`);
     }
   }
 
@@ -239,14 +242,15 @@ export class PackageQueries {
 
       // Extract region from nested structure
       const region =
-        languageEntity?.language_entities_regions?.[0]?.regions || null;
+        languageEntity?.language_entities_regions?.[0]?.regions ?? null;
 
       return {
         languageEntity,
         region,
       };
     } catch (error) {
-      throw new Error(`Failed to get language entity: ${error.message}`);
+      const message = error instanceof Error ? error.message : String(error);
+      throw new Error(`Failed to get language entity: ${message}`);
     }
   }
 

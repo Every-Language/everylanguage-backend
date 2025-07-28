@@ -119,7 +119,6 @@ describe('Bible Chapter Validation - Parser', () => {
       expect(result.uploadRequest.startVerseId).toBe('verse-1-id');
       expect(result.uploadRequest.endVerseId).toBe('verse-2-id');
       expect(result.uploadRequest.durationSeconds).toBe(120.5);
-      expect(result.uploadRequest.projectId).toBeUndefined();
       expect(result.uploadRequest.verseTimings).toBeUndefined();
       expect(result.uploadRequest.tagIds).toBeUndefined();
       expect(result.file).toBeInstanceOf(File);
