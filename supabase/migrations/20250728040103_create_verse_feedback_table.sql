@@ -12,10 +12,11 @@ CREATE TYPE feedback_actioned AS ENUM('pending', 'actioned', 'rejected');
 -- ============================================================================
 -- TABLES
 -- ============================================================================
--- Verse feedback table for tracking feedback on media_files_verses
+-- Verse feedback table for tracking feedback on media files and verses
 CREATE TABLE verse_feedback (
   id UUID PRIMARY KEY DEFAULT GEN_RANDOM_UUID(),
-  media_files_verses_id UUID REFERENCES media_files_verses (id) ON DELETE CASCADE NOT NULL,
+  media_files_id UUID REFERENCES media_files (id) ON DELETE CASCADE NOT NULL,
+  verse_id TEXT REFERENCES verses (id) ON DELETE CASCADE NOT NULL,
   feedback_type feedback_type NOT NULL,
   feedback_text TEXT CHECK (
     (
@@ -29,19 +30,23 @@ CREATE TABLE verse_feedback (
   ),
   actioned feedback_actioned NOT NULL DEFAULT 'pending',
   version INTEGER NOT NULL DEFAULT 1 CHECK (version > 0),
-  created_by UUID REFERENCES public.users (id) ON DELETE SET NULL,
   created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
-  updated_by UUID REFERENCES public.users (id) ON DELETE SET NULL,
+  created_by UUID REFERENCES public.users (id) ON DELETE SET NULL,
   updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
-  UNIQUE (media_files_verses_id, version)
+  updated_by UUID REFERENCES public.users (id) ON DELETE SET NULL,
+  UNIQUE (media_files_id, verse_id, version)
 );
 
 
 -- ============================================================================
 -- INDEXES
 -- ============================================================================
--- Index for finding feedback by media_files_verses
-CREATE INDEX idx_verse_feedback_media_files_verses_id ON verse_feedback (media_files_verses_id);
+-- Index for finding feedback by media file
+CREATE INDEX idx_verse_feedback_media_files_id ON verse_feedback (media_files_id);
+
+
+-- Index for finding feedback by verse
+CREATE INDEX idx_verse_feedback_verse_id ON verse_feedback (verse_id);
 
 
 -- Index for filtering by feedback type
@@ -143,10 +148,13 @@ CREATE POLICY "Users can delete their own verse_feedback" ON verse_feedback FOR 
 -- ============================================================================
 -- COMMENTS FOR DOCUMENTATION
 -- ============================================================================
-comment ON TABLE verse_feedback IS 'Feedback tracking for media_files_verses with approval/change workflows';
+comment ON TABLE verse_feedback IS 'Feedback tracking for media files and verses with approval/change workflows';
 
 
-comment ON COLUMN verse_feedback.media_files_verses_id IS 'Foreign key to the media_files_verses record being reviewed';
+comment ON COLUMN verse_feedback.media_files_id IS 'Foreign key to the media file being reviewed';
+
+
+comment ON COLUMN verse_feedback.verse_id IS 'Foreign key to the specific verse being reviewed';
 
 
 comment ON COLUMN verse_feedback.feedback_type IS 'Type of feedback: approved or change_required';
