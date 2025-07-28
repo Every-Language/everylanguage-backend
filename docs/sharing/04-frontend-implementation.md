@@ -105,6 +105,12 @@ interface PackageExportOptions {
   versionType: 'audio' | 'text';
   includeStructure?: boolean;
   compressionLevel?: number;
+
+  // Multi-package support
+  enableChunking?: boolean; // Allow automatic splitting if needed
+  maxSizeMB?: number; // Maximum size constraint
+  chunkingStrategy?: 'size' | 'testament' | 'book_group' | 'custom';
+  preferMultiplePackages?: boolean; // Prefer multiple packages over single large one
 }
 
 interface PackageImportResult {
@@ -114,6 +120,44 @@ interface PackageImportResult {
   importedAt?: string;
   errors?: string[];
   warnings?: string[];
+
+  // Multi-package support
+  isPartOfSeries?: boolean;
+  seriesInfo?: {
+    seriesId: string;
+    seriesName: string;
+    partNumber: number;
+    totalParts: number;
+    availableParts: number[]; // Parts already imported
+    missingParts: number[]; // Parts still needed
+    isSeriesComplete: boolean; // All parts imported
+  };
+}
+
+interface PackageExportResult {
+  success: boolean;
+
+  // Single package result
+  packagePath?: string;
+  packageSize?: number;
+
+  // Multi-package result
+  packages?: ExportedPackage[];
+  seriesInfo?: {
+    seriesId: string;
+    seriesName: string;
+    totalParts: number;
+    totalSizeMB: number;
+  };
+
+  errors?: string[];
+}
+
+interface ExportedPackage {
+  packagePath: string;
+  packageSize: number;
+  partNumber: number;
+  manifest: BiblePackageManifest;
 }
 
 interface ExportProgress {
@@ -165,8 +209,46 @@ export class BiblePackageService {
     });
   }
 
-  // Export audio version from local database
+  // Export audio version from local database (enhanced with multi-package support)
   async exportAudioVersion(
+    audioVersionId: string,
+    options: PackageExportOptions = {},
+    onProgress?: (progress: ExportProgress) => void
+  ): Promise<PackageExportResult> {
+    // Check if chunking is needed/requested
+    if (options.enableChunking || options.preferMultiplePackages) {
+      const estimatedSize = await this.estimateExportSize(
+        audioVersionId,
+        'audio'
+      );
+      const maxSize = options.maxSizeMB || 2048; // Default to AirDrop limit
+
+      if (estimatedSize > maxSize || options.preferMultiplePackages) {
+        return await this.exportAudioVersionAsChunks(
+          audioVersionId,
+          options,
+          onProgress
+        );
+      }
+    }
+
+    // Export as single package (original behavior)
+    const packagePath = await this.exportSingleAudioVersion(
+      audioVersionId,
+      options,
+      onProgress
+    );
+    const packageSize = await this.getFileSize(packagePath);
+
+    return {
+      success: true,
+      packagePath,
+      packageSize,
+    };
+  }
+
+  // Original single package export logic
+  private async exportSingleAudioVersion(
     audioVersionId: string,
     options: PackageExportOptions = {},
     onProgress?: (progress: ExportProgress) => void
@@ -240,6 +322,171 @@ export class BiblePackageService {
       await this.cleanup();
       throw new Error(`Export failed: ${error.message}`);
     }
+  }
+
+  // Multi-package audio export
+  private async exportAudioVersionAsChunks(
+    audioVersionId: string,
+    options: PackageExportOptions,
+    onProgress?: (progress: ExportProgress) => void
+  ): Promise<PackageExportResult> {
+    try {
+      onProgress?.({
+        stage: 'validating',
+        progress: 0,
+        message: 'Planning package chunks...',
+      });
+
+      // Create chunking plan
+      const chunkPlan = await this.createLocalChunkingPlan(
+        audioVersionId,
+        'audio',
+        options
+      );
+
+      const packages: ExportedPackage[] = [];
+      let overallProgress = 0;
+      const progressPerChunk = 90 / chunkPlan.chunks.length;
+
+      for (let i = 0; i < chunkPlan.chunks.length; i++) {
+        const chunk = chunkPlan.chunks[i];
+
+        onProgress?.({
+          stage: 'assembling',
+          progress: overallProgress + 5,
+          message: `Creating package ${i + 1} of ${chunkPlan.chunks.length}: ${chunk.description}`,
+        });
+
+        // Create chunk-specific package
+        const chunkOptions = {
+          ...options,
+          customChunkRange: chunk.range,
+        };
+
+        const packagePath = await this.exportChunkAudioVersion(
+          audioVersionId,
+          chunkOptions,
+          chunkPlan.seriesId,
+          i + 1,
+          chunkPlan.chunks.length,
+          chunk
+        );
+
+        const packageSize = await this.getFileSize(packagePath);
+        const manifest = await this.getPackageManifest(packagePath);
+
+        packages.push({
+          packagePath,
+          packageSize,
+          partNumber: i + 1,
+          manifest,
+        });
+
+        overallProgress += progressPerChunk;
+        onProgress?.({
+          stage: 'assembling',
+          progress: overallProgress,
+          message: `Package ${i + 1} of ${chunkPlan.chunks.length} completed`,
+        });
+      }
+
+      onProgress?.({
+        stage: 'complete',
+        progress: 100,
+        message: `Created ${packages.length} packages successfully`,
+      });
+
+      return {
+        success: true,
+        packages,
+        seriesInfo: {
+          seriesId: chunkPlan.seriesId,
+          seriesName: chunkPlan.seriesName,
+          totalParts: chunkPlan.chunks.length,
+          totalSizeMB: packages.reduce(
+            (sum, pkg) => sum + pkg.packageSize / (1024 * 1024),
+            0
+          ),
+        },
+      };
+    } catch (error) {
+      await this.cleanup();
+      return {
+        success: false,
+        errors: [error.message],
+      };
+    }
+  }
+
+  // Import package with series support
+  async importPackageWithSeriesSupport(
+    packagePath: string,
+    onProgress?: (progress: any) => void
+  ): Promise<PackageImportResult> {
+    try {
+      // Import the individual package
+      const importResult = await this.importPackage(packagePath, onProgress);
+
+      if (!importResult.success || !importResult.manifest) {
+        return importResult;
+      }
+
+      // Check if this is part of a series
+      if (importResult.manifest.seriesInfo) {
+        const seriesStatus = await this.checkSeriesStatus(
+          importResult.manifest.seriesInfo
+        );
+
+        return {
+          ...importResult,
+          isPartOfSeries: true,
+          seriesInfo: seriesStatus,
+        };
+      }
+
+      return importResult;
+    } catch (error) {
+      return {
+        success: false,
+        errors: [error.message],
+      };
+    }
+  }
+
+  private async checkSeriesStatus(seriesInfo: any): Promise<any> {
+    // Check which parts of the series are already imported
+    const existingParts = await this.queryDatabase(
+      `
+      SELECT manifest_json FROM local_packages 
+      WHERE JSON_EXTRACT(manifest_json, '$.seriesInfo.seriesId') = ?
+    `,
+      [seriesInfo.seriesId]
+    );
+
+    const availableParts: number[] = [];
+    for (const part of existingParts) {
+      const manifest = JSON.parse(part.manifest_json);
+      if (manifest.seriesInfo) {
+        availableParts.push(manifest.seriesInfo.partNumber);
+      }
+    }
+
+    const missingParts: number[] = [];
+    for (let i = 1; i <= seriesInfo.totalParts; i++) {
+      if (!availableParts.includes(i)) {
+        missingParts.push(i);
+      }
+    }
+
+    return {
+      seriesId: seriesInfo.seriesId,
+      seriesName: seriesInfo.seriesName,
+      partNumber: seriesInfo.partNumber,
+      totalParts: seriesInfo.totalParts,
+      availableParts: availableParts.sort(),
+      missingParts: missingParts.sort(),
+      isSeriesComplete: missingParts.length === 0,
+    };
   }
 
   // Export text version from local database

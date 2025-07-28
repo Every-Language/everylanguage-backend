@@ -11,6 +11,8 @@ This system enables complete offline sharing of Bible audio and text versions th
 1. **Audio Package**: Complete audio version with all media files and metadata
 2. **Text Package**: Complete text version with all verse texts
 3. **Combined Package**: Audio + Text versions for the same language (manual distribution only)
+4. **Chunked Package**: Partial content packages that are part of a larger Bible (e.g., Old Testament, New Testament, book groups)
+5. **Package Series**: Multiple related packages that combine to form a complete Bible
 
 ### Distribution Scenarios
 
@@ -18,10 +20,21 @@ This system enables complete offline sharing of Bible audio and text versions th
 2. **Cross-Platform Sharing**: Packages sent via WhatsApp, social media, cloud storage
 3. **Physical Distribution**: SD cards, USB drives for areas with no connectivity
 4. **Server Downloads**: Backend generates packages for first-time downloads
+5. **Multi-Package Sharing**: Large Bibles shared as coordinated package series via AirDrop/Android Beam
+6. **Selective Distribution**: Share specific portions (Old Testament, New Testament, book groups) as needed
+
+### Package Chunking Strategies
+
+1. **Size-Based Chunking**: Automatically split based on platform limits (2GB WhatsApp, 5GB AirDrop)
+2. **Testament-Based**: Old Testament + New Testament packages
+3. **Book Group-Based**: Logical groupings (Law, History, Wisdom, Prophets, Gospels, etc.)
+4. **Custom Chunking**: User-defined splits for specific distribution needs
 
 ### Key Constraints
 
-- **Single File**: Packages must work via WhatsApp/messaging apps (optimized file size)
+- **Size Limitations**: Individual packages must respect platform limits (2GB for WhatsApp, 5GB for AirDrop)
+- **Intelligent Chunking**: Large Bibles automatically split into manageable packages based on size, not arbitrary divisions
+- **Multi-Package Coordination**: Support sharing complete Bibles via multiple related packages
 - **Offline First**: Complete functionality without network connection
 - **Older Devices**: Must work well on slower, older phones
 - **Poor Networks**: Resumable downloads, optimized for intermittent connectivity
@@ -36,10 +49,20 @@ This system enables complete offline sharing of Bible audio and text versions th
 │                     │    │                     │    │  SQLite)            │
 │ • Package Export    │───►│ • 64-byte Header    │◄───│ • Package Import    │
 │ • Download API      │    │ • JSON Manifest     │    │ • Local Export      │
-│ • Resumable DL     │    │ • SQLite Database   │    │ • Sharing           │
-│ • Caching          │    │ • Audio Files       │    │ • Auto Sync         │
-└─────────────────────┘    │ • Integrity Checks  │    └─────────────────────┘
-                           └─────────────────────┘
+│ • Resumable DL     │    │ • SQLite Database   │    │ • Multi-Package     │
+│ • Intelligent Split │    │ • Audio Files       │    │   Assembly          │
+│ • Series Tracking  │    │ • Integrity Checks  │    │ • Series Import     │
+│ • Caching          │    │ • Cross-Package Refs│    │ • Auto Sync         │
+└─────────────────────┘    └─────────────────────┘    └─────────────────────┘
+                                     │
+                           ┌─────────┴─────────┐
+                           │   Package Series   │
+                           │                   │
+                           │ • Series Manifest │
+                           │ • Part 1, 2, 3... │
+                           │ • Dependency Tree │
+                           │ • Progress Track   │
+                           └───────────────────┘
 ```
 
 ## Data Model

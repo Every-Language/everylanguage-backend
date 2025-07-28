@@ -42,12 +42,41 @@ interface PackageRequest {
   languageEntityId: string;
   requestedBy: string;
   includeStructure?: boolean;
+
+  // Multi-package support
+  enableChunking?: boolean;           // Allow automatic splitting if needed
+  maxSizeMB?: number;                 // Maximum size constraint (default: 2048 for AirDrop)
+  chunkingStrategy?: 'size' | 'testament' | 'book_group' | 'custom';
+  customChunkRange?: {                // For custom chunking
+    startBook: string;                // OSIS book ID
+    endBook: string;                  // OSIS book ID
+  };
+  seriesId?: string;                  // For creating specific part of existing series
 }
 
 interface BuildResult {
+  packageBuffer?: Uint8Array;        // Single package result
+  manifest?: BiblePackageManifest;   // Single package manifest
+  sizeInBytes?: number;              // Single package size
+
+  // Multi-package results
+  packages?: PackageResult[];        // Multiple packages if chunking was applied
+  seriesInfo?: SeriesInfo;           // Series metadata
+}
+
+interface PackageResult {
   packageBuffer: Uint8Array;
   manifest: BiblePackageManifest;
   sizeInBytes: number;
+  partNumber: number;
+}
+
+interface SeriesInfo {
+  seriesId: string;
+  seriesName: string;
+  totalParts: number;
+  chunkingStrategy: string;
+  estimatedTotalSizeMB: number;
 }
 
 export class BiblePackageBuilder {
@@ -64,20 +93,124 @@ export class BiblePackageBuilder {
       // 1. Validate request
       await this.validateRequest(request);
 
-      // 2. Gather all data from database
-      const packageData = await this.gatherPackageData(request);
+      // 2. Check if chunking is needed
+      if (request.enableChunking) {
+        const estimatedSize = await this.estimatePackageSize(request);
+        const maxSize = request.maxSizeMB || 2048; // Default to AirDrop limit
 
-      // 3. Create package database
-      const databaseBuffer = await this.createPackageDatabase(packageData);
+        if (estimatedSize > maxSize) {
+          return await this.buildChunkedSeries(request);
+        }
+      }
 
-      // 4. Prepare audio data (if audio package)
-      const audioBuffer = await this.prepareAudioData(packageData);
+      // 3. Build single package (original logic)
+      return await this.buildSinglePackage(request);
+    } catch (error) {
+      await this.cleanup();
+      throw error;
+    }
+  }
 
-      // 5. Create manifest
-      const manifest = this.createManifest(
-        packageData,
-        databaseBuffer,
-        audioBuffer
+  private async buildSinglePackage(request: PackageRequest): Promise<BuildResult> {
+    // 1. Gather all data from database
+    const packageData = await this.gatherPackageData(request);
+
+    // 2. Create package database
+    const databaseBuffer = await this.createPackageDatabase(packageData);
+
+    // 3. Prepare audio data (if audio package)
+    const audioBuffer = await this.prepareAudioData(packageData);
+
+    // 4. Create manifest
+    const manifest = this.createManifest(
+      packageData,
+      databaseBuffer,
+      audioBuffer
+    );
+
+    // 5. Assemble final package
+    const packageBuffer = this.assemblePackage(
+      manifest,
+      databaseBuffer,
+      audioBuffer
+    );
+
+    return {
+      packageBuffer,
+      manifest,
+      sizeInBytes: packageBuffer.length,
+    };
+  }
+
+  private async buildChunkedSeries(request: PackageRequest): Promise<BuildResult> {
+    const splitter = new BiblePackageSplitter(this.supabaseClient);
+
+    // 1. Generate chunking plan
+    const chunkPlan = await splitter.createChunkingPlan(request);
+
+    // 2. Build each package in the series
+    const packages: PackageResult[] = [];
+    let partNumber = 1;
+
+    for (const chunk of chunkPlan.chunks) {
+      const chunkRequest: PackageRequest = {
+        ...request,
+        customChunkRange: chunk.range,
+        seriesId: chunkPlan.seriesId,
+        enableChunking: false, // Prevent recursive chunking
+      };
+
+      const chunkResult = await this.buildSinglePackage(chunkRequest);
+
+      // Add series info to manifest
+      if (chunkResult.manifest) {
+        chunkResult.manifest.packageType = this.getChunkPackageType(request.packageType);
+        chunkResult.manifest.seriesInfo = {
+          seriesId: chunkPlan.seriesId,
+          seriesName: chunkPlan.seriesName,
+          partNumber,
+          totalParts: chunkPlan.chunks.length,
+          chunkingStrategy: request.chunkingStrategy || 'size',
+          isComplete: chunk.isComplete,
+          estimatedSeriesSizeMB: chunkPlan.estimatedTotalSizeMB,
+          contentRange: {
+            startBook: chunk.range.startBook,
+            endBook: chunk.range.endBook,
+            description: chunk.description,
+          },
+        };
+      }
+
+      packages.push({
+        packageBuffer: chunkResult.packageBuffer!,
+        manifest: chunkResult.manifest!,
+        sizeInBytes: chunkResult.sizeInBytes!,
+        partNumber,
+      });
+
+      partNumber++;
+    }
+
+    return {
+      packages,
+      seriesInfo: {
+        seriesId: chunkPlan.seriesId,
+        seriesName: chunkPlan.seriesName,
+        totalParts: chunkPlan.chunks.length,
+        chunkingStrategy: request.chunkingStrategy || 'size',
+        estimatedTotalSizeMB: chunkPlan.estimatedTotalSizeMB,
+      },
+    };
+  }
+
+  private getChunkPackageType(originalType: string): number {
+    switch (originalType) {
+      case 'audio': return 4; // AUDIO_CHUNK
+      case 'text': return 5;  // TEXT_CHUNK
+      case 'combined': return 6; // COMBINED_CHUNK
+      default: return 1;
+    }
+  }
       );
 
       // 6. Assemble final package
@@ -612,6 +745,202 @@ export class BiblePackageBuilder {
       // Ignore cleanup errors
     }
   }
+}
+
+// New class for intelligent package splitting
+export class BiblePackageSplitter {
+  private supabaseClient: any;
+
+  constructor(supabaseClient: any) {
+    this.supabaseClient = supabaseClient;
+  }
+
+  async createChunkingPlan(request: PackageRequest): Promise<ChunkingPlan> {
+    const strategy = request.chunkingStrategy || 'size';
+    const maxSizeMB = request.maxSizeMB || 2048;
+
+    switch (strategy) {
+      case 'testament':
+        return await this.createTestamentChunks(request);
+      case 'book_group':
+        return await this.createBookGroupChunks(request, maxSizeMB);
+      case 'size':
+        return await this.createSizeBasedChunks(request, maxSizeMB);
+      case 'custom':
+        return await this.createCustomChunks(request);
+      default:
+        throw new Error(`Unknown chunking strategy: ${strategy}`);
+    }
+  }
+
+  private async createTestamentChunks(request: PackageRequest): Promise<ChunkingPlan> {
+    const seriesId = `${request.audioVersionId || request.textVersionId}-testament-split`;
+
+    return {
+      seriesId,
+      seriesName: await this.getVersionName(request) + ' (Testament Split)',
+      estimatedTotalSizeMB: await this.estimateTotalSize(request),
+      chunks: [
+        {
+          range: { startBook: 'gen', endBook: 'mal' },
+          description: 'Old Testament',
+          isComplete: true,
+          estimatedSizeMB: 0, // Will be calculated
+        },
+        {
+          range: { startBook: 'mat', endBook: 'rev' },
+          description: 'New Testament',
+          isComplete: true,
+          estimatedSizeMB: 0,
+        },
+      ],
+    };
+  }
+
+  private async createBookGroupChunks(request: PackageRequest, maxSizeMB: number): Promise<ChunkingPlan> {
+    const bookGroups = [
+      { range: { startBook: 'gen', endBook: 'est' }, description: 'Law & History' },
+      { range: { startBook: 'job', endBook: 'sol' }, description: 'Wisdom & Poetry' },
+      { range: { startBook: 'isa', endBook: 'mal' }, description: 'Prophets' },
+      { range: { startBook: 'mat', endBook: 'act' }, description: 'Gospels & Acts' },
+      { range: { startBook: 'rom', endBook: 'rev' }, description: 'Epistles & Revelation' },
+    ];
+
+    // Filter groups that have content and estimate sizes
+    const validChunks = [];
+    for (const group of bookGroups) {
+      const estimatedSize = await this.estimateChunkSize(request, group.range);
+      if (estimatedSize > 0) {
+        validChunks.push({
+          ...group,
+          isComplete: true,
+          estimatedSizeMB: estimatedSize,
+        });
+      }
+    }
+
+    const seriesId = `${request.audioVersionId || request.textVersionId}-bookgroup-split`;
+
+    return {
+      seriesId,
+      seriesName: await this.getVersionName(request) + ' (Book Groups)',
+      estimatedTotalSizeMB: validChunks.reduce((sum, chunk) => sum + chunk.estimatedSizeMB, 0),
+      chunks: validChunks,
+    };
+  }
+
+  private async createSizeBasedChunks(request: PackageRequest, maxSizeMB: number): Promise<ChunkingPlan> {
+    // Get all books and their estimated sizes
+    const books = await this.getBooksWithSizes(request);
+    const chunks: ChunkInfo[] = [];
+
+    let currentChunk: ChunkInfo | null = null;
+    let currentSizeMB = 0;
+
+    for (const book of books) {
+      if (!currentChunk || currentSizeMB + book.sizeMB > maxSizeMB) {
+        // Start new chunk
+        if (currentChunk) {
+          chunks.push(currentChunk);
+        }
+
+        currentChunk = {
+          range: { startBook: book.osisId, endBook: book.osisId },
+          description: `Books: ${book.name}`,
+          isComplete: true,
+          estimatedSizeMB: book.sizeMB,
+        };
+        currentSizeMB = book.sizeMB;
+      } else {
+        // Add to current chunk
+        currentChunk.range.endBook = book.osisId;
+        currentChunk.description = currentChunk.description.includes('..')
+          ? currentChunk.description
+          : currentChunk.description + ` .. ${book.name}`;
+        currentChunk.estimatedSizeMB += book.sizeMB;
+        currentSizeMB += book.sizeMB;
+      }
+    }
+
+    if (currentChunk) {
+      chunks.push(currentChunk);
+    }
+
+    const seriesId = `${request.audioVersionId || request.textVersionId}-size-split`;
+
+    return {
+      seriesId,
+      seriesName: await this.getVersionName(request) + ' (Size-Based Split)',
+      estimatedTotalSizeMB: chunks.reduce((sum, chunk) => sum + chunk.estimatedSizeMB, 0),
+      chunks,
+    };
+  }
+
+  private async getBooksWithSizes(request: PackageRequest): Promise<BookWithSize[]> {
+    // Implementation would query database and estimate sizes based on content
+    // This is a simplified version
+    const { data: books } = await this.supabaseClient
+      .from('books')
+      .select('id, name, osis_id, book_number')
+      .order('book_number');
+
+    const booksWithSizes: BookWithSize[] = [];
+
+    for (const book of books) {
+      const sizeMB = await this.estimateBookSize(request, book.osis_id);
+      booksWithSizes.push({
+        osisId: book.osis_id,
+        name: book.name,
+        sizeMB,
+      });
+    }
+
+    return booksWithSizes;
+  }
+
+  private async estimateBookSize(request: PackageRequest, bookOsisId: string): Promise<number> {
+    // Estimate size based on audio files or text content
+    if (request.audioVersionId) {
+      const { data: mediaFiles } = await this.supabaseClient
+        .from('media_files')
+        .select('file_size')
+        .eq('audio_version_id', request.audioVersionId)
+        .like('start_verse_id', `${bookOsisId}-%`);
+
+      const totalBytes = mediaFiles?.reduce((sum, file) => sum + (file.file_size || 0), 0) || 0;
+      return totalBytes / (1024 * 1024); // Convert to MB
+    } else {
+      // For text versions, estimate based on verse count
+      const { data: verses } = await this.supabaseClient
+        .from('verse_texts')
+        .select('verse_text')
+        .eq('text_version_id', request.textVersionId)
+        .like('verse_id', `${bookOsisId}-%`);
+
+      const totalChars = verses?.reduce((sum, verse) => sum + verse.verse_text.length, 0) || 0;
+      return (totalChars * 2) / (1024 * 1024); // Estimate 2 bytes per char, convert to MB
+    }
+  }
+}
+
+interface ChunkingPlan {
+  seriesId: string;
+  seriesName: string;
+  estimatedTotalSizeMB: number;
+  chunks: ChunkInfo[];
+}
+
+interface ChunkInfo {
+  range: { startBook: string; endBook: string };
+  description: string;
+  isComplete: boolean;
+  estimatedSizeMB: number;
+}
+
+interface BookWithSize {
+  osisId: string;
+  name: string;
+  sizeMB: number;
 }
 ```
 

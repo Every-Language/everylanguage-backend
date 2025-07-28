@@ -42,8 +42,11 @@ enum PackageType {
   AUDIO_ONLY = 1,
   TEXT_ONLY = 2,
   COMBINED = 3,
-  SERMON = 4, // Future: non-bible audio
-  PODCAST = 5, // Future: podcast content
+  AUDIO_CHUNK = 4, // Part of a multi-package audio series
+  TEXT_CHUNK = 5, // Part of a multi-package text series
+  COMBINED_CHUNK = 6, // Part of a multi-package combined series
+  SERMON = 7, // Future: non-bible audio
+  PODCAST = 8, // Future: podcast content
 }
 ```
 
@@ -93,6 +96,24 @@ interface BiblePackageManifest {
     totalChapters: number;
     totalVerses: number;
     testament?: 'old' | 'new' | 'both';
+  };
+
+  // Multi-Package Series Support
+  seriesInfo?: {
+    seriesId: string; // Unique identifier for the complete series
+    seriesName: string; // Human-readable series name
+    partNumber: number; // This package's position in series (1, 2, 3...)
+    totalParts: number; // Total number of packages in series
+    chunkingStrategy: 'size' | 'testament' | 'book_group' | 'custom';
+    dependencies?: string[]; // Package IDs that must be imported first
+    isComplete: boolean; // True if this package can function independently
+    estimatedSeriesSizeMB: number; // Total size when all parts combined
+    contentRange: {
+      // What portion of Bible this package contains
+      startBook: string; // OSIS book ID (e.g., "gen")
+      endBook: string; // OSIS book ID (e.g., "mal")
+      description: string; // Human-readable description (e.g., "Old Testament")
+    };
   };
 }
 ```
@@ -328,6 +349,67 @@ const audioFile = audioData.slice(
   audioFileIndex[i].offset,
   audioFileIndex[i].offset + audioFileIndex[i].size
 );
+```
+
+## Multi-Package Series Support
+
+### Chunking Strategies
+
+#### Size-Based Chunking
+
+Automatically splits content to fit platform constraints:
+
+- **WhatsApp/Messaging**: 1.8GB max per package
+- **AirDrop/Android Beam**: 4.5GB max per package
+- **SD Card/USB**: 1GB recommended for compatibility
+
+#### Testament-Based Chunking
+
+Logical division by biblical structure:
+
+- **Old Testament Package**: Genesis through Malachi
+- **New Testament Package**: Matthew through Revelation
+
+#### Book Group Chunking
+
+Groups books by type for balanced sizes:
+
+- **Law & History**: Genesis through Esther
+- **Wisdom & Poetry**: Job through Song of Songs
+- **Prophets**: Isaiah through Malachi
+- **Gospels & Acts**: Matthew through Acts
+- **Epistles & Revelation**: Romans through Revelation
+
+#### Custom Chunking
+
+User-defined splits for specific needs:
+
+- Individual books for granular sharing
+- Custom book ranges
+- Content-type specific (narratives, poetry, prophecy)
+
+### Series Manifest Example
+
+```typescript
+// Part 1 of 2 - Old Testament
+{
+  packageId: "niv-english-audio-ot-v2.1",
+  packageType: PackageType.AUDIO_CHUNK,
+  seriesInfo: {
+    seriesId: "niv-english-audio-complete-v2.1",
+    seriesName: "NIV English Complete Audio Bible",
+    partNumber: 1,
+    totalParts: 2,
+    chunkingStrategy: "testament",
+    isComplete: true,
+    estimatedSeriesSizeMB: 4500,
+    contentRange: {
+      startBook: "gen",
+      endBook: "mal",
+      description: "Old Testament (Genesis - Malachi)"
+    }
+  }
+}
 ```
 
 ## Package Creation Process

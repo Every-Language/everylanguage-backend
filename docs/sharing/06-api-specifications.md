@@ -59,6 +59,15 @@ interface CreatePackageRequest {
     includeStructure?: boolean; // Include bible structure data
     compressionLevel?: number; // 1-9, default 6
     maxSize?: number; // Max size in MB, default 2048
+
+    // Multi-package options
+    enableChunking?: boolean; // Allow automatic splitting if needed
+    chunkingStrategy?: 'size' | 'testament' | 'book_group' | 'custom';
+    customChunkRange?: {
+      startBook: string; // OSIS book ID
+      endBook: string; // OSIS book ID
+    };
+    forceMultiplePackages?: boolean; // Always create series even if fits in one
   };
 }
 ```
@@ -68,11 +77,32 @@ interface CreatePackageRequest {
 ```typescript
 interface CreatePackageResponse {
   success: boolean;
-  packageId: string;
+
+  // Single package response
+  packageId?: string;
   downloadUrl?: string; // If immediate download
+  manifest?: BiblePackageManifest;
+  sizeInBytes?: number;
+  estimatedDownloadTime?: number; // Seconds
+
+  // Multi-package response
+  packages?: PackageInfo[];
+  seriesInfo?: {
+    seriesId: string;
+    seriesName: string;
+    totalParts: number;
+    totalSizeMB: number;
+    chunkingStrategy: string;
+    downloadUrls?: string[]; // URLs for all packages
+  };
+}
+
+interface PackageInfo {
+  packageId: string;
+  partNumber: number;
+  downloadUrl?: string;
   manifest: BiblePackageManifest;
   sizeInBytes: number;
-  estimatedDownloadTime?: number; // Seconds
 }
 ```
 
@@ -417,7 +447,122 @@ interface DownloadUrlsResponse {
 }
 ```
 
-### 10. Package Analytics
+### 10. Get Package Series Status
+
+**Endpoint:** `GET /functions/v1/package-series/{seriesId}/status`
+
+Gets the status of a multi-package series.
+
+#### Response
+
+```typescript
+interface PackageSeriesStatusResponse {
+  seriesId: string;
+  seriesName: string;
+  totalParts: number;
+  availableParts: PackagePartInfo[];
+  missingParts: number[];
+  chunkingStrategy: string;
+  estimatedTotalSizeMB: number;
+  isComplete: boolean;
+}
+
+interface PackagePartInfo {
+  partNumber: number;
+  packageId: string;
+  status: 'ready' | 'generating' | 'cached';
+  downloadUrl?: string;
+  sizeInBytes: number;
+}
+```
+
+### 11. Download Package Series
+
+**Endpoint:** `GET /functions/v1/download-package-series/{seriesId}`
+
+Downloads all packages in a series as a ZIP file or provides individual download URLs.
+
+#### Query Parameters
+
+```typescript
+interface DownloadSeriesParams {
+  format?: 'zip' | 'individual'; // Default: individual
+  partNumbers?: string; // Comma-separated part numbers (e.g., "1,3,5")
+}
+```
+
+#### Response
+
+For `format=individual`:
+
+```typescript
+interface DownloadSeriesResponse {
+  success: boolean;
+  seriesId: string;
+  packages: {
+    partNumber: number;
+    downloadUrl: string;
+    expiresIn: number; // Seconds
+    sizeInBytes: number;
+  }[];
+  totalSizeMB: number;
+}
+```
+
+For `format=zip`:
+
+- Returns ZIP file containing all packages
+- Content-Type: application/zip
+- Content-Disposition: attachment; filename="series-name.zip"
+
+### 12. Create Package Series
+
+**Endpoint:** `POST /functions/v1/create-package-series`
+
+Creates multiple related packages as a coordinated series.
+
+#### Request Body
+
+```typescript
+interface CreateSeriesRequest {
+  packageType: 'audio' | 'text' | 'combined';
+  audioVersionId?: string;
+  textVersionId?: string;
+  languageEntityId: string;
+  chunkingStrategy: 'size' | 'testament' | 'book_group' | 'custom';
+  maxSizePerPackageMB?: number; // Default: 2048
+  customChunks?: {
+    startBook: string;
+    endBook: string;
+    description: string;
+  }[];
+}
+```
+
+#### Response
+
+```typescript
+interface CreateSeriesResponse {
+  success: boolean;
+  seriesId: string;
+  seriesName: string;
+  totalParts: number;
+  estimatedTotalSizeMB: number;
+  packages: {
+    partNumber: number;
+    packageId: string;
+    contentRange: {
+      startBook: string;
+      endBook: string;
+      description: string;
+    };
+    estimatedSizeMB: number;
+  }[];
+  generationJobId?: string; // For async generation
+}
+```
+
+### 13. Package Analytics
 
 **Endpoint:** `GET /functions/v1/analytics/packages`
 
