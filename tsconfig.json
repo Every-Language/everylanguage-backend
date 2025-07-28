@@ -41,6 +41,9 @@
     "supabase/.temp",
     "supabase/.branches",
     "supabase/functions",
+    "tests/unit/bible-package-builder.test.ts",
+    "tests/unit/bible-package-splitter.test.ts",
+    "tests/integration/multi-package-system.test.ts",
     "coverage"
   ]
 }

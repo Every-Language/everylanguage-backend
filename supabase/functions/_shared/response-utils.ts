@@ -1,5 +1,8 @@
 import { corsHeaders } from './request-parser.ts';
 
+// Re-export for convenience
+export { corsHeaders };
+
 export interface ApiResponse<T = any> {
   success: boolean;
   data?: T;

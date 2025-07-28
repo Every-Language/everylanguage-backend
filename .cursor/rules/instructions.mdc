@@ -1,0 +1,13 @@
+---
+description:
+globs: *
+alwaysApply: false
+---
+
+for supabase migrations, use `supabase migrations new` rather than manually creating the file
+my created_by fields reference public.users and not auth.users
+ 
+ Code Style and Structure
+- Write clean, maintainable, and technically accurate TypeScript code. - Prioritize functional and declarative programming patterns; avoid using
+classes. - Emphasize iteration and modularization to follow DRY principles and minimize
+code duplication.

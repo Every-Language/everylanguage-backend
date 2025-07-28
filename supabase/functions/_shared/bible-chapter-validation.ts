@@ -13,8 +13,7 @@ export interface BibleChapterUploadRequest {
   startVerseId: string;
   endVerseId: string;
   durationSeconds: number;
-  audioVersionId: string; // Required: audio version this media file belongs to
-  projectId?: string;
+  audioVersionId: string;
   verseTimings?: VerseTiming[];
   tagIds?: string[];
 }
@@ -31,7 +30,6 @@ interface BibleChapterJsonData {
   end_verse_id: string;
   duration_seconds: number;
   audio_version_id: string;
-  project_id?: string; // Made optional
   filename?: string;
   verse_timings: Array<{ verseId: string; startTime: number; endTime: number }>;
   tag_ids: string[];
@@ -48,7 +46,7 @@ function isBibleChapterJsonData(data: unknown): data is BibleChapterJsonData {
     typeof (data as any).end_verse_id === 'string' &&
     typeof (data as any).duration_seconds === 'number' &&
     typeof (data as any).audio_version_id === 'string'
-    // Note: project_id, verse_timings and tag_ids are optional and can be missing in tests
+    // Note: verse_timings and tag_ids are optional and can be missing in tests
   );
 }
 
@@ -104,7 +102,6 @@ export async function parseAndValidateBibleChapterRequest(
       start_verse_id: jsonData.start_verse_id,
       end_verse_id: jsonData.end_verse_id,
       duration_seconds: jsonData.duration_seconds,
-      project_id: jsonData.project_id,
       filename: jsonData.filename ?? 'bible_chapter.m4a',
       verse_timings: jsonData.verse_timings,
       tag_ids: jsonData.tag_ids,
@@ -148,7 +145,6 @@ export async function parseAndValidateBibleChapterRequest(
       start_verse_id: formData.get('start_verse_id') as string,
       end_verse_id: formData.get('end_verse_id') as string,
       duration_seconds: formData.get('duration_seconds') as string,
-      project_id: formData.get('project_id') as string,
       filename: file.name || 'unknown',
       verse_timings: verseTimings,
       tag_ids: tagIds,
@@ -188,7 +184,6 @@ export async function parseAndValidateBibleChapterRequest(
     endVerseId: uploadRequest.end_verse_id,
     durationSeconds,
     audioVersionId: uploadRequest.audio_version_id,
-    projectId: uploadRequest.project_id ?? undefined,
     verseTimings: uploadRequest.verse_timings ?? undefined,
     tagIds: uploadRequest.tag_ids ?? undefined,
   };
@@ -323,25 +318,6 @@ export async function validateBibleChapterUploadRequest(
     }
 
     console.log(`✅ Audio version validated: ${audioVersion.name}`);
-
-    // Validate project (if provided)
-    if (uploadRequest.projectId) {
-      const { data: project, error: projectError } = await supabaseClient
-        .from('projects')
-        .select('id, name')
-        .eq('id', uploadRequest.projectId)
-        .is('deleted_at', null)
-        .single();
-
-      if (projectError || !project) {
-        throw new Error(
-          projectError?.code === 'PGRST116'
-            ? 'Project not found or has been deleted'
-            : `Project validation failed: ${projectError?.message}`
-        );
-      }
-      console.log(`✅ Project validated: ${project.name}`);
-    }
 
     // Validate chapter
     const { data: chapter, error: chapterError } = await supabaseClient

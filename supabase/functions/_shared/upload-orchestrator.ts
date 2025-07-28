@@ -79,7 +79,8 @@ export class UploadOrchestrator {
       // Create media file record
       const mediaFile = await createBibleChapterMediaFile(supabaseClient, {
         languageEntityId: context.uploadRequest.languageEntityId,
-        projectId: context.uploadRequest.projectId,
+        audioVersionId: context.uploadRequest.audioVersionId,
+        chapterId: context.uploadRequest.chapterId,
         createdBy: context.publicUserId,
         fileSize: context.file.size,
         durationSeconds: context.uploadRequest.durationSeconds,
@@ -204,7 +205,8 @@ export class UploadOrchestrator {
       try {
         const mediaFile = await createBibleChapterMediaFile(supabaseClient, {
           languageEntityId: context.uploadRequest.languageEntityId,
-          projectId: context.uploadRequest.projectId,
+          audioVersionId: context.uploadRequest.audioVersionId,
+          chapterId: context.uploadRequest.chapterId,
           createdBy: context.publicUserId,
           fileSize: context.file.size,
           durationSeconds: context.uploadRequest.durationSeconds,
@@ -387,7 +389,6 @@ export class UploadOrchestrator {
       {
         'media-type': 'audio',
         'language-entity-id': uploadRequest.languageEntityId,
-        'project-id': uploadRequest.projectId ?? '',
         'chapter-id': uploadRequest.chapterId,
         'is-bible-audio': 'true',
         version: version.toString(),

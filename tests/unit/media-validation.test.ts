@@ -1,7 +1,6 @@
 import {
   validateUploadRequest,
   validateLanguageEntity,
-  validateProject,
   validateTargetId,
   VALID_MEDIA_TYPES,
   VALID_TARGET_TYPES,
@@ -55,7 +54,6 @@ describe('Media Validation', () => {
       fileName: 'test.mp3',
       mediaType: 'audio' as MediaType,
       languageEntityId: 'test-id',
-      projectId: 'project-id',
       targetType: 'chapter' as TargetType,
       targetId: 'target-id',
       isBibleAudio: false,
@@ -228,42 +226,9 @@ describe('Media Validation', () => {
     });
   });
 
-  describe('validateProject', () => {
-    it('should return project when found', async () => {
-      const mockData = { id: 'test-id', name: 'Test Project' };
-
-      mockSupabaseClient.from.mockReturnValueOnce({
-        select: jest.fn().mockReturnThis(),
-        eq: jest.fn().mockReturnThis(),
-        is: jest.fn().mockReturnThis(),
-        single: jest.fn().mockResolvedValue({ data: mockData, error: null }),
-      } as any);
-
-      const result = await validateProject(mockSupabaseClient, 'test-id');
-
-      expect(result).toEqual(mockData);
-      expect(mockSupabaseClient.from).toHaveBeenCalledWith('projects');
-    });
-
-    it('should throw error when project not found', async () => {
-      mockSupabaseClient.from.mockReturnValueOnce({
-        select: jest.fn().mockReturnThis(),
-        eq: jest.fn().mockReturnThis(),
-        is: jest.fn().mockReturnThis(),
-        single: jest
-          .fn()
-          .mockResolvedValue({ data: null, error: { code: 'PGRST116' } }),
-      } as any);
-
-      await expect(
-        validateProject(mockSupabaseClient, 'test-id')
-      ).rejects.toThrow('Project not found or has been deleted');
-    });
-  });
-
   describe('validateTargetId', () => {
     it('should return target when found in chapters table', async () => {
-      const mockData = { id: 'test-id' };
+      const mockData = { id: 'test-id', name: 'Test Project' };
 
       mockSupabaseClient.from.mockReturnValueOnce({
         select: jest.fn().mockReturnThis(),
