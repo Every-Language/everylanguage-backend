@@ -2,6 +2,12 @@ import { BiblePackageBuilder } from '../../supabase/functions/_shared/bible-pack
 import { BiblePackageSplitter } from '../../supabase/functions/_shared/bible-package-splitter';
 import type { PackageRequest } from '../../supabase/functions/_shared/bible-package-types';
 
+// Mock the B2 services to prevent authentication issues during testing
+jest.mock('../../supabase/functions/_shared/b2-auth-service');
+jest.mock('../../supabase/functions/_shared/b2-file-service');
+jest.mock('../../supabase/functions/_shared/b2-stream-service');
+jest.mock('../../supabase/functions/_shared/b2-storage-service');
+
 describe('Multi-Package System Integration', () => {
   let mockSupabaseClient: any;
 

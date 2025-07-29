@@ -33,6 +33,14 @@ jobs:
       - name: Type check
         run: npm run type-check
 
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Type check Edge Functions
+        run: npm run type-check:functions
+
       - name: Setup Supabase CLI
         uses: supabase/setup-cli@v1
         with:

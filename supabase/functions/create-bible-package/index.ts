@@ -3,10 +3,10 @@ import { BiblePackageBuilder } from '../_shared/bible-package-builder.ts';
 import { corsHeaders } from '../_shared/response-utils.ts';
 
 interface CreatePackageRequest {
-  packageType: 'audio' | 'text' | 'combined';
+  packageType?: 'audio' | 'text' | 'combined';
   audioVersionId?: string;
   textVersionId?: string;
-  languageEntityId: string;
+  languageEntityId?: string;
   options?: {
     includeStructure?: boolean;
     compressionLevel?: number;

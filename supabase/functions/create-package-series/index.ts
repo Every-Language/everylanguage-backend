@@ -3,11 +3,11 @@ import { BiblePackageBuilder } from '../_shared/bible-package-builder.ts';
 import { corsHeaders } from '../_shared/response-utils.ts';
 
 interface CreateSeriesRequest {
-  packageType: 'audio' | 'text' | 'combined';
+  packageType?: 'audio' | 'text' | 'combined';
   audioVersionId?: string;
   textVersionId?: string;
-  languageEntityId: string;
-  chunkingStrategy: 'size' | 'testament' | 'book_group' | 'custom';
+  languageEntityId?: string;
+  chunkingStrategy?: 'size' | 'testament' | 'book_group' | 'custom';
   maxSizePerPackageMB?: number;
   customChunks?: {
     startBook: string;
@@ -168,17 +168,17 @@ Deno.serve(async (req: Request) => {
         seriesId: result.manifest.packageId,
         seriesName: result.manifest.packageId,
         totalParts: 1,
-        estimatedTotalSizeMB: result.sizeInBytes! / (1024 * 1024),
+        estimatedTotalSizeMB: (result.sizeInBytes ?? 0) / (1024 * 1024),
         packages: [
           {
             partNumber: 1,
-            packageId: result.manifest.packageId,
+            packageId: result.manifest.packageId || '',
             contentRange: {
-              startBook: result.manifest.includesBooks?.[0] || 'gen',
-              endBook: result.manifest.includesBooks?.slice(-1)[0] || 'rev',
+              startBook: result.manifest.includesBooks[0] || 'gen',
+              endBook: result.manifest.includesBooks.slice(-1)[0] || 'rev',
               description: 'Complete Bible',
             },
-            estimatedSizeMB: result.sizeInBytes! / (1024 * 1024),
+            estimatedSizeMB: (result.sizeInBytes ?? 0) / (1024 * 1024),
           },
         ],
       };

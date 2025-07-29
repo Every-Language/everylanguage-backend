@@ -1,19 +1,101 @@
 import { BiblePackageBuilder } from '../../supabase/functions/_shared/bible-package-builder';
 import type { PackageRequest } from '../../supabase/functions/_shared/bible-package-types';
 
+// Mock the B2 services to prevent authentication issues during testing
+jest.mock('../../supabase/functions/_shared/b2-auth-service');
+jest.mock('../../supabase/functions/_shared/b2-file-service');
+jest.mock('../../supabase/functions/_shared/b2-stream-service');
+jest.mock('../../supabase/functions/_shared/b2-storage-service');
+
 describe('BiblePackageBuilder', () => {
   let builder: BiblePackageBuilder;
   let mockSupabaseClient: any;
 
   beforeEach(() => {
+    // Reset mocks
+    jest.clearAllMocks();
+
     mockSupabaseClient = {
-      from: jest.fn(() => ({
-        select: jest.fn(() => ({
-          eq: jest.fn(() => ({
-            single: jest.fn(),
+      from: jest.fn((table: string) => {
+        // Mock language_entities table queries
+        if (table === 'language_entities') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                single: jest.fn(() => ({
+                  data: { id: 'english', name: 'English', level: 'language' },
+                })),
+                is: jest.fn(() => ({
+                  single: jest.fn(() => ({
+                    data: { id: 'english', name: 'English', level: 'language' },
+                  })),
+                })),
+              })),
+            })),
+          };
+        }
+
+        // Mock audio_versions table queries
+        if (table === 'audio_versions') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                single: jest.fn(() => ({
+                  data: {
+                    id: 'test-audio-version',
+                    name: 'Test Audio',
+                    language_entity_id: 'english',
+                  },
+                })),
+                is: jest.fn(() => ({
+                  single: jest.fn(() => ({
+                    data: {
+                      id: 'test-audio-version',
+                      name: 'Test Audio',
+                      language_entity_id: 'english',
+                    },
+                  })),
+                })),
+              })),
+            })),
+          };
+        }
+
+        // Mock text_versions table queries
+        if (table === 'text_versions') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                single: jest.fn(() => ({
+                  data: {
+                    id: 'test-text-version',
+                    name: 'Test Text',
+                    language_entity_id: 'english',
+                  },
+                })),
+                is: jest.fn(() => ({
+                  single: jest.fn(() => ({
+                    data: {
+                      id: 'test-text-version',
+                      name: 'Test Text',
+                      language_entity_id: 'english',
+                    },
+                  })),
+                })),
+              })),
+            })),
+          };
+        }
+
+        // Default mock for other tables
+        return {
+          select: jest.fn(() => ({
+            eq: jest.fn(() => ({
+              single: jest.fn(() => ({ data: null })),
+            })),
           })),
-        })),
-      })),
+        };
+      }),
     };
     builder = new BiblePackageBuilder(mockSupabaseClient);
   });
@@ -133,12 +215,16 @@ describe('BiblePackageBuilder', () => {
         manifest: { packageId: 'single-package' },
         sizeInBytes: 3,
       });
+      const buildChunkedSeriesSpy = jest.spyOn(
+        builder as any,
+        'buildChunkedSeries'
+      );
 
       const result = await builder.build(request);
 
       expect(result.packageBuffer).toBeDefined();
       expect(result.packages).toBeUndefined();
-      expect((builder as any).buildChunkedSeries).not.toHaveBeenCalled();
+      expect(buildChunkedSeriesSpy).not.toHaveBeenCalled();
     });
   });
 

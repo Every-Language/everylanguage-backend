@@ -13,6 +13,10 @@ export default {
       },
     ],
   },
+  moduleNameMapper: {
+    '^https://deno\\.land/std@[^/]+/crypto/mod\\.ts$':
+      '<rootDir>/tests/__mocks__/deno-crypto.ts',
+  },
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
   collectCoverageFrom: [
     'supabase/functions/**/*.ts',

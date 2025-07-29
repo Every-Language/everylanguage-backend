@@ -122,20 +122,20 @@ Deno.serve(async (req: Request) => {
 
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
-      const metadataObj = metadata[i];
+      const metadataObj = metadata[i] as any; // Support both camelCase and snake_case for backward compatibility
 
       // Normalize metadata format (support both camelCase and snake_case)
       const uploadRequest: BibleChapterUploadRequest = {
-        fileName: (metadataObj.fileName || metadataObj.filename) ?? file.name,
+        fileName: metadataObj.fileName ?? metadataObj.filename ?? file.name,
         languageEntityId:
-          metadataObj.languageEntityId || metadataObj.language_entity_id,
-        chapterId: metadataObj.chapterId || metadataObj.chapter_id,
-        startVerseId: metadataObj.startVerseId || metadataObj.start_verse_id,
-        endVerseId: metadataObj.endVerseId || metadataObj.end_verse_id,
+          metadataObj.languageEntityId ?? metadataObj.language_entity_id,
+        chapterId: metadataObj.chapterId ?? metadataObj.chapter_id,
+        startVerseId: metadataObj.startVerseId ?? metadataObj.start_verse_id,
+        endVerseId: metadataObj.endVerseId ?? metadataObj.end_verse_id,
         durationSeconds:
-          metadataObj.durationSeconds || metadataObj.duration_seconds,
+          metadataObj.durationSeconds ?? metadataObj.duration_seconds,
         audioVersionId:
-          metadataObj.audioVersionId || metadataObj.audio_version_id,
+          metadataObj.audioVersionId ?? metadataObj.audio_version_id,
         verseTimings: metadataObj.verseTimings ?? metadataObj.verse_timings,
         tagIds: metadataObj.tagIds ?? metadataObj.tag_ids,
       };
@@ -248,7 +248,7 @@ Deno.serve(async (req: Request) => {
 
     // Start background processing (no await - fire and forget)
     if (pendingUploads.length > 0) {
-      processUploadsInBackground(
+      void processUploadsInBackground(
         supabaseClient,
         publicUserId,
         pendingUploads,

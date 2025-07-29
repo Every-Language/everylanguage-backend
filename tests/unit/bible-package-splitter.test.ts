@@ -7,37 +7,110 @@ describe('BiblePackageSplitter', () => {
 
   beforeEach(() => {
     mockSupabaseClient = {
-      from: jest.fn(() => ({
-        select: jest.fn(() => ({
-          eq: jest.fn(() => ({
-            single: jest.fn(),
+      from: jest.fn((table: string) => {
+        if (table === 'audio_versions') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                single: jest.fn(() => ({
+                  data: {
+                    bible_version_id: 'test-bible-version',
+                    name: 'Test Audio Version',
+                  },
+                })),
+              })),
+            })),
+          };
+        }
+        if (table === 'text_versions') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                single: jest.fn(() => ({
+                  data: {
+                    bible_version_id: 'test-bible-version',
+                    name: 'Test Text Version',
+                  },
+                })),
+              })),
+            })),
+          };
+        }
+        if (table === 'books') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                order: jest.fn(() => ({
+                  data: [
+                    {
+                      id: 'gen',
+                      name: 'Genesis',
+                      osis_id: 'gen',
+                      book_number: 1,
+                    },
+                    {
+                      id: 'exo',
+                      name: 'Exodus',
+                      osis_id: 'exo',
+                      book_number: 2,
+                    },
+                    {
+                      id: 'mal',
+                      name: 'Malachi',
+                      osis_id: 'mal',
+                      book_number: 39,
+                    },
+                    {
+                      id: 'mat',
+                      name: 'Matthew',
+                      osis_id: 'mat',
+                      book_number: 40,
+                    },
+                    {
+                      id: 'rev',
+                      name: 'Revelation',
+                      osis_id: 'rev',
+                      book_number: 66,
+                    },
+                  ],
+                })),
+              })),
+            })),
+          };
+        }
+        if (table === 'media_files') {
+          return {
+            select: jest.fn(() => ({
+              eq: jest.fn(() => ({
+                like: jest.fn(() => ({
+                  data: [
+                    { file_size: 1024 * 1024 * 50 }, // 50MB
+                    { file_size: 1024 * 1024 * 30 }, // 30MB
+                  ],
+                })),
+              })),
+            })),
+          };
+        }
+        return {
+          select: jest.fn(() => ({
+            eq: jest.fn(() => ({
+              single: jest.fn(() => ({ data: null })),
+              order: jest.fn(() => ({ data: [] })),
+              like: jest.fn(() => ({ data: [] })),
+            })),
+            like: jest.fn(() => ({ data: [] })),
             order: jest.fn(() => ({ data: [] })),
           })),
-          like: jest.fn(() => ({ data: [] })),
-          order: jest.fn(() => ({ data: [] })),
-        })),
-      })),
+        };
+      }),
     };
     splitter = new BiblePackageSplitter(mockSupabaseClient);
   });
 
   describe('Testament-Based Chunking', () => {
     it('should create Old Testament and New Testament chunks', async () => {
-      // Mock version name
-      mockSupabaseClient.from = jest.fn((table: string) => {
-        if (table === 'audio_versions') {
-          return {
-            select: jest.fn(() => ({
-              eq: jest.fn(() => ({
-                single: jest.fn(() => ({
-                  data: { name: 'NIV English Audio' },
-                })),
-              })),
-            })),
-          };
-        }
-        return { select: jest.fn(() => ({ eq: jest.fn(), like: jest.fn() })) };
-      });
+      // Remove the duplicate mock - already handled in beforeEach
 
       const request: PackageRequest = {
         packageType: 'audio',
@@ -50,7 +123,7 @@ describe('BiblePackageSplitter', () => {
       const plan = await splitter.createChunkingPlan(request);
 
       expect(plan.seriesId).toContain('testament-split');
-      expect(plan.seriesName).toBe('NIV English Audio (Testament Split)');
+      expect(plan.seriesName).toBe('Test Audio Version (Testament Split)');
       expect(plan.chunks).toHaveLength(2);
 
       expect(plan.chunks[0]).toMatchObject({
@@ -69,21 +142,6 @@ describe('BiblePackageSplitter', () => {
 
   describe('Custom Chunking', () => {
     it('should create custom chunks based on specified range', async () => {
-      mockSupabaseClient.from = jest.fn((table: string) => {
-        if (table === 'audio_versions') {
-          return {
-            select: jest.fn(() => ({
-              eq: jest.fn(() => ({
-                single: jest.fn(() => ({
-                  data: { name: 'Custom Audio Bible' },
-                })),
-              })),
-            })),
-          };
-        }
-        return { select: jest.fn(() => ({ eq: jest.fn(), like: jest.fn() })) };
-      });
-
       const request: PackageRequest = {
         packageType: 'audio',
         audioVersionId: 'test-audio-version',

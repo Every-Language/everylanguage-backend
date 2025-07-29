@@ -109,7 +109,11 @@ export async function parseImageUploadRequest(
   } else {
     // Parse multipart form data
     const formData = await req.formData();
-    file = formData.get('file') as File;
+    const fileEntry = formData.get('file');
+    if (!fileEntry || !(fileEntry instanceof File)) {
+      throw new Error('No file provided or invalid file type');
+    }
+    file = fileEntry;
 
     // Parse metadata if provided
     const metadataJson = formData.get('metadata') as string;
@@ -124,24 +128,22 @@ export async function parseImageUploadRequest(
 
     // Extract filename with robust fallback strategy
     let filename = 'unknown';
-    if (file) {
-      // Primary: Use file.name if available and valid
-      if (file.name && file.name !== '' && file.name !== 'blob') {
-        filename = file.name;
+    // Primary: Use file.name if available and valid
+    if (file.name && file.name !== '' && file.name !== 'blob') {
+      filename = file.name;
+    }
+    // Fallback: Check if filename exists in file properties using Object.getOwnPropertyNames
+    else {
+      const fileProps = Object.getOwnPropertyNames(file);
+      if (fileProps.includes('name') && (file as any).name) {
+        filename = (file as any).name;
       }
-      // Fallback: Check if filename exists in file properties using Object.getOwnPropertyNames
+      // Last resort: Try to extract from FormData iteration
       else {
-        const fileProps = Object.getOwnPropertyNames(file);
-        if (fileProps.includes('name') && (file as any).name) {
-          filename = (file as any).name;
-        }
-        // Last resort: Try to extract from FormData iteration
-        else {
-          for (const [key, value] of formData.entries()) {
-            if (key === 'file' && value instanceof File && value.name) {
-              filename = value.name;
-              break;
-            }
+        for (const [key, value] of formData.entries()) {
+          if (key === 'file' && value instanceof File && value.name) {
+            filename = value.name;
+            break;
           }
         }
       }
@@ -157,10 +159,6 @@ export async function parseImageUploadRequest(
       createNewSet: formData.get('create_new_set') === 'true',
       metadata,
     };
-  }
-
-  if (!file) {
-    throw new Error('No file provided');
   }
 
   // Create validated upload request
