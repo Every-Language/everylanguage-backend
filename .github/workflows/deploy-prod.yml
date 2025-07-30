@@ -19,7 +19,7 @@ jobs:
           version: latest
 
       - name: Link to Supabase Production project
-        run: supabase link --project-ref ${{ secrets.SUPABASE_PROD_PROJECT_REF }}
+        run: supabase link --project-ref ${{ secrets.SUPABASE_PROD_PROJECT_REF }} --password ${{ secrets.SUPABASE_PROD_DB_PASSWORD }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
