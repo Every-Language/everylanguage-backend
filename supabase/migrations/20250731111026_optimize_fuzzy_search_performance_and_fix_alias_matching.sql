@@ -6,6 +6,17 @@
 -- 4. Streamlined query structure (performance)
 -- ============================================================================
 -- ============================================================================
+-- DROP CURRENT FUNCTION SIGNATURES (REQUIRED TO CHANGE RETURN TYPE)
+-- ============================================================================
+-- Drop current language search function with metadata columns
+DROP FUNCTION if EXISTS search_language_aliases (TEXT, INTEGER, DOUBLE PRECISION, BOOLEAN);
+
+
+-- Drop current region search function with metadata columns  
+DROP FUNCTION if EXISTS search_region_aliases (TEXT, INTEGER, DOUBLE PRECISION, BOOLEAN);
+
+
+-- ============================================================================
 -- HIGHLY OPTIMIZED LANGUAGE SEARCH FUNCTION
 -- ============================================================================
 CREATE OR REPLACE FUNCTION search_language_aliases (
