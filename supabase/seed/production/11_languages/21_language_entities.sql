@@ -10,138 +10,138 @@ INSERT INTO
   )
 VALUES
   (
-    'a8249ff9-0872-4156-bdae-171235eb2b52',
+    '684f63e8-4c02-4538-8e48-1e597612fe4d',
     'Mo: Longoro',
     'dialect',
-    'd6fd6c9e-25bc-48fc-9ffb-d87da748c404',
+    '58abea6b-c4ee-4f34-93dc-3820c39f0afd',
     NOW(),
     NOW()
   ),
   (
-    'b2435b32-3734-4f43-96db-4bcc811949e0',
+    'f2ead2db-5942-426b-bd38-f0fe7f696406',
     'Dinka: Malual',
     'dialect',
-    '2b9fd59c-6bc0-4f1b-9bc2-c31b25ce06f5',
+    'e4eb7f98-bf83-4105-bd4a-4044b760617b',
     NOW(),
     NOW()
   ),
   (
-    '4d502c28-b67c-454c-8dd5-71196cdc035b',
+    '4f1f190c-0dec-433e-b7bf-008160013b90',
     'Katcha-Kadugli-Miri: Miri',
     'dialect',
-    '9684a97b-81e7-4f1c-ab5c-33f5182ae2c3',
+    '0847abb0-2047-452d-b0be-55f1f4739f8d',
     NOW(),
     NOW()
   ),
   (
-    'db3e4ea6-0d45-413a-9291-f1ad74efb74f',
+    'c4744bcc-8d97-46fa-ba4f-ef2d425625cc',
     'Bangla',
     'dialect',
-    '5dfdf73c-3cfb-4e9d-a247-42c8d5d50e4b',
+    'd315d70a-8d48-40ff-8412-e5d1177e89c9',
     NOW(),
     NOW()
   ),
   (
-    '99f8a5f1-7486-480f-8ec6-e50055c81090',
+    'db6e05f7-1496-4d49-b465-2a959a0a88b4',
     'Bhadrawahi: Bhalesi',
     'dialect',
-    'c24f5386-b704-4c4c-abb6-f8e5a85979f9',
+    'd4369355-126f-49b3-9f9e-c446680e81df',
     NOW(),
     NOW()
   ),
   (
-    '983bf626-a955-45ff-abd4-9098ebc701fb',
+    'df23477f-07e3-4cf1-8d3c-cc6e87d2a85d',
     'Okinawan, Central: Torishima',
     'dialect',
-    '214dfcf5-c84f-4470-abd7-b1e553f41c07',
+    '3266e418-957e-464d-8fa0-74cf88bc45a2',
     NOW(),
     NOW()
   ),
   (
-    '83c44552-7c00-4f8c-9d4f-da728dc8c248',
+    '575c1a2f-89a0-4e2c-b00f-52b7a3a8725d',
     'Tanna',
     'dialect',
-    'ec7fb4ba-ba48-45ba-a68d-f380069025b9',
+    'cb82241d-8655-45c1-84ad-306db8904e62',
     NOW(),
     NOW()
   ),
   (
-    'ca0034b4-da76-41b4-98b0-e5b9616ee516',
+    'ca8a794d-330a-4811-8129-c52aa7e4a04c',
     'Kukele: Iteeji',
     'dialect',
-    'a79d12e7-84cb-4865-bbce-4791f1ab3653',
+    '302fe973-a3ad-4614-af4d-1930dffad67d',
     NOW(),
     NOW()
   ),
   (
-    'a4910fe3-3e29-4413-9e9d-19ac2a7ec9ca',
+    '6128e76b-d7e5-45c9-8682-55877e6c0704',
     'Me''faa, Acatepec: Zapotitlan',
     'dialect',
-    '9bc4189b-3caf-4984-b63c-46959b544e3b',
+    'fd456750-8652-4d74-93a4-b284652f5097',
     NOW(),
     NOW()
   ),
   (
-    '7b8eb139-b224-4ab7-ae01-74619d71d164',
+    'eed7301e-bb46-45c7-a1ce-ebae91fd4864',
     'Amuku',
     'dialect',
-    'e6d43642-2d0e-4d88-acbc-71a0deff79db',
+    '6f9f1a93-c3fd-4bdc-b04f-5ffcb0a697e3',
     NOW(),
     NOW()
   ),
   (
-    '4438a199-fab1-41d5-803d-c83f147e5ed9',
+    '3932577a-e50b-4c30-950e-55756fceae95',
     'Lori, Southern: Boyerahmadi',
     'dialect',
-    '6b2ec793-d7f7-4935-9c5f-03138bdaee4d',
+    '8e9b9a10-4585-4f3d-a7a3-13bd2db38bb1',
     NOW(),
     NOW()
   ),
   (
-    '92280d5d-25c1-4521-aa88-45bf848e94a2',
+    '7154e713-7cd0-42b8-8434-1443a38cd6c8',
     'Romany: South German',
     'dialect',
-    'a39d42eb-c356-40f9-a32a-a65c433459a2',
+    '59a6252f-3a1f-4949-9494-f4a333df6585',
     NOW(),
     NOW()
   ),
   (
-    '7a0523d0-1056-4bfc-8e1f-f12986b7d15e',
+    '535e6e3c-1b3c-4a0e-b616-f4c9945f0bb7',
     'Boko: Illo Busa',
     'dialect',
-    'e88fed27-ae7f-4ab5-9a55-1ca364984024',
+    '5b0239b5-105b-4bb6-ad2f-4f659a71177a',
     NOW(),
     NOW()
   ),
   (
-    '11080f5e-6d96-40d8-b815-a82f7716f18d',
+    '433f644f-b794-409d-9a02-65e166c366fc',
     'Kuninjku',
     'dialect',
-    '85df7c95-4d99-4c4f-adb1-732501ecc9e6',
+    'a2c4dd43-d317-4c1b-a526-28c8614b3983',
     NOW(),
     NOW()
   ),
   (
-    '98a98374-ef8c-4b7a-a1e1-be8320f17fc4',
+    '4fbd1640-0b40-4faf-a63e-b61e5a3086c9',
     'Ng''akarimojong: Napore',
     'dialect',
-    'fc40a7a6-5113-48f9-9928-a158e6e142d9',
+    '16a67340-40f3-48dd-82b6-c41b818553f9',
     NOW(),
     NOW()
   ),
   (
-    '6f888b2c-89e4-45e0-9de4-c016a814a5cd',
+    '043973df-143d-48b5-a7e5-6de69cbb70db',
     'Mada: Rija',
     'dialect',
-    '2763ad82-1599-4881-a678-ace5da064d9e',
+    '9405ee50-77df-4829-b57d-f076e2914560',
     NOW(),
     NOW()
   ),
   (
-    'b21efcda-290c-44b3-8e38-0702e0c4439d',
+    'c06b43b7-643f-40b7-8c3e-cfdb4e7cf6c6',
     'Rawa: Karo',
     'dialect',
-    'b0e4c113-5a2e-4f3c-9923-b407115d09b7',
+    '635f591a-d933-456e-b879-954122dac843',
     NOW(),
     NOW()
   )

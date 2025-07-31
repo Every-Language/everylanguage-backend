@@ -10,8002 +10,8002 @@ INSERT INTO
   )
 VALUES
   (
-    'c542551e-b593-48c8-be97-b61eac808f8e',
+    '0eaf875c-bbd1-4b04-ab89-3ccc5e66bf32',
     'Iguta: Andigwong',
     'dialect',
-    '53a4bff0-5ebc-4385-843d-b8f68c3141a4',
+    'be7b952c-c771-4713-b301-7f5fef799f52',
     NOW(),
     NOW()
   ),
   (
-    '47d6d10d-e586-42af-b97e-bff12245c0ec',
+    'e6191797-9ca4-44ed-acc2-5988bf1843c6',
     'Loraming',
     'dialect',
-    'd15ae242-e63d-4341-ae5f-84468333bc8c',
+    'babda048-0e0d-4897-8cf1-530b85af93ad',
     NOW(),
     NOW()
   ),
   (
-    'c91c2f42-98ea-47c1-8a3f-a9f3a08a0313',
+    '22b25594-6e69-44c4-ab00-2e75b052ace7',
     'Mumuye: Shaari',
     'dialect',
-    'd2915650-30ea-459a-83ca-5e69d63b6178',
+    '4096defe-a0b6-426c-af7d-4217a54b6be3',
     NOW(),
     NOW()
   ),
   (
-    '659f3aaa-3c41-4311-be31-7a4b93e3d2ba',
+    'c2af9fe2-7e5d-44d8-9f17-691623d51b6c',
     'Gen: Gliji',
     'dialect',
-    '4eeabc11-bde4-486c-83b4-2bb599d1568c',
+    '5238b33c-fd2c-4984-a72a-a2bd0a1b90d6',
     NOW(),
     NOW()
   ),
   (
-    '63bae104-a5c4-4f9e-a9a4-9d7c841a0ced',
+    'e2dd1261-6456-4124-bac3-75304a7f25f8',
     'Konkani: Kunbi',
     'dialect',
-    '4bb144b1-a6ac-47b8-ba74-2507d7dbcedd',
+    '398932b3-5da7-4003-bf18-25089dd489aa',
     NOW(),
     NOW()
   ),
   (
-    'b0448eb9-c96e-440d-bc6d-fd745cd61461',
+    '37a09dca-5de6-4331-b081-01e11995b526',
     'Bobo Madare, Southern: Sogokiré',
     'dialect',
-    '638a6170-1fbe-4564-a517-2c26719dfbfd',
+    'fbdc907f-17ee-482c-83ac-f6a1f98c48a3',
     NOW(),
     NOW()
   ),
   (
-    'c52fbad5-da89-4094-9354-178e69826d22',
+    '1375113e-c172-4a32-9ed1-18f850057878',
     'Jibbali: Central Jibbali',
     'dialect',
-    '833a9386-6b85-4094-a4ec-16f84ff57442',
+    '6895d11e-d3e7-4993-942e-34d1e5d15fe3',
     NOW(),
     NOW()
   ),
   (
-    'fbb6119c-b9f3-4700-811d-ae9496306a15',
+    'c8816eeb-a4d0-4f9b-800c-2040df8b54a3',
     'Jola-Fogny: Buluf',
     'dialect',
-    '046eff8b-3f7e-4842-887a-5362a4d079cf',
+    '7c16f57d-e0b9-4a9d-970f-1c47695a9f96',
     NOW(),
     NOW()
   ),
   (
-    '7c6635f5-fdf2-40fe-99cb-8e971eb978a1',
+    '1a3cf452-57fb-4f9d-aff9-c8f21eb7fa8c',
     'Keoru-Ahia: Keoru',
     'dialect',
-    '94e5dea6-92d8-47a7-a179-f255d7fb1376',
+    '0aec5544-121e-48a1-b863-3d13ab64dc37',
     NOW(),
     NOW()
   ),
   (
-    '798aa35f-81fd-4916-824e-2264c1631cf2',
+    'a30ef732-4045-4361-9487-64f44075bfb2',
     'Namosi-Naitasiri-Serua: Serua',
     'dialect',
-    '9361c79b-bce6-42d8-b59f-58bad00a4c91',
+    '2a7b8a3a-bbfe-4671-9233-618a84f0835c',
     NOW(),
     NOW()
   ),
   (
-    'ea1de96c-e928-445d-950f-cfdc151c8960',
+    'ffb6ca95-f8f9-436c-b532-baf1ec4a1117',
     'Qiang, Southern: Heihu',
     'dialect',
-    '2d6f6109-39bc-4ea8-80e2-79582f38cf0a',
+    '47f45062-92fb-4edd-9980-e8271eaad4ff',
     NOW(),
     NOW()
   ),
   (
-    '582c6a42-510f-4025-aa00-83f92dd75962',
+    '2a4e7283-f42a-4a26-a30d-07979df819af',
     'Malto: Paharia',
     'dialect',
-    '3ad4c1f2-25a3-482c-91c6-dabe51caf61b',
+    '641096d4-b2b2-4c07-a88b-15f04359741f',
     NOW(),
     NOW()
   ),
   (
-    '2e91b2bf-5f1f-4263-a06d-4333e2e04698',
+    '3b479df8-b7d8-4998-8db1-61f0db09a358',
     'Piedmontese: Low',
     'dialect',
-    'badfc4a8-358f-4eb4-a1be-1c2f6c37faed',
+    'ee87d62d-6c4a-4231-91f1-0aae84fec6c4',
     NOW(),
     NOW()
   ),
   (
-    '965e0406-80c3-4e7d-be1d-cce9e2c4feab',
+    'e1f907f9-500b-4323-baee-82e5a0079b41',
     'Guarani, Eastern Bolivian: Izoceno',
     'dialect',
-    '56edd76a-772d-472d-bda9-471d3d13f3d0',
+    '21aaeadb-bbfb-4525-805b-882959a0b7a4',
     NOW(),
     NOW()
   ),
   (
-    '92f18bed-d227-42ec-83b5-cba19252404e',
+    '2cf38358-ff79-4e0c-b591-668209dd8a06',
     'Ligenza: Bokoy',
     'dialect',
-    '385da867-b5ea-4e04-a5f5-fde5830167c1',
+    '404c1f69-97be-4aa8-be78-4eed9215ca27',
     NOW(),
     NOW()
   ),
   (
-    'bd86de1c-eded-43bb-afd7-e5160ab62577',
+    'a381e750-96ce-43f2-adb8-b7e66185655f',
     'Romani, Vlax: Ukrainian',
     'dialect',
-    '0c0215ca-f61e-4f2c-8fbe-ae49dcb0d4f0',
+    '0962dd7c-86ce-4645-a971-7b0c14c3607a',
     NOW(),
     NOW()
   ),
   (
-    '26737aef-68f3-4440-a9f1-529b17240a06',
+    '483294cc-b22b-4463-ac4e-165040c56f41',
     'Ligenza: Elowa',
     'dialect',
-    '385da867-b5ea-4e04-a5f5-fde5830167c1',
+    '404c1f69-97be-4aa8-be78-4eed9215ca27',
     NOW(),
     NOW()
   ),
   (
-    '3bdf992e-19fe-4e57-a90a-513c8817ffa3',
+    '35f15683-f4c3-4652-bdca-c4fb4b798171',
     'Urdu: Dakhini',
     'dialect',
-    '06c410d2-dcbc-4817-9bc8-ae37c6f56645',
+    '240c340b-c688-4345-ac17-101ef4eb164e',
     NOW(),
     NOW()
   ),
   (
-    '52657d0f-1302-4596-8f53-92daac03eff6',
+    '2b9d2833-603b-4760-9056-b19d4f75ab18',
     'Hindi: Dehati',
     'dialect',
-    '798e1f18-5704-45e8-a60f-6580cc0f4ac3',
+    '5cdad1a9-b1e9-4def-9b1e-d41af98981a6',
     NOW(),
     NOW()
   ),
   (
-    '849aaa57-a560-4c6c-b579-14c696db572b',
+    'b3257f9d-4d47-4fd7-8eb0-1edd11839400',
     'Berawan, Central: Batu Belah',
     'dialect',
-    '0af48332-3745-4bb5-8ce0-06371cef8189',
+    'd1863695-d26d-470f-bc68-6c0cd2576857',
     NOW(),
     NOW()
   ),
   (
-    '8fa7d5d2-2693-48de-9df5-7a2cf0c2562d',
+    'ac5aca17-7783-42cc-9272-addfc02f8b81',
     'Molima: Tola''ai',
     'dialect',
-    'e53666e1-9238-4fe7-b193-1354cb624391',
+    '31f94ce2-03c4-44d3-a77b-a7a644ec8410',
     NOW(),
     NOW()
   ),
   (
-    '90383d74-7580-4391-a88a-dae30bab16b3',
+    'c4be570e-4983-4f42-b255-d2c911985a53',
     'Evenki: Ilimpeya',
     'dialect',
-    'b56de074-192d-4fb7-b639-23f84ed48b5e',
+    'c5ec4114-4fc9-4dbc-b09c-e672aa8d6d4a',
     NOW(),
     NOW()
   ),
   (
-    'dfe10ed6-8e8a-4076-a2c4-b3df483c9665',
+    'e7789813-4459-41ea-ac0a-33bbf9acf38a',
     'Sisaala, Tumulung: Nsihaa',
     'dialect',
-    'ea51b2b4-9778-44ce-bc73-aa79fe0df63c',
+    'df6a6221-0bd1-4784-8371-dd8c1b962e8b',
     NOW(),
     NOW()
   ),
   (
-    '9de631f8-05a2-4bc6-97e6-e05000b71537',
+    '92c0704d-5206-41ba-81f4-c928cc41b222',
     'Quechua, Ancash, Huaylas: Yungay',
     'dialect',
-    '4cefc2f0-e9ac-452e-9863-1ef8b789087a',
+    '03dbf740-4545-4a08-ad8d-e72af49c1623',
     NOW(),
     NOW()
   ),
   (
-    '4ee22e37-f279-4895-a670-70c513bed1f8',
+    'ff03aace-6992-4a64-83a7-53e22fc0fafe',
     'Azerbaijani, South: Nafar',
     'dialect',
-    '501ef89c-4a5a-4001-ac25-5e42d5c07361',
+    'c623203b-8a1d-4502-86f3-7109d52ee8c4',
     NOW(),
     NOW()
   ),
   (
-    'cc3c86de-c341-48b7-af6b-5c11a8ffaed7',
+    'df48b16f-7de9-48b5-9050-b5186fc098e9',
     'Izon: West Tarakiri',
     'dialect',
-    'e985cdf2-383a-4f7a-9358-4ad0a7de1dab',
+    '370e7c61-56d9-4975-9689-70bcde90777a',
     NOW(),
     NOW()
   ),
   (
-    '51fc484d-8477-4f0e-bc24-b3c697424d89',
+    '86b712fe-8bf0-48c5-bdfc-9bcdd2c36e41',
     'Kimbuti',
     'dialect',
-    'bd62f0be-01a2-41f3-a32e-13ff5afe617f',
+    '8df7ee33-6647-4077-8b1b-87381ef23aff',
     NOW(),
     NOW()
   ),
   (
-    'f6bf46ee-a80d-4246-b039-31786956f206',
+    '1f30fe6a-459b-4488-966d-0615b8291907',
     'Urim: Yangkolen (Main Dialect)',
     'dialect',
-    'de0b2081-ee79-47db-a326-d9d26e31cdd1',
+    '09d39020-939b-45be-adc2-cf03d10c7775',
     NOW(),
     NOW()
   ),
   (
-    'c90df1ed-92cb-4634-a861-ffcdcc64cce2',
+    '9252c932-d272-4784-b372-e54c38155680',
     'Iguta: Andirigizah',
     'dialect',
-    '53a4bff0-5ebc-4385-843d-b8f68c3141a4',
+    'be7b952c-c771-4713-b301-7f5fef799f52',
     NOW(),
     NOW()
   ),
   (
-    'cd5d99a8-db69-4337-924e-b9764da90836',
+    '3081c2c8-2234-4576-89db-5f105ca97832',
     'Peve: Dari',
     'dialect',
-    'd712ad3c-0727-48d9-bdd7-2dd843ab094b',
+    '92826d4c-cf10-40ab-83f8-a6bd0c1a9b3b',
     NOW(),
     NOW()
   ),
   (
-    'f3d98f98-4e8e-4a85-8b25-bed860268497',
+    '28f21f4f-db9e-4bfe-9637-0fc171158d90',
     'Kove: West',
     'dialect',
-    'b3bb2f0d-6efc-4d6b-8ca6-cce23147ce03',
+    '81e2d522-f319-44d2-be8b-3e71e87c48cf',
     NOW(),
     NOW()
   ),
   (
-    '3f3146f2-6e89-4e00-ba4f-b8cda94c3eec',
+    '3d1f3e3e-1d52-4533-937c-2ef9c1443841',
     'Bauchi: Madaka',
     'dialect',
-    '70ba340e-8dc1-4823-8a37-298d9837bbaa',
+    'e9d8a9db-dcb4-4bf8-a9b3-7efe82f114d8',
     NOW(),
     NOW()
   ),
   (
-    'af4d6d04-1ac4-4599-b6bd-07efd927bb85',
+    '54a679d5-8908-4e03-ba82-85ec6d48858f',
     'Telugu: Pichiguntala',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '2e9f418c-5f8f-4b47-8d1d-99d72eb2d470',
+    '73aa6a87-8c29-4553-b062-8554354dd32f',
     'Nyakyusa Ngonde: Kukwe',
     'dialect',
-    'e1d0a69a-8233-4ae3-882a-1bd778328d92',
+    'a81bb9af-0e03-4629-9742-9622b7e1ed84',
     NOW(),
     NOW()
   ),
   (
-    '8e930ee5-6fb4-4b47-864a-31a3dab43bac',
+    'f30e458f-b355-4c3d-ab76-6ff4cfe0e013',
     'Chiquitano: Lomerio',
     'dialect',
-    '946fdc05-3094-41e7-8bd6-0ce14e39520b',
+    '0f160d33-57d7-4e39-9344-571090767dd4',
     NOW(),
     NOW()
   ),
   (
-    'd75c3373-0e5f-4ae6-a730-3bff1e4cabb3',
+    '0fe6f01b-dfc8-4bc6-8073-82eb37a89a90',
     'Abkhaz: Sadz',
     'dialect',
-    'a097cad1-638c-4528-9835-58ee8ac3f52b',
+    '02e8c2be-18f7-4a0c-976a-c82386885da8',
     NOW(),
     NOW()
   ),
   (
-    'a11b4c75-0aae-4d0e-b0ab-6315a32d79d1',
+    '3e5c06ef-6f40-465b-8178-8810bf236e4b',
     'Vitu: Bali',
     'dialect',
-    '29a4c611-44fa-4923-b834-2b491d519f94',
+    'd6c8b8ae-7c87-4e04-ba72-f799b665432b',
     NOW(),
     NOW()
   ),
   (
-    '49f5624d-c691-4a93-a8e0-13ab221ebca6',
+    'f8d72380-a892-417e-9aae-e13b164f1259',
     'Wa, Paaruk: Nom Tum',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'fef30b78-98a1-4f9b-ae19-8c3e50808338',
+    '27491ab2-e902-437a-95eb-db984022d445',
     'Folopa: Kewah',
     'dialect',
-    'e1b4a99f-801f-488d-bc83-bbe477b2e939',
+    '7640e9b4-24e8-4d16-b778-27dab5c3bf52',
     NOW(),
     NOW()
   ),
   (
-    '464ae0ae-a5a1-4307-a71a-3ca1a564b672',
+    '8bcf405f-ac89-4ad7-853c-c0aa395ec9e4',
     'Georgian: Ferejdan',
     'dialect',
-    '6e8bcb9e-4b4a-4b6d-bfaf-1070185cd5f1',
+    '5cbcacfa-3ae3-44cb-95af-b0344fe07abb',
     NOW(),
     NOW()
   ),
   (
-    '2745348a-4da3-4218-8e8c-87d3f078ad0a',
+    'd4ec72db-0697-423b-bb8f-9566a30f0abe',
     'Waimiri-Atroari: Atruahi',
     'dialect',
-    'b39c56da-db90-441d-83ca-7d34b52e6510',
+    '15883fa4-c591-404f-8713-0182c74dca4a',
     NOW(),
     NOW()
   ),
   (
-    '7e5fa0d9-ccff-48b9-8112-984ec4a13d87',
+    '2ee4bdad-6c04-41ec-b4a1-b175a1bf41a3',
     'Kgalagadi: Shaga',
     'dialect',
-    'c107d767-8bcc-43e7-a7f3-328853fb4221',
+    'faf8e82f-c667-4089-af78-2782c02d8188',
     NOW(),
     NOW()
   ),
   (
-    '1122b7ff-7263-456d-a25e-f25d81126726',
+    '8f43c003-dc23-431b-a389-3ce9cf957df4',
     'Kalispel-Pend d''Oreille: Bitterroot Salish',
     'dialect',
-    'e77d4494-7486-4ee1-b50d-31bfc7d1dd90',
+    '9772155c-db39-4c65-ad1d-618938615a52',
     NOW(),
     NOW()
   ),
   (
-    '03568993-c794-41d8-9491-c5f4d0165c8b',
+    '443e3dff-0dea-4238-9f93-84579e4c4eda',
     'Kunama: Tika',
     'dialect',
-    '2ab8511e-c910-4d4e-bf5e-47ab81be6026',
+    '9869e23b-634c-4973-9f96-1731be3461b3',
     NOW(),
     NOW()
   ),
   (
-    '168a3399-c45a-49f9-a687-34f416adb1cc',
+    'b7b4ce23-c23b-4e66-9a24-e2974233509e',
     'Kowiai: Adi',
     'dialect',
-    'f715c8df-7acb-4a04-842a-c8f7a8096985',
+    '43659812-7c4d-41a5-b4c2-ad1b6fc71661',
     NOW(),
     NOW()
   ),
   (
-    'bf2eeb43-dd1a-41a7-8ff8-c4cbcfb12f61',
+    '0c86af69-07f7-423f-ad8b-e6cabc01fe6c',
     'Sougb: Sop',
     'dialect',
-    'cb173d4e-dfd6-4639-875e-b265813d3624',
+    '28b26a09-25df-4226-9bb4-50021a166626',
     NOW(),
     NOW()
   ),
   (
-    'db0a81a8-2840-491f-b41e-7af70cb86cd8',
+    'dfc55881-baf4-4a23-a0f4-d867714dc63f',
     'Telugu: Dhongri',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '151bff29-28a1-43a8-8a52-d62e47f4e2dd',
+    '3cafa105-c3e3-47cb-91b6-127624463271',
     'Bokobaru: Kaiama',
     'dialect',
-    '4bf0aa78-5ab3-444e-afa2-ec4682a1b774',
+    'f7d1dc32-cb2c-4898-9bc0-1755f3e1bd95',
     NOW(),
     NOW()
   ),
   (
-    '875b9ba6-94ce-4f23-a572-61609e853ebe',
+    '0db161ca-a63c-4a34-a025-e5f6e695887c',
     'Punan Bah-Biau: Biau',
     'dialect',
-    '0c08b08a-b3e1-4178-a0c0-082a2af1c8bf',
+    'e937c036-8879-4b84-8d26-1b17c7c94856',
     NOW(),
     NOW()
   ),
   (
-    '989b4d9f-6cad-44f9-a619-ae2e3735bb2b',
+    'f6062a16-66d4-4d25-9b0f-f6f308880dff',
     'Konabere: Kukoma',
     'dialect',
-    'acd90aa2-8467-47f5-bf6d-b183d38d6f0f',
+    '2c2e3fa4-b4d9-422b-8581-a81f393e1dba',
     NOW(),
     NOW()
   ),
   (
-    'e9be11d3-07e4-4bde-ac47-19c887a0c51a',
+    '81238c2a-e254-4d91-8129-a8fa5821e11b',
     'Hakka: Miaoli',
     'dialect',
-    'f6928956-c4c8-4364-96a5-b79af8d81444',
+    '7d2219a8-20c5-4572-acc0-cf8e4cee03d0',
     NOW(),
     NOW()
   ),
   (
-    '04fe5ee8-5e99-41f1-be19-aad779d860b0',
+    'bbb8e4c5-a837-4909-87ee-4943d41c4f1d',
     'Mongo-Nkundu: Ngele ea Ntando',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'ac42e2d5-24f0-4772-9970-a09a487f431f',
+    '24fd6eda-e8ca-4c52-9124-83fbce217fec',
     'Chinese: Hankow',
     'dialect',
-    '76d3d964-dab2-41b2-9a11-98b8e21b2d1f',
+    '41ba6dc3-a249-416a-bf05-904da73829b7',
     NOW(),
     NOW()
   ),
   (
-    '12e8574d-a1b6-4a1c-8ea1-35f13c7319d5',
+    'e0480d02-20a1-419d-8345-8adf27edf8c9',
     'Aro: West',
     'dialect',
-    '7effacc2-c76d-446c-8c00-7d2bfed79f8d',
+    'c645373d-d73d-495c-a47a-e0d0e7ce9df8',
     NOW(),
     NOW()
   ),
   (
-    'd46afe61-8c1d-4c10-a66b-ed594f910af7',
+    '528b65f8-46d8-43b2-9637-481b2461ecfa',
     'Baruya: Wantakia',
     'dialect',
-    '89d3d537-60cb-4fae-9a99-7a8bc4fcc5ec',
+    'cde59d04-bf76-48df-be27-63d932dc0cb3',
     NOW(),
     NOW()
   ),
   (
-    'ac722ad4-ad0c-4153-9221-6db5af249996',
+    'e4cb5bbc-ca82-4d2d-a213-49e050b5f8bc',
     'Marathi: Naikan',
     'dialect',
-    '87a0c038-0c33-4ac1-99b2-40f922dfd194',
+    'b8e9a3b1-2202-4c2c-ae4e-c9d38dde3672',
     NOW(),
     NOW()
   ),
   (
-    '33673cc2-9a32-4c3e-b5e9-904fcfb5e2d2',
+    'c64d94f4-95b0-4f14-b1b7-7dc94c464e81',
     'Lambya: Northern',
     'dialect',
-    'f592010e-9780-4771-b9c8-3d762004caa1',
+    '590ea14b-e936-4be1-baf7-a0123d706db0',
     NOW(),
     NOW()
   ),
   (
-    'a714c93c-db2d-4920-99ca-dc2ac799dd9f',
+    '69d78632-eae5-4399-ae6c-696c49ac4b3f',
     'Cambal: Santa Cruz',
     'dialect',
-    '14ed6083-aafc-43ca-adff-f4ca96696478',
+    '432a0cd4-b4c6-4738-805a-fbf271289578',
     NOW(),
     NOW()
   ),
   (
-    'ea09c699-8f5b-4e86-8552-dcdef13a4b06',
+    '8462e956-e2b8-4587-8d2d-910240800763',
     'Nubri: Lho',
     'dialect',
-    '5831a9d6-6a85-4dbd-b399-1ba88730d43e',
+    'c62e4684-3755-4b69-a4ff-4d2be2c8ed6b',
     NOW(),
     NOW()
   ),
   (
-    'c48ccde1-e973-4d22-8a92-7b326d9691c9',
+    'fbaefa6e-fbac-4168-98bc-63e91b17291e',
     'Iraya: Pambuhan',
     'dialect',
-    'a9555fad-531c-425c-8768-3776c1d4b98f',
+    '44f07d49-ba0a-4829-957f-f9d8e2b0a6d9',
     NOW(),
     NOW()
   ),
   (
-    '011d2ea4-3485-493c-abc2-9484223b0be1',
+    '08fbdf66-adc0-4ac5-8a1f-3f37da9c7a11',
     'Babine: Wetsuset''en',
     'dialect',
-    'd69dc612-a863-43d2-9749-cc1b63f6b614',
+    '36c84dd1-8c90-47bb-9622-943e7f303007',
     NOW(),
     NOW()
   ),
   (
-    '964b407e-7c24-4dd3-b66d-4962d903ee36',
+    'd6d7b6fd-360c-4319-bf49-c0199748d1da',
     'Swahili: Kilindini',
     'dialect',
-    '14a079ea-50ad-4841-b271-106193b7e2dd',
+    'ffe4b383-858f-4bc3-adf9-11751facd7b7',
     NOW(),
     NOW()
   ),
   (
-    '0de2fa91-9c4b-47d3-8de4-26d55cfd2d5e',
+    'cacd97d7-4df6-445a-b1f7-65d1b62fcfc5',
     'Yagwoia: Yeqwangilje',
     'dialect',
-    '754ae58e-bdb3-4e53-a023-4dbeeab139ef',
+    '19a74196-37ef-4863-8b01-7f8dbe67767b',
     NOW(),
     NOW()
   ),
   (
-    '3dc5752b-449f-4470-a20b-344c065a5a84',
+    '38677e12-9ed1-431f-9c92-d176a7237426',
     'Wala',
     'dialect',
-    '7f075b54-0d6e-4de2-8fdb-e7ffb2e46e1a',
+    '09276dc0-8269-45ba-a7ec-0725ca6ecbcb',
     NOW(),
     NOW()
   ),
   (
-    '30601408-2fe3-4f5b-a400-0081e1ef73c4',
+    '7eaffba2-26f9-47fc-bc05-7011ab58ca58',
     'Oriya: Sambalpuri',
     'dialect',
-    'e6c11d9a-5290-4b1c-a94e-a339f87a0715',
+    '02602174-708f-49f7-8989-28ffc92b063e',
     NOW(),
     NOW()
   ),
   (
-    'e2ae6bed-fb0f-4198-97aa-febd7608d408',
+    '17f75dbe-1494-4f29-a119-d5a600c7342a',
     'Kartaplas',
     'dialect',
-    '76dbe3b4-1706-4572-8fc8-63fe6609efd5',
+    '43767333-2ba8-4ac9-96e8-2658e033164a',
     NOW(),
     NOW()
   ),
   (
-    'f6926c81-cc9a-45fa-9d3d-37eb595577aa',
+    'f70f3b5c-b095-412a-9b44-21255f950091',
     'Mbanza: Gbado',
     'dialect',
-    'c0b52fea-377f-478c-840f-62583f197b88',
+    '5c776aa7-c739-496c-a68b-50a9521dc2df',
     NOW(),
     NOW()
   ),
   (
-    '57c40fc7-14d1-431c-b0a6-59013a797318',
+    '22be8d70-2953-41d7-8ee9-97c4b3529d7c',
     'Mandarin: Guiyanghua',
     'dialect',
-    '76d3d964-dab2-41b2-9a11-98b8e21b2d1f',
+    '41ba6dc3-a249-416a-bf05-904da73829b7',
     NOW(),
     NOW()
   ),
   (
-    '224a2df3-1e96-4103-8e68-f0b23926c6f5',
+    'f654e606-8d84-48bb-8d25-7a78b5ac6fa8',
     'Akpes: Iyani',
     'dialect',
-    'd4bb52f9-2bcd-470a-9ff3-75257fbb8ada',
+    'ab68fad4-7edd-416b-8c02-82287af283d4',
     NOW(),
     NOW()
   ),
   (
-    '16929546-a395-45f9-a9fc-dcc27f15589b',
+    'e7b7d46f-9bfe-43bf-a745-3c8b795f2f8d',
     'Ojibwa, Northwestern: Lac Seul',
     'dialect',
-    'd957ebb2-686d-412e-aea5-70940c61dbe0',
+    'f252a464-0e17-472b-8b28-71dcb70e9ff7',
     NOW(),
     NOW()
   ),
   (
-    'd98f0b99-0258-4de0-8fc2-00a001ff2f7a',
+    'b06b604a-9d83-44bc-85a6-50d6e32e88f8',
     'Telugu: Otiya',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '0a8d6432-e7f9-4595-8590-fe6b90109140',
+    '784d4675-74dc-4516-ae0d-8e52e50e01ed',
     'Aramaic: Syria',
     'dialect',
-    'd16d9790-be16-4bd3-a975-4e5585f4759a',
+    'bcaeb936-1e9a-4f8b-8a01-5c5467749558',
     NOW(),
     NOW()
   ),
   (
-    'd84d46a0-3b74-49bc-bdbb-88cbde9fcbce',
+    '0c86f0d9-936b-46d9-a90f-825ed2efb1aa',
     'Yukpa: Rio Casacara',
     'dialect',
-    '93e1fb00-b579-4f1d-b8c2-13b9948d7826',
+    '4373f9fc-9bfc-4a0d-8881-fc2fed12ce52',
     NOW(),
     NOW()
   ),
   (
-    'ab4ca954-50b0-4db0-bf41-7af355bf96c3',
+    '8e12ae5c-b697-494b-a054-e56e824d367f',
     'Berom: Riyom',
     'dialect',
-    '613d9682-5701-42ca-a664-d0c55b3ebc03',
+    '10966e10-dd14-4f80-82f1-f1e7e614d1c4',
     NOW(),
     NOW()
   ),
   (
-    '417863c5-3c66-4af9-a719-87c8e1c87f69',
+    '6e24401b-19ff-4893-a83e-00bf538fc03a',
     'Chandrabanshi',
     'dialect',
-    'c56f8400-396b-4d8e-9d4b-37525b90101d',
+    '3a4aae33-f746-40f4-9132-9f703b3a618d',
     NOW(),
     NOW()
   ),
   (
-    'f57cc73d-6877-4dd4-84ab-fc3753813a7d',
+    'abbc5883-946d-475e-9b8d-383004ba1ca3',
     'Awad Bing: Yori',
     'dialect',
-    'af661185-6547-4380-94fb-e6733b71558c',
+    'd0e5ce16-c837-4c6c-bf20-c5bf38d714bc',
     NOW(),
     NOW()
   ),
   (
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'Miri: Sili',
     'dialect',
-    '5ad13086-fb65-41a0-8e22-216d346e0956',
+    '473de963-4628-4f7d-a5ba-4d39f0639d0b',
     NOW(),
     NOW()
   ),
   (
-    'd9e2619c-165a-4fa8-8fad-03eb8f545bbf',
+    '7fecff45-1439-47d8-9de3-83674a82b1c9',
     'Bali: Bemili',
     'dialect',
-    '1a76c52d-8a65-47a6-9706-d77e8f7cee47',
+    'd153fc35-33dd-4393-9a81-f13cd3da31d4',
     NOW(),
     NOW()
   ),
   (
-    '21e2837e-a87d-49ef-a96d-a0baceb82892',
+    '38a22bb8-7e14-4662-a719-dc870be48e79',
     'Bauchi: Bandeke',
     'dialect',
-    '70ba340e-8dc1-4823-8a37-298d9837bbaa',
+    'e9d8a9db-dcb4-4bf8-a9b3-7efe82f114d8',
     NOW(),
     NOW()
   ),
   (
-    'b1895bea-d48f-40be-85ea-e5d6affe10aa',
+    'eca97af2-d324-4fdb-a6c9-45b9194d1333',
     'Akha: Akha Nyaeu',
     'dialect',
-    'caef9abe-6c66-4738-8c34-4e1019a4dc71',
+    'a882478c-86da-4f7f-8fce-b8282516e3eb',
     NOW(),
     NOW()
   ),
   (
-    '99c00fbc-52af-4df9-a413-36bfc312c0fc',
+    'a9d617c1-4d27-4845-8515-9fcaaf720cdd',
     'Ntcham: Kpandjal',
     'dialect',
-    'eeda301c-dcdb-4448-b692-9d9bce1eb04b',
+    'c7021e0b-9db8-4d50-b8ea-82e7154092a3',
     NOW(),
     NOW()
   ),
   (
-    '4c87f82a-0a8a-4c58-b933-3b77e2f92e89',
+    '32332f7e-7c71-4ccb-a656-cd146a311624',
     'Wa, Paaruk: Man Shiang',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    '07650a6f-29ef-40ba-8d1d-27a59fe0d2fd',
+    '0ea8dc61-a32c-4267-907c-8715a8de0d43',
     'Miwok, Coast: Marin Miwok',
     'dialect',
-    '36f189b9-dd6b-4612-8976-a3d411eb1ee2',
+    '8a96f795-aab6-433c-bb33-33304964ee4e',
     NOW(),
     NOW()
   ),
   (
-    '6bf73b31-2eac-45ab-9ab8-147232b302ef',
+    '32819003-cdf3-4dea-923d-4bfb7405de64',
     'Wanda: Sichela',
     'dialect',
-    '3a60b130-4309-4166-a3be-30400fe204fe',
+    '94511704-d840-422e-98dc-9ea5b489d4cb',
     NOW(),
     NOW()
   ),
   (
-    'c90dfa83-3821-4185-a87a-2c91c1ec2457',
+    '9d472c1f-0b6f-4f05-8973-411cd6c5fc95',
     'Tharu: Mahottari',
     'dialect',
-    '2f0d4869-335b-4a2d-9df4-97abd2ca8458',
+    '7f88423a-024e-4812-96de-0239a6cda62b',
     NOW(),
     NOW()
   ),
   (
-    '83a388ba-7c26-40a3-99f1-2154300150b2',
+    'aba1572f-f958-4682-a4df-45114b639616',
     'Tanna, Southwest: Nowai',
     'dialect',
-    'ec7fb4ba-ba48-45ba-a68d-f380069025b9',
+    'cb82241d-8655-45c1-84ad-306db8904e62',
     NOW(),
     NOW()
   ),
   (
-    'd823add7-c83a-489d-98a7-2f0a954c9cf3',
+    '3265a50c-f31d-4ad8-9cf7-322be3ba4e3b',
     'Simaa: Minungu',
     'dialect',
-    '2a24e779-d6e2-4d10-a7b9-46ebbc16b656',
+    '1915880a-ffc3-4001-91c6-4b46bb53e1b3',
     NOW(),
     NOW()
   ),
   (
-    '83a12d2e-178c-427b-addb-8464ba07715f',
+    '2457db66-bf28-44c9-85fb-c35fa0497026',
     'Chinese: Ningpo',
     'dialect',
-    '95a7a995-e50a-453e-846f-6f09acc72e22',
+    'd3c92438-27b8-4952-ac23-c49b7f8b7318',
     NOW(),
     NOW()
   ),
   (
-    '8bb300af-6948-494c-87e0-dea980a6c5cc',
+    'a3d150d6-f548-4666-b75b-bc5dc29a441b',
     'Memba',
     'dialect',
-    'bd55c79c-7a46-4547-8816-eea9b9decc29',
+    '510d49b5-ac0b-4ea9-92d3-6cb5af967262',
     NOW(),
     NOW()
   ),
   (
-    '06cbb371-7ba0-49a9-89b7-545ed339d051',
+    '4eb3d115-acf4-42c3-97a9-70aea24512c3',
     'Iduna: Belebele & Kwayaudili',
     'dialect',
-    'c76bc7ec-e036-4b7c-bfc1-b5e84d393cf4',
+    '182d5cb2-67b3-47a7-8227-f95debeed457',
     NOW(),
     NOW()
   ),
   (
-    'bdaa46a3-1c29-4b29-afe4-48e5ee1c2b7d',
+    'cdd15e6d-758b-4f3f-a962-ea8379f9da3c',
     'Selkup: Taz',
     'dialect',
-    '34d72d51-2d2a-4f4e-a47f-60b51177cce2',
+    'b26ce65d-fd12-4aee-ac3e-1aa4a25e85b4',
     NOW(),
     NOW()
   ),
   (
-    '86899017-d10c-4d74-8cfd-d716be13c080',
+    'db6f1aef-5f5e-4035-b0bb-556fea662474',
     'Mongo-Nkundu: loyandji',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    '77a46e2c-1110-4066-b6de-3aeed43725f2',
+    '5927c265-3430-4945-ab32-c79ffbc6313a',
     'Kalanguya: Tinoc',
     'dialect',
-    '2eacf0c7-5c6d-4985-af33-6b338e6d077d',
+    '455afb49-bc62-4fd4-8937-34b6f9ff0ee9',
     NOW(),
     NOW()
   ),
   (
-    '386076d2-1f4a-43f3-affc-780b2edcd8c4',
+    'dc464009-ddd1-4972-8515-0ff7d06b74b7',
     'We Western: Kaoro',
     'dialect',
-    '5917a39e-b404-456c-a895-4ffbf50dbb96',
+    'a1f03241-687d-4538-819c-257abd5f29da',
     NOW(),
     NOW()
   ),
   (
-    'c4c0eab1-9330-44a9-9cf1-55459a36ac83',
+    'b4ffbe64-7750-4f07-9d01-1c0996aaf0e0',
     'Yekhee: Auchi',
     'dialect',
-    '1e59ba8a-7844-45d1-ad6f-c59fbeb76161',
+    '8d4a987d-b424-45e0-9caa-97c5eabb2cbb',
     NOW(),
     NOW()
   ),
   (
-    'f9fc0593-8388-4eda-92b2-b1d1d51172bd',
+    '0416661c-95ae-46aa-8153-a2040b6a9b6d',
     'Wára: Komnzo',
     'dialect',
-    'b0c8235a-cab5-4ba3-8389-3f8bd581afec',
+    'c9c6580c-9ae7-4bbe-9cf8-e5bae3ca6498',
     NOW(),
     NOW()
   ),
   (
-    'f95222e7-7e63-4b4a-b51f-dee5ee127c78',
+    '14c43e50-dad7-403f-99e4-e288b290caf8',
     'Inor: Endegegny',
     'dialect',
-    '3f436287-d0b3-421b-934a-5ed822d6f53e',
+    '470c3165-b470-4926-88e3-ee02dea58a9e',
     NOW(),
     NOW()
   ),
   (
-    '0c44116e-eb70-4b43-99aa-4ff0e18cd868',
+    '73375027-7b77-4369-ad59-c98b3469b370',
     'Naga, Tangsa: Nahen',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    'b158f4da-0fe2-46e6-80db-dcd20f86abaa',
+    '21b3f8da-a4ec-45e8-a85c-0f23e985d3cd',
     'Karanga: Bakha',
     'dialect',
-    '450d242c-b8af-408c-a441-6c5e1341293f',
+    '1ab7e0ec-8f57-4b40-ad56-97b5b47bcb37',
     NOW(),
     NOW()
   ),
   (
-    'eaaeb718-1abf-4245-ac6b-8c53a4bc7f33',
+    '900810b9-afd0-4850-8972-a4ad582269e3',
     'Mbula',
     'dialect',
-    'd3f7c9d5-12e4-497f-8e9f-2d5a81040909',
+    '2d0cfe72-c348-4ebf-8a45-d55811dc22a4',
     NOW(),
     NOW()
   ),
   (
-    'fc2ecb12-41cc-4509-a238-832361d96d69',
+    'e8db299d-0ec4-4459-8e29-602d3a26f86c',
     'Chin, Thado: Hawkip',
     'dialect',
-    'b96b3365-e0ae-4f87-8075-40e7ad1992d8',
+    '57eb8543-7961-4bef-82f6-d3533414e484',
     NOW(),
     NOW()
   ),
   (
-    '34538952-89f6-4c58-af37-681bff78e2d3',
+    '01f6f1dd-3939-4d62-84ee-c218bfdf9f17',
     'Mbundu: Ngola',
     'dialect',
-    '1fc814c6-0093-4646-a64e-fb64635d3fcc',
+    '1417eccc-6ccf-4c80-ac6e-8be25745c3af',
     NOW(),
     NOW()
   ),
   (
-    'df2c8f52-5795-45b6-a846-8305c017d58d',
+    'a53326ed-4bb2-4bd3-8ce1-0b12bb101fb6',
     'Biga',
     'dialect',
-    'e377854a-80d0-4bc0-a03a-090b5fe89f83',
+    'c90add53-8376-4ab9-982a-29ec1c4f5e14',
     NOW(),
     NOW()
   ),
   (
-    '6308396d-ea1b-49d7-8146-835b65efdfaa',
+    'db0df758-38f6-488f-bfa3-37cd5a340a69',
     'Bouni: Bobe',
     'dialect',
-    '0746997d-8d8d-45bc-9331-6175a73fb263',
+    '185578a9-ec24-4683-a6d5-32ee89ec393f',
     NOW(),
     NOW()
   ),
   (
-    'c88506fb-6c6a-4cdb-ae30-bb53bb6e35c1',
+    '206520fc-04a0-4e54-87f0-53c7891df05a',
     'Kalamse: Loroni',
     'dialect',
-    'de8c37f5-8697-4ade-aefc-366f38cf1ca1',
+    '864af7a4-292d-4b11-a9a2-e6729583dd86',
     NOW(),
     NOW()
   ),
   (
-    '8bf2cc96-328a-40d3-9278-390d826748cd',
+    '7a296db4-5a11-45da-9dcf-fce7fd54b602',
     'Carib, Island: Vincentian',
     'dialect',
-    '0b16ab5a-34b9-4a6a-b6a8-2020f1bb79aa',
+    '5aaa5949-e5e5-4036-8caf-f15df9afc3aa',
     NOW(),
     NOW()
   ),
   (
-    '0fe97a7e-273c-40fc-97ec-a94b7115440e',
+    'b9ac7fa1-c0c4-4e7c-b98d-00eb9b5684aa',
     'Atong: Baghmara',
     'dialect',
-    'b552d888-a26d-48ee-a048-ec42ab15da23',
+    '91d8ad3d-3d25-46c8-a6b9-6ee50968018e',
     NOW(),
     NOW()
   ),
   (
-    'c5305719-e20b-45cf-94a2-5fcaf3f1cf8b',
+    'd79c9ad2-88da-481d-981d-bf84ab5ae978',
     'Ankave: Wiyagwa',
     'dialect',
-    'b31021ad-fd58-4f7f-b6aa-4d2823a0a161',
+    'f92cc502-2ca3-48ac-87bd-43dc2cad3c2b',
     NOW(),
     NOW()
   ),
   (
-    '977b3b2f-ddb9-48b7-b062-6285fc5a85ec',
+    '85aeecfd-8fce-48dc-b6c9-3b0dd067543b',
     'Mala: Beteka',
     'dialect',
-    'd8e647a5-63e0-4b74-93d7-78a198005ac3',
+    '06430f94-bfb1-4355-84bb-57987d4cdb61',
     NOW(),
     NOW()
   ),
   (
-    '647ff18e-ca13-4a55-bcf6-998275d3190e',
+    '00284a44-d5bb-489d-a736-c7452f808673',
     'Gbari: Botai',
     'dialect',
-    '21f02162-29cc-4055-8875-9d0c593d1225',
+    '4340a3a3-4f95-4b27-bfa4-727a24ade2a3',
     NOW(),
     NOW()
   ),
   (
-    '8e277a35-f993-4ffe-9c9c-b79491d7c67d',
+    '43ed40ef-5a1d-483b-a1ce-259fbae870fd',
     'Wa, Paaruk: Man Tong',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'edce480a-9551-470a-9585-3fe36f50c10c',
+    '69217df8-c2f8-430c-ae5f-251291317afd',
     'Bukitan: Punan Ukit',
     'dialect',
-    'f918ac16-261d-4b2e-8183-684f0c89acce',
+    'e5fcfdc9-8e21-4807-992b-c3e07fe14dd4',
     NOW(),
     NOW()
   ),
   (
-    '4c35653e-4f7a-4062-abe9-8dacb3fb89f5',
+    'b32809d8-d41a-40da-9890-3c3f8082b7ed',
     'Sikalgar',
     'dialect',
-    '02ce4726-b228-4196-ab7c-c17736e040fd',
+    'f2d887d9-bb0c-4f9b-b2e7-d6c46efce363',
     NOW(),
     NOW()
   ),
   (
-    'e5c1786b-4701-45f2-aa58-75852691e467',
+    'a4493e19-83ae-4970-91af-08aeb4a3a6c3',
     'Migaama: Dambiya',
     'dialect',
-    '0781156b-846c-4ad3-8d51-ee89f088e2a8',
+    '61124eb0-583e-4782-ab14-4a7f86e15083',
     NOW(),
     NOW()
   ),
   (
-    '009137e4-604c-4c64-aaa8-faf62c2d8193',
+    'd91be8f4-9469-4c30-8bf1-f3d3a9790c4d',
     'Yoruba: Owe',
     'dialect',
-    'ef5e4646-110d-41af-b838-93a443d8b1e3',
+    'd8fa109e-ac81-4670-810b-74124126164e',
     NOW(),
     NOW()
   ),
   (
-    '95504d61-d173-4b2c-a338-7ba96b09d67a',
+    'f9533908-a7a5-47b9-a502-53c6050cc7a0',
     'Naga, Tangsa: Tutsa',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    'd59a1359-d37f-4e0c-9cb4-0e0667658373',
+    '00a63318-cc17-4c25-bb5a-c47e13abcdaf',
     'Biak: Sorendidori',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    'de0fe44d-d31d-49a4-9d66-b1365cf2b69a',
+    '546d0183-cc25-42de-af24-47b5deb23fcb',
     'Mru: Anok',
     'dialect',
-    '889262a2-ce31-4952-b39e-9b30a4fb4d90',
+    '480491bd-32ff-4202-810f-75fbf8b43530',
     NOW(),
     NOW()
   ),
   (
-    'b01acd07-79f7-486c-8dc0-14cd828574de',
+    '1c227bcc-080f-43d8-a3b9-6895d8b15d43',
     'Awad Bing: Suit',
     'dialect',
-    'af661185-6547-4380-94fb-e6733b71558c',
+    'd0e5ce16-c837-4c6c-bf20-c5bf38d714bc',
     NOW(),
     NOW()
   ),
   (
-    '48e93e0a-0522-4dd8-9b1d-fe41baf8b9b0',
+    '6e8967cd-b70a-4331-9083-64a4179c2a49',
     'Biak: Vogelkop',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    '3e6dde0c-ea1b-4e0e-85be-184975ab322e',
+    '6335ac53-9ddc-4da1-aee5-f29ad76a5263',
     'Citak: Senggo',
     'dialect',
-    '1fd19a4a-96e6-4f75-a825-0c603be8ecdf',
+    'da8912ed-939f-4bfe-a06c-7750723f8244',
     NOW(),
     NOW()
   ),
   (
-    '5f393e01-d9f3-4496-86c4-09fd81e3cb09',
+    'd4583e58-7882-4603-9ab4-acf58f7b5aff',
     'Mambila, Cameroon: Maberem',
     'dialect',
-    '18f2aa84-f737-4ce0-909b-8e702c183f43',
+    '15f67c5d-9b53-448e-894e-ca827db813fd',
     NOW(),
     NOW()
   ),
   (
-    '8877aceb-4cab-4c1f-9c9e-3db213063551',
+    'b269e16d-f27c-4c4a-aff2-6f981c9fc000',
     'Kalmyk-Oirat: Bayit',
     'dialect',
-    '30e26dfd-7650-40af-a067-c6db06099b05',
+    'dd1b95a1-0b3a-4a82-8fca-239243e9e985',
     NOW(),
     NOW()
   ),
   (
-    '5c088a29-d1ae-41ac-a5a9-aeb61cbf5146',
+    '4528a63a-b8e5-4404-858d-77bac82a5094',
     'Pao',
     'dialect',
-    'df32c10d-2f5f-4be7-9bef-935b67f4aee6',
+    'c4d70391-78b3-46fc-850f-c5212159c3f5',
     NOW(),
     NOW()
   ),
   (
-    'ac58b51f-7b75-4280-b2ec-ba9bc8c7e320',
+    '8a43a551-9413-49ab-9c3f-f6a20d4587f3',
     'Vidia: Dawawa & Dima',
     'dialect',
-    'b93eb043-2cdd-42a1-8282-8a51fb551994',
+    '6faa037f-5536-48b9-8159-ae6068c7b639',
     NOW(),
     NOW()
   ),
   (
-    '01b05636-332d-4d0e-9620-b18b54705ed6',
+    '504286e6-f8c6-4bef-bd5f-0d131108ae9f',
     'Logo: Lolia',
     'dialect',
-    '25600de2-f12b-4737-ae49-b7033e0a7318',
+    '59fa57e2-90b2-43e3-88a4-42681139b095',
     NOW(),
     NOW()
   ),
   (
-    'a5f88b02-27a2-4453-ad26-450df07a2e9e',
+    'eabdb5b2-f17c-4b05-9b34-8b990f309801',
     'Hmong Shuad',
     'dialect',
-    'ca9b1951-6768-47b7-861a-9a59aa1a2828',
+    'd78ead9f-ad6d-45aa-abfe-c6eb6f2e33a8',
     NOW(),
     NOW()
   ),
   (
-    'ec001317-87cc-451b-af16-b0faa31617f2',
+    'ee623a85-dae9-4575-8804-acddea3fb31d',
     'Rawang: Serwang',
     'dialect',
-    '5fff81ef-4c48-43e2-b66a-958d913906eb',
+    'cc43e2f4-8daa-447d-a02e-89b0cea971db',
     NOW(),
     NOW()
   ),
   (
-    '2718d99c-022c-4edd-afc6-4e4adf200ba5',
+    '6320c49d-8b0a-47e1-9566-5550e1b81b61',
     'Yoruba: Onko',
     'dialect',
-    'ef5e4646-110d-41af-b838-93a443d8b1e3',
+    'd8fa109e-ac81-4670-810b-74124126164e',
     NOW(),
     NOW()
   ),
   (
-    'ed0540b9-a218-4a92-8809-3f5c3e9ee0cc',
+    '14798887-45a4-4ccd-a199-01a1d0a68fc0',
     'Kwomtari: Eastern',
     'dialect',
-    '34953371-388b-4917-ba0a-b29961c319f5',
+    '5854f1a8-595b-413e-8961-67b83d6e76e3',
     NOW(),
     NOW()
   ),
   (
-    '930bfc2f-4875-4639-a05c-fe668d7639f5',
+    '40e2ad64-7795-4a5d-b2d0-832458928937',
     'Wadaginam: Minim-Kuiyum',
     'dialect',
-    '71dafa4b-416a-424e-ba24-6d2bd5d2bfbc',
+    '8a4c35df-a0c9-47eb-ad2a-c2cf6d89c245',
     NOW(),
     NOW()
   ),
   (
-    'ae0c2a06-ee70-444d-b5f2-c7d477755e35',
+    '29f037ab-46ef-4f18-9255-a3085a037ce8',
     'Kumauni: Central',
     'dialect',
-    'c07f7569-6fb2-41aa-898b-37b216036567',
+    '14c9567e-6207-427d-a110-77c7a852eb1c',
     NOW(),
     NOW()
   ),
   (
-    '561625a0-9ded-401c-93bd-911add24b5b8',
+    '1af2c40f-6176-4710-9377-46e99a1ab17e',
     'Kogoro: Sefeto',
     'dialect',
-    '540bb0f1-37d6-493d-b284-ed7bd33fc404',
+    '11f9add2-8db0-4966-bdc6-ff97b2d706dd',
     NOW(),
     NOW()
   ),
   (
-    '680f1480-d610-468d-a902-41588895071f',
+    'caed1bcf-1762-4591-a68a-dd66c89fd4ed',
     'Guahibo: Cano Jabon',
     'dialect',
-    '9b880738-2c21-418e-baed-701edbda1f0a',
+    'b206e83f-a33c-4166-b4e6-dd72ce52a70f',
     NOW(),
     NOW()
   ),
   (
-    '5541bd72-d075-48ba-94ba-01c9db349a78',
+    '5cf4e514-6520-4395-af33-8e0b569515ff',
     'Haida, Southern: Skidegate',
     'dialect',
-    'd3b274b8-3046-4bbd-93df-055fc7c6d341',
+    '53379ccc-d0e7-4f40-a039-6f2ff16cdeec',
     NOW(),
     NOW()
   ),
   (
-    'd58b278a-007d-42b5-be35-538593309c2a',
+    '7d53f970-fd03-495b-a9d8-0797ea7617e8',
     'Manjaco: Pecixe',
     'dialect',
-    '6f020974-e021-4c45-b763-4142b62abc9c',
+    '3197742a-fb57-41e7-b4ed-04400deb11e5',
     NOW(),
     NOW()
   ),
   (
-    'c94dfd6f-e426-41b9-b58e-44e6b64ff49f',
+    '008813c8-dc5d-457c-a9f7-ce2cac69a356',
     'Siraiya: Pangsoia-Dolatok',
     'dialect',
-    '3b37348d-6e6f-48cd-ba79-6384bfb831a9',
+    '5845357e-2171-4bbe-ad84-10861a2a9e47',
     NOW(),
     NOW()
   ),
   (
-    '3965dd66-4352-485f-befb-b18646f0cbd7',
+    '579866a1-252c-459b-9458-9d3b4fdee009',
     'Mixtec, San Miguel El Grande: Chalcatongo',
     'dialect',
-    'b3774947-4d73-4a13-9b38-a3857ea5fd41',
+    '4f1ee4b4-7bbf-49d9-b5cf-aeabc193f99a',
     NOW(),
     NOW()
   ),
   (
-    '3dc42e0f-89f6-48b5-8926-b53873f592ef',
+    'd4e55880-4181-4670-b00e-2954a184255e',
     'Kanauji: Tirhari',
     'dialect',
-    '911dd693-4707-46d9-bedf-449512a4ed51',
+    'b76df7f6-1758-4efb-adee-6cf0667a37fe',
     NOW(),
     NOW()
   ),
   (
-    'c0c0a726-fd58-4968-aa21-e527a69bdd75',
+    '8a8662ca-47f5-4ef9-9475-4a42d31c3092',
     'Mofu: Tchakidjebe',
     'dialect',
-    '4d97ba95-df2b-4659-bd7d-58167b73066f',
+    '901fd651-d429-42e4-8523-60591c0eb565',
     NOW(),
     NOW()
   ),
   (
-    'd20fc3bd-db6e-4f9e-a124-4627bec8f93a',
+    '7282bbe9-46df-4af2-ad02-afacf46139cb',
     'Turkmen: Goklen',
     'dialect',
-    '2e208de4-c299-4920-831e-91ead613ca30',
+    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
     NOW(),
     NOW()
   ),
   (
-    '51454501-e04d-4e85-ab3d-145b5ad54efe',
+    '049c0c9e-c2b4-4bb0-bb86-c6a20a5876d7',
     'Tagdal: Tabarog',
     'dialect',
-    'fc539c9d-7fd8-472d-a8f0-712c72849e30',
+    '3a021bc8-7436-4f8d-b1f2-3fd5df6c2a6e',
     NOW(),
     NOW()
   ),
   (
-    'b1bbf124-1aad-42f8-a2b8-aecd094259c3',
+    'f5086e3a-5cc7-4113-8a5d-23b84dd280dc',
     'Mro-Khimi: Xengna',
     'dialect',
-    'ae2cee04-c85d-49df-a27f-91e1e4a5d7df',
+    '1609331f-8a48-4146-87ba-abee74d06c47',
     NOW(),
     NOW()
   ),
   (
-    'db90669d-620e-45c1-ac21-064d1ccb8713',
+    'aa57c120-ae36-429a-b849-de7314b879a4',
     'Walmajarri: Eastern',
     'dialect',
-    '29630a8f-8c39-49ff-9669-8456b9f930da',
+    '732ce2d0-0ce0-451f-8b83-8c179a6da152',
     NOW(),
     NOW()
   ),
   (
-    '3226d063-0dc7-4af3-8fe2-fba7068831c0',
+    '8791ea9c-1aac-4a02-a062-a42dc5103f8a',
     'Chin, Dai: Ng''gha',
     'dialect',
-    '65093131-4829-4cf5-aceb-3e81cb27b674',
+    'dc0ce265-2243-4a34-99ef-18306f5118a9',
     NOW(),
     NOW()
   ),
   (
-    'da558d8f-b262-4cf2-8a9f-825dc4efe73b',
+    'db3fba68-4940-4eb4-9364-99b6c30c8715',
     'Krahn: Gwabo',
     'dialect',
-    '5b0f22b2-4087-43e9-b6ab-7648dc953aad',
+    '74b2324e-a3cc-4a25-bb65-1c541074e097',
     NOW(),
     NOW()
   ),
   (
-    '3f9ebc4c-e22d-4a57-8ea2-3d6e52f1f95d',
+    '62d4464e-42c7-4cc3-9f3d-29c9bf3e11a1',
     'Tobelo: Boeng',
     'dialect',
-    'c0028f6f-1b2b-41ef-a9e7-88eb2255bf40',
+    'd6e19c93-7f8b-4815-be9a-f3a43498b844',
     NOW(),
     NOW()
   ),
   (
-    'ced83020-b9cb-4a62-a627-2bd78381d1f6',
+    '11d54044-dc2a-4e99-8556-f84188520cbd',
     'Romani, Vlax: Southern Vlax',
     'dialect',
-    '0c0215ca-f61e-4f2c-8fbe-ae49dcb0d4f0',
+    '0962dd7c-86ce-4645-a971-7b0c14c3607a',
     NOW(),
     NOW()
   ),
   (
-    '2e064854-c8b7-40f6-befd-10711520485b',
+    '07ef9573-d799-4fb7-a24f-6d274b5feec0',
     'Matbat: Tomolol',
     'dialect',
-    'ba7613dd-3628-45db-bd7d-0aa4578a7801',
+    'd7010b30-2324-4b49-938d-03603342ba90',
     NOW(),
     NOW()
   ),
   (
-    '6364c513-860d-4228-a52b-37f64c243092',
+    '51bccd37-6f88-4bb1-a049-c43bc8c0e4ed',
     'Sewa Bay: Sewataitai',
     'dialect',
-    '8f06183a-f7fb-4c9b-97ea-bc5e8b4625b7',
+    'aa975bc8-2e61-48f9-80c4-075ee1eb3b3b',
     NOW(),
     NOW()
   ),
   (
-    'b7195faa-4833-4aa3-ac6a-7b17c72213d0',
+    '367fe763-49a7-4333-8608-77ca06712abb',
     'Nambikuara, Southern: Waikisu',
     'dialect',
-    '04d01fd6-087f-4bdf-9bcc-7c00dce8013f',
+    'd6c27906-8ff6-4e47-a49a-c618436bbfca',
     NOW(),
     NOW()
   ),
   (
-    'a7790137-64a9-4e55-a658-2fecee79bf6c',
+    'f3985c2e-e985-4ea6-98ea-c982cf085462',
     'Mandarin: Indonesia',
     'dialect',
-    '76d3d964-dab2-41b2-9a11-98b8e21b2d1f',
+    '41ba6dc3-a249-416a-bf05-904da73829b7',
     NOW(),
     NOW()
   ),
   (
-    'bc8b52a0-d01a-4b77-b11e-c361ca2cccc6',
+    '4c9d9b21-cdf9-44f7-9c07-7681f440e7eb',
     'Hindko, Southern: Peshawar',
     'dialect',
-    '443ddeae-8f28-4739-912a-8a66cd62bc4e',
+    '840aec7a-fbc9-4138-b29a-b902af43d900',
     NOW(),
     NOW()
   ),
   (
-    '925fc4ee-ca31-4321-8b01-f60d3dee9e09',
+    'de275c7b-dc7a-4754-b9de-85fbcc6d3338',
     'Carib: Aretyry',
     'dialect',
-    '3ae91ccc-f0e2-4a80-bbc0-0ea5a6a46675',
+    'de719d49-c07f-4d79-9373-b3bd7b3a82a8',
     NOW(),
     NOW()
   ),
   (
-    '7e21cda9-b368-429c-8135-d8d37cf1102e',
+    'f85fe180-3fe5-4474-accc-1ba2fd25d66d',
     'Noumou',
     'dialect',
-    'cb67f6dc-5b7b-49fa-9f62-9d35e69e8f4b',
+    '80e252e9-d597-415b-a11a-70325821316d',
     NOW(),
     NOW()
   ),
   (
-    '4b51d204-c06b-4b1f-917d-f5739d1e82f3',
+    '1b1e3ea9-7a62-4bc7-b77c-3ec30f623940',
     'Naga, Tangsa: Have',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '52fd443e-a221-401d-89b5-f0c1d449d1c5',
+    'e61e8fdd-ff3d-4972-b7c0-06feb44182c9',
     'Agta, Casiguran Dumagat: Nagtipunan',
     'dialect',
-    '17fb0ae7-30b2-4a2e-b2a1-af9de7ea68c7',
+    '2229ece7-4672-47aa-960e-3f752268e203',
     NOW(),
     NOW()
   ),
   (
-    '34dfca6e-34f4-43aa-afa6-48f060309496',
+    '0ad6390e-4a49-40e0-b254-012404ed2835',
     'Fali: Bori-Peske',
     'dialect',
-    '05cc3d84-ac00-479a-a4bf-0271b69f845c',
+    '773cdd68-8916-4c0b-8552-bb5246f42bb0',
     NOW(),
     NOW()
   ),
   (
-    'a50b08c5-f278-4ac4-8ae4-5bb00f11cab6',
+    'b01f6fa0-aaaf-47c1-8068-ae3a639f9ac3',
     'Dzando: Moliba',
     'dialect',
-    'f4e1c705-52c3-4f9a-aa6e-a84ad76b8e75',
+    'da75d662-2411-4b32-adff-dd7398e41012',
     NOW(),
     NOW()
   ),
   (
-    'd8a11a83-da2b-4713-8238-8f11824c24b5',
+    '1f03ca61-3fbf-4490-9104-aef558035a95',
     'Ndanda: Undimeha',
     'dialect',
-    'c4e33308-17d7-4c17-98c7-3918274899f4',
+    'e304844b-19e7-42a2-991f-3ffdbde877b4',
     NOW(),
     NOW()
   ),
   (
-    'a20b1407-a687-45f3-9b7b-1e5a3e52b979',
+    '545efdfe-d1f4-4a2e-bbd7-66b761eaa80f',
     'Madak: Katingan',
     'dialect',
-    'f6816357-059a-46bf-afd9-452f9da01ed7',
+    'fc7e415e-9f02-4dfc-adbb-26a965ad5782',
     NOW(),
     NOW()
   ),
   (
-    'b5ce0437-7796-4392-9a4f-0bd59db979f2',
+    'a2bbdb35-23c2-4659-b558-af74fd342477',
     'Grebo: Kittiebo',
     'dialect',
-    'a28e5598-5473-46cc-9e4e-674ce431bab2',
+    'e7c0a072-507b-468a-9f9d-3746740b89c3',
     NOW(),
     NOW()
   ),
   (
-    'd993dfd5-233b-486f-9a89-81743faf1852',
+    'a122be0e-b6e6-4573-bd27-51f1e496e0d7',
     'Basaa: Basso',
     'dialect',
-    '13216363-7db3-4172-9789-ca24705819e3',
+    '1d81de0c-9c45-4954-8ff6-c81afa23fcc3',
     NOW(),
     NOW()
   ),
   (
-    'f83fc3ba-7090-466d-acb5-02c2334544cd',
+    '11f6733e-3880-4296-b73b-9fde883eaa2a',
     'Verre: Bai',
     'dialect',
-    'bc4d107a-a211-4a8a-bd33-dd6671f017e2',
+    '5f9e2332-f74a-45f6-8560-71d366fd6d4d',
     NOW(),
     NOW()
   ),
   (
-    '3459fcbf-8335-4b2b-82fb-bba10d318c26',
+    'fa1fe799-d1d7-457c-8805-fc6076e77348',
     'Kinaray-A: Guimaras Island',
     'dialect',
-    '2b6ca3f0-8b06-4373-875d-92c9c39b072c',
+    '3ad1ce81-4d7a-420f-8aa2-d0b006032bce',
     NOW(),
     NOW()
   ),
   (
-    'f7d759bf-ca18-4c04-9067-1d2e0655d1c2',
+    '12a70547-40d9-4f1d-b36f-79a36ada2eb3',
     'Khmu: U',
     'dialect',
-    'd669818e-7182-4d28-aeda-4b682c7ddf35',
+    'ac5f6206-153b-462a-951d-8b88d807b936',
     NOW(),
     NOW()
   ),
   (
-    '75c22f38-784c-4df5-b7dd-acd5b3570595',
+    '139a8cb8-5ef6-41f7-9ff3-856c12f4ae4e',
     'Kayong: Quang Nam',
     'dialect',
-    '0efb5604-8311-41bd-abcd-5d3e8c13b4c3',
+    '2e170ea2-657d-4805-a8cb-fff0663a388d',
     NOW(),
     NOW()
   ),
   (
-    '5460b08b-8a15-44e9-a678-019974e7cc9c',
+    '285be520-492f-4a35-80db-d296496e7303',
     'Chukot: Enmylinskij',
     'dialect',
-    '43751544-0229-49bf-a191-e4e30ff90e83',
+    '68bcca4e-7733-4c23-ac64-177d0cb31b07',
     NOW(),
     NOW()
   ),
   (
-    '838be36d-e1ee-4ae3-88c3-c6728b8bc3d9',
+    'da848f54-c9b4-41ac-b81e-207c413ffeaf',
     'Bemoyo',
     'dialect',
-    'a8653ffa-5b16-4bb0-a5a3-641bd3d383db',
+    'dee8d62c-504a-481b-8776-e6a99434320c',
     NOW(),
     NOW()
   ),
   (
-    '72cebaf2-ebd9-45f7-af5b-300bfbccd130',
+    '5a377107-37e1-4850-8aa3-c596d5f8c1a6',
     'Pashayi, Southwest: Tagau',
     'dialect',
-    'f740f828-f79b-4b3c-a6e6-e78e2472cce9',
+    'a1e51069-2f58-4e5b-bd22-b63547db2c0e',
     NOW(),
     NOW()
   ),
   (
-    'eee94639-63bc-434c-aa33-7c113ba14c39',
+    '45eb2da0-b7c7-4013-926e-3df03714473d',
     'Huastec: San Luis Potosi',
     'dialect',
-    '6ab25b69-bcf1-4462-829d-b326f1eadc70',
+    'b976c768-dfa6-454e-806f-3b313dea6356',
     NOW(),
     NOW()
   ),
   (
-    '9f11a4e5-1a2c-4c85-9077-f20e8ee6af6d',
+    'a93bc2bd-d353-4b56-bf71-5eeaab7c12ff',
     'Mabaan: Twok',
     'dialect',
-    '6b84a8ec-84af-4ad7-b4e9-ce58d482c40a',
+    'd0dc35cc-4f38-42c9-a88d-2a599d739039',
     NOW(),
     NOW()
   ),
   (
-    'c75a4aa0-cfca-46a2-93f1-41b7db2c711a',
+    'f3f81f8b-1416-46ff-a647-45020bb05730',
     'Kitali',
     'dialect',
-    '14f5af38-f929-47df-8bfb-c6d49c800322',
+    'aa82a3b1-778d-41e8-b6e3-3aaed7bbb61e',
     NOW(),
     NOW()
   ),
   (
-    '93e00b12-e61d-45f7-af5d-cc8baf640b14',
+    '840f0b41-208a-45f2-ba73-bef19a8bc40d',
     'Tugutil: Kusuri',
     'dialect',
-    '6493f7d6-43bf-4510-b864-3e7ecc24f96f',
+    'b50a6cd2-a60e-4314-8ca9-757b9f706781',
     NOW(),
     NOW()
   ),
   (
-    'aedfd26e-100a-465e-a01a-6177f9552e61',
+    'ba537d5e-9c8c-4974-8eee-00ce5232e294',
     'Loma: Gbunde',
     'dialect',
-    '4f1bdb5d-d2bd-4a84-b963-f8e88dbf1eb8',
+    '70b65aa8-e693-4270-b8b9-8dc8f6c49552',
     NOW(),
     NOW()
   ),
   (
-    'e656e22a-e6ca-4cfe-af1a-5f9b65f1bcd9',
+    '49ea0f1b-7ffa-46c8-b9fe-79fd44fef23b',
     'Bomboma: Bokonzi',
     'dialect',
-    'b70ca91f-39f1-4e71-acca-74ff613b1445',
+    '30cd0913-c239-485b-8d53-68f7b6e98633',
     NOW(),
     NOW()
   ),
   (
-    '9fd5c905-0607-4cfe-80cf-b23a1dfb39d5',
+    '11e2195f-500e-457f-80bb-56aa01a774d8',
     'Panixtlahuaca Chatino',
     'dialect',
-    'e0a45dba-cef0-4579-9579-824a3e37d2f3',
+    '4d27638b-4aaf-460a-969f-9a12546de58b',
     NOW(),
     NOW()
   ),
   (
-    '9d945fbd-e0ae-4aee-8830-c52a8e1ff283',
+    'c2a82e1a-965c-431a-b6d3-6d338d957501',
     'Luri, Southern: Mamasani',
     'dialect',
-    '6b2ec793-d7f7-4935-9c5f-03138bdaee4d',
+    '8e9b9a10-4585-4f3d-a7a3-13bd2db38bb1',
     NOW(),
     NOW()
   ),
   (
-    'ba75b72f-73ba-4e49-bc19-d21774919aa5',
+    '3d151789-c77a-4b83-b78d-74b6b8c7da0d',
     'Gbaya-Bossangoa: Gbabana',
     'dialect',
-    '2105b897-f313-4bd5-a408-81627d2ebbab',
+    'da3cb300-4a84-4eb8-b838-021bc4991b51',
     NOW(),
     NOW()
   ),
   (
-    'c865dcd0-a223-4eea-b140-bc5fe331e56a',
+    '14fd2b59-e685-49f7-a18d-84b19e2ffb4c',
     'Fijian: Nayavusa',
     'dialect',
-    'a1523a5c-605c-434d-902d-d86a65122d4b',
+    '87879a02-0420-4c8d-9d2b-4e72bf86dbc2',
     NOW(),
     NOW()
   ),
   (
-    '3261930d-d86a-4852-a840-e51e6263cbb6',
+    'c1d30379-f88e-4e31-83da-293feb8ee7e5',
     'Bemba: Nwesi',
     'dialect',
-    '7609d8b7-cab4-4d4c-8ec6-79474485efac',
+    'bd645385-c717-424c-8d8f-23afbbc8b062',
     NOW(),
     NOW()
   ),
   (
-    '78318e4d-6323-4a27-a3e7-dc019c555842',
+    'ee033ed8-e433-4a3d-b771-bd67de772640',
     'Burun: Abuldugu',
     'dialect',
-    '2729cb81-d266-4179-abd3-42d576281733',
+    'a05f68e0-8707-4463-8899-15ebc0491240',
     NOW(),
     NOW()
   ),
   (
-    'c5516e58-e30e-4f7b-8146-a7d7660f6744',
+    '9594285f-cdd5-4194-b935-d684e00a630b',
     'Dimasa: Hasao',
     'dialect',
-    '50937d23-307b-424a-adea-c540ea2dc891',
+    '1be75e0e-7bea-4d81-a6ae-c84b9d513fb7',
     NOW(),
     NOW()
   ),
   (
-    '101c8a7b-dc56-4474-8169-3f850b76bf28',
+    '068f1c9d-2f98-40b3-9ff0-c9efbdac1c02',
     'Kiribati: Banaban',
     'dialect',
-    'a072e929-1228-4406-863e-115c24e09c7a',
+    '9b28df0b-6484-4d29-b508-e0aa51c2229c',
     NOW(),
     NOW()
   ),
   (
-    'c065cce1-41e7-4e26-ac8c-df9bf7b79e27',
+    '5e5675c9-60f4-4f22-88bd-3b04875e3e40',
     'Chin, Songlai: Mang Um',
     'dialect',
-    '5fc41822-bb06-4769-9c02-0621c6fabb44',
+    '4f197770-64fb-46f7-8049-c40788dd2408',
     NOW(),
     NOW()
   ),
   (
-    'd6e42321-550a-4784-b55d-65b556791d77',
+    '3ef5e70d-9c06-4af0-9085-a2be66765b18',
     'Kalami: Rajkoti',
     'dialect',
-    'ae92d015-3d52-41f7-938e-a15eadbe9088',
+    'b9d764e9-df31-4595-8094-c3e87f689c87',
     NOW(),
     NOW()
   ),
   (
-    '86df8102-6eb2-424e-b42c-92b705b2c5e9',
+    '73c9eb80-0f24-4fa9-a420-51cca63d6a15',
     'Mixtec, Yosondua: Yolotepec',
     'dialect',
-    '91d5b5a3-20cd-4123-a0e1-193f651ac7fc',
+    '7542513c-fb81-4584-9693-629f95a3992c',
     NOW(),
     NOW()
   ),
   (
-    '1dda7bb0-b5bf-44d8-8d83-06a98583fa69',
+    '9f33366f-9958-4115-83c1-f69f631082b1',
     'Miao: Xiao',
     'dialect',
-    'fb9acc55-5d2d-4f43-aeab-392b9ec8f4f6',
+    'f4d340ca-d34c-41e2-8163-65528f55f64c',
     NOW(),
     NOW()
   ),
   (
-    'c48619c2-ca62-44c8-a696-bbb5b37fb90a',
+    'c74baee0-acda-4078-8b7f-48e39463f7c6',
     'Burmese: Yangon',
     'dialect',
-    '901df073-479c-403d-8582-1bf5656a131f',
+    'd631e719-1a1d-40f7-8f9f-352b2d222697',
     NOW(),
     NOW()
   ),
   (
-    'd4c9ed70-ee47-4908-a509-e0179166f065',
+    '71bd041b-79c4-49cf-b785-1a30b406fad9',
     'Hindustani, Caribbean: Trinidad Bhojpuri',
     'dialect',
-    'bf587c04-ade0-4384-9c9b-bab74e735142',
+    '0661689b-d58f-4052-86dc-3d10d2cc4647',
     NOW(),
     NOW()
   ),
   (
-    '6d3d1b23-7c4d-465e-872a-4aeab81b9310',
+    'f68f175d-0ee9-48aa-9bd3-e07a90151be8',
     'Aghul: Gequn',
     'dialect',
-    '6f2588b5-df2c-4672-bff2-ff35e56cd564',
+    'bf530679-9b49-4d0d-a5bd-6982229fd983',
     NOW(),
     NOW()
   ),
   (
-    'f1182bb1-45ae-42f6-b353-db4963a29ce4',
+    '16d36861-39fc-4198-a301-126fec4b27be',
     'Karang: Ngomi',
     'dialect',
-    '0f54d4d0-28c7-478e-b005-45138a22ea6b',
+    '2682020e-764c-4bc1-bab9-5853894d67a8',
     NOW(),
     NOW()
   ),
   (
-    'ed6507b8-c5ee-42ed-b923-0ce9e6c8f309',
+    'be596379-8768-4862-af75-483a86591871',
     'Kolami, Northwestern: Maregaon',
     'dialect',
-    'f4800a4e-7904-418a-9122-5a66b5ea912f',
+    '934c4cd4-f865-4a8b-8e64-5aa455ec71d2',
     NOW(),
     NOW()
   ),
   (
-    '477c8630-a614-4ed8-8bbe-b9a9b00ded3a',
+    '22197033-5627-4e78-9671-377017bb5f7a',
     'Gizra: Waidoro',
     'dialect',
-    '97983175-da0b-4e16-ad86-6b961db95a1e',
+    'fe8c9888-2a09-4d1e-b1ba-7a4830107b56',
     NOW(),
     NOW()
   ),
   (
-    '1a7987a1-a947-4a72-ba5c-292710f628aa',
+    '1446b0ef-8b10-4a8d-8d7a-6824c22c23a6',
     'Hungarian Sign Language: Sopron',
     'dialect',
-    'ab9d89df-886c-4a3b-98c8-1d0a31329170',
+    'bb615c1a-13c4-4145-b889-5828b55c0c3b',
     NOW(),
     NOW()
   ),
   (
-    'e28eb512-3643-431b-ad66-98ecc97e7228',
+    'b8f9eabb-99da-481f-a76a-344e303b667b',
     'Pinai-Hagahai: Luya-Ginam-Mamusi',
     'dialect',
-    'e0bd7e5c-1b2f-4ebe-b469-cea60787b512',
+    '8250c15f-030a-435f-aeda-cb0dbd94803a',
     NOW(),
     NOW()
   ),
   (
-    '6e85cf2d-6080-49a0-8872-087d5590b469',
+    'b0de37a6-7d46-441f-ab7e-81f23756a9e7',
     'Retuara',
     'dialect',
-    'a73614af-4a16-4969-af22-e9580b35a1de',
+    'a7d2ab20-f30d-4f92-b012-b143774bf599',
     NOW(),
     NOW()
   ),
   (
-    'bc91672c-1cd3-44b7-b6bb-c2926b75daa6',
+    '56500040-e15b-4e3d-9273-fcc78940d9b9',
     'Khasi: Khynrium',
     'dialect',
-    'b2638024-8235-463e-86cc-955f903950c2',
+    'd1b3e895-3305-49d4-a8e7-b6ff25e405b6',
     NOW(),
     NOW()
   ),
   (
-    'c428f1f9-eead-4237-810f-8cb7e5486beb',
+    'ef012d60-6953-4aa8-8bdc-3a44ad2949bf',
     'Plains Indian Sign Language: Navajo',
     'dialect',
-    '186ad559-58ed-49d7-b726-b2b0f572dd17',
+    '9d58c863-a1e4-417b-86a9-669e30e455ef',
     NOW(),
     NOW()
   ),
   (
-    'affb7f78-dd5d-42ba-a055-4d7ce095ccbc',
+    'f736bbb4-329b-40e3-99ba-c290b5801122',
     'Anong: Nora',
     'dialect',
-    '5f7d03c5-ece3-4d4f-a305-35f358adfa9c',
+    '6743da37-5b26-4bd4-953f-fc08a197f90d',
     NOW(),
     NOW()
   ),
   (
-    '33bd10f1-a6ee-408d-a8f7-ba532230b4bd',
+    '1ab2b3db-da63-466a-884e-327fe5d9e768',
     'Bari: Kuku',
     'dialect',
-    '8ffd89db-7154-4927-823e-c75a10cd980c',
+    'e8d4cc73-5729-4047-b7fb-95e2faea9837',
     NOW(),
     NOW()
   ),
   (
-    '192cd602-ae75-488b-9767-781046fb7cd2',
+    'a92998d1-eabe-4a0b-ba7b-69aa3684f2c3',
     'Jere: Boze',
     'dialect',
-    'a16e1b45-ee59-4e90-964d-1e294de4b827',
+    'b8ce9566-3fa8-4636-9f59-aaee1bc7db85',
     NOW(),
     NOW()
   ),
   (
-    'c2675798-3733-4aa9-981f-1d56626f0fc7',
+    'eecd5ba0-04f0-4090-8f13-21a56a8ebce6',
     'North Wahgi: Banz-Nondugl',
     'dialect',
-    'edc9586b-c4c4-43f2-a612-535a98191cc0',
+    '94a26be4-d781-4733-9c14-d7aa39bd5e85',
     NOW(),
     NOW()
   ),
   (
-    'f4d55bec-b29d-46af-bf5e-08bc560d1fb6',
+    '69ec4ce8-4d2a-46fc-b4ec-f54687589938',
     'Pomo, Northern: Sherwood Valley',
     'dialect',
-    '3b05e4b2-7ba8-4bf7-865f-68e1edb66a8e',
+    '0e9a56b5-8363-4609-86fc-86301b423048',
     NOW(),
     NOW()
   ),
   (
-    'ae6239c3-1883-4405-88f5-6eb1a6f3e610',
+    'd7fef94b-c661-4f54-a6e2-625f16bf51f4',
     'Evenki: Haila''er',
     'dialect',
-    'b56de074-192d-4fb7-b639-23f84ed48b5e',
+    'c5ec4114-4fc9-4dbc-b09c-e672aa8d6d4a',
     NOW(),
     NOW()
   ),
   (
-    'ddedf5c8-8704-4668-8f7f-aa4499cba89a',
+    '2f425d29-8fd5-450c-9e11-1b98670e51f2',
     'Arabic, Chadian: Shuwa',
     'dialect',
-    '6dd79d7f-732e-4de1-a39f-7d93e32fad3f',
+    'bb7fadf0-de0f-4697-9321-b4a1be4994f3',
     NOW(),
     NOW()
   ),
   (
-    'dbb5d7e9-e300-41be-9669-58b3cbe59601',
+    '147ea845-a4c2-4e39-9959-7b7569b343bc',
     'Triqui, Copala: Baja',
     'dialect',
-    'a7a4028b-4da6-4c2b-99a3-1595731072c3',
+    '2eacf486-01f3-4a37-a67a-90cc98aece6a',
     NOW(),
     NOW()
   ),
   (
-    'ffbb646c-c8bb-42e4-a5d2-b573a69e8d91',
+    'd8e27c6e-e754-4ef2-8c8e-5fd7f3e338f8',
     'Tami: Wanam',
     'dialect',
-    '50928414-c172-4d94-b3d2-eeb4847c9fe1',
+    '8495135f-bc20-4b6f-b2e9-378c585038f1',
     NOW(),
     NOW()
   ),
   (
-    '338bc172-cefa-4000-be10-4157668440be',
+    '271b6364-f3cc-4229-95f4-7a49798d1588',
     'Syriac: Western Syriac',
     'dialect',
-    '9d65b4c1-60d1-4668-8045-75eaf53864a1',
+    '39320a1d-ab88-4f87-a371-ef059c12370f',
     NOW(),
     NOW()
   ),
   (
-    '49756556-1a8f-4f98-b9e2-a6b590724e47',
+    '4fc043ba-7e56-4207-bf61-744ccf25ae7a',
     'Kalanguya: Northern',
     'dialect',
-    '2eacf0c7-5c6d-4985-af33-6b338e6d077d',
+    '455afb49-bc62-4fd4-8937-34b6f9ff0ee9',
     NOW(),
     NOW()
   ),
   (
-    'bb3b5b14-962b-4939-a7db-86548971c31f',
+    '2579bf66-ab90-4ecc-9219-968c57af7fe4',
     'Kir-Balar: Kir',
     'dialect',
-    '906a4e16-f7ee-4e21-b71b-84d36c9b81f7',
+    '849c7a42-768d-40c8-8dc3-4ab0ebc0afec',
     NOW(),
     NOW()
   ),
   (
-    '38b14ba5-7806-4015-97c7-35c965ebc5ea',
+    '70e3e59b-27fc-47a3-b918-302cfe1430b5',
     'Kalmyk-Oirat: Sart Qalmaq',
     'dialect',
-    '30e26dfd-7650-40af-a067-c6db06099b05',
+    'dd1b95a1-0b3a-4a82-8fca-239243e9e985',
     NOW(),
     NOW()
   ),
   (
-    'c3546408-3bfb-4433-8389-a9d6bdb51b7d',
+    'ec65504e-0229-47e7-a6e1-fac49249eff4',
     'Pokomo: Kinakomba',
     'dialect',
-    '1ddc86af-16e5-4a10-8b3c-e07dce41d076',
+    '379f6c8d-0ff3-4b73-83df-6704a25815ce',
     NOW(),
     NOW()
   ),
   (
-    'f064420a-d59a-4eb2-8b48-952152890f17',
+    'f4c7cfbe-ed10-4dfb-9068-066c18aa75e0',
     'Soo: Moroto',
     'dialect',
-    '25635655-e425-4c0d-8fbb-bbfa6c324aaa',
+    '3d14852d-4ea4-4bc1-be10-e9964c5c4a89',
     NOW(),
     NOW()
   ),
   (
-    'cec793ea-a6f2-43b7-a56a-b89f2ed2e4d4',
+    '4c38be47-7a8b-4867-8754-a5ea8136d3cc',
     'Kulango, Bouna: Sekwa',
     'dialect',
-    '2327c4d2-783d-479d-9088-43c6795321e0',
+    'ec0f2d8f-6615-4bfe-8263-808bcee82ed9',
     NOW(),
     NOW()
   ),
   (
-    'a096ad19-338f-4daf-a4de-15b52501b11e',
+    '8d1f34fe-59e7-4265-a18d-bed95ff67586',
     'Kibiri: Aird Hills',
     'dialect',
-    '4dba4799-7618-4604-bf7f-e371847ec51c',
+    'd435c397-ddec-408f-a365-0a42d449849f',
     NOW(),
     NOW()
   ),
   (
-    '1ce9a90b-4069-4ded-844a-70558444a3f4',
+    '3c5ca8e5-038c-4364-a721-f997bf254d59',
     'Gondi: Bhamragarh',
     'dialect',
-    '5e4b7b25-95d3-4258-aed7-dd42aee02091',
+    '7cb8790d-ec24-4c0d-a250-3cdf09f9fa2d',
     NOW(),
     NOW()
   ),
   (
-    'a93c9c5e-599a-462b-af60-ead4d1042d7a',
+    'f4f2e51e-9de3-4474-baa5-fcafdec3572b',
     'Mundabli: Buu',
     'dialect',
-    '6094cc66-0566-4f77-8d39-63123eed9e6e',
+    '24a0e2ee-ebd3-4ec5-874e-ccc520d4921b',
     NOW(),
     NOW()
   ),
   (
-    'feb1c8a2-9106-4c1a-af13-bd67188fda60',
+    'f9706eef-6bba-4ab8-a3b7-1533571e6d8b',
     'Biak: Fairi',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    'a71a4506-62b5-4e8a-bb23-29dbe077582c',
+    '9449ea10-9353-4ec8-84d0-0d264d3986a4',
     'Spanish: Central American',
     'dialect',
-    'ccac7a39-0c78-4104-82d7-9cb7752b145d',
+    'bafdc29e-89f3-464e-aa12-a9d7826e4140',
     NOW(),
     NOW()
   ),
   (
-    '66cb1a24-0fa3-4f40-8011-ec76efc2e38b',
+    '15dddb07-5e7e-4dcb-8513-6038f9b7fc6b',
     'Sim Simla',
     'dialect',
-    'e48e7ca3-f87a-4173-9729-425b7330a871',
+    '95e03f27-acaf-4729-a41b-8b4cb0df54e5',
     NOW(),
     NOW()
   ),
   (
-    'e93a4b37-09f1-4c48-a58c-2978f8b9559b',
+    '6c988225-09cb-44dc-b030-6527ad63d1e2',
     'Ndundza',
     'dialect',
-    '01f7b36e-a5c5-4090-9f20-2624383c4025',
+    '7f6b2839-c1c5-4615-afee-04b02a7a7b4f',
     NOW(),
     NOW()
   ),
   (
-    'cc6fcecc-f09f-49a3-8a42-d845bfe5f90f',
+    '70d594be-886c-443a-92ab-9a4b8cddce3a',
     'Soqotri: Northern Soqotri',
     'dialect',
-    '18f732e0-ffdf-4397-b8c2-2a590f118e4e',
+    '5dada358-4b6b-4657-af6d-56b803aafda0',
     NOW(),
     NOW()
   ),
   (
-    '47f8754f-2e3f-4829-afdc-c46891099c37',
+    '41620799-17e3-44d7-815a-4d9748c46434',
     'Fordata: Larat I',
     'dialect',
-    '27edb7b1-a162-4b3b-a024-30bbff1fe57b',
+    '9ac13397-e9df-4a11-8fd8-b3d6c839c6f1',
     NOW(),
     NOW()
   ),
   (
-    '1d0f374c-6bf9-4a15-acb9-64a99716225c',
+    'deaf5780-8ed6-4b40-97b1-c8bce94c4fc6',
     'Bajau, Indonesian: Wallace',
     'dialect',
-    'c02f150c-9784-460f-9a5d-61123383e226',
+    '46669b49-3b50-4f1c-9982-921841153931',
     NOW(),
     NOW()
   ),
   (
-    '9551d324-59da-411f-b5c4-054d4eab61f4',
+    '1d2be37d-435e-40e7-a978-53db1b21c1a1',
     'Tagoi: Tumale',
     'dialect',
-    '9c91761c-d936-4bbb-b4e0-a1ceec4a8658',
+    'a3c0ddf3-b629-4018-a488-e9f796df5936',
     NOW(),
     NOW()
   ),
   (
-    '44413c97-a6ba-442f-b682-f042b0092455',
+    'ed57ee58-622a-4578-b31a-321fb7178d5f',
     'Mumuye: Gure',
     'dialect',
-    'd2915650-30ea-459a-83ca-5e69d63b6178',
+    '4096defe-a0b6-426c-af7d-4217a54b6be3',
     NOW(),
     NOW()
   ),
   (
-    '46681856-b43e-40a7-b736-4e67047cb736',
+    '9a138b54-47ed-4b74-aa10-a4751622ff3f',
     'Gbari: Izem',
     'dialect',
-    '21f02162-29cc-4055-8875-9d0c593d1225',
+    '4340a3a3-4f95-4b27-bfa4-727a24ade2a3',
     NOW(),
     NOW()
   ),
   (
-    '1247b353-ab7d-497c-9f94-47c454acbee7',
+    '19e5a4af-9d3b-44b1-92ac-e04404cb7f95',
     'Waropen: Waropen Kai',
     'dialect',
-    'f0ebed1f-56c7-419a-a725-ea044a1b0762',
+    'a65382b1-3481-4a02-ac1e-c606ac85ee38',
     NOW(),
     NOW()
   ),
   (
-    '96180059-b7ca-450c-ac1a-3a8cf7a372cb',
+    '2e7ca0f0-1127-4408-babc-9ff577e1705a',
     'Kopkaka: Tokuni',
     'dialect',
-    '3d131be6-017c-4a5f-aac9-d37f93f36a34',
+    '13d3420d-e32e-44ca-b20a-dbcbd529946e',
     NOW(),
     NOW()
   ),
   (
-    '39bca13f-dd47-433c-8ae7-d5ca78936f51',
+    '889b4967-4ac7-40c8-ac11-a0e06d6e7be8',
     'Jumli: Sinja',
     'dialect',
-    'bf521f8f-f0b3-404d-8839-7fe872538c8d',
+    'cbd731a3-b6c4-4544-91a7-734b4005be2e',
     NOW(),
     NOW()
   ),
   (
-    'e0a3f4c8-e61b-41bc-a77f-952cbf27fc67',
+    '2451bf40-106a-47ed-906c-f05a9de874c7',
     'Awadhi: Pardesi',
     'dialect',
-    'a04cebc9-00cc-42dd-8c18-8cb2ed1bd9a4',
+    'bf8eef21-eebf-4d91-8293-d958b4ecddac',
     NOW(),
     NOW()
   ),
   (
-    '37563f6f-5827-4a3d-b515-779902ea634f',
+    '7df45383-2deb-41d2-a870-6740fd62c01d',
     'Tai Hongjin: Yuanjiang',
     'dialect',
-    '5340d0ce-c292-4f15-b226-4634bb4df0e3',
+    'a94b2c61-0de8-4c2f-bd7c-5f9f3394fe11',
     NOW(),
     NOW()
   ),
   (
-    'f6fa16ad-c37c-4342-b5b5-db1fb04e42a6',
+    'c81550d1-4615-4c0f-93b0-92d6d01e5594',
     'Uab Meto: Mollo-Miomafo',
     'dialect',
-    'e737dd0e-18d5-4258-bbdf-e17b9dbc7f37',
+    '38eaa451-433e-4b83-9214-b8bbdf88c8ad',
     NOW(),
     NOW()
   ),
   (
-    'd6f47e3e-912b-47de-8432-7ade5377e621',
+    '34fcd6b1-cb2d-45a0-a24d-c03f028ade70',
     'Adara: Edara',
     'dialect',
-    'e97882b6-97a8-43ee-b227-451019d9f96b',
+    '0c1f723b-ada7-493c-bf48-7238f389ae28',
     NOW(),
     NOW()
   ),
   (
-    'b1836c30-e807-485a-bf54-030151b91ad2',
+    'd3fec0f1-7641-4709-a6d6-8b7aaa1af335',
     'Lingala: Equateur',
     'dialect',
-    '13decba6-03d2-4f9a-b04c-34a2076ab137',
+    '11ca7a35-f4b6-41fc-b66d-d94f984bc8a9',
     NOW(),
     NOW()
   ),
   (
-    '60562b84-90a1-4990-bdf5-3881b040422e',
+    'a0794ad5-a325-46eb-a138-201d7bf5388f',
     'Kanum, Sota: North Kanum',
     'dialect',
-    '4bbb5551-0e1f-4331-b432-70c5b7edbe24',
+    'b5b6be86-a291-4f08-9577-d678780cc01a',
     NOW(),
     NOW()
   ),
   (
-    'a5a8bfce-5bc1-436e-860f-83ce1f8bfc6d',
+    '373b99e3-77ac-42a6-99bf-631030ee7c9e',
     'Kulere: Kamwai-Marhai',
     'dialect',
-    '8119edf0-c05a-49ea-8b0f-b89995bd3bc0',
+    'cac9f286-d9bb-41b9-9d0d-39ff6010cdcd',
     NOW(),
     NOW()
   ),
   (
-    '0e5e3224-5662-4e3e-b8bd-bd78a6f40f5d',
+    '132f25b3-2d1d-4a6e-a3aa-3574af9e39cf',
     'Turkish: Eskisehir',
     'dialect',
-    '9641687a-cd12-4388-8f38-415de579332f',
+    '9bb6651e-cd17-4a95-a0d2-169497709419',
     NOW(),
     NOW()
   ),
   (
-    '10018bf6-fa73-4226-9fdb-00717b0ba214',
+    '5122ef95-a79b-4336-8c11-6efa262cefb5',
     'Tagbanwa: Tangdulanon',
     'dialect',
-    '8353e2ca-eeb6-488c-9908-817c8c20c729',
+    '27c9ab48-0042-4762-be69-c87c8eab9701',
     NOW(),
     NOW()
   ),
   (
-    'a3065122-84ae-43c8-9ba8-9d70bdd789c7',
+    'fc7230bf-4ec1-4731-8c6c-b4176c15be55',
     'Manam: Wanami',
     'dialect',
-    'cd2bff4b-c553-43b1-b976-3f861012f88a',
+    '054b3a60-92a9-4052-9d68-834abf256c1e',
     NOW(),
     NOW()
   ),
   (
-    '8910aa96-9a64-45e9-8f1c-064e935fa69f',
+    'f3b64c88-662d-4aca-b0c8-5aae5661bee7',
     'Koho: Pru',
     'dialect',
-    '854344be-d859-4d60-b089-ed8cda1330ce',
+    'bf2ad01e-434d-4a3a-a24e-dcf14c5a0094',
     NOW(),
     NOW()
   ),
   (
-    '9a6f11ce-211c-4d1d-9a46-45fe12cc7447',
+    '1c0e217b-bd25-43b8-b785-0cc99cfa8380',
     'Tamazight, Central Atlas: Central/ Southcentral',
     'dialect',
-    'fbe239c5-716d-4b22-8648-5f9f18b4790f',
+    'b231f779-9778-4cef-b8ea-d480af1b95e5',
     NOW(),
     NOW()
   ),
   (
-    'f50b937c-ba5d-48b4-a4e5-a26c1c8441c7',
+    'c65352bd-3d5e-40db-ac41-503194f1b505',
     'Halbi: Govari of Balaghat',
     'dialect',
-    '96f16256-1f73-4cd5-a4aa-c396c21b3d83',
+    '90f294fc-de3a-4cc7-9fb1-1a4a6f8229d1',
     NOW(),
     NOW()
   ),
   (
-    '1d482a96-3522-453c-84f0-05d86e499b1d',
+    'aeae4a73-45d6-4b2f-8a95-ab6ccf5c0846',
     'Tangale: Kaltungo',
     'dialect',
-    'c25dc94e-7404-42b7-9a1c-56fea7cec196',
+    '3877df28-b220-4ebd-b141-83d229f11d61',
     NOW(),
     NOW()
   ),
   (
-    'd941a03c-250b-457d-ad76-da7d5941af9d',
+    '9e45fe6b-bee3-4f21-a527-c8a138808e2d',
     'Longuda: Nya Tariya',
     'dialect',
-    '12f4f4ff-cfcf-4800-beff-f4e18d55732a',
+    '97f7c812-0d2b-4a58-bd62-9bed5db15dff',
     NOW(),
     NOW()
   ),
   (
-    '8843eed2-c044-40e4-b655-54f3dcea02d2',
+    '71cd9d2b-7f79-43c2-a2b0-92b813eb9af0',
     'Tyap: Gworog',
     'dialect',
-    'b3eed954-72d5-4564-8043-77969dcf954b',
+    '0a6a702e-09a6-4730-ae39-fba957fda8e5',
     NOW(),
     NOW()
   ),
   (
-    'c6c5bd46-1d53-4bed-b892-90fefb39999a',
+    'fc8ef85e-4f4b-4a88-a6cb-7d750c8b1e04',
     'Utugwang-Irungene-Afrike: Okworogung',
     'dialect',
-    '3be56aa5-e617-4c2d-a88a-3fa9bed4147a',
+    'd9526cab-94da-4716-9ddc-084c2508abe2',
     NOW(),
     NOW()
   ),
   (
-    'd17064ea-7561-475f-93d3-f55b9858032c',
+    '00cdbffc-b2e7-48ac-92ab-13f8cc3aea5a',
     'Godie: Nugbo',
     'dialect',
-    '27a09b12-2921-4985-b4e9-b029d2cd1c99',
+    '56405196-92b9-4205-8551-243aba8ae12c',
     NOW(),
     NOW()
   ),
   (
-    '9168ba49-ff40-4a2e-9403-556e39206863',
+    'c26b6668-d493-4fc8-97b0-45ad3841c241',
     'Naro: G!inkwe',
     'dialect',
-    '5f7b8139-4cdb-4680-a728-c7a4b98a9461',
+    'c91eb67b-ec15-4eb1-968d-e35edbc51a06',
     NOW(),
     NOW()
   ),
   (
-    '3e33b2d0-3001-4d82-8704-c7714ffb6895',
+    '0559ae42-fa71-4ec6-900e-3332dde3b9e5',
     'Mufian: Balif',
     'dialect',
-    '0c627c63-376c-46da-afd4-ed9ccf0c282d',
+    'cf09605a-0eaa-4b63-be19-a5f97b1e7e1a',
     NOW(),
     NOW()
   ),
   (
-    'b1ea9836-8df8-4252-a32c-af5aca292c83',
+    '0e66bc25-0d7c-4797-bd03-ca30b0af6ede',
     'Tat, Muslim: Surakhani',
     'dialect',
-    '5bc63b84-29b0-456c-8780-62def44162b9',
+    'fcd8adc0-68c6-41b6-a8af-fffed61e9c9c',
     NOW(),
     NOW()
   ),
   (
-    '730b593f-e6fe-42fe-bee9-04dacfcc6bf5',
+    '9cf916fa-65aa-4394-add2-c0588f4d384f',
     'Montagnais: Western',
     'dialect',
-    'df711446-1c62-4606-b664-9ecf674acd7d',
+    '90109c3f-cfd2-42b8-8eb3-ddf0a5d1904d',
     NOW(),
     NOW()
   ),
   (
-    '6c098423-e169-43f6-a6a9-e97917cc5b98',
+    'b233ab6a-40c7-448d-a1fd-4e9738c247d2',
     'Yukpa: Pariri',
     'dialect',
-    '93e1fb00-b579-4f1d-b8c2-13b9948d7826',
+    '4373f9fc-9bfc-4a0d-8881-fc2fed12ce52',
     NOW(),
     NOW()
   ),
   (
-    'a0dcfba4-82b3-4558-bd46-3af6b513844f',
+    'bd35774d-97a3-4f36-a1ad-bef9c555556b',
     'Anyin Morofo: Anyin Alangua',
     'dialect',
-    '57bce868-6413-4057-9ccd-420ef18cc4a6',
+    'c21de548-b6c6-497f-994a-7283d69b2293',
     NOW(),
     NOW()
   ),
   (
-    'c9bcb972-60a2-4946-bf6c-2c5ed515dd90',
+    '2499ff98-dff9-4455-ba06-80693bf1090d',
     'Nias: North',
     'dialect',
-    '37a16907-38fa-4ce3-a7be-8bd6547a2c06',
+    '31ebbf67-1fcd-468f-897b-f1ba5d022307',
     NOW(),
     NOW()
   ),
   (
-    'af2dfd71-a993-4bd3-8287-40e5ce1d1cc1',
+    '75a28701-d973-4224-a8fb-27d41e455912',
     'Chin, Thado: Kipgen',
     'dialect',
-    'b96b3365-e0ae-4f87-8075-40e7ad1992d8',
+    '57eb8543-7961-4bef-82f6-d3533414e484',
     NOW(),
     NOW()
   ),
   (
-    '98719b9b-41f0-47da-b208-b80c51d3aaf6',
+    '5477bb60-c3fe-413a-a513-a34fdb81120e',
     'Khakas: Koibal',
     'dialect',
-    '13d05d89-2ef3-435e-b861-489ad8434da2',
+    '89a2f4bd-bf74-42ac-8bad-a28c432272a1',
     NOW(),
     NOW()
   ),
   (
-    '92a26009-5e31-427f-8e6a-37520ca79398',
+    '2436ab36-ae32-4818-909e-18ace4d7a027',
     'Yale, Kosarek: Tiple',
     'dialect',
-    '2b53b6d5-efba-48e0-befd-1da4fac44706',
+    '62af2471-8c05-4b69-b7b9-73f3da9a7aef',
     NOW(),
     NOW()
   ),
   (
-    '85c4d25a-7859-4039-9bef-2784606efc7d',
+    '9770b7ac-516d-465e-be85-10f2ff188710',
     'Myene: Nkomi',
     'dialect',
-    '45e0d28e-5c56-4ecb-b1e1-8c4696ca6d0f',
+    '23828222-3d76-4d84-be9d-eb0b1e3256a9',
     NOW(),
     NOW()
   ),
   (
-    '09f37c27-2857-4a1d-9499-028fa1eaa0e0',
+    '179118d8-551e-48c5-a44e-c3017f633015',
     'Lika: Liliko',
     'dialect',
-    '129c36ab-d225-4a2e-9a0b-ef5d8cb3a38c',
+    '12ef4d08-8756-437f-9277-db7ab03964aa',
     NOW(),
     NOW()
   ),
   (
-    'e95f1db6-4f3e-47b7-aebf-b063befa8256',
+    '5dc47d04-f352-44f0-b2b8-04885d80a0bb',
     'Krio: Aku',
     'dialect',
-    'e72fbdbd-e027-4709-903a-4887e26c2e3b',
+    '78561d01-b480-42a0-bd7f-4fa2e6a9f99f',
     NOW(),
     NOW()
   ),
   (
-    'c27e18c8-3186-43e9-ba70-03eb3a442e0e',
+    'bc1b6b29-7c16-484b-ac95-bdcf60b91662',
     'Aari: Biyo',
     'dialect',
-    '1b155828-c9f1-4b8d-b9c9-6a7077f6cb2a',
+    '51a1aacb-a0ce-47b6-9557-8ac775f2a7b1',
     NOW(),
     NOW()
   ),
   (
-    '9be2fc83-14c2-46e4-9755-31e52f9a9918',
+    '06a90fad-e64b-4a7b-8fcc-41d7ad3c3be6',
     'Sangir: Manganitu',
     'dialect',
-    '816d4778-22b6-4c88-8f45-4a1f1dae4049',
+    'e968d1ca-c235-4289-a0de-1ccda89aaa06',
     NOW(),
     NOW()
   ),
   (
-    '43a17deb-2ff5-4ff8-9523-eff0243b1879',
+    '9b52e396-f506-4bc2-bcfb-5b870f3df5aa',
     'Loma: Buluyiema',
     'dialect',
-    '4f1bdb5d-d2bd-4a84-b963-f8e88dbf1eb8',
+    '70b65aa8-e693-4270-b8b9-8dc8f6c49552',
     NOW(),
     NOW()
   ),
   (
-    '765dbdc6-9dda-49ff-bec6-06f2950714ab',
+    'f493b08b-bbfe-4284-98ff-0bc2f0149f45',
     'Fulfulde, Borgu: Korakuure',
     'dialect',
-    '5fac4cb0-8f55-485a-8855-e41157c3514c',
+    '10c50ee4-54a9-40fe-996f-a034d6658479',
     NOW(),
     NOW()
   ),
   (
-    '711f1700-966b-46f3-a08b-763df1e0733b',
+    '217cd4f3-a48c-45eb-a850-f4860ee448cc',
     'Kambera: Uma Ratu Nggai',
     'dialect',
-    '402bf823-3a86-4a0c-a6d7-5624521e0341',
+    '63cccd3f-0162-4e03-9069-ed26d530ecd1',
     NOW(),
     NOW()
   ),
   (
-    '837c79b3-68d0-43ec-ad8f-875720f14fcc',
+    'e1647093-e9ea-4b4e-a11c-7f9180b5293b',
     'Indian Sign Language: Mumbai-Delhi',
     'dialect',
-    'b3b305bb-675e-49eb-a546-5df0a1d63e80',
+    '23a4ac9e-d326-47e6-bf6d-28ddaa3bcc6b',
     NOW(),
     NOW()
   ),
   (
-    'edaaf8c8-f9e7-4eab-9ff4-38ac171ffa8c',
+    '417f4b9f-d21d-4843-9fdf-56d1666e514a',
     'Maiwa: Manigara',
     'dialect',
-    '75818f1c-9a6e-4c07-b637-d8c3d841d5be',
+    '0eb865da-0e4c-4f59-918f-92e23db2b0e6',
     NOW(),
     NOW()
   ),
   (
-    '5fc914ae-1c4f-48e9-a29d-dab828a10a42',
+    'd75ad4e2-1b17-4074-a9f0-931f05571ac0',
     'Chinese: Shaowu',
     'dialect',
-    'f6928956-c4c8-4364-96a5-b79af8d81444',
+    '7d2219a8-20c5-4572-acc0-cf8e4cee03d0',
     NOW(),
     NOW()
   ),
   (
-    'c4b783a7-bf77-4adc-b151-cb08c14ca08b',
+    '767ea855-7975-45fc-982c-2da7311ee445',
     'Fijian: Naqumu',
     'dialect',
-    'a1523a5c-605c-434d-902d-d86a65122d4b',
+    '87879a02-0420-4c8d-9d2b-4e72bf86dbc2',
     NOW(),
     NOW()
   ),
   (
-    'fdbe3ba4-3c52-4d19-aa0f-76f6d6477dd0',
+    '6cebe1e4-c96f-4ff4-9122-dea316c7379f',
     'Oriya: Mughalbandi',
     'dialect',
-    'e6c11d9a-5290-4b1c-a94e-a339f87a0715',
+    '02602174-708f-49f7-8989-28ffc92b063e',
     NOW(),
     NOW()
   ),
   (
-    'cbf331a3-f24f-42d8-b752-d61e8c7f4dbf',
+    'f6e1627a-3a97-4cdc-9058-6e5bacb44bf2',
     'Ingrian: Hevaha',
     'dialect',
-    'ecbf06ac-6d22-483b-9d10-8d49f77e8f76',
+    '6a5d4a13-263c-4610-bbdf-6a3f8da69cd5',
     NOW(),
     NOW()
   ),
   (
-    'eb9b1185-5dbb-49c0-91f6-9f9a5fbe56b7',
+    'ba4ae50e-be67-4866-9ac1-d03a53a792b7',
     'Grebo, Barclayville: Wedebo',
     'dialect',
-    '8d84ddec-caa8-4ffc-97a0-132bc4b567fd',
+    'be66b5a2-bc1e-425d-9bb6-ead53a0588ec',
     NOW(),
     NOW()
   ),
   (
-    '6175f65f-8c7c-4f58-b7bc-c40f16ed931c',
+    'c3331735-b8b6-4e77-bd2e-854a785a1389',
     'Talise: Tolo',
     'dialect',
-    '19c459e8-1d3e-42fb-a71d-0f22a80a7c2c',
+    'a5a5a07f-8d9e-4af0-afff-71d023ffc3e9',
     NOW(),
     NOW()
   ),
   (
-    'ddd5c21b-efeb-462e-aadd-beaed31948d8',
+    'c7518aa9-19cb-4cc0-8aac-313d0571633d',
     'Senhaja Berber: Ayt Hmed',
     'dialect',
-    '7cde847b-f268-4e18-84ee-74fd86564f54',
+    '91d760c7-8902-40ab-8452-d7e7008f7df3',
     NOW(),
     NOW()
   ),
   (
-    '10c29210-b9f2-49ee-8b37-9494098b1483',
+    'df00d493-0f54-454a-83f4-0fc257c6d0d7',
     'Kusur-Myet: Myet',
     'dialect',
-    'cb41a83c-951b-4523-9bb2-7d4dc7395157',
+    '5ca3ef59-1b2b-460d-bdb5-e520537864b0',
     NOW(),
     NOW()
   ),
   (
-    '7f9a92a5-9ada-44a1-b375-b199615d4ec5',
+    '451bd252-d021-4b96-a8a0-d433e0661510',
     'Zapoteco de Tabaa: Yojoví',
     'dialect',
-    'b473a938-33fd-405f-b5fd-195ca3f424fe',
+    'bffe5577-c255-45d7-a98d-4445d154b0ca',
     NOW(),
     NOW()
   ),
   (
-    '2eba7ef5-6e5a-446a-a26c-63d67505cc5f',
+    '763ccc72-f006-4f4e-9603-f2fdfb065b41',
     'Kuhane: Mbalangwe',
     'dialect',
-    'f1dbdfba-245e-4eb4-a4f5-1962c8f32a24',
+    'b7a0c420-dbca-47c4-a2e8-77d6c3faf94b',
     NOW(),
     NOW()
   ),
   (
-    'df894cb0-6297-4d32-8284-469adfde5421',
+    '41012fce-eb1c-4e44-acd9-746ee722cfed',
     'Gumuz: Modea',
     'dialect',
-    'b99a33cc-1071-4b42-8808-af33edde5545',
+    'abd7f661-9625-4376-b1b4-886cf0bc9f6c',
     NOW(),
     NOW()
   ),
   (
-    'adc91b52-f3e4-4727-b3c2-319fb25d367e',
+    '81fdda52-569b-4a99-8131-d6c770a3f695',
     'Lipo: Eastern',
     'dialect',
-    '053c1cce-74ed-466b-ae66-96fc3301cdbb',
+    'ff86f306-80b8-49b5-9225-0199f1c06418',
     NOW(),
     NOW()
   ),
   (
-    'a1680a2a-c1e5-41dd-9406-73a3f1229ba8',
+    'b1df084b-5e3c-47a7-a260-3f6a41e4c3b4',
     'Bima: Sangar',
     'dialect',
-    'a0f238c9-b836-449d-855a-4228dc1f4bd3',
+    '9e33e549-d333-45b8-828e-35b37984f0d0',
     NOW(),
     NOW()
   ),
   (
-    'acceb0b3-8cd1-41c1-9610-69a443dd7779',
+    '9873c20e-c8e4-4ada-b57b-5251dce505f9',
     'Javanese: Manuk',
     'dialect',
-    'f1bd7362-37e3-46c9-942c-8e49d6fa1816',
+    '95552978-5746-4f72-a06a-f7ad2dbd2efb',
     NOW(),
     NOW()
   ),
   (
-    '1e21ef61-ccf4-41e4-a013-250abe8d085c',
+    '1eab9ac5-289a-4e4a-bff4-ddc5077a242b',
     'Anal: Mulsum',
     'dialect',
-    '12645db7-8388-4328-b757-01ca3808232e',
+    '2c0dbc02-9ce4-4626-87d7-2b79789b8a8a',
     NOW(),
     NOW()
   ),
   (
-    '0ee82a60-786b-49a5-b529-f191db15b487',
+    'b8efa342-608a-470d-9ad9-32d570a418ce',
     'Nobonob: Ari',
     'dialect',
-    'aacb14b2-13d8-4db9-809a-734afab77bdd',
+    'fbf3a056-62c0-4d1a-a97f-61977d6bcde3',
     NOW(),
     NOW()
   ),
   (
-    '762f69b2-4d47-4921-94b9-31745fa8a871',
+    '8db30065-85c4-4f32-85f2-37abe4e4b5d7',
     'Caka: Asaka',
     'dialect',
-    '3d74e8d7-fee9-4809-bea3-5c23fbff710e',
+    'ea4a8a35-4b79-4474-8157-6c2e2333b6f4',
     NOW(),
     NOW()
   ),
   (
-    'ad0ebdc4-7ffc-448b-9c61-17e42fee19f0',
+    '423ad1c1-62b5-40bf-9efa-e87f5a7ffb37',
     'Varhadi-Nagpuri: Kunban',
     'dialect',
-    '7c980aca-f935-4114-b526-1bb5036f9b25',
+    'df115ed7-bd27-4a95-b995-1fa0e07bd239',
     NOW(),
     NOW()
   ),
   (
-    '3c3e5c7f-8854-48bf-b163-15676691cd52',
+    '1996d644-2d1d-4eec-afc3-951f164b5aef',
     'Rajbanshi: Eastern',
     'dialect',
-    'a36921e7-3018-4ba4-92a9-76ffdee09cab',
+    '9e6cceb5-23cf-4fb0-bdd3-90fe41d27cc3',
     NOW(),
     NOW()
   ),
   (
-    '5f69dfd9-0814-4d7f-a066-660036a1b283',
+    'fa9aef76-dea6-49ec-824b-119214d30f1d',
     'Saparua: Siri-Sori',
     'dialect',
-    '394eac44-af87-400d-98e7-59c4c6502b49',
+    '125d705a-1487-480e-af5d-bf1db4101ca4',
     NOW(),
     NOW()
   ),
   (
-    'cb454ab6-3164-471f-8c58-0641e256fc7c',
+    '98c4a288-13cf-4e3c-bec1-ab0c78397450',
     'Kannada: Shellekyate',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '933affee-6272-471f-95b5-37a746358feb',
+    '2700d8ae-d6a3-41fb-b704-2bd9418e50bc',
     'Dii: Mamna''a',
     'dialect',
-    '1b616739-b57f-43cc-82fd-ea0d9c60d8af',
+    '69c35ccf-97b3-4e56-ae81-4a49a4785911',
     NOW(),
     NOW()
   ),
   (
-    '4f1f96c6-616e-4800-b7c2-75ea300ab59b',
+    'bb3878bb-cf4d-4a6f-8bb5-edafabbf509e',
     'Tulehu: Liang',
     'dialect',
-    '4120a221-261a-4cb2-8d34-8aea7052ca38',
+    '3d730ad9-f18f-4469-b05b-8e684a8f6461',
     NOW(),
     NOW()
   ),
   (
-    '5f0800ce-e549-4960-bd72-ea576a60bd42',
+    '7b69688b-20c4-408d-8a4f-9e023811dd13',
     'Bete-Bendi: Bete',
     'dialect',
-    'aa450986-f87d-4931-96bb-1f4922813fae',
+    'f7db95fe-b0eb-49f9-8b51-18e590758b24',
     NOW(),
     NOW()
   ),
   (
-    'af17530c-2e45-45bf-8637-3d73d0bdb1d4',
+    '27d57416-b8ac-4ac1-b774-87e2d2edd3b1',
     'Kissi, Northern: Liaro',
     'dialect',
-    '40ca4dd0-3279-4627-93dd-1f8b6a41fe2a',
+    '343c09b8-7dd9-4870-ad7f-1bc711a9235d',
     NOW(),
     NOW()
   ),
   (
-    '50fde254-05ed-46ae-bc96-5608ef621d0e',
+    '549505df-e951-4bc6-a294-17ee621903a5',
     'Chippewa: Minnesota Border Chippewa',
     'dialect',
-    'ba06234c-7631-4a16-b39a-9f42bd964e5e',
+    'bac3530f-abba-49aa-83c1-f75ad36dd3b3',
     NOW(),
     NOW()
   ),
   (
-    '86e80159-7745-424c-b88b-c8234bbcead8',
+    '686bfac5-375e-4fde-bd64-f3c67ca14e4e',
     'Chinese, Min Dong: Hokchia',
     'dialect',
-    'a966f8f3-c68a-4546-b9f7-37014dda3dc8',
+    'b45c8b62-3ffa-46ee-a174-4d4c64ffaeb1',
     NOW(),
     NOW()
   ),
   (
-    'e7b29774-ea91-4d55-bcda-3f751d62553c',
+    'd420728d-6993-4b8a-a764-08b9fb61f6ce',
     'Mam: del Soconusco',
     'dialect',
-    '174ad5f9-c1de-42d0-b7fe-8920df959c70',
+    '96104770-52f7-4022-9dcc-8a2d94743e2c',
     NOW(),
     NOW()
   ),
   (
-    '363672bb-78d8-4137-9cbf-db86668563c0',
+    '08840b33-10c5-48d9-87cb-9fa910c15896',
     'Tai Loi: Doi',
     'dialect',
-    '1fbb1827-1d04-4f72-905d-63f75902ede4',
+    '29267611-a788-4766-be88-0e4abed11695',
     NOW(),
     NOW()
   ),
   (
-    '3a596e4c-6bf3-41d1-98e2-512a74034a08',
+    '9ebe686b-12a8-4f6b-b370-e6207d4e0e10',
     'Oring: Ufiom',
     'dialect',
-    '66211c53-dd1d-4a21-90dd-bb8632ca701a',
+    '5ee56a06-8e2b-4af8-9b20-de911bdc8c80',
     NOW(),
     NOW()
   ),
   (
-    'c61325cc-c1c5-407e-ab61-ca92928eae5f',
+    '8fda0532-185f-4b91-be36-03ba931680dd',
     'Lokaa: Ugep',
     'dialect',
-    '3bf05835-bb15-451d-9d65-d52671da0020',
+    '98b0e521-e194-48eb-97f2-2d6c8cbd44e1',
     NOW(),
     NOW()
   ),
   (
-    'd74621ed-5173-4984-b56d-ba14ddfcd647',
+    '678de844-96d3-4a81-b249-eac257d08385',
     'Lamet: Upper Lamet',
     'dialect',
-    '2369e730-6af8-405e-8dcd-4ff7077d4ea1',
+    '182e3d58-9c73-463a-a60a-4a3aa9812fb6',
     NOW(),
     NOW()
   ),
   (
-    'fd88b6fb-3095-4f69-9ad9-b2b78f50f383',
+    'e3747b88-31b7-466e-a063-94f5af093b3f',
     'Aja: Tohoun-gbe',
     'dialect',
-    'a9d6c6dc-96eb-46cf-8951-0f2629b8f485',
+    '7a91687b-2abb-42ed-8bed-7600e122caaf',
     NOW(),
     NOW()
   ),
   (
-    '43733785-3ae1-48f3-b608-ab4973fac14d',
+    'f7387982-3016-4040-bdf1-5efc406a0df5',
     'Biak: Ariom',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    'a4c87367-ab7d-4324-8e51-aa0868af45a8',
+    '852c7927-c79b-4925-8011-9eca03a05f46',
     'Kui: Batulolong',
     'dialect',
-    '98400805-de1b-4146-a8c8-952be5dfa8c9',
+    '078dc4c3-1b68-4d36-9355-c924e1958917',
     NOW(),
     NOW()
   ),
   (
-    'ec405b5b-5e15-4c4a-83ac-86ac3f26d0a8',
+    'aac84d70-47d3-401d-9bb2-570634653446',
     'Saxon, Low: Mark-Brandenburg',
     'dialect',
-    '83d9997b-5546-4ec8-ad0d-0113cdb3fc77',
+    'e5d5ba25-4223-4ef0-8cbf-6052521d9f47',
     NOW(),
     NOW()
   ),
   (
-    '5f574d55-a008-4821-bc7e-57ddff61956c',
+    'b3ea6f5d-a2d9-4c2c-a30e-35e0f5d017a5',
     'Iguta: Andoho',
     'dialect',
-    '53a4bff0-5ebc-4385-843d-b8f68c3141a4',
+    'be7b952c-c771-4713-b301-7f5fef799f52',
     NOW(),
     NOW()
   ),
   (
-    '9521ec61-9faa-458a-9ee4-91296add5a7c',
+    '161a6b7e-c454-4371-9983-219777e18cc3',
     'Meru: Igembe',
     'dialect',
-    '72ba097a-1617-486f-b074-c094c71140e8',
+    '055f6392-0bbf-4e64-8e4a-4cf12cac0e9f',
     NOW(),
     NOW()
   ),
   (
-    'd80d7981-da19-490e-b06f-58ec873f5fd1',
+    'cd8b06cb-df9b-43a1-9244-2663764843c7',
     'Gitxsan: Gitsken',
     'dialect',
-    'd6602c52-df6f-46b6-b819-89b0e5846964',
+    '3ad19ef3-a433-413d-af88-6f2e9f7db048',
     NOW(),
     NOW()
   ),
   (
-    '37478a1e-cbdb-4a12-86ab-d771300a1ea9',
+    'c3df41c2-047e-4dbe-a522-ffe54ee38586',
     'Bontoc, Central: Jinallik',
     'dialect',
-    'a90d2577-90e1-420d-8269-a04c6e77e882',
+    '7a99b749-b4f2-40ea-9bd5-441fb83aa3dc',
     NOW(),
     NOW()
   ),
   (
-    '620ddb59-7d30-4aac-86d8-28f677d0eb4a',
+    'be31e791-1895-41af-a70a-bfa3e3d2d75b',
     'Arabic, Gulf: Bahraini',
     'dialect',
-    '164482d9-9087-48c3-b194-d95a457e4e5c',
+    '5d41eb5c-3a56-4f98-914b-43eac290eb9c',
     NOW(),
     NOW()
   ),
   (
-    'f1c48704-c225-4508-a806-3e17c881eaa8',
+    'd1517cb5-d22e-43a2-a4aa-1ca060fb9536',
     'Degema: Usokun',
     'dialect',
-    '961bc20a-96c2-4de7-80e0-7b1a3c7d03cf',
+    '2946232f-d6ca-4cce-8a31-0595d30302a4',
     NOW(),
     NOW()
   ),
   (
-    '8cca316d-d877-429a-87ee-b723d1771cd6',
+    '82e9de3f-3a35-4ec9-808c-1d1489f3e3f2',
     'Lokutu: Loboanga',
     'dialect',
-    'dbebc26e-ab27-4aba-a358-d6902a93d020',
+    '3426c653-9051-4d52-a62e-3b70f0676b43',
     NOW(),
     NOW()
   ),
   (
-    'adfa43ed-045e-47cb-804b-bc33ab3fda47',
+    '79edb120-5727-4eca-b6c6-671718c22b68',
     'Adzera: Amari',
     'dialect',
-    'aaa367e0-2da9-4695-898e-afa7b6e59029',
+    'd093d4c9-ac99-46b3-b3e6-aa0cd95a3a32',
     NOW(),
     NOW()
   ),
   (
-    'eaeb146f-7de6-40c8-8d0b-3e67e02df0f0',
+    '66b1ba12-4149-4e33-a5d5-0da1dcb417c4',
     'Haki Piki',
     'dialect',
-    '254a5c01-0906-4b11-a443-5b807f6f29e2',
+    '01e9a6cc-a0b7-4536-9551-a1104a45f879',
     NOW(),
     NOW()
   ),
   (
-    'c1e44c4f-58d6-4e89-9988-ed2564fd6945',
+    'cb6c350f-1aaa-4700-9890-618cf45f6b8a',
     'Khmer: Krom',
     'dialect',
-    '820a3fc1-c48d-450e-b42e-4989808d58b4',
+    'bd1dcecf-a113-4a72-8ec9-e6e34826f9d2',
     NOW(),
     NOW()
   ),
   (
-    'bec816da-cd54-4691-963a-e75ad31a088c',
+    '4d89f805-e2ed-45df-a7eb-78ea436449f6',
     'Akoose: Mwamenam',
     'dialect',
-    '9a31d985-9016-45ba-8d93-a431d372b49f',
+    'e9985942-6604-43cf-9b1b-7212d0c57ffc',
     NOW(),
     NOW()
   ),
   (
-    '96b5e1bb-3312-4d6b-8390-713d515cc85d',
+    'd4999905-d945-49a0-9261-524c11997809',
     'Buang, Mapos: Mapos',
     'dialect',
-    'db71383d-cd52-45c7-b634-53f1a27721fd',
+    '4ca10e61-df03-406e-943d-c0e74d55400b',
     NOW(),
     NOW()
   ),
   (
-    'efc1516f-c567-4e5a-930f-8e583c93d247',
+    'b8127502-9fb9-4e61-a91c-f6bf9a3e03d1',
     'Ambel: Metsam',
     'dialect',
-    '42c3e80e-a81b-4313-8764-2cf6224fb148',
+    '1bc65972-9318-4d99-a8ea-f98d1295afe9',
     NOW(),
     NOW()
   ),
   (
-    '28fdfbb7-8266-4791-a91e-5db21ff22d50',
+    '9b56487d-e7af-4ebe-92d4-abc2a83ef89d',
     'Lontes',
     'dialect',
-    'd887ebe5-ebd7-4f4c-be5d-5826ca1d5b96',
+    'e4a0ea7e-72ca-4254-8c3d-5667a0ba9450',
     NOW(),
     NOW()
   ),
   (
-    '19f2c40a-eedd-4ec4-9dce-098980013d50',
+    'fb0eb1b1-fd73-4701-a46a-fc5d56fca2f1',
     'Corsican: Venaco',
     'dialect',
-    '96db93e2-6713-4b73-a948-7bfbbcde5991',
+    '4e24a5ff-abee-4546-a5d8-9a2ece148975',
     NOW(),
     NOW()
   ),
   (
-    '9d286238-5f3a-40b5-841d-1cf8e813e1cc',
+    '7ce75078-988f-4c60-b040-1ccde00ae763',
     'Romani, Balkan: Greek',
     'dialect',
-    'd3a55b7a-8942-433f-9ae2-19a40ea62116',
+    'de173db6-793c-4c69-8538-a9f455c16106',
     NOW(),
     NOW()
   ),
   (
-    'e8dc66b7-78c2-452e-84db-7767cda5190c',
+    'dad5e79b-3ddf-434c-beda-6230686a18c8',
     'Wa, Paaruk: Yaong Leen',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'ec26931c-4fc6-4231-9bd0-4a64fa482e4f',
+    '7ed096c3-0546-4851-918f-1555c6d6f282',
     'Kannada: Thigalaru',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    'b7a53d6b-15f4-44ec-9e32-a4f29d581ed8',
+    '71dcd420-4296-40a9-b3be-9e4332b9bf4f',
     'Burum-Mindik: Somba',
     'dialect',
-    'd19c4206-7be4-4c03-a2e3-a1d6a7742a9f',
+    '0934d68e-3059-4af0-8e71-d2453ee88877',
     NOW(),
     NOW()
   ),
   (
-    '41e42509-7e64-49cd-9802-b82ac96d26b8',
+    '5d1545a3-999c-44c2-a4d7-72ee41774ddf',
     'Albanian, Arbereshe: Campo Marino Albanian',
     'dialect',
-    '91878d82-a0fb-4371-94fb-09eb010f2b63',
+    '93c50475-e71e-4b00-8ae0-0907c08a0ee1',
     NOW(),
     NOW()
   ),
   (
-    '9b2e258b-7236-49ef-856b-b3b96f4ecc39',
+    'b5d99a2a-b916-43c2-b066-30b96b305a75',
     'Jola-Kasa: Huluf',
     'dialect',
-    '446b27b4-8e34-4e5d-a625-0e3a2882c0ac',
+    'fdde4445-9a51-48f9-9e1e-8b2790f98aec',
     NOW(),
     NOW()
   ),
   (
-    'd3a58ce2-e662-4056-a5cb-325e08f01bf9',
+    '09cc4dff-1e0f-48ae-8640-b3786ac68f7c',
     'Hyolmo: Eastern',
     'dialect',
-    '1eee2b36-9476-4f44-b74e-b0b634ca142a',
+    '4afd345f-7479-48a5-bd7e-cf5ab382928c',
     NOW(),
     NOW()
   ),
   (
-    '384f7271-51d4-4fdc-8c90-39f8c8506503',
+    'be87aca8-82aa-4eaf-8589-e08939471c00',
     'Naga, Tangshang: Gawkchung',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '6c0be6ef-994a-4c0e-9a6c-76601d17ea77',
+    '6294a6ca-86e6-4d03-8391-6404136a201b',
     'Odual: Adibom',
     'dialect',
-    '80df1b1d-ffcc-41d4-91d1-0e7f97556eab',
+    '39cd766a-2851-486e-ba95-4b9d26d83ea4',
     NOW(),
     NOW()
   ),
   (
-    '8954ddf5-d1c6-4caf-88a3-b9a238c39d5b',
+    '0bd25b32-3883-41a6-80ba-6b8c6c23fd1b',
     'Tewa: San Juan',
     'dialect',
-    '612d0115-2587-423e-b4a6-dadf24102793',
+    'b38272bb-6c06-4461-ad30-0f67fdc44f60',
     NOW(),
     NOW()
   ),
   (
-    'cd5e2557-be08-46c2-aad7-90163fa50dc4',
+    '8474b059-acf6-4e79-ac49-dcbd1bb4579f',
     'Mongo-Nkundu: Lotoa',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'f1d3be91-f41d-4178-b749-6dcc404f529a',
+    '964189f9-3a44-483c-8977-8e45accd65ea',
     'Wa, Paaruk: Aishuai',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    '6800c925-436c-4cec-b7ba-93c7d87c1a70',
+    '80619907-4ff1-4ae6-973f-d739d017982e',
     'Kula: Kula Watena',
     'dialect',
-    'c0aa4cf3-5489-4a95-9be8-42ce88744456',
+    'd31a35e4-4e2c-49e8-af54-ce4cc3dc3e9d',
     NOW(),
     NOW()
   ),
   (
-    'af1f335a-669c-4b48-8185-01e3c1bc7bd5',
+    '4872c593-7978-4e3d-b518-69be50f280d9',
     'Dadibi: Erave',
     'dialect',
-    '0ca8be4f-2f66-4fbe-a10d-5d085c986261',
+    '9c4d80bb-f576-4057-84ae-801753c9c008',
     NOW(),
     NOW()
   ),
   (
-    '35aea5f2-f6d3-4d8e-961d-02af228eb2c2',
+    '24e9e972-1757-47cb-a8ef-6c8642bdbe06',
     'Mesem: Momalili',
     'dialect',
-    '0152a60b-6a6d-402b-bd4e-49913fa6e347',
+    'bec264bc-aa11-4161-9105-7fa5970854b1',
     NOW(),
     NOW()
   ),
   (
-    'a09bd1aa-2e99-4804-844c-4fa254df5ff5',
+    'ad3db6b7-b5fe-4f12-ba5f-7764f8129122',
     'Lomwe, Malawi: Anohito',
     'dialect',
-    'b806368f-84c1-4a3d-be30-89e078d7f5c7',
+    'af92b8f2-7d10-4767-8f5b-394624549440',
     NOW(),
     NOW()
   ),
   (
-    '514f6c7d-a342-4768-ae99-bf81796f51eb',
+    'f891972f-295b-47cc-8343-716d5c0ed71f',
     'Belarusian: Northeast',
     'dialect',
-    'bcbc332c-0720-4c2b-8934-1c0a2fa84564',
+    '207ac39b-0ae4-40dd-8afa-9aae43e97773',
     NOW(),
     NOW()
   ),
   (
-    '2fb7a260-1f74-4096-b42a-8334c7d94e29',
+    'c10a930d-62b1-47ee-8fb4-dcbd74130b2e',
     'Chin, Eastern Khumi: Lemi',
     'dialect',
-    '9b58ece5-3b80-4a1b-80b0-eed58bd68f3e',
+    '4b38520f-55e0-4fea-8dbb-622cc171aa7b',
     NOW(),
     NOW()
   ),
   (
-    'b463d8a4-9bc5-482f-98d5-6a50dabbfcf4',
+    '3a689ede-c5b6-42d7-bfca-94ededf37793',
     'Dido: Sahada',
     'dialect',
-    '81ac3d44-37a3-40a4-a353-61be82dbb126',
+    '3b8fede0-56a0-4e17-897a-ebc709b793b4',
     NOW(),
     NOW()
   ),
   (
-    '41147a4f-c1fb-4984-89ab-dfcce59146b7',
+    '505df07c-862b-4421-86c9-d96fc776c2bb',
     'Medumba: Mambəmα',
     'dialect',
-    '1e845195-48a6-4d65-87f3-8ebbe89da8ca',
+    '716c9cc6-6092-4c59-8121-29d3b2a0350e',
     NOW(),
     NOW()
   ),
   (
-    '6900b118-1c47-46b2-893c-deac92631b00',
+    'c872416f-0f93-4032-87dd-fc7c0761c3d6',
     'Gumuz: Dewiya',
     'dialect',
-    'b99a33cc-1071-4b42-8808-af33edde5545',
+    'abd7f661-9625-4376-b1b4-886cf0bc9f6c',
     NOW(),
     NOW()
   ),
   (
-    '89c0fd26-8512-46ad-a215-dc9d38cb1241',
+    'cdbd7258-b1af-4b43-9e56-ff3ede9d8bd5',
     'Koraga, Korra: Ande',
     'dialect',
-    '2fd2c5ef-5de3-4ba7-9f08-b47d7ac780b0',
+    '92f06946-9fd2-4296-a6b2-a276b93fc392',
     NOW(),
     NOW()
   ),
   (
-    'e5d3df05-6514-4af8-b29b-db56099a91a4',
+    'dfd0344a-df25-44a1-847b-c513e84580f6',
     'Sukuma: Nelaa',
     'dialect',
-    'f6fb96d4-6f09-4a19-ae8e-df9adf58643f',
+    '4802a9a9-67f2-4f1d-b6f0-dbb3a4747af1',
     NOW(),
     NOW()
   ),
   (
-    '79c9d9ab-34da-452d-9157-a64c3fe0dc59',
+    '4fd29d5a-a5fe-4469-832c-30d0df9f8204',
     'Hyolmo: LangDang',
     'dialect',
-    '1eee2b36-9476-4f44-b74e-b0b634ca142a',
+    '4afd345f-7479-48a5-bd7e-cf5ab382928c',
     NOW(),
     NOW()
   ),
   (
-    'edc33910-2dcd-47e0-8f3c-754440d544de',
+    '662ca576-2876-4adc-99b6-260723dbd4b1',
     'Naga, Lotha: Tsontsu',
     'dialect',
-    'e3038cac-9346-4e18-b1a0-304267e29df1',
+    '7f1616f0-c5f4-4481-b802-cefb29c36dda',
     NOW(),
     NOW()
   ),
   (
-    '3c94d9b6-8aa0-4ef1-b441-8f15c196d5ac',
+    '79651421-0a99-4a59-b4b7-afb8b2dd0650',
     'Nusu: Central',
     'dialect',
-    '1b2b191d-ea76-413b-bcb1-81a51903608b',
+    'dbdf0bff-c0a2-47be-9825-b3a75cbd6e6e',
     NOW(),
     NOW()
   ),
   (
-    'e0bd08b2-9933-403c-a70b-0aec822d66f7',
+    '8a520d02-0ebb-424d-a7d6-f2fec92e5960',
     'Golin: Yuri',
     'dialect',
-    'e29aa7f3-ed92-4c67-8dcf-c2b575587549',
+    'd3b25c90-6e6e-4b4b-9e68-bd22ed900f0b',
     NOW(),
     NOW()
   ),
   (
-    '9da0759e-95f1-4de5-9e7d-8b2cd40cdf56',
+    '91b332a6-5b6b-4f46-b50a-98708775b7d4',
     'Chhattisgarhi: Baigani',
     'dialect',
-    '4ae9ad10-af15-49e9-bc04-79975bacfd5f',
+    'a1335743-657c-4907-8647-16012a0a7f68',
     NOW(),
     NOW()
   ),
   (
-    '2d4add3c-58ba-428e-932b-b099a94fb37f',
+    'b93aad21-2154-4d79-896e-9750e5b3fcc6',
     'Izon: Ekpetiama',
     'dialect',
-    'e985cdf2-383a-4f7a-9358-4ad0a7de1dab',
+    '370e7c61-56d9-4975-9689-70bcde90777a',
     NOW(),
     NOW()
   ),
   (
-    'd5c87ec4-822d-45ad-8257-27f80734e188',
+    '4fe97cda-e7b6-4260-9dad-d7e897d03a7b',
     'Kurdish, Northern: Southwestern Kurmanji',
     'dialect',
-    'd4f80462-fa06-4769-bd8f-b5e839083e20',
+    'a67a5baa-df5c-478a-8f12-8d64319d6d8f',
     NOW(),
     NOW()
   ),
   (
-    '04f1040c-b42f-46d3-9e0e-28cf1fa8b95c',
+    'e7a7bc0f-3402-4c55-b1ca-6d8a295c23d9',
     'Naikan: Wynadu',
     'dialect',
-    '7720be35-6f40-4d8b-8783-78e118ed0669',
+    'ddcc88cf-5f7e-4d8f-9150-65d54844f2cc',
     NOW(),
     NOW()
   ),
   (
-    'aa3bcf36-89e5-4c43-b8ea-0e044c4af849',
+    '52372003-0ce0-44de-815a-ec4293543ef5',
     'Romani, Carpathian: Vend',
     'dialect',
-    '746b07c3-2302-46f2-b2e3-4463386c1a6c',
+    'a84c02ea-fefc-4820-b22e-8c051a2928fb',
     NOW(),
     NOW()
   ),
   (
-    '610f4cd2-9150-4304-85bd-6fed61632039',
+    '3ab4b1af-fdd2-44fc-940e-e67214e5455b',
     'Itneg, Banao: Pikekj',
     'dialect',
-    'e68ff44c-985f-4739-96dd-2f194ede56c4',
+    'f66b306d-72fb-407e-a690-64421e9219c8',
     NOW(),
     NOW()
   ),
   (
-    '5a5d164b-bf7a-40e3-a421-00a26c412f23',
+    '9b3a90b4-18c4-49e6-b130-efc02c678131',
     'Paradhi: Madhya Pradesh',
     'dialect',
-    'e87aec7d-ac83-4879-8366-f1ee3e98b7c7',
+    '863d91a5-5d48-4288-ac48-4ccdfd09c5d7',
     NOW(),
     NOW()
   ),
   (
-    '94ff4788-0200-4da4-bb9b-7c0d850f50cb',
+    '2e5b1167-3513-4c2d-b806-4d0984e89023',
     'Lafofa: Jebel Tekeim',
     'dialect',
-    'db24a5a0-acb3-451c-9644-be834f34318b',
+    '53f3a471-4294-4bbc-aaad-94aaa38913f5',
     NOW(),
     NOW()
   ),
   (
-    '09233207-c278-4264-bb48-1452dca7de98',
+    '73c2c007-3ad5-4fd7-97d7-88134cbc7cac',
     'Madi: Moyo',
     'dialect',
-    '23d8e799-a693-48be-985d-eafb4415768d',
+    'fe40036d-0234-4e02-89c6-97e532d4e2b0',
     NOW(),
     NOW()
   ),
   (
-    '8ae659db-709d-48d3-97f3-5dc071ec6604',
+    '20886cfa-af44-4433-96bb-97957dc0ac91',
     'Konkani, Goan: Sarasvat Brahmin',
     'dialect',
-    'd15362d7-0df5-4360-8b2a-d61e650e1ec6',
+    'c8e0b552-719a-409e-bc67-d0b4c8558e03',
     NOW(),
     NOW()
   ),
   (
-    '975dd558-79a3-43a3-81ba-a3fa7f992959',
+    '33be0626-621b-4964-8532-31b022e1c3e8',
     'Zapotec, Cajonos: Yaganiza',
     'dialect',
-    '5d23fa60-eb91-47d0-97c9-3394e0abaab7',
+    'caebe2c1-7b96-4633-88d3-d6d5046548c2',
     NOW(),
     NOW()
   ),
   (
-    '43b339cc-856d-401b-a900-16f412c10c77',
+    '995a0f37-81a3-41f6-92bb-18ac0dde2304',
     'Arabic, Hijazi: North Hijazi',
     'dialect',
-    '71a92a04-2a31-4ee6-bdca-5c553a0277a5',
+    '09e34477-03a8-4628-a4f9-5372caa6f1e3',
     NOW(),
     NOW()
   ),
   (
-    '1c9fc850-d699-49cd-bd91-b92a6327589c',
+    '37c7ae37-8358-4a5c-abdd-88b9fb5e2866',
     'Indian Sign Language: Calcutta',
     'dialect',
-    'b3b305bb-675e-49eb-a546-5df0a1d63e80',
+    '23a4ac9e-d326-47e6-bf6d-28ddaa3bcc6b',
     NOW(),
     NOW()
   ),
   (
-    '11b87c4d-b17d-4802-a9bc-e8a6a52954a6',
+    'a3814052-28ce-41ac-b5a3-415cd0687d3a',
     'Gujari: Western',
     'dialect',
-    '55476e4f-1ae7-4be9-9b36-1371652670a2',
+    '5d484dfc-0b83-491f-ba1c-793933b291dd',
     NOW(),
     NOW()
   ),
   (
-    '04bdf8f9-e746-41a5-bb82-b9dc792537b3',
+    'df00e6d8-2ba2-47e1-95ff-4646a37d6695',
     'Bomitaba: Central Bomitaba',
     'dialect',
-    '40d41733-e339-4354-a43c-4f4d954aba01',
+    'd2b3701a-fd0b-4434-9260-7f72561bfe5a',
     NOW(),
     NOW()
   ),
   (
-    '1de07630-47ee-40b8-8734-d52577a7572d',
+    'f01e91be-cba7-4915-a15d-c049412f77d7',
     'Zande: Makaraka',
     'dialect',
-    '88d94038-748d-4b62-a8f5-8abfdd6598cd',
+    '03265679-2edd-4981-9bdf-d850da823a16',
     NOW(),
     NOW()
   ),
   (
-    '72aca37e-50ca-45a8-af07-1673f53b1ed9',
+    '559dffe3-c1bc-4b6c-89c1-1ee52084bf84',
     'Fulfulde, Nigerian: Kano-Katsina',
     'dialect',
-    'd2949c37-3a4c-47e5-b49d-8281fd79b59e',
+    '6d113a90-262a-4ca9-8e11-33dd2ee941b5',
     NOW(),
     NOW()
   ),
   (
-    '737b648d-0260-4f8a-84ab-be2f2d054970',
+    '29057d9c-eb1f-467e-a21b-2704cd7b3713',
     'Kotkhai',
     'dialect',
-    '3629b48e-6668-4faf-87da-e4eba4881530',
+    '4f40f8cd-3b53-49f1-83d1-ee358d5c05ac',
     NOW(),
     NOW()
   ),
   (
-    '2076d7ac-c62f-49d6-b39f-212cbcd000e1',
+    '5f9ceb62-4fc9-4a51-abf3-0119060f1b08',
     'Chin, Asho: Sung Tu',
     'dialect',
-    '4d5b5095-a429-4132-8d8b-493b01f5463d',
+    '5e616405-5477-42aa-9659-e73a6df7210a',
     NOW(),
     NOW()
   ),
   (
-    '468324cf-5b34-4019-beee-c117125d0054',
+    'c584b1cb-ee08-4fb4-8c81-e9e6b1edc77c',
     'Pangu: Waga',
     'dialect',
-    'acd8f499-02ca-42a5-bdfc-45195487a60b',
+    '584d6a57-a8b6-4340-8a62-1fc72bb15ff5',
     NOW(),
     NOW()
   ),
   (
-    '6736f843-ecc9-47ba-9314-b9cae1da2e14',
+    '0af41f81-0c61-45cc-bc98-609dee9e3524',
     'Buglere: Sabanero',
     'dialect',
-    '1fa2e75e-a425-43bd-97c3-5dbb49f0654d',
+    '51d74a3c-c4e2-409e-af0a-922acffe3d9b',
     NOW(),
     NOW()
   ),
   (
-    '07dbdec7-2db6-4489-aa2a-7e240ddc84af',
+    'f5224fb4-f842-4d05-b341-62125b5b0fc7',
     'Apma: Suru Kavian',
     'dialect',
-    '4b0de6ab-840a-428b-9ca1-f3684c4bf59b',
+    'e1efeef6-be28-48fe-a10f-ec0fe269405b',
     NOW(),
     NOW()
   ),
   (
-    '5fe6da54-3ec0-4d9a-92c1-9382cf7e5192',
+    '036c872b-3d8b-4f71-80e9-c321d3eb8361',
     'Nyaturu: Girwana',
     'dialect',
-    '4b2a5a24-7a35-4223-a61f-9fdf77ea3754',
+    '9711c926-6e8d-41eb-8e61-0dc7f1fd7e62',
     NOW(),
     NOW()
   ),
   (
-    '89067cd3-64ef-4781-b0a3-57e15e23c760',
+    'd3478e48-9b3e-46fe-9d37-9950717f7550',
     'Chinantec, Comaltepec: Tectitlan',
     'dialect',
-    'bbea8e74-1b58-4562-bfd5-d79e26f4e33a',
+    'b4cd4048-9573-4022-8fc9-fac7eb7291e3',
     NOW(),
     NOW()
   ),
   (
-    'bfc8b030-a17b-4ae5-95c6-f687091dd86d',
+    'dfcc5172-7f1d-4ff1-8a1c-d6b63d7fb6fb',
     'Bobo Madare, Southern: Vore',
     'dialect',
-    '638a6170-1fbe-4564-a517-2c26719dfbfd',
+    'fbdc907f-17ee-482c-83ac-f6a1f98c48a3',
     NOW(),
     NOW()
   ),
   (
-    '2fcc8878-7c9a-476f-aca7-e52d146843d1',
+    '682fe6b5-e83c-45d8-bbbc-42963b7afe79',
     'Buriat, Russia: Selengin',
     'dialect',
-    '6d6da019-104b-47ce-b651-ba910c594795',
+    'b27e6964-8b6a-4b7b-a0de-2085a80e8cc0',
     NOW(),
     NOW()
   ),
   (
-    'd3245795-516c-47d1-bad7-0f2f028435f5',
+    'a7600e5b-9e54-4288-8556-478bd541f0c3',
     'Even: Indigirka',
     'dialect',
-    'd41e66ff-cd12-4857-b625-d303bc183036',
+    'f339381f-bcfa-40a2-a8f7-d730e294c870',
     NOW(),
     NOW()
   ),
   (
-    '2b41b985-bad0-44c5-865a-afdc5820106d',
+    '97903e34-1c61-4f4b-b77c-5f4ec18b2320',
     'Kamang: Lembur',
     'dialect',
-    '0220129d-2d92-4958-b4be-73941a731602',
+    'b3ae598c-f131-44e1-b0f3-ab0532a4b22f',
     NOW(),
     NOW()
   ),
   (
-    'f6f5824e-c92d-4266-9f24-f9e5d792b562',
+    '03125f04-177e-4bec-b37c-77921f62cc64',
     'Arapesh, Bumbita: Weril',
     'dialect',
-    'd4fa5c29-770e-4945-bce6-eb281e95f8ca',
+    '57be0afb-dbc8-42de-a8da-0151203ceebd',
     NOW(),
     NOW()
   ),
   (
-    'b926aed0-3eee-451a-a03f-9d22685ce7ef',
+    'c8b3ccfd-f4b6-490f-8021-1f6b5eec1077',
     'Romani, Vlax: Gabor',
     'dialect',
-    '0c0215ca-f61e-4f2c-8fbe-ae49dcb0d4f0',
+    '0962dd7c-86ce-4645-a971-7b0c14c3607a',
     NOW(),
     NOW()
   ),
   (
-    '36996d08-e062-40df-b53c-0b8e32f5dd76',
+    '58dfe3d2-a703-4aaf-b94a-fd3f71bd7dd4',
     'Seroa: !Ga!nge',
     'dialect',
-    '9eeeedd2-4d2b-47e3-b015-6672914dc675',
+    '34dbb9c8-cdd6-4b7e-a8d7-cdd13ead10b6',
     NOW(),
     NOW()
   ),
   (
-    '16597492-8dae-4f72-bc2f-daa5077ebaa6',
+    '5249937e-0fdb-433c-b9b2-f24610c6021e',
     'Newari: Pyang Gaon',
     'dialect',
-    'd516c869-6190-4336-b324-e740d2b533a2',
+    'c6efb2cb-2f34-4a3b-ac3e-7ed49c4d2829',
     NOW(),
     NOW()
   ),
   (
-    'fc923493-52fd-4490-bd39-c52c52ee556d',
+    '16eb57d4-cc15-4eca-8153-2b5986033b53',
     'Varhadi-Nagpuri: Jhadpi',
     'dialect',
-    '7c980aca-f935-4114-b526-1bb5036f9b25',
+    'df115ed7-bd27-4a95-b995-1fa0e07bd239',
     NOW(),
     NOW()
   ),
   (
-    'e3f31fd3-be09-4f3d-9205-1225a7b86a59',
+    '0a324e09-dd6a-4568-b662-d7af9cf617a7',
     'Bajau, Indonesian: Poso',
     'dialect',
-    'c02f150c-9784-460f-9a5d-61123383e226',
+    '46669b49-3b50-4f1c-9982-921841153931',
     NOW(),
     NOW()
   ),
   (
-    '69d7402b-aae7-495b-b097-4d9052a3bc9e',
+    '2b001e35-b27e-4b7e-86d9-4cf34c7ccf5c',
     'Soqotri: ''Abd Al-Kuri',
     'dialect',
-    '18f732e0-ffdf-4397-b8c2-2a590f118e4e',
+    '5dada358-4b6b-4657-af6d-56b803aafda0',
     NOW(),
     NOW()
   ),
   (
-    '2b003061-6831-43e6-b9af-62e42ffa2d85',
+    '7b130eaa-2bce-4dc0-97d5-c3eb1391a399',
     'Maldivian: Addu',
     'dialect',
-    '7ccc6815-c91c-41bc-9cec-295d643f81d0',
+    '12845b78-98a6-4911-804e-37ff969cd343',
     NOW(),
     NOW()
   ),
   (
-    '77dabbb8-f816-4e59-8fe1-e26f008f6fce',
+    '984decb5-f78b-468c-a0e6-18781aef6598',
     'Chorote, Iyo''wujwa: Yofuaha',
     'dialect',
-    'ae77f0f6-f54d-4b6d-8d02-6ff1c79e0ea3',
+    'a02cf8f5-d6d6-4c19-8ff1-6eaa1ae961b8',
     NOW(),
     NOW()
   ),
   (
-    'd669af68-ab49-4898-8ae8-3f3aa5a6f2c8',
+    '4a7c7b62-2138-41b2-8464-5053f9f515a6',
     'Naga, Konyak: Tobunyuo',
     'dialect',
-    '187be038-3dcb-4c29-ab69-44a19425574f',
+    'c4af36d2-67c0-4258-958b-20730ae82303',
     NOW(),
     NOW()
   ),
   (
-    '9f3e8f49-1fb0-45c8-992d-e1aaedd10d6f',
+    '85e3db4b-1ff7-4b54-84aa-5a57d059ad50',
     'Omotik: Suiei',
     'dialect',
-    '2f72879e-d9d2-4e66-aae5-9850016f26bb',
+    '307552d1-521f-496d-afbb-e3c395071b6d',
     NOW(),
     NOW()
   ),
   (
-    '90744698-b7a0-4421-b9f6-ccfad2293c2f',
+    '32f7e8c8-bb21-408d-b893-078a075e40ef',
     'Ixil: Cotzal',
     'dialect',
-    'fa4abb99-0db2-4893-83e9-f2071a1f89c3',
+    '685f3cbd-997c-48d6-b196-e834621da2f3',
     NOW(),
     NOW()
   ),
   (
-    '4fd07e18-8cc5-4e0a-a35f-8b1b2932d9c3',
+    'ad775efa-8e0a-43bc-9e97-a7fefc5847ec',
     'Bakaka: Bafun',
     'dialect',
-    '7fa6d603-9974-4797-af4b-a08a5084beac',
+    '3f9afda0-cad7-4925-81cf-9d494f0c61c6',
     NOW(),
     NOW()
   ),
   (
-    'a2809c20-a7f2-4c87-85d6-f63e15a82788',
+    '0fd32d2b-04d5-4c47-9458-2175738fa4d9',
     'Maasai: Salei',
     'dialect',
-    '3e6870d7-cb61-46f7-9cdd-2bba51fa0c25',
+    'c9ebfbaa-6c91-4cab-b763-ca5a5270074b',
     NOW(),
     NOW()
   ),
   (
-    '24aae1ea-2e19-441e-9e31-75fc2b018a33',
+    'a45b166a-9868-458f-b97d-69fe47718676',
     'Naga, Tangshang: Pingku',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '162ce42d-395a-4413-a621-b60865696e52',
+    'b6917f67-3500-4c38-a347-c1acd16f95cc',
     'Yao: Panyao Ziyuan Hekou',
     'dialect',
-    '399899fd-393a-449e-8c9c-5528db991832',
+    '407d2c80-f039-4094-96f6-2354537acd4a',
     NOW(),
     NOW()
   ),
   (
-    '220237c4-4fb9-4c7d-895c-0db83bb28497',
+    '1d69028c-26a0-4c38-91fb-d4e7c16f2007',
     'Bushoong: Pianga',
     'dialect',
-    '8e042fd0-bc45-4ff5-85c1-41b33986fedf',
+    '4b3043cb-ef3b-4f4b-bcc7-a8d99f000fc3',
     NOW(),
     NOW()
   ),
   (
-    '41e33dc4-3e8e-4255-99fc-a606a2769549',
+    '7a376c8c-5ac2-4915-baf1-667311569d1b',
     'Cocama-Cocamilla: Cocama',
     'dialect',
-    '192870ae-41d8-4674-92d9-81a21425a952',
+    '6cd03eb4-7570-4fa0-b128-892661dd26e5',
     NOW(),
     NOW()
   ),
   (
-    '5bc0f91d-dc31-4282-8b34-2652e6181a2b',
+    'a9e85ef9-0a6b-4815-a777-7c7f317e90a7',
     'Yabong: Mase',
     'dialect',
-    'fdb7a71c-a086-4021-89a0-073a374a5e1f',
+    '7d0110ae-1c5e-4311-9288-dfed7a223940',
     NOW(),
     NOW()
   ),
   (
-    '1db5a4b8-b0c0-4fa2-a280-eaa3135bb892',
+    'bf375170-413b-4e5d-81e4-9c232e31bdf5',
     'Zapotec, Guelavia: Jalieza',
     'dialect',
-    '1e06b9f3-8845-45d4-8161-63a88ca6dda0',
+    'd80ef041-a324-4a8d-adf8-f742d7f08620',
     NOW(),
     NOW()
   ),
   (
-    '18ec440e-c3a8-4bbb-ad56-d27ba82ebd13',
+    '4c3546fd-b52f-4de2-b98a-ce8c017eaa9b',
     'Bargam: Kurum',
     'dialect',
-    'd07c6a83-042c-467f-a0bd-c750a595fb6b',
+    'b8afa5a0-0e30-490c-92b7-53c2f0b54c88',
     NOW(),
     NOW()
   ),
   (
-    'c00577ba-075a-4d56-a1fe-ee11bd399245',
+    'af5a5a60-7d90-44b3-bb98-0e46cbad3a98',
     'Loko: Ngoahu',
     'dialect',
-    '01426b60-99b9-4de0-9b4b-83f25ea25e37',
+    '480395f2-a707-4f9d-9ad7-4ed9f17bbff4',
     NOW(),
     NOW()
   ),
   (
-    '4ac72853-704f-48dc-9684-9c70100519b7',
+    '5b33923e-2eb3-40d1-b1e1-0dd756a8ab47',
     'Sebat Bet Gurage: Muher',
     'dialect',
-    '5b5ea0f5-0f0f-4cf4-ab99-b13760f8018b',
+    '31073546-b76f-40b0-bedc-e4a11e23b27e',
     NOW(),
     NOW()
   ),
   (
-    '2e737f66-85ef-469c-a014-bcdf8a1dd85f',
+    'c01ac377-9a69-4f89-9117-7a04e32955db',
     'Jamamadi: Cuchudua',
     'dialect',
-    '99fb74ec-df53-45c2-9f98-0c4325b3ac29',
+    '13122054-6fa9-41b6-a1b7-be10c5b2f8fa',
     NOW(),
     NOW()
   ),
   (
-    'b377d4a4-b859-4914-9b7d-5e34d6762b31',
+    '8f0271b2-ba56-4635-86a9-54c7d48d1dc0',
     'Kowiai: Namatota',
     'dialect',
-    'f715c8df-7acb-4a04-842a-c8f7a8096985',
+    '43659812-7c4d-41a5-b4c2-ad1b6fc71661',
     NOW(),
     NOW()
   ),
   (
-    'dfc8b8bd-3700-4fe9-8681-97ce9c4f5177',
+    '15f1efbe-9ff9-4512-ad10-c3a4d838c71a',
     'Kaili, Ledo: Taa',
     'dialect',
-    'ef0e295f-3edf-409c-97cf-462ee0df0486',
+    '1270d096-2762-4d59-9d20-b144de1248d6',
     NOW(),
     NOW()
   ),
   (
-    '769548b7-afe8-4368-9b5a-bbd712b2b729',
+    '82e14460-8740-4a25-a8f8-50f789b4360e',
     'Wa, Paaruk: Si Viex',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'aa93b770-735d-4cbf-bcdf-92e52be19175',
+    '37a8da69-2643-46ae-9bcf-62a8a8597624',
     'Gujarati: Kharwa',
     'dialect',
-    '670caa56-e4b4-46b0-9516-6ed1055a55fe',
+    'd65972f4-31f5-47fd-9ddb-e1f1ac1bc6ae',
     NOW(),
     NOW()
   ),
   (
-    '280348c6-e064-4edb-80da-943a3dd1f759',
+    '56cab937-b94f-46dc-b456-318ce868c8ac',
     'Mmen: Upper Fungom',
     'dialect',
-    'e524e154-e548-4fa5-b0c3-f686914c1f56',
+    '8963858b-ddb8-4bd1-9a78-305f7d778e07',
     NOW(),
     NOW()
   ),
   (
-    '5fd59d37-bf54-47d9-8fb3-323c8176009d',
+    'a5235ebe-4dc7-490e-9537-78ecdd585e8d',
     'Tatar: Afghanistan',
     'dialect',
-    '6e5de32d-7c31-4e55-a669-007066777148',
+    '9bf0e8f9-fb80-4e9c-9887-1eb713f281e9',
     NOW(),
     NOW()
   ),
   (
-    '0d1f7b03-0580-4563-ac9a-22862cbe0141',
+    '6c465dbb-8533-4ea7-82fc-00acb68e9a6d',
     'Visayan: Aeta of Panay Is.',
     'dialect',
-    '8ef211e7-99b1-46bb-9c4a-2ea59cd762d0',
+    'f53ba1b8-1759-47bb-8310-c373f5f5aeb7',
     NOW(),
     NOW()
   ),
   (
-    '0aaf2a1d-40d6-423d-b5f4-17a98a425af8',
+    'f09bc29c-476f-4ac4-babb-36eaa8d07097',
     'Fulfulde, Northeastern Burkina Faso: Fada Ngurma',
     'dialect',
-    'e8f6993a-6e38-45cf-a08b-35a41dc70bfe',
+    '62a05eed-f5fb-4db7-934f-0c582a1e8d7f',
     NOW(),
     NOW()
   ),
   (
-    '47b9d5cb-52d4-4236-944b-5d0ef89d1669',
+    '15c14041-9256-4afd-94c3-1bdff0607099',
     'Luba-Katanga: Zela',
     'dialect',
-    '1b2e156c-6046-4f05-b42a-8a5163ab94e9',
+    'b8babe42-f496-4bf1-ba8c-b9cfaeb416e8',
     NOW(),
     NOW()
   ),
   (
-    'fb6f96ed-91c0-47c3-bd07-87c68e62bae6',
+    '97b39e85-010d-470f-a9d0-05b66384c647',
     'Tamang, Northwestern: Dhading',
     'dialect',
-    '2622b446-06a1-48a2-ba79-f6fe238b33e6',
+    '9b7fad05-0b2d-4f6c-a94f-1fa72038e616',
     NOW(),
     NOW()
   ),
   (
-    '8a47dfa6-d598-4d31-b4da-49032295e80c',
+    '66a6b980-ea42-439d-996f-f6627f04c676',
     'English: American Indian',
     'dialect',
-    '0d0d1193-8d92-4a07-bed3-28bf76e91d6f',
+    'f0da8c89-6911-43e6-aa5c-35f07eff76ff',
     NOW(),
     NOW()
   ),
   (
-    '0e62ca1d-0b63-4c29-b09d-9fd0826d0a88',
+    'de19d833-3713-42a3-bf26-332ab0dbb31a',
     'Sotho, Northern: Masemola',
     'dialect',
-    '02ff913d-4742-4b15-9ef9-43229ba8381e',
+    'a24ff7a9-fd42-499f-bdc0-d8f26079d21b',
     NOW(),
     NOW()
   ),
   (
-    'cfa87cdf-2329-4041-b09b-b49a3aaa23f5',
+    'f42884dd-036f-42ab-8c36-54a010cd57e2',
     'Godie: Jluko',
     'dialect',
-    '27a09b12-2921-4985-b4e9-b029d2cd1c99',
+    '56405196-92b9-4205-8551-243aba8ae12c',
     NOW(),
     NOW()
   ),
   (
-    '7ad19c0a-4b5b-4b42-becf-e9519ff4e20a',
+    '213a8499-92cb-4e4d-9fd1-348982971b30',
     'Oroqen: Birarchen',
     'dialect',
-    'dbdbef48-0b89-4aeb-a278-5864a9626551',
+    '4d786abd-3413-492a-ab57-fe8387f3b528',
     NOW(),
     NOW()
   ),
   (
-    'a734128b-fc7a-4c89-b2d1-761824ef7a28',
+    '4e34c38e-079d-470e-b55e-efa32375bc69',
     'Maneta',
     'dialect',
-    'cec3c748-274b-468e-b405-7e781d38f848',
+    'bad2c946-e8cd-43f4-9184-070e80413c5d',
     NOW(),
     NOW()
   ),
   (
-    'b4f44121-1e55-4958-8f4d-931bbb99889a',
+    'bcedb687-78d4-4e92-bfde-da243d71bc2f',
     'Pashayi, Northeast: Chalas',
     'dialect',
-    '2dc1f1c9-372b-4a11-a542-6a4a4e112afa',
+    '3b325982-9fcf-4d15-b761-262921a3a87b',
     NOW(),
     NOW()
   ),
   (
-    'a5e35176-80cc-477f-86fd-e949a61d1701',
+    '71f475e7-e4f5-41de-a3a9-d5b26d7cad0f',
     'Chuvash: Anatri',
     'dialect',
-    'a4d464cd-799c-49ba-a1da-b9d8d064f605',
+    '74b7064d-934a-4a89-9393-f9baaa879d42',
     NOW(),
     NOW()
   ),
   (
-    'fad3188b-afd6-4fd9-93bd-141b5c5838d9',
+    'a683cc69-1607-4cf9-a72d-0ee5272ff9c3',
     'Nepali: Gorkhali',
     'dialect',
-    '296bd826-7fe4-464a-8213-c5e724136b33',
+    'dddb51d0-aa4c-4f12-9e3e-483c0d10af0b',
     NOW(),
     NOW()
   ),
   (
-    'd3b58e97-fbc0-4e46-8586-ac66e7325e43',
+    '4c95d205-4695-4a64-ac77-05460530b3cd',
     'Banda-Mbres: Wada',
     'dialect',
-    'e6748e86-7c5a-4aea-8f8a-3546a3f813ce',
+    'c4caaf1e-ace5-426f-afa6-eb5c34c2dc63',
     NOW(),
     NOW()
   ),
   (
-    '565a6e99-32dd-4f21-9cc0-e6a728bc22e6',
+    '4347c345-38c7-4fa5-81e1-324eda6b2001',
     'Kutep: Lissam',
     'dialect',
-    '7e0aa66b-6708-48ec-b03d-fa48f0554d7d',
+    'a9a0f3e0-0c3c-4805-bafe-4f95f0f1cef7',
     NOW(),
     NOW()
   ),
   (
-    '5bf02a93-6600-43b0-b724-765bfaf69c12',
+    'e2a0f926-7e87-4e87-87c8-56947dbd4156',
     'Kelo: Beni Sheko',
     'dialect',
-    'a523b872-3727-4cd0-8eb8-30847529e227',
+    'a7a98578-1a9b-49c8-ae26-1df48cc83c89',
     NOW(),
     NOW()
   ),
   (
-    'bc8e903b-a433-496c-ac01-3ca9f7977ab4',
+    'd9ccfc7f-d611-4c31-813f-83c2d65f37c7',
     'Bugawac: South-Western',
     'dialect',
-    'f097f5aa-b3a0-4f26-a3d3-539d9c0475a4',
+    'e06b2817-b380-4ba1-bbef-76e534b4af49',
     NOW(),
     NOW()
   ),
   (
-    '6b0af741-a315-4d60-a87a-2208be332823',
+    '48de3236-e47b-478a-82eb-33467cfb53d6',
     'Bambam: Salu Mokanam',
     'dialect',
-    '17b4b7f5-3ba0-4dfb-9108-10e352517d86',
+    'c143a700-44b7-4fad-a1cd-5f780b0708c9',
     NOW(),
     NOW()
   ),
   (
-    '3e37b027-1efb-4415-b1f6-9df86a29853c',
+    'f4f9fbd8-bfd0-4f98-a78b-b2655c2d2561',
     'Armenian: Syria',
     'dialect',
-    '6726a9ea-e3a3-49e7-a7f4-b9a82a873e59',
+    '68bb5948-22a7-4829-ad8f-58c0fdd4e940',
     NOW(),
     NOW()
   ),
   (
-    'a0f5c677-228f-4833-812b-4182f2c8a0e9',
+    '1088ae06-b787-4458-a568-da44abe7bd8e',
     'Mentawai: North Siberut',
     'dialect',
-    'cc463e79-330c-4da7-85e6-1c59ffbf1f7f',
+    '93e5b491-e9ec-4763-bade-63498a3727b6',
     NOW(),
     NOW()
   ),
   (
-    'aa4b7ec3-1e86-49b0-9b43-c84f46ee6322',
+    '8c190e19-a477-40d9-b537-ebe59ee9be2c',
     'Datiwuy',
     'dialect',
-    '3276c37c-a413-4985-906a-d267d5c4801b',
+    '9542b5b6-fa2c-4357-aeb9-51f626b314dd',
     NOW(),
     NOW()
   ),
   (
-    'f7183a6a-1153-46b9-9a58-f8d319a98898',
+    'a64a0528-dd43-4c77-ba6a-0a5962b76e16',
     'Dir-Nyamzak-Mbarimi: Dir',
     'dialect',
-    '608eba66-96cf-4637-97d1-d104430d4f95',
+    '0d0362f3-5dc3-4ca4-ad10-8f707d69b5b4',
     NOW(),
     NOW()
   ),
   (
-    '8e5a71d5-e379-4e98-8c7a-0345bcc575a4',
+    '147c1421-82da-4c42-a447-3a1253644a25',
     'Porja: Konda',
     'dialect',
-    '8e31fe8c-ed1f-4e66-8350-af61ddb2eac2',
+    '25cb9130-ff99-48a6-a561-aa520812761b',
     NOW(),
     NOW()
   ),
   (
-    '6cd2e8d8-df25-4ba1-a97a-4ab359388d23',
+    '86c32ac6-91a1-4613-817f-aee9bc4cadec',
     'Spanish: Castellano',
     'dialect',
-    'ccac7a39-0c78-4104-82d7-9cb7752b145d',
+    'bafdc29e-89f3-464e-aa12-a9d7826e4140',
     NOW(),
     NOW()
   ),
   (
-    '70df9d6e-3136-4d4d-8b9f-947f4d5be3b0',
+    'bf63f470-93fb-4091-bd5a-7c8c6a1ab9d6',
     'Lolopo: Yao''an',
     'dialect',
-    '11025a03-b43b-4725-a13e-22f615ea05c6',
+    '44598564-6c9d-4b1e-a0ea-21f4e0d2b125',
     NOW(),
     NOW()
   ),
   (
-    '685dd9d6-6351-458a-93dd-3766c4785713',
+    '986c1ae3-cab4-40a9-959d-438c1b0c0447',
     'Trinitario: Javierano',
     'dialect',
-    '98382d6b-d113-4bb4-976a-7747514e260f',
+    '554f8d58-ce6d-49a4-b939-1dd73ec9f482',
     NOW(),
     NOW()
   ),
   (
-    '42996acb-8b89-4ce3-988f-35878144eff4',
+    '78eedd29-c2fc-4697-936f-696fe5a42b88',
     'Zari: Gurdun',
     'dialect',
-    '449d8148-a93b-4107-bba5-cf5f192ee9e5',
+    'bd0091f8-2d89-4b2c-b46a-ef4527c143d4',
     NOW(),
     NOW()
   ),
   (
-    'a2cbd232-4293-4901-a3e2-a64dceba09ad',
+    'e1d808e0-2cf1-4747-8055-25da84b78877',
     'Baima: Western',
     'dialect',
-    '46d6c0aa-beb0-449e-8ee1-0109fce69488',
+    'aad497bd-f23a-4bc6-a26e-698ecec6758c',
     NOW(),
     NOW()
   ),
   (
-    '4ff42ee1-8afe-4472-9019-aa6ce7dfd5ce',
+    '05ebf720-839b-4072-a354-261d2bfcb4d7',
     'Malayalam: Jewish',
     'dialect',
-    'd4bd66d1-cbcd-4201-be6c-48e5e24718f3',
+    'd15b6c6b-3d24-4c75-b43b-150702918426',
     NOW(),
     NOW()
   ),
   (
-    '9dff0ca6-a29d-4046-be61-f86e84204c93',
+    '9d117ce9-289c-4d3c-aef9-60b95d046f71',
     'Kenga: Bolong',
     'dialect',
-    '7f87c990-edf7-4c45-a955-17d5147a86a2',
+    '9cde3431-4ff2-4e31-b067-d0ab08da07f4',
     NOW(),
     NOW()
   ),
   (
-    '2b4902d3-7075-469f-a208-306a92ef9869',
+    '6e6e96f6-bd66-4c59-be80-27aca24122c4',
     'Kigiryama: Kauma',
     'dialect',
-    '583b1e81-633d-427a-be47-59562ccf51ab',
+    '1e7271a7-1b4e-4df9-9700-c4f9a298c4b4',
     NOW(),
     NOW()
   ),
   (
-    '5d168ec6-eff0-4e3f-a4ac-ec9591cba12f',
+    '1589614c-5c77-43df-ac4b-456b08e974e4',
     'Tause: Weirate',
     'dialect',
-    '82e67c5d-9d9e-49dd-8827-496d50f0b4b2',
+    '1bff6013-154e-4f98-967b-eb2fcdac7b9a',
     NOW(),
     NOW()
   ),
   (
-    'f5a73565-ffca-4ebe-90da-323fcbc0ba6f',
+    '89bccc9b-024a-4ef2-bf6d-5a5072be9b3c',
     'Kaluli: Walulu',
     'dialect',
-    'f425688c-1c21-4621-88da-f339899914ad',
+    '99ecd4f8-3aef-40c8-b8ef-33350d4fabaf',
     NOW(),
     NOW()
   ),
   (
-    'af34439e-3aab-45b0-ac50-5d3352a6f254',
+    '6c40a026-bd7a-4228-a64d-165ec7d1695f',
     'Taoih, Upper: Kamuan''',
     'dialect',
-    '5a92806d-6338-497d-8e58-f3223559b863',
+    '059d6d2b-714a-4096-9348-131d81bc6da9',
     NOW(),
     NOW()
   ),
   (
-    '1bfd2bf2-7afa-478d-bf21-47b15d61fc47',
+    '4eca2c0a-daaf-4811-a730-485649eb6578',
     'Abidji: Enyembe',
     'dialect',
-    '3ee350eb-2327-4dfe-a087-2a3157c20c00',
+    'b83035ad-2fd1-4739-b79f-2cdb9dbc03b3',
     NOW(),
     NOW()
   ),
   (
-    '77bd62c3-ff4e-43cb-8760-3980679e9fb3',
+    'd79d1c74-abe3-45d7-8fbf-9eacad7c4710',
     'Mongo-Nkundu: Lonongongomo',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    '2c6888df-bd73-42e2-b7a3-377cfa6d0b69',
+    '5d8f1293-49da-44e9-8a86-68bf8764ff38',
     'Naga, Tangsa: Higsho',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '7936c5b5-204a-4440-b000-f646a0535c10',
+    'adbcc2f5-bf2b-4d09-9b6d-7c3927a9383f',
     'Suryapuri: Musalmani Suryapuri',
     'dialect',
-    'aecd3f28-0580-4f4d-a3b2-5e32f4676e2f',
+    '59dfb34a-4749-4fae-9414-ca14bb90016e',
     NOW(),
     NOW()
   ),
   (
-    '30cb499e-b684-4cdf-bb2c-222fcfec79c4',
+    '88ed15df-2afd-42d2-96dd-569b57bf7769',
     'Dibole: Northern Dibole',
     'dialect',
-    'c9ca54b6-f78e-447f-a3d4-30f1a64f6b98',
+    'ad9305e3-bba1-46ca-9503-90b217a25a20',
     NOW(),
     NOW()
   ),
   (
-    '5368daef-fadf-4c67-b2bf-a61aa49b26cb',
+    'f6110360-bf2f-4617-bda4-9e6dba2d496d',
     'Bengali: Manbhuiyan',
     'dialect',
-    '5dfdf73c-3cfb-4e9d-a247-42c8d5d50e4b',
+    'd315d70a-8d48-40ff-8412-e5d1177e89c9',
     NOW(),
     NOW()
   ),
   (
-    '1c2bd89a-1e5d-443d-99ec-bf90befdb889',
+    '101472d0-1435-4246-bf1e-d53a0fea88dd',
     'Mandaic: Shushtar',
     'dialect',
-    '27ed3ad0-bdd7-480d-9cbe-53232c1117df',
+    '947c206c-6435-48a0-b4cc-8468f7a3c6d6',
     NOW(),
     NOW()
   ),
   (
-    'ff828d46-3b5b-42be-b2e5-2c73be8b668f',
+    '1e374c22-f20a-4ff5-b4bc-7a81dd12da1a',
     'Nikyob-Nindem: Nindem',
     'dialect',
-    'a11f0f6b-b673-4fa3-8dd1-cf0da726e103',
+    'f2770bfe-a229-41c3-8ff9-9e60189a179c',
     NOW(),
     NOW()
   ),
   (
-    '170c2ffb-9587-4ef4-b92a-d7334602c558',
+    'aacea13a-d05b-4241-bc3a-0aba90ebb49b',
     'Ejagham: Eastern Ejagham',
     'dialect',
-    'edd755d2-72ec-4722-8d0c-0dc963cfadb9',
+    'b9458c46-5946-4001-bdc8-ead9bdbea49b',
     NOW(),
     NOW()
   ),
   (
-    '21115660-9b78-428a-ac62-f77509281480',
+    '220ae42c-3560-451f-ba2b-93e92fab5494',
     'Guinea-Bissau Creole: Bissau-Bolama',
     'dialect',
-    '26c070a4-f486-4342-891f-35cf8d8df722',
+    'fce57167-cc51-4c43-add8-c55bfa8a7f34',
     NOW(),
     NOW()
   ),
   (
-    'b2542adc-66c5-437c-bae7-96aae04868ee',
+    'b748b2db-3a5d-49d8-8faa-9c973fee1afe',
     'Bench: She',
     'dialect',
-    '9c15c48d-57da-42c7-96ea-b372a7b9db88',
+    '06f6fd10-ad2f-4346-bc84-dd30db37ff24',
     NOW(),
     NOW()
   ),
   (
-    'cb3f7497-0a72-4ada-85e7-796fca8f8d82',
+    'c6e8c21b-c41a-4833-830c-688f565d2218',
     'Mixtec, Silacayoapan: San Jorge Nuchita',
     'dialect',
-    'c799e690-eeef-461f-85c6-8c588073d274',
+    '3cbc3302-2496-4eda-8f97-407e91360ea0',
     NOW(),
     NOW()
   ),
   (
-    'b589cb80-0b34-4634-9492-f9e25f3d3298',
+    '4e546cd1-af5e-4c35-863a-22dd5ad04ad0',
     'Bavarian: Central',
     'dialect',
-    '29112059-d1be-4ecf-9512-ed7a2167ccd7',
+    '4b05f6e7-1a92-41e0-9359-e22787c1a9ef',
     NOW(),
     NOW()
   ),
   (
-    'bd0e3a0c-49da-4168-9122-cc5880b09367',
+    'ccf969d6-f9c3-4950-a043-7155d4f5b500',
     'Alviri',
     'dialect',
-    '6ff2b84e-d32b-4f98-81fd-ac0566b24187',
+    'a1024fde-0273-45f4-9d5c-e46ae7f28187',
     NOW(),
     NOW()
   ),
   (
-    'fe59de26-a87e-43b3-80d7-ffdf912ad6d4',
+    '7ce0999a-767d-46dd-bd04-c16b65f973a3',
     'Bajau Simunul',
     'dialect',
-    '27009b41-ec5d-4e1d-8c73-1fc873bc6b09',
+    '406e36ef-0f02-4274-ae6a-239afd2fca6f',
     NOW(),
     NOW()
   ),
   (
-    '66d1b269-1b35-495f-910d-416b5e211479',
+    'd4be0b4b-a357-4a81-a8f5-6c9ff2002592',
     'Mongolian, Halh: Dariganga',
     'dialect',
-    '2b58be85-27bb-4c97-bc22-d7475f381618',
+    'a2d492ce-3471-4714-9efa-848bf9e7239f',
     NOW(),
     NOW()
   ),
   (
-    'bec71dd5-e314-4111-8f73-ba0dd62b29c7',
+    '6798cfb1-8fe9-46e0-8b6f-d029cf30d3a1',
     'Budu: West Bafwangada',
     'dialect',
-    'd8d1f2c8-c8a2-47a1-9c4f-f6f3f7126121',
+    '0dddf090-4dea-4c3d-b9b1-f9a3b38af0ed',
     NOW(),
     NOW()
   ),
   (
-    '69999039-97aa-4f03-a5f9-6bda55fd0bf1',
+    '229a0666-3cfa-4cd8-ac72-28b80062d8de',
     'Arabic, Sudanese: Western Sudanese',
     'dialect',
-    'fde0ade4-1668-47b6-9c1f-156d5d01c3cc',
+    'e5e88227-4250-4f01-8647-91887df6b78d',
     NOW(),
     NOW()
   ),
   (
-    '558ec45a-0683-4dc4-840d-702818bed7bc',
+    'ee4953d4-031c-4e07-8b78-7a0d3869b81a',
     'Yaeyama: Ishigaki',
     'dialect',
-    '2b0b4c33-8bf9-4cfb-9870-8ecf18c3e66e',
+    'c60d4820-ffac-4d72-b7a5-631081db88ac',
     NOW(),
     NOW()
   ),
   (
-    '0889a58d-94e9-4180-af28-3984a1409675',
+    '8e944da7-c82d-40f3-83e1-89aef3ea30bd',
     'Bhele: Bugombe',
     'dialect',
-    'ff4a6907-a9b3-49b9-9d7b-a58cac6212cb',
+    '3baec8a1-3056-4fef-9a12-e1653b8157d0',
     NOW(),
     NOW()
   ),
   (
-    '3ee0890f-7683-472b-8cc7-c1a632605380',
+    '80ddf0e9-5c29-44bb-9fd3-5037df64804b',
     'Hindko, Southern: Chhachhi',
     'dialect',
-    '443ddeae-8f28-4739-912a-8a66cd62bc4e',
+    '840aec7a-fbc9-4138-b29a-b902af43d900',
     NOW(),
     NOW()
   ),
   (
-    '35336d95-b07c-4e5b-913e-a8cbd028cbb0',
+    'b82c37c2-cfcb-47f0-8589-760d5e474742',
     'Balkan Gagauz Turkish: Karamanli',
     'dialect',
-    'e03de111-8c3f-405c-a88d-00b0245237c8',
+    '5e2317b6-b97b-4a3f-9ea3-f0208acb8451',
     NOW(),
     NOW()
   ),
   (
-    '37866ede-b810-4339-b3e4-56d154b10c55',
+    '86278f4b-eeae-43e3-a735-fcfa89a7f34a',
     'Fulfulde, Northeastern Burkina Faso: Bogandé',
     'dialect',
-    'e8f6993a-6e38-45cf-a08b-35a41dc70bfe',
+    '62a05eed-f5fb-4db7-934f-0c582a1e8d7f',
     NOW(),
     NOW()
   ),
   (
-    '5d399a3a-d3a3-43f9-9ddb-fd95dac38314',
+    '370df88f-dfbe-4364-bf1b-03229a908971',
     'ut-Ma''in: Us',
     'dialect',
-    '796c7b61-0536-4d98-a8d9-5c30cf0db443',
+    '7ae9e63b-6e45-49fe-b9cc-b3bfeabfaa6d',
     NOW(),
     NOW()
   ),
   (
-    'a2c354ce-f406-45b6-99f7-d7234b8672e5',
+    'e0988d0a-754b-4325-a8eb-283f6da88bd3',
     'Tibetan, Khams: Media Eastern Kham',
     'dialect',
-    'abc9fade-caf3-46c1-9c32-aeeba78facd1',
+    '9b8abf5a-d927-4a04-a0c4-683699c7f0ed',
     NOW(),
     NOW()
   ),
   (
-    '178abb30-4699-443a-8edf-a6a18438bda4',
+    'c8208ea0-86da-424a-8793-0ed53b6890f2',
     'Turkmen: Nerezim',
     'dialect',
-    '2e208de4-c299-4920-831e-91ead613ca30',
+    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
     NOW(),
     NOW()
   ),
   (
-    '16edb16c-f352-4b01-8b14-309195c33231',
+    '02ea6c50-16b4-43ab-a2a7-50a029696a03',
     'Sawila: Lalamana',
     'dialect',
-    'f9352c06-b303-495d-9ede-b6d619163936',
+    '5bba96bb-976f-4c44-be7a-9ce2106153cd',
     NOW(),
     NOW()
   ),
   (
-    'd24fb0c3-7767-4365-9a62-02854a41a3f9',
+    'de00f106-f636-400d-a9c4-5e192dbfea9c',
     'Bungu: Songezi',
     'dialect',
-    '814af8a1-febb-44fa-8938-0bd6426d5eef',
+    '63c32714-f32a-460c-8ac3-5413249f3c3f',
     NOW(),
     NOW()
   ),
   (
-    '3737cfdd-a23d-46e4-bfab-2d475f76b930',
+    'bd860f5f-19fa-452c-8791-90b25e6d926f',
     'Puyuma: Nanwang',
     'dialect',
-    '8b37ba4b-6983-44c3-ba9b-907b4eca596d',
+    'f8bbf281-41b7-427b-b860-e2645eec865f',
     NOW(),
     NOW()
   ),
   (
-    'c74eb90c-be63-437a-a9a3-2487eae02c2f',
+    '67782c87-7357-4259-a1be-9e609d504f1f',
     'Romani, Carpathian: West Slovakian',
     'dialect',
-    '746b07c3-2302-46f2-b2e3-4463386c1a6c',
+    'a84c02ea-fefc-4820-b22e-8c051a2928fb',
     NOW(),
     NOW()
   ),
   (
-    '1f0b7e0d-6040-401f-9b4c-b1e7fcebced1',
+    'fe6a1df8-27fb-4aa4-9a1d-1c10fbd92f5b',
     'Japanese: Hachijojima',
     'dialect',
-    '2c6d94f4-1e09-4a02-bf48-f0b675c2660b',
+    '85db671c-48cb-4cdc-90db-25b648a82e42',
     NOW(),
     NOW()
   ),
   (
-    'eac0e1f7-7ffe-4d62-ace6-2bc4d8fbf16e',
+    'dfcc6a70-cb17-464c-aa39-bc14d74faa06',
     'Nake: Ari-Ame',
     'dialect',
-    '98816cec-1fc5-44fa-accf-400a1a2bae01',
+    'fbc2479b-2b27-4a3d-8b84-9741d07b9eb0',
     NOW(),
     NOW()
   ),
   (
-    'a83058f0-e38d-4e6b-b6e3-e2f1ae6357dd',
+    '62963d1f-145c-44ff-8c33-e6e39f8ef925',
     'Saami, Northern: Ruija',
     'dialect',
-    '4b175270-5865-4931-902b-854b1ad502d2',
+    '7cc1452b-79fe-4dcd-9645-7bcd289ed433',
     NOW(),
     NOW()
   ),
   (
-    'b6e3d4bc-5fe3-4d87-b333-be59293d9870',
+    '813436b4-c6c8-4297-b8e7-1052b3b92155',
     'Azerbaijani, North: Karapapak',
     'dialect',
-    '29ae0442-5434-467b-9dd1-f8f1d2dd89ba',
+    'ce664064-b0cf-486b-8e51-a7bcb94b9fa7',
     NOW(),
     NOW()
   ),
   (
-    'd479aabc-2c32-4042-a969-2662fd028dae',
+    '09c1593c-0f47-4bef-9d53-f8a8c88a489a',
     'Takia: Megiar',
     'dialect',
-    '889886a5-7ec8-4201-a65a-1d0b18c05e00',
+    '30c5634b-bb06-4f8c-a729-32b1e03de6e9',
     NOW(),
     NOW()
   ),
   (
-    'bd8f3b17-93cb-476d-ab4b-699277c2b9bf',
+    'd8178a8c-5d47-4eee-bc83-8e89482f0c91',
     'Kenyah, Mainstream: Badeng',
     'dialect',
-    'd4d9a93b-5835-4e7c-bbd5-cd0f5b8e9c71',
+    '9f2d5a2b-de35-4e70-804e-1985f377f077',
     NOW(),
     NOW()
   ),
   (
-    '902b2ce9-1b28-43bf-bb61-f0f5dcacd4cb',
+    '9da36bcf-3640-4dbd-9f3c-bfd841d2bc7a',
     'Kaficho: Bosha',
     'dialect',
-    '032f2952-d49e-4d7e-94e5-f44084e0588c',
+    '7420db1c-2862-48ec-ac7b-c67dd6e384cd',
     NOW(),
     NOW()
   ),
   (
-    '46779297-0dab-4358-91f8-4be3a14f7095',
+    'e1ad5423-d9d0-4b43-a6d4-3de94ab4ed8d',
     'Ngomba: Bamendjo',
     'dialect',
-    '9b3fc492-cf62-4809-95ba-152a515db810',
+    'c973f414-03f2-44a4-af1a-0ce6d23450c4',
     NOW(),
     NOW()
   ),
   (
-    '8b8e407f-1813-42a1-a514-f06c9014646b',
+    '816b6269-e214-4cf0-ab25-d7c2cf2b01ba',
     'Gobabis Ju|''hoansi',
     'dialect',
-    'be510455-ba6b-4da6-9bb4-0e6f5f8e1a37',
+    '76fb9866-9ce7-4912-bd65-7e162b54921c',
     NOW(),
     NOW()
   ),
   (
-    '60b03da5-9ad5-4ddb-96b1-f89fa19df426',
+    '47dc015f-6030-463e-a666-59fdc202dd45',
     'Bosnian: Ijekavian',
     'dialect',
-    'be155e28-e57a-4c7e-a544-554e1b07356f',
+    '5d976aee-f84b-47dc-a3e7-ea3208485929',
     NOW(),
     NOW()
   ),
   (
-    '4fcc01a4-9b92-406e-bbde-6ded0cd239b4',
+    '207e2e9b-cb28-44cb-8f86-acb8aa7ca21e',
     'Ache: Nacunday River',
     'dialect',
-    '54dc6a33-6434-45ec-a31f-2144ff3edf1e',
+    'c01fea0d-b78a-477d-877a-6bdb36e5055a',
     NOW(),
     NOW()
   ),
   (
-    '73dd20b6-fcfd-4bd9-b00c-881831bdef4d',
+    'e5cb10f3-1920-4fe8-9c52-bdff0e08576c',
     'Sa''a: Uki Ni Masi',
     'dialect',
-    '4aecab3f-cdad-4932-92a6-641dd048fe49',
+    'cac7adf8-4044-4abc-8e4c-cdb38ab64f1c',
     NOW(),
     NOW()
   ),
   (
-    'f3bae3a1-bc8a-4e8e-9b2d-71b7c12eae1e',
+    'f5bdd6bf-c730-42c2-a5d8-47a4f2af1d4f',
     'Romani, Vlax: South Albanian',
     'dialect',
-    '0c0215ca-f61e-4f2c-8fbe-ae49dcb0d4f0',
+    '0962dd7c-86ce-4645-a971-7b0c14c3607a',
     NOW(),
     NOW()
   ),
   (
-    '4fac10b4-1a41-4f76-bcbe-d810555e780f',
+    'ddfba7c5-7787-43ca-abd8-b518727f8821',
     'Gonja: Choruba',
     'dialect',
-    'f2b3488b-3b69-4a85-a662-23578c47f6db',
+    '0120a8c1-354a-4536-b842-8776d080bdf6',
     NOW(),
     NOW()
   ),
   (
-    '01397c5b-c6aa-4527-a9e4-abfa32122116',
+    '0f7ac585-a8e5-4a3d-aa4f-b998eccf5cfd',
     'Bhili: Kotali',
     'dialect',
-    '02ce4726-b228-4196-ab7c-c17736e040fd',
+    'f2d887d9-bb0c-4f9b-b2e7-d6c46efce363',
     NOW(),
     NOW()
   ),
   (
-    'c5da55e7-7ce5-4677-99fb-32c64cae3f64',
+    'c9735f09-8d88-4f3e-b689-b6f602f62fe2',
     'Madi: Lokai',
     'dialect',
-    '23d8e799-a693-48be-985d-eafb4415768d',
+    'fe40036d-0234-4e02-89c6-97e532d4e2b0',
     NOW(),
     NOW()
   ),
   (
-    'c13fc0d2-da88-4baa-9de4-1fc0ead54c03',
+    'f8ca9037-7f22-4749-872b-ba3ec4ba8c0f',
     'Malayalam: Jeseri',
     'dialect',
-    'd4bd66d1-cbcd-4201-be6c-48e5e24718f3',
+    'd15b6c6b-3d24-4c75-b43b-150702918426',
     NOW(),
     NOW()
   ),
   (
-    '6c50e020-5aaa-47bf-a6b1-5db2a73dc9a2',
+    '4ba00293-431c-4c02-ab9f-28483e0f4151',
     'Sindhi Bhil: Mohrano',
     'dialect',
-    'e037dc0b-e052-4693-8561-467f457a8e3c',
+    '9ebc0023-2e07-4ba4-a33b-932112b8aeeb',
     NOW(),
     NOW()
   ),
   (
-    '0c1e9264-37d3-4004-bcf8-47581a9ef5a0',
+    '9992d9ca-c21f-49c2-afb9-26687e54f5e6',
     'Guinea-Bissau Creole: Bafatá',
     'dialect',
-    '26c070a4-f486-4342-891f-35cf8d8df722',
+    'fce57167-cc51-4c43-add8-c55bfa8a7f34',
     NOW(),
     NOW()
   ),
   (
-    'd848490b-8435-47dc-a2d1-01455f641f9a',
+    'c665c9be-03ac-4923-948b-e489da790599',
     'Venetian: Mexico',
     'dialect',
-    '816c8bd3-af3c-4a3f-bbac-5fc3d1bbe8b9',
+    'f9f9c8ce-d117-4555-b2f5-80a8198e4d80',
     NOW(),
     NOW()
   ),
   (
-    'fdfa2f48-15f9-4838-8096-8fcca0c99d39',
+    '4d45d196-1e44-4e91-90ef-48480445c84b',
     'Wa, Paaruk: Alwa',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'f71138c8-3784-4af4-9a7c-22864b9d6b7e',
+    '031fe17f-db29-43e6-84d8-2c1c00bef18c',
     'Urdu: Hyderabad',
     'dialect',
-    '06c410d2-dcbc-4817-9bc8-ae37c6f56645',
+    '240c340b-c688-4345-ac17-101ef4eb164e',
     NOW(),
     NOW()
   ),
   (
-    '1f5dc865-e848-4f60-ac29-bd726d1b7b80',
+    '621db1ae-612a-40c1-ba3b-8368067535bd',
     'Kui: Gumsai',
     'dialect',
-    'ee26b434-f68e-4919-98f5-bbc540f46df2',
+    'd951cae9-7fbd-4a03-b4dd-73f168237a05',
     NOW(),
     NOW()
   ),
   (
-    'ecc1ac40-4c1b-4854-8e21-7ef0ec05d6c1',
+    'cf698413-6680-4544-bb9a-b47e71b0a426',
     'Masalit: Western Masalit',
     'dialect',
-    'a43db940-318b-416d-9169-cce93ca2ca33',
+    '7ed70ad6-5bc1-4d17-aa54-8dcb7e598c65',
     NOW(),
     NOW()
   ),
   (
-    'd45e808f-37a1-4088-a20e-280c7610946b',
+    '95f874aa-46b5-465d-85b8-8735fac70163',
     'Yoruba: Akono',
     'dialect',
-    'ef5e4646-110d-41af-b838-93a443d8b1e3',
+    'd8fa109e-ac81-4670-810b-74124126164e',
     NOW(),
     NOW()
   ),
   (
-    'af3dcc50-6594-4b13-85f8-863cb105c178',
+    '81c9f7f3-d6be-4392-bfe6-3d1d8d86239e',
     'Koitabu: West Koita',
     'dialect',
-    '575734de-b14f-4a19-8cd6-e584a9a5fe0e',
+    '15bff7c8-d940-4654-8015-98d687b7540b',
     NOW(),
     NOW()
   ),
   (
-    '3725cb5a-e983-4627-9a7a-29df74dc2c29',
+    'cae28c22-4d8b-4ddb-b832-83dc22d0394a',
     'Khmu: Kharok',
     'dialect',
-    'd669818e-7182-4d28-aeda-4b682c7ddf35',
+    'ac5f6206-153b-462a-951d-8b88d807b936',
     NOW(),
     NOW()
   ),
   (
-    '59c55720-d790-4e21-9737-8ea7f10f1d8e',
+    '01089621-3f15-420c-900e-536ea8fa13ad',
     'Banda: Eli',
     'dialect',
-    '60af1117-6bb5-481c-a305-e3863b1018f1',
+    '2a9fbb9a-13fb-417d-abe6-d9cdcdadee05',
     NOW(),
     NOW()
   ),
   (
-    '7199a10d-fd1a-45ae-bbff-7d00c199eb08',
+    '4797295e-c42b-4c11-bdb3-b761e7c90f8a',
     'Bole: Fika',
     'dialect',
-    '6605f0c5-aefc-4bb8-969c-a34913a83247',
+    'fd353663-4ff9-489b-8b77-640e4a43e0a3',
     NOW(),
     NOW()
   ),
   (
-    '0bb07f28-282f-4eea-bada-d1b675e57caa',
+    '07b7c441-1e46-4570-9fbf-b70046508fc0',
     'Spanish: Afro-Yungueno',
     'dialect',
-    'ccac7a39-0c78-4104-82d7-9cb7752b145d',
+    'bafdc29e-89f3-464e-aa12-a9d7826e4140',
     NOW(),
     NOW()
   ),
   (
-    'cd7c900c-b864-420b-88c5-a2b1d0c465a6',
+    '17949313-5597-499f-9f19-66617ab276e3',
     'Umar',
     'dialect',
-    '632cacc4-42b3-49a6-978d-d0df1cfcc3b9',
+    '3b17098e-a90c-4f04-aaa2-46f056265ff8',
     NOW(),
     NOW()
   ),
   (
-    '33730b9a-2b17-44dd-823c-8cdce0562292',
+    '3bee593b-0c22-4f7c-bae2-6464f8cd0539',
     'Naga, Tangshang: Hakhu',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    'f236d059-0e86-469d-b8b1-142a0bc18db5',
+    '71234c94-a24c-4ef2-876c-9a34776498e3',
     'Malayic Dayak: Arut',
     'dialect',
-    'ba6f7d3b-d44c-4d24-8897-a5aba9900e0d',
+    '18f0d734-74f8-4592-afa4-642cc4488581',
     NOW(),
     NOW()
   ),
   (
-    '4a4fc959-54f9-4e26-9433-9ad2a8bf7206',
+    'abd7faf0-98c2-47b6-8d57-3ebeff50a36a',
     'Ngam: Kle',
     'dialect',
-    'df359172-ca98-4857-b880-d8e77a479a7c',
+    '3b9a9eca-e1d9-4826-8a96-16a7ce5afb7c',
     NOW(),
     NOW()
   ),
   (
-    '8e313c99-af27-4ad3-a30f-a7c307bce5ab',
+    '79404ee1-d302-4187-bfb9-ad3abae3c801',
     'Atayal: Ts''ole''',
     'dialect',
-    '0c9ba7e9-414c-4a68-ac18-eee1be238171',
+    'e73120b0-0dfd-49da-bff3-9f46b7119679',
     NOW(),
     NOW()
   ),
   (
-    'b00c6bcf-a7b8-4172-b778-7e76a4e04e79',
+    'a729c966-a095-46cf-801f-a9d233929ec5',
     'Nikyob-Nindem: Nikyob',
     'dialect',
-    'a11f0f6b-b673-4fa3-8dd1-cf0da726e103',
+    'f2770bfe-a229-41c3-8ff9-9e60189a179c',
     NOW(),
     NOW()
   ),
   (
-    '69ee060c-6c8b-4512-9517-91f84976eefe',
+    'a97629c4-69f3-4bfe-b57b-8817e838e7ad',
     'Kuanua: Raluana',
     'dialect',
-    '8b998a0c-1085-490f-bf1c-039fd0b95d0d',
+    'acdeb631-e5da-4789-b10c-b7bd827ea7b3',
     NOW(),
     NOW()
   ),
   (
-    'a1a57cfb-1fe7-4eb2-a0b1-4368766651aa',
+    '058f7b8b-1660-4e31-ba3c-b6b40db41172',
     'Venetian: Bisiacco',
     'dialect',
-    '816c8bd3-af3c-4a3f-bbac-5fc3d1bbe8b9',
+    'f9f9c8ce-d117-4555-b2f5-80a8198e4d80',
     NOW(),
     NOW()
   ),
   (
-    '65f30fcc-dfba-4797-bbde-980c0d2f4aa9',
+    '0041989d-1eb9-4c01-868e-51aad778d5be',
     'Bamanankan: San',
     'dialect',
-    '4eb9050c-8c6c-4cc5-bd78-ce825909a88f',
+    '39245520-557c-4f96-8b86-5cb89e36773a',
     NOW(),
     NOW()
   ),
   (
-    'a7ddf012-054c-4ed3-aae6-d71995830e3c',
+    '47f27927-6118-4e41-9d99-240f19da8500',
     'Bahnar: Krem',
     'dialect',
-    'fb57e272-caaf-4c3a-8cce-bea0a9317589',
+    '7309a08d-ff12-4cd4-8280-bd1df2d9768d',
     NOW(),
     NOW()
   ),
   (
-    '46622251-72fd-4ab3-99b9-e4ad34d5874c',
+    'c80433cd-0f5a-4a22-885d-447309397b29',
     'Estonian: Seto',
     'dialect',
-    'e064ffab-d470-43b5-ac2c-71fc5bbcc1b4',
+    'f58f19c2-7919-451a-9ab3-7fbe07fa9d63',
     NOW(),
     NOW()
   ),
   (
-    '8c471291-68ee-40fc-b619-ca12b91f1359',
+    '9fc2e890-f22c-40ae-932e-03779f19417d',
     'Isoko: Uti',
     'dialect',
-    'e2098900-dad3-4d0c-9ee9-c8d4eee2fcb4',
+    '5e9b5245-0ff2-4cf7-b4cf-c3b588e9aad1',
     NOW(),
     NOW()
   ),
   (
-    'e63bf1be-038c-4cad-8d86-e177218432af',
+    '9a6a8d79-3be2-457c-a3c0-07344b39b148',
     'Koro Wachi: Miamia',
     'dialect',
-    'a0634caf-1d44-4d4a-81b4-6f60f6d91786',
+    'dad2358d-4264-4e85-a62a-7942c5964fff',
     NOW(),
     NOW()
   ),
   (
-    '1db8d7ce-299e-43b4-8131-610258d64211',
+    '7bea7261-2ff6-4d6a-949b-a9cecaf6b072',
     'Nadëb: Rocado',
     'dialect',
-    '8b44a7e3-5637-40bb-a9e6-95c14140c4fb',
+    'd4f9631f-42cd-47a8-a860-ed804919bea7',
     NOW(),
     NOW()
   ),
   (
-    '82ed9b1d-1eb7-4596-a20e-7082005de867',
+    '02efcb1e-eee0-4775-a712-4862e7620217',
     'Urdu, Karachi',
     'dialect',
-    '06c410d2-dcbc-4817-9bc8-ae37c6f56645',
+    '240c340b-c688-4345-ac17-101ef4eb164e',
     NOW(),
     NOW()
   ),
   (
-    '77bac9f5-d26c-4a4b-8c1d-88c25e85351c',
+    '62c7f26b-71e2-49a7-afa3-bb1e09cf9e46',
     'Mailu: Asiaoro',
     'dialect',
-    '1c37a73c-8ed4-47b3-90a3-bebc28e12292',
+    'c046d67a-6bc6-4f43-b422-0ff1c1520a2e',
     NOW(),
     NOW()
   ),
   (
-    'ae819aa1-4274-4d14-9c31-0414ba23a90e',
+    'b322896e-75a7-4804-86bc-bd49cd963ac2',
     'Yanomami: Hokama',
     'dialect',
-    'ccfef752-cd44-4baa-a0ad-cbc620609424',
+    'c0653cef-f16f-438d-a15f-7ed991b053dc',
     NOW(),
     NOW()
   ),
   (
-    'b777c02d-e4d3-4179-98b2-2ad1975f3c80',
+    '0d8997d9-ca8d-44e9-8994-4e7bb0bfc874',
     'Bayot: Essin',
     'dialect',
-    'b8cc57de-53d6-4fc3-83ec-7f5a4292f2ed',
+    '863a8c2a-74ec-450d-b236-9f3b52f7ceac',
     NOW(),
     NOW()
   ),
   (
-    '24ecc02a-3425-4174-819b-8a46cfd68655',
+    '9165d2b2-82bd-4eb2-a386-4278f151d8ea',
     'Miao: Cingsui Longlin',
     'dialect',
-    '9ddfdfb7-8d3a-4d54-ba19-7442cc6c00f6',
+    '624cbad4-00c6-4928-b195-3f763494564c',
     NOW(),
     NOW()
   ),
   (
-    'ae233cde-fba7-4e9e-a2f4-3cb87cbdbbe2',
+    '359908c5-7d44-4e60-8f1f-7c522528b0e6',
     'Haya: Yoza',
     'dialect',
-    'cfd7c4a8-b48d-4dfc-8603-3b48e224fff2',
+    'ef7f2070-bc46-49c5-a4e9-78d64fc0dde3',
     NOW(),
     NOW()
   ),
   (
-    '5f9da893-f1db-4590-8bf5-16e523aa2863',
+    '5c3dd82d-984f-4925-b080-9e1564855326',
     'Paama: North Paama',
     'dialect',
-    '80e9b35d-b6d1-46f7-b4fc-6198c265db57',
+    '28bc6857-6b1a-464b-a9bd-d2c522858cc4',
     NOW(),
     NOW()
   ),
   (
-    '89029b18-11b4-40d4-8857-f906dc5f178f',
+    '87073cb8-3df1-4fd7-abc8-9df7c628c90a',
     'Mapudungun: Moluche',
     'dialect',
-    'c54b817c-972b-4530-89b8-3665b8a447f2',
+    '8dd607df-8603-4cf8-91c6-150504b18a35',
     NOW(),
     NOW()
   ),
   (
-    'ba6a01d2-95c9-43b1-b3c9-8d437a7cf8d7',
+    'd2367883-9428-46db-aea2-0438eec55996',
     'Veluws: East',
     'dialect',
-    'eda3eea4-1808-4ca5-bdc4-419267ea7237',
+    'ec3958e1-e873-4478-8188-b70e97649fc9',
     NOW(),
     NOW()
   ),
   (
-    '36288b13-32eb-4acd-8c6d-6da2b08f0026',
+    '7ffdfbe7-1bfe-44d6-ade9-97f2f06b29c7',
     'Kankanaey: Lepanto',
     'dialect',
-    'ce22db17-91ed-4453-9260-be8af5f213f5',
+    '2334ab38-301b-4c7b-9229-7a2cc880cf7e',
     NOW(),
     NOW()
   ),
   (
-    '5dbc797b-f8e8-44f0-8500-d5e02c875f19',
+    '9d27e35f-b234-49a8-bdfd-ee265d04b17f',
     'Umbu-Ungu: Andelale',
     'dialect',
-    '7f556bc9-5b99-4dc3-9aac-6dca48b83473',
+    '9bbaa056-b2a5-4c3b-806f-e5bc6735c755',
     NOW(),
     NOW()
   ),
   (
-    'd9f6a9ff-8209-483e-a5ad-d1786bdd1844',
+    '4649fc48-8649-4232-b9ef-4cd66f70b6cf',
     'Sisaala, Tumulung: Isala',
     'dialect',
-    'ea51b2b4-9778-44ce-bc73-aa79fe0df63c',
+    'df6a6221-0bd1-4784-8371-dd8c1b962e8b',
     NOW(),
     NOW()
   ),
   (
-    '33c32d4c-3722-48b5-82ed-e3a1b9a97759',
+    '163a7d41-a387-495e-bd76-0f84e7dd70e3',
     'Dotyali: Bajureli',
     'dialect',
-    'b30d291b-db3e-469e-8bec-5063e28c75fe',
+    '1fad22cd-ef54-4527-8cfc-f8890ef309b9',
     NOW(),
     NOW()
   ),
   (
-    '959e393f-ace8-43f0-ac5e-5494cd0023c8',
+    'cf12f6f9-76b5-4e00-953f-dbbda4a81174',
     'Paharia: Mal',
     'dialect',
-    'e43a7e63-ea14-4fc6-880c-c7420dc79656',
+    '3e25d26f-4ab5-4359-9906-432cf254cf9e',
     NOW(),
     NOW()
   ),
   (
-    'd247fa2d-0e99-4fda-97e2-875b2a28c84d',
+    'd11bc51f-3731-4548-aaad-c8e9fd106144',
     'Telugu: Kusbur Vadar',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '13e35cb9-ad85-41f7-8c6f-08ef8e4b286f',
+    'f71045f7-4234-4642-8b10-9ca528234230',
     'Kimbutti: Wamba',
     'dialect',
-    'bd62f0be-01a2-41f3-a32e-13ff5afe617f',
+    '8df7ee33-6647-4077-8b1b-87381ef23aff',
     NOW(),
     NOW()
   ),
   (
-    '6566a99f-23fc-4d84-a1ac-fcf1483d6740',
+    '2537770f-ac26-4501-ae41-dd8fc2e48cd3',
     'Agta, Dupaninan: Camonayan',
     'dialect',
-    'ef75fa0b-c0b9-45c0-827d-f657e1269d15',
+    '5b6aa428-93bd-4231-8fee-f4a5dba28991',
     NOW(),
     NOW()
   ),
   (
-    'b228d927-370f-4ee4-a2d1-e5fddfed7ff7',
+    '32b252f2-371a-4484-9d14-339b44b396a5',
     'Esan: Igueben',
     'dialect',
-    '93f87c85-8cdc-41a2-b9a8-08ea2e781b90',
+    '77bd55ef-9e37-4cb5-afd8-2460c51fbe89',
     NOW(),
     NOW()
   ),
   (
-    '6258a2d7-8122-4c30-9186-b8dc6fe3be4f',
+    '312d0a2a-8637-4eb6-9f2b-1094ab621f36',
     'Kamasau: Ghini',
     'dialect',
-    'ff29b24b-cb5c-4598-84eb-4ccb6d923bf2',
+    'dacc3722-1f3b-49bd-bdde-ca74dee3c1b9',
     NOW(),
     NOW()
   ),
   (
-    'b5e39938-0c24-49a1-b653-c9b439a12694',
+    '08d9c53d-de5e-4786-aa66-64ccd96b308b',
     'Nez Perce: Downriver',
     'dialect',
-    '5dfbe89a-1fca-4475-b225-6a2b9eee6217',
+    'b89cd55c-f95a-4828-9376-a35a2807ae78',
     NOW(),
     NOW()
   ),
   (
-    '6185275c-d8ad-4757-99c5-d8994d821e7c',
+    'a1cb441b-886e-4a97-8b62-1fbc1df3e129',
     'Kannada: Yalavaru',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    'bc4fb436-93d4-4239-a773-b7b736a317d3',
+    '167ca2fb-83ae-46f8-bbcd-f280f15cc83b',
     'Libati: Lingbandi',
     'dialect',
-    '5cb797eb-2d5d-4f37-80f7-ec129958ce5e',
+    '25404216-17e7-4a9b-8d23-4a45517aa71b',
     NOW(),
     NOW()
   ),
   (
-    'bc981a95-9ede-4c7d-acf9-be806121c515',
+    '37839d53-56ba-4ce9-8422-051881254a3a',
     'Toposa: Western Toposa',
     'dialect',
-    'c54b5af7-e028-48ac-b196-1f9b545212d5',
+    'f4368a82-3a6b-4c32-a0c8-63824b72f67e',
     NOW(),
     NOW()
   ),
   (
-    '498c2fcf-5469-4337-b378-dbb527373091',
+    '07e22385-8bd2-4bc5-99f5-5839a4d2f560',
     'Kanga: Kufa-Lima',
     'dialect',
-    '99073d1d-d3c3-4d9e-ad67-385512526530',
+    'a3c227f9-a566-40af-95aa-48fe3df667fd',
     NOW(),
     NOW()
   ),
   (
-    '6852487f-73e5-4215-86ce-d681bcba3cc0',
+    '61616129-21aa-4799-8adb-89b28628c84d',
     'Yamphu: Seduwa',
     'dialect',
-    'fe144d2e-63cd-412e-a871-ce8a2ca00025',
+    'ac6cc84c-efae-4ea6-892e-bc785123ff45',
     NOW(),
     NOW()
   ),
   (
-    'cbc65242-84e8-48bf-8e24-5e36fbff4564',
+    '376b9361-a965-49c0-95d4-5527dadca202',
     'Calo: Catalonian Calo',
     'dialect',
-    '8107b872-29f5-455a-a4bf-a6772dbe1863',
+    'd5126c20-4b22-4bc7-b912-75c687743ec2',
     NOW(),
     NOW()
   ),
   (
-    '7356e690-c433-44c5-b7db-8654866ad1f8',
+    'e3ebeed4-8a01-470b-a6d1-7eb9396eea0c',
     'Chiapas Mam',
     'dialect',
-    '174ad5f9-c1de-42d0-b7fe-8920df959c70',
+    '96104770-52f7-4022-9dcc-8a2d94743e2c',
     NOW(),
     NOW()
   ),
   (
-    'cd0b40af-2d4c-446d-aab0-90a83f53947a',
+    'b49db473-081c-4092-8b0c-a70b8a4d5c7c',
     'Mumuye: Tolijanyabe',
     'dialect',
-    'd2915650-30ea-459a-83ca-5e69d63b6178',
+    '4096defe-a0b6-426c-af7d-4217a54b6be3',
     NOW(),
     NOW()
   ),
   (
-    '4efd2b87-0efc-4a54-9a9d-0ca25d3f473e',
+    '5cffa67d-67c6-4329-ae6d-c6500f5dff9c',
     'Maria: Etapally',
     'dialect',
-    'df92991b-185e-427a-9af2-20058a9f4b0c',
+    'f4679b9a-15da-4569-948e-f29f464e6be3',
     NOW(),
     NOW()
   ),
   (
-    'a238c0f2-3577-45af-8a4a-9e1ecaab3eac',
+    '46b13349-5259-4c1e-a92e-fd9be2be9aea',
     'Dii: Sagzee',
     'dialect',
-    '1b616739-b57f-43cc-82fd-ea0d9c60d8af',
+    '69c35ccf-97b3-4e56-ae81-4a49a4785911',
     NOW(),
     NOW()
   ),
   (
-    'c30df3f5-64bc-4d3a-8f25-cacf321eb056',
+    '39c3b537-3de0-42bc-a3f6-c89f0f9765f5',
     'Verre: Momi',
     'dialect',
-    'bc4d107a-a211-4a8a-bd33-dd6671f017e2',
+    '5f9e2332-f74a-45f6-8560-71d366fd6d4d',
     NOW(),
     NOW()
   ),
   (
-    '0f1ad959-ae09-4bdf-ae20-deec808277e4',
+    '12054abf-591d-49f6-8a56-23404952b1b5',
     'Baravaia & Babakarupu',
     'dialect',
-    '2cf92535-9e06-4bbf-9dec-3ff679a36556',
+    '4d016298-2463-4217-b1cb-54f9cee957a4',
     NOW(),
     NOW()
   ),
   (
-    'a7a1d918-3524-4aac-8f7d-b81c12787947',
+    'b5af7b94-e753-4cd5-9948-864e25d80aa3',
     'Enga: Lapalama 1',
     'dialect',
-    'd0cc7593-c351-4355-b334-bc9639d9f3a2',
+    '9829aeb4-0433-4a48-8c61-9ab9c6142efa',
     NOW(),
     NOW()
   ),
   (
-    '05fdf153-4b7a-40de-8487-26d60c25e51e',
+    'c636e347-ff0f-4768-8dbd-e654182a0f12',
     'Chin, Matu: Haltu',
     'dialect',
-    '50dea0a3-98ba-4799-82fd-b025ff77f226',
+    '98f65d4c-50e8-4d77-9e32-c10465df8459',
     NOW(),
     NOW()
   ),
   (
-    '6474a424-d775-4f96-b5e3-bdfe098c024f',
+    '143d8787-16f5-40e7-96f5-382722de1f2f',
     'Guana: Layana',
     'dialect',
-    '0bf3a307-b464-45b5-9a82-e20c8fd7cbd7',
+    '0c8e668b-c71d-44f8-98c4-e5959ccc3341',
     NOW(),
     NOW()
   ),
   (
-    '9475e980-9399-46b4-8c6a-a12ebefece75',
+    '5d32f350-30c5-49ff-8f88-906e14bb638a',
     'Dezfuli: Shushtari',
     'dialect',
-    '8b2bc11e-f454-4bb2-9e8b-88be5b504e5c',
+    '78ca964a-0407-4344-be01-b5da55e340ff',
     NOW(),
     NOW()
   ),
   (
-    '3cbce2cb-527a-472a-96e7-44b32ee67772',
+    'f78d284f-9efb-4a71-8e2e-3d0d9a878b78',
     'Ladin: Badiotto',
     'dialect',
-    '548d3e4f-2b5c-47a3-8a88-1f3f5c05aeab',
+    '65900d01-f5a8-4bfd-bd15-cf309a3cb358',
     NOW(),
     NOW()
   ),
   (
-    '0b1af4c4-69d7-488b-a857-3028a6f63eb9',
+    'f4365fdf-5948-4b38-94ff-f2d2a95fb432',
     'Ngombe: Doko',
     'dialect',
-    '1de60a90-f06a-44e0-9835-90d0bbf69ae4',
+    '96293a4a-b34c-4aa3-88f2-9f8397c3fcb6',
     NOW(),
     NOW()
   ),
   (
-    '712358e6-76e8-449d-a48a-d418d999fd28',
+    '3652d20d-bf45-4b0c-bba6-e18d63553772',
     'Tamil: Burgandi',
     'dialect',
-    'b6b4a0a6-f217-468d-a98d-682c2ab90d93',
+    '9d0991c8-cb1d-4bef-be36-33672f737a2d',
     NOW(),
     NOW()
   ),
   (
-    '0517e463-8635-44f3-96eb-1e61456e833d',
+    'd387911a-8e5c-48c7-b84e-cafa6690c6e3',
     'Laven Nong Lao',
     'dialect',
-    'ad9daae1-2e78-4385-abf1-d975bc432dde',
+    'a1f80238-07b3-45b0-95ff-d8973a8de994',
     NOW(),
     NOW()
   ),
   (
-    '536d1934-d217-47eb-bb3f-ddb12eec7ff9',
+    'ea2a0085-10ce-4466-bc7a-f82171ca4fb9',
     'Katu, Western: Triw',
     'dialect',
-    '0d3bafbd-0345-44c2-a93d-692721e67bdf',
+    'ebc5892a-8b29-4c1d-bdd6-18ee43069a58',
     NOW(),
     NOW()
   ),
   (
-    '60e025fe-9a84-486d-a419-4c5778b3809b',
+    '144c0f72-3a2e-4112-9066-e1d052424e0e',
     'Teke-Fuume: Wuumu',
     'dialect',
-    '047c65dd-3783-4c05-88c4-e1cb0c690cd2',
+    '33cac013-4dc5-481f-ad7e-e6ef4db9fdf2',
     NOW(),
     NOW()
   ),
   (
-    '10852ff1-e0ba-44a1-902a-415f12527d18',
+    'a9018546-9c15-4b3d-ad6b-d7970b955172',
     'Wahgi: Mid-Wahgi',
     'dialect',
-    'dd308ec6-6fe0-4d35-9940-5307f32c9ffc',
+    'a7563bec-31b9-4e13-8a1d-b47e04072800',
     NOW(),
     NOW()
   ),
   (
-    '77c01c71-31f5-4e45-b3cb-87a724891c3c',
+    '0321720a-4339-441a-a3b1-2eabb640db09',
     'Bukpe: Bayobiri',
     'dialect',
-    '6448b682-de56-46a8-b756-e938bf812acf',
+    '2224dc13-570e-46ab-b8c3-aa41e5d66b94',
     NOW(),
     NOW()
   ),
   (
-    '720b0e0f-c75a-4f2e-b0e2-50acce685a3f',
+    '14083a0d-8899-4b29-b794-158be485dbdc',
     'Kalinga, Southern: Sumadel',
     'dialect',
-    'dbcf70a2-469d-426f-b09e-c57c1ed65159',
+    'ab7f46ed-eac1-4168-8ccf-30b2db090501',
     NOW(),
     NOW()
   ),
   (
-    'f93386de-a94c-4070-883d-99ea93e9001d',
+    'bbd01a23-5414-4688-b5c3-37e69bf2237c',
     'Kanuri, Bilmari: Bilma',
     'dialect',
-    '5a1dd79d-c2fa-458b-88ec-79ac9a458129',
+    '33155ccf-3fca-4707-aa57-2a02358f23fa',
     NOW(),
     NOW()
   ),
   (
-    '2bd2d39d-c489-49e1-9c00-687fb4fc4fe5',
+    '44fafebf-dd74-4a78-abca-c02e56ed2ef2',
     'Eggon: Ogba',
     'dialect',
-    'e8093ed1-ecc2-4a4e-8dda-e0e58a829ab8',
+    '98d04521-6d1c-4910-b05c-d346edf6e775',
     NOW(),
     NOW()
   ),
   (
-    '8bd83c8b-999c-4567-9b2e-b38aee2f705b',
+    'a93655c8-e8c3-4aee-9b9d-5feddf25ec74',
     'Lao: Pakse',
     'dialect',
-    'e966d9cc-4d9f-40ba-b70b-25899ddd1d79',
+    '8477b1f8-21eb-4a3b-a9b8-03e57ce39e3b',
     NOW(),
     NOW()
   ),
   (
-    '010bebfa-0cc9-46b1-8870-12680ea841ee',
+    '2e1c530e-5582-481b-8a78-fc8060fad218',
     'Naga, Nocte: Khapa',
     'dialect',
-    '68471641-e448-423f-9b92-7b57f208970a',
+    '9d5720ee-7bbc-4266-b221-dac21dab50f5',
     NOW(),
     NOW()
   ),
   (
-    '05df27b0-3b92-474b-a317-c5542094beac',
+    '759650c7-14b4-4004-961b-73beba026043',
     'French Sign Language: Marseille Sign Language',
     'dialect',
-    '04ad8f03-1e99-4296-b565-73e5e57c06c0',
+    '6033641f-0aa1-42fd-93fa-4784b25f365d',
     NOW(),
     NOW()
   ),
   (
-    '03786d01-7044-4921-86ff-c771107969a4',
+    'f11404dd-6ee7-454b-81ee-60e11bb6c0f8',
     'Libinza: Kutu',
     'dialect',
-    'ca1c1dce-1b13-4048-ac61-605e3e6f6d7d',
+    'b3aa2c9d-d00f-4bde-ace7-c4978266d41d',
     NOW(),
     NOW()
   ),
   (
-    '8aeb1074-1956-4b4e-9eaf-fa58ebf6b386',
+    '60a13f0b-cca5-445c-9dda-9a032596e7d6',
     'Sar: Majingai',
     'dialect',
-    'e007a791-f77e-45d1-8ac2-9c2afde9094e',
+    '1aafc1ad-412a-4281-aac3-ad43b51960fa',
     NOW(),
     NOW()
   ),
   (
-    '7500a2ac-934c-4e4b-b3d3-505e52df6454',
+    'a6ddf8e9-2a08-4025-a236-698cbf7524b1',
     'Gohsave',
     'dialect',
-    'd15362d7-0df5-4360-8b2a-d61e650e1ec6',
+    'c8e0b552-719a-409e-bc67-d0b4c8558e03',
     NOW(),
     NOW()
   ),
   (
-    '16d9d2e7-6521-494e-a62f-d92bc110bf99',
+    'add8d1e6-1611-4364-b497-ffd77a54079f',
     'Enga: Yandapo',
     'dialect',
-    'd0cc7593-c351-4355-b334-bc9639d9f3a2',
+    '9829aeb4-0433-4a48-8c61-9ab9c6142efa',
     NOW(),
     NOW()
   ),
   (
-    '1a90aae2-6a0a-4573-9974-dd8be7c94df1',
+    'e0fc5895-50f4-482a-a31f-b406893349a1',
     'Luang: Moa',
     'dialect',
-    'aba62b5f-ddfe-4e02-9b85-a88695fd74f4',
+    'c654445d-a456-4d23-a447-d1227266e665',
     NOW(),
     NOW()
   ),
   (
-    'a18f512e-e355-4ef5-91ba-aed0a6dca90d',
+    '47acb21c-14e9-4ffd-8df9-bb51b9ec890f',
     'Chiga: Runyakayonza',
     'dialect',
-    '34715e08-47bc-4b28-96e3-ae12c3811c4a',
+    '3779a914-f837-45c8-b8e4-c2becb214971',
     NOW(),
     NOW()
   ),
   (
-    '84fb3bce-af3c-454f-a845-bb70f6e08817',
+    '33f82ab1-da8d-45d5-a2f8-2c894c834c40',
     'Lauan: Lau',
     'dialect',
-    'cc5d95f0-55ce-4e14-8883-1ccef62a4f96',
+    '423b1a8a-f67f-41d1-b228-90a51656ecb9',
     NOW(),
     NOW()
   ),
   (
-    'c2ccb910-a78b-429a-8093-a57dfdd754a2',
+    '91df1725-b91b-4da5-bb58-a25ebf6ae454',
     'Rawang: Tangsar East',
     'dialect',
-    '5fff81ef-4c48-43e2-b66a-958d913906eb',
+    'cc43e2f4-8daa-447d-a02e-89b0cea971db',
     NOW(),
     NOW()
   ),
   (
-    'fd215001-8431-471b-952c-12b87bd13b41',
+    '631f7915-b01b-4ea6-8638-b7793836ba3c',
     'Buriat, Mongolia: Barga',
     'dialect',
-    '1c99acf7-153b-453a-b31a-679ff4f52b07',
+    '729ebde1-9a5e-4c53-9c3e-ae40fe890be9',
     NOW(),
     NOW()
   ),
   (
-    '6bea4d6a-8177-42d5-93e2-4ec85a2b66b9',
+    '36ec453c-634a-4a11-afb9-78c9b0dfdf4c',
     'Bijago: Bubaque',
     'dialect',
-    'bd3a4c8e-0e03-4b13-9f32-b0d8a97cf307',
+    'd9656605-7aeb-429b-a361-d400a4a0ff58',
     NOW(),
     NOW()
   ),
   (
-    '99462546-14bb-424a-a89a-b1dcb750c417',
+    '90d140a9-efdf-4c0c-9f62-22c21d146ee4',
     'Laura: Mbukambero',
     'dialect',
-    '8075ae2d-abdc-4181-be90-9d517014c346',
+    'ef7cf2ca-910e-4445-9e20-3c9f0904e75f',
     NOW(),
     NOW()
   ),
   (
-    '0b4e2fc3-8e8a-440a-823d-44cd7f123175',
+    '2a9d21f2-7d47-42f9-aefa-6bc35c780c22',
     'Nyamwezi: Mweri',
     'dialect',
-    '7c93e443-02ef-426e-b964-82fb0f5b041a',
+    'ff867df8-a6bc-4b9f-bb94-d6e9c4966736',
     NOW(),
     NOW()
   ),
   (
-    '30216387-f8e2-4b3f-93e0-f70a1ce4e1c7',
+    '0113d121-ab7e-4d14-b5b8-88dafa16856b',
     'Iguta: Anagohom',
     'dialect',
-    '53a4bff0-5ebc-4385-843d-b8f68c3141a4',
+    'be7b952c-c771-4713-b301-7f5fef799f52',
     NOW(),
     NOW()
   ),
   (
-    'a8b6bd6a-7612-4b21-b238-0ed69b3a6bca',
+    '42c010c3-0d4a-4318-acbf-0c2cfb5b1c15',
     'Ambae, East: Lolokaro',
     'dialect',
-    'dcd764e7-5d9e-4a3f-89c8-9e6ab690301d',
+    'a765d09c-2b2a-4496-a009-203865e72601',
     NOW(),
     NOW()
   ),
   (
-    '9e5593b7-1117-4be5-b395-431095cddc28',
+    '44ab125f-dafb-4451-8623-ce8a2c4c143b',
     'Chulym: Middle',
     'dialect',
-    'e094c884-256c-4612-ba71-98d545fe4c28',
+    '6d6f9002-1f23-4cbb-8e63-a29350843373',
     NOW(),
     NOW()
   ),
   (
-    '91239046-f332-4f43-85b2-2d9012142386',
+    '04e3543a-ce3c-4cce-94fa-4c79bb4d9585',
     'Chin, Rungtu: Central',
     'dialect',
-    'fe0afad1-c57c-477a-92c5-f5d302c86b81',
+    'eb444b1f-8bbc-4d5b-bd1e-e257d430b149',
     NOW(),
     NOW()
   ),
   (
-    '50076847-4556-431f-99b7-654d023169fc',
+    '93704cd4-5c9e-47f2-8910-888a6f7c1e40',
     'Aulua: Boinelang',
     'dialect',
-    '15156743-77d2-484d-989c-08b4f51f3a97',
+    'f4c3ae36-d932-4aa4-911e-bcbd241c60fa',
     NOW(),
     NOW()
   ),
   (
-    'be1ada96-57b3-42c2-a4fe-5252837840ff',
+    '08692b1a-42f6-4f24-94e6-6389351e6aa4',
     'Kikai: Onotsu',
     'dialect',
-    '8bfbd8be-a633-463f-95c6-a89220375743',
+    '0eefd43b-c71d-4458-981d-db58a8b2d014',
     NOW(),
     NOW()
   ),
   (
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Bamu: Upper',
     'dialect',
-    '020632d9-65b2-4b31-a486-bc5f7b80b472',
+    '24ef08ea-176b-40b9-acc5-4a8b6566eeff',
     NOW(),
     NOW()
   ),
   (
-    'fc793211-c22a-4a17-ba13-b76738bddcfb',
+    '603a3350-c762-427d-8c7f-2782efc0efbb',
     'Kairiru: Mushu',
     'dialect',
-    '681b2d81-6273-4c9c-b9cf-aa34a8661d1b',
+    '2a9f2041-93ae-4e13-a46a-d8e14d943303',
     NOW(),
     NOW()
   ),
   (
-    'ec59a9d7-d2bc-4339-95d8-f9d5d1c4d1d3',
+    '55536cb4-874a-4e94-ae4d-deb9524996fa',
     'Yeleba: Gamadoudou',
     'dialect',
-    'f2c5be6e-b176-4639-9cb7-6f30f7b53832',
+    '4274dfcc-1ed7-4720-8784-6828e785490a',
     NOW(),
     NOW()
   ),
   (
-    '992ebedd-27e5-4c3a-af15-d531ae02c3e3',
+    '83ee3b87-e7eb-41b5-8328-a51702724306',
     'Hyolmo: Lamjung',
     'dialect',
-    '1eee2b36-9476-4f44-b74e-b0b634ca142a',
+    '4afd345f-7479-48a5-bd7e-cf5ab382928c',
     NOW(),
     NOW()
   ),
   (
-    'dda9a711-d02c-47c5-a896-c2732f1c4b35',
+    '7fdb3115-b7cb-4287-8a92-c3dd915933cb',
     'Awa: Xiyun',
     'dialect',
-    'a5d25565-fd1a-4809-89aa-c8a48fb77e6f',
+    '56ccda78-5335-4e9c-acf9-66db1fff6b26',
     NOW(),
     NOW()
   ),
   (
-    '76811462-f966-4744-a31b-f5b86b7ce1c9',
+    'bb1f8003-087c-4162-b9cf-12f56abdd8b7',
     'Hindko, Southern: Rural Peshawar',
     'dialect',
-    '443ddeae-8f28-4739-912a-8a66cd62bc4e',
+    '840aec7a-fbc9-4138-b29a-b902af43d900',
     NOW(),
     NOW()
   ),
   (
-    'cb6782e8-ebd2-49cd-8db7-e7256a856328',
+    '038c001d-ab24-4f44-a09c-15104173d426',
     'Ikwere: Ubima',
     'dialect',
-    'eccab470-cd48-4dae-b609-6f6d1ac4fc80',
+    '3b2c4215-60cc-406b-a1bd-684f279cfeb1',
     NOW(),
     NOW()
   ),
   (
-    '3a903a73-c2fc-4d5b-91a0-5556e22b714b',
+    'c689b1bc-2731-4add-a681-35e92596d16c',
     'Lohoring: Biksit',
     'dialect',
-    'fb1da6d5-f2eb-42b1-a0d4-d7c6959a0088',
+    'db5cd7e9-ff46-4e10-94c3-a751dae77fc6',
     NOW(),
     NOW()
   ),
   (
-    'a67a3773-5e98-4f3c-9753-35f9031e74b7',
+    'bf2dcdc1-85d8-4c99-8839-2865d086cc9f',
     'Ndau: Dondo',
     'dialect',
-    '500cb8a3-ed0b-49bd-8f4c-3de6ff139d93',
+    '1dc4b9d0-f0db-4b0a-873c-3927e15507da',
     NOW(),
     NOW()
   ),
   (
-    '9821d68a-b5a5-42b2-96d0-8ded0c03e5a1',
+    'ea7441d0-1396-4741-9646-ae14daee93f8',
     'Mam: Comitancillo',
     'dialect',
-    '174ad5f9-c1de-42d0-b7fe-8920df959c70',
+    '96104770-52f7-4022-9dcc-8a2d94743e2c',
     NOW(),
     NOW()
   ),
   (
-    '130434b4-88f3-4c3f-9516-b97ff6ed6ba0',
+    '57939f22-e870-4046-b201-cf4d8f1904e8',
     'Eton: Southern',
     'dialect',
-    '2db0366a-839d-403e-a499-a884cb0f3c5e',
+    'cac6bab9-192c-418e-9531-7005288bc9e9',
     NOW(),
     NOW()
   ),
   (
-    'd78d808a-88dd-4f64-9212-ae0f9eec0253',
+    'fa09658c-55eb-406a-9933-3bfa57f47331',
     'Wa, Parauk: Yaong Krak',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'bd9283ec-64b5-46f8-90de-a5eebe707f25',
+    '26e20614-4b54-45eb-a9ad-50235a820a0c',
     'Mahg',
     'dialect',
-    '475eb467-0109-43dd-a0c1-6f4eddd4f269',
+    'f72a63a8-2430-42d6-9532-8cf49e8822b6',
     NOW(),
     NOW()
   ),
   (
-    'f04a7dbd-8e7a-4d03-aef0-e3789cd43b60',
+    'c36dbd6b-8fa2-4c00-bd29-76e0e99ee443',
     'Thai, Northern: Tai Wang',
     'dialect',
-    '619b42e9-363a-43f2-9a39-29abc09b9227',
+    '6e9b391a-55fc-4849-8f4f-52af4d2be4ed',
     NOW(),
     NOW()
   ),
   (
-    '561e794a-e1bc-482a-8e26-9f999ea030f9',
+    '19e56b47-2fde-4d4f-8ee6-1306c705a02f',
     'Ili''uun: Nabar',
     'dialect',
-    '00e592e7-cc07-4e0e-9177-918c101cc4cf',
+    '606cc5e8-e62e-4cb9-bce3-521a798ea445',
     NOW(),
     NOW()
   ),
   (
-    '7972f8e2-0b9d-47bd-8af9-d60b71e7dfaf',
+    'fe0f26d4-3f15-44f3-a7af-b8364a1a56f9',
     'Igala: Ibaji',
     'dialect',
-    '29ae68cb-1621-4529-a2f3-8bccc283cf25',
+    'c7336f68-27d7-4c88-b83e-0c6b3afa16d4',
     NOW(),
     NOW()
   ),
   (
-    '35a61e4d-5ab1-43f9-9997-a6dd8a52960c',
+    '31fb4f59-39c5-48bf-866f-27792243f037',
     'We Western: Nidrou',
     'dialect',
-    '5917a39e-b404-456c-a895-4ffbf50dbb96',
+    'a1f03241-687d-4538-819c-257abd5f29da',
     NOW(),
     NOW()
   ),
   (
-    '1f51eed3-edf0-4980-b01b-2a37d8e1968a',
+    '30ddc4cb-e037-4d1f-8241-8d59b2d1bdb9',
     'Wadaginam: Muiyum-Kuiyum',
     'dialect',
-    '71dafa4b-416a-424e-ba24-6d2bd5d2bfbc',
+    '8a4c35df-a0c9-47eb-ad2a-c2cf6d89c245',
     NOW(),
     NOW()
   ),
   (
-    '2a51271d-d23e-499b-9368-031f935b2405',
+    'c04dcfec-f6ce-4fa7-bda0-9e8dcdd8d293',
     'Wa, Paaruk: Banhong',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'b835145a-97e2-4087-b3e6-4748b8b22923',
+    '5abd0130-5a15-4379-ba57-ccf3b3321e52',
     'Akan: Agona',
     'dialect',
-    '9c893d1a-5580-4d0d-8561-e06b905fb294',
+    'b62ea0b7-8fe7-4ffa-900c-6098bc5b55d9',
     NOW(),
     NOW()
   ),
   (
-    'a42db3b1-4041-403d-811c-1c8613a224a6',
+    '31612fe5-616b-4d7b-a2c8-13e127da6fef',
     'Loven: Houei Kong',
     'dialect',
-    'ad9daae1-2e78-4385-abf1-d975bc432dde',
+    'a1f80238-07b3-45b0-95ff-d8973a8de994',
     NOW(),
     NOW()
   ),
   (
-    '252cd491-9d92-47a8-9a9a-af28feb40d9a',
+    '79e8655c-2279-4db8-9086-3d98184a9a6b',
     'Lower Nossob: Xatia',
     'dialect',
-    '8b31471d-7205-4616-add4-a8d82760f66a',
+    '4018c678-ca5b-465b-9b98-9bcb4cdd9a76',
     NOW(),
     NOW()
   ),
   (
-    'b1251cca-f4b5-4c10-adeb-b4f73546e9b2',
+    '4bf6ef2b-5ff7-4d87-abd6-c6d57ffb4bde',
     'Paakantyi: Wanyuparlku',
     'dialect',
-    '2373405b-14d3-4739-b2a8-fb71c8618c41',
+    'b66c2fb2-4740-4241-9b80-cf97e78a5056',
     NOW(),
     NOW()
   ),
   (
-    '843c6ce9-1cc0-46ab-81fe-6bfc80727363',
+    '63388a27-e1b9-4bae-822b-8d06182aa7ab',
     'Helong: Funai',
     'dialect',
-    '0bf5cf84-63b4-40b7-b925-20a3664f0699',
+    '7932e390-43ca-41ac-a2b6-77d8c5a7df2a',
     NOW(),
     NOW()
   ),
   (
-    'ef6e8abb-33f5-47cf-9c16-d1cc0f9f6866',
+    '7093db44-809f-4c1b-9e8c-0c23d29c3da2',
     'Khakas: Beltir',
     'dialect',
-    '13d05d89-2ef3-435e-b861-489ad8434da2',
+    '89a2f4bd-bf74-42ac-8bad-a28c432272a1',
     NOW(),
     NOW()
   ),
   (
-    '158a76cb-ec55-4559-956c-027c3c5f3463',
+    '55e7c665-6b37-483e-be6d-ff726967b695',
     'Tzeltal: Bachajon',
     'dialect',
-    '359ae2c5-e9fd-40f4-ad86-460edb4e473f',
+    'b9b01675-fb87-4d16-913a-89b917f1a5ff',
     NOW(),
     NOW()
   ),
   (
-    '9213bbcd-546c-43f7-9280-97be23396373',
+    'c464bc0c-bf4b-4c09-a157-5fcd0aa99853',
     'Lower Nossob: Auni',
     'dialect',
-    '8b31471d-7205-4616-add4-a8d82760f66a',
+    '4018c678-ca5b-465b-9b98-9bcb4cdd9a76',
     NOW(),
     NOW()
   ),
   (
-    'a05db323-bcc8-4200-bae9-13bcce568054',
+    '8c4e9e8d-cf8e-48b1-bf8a-d932a051679b',
     'Swahili: Mvita',
     'dialect',
-    '14a079ea-50ad-4841-b271-106193b7e2dd',
+    'ffe4b383-858f-4bc3-adf9-11751facd7b7',
     NOW(),
     NOW()
   ),
   (
-    'c5c78687-bc2b-4642-baaf-25094f600ac6',
+    '15b262d4-bbac-4b6c-9227-ec5e613df3bb',
     'Maru: Gawan Naw''',
     'dialect',
-    '6bd943c3-603e-48c9-bfda-1c16416279e8',
+    'a1ee40f7-4712-4cad-afb3-d888f662a30f',
     NOW(),
     NOW()
   ),
   (
-    '84c4dd7a-2da0-4af6-abb0-c9e939382d6c',
+    '61c16298-631c-4e95-8934-d349fb12004f',
     'Arigidi: Aje',
     'dialect',
-    '19a07ade-e6d9-48e6-ac38-c6acf92cd67b',
+    'a0d28bc8-cbff-495e-ad15-542a08a060be',
     NOW(),
     NOW()
   ),
   (
-    'b4275868-0938-4c4a-b07d-54ac3b96c983',
+    '6b8becdb-3674-4433-a605-b3bf2aa3ddb5',
     'Dagara, Northern: Lober',
     'dialect',
-    'de477d2e-fde9-4fce-b1fa-e87dc241f817',
+    '0e0bf889-db9c-40a4-99bd-7730bc9c7890',
     NOW(),
     NOW()
   ),
   (
-    'c5bf96d9-7b02-402a-b4bc-d123434cf07a',
+    'ee6f2e87-2d94-4566-b684-ce3f3164d39e',
     'Wula',
     'dialect',
-    '29d9ad70-5ee7-479b-b88d-a553eb4594b3',
+    '33c24419-0dae-461b-b16d-5a135a942224',
     NOW(),
     NOW()
   ),
   (
-    'fa5e2ebb-234b-4683-b841-2025956304b2',
+    '4cacbdc4-dcd0-4a88-a07b-5576e7e38494',
     'Hungarian: Northeast Hungarian',
     'dialect',
-    '890adec5-4ceb-4eae-9a9a-6eccd91dcd65',
+    '91d989b1-61cc-47c6-b766-59bf0492c487',
     NOW(),
     NOW()
   ),
   (
-    '6bf413e8-15bb-43bd-80c9-8ba3117cde09',
+    'a90665b2-bc98-4beb-881a-1d754f39a59a',
     'Bambili',
     'dialect',
-    'e29e8b5d-8be2-4c79-a299-82c20e55a739',
+    '63596347-cf36-4886-bbe1-79083331093d',
     NOW(),
     NOW()
   ),
   (
-    'c69d82e7-28c4-47a5-a16c-e594cba3c06d',
+    '59075792-0b72-4853-8613-8be31d9adb45',
     'Veps: Central',
     'dialect',
-    '308f3177-b7db-4e31-890c-b8e0cac27129',
+    '395fbc22-1678-4b8e-b6ec-33fa2eea9164',
     NOW(),
     NOW()
   ),
   (
-    'a657fdee-7fe8-4970-9c82-f6a55c864c45',
+    '97ba64a8-3de9-43f6-8d23-0c789315609f',
     'Timbe: Central Timbe',
     'dialect',
-    '8ed4ac8f-a1a2-4206-8c8b-0c7d5fb410ec',
+    'ee21d2b5-b5cb-4c1f-8b17-e739ada1c8ac',
     NOW(),
     NOW()
   ),
   (
-    'c8970742-875d-4f54-ab60-0a341a59d113',
+    'ed2ba82c-9025-4ec1-b48f-c6e39f92d6d1',
     'Adi: Shimong',
     'dialect',
-    'd0838275-e741-40ad-a617-41f9c141142a',
+    'd3f1dff1-d78c-4263-8081-9de7f7a09496',
     NOW(),
     NOW()
   ),
   (
-    '0dfe1e44-ba41-43b4-a4e0-702406e50554',
+    '0a4a930b-35fc-41a9-be63-15cb6c3ca531',
     'Dhatki: Central Dhatki',
     'dialect',
-    '1c7a01cf-013c-432a-9016-e1dc7dbb4807',
+    '728e8130-75f4-4965-ba47-0d7b6f2f2e59',
     NOW(),
     NOW()
   ),
   (
-    'e2b5f3cd-7507-47c2-b678-1ba1c1583d57',
+    '97304f67-97f4-403e-8124-5bcc4443e9a5',
     'Natimba',
     'dialect',
-    '53d12114-9724-490e-89ce-0ed3a22ced7a',
+    'c72a00c5-45ec-4ea6-b116-e1f054f58923',
     NOW(),
     NOW()
   ),
   (
-    '1ef7cde3-000f-49fc-abdd-db6677b969f5',
+    'de4ae4f7-be54-4210-ab39-bff8c97cbcdc',
     'Kamuku: Cinda',
     'dialect',
-    '89c82343-4918-4bce-a7fd-436c5c307b86',
+    '75766e40-8bce-4180-a45b-b27ed5638271',
     NOW(),
     NOW()
   ),
   (
-    '6dd8548e-aee9-4410-9aa1-2532359d0acb',
+    'e016a11b-285a-42c1-a73c-4f481f5c6e35',
     'Taznatit: Touat',
     'dialect',
-    '5c96a3ed-c3df-4236-9cd7-300a4a178da6',
+    '3fd3ec7c-00f3-4c87-b119-a16fa69304c9',
     NOW(),
     NOW()
   ),
   (
-    '62fd1f2d-b360-4b80-990f-02ab073ec29a',
+    '3a867239-884e-4790-865b-be8011ca9e2d',
     'Matipuhy: Nahukua',
     'dialect',
-    'ab0460a0-9580-4dae-a3e4-756a763e18f4',
+    'e654ea93-dbc8-47d1-94d1-a0e31a795cc6',
     NOW(),
     NOW()
   ),
   (
-    'fb1089ca-ea36-4172-a068-4ee96c7a6ef1',
+    'c68907f3-9da9-434c-b9d9-40841c169a1d',
     'Orokaiva: Etija',
     'dialect',
-    '08687fa8-98c6-4293-b11e-a625cf4c6aaa',
+    '8788f5b2-abb2-4377-857a-41e3abe14168',
     NOW(),
     NOW()
   ),
   (
-    '56fa672d-3ec2-4a91-8924-723c4ea263c9',
+    '2d5ac889-0ff1-4798-a54b-7e2b0d1970d9',
     'Senoufo: Tyebara',
     'dialect',
-    '16d46cae-b89e-4450-b6f3-feef3f50f2b3',
+    '83596410-d4d4-4bc4-99cd-110ed8360c17',
     NOW(),
     NOW()
   ),
   (
-    'cf39cf23-40ea-4f6a-8bb1-0ee005dd621a',
+    '0df19d43-0ea0-4ef1-a171-082eddd51d21',
     'Danish: Bornholmsk',
     'dialect',
-    '9df48aff-3f11-4897-a88a-b623770d5681',
+    '9113d7f3-e6b5-4bd2-b55e-de562bedac94',
     NOW(),
     NOW()
   ),
   (
-    '16a9b764-0339-4a48-a5a0-331510a62f61',
+    '874ca979-9d69-4798-bade-4bd0fc26650a',
     'Yagnobi: Eastern Yagnobi',
     'dialect',
-    '2c586e4c-af02-464c-bc77-aae972e74d29',
+    '7f151465-7377-4af4-86f5-156aa37750e2',
     NOW(),
     NOW()
   ),
   (
-    'a8dd2e9e-ef6a-417d-9227-96ba59f6cc48',
+    '9edb92f0-0a6c-4da6-a6ed-1ad30421372e',
     'Baebo',
     'dialect',
-    '405e1dfe-9128-4b05-a06a-56145a0a7445',
+    'b8888c11-c833-4114-a5ac-16ede68ae506',
     NOW(),
     NOW()
   ),
   (
-    '3233a4f2-102b-4517-ad58-091f100c364d',
+    '41dbb404-5262-4425-a396-9861d51faa06',
     'Kannada: Kuncherukala',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '69dbbcf2-7a4b-4fac-b4fa-d73ced77755c',
+    '02db5a7c-2a15-4b31-b234-dc512805985d',
     'Buyi: Ziyun',
     'dialect',
-    '04c67446-ee0f-4e33-bc73-71ddc4a0358e',
+    'ab7b23c0-70c4-45b7-8579-a6b1e64d398a',
     NOW(),
     NOW()
   ),
   (
-    '6155f28d-a6b3-4eeb-b7e0-b654cf464b6f',
+    '6bf68c9b-fd77-47fb-980f-86031dcf3cb8',
     'Georgian: Adzhar',
     'dialect',
-    '6e8bcb9e-4b4a-4b6d-bfaf-1070185cd5f1',
+    '5cbcacfa-3ae3-44cb-95af-b0344fe07abb',
     NOW(),
     NOW()
   ),
   (
-    '7c0c26c7-919d-4680-93ef-f1b87f7f5cc5',
+    'c7239478-1db9-4da3-97ca-a56cff3bb666',
     'Nankina: Datomane',
     'dialect',
-    'a62842c9-0fbd-47af-b018-24ce22a6dd0f',
+    '845b46ee-0b85-4b4d-b5ae-43771965a5f9',
     NOW(),
     NOW()
   ),
   (
-    'aa4bf226-0c18-4fdf-86d7-2a4c2acda128',
+    'bc25ffbb-4b51-4b15-be1a-3654a7fe1d31',
     'Felupe: Calequisse',
     'dialect',
-    'ee1b13ce-68dd-4bd2-a45d-ec9de43f201b',
+    '0ad1095f-dc6f-4e9e-860a-6ad2f7f545c1',
     NOW(),
     NOW()
   ),
   (
-    'b26c4666-9ca4-4907-b1d7-766145f63a63',
+    '6ffa927a-27e3-4f0d-bbd7-42db66931f8e',
     'Dargwa: Megeb',
     'dialect',
-    '37050efa-0cf3-4334-a663-c4b9bbd7d84e',
+    '2678f824-4cc2-4285-bf58-03e0b95a2c9a',
     NOW(),
     NOW()
   ),
   (
-    '007eb1e8-ff1a-489d-9277-ed19221c0f0f',
+    '358a0361-7eb7-463e-9afa-c23b83b7c5c9',
     'Lisu: Lu Shi',
     'dialect',
-    '08486783-c318-4b42-b9d8-450f458be46d',
+    '3c680452-2ce4-4d59-9bef-e871170597dd',
     NOW(),
     NOW()
   ),
   (
-    'f8cdb4a5-6e00-4b79-b7a6-6d9acf80ca6f',
+    '26a76f1a-fbba-464d-8cf4-58595bf0ebae',
     'Kohistani, Indus: Bankad',
     'dialect',
-    '051fc83d-e2f1-407d-9a1c-61e1a1c1a4e0',
+    'f3323c99-344f-4573-aede-54546a79887c',
     NOW(),
     NOW()
   ),
   (
-    'e56f4359-20b7-4ea9-9866-d5607ebc70d6',
+    'a08a29c6-6b10-41a0-b7e4-88f06a571e84',
     'Lobu, Lanas: Rumanau',
     'dialect',
-    'f46d3165-777e-4bb3-8765-5df73d57e894',
+    '3e538d60-23fa-4aa4-ae35-5c728fb5a952',
     NOW(),
     NOW()
   ),
   (
-    '8e67c741-420f-46d0-8511-2f54d852de6c',
+    '92b64837-e710-4dce-a8d8-74bdb33a9be0',
     'Perai: Moning',
     'dialect',
-    '62288b79-6365-4297-83d6-baffcf1ef88a',
+    '3576adae-4d36-4aaa-b75c-e47ec4e90609',
     NOW(),
     NOW()
   ),
   (
-    '4a4a9e60-483a-41ef-85a6-df22354062f8',
+    '85b13cb5-51bf-4ae0-aa7e-159cd706131c',
     'Iowa-Oto: Chiwere',
     'dialect',
-    '062a0a20-c29c-4009-beef-653e4dfc0765',
+    '8c2c7849-0740-4ae6-957f-9d563a51ccd9',
     NOW(),
     NOW()
   ),
   (
-    '5c4cede6-e212-4e65-a6b1-dda2d188b669',
+    '2fc1cbb5-0d21-4fe5-bb9f-ab40fd321527',
     'Osongomeno: Ntono',
     'dialect',
-    'e16d7aa4-8578-4371-a818-ee5e448044cc',
+    'a5b5065a-c1bc-4a71-86ea-a1b44947a368',
     NOW(),
     NOW()
   ),
   (
-    'd30fcc7e-4f01-4196-b96b-5d1aa29f66f1',
+    '8985bf74-4fde-468c-85d1-ba2e261c3a7d',
     'Muthuvan: Eastern',
     'dialect',
-    '605df66a-4bed-4fab-8eb9-30135c670614',
+    '48d2e8ef-503e-44e5-be18-95f5b11131b1',
     NOW(),
     NOW()
   ),
   (
-    '817c351b-32c4-4884-af15-dff511847e67',
+    '864397d8-dc67-4799-935a-1ae0b6bcee45',
     'Naga, Tangshang: Ranu',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    'b8e2e203-3909-4054-bc09-dd089a12d8ed',
+    'e779c59f-4929-4412-884d-04b6ee7950d5',
     'Kuman: Ega',
     'dialect',
-    'beca028b-423e-4794-b91e-c9f21fbf9c67',
+    'e60d9f5b-860e-4848-bae9-85eb4a30d74b',
     NOW(),
     NOW()
   ),
   (
-    '9306e9b3-7929-4554-968e-2d5c96fb78f8',
+    '9ee09367-3bd4-4869-88de-4947be7ac4e4',
     'Attie: Naindin',
     'dialect',
-    '1ea783e5-c7ab-47d4-b44e-7ab9fcf7ed5b',
+    'b598461d-6afe-4ff0-b364-69c0ef8f7b73',
     NOW(),
     NOW()
   ),
   (
-    'e04b2f05-3247-41ac-ac9d-e0ae990ca45e',
+    '86d946b3-79e2-4d80-879f-8adcf35424b1',
     'Saami, Skolt: Notozero',
     'dialect',
-    '6cc1a28b-7d2d-47d2-8777-9e4c69cdf570',
+    '463ea3b1-4698-405e-9094-96cf2b9dcf8e',
     NOW(),
     NOW()
   ),
   (
-    'be40a999-22bb-45ed-a00c-2db728c2303a',
+    '4491f6a2-8f09-420e-8808-3564b06b947b',
     'Ladino: Haquetiya',
     'dialect',
-    '1644147a-a211-4ca9-ac83-1013ca1c7a9b',
+    'ce4e8a4b-c0fc-468e-a45c-d64256499f68',
     NOW(),
     NOW()
   ),
   (
-    '8908168e-6eff-487c-be1d-f0bbf50eb7ea',
+    '541963df-b26e-489f-86ed-a9b53d7ce0f2',
     'Mosina: Vetumboso',
     'dialect',
-    '3b7d2028-2d7b-4e4b-91d0-f4b3ab25a765',
+    '77680dca-8005-4d93-8b4f-0e0fca3c2494',
     NOW(),
     NOW()
   ),
   (
-    '0b9cdba7-4449-45a6-86af-239a2bfb5fff',
+    'b052a59d-8533-4641-9a5b-790d8b66d525',
     'Turkmen: Yomud',
     'dialect',
-    '2e208de4-c299-4920-831e-91ead613ca30',
+    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
     NOW(),
     NOW()
   ),
   (
-    '8153737e-b158-455d-b099-5426a291e7a9',
+    '0f36ef2a-943c-4a80-b4fd-2aeaeb1e3d2c',
     'Oromo, Borana-Arsi-Guji: Kereyu',
     'dialect',
-    'a4322cd6-107b-48c6-931b-d58d16295a9c',
+    '5221ed0f-cd65-4310-9c5d-573f9fb339d2',
     NOW(),
     NOW()
   ),
   (
-    '8d1165aa-758b-4051-bfa5-a14b462c4411',
+    '8c9d5a11-d084-41d3-bf04-ac4b48dd5062',
     'Maring: Eastern',
     'dialect',
-    '24d55522-cff0-4add-8897-e6e44ef0694e',
+    'dc9fe1db-c047-4439-9f9a-e7b94c813f91',
     NOW(),
     NOW()
   ),
   (
-    '2364142b-0a6e-4b2c-ab66-6ec0baa80e7e',
+    'fea1ccdb-9e23-453e-8048-b64383cc2700',
     'Sebat Bet Gurage: Gyeto',
     'dialect',
-    '5b5ea0f5-0f0f-4cf4-ab99-b13760f8018b',
+    '31073546-b76f-40b0-bedc-e4a11e23b27e',
     NOW(),
     NOW()
   ),
   (
-    '6180541e-e4ed-4aae-a0d0-a0d8eb401457',
+    'a960ae83-974e-4eee-b3ba-84befb847592',
     'Pol: Bobili',
     'dialect',
-    '048b6689-3bcf-4777-84e1-efd87b5562d0',
+    'dd4631c9-5d0e-423a-ad68-0c3fdae9ffb3',
     NOW(),
     NOW()
   ),
   (
-    '7b5ba1f6-db37-4c17-a248-3d42f7775107',
+    'edb5acfa-5ea0-4fff-9e68-ecac5a5a3607',
     'Lengilu: Binuang',
     'dialect',
-    '093eca95-a05b-49e8-90c4-b33b1947600b',
+    'fcbdfdae-bba3-4b3c-9f8b-d2b5562a0ff7',
     NOW(),
     NOW()
   ),
   (
-    'e910de21-da63-461e-941f-4b5ec81b6026',
+    'deb82f71-13db-45b1-9210-693f25e58860',
     'Aari: Laydo',
     'dialect',
-    '1b155828-c9f1-4b8d-b9c9-6a7077f6cb2a',
+    '51a1aacb-a0ce-47b6-9557-8ac775f2a7b1',
     NOW(),
     NOW()
   ),
   (
-    '8875b6c5-3736-430e-91e0-e051b78e6a15',
+    'd6a276ed-c93e-4330-8771-b20be3c07d83',
     'Rarotongan: Aitutaki',
     'dialect',
-    '49b9f693-8f3a-4c22-8492-a70b03522b66',
+    'eaa0e4ab-bc03-4ce1-9f14-51787d1e02fc',
     NOW(),
     NOW()
   ),
   (
-    'dc58f6b6-cdbc-4ddc-898e-adc22b3801c9',
+    '99a32944-38da-4355-9edb-82f40c228b0e',
     'Kgalagadi: Ngologa',
     'dialect',
-    'c107d767-8bcc-43e7-a7f3-328853fb4221',
+    'faf8e82f-c667-4089-af78-2782c02d8188',
     NOW(),
     NOW()
   ),
   (
-    '4750754f-7530-4a37-9447-f4a6de182dde',
+    '95118eda-1a7c-41b1-9226-355985588e45',
     'Adi: Minyong',
     'dialect',
-    'd0838275-e741-40ad-a617-41f9c141142a',
+    'd3f1dff1-d78c-4263-8081-9de7f7a09496',
     NOW(),
     NOW()
   ),
   (
-    'ee25bc11-63b9-4ca1-919f-ad0b9b7cb80c',
+    '689c40de-f694-4422-9095-be8101e5fe66',
     'Tumbuka: Wenya',
     'dialect',
-    'f7ad99ba-44dd-4e1f-9c4e-1d9d8fec3a35',
+    'c74ac503-abc4-4902-94b8-75c1f9561280',
     NOW(),
     NOW()
   ),
   (
-    '187a0f7e-0216-40b9-aa75-1196236bbfd4',
+    'eafd4154-b918-4b42-9234-66ff4bcca7a7',
     'Kisakata: Bendela',
     'dialect',
-    'dc9e15e9-2824-4d15-9a42-ab3a507f6f6f',
+    '2f541c6f-211d-46d5-abd0-ce9981d79659',
     NOW(),
     NOW()
   ),
   (
-    '90ca9ffc-5c70-4363-8ae9-bd372b3a98a9',
+    'd21d1317-b2d4-4825-8b79-e6ba331648df',
     'Musi: Palembang Lamat',
     'dialect',
-    '574eeee7-bfe4-4df1-b7e1-447c55d428a9',
+    '3b796907-d103-4843-b1c4-f761dc49a020',
     NOW(),
     NOW()
   ),
   (
-    'eff2d703-78ea-4172-a16c-220d610af90a',
+    '63163986-38f1-43a6-a74b-df6d2a13db91',
     'Gayo: Serbejadi-Lukup',
     'dialect',
-    '06e9ba46-2070-4164-83ab-ad804ef383d3',
+    '2b7c82e8-2f7a-4398-909f-4a22ccffcd45',
     NOW(),
     NOW()
   ),
   (
-    'ad8490ad-bc4b-4d96-9fb4-aa1e2f267a3d',
+    '32507aca-a9e3-470c-bca2-b30d7c8e7ff0',
     'Kalmyk-Oirat: Oirat',
     'dialect',
-    '30e26dfd-7650-40af-a067-c6db06099b05',
+    'dd1b95a1-0b3a-4a82-8fca-239243e9e985',
     NOW(),
     NOW()
   ),
   (
-    '5cf242e2-ccdb-4447-bb37-98696a996d33',
+    'b1c12a5b-1bcd-44c0-8833-84f1c988fd3d',
     'Banda-Mbres: Buka',
     'dialect',
-    'e6748e86-7c5a-4aea-8f8a-3546a3f813ce',
+    'c4caaf1e-ace5-426f-afa6-eb5c34c2dc63',
     NOW(),
     NOW()
   ),
   (
-    '86e1872e-baee-4cb4-b75b-86facb50112d',
+    '3992b74f-936a-420a-85bc-05ad9bb8d026',
     'Halbi: Muri',
     'dialect',
-    '96f16256-1f73-4cd5-a4aa-c396c21b3d83',
+    '90f294fc-de3a-4cc7-9fb1-1a4a6f8229d1',
     NOW(),
     NOW()
   ),
   (
-    'f47c72cf-a273-4636-abda-2e79f18fb7f5',
+    '2515dde1-0b52-4c29-9709-cfc519e120e8',
     'Tedaga: Kecherda',
     'dialect',
-    '7353f12b-76f3-4b9e-8e5b-e92db66d7bee',
+    '88d664c3-124c-442c-8a07-38edb6e6ac71',
     NOW(),
     NOW()
   ),
   (
-    '44ef0a11-06a2-4450-b4a0-bad29a44af4d',
+    '7c623741-0058-456a-80be-e39401d90552',
     'Kokoda: Kasuweri',
     'dialect',
-    '2c84f4e8-7b6f-46ba-aa40-1f9cef66a670',
+    'f29f7aa7-ec6c-4f24-98c8-f11724a2ff87',
     NOW(),
     NOW()
   ),
   (
-    'ca08427d-a2fc-41a8-a03a-f641d15c3da3',
+    'c11955e0-0b20-45c8-81bd-19b6d281d821',
     'Awadhi: Gangapari',
     'dialect',
-    'a04cebc9-00cc-42dd-8c18-8cb2ed1bd9a4',
+    'bf8eef21-eebf-4d91-8293-d958b4ecddac',
     NOW(),
     NOW()
   ),
   (
-    '961559e9-62fa-49fa-b9ab-2b47bc794e59',
+    '3a5a8da7-8c33-4926-ae68-b6fff0dc4946',
     'Mongo-Nkundu: Lenge',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'ce453a1d-8cf5-4e25-b09d-68e2d91f1b92',
+    '8df1a947-ad68-460e-8bc2-c0e968541fe6',
     'Dan: Upper Gio',
     'dialect',
-    '580e732a-f454-433f-9210-c078a1b583ff',
+    '8517583d-8fd3-4ac2-877c-e134efdc0a5a',
     NOW(),
     NOW()
   ),
   (
-    '86004047-5c3f-4d96-b784-c3236ad473da',
+    'be17c602-c064-4fc1-ab35-ec76d25f8702',
     'Dinka, Northeastern: Thoi',
     'dialect',
-    'd5b9c5f9-5aa4-420e-8fe8-195d83f299cd',
+    '8d301a53-54aa-4d2b-8f2e-2562bf9f85ac',
     NOW(),
     NOW()
   ),
   (
-    'afcef2db-89f3-4503-a1b7-1b52d6278ffa',
+    '283048cf-00d2-45dc-a906-6c6aed4fd57e',
     'Kagulu: Tumba',
     'dialect',
-    'e800205a-c174-4b04-a996-a4c967a3a12e',
+    '7bc83c0e-e323-4513-9678-56480c4ffe14',
     NOW(),
     NOW()
   ),
   (
-    '63edd6c5-acbc-49f9-aa09-7518085fd197',
+    'b4ef6d7b-fb6a-4170-a4d1-9e8a66b37fe9',
     'Maria: Adewada',
     'dialect',
-    'df92991b-185e-427a-9af2-20058a9f4b0c',
+    'f4679b9a-15da-4569-948e-f29f464e6be3',
     NOW(),
     NOW()
   ),
   (
-    '0ba2b03e-c802-452b-b6b4-597f554c5308',
+    '8d96c1d4-71c8-49e9-b534-69eb7b79a3fb',
     'Tamil: Secunderabad Brahmin',
     'dialect',
-    'b6b4a0a6-f217-468d-a98d-682c2ab90d93',
+    '9d0991c8-cb1d-4bef-be36-33672f737a2d',
     NOW(),
     NOW()
   ),
   (
-    'a40ccbac-fa0c-41ac-ab8d-e693dd2c08f0',
+    'e03450c1-3429-48bc-a1cd-6aa7ec229bdb',
     'Kemberano: Barau',
     'dialect',
-    '0f10d45b-7c43-40f0-8bdb-74bd638f4303',
+    '2bf7f93c-6f83-4283-b986-2a22e654a3b4',
     NOW(),
     NOW()
   ),
   (
-    'e9f70eb5-6876-44b8-8ae4-75aa288a5d6f',
+    '5fded42c-3ccc-46a1-aa44-71cc38448048',
     'Chinese, Min Nan: Leizhou',
     'dialect',
-    '184efc3f-7386-4431-9801-0109664dc92e',
+    '3f4b91fe-6eb4-4fc6-b6d3-88fc6fcd15c3',
     NOW(),
     NOW()
   ),
   (
-    '16c8ec72-52c9-4188-b0e9-41a5a9c2a88d',
+    'ebedfa1f-afd0-43f4-b2f9-96a22981b03a',
     'Izon: Apoi',
     'dialect',
-    'e985cdf2-383a-4f7a-9358-4ad0a7de1dab',
+    '370e7c61-56d9-4975-9689-70bcde90777a',
     NOW(),
     NOW()
   ),
   (
-    '117b26a1-bc00-4f41-a15d-ed1f1847dc73',
+    '783644be-f3d9-43a9-ab72-9359f4a04b61',
     'Bashkir: Yurmaty',
     'dialect',
-    '8bd4b128-95b6-4978-94ce-e718603e971c',
+    'd1118388-26b3-4dd4-969f-bfd44d4881f4',
     NOW(),
     NOW()
   ),
   (
-    '01ee90eb-f336-4281-ac66-e7a6e49332cc',
+    '66ca24dd-cadc-4c79-9d47-440a8f7b59b6',
     'Nomaande: Nonyambaye',
     'dialect',
-    '310dd0a3-0e6a-4259-a71c-2f2539af93d1',
+    '75be3857-3923-45fe-9e7f-67e266838d9a',
     NOW(),
     NOW()
   ),
   (
-    '9a84f54d-b202-47eb-8c52-1f977e0e880c',
+    '4cb84388-aa64-4b25-b91e-ef6d12c813fa',
     'Yi: Lolo in Mojiang',
     'dialect',
-    '70a72ab4-d104-40ba-9efb-55aa9bd89c51',
+    '5d0bedcf-38b3-4a28-9ecb-aaad84b2e2a6',
     NOW(),
     NOW()
   ),
   (
-    '2ddde0ae-2ef3-4aef-acd1-d943b3f7d22c',
+    'd8262d25-2099-4176-a226-1829cfa7b1c7',
     'Shina: Gilgiti',
     'dialect',
-    'd3ab951a-3603-4bbc-90f9-5508d28484b0',
+    'e51672b9-d950-4ddf-b07c-c71aab84c82c',
     NOW(),
     NOW()
   ),
   (
-    '9c81cdc1-581b-4cdf-aed2-6a14c75390da',
+    'aa1824c1-e93e-42dc-a3a1-d901678373e4',
     'Jarai: To-Buan',
     'dialect',
-    'c47e4be4-b290-4ab5-9cff-7525195c3637',
+    'a29010e1-da60-4d9b-824f-25d091782c9f',
     NOW(),
     NOW()
   ),
   (
-    'ccfcdc15-a540-4b1b-ac35-13eb30a7ecf8',
+    '62d1cf49-63c2-4dbc-99ab-7636151c6b7c',
     'Sos Kundi: Mamu',
     'dialect',
-    '3d93ddac-d4db-4beb-b5db-a63702ad0521',
+    '97daf4b0-1170-4778-b8e4-612b57c75c5e',
     NOW(),
     NOW()
   ),
   (
-    '6ad7e1c2-6b5c-4ade-909f-ff7d97321975',
+    '9f5b0d4f-3afc-447a-9be3-aa3e2eaefd2a',
     'Muyuw: Iwa',
     'dialect',
-    '680fae0f-42ec-4b0d-8048-513fd88e55c8',
+    'eb5c1525-5dfc-4d8a-a292-2cd7eb72a346',
     NOW(),
     NOW()
   ),
   (
-    '8ba098d3-27c8-4376-8863-c7491ae95fa7',
+    '50e9790c-3859-4d6f-91d2-320cfc7819bb',
     'Bamwe: Lifonga',
     'dialect',
-    '165b1f49-6c03-4520-abaf-4075a20b8d4a',
+    '1de5584d-e5f6-40aa-b8d1-46d61a9ed81f',
     NOW(),
     NOW()
   ),
   (
-    'ea053866-dc99-4653-b890-4c1bca54ef3d',
+    'e3d6b0f8-b412-4d07-bbe3-5bf0dd1ae7c2',
     'Chhattisgarhi: Chhattisgarhi Proper',
     'dialect',
-    '4ae9ad10-af15-49e9-bc04-79975bacfd5f',
+    'a1335743-657c-4907-8647-16012a0a7f68',
     NOW(),
     NOW()
   ),
   (
-    '5e45fc36-3555-4bef-b1a5-01b19939d69d',
+    '87697915-d9a2-4d5e-a1dc-4068cc99d75a',
     'Gworam',
     'dialect',
-    '8821bfd0-f301-40a7-98bd-58ffc1655ff5',
+    '68ea9f9c-15b3-4cbc-8229-e9b962dcd127',
     NOW(),
     NOW()
   ),
   (
-    'b54dbff8-84c7-4759-892f-dd1d110dbc2e',
+    'ac34d2c0-c25f-42b5-8eb8-2a18e5298c1c',
     'Mongo-Nkundu: lomiembo',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'fd987be0-bf0a-48a9-b90b-e1ef57fa10db',
+    'aa57f048-fe13-4d5e-8f3f-fc566e84a6eb',
     'Ili''uun: Telemar',
     'dialect',
-    '00e592e7-cc07-4e0e-9177-918c101cc4cf',
+    '606cc5e8-e62e-4cb9-bce3-521a798ea445',
     NOW(),
     NOW()
   ),
   (
-    '72ea23b7-830a-4f40-9870-74145a399885',
+    '2505ccd5-c323-43a3-a09f-a95f385bfbdf',
     'Jelai Tembiruhan',
     'dialect',
-    'ed5b6a59-ecf5-4cdb-a35c-6ebbe83bd0b2',
+    'dbce85bc-8c9c-4c49-b38e-be7165936f93',
     NOW(),
     NOW()
   ),
   (
-    '1b5fe113-3442-49b9-a7e4-12d222a4c8d9',
+    '7205f5e6-4ba2-4fef-8c17-96ad5f5e3355',
     'Mongo-Nkundu: Booli',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'b4db1a4b-c6ba-4953-b07f-026d3a60d4ca',
+    'de9e96f2-7d04-43f3-909f-77ef43fbc111',
     'Akpes: Ikorom',
     'dialect',
-    'd4bb52f9-2bcd-470a-9ff3-75257fbb8ada',
+    'ab68fad4-7edd-416b-8c02-82287af283d4',
     NOW(),
     NOW()
   ),
   (
-    'efe7134d-7d32-46ea-aa64-aeb2d2785350',
+    'a2ac8a7d-d3c1-43ca-bd2e-906086bd4190',
     'Arapesh, Bumbita: Urita',
     'dialect',
-    'd4fa5c29-770e-4945-bce6-eb281e95f8ca',
+    '57be0afb-dbc8-42de-a8da-0151203ceebd',
     NOW(),
     NOW()
   ),
   (
-    '73a62330-3181-4766-84a3-d5255601e005',
+    'c93ac9da-24e1-437a-aec8-b6df89ad10e4',
     'Mufian: Supari',
     'dialect',
-    '0c627c63-376c-46da-afd4-ed9ccf0c282d',
+    'cf09605a-0eaa-4b63-be19-a5f97b1e7e1a',
     NOW(),
     NOW()
   ),
   (
-    '32385b18-db90-4226-a7ec-7e8808fda85d',
+    'ddb95748-f6d9-4b45-aa8a-fbe3f1fa894e',
     'Iraya: Palauan-Calavite',
     'dialect',
-    'a9555fad-531c-425c-8768-3776c1d4b98f',
+    '44f07d49-ba0a-4829-957f-f9d8e2b0a6d9',
     NOW(),
     NOW()
   ),
   (
-    'ef8c2625-322a-4386-8853-6db4ff46cba9',
+    '83f8655d-8206-4d53-b716-c20c2b8278b3',
     'Wa, Parauk: Yaong Sang',
     'dialect',
-    '48319ac3-c133-41be-b649-912f23a7811d',
+    '06628caf-23c7-43e5-b45f-b1f9ae1b70b8',
     NOW(),
     NOW()
   ),
   (
-    'f5386329-ca3e-4584-a3a1-5be2a944355c',
+    'd94efe51-7fd7-4917-b233-46f03fd7c9e5',
     'Sabu: Liae',
     'dialect',
-    '774cc5a5-3c10-4226-88f0-bf193549fdc7',
+    '9b7be41f-8b82-4dff-acd8-6e617e29d7c9',
     NOW(),
     NOW()
   ),
   (
-    '7e712fa0-c482-4b47-a581-98be2e424373',
+    '91a8e9df-456d-4f76-a0f6-b9e451efec13',
     'Konkani: Kudumbi',
     'dialect',
-    '4bb144b1-a6ac-47b8-ba74-2507d7dbcedd',
+    '398932b3-5da7-4003-bf18-25089dd489aa',
     NOW(),
     NOW()
   ),
   (
-    '796a4aba-cf87-4f1c-9da2-9e126138b3ed',
+    'ae11ba89-9c6c-43b1-b500-75b23ecb422c',
     'Mumuye: Kugong',
     'dialect',
-    'd2915650-30ea-459a-83ca-5e69d63b6178',
+    '4096defe-a0b6-426c-af7d-4217a54b6be3',
     NOW(),
     NOW()
   ),
   (
-    '6c038577-e8ec-44b3-b987-128611fda6e6',
+    'ba7edbc1-ddc7-466a-930a-0374fbcf5dab',
     'Sanie: Northwest',
     'dialect',
-    '195503c5-b715-474b-8fa8-dcd8d0b46cae',
+    'b684b2eb-0ca5-43fe-b884-0a1ef280062d',
     NOW(),
     NOW()
   ),
   (
-    '92ba1724-a936-4d8d-8693-cd21155f85b5',
+    '02a95f19-e741-4555-8d01-fc8029a0895a',
     'Romani, Balkan: Pyrgos',
     'dialect',
-    'd3a55b7a-8942-433f-9ae2-19a40ea62116',
+    'de173db6-793c-4c69-8538-a9f455c16106',
     NOW(),
     NOW()
   ),
   (
-    'cd49f464-a393-4ede-8c6c-4952b0388900',
+    'fbcb6979-9511-486d-ac4f-d450b76aae15',
     'Buna: Masan',
     'dialect',
-    '4bba1f55-6b76-4b3c-ad88-a4e944bf23be',
+    'd4a4ac7c-242d-47b3-9f27-cfaaf1c15727',
     NOW(),
     NOW()
   ),
   (
-    'da609a7f-e4e9-4126-8352-e3160f6485fc',
+    '38f75f66-d07f-457b-a8bf-d633fac01070',
     'Northern Straits Salish: Saanich',
     'dialect',
-    'f18a42c4-1509-4f6d-a65c-1aae2a5a9301',
+    'e27d506b-1a44-4e61-9650-c6d848b11a1f',
     NOW(),
     NOW()
   ),
   (
-    '261c699f-c217-490c-91e0-43408cf13464',
+    '9b00c326-779e-4596-aa82-815a54438f5a',
     'Tamajeq: West Tawallemet',
     'dialect',
-    'b6e57709-bce9-4481-a114-9036b33806b8',
+    'f1c1c14f-a70f-4dec-9739-cd1a3e0deed8',
     NOW(),
     NOW()
   ),
   (
-    'f33a9eb4-0247-4229-8e3b-3a51f5ed75ae',
+    '4b7b44cb-84d9-497d-8443-d863f76f30ba',
     'Masaaba: Lufumbo',
     'dialect',
-    '5f27ce0c-ee08-4b53-98a4-0bbba626f942',
+    'b1dd9442-f14f-47e4-a50c-6aad47d698a4',
     NOW(),
     NOW()
   ),
   (
-    'c3261598-bdba-4b89-843e-55a930b64151',
+    'ba0f5a40-b2bd-4ffe-902f-ab6f4c20f5bc',
     'Chakma: Daingnet',
     'dialect',
-    '07281533-fcfb-41e1-9231-06b99f57145c',
+    '4ba373ed-3021-47b2-b73e-d984495a7936',
     NOW(),
     NOW()
   ),
   (
-    '9bb6e8a3-4ae0-4cc2-a518-2d1426d93717',
+    '94f22a3f-1af0-456b-bf8f-9b0465fef94e',
     'Lisu: Ninglang',
     'dialect',
-    '08486783-c318-4b42-b9d8-450f458be46d',
+    '3c680452-2ce4-4d59-9bef-e871170597dd',
     NOW(),
     NOW()
   ),
   (
-    'f7285919-6f88-46fb-83d4-312ba1d54557',
+    '35e6e67f-c358-407d-acf8-a487f2988ef2',
     'Ngarinyin: Guwidj',
     'dialect',
-    '3812fba8-4e53-43fe-ab4d-d1dc77ef2e15',
+    '17fd6943-7f11-4a48-8c92-fffa30c89a96',
     NOW(),
     NOW()
   ),
   (
-    'f081e1cd-f165-44ad-ab20-477741491144',
+    '84ec6bb7-62d1-4300-8216-8c8a06ac0285',
     'Quechua, Chaupihuaranga: Checras Quechua',
     'dialect',
-    '1233c7d8-9cd8-4fc7-ac8c-479f7ceb8f03',
+    '32826677-bbe6-48bc-b44b-0275cdd31b37',
     NOW(),
     NOW()
   ),
   (
-    'c8f16f5e-d974-4d07-aafd-6be4d31e5669',
+    'f2185df2-92b4-4824-8c49-57e62b4b1cd5',
     'Ketengban: Okbap',
     'dialect',
-    '3c6b5bd2-447c-4132-bb29-a7b17543260c',
+    '96db1413-8570-418d-98b5-1bd602115b44',
     NOW(),
     NOW()
   ),
   (
-    '80845072-4756-4d05-bf8f-507c6016a66d',
+    'a04bc5f7-c70b-4709-aebd-951d72a64ecf',
     'Ghari: Gae',
     'dialect',
-    'fcedce6f-4ffb-4cf7-bc3f-c6d76628fd0b',
+    '0b474ed8-2a79-4383-b2ea-1d5a430bcb71',
     NOW(),
     NOW()
   ),
   (
-    '5505c151-c3ce-4d67-8d54-14822e1142a6',
+    '67b037b3-f77b-4dfa-8eb9-4af2a5695fe5',
     'Madi: ''Burulo',
     'dialect',
-    '23d8e799-a693-48be-985d-eafb4415768d',
+    'fe40036d-0234-4e02-89c6-97e532d4e2b0',
     NOW(),
     NOW()
   ),
   (
-    '23f973c1-38e4-4e1a-9ca0-504d5edae888',
+    '22600cb5-ee4b-4400-bfe0-17c2c756acb2',
     'Yoruba: Oyo',
     'dialect',
-    'ef5e4646-110d-41af-b838-93a443d8b1e3',
+    'd8fa109e-ac81-4670-810b-74124126164e',
     NOW(),
     NOW()
   ),
   (
-    '6a08c82b-58ce-4f5f-aa8e-3dd0d72850a1',
+    '0c28dc77-8118-40b0-b03c-a9d1200ef57d',
     'Tehit: Sawiat Salmeit',
     'dialect',
-    'd951faee-b62c-4aa4-9fa2-a3787140e973',
+    'df4d777a-d1cb-4ee9-9511-d3f729f36059',
     NOW(),
     NOW()
   ),
   (
-    '17c4c661-1893-4d43-8d8e-0acdd214512c',
+    '5900dfc1-2231-4750-b5f3-0b0c7b0bd0df',
     'Ulumanda: Tappalang',
     'dialect',
-    '9aaac815-80d5-4ec2-baae-efb5934ea563',
+    'aec14ae8-ecb4-407c-9164-df22808cc92c',
     NOW(),
     NOW()
   ),
   (
-    '0ca0022d-a39e-4c8a-8879-528b31c67a59',
+    '5b153592-1d3b-4d58-804b-dab8c843ef59',
     'Turkish: Danubian',
     'dialect',
-    '9641687a-cd12-4388-8f38-415de579332f',
+    '9bb6651e-cd17-4a95-a0d2-169497709419',
     NOW(),
     NOW()
   ),
   (
-    '0f11793b-9198-4a1a-9823-01fa743eca9e',
+    '3a09fe5c-a53b-4c75-af1c-b56ec212d930',
     'Assamese: Jharwa',
     'dialect',
-    'bdc91a8d-a11c-450b-a6a3-f93715c9a1eb',
+    '3955916a-6e04-43df-ac95-68fdd18def81',
     NOW(),
     NOW()
   ),
   (
-    'a2246217-e15f-4668-861a-24058b4dc6d3',
+    '77106f09-b3c0-4ec0-ab44-c04f2be77a2b',
     'Gurage: Dobi',
     'dialect',
-    '089225c6-3c81-4a1b-a9a2-afea02999491',
+    'cd7113dd-6249-4037-906f-bee3d7adf34c',
     NOW(),
     NOW()
   ),
   (
-    'c9761b47-39f0-42a5-a164-72368959c231',
+    'd68c04c4-2e1e-46a4-8243-070654524591',
     'Toposa: Jiye',
     'dialect',
-    'c54b5af7-e028-48ac-b196-1f9b545212d5',
+    'f4368a82-3a6b-4c32-a0c8-63824b72f67e',
     NOW(),
     NOW()
   ),
   (
-    '78e37435-c028-4e27-a380-1ab8a42d7cb8',
+    '602e60d5-f892-4504-a00d-d41fb890f06e',
     'Udihe: Anjuski',
     'dialect',
-    '4fc1470c-ff75-4e06-b1ef-34bfa82eb09f',
+    'b6529875-023d-42bb-ac42-c17efd06524a',
     NOW(),
     NOW()
   ),
   (
-    '28a2cd44-6aa6-4812-9edc-0485e1146970',
+    '327f2ff0-d67a-4737-8ae4-7f647859a06c',
     'Saraiki: Sindhi',
     'dialect',
-    'a7c029af-46d1-4198-9e63-924c87b344e0',
+    '6993d4d5-f62b-4a6d-8bdd-db41b8dab0fb',
     NOW(),
     NOW()
   ),
   (
-    '30289c43-8f4d-40ab-a6bc-bcdb431295c2',
+    '256aa5bf-31eb-4a5e-b7c2-749d5f870ac1',
     'Paradhi: Maharashtra',
     'dialect',
-    'e87aec7d-ac83-4879-8366-f1ee3e98b7c7',
+    '863d91a5-5d48-4288-ac48-4ccdfd09c5d7',
     NOW(),
     NOW()
   ),
   (
-    'bcf065f7-991c-4873-b837-70cd2c5de5d5',
+    'cab15394-9535-482a-9b1b-0153d3f5030a',
     'Uma: Tobaku',
     'dialect',
-    '015d90fb-9e79-477e-b24a-2017c693d8db',
+    '3becdd74-2281-4a35-9601-5607f7cde92b',
     NOW(),
     NOW()
   ),
   (
-    '3c33e30c-8c97-4c7f-8a57-2463ce6b5b19',
+    'e5547f31-8128-4f62-87a2-0634816fcdba',
     'Kanuri, Central: Fadawa',
     'dialect',
-    'f1837cf1-c172-495e-a434-1ff13633abfe',
+    'b8fdbbb5-acc9-432b-b534-01ad17ff57ce',
     NOW(),
     NOW()
   ),
   (
-    'bb94846c-1560-4d78-9033-3de280521a4d',
+    'e4fb94fa-4c90-4aa2-81e1-c3fd7ce07629',
     'Tooro: Rukobya',
     'dialect',
-    '50d0d395-c3e0-4afd-98c6-0e06f0990ecb',
+    'b5442c0c-a122-42e0-89a6-b246c365324c',
     NOW(),
     NOW()
   ),
   (
-    'eeec6667-a8ce-4b9d-afe8-77ac820b93de',
+    '5146f082-a286-4d5d-9d64-b08765db6c3b',
     'Palai',
     'dialect',
-    '7effacc2-c76d-446c-8c00-7d2bfed79f8d',
+    'c645373d-d73d-495c-a47a-e0d0e7ce9df8',
     NOW(),
     NOW()
   ),
   (
-    '791eb859-be8e-454e-8be1-0c8038061132',
+    '3fb53f05-5714-4f97-941a-eddf58dd247e',
     'Tuki: Kombe',
     'dialect',
-    'e8474cf3-d24d-4294-a936-4f397920aa4a',
+    'e4b68e24-6b1b-411f-9f04-980fc53503af',
     NOW(),
     NOW()
   ),
   (
-    '80cff57e-1511-412f-a182-127ab880320f',
+    '2d508d8c-dae1-4651-babd-a36ee3ae51a4',
     'Mambae: Damata',
     'dialect',
-    '94fc4573-d567-4859-984f-8eb9ad39d4a5',
+    '66bd89d5-5544-4d74-b655-935a4cd127e5',
     NOW(),
     NOW()
   ),
   (
-    '51ba22e7-2644-4d4c-abe4-0aed5db164ae',
+    '0eae2cef-b049-4eae-8142-5d80990c6670',
     'Soo: Tepeth',
     'dialect',
-    '25635655-e425-4c0d-8fbb-bbfa6c324aaa',
+    '3d14852d-4ea4-4bc1-be10-e9964c5c4a89',
     NOW(),
     NOW()
   ),
   (
-    '7a1524b5-702c-494f-ae51-427c1b83198a',
+    '86de6c7a-be26-41b6-b7aa-bccfd7bb6170',
     'Bauchi: Guda',
     'dialect',
-    '70ba340e-8dc1-4823-8a37-298d9837bbaa',
+    'e9d8a9db-dcb4-4bf8-a9b3-7efe82f114d8',
     NOW(),
     NOW()
   ),
   (
-    'ebc9f6df-ae40-4010-98e2-34a29da40992',
+    '25f46e4e-e378-475b-8ac9-5dfa8a46878c',
     'Tarifit: Ayt Buyahyi',
     'dialect',
-    'bb6f49ae-f16b-4057-bcd6-130103079c55',
+    'b23e30e7-e11c-497f-83af-8ea86e6c8a07',
     NOW(),
     NOW()
   ),
   (
-    '03374ac4-0c35-49de-af61-7bd1e5a9cd40',
+    '32e9a66b-ef64-4de3-b9ad-623fde61ccfa',
     'Gagu: Bokabo',
     'dialect',
-    '7c639ace-59f0-4e2a-a35e-528860ec2ecc',
+    '9fb9935e-80c7-4b97-b6f7-6602f36a9528',
     NOW(),
     NOW()
   ),
   (
-    'a30ab669-7efb-4f71-a3ff-d368847f1eef',
+    '649771de-3843-439c-a7cc-e910f4c0d966',
     'American Sign Language: Tactile ASL',
     'dialect',
-    '0146973e-4b88-4c7c-b072-3feacf9afc82',
+    '9f7c1e5c-ad20-4dd9-a209-8e6cb9926781',
     NOW(),
     NOW()
   ),
   (
-    '8e99b87d-9c28-4b8e-b449-3aecd79e32d8',
+    '373e2362-f5fc-4331-a7f6-3ca5411865f1',
     'Gurung: Kaski',
     'dialect',
-    'e6f7c503-3047-487f-8e7b-1c6f85de93c8',
+    'bd44e5b8-d20b-458c-965e-2ae823e5d80f',
     NOW(),
     NOW()
   ),
   (
-    '3e0a6359-f844-425c-b37d-f0e8217f2bc5',
+    '38c1852d-5f1f-484d-93fc-9d7d20c67f1e',
     'Arabic, North Levantine: Çukurova',
     'dialect',
-    '115c13e9-e640-48d5-9ba1-6717b8d76f34',
+    '544408ba-40e4-4a4a-9766-2edad50c1cd8',
     NOW(),
     NOW()
   ),
   (
-    '841e39cd-8933-4771-aa87-54a715c47693',
+    '0292ca80-599e-45a3-af98-77626a85ad71',
     'Yagaria: Move',
     'dialect',
-    '6c1266c4-a955-4c9e-bc0a-928ddb74c047',
+    '5d26bc9a-d7d2-4f64-9d76-60de0686a883',
     NOW(),
     NOW()
   ),
   (
-    '3f0c89d9-cfa9-4654-92ef-24d9ce6138c2',
+    '9939abc5-f7c7-49e7-948b-b1e2306fe45c',
     'Mwotlap: Dagmel',
     'dialect',
-    'a8ef5931-4f98-4368-8179-a25c44b36bfd',
+    '26cbbbfc-23e4-439b-bce3-9b27acc42914',
     NOW(),
     NOW()
   ),
   (
-    '157161cb-6dce-4adb-97f6-98681b023727',
+    '2121a765-04bf-41f8-8e45-ae8dbeb36a06',
     'Tumbuka: Fililwa',
     'dialect',
-    'f7ad99ba-44dd-4e1f-9c4e-1d9d8fec3a35',
+    'c74ac503-abc4-4902-94b8-75c1f9561280',
     NOW(),
     NOW()
   ),
   (
-    '8ee6fa74-9947-4f84-8f6a-e0403ff4be28',
+    '137a4821-15c3-41ce-841f-d1ebd6bfecc1',
     'Thakali: Tingaun',
     'dialect',
-    '0725be41-e8d1-4c27-8371-cb3ab7eb3b31',
+    'd5ea461f-32d7-4812-a494-3b0101ce85eb',
     NOW(),
     NOW()
   ),
   (
-    '82972953-b9b2-4efc-95b3-c4f97f9adc14',
+    '9bea699a-f819-402c-aeb3-891900d0040d',
     'Oroko: Bima',
     'dialect',
-    '1fa57d6c-08a3-48b4-a328-3e86ad9bbe97',
+    '3ea40f5a-f75e-4e71-b847-8964440c6ede',
     NOW(),
     NOW()
   ),
   (
-    'd897c8ea-6635-4b1c-8cba-7803861bdfef',
+    '252ccfca-8f19-45fc-a832-a074455bd64a',
     'Baluchi: Afghanistan',
     'dialect',
-    'cb49458a-4d23-45e0-a17d-693ffd8c551d',
+    '41d830de-66b2-42c9-bdcc-4b14e120689d',
     NOW(),
     NOW()
   ),
   (
-    'c13d4661-0f4a-4d70-a3d0-1243f60b072d',
+    '9fbd4434-16dc-43e1-866a-79e040ef7bf5',
     'Mouk-Aria: Mouk',
     'dialect',
-    'd894cad4-18a2-4d1d-83ac-3fc909b83a21',
+    '32cbcf6d-d3fe-4aac-b826-1bdedade9712',
     NOW(),
     NOW()
   ),
   (
-    '42c95c5e-2206-4303-87b1-14720fbe58b7',
+    '8c33e905-a495-4472-9ac8-57f829bc781b',
     'Khe: South Bangka',
     'dialect',
-    'c655c321-f637-4cf5-878a-1a3d80bdb3ff',
+    'd07b53ae-9ad4-4921-8510-800137d3bbcb',
     NOW(),
     NOW()
   ),
   (
-    '43038427-f52b-4470-923f-4dbfed330eaa',
+    '0692d6ec-1469-488f-8a6d-bbf16b5726ae',
     'Bari: Nyangbara',
     'dialect',
-    '8ffd89db-7154-4927-823e-c75a10cd980c',
+    'e8d4cc73-5729-4047-b7fb-95e2faea9837',
     NOW(),
     NOW()
   ),
   (
-    'f221405c-ee5b-4fdc-80dc-875dcba8324e',
+    '0a25fbd2-2188-4a76-b365-aa1b45434ff4',
     'Bahing: Rumdali',
     'dialect',
-    'e491b3bf-457f-40cb-8d19-ca6bf9c8326a',
+    'e4dd8726-54e2-4ff6-868d-3e5e6e7582d3',
     NOW(),
     NOW()
   ),
   (
-    '66edec07-6129-4eff-b967-1d51d38242f9',
+    '6f96e921-aa50-46d6-8663-c2aae52b525d',
     'Picard: Vimeu',
     'dialect',
-    'eac5b381-9dda-48bd-ab6c-83399242d13c',
+    'bab0fa1e-4648-4851-ba63-14302f1248ea',
     NOW(),
     NOW()
   ),
   (
-    '2f30e1b4-f520-406c-bf4e-98b9d889c30b',
+    '46f9b743-5344-497d-bd4a-f0ed5fd3c250',
     'Lisabat-Nuniali: Lisabata-Timur',
     'dialect',
-    '35a83613-2f23-497e-b906-52be5ab37acb',
+    '2ba7c8f0-4b13-4c9f-959c-3bb30bca6cc6',
     NOW(),
     NOW()
   ),
   (
-    'c885c8cc-28b6-4487-8218-2fe88b392761',
+    '151d11af-ed21-4eb5-bd15-eec667b7058b',
     'Xhosa: Gealeka',
     'dialect',
-    '31347212-8000-4bdd-96dd-d53de226b7a3',
+    '9fb093c3-9a54-4c1f-9585-46328cc9231c',
     NOW(),
     NOW()
   ),
   (
-    '86cb9d7c-a319-4cb5-8bb6-570be6793a80',
+    '957207a3-d650-4fa0-8e7d-d76e3a60b7ba',
     'Tibetan Kham, Ganzi/Dege',
     'dialect',
-    'abc9fade-caf3-46c1-9c32-aeeba78facd1',
+    '9b8abf5a-d927-4a04-a0c4-683699c7f0ed',
     NOW(),
     NOW()
   ),
   (
-    'd154dabb-bb2d-4ac3-9817-f8949a52b128',
+    '02f31eb4-7d19-497d-bc85-d902a1f5cc55',
     'Yidiny: Gunggay',
     'dialect',
-    'd49160aa-7c84-4b48-9491-edaef3ea8d04',
+    'ab824d23-d3a9-44db-beac-a9ee46033c5c',
     NOW(),
     NOW()
   ),
   (
-    '3fa5beda-67c3-42e1-a042-400270388562',
+    '5d7c834e-d88d-4247-89e6-61e6c6127ca5',
     'Biyom: Mom',
     'dialect',
-    '1665da6f-47cd-400a-a610-3fe67103d025',
+    'e506ca6b-181d-41c2-8938-9d19b24c0215',
     NOW(),
     NOW()
   ),
   (
-    'cf837be0-c2c1-4992-ab86-efa72b60c7e8',
+    '0ebd8c26-3624-4079-a155-bacd49107801',
     'Persian, Iranian: Araki',
     'dialect',
-    '6545cd01-72c0-4ca4-8a4d-5b1a20d04643',
+    '290bf9a5-c89b-48aa-b692-6196908dcd0f',
     NOW(),
     NOW()
   ),
   (
-    'd17c6549-9dcc-4549-b91e-f70a6f10d617',
+    '3b29307e-ee2b-4c31-aee7-c683119b27a6',
     'Kadazan Dusun: Bundu',
     'dialect',
-    '4fcf1a58-7a3d-4fba-bba3-d2bfff7d6473',
+    '4d5f80db-a91c-406f-9794-9cf3f852d471',
     NOW(),
     NOW()
   ),
   (
-    'b8bf7254-4c2c-4600-b677-0287629ae82f',
+    '315e793e-b8c5-440f-ac85-7ff03c9b0f24',
     'Kairiru: Yuo',
     'dialect',
-    '681b2d81-6273-4c9c-b9cf-aa34a8661d1b',
+    '2a9f2041-93ae-4e13-a46a-d8e14d943303',
     NOW(),
     NOW()
   ),
   (
-    '043a2132-0741-4e19-9eab-880b51d6d9e1',
+    'fa2e8e41-616a-4de7-a0bc-2cb7f1d7e030',
     'Ahwai: Inyeng',
     'dialect',
-    '874964e5-f94f-4789-a047-6c4e592c39e8',
+    '5ed52d83-e0ee-479f-85a5-bd5d12190535',
     NOW(),
     NOW()
   ),
   (
-    '6924140d-5110-4252-892e-bd90a7948fcc',
+    'd2708170-51fb-4f70-b7f1-5fa72c5927a4',
     'Bislama Epau: Vasan-niger',
     'dialect',
-    'b7c18365-0309-4563-a43d-5d9a6d5bb6cb',
+    'f2bd9e6a-4503-4c62-8a9c-82b4adab69bf',
     NOW(),
     NOW()
   ),
   (
-    '4c0b1a79-8631-4c9a-9f9e-7e7f7b134c00',
+    'a156fd23-217f-4fc4-a9c8-d761df296163',
     'Manchu: Alchuka',
     'dialect',
-    '98f06890-f96e-41b6-8355-b15694646fe8',
+    'c1cf2db1-2e40-4fa8-aab9-c1a6d226dda5',
     NOW(),
     NOW()
   ),
   (
-    'd2518b3f-4e0f-4a5e-8ce3-1c25ef12f16c',
+    '641f5f6c-723f-4412-a48a-c34b3ff97147',
     'Bozo, Jenaama: Korondougou',
     'dialect',
-    '90b7c77f-bf9e-4941-bbb4-36dddb6ad14c',
+    'a7ce03b5-d0ac-4730-ba53-bfd5a3fd086b',
     NOW(),
     NOW()
   ),
   (
-    '17b409bc-1df2-4213-96f6-6826b363d289',
+    '049ec7f1-ca42-4c2a-a6d1-fa96ac6c1867',
     'Madura: Bawean',
     'dialect',
-    'e3b0acfa-5eae-4b37-b542-d74f4ad840e8',
+    '87d7be06-644e-43ff-843b-2f12a4701427',
     NOW(),
     NOW()
   ),
   (
-    '47131fe5-94ef-4e5b-973d-e11a29a3d8cf',
+    '7cc6dd21-a37c-442c-81c2-ecb3490d90da',
     'Azerbaijani, South: Qajar',
     'dialect',
-    '501ef89c-4a5a-4001-ac25-5e42d5c07361',
+    'c623203b-8a1d-4502-86f3-7109d52ee8c4',
     NOW(),
     NOW()
   ),
   (
-    'f7e7a0db-5f4c-4c6b-9fad-d8b85891f28b',
+    '15e3e45a-f018-450b-bba7-846b4fdcd389',
     'Khang: Khang Clau',
     'dialect',
-    'b1f13fbe-d90d-4a01-8f52-cd4a3f942a60',
+    '611a3f6f-25b5-4d85-9e71-213eb797b470',
     NOW(),
     NOW()
   ),
   (
-    '6463c65c-4af7-44b7-b328-9ee5fa4097b9',
+    '9a51c324-4ca6-48df-9ff8-1aecd2c0173c',
     'Saami, Northern: Sea Lappish',
     'dialect',
-    '4b175270-5865-4931-902b-854b1ad502d2',
+    '7cc1452b-79fe-4dcd-9645-7bcd289ed433',
     NOW(),
     NOW()
   ),
   (
-    'ad903996-b1e6-46c2-85a1-f175407d4828',
+    '4bd0758e-5d16-4e06-9892-6c5d8ff3a4a7',
     'Tunen: Alinga',
     'dialect',
-    '3d302e45-0b38-4f87-8360-63cd12c79eee',
+    '6a5c7e82-b426-4c33-bfaa-955369c88af5',
     NOW(),
     NOW()
   ),
   (
-    '53a85208-2c08-4756-b5fd-495edb211458',
+    'd4d43883-77c9-4a6c-8daa-2148038608a0',
     'Domari: Nawar (Jordan)',
     'dialect',
-    '59416ce4-d18b-47c9-9c00-c61c4268b8b6',
+    '67515607-d0b8-4af3-80a2-cf349cc81b40',
     NOW(),
     NOW()
   ),
   (
-    '22bd7724-1a9b-40aa-ac97-7142140b13fb',
+    '476603d7-f477-4559-a1b1-896225b7df98',
     'Arabic, Tunisian: North-Western',
     'dialect',
-    '1c472c2a-1199-4273-883b-de150958fb2e',
+    'af20e003-2923-4d27-95ba-9cc5db41ffad',
     NOW(),
     NOW()
   ),
   (
-    '46d37e74-31ce-4d8f-8f79-1039d21e3666',
+    '0a43d1ef-d783-48dc-b90d-433e6bdf5156',
     'Pele-Ata: Ata',
     'dialect',
-    '39f2b678-1cf1-4c67-a14f-e237fb0ccfe0',
+    '949c025d-416b-4f3f-ae36-828ead2f31ae',
     NOW(),
     NOW()
   ),
   (
-    'cc356aee-36dd-40aa-b380-e21a6237e8cb',
+    'c05ce49c-ccbe-4d70-93ca-b8ec5611cf69',
     'Murut, Bookan: Tengara',
     'dialect',
-    '8a7d3c51-7afd-413a-8afb-bcaf0cb32903',
+    'eeb0cd00-b336-4396-bafb-764235e783fb',
     NOW(),
     NOW()
   ),
   (
-    '0baadb99-2b8c-43bb-837f-509e0146079d',
+    '93c52fc3-205c-4779-b4d2-bf10a6c422b4',
     'Tewa: Madar',
     'dialect',
-    'b813836e-d38d-41d2-8639-4ef7f091bc8b',
+    '6504f4a8-8340-425b-82e6-a606e0f73ff0',
     NOW(),
     NOW()
   ),
   (
-    '3c5bf284-11bb-4c4a-9d3e-5338360929ce',
+    '91cf3fb6-6512-4c5d-9cd3-5a625522d670',
     'Dusun, Sugut: Talantang',
     'dialect',
-    '618b6b0b-10fe-4648-9599-111c93718ddc',
+    '79e63d31-7f9e-4b0f-90f9-66b99ba8fdee',
     NOW(),
     NOW()
   ),
   (
-    '4d1fa457-1823-4ae4-8794-dc99fb1e8d5a',
+    '3b67e9be-f7ef-4a14-adb1-66c060e1928e',
     'Lari: Evazi',
     'dialect',
-    'ae1a7262-002c-48c8-8d2f-12560d6d1a18',
+    '503996fd-8d1b-42a9-a4e4-b1aeeeef1459',
     NOW(),
     NOW()
   ),
   (
-    '159071a2-36f7-49ce-9929-54d396527d29',
+    'eaf2d3a8-74c5-4c80-963c-40e849fc6581',
     'Trinidad and Tobago Sign Language: older TTSL',
     'dialect',
-    '5bcb8593-76ae-4fc4-806f-7d4ceddf89ae',
+    'cbf6ddc5-4217-41ca-a5fb-0cd3db1d561d',
     NOW(),
     NOW()
   ),
   (
-    '046e1079-b40e-47dd-b8ea-e310cbb878e0',
+    '42c8ba29-1abd-4863-81fc-837bfc3515f4',
     'Chinese, Jinyu: Han-Xin',
     'dialect',
-    '23eeadc0-05a8-4c89-aba1-c49ce9720055',
+    'b86a257c-1b23-42ce-aa95-3b9759af70f6',
     NOW(),
     NOW()
   ),
   (
-    '0da87d67-7851-4baf-8b2b-9114341cf31c',
+    '3d72f86c-6979-4f32-9580-3e869e1ba317',
     'Buang, Mapos: Buweyeu',
     'dialect',
-    'db71383d-cd52-45c7-b634-53f1a27721fd',
+    '4ca10e61-df03-406e-943d-c0e74d55400b',
     NOW(),
     NOW()
   ),
   (
-    'e1aeed89-d765-4534-8622-3e030ccfafab',
+    '40ed9112-f8bf-486b-a587-85f8eb296fa5',
     'Luang: Wetan',
     'dialect',
-    'aba62b5f-ddfe-4e02-9b85-a88695fd74f4',
+    'c654445d-a456-4d23-a447-d1227266e665',
     NOW(),
     NOW()
   ),
   (
-    'a2b854d3-f3c0-4c3b-b3bc-1019cb9cd40a',
+    '61d8538c-6262-4c60-af66-efb3668399de',
     'Grebo: Chedepo',
     'dialect',
-    'a28e5598-5473-46cc-9e4e-674ce431bab2',
+    'e7c0a072-507b-468a-9f9d-3746740b89c3',
     NOW(),
     NOW()
   ),
   (
-    '1fa238b2-2809-46dc-b588-7b548b494dd8',
+    '83a556db-0956-4e75-a29d-dfcf12949a3b',
     'Santali: Lohari-Santali',
     'dialect',
-    'ae7a1543-99a5-4cc3-91ce-75ccbd69db47',
+    'e8ddc8ef-3614-4910-a2b1-9ac217330878',
     NOW(),
     NOW()
   ),
   (
-    '88ee17ef-a2a9-4d48-9fff-bb66b0621fb2',
+    '82cea001-4405-46f9-bfe9-2737c87f8df8',
     'Kelabit: Brung',
     'dialect',
-    'd5a79c2d-9979-4c85-a05f-3cf2f8766aa1',
+    '60e1ec16-5b45-4637-aba7-f08893028b28',
     NOW(),
     NOW()
   ),
   (
-    '640a9f10-3615-4466-abf0-4b94a463c4c8',
+    '69282d2a-e703-4100-aa73-a24f6e641155',
     'Kaili, Ledo: Doi',
     'dialect',
-    'ef0e295f-3edf-409c-97cf-462ee0df0486',
+    '1270d096-2762-4d59-9d20-b144de1248d6',
     NOW(),
     NOW()
   ),
   (
-    '017c8eae-b8c9-4308-a28a-d27f96aba108',
+    'a1a776a2-ab99-42d4-9334-6dd96e6a263e',
     'Avar: Bolmats',
     'dialect',
-    'b0843a1c-e446-4665-8d54-91bfb904c8ef',
+    '27d911be-7719-4462-8a2a-a27d53d1a966',
     NOW(),
     NOW()
   ),
   (
-    '0580ab83-c9f3-40ac-a51a-029ec805964f',
+    '053d3cee-5e40-49d9-883e-b39d398bb8c0',
     'Luidakho-Luisukha-Lutirichi: Idakho',
     'dialect',
-    'b4e27f39-452a-4222-a927-2d5b781c3ba7',
+    '97826b1d-1776-40b3-b706-023df0cebf86',
     NOW(),
     NOW()
   ),
   (
-    '3514a6e8-a3b5-43fd-90d9-54dbeef9cb0a',
+    'd4842b7c-22c9-4293-82ae-2fd5a7ab4c37',
     'Vo: En',
     'dialect',
-    '0ea26fbd-57a5-4f3c-bc11-c5dc88521d3b',
+    'a198c8cd-223f-4e21-ab16-e7d1970fe4d6',
     NOW(),
     NOW()
   ),
   (
-    '1fa07e61-4f57-4006-b0dd-3483a140ab41',
+    'b8ab11cb-43da-4f68-96fd-04ec7c531f7a',
     'Ghorani',
     'dialect',
-    'b54eb8f6-9984-45b4-8a3b-f3a6d21b752d',
+    '56f4d705-675a-4ba3-940f-01e6e8238ad3',
     NOW(),
     NOW()
   ),
   (
-    '6cf923c5-8f0f-41ca-8a63-5e404987ee72',
+    '74c64280-91a1-43b7-b87b-dcbce3b86542',
     'Tonsea: Likupang',
     'dialect',
-    '0ebd4089-8fca-4df6-af86-533c24ebddd5',
+    '3461e3ce-deec-4690-a64b-a53c670a493f',
     NOW(),
     NOW()
   ),
   (
-    '7aaac52f-8d9a-477f-b1fe-86968063256b',
+    '84169ebf-fff0-4bc6-ac1e-49cb32a87fb7',
     'Dawro: Konta',
     'dialect',
-    '2fbd003d-110b-459a-b548-e03d0c6a785c',
+    'aa9e2e98-8000-4af0-8115-94f255152dfc',
     NOW(),
     NOW()
   ),
   (
-    'c09f943f-0d89-45b8-ac36-6675e6377e5e',
+    '3008553c-8c4f-409d-93a3-41a9fb174e0f',
     'Mawa: Reupan',
     'dialect',
-    '7bd94a99-1cf7-446f-a457-18357d160007',
+    'ab27c912-beaf-4d3e-a4e8-ee6bbbfcb5e1',
     NOW(),
     NOW()
   ),
   (
-    '92e5afce-df63-418f-b72a-e7dc66bf3bc1',
+    '7411647e-a6dc-4abf-9167-a1947b7d6f2b',
     'Kuanua: Kabakada',
     'dialect',
-    '8b998a0c-1085-490f-bf1c-039fd0b95d0d',
+    'acdeb631-e5da-4789-b10c-b7bd827ea7b3',
     NOW(),
     NOW()
   ),
   (
-    'f954a8a6-a011-45b0-b6fd-9c5992b18e8c',
+    '550aa69c-264b-4329-88d1-6d14dfccc562',
     'Romani, Vlax: Slovak Bougesti',
     'dialect',
-    '0c0215ca-f61e-4f2c-8fbe-ae49dcb0d4f0',
+    '0962dd7c-86ce-4645-a971-7b0c14c3607a',
     NOW(),
     NOW()
   ),
   (
-    '47e81c7e-71d5-4fb7-9fa1-096ed97240a6',
+    '8cd3b9af-85ce-4a92-98f3-e517605cd2ad',
     'Bangla: Chittagonian',
     'dialect',
-    '2fdb9d33-81ac-484c-a9f9-a57760e5a5fd',
+    'b85ccdbd-3e3a-4c0b-9fbb-9eb61d47d7d4',
     NOW(),
     NOW()
   ),
   (
-    'ad8f032c-cf9d-4d58-bb8b-7ec7a3d66b9c',
+    '012aa080-7c31-4609-8d14-ad1bc8674f07',
     'Sawai: Kobe',
     'dialect',
-    '2eb77f4d-702a-4160-949a-3a003c188e77',
+    '81a391a8-9baf-4e95-aa38-e08314ef97e6',
     NOW(),
     NOW()
   ),
   (
-    '82279350-c998-46b3-b9aa-175db8c7302a',
+    '6d40995a-d5d4-4ede-9030-5b33999cae5d',
     'Kuman: Yongomugl',
     'dialect',
-    'beca028b-423e-4794-b91e-c9f21fbf9c67',
+    'e60d9f5b-860e-4848-bae9-85eb4a30d74b',
     NOW(),
     NOW()
   ),
   (
-    'b2476dd2-26bd-476c-a5ce-76aab6f87364',
+    '796d0147-e3c9-434e-a436-da95817ad220',
     'Koryak: Palan',
     'dialect',
-    'e5bf3074-e301-4ca8-841c-48a5e6b8f7db',
+    '156dbfba-c492-44ad-8f51-9e09271523de',
     NOW(),
     NOW()
   ),
   (
-    '57aed83c-8704-4279-ad63-5ff53a033d8f',
+    'c055afcc-d1fe-41bb-b5e6-ac5ef004877e',
     'Kalinga, Tanudan: Lubo',
     'dialect',
-    'b069ca2f-c86e-4370-aaa7-3e4e0ceb0765',
+    'c8fa0ae4-bc1c-480c-8443-0b2d2c225fde',
     NOW(),
     NOW()
   ),
   (
-    '27f50a05-a202-4a0e-8af3-0d4253700290',
+    'be8591ca-503f-42bd-a838-5fda2c14994b',
     'Ghomala: South: Bameka',
     'dialect',
-    '60a4f3a8-fd1f-4490-8c4e-c7f2cedc8442',
+    '8a39c625-944c-4a0b-ba4f-5042dc51977b',
     NOW(),
     NOW()
   ),
   (
-    '99f22734-6167-4b67-93f7-de1537481f06',
+    '9f92b4eb-9272-40d8-8bab-8ab007056f40',
     'Quechua, Arequipa-La Union: Highland Arequipa',
     'dialect',
-    '9bf4fec8-cf42-4ae4-bf9a-828922dc7c32',
+    '5027cdb9-12d5-4373-80de-f27ab79c16f8',
     NOW(),
     NOW()
   ),
   (
-    '3d5092d1-ac2d-4ca0-8f0a-eaee1f468afb',
+    'c917b20e-39d6-495c-ba56-2d044298de35',
     'Narom: Dali''',
     'dialect',
-    '3685acb4-bfde-499a-aed5-e80a3d8a3194',
+    '42a9e756-6e3e-470d-aefa-214adb8d1254',
     NOW(),
     NOW()
   ),
   (
-    '23c333f8-7eb2-4bf8-8c0a-29a533e50e6e',
+    'd66a8b5d-52f2-4cb3-a913-a90428fda379',
     'Kannada: Kacha',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '8e0277ee-9dac-43bd-99f7-1d97e48892ca',
+    '0456166e-d337-4b63-9afc-1851ebaf47d9',
     'Biak: Jenures',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    '444221fa-648c-47dd-8cc5-73fe44ac724c',
+    'a3214e38-8128-44d0-b118-6c396fdf6f91',
     'Maru: Dago'' Lawng Bit',
     'dialect',
-    '6bd943c3-603e-48c9-bfda-1c16416279e8',
+    'a1ee40f7-4712-4cad-afb3-d888f662a30f',
     NOW(),
     NOW()
   ),
   (
-    'e267c79e-79b7-426a-9f34-bc5b28640c0f',
+    '8ff0431a-46ad-4b2d-8259-0e4df919933a',
     'Bwa: Kiba',
     'dialect',
-    '5cb797eb-2d5d-4f37-80f7-ec129958ce5e',
+    '25404216-17e7-4a9b-8d23-4a45517aa71b',
     NOW(),
     NOW()
   ),
   (
-    'a59938c3-75da-4dd1-a392-902f0e7cd7d9',
+    '93b1dbed-118d-4e6f-abba-e03974cd438f',
     'Kannada: Medhar',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '511d03d5-46b8-4048-9313-29d34151eeab',
+    '15830248-8ace-4f27-8e4c-a8460c397fd0',
     'Kaili, Ledo: Tado',
     'dialect',
-    'ef0e295f-3edf-409c-97cf-462ee0df0486',
+    '1270d096-2762-4d59-9d20-b144de1248d6',
     NOW(),
     NOW()
   ),
   (
-    'fab1bcd0-7591-4393-86da-20f081948914',
+    '02e7cc78-81ca-4d6f-84c2-ce840a4fdc9c',
     'Kanuri, Central: Lare',
     'dialect',
-    'f1837cf1-c172-495e-a434-1ff13633abfe',
+    'b8fdbbb5-acc9-432b-b534-01ad17ff57ce',
     NOW(),
     NOW()
   ),
   (
-    '983425fd-e534-4f45-a1fd-c9ab651acfb6',
+    'a9d9c1e1-38cd-4e3f-a6cf-4b1849592ce7',
     'Sisaala, Tumulung: Potule',
     'dialect',
-    'ea51b2b4-9778-44ce-bc73-aa79fe0df63c',
+    'df6a6221-0bd1-4784-8371-dd8c1b962e8b',
     NOW(),
     NOW()
   ),
   (
-    'a6a6fed2-d73c-42b5-9542-993b7cf083bb',
+    'ffc15f93-7d9b-45a2-b849-58026305de34',
     'Nyindrou: Babon',
     'dialect',
-    '12cfea8c-7953-4bfb-932e-1bf7daff8772',
+    'be6fa3f6-cd11-4026-8d2e-cfa093bcd92c',
     NOW(),
     NOW()
   ),
   (
-    '29700d9e-65d0-45c0-a5b6-eacf9691c3f0',
+    '5ee40479-61ec-469f-96c4-974b55ca0806',
     'English: Eire',
     'dialect',
-    '0d0d1193-8d92-4a07-bed3-28bf76e91d6f',
+    'f0da8c89-6911-43e6-aa5c-35f07eff76ff',
     NOW(),
     NOW()
   ),
   (
-    '41ba9501-0bdc-4fe6-9051-f72488292931',
+    '86cb9814-0fdd-42b2-ba43-1c716d9b79e7',
     'Akhvakh: Southern Akhvakh',
     'dialect',
-    'e1eefe1c-d456-41e8-bfb6-96f84b13d86a',
+    'ca27ead5-0ee2-4373-b4ec-81d70646ed43',
     NOW(),
     NOW()
   ),
   (
-    '2435c88f-9c8c-4ec8-b625-3311bd23d31b',
+    '010432e7-1870-4c48-bc23-7d10aec407b3',
     'Gwamhi-Wuri: Gwamhi',
     'dialect',
-    '252cd24c-0c6b-426f-92ca-49f817d49d8e',
+    '11c23c37-a8fc-4499-8c28-f214feb1a4b0',
     NOW(),
     NOW()
   ),
   (
-    'f7e34c41-bc38-4ff5-99df-3b04a0e938b5',
+    '8cc3dd64-7391-4421-b26a-2a221954114b',
     'Bai, Panyi: Da-E',
     'dialect',
-    '0659dffa-6851-4488-91e9-7a82bb8da144',
+    '544fef9f-19ac-46c6-a3e6-522f31ac559a',
     NOW(),
     NOW()
   ),
   (
-    'd10fde83-74fc-4d6b-aa8d-c799071c1e72',
+    '8ae18039-3129-4b82-baf5-33cd78e048e3',
     'Ninikani',
     'dialect',
-    'd5f7064d-9a90-4b9b-a0d2-be1d8e1e1f54',
+    'a83b7ea1-857e-45fd-b94c-9a0c3db19440',
     NOW(),
     NOW()
   ),
   (
-    '4d5ac68e-03af-487c-bb40-cd93cc2869df',
+    '1225827d-7fe9-40a5-b674-eb2d442774c2',
     'Tenharim: Parintintin',
     'dialect',
-    '36237496-e72c-4fa6-a57d-93c4dd6948ac',
+    '6dee5448-9506-4e98-83d3-9286b0d9b457',
     NOW(),
     NOW()
   ),
   (
-    'a88b8123-f641-4240-917c-4fcbe615cb61',
+    '6550e8dc-f5bf-4e20-a373-82406cd86b41',
     'Ashkun: Ashuruveri',
     'dialect',
-    'ff7d09b0-d50e-4706-8d88-2e18626c19e9',
+    'e409dcdd-c7ff-44b6-a11a-577c4c6f4f34',
     NOW(),
     NOW()
   ),
   (
-    '4df6fc05-37f3-4d60-bfa3-b4468cac0cb6',
+    '72c29d15-eeda-4637-b4aa-01a29c49ca48',
     'Tamil: Malaya Tamil',
     'dialect',
-    'b6b4a0a6-f217-468d-a98d-682c2ab90d93',
+    '9d0991c8-cb1d-4bef-be36-33672f737a2d',
     NOW(),
     NOW()
   ),
   (
-    '3b9c35fc-0ad3-41a1-958e-44478cda3c66',
+    '8b260404-725a-4edf-9a4e-9ce90abf7b0f',
     'Abkhaz: Samurzakan',
     'dialect',
-    'a097cad1-638c-4528-9835-58ee8ac3f52b',
+    '02e8c2be-18f7-4a0c-976a-c82386885da8',
     NOW(),
     NOW()
   ),
   (
-    'f9e508db-8b35-4cb6-84ca-0c5fbbdb3e72',
+    '4f3a47bf-bb95-4c43-8536-f40d68ef4e29',
     'Isoko: Imiv',
     'dialect',
-    'e2098900-dad3-4d0c-9ee9-c8d4eee2fcb4',
+    '5e9b5245-0ff2-4cf7-b4cf-c3b588e9aad1',
     NOW(),
     NOW()
   ),
   (
-    '3cca6aa0-72c6-4cf9-9c21-d89e47c3a5f1',
+    '05f630d2-b692-4cca-9220-300c04fa2e55',
     'Mbundu',
     'dialect',
-    '1fc814c6-0093-4646-a64e-fb64635d3fcc',
+    '1417eccc-6ccf-4c80-ac6e-8be25745c3af',
     NOW(),
     NOW()
   ),
   (
-    '5c2be478-3448-4472-bcde-4d5f95b065dc',
+    '57e77c3a-334c-4917-9eb3-545cf66b0551',
     'Bade: Southern Bade',
     'dialect',
-    '576ae3f7-4c0a-4a61-8adb-2a1bbe037d18',
+    '43517dbc-7dd7-48e8-84d1-ad60e7224ff9',
     NOW(),
     NOW()
   ),
   (
-    '47c530ad-8988-48df-9255-2ca6828d368b',
+    '6ae0a9df-6754-4584-beae-60a1fcd65c34',
     'Bagirmi: Kibar',
     'dialect',
-    'cd43690c-cec9-48ba-8982-e18ea4b3b759',
+    'f5310771-d42c-4141-bbbe-6bd52199f954',
     NOW(),
     NOW()
   ),
   (
-    '2447c56d-c9e1-492f-8770-b99ea9e182eb',
+    'b4e2db8e-c7ce-4d86-a140-18b834fea981',
     'Lishán Noshan: Southern Cluster',
     'dialect',
-    '0a6dd433-1230-48c2-b991-aec977ffc323',
+    'afadd3b0-8a6d-4c8c-8858-5d5c4a07e650',
     NOW(),
     NOW()
   ),
   (
-    '890c18c5-1380-40c5-b711-c6892cf8ed7e',
+    '27608d12-c633-434b-b8da-5eb332fbd4b0',
     'Punjabi, Western: Doabi',
     'dialect',
-    'fab1fbed-dfb9-4a8f-ae0c-8aea00613a89',
+    '54d0849a-0830-4649-9943-39a3523666bd',
     NOW(),
     NOW()
   ),
   (
-    '120b0359-8fd3-417e-95ea-05107981ff8c',
+    'b9cb6b45-02bc-40e4-8ff4-957d78d99927',
     'Bench: Mer',
     'dialect',
-    '9c15c48d-57da-42c7-96ea-b372a7b9db88',
+    '06f6fd10-ad2f-4346-bc84-dd30db37ff24',
     NOW(),
     NOW()
   ),
   (
-    '9cfaa6c4-b134-4d3a-921b-3b0b7f308689',
+    'a370da57-1ac5-4c93-afd9-afd127637167',
     'Mafa: Central',
     'dialect',
-    '5d0d9824-5ee6-4179-bc97-cbfb78ce231e',
+    'a80a76ec-c93a-4ff9-a41e-00e29c71e3fd',
     NOW(),
     NOW()
   ),
   (
-    'ca096cd2-e9a7-4359-b33a-4854def45c1f',
+    '852170ab-622a-4f89-8486-6498e2c17625',
     'Tumak: Motun',
     'dialect',
-    '5771cd7e-552e-45c0-9148-a33a2d94ef00',
+    '1661a7a9-7e73-4349-a5ba-2b83cb4e75b5',
     NOW(),
     NOW()
   ),
   (
-    'e533410e-4c56-4ac8-bd3f-604f797ef19c',
+    '802b71eb-def5-412b-ac1f-51482034980d',
     'Indian Sign Language: Kerala',
     'dialect',
-    'b3b305bb-675e-49eb-a546-5df0a1d63e80',
+    '23a4ac9e-d326-47e6-bf6d-28ddaa3bcc6b',
     NOW(),
     NOW()
   ),
   (
-    'f67c0aa7-9ffc-4f27-ab01-740064c4085f',
+    '101b2089-cc52-4bb6-92f8-cd75d968e746',
     'Yalunka: Sulima',
     'dialect',
-    'ac175c06-df3d-43c9-a136-de4b3157e73e',
+    '6bc25517-a81b-41af-821b-80e2f43dcb66',
     NOW(),
     NOW()
   ),
   (
-    '75ab6fef-a24d-48ec-9361-ecc624d42e26',
+    'a6d8c509-a3b9-4a56-9a6d-49fe451a1699',
     'Apma: Suru Rabwanga',
     'dialect',
-    '4b0de6ab-840a-428b-9ca1-f3684c4bf59b',
+    'e1efeef6-be28-48fe-a10f-ec0fe269405b',
     NOW(),
     NOW()
   ),
   (
-    'a926c6ef-ae6c-4ef6-ba12-d84023bebdc0',
+    '9ffbec25-b483-43aa-955e-1bfd2b4f6333',
     'Arigidi: Erusu',
     'dialect',
-    '19a07ade-e6d9-48e6-ac38-c6acf92cd67b',
+    'a0d28bc8-cbff-495e-ad15-542a08a060be',
     NOW(),
     NOW()
   ),
   (
-    'd6b3bf16-41aa-46fc-9dc1-3ebe1faff85d',
+    'd3652bf8-458e-4625-8f44-1def09f3cf71',
     'Dakka: Tonrolima',
     'dialect',
-    'bb140c56-b002-4fb3-9f39-3ae288a2a9a4',
+    '58b14654-9dd9-441e-a89c-a4c1a08fe3df',
     NOW(),
     NOW()
   ),
   (
-    'a0015d9b-98b1-4f3c-b4cd-bdb7c9855406',
+    'fbb51974-f337-454c-8c10-41c7497cb059',
     'Honi: Baihong',
     'dialect',
-    '533cc3c1-d464-4308-92db-18262e7e986a',
+    '507dd660-05c9-4de3-8379-ea82f641b6be',
     NOW(),
     NOW()
   ),
   (
-    '819756b5-5d22-411e-b1bc-18aac030fbdd',
+    '90292a44-7acd-4f73-9091-795d89b099d7',
     'Naga, Tangshang: Lungri',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '0cf0f6ef-d132-44e2-be93-5d5d893d044f',
+    '564f26f8-6b65-4eca-aa54-0ceec9e54e50',
     'Nzanyi: Dede',
     'dialect',
-    '307ef46c-1c2d-481e-95ee-90107dc81bfb',
+    'd9564746-9760-4c7b-8925-6bc8dd369bc4',
     NOW(),
     NOW()
   ),
   (
-    'c9f6db56-94be-4db8-a9a6-8ba7e2c133fb',
+    'e5a708f1-6018-43f8-86c5-64bde54e8362',
     'Liberian English: Kru Pidgin English',
     'dialect',
-    '585825ed-de71-4c06-a52e-a174914d4461',
+    '11bfd609-23da-4662-b2a2-6f13dead9623',
     NOW(),
     NOW()
   ),
   (
-    '90cce0f5-17f8-40fb-9bc8-e0500c455b59',
+    '0c46de81-1bd7-4dc1-86d5-798c5a0d7493',
     'Naga, Sumi: Lazemi',
     'dialect',
-    'f24a93ee-2031-4f87-86b7-2c16afaabb92',
+    '98639d61-771b-4523-9f77-5b600c280630',
     NOW(),
     NOW()
   ),
   (
-    'f5d8c191-044c-424c-b158-072e0310caee',
+    '3bf1db0b-31a9-4a1c-98d8-f6d8073b7d59',
     'Rirratjingu',
     'dialect',
-    '7b7f3478-8ada-420d-9dac-51e8b54d32fa',
+    '18f4973a-1814-443b-bbe7-bb3d3606fef0',
     NOW(),
     NOW()
   ),
   (
-    'dd028b58-8984-4057-ad7c-0cafe1eebfd4',
+    '90ca2442-54d3-45e6-969e-2f53a7086f87',
     'Yi: Nisu Yuxi',
     'dialect',
-    '262a4ac5-26da-4348-8504-a605e91a3928',
+    '532d8785-8598-45b9-a905-b6e2425c99ca',
     NOW(),
     NOW()
   ),
   (
-    '8f13aa7e-d014-4dd8-9f37-95b66fe6424a',
+    'b0678c11-ef53-4f1f-88b1-5699b956bd65',
     'Walloon: Western',
     'dialect',
-    '95ad0149-3d24-42b3-a9f5-ea558af897c6',
+    '40b91dd5-de31-47ac-ba43-7b3b15b9d1c0',
     NOW(),
     NOW()
   ),
   (
-    'fb546ef3-ba28-444e-b655-f5cdafda13c4',
+    'dd8ce85a-b3f0-4972-832c-9c07d9eb777e',
     'Mmen: Lower Fungom',
     'dialect',
-    'e524e154-e548-4fa5-b0c3-f686914c1f56',
+    '8963858b-ddb8-4bd1-9a78-305f7d778e07',
     NOW(),
     NOW()
   ),
   (
-    '6915e122-9898-4ccd-9e01-78f86a402e99',
+    '4aecc096-ead5-44eb-a674-c4d887b63f81',
     'Dinka, Padang: Niel',
     'dialect',
-    'd5b9c5f9-5aa4-420e-8fe8-195d83f299cd',
+    '8d301a53-54aa-4d2b-8f2e-2562bf9f85ac',
     NOW(),
     NOW()
   ),
   (
-    '9afa4a3d-4541-4dea-9034-fe051ba5307b',
+    'cd8d9892-7ac7-462b-9fc6-a1b2db07eddf',
     'Swahili: Mtwapa',
     'dialect',
-    '14a079ea-50ad-4841-b271-106193b7e2dd',
+    'ffe4b383-858f-4bc3-adf9-11751facd7b7',
     NOW(),
     NOW()
   ),
   (
-    '4be6b8f5-971c-4f6e-84cd-0fd0808f0b8d',
+    '84b01e76-6a3c-4cab-af37-3010d678e472',
     'Cree, Plains: Western York',
     'dialect',
-    '85a40c4f-fbbd-4f33-beb7-fa4d4552e8f1',
+    '9d1c8fb3-12e7-4b55-a455-76f3a81bae1c',
     NOW(),
     NOW()
   ),
   (
-    '71d38525-a29a-4d46-b515-3e65b5887e49',
+    'e4950029-9b20-43ba-97ab-bef3867aefd7',
     'Kabiyè: Yaka',
     'dialect',
-    '866c10e9-4dd4-4f41-a394-b4789815572e',
+    'bac83bb3-ebce-45ec-a0bd-24b433e9d6ef',
     NOW(),
     NOW()
   ),
   (
-    '1d7456ee-8d47-497a-857a-0d4eb9439284',
+    '620fd2df-9b02-4267-aa47-eff3caefc86a',
     'Kolha',
     'dialect',
-    '381f1919-62ca-4eb2-8cc1-f9b12237c0fd',
+    '335c48e4-b683-49a6-a9c3-d9a5e6d2bd4e',
     NOW(),
     NOW()
   ),
   (
-    '8902af11-a201-43e0-9ab0-63e1b713d479',
+    'b3da9782-f104-4c2b-8174-93afd134fd84',
     'Kenyah, Mainstream: Bakung',
     'dialect',
-    'd4d9a93b-5835-4e7c-bbd5-cd0f5b8e9c71',
+    '9f2d5a2b-de35-4e70-804e-1985f377f077',
     NOW(),
     NOW()
   ),
   (
-    'd27e4b9a-6898-4967-8ea2-aff62aec334e',
+    '873eb3ed-e250-4023-b989-39bf08c6ae35',
     'Chinese, Mandarin: Jiang-Huai Guanhua',
     'dialect',
-    '76d3d964-dab2-41b2-9a11-98b8e21b2d1f',
+    '41ba6dc3-a249-416a-bf05-904da73829b7',
     NOW(),
     NOW()
   ),
   (
-    'c7a7d682-160c-4827-9c14-2ecbc7df5842',
+    '6ec01f2d-c334-4473-a128-42a7ea06e438',
     'Sabaot: Koony',
     'dialect',
-    '29aa15bf-c8a2-4804-b473-8e5cfd5d1086',
+    '467e61a1-db49-44d6-8216-81ddf9a82e71',
     NOW(),
     NOW()
   ),
   (
-    '287317de-34ee-414d-8db4-8f4953a2e8b2',
+    '69d5daee-624f-458c-b6f0-dd605e670c54',
     'Picard: Boulonnais',
     'dialect',
-    'eac5b381-9dda-48bd-ab6c-83399242d13c',
+    'bab0fa1e-4648-4851-ba63-14302f1248ea',
     NOW(),
     NOW()
   ),
   (
-    '10e3ddcd-537d-43b0-95ca-bebe5c194a5f',
+    '670400ac-69b1-48a8-a2ed-add017e770c9',
     'Mixtec, Alacatlatzala: Potoichan',
     'dialect',
-    '8be650fe-a593-4ae6-b841-ccd6cfd62654',
+    '72a06836-e74f-44da-81ec-33d7c64f7faa',
     NOW(),
     NOW()
   ),
   (
-    '8b1cc466-d025-4409-933b-19c61e0654e7',
+    '3ac076b7-cc7d-4d27-8bb7-1e5649c3bf9a',
     'Carib: Murato',
     'dialect',
-    '3ae91ccc-f0e2-4a80-bbc0-0ea5a6a46675',
+    'de719d49-c07f-4d79-9373-b3bd7b3a82a8',
     NOW(),
     NOW()
   ),
   (
-    '413389ce-b97e-44eb-a539-784b2de5f77d',
+    '954a566d-f12d-4eb2-9f1a-c1a19060ccdc',
     'Kannada: Aravu',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '10de8356-7083-42fd-a9e7-9a2433b62d6a',
+    'f56ae3fb-f638-4de3-a0d2-5470dfc35a8a',
     'Zeeuws: Axels',
     'dialect',
-    '4a208d2d-0f49-4890-81f4-6ca663cf5f89',
+    '82274bd4-e8e4-44e6-9812-8b385d366f59',
     NOW(),
     NOW()
   ),
   (
-    'ff209850-1bc3-403a-ba37-ea4b5544c40d',
+    '07d15e2c-3057-4af8-a5e9-ea78c1b87675',
     'Nyakyusa',
     'dialect',
-    'e1d0a69a-8233-4ae3-882a-1bd778328d92',
+    'a81bb9af-0e03-4629-9742-9622b7e1ed84',
     NOW(),
     NOW()
   ),
   (
-    '8d186eb5-d21a-4039-85cb-566b82703698',
+    'fdf8e6dc-c578-4263-aacc-6fe396d5144a',
     'Tsonga: N''walungu',
     'dialect',
-    '1004669f-2068-4ecd-8e88-083cced1c0e0',
+    '1a61ab9e-d7a0-423b-8f0a-c8ba272ea14e',
     NOW(),
     NOW()
   ),
   (
-    '4643c63c-41df-457e-819e-d5fe88f0e984',
+    'efa247ad-f2d9-4be7-b4bd-b3241447e5d6',
     'Biak: Samberi',
     'dialect',
-    '652a8030-f020-4fd9-ac0b-68b162608f04',
+    'd54cba2d-81a0-4dd1-a089-5a11d923b568',
     NOW(),
     NOW()
   ),
   (
-    '91b6ecc9-008c-4cd0-829a-951b2cf43009',
+    '1e31cfa8-3b00-4cbd-94b8-f9f0b7f23e18',
     'Onin: Patipi',
     'dialect',
-    'b2271d80-a978-47df-ae4f-30f8d6fed3bc',
+    'fcf75dbf-83d8-4de0-a6de-a9751d50b371',
     NOW(),
     NOW()
   ),
   (
-    'bd7d7870-e0ee-4426-a9fb-311306c49fff',
+    'b9b5ca7e-365c-4678-a57e-d6a14589f2cd',
     'Kate: Ramgali',
     'dialect',
-    '5c1d2fca-64b9-4cf1-81f3-3ab4b7657393',
+    '096c307d-8647-4f50-ad3a-d68439e81196',
     NOW(),
     NOW()
   ),
   (
-    '7908dada-a5f7-42e1-ab0c-023d23cf5a48',
+    '66386075-00c3-4816-96cb-0f7de8eee2ff',
     'Masana: Walia',
     'dialect',
-    'aeac61c7-b53f-4e42-bd85-928fd32d90e8',
+    '79868a16-5a39-4f8a-accd-76160d95e555',
     NOW(),
     NOW()
   ),
   (
-    '4149ce2c-6b7b-445d-b9b3-fda307b24cc7',
+    '8429d2df-6af1-4238-a0bb-7c10a37612fa',
     'Mnem: Nyos',
     'dialect',
-    'e524e154-e548-4fa5-b0c3-f686914c1f56',
+    '8963858b-ddb8-4bd1-9a78-305f7d778e07',
     NOW(),
     NOW()
   ),
   (
-    '9a443f2b-621e-421e-9a2e-a20eb1e3dd26',
+    '6a8fd899-083a-422b-becb-900cb0b6772d',
     'Slavey, North: Bearlake',
     'dialect',
-    '6a407d28-36ca-47dd-bfcd-d3d4a8b16e74',
+    '1c2fecbc-bd0e-4f9f-9157-7977c62a87ef',
     NOW(),
     NOW()
   ),
   (
-    '8ba34bfb-3bb9-4895-a0d3-1f06b7cebabd',
+    '99ba4f65-4afe-4ce3-8f8a-229e073cbfa6',
     'Igbo: Mbaisne',
     'dialect',
-    '069477ef-e1ce-4003-aaef-3b2427b956f3',
+    'cb0a5a26-5811-41cd-958d-a6639fef721d',
     NOW(),
     NOW()
   ),
   (
-    '0d0f1067-5e7d-4717-a93d-909817dcb854',
+    'fb901b5e-a1b5-4169-acc9-f6631f85590a',
     'Shall-Zwall: Zwall',
     'dialect',
-    '7f9c1bf9-d32a-4c32-a997-99e5460b7021',
+    '396ce763-7df0-4f7c-9ff7-1b47491f6029',
     NOW(),
     NOW()
   ),
   (
-    '975bcccf-27bf-4eee-858f-0eb4084dbd12',
+    '7289ea59-9e3e-4d7a-b991-cf47c2c090de',
     'Uhunduni: Ilaga',
     'dialect',
-    'a5412fe2-ebdf-4551-943f-6fd4ddea9cd5',
+    '5072e940-2ba2-48dd-8489-b1e2f99f382f',
     NOW(),
     NOW()
   ),
   (
-    'f4bec77d-0d75-432b-8f2c-2e97c17dd8fe',
+    'c6efba69-4ba6-48ff-b3e8-9dac881f0a09',
     'Yao: Guangdong Luyuan Yuxi',
     'dialect',
-    '399899fd-393a-449e-8c9c-5528db991832',
+    '407d2c80-f039-4094-96f6-2354537acd4a',
     NOW(),
     NOW()
   ),
   (
-    'c8158b41-bcb1-4942-a17a-7097a6f9abde',
+    '86a1fdf4-e47b-4792-ba53-ed726f7f0529',
     'Ronga: Putru',
     'dialect',
-    '5963b1a5-33f0-4512-bf79-469839460972',
+    'b3d99131-604c-4934-9333-7735bc2f5607',
     NOW(),
     NOW()
   ),
   (
-    '56a2f981-b6ee-4dfd-a1fe-9649410dc683',
+    '1705c732-953d-4218-9a9e-65a70c8e1193',
     'Ladin: Fassano',
     'dialect',
-    '548d3e4f-2b5c-47a3-8a88-1f3f5c05aeab',
+    '65900d01-f5a8-4bfd-bd15-cf309a3cb358',
     NOW(),
     NOW()
   ),
   (
-    'fd9237b5-1dcd-4c31-a34c-276d9390dedc',
+    '37c999b6-7d05-4fc9-8825-7b331389aac8',
     'Kurumba: Wooraly',
     'dialect',
-    '5550646e-c72b-4f41-b5fa-c3ea8f05b2ba',
+    '1e5cc3fa-e1f6-4f02-9122-1fe7cd154ea6',
     NOW(),
     NOW()
   ),
   (
-    '8554f1fd-9d09-409e-ad49-362d43c9647d',
+    '033c5184-d069-4165-9cbd-7365d301cb2d',
     'Kalam: Etp',
     'dialect',
-    'bbb8d81a-d38b-429c-ab9b-3a9375b7ce40',
+    '2522f49a-9bae-4934-84ba-3bbfe535a2eb',
     NOW(),
     NOW()
   ),
   (
-    '180fd3da-1fd0-4aea-b710-3f57c18ab439',
+    '6ddc5755-544d-4020-84cc-8be4d7dcdb18',
     'Mali: Abilta',
     'dialect',
-    '2c68c9a6-7b4e-479f-ba99-16bf859a3b8f',
+    '43bf6c7e-0b3c-444b-81bb-550026d36ea0',
     NOW(),
     NOW()
   ),
   (
-    'fb94bb42-6c7f-4898-879b-0124cf9f9a6f',
+    'f55176d7-bc7c-4263-abb0-46a03017154b',
     'Bundeli: Nibhatta',
     'dialect',
-    '4cb9c34d-e504-4dc8-9b12-a9d7878a8e87',
+    '779ffaf0-c3b8-4458-a910-0c03210ae40a',
     NOW(),
     NOW()
   ),
   (
-    '52719986-1902-49dc-ae18-93f09e76dc54',
+    '6b3ff28a-2d8a-48e8-93a0-1799ff816b19',
     'Lundayeh: Lun Daye',
     'dialect',
-    '719b0048-c068-46da-b912-5083190abf6d',
+    'b3cd24ef-4450-4983-a31e-4c16d338367b',
     NOW(),
     NOW()
   ),
   (
-    '90c33411-6864-4ad8-8c12-0dc032891684',
+    'd1e0c1a5-fa63-4a8f-b523-8df430ab9e86',
     'Blafe: Ranmo',
     'dialect',
-    '6f22e2d3-7b0d-446f-b729-3222beab833f',
+    'fb513f59-ff77-4465-8b3d-0251ab0e875b',
     NOW(),
     NOW()
   ),
   (
-    'bb031a5c-6810-421f-9ef0-e9ac70e463fb',
+    '0fa17e0f-7cf3-438c-a618-b913ac7b379d',
     'English: Dominican',
     'dialect',
-    '0d0d1193-8d92-4a07-bed3-28bf76e91d6f',
+    'f0da8c89-6911-43e6-aa5c-35f07eff76ff',
     NOW(),
     NOW()
   ),
   (
-    '8f025a31-2a82-450d-af10-00d5bf798ce5',
+    'bcbeef61-612a-4c57-8c76-0f8001ec5a11',
     'Kuuk Thayorre: Kuuk-Yak',
     'dialect',
-    '40b84ffc-6934-4d0d-9be8-3b6fd9832b92',
+    '3c538297-7cd2-47db-bbae-34633f9b073d',
     NOW(),
     NOW()
   ),
   (
-    '2a57e571-f258-400c-b05e-24e2d5e98bcf',
+    '04f291de-e546-43e4-b887-b8764399aca2',
     'Kamayo: North',
     'dialect',
-    'e5ac77b1-d739-45d3-80cb-d91d0c43f599',
+    '327213d7-034c-4986-b7d5-02baae51a532',
     NOW(),
     NOW()
   ),
   (
-    'c97b474c-8409-4965-9766-1c068cec4eb3',
+    'd3d8a9c4-7819-4b9f-9916-5c0cc5dff8f0',
     'Chamalal: Gadyri',
     'dialect',
-    '85fedc60-46ef-4de5-a6c3-9eded5d50685',
+    '662525fa-7685-43e2-bd7c-8edf7b362466',
     NOW(),
     NOW()
   ),
   (
-    '1e364994-bf7a-4ef9-a76a-c04b56567c0f',
+    '65c1fda5-47de-4f7e-a359-5364f30bbf2c',
     'Chechen: Akkin',
     'dialect',
-    '25f5f613-1341-49b0-b9be-b86ec08305d7',
+    'cf5a403f-4ed6-465c-a722-6034779baa86',
     NOW(),
     NOW()
   ),
   (
-    'ecfda781-9b8b-40aa-8072-db7e1aafc169',
+    '40423fa1-c661-40bf-83f8-7e2e393261ae',
     'Kuanua: Watom',
     'dialect',
-    '8b998a0c-1085-490f-bf1c-039fd0b95d0d',
+    'acdeb631-e5da-4789-b10c-b7bd827ea7b3',
     NOW(),
     NOW()
   ),
   (
-    'd9aa3fe0-449d-47b4-9d19-9f4a1f84a7e6',
+    '1f4e4a51-0268-409d-899e-cd98bee5b4be',
     'Telugu: Suali',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '79ec0378-825a-458e-a6ac-8fedcd611127',
+    '1613756a-ec55-4cee-a49d-6527e47a4ef3',
     'Lawangan: Kali',
     'dialect',
-    'c3dbaf90-2356-4b6d-9d13-bb698be20eeb',
+    '5e735f8a-b09c-4c5d-a8c9-d690a496dcbf',
     NOW(),
     NOW()
   ),
   (
-    '6fe700dc-80c0-4e65-830c-2f210720ed3f',
+    '1526c800-510c-4452-b20e-aa31e02dc0f5',
     'Paharia: Kumar Bagh',
     'dialect',
-    'e43a7e63-ea14-4fc6-880c-c7420dc79656',
+    '3e25d26f-4ab5-4359-9906-432cf254cf9e',
     NOW(),
     NOW()
   ),
   (
-    '52497a35-dce2-496a-a150-ea0cc6edd71c',
+    '28c13ba9-92e7-467e-887a-27024dc19745',
     'Lavatbura-Lamusong: Ugana',
     'dialect',
-    '5d334127-f077-4527-aa12-fbcd1f09d83e',
+    '92f7c3ca-8862-440b-bd0d-d430b16fd677',
     NOW(),
     NOW()
   ),
   (
-    '94f73936-581a-4f78-b850-51ec891c0f3e',
+    '516cf212-f23a-43ba-8b5c-dcba5d669382',
     'Mongo-Nkundu: Lotswa-Sud',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    '9b8cd431-90f4-4d30-8d65-71e0eb3725df',
+    '44a2f810-35f5-4338-8aa9-6b22d2570d19',
     'Kanembu: Kanuri',
     'dialect',
-    'cf135e38-55bc-4730-ab9f-db3a7415d0c5',
+    '130ccc3c-6e8b-4e47-9231-3c58aee09949',
     NOW(),
     NOW()
   ),
   (
-    '8cb89d02-6847-41f8-ace4-340a4c703c84',
+    '1c2c2ce0-82f4-4c2e-b544-fb8e7018636e',
     'Thakali: Tukche',
     'dialect',
-    '0725be41-e8d1-4c27-8371-cb3ab7eb3b31',
+    'd5ea461f-32d7-4812-a494-3b0101ce85eb',
     NOW(),
     NOW()
   ),
   (
-    '647a5058-0491-4e65-87b5-a7b1e08960bb',
+    '9abb7579-20cd-46d1-a8a2-1fb06a3d8d42',
     'Saafi-Saafi: Sebikotane',
     'dialect',
-    'a160ce9f-4a52-4e4a-8a4e-6388e6750430',
+    'b50d7208-c124-4326-a630-7355a52a3dc2',
     NOW(),
     NOW()
   ),
   (
-    '2838fc62-acce-43a2-8b15-952bac1e946b',
+    '4dbedad4-00b5-4d81-a667-15ab6882b617',
     'Dirasha: Kusumitta',
     'dialect',
-    '70582f11-d0ee-482a-8c1a-0e6e2e068875',
+    '9ef27efb-ae35-4e6a-9b2d-17c66f8553e4',
     NOW(),
     NOW()
   ),
   (
-    '4a7c2cbe-bcc4-4a31-8e92-9372756c514b',
+    '03d079a4-e7f7-42e9-9874-1706f12b8d12',
     'Chechen: Melkhin',
     'dialect',
-    '25f5f613-1341-49b0-b9be-b86ec08305d7',
+    'cf5a403f-4ed6-465c-a722-6034779baa86',
     NOW(),
     NOW()
   ),
   (
-    '907b69e1-9202-4a96-bbce-d6c0cb871a86',
+    '81c446d8-cd07-4e59-a43d-3b0078323584',
     'Moronene: Wita Ea',
     'dialect',
-    '0fc53f2a-9c8f-48db-935e-c28182ebfecd',
+    '3960d78a-22e1-452c-a58c-a006b4157e71',
     NOW(),
     NOW()
   ),
   (
-    'ca2389da-a395-48b8-9811-72b0f7c643f6',
+    '11d6319c-8ac7-4251-9288-37794deae8fb',
     'Folopa: Ro',
     'dialect',
-    'e1b4a99f-801f-488d-bc83-bbe477b2e939',
+    '7640e9b4-24e8-4d16-b778-27dab5c3bf52',
     NOW(),
     NOW()
   ),
   (
-    '2d1b9d9c-076e-4e76-aa2a-735e3b1b0326',
+    '31c8ca8e-57a0-40cc-9a61-6763127b5bc3',
     'Wuvulu-Aua: Onne',
     'dialect',
-    '8542eaf2-7f4b-4d05-b24a-9f0af9d720ce',
+    '079f02a1-3688-4abb-8f2d-7f34c070858b',
     NOW(),
     NOW()
   ),
   (
-    '1ac21b9c-6e32-45f2-bd39-c93d96e50503',
+    'f8c6762d-2c14-40da-9472-5f1eceb63ba7',
     'Abau: Downriver border',
     'dialect',
-    '4f154e4b-80f5-4268-81e0-616981d7b7fe',
+    '2ceafb61-96fa-4102-9874-c7529589c5c1',
     NOW(),
     NOW()
   ),
   (
-    'd884384d-e856-4d70-a86a-4cad2d6045d1',
+    '727069da-82b7-4c7f-92f1-fd72129677cf',
     'Zazaki, Southern: Dersimki',
     'dialect',
-    '67566bc5-c901-4383-aac5-fe4911776594',
+    '5422b347-ec7f-4871-ac11-2ac739662041',
     NOW(),
     NOW()
   ),
   (
-    '938d496f-2f1f-4736-a627-7bc0e0fc2fab',
+    '3b62ae18-1153-4d24-9ab7-9ec28f77f673',
     'Tulehu: Tengah-Tengah',
     'dialect',
-    '4120a221-261a-4cb2-8d34-8aea7052ca38',
+    '3d730ad9-f18f-4469-b05b-8e684a8f6461',
     NOW(),
     NOW()
   ),
   (
-    '2321ea53-0090-42fd-b7e8-b74748d0f03d',
+    '64c9404b-703f-4acd-bd02-c017034ed72c',
     'Siwai: Baitsi',
     'dialect',
-    '81dfe2e8-75aa-47f4-8b01-87158a6ef46b',
+    'eef28f4c-abae-402b-b1be-3660fdefda8f',
     NOW(),
     NOW()
   ),
   (
-    '7e87f5e3-d2bf-4998-8094-415dc13d3b06',
+    'e81b4a8b-3fe0-4bc0-a2ad-41ecab32a60e',
     'Mambila: Ngusun',
     'dialect',
-    '2505217a-1239-4518-92e1-9f8e94b0445e',
+    '7e624b95-60a1-4261-be80-951c87cb2537',
     NOW(),
     NOW()
   ),
   (
-    '9546e52f-7121-493e-96dc-d5a85345db26',
+    '907b9869-40e2-43f3-b69b-b2d92aa407fe',
     'Naga, Tangsa: Longphi',
     'dialect',
-    'deef6bc2-7256-4bc1-a5ce-5fa45a494f84',
+    '8a77959e-1531-42a5-ba65-7efdddc0459e',
     NOW(),
     NOW()
   ),
   (
-    '01e3f9e6-fa04-4839-905b-90262062c680',
+    'e1ed76a7-69c6-4690-9192-105f065c75b4',
     'Paijiao',
     'dialect',
-    'a64017a1-7139-44e1-a4b8-a3af689bcb2a',
+    '9d69b682-716f-4a59-a696-887023847d41',
     NOW(),
     NOW()
   ),
   (
-    '28369e71-10b0-48f4-9054-45cf68b27558',
+    '8091e7ca-37d3-4316-aafa-243fca7c5d16',
     'Cheke Holo & Kokota',
     'dialect',
-    '595bc2ec-b961-4265-8176-f44e657c29f1',
+    '88d50f14-5c34-4aca-90ab-1f03a93fdfe4',
     NOW(),
     NOW()
   ),
   (
-    '8909444f-dcdf-4dda-b0f5-d1c576c804c6',
+    '2cce402c-40d9-4acd-890f-01b35899eb84',
     'Garo: Tripura',
     'dialect',
-    '697d4800-85d8-4a64-930d-ea25d0ce015c',
+    '4c375d06-191e-4857-88f8-bd5f19a45e17',
     NOW(),
     NOW()
   ),
   (
-    'ba2173a5-515d-44ee-85da-613fe70512d1',
+    'a09bb468-7429-40f5-adba-71fce7b8b761',
     'Carib: Tyrewuju',
     'dialect',
-    '3ae91ccc-f0e2-4a80-bbc0-0ea5a6a46675',
+    'de719d49-c07f-4d79-9373-b3bd7b3a82a8',
     NOW(),
     NOW()
   ),
   (
-    'b8be9796-cf58-4ca8-b39b-de3f10c89e8a',
+    '3d47ed44-59ec-451d-9491-69f52c3060b6',
     'Naga, Konyak: Chingkao',
     'dialect',
-    '187be038-3dcb-4c29-ab69-44a19425574f',
+    'c4af36d2-67c0-4258-958b-20730ae82303',
     NOW(),
     NOW()
   ),
   (
-    '36e1ddcc-3b2e-4462-9683-8f0380119e7b',
+    '61d0eb02-e643-4114-84d7-4b7eea8d3052',
     'Krim',
     'dialect',
-    '21eead2b-fc40-4a51-97c0-ba31aa98836d',
+    '42f0839c-c1ee-4fd1-bb9e-30c43e9f1663',
     NOW(),
     NOW()
   ),
   (
-    'dd81305a-975e-4d3c-a5ff-af94f3b93a95',
+    'f8f18354-18b0-4e34-b193-81c5c3f2240d',
     'Somali: Af-Ashraaf',
     'dialect',
-    'cea20c0d-87e4-4c50-b219-24955b335a5a',
+    '39a7ac82-f3bf-41bd-af3e-9a6d15999d07',
     NOW(),
     NOW()
   ),
   (
-    'b430a0fa-3f07-42e5-8b3f-33092272df7b',
+    '1a36c3ca-0d56-4a0d-92cb-7c9c8e2e7c93',
     'Provencal: Maritime Provençal',
     'dialect',
-    'c173fb32-230a-42f4-b1b2-6680c90eb405',
+    '7304658b-1026-4039-b8a5-575259d4fcdb',
     NOW(),
     NOW()
   ),
   (
-    'a3bff058-741e-4fd7-934f-43126fa3dd9d',
+    'f833f7eb-cf13-4359-a863-18fe84517394',
     'Kako: Mbonjoku',
     'dialect',
-    'c862d89f-a2f3-4e60-aecd-492100e3feaf',
+    '7aa27a70-5bd1-470e-bf9f-3e02d4c25926',
     NOW(),
     NOW()
   ),
   (
-    'd27b2e09-0225-4007-9778-2694baa7a120',
+    'df1863b1-2060-49cd-8c32-922029cfbd13',
     'Mongo-Nkundu: Yongo-bololongo',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    '61b554cc-3b93-457d-ac46-f57d956d117a',
+    'a45818b2-c2d9-483c-928c-314f47dc2279',
     'Bokyi: Boorim',
     'dialect',
-    'c263e279-f125-4384-8f76-fa299ada8bcb',
+    '025a5528-3672-4ea3-a296-413c93f405a7',
     NOW(),
     NOW()
   ),
   (
-    '4de11dcd-26ba-4676-9dad-a7563d6e4a09',
+    'a4594162-a717-4cba-912c-89cf0f4c2da5',
     'Bauzi: Aumenefa',
     'dialect',
-    '8bff35fd-506b-45a4-9940-7ed020a8041f',
+    '49f82022-7833-4217-9f38-9d048961e4f1',
     NOW(),
     NOW()
   ),
   (
-    '9e81152e-eeaf-4a37-a21a-3935ee3b791c',
+    'd4adc42a-f28e-4959-b000-670c721f47e1',
     'Sousou: Sierra Leone',
     'dialect',
-    'ff87c962-3edc-4f3a-8747-132d25ccbbb6',
+    '362c1543-5a50-45f6-a7e4-09681df1ce47',
     NOW(),
     NOW()
   ),
   (
-    '0d6ef5ee-5e6c-4bfe-9080-ffee2213fbc6',
+    '9b2e0491-125d-4bed-babb-73bc753b5bd5',
     'Azerbaijani, South: Pishagchi',
     'dialect',
-    '501ef89c-4a5a-4001-ac25-5e42d5c07361',
+    'c623203b-8a1d-4502-86f3-7109d52ee8c4',
     NOW(),
     NOW()
   ),
   (
-    '7dd45426-a769-4fc8-a972-14a9a6ed1b39',
+    '1c57b1a4-43bb-4f57-a339-73cbf7023033',
     'Juansari: Jaunsari-Bawari',
     'dialect',
-    'e7fab8c3-abe1-42b4-9195-cf825c08dd62',
+    '84c83278-7d8d-4841-85d2-8c65fcf9c37a',
     NOW(),
     NOW()
   ),
   (
-    '50e2c806-34e0-4c15-99f8-cf6fe7086a2b',
+    'caa63f81-416e-45d4-9d5d-ab4855694187',
     'Dan: Lower Gio',
     'dialect',
-    '580e732a-f454-433f-9210-c078a1b583ff',
+    '8517583d-8fd3-4ac2-877c-e134efdc0a5a',
     NOW(),
     NOW()
   ),
   (
-    '8099c4d1-0d66-4979-bed0-a4f8e6a1a36d',
+    '8cacde92-38fd-41b9-9be9-6555584396cc',
     'Tidung, Southern: Sesayap',
     'dialect',
-    '1ae26386-9961-4363-b7d9-182425623524',
+    '984c6883-ea38-42a1-ba71-0432d7827d0c',
     NOW(),
     NOW()
   ),
   (
-    '89fe8d6e-f219-42b3-b60e-498fdca24bc1',
+    'd2758ae1-b6b8-462e-b414-51f9f58c3e12',
     'Kayah, Western: Southern',
     'dialect',
-    'ec7a197f-d51b-4299-9de1-97e3f46219a6',
+    '3d9edcf9-4496-4d0c-aac5-84b302835811',
     NOW(),
     NOW()
   ),
   (
-    'c5095dab-59ff-4e24-ba9f-ddc0be0b112c',
+    '160172af-6afe-49b1-93fa-e29f7c966ff0',
     'Soninke: Kinbakka',
     'dialect',
-    'b58cc6f1-bbfd-4c5e-bd60-d8d97774862e',
+    'f5688ea4-9884-401d-a0ef-d6fa32322cf3',
     NOW(),
     NOW()
   ),
   (
-    'b16f7f8d-b9b5-4529-899f-53d9b6a39b74',
+    'fa111621-b5be-491b-a370-3854d5cf348c',
     'Chrau: Tamun',
     'dialect',
-    '5c642fa3-bb20-4a48-b6c7-aea96b854cea',
+    '5e219d5e-0592-45ad-bfa2-8dedb7b75d52',
     NOW(),
     NOW()
   ),
   (
-    '35bcfc0b-277b-42ba-9c8b-8fac64b2a352',
+    'c3037deb-63e8-4a17-b86a-81fe67d4ed33',
     'Biri: Yetimarala',
     'dialect',
-    'd061a728-a884-48ae-bd38-bed78c4f4f6e',
+    '2f86a3cd-ba46-4f13-9380-4890e015d58d',
     NOW(),
     NOW()
   ),
   (
-    '6b8d2a36-ca9e-466b-82d1-91f75f5ec345',
+    '1c299138-788f-4b31-afa9-9f5e32de591b',
     'Kikumu: Mbaku',
     'dialect',
-    'fb6b70c4-22d8-461e-95b7-b148c37313a0',
+    '32a34945-bf90-4bfd-98d1-d793059c1737',
     NOW(),
     NOW()
   ),
   (
-    'ddc19f67-3145-4b09-beb7-88e13596a792',
+    '5990d35d-8a56-4bd4-a6b4-0fc7be9a33fd',
     'Valmiki: Bhasa',
     'dialect',
-    '78effbe6-29da-42b4-af1e-d44089da6835',
+    'dd893655-a55d-44bb-bf86-ae3c2c68fff7',
     NOW(),
     NOW()
   ),
   (
-    '092763b2-df7d-4762-af5d-64b2fc542cf8',
+    '0f04ccef-1ae2-4342-9149-9bb57dcb6237',
     'Keapara: Makerupu',
     'dialect',
-    'a1534f6d-143c-4a80-bc96-8292163da039',
+    'aadb6c82-1f29-4af3-afd9-49309d1074cf',
     NOW(),
     NOW()
   ),
   (
-    '59dd47d1-0234-49c5-989a-7186779d5bc2',
+    'bbbe7b56-42d9-4af3-a6b5-33d2c2e51280',
     'Pnar: Nongtung',
     'dialect',
-    '47c3b23c-5efe-4591-a654-d8a340535ce1',
+    'ac8b65bf-e10a-46b5-8100-80b8cfc5ed76',
     NOW(),
     NOW()
   ),
   (
-    '334894b4-73fc-4709-9590-7d607bdbbf64',
+    '3454236d-f6a6-4341-8ae5-a811bf209991',
     'Mahou: Tenenga',
     'dialect',
-    '12f1c80d-1047-4ec1-88bc-174bd7f64942',
+    'cf23adaa-3977-4f8c-98e8-0fafe59f78b1',
     NOW(),
     NOW()
   ),
   (
-    '2d588600-9918-4ebd-a0e7-95def5d40cf3',
+    '1a1915e4-4bc7-4507-a2b9-6cb0295b55f6',
     'Nuni, Northern: Northeastern',
     'dialect',
-    '322d20d8-834b-43db-a87c-616581c28c9f',
+    '75230c15-20af-409b-987a-80e943e71b2e',
     NOW(),
     NOW()
   ),
   (
-    '07dbc54b-aeeb-4dd2-8dc2-8b53890f97df',
+    'd229e73f-1af7-4ace-aec3-d978a99bfeec',
     'Taiwan Sign Language: Taipei',
     'dialect',
-    'a3beef3a-28bb-47e5-ae43-8aef4a2ec58b',
+    'c3bde282-14c6-4f90-91f6-709eb240bd01',
     NOW(),
     NOW()
   ),
   (
-    '9bb6343a-8290-4d6b-bd57-b993d3b81734',
+    '1d57497e-e451-4cac-b1f1-143ef3f82cfb',
     'Afrikaans: Eastern Border',
     'dialect',
-    '17f28f86-8db7-4ef9-84ce-7f7ed09991bc',
+    'c2673598-2752-48a7-9f59-466a26ba8c41',
     NOW(),
     NOW()
   ),
   (
-    '4afb2a5a-a323-4514-8309-a1bacdcc4e46',
+    '74b88da4-c16c-417b-9f44-1556fc0f791d',
     'Mori Atas: Aikoa',
     'dialect',
-    'cdcba020-cad3-489d-9cdf-2bdf3ad9cc37',
+    '0b0db02a-efd2-486e-ae2b-90d2c7c8c9ad',
     NOW(),
     NOW()
   ),
   (
-    'f48d71f5-2487-4ed4-9206-1febec679f4b',
+    '808f2f22-d2eb-4335-a436-8582e7181ec2',
     'Mnong, Central: Bu Rung',
     'dialect',
-    '3e0a7191-237d-4e94-af76-b3728350d242',
+    '6fc05ae5-0c78-4463-b3ec-f228a0e78565',
     NOW(),
     NOW()
   ),
   (
-    'e2018cd8-00d4-48e2-9d58-ba21fd6e0cd0',
+    '25cccfc2-3150-4b90-900b-7ff379abbfc3',
     'Dano: Amaizuho',
     'dialect',
-    '9b93cb70-dc7d-4480-9407-93a086a1178d',
+    'd06cd1d1-ce24-4e46-b679-8d5b33952864',
     NOW(),
     NOW()
   ),
   (
-    '23d1b8fa-e9a3-41a4-a9e1-60101f9f65a4',
+    '0f5baa9f-c710-4056-9856-75d6f00907ca',
     'Bungku: Landawe',
     'dialect',
-    'd0391afd-9510-42f9-85de-f100db21dc46',
+    'd16fa4a6-aa28-4bba-b745-aa7df8fcf398',
     NOW(),
     NOW()
   ),
   (
-    '7ed683d6-0635-4b74-859b-2a6735d985dd',
+    '54893b57-a43e-48bc-a317-dd0a31199ee3',
     'Esan: Ewatto',
     'dialect',
-    '93f87c85-8cdc-41a2-b9a8-08ea2e781b90',
+    '77bd55ef-9e37-4cb5-afd8-2460c51fbe89',
     NOW(),
     NOW()
   ),
   (
-    'e1212ba9-cb93-4802-9888-3d6fdb24b777',
+    '7ae20d89-cbf8-421b-b5c3-5398778d4e02',
     'Suau: Sinaki',
     'dialect',
-    'dbf69e64-9214-4d8a-a1bb-2a9a95e4382c',
+    '035d8fcc-63d2-4615-82fa-269f060a70f1',
     NOW(),
     NOW()
   ),
   (
-    '4bcf2b4b-9d34-4866-beba-5b9c1198af03',
+    'c9b7d07c-63ab-4fa0-b7a4-3ce2ed79bdc5',
     'Lower Nossob: Kiǀhazi',
     'dialect',
-    '8b31471d-7205-4616-add4-a8d82760f66a',
+    '4018c678-ca5b-465b-9b98-9bcb4cdd9a76',
     NOW(),
     NOW()
   ),
   (
-    'd6f1f4a6-3838-434c-a716-c1c0fc067c3b',
+    '8f1f9c0d-5a58-495e-843f-4289f6a9fd71',
     'Yubanakor',
     'dialect',
-    '95c93fd0-4550-4cf1-b37f-0d8b6586b3c0',
+    '4f8410da-736a-4708-a3f7-ec4b8cab4a87',
     NOW(),
     NOW()
   ),
   (
-    'a7978f84-f372-4af8-a9a8-d37e2702d65c',
+    '0f2fb6f8-554e-476d-84de-6b59eaa837a0',
     'Tippera: Kema',
     'dialect',
-    'feb211f6-d82e-4461-945e-02e127756ed2',
+    'f94d8c46-5f39-4a89-9814-1106c62a7e82',
     NOW(),
     NOW()
   ),
   (
-    '3141c350-2a63-4f39-9aee-201aa21046c8',
+    '3a859234-3653-40cc-9b87-913ea3e878d1',
     'Lugbara: Maracha',
     'dialect',
-    'a6a520e2-60c5-4d81-82a8-af910d8d12a1',
+    'c83c05f8-ce0c-42b1-be86-e133ad69c6e4',
     NOW(),
     NOW()
   ),
   (
-    '89d01546-fbff-4e9e-8d0e-c0fdd3d07c98',
+    '4f09ca58-3cc1-48b7-89ac-f55470c663be',
     'English: Cornwall',
     'dialect',
-    '0d0d1193-8d92-4a07-bed3-28bf76e91d6f',
+    'f0da8c89-6911-43e6-aa5c-35f07eff76ff',
     NOW(),
     NOW()
   ),
   (
-    '731dc4a1-16dd-44d0-bc51-1cb4c0bffd18',
+    'efd2c0d6-288f-41eb-95c9-65598831a33f',
     'Pinghua: Guangxi Nanning',
     'dialect',
-    '76d3d964-dab2-41b2-9a11-98b8e21b2d1f',
+    '41ba6dc3-a249-416a-bf05-904da73829b7',
     NOW(),
     NOW()
   ),
   (
-    '87c477dd-dae8-4e81-a47e-697744254ec5',
+    '2abc5afc-eb08-4484-abb7-e5056cfd01e0',
     'Tal: Muɗong',
     'dialect',
-    '40b549d9-b212-4a96-bbdf-0f30a14c328a',
+    'a7a01ef7-67d9-4fe6-94fa-8220c27d3667',
     NOW(),
     NOW()
   ),
   (
-    '0bde6181-eff3-4f8c-848c-61b54c271b2c',
+    '3142fec6-3623-4ab6-91e5-e34a6224f9c3',
     'Musgu: Beege',
     'dialect',
-    '10ca3c0f-0bef-4c90-bef0-cdeb8e202282',
+    'e1f14914-eb71-46c5-acb0-706c773a765c',
     NOW(),
     NOW()
   ),
   (
-    '059e4c08-b31a-4143-91c4-aee8f43f9790',
+    '897f6c0d-7687-4484-a55b-439c400b89fa',
     'Sama, Southern: Sama',
     'dialect',
-    '27009b41-ec5d-4e1d-8c73-1fc873bc6b09',
+    '406e36ef-0f02-4274-ae6a-239afd2fca6f',
     NOW(),
     NOW()
   ),
   (
-    '5fec5771-8ff1-4d5e-a3a9-27b39878b1d9',
+    '24457c99-11f9-497d-b60b-310690267300',
     'Saposa: Taiof',
     'dialect',
-    '4c1fd842-4239-4e54-90b5-17ec594c6849',
+    '5f7b4f71-653c-445c-b4c4-081ce4ccd889',
     NOW(),
     NOW()
   ),
   (
-    'e61aa1f6-0fb3-4204-bfb4-b9e8c6eb4acc',
+    '61f57a24-0199-43f0-9546-9d9b72a447e7',
     'Isoko: Owe',
     'dialect',
-    'e2098900-dad3-4d0c-9ee9-c8d4eee2fcb4',
+    '5e9b5245-0ff2-4cf7-b4cf-c3b588e9aad1',
     NOW(),
     NOW()
   ),
   (
-    '669591fe-6a8c-40e9-b735-1f4e8a2e6ffe',
+    'a9921b85-e946-4941-b635-3cd75d4994fe',
     'Cienega de Zacapu',
     'dialect',
-    'e2c17b83-04c5-4e76-9074-a287464b6bf8',
+    '3987b6fd-ee20-4fdd-b44e-5a2b0f7ee78e',
     NOW(),
     NOW()
   ),
   (
-    'e20cf0ea-e193-4e6f-8f91-e3367f696b93',
+    'a84a4220-1301-4358-8c54-05329a985250',
     'Bo: Kaboru',
     'dialect',
-    'd187aa15-566f-472c-ad88-7c5e5b933925',
+    'e861aee9-bb03-40ad-b642-7a96834a4b2f',
     NOW(),
     NOW()
   ),
   (
-    'b07c538e-f836-42da-a55f-3bd8741dbc5d',
+    '0c5fb343-a40c-40bb-ba35-1478f1eb87b3',
     'Kasem: Kasem',
     'dialect',
-    'c59413cc-8f5d-4927-8b5e-f27cd4ec6c34',
+    'b9d388c1-b13d-4884-8703-76e16199c9f8',
     NOW(),
     NOW()
   ),
   (
-    'ad74a2aa-e720-48c2-8a41-842c73f84677',
+    '92083ce8-bb6e-472c-b3fa-11175082aeda',
     'Tai Nua: Tai Pong',
     'dialect',
-    '833b7ad6-5bab-45eb-ae7a-e41fd2ec1b35',
+    '6dbf2abc-33bb-4863-a2c7-3489afe4af56',
     NOW(),
     NOW()
   ),
   (
-    '14d63507-2282-436c-856b-97e743b62ca0',
+    '0bd38acf-59b4-4bcc-a3a3-99d004cfda12',
     'Kannada: Kudipattila',
     'dialect',
-    '55b4e59e-7210-439d-a14e-6b76300ac02f',
+    '3927184b-c7a0-4d9b-a885-1a43442d9cd6',
     NOW(),
     NOW()
   ),
   (
-    '3a2b0113-d1c9-4603-b129-d3c07a87ac70',
+    '6de1a1e2-7740-4875-8946-b2e158ea1483',
     'Luyia: Lwisukha',
     'dialect',
-    'b4e27f39-452a-4222-a927-2d5b781c3ba7',
+    '97826b1d-1776-40b3-b706-023df0cebf86',
     NOW(),
     NOW()
   ),
   (
-    '9550b5d3-59aa-48ac-8bad-53536f13bb70',
+    'ecaadd64-e8dc-45f7-814a-42c0c3f8146c',
     'Tama: Girga',
     'dialect',
-    '7a1b97ce-2a30-4d42-8891-eceede9be95a',
+    '745082d5-07fd-466f-a608-ac49f0dbb747',
     NOW(),
     NOW()
   ),
   (
-    '62a6f3fa-a105-47ec-9ca4-0e5b40f6af09',
+    '64f83192-2009-45d8-a8eb-feaed328bc5e',
     'Mbula: Gauru',
     'dialect',
-    'ae25a1ca-6050-4b03-b800-f9d7bbd5f9b9',
+    'acf027b0-9d49-46cb-a38f-3a42bd3e3aac',
     NOW(),
     NOW()
   ),
   (
-    '02c14ce3-b41f-4c90-8962-241f4e652354',
+    '7a7d359e-7dad-4ec0-9c47-3eeb3ada2b92',
     'Saniyo-Hiyewe: Hiyowe',
     'dialect',
-    '67802391-e653-4bc4-b52d-dbb77ebb3215',
+    'a753ab9d-35d5-48e0-abe1-9d2d3437be23',
     NOW(),
     NOW()
   ),
   (
-    'ac1a6390-9b6f-46c3-b84a-9e59fcfbcd2a',
+    '9a9f0454-6302-4940-9fe5-323a2be44edb',
     'Basque: Middle',
     'dialect',
-    '4a831085-759d-4f60-b1f8-24b10ad55328',
+    'a86b4167-d681-4618-bbb4-f42e86adfee7',
     NOW(),
     NOW()
   ),
   (
-    '651360e4-3fcf-42fd-a12f-c42fd8698cd6',
+    '35997285-da75-4ffa-ad1f-4619a8c67bc1',
     'Romani, Balkan: Pazardzik Kalajdzi',
     'dialect',
-    'd3a55b7a-8942-433f-9ae2-19a40ea62116',
+    'de173db6-793c-4c69-8538-a9f455c16106',
     NOW(),
     NOW()
   ),
   (
-    '4b376223-acdb-495a-b7fc-df48a3c9f8fb',
+    '469e4c4b-edd2-4bc9-bf29-65b0e4e62b03',
     'Kachama-Ganjule: Ganjule',
     'dialect',
-    '9e574428-542e-4470-94ac-21cde4d106f6',
+    'a9f300d8-02ee-4acf-8494-0a45f85b62e6',
     NOW(),
     NOW()
   ),
   (
-    '233880f4-3872-4e83-8d85-389e0b916345',
+    'd96d71c0-0bcd-4588-b378-51b6683688f6',
     'Kinandi: Lukonjo',
     'dialect',
-    '1c733f90-be8f-4fba-977f-70b250cb7aff',
+    '8cf80146-c3cc-40eb-8b0e-46cbbad8ef73',
     NOW(),
     NOW()
   ),
   (
-    'd9469650-7c5c-4f56-a789-247b442319e3',
+    '03a01423-f0cd-47eb-803f-b11134973f51',
     'Muyuw: Wamwan',
     'dialect',
-    '680fae0f-42ec-4b0d-8048-513fd88e55c8',
+    'eb5c1525-5dfc-4d8a-a292-2cd7eb72a346',
     NOW(),
     NOW()
   ),
   (
-    'a1d19a0b-f2c4-4806-a254-6ef7bd4694a0',
+    '6bcf5b68-a045-4b60-9c37-30a49c73e6e6',
     'Fasu: Namome',
     'dialect',
-    '60342657-aa7a-4939-9e75-0af6543fd3e1',
+    'e34f772c-e5f2-4409-8fcc-b8cb20139f08',
     NOW(),
     NOW()
   ),
   (
-    'd1e987d8-d17d-4aa1-bb15-9e4b351892d1',
+    '761d9c1f-6400-4dae-a4b0-55e7b4df4db9',
     'Nez Perce: Upriver',
     'dialect',
-    '5dfbe89a-1fca-4475-b225-6a2b9eee6217',
+    'b89cd55c-f95a-4828-9376-a35a2807ae78',
     NOW(),
     NOW()
   ),
   (
-    '9ed3f053-ba14-41e2-a4b5-cef88a2d06fb',
+    '09ebff59-00fa-4b1c-9f51-0d0d25e9772c',
     'Muna: Mawasangka',
     'dialect',
-    '010e15dd-016a-49ed-a93b-7b0729a494ec',
+    '0fbcdce0-5bd3-4305-a454-64727ff6ff69',
     NOW(),
     NOW()
   ),
   (
-    '3b8978e0-db1c-4a7b-81c0-ea6a84e92437',
+    '592e5b5a-5bd9-4a9f-b646-8d7c0bb90704',
     'Sinasina: Dinga',
     'dialect',
-    '24cfc1c2-5302-4a52-bfcc-f7bfcf8ad7b9',
+    'c166c75b-7063-4fc8-b987-53f58fba7b38',
     NOW(),
     NOW()
   ),
   (
-    'd9627e09-c686-42bf-a7ef-074226431b91',
+    'e6db0bb7-d26b-4a63-a2f9-8a2dc348b1c3',
     'Kei: Tayando',
     'dialect',
-    'bd9b4b31-99f9-4f1f-a871-5532afbe4059',
+    '0e045235-f4b4-4d86-8fae-aa779809d2ac',
     NOW(),
     NOW()
   ),
   (
-    '5d86fb7d-bb47-4e58-944f-de6e7a90fc78',
+    '43ebed09-ee66-422f-af83-6216e3e933b6',
     'Gascon, Aranese',
     'dialect',
-    'c173fb32-230a-42f4-b1b2-6680c90eb405',
+    '7304658b-1026-4039-b8a5-575259d4fcdb',
     NOW(),
     NOW()
   ),
   (
-    'c8db1bff-cb59-485a-9ec6-8dc2812e0cf2',
+    '30a7cd93-1661-4196-aa18-6a5331ee0b8e',
     'Gyele: Likoya',
     'dialect',
-    '5a706c0b-e4cb-43e0-9cb0-f6652e3b85db',
+    '6e3aef95-82ad-492c-9744-a9cd0774c8d5',
     NOW(),
     NOW()
   ),
   (
-    '4745caac-9d45-4bdf-a648-ec4a5dc11a5a',
+    '829a2af5-6c76-4040-a3eb-339bbb2a461a',
     'Pana: South',
     'dialect',
-    '3517a2c1-ae90-467c-b265-8b9f9a646305',
+    '93deb9e3-0259-4c18-9895-205df8f0723d',
     NOW(),
     NOW()
   ),
   (
-    '55b379b8-a49b-4ffe-bfac-14e35c38aded',
+    '99bd247a-b900-4f68-97c0-25238e810ad8',
     'Adara: Idon',
     'dialect',
-    'e97882b6-97a8-43ee-b227-451019d9f96b',
+    '0c1f723b-ada7-493c-bf48-7238f389ae28',
     NOW(),
     NOW()
   ),
   (
-    'c56d2fe5-8d91-4dda-8d2b-e0b3972ca2c7',
+    '0f1b0985-7657-475f-964e-3f49eba392ef',
     'More: Bolivia',
     'dialect',
-    'ceb388b2-5b14-4afc-9fdf-13aef72f7cd3',
+    '56dc31d5-a92f-45be-9ec8-23a6d2534d7a',
     NOW(),
     NOW()
   ),
   (
-    '84aed003-2e42-46ec-a5f2-d2c0baaff3b5',
+    '91007016-56e1-4bc2-b7ce-ce196a00e057',
     'Tatar, Siberian: Baraban',
     'dialect',
-    'f1ee6bf1-23e8-4a26-b648-cbd009279c1f',
+    '27baf139-aadd-48cf-af90-e3687c99eeac',
     NOW(),
     NOW()
   ),
   (
-    '9876ff44-9343-4d37-afa1-25d8096a2272',
+    'd3b2fa5d-1278-43d0-828a-53db03a53013',
     'Turkmen: Teke',
     'dialect',
-    '2e208de4-c299-4920-831e-91ead613ca30',
+    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
     NOW(),
     NOW()
   ),
   (
-    '559d0da3-2735-480f-b934-c97e407645b5',
+    'aa2883e6-ccf1-4328-ad25-d2c67f336a17',
     'Dano: Upper Asaro',
     'dialect',
-    '9b93cb70-dc7d-4480-9407-93a086a1178d',
+    'd06cd1d1-ce24-4e46-b679-8d5b33952864',
     NOW(),
     NOW()
   ),
   (
-    '71e4a820-9fdc-4905-927d-daf3d7e63e19',
+    'b345c7b3-e7bc-47fe-a0bb-54315b72995e',
     'Kayah, Western: Sounglog',
     'dialect',
-    'ec7a197f-d51b-4299-9de1-97e3f46219a6',
+    '3d9edcf9-4496-4d0c-aac5-84b302835811',
     NOW(),
     NOW()
   ),
   (
-    'efd929f9-be15-4f2d-b4e9-4c6addb86ad1',
+    '6e7e42e8-6d2e-4bbc-9957-4e0cf04b1495',
     'Maasai: Siria',
     'dialect',
-    '3e6870d7-cb61-46f7-9cdd-2bba51fa0c25',
+    'c9ebfbaa-6c91-4cab-b763-ca5a5270074b',
     NOW(),
     NOW()
   ),
   (
-    '326163a1-5cb3-4139-b011-c00c2772b568',
+    'd938b60a-02b1-44f5-8bb0-dd8e40d2d205',
     'Magar, Western: Palpa',
     'dialect',
-    '5bdcdbe2-2ae9-4737-8d78-98b38387d8db',
+    'a687e837-24e9-4711-863e-882accde1481',
     NOW(),
     NOW()
   ),
   (
-    '4753c30b-3872-4496-979a-460198b137cd',
+    'f7654ac1-a5fa-498c-b503-caa4a48e0e82',
     'Sirmauri: Giripari',
     'dialect',
-    'fe28fed8-af10-4d36-abd0-1637a41b12d1',
+    'f791e287-3051-4056-a6ec-37da1d2fbede',
     NOW(),
     NOW()
   ),
   (
-    '0fe80ea8-235c-40ef-af4f-dfe5f5126b5a',
+    '7f1e273e-efd3-4d04-bfdc-c3fe27991b76',
     'Northern Nambikuara: Mamainde',
     'dialect',
-    'f144649e-4d46-4a05-b856-c1dbf8bd1201',
+    '5fb82ed7-cbf6-40ea-869f-033c6aba9bc6',
     NOW(),
     NOW()
   ),
   (
-    'fc7ef3c9-2cdd-4d97-8b2d-bfc1ea46311d',
+    'd4f3f6d3-0454-4478-9c53-4fb9aa7fc70f',
     'Miao: Dushan',
     'dialect',
-    '6d99319c-17b5-48d7-9a1f-6c109cccec05',
+    '9bd80817-2ea6-4b55-8c90-eb37c313ae76',
     NOW(),
     NOW()
   ),
   (
-    'a1972285-c5cb-4551-8e83-bb086a4717ea',
+    'ef665362-c57e-483d-bd8b-a188b5851c5b',
     'Kumyk: Buinak',
     'dialect',
-    'bbc4029e-42db-47a0-9d63-fc9279518240',
+    'd297e117-4858-4deb-a4be-d622b461c667',
     NOW(),
     NOW()
   ),
   (
-    '70e36033-b86f-4875-95a4-a250dd4878f8',
+    '6d062c52-f2b3-4e75-a627-ff63b43cec7a',
     'Neethakani',
     'dialect',
-    '48b5382a-88ed-489e-a5e6-7dd5b5fb2e1b',
+    '4656514b-e373-4ffa-9d1f-9321216017e7',
     NOW(),
     NOW()
   ),
   (
-    '433fd304-48bc-44ec-a6ce-c676f67b266f',
+    'a49140f2-1637-4c7f-a4d5-c7668e7fd2a6',
     'Qiang, Southern: Dajishan',
     'dialect',
-    '2d6f6109-39bc-4ea8-80e2-79582f38cf0a',
+    '47f45062-92fb-4edd-9980-e8271eaad4ff',
     NOW(),
     NOW()
   ),
   (
-    'a827f05b-f90d-42bf-92b8-a0e09a24b6e6',
+    '986cb5b1-82a2-403a-8d0f-3ed5caea9df5',
     'Zhuang, Dai: Central Wenshan',
     'dialect',
-    '53fa50ba-cc5d-4034-8b80-086365a13666',
+    '38937293-296c-404a-b9c8-4b7eb0f617a8',
     NOW(),
     NOW()
   ),
   (
-    'd72200aa-e4a3-42da-b370-c2c4ef44d854',
+    '43e23e81-8385-4fac-a807-ab9346f89857',
     'Iyara: Ijumu',
     'dialect',
-    'ef5e4646-110d-41af-b838-93a443d8b1e3',
+    'd8fa109e-ac81-4670-810b-74124126164e',
     NOW(),
     NOW()
   ),
   (
-    'f544c1b1-413b-45f2-810f-c2c2892d72d9',
+    'e861f30e-46c5-47ba-bf2c-c8a609bcb4ca',
     'Italian: Pugliese',
     'dialect',
-    'e64aec95-8115-43f9-adc0-05745f932df2',
+    '26ea9432-3072-490d-bfc3-29bb3489241d',
     NOW(),
     NOW()
   ),
   (
-    '479f2553-a8e8-4f65-ad99-09b5d949b7d6',
+    '4b67a0c1-c34e-40f0-b453-b05e40b6cd1b',
     'Tagalog: Batangas',
     'dialect',
-    'f2fec2a0-d3ee-4473-b892-6e9f9263d148',
+    '1521db15-131d-4ba5-ad5d-54ed1d461b44',
     NOW(),
     NOW()
   ),
   (
-    '28663e30-548c-46b1-9ab1-2b3e0fa02d23',
+    '3a233443-9baf-49f0-9638-d8d3a2dfd0ec',
     'Sangu: Western',
     'dialect',
-    'cb0ad64a-c6f9-4664-8ed3-2da9e0f7950c',
+    '9dc875bc-b77a-483b-b83e-c2800ab690fd',
     NOW(),
     NOW()
   ),
   (
-    'd1f42292-1e04-4548-903a-a4d975bdde3d',
+    'c7a40019-aee1-4229-bf2d-2bbdffbb59c0',
     'Abkhaz: Abzhui',
     'dialect',
-    'a097cad1-638c-4528-9835-58ee8ac3f52b',
+    '02e8c2be-18f7-4a0c-976a-c82386885da8',
     NOW(),
     NOW()
   ),
   (
-    '74295372-2096-4b88-95d6-51eade0c1e4d',
+    '2a831ad1-bd2b-4b8c-960c-5ccacac1707a',
     'Mawchi: Gamti',
     'dialect',
-    'a12292f7-3a31-484e-8965-dee90ae663af',
+    '72ffa051-b31f-4e68-b42d-b069282ad967',
     NOW(),
     NOW()
   ),
   (
-    'd0e1ceee-565f-47b6-a271-e62793f3559c',
+    'ac8259ea-9a2e-49a3-b3a9-b2139af9ee63',
     'Bhili: Ranawat',
     'dialect',
-    '02ce4726-b228-4196-ab7c-c17736e040fd',
+    'f2d887d9-bb0c-4f9b-b2e7-d6c46efce363',
     NOW(),
     NOW()
   ),
   (
-    '69fba4bd-4486-4fcb-9570-d649d343db65',
+    'd9b093be-8e7c-4307-8c6e-595f1ba57fbf',
     'Pangseng: Jega',
     'dialect',
-    '586e95c3-9169-40f1-bffc-98f0b5ba4c27',
+    'b60822d5-1296-441e-a9c6-a08abca5a495',
     NOW(),
     NOW()
   ),
   (
-    '8804cb0a-069c-456d-9e3d-f90e8d2112fa',
+    '90bba50f-a2b1-4a59-8390-983eb7956db5',
     'Tehit: Srer',
     'dialect',
-    'd951faee-b62c-4aa4-9fa2-a3787140e973',
+    'df4d777a-d1cb-4ee9-9511-d3f729f36059',
     NOW(),
     NOW()
   ),
   (
-    'b1bb5b30-e3a2-4004-a5ee-cb856548630b',
+    'b1b055f3-1405-4cf0-aef8-1bb955aece42',
     'Tachelhit: Susiua',
     'dialect',
-    'b5e70b1c-a717-48ca-934a-326b702a8d23',
+    '6b6dbf26-5e79-4d89-b250-80cd23e3d320',
     NOW(),
     NOW()
   ),
   (
-    'a3b535e6-32e9-4c03-b039-858c80bce887',
+    '773f49e3-3f7a-4a50-a1ba-99b012a57e74',
     'Chiga: Runyakyeshero',
     'dialect',
-    '34715e08-47bc-4b28-96e3-ae12c3811c4a',
+    '3779a914-f837-45c8-b8e4-c2becb214971',
     NOW(),
     NOW()
   ),
   (
-    '38ae0b59-dd64-4409-aae3-2340527222c2',
+    '09f6d790-1132-457b-8f3f-3308a76c10cb',
     'Mongo-Nkundu: Lodke-Tulu',
     'dialect',
-    '52e0c565-7438-46a3-9c0d-f97b1a32778e',
+    'e882797b-4930-46cd-bbe8-0e010c676ea0',
     NOW(),
     NOW()
   ),
   (
-    'f2f15272-53fd-48f1-b013-4575843bc5f8',
+    '5deb4de2-6148-4ed9-b9ca-b2cfd0bef442',
     'Luba-Kasai: Lualua',
     'dialect',
-    '76eec367-de47-448c-a95c-d3a2e1ec0b59',
+    '026ee8c9-d08e-40aa-adbe-605d0c3ab45f',
     NOW(),
     NOW()
   ),
   (
-    'de74012d-db59-4876-b2dd-c43e28f70217',
+    'd781e1ca-ad62-4996-84f1-3b1289741580',
     'Abua: Central',
     'dialect',
-    '0cf2a42a-c947-48c3-a1ad-2e9bf66960dd',
+    '24115277-7f82-40ce-90fc-6bfb2179b3a7',
     NOW(),
     NOW()
   ),
   (
-    'e9f0bdf5-5b94-460a-8aaf-533f5c01f55f',
+    'c19f8f6a-ab86-44d6-85ab-ff5b337094ec',
     'Pamona: Tomoni',
     'dialect',
-    '25a07693-049e-4e3c-928b-ac1a6b7c80c3',
+    '02436536-74fd-4cb5-833e-82e9032e29de',
     NOW(),
     NOW()
   ),
   (
-    'b0aad1e7-a9a2-46a5-933a-5e06dd106af3',
+    '42d0add7-14d1-45f6-966b-71302a550c44',
     'Fulfulde, Nigerian: Sokoto',
     'dialect',
-    'd2949c37-3a4c-47e5-b49d-8281fd79b59e',
+    '6d113a90-262a-4ca9-8e11-33dd2ee941b5',
     NOW(),
     NOW()
   ),
   (
-    'fe6fc137-98f4-41f2-b79e-47388bb6739d',
+    '09b65325-f395-4efa-b330-fe4b2639bb86',
     'Tz''utujil: Eastern',
     'dialect',
-    'f84b6bac-dc39-4ed9-819f-886ed1b8dbcf',
+    '7aa7029e-d45c-4dca-a64b-d2fc8033a7d8',
     NOW(),
     NOW()
   ),
   (
-    'e3e7884e-2a1f-4911-a1dd-7c3bb9c716b5',
+    'e9e04221-184a-44e1-ab20-e91dcf94f33a',
     'Maithili: Central Colloquial',
     'dialect',
-    '9c600088-c803-449d-afef-4ce158c7dd5f',
+    '7fa81349-8fd8-41c5-937e-5dce1e392bae',
     NOW(),
     NOW()
   ),
   (
-    '67f651fa-c085-4bf2-ac46-900aa6876815',
+    '5208f47d-0336-4a93-9e0e-c4dff0096e5d',
     'Palawano, Brookes Point: South Palawano',
     'dialect',
-    'c383e9c6-a5c6-400e-9000-526b149101d4',
+    '3e89c96a-a4d5-4f0a-a089-1ed976a76287',
     NOW(),
     NOW()
   ),
   (
-    '48ccd22a-f8db-412b-9356-779e95674cb0',
+    '6bee9d78-ac47-426b-84b5-f6e4f13747d1',
     'Maguindanaon: Tau sa Laya',
     'dialect',
-    '43534b61-ab64-4ac6-ab80-455203250618',
+    '1a791226-6eb3-4647-b843-542cbed905ad',
     NOW(),
     NOW()
   ),
   (
-    'd36a5a31-8573-4b58-92cb-7542fea4569e',
+    '5bb55e21-9256-4f7d-af42-139fdaccfc3b',
     'Siri: Babba',
     'dialect',
-    '50c60f15-ecf6-4e1c-9054-a93372df8b1e',
+    '215da9c8-b840-4765-8d18-603da90fab40',
     NOW(),
     NOW()
   ),
   (
-    '25454f86-21b4-4658-b71b-79367f32de76',
+    '0d34feb6-dc8b-4658-ac9d-f0e4dc1e63d4',
     'Tohono O''odham: Akimel',
     'dialect',
-    '86d2cb19-b7d7-4f72-aecc-21e575b41495',
+    '94fe4993-ea19-49ad-86e3-c4a9a06125da',
     NOW(),
     NOW()
   ),
   (
-    '3935a56a-ba54-4e5d-b3dc-ed146a78efd7',
+    'b4aff9bf-9282-4e0e-8b9f-347efa08028f',
     'Tu: Mongghul',
     'dialect',
-    '45b81a1c-7ddc-4c72-8035-bf3e7b977454',
+    '309f4fac-4890-4550-9cad-395384bae388',
     NOW(),
     NOW()
   ),
   (
-    '10309c36-dedf-4682-bbff-5927f8e25ecc',
+    '299f9dbd-c94e-484b-b1bd-31cb382246b6',
     'Kazakh: China',
     'dialect',
-    '67d91010-31c5-43ea-8478-e15a4825ebee',
+    '52cdf4d5-c0d6-457f-a34a-e95b200c2f99',
     NOW(),
     NOW()
   ),
   (
-    '334a6405-203d-43b0-b1ce-4a4b722aa30d',
+    '4d512f6c-e56c-4e59-bddd-5bc34582618f',
     'Maltese: Rural West Maltese',
     'dialect',
-    '154709c4-19b5-44fc-aeba-9ee665ae422b',
+    '2a80e941-e4d9-42a4-a806-09a20e186b55',
     NOW(),
     NOW()
   )

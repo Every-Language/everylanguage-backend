@@ -3,6002 +3,6002 @@ INSERT INTO
   language_aliases (id, language_entity_id, alias_name, created_at)
 VALUES
   (
-    '59ca9761-66ff-43e7-b1b9-82749dbdd28a',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    'b7e1dc4a-1322-4ad9-9b4b-d225d9aade89',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Anangax',
     NOW()
   ),
   (
-    '557bc62b-776f-4f6e-a44d-ac071c179f08',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    'a4780986-dea3-4163-a1b6-1c9ad7fa523f',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Eastern Aleut',
     NOW()
   ),
   (
-    '8783f6b8-7e6c-4916-969c-38225c9980f6',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    'b5961138-2ac2-46bb-9c2e-9fbd9599f7ff',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Pribilof Aleut',
     NOW()
   ),
   (
-    'e71eff09-1a5b-486e-b479-ad75aabd330d',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    '48fef0d1-3981-490c-bb4e-a61c5152df80',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Unalaskan',
     NOW()
   ),
   (
-    'ceccdfde-e520-46fe-acda-d9323b00d63e',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    '48fb7adf-a31a-4a84-882e-4b6ce81c9e43',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Unangam tunnu',
     NOW()
   ),
   (
-    '24f7a80e-2f5c-4d59-b61f-4d3ca38d8fc6',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    'dc0bd86e-e225-4f64-955f-3c9803b0f7fe',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Unangax',
     NOW()
   ),
   (
-    'c45e025d-44f6-4491-8813-9935b8f24e25',
-    'ce8a7b89-b414-496e-ab96-fc55773e44c0',
+    'fd003a40-9124-438a-9287-7135546df507',
+    'b9fbf69a-895d-4fb6-adde-6df686920892',
     'Unangax tunuu',
     NOW()
   ),
   (
-    'a2e62671-de23-472e-862e-55ed93fa7149',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    'beb830f5-7d39-4e48-aa39-8be21bdef965',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Fort Yukon Gwich''in',
     NOW()
   ),
   (
-    '5f5c4c82-22de-4b4b-88bc-003f2eada1af',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    'f89882f3-2549-4ef4-a9e2-882f5fae06df',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Fort Yukon Kutchin',
     NOW()
   ),
   (
-    'a2f35ae5-c671-45c1-a4b0-59b2d9836b5e',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    '3e600801-88bb-4836-bd4e-3b2bc69ef641',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Gwich''in',
     NOW()
   ),
   (
-    '4e60f2fd-b6f0-4c5f-9b3e-5072c5f814c3',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    '67fd186d-ffb6-4afc-aeb8-fe576494bdc2',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Gwich´in',
     NOW()
   ),
   (
-    '76344cf2-4a3d-4bde-8e67-d1e33466d4c0',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    '97eaa391-de5a-4595-b53d-14d95e03dece',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Gwich''in: Fort Yukon Gwich''in',
     NOW()
   ),
   (
-    '8d456075-3c1b-4790-aabe-2899e6507d22',
-    'ac1ce515-e401-4315-91d0-d419f736e1fd',
+    'b4763f68-c3d1-49c9-b8de-3fee37b62ac1',
+    'bc812a70-b52f-401f-83c3-26484b95f80e',
     'Takudh',
     NOW()
   ),
   (
-    '074018c1-54cd-4767-901b-ca31ed6acf23',
-    '1b890b76-54f9-4f75-8afb-610422663ed8',
+    '6ba61101-88e0-4581-a1c3-12e705a85b50',
+    '478c02fc-84bf-4b88-aed0-ce37ca679f97',
     'Coast Tsimshian',
     NOW()
   ),
   (
-    '9ea5c193-0117-4835-87e6-28aa3d5458fe',
-    '1b890b76-54f9-4f75-8afb-610422663ed8',
+    '5744c782-bead-404e-803e-5b17e6ff9f12',
+    '478c02fc-84bf-4b88-aed0-ce37ca679f97',
     'Sm''algyax',
     NOW()
   ),
   (
-    'b1862273-d26e-4465-804b-30ba6b148a53',
-    '79ca384b-8dec-44eb-ad8e-6a20c857d5a1',
+    '0cbd6ddc-ddf9-431f-ab6b-d86c92fd7bb5',
+    'b39e0121-a257-4b21-9c56-9e137b4cee05',
     'Central Gourmanchema',
     NOW()
   ),
   (
-    '4011432b-7354-4f02-8ca6-bea63786272b',
-    '79ca384b-8dec-44eb-ad8e-6a20c857d5a1',
+    'a5db2c03-2df5-43ff-8605-26b2c050c724',
+    'b39e0121-a257-4b21-9c56-9e137b4cee05',
     'Gourmanchema',
     NOW()
   ),
   (
-    '253bc0f4-f4a8-415f-ab20-b924d1ebdecc',
-    '79ca384b-8dec-44eb-ad8e-6a20c857d5a1',
+    '92a0d378-ec57-438b-b36e-59bd29421f48',
+    'b39e0121-a257-4b21-9c56-9e137b4cee05',
     'Gourmanchéma',
     NOW()
   ),
   (
-    'd39ab516-42a6-4f12-857e-6b0ce3439385',
-    '79ca384b-8dec-44eb-ad8e-6a20c857d5a1',
+    '324d5b9f-a9fc-4fec-b2b0-529e25dbc740',
+    'b39e0121-a257-4b21-9c56-9e137b4cee05',
     'Gourmantche',
     NOW()
   ),
   (
-    '84276703-7a86-43a7-8e31-5051f4ea4a13',
-    'f9ccfa5f-83ba-434b-8d81-76cc1ca1a8e0',
+    'd64ed7af-d2c9-427e-825c-ac3f1eb0225e',
+    '3da9d5a2-4e2d-44da-a41a-d59c66b30f47',
     'Butembo',
     NOW()
   ),
   (
-    'dd51bc67-4b77-4c5b-939e-0b128a388d6d',
-    'f9ccfa5f-83ba-434b-8d81-76cc1ca1a8e0',
+    'a3dbc8f8-ca0f-4dff-b956-ddd069db1683',
+    '3da9d5a2-4e2d-44da-a41a-d59c66b30f47',
     'Kindandi',
     NOW()
   ),
   (
-    '9d40dab6-75ab-41fd-a292-9cdd378f1ca0',
-    'f9ccfa5f-83ba-434b-8d81-76cc1ca1a8e0',
+    '5953cff2-c3b0-4297-aceb-b61ee150b34f',
+    '3da9d5a2-4e2d-44da-a41a-d59c66b30f47',
     'Nandi: Butembo',
     NOW()
   ),
   (
-    '39de3d0c-f2fa-46f3-bc57-e12c3d053019',
-    'f9ccfa5f-83ba-434b-8d81-76cc1ca1a8e0',
+    '99b36f76-3366-4e39-9ada-d3e0aa2060cd',
+    '3da9d5a2-4e2d-44da-a41a-d59c66b30f47',
     'Ndandi',
     NOW()
   ),
   (
-    '1c83848d-b218-495c-a3c6-ba5d4f3350e0',
-    '17a9834c-7cc1-4f44-a0e0-a83fa3a01e5f',
+    '44366f95-a0ea-4a92-bda8-6fe8ede3bd4a',
+    '89a40dfe-47cd-4a24-b058-74f92b34e3ca',
     'Masana: West Masa: Yagwa',
     NOW()
   ),
   (
-    '59463ef7-4525-44fd-8d28-d4e808d1e2ac',
-    '17a9834c-7cc1-4f44-a0e0-a83fa3a01e5f',
+    'b640e393-829d-4b3b-81a8-7f59aafef35e',
+    '89a40dfe-47cd-4a24-b058-74f92b34e3ca',
     'Masana: Yagwa',
     NOW()
   ),
   (
-    '70571e1a-3845-4832-94aa-facdcb4f8341',
-    '17a9834c-7cc1-4f44-a0e0-a83fa3a01e5f',
+    '6187b818-7fa8-4a8a-b778-49e1f77d0116',
+    '89a40dfe-47cd-4a24-b058-74f92b34e3ca',
     'Masana: Yagwe',
     NOW()
   ),
   (
-    '10096cfb-b799-40d5-b8ee-0cf19f6bafef',
-    '17a9834c-7cc1-4f44-a0e0-a83fa3a01e5f',
+    '1f51dfb9-f92f-46ee-8bb3-9ded2081ebab',
+    '89a40dfe-47cd-4a24-b058-74f92b34e3ca',
     'Yagoua',
     NOW()
   ),
   (
-    'cff5cf9e-75ce-40c3-8b46-b0f826f2e892',
-    '17a9834c-7cc1-4f44-a0e0-a83fa3a01e5f',
+    '58c6df2c-9fc0-4a27-8bbb-2d85e6cdbe20',
+    '89a40dfe-47cd-4a24-b058-74f92b34e3ca',
     'Yagwa',
     NOW()
   ),
   (
-    '621e9bc3-590f-4090-aa44-28babb7755ad',
-    '93fcf14a-ab99-4b34-a7f6-0f5cfdaaffa5',
+    '5e2a6206-f82e-4c0b-8d28-c5074d284ca8',
+    'ece9cf9d-5523-491a-956c-a5e19b005e4d',
     'Jieeng',
     NOW()
   ),
   (
-    'eac5ec8c-4d62-4dcd-88c1-167bd145a826',
-    '93fcf14a-ab99-4b34-a7f6-0f5cfdaaffa5',
+    'b5578076-1f13-4f11-84dc-36e9c75d05ea',
+    'ece9cf9d-5523-491a-956c-a5e19b005e4d',
     'Jieng',
     NOW()
   ),
   (
-    'e228f750-334a-4e12-877e-14b529b6717c',
-    '93fcf14a-ab99-4b34-a7f6-0f5cfdaaffa5',
+    'cf9d07fc-1984-4c54-9b61-f3afdc73ccb3',
+    'ece9cf9d-5523-491a-956c-a5e19b005e4d',
     'Padang',
     NOW()
   ),
   (
-    '94c3c603-c0e8-4246-a12e-c7e2cbb2b5b9',
-    '93fcf14a-ab99-4b34-a7f6-0f5cfdaaffa5',
+    '5194356f-00dc-49e8-9fee-de28cc33d8aa',
+    'ece9cf9d-5523-491a-956c-a5e19b005e4d',
     'White Nile Dinka',
     NOW()
   ),
   (
-    '8aa966b6-a268-4031-8793-1e11dda00483',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '4a9eaacb-3377-48db-9517-24e1fcf51e02',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Malinka',
     NOW()
   ),
   (
-    'dae01165-1c2d-4dfb-bb3b-72d151103ca5',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '42a58e6e-80a5-43f4-b430-bf65c94d16fd',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Maninga',
     NOW()
   ),
   (
-    'bf16eecc-bf9e-4059-82e8-c1991e11e4bc',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '9832e1e7-6914-4e41-9513-af744adbac10',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Maninka',
     NOW()
   ),
   (
-    'e9a51655-ac15-4e8f-a3a6-b4e371f03396',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '65c99bc7-b618-4f45-95c7-73ee459874f7',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Maninkakan, Western',
     NOW()
   ),
   (
-    '8372d1af-910d-4145-9f66-6be23649d21c',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '1526047e-7388-4a01-9d7f-9d8129da43a6',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Maninka-Western',
     NOW()
   ),
   (
-    'd6f52cb0-b3bc-41d3-a944-853e494e456f',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '50d70e49-3f77-4440-802b-a8c74d7dcd77',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Meleke',
     NOW()
   ),
   (
-    '32fc5562-61aa-4677-99a5-ed8a76c64913',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    'dcaf839f-942c-4489-9647-760463ce1f77',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Meninka',
     NOW()
   ),
   (
-    'f9aecab1-b923-4a04-81d4-db3af940d2d7',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '57455e72-305b-4a29-87cf-83c7855f606d',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Northwestern Maninka',
     NOW()
   ),
   (
-    'c81d3a70-be8e-480e-bab3-bfc5eafaf960',
-    '7abc313c-5aae-45da-b042-b7c9696cd172',
+    '20351f3a-c796-4071-9fd8-8d5121cdafdc',
+    '9a884541-cda4-4976-85e2-59e3e6e74f76',
     'Western Malinke',
     NOW()
   ),
   (
-    '541a56b1-16fa-4695-9336-8bfab2a0d8ca',
-    '14ed861b-c696-4de0-9082-ce100eef199e',
+    '3a58fa6b-5ec8-4715-9634-4b916eb18514',
+    'e0016653-3677-4bf8-83d1-b19ffaf6660a',
     'Eastern Arctic Inuit',
     NOW()
   ),
   (
-    '661a8f07-65ed-4111-bffe-31400d0d1882',
-    '14ed861b-c696-4de0-9082-ce100eef199e',
+    '589414d5-74b1-49fa-8163-e47e621d036f',
+    'e0016653-3677-4bf8-83d1-b19ffaf6660a',
     'Inktitut, Eastern Canadian: Labrador',
     NOW()
   ),
   (
-    '7aa549e3-4d60-4216-b56b-24ac27a9fa24',
-    '14ed861b-c696-4de0-9082-ce100eef199e',
+    '40acbf8f-59c5-4bbc-9753-9453cb1c79df',
+    'e0016653-3677-4bf8-83d1-b19ffaf6660a',
     'Inuit, Eastern Canadian',
     NOW()
   ),
   (
-    'e4f6a6fa-f3a1-471c-9f19-9cf34327f13a',
-    '14ed861b-c696-4de0-9082-ce100eef199e',
+    '4fefa155-a643-400c-840d-f5b74d09995d',
+    'e0016653-3677-4bf8-83d1-b19ffaf6660a',
     'Labrador',
     NOW()
   ),
   (
-    '40964aab-1590-43aa-b691-b20d63b48ff0',
-    'f3956c14-43f2-412d-9e44-390024b64c8a',
+    '55ac5ac4-b2ad-4760-9a08-708e7c55a8e0',
+    'efcf2520-e309-4eff-bb22-8840c058548a',
     'Buende',
     NOW()
   ),
   (
-    '5b6763c5-0f6d-4871-9426-a4df1ebf6661',
-    'f3956c14-43f2-412d-9e44-390024b64c8a',
+    'c125ddf1-deb2-43db-b8ab-70534dedac09',
+    'efcf2520-e309-4eff-bb22-8840c058548a',
     'Congo',
     NOW()
   ),
   (
-    '08639c90-0119-4db0-ac2a-9803a9e2cdef',
-    'f3956c14-43f2-412d-9e44-390024b64c8a',
+    '0df0742a-91cf-45db-bc55-503db1965732',
+    'efcf2520-e309-4eff-bb22-8840c058548a',
     'Fioti',
     NOW()
   ),
   (
-    '6682dcf8-a740-4e59-84fd-4c6140030671',
-    'f3956c14-43f2-412d-9e44-390024b64c8a',
+    '306baba8-fd02-4cdc-953d-485f6bc1bd64',
+    'efcf2520-e309-4eff-bb22-8840c058548a',
     'Kikongo: Fioti',
     NOW()
   ),
   (
-    'e4de02db-8aca-4059-bd21-7836dff6cd9d',
-    'f3956c14-43f2-412d-9e44-390024b64c8a',
+    '357c68eb-1ac7-42f4-929e-51cf2355a451',
+    'efcf2520-e309-4eff-bb22-8840c058548a',
     'Kongo: West Kongo',
     NOW()
   ),
   (
-    '88476f05-22d3-4fea-930b-9246db1fb407',
-    '2d7528e2-0807-45e8-b9c8-f3f10a9c281a',
+    'e8208bab-7c67-4169-99b7-3ecd97e3db1d',
+    '9ac71ca6-3ea8-4805-bfe1-4aca42632fc2',
     'Assam',
     NOW()
   ),
   (
-    'fca81474-4ba4-4284-b89f-b71bf9b22d21',
-    '2d7528e2-0807-45e8-b9c8-f3f10a9c281a',
+    'fd1d75b5-a057-4446-914d-ed8c51210102',
+    '9ac71ca6-3ea8-4805-bfe1-4aca42632fc2',
     'Garrow',
     NOW()
   ),
   (
-    'f70df1ab-4809-452d-b7b0-44f497bbd2f0',
-    '2d7528e2-0807-45e8-b9c8-f3f10a9c281a',
+    '7371aa2f-34d1-46ea-9649-59281fda4833',
+    '9ac71ca6-3ea8-4805-bfe1-4aca42632fc2',
     'Mande',
     NOW()
   ),
   (
-    '488f3592-302e-413a-ad00-6e6d19dee4ce',
-    '2d7528e2-0807-45e8-b9c8-f3f10a9c281a',
+    'f5809e9a-ad44-4d7f-9266-187e368ee6c9',
+    '9ac71ca6-3ea8-4805-bfe1-4aca42632fc2',
     'गारो: आसाम',
     NOW()
   ),
   (
-    '46cc7360-a2f3-40f0-a435-d316e3e1b12f',
-    '6730d03e-e7aa-44b5-aa74-70f03ca1ae37',
+    '3d0c4717-ca85-4246-9bf3-880f754d7956',
+    'b68bb18c-3f73-41f9-9737-803f2a3cf795',
     'Krahn: Putu',
     NOW()
   ),
   (
-    'd25200c6-2543-4e25-b18f-63ae8a776120',
-    '6730d03e-e7aa-44b5-aa74-70f03ca1ae37',
+    'a1a16c53-a391-4082-9c57-6dbed8d12efb',
+    'b68bb18c-3f73-41f9-9737-803f2a3cf795',
     'Putu',
     NOW()
   ),
   (
-    '8181018b-43fd-49c1-9930-d86c51be09b9',
-    '6730d03e-e7aa-44b5-aa74-70f03ca1ae37',
+    '13f3f4c8-a4bb-42ae-bea1-12b245909069',
+    'b68bb18c-3f73-41f9-9737-803f2a3cf795',
     'Sapo: Putu',
     NOW()
   ),
   (
-    '82d8889e-f302-40bc-8e66-a7510af3b983',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    'c0855b95-092b-4bc5-85f7-ca6e0748c369',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Ava',
     NOW()
   ),
   (
-    '4acb01f9-ceeb-4024-89d3-88347220e5a8',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '372660d3-e004-49ae-a887-74214ad5f377',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Chiraguana',
     NOW()
   ),
   (
-    'd3838ced-d76c-455a-97fd-df3eabf49fcf',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '4ad9a03d-edbc-4707-a9eb-a5e1b600da4b',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Chiriguano',
     NOW()
   ),
   (
-    '8c1604cb-a9e4-48ff-a9fb-6ba2b9dace3a',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '49231fa7-2109-4027-b666-637a338184cc',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Eastern Bolivian Guarani',
     NOW()
   ),
   (
-    '7332ab01-03bd-4fea-a249-1cb47aee4bed',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '400e7d79-0fe9-4f55-a258-e97db6130935',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Eastern Bolivian Guaraní',
     NOW()
   ),
   (
-    '656099af-78d5-4003-9a04-9f0d6f605795',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '7253001d-fbe6-481a-b40d-fc6382c3569e',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani',
     NOW()
   ),
   (
-    'fd055cde-314d-44af-99b0-93788ea44611',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '904f0c1c-56f0-431c-899d-5bb420ae63e8',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani del Este',
     NOW()
   ),
   (
-    '13a7c2a7-8807-497e-8623-6f21e7449191',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '733878b2-88bc-4762-9cf7-2a81b67206ad',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani del este de Bolivia',
     NOW()
   ),
   (
-    '3becbcc4-147e-4998-b89b-aa0de4863d7a',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    'c2bcc77d-65a2-4a8b-a24e-fd06a3b3b688',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani, Eastern Bolivian',
     NOW()
   ),
   (
-    'de678f68-915c-4e31-8269-ff3eb9ef87f2',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '2bbdaf04-f054-4776-930f-0f2d9b52903a',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani Occidental',
     NOW()
   ),
   (
-    '9458c6c2-605c-4662-b999-ba75c4cf6519',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '48348676-e078-45ef-b6d8-4a0fbf7308ac',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guarani Pe',
     NOW()
   ),
   (
-    'baaa9a47-1408-43fa-be97-e1872fc211fc',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    'b867c39c-0aca-4ad4-b117-14a8677c37b7',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Guasurango',
     NOW()
   ),
   (
-    '3b5bb0bb-a6d6-4e6d-8634-4391d3b879e3',
-    '944599e7-6649-44cf-bfc5-91594ec16c78',
+    '587740e8-1d8c-42d6-afac-6bf79ad261ff',
+    'ea2392a6-b109-4024-9ae1-699f58b713b3',
     'Western Argentine Guarani',
     NOW()
   ),
   (
-    'e3d7cc13-7ee7-4eb4-8a13-00c0386080c6',
-    'ff79653d-8dbf-45b0-9f1b-a8e763a442bc',
+    'a0d5890a-c936-4a80-b6f1-bbd54c2a02f9',
+    '3afaeabb-cb25-4908-9949-9912650f4859',
     'Bannock',
     NOW()
   ),
   (
-    '5c764e2f-5ef1-460c-bc3c-b404304060ab',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    'c87d8b3c-aaff-4fcd-9ab7-472e24d386e5',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     'Chao Chow',
     NOW()
   ),
   (
-    '857bcc35-7324-472e-bdeb-0538ba2b8860',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    '7da8f6f8-2e80-4b65-b9f5-08ab688ba596',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     'Chinese, Min Nan: Chao-Shan',
     NOW()
   ),
   (
-    'b9f109a7-aac0-4930-a932-a9118ef0af35',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    'aa423335-9cfd-41e9-84f9-285ef7bf9c70',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     'Chinese, Min Nan: Teochew',
     NOW()
   ),
   (
-    'dff7755b-c7a7-4f29-9019-31517b1dac82',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    '8e23a114-5aac-4dbe-be4f-32c8a99fbe89',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     'Swatow',
     NOW()
   ),
   (
-    'ebf76db7-e7c9-4bd2-b639-fee45b39a64b',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    'c6abd05d-6998-4b17-90d4-c6c64057f8d3',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     'จีนแต้จิ๋ว',
     NOW()
   ),
   (
-    '2cacc896-dba4-4f82-8c76-89dca68afc9e',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    'e9067c30-7311-4809-9a92-48e9378ae998',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     '潮州話／潮汕話',
     NOW()
   ),
   (
-    '873ed9f0-0adc-47c6-9f36-67be3bcca511',
-    '81a9b309-7d6c-4aef-8465-855e94cc4562',
+    '143d60e6-2e4c-4e7c-bc94-8f71bdea819a',
+    '9044b9be-51ce-4262-aa13-bb3d75958728',
     '潮州话／潮汕话',
     NOW()
   ),
   (
-    'fc5b9016-5ccb-4890-821a-ed7ebd563d79',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    '6da6a058-014e-4bb8-90b4-ab5b7d72bae9',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Central Oromo',
     NOW()
   ),
   (
-    'edb6fbe2-56ad-4bad-a0c7-8ef184966d21',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    '381b3638-8192-4b46-9ab0-4f7f2456a28c',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Galla',
     NOW()
   ),
   (
-    'e98c4190-d192-4307-9d8e-0e59ce8112ac',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    '33d8c95e-0e53-41eb-b0f6-8d972e6e7702',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Gallinya: Wellega',
     NOW()
   ),
   (
-    'bfff2df7-157c-4b43-8dc8-cf804820c8a3',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    'b0d1493c-8fe2-43b8-938c-26d98c6262d3',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Mecha',
     NOW()
   ),
   (
-    'e3244f1b-3d2a-4449-8245-0ec3feb6e254',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    'f1c8634f-b94e-463b-816d-b44b7a83d458',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Oromo: Mecha',
     NOW()
   ),
   (
-    '99422d9c-664f-4001-9cf4-2eaa991cb929',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    'da582d64-f580-4066-b1e4-3c8bd3dd3328',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Oromo, Wellega-Central: Mecha',
     NOW()
   ),
   (
-    'f851663a-1327-42bd-a731-9c34d7023e77',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    '33d0f53d-ab05-4445-b0bd-83d5fcdcc0f1',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Wellega',
     NOW()
   ),
   (
-    'ef4371d4-49e6-4d8d-96ee-57abdd91e11c',
-    '5d9e71e9-ac04-49f1-a0ac-0d392d3c5074',
+    '579f9cd8-4e68-46a5-bcbb-48ea8e56190d',
+    '1a0203c4-c709-40be-9be1-e18840989b5a',
     'Western Oromo',
     NOW()
   ),
   (
-    '69125625-6140-40be-ac90-bd54faaeb25c',
-    'ffe00689-5cb5-4219-a637-90bd82bb6385',
+    '1aca7a13-5bd4-4f39-9683-34dfcf014ea9',
+    'cc35d267-59b5-4de1-94d7-195bf34f6fff',
     'Chin',
     NOW()
   ),
   (
-    'e332cbdb-9a4c-466e-8782-2ce5e55a30bd',
-    'ffe00689-5cb5-4219-a637-90bd82bb6385',
+    '6ac5720b-b94f-4d71-9c64-048142bc6b9e',
+    'cc35d267-59b5-4de1-94d7-195bf34f6fff',
     'Chin, Falam: Laizo',
     NOW()
   ),
   (
-    '9d1d87e7-943e-4607-b1ea-e82a31de1d2b',
-    'ffe00689-5cb5-4219-a637-90bd82bb6385',
+    '54be4154-5369-485e-97dd-1512466a2512',
+    'cc35d267-59b5-4de1-94d7-195bf34f6fff',
     'Laizo',
     NOW()
   ),
   (
-    '90ff1704-9665-418e-9861-61c94d92f747',
-    'ffe00689-5cb5-4219-a637-90bd82bb6385',
+    'b103aa67-c8e7-4f21-be71-616ba57d780e',
+    'cc35d267-59b5-4de1-94d7-195bf34f6fff',
     'Laizo Chin',
     NOW()
   ),
   (
-    'e77bee6f-1d74-46a0-863e-4936b3d49d5a',
-    'ffe00689-5cb5-4219-a637-90bd82bb6385',
+    '47041060-0f51-445f-bb13-3b189e05505c',
+    'cc35d267-59b5-4de1-94d7-195bf34f6fff',
     'लाइज़ो-चिन',
     NOW()
   ),
   (
-    '5bdaa62c-a297-4594-b098-044e1c0e48b6',
-    '21196031-443b-4a1f-9325-ab15eba05b9f',
+    '7a2e335a-fa6b-4c01-b19f-e9f1327b4e3a',
+    'eb055838-b3c1-4ad6-b2f3-42da5763576a',
     'Hocak',
     NOW()
   ),
   (
-    'a73214b9-012d-40da-b124-cbc0a50bb192',
-    '21196031-443b-4a1f-9325-ab15eba05b9f',
+    '60513b00-8bec-4709-b3dc-fe4a348ee59e',
+    'eb055838-b3c1-4ad6-b2f3-42da5763576a',
     'Winnebago',
     NOW()
   ),
   (
-    '93996d6d-ebc2-420b-9830-06dbd8668ea1',
-    '218fdc70-1b7d-4b36-8ecd-32eb92ad696c',
+    'b80eb3d3-a615-4192-a403-449179f7d027',
+    'd1679244-c564-472a-8115-b33165e8eeff',
     'Imandaya',
     NOW()
   ),
   (
-    '040e65dc-daa1-4a33-b1fe-be024ba8be8a',
-    '218fdc70-1b7d-4b36-8ecd-32eb92ad696c',
+    '890f482e-ae43-454e-b272-622ce089e729',
+    'd1679244-c564-472a-8115-b33165e8eeff',
     'Isnug: Apayao, Western',
     NOW()
   ),
   (
-    '7336fe03-612c-44fd-a07a-d351cdbe8eea',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '60b30a0c-0130-4d46-acd7-7a4038e6a133',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Dhegiha',
     NOW()
   ),
   (
-    '6d7fa5cd-b88d-423e-b047-d6fd834fb1e0',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '71498e9b-063b-47b0-b727-fc9cc5d1a87d',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Mahairi',
     NOW()
   ),
   (
-    '8c77d0e6-7b7f-4907-8d85-cb2f64280b33',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '73033b21-212f-499e-847f-27464a344bd4',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Omaha-Ponca',
     NOW()
   ),
   (
-    'c3cc4e90-1739-4a90-85bd-27ef56f1207c',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    'a06ef991-0ce6-45c3-b08a-6c7a7610ee2f',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Omaha-Ponca: Omaha',
     NOW()
   ),
   (
-    'ee6025ee-f92d-463d-9bc3-c2c299cf9023',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '794fe694-ff12-4c8b-bba9-6cd03667916d',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Ponka',
     NOW()
   ),
   (
-    'b266de4b-e361-4465-8bfb-ba65dcbbbc35',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '2f5e3293-6b48-42de-aef2-e06ac820766b',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Ppankka',
     NOW()
   ),
   (
-    '37220ba8-e212-4d3f-96bd-38e6131d76db',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '6651c842-bd2d-4107-9e63-ec26a5e5b6e6',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Thegiha',
     NOW()
   ),
   (
-    'a7ebab93-b9a6-428e-aa57-26d1cc9efad6',
-    'd5bdb299-8c28-4589-b699-1011d31c4011',
+    '38a74719-f545-46ea-8d41-426d2813d463',
+    '81e888fc-0265-4585-b3c4-6254090f359b',
     'Umanhan',
     NOW()
   ),
   (
-    '53633b91-52de-4973-b24f-bc527d4d008d',
-    '87aafa49-303b-4de4-95b6-cf730e985743',
+    '5f9c934f-fff5-494f-bfbf-882e1278afab',
+    '9977b2b2-74d7-496d-a064-958714904796',
     'Bassa',
     NOW()
   ),
   (
-    'ec5df755-6085-46f2-96f1-f25f3732069c',
-    '87aafa49-303b-4de4-95b6-cf730e985743',
+    '13191daa-2b79-43ef-a167-d9b76fe5a4c2',
+    '9977b2b2-74d7-496d-a064-958714904796',
     'Bassa: Liberia',
     NOW()
   ),
   (
-    '67d91632-4720-46bb-a437-c10b7c01b969',
-    '87aafa49-303b-4de4-95b6-cf730e985743',
+    '6e0fc4ac-2cf6-436b-ab9b-ee433c7ed5d8',
+    '9977b2b2-74d7-496d-a064-958714904796',
     'Central',
     NOW()
   ),
   (
-    'ab752742-6dea-4cb0-b62e-1e4c03e284bc',
-    'ca4259d8-b780-46df-a7ae-7adb1f677246',
+    '3c613cc0-1c77-416e-8b13-e0a02eff277d',
+    '41b4d0fe-2909-4119-b2d8-7f8fe336652f',
     'Klao',
     NOW()
   ),
   (
-    '27a87899-727d-4f57-9262-f0709edcd191',
-    'ca4259d8-b780-46df-a7ae-7adb1f677246',
+    'd1973e46-47a8-4aeb-abd5-e5e1fbd95878',
+    '41b4d0fe-2909-4119-b2d8-7f8fe336652f',
     'Kru',
     NOW()
   ),
   (
-    '5124ecc6-1c0a-4d55-b6f7-1873064072fe',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    '45e5ee4f-1be4-425b-8128-d41614129c37',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Isleta',
     NOW()
   ),
   (
-    '9d5b8d92-1725-495a-8881-ccd6e5336f0e',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    'ba9fc6f6-85a5-471c-9f97-890f178bf224',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Isleta Pueblo',
     NOW()
   ),
   (
-    '3703f7f6-e350-4bc1-8af3-14ac428b3d8c',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    'f46e75ec-a9df-436d-aaf3-9ac52f808e75',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Southern Tiwa',
     NOW()
   ),
   (
-    '5168a212-7294-4ab7-b7ec-9070404c9609',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    '56b6facd-a770-4051-9866-b4a917d374bd',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Tigua',
     NOW()
   ),
   (
-    'a7221518-2166-4f40-80a6-51bb06451558',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    '81196c47-7943-4824-8664-44b42141b598',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Tiwa: Isleta',
     NOW()
   ),
   (
-    '2d0d031c-ab53-44ee-a358-b1bc5936b507',
-    'e09fd4eb-3474-4432-a140-8b3e9b4b0668',
+    '1ef45487-4a6b-4190-942b-ac112525bf87',
+    '87e751b0-bc94-4503-8df5-6a81d8435b44',
     'Tiwa, Southern',
     NOW()
   ),
   (
-    'dbbf2c25-61b4-4a1f-8e65-e1665f1e0086',
-    'e21b36bc-2f69-474d-963c-e0ea7e6eedb7',
+    'ccd2f4ba-0447-4caf-8c42-38b69f799942',
+    '04a32d65-18d6-441e-ac08-b8f1072dce17',
     'Benguet',
     NOW()
   ),
   (
-    '7e6d9957-855c-43ef-8e8e-070ffa13d7d1',
-    'e21b36bc-2f69-474d-963c-e0ea7e6eedb7',
+    'f591a90b-4b9b-4de7-9fab-4ff3384396b3',
+    '04a32d65-18d6-441e-ac08-b8f1072dce17',
     'Kangkanaey: Benguet',
     NOW()
   ),
   (
-    '182d0d0f-483b-471f-a91b-f8bb122ce2b6',
-    'e21b36bc-2f69-474d-963c-e0ea7e6eedb7',
+    '7215327b-60a3-4556-bb08-7ddd4f2867c2',
+    '04a32d65-18d6-441e-ac08-b8f1072dce17',
     'Kangkanai: Benguet',
     NOW()
   ),
   (
-    '365c59a8-6f5e-4422-9095-7f35a20b3da0',
-    'e21b36bc-2f69-474d-963c-e0ea7e6eedb7',
+    '96a2beaf-f6f7-4640-a4d2-3595c1da25c9',
+    '04a32d65-18d6-441e-ac08-b8f1072dce17',
     'Kankanay',
     NOW()
   ),
   (
-    '988993f0-3d90-4c1c-b8c3-31e8061f92ce',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '2ad3789c-ccf7-4a82-a243-df155342d8c4',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawes',
     NOW()
   ),
   (
-    '698c0f9c-b68d-4e67-9ad2-97efc55dbc94',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    'd348b258-db66-4976-978b-a2c44d131121',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawes at Itawes: Rizal',
     NOW()
   ),
   (
-    'dd1732a7-0242-4b9b-8563-e285ea2d133a',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '856336cb-1f1a-4609-a3f3-95c0da7ddbbf',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawes & Itawes: Rizal',
     NOW()
   ),
   (
-    'ef0a7c95-4087-4fd9-8526-918e4e405316',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '1d2a5fb6-abf3-43ab-96bf-e3e127572090',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawes: Rizal',
     NOW()
   ),
   (
-    '8210daa1-91a4-4063-886d-923faa09a505',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '2ed4bafe-a2b1-4d23-a098-5d36709421d9',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawes Tuao',
     NOW()
   ),
   (
-    '0c4280c2-3915-42d4-84ec-bd935891cc8c',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '438ff990-3828-4fd3-8ec8-bd51cd794aed',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawis',
     NOW()
   ),
   (
-    '7afc55d7-3e6a-4ad8-b8e4-cd51699c8852',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    'f19dd5f2-4e09-4904-9486-81ea08f98076',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawit',
     NOW()
   ),
   (
-    '15a61cc2-06dc-4baa-8d9e-c49e13499434',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    '3978d196-aabd-4e30-a8ea-be5f601e8de2',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Itawit, Itawesi Tuao',
     NOW()
   ),
   (
-    'd33de614-c1c7-43c4-b691-08a45b2c4b07',
-    'f8580570-e826-4184-a93c-2766ba960ac0',
+    'dfc6dfce-1cac-4ba4-b499-777221bba91d',
+    '1cacfd70-7b55-4db6-b81a-5af85fea2c76',
     'Risal',
     NOW()
   ),
   (
-    '1eea82de-e967-422d-ab75-4b739555879a',
-    '25454f86-21b4-4658-b71b-79367f32de76',
+    '60fe9db7-5c04-4ce4-a2d9-afa33c41b3eb',
+    '0d34feb6-dc8b-4658-ac9d-f0e4dc1e63d4',
     'Akimel O''odham',
     NOW()
   ),
   (
-    'dbdeca4a-9106-46e8-bf20-29216b476cd7',
-    '25454f86-21b4-4658-b71b-79367f32de76',
+    '4ff54705-bc3c-4959-a7c9-a2927790ef26',
+    '0d34feb6-dc8b-4658-ac9d-f0e4dc1e63d4',
     'Papago-Pima',
     NOW()
   ),
   (
-    'd47209d2-67f1-4fd1-96d8-a5380fc93941',
-    '25454f86-21b4-4658-b71b-79367f32de76',
+    'c9627e19-642e-464c-b83e-2e4e9f39813c',
+    '0d34feb6-dc8b-4658-ac9d-f0e4dc1e63d4',
     'Pima',
     NOW()
   ),
   (
-    'b9329851-9bca-446d-a0de-aa4f57153258',
-    '25454f86-21b4-4658-b71b-79367f32de76',
+    '139b4265-9a5d-4f20-89f2-14e16ece602b',
+    '0d34feb6-dc8b-4658-ac9d-f0e4dc1e63d4',
     'Tohono O''odham: Akimel O''odham',
     NOW()
   ),
   (
-    '43c01f32-9ddd-492b-855f-8e6405e7a3ef',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    '5032d100-90e4-41d1-81b9-13dd91c2bbd6',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'Chin',
     NOW()
   ),
   (
-    '2a32da71-b7a9-4c41-a1bb-7dd999d45df0',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    'cd1bf7b8-6c5b-4f6c-a5ad-b6401430b4be',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'Zahnyiet',
     NOW()
   ),
   (
-    'e6d82b82-ee59-4b9b-9510-c84247c82d2c',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    '31a2171a-4833-48e6-a854-1bad2e84a701',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'Zanniat',
     NOW()
   ),
   (
-    '6f0f5255-0e18-4686-8340-f19f6559e6dd',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    '60dc598e-26e8-4609-8ac7-eabe4dba87db',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'Zanniat Chin',
     NOW()
   ),
   (
-    '0931cbd5-ebf6-4b3b-accb-9c931b487c1b',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    '155d84cd-4c35-46d9-b719-86057b7b1cd0',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'Zanniet',
     NOW()
   ),
   (
-    '63b23aeb-4049-4316-932b-2d204692d221',
-    '18d9d4f5-52ea-432d-b351-4bbe6dc17440',
+    'e587dbe8-db13-4d07-95cd-ad91b0b403a1',
+    '48e80ac1-8d47-4a3f-b1db-03e120b938a2',
     'चिन, फलम: ज़नियत',
     NOW()
   ),
   (
-    '01a746c3-ec8d-4b9a-8b15-dd9e601cdb71',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '22e84c8b-95b9-44ce-a5aa-f7c7e931c157',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Haw',
     NOW()
   ),
   (
-    'f994efb2-ec62-4aa1-8e67-a6dced22edaa',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    'd38164ee-e4c8-4772-97db-1accdd316763',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Ho',
     NOW()
   ),
   (
-    'f4b72b72-d238-4bcf-a400-b0fec773485f',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    'b7899cde-8b40-4eb0-9384-d9761e9ade14',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Mandarin Chinese: Yunnanese',
     NOW()
   ),
   (
-    'cbbdee23-bcc7-4d10-866e-bec316518dd8',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '68828ba3-1e3c-4621-bad1-3e4704c3fa2c',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Mandarin: Western',
     NOW()
   ),
   (
-    '7614ef0d-6dbd-43b9-a8b5-c0feed7f08fa',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '35e27ace-b565-4eed-9d3f-d9c76b4edf3e',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Western Mandarin',
     NOW()
   ),
   (
-    '1720ca4c-8193-4e3d-880a-430a49bf44e3',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    'ffc77ecc-9f61-4bbb-b29a-5d16768bb26f',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'Yunanese',
     NOW()
   ),
   (
-    'cf76b740-a983-4c99-bb70-a5af5dad0865',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '856b63ae-81e2-42de-87f2-b6ea90824089',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     'จีนยูนนาน',
     NOW()
   ),
   (
-    '0c16cbf9-137d-49b9-a34b-a446c9cb96bf',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '7412d2fc-4f32-4fe0-a8ef-c32584486130',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     '云南话',
     NOW()
   ),
   (
-    '98e17148-50c9-4272-8c46-e82eebb3c085',
-    '8a1b9fb2-0eab-426b-8fd2-3a5b26c10bc3',
+    '038026de-ce0d-4245-b085-4a1e0baf1f2e',
+    '983ad38a-6275-4536-bce4-4a63c1b5322e',
     '官話; 北方話',
     NOW()
   ),
   (
-    'a865bcf8-70e4-453a-8151-86bfced295af',
-    '497f2c2f-127d-4bfa-891d-aa3bce8de629',
+    '7cf76dbc-afa4-4792-ae21-65d1b1247c16',
+    '98c4367c-7f4f-435e-a2a2-020f31f2c475',
     'Mauchi Bhili',
     NOW()
   ),
   (
-    '195eaef8-4bbf-489b-abd2-a0cdbf6f37a0',
-    '497f2c2f-127d-4bfa-891d-aa3bce8de629',
+    '17ec7006-738e-484f-84fd-4a9445d49997',
+    '98c4367c-7f4f-435e-a2a2-020f31f2c475',
     'Mawchi',
     NOW()
   ),
   (
-    '9c45ea6d-b316-4aba-908d-3b61a5c11beb',
-    '497f2c2f-127d-4bfa-891d-aa3bce8de629',
+    '7a376892-78ab-4101-b46d-6ecc0449a5d7',
+    '98c4367c-7f4f-435e-a2a2-020f31f2c475',
     'Vasave',
     NOW()
   ),
   (
-    'e1bc798f-bd4d-455a-815c-269db616bf26',
-    '497f2c2f-127d-4bfa-891d-aa3bce8de629',
+    'd78c5faf-7a21-4eef-ac1a-690db4d5e024',
+    '98c4367c-7f4f-435e-a2a2-020f31f2c475',
     'भीली',
     NOW()
   ),
   (
-    '55eb4552-ec09-4130-8066-75b38a6f0900',
-    '497f2c2f-127d-4bfa-891d-aa3bce8de629',
+    '0ca24d83-27ef-4caa-90bc-1b6aac0a4d98',
+    '98c4367c-7f4f-435e-a2a2-020f31f2c475',
     'भीली: मौछी',
     NOW()
   ),
   (
-    'cc1cf161-0120-4f5e-b6a3-a530abdc3872',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    'aab80129-fe5c-4491-a5c5-5dd0f8c309f4',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Arapaho',
     NOW()
   ),
   (
-    '79f84d99-9570-4338-aa97-f990a45dd61a',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    '56acee4c-fd35-41f4-8328-73d31cee8264',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Arapahoe',
     NOW()
   ),
   (
-    'acf645ff-a950-4567-8c9a-c33e4ff20446',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    '6dd186f6-3709-4676-bf63-d1202a02a23f',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Arrapahoe',
     NOW()
   ),
   (
-    '818e2a03-4620-470c-ab08-66dc910129b2',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    '15c31fb8-9c47-4857-aec7-8c77273d32b2',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Hinono''eitiit',
     NOW()
   ),
   (
-    'a371dd24-e0af-459b-abd1-2e1c63fbf93d',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    'dcc72a1b-a49d-4f01-b7d1-cd70182751ab',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Hinóno''eitíít',
     NOW()
   ),
   (
-    'edd07ed1-1d3b-4859-8370-0c7592e2ea01',
-    'cc1cb978-c058-402e-8955-2e926570ba1a',
+    'dcd86698-ebf6-4fc5-85b9-f27005ff9c7a',
+    'c28dafd1-f147-4722-b1d5-63ebf1497f09',
     'Southern',
     NOW()
   ),
   (
-    '3288d399-436f-4149-b8a0-2d55b399ffbf',
-    'c62db4fe-985f-4e24-84ab-f26246476451',
+    '6985600e-7e2c-4f91-b4f9-320564a5634f',
+    '45c9932c-8717-4927-b12b-e5b06853c13e',
     'Silanganon',
     NOW()
   ),
   (
-    'f443fffd-3321-4eb8-a674-a6932675673c',
-    'c62db4fe-985f-4e24-84ab-f26246476451',
+    '512cbb31-fb85-40fd-88e4-51ff6462ed15',
+    '45c9932c-8717-4927-b12b-e5b06853c13e',
     'Tagbanua: Silanganon',
     NOW()
   ),
   (
-    '84cc7b1d-7b4d-4f1a-9aa0-eb5ae855d374',
-    'c62db4fe-985f-4e24-84ab-f26246476451',
+    'e5cd5033-51a9-4b6d-b634-2f36d51212ee',
+    '45c9932c-8717-4927-b12b-e5b06853c13e',
     'Tagbanwa: Silangang bahagi',
     NOW()
   ),
   (
-    'bd08ea39-2157-4196-9e7f-c1d13e3904a3',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    '611d5942-17f4-45c2-b1cc-ef6ff584b802',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Ilanon',
     NOW()
   ),
   (
-    '03937125-57e8-47a6-9faa-1ee93c7d9369',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    'df326a33-7ef8-4d60-bc03-bcae9ca5c0f2',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Ilanum',
     NOW()
   ),
   (
-    '979d9d1e-d2bf-4876-aa68-26f3dd951c0e',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    '28b374bd-e01b-438b-ad01-9ad892faa117',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Illanon',
     NOW()
   ),
   (
-    'd3a55b08-8ba7-42af-b003-fe3aea9a8064',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    '48bfe843-0ceb-4f8b-b7a8-24b72eed22a1',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Iranon',
     NOW()
   ),
   (
-    '026afd1d-3bab-41d6-bc70-ca71c396b82e',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    'a6882a65-c9b1-42d1-b808-4baaa4df1193',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Iranun',
     NOW()
   ),
   (
-    '5abfb006-b2d7-4cb5-8851-4f2bf075d891',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    'f605612d-52f8-4cc3-bf92-c45e53336529',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Lanao',
     NOW()
   ),
   (
-    'f9b5e0f0-4b55-4ef4-8b13-8aabdc6a03fa',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    'd0dd9b3e-0033-40d1-8aa3-0ed5e314bcc3',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Maguindanaon: Ilanon',
     NOW()
   ),
   (
-    '0790b67a-39f6-4ebc-93a8-09df17fc0e2b',
-    '12e360ba-9171-40e6-a2df-19c1fffe8466',
+    'f537349a-2ad6-4923-8df9-2a7fa276bcc5',
+    '2c70bc05-36dc-4232-9bb2-09ad5c0eaf41',
     'Moro of Lanao',
     NOW()
   ),
   (
-    'c518d4ef-3607-4073-93f7-b54bca752332',
-    '2612aeb3-1bc4-43c1-b498-0f20f42bfce4',
+    '28c4f685-9045-47eb-b6fb-f2b4859e102e',
+    'df042bba-0f59-4eda-9d8e-49efd06ea6c3',
     'Isamal',
     NOW()
   ),
   (
-    '58b07278-d29b-4c2f-ad8a-70a166e46bae',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '158f6ac0-6029-4458-92c1-1f47e523853d',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Badjaw',
     NOW()
   ),
   (
-    'bd52bcb8-0d35-4e14-994a-2527e56341d9',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '022b2399-84e6-487d-ba3b-ee09611f0b4d',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Bajau Pela''u',
     NOW()
   ),
   (
-    'ac349294-446b-4463-a8ba-6553835dcabd',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'cdf625fe-85e5-438d-a320-dbbc44d6cd0d',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Central Sama',
     NOW()
   ),
   (
-    '7ae11756-1700-4487-84d1-8c2616574562',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'fb39d3ea-44f8-48f7-af3d-e2088ffa3170',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Central Sinama',
     NOW()
   ),
   (
-    '4ff85b8f-7171-465d-8644-920a1cfb67a7',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '84efd78a-b74a-4e79-ada5-f0f5023e2515',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Orang Laut',
     NOW()
   ),
   (
-    'cc5e4be7-0397-4ea3-a6c1-7c1446f8ca2c',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '56db6c9d-890e-49bd-b83d-03f2e9df02d0',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama',
     NOW()
   ),
   (
-    '534887eb-3a78-447d-b4f5-e0980e8e4716',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '10f67d98-77ca-44e3-ad73-0a85032969e7',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama, Central',
     NOW()
   ),
   (
-    '58c11f3e-c0b7-497c-91fe-bb58be2794be',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '89c5e2b4-be7f-4101-b082-c6872fc96a30',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Dilaut',
     NOW()
   ),
   (
-    'f7de5ec6-8688-4d45-8cc3-69223ccc28a6',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '4d1f4757-7736-4b2f-9966-4c74ec786443',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Kabinga''an',
     NOW()
   ),
   (
-    '5cd3dfc2-a4b0-4582-b8d6-c5a1cfc014eb',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'd2710358-8215-4ee7-93fb-73f79547578f',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Samal',
     NOW()
   ),
   (
-    'e4179f74-c4e3-443a-8267-9dc75acfaddc',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '75549faa-c2a4-4bdf-8c3a-1ee202eaacef',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Samal: Sulu',
     NOW()
   ),
   (
-    '2920e764-6887-48bb-9ca6-e174dcaa77ae',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'a991b21a-7f04-49ee-bd66-608471564e10',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Mandelaut',
     NOW()
   ),
   (
-    'd03c94f8-e7e5-41d9-958c-17cace3423bf',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '4ccb54b3-429f-4fee-91f9-faffe974424c',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Pala''u',
     NOW()
   ),
   (
-    '88494d61-742a-49cc-97a1-6ac7041eec49',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'b40c15af-db81-4aa0-b7f9-3e72abbec053',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Siasi',
     NOW()
   ),
   (
-    'fffdf062-8c6c-4564-a73f-1d66bdae9bda',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'ea3d7fd8-f4be-400e-8f1e-ce93c7579526',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama, Siasi',
     NOW()
   ),
   (
-    'd3d81d44-7e3e-4572-9287-0461b4d2b4aa',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '8c94f7f1-bf55-4a3e-a803-29f97b1890e6',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Sitangkai',
     NOW()
   ),
   (
-    'fbc065e5-4630-4176-a570-c50e036b4bc9',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '1b94498f-dc6f-41fd-8f20-7a7054ad25c6',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sama Ubian',
     NOW()
   ),
   (
-    'd1616cd0-d402-4065-9a0a-fef8502356f6',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    'd37ec966-b348-42bd-907f-c4d19853cb30',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Siasi Sama',
     NOW()
   ),
   (
-    'fe0fffcd-7897-4757-b996-87318a3602dd',
-    'ed2f5968-8886-40d6-a23e-2d01851deb6f',
+    '8dabfe29-1433-4813-9fa3-d7d5af4700ce',
+    '2ab73a4f-d59a-49cd-ba5b-7062674d0529',
     'Sinama',
     NOW()
   ),
   (
-    'fc3bb60f-361f-40ce-ab1b-8e6bd8f7489c',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    'a219108a-c530-4f16-b787-3971a749b78b',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Blowo',
     NOW()
   ),
   (
-    'f1d5fd31-da90-4c1f-8f39-7fe0f03559e2',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    '759b2202-c295-4015-a84c-bf77e68ef82f',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Da',
     NOW()
   ),
   (
-    '5f68df60-1bb3-4cfc-bce9-4e686e5268dd',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    '1e8025f4-cd00-4fc3-be7d-c706ce3466e8',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Dan',
     NOW()
   ),
   (
-    '9b44bbf3-4b90-411f-940e-527c4690d986',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    'd7d8734c-b4c4-4a32-88d3-818c32eea3eb',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Gio-Dan',
     NOW()
   ),
   (
-    '51b45387-8d11-445b-9926-d836d3db55aa',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    'b2447e89-f52a-42a9-a614-bf312c4078c8',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Gyo',
     NOW()
   ),
   (
-    '8e107b8e-429f-4cec-9d86-ad5b9a123bdd',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    'a9a32258-74f9-463a-a93c-c89426cfb07b',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Yacouba',
     NOW()
   ),
   (
-    'cb1c7435-d7a5-449e-aeee-4c1612a6ac6f',
-    'e66b92ec-e84f-4d78-a6ec-3cdf473e2230',
+    'a500a224-48ca-426b-9b79-ccb57dd14ffe',
+    '7363a68b-13b1-45ab-a446-f96ff7bee295',
     'Yakuba',
     NOW()
   ),
   (
-    '22713e20-7aa9-442b-a61d-1502255b93a2',
-    'e1670eab-eb7b-4d42-841c-e0b4169f74cb',
+    'd4ab0739-1f03-4a8a-b311-e0a3cfc79ef9',
+    '09561384-5b84-42b8-b205-5053fcbbf01f',
     'Eastern',
     NOW()
   ),
   (
-    'adabc7dc-f40d-42fd-bc07-e4986f663239',
-    'e1670eab-eb7b-4d42-841c-e0b4169f74cb',
+    'adc52267-b62c-4f42-b10a-701b73266f99',
+    '09561384-5b84-42b8-b205-5053fcbbf01f',
     'Maranao: Silangang bahagi',
     NOW()
   ),
   (
-    'bc6320c7-aad0-43b5-9217-9ec190cb1825',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'ba41a77f-bd82-4ceb-b5d0-b7a1475abeb1',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Afan Mao',
     NOW()
   ),
   (
-    'cde9fc0a-a887-4a0f-93e1-f7c88ddc960e',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'bd1aa410-3634-4adb-bc9b-65c1eebf0508',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Amam',
     NOW()
   ),
   (
-    'b0039626-73b5-4f88-bdda-ebe1c5997825',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    '86141d80-e26c-4147-b07a-9ef7b564e50c',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Gogwama',
     NOW()
   ),
   (
-    '17f8eba6-056c-4e74-a6ef-675486e3b5d6',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    '023d9a5d-d218-46db-9e69-a0a07b5ad12c',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Goma',
     NOW()
   ),
   (
-    '5a65efcb-1c88-4d51-8957-b4e1a78f4ffe',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'd45540c1-e988-4e85-a537-f25bb62f7204',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Koma of Asosa',
     NOW()
   ),
   (
-    'b45972a0-26ac-4e86-9bf7-2a245bd77f2e',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'cce5eef6-91b3-425c-a3eb-b813335cf274',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Kwama',
     NOW()
   ),
   (
-    '36f28f65-82c2-438b-923b-650e7427cd2f',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'a7c71df3-2b9b-4b71-8481-2181c8857652',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Nokanoka',
     NOW()
   ),
   (
-    '03790f2b-24c0-4ad8-8c47-d65bffc705f4',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    '2967b7ca-5e66-4f1c-8407-b3261dcd8d90',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'North Koma',
     NOW()
   ),
   (
-    'c600fd25-db97-440c-b19a-0ab3819d8237',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    'b35c3a0b-daf6-4849-b351-5bf31070dbf2',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'Takwama',
     NOW()
   ),
   (
-    '510cdcf4-511f-4e99-99fa-ad2b31bc5529',
-    '5b3f6dad-4b49-4c7d-888a-1cf8f278f567',
+    '93c9bc66-5c23-4ca8-bc2b-90510b0a0a95',
+    'a92f3a47-f7e0-4eb9-a94e-6a437295cd3e',
     'T''wa Kwama',
     NOW()
   ),
   (
-    'dab05dd3-85a7-4ff4-b84c-14de9c9a3b48',
-    '45b1eee1-950f-4bf5-9e88-bc2b487490e8',
+    'a6527080-8d58-460d-9501-f62fe76dc07a',
+    'ca3b980d-6ddf-4618-9404-43646cef8af2',
     'Chiehn',
     NOW()
   ),
   (
-    '02e8d151-0270-4048-8439-14b898c2c074',
-    '45b1eee1-950f-4bf5-9e88-bc2b487490e8',
+    '00d608c1-49e5-49b5-a33e-c11c98c89efa',
+    'ca3b980d-6ddf-4618-9404-43646cef8af2',
     'Krahn: Tchien',
     NOW()
   ),
   (
-    '63ac152a-93a9-4fee-a611-5d5695d718c5',
-    '45b1eee1-950f-4bf5-9e88-bc2b487490e8',
+    'd1e87ad0-7842-486c-b5f3-23d45fe4ab51',
+    'ca3b980d-6ddf-4618-9404-43646cef8af2',
     'Tchien',
     NOW()
   ),
   (
-    '7c879146-8427-427d-95a3-1461fd51fc03',
-    'd04e435a-08bc-43b2-b4ff-c6089d2cb9f5',
+    '2378f8c0-17ea-4f6b-986a-f8a01d99182e',
+    '24d794d0-809f-4f31-bc4d-43d99f816126',
     'Glaro-Twabo',
     NOW()
   ),
   (
-    '5c39aff8-f6d6-49ce-a51a-d47f5c8d0b96',
-    'd04e435a-08bc-43b2-b4ff-c6089d2cb9f5',
+    '3e3bd151-f71f-4422-8fa2-088b90c7b9d7',
+    '24d794d0-809f-4f31-bc4d-43d99f816126',
     'Twabo',
     NOW()
   ),
   (
-    '49c5f6bf-8626-4435-9d0d-bd60f35f4df3',
-    'd04e435a-08bc-43b2-b4ff-c6089d2cb9f5',
+    '3b7f43d0-0d68-4d99-a5c4-dee77fc04a10',
+    '24d794d0-809f-4f31-bc4d-43d99f816126',
     'Twarbo',
     NOW()
   ),
   (
-    '41f5e653-dc41-4101-bf05-64a1dc3d6510',
-    'd1d9b8b2-349e-4a6f-97d6-85668b855c7b',
+    '68b2982c-5abb-402c-9cf1-1189d171c574',
+    '3ffac520-fa92-4f1a-bf08-bd1b65590558',
     'Darjeeling',
     NOW()
   ),
   (
-    'a661e04b-7a36-40b3-ab38-64767017e906',
-    'd1d9b8b2-349e-4a6f-97d6-85668b855c7b',
+    '6da359ca-dda0-43fa-8b75-30fd1a841cf2',
+    '3ffac520-fa92-4f1a-bf08-bd1b65590558',
     'Eastern Pahari',
     NOW()
   ),
   (
-    '7f91c6a5-b86c-4133-86a2-d6d97481ce62',
-    'd1d9b8b2-349e-4a6f-97d6-85668b855c7b',
+    '766fece4-e20e-40d0-89b9-ae0cd03ff9f5',
+    '3ffac520-fa92-4f1a-bf08-bd1b65590558',
     'Gorkhali',
     NOW()
   ),
   (
-    'd7e8a018-c5aa-47ad-88f0-db6089c76ea8',
-    'd1d9b8b2-349e-4a6f-97d6-85668b855c7b',
+    'f13bc7fa-015e-49df-b813-966738c644ed',
+    '3ffac520-fa92-4f1a-bf08-bd1b65590558',
     'Khas',
     NOW()
   ),
   (
-    'd8e5d1ac-9390-4d61-8900-bfaee9606e7e',
-    'd1d9b8b2-349e-4a6f-97d6-85668b855c7b',
+    '5ba7123e-aa36-4196-b83f-e8eb2ccc8c71',
+    '3ffac520-fa92-4f1a-bf08-bd1b65590558',
     'नेपाली',
     NOW()
   ),
   (
-    '58be4545-dc38-4001-9ee3-4201ff9cc94c',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '7284b163-c8cd-4877-8e0e-61a7d08950e4',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Fulacunda',
     NOW()
   ),
   (
-    '939289e5-713f-4b02-9cc6-c03ff6b04528',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '68f0ce1a-69b0-40d6-bb52-52db588a75df',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Fula: Kunda',
     NOW()
   ),
   (
-    'ead4c8b6-3f23-4de4-926d-63917505c039',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '2e96e556-a168-4426-a0a0-e2a11a28a53b',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Fulkunda',
     NOW()
   ),
   (
-    '2c77f2da-2c87-4302-8f9c-ea64d56a823d',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '0e61ff9c-1cdb-449b-874a-01eac78fdc5f',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Peul',
     NOW()
   ),
   (
-    'c04bc265-d2da-477c-8e75-05261ab1c038',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '68dbf6bb-b2ab-416c-bcbb-4f7087d0c68b',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Pouhl',
     NOW()
   ),
   (
-    'd3f6253b-ac81-4e21-a9af-23be7d45d73f',
-    'abc9f2bb-623b-4082-bf20-b4bff32e4c84',
+    '0cd3c1ab-1c3e-43ea-a801-8c6b9e61ce01',
+    '1ae33c90-0936-4d30-a2c3-c802409b517b',
     'Pulaar',
     NOW()
   ),
   (
-    '2f530569-20c5-443f-a660-4ab1b37540ee',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    'ba5d8acb-8f11-4f5e-af44-b4f0c35604ff',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Havasupai',
     NOW()
   ),
   (
-    '3f22b293-b6b6-4900-93ec-b7477c08c69e',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '233718f2-8a65-49c1-a095-aba50792c56a',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Havasupai Walapai',
     NOW()
   ),
   (
-    'c7f070f6-e24f-49aa-a3f4-6e0ad5e798d0',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '0d5c9c21-5eb3-4d12-9d95-04507349dfb7',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Havasupai-Walapai-Yavapai: Walapai',
     NOW()
   ),
   (
-    'f8554bd6-be59-4d82-aff3-bab18ed61ce7',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '52d24da7-fc36-4ba0-a0d3-88c7c2491817',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Hualapai',
     NOW()
   ),
   (
-    '29bf8186-279a-4e5d-8ea7-a8c7e0264bb1',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '5675af11-529e-432a-8cb6-167b5d10e125',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Hualpai',
     NOW()
   ),
   (
-    '0cbf1ad4-5e3a-40cb-9935-1f2ac92f6df3',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    'c285108b-ee5a-4a19-a632-4f675d3ea83c',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Hwalba¡y',
     NOW()
   ),
   (
-    '816ebb76-b942-4590-81d9-9da0d7d3ef80',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '45cd2350-2648-4da4-93a2-10d1de27d6af',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Hwalbay',
     NOW()
   ),
   (
-    'd0f90714-5193-4a94-ac57-79f0ee61eac1',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    'd2f92ece-4dcd-4fcb-8ea6-3b189db83ad5',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Hwalbã¡y',
     NOW()
   ),
   (
-    '24b6d68a-d0b8-469b-90bc-f47de5725665',
-    'e317fdbd-3b91-4974-b1a1-87b4915f7594',
+    '4937dedd-1b22-4728-aaa3-d08c96d0f824',
+    'b9a906df-a7c0-4089-8d3e-56445446c1aa',
     'Pai',
     NOW()
   ),
   (
-    'fb866be5-58e7-47e1-8673-be92d108e1db',
-    'aeee86af-728f-45f1-ad52-884808a307da',
+    'a2e37a69-feb0-4480-b719-f6589e7fa874',
+    '021094b5-a237-4794-b4ff-68512b08cae3',
     'Havasupai-Walapai-Yavapai: Havasupai',
     NOW()
   ),
   (
-    '159c3da9-db1e-407b-be47-dc52a6185f63',
-    'aeee86af-728f-45f1-ad52-884808a307da',
+    'b3fda445-7528-433e-9ac8-a4f55780ee81',
+    '021094b5-a237-4794-b4ff-68512b08cae3',
     'Pai',
     NOW()
   ),
   (
-    '7ed7c202-4d7e-4e01-a6ed-874b084f5b42',
-    'aeee86af-728f-45f1-ad52-884808a307da',
+    'c416d0af-da80-493e-b9fb-aefb389e7fcc',
+    '021094b5-a237-4794-b4ff-68512b08cae3',
     'Upland Yuman',
     NOW()
   ),
   (
-    '06230cb8-d0bc-4d32-a17f-a2b658071db3',
-    'aeee86af-728f-45f1-ad52-884808a307da',
+    'ab923c23-d5d0-44dc-a024-183f52d3da0a',
+    '021094b5-a237-4794-b4ff-68512b08cae3',
     'Upper Colorado River Yuman',
     NOW()
   ),
   (
-    'a1ee2da4-1493-48dd-8535-fcfbe1c79b05',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '9704953c-be12-489c-b3de-865cbd9a9e24',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Cheva',
     NOW()
   ),
   (
-    'f7df10d1-e3ce-415d-b6ce-06e20d770b7f',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    'eb0cb3a7-6c62-461a-af58-5c9457d87b53',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Chewa',
     NOW()
   ),
   (
-    '0287156c-cc95-4f7d-b408-f0ec33be58ec',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '5990f6e5-4348-44bf-8e81-fd68492d02ad',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Chichewa',
     NOW()
   ),
   (
-    '22ffd12a-ee5b-4240-a873-a1d9d7e995f3',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '93079b24-ca6c-4982-b420-1d99ae24b96a',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Chinyanja',
     NOW()
   ),
   (
-    'bb4f4f8c-5f38-4f1a-a4bd-e042a8b9ac03',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    'cb63b90d-199b-42a1-85f8-4d65d1c2e73d',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Chipeta',
     NOW()
   ),
   (
-    '3b7d8986-7201-41db-823a-cf5f74b09b1c',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '8450c70e-0fb4-4c17-9e84-9e333b5bcdec',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Cichewa',
     NOW()
   ),
   (
-    'f3f952aa-4930-4f11-9191-66eb61cbc944',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '4f8f6135-41b2-4539-89c7-3b5b5be4fa30',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Cinyanja',
     NOW()
   ),
   (
-    '49d88054-9a6c-49b1-b46a-eac5a57087aa',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '98498cb5-4a28-42ae-bda3-d69aa40a79d9',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Nyanja',
     NOW()
   ),
   (
-    'a93ee22b-f3e0-4f43-b305-e08b55274f4c',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '90362ed0-dc44-4bc3-bd7f-2d69f867ae6e',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Nyanja: Chewa',
     NOW()
   ),
   (
-    'fc8c34a4-e27c-4579-abd9-bb3976a678b5',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '62b062eb-79a2-4218-8162-3ef05c8c23ed',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Nyasa',
     NOW()
   ),
   (
-    'b44fb4c2-43bc-4e22-b3f8-76ba038d6567',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '223a7a5a-9bec-4e82-be86-da801104c120',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Peta',
     NOW()
   ),
   (
-    '1f160f4f-3280-478a-8741-b9f19ae52e91',
-    '25267c5c-8f4d-476b-9687-e5a13059d00c',
+    '2d4b4bc7-2713-49a9-b6f4-2fe74ba51d0f',
+    'dfe54c94-c560-4775-9f71-99afda9a2cce',
     'Sheva',
     NOW()
   ),
   (
-    'd069a06e-91bf-422d-be5b-033f4acb2d7d',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '7d2b802e-68cf-40bb-9745-b2c62e1ee8ae',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Karen, Pa''o',
     NOW()
   ),
   (
-    '382408b0-8020-44ba-8b8c-9a7e67f5ccc9',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '173cca04-a6da-4c28-bf2f-34ff5c97d018',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Karen, Pa''o: Southern',
     NOW()
   ),
   (
-    'e7a8dc39-5b94-4541-818e-72442399b142',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    'eebc4fe8-ff00-49a8-80ff-d8a9cc1d4bbc',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa''o',
     NOW()
   ),
   (
-    'e75b5bd2-ccbf-4c2b-876f-f61aa88660a7',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    'b7a0ccc8-ab48-464f-a3f7-80d22a234b94',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa-o',
     NOW()
   ),
   (
-    'fc7366fc-5953-4ee7-ac9d-31ec49957ce2',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '7edde1ac-9464-400e-84ef-2a190cb09c50',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa-oh',
     NOW()
   ),
   (
-    'abe45b8f-a6f0-4892-a564-6dfc11d2df0e',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '55b6854a-e534-44f9-8690-61e936f00713',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Paoh',
     NOW()
   ),
   (
-    'f7d99dc4-b671-40d1-929a-5e5fbcc86f4d',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '95cacb99-f6f3-48c9-b030-db31cb965b86',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa-oh: Southern',
     NOW()
   ),
   (
-    'bc44f201-06b5-47af-865c-68d87af3a14e',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '56057249-18d6-4094-88ce-7571a72a75c3',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa''o Karen',
     NOW()
   ),
   (
-    '7e515e46-211b-4082-bed9-f0aedbc265be',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '729c400d-6462-4a1d-a09d-b9554a6abab4',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Pa-u',
     NOW()
   ),
   (
-    '3e855564-d4b6-4ed1-b3c5-68edb10b08ab',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    'ad3db207-3918-4042-aa07-e7692f227b54',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Southern Pa''o',
     NOW()
   ),
   (
-    'b109290b-4e9a-49b4-9fdd-bef4a181113c',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    'd212cd4c-e81e-42cd-9f6a-0b2c82ec619d',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'Taungthu',
     NOW()
   ),
   (
-    'db37d5ae-69b9-4495-afa9-717a035ca078',
-    '1341c865-fa3b-4277-bc42-d457e529e47b',
+    '434aef36-1934-4fdf-89a0-653f9bdc4a79',
+    '31fc3ddc-e560-45ff-9905-917fc1f59129',
     'กะเหรี่ยงปะโอ ใต้',
     NOW()
   ),
   (
-    '724c2b4d-21f2-4d06-825b-65ebe9445390',
-    '475c7f52-aeff-4f0d-b30d-de7faf417bb6',
+    'f24c6726-5981-40da-a8b1-7bb67c8947ad',
+    '9d8aa9e4-0830-4776-b435-3b3099a98106',
     'Bikolano',
     NOW()
   ),
   (
-    'b45e1596-7c93-435e-ba7f-c83925aff402',
-    '5be2c415-c513-4b9e-a0f4-cb248646fc30',
+    '6d440ad0-6f0a-4db0-8529-2b850af0982d',
+    'd009a62c-a6b4-4291-9486-d463bcd47e07',
     'Apache, Western: San Carlos',
     NOW()
   ),
   (
-    '7c19f55a-acdf-4c3a-9e20-1866091c2fc3',
-    '5be2c415-c513-4b9e-a0f4-cb248646fc30',
+    '62580d59-9c9f-4e28-bb06-14261b17a140',
+    'd009a62c-a6b4-4291-9486-d463bcd47e07',
     'Ndee biyati''',
     NOW()
   ),
   (
-    '9e5f1aca-3a30-4ecc-a65b-4c5b60e323b0',
-    '5be2c415-c513-4b9e-a0f4-cb248646fc30',
+    '1bbb0089-86f8-4ead-a8c8-9700a2faf1de',
+    'd009a62c-a6b4-4291-9486-d463bcd47e07',
     'Ndéé biyáti''',
     NOW()
   ),
   (
-    '6e02b76a-c64e-4994-a1ea-91c29f6084e8',
-    '5be2c415-c513-4b9e-a0f4-cb248646fc30',
+    'c4532376-c3f7-41a6-a04d-3f9452895efe',
+    'd009a62c-a6b4-4291-9486-d463bcd47e07',
     'San Carlos',
     NOW()
   ),
   (
-    'a975860b-86ca-494c-92ce-ae1497e0b759',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    'b09f3c6e-1766-45f8-b7a3-78f90b69c051',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Ebira: Hima',
     NOW()
   ),
   (
-    '5e42d7d1-170b-4b16-8a75-02d3306c7829',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '7b917472-a0a1-449a-b6ca-bf68c4834f1b',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Ebira: Ihima',
     NOW()
   ),
   (
-    'f8deca48-37a0-4bd2-abcf-c1815a7beca1',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '1a3956c5-5daa-4bbf-b537-339b5bbd464b',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Hima',
     NOW()
   ),
   (
-    'daf8c0a6-335b-4010-b515-5d85efcdbdbb',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '1ebc362d-3d77-498f-b28b-722a7d5200af',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Igbira',
     NOW()
   ),
   (
-    'cbc9df62-1ff6-4e06-9514-2e4a30f3933e',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '35c4f919-8116-422a-b024-11ec43050706',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Igbira: Okene',
     NOW()
   ),
   (
-    'de584968-f130-4b2d-a005-dc0e1db7b4fe',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '955f96db-b70d-4237-8106-873554a109df',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Ihima',
     NOW()
   ),
   (
-    'a7bd336f-d3b1-4dab-aaa3-ce1ba7b35193',
-    '2b318c30-835d-4c7d-afd4-aaa45d09a9c8',
+    '9bfe00e6-428c-487d-9428-25e3f5461a0d',
+    'bd594346-6b59-49d3-93a8-485e1bc89788',
     'Okene',
     NOW()
   ),
   (
-    '3cba5bd2-50de-43f5-be37-7247da3f4803',
-    'c36692a1-b7d4-4f22-a4c9-5dec40bc2c6b',
+    '36055ca7-0804-4a64-9484-ed4fa3313ffe',
+    'fcb9ebd9-d7fa-4686-b2fa-0998174bcd28',
     'Bassa Nge',
     NOW()
   ),
   (
-    'ecfb33b0-7fa6-4734-b5fa-5f94dbf21aa5',
-    'c36692a1-b7d4-4f22-a4c9-5dec40bc2c6b',
+    '9da68e05-f548-441f-a76b-f48c3c7060f9',
+    'fcb9ebd9-d7fa-4686-b2fa-0998174bcd28',
     'Ibara',
     NOW()
   ),
   (
-    'beee4544-0e83-4ba6-adc6-f31955327866',
-    'c36692a1-b7d4-4f22-a4c9-5dec40bc2c6b',
+    '0dd11b9e-1e96-4039-9036-3d3477977899',
+    'fcb9ebd9-d7fa-4686-b2fa-0998174bcd28',
     'Nupe: Bassa',
     NOW()
   ),
   (
-    '45a8e729-b821-4b39-b387-349da77c63f6',
-    'c36692a1-b7d4-4f22-a4c9-5dec40bc2c6b',
+    '0e770201-2a0f-4e46-98d0-767c86a126cc',
+    'fcb9ebd9-d7fa-4686-b2fa-0998174bcd28',
     'Nupe-Nupe-Tako: Tako',
     NOW()
   ),
   (
-    '017ee6fc-9645-4db7-88dd-da1a57ea4638',
-    'c36692a1-b7d4-4f22-a4c9-5dec40bc2c6b',
+    'c752c9d5-fc6b-4e23-9e8e-394b6334ea1a',
+    'fcb9ebd9-d7fa-4686-b2fa-0998174bcd28',
     'Nupe Tako',
     NOW()
   ),
   (
-    '5b3b2c8d-8c72-498e-ab1e-741d2c6d3cbe',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '858c909c-6fa6-4967-9832-1d7f6fe72bb8',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Chigaranga',
     NOW()
   ),
   (
-    '2294db74-ca06-4d97-9e31-c32c766e7570',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '4216d693-9376-4645-aecf-e9f7fff1620d',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Chikaranga',
     NOW()
   ),
   (
-    'dd738ed3-d4cf-45c5-9bcc-f447dbbb5db5',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '1c512dae-944f-4915-957b-766bc0469091',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'chiShona',
     NOW()
   ),
   (
-    'fea7d1dc-97e0-4bb1-8c38-6c22b8c011c5',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '481a84f7-77c0-41fa-8ace-f7337d134ef8',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Chishona',
     NOW()
   ),
   (
-    '45c0d52a-fd68-4081-b48c-558da031ff92',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '9cacd341-1a0f-4bf7-926d-db39af1f3b96',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Cishona',
     NOW()
   ),
   (
-    'd3a08090-0f5c-499a-9ccd-63f2e382052e',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '942b6431-3d1d-4b92-b0c5-f45325adcaf2',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Ciuaranga',
     NOW()
   ),
   (
-    '2fbebba8-5fb5-4676-aeb3-df7919e52469',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '60337e19-9ec0-40ad-813a-5bd002082955',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Karanga',
     NOW()
   ),
   (
-    '1c71f952-268c-485f-8e04-7978cf79accc',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '23d2ec7e-4e6c-4cfd-981a-44a753b0ae5f',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Shona: Western',
     NOW()
   ),
   (
-    '0f41d637-1b15-49dc-bb85-de7041c75222',
-    '3df7b4c1-f6cb-40f7-85d9-f72257ddb0e8',
+    '3b6953dd-34e6-4762-a429-a1047d2950c2',
+    '3f7a166d-031c-4ed4-bd73-ad6390f133df',
     'Vakaranga',
     NOW()
   ),
   (
-    '2f8690f7-0e5d-419e-abc5-e7881305bf55',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    'df68390d-7bd1-447e-a188-f7ef799a2620',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'Eskimo: Point Barrow Inupiatun',
     NOW()
   ),
   (
-    'b0978afa-c67d-4fc7-ae8b-94f7afa32879',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    '987a9e72-ad8d-4e2f-92c7-c5f56b8716ff',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'Inuktitut, North Alaskan',
     NOW()
   ),
   (
-    'a3e851e4-9ee3-4814-9579-6bbab92ee452',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    '8c1bed61-047a-4e60-b5c7-63b6bc1a0f18',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'Inupiatun, North Alaskan: North Slope Inupiatun',
     NOW()
   ),
   (
-    '4e2527d0-b897-4646-b46f-76b0225b55a0',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    '65a39967-5cee-4eb8-bf83-3e6099e920fd',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'North Slope Inupiatun',
     NOW()
   ),
   (
-    '681e265c-c4fe-4ea8-9a74-3a39dcd0f046',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    '8c83402e-624c-4d71-b15b-ec2690e9beea',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'Point Barrow Inupiaq',
     NOW()
   ),
   (
-    '0d036239-b14c-410f-8a85-bcb4ec215ee3',
-    'dc329b63-e476-4764-a296-eb0809aa659a',
+    '876d6662-7454-4766-8ac2-4009429ead45',
+    'd931d19d-91e8-4f84-80a7-162d91d437e0',
     'Point Barrow Inupiatun',
     NOW()
   ),
   (
-    '75c0333a-a616-429b-a6b8-422fccec7745',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    'db29f41a-c480-4035-812c-ad2b5c2b6508',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Handa',
     NOW()
   ),
   (
-    'a7f86957-2b0a-4e1a-bcb9-7f901085a9ee',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '3f852b61-94e9-49bf-b039-7109e569ed2e',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Huila',
     NOW()
   ),
   (
-    'fb9a738e-66dd-410a-a9fb-ef6214d6abe8',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '2181724d-f465-4ea9-b653-74bdd01b3ed9',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Lumuila',
     NOW()
   ),
   (
-    '28243333-5118-4112-83e2-497c3d442ca6',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    'ce60c704-798b-4265-baa8-1739e3a71244',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Lumuila & Handa',
     NOW()
   ),
   (
-    '295b159c-7b8d-497c-9861-25b4c3821a65',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '614c2b7b-522a-4b1b-8552-1f2eb3461a07',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Muila',
     NOW()
   ),
   (
-    '00f9a87e-e0aa-40e8-9539-9c2716a58318',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '3f364886-9607-46c0-a46f-6e2b3ade7c19',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Mwila',
     NOW()
   ),
   (
-    '6e46ff7d-ba6a-4806-adc9-385008d11fe9',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '9254362c-3d42-4600-b7fd-02f77a37d12b',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Nyaneka: Clumuila',
     NOW()
   ),
   (
-    '76fdcf5c-847d-4482-8c36-1a03f47d7c37',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '5e79be91-f030-49ce-a741-e2102dec0467',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Nyaneka: Lumuila',
     NOW()
   ),
   (
-    '0305430f-635f-413a-a845-fd0fd4318835',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    'bbb12cf8-8c25-447a-9fc5-6dab9e895ada',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Nyaneka: Lumuila & Handa',
     NOW()
   ),
   (
-    'd4c1d602-c6a9-4282-a096-fadab5b8ab7d',
-    'a2f32491-d65c-4983-a471-e582fd076027',
+    '61a687ae-bc0b-49bf-81cd-4e50d07dff0a',
+    '6d182f25-4161-44b2-80ee-b5f11fad261f',
     'Olumuila',
     NOW()
   ),
   (
-    '03276140-0b8a-4bf3-b74f-d910cc1b4b93',
-    '592f3480-2f20-4fef-bbae-df8055c8deca',
+    'a931cd10-4eab-405e-bd90-d2603ea6a682',
+    'a0b800d0-9ae0-40e0-ad16-40e7ebd5c65a',
     'Kewe',
     NOW()
   ),
   (
-    '6b7ca6ef-f011-4a3f-95a1-825879c5c99c',
-    '592f3480-2f20-4fef-bbae-df8055c8deca',
+    '9a990be7-cb44-47e9-883c-7a5ec4a34a47',
+    'a0b800d0-9ae0-40e0-ad16-40e7ebd5c65a',
     'Samerigi',
     NOW()
   ),
   (
-    'e814f6ff-7c00-49b9-a04a-5dc5dac5ab32',
-    '91ee151c-ffb6-48ab-adea-c37829bb4cb0',
+    'e0b39895-e4db-400c-934b-ea7fba74bfaf',
+    'bf451694-39d1-4df4-a546-08281e053429',
     'Dom',
     NOW()
   ),
   (
-    'b5d480a8-d90b-489e-9af5-90f7b48f4eba',
-    '91ee151c-ffb6-48ab-adea-c37829bb4cb0',
+    'e9d5f38a-642c-4dd7-8000-6fbdead96920',
+    'bf451694-39d1-4df4-a546-08281e053429',
     'Tabare',
     NOW()
   ),
   (
-    'db72fd17-1176-4c3d-9add-08f375093316',
-    '91ee151c-ffb6-48ab-adea-c37829bb4cb0',
+    '37e06fd5-e2b3-44ca-ba5c-2d283a7a756d',
+    'bf451694-39d1-4df4-a546-08281e053429',
     'Tabare-Dom',
     NOW()
   ),
   (
-    '0ba83cdb-0723-4c65-b4c9-f7b884738456',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '113825e3-f3e1-4b04-8bc6-2f7a7c2c53eb',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Achanti',
     NOW()
   ),
   (
-    '19ecc7c9-8899-4766-a09a-2a8f53c26420',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    'e36df7b8-ac5f-4a4e-a8ec-35b93c1169b7',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Akan: Asante',
     NOW()
   ),
   (
-    '24792fcb-8be1-4174-b07a-f1d7f19e3359',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '221ab4b1-e738-4997-b952-85f0d22e0590',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Asante',
     NOW()
   ),
   (
-    'd225a610-1e46-40d5-a168-d370c96dcda3',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    'e78d8b56-96f8-481c-92a6-746494b2f781',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Asanti',
     NOW()
   ),
   (
-    '28226591-db32-4ef0-9c62-3300fb02b539',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '4c66d2af-fa91-431a-a3e6-f44208d63c56',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Ashante Twi',
     NOW()
   ),
   (
-    '470ee8be-b452-4467-987c-f22c802723f5',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '5695215b-3437-4f4b-98c7-0e484ebe7337',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Ashanti',
     NOW()
   ),
   (
-    '425e436e-080a-4a3d-97ea-3d75a05864ed',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    'da974dc0-3ce0-4d14-909a-3ab867ec823c',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Twi',
     NOW()
   ),
   (
-    '00873b54-8e88-48a8-abe9-bdfbe4e0dff8',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '9ac64ba3-56f4-41cf-8553-defee58e7f46',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Twi Ashanti',
     NOW()
   ),
   (
-    'aba356ae-a402-4e6a-a43f-378c4e33b609',
-    'c72e1314-c4c2-40c9-84a2-5ce1e07e7c5e',
+    '45f5a01e-2606-443e-9227-ebedc2322742',
+    'bfd301f2-756c-4d7f-9bb0-bbaf29839a51',
     'Twi: Ashanti',
     NOW()
   ),
   (
-    '846c8311-9bc8-40c9-9a60-ef99fa01ba62',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    'e2e6a28d-8e95-41d5-9a18-eb509616a986',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Chiluwunda',
     NOW()
   ),
   (
-    '5931c0e2-f4b7-4a90-a3bb-1a8faeb60a5b',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    '422c4b5b-3a3e-4261-aef1-df9e557e25b0',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Chilu Wunda',
     NOW()
   ),
   (
-    '6d9224a3-d447-42d0-8b9d-42929df46393',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    'f54bccdf-1bd9-4280-b74c-fe4862691760',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Lunda',
     NOW()
   ),
   (
-    '4e68043b-0620-49e5-8443-7a503e629882',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    'e0281439-98c5-44e9-aaa0-52de766e5671',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Lunda-Kamboro',
     NOW()
   ),
   (
-    'b2ba87f7-d6b4-47cd-a5e8-9eecf5ef62f9',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    '439c3d45-d087-40d8-858e-004734e17b84',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Lunda Kambove',
     NOW()
   ),
   (
-    '1b44a140-b26e-4111-aa1c-d18b22efcc2e',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    '80574c07-e6b1-4f63-8c33-e2c753735e07',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Luwunda',
     NOW()
   ),
   (
-    'a06bd346-fde9-43cd-a5cb-ec57e2ef0da4',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    '3dd1333e-6a6f-4997-b8fe-394c873016e6',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Muatiamvua',
     NOW()
   ),
   (
-    'dc4b0394-af70-48f2-90d5-ebf2e2241423',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    'a241112f-0028-42f7-9ab2-a87dd9bf08ed',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Northern Lunda',
     NOW()
   ),
   (
-    '60aaf938-a341-4494-aea4-b5c71c5f34a7',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    'fb837188-76eb-4fa1-b639-7832dc31ac72',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Ruund',
     NOW()
   ),
   (
-    '8768ef2e-f714-4b64-a54c-1477a1378ded',
-    '9a3222fe-dfac-4a9a-8db2-7d1842221a67',
+    '72d4eb17-c1fb-4d7e-be49-acb082778433',
+    '8c2d0f9e-1d37-4a76-8a78-3893c4a36bcb',
     'Uruund',
     NOW()
   ),
   (
-    '31c4abf2-46a1-4da5-81dd-e8ed7c37c274',
-    '7289647d-882b-4786-8b1c-61cb2e87cf24',
+    'ddc903fa-1472-482e-ab74-d0b23581b7b1',
+    '92c8c94a-4515-4cf9-831d-9e96beab46a4',
     'Tembagla',
     NOW()
   ),
   (
-    '24d40c4c-dbd0-4af3-9df8-255555491248',
-    '7289647d-882b-4786-8b1c-61cb2e87cf24',
+    'e1b23ed5-b0f7-40c2-8b2f-f939922a90f1',
+    '92c8c94a-4515-4cf9-831d-9e96beab46a4',
     'Temboka',
     NOW()
   ),
   (
-    '90a8f0de-7f20-4ce9-9bc2-0b3a526689b4',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    '6f43693b-e17e-486e-a967-ac4ca30e4cfd',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Asusu Igbo',
     NOW()
   ),
   (
-    '95f6fe54-91b5-4b20-b63e-d496aba375f3',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    'e3a0d714-349b-46c4-90ef-d3de198d8983',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Asụsụ Igbo',
     NOW()
   ),
   (
-    'c7a343a7-dc77-484f-bbd1-d15936b34958',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    '1609c223-0fc6-44aa-962f-1c06b9dad203',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Central Igbo',
     NOW()
   ),
   (
-    '7548a1e2-f54c-4775-a8b6-134a347b0334',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    '9ea5c18f-0638-477e-a81a-ff72f03c7a14',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Ibo: Union',
     NOW()
   ),
   (
-    '4973c799-73d3-43c0-9788-85aad8e76937',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    'a2249a8d-678f-4254-ace7-66a2fef1cabc',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Igbo',
     NOW()
   ),
   (
-    'b00ef910-6a07-43fc-8b80-528c4fc30ac0',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    '0bffd2b2-bd41-4ec8-badb-ee5a07b1045c',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Igbo: Central',
     NOW()
   ),
   (
-    'd9348423-2d5f-4c67-a020-597d8ccadc5e',
-    '3b247482-ac37-4571-87a8-2ee95e1ef6f4',
+    'eb36b905-215a-469a-8be4-d640891878c6',
+    '3cb1c33b-60de-45ce-bbc8-9ff58d71ece4',
     'Union',
     NOW()
   ),
   (
-    'e0953449-ab5f-4023-bed1-8c4108376876',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'c7d5ce3e-8984-4c4e-9af3-5365dbdafb9a',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     '하이난',
     NOW()
   ),
   (
-    '7c5c8e41-8158-45db-8d1f-a5ac768884cf',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'ee95d919-7304-4e22-85bd-976a48873c9f',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Hailam',
     NOW()
   ),
   (
-    '7062b1bf-2135-4ad5-8875-0c5b9905a0b5',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'cd0fb7a1-019b-4a03-af20-34dbecf3b11d',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Hainan',
     NOW()
   ),
   (
-    '26ffe38e-71fe-4af2-9edc-186781f87650',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    '203e239a-03d3-41cf-ace7-50a1ff279772',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Hainanese',
     NOW()
   ),
   (
-    '96ed156a-25d7-4fb4-bd5b-4a3cefa25f76',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    '198524fe-c236-4c6b-a6f3-c508526272e6',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Hainanesisch',
     NOW()
   ),
   (
-    'dcb6118a-41f9-49c6-a0bc-ee86f1dcd871',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'd68c1eff-decb-4a21-822b-bd406c5c5d72',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Hylam',
     NOW()
   ),
   (
-    'd6c3de7b-841d-4aa8-b9a5-d1ddef70db37',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    '31bf015a-d635-4fe6-aa81-dd2036cef392',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Qiongwen Hua',
     NOW()
   ),
   (
-    '452359d6-afc3-41b2-973b-2989d7c38264',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'c41a5875-2ae3-45a6-a3c1-9bb1e09f39fa',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'Wenchang',
     NOW()
   ),
   (
-    'bb6bbf80-073d-4a00-87a3-4faaf731d8a9',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'e4aa7f93-fd07-445b-97fd-23b736afdc2b',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     'จีนไหหนาน',
     NOW()
   ),
   (
-    '62a8766a-aaf9-400c-92bd-07417165723b',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    'ff0df25e-7e64-40eb-b8f5-6090a02f877d',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     '汉, (海南)',
     NOW()
   ),
   (
-    '1236a93e-329d-45a1-b792-a14c66efc389',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    '5da7dad1-70be-4d86-b716-0decf00c188b',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     '海南語',
     NOW()
   ),
   (
-    '9c17d151-1c29-4410-a0a4-07df2d9395dd',
-    '0f156782-ee64-4c7a-a25e-e00bd81471f6',
+    '2f449752-38f4-44d0-bf83-b155e44cf63b',
+    'f06454e4-40fd-4b0d-9d50-cff0f06ac576',
     '漢, (海南)',
     NOW()
   ),
   (
-    'cf6207b2-b737-4766-8304-44db169b9193',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '2ddba9b0-8c76-49ea-91f7-7d163b8d6513',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Central Pocomam',
     NOW()
   ),
   (
-    '4f442f7c-5707-4890-a92a-9c681d73b8fe',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    'ea4f3dfa-7051-4a06-811c-a95ef6b02850',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Central Poqomam',
     NOW()
   ),
   (
-    'fdbe4650-ee45-4841-8033-ba9782ad9fb5',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '3ae118a0-0fc9-4f5d-94d1-a2988ac3e7c9',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Chinautla Pocomam',
     NOW()
   ),
   (
-    '04a0529b-27f9-44a7-8a4b-3c7906ecfd99',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    'bf6db556-7bab-454b-bb20-b9a7e0856f71',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Mixco Pocomam',
     NOW()
   ),
   (
-    '7fcd4484-d29e-44a1-b4a2-66e3d50608b5',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '72be3ad8-a47c-4e05-b32e-f506f95b603c',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Northern Pocomam',
     NOW()
   ),
   (
-    'd8af1607-174a-4a6d-9e42-0d17e77b5b06',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    'ca5e1833-6871-41d4-81ec-b99ddcd3eceb',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Pocomam Norteno',
     NOW()
   ),
   (
-    '24fb7af0-503d-4af3-83de-207ea6422341',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    'e34a9812-a59c-4867-9d2e-be4c55e28fbf',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Pocoman',
     NOW()
   ),
   (
-    '42347bd6-4560-46e7-9b81-6a6cfbea0297',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '9dce1080-d022-4ce3-a0cd-36f32baef06e',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Pocomán',
     NOW()
   ),
   (
-    '5c514dd2-6630-45af-a69c-ec083b3bb58d',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '403b799b-276f-4dc0-b294-1f38cdecea93',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Pokomam, Central',
     NOW()
   ),
   (
-    '128026f3-5dff-4ffa-b34a-a95ef9bd167e',
-    'b6f86b8d-1920-42d0-a31c-cf7cdc4f3ddf',
+    '549997e3-964d-4271-9147-b8816581c222',
+    'ba8a4303-672f-4c6a-a8f2-6940e91c9911',
     'Poqomam',
     NOW()
   ),
   (
-    '308b8aa2-6b38-4b62-b452-f922dc119ffd',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    'fa0cdf0a-41eb-474a-af47-6c51685ddfb2',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'S Pedro La Laguna Tzutujil',
     NOW()
   ),
   (
-    '19c2fb82-dc5d-42b5-8059-cd2ab2736d13',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    '103301ac-bd2b-415f-897b-054ecc3fef5a',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Stgo La Laguna Tzutujil',
     NOW()
   ),
   (
-    '4020af74-450e-4ac0-88c5-4f07fff283af',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    'dcb2aebd-ab0d-48b4-a511-be5118d86675',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Tz''utujil: Occidental',
     NOW()
   ),
   (
-    '1216aeeb-410f-4071-99f2-ee390c70594a',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    '2d213e35-a6b3-4432-87b5-ffd615d957f6',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Tzutujil, Western',
     NOW()
   ),
   (
-    'ead1009b-85e8-432f-b70e-bc3485227afd',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    'db6e295e-b932-4a21-920a-6802d6b54ee5',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Western',
     NOW()
   ),
   (
-    'e43e7a60-25dd-4ee8-ab8f-33535a194a77',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    '55c89f7d-8d14-4090-ac27-d055518dc261',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Western Tzutujil',
     NOW()
   ),
   (
-    '7b1c7fe3-50df-4ee4-ab0b-46b1db054115',
-    '6fc4e481-d0f7-41c5-892e-6a3ead489bf4',
+    'cd98206e-b45e-4b76-981e-b6ef3c1238c3',
+    '8bdec29b-9957-4039-a867-00b80063e8ed',
     'Zacapula',
     NOW()
   ),
   (
-    '0acbef75-1837-4a45-9f30-ca95fb40b9b2',
-    'e87fa3db-8d14-4852-ab41-6f7d98041da7',
+    '8389deb2-04e0-4a43-96b7-aa6909134f0c',
+    '3a88fce0-5088-4146-94f7-c34df5295618',
     'Nagipaem',
     NOW()
   ),
   (
-    '66c95b67-430a-4800-adf8-16e2e942a77b',
-    '73a62330-3181-4766-84a3-d5255601e005',
+    '4fb7982a-b830-4cb5-ab1c-56e2a5dfaa57',
+    'c93ac9da-24e1-437a-aec8-b6df89ad10e4',
     'Arapesh, Southern: Supari',
     NOW()
   ),
   (
-    '4e5916e7-e9eb-42d9-b1e6-126ee0e58db4',
-    '73a62330-3181-4766-84a3-d5255601e005',
+    '6227a5cb-b37b-4c4c-924b-275fbcb1c449',
+    'c93ac9da-24e1-437a-aec8-b6df89ad10e4',
     'Muhiang: Supari',
     NOW()
   ),
   (
-    '0df1fb85-aa74-48d2-b27b-6fd86963a041',
-    '73a62330-3181-4766-84a3-d5255601e005',
+    '9154a10d-4ce0-4db9-a9bc-170c47a4b49c',
+    'c93ac9da-24e1-437a-aec8-b6df89ad10e4',
     'Supare',
     NOW()
   ),
   (
-    '9f67f98e-f5d1-4ccd-8cf7-47e0de91c328',
-    '73a62330-3181-4766-84a3-d5255601e005',
+    'c05a8629-a388-4ee9-80d6-2c1ce479ca30',
+    'c93ac9da-24e1-437a-aec8-b6df89ad10e4',
     'Supari',
     NOW()
   ),
   (
-    '00bf0e51-f4eb-461a-a638-4d7b57b72324',
-    'eeec6667-a8ce-4b9d-afe8-77ac820b93de',
+    '8a49cafe-f660-49f0-b8ec-527f5399f071',
+    '5146f082-a286-4d5d-9d64-b08765db6c3b',
     'Torricelli: Palai',
     NOW()
   ),
   (
-    '2c5cfa45-ba52-484b-88aa-bc0032987ed0',
-    'bd08644d-3518-42dd-bae1-3966e48a7b6a',
+    '162a5c06-a911-4216-a088-0e92d22f6217',
+    'f1061521-c797-4404-9ca1-51008473c080',
     'Bamu: Lower Bamu',
     NOW()
   ),
   (
-    '3d4549bb-21a9-4c55-9567-d0d6423d33e5',
-    'bd08644d-3518-42dd-bae1-3966e48a7b6a',
+    '008bd2af-d9ee-4c98-ac47-46b6f92b736a',
+    'f1061521-c797-4404-9ca1-51008473c080',
     'Iowa',
     NOW()
   ),
   (
-    '3b9bf35d-aba7-4a05-8e75-3983f902870e',
-    'bd08644d-3518-42dd-bae1-3966e48a7b6a',
+    '8503192f-f23b-494e-a779-3c5e8d6d3ab7',
+    'f1061521-c797-4404-9ca1-51008473c080',
     'Lower Bamu',
     NOW()
   ),
   (
-    'dd5458f6-29be-4457-954b-d57223d3c2fb',
-    'bd08644d-3518-42dd-bae1-3966e48a7b6a',
+    '39a87f41-2a8e-4293-89c4-49430aa98ded',
+    'f1061521-c797-4404-9ca1-51008473c080',
     'Owera',
     NOW()
   ),
   (
-    '4b1f120f-7c3c-43cd-901e-20421d9e5679',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    'c6f4bdb8-917a-4a2a-b4a7-9fa9c01779e2',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Bamu: Upper Bamu',
     NOW()
   ),
   (
-    'dd709aba-0179-48bb-856c-fcd3717146ad',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    'c3039afa-7eb1-4412-8637-67165fdb7823',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Bibisa',
     NOW()
   ),
   (
-    'd3a47af4-bb32-4344-9e93-8b9bfc2cc9e5',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    '85ba4e57-5b9c-4750-815a-2f80b3251fb9',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Foiyafoiya',
     NOW()
   ),
   (
-    'd49846ab-9b72-4f03-806e-ddfebc587ac5',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    '06bb9fba-81d2-40fc-b1b4-7ef098dca154',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Haroi',
     NOW()
   ),
   (
-    'a5a01348-39d3-4455-adec-8b5a96f41f83',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    '795f1366-e054-4475-97b7-7e44eaf6098c',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Middle Bamu',
     NOW()
   ),
   (
-    '57dab876-79b8-453f-8e7b-5340ad00f04f',
-    'a87c139a-fce6-4940-8f61-dfeab00b9957',
+    '14c741c6-ff1b-4856-9a28-98d9b1b482cd',
+    'e18e1f3f-e8df-4890-b2b9-d8e070ef472b',
     'Upper Bamu',
     NOW()
   ),
   (
-    '9f173e86-0daf-47bc-97c6-4fdb24d33f9a',
-    'ffd0b8bc-a1cf-4e3b-9b33-d1889be30a33',
+    '73daebc0-fdc7-48ad-b1eb-01758554c859',
+    '9091c886-9996-4859-a190-3b8c92f716f2',
     'San Sebastian Coatan',
     NOW()
   ),
   (
-    '9f445a7d-5923-4027-b9a4-e2b14166dd8f',
-    'ffd0b8bc-a1cf-4e3b-9b33-d1889be30a33',
+    '57f28f21-5eff-4372-a2fb-99d3044e1635',
+    '9091c886-9996-4859-a190-3b8c92f716f2',
     'Southern Chuj',
     NOW()
   ),
   (
-    '14b99a43-2cbc-455f-b7ff-afeee2f0b79d',
-    'ffd0b8bc-a1cf-4e3b-9b33-d1889be30a33',
+    '3a745a2a-2559-4ce9-8563-fc1a9189f189',
+    '9091c886-9996-4859-a190-3b8c92f716f2',
     'S Sebastian Coatan Chuj',
     NOW()
   ),
   (
-    'a80e4ecd-a0c4-48af-824e-7cd53a9d379f',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '9ff002c1-adac-45c3-8609-5df5bbdd3794',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     'Chinese: Shanghai',
     NOW()
   ),
   (
-    'c39178c8-5e97-4dca-ae39-c42f9fa71c53',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '5fafc916-06b7-433d-a871-7b76fb917483',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     'Shanghai',
     NOW()
   ),
   (
-    '1024b9bc-b35f-47c8-b213-f12a4f9c3d06',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '4a05c6b7-14c1-439c-a788-fa9f10368865',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     'Shanghai Chinese',
     NOW()
   ),
   (
-    'caec856c-5901-4bdd-ba56-5befc9cfb5e2',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '484163a6-f3c9-40ac-9fd6-0ef2000283a6',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     'Suchow',
     NOW()
   ),
   (
-    '6e36e49b-ff41-465a-957b-d698994798e9',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '2f675d52-c4fe-4dec-96de-7d57a5472fd8',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     '吳語',
     NOW()
   ),
   (
-    'a15d5ab3-41da-4081-80d2-9a5024870608',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '56f0dd73-d493-44aa-bc12-250bfb4c9ee3',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     '吴语',
     NOW()
   ),
   (
-    '90857e1c-d1e5-4519-ba25-fa2c15fbae22',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '57cef42c-44ea-4410-beeb-f95917196542',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     '汉, 吴',
     NOW()
   ),
   (
-    '06ac7059-e9a5-47fc-a1bb-a09e0a850a93',
-    '6dcdf707-5d15-475c-80a7-1a80154d7c17',
+    '84b39c9a-0cd5-40ad-bf61-b8bf2edbcaa2',
+    '0e003e98-6074-4cf3-82d7-e388e62b6a4d',
     '漢, 吳',
     NOW()
   ),
   (
-    '091f30e2-9d23-49c2-9666-faf95def3c74',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '8f8d892b-580f-49cf-83c7-19bbc1122b5c',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Eastern Pocomchi',
     NOW()
   ),
   (
-    '9342eaa6-3d73-4202-be1c-ab7a2606606c',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    'bc7fbde6-84dd-45b7-9f28-6ed9064e4f04',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Eastern Poqomchi',
     NOW()
   ),
   (
-    '41ad78f8-a731-483d-ae1f-f28da7a3d957',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '765947d6-9556-465a-9577-035f5377ffdf',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Pocomchi',
     NOW()
   ),
   (
-    '668f95e8-ea4a-4508-a171-3bdc63985768',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    'ba4785d2-856e-466b-8ffd-26a743daf4fa',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Pocomchi Sureno',
     NOW()
   ),
   (
-    'ef2fa2ac-3afb-451f-b649-227c9bd8f556',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    'bc04eca1-48a7-4295-b47f-66be3654ea38',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Pokomchi, Eastern',
     NOW()
   ),
   (
-    '845cc0ae-dd37-4a66-90f4-e8807325cbe9',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '6ddd590e-cef7-476b-ad90-43af3196af21',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Pokomchi: Oriental',
     NOW()
   ),
   (
-    'fcb438bf-ffee-4818-919e-9b8bb2ff60de',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '789dccad-dea7-4add-b2b6-0e844e650979',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Purulha Pocomchi',
     NOW()
   ),
   (
-    '87c4213f-3656-47e8-8474-0cf34afd3d75',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '250882e7-7e5c-4b43-8bf8-6a19b71e1e3d',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'San Cristobal Verapaz',
     NOW()
   ),
   (
-    '65cb305a-69a8-429e-9844-912c86f9c3ef',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '723d431e-6355-4934-8c8e-b2de3e506d7f',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Southern Pocomchi',
     NOW()
   ),
   (
-    '4429210d-d13f-4577-b11e-0e40bdab50c1',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '5e5c1b0c-01c5-45bd-bf54-85acda6fcdc4',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Tactic Pocomchi',
     NOW()
   ),
   (
-    '14e70703-8276-46f8-976d-3cf82e158ed6',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    '91e1932d-279e-4efa-a547-12901ddb6f4e',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Tamahu Pocomchi',
     NOW()
   ),
   (
-    '90aa7fd5-cea0-4460-a0e0-fc61e630894b',
-    'ccda7a2c-f5a6-41da-bc69-ffc58ac3e05d',
+    'ab6879c9-490a-4073-9c53-ece2b406d4f4',
+    '73fd5dc9-51bf-4662-8aa4-a932cf26bc20',
     'Tucuru Pocomchi',
     NOW()
   ),
   (
-    '5f300711-b630-47d9-a2aa-67c52b6bd02c',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    'cf3c6499-a53b-407e-9600-36c00418e88d',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'Karen: Moulmein',
     NOW()
   ),
   (
-    '0076e7ef-f8c9-4056-b40f-0448c74cc719',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    'c1b771ab-ee5d-40a0-970b-23e12aa9a3f8',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'Karen, Pa''o: Moulmein',
     NOW()
   ),
   (
-    '546ccc2d-d350-43f8-aba0-33644b1aa5a5',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    'c468f1e1-f927-418c-8aba-fd5e87144e13',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'Moulmein',
     NOW()
   ),
   (
-    '3a4f8260-b2b2-4952-82c9-20325f6df74c',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    'f519434f-be11-4d5b-b88a-70ea1a54889b',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'Pwo Karen: Moulmein',
     NOW()
   ),
   (
-    'a433fab0-87ad-49e3-ba79-7d74d7ce152a',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    '89204967-c1ec-4314-8d96-0a348cff13f5',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'Tenasserim',
     NOW()
   ),
   (
-    'f38f6b51-172a-4c52-887f-5b0a3fb8890b',
-    'e92a8a3c-c1af-4f48-8579-8aafa396cfe0',
+    '61d96346-9a50-441d-aae2-4fcbe7e54327',
+    '27d646c1-7a09-4faa-8f37-c6323951d560',
     'กะเหรี่ยงปะโอ เมาะลำเลิง',
     NOW()
   ),
   (
-    'df77fb30-63f7-4a16-803f-b73db8dbd2be',
-    'c250caac-4656-496a-98c1-ec57c5d19bdf',
+    'f6635e6b-7d24-477b-bc56-f8e42fb64abb',
+    'b9c745ed-06c7-4548-a204-7c6bbc6cbac7',
     'Baiyer',
     NOW()
   ),
   (
-    '82a1dbfe-3286-4938-a55b-754039c245a2',
-    'c250caac-4656-496a-98c1-ec57c5d19bdf',
+    'db5f626f-4f2e-40a1-9fbd-006e6cc0e257',
+    'b9c745ed-06c7-4548-a204-7c6bbc6cbac7',
     'Enga-Kyaka',
     NOW()
   ),
   (
-    'c0ada50a-2e54-4523-969a-9e2b1def635f',
-    'c250caac-4656-496a-98c1-ec57c5d19bdf',
+    '7248a549-7c48-4cde-b966-e94b8192dc29',
+    'b9c745ed-06c7-4548-a204-7c6bbc6cbac7',
     'Kyaka Enga',
     NOW()
   ),
   (
-    '31b27d0c-cd09-4e21-80a9-e79ebc234a28',
-    'c250caac-4656-496a-98c1-ec57c5d19bdf',
+    '14727e3a-d43f-4c1d-97b2-390f475b195d',
+    'b9c745ed-06c7-4548-a204-7c6bbc6cbac7',
     'Yaramanda',
     NOW()
   ),
   (
-    '8a18a01b-0e30-4588-9a05-49d7c01c46f9',
-    '1dce7834-2c07-4634-a66f-bb1423abbc9f',
+    'e981c881-11f3-4601-8637-906ff917b4d7',
+    'fd9d61ae-1451-4482-8755-7c1a95afc7ae',
     'Sambia',
     NOW()
   ),
   (
-    '28fe50ce-fb94-4a0e-975f-448196fd7ea2',
-    '94f7f64a-8143-42c9-a60f-adccef5ae3c1',
+    'f088d0f6-4a92-4c53-986d-2031bb96d0f5',
+    'a8c43f58-a597-4dae-9241-55dfe8ed6241',
     'Abalin',
     NOW()
   ),
   (
-    '7c6f8393-2c1e-4b4b-ac51-3ae8570a77b2',
-    '94f7f64a-8143-42c9-a60f-adccef5ae3c1',
+    '4f5ce9aa-669f-4292-831b-6b1fad4a18ce',
+    'a8c43f58-a597-4dae-9241-55dfe8ed6241',
     'Ambulas: Maprik: Kalabu',
     NOW()
   ),
   (
-    '6318db66-bae4-4013-a09c-f92aa0f46492',
-    '94f7f64a-8143-42c9-a60f-adccef5ae3c1',
+    'a60a87bd-0c6f-4b67-b8fa-e44efc8ad259',
+    'a8c43f58-a597-4dae-9241-55dfe8ed6241',
     'Kalabu',
     NOW()
   ),
   (
-    'a0d39b5b-c4b1-4bb8-bf3b-9167ae5b7083',
-    '94f7f64a-8143-42c9-a60f-adccef5ae3c1',
+    '8b7fa831-59de-4795-8a9f-7639e5dd6ccd',
+    'a8c43f58-a597-4dae-9241-55dfe8ed6241',
     'Maprik: Kalabu & Jambitanget',
     NOW()
   ),
   (
-    'c8f7cb89-932e-4383-9c1f-3fff1db32859',
-    'c6e583a9-f0a4-4a10-b06c-263910e07470',
+    '2fe47ef6-d868-48a8-b706-1a3b4acfdadf',
+    'e27cded9-98fa-47fb-bc60-acbc22dfd16a',
     'Kapan',
     NOW()
   ),
   (
-    '8ed781fd-cabd-4484-9c68-88e4d07c5707',
-    'bfb81014-a8e4-4dd4-be54-232c296b0f83',
+    '8d226fd1-3686-4134-94d8-dd8b64d96002',
+    '02a31933-12f0-474c-a430-41fcd1dc1e53',
     'Abelam',
     NOW()
   ),
   (
-    '8e3e7fa0-6b99-4a75-8ea2-f824d1747ffe',
-    'bfb81014-a8e4-4dd4-be54-232c296b0f83',
+    '9ae7ffc8-a2b4-4489-ba67-dccff5c76227',
+    '02a31933-12f0-474c-a430-41fcd1dc1e53',
     'Abulas',
     NOW()
   ),
   (
-    '8e838809-4335-4a3d-aac1-4aaaa3c26c2d',
-    'bfb81014-a8e4-4dd4-be54-232c296b0f83',
+    'c9181945-52d3-4b7d-b34e-54bce356cc1b',
+    '02a31933-12f0-474c-a430-41fcd1dc1e53',
     'Maprik',
     NOW()
   ),
   (
-    '03454fd4-dd51-4fea-867a-73fc323ca992',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    '036dc412-ff04-4c54-88e6-03b0b6958b0a',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Chicaj Achi',
     NOW()
   ),
   (
-    '5093185b-1eb9-46c0-bdc0-93bc0dff0a36',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    '11526d86-a3df-4545-a88f-ffe24dea532e',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Rab''ina:l',
     NOW()
   ),
   (
-    '32e5789c-9906-43c8-9de6-b8d7efac3d52',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    'd996deb7-b517-4314-a121-3141b49f0bd7',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Rabinal',
     NOW()
   ),
   (
-    '4d2835a1-699f-4f72-a6e9-f0844bca8f0f',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    '87636fc6-3bf0-44ad-86b1-36611e15f0ae',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Rab''ina:l Achi',
     NOW()
   ),
   (
-    '4cc4efe1-f544-4088-9037-2661e9942150',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    '7c846b7f-b394-47e4-a133-fc2354d4bace',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Rabinal Achi',
     NOW()
   ),
   (
-    '290bd167-a943-415b-b130-03143a9d0c3d',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    'db462d7d-b419-4863-835f-6b6ac62dfacf',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Rabinal K''iche''',
     NOW()
   ),
   (
-    '94ed0ee1-c28b-47a9-b100-7d570c695f9a',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    '1b4f0a85-d4a2-4fca-84c2-a02cf53fec52',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'Salama Achi',
     NOW()
   ),
   (
-    '1a8d9a63-15ce-4819-a6ab-8574b1ff4d6c',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    'e82b53cb-462c-43b3-a9b8-26ed7ca5f60e',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'S Jeronimo Achi',
     NOW()
   ),
   (
-    'debeb6c0-7948-419b-90ed-5c97fdd16a77',
-    '5696887d-3cf8-43b3-8ec4-2cf0b5a468f7',
+    'bec7cbb6-523b-4010-a7b3-15900d25b3d5',
+    '9497934f-5d24-4279-b950-953bcc3cdf3a',
     'S Miguel Chicaj Achi',
     NOW()
   ),
   (
-    'e0817805-4d65-4958-94b7-f92db2945596',
-    'c5aea0aa-8261-43c5-90f5-e7b951859c6c',
+    'f387db12-ec8a-4c30-beee-d3fb5c899756',
+    '5dbd0c44-ecbc-4623-b32f-b5f760f0ce78',
     'Jate',
     NOW()
   ),
   (
-    '10f3320f-aced-49da-8fb2-61c17a0af843',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'ee05deac-8ded-4267-9b1f-76d83a5a510d',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Angal Heneng, West: Waola',
     NOW()
   ),
   (
-    '6f55c609-efa6-43dc-9d1e-de1149221c67',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'b79c31c6-6720-4207-aaf2-f9d91c9a7d01',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Aron',
     NOW()
   ),
   (
-    '2d0bdfb1-09f3-44ed-a4a3-172c05adbaa1',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'a98b1496-5fd2-43b8-a1cb-997910ea36c1',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Egnda',
     NOW()
   ),
   (
-    '3e11913a-13eb-4a41-a325-5a10c592649a',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'e7d0ea64-b0d4-47cb-bce4-7aff4eefd1bf',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Karinj',
     NOW()
   ),
   (
-    '143cc671-66a9-416b-adf5-1b723fb502b4',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    '324b1a8a-2f98-403a-b6a9-5c2ff20ed71c',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Kowae te',
     NOW()
   ),
   (
-    '34886efc-f37f-4904-9bbf-f4cf6f6a2dd0',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    '5cf4bd70-7b1f-4ddd-af6b-9bd9ac1f50b9',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Nembi',
     NOW()
   ),
   (
-    '48859cb2-12c8-469d-bdda-0b00c462d50d',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    '73105ceb-e74d-4a69-b8c3-5b77eba8e4f0',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Nembi: Waola',
     NOW()
   ),
   (
-    '7570ede1-e9de-49eb-94f7-b8138cf7cb18',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'e4c6ca5e-2017-423a-b84c-66fb613a9072',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Wala',
     NOW()
   ),
   (
-    '36b6a6a2-4527-4b2c-9c72-66bc73414889',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    'da4f846d-0689-4e3f-9a20-c4b495bbd7d5',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Waola',
     NOW()
   ),
   (
-    '8449b563-e37d-47d0-b067-1c8d6c750694',
-    '82f09d4e-6b5e-4948-9cee-a5744e110c05',
+    '7b8f96da-d14c-4fca-b20c-7c9cf5885a6d',
+    '35d26ffe-a7c2-48d2-8822-1960858fa496',
     'Waola Group',
     NOW()
   ),
   (
-    'dcd29753-a05f-4be7-a035-4f1b4fa8a4b7',
-    '0603b35a-9396-4064-a3e3-807f309baa06',
+    '2f7962ed-ece3-4826-99ba-03732c868c4d',
+    '196a6794-38bc-4779-ae06-73c49d6c04c9',
     'Lesau',
     NOW()
   ),
   (
-    '4b80ad20-8ca7-4d6e-af32-2d2bb8a3da00',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '610fad7b-d2f5-40af-86ba-7dbe9de8c43b',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Lisaw',
     NOW()
   ),
   (
-    '026066d9-eeb3-498f-ba81-a5aad7dea8b7',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '2506cd2a-8e5f-4ddf-96ba-2ccb33f519ee',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Li-Shaw',
     NOW()
   ),
   (
-    'e67ca296-3602-40e6-a57d-598297a9cf58',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    'eef66ae3-6d8e-43f5-a846-57ba7c32365a',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Liso',
     NOW()
   ),
   (
-    '28fd36ba-b3e3-4c71-af47-fe0b5a54050d',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '3ece24d1-e916-40ab-80b0-f233953570cd',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Lu-sher',
     NOW()
   ),
   (
-    'c9aab1ea-9b67-417f-a2dc-ad38685e44b5',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '52a9685d-2fc3-4bb8-95de-b1d95b825e35',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Lu-shi',
     NOW()
   ),
   (
-    '281535f3-cd52-439d-9871-d3d6c0173824',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    'd297bd23-50c6-4fee-be6c-14a385ded4e0',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Lu-Tzu',
     NOW()
   ),
   (
-    '1723ab7c-53ec-419a-a037-1f708389a108',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '85360d33-ee2a-4e4a-86f4-19e19bb6c0b0',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Southern',
     NOW()
   ),
   (
-    '9603ccd1-b413-4fe1-9291-0600d0947415',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '51182bea-f941-4383-b946-0ed2336fba61',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Southern Lisu',
     NOW()
   ),
   (
-    '37c25900-8898-4585-8fa2-bf577e605b83',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    'd1abec4e-ca27-49b2-9c25-29d1901923dc',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Thailand Lisu',
     NOW()
   ),
   (
-    'bcbb9cca-ed01-401e-9a8f-dee3af08b5d8',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    'dee7745d-db45-41a5-b7ab-e92f09a29428',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Yao Yen',
     NOW()
   ),
   (
-    '61905869-3e3e-4499-8ad6-177a36d7559f',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '4c3c358f-8d73-4b03-b83e-392d17a30808',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Yaw-Yen',
     NOW()
   ),
   (
-    'f6dad6b8-095e-4efe-b391-accc40e66427',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '10d41b1f-53a0-45aa-bc95-4703608eb38f',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'Yeh-Jen',
     NOW()
   ),
   (
-    'c7c3a677-d8cd-48a3-a1b3-bf8954aebff0',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '8e175de0-7363-4015-aa3a-6d8832e94f95',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'लिसु: दक्षिणी',
     NOW()
   ),
   (
-    '7da75b6f-1479-448e-8fd7-6431af3c8bcd',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '50be0a16-9c11-4c80-b6d2-d738f5020776',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     'ลีซูใต้',
     NOW()
   ),
   (
-    '95e1e970-94ab-4b2d-bf30-5dfe14636538',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '13ff6aee-790a-40d4-b9f0-14ef2232ac1f',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     '南傈僳語',
     NOW()
   ),
   (
-    'a4023328-2bad-44af-b091-d8c515d728c4',
-    '62c3a0b7-fd2f-4e02-b884-4e93324c1c4a',
+    '45abccbb-0b96-4c6e-aad9-81efa6057834',
+    '8368792a-5600-43ee-acbb-f65622286c38',
     '南傈僳语',
     NOW()
   ),
   (
-    '63d008f6-50b5-41cf-924f-c019994e13c9',
-    'ac3598f5-c03e-4f4b-a008-66e36061bb8d',
+    '13cddd66-27d9-4fbb-96d3-a699b5ca2d00',
+    'd3345f6e-2d18-4723-a990-610797962094',
     'Ixil, Nebaj',
     NOW()
   ),
   (
-    '7b65389a-0ac5-4af4-a167-bdb04aff861a',
-    'ac3598f5-c03e-4f4b-a008-66e36061bb8d',
+    '19777a1c-afba-462c-a5b3-c7c90b9787f7',
+    'd3345f6e-2d18-4723-a990-610797962094',
     'Na''b''aj',
     NOW()
   ),
   (
-    'ed6c2afa-49ec-4546-a50e-0f9d0ad8731d',
-    'ac3598f5-c03e-4f4b-a008-66e36061bb8d',
+    'd6d2a5cf-3c01-4730-9289-e7e04cc175c8',
+    'd3345f6e-2d18-4723-a990-610797962094',
     'Nebaj',
     NOW()
   ),
   (
-    '8ceaca7d-5729-48e2-891f-101f3dd50b4f',
-    '130e194e-377b-4173-9bce-6615993ae1bb',
+    '4ae90863-6330-4b4e-a20b-8d30a6379803',
+    '174d53c4-e69f-4860-9f42-ad54d5a79d12',
     'Lamet',
     NOW()
   ),
   (
-    'c31928bb-a4a6-409c-b6e4-08d22ccd3d84',
-    '130e194e-377b-4173-9bce-6615993ae1bb',
+    'ddd133d0-c015-456b-9c41-ed585b05adc6',
+    '174d53c4-e69f-4860-9f42-ad54d5a79d12',
     'ขะเม็ต',
     NOW()
   ),
   (
-    '6afaf7a6-5423-4ac4-ae4b-2e798d80bb82',
-    '3259dc49-47b2-46b3-9d48-1ca70c5d6d44',
+    '2bfb5def-1381-4af0-a131-faeb7dcbf3b4',
+    'b0aecc05-fd1d-4644-a4bd-1a625eded80d',
     'Khmu',
     NOW()
   ),
   (
-    '54c60e06-42e7-45e3-b6d1-e2d5a97071f5',
-    '3259dc49-47b2-46b3-9d48-1ca70c5d6d44',
+    '40956d7e-4119-495e-8d1f-b6fc9ba4f3c8',
+    'b0aecc05-fd1d-4644-a4bd-1a625eded80d',
     'ขมุ ประเทศไทย',
     NOW()
   ),
   (
-    '76ccce83-61c1-4192-be7b-6c3043f33dfa',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    'bfcb4d5b-1948-4715-828f-3c59f6d01fd7',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'Karen: Pwo: Hod',
     NOW()
   ),
   (
-    'c6feb538-0fcb-48ee-b76d-0f1f7d0fc074',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    'dbdd7e70-95ae-4967-8aae-8ed11e4a8fe3',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'Karen, Pwo Northern: Omkoi',
     NOW()
   ),
   (
-    'c65b0be9-5866-4030-bd41-d764cecac9ef',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    '95d311b0-7c56-4b82-b2d8-c115309ac071',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'Omkoi',
     NOW()
   ),
   (
-    'd73065df-32a5-46b8-b873-6ac5f26e9f30',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    '1361568a-fc2b-411d-84c1-2c33208be20b',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'Pwo',
     NOW()
   ),
   (
-    '083d79ee-2b76-495d-b304-1f790bcb505e',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    'fc8a9903-efee-45aa-aa20-4700f64ff6ca',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'Pwo: Hod',
     NOW()
   ),
   (
-    '42894399-6620-483e-8032-e28c9404356e',
-    'fb30f0a3-7136-40b5-929f-876cd5baf302',
+    '5d3d0b93-e2fa-43e4-8f08-a1b5fab0fece',
+    'ea00b7f1-f6cf-4b64-948a-4eccfc426210',
     'กะเหรี่ยงโป ฮอด',
     NOW()
   ),
   (
-    'dc38c67a-a4bd-49b6-9e70-28b78fb017fc',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    'c4559b6d-55cc-4e48-b28f-e6934cce7f87',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Daw',
     NOW()
   ),
   (
-    'a11a4279-1990-4ff2-8dd3-7bd60364b6b8',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    'eb0d72d4-8720-417a-9e69-66d34ae2e4e6',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Hmong Daw',
     NOW()
   ),
   (
-    'bf7d276b-69c9-4dfc-a57e-76aa893d5013',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    'fe537504-d942-48ab-9bf4-69afc290ab79',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Hmong: White Lum',
     NOW()
   ),
   (
-    '912d6cc2-e2c3-4ee4-ad2d-dafef7c0c668',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    'f5bee247-b321-49bd-a497-a7cbafc4bf0f',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Meo Kao',
     NOW()
   ),
   (
-    '3fdf1b26-4348-454b-bdd5-810587ab708d',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '425c8f96-2d87-4f9e-83b5-ab0545e36be6',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Meo: White',
     NOW()
   ),
   (
-    '585bb021-0186-495d-b654-8e541a02f803',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '0043bdab-e869-4437-9864-d63442b06a50',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Meo: White Lum',
     NOW()
   ),
   (
-    '17b38888-7b49-4693-adad-20d637a8beab',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '04d4e65c-d3a8-4a84-aa8d-a61b8dde4c41',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Miao',
     NOW()
   ),
   (
-    'f4ac73d0-fd21-4e91-ab27-896ecf706897',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '7b886927-83dd-4391-9878-62b5164db16b',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Miao: Chuan',
     NOW()
   ),
   (
-    '083f9b49-fd2c-4dea-a4c6-7e692a1fbd67',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '5c6d8bf9-96ae-4c69-bb87-4b081acbea70',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'Miao: White',
     NOW()
   ),
   (
-    'aff8d035-fc7b-4fb3-bd91-583979b166f4',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    'b2a14323-6643-4bf0-a0de-00ad48997a0e',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'White',
     NOW()
   ),
   (
-    'b206bddd-6f5c-4df5-a4a5-f59dd40ad31e',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '67458357-07be-4208-b281-5ad9f2cfbd57',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'White Lum',
     NOW()
   ),
   (
-    'e069c758-d0e7-4196-9562-a74c44fd9204',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '9a399cc2-fe21-4ae8-8d20-ae1b5597dfbb',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'White Meo',
     NOW()
   ),
   (
-    '26690420-ef24-4aab-97ea-650c94c1a69b',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '1e94f687-0bed-4593-993e-a37971a244ae',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     'ม้งขาว',
     NOW()
   ),
   (
-    '46d0680f-fd52-4bc7-b792-6b7ef2445e79',
-    'ad3eaec8-4d30-4faf-a4a4-f6990a68606e',
+    '46d3fee3-72b0-47ad-a9c1-8d290698ceab',
+    '0a6d4254-6973-4474-8ef5-37ecb211f0b2',
     '赫蒙兜',
     NOW()
   ),
   (
-    '52f023de-c5d3-4d6f-86cc-29c7313bece4',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    'b38b7fb2-f7d5-41df-8190-3c5fd803c22a',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Blue',
     NOW()
   ),
   (
-    'c684868d-0c78-4f2e-8b33-d4335437f8f0',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '7cb839bd-aa6b-4103-96bb-37298e35bb31',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Blue Meo',
     NOW()
   ),
   (
-    '027f41c0-f3f0-4558-ba45-51751a32dfde',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    'eaabe7b9-5447-439c-991a-deefb34fe3bc',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Hmong, Njua',
     NOW()
   ),
   (
-    'b6b88f56-ca9b-4a6c-8017-ba191e3bf4d9',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '8294b8a6-c2fb-4353-8f3c-b50bc9625829',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Hmong Njua: Tak Miao',
     NOW()
   ),
   (
-    'ee579277-373c-45a4-8df8-02e7ad4a2fac',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    'df6e3327-424e-4777-93ce-219f0f2708f2',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Meo: Blue',
     NOW()
   ),
   (
-    '982cd954-79e1-4180-b08b-11eefac166fb',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    'cadef772-3a64-437b-b260-44143eb3a475',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Meo Lai',
     NOW()
   ),
   (
-    'b12eb64c-cd41-4102-9771-c03e6229d0fc',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '1682fb73-b3e0-477f-95fd-1c58d69a3b92',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Miao',
     NOW()
   ),
   (
-    '57bc3057-5557-4ea8-a585-10869e7e1ff2',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '9cccb6d0-a0c2-439d-ae5d-b345ca82dfd2',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Miao: Blue',
     NOW()
   ),
   (
-    '407b8fac-07bd-4831-8add-b32386b5149f',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '62bf4b3f-88c3-429c-b39f-fbed21fbb075',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'Striped Miao',
     NOW()
   ),
   (
-    '3838b3fb-3583-4334-ba8e-2ab9ad516c01',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '64faa3d7-b686-4284-b991-185d3cee7196',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     'ม้งเขียว',
     NOW()
   ),
   (
-    '5ea451fb-d11e-4c34-a1b6-f633a40875c0',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    '35036c1d-7c7b-4323-b731-8b1d9cfd041a',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     '赫蒙巨額',
     NOW()
   ),
   (
-    '786a7352-fe0c-4034-b32e-00598a34de59',
-    '1aca1bd7-f23b-4a60-a778-3a5bbeca5ef8',
+    'c02329f1-9139-432a-96ff-f24a94151708',
+    '0c1de8d9-657d-4a21-b695-fb62b032f439',
     '赫蒙巨额',
     NOW()
   ),
   (
-    'fec734da-35f0-4844-8540-025778d4d4c8',
-    'afb2af96-75bf-45af-9fe6-63939a9b343f',
+    '9b0aac2d-4df4-4b2e-a15a-4fd7450bcfea',
+    '7a872e76-0e0d-4dba-9257-2ee5736a0f17',
     'Mam',
     NOW()
   ),
   (
-    'b307ba6d-3496-4ba8-b8a2-4708efb793b5',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    'd3cdcd94-2b26-470c-aab9-5762eb453d64',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Basilaki',
     NOW()
   ),
   (
-    '83e9281c-5dbe-44c5-8572-ab2b900b4bb7',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    '025dc5a4-ea62-4889-841f-3f35e82e2ffa',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Bohilai',
     NOW()
   ),
   (
-    '5bb91dd7-f3ba-4eaf-9beb-5b4a4ca1b86d',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    'b2dede1d-f9cf-4b22-bd83-f428228e2176',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Bohira''i',
     NOW()
   ),
   (
-    '8762ee7f-4633-4057-9061-329171a4e336',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    'bc2354de-39c5-4325-b5a5-2fd151e0f209',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Bwasilaki',
     NOW()
   ),
   (
-    '9441b767-306f-420f-99c0-54923be12762',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    '718bd325-310a-4ee2-bc78-1425a4146c18',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Tavara: Bwasilaki',
     NOW()
   ),
   (
-    '7b55d0bd-851d-462f-bcf9-bf6f2f18ebaa',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    '907ca0e4-9be0-47d0-927c-59b5be6f425e',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Tawala: Bassilaki',
     NOW()
   ),
   (
-    '735db1cb-5a9c-465b-9b6a-bb53e9811b98',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    '4f96c492-396e-46ba-b665-e817830f8485',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Tawala: Bohira''i',
     NOW()
   ),
   (
-    'b6d93aee-c628-4b63-be32-8e5f61255083',
-    'de81034c-e5a6-4a0f-9946-d4fee740b912',
+    '572fc4ad-8cdd-424d-b71b-e684919b1c9b',
+    'dd1f0d63-929d-4974-9cb8-1c4156390c1c',
     'Tawala: Bwasilaki',
     NOW()
   ),
   (
-    'e2a616db-3054-4122-9beb-122a9086b1a2',
-    'e3f05433-a308-4181-a60b-18645f052064',
+    'aa8578ad-fe33-4b95-9263-393d7d4e3421',
+    '4f507953-8b5c-4c15-9732-61d4142a6da8',
     'Ewage-Notu',
     NOW()
   ),
   (
-    'e719462a-6aea-481c-8cfc-0d90ef8812be',
-    'e3f05433-a308-4181-a60b-18645f052064',
+    '8db48e00-3df1-4c6b-8d06-d531a864d9fc',
+    '4f507953-8b5c-4c15-9732-61d4142a6da8',
     'Notu',
     NOW()
   ),
   (
-    'd2c36acf-e72c-4f94-b709-08e0f5d6627d',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    'e579fc58-3f03-4729-b1ed-8c40beb29c9f',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Gibario',
     NOW()
   ),
   (
-    '851fe2b1-9433-438a-a4fa-e9d7535ec5db',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    '28c3a28e-c625-4560-9f2d-5a77caba5f60',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Goaribari',
     NOW()
   ),
   (
-    '0541f325-4d92-4f15-9bcc-135ece49af84',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    '4b2ebde7-14e3-48cf-8949-859882f93c48',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Kerewa',
     NOW()
   ),
   (
-    '109d2eef-f176-4f42-91b8-da32fc56cb98',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    '39801915-16ae-4cff-bda4-21ecb8ca6413',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Kerewa-Goar',
     NOW()
   ),
   (
-    '1288edf7-3952-4d91-98b5-3b521dff21a6',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    '65d24cea-5608-47b9-8bec-c4db98625d0e',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Kerewa-Goari',
     NOW()
   ),
   (
-    'd7744e30-8841-4fb8-b6b4-97ed11b4ba25',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    'aab858d6-b1da-4585-926d-bf0cc86024de',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Kerewo',
     NOW()
   ),
   (
-    '3db8ae5b-2706-4282-867f-5983f9557e23',
-    '504f5943-83a1-4d57-acf5-1e0ddf9edb1c',
+    'a64774f0-3e83-498d-85da-be4ee39fccaa',
+    '4d40bb92-429d-4a29-a0b3-67e92bd8e984',
     'Kerowa',
     NOW()
   ),
   (
-    'a50ef8e6-0cd7-438d-ac25-24afcb240d93',
-    '61a630a6-0dc3-42ec-8ffb-bf27ce0ead1b',
+    '62bb630e-c19a-46b3-aa19-08e1ddb50cb4',
+    '9a469641-247f-4435-8601-183237b3931a',
     'Chinese, Min Pei: Hockchia',
     NOW()
   ),
   (
-    '201115eb-907c-48d3-8830-d3a5d69095d7',
-    '61a630a6-0dc3-42ec-8ffb-bf27ce0ead1b',
+    'c012a3af-b211-42a2-b116-ae9814c1cef4',
+    '9a469641-247f-4435-8601-183237b3931a',
     'Hockchew',
     NOW()
   ),
   (
-    'd77d837c-6ad8-48ff-a74c-f6c8f7abfbd5',
-    '61a630a6-0dc3-42ec-8ffb-bf27ce0ead1b',
+    'ff76cd28-e298-40ec-93e8-6e648ce1b62a',
+    '9a469641-247f-4435-8601-183237b3931a',
     'Hokchia',
     NOW()
   ),
   (
-    '1dc7780f-061a-48f4-94f9-b7ce7d240776',
-    '61a630a6-0dc3-42ec-8ffb-bf27ce0ead1b',
+    '58bf5c3b-4366-4168-a80f-1440848842fd',
+    '9a469641-247f-4435-8601-183237b3931a',
     '闽北',
     NOW()
   ),
   (
-    '2de929a6-6b30-4457-82c4-a5f7a0851eee',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '04eb2ad1-7eae-48a4-ba99-d57bce26bba9',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Chinese Shan',
     NOW()
   ),
   (
-    'ad38953b-08e9-41d2-9750-bf49ca8088d3',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '33a0d114-a3d6-4f48-a8c0-57243bd35335',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Chinese Tai',
     NOW()
   ),
   (
-    '568a3645-163c-4057-ba7f-c37dffbe97e1',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '6f1f6681-a1e9-4290-86c3-6c3d5da805aa',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Dai Kong',
     NOW()
   ),
   (
-    'a8b89080-98af-4d07-90f3-28c89f1a8a67',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'cf7a5b0d-a635-4c76-a0bc-6d6262aff793',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Dai Na',
     NOW()
   ),
   (
-    '0db77ace-c6f3-4370-a26d-7f7ef23cc8d9',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'ae6ab863-c7b1-4492-9afc-fa5b15a40000',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Dai Nuea',
     NOW()
   ),
   (
-    '57ca9b34-ada4-48ed-8821-27b6b1c31ce7',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'adc2c5b9-47fd-4e7e-8f5e-4bfebc470ae7',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Dehong',
     NOW()
   ),
   (
-    'f7d4d989-a035-489f-9a47-7e243dd5fcf9',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'e5c5a229-a341-4aed-8239-9202fe4ce74f',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Dehong Dai',
     NOW()
   ),
   (
-    '8c0a5507-ce05-4c76-b6ea-a5bf551f053e',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '9df77293-5f77-4dba-bdc9-daafa1481898',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Dehong',
     NOW()
   ),
   (
-    '813f8436-b1f0-492a-8c31-16057c629909',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'eaa20457-0208-4661-8de9-276d49593c93',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai-Kong',
     NOW()
   ),
   (
-    '9c0bdf13-5e3e-442d-b515-64b554ffa72a',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'f3ae2d01-4ed1-4a64-974a-c20af19cead9',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Le',
     NOW()
   ),
   (
-    'debe8abb-aa47-48b0-bbc4-37ac820e7ae6',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'b8020616-0ac8-4c7e-932b-15e44a0c4d84',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai-Le',
     NOW()
   ),
   (
-    '556d221d-4618-4516-9809-b48d4014504d',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'cbc7772c-12cb-47a1-8847-ed8d7f2e862d',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Mao',
     NOW()
   ),
   (
-    'cb9ff1eb-3eef-4be1-b91a-f0af8e20ec2a',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'cad2d504-56a2-426e-a494-f79b85c73f0e',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Neua',
     NOW()
   ),
   (
-    'b1873a4d-17d9-40e2-884d-fd9553a622ec',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'd617e77a-1fe3-4735-aa45-d083fc020c93',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nü',
     NOW()
   ),
   (
-    '4fe8fa3a-db9d-4f96-934e-24f330831516',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '4e18e6c4-7e2f-4430-bc4d-d2383626bb89',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nua',
     NOW()
   ),
   (
-    'db48c7a3-cdd1-4e3e-8801-9abc4b1ce958',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '2cd59d4c-e3fc-4d44-8940-97236c1ea4a2',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nua: Dehong',
     NOW()
   ),
   (
-    '6fbdf6a3-e81a-4e79-a6be-b5a4afa3d21a',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '36710899-fb29-4fc6-9a9d-a0d3faa35698',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nüa: Dehong',
     NOW()
   ),
   (
-    '84d22c1a-f1fe-4ffe-ae36-ced7663271e9',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'af229434-c851-431a-9caf-6c40d3045a02',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nua: Tai Pong',
     NOW()
   ),
   (
-    '4c223251-53e6-4283-ab06-0fdd03eece2b',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '8e43c2b0-0b2e-44ad-8a22-74dfe887d3d7',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nüa: Tai Pong',
     NOW()
   ),
   (
-    '3c3b7350-a689-4bb6-8b73-6192fa3a3676',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '3f7795ce-b9ad-48b5-8cb6-cbf5633bd840',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nua: Yongren',
     NOW()
   ),
   (
-    '6f5fe710-b713-44f1-afc7-16caebacef02',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'a3e19221-d023-4dfa-bcd0-b55eb260f77e',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nüa: Yongren',
     NOW()
   ),
   (
-    'bab229ec-a2fa-410e-b32e-e7ca03999d43',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '3ecc7973-2cd3-46b2-bedf-8f19c8e2f4a1',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Nue',
     NOW()
   ),
   (
-    '3899b54a-941f-4cab-b1a8-625bca4d9cab',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'bcb04554-5a4f-4f4b-a4aa-c9ac43ff7dd5',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Tai Ya',
     NOW()
   ),
   (
-    'a04f8a31-cf7b-4fd8-9add-345fb70e5bc7',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '5712b268-14b1-4e17-a09a-ab59bdfe482b',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Yunannese Shan',
     NOW()
   ),
   (
-    'ededa517-e6e7-474d-aeab-cc16db17f8e0',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '8cbb136a-256e-4988-8e19-3ca4e4cf9911',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'Yunnan Shant''ou',
     NOW()
   ),
   (
-    '291d578a-98b5-4c50-b852-b0a34b34d39c',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'ce4d3666-2639-49cb-8ab3-bc0f7b73238a',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     'ไทหย่า',
     NOW()
   ),
   (
-    '183e0180-5da0-4c81-83be-8c05eed1ac0a',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'd32de25c-cfc9-4e21-a80b-83e19f797008',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     '傣雅語',
     NOW()
   ),
   (
-    'b2b24d3f-7e73-48cb-9732-cda1fb14ab70',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    '0ca45e38-f933-407b-b8de-477faa55c08d',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     '傣雅语',
     NOW()
   ),
   (
-    '1fdc18bd-768e-4ca8-b1b4-3927f1c01ab0',
-    '98a0bb19-27d4-4ef0-afa2-ad830eafbae2',
+    'd4eceb2d-9f10-40fd-a2ef-36855cf4c99f',
+    '7703031b-f8e0-4152-b945-9b6e657c7b48',
     '雅',
     NOW()
   ),
   (
-    'f0c00447-2fb6-47e3-ae86-a21e2de90251',
-    '1439ba94-3e9b-438c-9cb0-5a7254579b51',
+    'd211b89d-f41a-41f4-99da-62257051898a',
+    'ad9983ea-c24c-452f-af4e-7f93573c98d5',
     'Olo',
     NOW()
   ),
   (
-    'f28bcb31-540f-47e8-8341-1d6d2eaded47',
-    '1439ba94-3e9b-438c-9cb0-5a7254579b51',
+    'd7e4591b-d929-4b88-8260-9251b65c0ba9',
+    'ad9983ea-c24c-452f-af4e-7f93573c98d5',
     'Orlei',
     NOW()
   ),
   (
-    'dac5444b-b725-4805-ab55-8bd224ff6f4d',
-    '1439ba94-3e9b-438c-9cb0-5a7254579b51',
+    '6797d089-83ed-4be3-8952-cff81a78ec73',
+    'ad9983ea-c24c-452f-af4e-7f93573c98d5',
     'Wape',
     NOW()
   ),
   (
-    '13f0465a-7335-4d6c-9168-f27085eb8109',
-    '1439ba94-3e9b-438c-9cb0-5a7254579b51',
+    '33659f1b-77ff-45b0-a2ff-51f52701bd3f',
+    'ad9983ea-c24c-452f-af4e-7f93573c98d5',
     'West',
     NOW()
   ),
   (
-    '981aabe3-b921-46a2-bf9f-d3c1e5f98c70',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    'a2e3f0d0-973c-4ce7-bb34-10ea0de66cc6',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Bahenemo',
     NOW()
   ),
   (
-    'edadf222-8d7d-43c9-8d16-e37be40cec9b',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    'f86d90b2-3373-4273-9e0e-fef1b5867c2f',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Bahinemo',
     NOW()
   ),
   (
-    '9baf2f6e-4328-45cd-a047-5d0d0a3bceef',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    '2eed81ff-fbf8-46d9-9ca9-bf04d68c66f3',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Gahom',
     NOW()
   ),
   (
-    '0153f8b8-ebbd-4eb0-8ccb-41dbfea3936c',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    'ac3b661a-980b-4720-acac-bf37c8320356',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Inaru',
     NOW()
   ),
   (
-    '86d5a636-ebbb-4e9a-8509-07ee9c8ebf77',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    '3f3e5dd2-a746-4e5f-aed6-63ae1a78de47',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Wogu',
     NOW()
   ),
   (
-    'bd1a61f5-ec56-4499-ab4a-2624e80aba87',
-    '5453e61b-fb89-47d6-9f4d-4360ae177296',
+    '55c661c5-337a-4a34-866e-a2c71c518838',
+    '44006e97-44cb-486c-bdbb-c8952e73fdcf',
     'Yigai',
     NOW()
   ),
   (
-    'f1f7507a-9200-47f8-b56f-9938a7767ff1',
-    '7e8d7d96-70b4-4c28-ab32-c48b4103c7a4',
+    '291c2aea-187d-4f79-bd24-60e7454cc39d',
+    '9be0d856-a21b-4a9c-b4cf-433535769ed0',
     'Tumleo',
     NOW()
   ),
   (
-    'c0ddbde8-2a1a-41e7-ac1f-784b2c5199cc',
-    '36b73e1c-c7b6-4182-8796-6b58e139af39',
+    'a2b76fde-542b-4601-be3b-3b9d92470854',
+    '15224557-b8f2-42a9-a8b3-bef0ba0f0774',
     'Yakamul',
     NOW()
   ),
   (
-    'f6da7acd-d7d0-44c2-ade5-afa4b8aaa236',
-    '0e6ff331-1042-4230-a591-dfcc21b446aa',
+    'a6fbb71d-4079-49fd-9fa3-2a4229660ca4',
+    '94c64f9f-c177-42a5-9923-49b5d4fda42e',
     'Abau',
     NOW()
   ),
   (
-    'b7d818dd-2d71-4488-b259-340137071a8c',
-    '0e6ff331-1042-4230-a591-dfcc21b446aa',
+    'b8768d51-5a8d-4ceb-914c-ee0b41e09d6b',
+    '94c64f9f-c177-42a5-9923-49b5d4fda42e',
     'Oriyai',
     NOW()
   ),
   (
-    '3c8702b3-4810-4fb4-897d-50be42940c9b',
-    '0e6ff331-1042-4230-a591-dfcc21b446aa',
+    'afc4d54e-c98b-4816-885e-fc05a762dcb9',
+    '94c64f9f-c177-42a5-9923-49b5d4fda42e',
     'Upriver Abau',
     NOW()
   ),
   (
-    '8475410a-6a73-450d-812a-4f43df8b78b2',
-    '0e6ff331-1042-4230-a591-dfcc21b446aa',
+    '572bae0d-69fb-4f65-b445-188ffe474d24',
+    '94c64f9f-c177-42a5-9923-49b5d4fda42e',
     'Up-River Abau',
     NOW()
   ),
   (
-    '79e07c3a-17db-4b82-9123-ddf11771bed6',
-    '0e6ff331-1042-4230-a591-dfcc21b446aa',
+    'd594e021-d708-410e-9e12-c340c0eb26e2',
+    '94c64f9f-c177-42a5-9923-49b5d4fda42e',
     'Абау',
     NOW()
   ),
   (
-    'e1bb055b-f31a-40fa-bd73-9e43a82335da',
-    '8a57cf4f-1688-4a78-a5bb-d9e95c05dbfe',
+    '6084dfd0-c1a8-4922-a5e1-573dcbfc637a',
+    '656be28b-a246-4b60-b680-cabb482d0831',
     'Belerupu',
     NOW()
   ),
   (
-    'd468eae5-2ba0-40d6-9db4-bf41257b06af',
-    '8a57cf4f-1688-4a78-a5bb-d9e95c05dbfe',
+    '66683479-96fd-43e2-a057-301ad7ade523',
+    '656be28b-a246-4b60-b680-cabb482d0831',
     'Vilirupu',
     NOW()
   ),
   (
-    'd35cd6ae-ba1a-447c-8ba3-b1d4ae9b4b27',
-    'f41641f6-f366-47fd-b524-8e38e8cdd916',
+    '6d32f181-aa1c-4a7e-a049-59b6a7439f3b',
+    '3429faac-b94a-442c-8d83-892bc5de89d7',
     'Tami',
     NOW()
   ),
   (
-    '9a26c463-bc79-470d-8bb0-f2051f1fa81a',
-    'c3779a34-5b04-4553-a7d3-8fb18fbd0436',
+    '252930dc-0902-49a4-9264-03ab44031501',
+    '6c0326cf-de99-4747-bc3e-4ca08270ac0b',
     'Mahaxay',
     NOW()
   ),
   (
-    '40022cca-35e5-4310-991a-d51cf6ced5c8',
-    'c3779a34-5b04-4553-a7d3-8fb18fbd0436',
+    'aa63b9e7-f731-4936-b2a8-787825af90a8',
+    '6c0326cf-de99-4747-bc3e-4ca08270ac0b',
     'Nhommarath',
     NOW()
   ),
   (
-    'ffef3288-9740-4fa0-984b-1548ad4af913',
-    'c3779a34-5b04-4553-a7d3-8fb18fbd0436',
+    'aec74934-7820-498d-ac67-d6775a68f56e',
+    '6c0326cf-de99-4747-bc3e-4ca08270ac0b',
     'So: Mahaxay',
     NOW()
   ),
   (
-    '6008d71a-5c49-49ad-80d1-007d2c9422c0',
-    'c3779a34-5b04-4553-a7d3-8fb18fbd0436',
+    '07505067-af58-464c-873f-7bd9ed34520a',
+    '6c0326cf-de99-4747-bc3e-4ca08270ac0b',
     'โซ่ ญมมะลาด',
     NOW()
   ),
   (
-    '6175ce86-5deb-4dfb-bef0-d23aecf3eee0',
-    '96aad326-d6ff-475b-9634-63dfc38ee6e4',
+    'ed609860-7901-435a-b0d6-b157625dfb3d',
+    '57d9a9ea-8e3e-4bd4-b97d-66e635aa695d',
     'Sinagoro: Taboro',
     NOW()
   ),
   (
-    'c32c8cc4-9d17-47d9-a5e1-02c185ce236f',
-    '96aad326-d6ff-475b-9634-63dfc38ee6e4',
+    'e4eff764-3092-4646-ba1f-9b52100b5804',
+    '57d9a9ea-8e3e-4bd4-b97d-66e635aa695d',
     'Taboro',
     NOW()
   ),
   (
-    '0885f441-1822-4eda-92cd-c6ca82ed3517',
-    'b72bf2e6-09b9-4da6-87b0-32b0cb573ad1',
+    'a9a34c43-d34e-4ee2-bfe4-24414c2a3807',
+    'd8ecc4bb-3062-4089-9885-28a93fc6e074',
     'Dilava',
     NOW()
   ),
   (
-    '2045212a-af99-46ab-9f88-d8d744d45429',
-    'b72bf2e6-09b9-4da6-87b0-32b0cb573ad1',
+    '594a236a-b538-4336-b5b7-c4f51060c342',
+    'd8ecc4bb-3062-4089-9885-28a93fc6e074',
     'Fuyuge',
     NOW()
   ),
   (
-    '8aab4373-2421-4973-943e-109010a4246c',
-    'b72bf2e6-09b9-4da6-87b0-32b0cb573ad1',
+    'bd89bff4-4e51-4dda-b81b-46ab794cd4d8',
+    'd8ecc4bb-3062-4089-9885-28a93fc6e074',
     'Fuyuge: Dilava River',
     NOW()
   ),
   (
-    '6b646beb-2eda-426c-8e9c-4b4b768ad2c2',
-    'b72bf2e6-09b9-4da6-87b0-32b0cb573ad1',
+    '53ae5ed4-385a-4d6b-9d1e-d5b773315a58',
+    'd8ecc4bb-3062-4089-9885-28a93fc6e074',
     'Fuyughe',
     NOW()
   ),
   (
-    'ca398291-e7d4-45b4-915a-3e6cab1236a9',
-    'b72bf2e6-09b9-4da6-87b0-32b0cb573ad1',
+    '035fbcee-a66a-4ad8-852f-6abd67fb68e8',
+    'd8ecc4bb-3062-4089-9885-28a93fc6e074',
     'Mafufu',
     NOW()
   ),
   (
-    '50e7bd54-61bb-4ef8-a413-25e16659a214',
-    'c09edbde-de9e-442b-a508-580b7c368261',
+    '513dbf59-6d9f-43ae-b1dd-68ace7dc96c8',
+    '0054c748-85d8-42c7-9049-fa8e622e071c',
     'Tirio',
     NOW()
   ),
   (
-    '7fec829b-c48d-4a42-9199-fc1a3c0bd5bb',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '8772d67e-2bae-4054-9281-4ede8298c011',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Concepcion Jacalteco',
     NOW()
   ),
   (
-    'cf470750-1c04-4b17-83e0-5b5659fed4c1',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '71183c20-589b-42ab-95a0-61c7b1a473f9',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Eastern Jacalteco',
     NOW()
   ),
   (
-    '5bfdfac1-ba00-47a2-8e84-ffb12d4148c8',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '00d0a4c8-501e-404f-a89a-d955ba162464',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Eastern Jakalteko',
     NOW()
   ),
   (
-    '0ab8e9bf-3077-45b2-8bd5-e5bac40ea09f',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '29f7bae1-f8f7-4090-80b6-69f203f36807',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Jacalteca',
     NOW()
   ),
   (
-    'bb6a5a2d-8d33-4d28-8151-b1de94ee68f8',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    'c1ad5af5-eb8e-4ede-9697-3ae532bde962',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Jacalteco',
     NOW()
   ),
   (
-    'cc8e4f74-7d07-4ae9-bd9e-31292b321b17',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '04285ee0-d7e6-44c0-9399-418976a9d965',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Jacalteco: Concepcion',
     NOW()
   ),
   (
-    '30ec30ff-b709-435c-a403-d50790a5d125',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '0fe05898-d2c5-4276-8872-c53a24d14587',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Jacalteco, Eastern',
     NOW()
   ),
   (
-    '09298b52-dded-49f1-a6e9-60411cad356d',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    'e9c4c801-0a04-40fc-95a5-cdda62e722da',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Jacalteco: Eastern',
     NOW()
   ),
   (
-    '3616af40-41b8-45b2-a82d-de2277e96fab',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    'a534c02f-8efe-4aaf-8679-55b79ad8520f',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Popti',
     NOW()
   ),
   (
-    '0ce412c9-1a62-4deb-9a22-ee936a72d336',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    'd3df1295-eb37-4c17-a574-69c02c59d081',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Popti''',
     NOW()
   ),
   (
-    '07a75d20-26af-412a-bcef-3d5d519eab9a',
-    '248502e5-014c-439d-946f-488c4c1e4461',
+    '3fe90182-f3dd-4510-9b30-f49b2796bf43',
+    '547de49d-a256-467e-b923-81c2deb7311d',
     'Popti'': Eastern',
     NOW()
   ),
   (
-    '86c234bd-b706-41d8-add8-c3c249bf8ed7',
-    '2d04dddb-0458-423b-97ae-2afc3cfb7ec2',
+    'e2fb73b2-fb1c-493e-9bb1-f5b7d197355b',
+    'cfcd3925-b9a4-4a03-9170-97d1947aacc5',
     'Lewada-Dewara: Balamula',
     NOW()
   ),
   (
-    '302f1ee5-a4bd-42ee-9c94-04d946a6e4e7',
-    '2d04dddb-0458-423b-97ae-2afc3cfb7ec2',
+    'f9f871f6-baa3-455a-afd6-107f759e2467',
+    'cfcd3925-b9a4-4a03-9170-97d1947aacc5',
     'Lewada-Dewara: Mataru',
     NOW()
   ),
   (
-    '18ab9492-b3a0-4af2-8e85-b20595f607e7',
-    '2d04dddb-0458-423b-97ae-2afc3cfb7ec2',
+    'e1728699-96b3-46c5-b7c8-ea28ef371491',
+    'cfcd3925-b9a4-4a03-9170-97d1947aacc5',
     'Riang',
     NOW()
   ),
   (
-    'cd8b2f9e-cf7c-4b49-b521-b56446e99731',
-    '10f1b20c-c8c9-4982-902d-ac63c33f6b26',
+    'c2ee4e6e-7d8c-4bd6-bd63-630d5695bc3d',
+    '630732b3-d2a9-498f-88b8-d744ff95e224',
     'Tuam',
     NOW()
   ),
   (
-    'ab99810b-4a45-4f4b-903a-a11401564e08',
-    'b8e2e203-3909-4054-bc09-dd089a12d8ed',
+    '958c85f5-f344-4201-aba1-41fe3bfb2b1b',
+    'e779c59f-4929-4412-884d-04b6ee7950d5',
     'Chimbu',
     NOW()
   ),
   (
-    'bd6df857-06b9-4e11-91b9-707489c2609c',
-    'b8e2e203-3909-4054-bc09-dd089a12d8ed',
+    '09e520e8-620f-45c8-ba62-7703679a97dc',
+    'e779c59f-4929-4412-884d-04b6ee7950d5',
     'Ega',
     NOW()
   ),
   (
-    '4723cad1-6a20-421c-940b-279b03b14b2e',
-    'b8e2e203-3909-4054-bc09-dd089a12d8ed',
+    '8829a9be-d97e-4984-8466-ea6aaa473721',
+    'e779c59f-4929-4412-884d-04b6ee7950d5',
     'Kuman of Ega',
     NOW()
   ),
   (
-    '93d696e3-2256-4f32-8ad6-d50a22a76fb7',
-    'b8e2e203-3909-4054-bc09-dd089a12d8ed',
+    'ca8d087e-8060-4720-b196-1b78e7f0399b',
+    'e779c59f-4929-4412-884d-04b6ee7950d5',
     'Simbu',
     NOW()
   ),
   (
-    '8e21ec45-d062-4199-a9c8-8796865aeef9',
-    'cd752aa5-a7a3-4b40-ac27-fe734d58fc46',
+    '3aa4b7cf-4343-488f-a6a5-a64f6a973364',
+    'db54ba60-89e4-4125-89fd-2e02afc6fb23',
     'Nobone',
     NOW()
   ),
   (
-    '0b677c73-4b46-4e8f-92a3-6a306a28d4fe',
-    'cd752aa5-a7a3-4b40-ac27-fe734d58fc46',
+    '0ce5770f-65ca-4421-bc5b-0edc3f33e29d',
+    'db54ba60-89e4-4125-89fd-2e02afc6fb23',
     'Wiga',
     NOW()
   ),
   (
-    '338f1974-6162-449d-af2c-15093b8e9392',
-    'cd752aa5-a7a3-4b40-ac27-fe734d58fc46',
+    'b3eb7668-28a8-4c0d-821e-1eabc895463d',
+    'db54ba60-89e4-4125-89fd-2e02afc6fb23',
     'Wiga & Nobone',
     NOW()
   ),
   (
-    'ef23f385-7382-4a41-a8d8-a46c80133751',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '8b7a14b3-1439-44d1-b6c0-56a2d06e4aa6',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Arop',
     NOW()
   ),
   (
-    'c215e651-a6f5-46ac-99a9-1ee286e6cbaf',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    'b2970c24-5c74-46c0-bf27-b2fd352a1c86',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Arop-Lokep',
     NOW()
   ),
   (
-    'd2a613c2-cf58-4811-a50e-74792ef5d59f',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '25985d10-02cc-4199-aaad-84c8b8adca2c',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Lokep',
     NOW()
   ),
   (
-    '0c8141f1-744d-4dcd-bebf-a82be71e4399',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '441e6ef1-3b0f-4445-abb3-9d15dfe05666',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Lukep',
     NOW()
   ),
   (
-    'cd30e85f-5bc6-47ec-a9a6-5337c8521629',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '8cc8f880-028f-413b-88b3-e24d07095d2d',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Moromiranga',
     NOW()
   ),
   (
-    'bc1ce0f6-4509-47cf-865b-92705f45576e',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    'ce4578d3-5416-4758-83ae-4ae3aa33855e',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Pono',
     NOW()
   ),
   (
-    '8e242b2e-c022-4e48-b9fd-c975be1572a1',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    'd0ae1639-3145-418d-8560-c76877f8c619',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Poono',
     NOW()
   ),
   (
-    '0a204a1b-212f-43d2-b285-2c72e432ccdb',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '04a05bbf-541a-49b4-ad2d-41dc51a12a42',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Poonoo',
     NOW()
   ),
   (
-    'd42affe7-a56b-42f4-8ed7-07288e51a0ed',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '1af553cd-17e1-4f33-a23f-845fcfd781e5',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Siasi',
     NOW()
   ),
   (
-    '1a622752-446b-429d-88cf-7b89551cb592',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    '858f6c13-1df0-4cec-aae7-f1d54e3634c5',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Siassi',
     NOW()
   ),
   (
-    '797fc9ed-0663-4893-9cc0-a787b59323ab',
-    '1ba210a3-15b9-485c-a746-6fd753ee67b7',
+    'f08195ac-8cf6-4283-8568-40beee8a2d43',
+    'bbe5e611-d51a-4c0d-91d7-1bef60cc5731',
     'Tolokiwa',
     NOW()
   ),
   (
-    'e4e40af6-8c6b-46fb-842d-dbe68e18660a',
-    '293032ea-e7e3-4ff5-9e7f-703783768679',
+    'ae9c7053-bcaa-4129-b6e1-feb8c6a4fff5',
+    'b67eaa66-3466-46d7-a7d6-b952f11901bf',
     'Bamu Kiwai',
     NOW()
   ),
   (
-    '7585d691-b85e-42af-92a7-7e077c55df21',
-    '293032ea-e7e3-4ff5-9e7f-703783768679',
+    'a5acd21b-f3b9-44ac-93d9-90ce572e1096',
+    'b67eaa66-3466-46d7-a7d6-b952f11901bf',
     'Bamu: Pirupiru',
     NOW()
   ),
   (
-    'b679e9c6-1f73-456f-94ab-3952eecf5772',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    '98e27535-4d69-4cb8-b88e-34510f764a32',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     'Kucong',
     NOW()
   ),
   (
-    '038a8b90-5c54-4d6b-853f-81832411b782',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    '9562aa35-9f4d-492c-a585-3400c4c672a3',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     'Lahu Shi',
     NOW()
   ),
   (
-    '2fe6a47f-5df8-4627-a29f-278cca897add',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    'a40c491f-780e-497c-8ca6-b09a3bad00d2',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     'Yellow',
     NOW()
   ),
   (
-    '54e13c8a-af27-4f4c-a46e-1918c65ef350',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    '779a93ff-1b1e-43d5-ac06-04d7870bc323',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     'ลาหู่เหลือง',
     NOW()
   ),
   (
-    '3f065395-7d51-46a4-bff5-713c528d7f69',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    '3fe6d959-e380-4b74-a53f-ca20ffc8cbd9',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     '苦聪',
     NOW()
   ),
   (
-    'b63e80fe-b836-48ef-8df7-65dcfeafd748',
-    'cf3597af-0fc0-43f7-8426-7aa97df3ced1',
+    '87375a46-1e60-4329-b22f-b856495f1f14',
+    'e79ca92d-bada-4597-81bd-fb7d43021ef5',
     '苦聰',
     NOW()
   ),
   (
-    '658e40fb-0238-4ce9-aa3a-b4ca2678d9af',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '40d82109-36f2-454f-98fa-cc40f1a4944d',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Lahunyi',
     NOW()
   ),
   (
-    '9eac0901-ced2-4e94-9b58-02633c562590',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '238e3ed1-2cb7-45ec-bf6d-b63bc275a90f',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Lahu Nyi',
     NOW()
   ),
   (
-    '423ba8ab-1134-4495-aa56-52cddb0c1930',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '7f495ae2-c0cb-481b-b7b3-f5f7feafbf6d',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Lahu: Red',
     NOW()
   ),
   (
-    '9db8c1eb-d563-470a-86f0-3e9fa7a6cccd',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '7af1e624-29dc-4b02-bfda-1e6820825d0f',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Luhishi',
     NOW()
   ),
   (
-    '3a32ee8c-c437-4f97-b130-d4a71ab88558',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '83d87f63-1fba-489d-850b-a629ed624de5',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Luhushi',
     NOW()
   ),
   (
-    'df8c3ad9-6dd6-424d-999e-79fdc71204c3',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '591d22ad-91db-4ca4-8a2e-ded4ef5f29c1',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Musseh Daeng',
     NOW()
   ),
   (
-    '76f29ae0-61ef-4757-9c9e-ef4497940904',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '39083aee-c9a4-4428-94ad-0280df72d180',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Nyi',
     NOW()
   ),
   (
-    'fa2f6594-4e9e-4f0a-add0-0e809b4b5a5f',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '82e39de0-63ce-4219-b4c5-f83d8f4f4fb8',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Red Lahu',
     NOW()
   ),
   (
-    'c738c0a4-93c3-45c3-b9d1-11b0648679f5',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '6fc284f9-9d3d-49b3-9df5-9a51f9c114be',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'Southern Lahu',
     NOW()
   ),
   (
-    'a8f64ae2-1332-4d1f-8938-e7494b3bb6dc',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    'f894bbbb-930f-408b-a3f0-210ff18ef200',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     'ล่าหู่นี',
     NOW()
   ),
   (
-    '346a5054-5274-4b50-83e6-6b6f2b06a3ac',
-    '6cc80a8b-c3b2-4b21-9d7f-1a43fcb71100',
+    '3f1b7a17-3ce4-41ad-853e-d97eab7932f1',
+    'b0f87830-e986-42bf-b73b-6ee4742cce82',
     '拉祜',
     NOW()
   ),
   (
-    '12c54f1a-bc8b-4f4f-986d-810e8c187324',
-    'd99b87f2-de92-46e2-abc6-6e227fbe8add',
+    'cc073c3a-222e-4b51-bd0c-1dac6ead769c',
+    'f7f03ae2-6e54-413a-bc0f-6249f53aecf6',
     'Boikin',
     NOW()
   ),
   (
-    '2e3208e6-14b8-4b39-85b3-8168a4446c52',
-    'd99b87f2-de92-46e2-abc6-6e227fbe8add',
+    '4a024de1-5a89-4143-8679-15761a4d0034',
+    'f7f03ae2-6e54-413a-bc0f-6249f53aecf6',
     'Central Boikin',
     NOW()
   ),
   (
-    '2b469bb6-abf4-4c1e-b81e-769b670d8325',
-    'd99b87f2-de92-46e2-abc6-6e227fbe8add',
+    '7500a767-3ed9-4ddc-b15c-83528da8e234',
+    'f7f03ae2-6e54-413a-bc0f-6249f53aecf6',
     'Yangaru',
     NOW()
   ),
   (
-    'a59a55e8-189a-408f-a826-7c5bc947de48',
-    'd99b87f2-de92-46e2-abc6-6e227fbe8add',
+    '9b135569-62b2-4432-ae41-aa02bcdfc2b0',
+    'f7f03ae2-6e54-413a-bc0f-6249f53aecf6',
     'Yangoru',
     NOW()
   ),
   (
-    '511ab708-ccab-47b3-811b-546849e07c25',
-    '849aaa57-a560-4c6c-b579-14c696db572b',
+    'd88df9d7-9c1d-4d0a-ac65-a32635b32efd',
+    'b3257f9d-4d47-4fd7-8eb0-1edd11839400',
     'Batu Belah',
     NOW()
   ),
   (
-    'dd10d1a3-644b-4f87-82b2-3a2b72b7db1c',
-    '849aaa57-a560-4c6c-b579-14c696db572b',
+    '8a637695-a205-41bc-97ca-cb8117cc12d8',
+    'b3257f9d-4d47-4fd7-8eb0-1edd11839400',
     'Berawan: Batu Belah',
     NOW()
   ),
   (
-    '2e8a40ae-1606-4906-8dbe-dc7361604260',
-    '849aaa57-a560-4c6c-b579-14c696db572b',
+    '97367887-cb55-449a-b30a-3fc26f8955d4',
+    'b3257f9d-4d47-4fd7-8eb0-1edd11839400',
     'Berawan: Batu Bla',
     NOW()
   ),
   (
-    '9076565b-9193-4963-98b3-a117d5b7b812',
-    '849aaa57-a560-4c6c-b579-14c696db572b',
+    '423e6622-b1a2-4e27-be25-580a45feab29',
+    'b3257f9d-4d47-4fd7-8eb0-1edd11839400',
     'Kenyah: Batu Belah',
     NOW()
   ),
   (
-    '95eab728-cbcb-48e2-89c7-8edd9d3a62c6',
-    '75a07cc9-571f-4bc2-a2c9-c8a518b82423',
+    'edee352d-6ab6-40a0-aef1-a3d9a7edd6d1',
+    'ddffb506-305a-4cdb-85ab-04877d70434e',
     'Berawan: Long Patah',
     NOW()
   ),
   (
-    'f7895e3c-9a81-4d18-a2f7-3baca69482fd',
-    '75a07cc9-571f-4bc2-a2c9-c8a518b82423',
+    '2e63e1c9-30d3-44e2-9471-2107ef127626',
+    'ddffb506-305a-4cdb-85ab-04877d70434e',
     'Kenyah: Long Patah',
     NOW()
   ),
   (
-    'ac7f07e4-ab42-4d4f-8b5d-aa0a93d38797',
-    '75a07cc9-571f-4bc2-a2c9-c8a518b82423',
+    '4e4ebf27-30b0-4b3c-bf36-49ee10e9e8a0',
+    'ddffb506-305a-4cdb-85ab-04877d70434e',
     'Long Patah',
     NOW()
   ),
   (
-    '49fd11cf-8791-4e95-936d-628c6d602d20',
-    '0db8eecd-7c3b-43f7-b148-502f0a30519d',
+    'cc3e78ed-867d-4642-a606-2b06bf546087',
+    '78c741d8-2838-492a-a52d-9b4b8a683d1a',
     'Pafulu',
     NOW()
   ),
   (
-    'c492b7f0-2143-4a2e-b166-de91665f9a7f',
-    '0db8eecd-7c3b-43f7-b148-502f0a30519d',
+    'e70c1a90-82c1-4c26-bc6c-3cf9762e8bb5',
+    '78c741d8-2838-492a-a52d-9b4b8a683d1a',
     'Palopa',
     NOW()
   ),
   (
-    'de2b6c4c-346b-4dfb-a089-8e096be1902f',
-    '0db8eecd-7c3b-43f7-b148-502f0a30519d',
+    '7a92193d-b7a6-4f9b-a2b2-ccf724c0b10d',
+    '78c741d8-2838-492a-a52d-9b4b8a683d1a',
     'Pitilu',
     NOW()
   ),
   (
-    '7316f00b-138c-468c-9d56-5f850a9bae73',
-    '0db8eecd-7c3b-43f7-b148-502f0a30519d',
+    'b2ef2d92-2a16-4274-a3d9-e84c35766950',
+    '78c741d8-2838-492a-a52d-9b4b8a683d1a',
     'Pityilu',
     NOW()
   ),
   (
-    '3a3f5425-d85b-4e31-92fb-a8bef0e44da8',
-    '05f3f58f-e1cc-4acd-8101-65bdae8ae97c',
+    '800327d2-e8c0-4a30-a935-c93c243188de',
+    '47cf5fb1-862c-4c49-bd33-fc528a957295',
     'ULAU II',
     NOW()
   ),
   (
-    '558327b8-a579-4ad3-857f-acc87f493d68',
-    'd978678e-cc39-4c74-9404-365d19d67ee7',
+    '89a9b835-872f-4d11-9f20-e19b8924e53c',
+    '482e9cf3-b7ff-493c-a573-ac313bd09d82',
     'Ali',
     NOW()
   ),
   (
-    '4bcf7763-17a6-4a7a-96f5-7b82edb3d631',
-    'd978678e-cc39-4c74-9404-365d19d67ee7',
+    '79a9d786-cf50-4436-a9a9-c698a58caa51',
+    '482e9cf3-b7ff-493c-a573-ac313bd09d82',
     'Yakamul',
     NOW()
   ),
   (
-    '9d912b45-9c95-46ea-9dc4-3c88547d8c85',
-    'd978678e-cc39-4c74-9404-365d19d67ee7',
+    '27856c7a-47fb-4050-be5c-031452cf7386',
+    '482e9cf3-b7ff-493c-a573-ac313bd09d82',
     'Yakamul: Ali',
     NOW()
   ),
   (
-    '4d440f08-3fbe-45dc-993a-4dcbb1ea1f56',
-    'b0910430-ed59-4fca-b33e-cd9a1d9ecf39',
+    'f9d912cf-1535-480c-ad33-99d8eb454d78',
+    '70137952-2ded-4a12-ad05-08f95e697ef4',
     'Northern One: Wolwale',
     NOW()
   ),
   (
-    '67781af9-348d-4f5f-9a3c-4077011ae8ee',
-    'b0910430-ed59-4fca-b33e-cd9a1d9ecf39',
+    '59002a17-08c3-441a-abe1-fea41cec0229',
+    '70137952-2ded-4a12-ad05-08f95e697ef4',
     'Walwali',
     NOW()
   ),
   (
-    'c62c907b-fdb7-4b19-b910-af1bd8f257b0',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    'baef2bdd-dc98-40e6-9d6e-831d8e7dc0b5',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Soumo',
     NOW()
   ),
   (
-    '5354ac89-70bb-4d7f-a6f7-14f611a65edb',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    '01bc95fa-2eb5-4492-9364-e15bcbbf9f64',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Suma Twaka',
     NOW()
   ),
   (
-    'f6e53b63-f36c-4443-8956-be903f199551',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    '967dd165-9863-4aca-8c71-f631366a47cb',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Sumo',
     NOW()
   ),
   (
-    '893ada7c-607f-4ff2-9a12-c0a280e1a0a2',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    'f2a9c31e-a357-42c5-a4d1-ef01902b6eb3',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Sumoo',
     NOW()
   ),
   (
-    '775b8dc7-ab61-45ba-bdd4-f2ce8b222859',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    '3c389335-4ae8-4554-a24c-48d000c97682',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Sumo Tawahka',
     NOW()
   ),
   (
-    'ece5c591-70ca-44e0-a577-2f9f82a302da',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    '9c70b86b-9fea-48bd-b696-ab3e7f52627b',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Sumu',
     NOW()
   ),
   (
-    'c52d231a-60ac-4e7a-a10a-69a141f9811b',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    'b60d2cef-8caa-42a5-ad4f-96d5be2aca33',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Sumu Twàka',
     NOW()
   ),
   (
-    'b4a137bd-2c6c-45a8-81b9-a7421e05e2fa',
-    '66fb6f09-0bdb-4aec-b294-51feed31a67d',
+    '8f7b47fe-09d9-45f5-bf00-e53fb5edb932',
+    '3856384e-851d-4681-b566-48bc89091337',
     'Taguaca',
     NOW()
   ),
   (
-    '55cddc90-36ba-428f-bea4-8ae30cdfd574',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    '56d10adc-2c88-4eeb-8c2a-d1a6e9828dd3',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Manipuri Muslim',
     NOW()
   ),
   (
-    'f9fa2c22-39ba-498e-ba8c-56ed03830157',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'f5ab622b-1771-4d26-8080-14731cd73781',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Manipuri Musselmani',
     NOW()
   ),
   (
-    '5cfce139-64ba-4bb3-a09c-b6580fa1072b',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    '98d12380-7113-4c96-bb57-1660c918c833',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Meitei: Pangal',
     NOW()
   ),
   (
-    '3815079f-f902-4e8c-9da0-eecabaa2011a',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    '93646eb9-8e2c-465b-ad66-7a8bbbf3cfe9',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Panal',
     NOW()
   ),
   (
-    '6caf0f4c-6dad-4e1c-ac4b-1edc702d4e48',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'e3598b5b-9b13-41a9-957d-31e5e017da0d',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Panan',
     NOW()
   ),
   (
-    '503c850d-e396-40e3-aa27-28e252a1f0d4',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'e1816d28-ffea-441e-b384-0c2bc0a9cb3c',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Pangal',
     NOW()
   ),
   (
-    '81f76cd4-9a6e-42da-9ca9-d25623f8e144',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'eed95e0c-107c-43bc-b783-73fb9762d1a4',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Pangal: Muslim',
     NOW()
   ),
   (
-    '17ea1f53-ad52-4152-996c-01f22e46ecb2',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'f51a2169-05f3-4234-bf9e-115d23fa3e09',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Pang-gal',
     NOW()
   ),
   (
-    '3df2d3eb-0aed-47ca-b543-02f864759746',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'cc1236c3-6d12-4964-893d-ef5f3289adee',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Pang-gan',
     NOW()
   ),
   (
-    'c742824c-bb63-4a9e-9f74-de63a756be52',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    'a1640f6e-fad5-470b-9eb5-036716a4cc94',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'Tsimpshean',
     NOW()
   ),
   (
-    '6b194f57-320a-40f4-9d0b-eab2d01a4430',
-    '775bc149-d55d-4cfe-8fb6-131025dfa117',
+    '5a9b7fc9-5014-4ab1-b028-3748f591d1c0',
+    '3eabbdbc-bd8b-48a0-80fa-098b9f186344',
     'मेतेई: पंगल',
     NOW()
   ),
   (
-    '9073985c-ea4c-4f95-92ef-986b9cfd4a37',
-    '754e814d-85d8-4d86-8448-264d6aa8b3ce',
+    'ef47fb13-a2c7-4670-9b3b-c9d4b5c2790a',
+    '7c4ba3e4-1037-4c95-aad0-4cc14bdf7a1e',
     'Bengali: Musselmani',
     NOW()
   ),
   (
-    '3616916c-8ec2-40eb-b6fe-1b2f2a15c6ef',
-    '754e814d-85d8-4d86-8448-264d6aa8b3ce',
+    '24e1f58c-e926-4934-b8d8-df57fc0ab8f0',
+    '7c4ba3e4-1037-4c95-aad0-4cc14bdf7a1e',
     'Musselmani',
     NOW()
   ),
   (
-    '618a2b1c-c487-4d18-ad4d-7f3a9f5af101',
-    '754e814d-85d8-4d86-8448-264d6aa8b3ce',
+    '08d36573-d6c9-450a-bf9f-de7d22fa81cd',
+    '7c4ba3e4-1037-4c95-aad0-4cc14bdf7a1e',
     'बंगाली: मुसल्मानी',
     NOW()
   ),
   (
-    '29f74d33-b928-4ee4-865f-566f8cca1919',
-    '051c1917-cdd5-4268-8401-ffefaf6ec0fe',
+    'cfdca496-81e3-4fad-8bbb-d62d90618e9b',
+    '252eb0c5-9000-4b6e-a0e1-f567310c10ac',
     'Kanowit',
     NOW()
   ),
   (
-    'a312dac9-ebfe-471d-bf62-470a2cb603c1',
-    '2f912db8-c242-4581-9e93-64a90bc4b887',
+    '20ba341a-6ce8-4fe8-84af-83f70fdb7184',
+    '3165f5ca-12f4-467e-9948-cef87a1d64cd',
     'Derebai',
     NOW()
   ),
   (
-    'dac149ae-b6b7-41d5-a499-a44315a4cb19',
-    'fe29b335-1f8b-44ac-ae69-73d939770082',
+    '668fb7e9-635d-4cfc-b3a2-5c37f6fd990c',
+    '487b1426-30c5-40c6-ba81-12d2e0f9fda4',
     'Imila',
     NOW()
   ),
   (
-    '1026fdb9-f925-4e2e-8431-1454e72ab1e8',
-    'fe29b335-1f8b-44ac-ae69-73d939770082',
+    '94a8f0fa-2685-4bf4-aa5d-daf0fe5a0525',
+    '487b1426-30c5-40c6-ba81-12d2e0f9fda4',
     'Manubara',
     NOW()
   ),
   (
-    '436ad562-7d8d-413d-8222-5e49d0356715',
-    'fe29b335-1f8b-44ac-ae69-73d939770082',
+    '8cf70dbc-8835-45da-b4ed-866f8c263eae',
+    '487b1426-30c5-40c6-ba81-12d2e0f9fda4',
     'Maria',
     NOW()
   ),
   (
-    '345c5d18-85be-4e86-8574-2f26be8a5f3d',
-    'e6627f53-45fd-45e5-9677-72ad352d44be',
+    '11fc809b-9f82-4c2f-8ed2-744c9dd4cc9b',
+    '2905658c-ac7c-4361-85f4-d4df53d08137',
     'Binandere: Upper Musa',
     NOW()
   ),
   (
-    '3106f4f6-eb22-474d-95c6-b70efd047573',
-    'e6627f53-45fd-45e5-9677-72ad352d44be',
+    'dfdf7d76-f4b6-48b6-bccb-d6d033284e5a',
+    '2905658c-ac7c-4361-85f4-d4df53d08137',
     'Musa',
     NOW()
   ),
   (
-    '17ee270c-c2f9-42ff-97df-2f48b0a2e4da',
-    'e6627f53-45fd-45e5-9677-72ad352d44be',
+    '9861552c-2116-4f36-8dcc-024f039f5118',
+    '2905658c-ac7c-4361-85f4-d4df53d08137',
     'Ulawa Sina',
     NOW()
   ),
   (
-    'e8d1e09c-1c07-4359-af4d-220781f3d55a',
-    'fbf4d14c-3377-4190-8bde-376c7c26bcf0',
+    'b973dfac-1d8f-473b-8140-eb6e77376225',
+    'cb6474a9-69e5-4ed7-9c7a-678094ca8976',
     'Tabo',
     NOW()
   ),
   (
-    'bc0bd226-c5d0-4cae-b5a2-c6254a59098e',
-    'fbf4d14c-3377-4190-8bde-376c7c26bcf0',
+    '1bbcd4ea-0217-4817-a14d-4e2c60a17bc6',
+    'cb6474a9-69e5-4ed7-9c7a-678094ca8976',
     'Waia',
     NOW()
   ),
   (
-    '68d6d927-8511-4976-a5d5-09bfb4a2ee3d',
-    'fbf4d14c-3377-4190-8bde-376c7c26bcf0',
+    '37d9492b-5ecb-4cd7-b7d0-77b269906c4e',
+    'cb6474a9-69e5-4ed7-9c7a-678094ca8976',
     'Wawa',
     NOW()
   ),
   (
-    'cc63f831-4214-4ce2-b980-d061b4525baa',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    '79f797e9-2eba-4cbc-991d-4c995688cc87',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Awad Gey',
     NOW()
   ),
   (
-    'c6a56e50-5774-4930-af15-cad0860cec28',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    '09292bf4-dd04-4a31-abb8-1a888412d96c',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Biliau',
     NOW()
   ),
   (
-    '3d620b91-1c0e-486f-a505-e8c6dc143013',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    'd5953253-4627-42c5-b2b9-0d7dccb47de8',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Bing',
     NOW()
   ),
   (
-    '549e350c-3e82-4cb2-971a-2f746cd1e87c',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    '7cf78d42-b5e1-4fba-acaa-7df7c3e73a64',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Samang',
     NOW()
   ),
   (
-    'd1375445-b491-40e6-98af-c1deaef93a5c',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    'a4473979-760b-4240-b848-3ed0bdff5c11',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Semang',
     NOW()
   ),
   (
-    'a1f2f882-3337-45b0-b7a2-dcc84be0d40c',
-    '1f87eca7-dccd-4b52-82c1-581d77d0d620',
+    'a89ed08d-cff2-4e89-8960-16fad87c4dab',
+    'c466cdd4-7480-4c8f-8864-c77f6f2150a7',
     'Sengam',
     NOW()
   ),
   (
-    'e2fcf083-e18b-40bb-9a47-7f380a28febe',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    'e75b22da-a8c1-4bdc-aef8-1c51b6fff606',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Ami',
     NOW()
   ),
   (
-    'a365f6f7-b0cd-4e0a-aeca-014242597391',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '0e96984c-6a9a-4803-99f8-0f6e9e3dfb92',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Bamu: Ta',
     NOW()
   ),
   (
-    '610834e9-3239-44a4-9704-e359014157a6',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    'fa9b3a30-4b7f-4867-b610-e0102ef66c62',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Dausame',
     NOW()
   ),
   (
-    'dc71a532-df42-46c0-a8af-c4ff6dbd5d74',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '6475e0aa-f2ed-40a5-8730-b5b383cdfda7',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Dausuami Mubami',
     NOW()
   ),
   (
-    '5ddbc665-9a57-4c3c-88a1-ca6c379cd241',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '34391090-bec7-46a8-9575-faf7a4e9574b',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Mahigi',
     NOW()
   ),
   (
-    '9d66de07-0d33-431b-897e-f6d64fe061b3',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '3c3f651f-3fc5-45f5-8a31-77ed3b6c8056',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Mubami',
     NOW()
   ),
   (
-    '124b03bc-5e89-4ac3-a091-d5d4e8239b6c',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '11a9002c-baa2-4977-a6ad-a62124c9ccb8',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Mubani: Dausuami',
     NOW()
   ),
   (
-    '38c0d8ea-87be-4cb0-8ca5-af289848cced',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    'b79a737b-a7c0-4aef-9603-37b6d43ee9e0',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Ta',
     NOW()
   ),
   (
-    '243d30e8-c56b-4e18-b917-3c8e279da217',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '1059374e-49a6-44f8-a367-72eb3c4d6264',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Tao-Suamato',
     NOW()
   ),
   (
-    '46e5a3b1-da0d-4264-8d4c-000da0a3f24c',
-    '8575335e-15b3-4258-a8e7-c0255e639556',
+    '866751a5-4b4a-4c1b-ae5e-84cf0ac863cb',
+    '1342d0cb-b66d-4b86-9e0b-be9b9d887d18',
     'Tao-Suame',
     NOW()
   ),
   (
-    '29adce93-d679-4677-9a71-70e1c9e1548e',
-    '7f76b2f6-addc-4c9c-8669-a3e7121bdaea',
+    '5d385909-53ea-4ce7-8ab9-263340290710',
+    '69d78fe1-433d-4140-b79e-449acf48ee87',
     'Boro',
     NOW()
   ),
   (
-    '9c32bb00-39d3-45e8-a6af-ea713cace1c0',
-    '7f76b2f6-addc-4c9c-8669-a3e7121bdaea',
+    'f93fabd2-8845-4034-8f73-0eb6395260ea',
+    '69d78fe1-433d-4140-b79e-449acf48ee87',
     'Boroni',
     NOW()
   ),
   (
-    '80971a42-5c93-4962-8bb1-7eaf7d2ebd3e',
-    '7f76b2f6-addc-4c9c-8669-a3e7121bdaea',
+    'b98326bd-441d-410b-afbe-1a7b5de18919',
+    '69d78fe1-433d-4140-b79e-449acf48ee87',
     'Kachari',
     NOW()
   ),
   (
-    '36d4c6dd-963a-46c3-a462-e699ab392f72',
-    '7f76b2f6-addc-4c9c-8669-a3e7121bdaea',
+    '20efb21e-aad6-40d4-a6ca-6bfa684fa5cb',
+    '69d78fe1-433d-4140-b79e-449acf48ee87',
     'Kachari: Boro',
     NOW()
   ),
   (
-    '0264838f-0162-461c-8339-9e5a3a8192ab',
-    '7f76b2f6-addc-4c9c-8669-a3e7121bdaea',
+    'a36b323e-5fb3-4684-8adb-71ae9a8d1cfb',
+    '69d78fe1-433d-4140-b79e-449acf48ee87',
     'बोडो: कछारी',
     NOW()
   ),
   (
-    'f005ddfe-9a2c-4070-a2b8-0984517b3868',
-    'bf7eb497-955d-445c-b1f3-cf7dcb96d6d3',
+    '39804272-d46f-4074-b977-99b51ac5cfea',
+    '8cc27c91-c010-45ce-a68b-87c0d24e7432',
     'Balang of Bonggu',
     NOW()
   ),
   (
-    '441e01ac-e5f9-4c40-9546-ec0b23bb7ead',
-    'bf7eb497-955d-445c-b1f3-cf7dcb96d6d3',
+    '5b52a91f-6126-4dd6-9c41-3d3b136445ec',
+    '8cc27c91-c010-45ce-a68b-87c0d24e7432',
     'Bonggu',
     NOW()
   ),
   (
-    'b27f65d4-a9ae-4943-b7f0-c1d48a99bc42',
-    'd1f92d39-8609-4c7c-8df6-41dfa36c9a38',
+    'd180f7ef-ec50-44b9-a32e-59cb21b04b89',
+    '4f855c38-4779-4e12-9ec3-99ce69e3f23e',
     'Borei',
     NOW()
   ),
   (
-    '10f27655-fea4-4e23-928e-4ec87c6b5781',
-    'd1f92d39-8609-4c7c-8df6-41dfa36c9a38',
+    'fd5639e8-61d9-406f-b438-597b218805f2',
+    '4f855c38-4779-4e12-9ec3-99ce69e3f23e',
     'Gamai',
     NOW()
   ),
   (
-    '9da04c5a-4f17-42fa-adb6-afff5ceff8a3',
-    'd1f92d39-8609-4c7c-8df6-41dfa36c9a38',
+    '5a84b880-8960-45b4-91f9-d79b449c6a95',
+    '4f855c38-4779-4e12-9ec3-99ce69e3f23e',
     'Gamei',
     NOW()
   ),
   (
-    'e8125f0c-1278-45e2-9955-16154f6ce64a',
-    'd1f92d39-8609-4c7c-8df6-41dfa36c9a38',
+    '476a5d97-7099-4021-a839-6fd1228c8dbf',
+    '4f855c38-4779-4e12-9ec3-99ce69e3f23e',
     'Mbore',
     NOW()
   ),
   (
-    '4de923de-adab-48a2-9051-2fdba33fe323',
-    'd1f92d39-8609-4c7c-8df6-41dfa36c9a38',
+    'ada9025a-90fa-4e6f-a217-2d53f167c858',
+    '4f855c38-4779-4e12-9ec3-99ce69e3f23e',
     'Mborei',
     NOW()
   ),
   (
-    '63ce3df5-e126-442d-8348-3f47b7e7eac9',
-    'b389ddfc-b068-46f5-96dc-2c14ba8388f7',
+    'ba276a36-f1d4-410d-a14e-de04b2ed50a3',
+    'cc152c93-c6c2-43d3-a2a0-46a51928c41a',
     'Bonggu',
     NOW()
   ),
   (
-    '23c62606-3559-4689-8dab-958256528572',
-    'b389ddfc-b068-46f5-96dc-2c14ba8388f7',
+    'a14050fb-fbcc-4b8c-97fc-8e314db701ab',
+    'cc152c93-c6c2-43d3-a2a0-46a51928c41a',
     'Bonggu: Sauch',
     NOW()
   ),
   (
-    'bfa67e8b-8cf3-4116-8557-7be42dd344fb',
-    'b389ddfc-b068-46f5-96dc-2c14ba8388f7',
+    '296a6cc4-7fb6-40d6-9a26-2f81271c02e2',
+    'cc152c93-c6c2-43d3-a2a0-46a51928c41a',
     'Bongu',
     NOW()
   ),
   (
-    'a1ddc79c-c10b-41b8-ae83-86cd18968dfb',
-    'b389ddfc-b068-46f5-96dc-2c14ba8388f7',
+    '6610df9b-18d3-4064-aa1f-91cb29533880',
+    'cc152c93-c6c2-43d3-a2a0-46a51928c41a',
     'Sauch of Bonggu',
     NOW()
   ),
   (
-    '8db2072e-1994-4a3d-88e2-f638152431f9',
-    '268f34c5-33a6-4152-af9d-b5ce7dbfce65',
+    'c7e9c7ff-50de-403b-84df-cf7d1aa79f78',
+    '165c81a2-fde7-470d-a420-303c3becd4fb',
     'Boje',
     NOW()
   ),
   (
-    'bc2293f7-5359-48dc-a09d-910e435f823c',
-    '268f34c5-33a6-4152-af9d-b5ce7dbfce65',
+    '2733d2e9-6685-4920-8949-ce4b3cf6ddaf',
+    '165c81a2-fde7-470d-a420-303c3becd4fb',
     'Boze-Giringarede',
     NOW()
   ),
   (
-    'fff24253-4b92-4652-8a96-6146a1f1422c',
-    '268f34c5-33a6-4152-af9d-b5ce7dbfce65',
+    '5c7a5ef5-b574-4f74-8d47-f3753251dbbf',
+    '165c81a2-fde7-470d-a420-303c3becd4fb',
     'Buji',
     NOW()
   ),
   (
-    '4dcd415d-069f-4989-b100-edc0e1d227d9',
-    'b2f285fc-186d-4349-966f-1792726b57d2',
+    '0217cd33-423a-409c-b827-ab30875608a8',
+    '615901c0-e8e6-409f-abf5-e886fc463e67',
     'Coast Kiwai',
     NOW()
   ),
   (
-    '72f75a93-52dc-4780-987b-93541fe8059e',
-    'b2f285fc-186d-4349-966f-1792726b57d2',
+    'ab58cbf6-8117-4475-87bc-23c2f45ebec9',
+    '615901c0-e8e6-409f-abf5-e886fc463e67',
     'Kiwai: Coastal',
     NOW()
   ),
   (
-    'f791696b-9bd4-4de3-bbf6-ec958f8d2a05',
-    'd10fde83-74fc-4d6b-aa8d-c799071c1e72',
+    '11e42ca4-7311-4878-bf8c-5c3de433930e',
+    '8ae18039-3129-4b82-baf5-33cd78e048e3',
     'Apanepi',
     NOW()
   ),
   (
-    '683c7f4c-9616-4405-9771-98551d35ed76',
-    '09089795-b389-4894-966c-a95b4956b3c4',
+    '249eb2ea-21ae-4979-bea4-dcea8c4437e2',
+    '5f241c10-049a-4080-8c1b-90459d5b2ab6',
     'Labo',
     NOW()
   ),
   (
-    '3d1bb7c1-5758-4c74-8a8f-b60bce7ee5ca',
-    '09089795-b389-4894-966c-a95b4956b3c4',
+    'd8899c52-9c80-4a85-8555-640dd1deb15e',
+    '5f241c10-049a-4080-8c1b-90459d5b2ab6',
     'Mewun',
     NOW()
   ),
   (
-    '990a2df5-e453-4c19-aee7-3cb07ff72112',
-    '09089795-b389-4894-966c-a95b4956b3c4',
+    'e46107af-df73-46a5-a5e3-5be41b51e1d5',
+    '5f241c10-049a-4080-8c1b-90459d5b2ab6',
     'Nide',
     NOW()
   ),
   (
-    '131b6530-bb41-4a1d-aba2-9bf128bf633f',
-    '09089795-b389-4894-966c-a95b4956b3c4',
+    'abcb5b65-2457-4c61-9a37-05c491a97e38',
+    '5f241c10-049a-4080-8c1b-90459d5b2ab6',
     'Ninde',
     NOW()
   ),
   (
-    'e7835577-ec0c-4f8d-a83e-c2efd70f77ab',
-    '4720acc0-d1f9-4af2-9eb3-98634fa3becc',
+    'a314588c-8f7e-462e-a5ed-af8ed6033b7f',
+    '31a027b2-e1e5-4b48-ab2b-a55ae050feb0',
     'Inakona',
     NOW()
   ),
   (
-    '98b0ec57-e64e-4cb6-82d2-b4389c105d89',
-    '4720acc0-d1f9-4af2-9eb3-98634fa3becc',
+    'f62e98fd-ba5b-4a7b-b9b2-f65369bc2220',
+    '31a027b2-e1e5-4b48-ab2b-a55ae050feb0',
     'Koo',
     NOW()
   ),
   (
-    'a48d9512-41be-49ef-9689-63c61fcd7445',
-    '4720acc0-d1f9-4af2-9eb3-98634fa3becc',
+    '2ae88ad9-2c8a-49eb-a08a-ce3223329743',
+    '31a027b2-e1e5-4b48-ab2b-a55ae050feb0',
     'Talisi',
     NOW()
   ),
   (
-    'dd0d3bb8-d72f-451b-a686-b0ef0ba5f957',
-    '4720acc0-d1f9-4af2-9eb3-98634fa3becc',
+    '764f2ef7-ab43-449d-b593-358e6b816d0d',
+    '31a027b2-e1e5-4b48-ab2b-a55ae050feb0',
     'Tolo',
     NOW()
   ),
   (
-    'c53d823d-f2ab-4508-acbe-d54c5cf5fade',
-    '704523b2-5df8-47ea-a97e-e7d27edea8e7',
+    'ebdb4b41-f9c2-4161-b76b-4bfd22897674',
+    '1ce99991-e600-49e3-84ba-f1da0ad82e56',
     'Delena',
     NOW()
   ),
   (
-    'd5fc9828-0d5e-4b81-8205-3d4893bca37e',
-    '704523b2-5df8-47ea-a97e-e7d27edea8e7',
+    '6f6bb15f-65cd-494d-81c3-c004511b5445',
+    '1ce99991-e600-49e3-84ba-f1da0ad82e56',
     'Roro',
     NOW()
   ),
   (
-    '58bea5c2-2af3-4e91-abe9-83509b411b77',
-    'cce34048-169a-4ae9-96bd-16a40673d787',
+    '0fa59268-8099-47a5-926a-6f9929a4ca90',
+    'ee01c2f3-3e67-4565-b4f0-0fa96de7ca6e',
     'Kerema',
     NOW()
   ),
   (
-    '51d99ea6-347b-4c61-a485-b7db45a8b854',
-    'cce34048-169a-4ae9-96bd-16a40673d787',
+    'a3b4dc9a-8103-43c7-8e34-63f5c438d585',
+    'ee01c2f3-3e67-4565-b4f0-0fa96de7ca6e',
     'Nisa',
     NOW()
   ),
   (
-    '82362ee8-16ac-4f02-a10e-616b0cefc3f7',
-    'bde37e2d-6079-4e6f-b995-3cfcfd30ab57',
+    'd582ac17-a116-4108-87a8-f973064ea856',
+    'c1d60e3f-c752-4c07-95ee-90d3c47bbe24',
     'Kurku',
     NOW()
   ),
   (
-    '05567b6b-3afe-4693-bf42-5bace4b9edfa',
-    'bde37e2d-6079-4e6f-b995-3cfcfd30ab57',
+    '0b8067ba-3435-4855-be40-031b2ccdb087',
+    'c1d60e3f-c752-4c07-95ee-90d3c47bbe24',
     'Ramekhera',
     NOW()
   ),
   (
-    '9546ef69-a8d3-490d-b662-1b5564e4abde',
-    'bde37e2d-6079-4e6f-b995-3cfcfd30ab57',
+    '7ffb68ea-7888-4d81-b294-fc151a1b674d',
+    'c1d60e3f-c752-4c07-95ee-90d3c47bbe24',
     'कोर्कू: रामेखेड़ा',
     NOW()
   ),
   (
-    'ff980608-c6f3-41a3-b010-e25b501aa89c',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '20e734d5-87cc-4d91-99bb-037d9a47d6a9',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Astor',
     NOW()
   ),
   (
-    'd2d0aaf2-ce3c-4bd5-a0d3-fc222cc889d9',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '4d772968-1782-4b63-865f-bc8644f8e1a0',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Astori',
     NOW()
   ),
   (
-    'f3e9d2c5-5107-4188-ad30-2e8bdc99f136',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '7c1d107d-4436-4ea9-9171-0c1d2398d93a',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Dras',
     NOW()
   ),
   (
-    'b1e2901c-56d6-4684-8423-09e22ba33b90',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '8c554526-410d-4d35-89f9-3e230bd39905',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Gurezi',
     NOW()
   ),
   (
-    'c3c312d8-6dbf-496f-b9cc-9f458473c7ca',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '522ccc40-b56c-46a7-be8b-b70aad9a0a41',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Kashmiri: Gurezi',
     NOW()
   ),
   (
-    'a42f921f-9bbe-437a-a491-033716d50acf',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    'e1e1dd15-e863-4157-92a3-9ac2467601c6',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Kharmangi',
     NOW()
   ),
   (
-    '97796202-de19-4924-8c9e-a720ef4cc0e0',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '6c3a102b-9b01-4264-85c7-13a638f750ab',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Satpara',
     NOW()
   ),
   (
-    'd5358431-7116-408c-9e32-d188087ac02d',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '01f62167-c534-45a5-84ff-2a08add63281',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Shina: Dras',
     NOW()
   ),
   (
-    '9bd452b2-cd2c-45e2-9cbe-43347957f6c6',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    'a792ddbe-806c-41ae-9181-ee7b6eada322',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Shina: Gurezi',
     NOW()
   ),
   (
-    '7bd7ddd6-06cb-4ddd-9ca5-00a8eed01daa',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '466c0026-57c5-4527-a0d1-316574d92984',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Shina: Kharmangi',
     NOW()
   ),
   (
-    '917697ce-b09b-484e-a941-5e64f84c0187',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    '6046baca-a392-44e7-8936-33b294ef388d',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'Shina: Satpara',
     NOW()
   ),
   (
-    'd514218f-e6f9-4382-a063-8a2cc2c3a3a5',
-    'ba3c24e6-a5c1-4688-8a7a-ae6df8698731',
+    'e010c528-5baa-4b17-b462-a7380f070580',
+    'd683b36b-57d0-411c-8aa8-ecadaf8eaf8d',
     'शिना: गुरेज़ी',
     NOW()
   ),
   (
-    'cfa74798-2658-4f44-9e6b-a724a26f5bcd',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'b39d48ea-ba9b-427d-9aab-0d3187bf4315',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Azad Kashmiri',
     NOW()
   ),
   (
-    '62993f20-69fb-4d9c-a948-4f681a69e643',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'f2aa41c0-ed49-4bdb-a9d4-bf850d863f59',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gogri',
     NOW()
   ),
   (
-    '199471e0-b2e5-423d-89f8-0c914e4af1dd',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    '69d27794-70bd-4ba6-91da-658b0e237740',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gojri',
     NOW()
   ),
   (
-    '888aea6f-2672-4687-8c03-8e242a03e35e',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'b5c2a0a6-628a-49f1-8b14-9b713d62a5ec',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gujar',
     NOW()
   ),
   (
-    '582d7160-ec87-4ffb-859d-96ff8a9f55d3',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'f5cd3fc3-7131-4ead-af7a-11e5ee9ee27b',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gujer',
     NOW()
   ),
   (
-    'e021196d-dba0-4aa6-a0d8-3c3637064f0b',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'ac5445cf-7a1a-4e14-bcd2-93c29850743c',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gujjari',
     NOW()
   ),
   (
-    'ab80a23c-7506-416e-8618-3dbe6d274ff0',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    '4d83b8c2-cacf-4dc6-aef2-8cf90888e5aa',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gujuri',
     NOW()
   ),
   (
-    'a5b91857-be38-4b69-8e63-035e73090a48',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'c410d569-a261-49c5-ac49-0f794e818316',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gujuri Rajasthani',
     NOW()
   ),
   (
-    '41f520f4-dcc4-4c88-b223-093d032f0c54',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    '1be69a69-2ba1-4f24-8bee-6a621d9da539',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Gurjar',
     NOW()
   ),
   (
-    '7169924b-e5e4-400e-8574-c458fcf9c95f',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    '0ffd0e5f-27be-4ded-bd8e-02ffeb49c58e',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Kashmir Gujuri',
     NOW()
   ),
   (
-    'be552a46-cde5-4e7e-8840-2a649ac56f58',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    'c937f2ac-0f36-406f-a1d4-6d7836698410',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'Rajasthani Gujuri',
     NOW()
   ),
   (
-    '1d3b873c-df8e-49b7-9329-b79a951933fe',
-    '2ab42bcd-b9af-47e7-99b4-ea92f2befdf9',
+    '3206dacd-0a71-4afc-8325-8b626ed20ab7',
+    'def82f62-3c3f-4074-a06f-5ee73622a95f',
     'गोजरी',
     NOW()
   ),
   (
-    '86a2bb4e-b922-482d-866b-2ddf224fb3c6',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '8144b702-a57f-4726-b929-b12068113652',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     '셰르파',
     NOW()
   ),
   (
-    '893bf201-6e17-420c-b933-f289005b9bae',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'c0a09f2f-039c-4a39-9447-60e67c09ddca',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Central Sherpa',
     NOW()
   ),
   (
-    '2f38e35e-c3cd-4809-8585-88a9fa09d75b',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'cb806453-eb97-4599-a19b-330df564644f',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Khumbu',
     NOW()
   ),
   (
-    '17f4e3ba-11c3-46c2-9dc6-7e4e949e9e2e',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'f72c5618-a706-496a-8b79-71fb18249d05',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Namche Bazar',
     NOW()
   ),
   (
-    '8b749145-7997-423a-9b90-22a161f581bc',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'ab73b8ae-7eae-4e0c-8433-b3a6cb889088',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Serwa: Solu',
     NOW()
   ),
   (
-    'b2f731fb-c010-4f27-bec6-df09627f4db6',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '5c8e82aa-5bcf-4888-ae8e-62e47febe4b5',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Sharpa: Solu',
     NOW()
   ),
   (
-    '81d6765c-2c38-446c-bd60-bcf77d6f0b19',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'd5a91d47-37c1-45ab-af87-c91b9f779e23',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Sherpa: Solu',
     NOW()
   ),
   (
-    'a68d0fd7-83de-4095-a3e3-e53a62ca2616',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '5ad06641-cc43-41d1-af9c-fd8693046979',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Sherpa: Solu-Khumba/Namche Baz',
     NOW()
   ),
   (
-    'b43416af-e74a-4ebf-ae86-c6edf75d9b4e',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'c0175c30-95db-4788-bd11-bef1aafa7ef3',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Sherpa: Solu Khumbu',
     NOW()
   ),
   (
-    '3fac5b08-b322-4d83-908e-c7dd2f7791c1',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '3e481f41-d215-4601-a393-f4eec4be40ce',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Sherpa: Solu-Khumbu',
     NOW()
   ),
   (
-    '0603abee-e76f-49fa-80c9-4b39e98ca092',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'e0fcdd8b-b7d2-4b0a-a15a-0ee3ac1912ee',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Solu',
     NOW()
   ),
   (
-    'debcfb12-e496-4120-ba71-173cbf5f8ace',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '51c8ad62-cb1a-470e-9f25-3749c538ec89',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Solu-Khumbu',
     NOW()
   ),
   (
-    '7514ae71-8266-4425-91a9-2ebe922bd0a0',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '3e9e0032-227e-40eb-bb5b-d11bbfcca5d9',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'Xiaerba: Solu',
     NOW()
   ),
   (
-    '6df3adb6-7175-4f50-86e9-d2ee3fd9e8a0',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '8fcc9e2b-f9c2-483d-a212-2452afc5be29',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     'शेर्पा: सोलु',
     NOW()
   ),
   (
-    'd32ebe14-2505-4f8c-8ed6-3933d4fc618e',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    '8f47cb09-8145-43b5-bdaa-09aa065b5033',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     '西而巴',
     NOW()
   ),
   (
-    '08a56eda-3e88-4f74-aaa6-50512c816238',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'ac689cf2-a3e4-4696-8844-7dd3c0cc9df8',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     '雪尔帕语',
     NOW()
   ),
   (
-    '37bf2492-8b6f-446b-9f28-d6efa0d2377d',
-    'f282f41a-a23f-488b-b698-bcfa288e68c1',
+    'b5086d75-c4d3-473a-bf90-62b6022cc4cd',
+    '52c3c3e8-4cb7-43e4-9af2-8049725d5dae',
     '雪爾帕語',
     NOW()
   ),
   (
-    '65ebc4fd-6e0b-4f08-ac0c-2eedd39a7876',
-    '9ef4cf98-6aeb-468c-8c3d-bc10a4e3bfbd',
+    '5351ebe1-9b0d-4862-a1d8-61ccde9fdb37',
+    '0a24d3ff-4d35-433f-a575-91dd849e6886',
     'नगालोंग',
     NOW()
   ),
   (
-    'f1aeef7a-d0e0-40bf-a240-7f95eb2d37c8',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '6e7f6bd9-4406-49d5-a701-3a993b4e5627',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Bac Viet',
     NOW()
   ),
   (
-    '3b30fddc-cfb6-40f2-80a3-3dacf719fead',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '661fcbd4-c818-4af5-9ef6-4eecc2e18999',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Hanoi',
     NOW()
   ),
   (
-    '82e16028-707d-4571-8e87-5cfaf9126616',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    'f269041d-8503-43af-bf8f-c59047ed8b49',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'North',
     NOW()
   ),
   (
-    '13c0163a-13d1-4041-a0a6-3933016d9d52',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '9386fcb4-82db-44ac-bd1c-4fd95de5949b',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Northern Vietnamese',
     NOW()
   ),
   (
-    '6a734751-a5bc-476c-a2e7-7df7633234fb',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '8687bee2-c1aa-400e-b7db-0d7813b5ea35',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Vietnam: Bac Viet',
     NOW()
   ),
   (
-    'e6f45f46-7614-4b45-af57-41c89218f2c8',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    'ff4a384c-7a90-416c-89e7-cfb335cc7d2b',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Vietnamese: North',
     NOW()
   ),
   (
-    '7ae928a8-147f-4fec-a014-e0d8e74e939d',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    'a4f02e60-c14f-4b0d-a30a-1981d1770666',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Vietnamese: Northern Vietnamese',
     NOW()
   ),
   (
-    '921a9798-a19b-47d2-ad62-975eadeda7cc',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    'ce8d3562-0982-459c-9f00-3413a9b3bde3',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     'Vietnam: Hanoi',
     NOW()
   ),
   (
-    'f7c6cd4b-aba7-4520-91ae-1ec50464038d',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '66f471e7-6ac2-4977-b4c3-a49448e4151b',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     '京',
     NOW()
   ),
   (
-    'fa8eb535-f016-4a6f-80c2-cdd71b02d88f',
-    '39519984-12fc-490b-a59b-368131ed332e',
+    '6821fbf9-8fe6-47a0-abad-c0a52713540a',
+    '3bb7156b-1560-4e41-8180-181a41f059ab',
     '越南人',
     NOW()
   ),
   (
-    '576f6f5c-e7a4-4626-a523-099d8e8999d8',
-    '32775d8c-18da-4636-8974-224390953ae4',
+    '81d50f3c-ffeb-4c4f-9763-646acba2b786',
+    '11c0e309-78de-4a10-9ec2-3c5dfe844233',
     'Adi: Miching',
     NOW()
   ),
   (
-    '26ee86a9-9076-478f-a5bb-632a6e7e25af',
-    '32775d8c-18da-4636-8974-224390953ae4',
+    '91b3c91d-a152-4c6c-963f-729536dfefb3',
+    '11c0e309-78de-4a10-9ec2-3c5dfe844233',
     'Miching',
     NOW()
   ),
   (
-    '24ae97d7-9c44-4631-9e9d-8ceefd748354',
-    '32775d8c-18da-4636-8974-224390953ae4',
+    '45396c03-7e7c-4dfa-9e91-5a3981e7779e',
+    '11c0e309-78de-4a10-9ec2-3c5dfe844233',
     'Saingya',
     NOW()
   ),
   (
-    'c763768f-6d04-44e1-9a9b-4b214eb5647b',
-    '32775d8c-18da-4636-8974-224390953ae4',
+    '96104a36-5393-4cdf-a421-0af52a98db2a',
+    '11c0e309-78de-4a10-9ec2-3c5dfe844233',
     'Sutiya',
     NOW()
   ),
   (
-    '8e30c150-dbcb-4950-8975-1e0987cb518c',
-    '32775d8c-18da-4636-8974-224390953ae4',
+    'e704fbe2-1805-4a71-9958-42885c122a8b',
+    '11c0e309-78de-4a10-9ec2-3c5dfe844233',
     'मीरी: मिचिंग',
     NOW()
   ),
   (
-    '54515b9c-4f2d-46fa-b5f4-fc38b64598d0',
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    'accb4390-abe3-4d0a-8e62-db9e17e436b8',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'Mising: Sili',
     NOW()
   ),
   (
-    '77e40cb5-1775-4a79-b31c-24de0af0d753',
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    '177444dc-02e5-4341-9d70-73b33e123344',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'OpenMising: Sili',
     NOW()
   ),
   (
-    '95dff2d7-73df-46b5-a0c6-15784875cf26',
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    '1dfc24da-a40d-4072-8abe-fc380e42544b',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'Sili',
     NOW()
   ),
   (
-    'd958b757-c4d3-4587-81f2-7efa1ccfde82',
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    'cb5aa643-1765-4f2b-8060-3921eb644bdd',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'xx',
     NOW()
   ),
   (
-    '86486143-aeee-4932-a577-ee4acf9f3f4f',
-    'ee326471-d27a-4103-bd00-f33a16b1ac5b',
+    '1485c8ea-6122-4344-880d-1dd87891b522',
+    '58fd1557-8a26-402b-a23f-d0e81bc76923',
     'मीरी:सिली',
     NOW()
   ),
   (
-    '99c259d2-c09b-46c0-81e2-650a3d575181',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '6af97dae-e7b4-45b3-bc01-4bb26a9a67ca',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Bhotia',
     NOW()
   ),
   (
-    '07f32a0e-0169-42e9-9e75-e2e184791883',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '8567fb21-ca08-4ec6-9735-367bf26e2e7a',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Dbus',
     NOW()
   ),
   (
-    '72adb663-be8f-4828-931a-4d93699ce180',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '0e888824-8cd0-4269-a7bc-78e65e5bdc60',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Hsifan',
     NOW()
   ),
   (
-    '2f39e0fb-fce4-4ce5-94d3-0af4dce76373',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    'ea7da7af-99d1-4504-a2a4-d72db7409490',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Phoke',
     NOW()
   ),
   (
-    '6fe99327-9d18-4522-b748-13e70c37a7dd',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    'ec1b2bbe-35f1-4fa2-9f09-7db71a21c804',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Tibetan, Central',
     NOW()
   ),
   (
-    '321f6fed-9d3e-412c-b191-5f35feff9c78',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '815f522d-f18c-43c0-9212-0e424b6ceb8f',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Tibetan: Central',
     NOW()
   ),
   (
-    '920617ec-c4d8-4bbf-b1d8-2eb25fbb483d',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    'b7059bc4-e507-42e9-b9fe-b8c0d38f674c',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Tibetan: Domme',
     NOW()
   ),
   (
-    '97989c05-f303-4bc5-84bd-4bd76b402b05',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    'f5712b88-b147-4d25-adfb-9b2142599daf',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Tibetian',
     NOW()
   ),
   (
-    'e227658d-409e-483f-b2f1-365811f81685',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '4717ec26-9195-41db-a4c1-19041e247ae5',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'Zang',
     NOW()
   ),
   (
-    '961c0d09-cb8b-4114-b47f-f47edb4c9335',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '76a7763b-ca69-411b-878f-bf324aa3d098',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'ल्हासा',
     NOW()
   ),
   (
-    '677d8cca-38ea-4220-92cd-e14ac94db625',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '114bd8c4-8900-4e77-a8d4-dbf219898198',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     'བོད་ཡིག',
     NOW()
   ),
   (
-    '0e19c42c-67c9-4d42-acc2-877784dc90ef',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '26412904-d3f9-4a4f-997d-11de18d53aaf',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     '藏(拉萨)',
     NOW()
   ),
   (
-    '3a6e039e-9638-48f2-a90b-9b058d841a35',
-    'e0024b69-7848-40d5-8dc1-a8801e7d2cf2',
+    '1fa877bb-615f-4938-ba9b-1579101d4fe3',
+    '912825e5-0188-4982-aa91-27b9fd36dd18',
     '藏(拉薩)',
     NOW()
   ),
   (
-    'dc8d7fac-662b-4416-aaa9-33d0ba6e1e4e',
-    'fb58563c-a779-430a-a605-185e2e279dd4',
+    '906f9de2-3c92-4fa7-8644-d7f64968eb05',
+    'f7869734-a83c-4c33-b113-5fa9df2a6fac',
     'Muslim Sindhi',
     NOW()
   ),
   (
-    '049956ff-538e-49fb-8c7f-450c90583860',
-    'fb58563c-a779-430a-a605-185e2e279dd4',
+    '7d8332d2-b04e-45b8-bdab-a4259574fd77',
+    'f7869734-a83c-4c33-b113-5fa9df2a6fac',
     'Sindhi Musalmani',
     NOW()
   ),
   (
-    '8eac7352-9b60-4db7-962b-0d22a7ec2575',
-    'fb58563c-a779-430a-a605-185e2e279dd4',
+    '5c308356-a1a9-4e83-89d7-f3ebfacdfeed',
+    'f7869734-a83c-4c33-b113-5fa9df2a6fac',
     'Sindhi: Muslim',
     NOW()
   ),
   (
-    '711be514-c2ea-4776-8e5f-977d1af1730d',
-    'fb58563c-a779-430a-a605-185e2e279dd4',
+    '3a4fcdb5-0a19-40b7-bce6-c4ca37feda46',
+    'f7869734-a83c-4c33-b113-5fa9df2a6fac',
     'Sindhi: Sindhi Musalmani',
     NOW()
   ),
   (
-    '40125857-e360-4929-8c8b-58e99f90488c',
-    'cf72a31d-1641-4912-8ca6-da6baf17cec0',
+    'ac2081bd-a12b-4e74-9683-6932a1d88aaf',
+    '41b20280-9b94-4cfe-8744-d19bf8827a24',
     'Waidjewa',
     NOW()
   ),
   (
-    '5834432d-9a21-4648-8b56-d1594e675667',
-    'cf72a31d-1641-4912-8ca6-da6baf17cec0',
+    'f5caf35c-a6d3-42ff-86d8-633b58edc5c0',
+    '41b20280-9b94-4cfe-8744-d19bf8827a24',
     'Wajewa',
     NOW()
   ),
   (
-    '59d683d5-3c7c-47ae-bb4d-8534d58d5d15',
-    'cf72a31d-1641-4912-8ca6-da6baf17cec0',
+    '62708990-4103-4088-ba54-7d1b3798aa1c',
+    '41b20280-9b94-4cfe-8744-d19bf8827a24',
     'Wejewa: Lauli',
     NOW()
   ),
   (
-    '369ad272-a10b-48f7-a247-dd948b32ba07',
-    'cf72a31d-1641-4912-8ca6-da6baf17cec0',
+    '0032ecac-ba14-42f4-b466-3b9ac3fedcfb',
+    '41b20280-9b94-4cfe-8744-d19bf8827a24',
     'Wewewa',
     NOW()
   ),
   (
-    'bdae1cbb-39e0-4cab-9dbc-69fee4c10918',
-    'cf72a31d-1641-4912-8ca6-da6baf17cec0',
+    '094e7565-c268-4068-ac3f-7d4bedbae7a6',
+    '41b20280-9b94-4cfe-8744-d19bf8827a24',
     'Weyewa: Lauli',
     NOW()
   ),
   (
-    'b3f211e8-4107-4987-a0dd-15735fc13dbb',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    'bf648bdb-9d31-4cf4-a01d-5b2ccf4c25d1',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Kiembu',
     NOW()
   ),
   (
-    '845e5e74-c73d-4391-a07c-15e0bc3ae05b',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    'e22f3b86-5095-45cf-b0f6-466b0503d42b',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Kikuyu: Mberre',
     NOW()
   ),
   (
-    'd11a6a76-93ae-4c69-bdd2-d77988cd867e',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    '868879be-2a98-4f4f-9787-54f5dcff1f07',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Kimbeere',
     NOW()
   ),
   (
-    '14d4814d-40b7-444c-89ed-b3f451adaf5c',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    '50df708c-e42a-4184-bc1f-b1362c22c4b1',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Mbeere',
     NOW()
   ),
   (
-    'b62c57f4-cf56-4466-a595-46a5cfb8cd05',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    '6648418f-c034-4f9c-932f-f5c3912e6cd6',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Mbere',
     NOW()
   ),
   (
-    '99122c9a-7168-4cb5-a747-535856f17d6e',
-    '36297511-626f-4076-8cef-ed368875e73f',
+    'cde67676-bb6a-41d9-b58a-0af7e4b5096c',
+    '23586644-08b4-4e65-87c2-61090d424bb9',
     'Mberre',
     NOW()
   ),
   (
-    '14a4d298-b45d-44ed-99b0-af91c9711e8d',
-    'b8c3d86e-ffd3-426e-98a8-5fdf196eba4f',
+    '07333128-6370-433d-84d3-b4406425f847',
+    '8970f218-6293-46ab-a439-b7e7a98e411a',
     'Alor: Kolana',
     NOW()
   ),
   (
-    '18eadbfb-0d51-4c87-9fcb-0afa49ad340e',
-    'b8c3d86e-ffd3-426e-98a8-5fdf196eba4f',
+    '44816380-477a-4cfc-8b8e-8bf269988d49',
+    '8970f218-6293-46ab-a439-b7e7a98e411a',
     'Kolana',
     NOW()
   ),
   (
-    'da897d26-1299-4658-99f5-0190a9b30394',
-    '7db2061c-a7f2-4b74-a5fa-0eae40e3aab7',
+    '08b326b4-0347-4604-9679-b4ed210b24ee',
+    '6b7d3f77-d5b7-4c8d-896a-5f80d88c801b',
     'Poso-Mori',
     NOW()
   ),
   (
-    'b3c0b652-df63-4f48-8f9d-65af65102de3',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    '2dc54d0e-9a96-4ac8-be5f-5dcaa353e84d',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Bungku',
     NOW()
   ),
   (
-    'a601c150-d57c-4382-940a-9957e90372e9',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    'e2c61aaf-4128-4f29-9ae4-0c90d09ae6f7',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Kolonodale',
     NOW()
   ),
   (
-    'def302ba-b532-4b91-8a39-94c7066af4c8',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    '9f2a8370-8729-4c1e-9fd6-e28c5469253c',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Mokole',
     NOW()
   ),
   (
-    '086779db-9c1f-49c2-9062-999eeaa17e00',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    'b4592351-6366-4049-8b1e-f3939cbc2615',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Mori: Bawah',
     NOW()
   ),
   (
-    '781481c0-e5c5-4a41-aa05-55abff778477',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    '6f4693f5-3787-4a16-a5b2-fcadf2853e9a',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Mori: Tinompo',
     NOW()
   ),
   (
-    '0e9a9790-306e-424a-a9a2-178010d4db5c',
-    '03387bd3-4ba9-48c1-b0f7-23b971673c5a',
+    '8e9e4886-eda4-437a-b54b-037b95dbaf39',
+    'a731b33c-08ff-4487-b9ed-a79fe24e297b',
     'Tinompo',
     NOW()
   ),
   (
-    'c086e07a-3195-48e6-b07d-bf3a2fa1c2ef',
-    'f18cabf8-a997-4f14-b53b-037abe18ecb6',
+    '8f7316b1-1a67-43de-9ddc-19f0cdf10d5a',
+    '7ef7f073-b31e-4f56-a180-1d157e2ab932',
     'Sangihe',
     NOW()
   ),
   (
-    '2eabe49c-0b49-48c3-ad02-74c2711f5110',
-    'f18cabf8-a997-4f14-b53b-037abe18ecb6',
+    '4d779bbf-0eae-42cf-aef9-7ac2600620db',
+    '7ef7f073-b31e-4f56-a180-1d157e2ab932',
     'Sangir & Sangir: Siau',
     NOW()
   ),
   (
-    'c73ab546-bd5d-44d9-9ec0-dd757e95d98a',
-    'f18cabf8-a997-4f14-b53b-037abe18ecb6',
+    '79c58026-fe2b-4af3-b790-52a026246fb7',
+    '7ef7f073-b31e-4f56-a180-1d157e2ab932',
     'Sangir Siau',
     NOW()
   ),
   (
-    '166471f8-38b6-43fb-9c6e-152f46c9c0b8',
-    'f18cabf8-a997-4f14-b53b-037abe18ecb6',
+    '5471f402-3353-4258-92c0-ad263b30e871',
+    '7ef7f073-b31e-4f56-a180-1d157e2ab932',
     'Siau',
     NOW()
   ),
   (
-    'bf34f255-a84b-4873-80af-b9a17359bf44',
-    '83c0e5f6-b464-490f-8155-e51573090f18',
+    '9db476ba-63a4-4a08-81a0-d06fac8069c3',
+    'f043c9af-c4fc-4ea0-9649-a4e7e1e9acfd',
     'Kolaka',
     NOW()
   ),
   (
-    '6ebefde4-53af-4505-a059-385c653befe7',
-    '83c0e5f6-b464-490f-8155-e51573090f18',
+    '3426c5ec-15e9-48f9-9c88-720cfd1dbf34',
+    'f043c9af-c4fc-4ea0-9649-a4e7e1e9acfd',
     'Tolaki: Konawe',
     NOW()
   ),
   (
-    'd728c9e9-6487-4b2b-a772-a15ab528d3e7',
-    '5c92c697-ff8f-4c0d-9f0a-f769d1b36e5a',
+    '55f48ab4-db10-4f93-a009-1c0da817e569',
+    '938a22f3-2dac-41fe-bbc9-8420b6752a57',
     'Kamba: South Kitui',
     NOW()
   ),
   (
-    '9f2f295b-c9d2-471a-8f9c-c3edeccb3dfb',
-    '5c92c697-ff8f-4c0d-9f0a-f769d1b36e5a',
+    'd37c7121-2c87-4d49-8734-874241f620a5',
+    '938a22f3-2dac-41fe-bbc9-8420b6752a57',
     'South Kitui',
     NOW()
   ),
   (
-    '8d2636f5-826d-4e29-80ea-82d652a373bf',
-    '5f97f79c-708a-4707-842a-a8ae56ffad08',
+    'b23ce780-5d21-48c3-b657-d6772f6f71a7',
+    'b19a5043-53ba-44ca-a513-f650e1fc9680',
     'Iliun',
     NOW()
   ),
   (
-    'be42d7ed-53b3-4886-beb6-d6a2ae7549e2',
-    '5f97f79c-708a-4707-842a-a8ae56ffad08',
+    'de9577da-54e2-4b59-85bf-5fe449b2c6f0',
+    'b19a5043-53ba-44ca-a513-f650e1fc9680',
     'Ili''uun',
     NOW()
   ),
   (
-    'f4b4616b-7561-473f-87fc-5c839cbff894',
-    '29c45d0e-5d99-4cc2-b997-f650d67fc7ad',
+    'dd79e684-608e-403c-823a-5d0f0ea1d70c',
+    '14a335b8-7466-4c02-bb7d-f1c80c85d7ed',
     'Gbobo',
     NOW()
   ),
   (
-    'f9245ade-9dfd-486a-b141-0115cb3dfe07',
-    '29c45d0e-5d99-4cc2-b997-f650d67fc7ad',
+    '163f6d15-f3d1-4207-9639-37df06f7c01e',
+    '14a335b8-7466-4c02-bb7d-f1c80c85d7ed',
     'Gborbo',
     NOW()
   ),
   (
-    '9403479f-40b4-48b1-9c51-bfad4d778ce6',
-    '29c45d0e-5d99-4cc2-b997-f650d67fc7ad',
+    '96a89c3d-11c2-42bb-a01a-07349154fa39',
+    '14a335b8-7466-4c02-bb7d-f1c80c85d7ed',
     'Krahn, Western',
     NOW()
   ),
   (
-    '61d3a24a-0307-430d-8ea8-f6a31ff94711',
-    '81955f99-d3b8-419b-b0bd-3204c73b0cd4',
+    'a4334ebb-999f-4b0c-81bd-364d2c9aa6c7',
+    'ac06f6c4-3c2c-41a3-a5d0-7ba221bdf806',
     'Chrao',
     NOW()
   ),
   (
-    'e093b5c5-23a6-4eda-b854-c5f0fae74621',
-    '81955f99-d3b8-419b-b0bd-3204c73b0cd4',
+    'e1790e1f-ced5-497d-ae26-67a3597f0529',
+    'ac06f6c4-3c2c-41a3-a5d0-7ba221bdf806',
     'Jero',
     NOW()
   ),
   (
-    '18cfb750-75bf-45ff-bdb7-2aeb8a735ff5',
-    '81955f99-d3b8-419b-b0bd-3204c73b0cd4',
+    '29ad41b2-0b2f-464e-a1a6-bd2a014ef51d',
+    'ac06f6c4-3c2c-41a3-a5d0-7ba221bdf806',
     'Jro',
     NOW()
   ),
   (
-    '42db883b-5bfc-48ea-8a7b-68be9ad59afd',
-    '81955f99-d3b8-419b-b0bd-3204c73b0cd4',
+    'b995fffd-05a7-4e48-a2a2-f1ca00b6c0a9',
+    'ac06f6c4-3c2c-41a3-a5d0-7ba221bdf806',
     'Ro',
     NOW()
   ),
   (
-    '8d5e6e37-0f7a-4b7d-9c15-3ae70e0223d6',
-    'e4a27d07-3d92-46f9-b0b4-0cf8f2a677e9',
+    '136ed30c-0daf-49dc-9601-7390a0b5cc4f',
+    'ddf7d7b7-86f6-4cff-a11f-d2c62d444081',
     'Lac',
     NOW()
   ),
   (
-    'dce9442f-8e88-4a7d-9661-4fdeb20ca466',
-    'e4a27d07-3d92-46f9-b0b4-0cf8f2a677e9',
+    'e3a7ea58-003d-461f-adb0-abc479057e89',
+    'ddf7d7b7-86f6-4cff-a11f-d2c62d444081',
     'Lach',
     NOW()
   ),
   (
-    '4b1c3ce4-ef50-44ad-ab4c-00d011d7b0e4',
-    'e4a27d07-3d92-46f9-b0b4-0cf8f2a677e9',
+    '433bae8a-8874-4e56-b6d3-d0f3f7383bda',
+    'ddf7d7b7-86f6-4cff-a11f-d2c62d444081',
     'Lat',
     NOW()
   ),
   (
-    '14d10a32-285d-485f-b47a-9f8004726d55',
-    '720ca132-e430-4860-a9b9-5ff4eb910752',
+    '1c84eb6d-492f-4148-b5bf-fad7f14b2393',
+    '3195f1d4-5a6d-45c8-b0e1-13f87beecfd2',
     'Chil',
     NOW()
   ),
   (
-    'a5e32c82-2765-4c90-a28c-e134ef25a38d',
-    '720ca132-e430-4860-a9b9-5ff4eb910752',
+    '40cc6648-e708-4fd3-bf86-0f508045f3e6',
+    '3195f1d4-5a6d-45c8-b0e1-13f87beecfd2',
     'Koho: Chil',
     NOW()
   ),
   (
-    '77808b5e-9163-4987-b4b0-bd45505b99db',
-    '720ca132-e430-4860-a9b9-5ff4eb910752',
+    'd796bcf2-2474-4ffd-905c-2be5df67e2bc',
+    '3195f1d4-5a6d-45c8-b0e1-13f87beecfd2',
     'Koho: Kil',
     NOW()
   ),
   (
-    '36a58dd4-a052-49f5-92f3-6031c63a7ef4',
-    'f358ec69-01db-4e7b-8c80-de154a8a55b4',
+    'e6934864-acc6-45ac-9ebb-56d9db8acfa8',
+    '966ad824-2981-41d1-a57c-202e3982d6c2',
     'Tring',
     NOW()
   ),
   (
-    '3f28d7d2-0961-4360-b11a-e7f68a24470f',
-    'f358ec69-01db-4e7b-8c80-de154a8a55b4',
+    'c5108a08-e1ce-45c6-bced-ff7cd595abef',
+    '966ad824-2981-41d1-a57c-202e3982d6c2',
     'Trinh',
     NOW()
   ),
   (
-    '917bce50-19d1-4004-85e2-2b522b5cf0da',
-    '8bbdb8d5-a3cb-44e5-a9d5-d1d77b8a7e33',
+    '686a3e00-1d99-43b9-a26d-e98cf38349ea',
+    'dd6fd06d-34e0-4366-b361-e7bb6bf446c8',
     'Assam & Saura: Tea Garden',
     NOW()
   ),
   (
-    '832aafe3-67b9-4945-b60a-90d8ab0f89dc',
-    '8bbdb8d5-a3cb-44e5-a9d5-d1d77b8a7e33',
+    '4a0e76ce-40d5-4dcf-9681-f300f472689e',
+    'dd6fd06d-34e0-4366-b361-e7bb6bf446c8',
     'Savara',
     NOW()
   ),
   (
-    'f8ebe37e-d252-43c5-b50b-e2a047cd9f3d',
-    '8bbdb8d5-a3cb-44e5-a9d5-d1d77b8a7e33',
+    '9e404541-06a8-4604-bda1-8b903420c976',
+    'dd6fd06d-34e0-4366-b361-e7bb6bf446c8',
     'Sora',
     NOW()
   ),
   (
-    '47023172-7122-49c6-9c95-0b9874f7621d',
-    '8bbdb8d5-a3cb-44e5-a9d5-d1d77b8a7e33',
+    '71f38f10-5a6b-450b-a161-2caa6e0f8202',
+    'dd6fd06d-34e0-4366-b361-e7bb6bf446c8',
     'सौरा: आसाम & सौरा: चाय बाग़',
     NOW()
   ),
   (
-    '5daf4ba8-0433-440e-b2ad-53c231072ee0',
-    'fcc8b31f-afd1-459e-993f-04a67d42c849',
+    '516dc7a7-3507-4584-bdbd-56d098226cdd',
+    '4554b4b8-edd3-4282-890b-94bff2ec56b5',
     'Berkua',
     NOW()
   ),
   (
-    'b1b85247-403b-4291-bb4f-520a23419288',
-    'fcc8b31f-afd1-459e-993f-04a67d42c849',
+    'ce72db76-9bb1-4c04-a9b3-f4d20e6dbc51',
+    '4554b4b8-edd3-4282-890b-94bff2ec56b5',
     'Land Dayak: Bakua',
     NOW()
   ),
   (
-    'e0a65880-b954-4bfe-b33e-fae88eea1c53',
-    'fcc8b31f-afd1-459e-993f-04a67d42c849',
+    '00b10d23-06da-4ea7-86d0-d9b23c0c9f30',
+    '4554b4b8-edd3-4282-890b-94bff2ec56b5',
     'Land Dayak I',
     NOW()
   ),
   (
-    '3526c9f0-a19a-419e-b080-fd5f130af8f5',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    'c5e63249-1ec1-422b-921c-c92d84f5dba0',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Banana',
     NOW()
   ),
   (
-    '3160fbc4-babb-4463-afa7-455a62d05a4f',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    '20154281-c198-49c8-ada7-e09055408e0e',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Banana''',
     NOW()
   ),
   (
-    'f268da1f-a551-4ffc-83fa-23ee238b78a3',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    'c1cf39ec-0198-4f07-b879-510efc86d852',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Banana''k',
     NOW()
   ),
   (
-    'cc50c4c2-8d29-4e78-9b03-88c907a29f6d',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    'dc7cf7d7-efa5-46da-bd8a-e2c4ad0906cc',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Banane',
     NOW()
   ),
   (
-    '7e16c630-2258-4250-8df7-bb0b582c7197',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    '932d6dca-4fc6-42ff-8f59-8189d66fe101',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Bernanak',
     NOW()
   ),
   (
-    'c4965fbc-0503-4240-84e0-6745c808d192',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    'c67914ad-f3a5-406d-a1db-fd4b7afeaa9a',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Land Dajak: Bernanak',
     NOW()
   ),
   (
-    'aeb9535c-3d58-48f5-bb48-e73b3ff3d53c',
-    '4aed7b23-8e80-4dda-a27e-1b883ec92e93',
+    '16e6d2b3-764e-4216-b1a9-f14d2cda1528',
+    '10db8cf4-21ff-49ab-ad00-80cf0c1f0217',
     'Malayic Dayak: Banana''',
     NOW()
   ),
   (
-    '2772dd0a-e3eb-4dbf-9ecf-106de40802cc',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '15e9d862-fd21-46ab-b394-2fcd5f02a304',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Bakati: Lara',
     NOW()
   ),
   (
-    '8e8f77e8-4a0a-49a9-abd5-61ab35c9e172',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    'b7d84eba-f3a8-4a9f-bccd-1c48f9522677',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Berkati',
     NOW()
   ),
   (
-    '288c9544-99c0-4940-b95e-2362bbb2ffdb',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '55d8d197-3834-403c-b021-2d8c1ab36a75',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Land Dajak: Berkati',
     NOW()
   ),
   (
-    'bf38f793-2aee-4eac-bd04-87be807c4831',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '69d2245c-5fb2-41e4-b218-f684504c3bbc',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Lara',
     NOW()
   ),
   (
-    '6bc9eda4-1250-4d99-875a-fcc476573a59',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '3ee3c1ad-b370-4d8f-95b2-e4c5c955778f',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Lara''',
     NOW()
   ),
   (
-    '39e6db0e-53e3-4243-86b1-babac9905bee',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '90b395a8-ed0a-46e5-b2e6-a916d57e3629',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Luru',
     NOW()
   ),
   (
-    '1f877721-6254-4a93-9fd4-83c43b2e3f3b',
-    'e9a8f201-8580-431f-b2d4-d5f690c3ec04',
+    '4d37368a-c2db-4b1b-82d0-812d82b96950',
+    '84952e72-cf0f-49d0-8320-dc6c85c3af34',
     'Rara Bakati''',
     NOW()
   ),
   (
-    '3538da93-a72e-4ae8-8ef7-32e2a527b92c',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    'ab2ed6a0-c3b9-45d8-bd7d-94c07c00d1d8',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Kalenjin',
     NOW()
   ),
   (
-    'ec628ec3-75b4-401b-b11f-8cc2af0c88f7',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    '8670ec3b-99a0-41f6-9b6e-97e3e460d518',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Pokoot',
     NOW()
   ),
   (
-    '3d125bf8-fdc4-4bd7-8d66-11908a5f0450',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    '18735732-94d3-462b-9157-e67f95f61fc6',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Pokoot: West Pokot',
     NOW()
   ),
   (
-    'c1ad0966-8521-424f-ab7d-1f8502e88b78',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    'c97c35d6-691c-4890-84aa-0e6274c0cd0d',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Pokot',
     NOW()
   ),
   (
-    'daa38ba1-0dcd-4897-869c-9a189374e1d1',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    'c07d6681-bcab-4dbd-a224-c594cf933190',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Suk',
     NOW()
   ),
   (
-    '2a6ac96b-578f-4adc-8704-b34116db141d',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    '54a404a1-ce27-42a2-adaa-843e9da12d16',
+    'a815a955-0664-4232-8884-b096e107be90',
     'Sukku',
     NOW()
   ),
   (
-    'eb7f81cc-6efe-4310-afb6-292d15a9af18',
-    '6fc23bdb-968d-4dca-86d4-fb01312457c8',
+    'cabc858b-1d28-4357-90ff-71e360a62cac',
+    'a815a955-0664-4232-8884-b096e107be90',
     'West Pokot',
     NOW()
   ),
   (
-    'fe5da56b-1f13-4737-a33e-3fe4abd17201',
-    'b26d3e17-a97c-4de2-b5a4-c74e996b5356',
+    'b80d7ecc-11b1-4401-8026-cfe1c5e0a4f7',
+    '97a0f3b6-67d6-41ff-b9d2-010469cd75cb',
     'Hallam: Langkai',
     NOW()
   ),
   (
-    'c43d17d8-e246-487b-8efd-6903f2483537',
-    'b26d3e17-a97c-4de2-b5a4-c74e996b5356',
+    '2072d5fc-6710-48b1-863f-73ebbd858bcb',
+    '97a0f3b6-67d6-41ff-b9d2-010469cd75cb',
     'Langkai',
     NOW()
   ),
   (
-    '25bba861-ffa5-4760-b6f3-076cbdd453b4',
-    'b26d3e17-a97c-4de2-b5a4-c74e996b5356',
+    'ef065c6c-5b8f-417e-a0b1-b7e6400a7ce2',
+    '97a0f3b6-67d6-41ff-b9d2-010469cd75cb',
     'चिन, फलम: लंगकाए',
     NOW()
   ),
   (
-    'f5b74dcf-a055-4c8e-87ed-b7c9cab469f9',
-    '8f66056e-f38f-4d56-b955-f4dd50311251',
+    'ec3833dc-3b82-4ddd-ac7c-a16085d98ab1',
+    '67b9ebd1-48c3-467d-8724-8d13edd88957',
     'Chin, Falam: Chorei',
     NOW()
   ),
   (
-    'cd46d9af-3058-407b-af68-69fddec49d8d',
-    '8f66056e-f38f-4d56-b955-f4dd50311251',
+    '97ae5215-b73c-4f9a-84d0-1f0261d8620d',
+    '67b9ebd1-48c3-467d-8724-8d13edd88957',
     'Chorei',
     NOW()
   ),
   (
-    '2ac430b2-c3a4-4df3-900e-f385afe84853',
-    '8f66056e-f38f-4d56-b955-f4dd50311251',
+    '82ca0472-efae-4c21-854f-2ecf69557050',
+    '67b9ebd1-48c3-467d-8724-8d13edd88957',
     'Hallam: Chorai',
     NOW()
   ),
   (
-    '4a229b47-0a08-4ecb-8cbb-d35b35bae813',
-    '8f66056e-f38f-4d56-b955-f4dd50311251',
+    'f09d44e9-bd2e-40b2-8dd7-d7784075d3c0',
+    '67b9ebd1-48c3-467d-8724-8d13edd88957',
     'चिन, फलम: कोराए',
     NOW()
   ),
   (
-    '51a52476-b4af-4f3e-ac3c-0054b0b75a21',
-    '9a8f9387-80c0-4258-b1ca-d7ae11964bcf',
+    'ed86dfd5-74dd-48e2-8f92-c0eaafdedc28',
+    '6cc1cb4f-6ed2-4584-a3c2-12a9e8d5cbff',
     'Chin, Falam: Langwang',
     NOW()
   ),
   (
-    'a64ad89d-70ff-493e-b522-061d3f0b658e',
-    '9a8f9387-80c0-4258-b1ca-d7ae11964bcf',
+    'fde02c82-46bf-4f56-adc7-50f340f2dcb7',
+    '6cc1cb4f-6ed2-4584-a3c2-12a9e8d5cbff',
     'Langrawng',
     NOW()
   ),
   (
-    'dec9eca2-ee71-44ba-9d22-d028b9194d1c',
-    '9a8f9387-80c0-4258-b1ca-d7ae11964bcf',
+    '4ef748b7-e62d-42aa-b6c4-00b1a4361124',
+    '6cc1cb4f-6ed2-4584-a3c2-12a9e8d5cbff',
     'Langwang',
     NOW()
   ),
   (
-    '8253b27c-451d-45f6-8058-16691ad458ac',
-    '9a8f9387-80c0-4258-b1ca-d7ae11964bcf',
+    '7bc74735-3c15-4fce-82ae-ac67a55f310e',
+    '6cc1cb4f-6ed2-4584-a3c2-12a9e8d5cbff',
     'हलम: लंगवांग',
     NOW()
   ),
   (
-    '8f0c4c5a-3dfc-416a-b587-6c3859d8c0e1',
-    'e9ca8e9e-0be8-4a6b-b209-e6321a43c744',
+    '91f66dec-477d-42f9-9054-79709e7e6cb0',
+    '6b129742-ff14-458c-a94e-fdcbf78a7914',
     'Garhwali: Terhi',
     NOW()
   ),
   (
-    '3d09224b-41ba-4236-aa2f-fde45d8d8813',
-    'e9ca8e9e-0be8-4a6b-b209-e6321a43c744',
+    '39ee2f34-4840-46cf-9238-80f2506457a3',
+    '6b129742-ff14-458c-a94e-fdcbf78a7914',
     'Tehri',
     NOW()
   ),
   (
-    '66386a9b-a0a9-4f22-8325-eb60437cc194',
-    'e9ca8e9e-0be8-4a6b-b209-e6321a43c744',
+    'edbf9c4c-a8f4-46d8-89b3-8f3ebf0c5f46',
+    '6b129742-ff14-458c-a94e-fdcbf78a7914',
     'गढ़वाली: टेहरी',
     NOW()
   ),
   (
-    '3e049eab-85ea-4368-8cbb-03313226309c',
-    'cf74f08f-cdcc-4e62-8eb1-b605525cd205',
+    'e7eebe5a-cb47-4502-a29b-623e484a5c22',
+    '66c748fc-65bc-471f-bd3b-8240ff0f91ef',
     'Hue',
     NOW()
   ),
   (
-    '67ad0dc2-be48-489b-97b8-3835d0b0fef2',
-    'cf74f08f-cdcc-4e62-8eb1-b605525cd205',
+    '995ae790-d6bf-4c01-8e0b-76288e11f0d1',
+    '66c748fc-65bc-471f-bd3b-8240ff0f91ef',
     'Tieng Viet',
     NOW()
   ),
   (
-    '1480fb6f-bc83-4443-a30d-e18b6e1df999',
-    'cf74f08f-cdcc-4e62-8eb1-b605525cd205',
+    '0914c7e3-bc0a-45b6-906d-e769fbb7e7e0',
+    '66c748fc-65bc-471f-bd3b-8240ff0f91ef',
     'Tiếng Việt',
     NOW()
   ),
   (
-    '85d26ed9-5fec-4713-bd6c-76b971ac3e70',
-    'cf74f08f-cdcc-4e62-8eb1-b605525cd205',
+    'adf648a8-0f2f-424a-b2e0-a98556f78037',
+    '66c748fc-65bc-471f-bd3b-8240ff0f91ef',
     'Vietnamese: Central Vietnamese',
     NOW()
   ),
   (
-    'c6776d4f-5c3f-49d3-b6c0-8614145b41c4',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    'e19fe4c6-0d40-41b0-ba5d-d3bd17c5af59',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Kakbarak',
     NOW()
   ),
   (
-    'c8e09bf1-81a1-4c70-8b24-bcb487a3e627',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '93cff018-3386-4a92-b377-85466886c34d',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Kokbarak',
     NOW()
   ),
   (
-    'd1420191-d4de-4a08-936d-65b7ffce67cf',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '5fc4e54d-bbdc-4938-a0bc-81f0ae99f399',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Kok Borok',
     NOW()
   ),
   (
-    '6b097755-f370-4143-8a9d-603e0dd5b8df',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    'f7dec5d3-f4b4-4e4d-9fac-eaed1cfbed8a',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Mrung',
     NOW()
   ),
   (
-    'eafcb1fe-a5ca-460e-9a60-b4bf1bd031ef',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    'bde7a3a7-89ec-4d7a-bf75-82ac13f0baed',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Noatia',
     NOW()
   ),
   (
-    'cc248677-61eb-4800-8f75-51abb24f4fd9',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '66d10218-78b7-4051-a536-7612bf3acd08',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Tipura',
     NOW()
   ),
   (
-    '40f1abcf-528d-4f9f-bbbd-a16c70dfdc03',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '731eb45d-37e3-481a-b25b-46be5c4ad44f',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Tripura',
     NOW()
   ),
   (
-    'a22f1192-5487-46a5-9afa-1db7123c13e5',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '95e5165f-aa7b-4984-b26a-37d655544b13',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Usipi',
     NOW()
   ),
   (
-    'f4a1428d-f896-4cd9-b4eb-062eb33cab6f',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '00412c4a-2662-441f-ab6c-a80af6ed709b',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'Usipi Mrung',
     NOW()
   ),
   (
-    'd976c2af-9644-49dd-aab5-24e813aa6336',
-    '40ada436-074e-4e6d-9586-f9d6d6780f28',
+    '10839722-64e0-4dbb-8a0d-72e2ae55aecd',
+    'a8dd2d61-7efd-402e-be3d-f8f301820604',
     'त्रिपुरी',
     NOW()
   ),
   (
-    '3c45a93a-42a8-4416-8d86-e9a5dade81ac',
-    'bbb48834-0540-419c-95fa-b71e2ea42a3f',
+    '2243fe1e-1f28-445e-968f-f56042e25e29',
+    'a9a9bebe-677d-4703-b0b0-fb13aff835b1',
     'Bunong',
     NOW()
   ),
   (
-    'e42d2241-1dfc-4e86-96d8-3a602fab2800',
-    'bbb48834-0540-419c-95fa-b71e2ea42a3f',
+    'c5b5fc8c-44b9-4e00-aaab-9f24c6fc1fb6',
+    'a9a9bebe-677d-4703-b0b0-fb13aff835b1',
     'Central Mnong, Bunong',
     NOW()
   ),
   (
-    '6f3e9412-6f63-49c5-8c35-ff6a0e37029b',
-    'bbb48834-0540-419c-95fa-b71e2ea42a3f',
+    'ca1ac870-6204-4ebf-8227-8f89974de829',
+    'a9a9bebe-677d-4703-b0b0-fb13aff835b1',
     'Mnong: Bunor',
     NOW()
   ),
   (
-    'd2ff1268-3476-484e-a603-393015b82728',
-    'bbb48834-0540-419c-95fa-b71e2ea42a3f',
+    '0eb328a2-18ab-4833-b58f-44abc9361be8',
+    'a9a9bebe-677d-4703-b0b0-fb13aff835b1',
     'Mnong, Central: Bu Nar',
     NOW()
   ),
   (
-    '2fb6337f-8748-4f71-af0c-05caf58ba87c',
-    'bbb48834-0540-419c-95fa-b71e2ea42a3f',
+    'e8fc99d6-6787-4d6b-8075-2d9190c1093b',
+    'a9a9bebe-677d-4703-b0b0-fb13aff835b1',
     'ព្នង',
     NOW()
   ),
   (
-    'd45a824e-1d2a-4356-8733-b089a2794b1e',
-    '861e8b9e-c9ac-43d0-a417-461c417b4084',
+    '4115b664-db99-4296-b7a3-efb292bb1216',
+    '676086b0-0452-4d2f-8632-83b705d3f4b4',
     'Gar',
     NOW()
   ),
   (
-    '14fbfc2d-0f80-4276-8e3c-52154c3d805a',
-    '861e8b9e-c9ac-43d0-a417-461c417b4084',
+    '2f8a8826-5bbc-44f9-8ff1-a5072bdfbe9b',
+    '676086b0-0452-4d2f-8632-83b705d3f4b4',
     'Mnong, Eastern: Mnong Gar',
     NOW()
   ),
   (
-    '10699bb2-d795-4069-9377-3fb3fe40dba1',
-    '861e8b9e-c9ac-43d0-a417-461c417b4084',
+    'fe932907-9ad6-4d8e-a401-a7fb72fa26c0',
+    '676086b0-0452-4d2f-8632-83b705d3f4b4',
     'Mnong Gar',
     NOW()
   ),
   (
-    '33c011b8-063e-4d2c-96be-70310bed52c9',
-    '861e8b9e-c9ac-43d0-a417-461c417b4084',
+    '7b5ec1f5-3261-471c-a4b1-6cc771d04f53',
+    '676086b0-0452-4d2f-8632-83b705d3f4b4',
     'Pnom Gar',
     NOW()
   ),
   (
-    '1937a124-866c-4d9c-8d4e-ccf2dd62f7f8',
-    '861e8b9e-c9ac-43d0-a417-461c417b4084',
+    'ef66c211-3e85-439d-961f-9d18cac01186',
+    '676086b0-0452-4d2f-8632-83b705d3f4b4',
     'Pnong',
     NOW()
   ),
   (
-    '1e2e7480-d6a2-44b3-929c-14702ae9709d',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '574f571c-67c7-4118-abfc-c3a4e20a96cc',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Dhundi-Kairali',
     NOW()
   ),
   (
-    '3312e2c5-b039-462c-ab03-5b803b4a277e',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    'af2cd107-31d3-47b7-afa8-c95c60d4f0fe',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Gurmukhi',
     NOW()
   ),
   (
-    'c2b551fb-af6d-437f-aec7-664799af7a91',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '87f58b9f-f14c-4532-b49d-3ab50ed90787',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Pahari',
     NOW()
   ),
   (
-    '1ff77147-011c-42b6-98c0-e5a6de338b86',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '0629df1e-f4de-47c4-a37a-00eca2c5b207',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Pahari-Potwari: Pahari',
     NOW()
   ),
   (
-    '1fcd558d-8464-424b-b353-7515a50172f8',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '4023a84c-d945-49e8-9b4e-baec7e2a7202',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Panjabi: Thandiani',
     NOW()
   ),
   (
-    'affc463a-2ddd-4269-bd5b-d7ed002efc84',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '5e7f12fa-a36a-4e9b-a05b-89d2dae5fc38',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Punjabi-Pahari',
     NOW()
   ),
   (
-    '28c14869-17b6-4a88-b485-49be589f08b8',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    'eedeab3e-826a-42e7-8091-0a39a22fcf9f',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Punjabi: Thandiani',
     NOW()
   ),
   (
-    '4644f66e-f601-49c3-917e-020886954ff8',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    'e41f9a24-1d97-4396-ad5d-400793baa130',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Thandiani',
     NOW()
   ),
   (
-    '72a36084-503d-4108-ae0d-953ea7a46dad',
-    'bd34a408-e183-4ec0-9478-8e2781924880',
+    '092fbd12-0586-4fc2-92bf-b42680089f48',
+    'e14aa11c-7738-4253-b130-d185767b96e1',
     'Thandiani Pahari',
     NOW()
   ),
   (
-    '0ae34cc3-e888-494e-bdd0-55c40ae02098',
-    '8909444f-dcdf-4dda-b0f5-d1c576c804c6',
+    '4b22b780-2b67-42ee-a313-3573f6b5590b',
+    '2cce402c-40d9-4acd-890f-01b35899eb84',
     'Kik Borok',
     NOW()
   ),
   (
-    'c6e9688a-0618-4c32-bff8-6aac8333d981',
-    '8909444f-dcdf-4dda-b0f5-d1c576c804c6',
+    '89d714b1-d309-4d0c-970b-472f1b12dd8c',
+    '2cce402c-40d9-4acd-890f-01b35899eb84',
     'Tripura',
     NOW()
   ),
   (
-    'faea4547-f3fa-4a7e-adc4-1d3c6071008f',
-    '8909444f-dcdf-4dda-b0f5-d1c576c804c6',
+    'a49c7743-08ae-4f6e-b3ed-611ded500ae8',
+    '2cce402c-40d9-4acd-890f-01b35899eb84',
     'गारो: त्रिपुरा',
     NOW()
   ),
   (
-    'eb64c0dd-6f29-4642-aab8-0a441fc6a8f1',
-    '642fbe2b-c151-46ec-a7a6-57310d35879f',
+    '75322fad-91e1-4b29-b3fc-9810a30d8427',
+    '2272b43f-7fba-492c-9c3b-1cf8a9c49d95',
     'English: Soldier',
     NOW()
   ),
   (
-    'de774e09-eded-47b2-b2e6-71ed8dbbc260',
-    '642fbe2b-c151-46ec-a7a6-57310d35879f',
+    'abf6bbb2-8657-4700-8ce0-ffdbffa08ed4',
+    '2272b43f-7fba-492c-9c3b-1cf8a9c49d95',
     'Liberian Standard English',
     NOW()
   ),
   (
-    '649b5425-195b-4206-97d9-2e753af2ef18',
-    '642fbe2b-c151-46ec-a7a6-57310d35879f',
+    '4b42f376-611d-426c-85ac-40e13ab7f4a2',
+    '2272b43f-7fba-492c-9c3b-1cf8a9c49d95',
     'Soldier English',
     NOW()
   ),
   (
-    '4b6712d3-d1dc-4014-bf2e-db45f00c2933',
-    '5dcb714c-bd3e-41dc-8ce0-221dd2ae57b9',
+    'bc82f2cd-774c-4d24-8ada-970575fb0a82',
+    'd2a98258-1279-4fb8-b5a9-800cdbfd4043',
     'Dajak: Randuk Ulu',
     NOW()
   ),
   (
-    '87f3de01-6645-432b-a1b5-d82e2e0ed7f4',
-    '5dcb714c-bd3e-41dc-8ce0-221dd2ae57b9',
+    '73ee2787-a1f3-47b1-bb64-ffa6aa20f8f9',
+    'd2a98258-1279-4fb8-b5a9-800cdbfd4043',
     'Iban: Randuk',
     NOW()
   ),
   (
-    'd76e2316-b914-485c-acbc-d84ada9240b7',
-    '5dcb714c-bd3e-41dc-8ce0-221dd2ae57b9',
+    '3e06fa23-7693-45b0-9bd6-0e1b542592c8',
+    'd2a98258-1279-4fb8-b5a9-800cdbfd4043',
     'Randuk Ulu',
     NOW()
   ),
   (
-    '80c96783-3204-4ac7-9c74-6903f8768eb5',
-    '5dcb714c-bd3e-41dc-8ce0-221dd2ae57b9',
+    'd73e3bfb-4fdf-40dc-8c7f-5ae0ceb651bf',
+    'd2a98258-1279-4fb8-b5a9-800cdbfd4043',
     'Sea Dajak: Randuk Ulu',
     NOW()
   ),
   (
-    '5ff0740a-b970-4b4a-acd8-91f9adefd5ba',
-    'ca1d3c4d-49b7-4b8c-b7d7-dc7684a136bc',
+    'fad4f08d-c9e2-4926-9e7d-5f65f90b8784',
+    '096a5c20-1bc0-4d22-a304-69575d73691b',
     'Kpeaply',
     NOW()
   ),
   (
-    'fb71015b-cf75-4f07-b53c-d7c59dbdc71d',
-    'ca1d3c4d-49b7-4b8c-b7d7-dc7684a136bc',
+    '417806da-954e-48f8-8f86-9861aeb1d4a7',
+    '096a5c20-1bc0-4d22-a304-69575d73691b',
     'Krahn, Western: Kpeaply',
     NOW()
   ),
   (
-    '4da386f1-275d-44b6-8357-f3c3371e339f',
-    'da558d8f-b262-4cf2-8a9f-825dc4efe73b',
+    '67759301-df59-4729-90ed-f08e014dc07f',
+    'db3fba68-4940-4eb4-9364-99b6c30c8715',
     'Gorbo',
     NOW()
   ),
   (
-    'f825d7fb-07a7-4ffe-bb81-090337739c12',
-    'da558d8f-b262-4cf2-8a9f-825dc4efe73b',
+    '481b57a9-cc37-4b6f-a64c-0ef442dbce58',
+    'db3fba68-4940-4eb4-9364-99b6c30c8715',
     'Gwarbo',
     NOW()
   ),
   (
-    'b9a63228-d398-49fa-98eb-ee41c6a05311',
-    'c12ffc57-ea72-4c72-9418-b49bdb4d9753',
+    'e2dcba28-4319-4ffb-bf84-f0f7ed8f9211',
+    '8aeaf301-b6b0-402d-a0ce-d4b4ef2d3ac6',
     'Gedebo',
     NOW()
   ),
   (
-    '2ac88236-2876-4226-80a3-9dc7bf874852',
-    'c12ffc57-ea72-4c72-9418-b49bdb4d9753',
+    '61adccdf-0aef-4b11-a3a9-74a6ab7ca88e',
+    '8aeaf301-b6b0-402d-a0ce-d4b4ef2d3ac6',
     'Grebo, Globo: Trembo',
     NOW()
   ),
   (
-    '2620e293-b75a-4e3b-8af1-aa8808ac7c24',
-    'c12ffc57-ea72-4c72-9418-b49bdb4d9753',
+    '5d29ae91-7ec9-4f31-bbc8-33e4dc5f37e3',
+    '8aeaf301-b6b0-402d-a0ce-d4b4ef2d3ac6',
     'Grebo: Trembo',
     NOW()
   ),
   (
-    '7f7a76f5-80ea-412e-a859-8cd72d485935',
-    'c12ffc57-ea72-4c72-9418-b49bdb4d9753',
+    '28df4455-4ba8-4115-9c35-e111b8a4dfb4',
+    '8aeaf301-b6b0-402d-a0ce-d4b4ef2d3ac6',
     'Trembo',
     NOW()
   ),
   (
-    'd5e3e192-4ea2-4f57-9250-1b79d6d8c698',
-    'ec6200b3-5673-4ad0-a714-ec9c3c5a71dc',
+    '32c82408-f4e8-4aed-bdc3-2a562705aa86',
+    '5e413af7-d1ba-4df3-a234-07e34ff59f9c',
     'Grebo, Northern',
     NOW()
   ),
   (
-    '0abc2937-a7f2-4b11-b0a3-8242b7616fbf',
-    'ec6200b3-5673-4ad0-a714-ec9c3c5a71dc',
+    'bddf4a91-5f32-416c-91f2-965af936492f',
+    '5e413af7-d1ba-4df3-a234-07e34ff59f9c',
     'Grebo, Northern: Palipo',
     NOW()
   ),
   (
-    '7ea863e7-cd1f-4c4f-a13a-5796c4bd319a',
-    'ec6200b3-5673-4ad0-a714-ec9c3c5a71dc',
+    '1d68daed-e00a-4fd2-8c56-79b63207d770',
+    '5e413af7-d1ba-4df3-a234-07e34ff59f9c',
     'Palipo',
     NOW()
   ),
   (
-    '826f4756-43d6-4aa6-b815-41a3e86a2228',
-    '7feea18e-5b74-42cf-bf33-9d4bfb743919',
+    'f50711d8-4f45-4807-9d69-8411d4aed375',
+    'a7394c39-645b-44cb-ae18-dc1ed33a9af1',
     'Konobo',
     NOW()
   ),
   (
-    '1f4d21cd-89d9-4d0c-a9c1-4810732b0999',
-    '7feea18e-5b74-42cf-bf33-9d4bfb743919',
+    '4f704025-ce15-44e8-a66b-bfecdab72c55',
+    'a7394c39-645b-44cb-ae18-dc1ed33a9af1',
     'Krahn: Konobo',
     NOW()
   ),
   (
-    'c70fc840-22ac-451a-b42b-6f24bcb56db9',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    '96f21c2d-73d2-42c3-9be3-4f62c2f26906',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Baroba',
     NOW()
   ),
   (
-    'ac935396-c715-46f4-b5ff-5c27ade49f0b',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    '93fadc65-f9e3-4507-9d71-0efb0b2a2070',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Borobo',
     NOW()
   ),
   (
-    'b49d229a-db34-4d2b-9ad3-04807bf4f6c5',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    'f3779db6-82eb-47bd-a2c9-fa1ece8b2361',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Bush Grebo',
     NOW()
   ),
   (
-    'e9f7339f-724f-4022-8d93-46befcce2094',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    '5e2aff21-e6bf-4485-98ca-12dca7c5d8d7',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Grebo: Barabo',
     NOW()
   ),
   (
-    '0ca10935-6506-4893-b824-b9323fd4c045',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    '0691a28f-de80-43db-8e51-e6fd9b8a1e66',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Grebo: Barobo',
     NOW()
   ),
   (
-    'd88d8309-0fad-4015-a700-31ff3dc8d535',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    'ea0b6796-77c4-4dc0-8f22-ada353669c22',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Grebo: Barrobo',
     NOW()
   ),
   (
-    '8b055cc4-cfa8-4e6e-b80d-1333dc7c779d',
-    '89472080-dcd6-4c22-a0c2-025b5600193c',
+    'fc9443a2-c518-465c-9925-283bb4fc0856',
+    'e0e8dfa4-58e5-4d84-9e53-2acf9512ccb2',
     'Grebo, Globo: Borobo',
     NOW()
   ),
   (
-    '4815ea44-3b08-4224-8137-17130dc6d191',
-    '932ed524-1729-48b1-9ef0-713d1cc29776',
+    '9525141f-1f32-45e1-a933-bc2b126e3d3a',
+    '4779b0e9-4155-48fc-a348-73fbdde6a96d',
     'Antra',
     NOW()
   ),
   (
-    'e52be622-75c9-4844-ae20-cf4f7adb0839',
-    '932ed524-1729-48b1-9ef0-713d1cc29776',
+    '1df81aaa-eb75-4767-b008-a3b09acb7714',
+    '4779b0e9-4155-48fc-a348-73fbdde6a96d',
     'Kui Antra',
     NOW()
   ),
   (
-    'a0a48475-9699-46c4-a352-155dcd4b9b52',
-    '932ed524-1729-48b1-9ef0-713d1cc29776',
+    'ebdba500-05aa-4c91-b068-71771fea9622',
+    '4779b0e9-4155-48fc-a348-73fbdde6a96d',
     'Kui Ntra',
     NOW()
   ),
   (
-    '18c4b778-ea63-4f81-8fdc-b25892d321bb',
-    '932ed524-1729-48b1-9ef0-713d1cc29776',
+    'd7e5a20f-7d00-47c0-948d-40dc0078c9b0',
+    '4779b0e9-4155-48fc-a348-73fbdde6a96d',
     'Kuy: Antra',
     NOW()
   ),
   (
-    'df6d5a79-c33f-43bc-8db8-0b897f0075fb',
-    '932ed524-1729-48b1-9ef0-713d1cc29776',
+    '2344205d-ac93-4cda-9547-e6702a58f664',
+    '4779b0e9-4155-48fc-a348-73fbdde6a96d',
     '​គុយ',
     NOW()
   ),
   (
-    '806d5812-0ec0-47f8-b2bd-c7263de57535',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    '6f877f0d-c57d-44c6-b5a6-ac5238a9998f',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Dak Gle',
     NOW()
   ),
   (
-    '79dd461c-f2ea-4a13-a1ba-fff7657380e7',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    '054d5638-fcb7-4a02-8255-8232ee208681',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Die',
     NOW()
   ),
   (
-    '521ba7d3-e35e-4fbb-8850-649693ce67aa',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    '88561695-60b8-434e-a9ae-603541002967',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Jeh: Dak Gle',
     NOW()
   ),
   (
-    '6e52981a-e77d-4dfd-be94-871b6ee36516',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    'c98b01d1-e268-45ca-8a7f-ea48a0f40563',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Northern',
     NOW()
   ),
   (
-    'c9b35f72-47d7-4e9d-8e25-c5b991ee7bda',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    '6e779566-df44-40cf-8bc7-191e582b7e5e',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Ye',
     NOW()
   ),
   (
-    '9696680d-3ade-405a-8a82-a6ca1dbd67da',
-    '365cfa60-7520-49c0-ab55-50d8206b5b06',
+    'c8f5bed3-ed2c-42cd-b756-b923c31cbbf4',
+    '9393b60a-7e65-4fc4-a66c-e02fd77f9f59',
     'Yeh',
     NOW()
   ),
   (
-    '14380bd7-a274-48f9-97b4-6e72ff79c632',
-    '4299d49b-55ef-4c66-9b23-b67f0d842473',
+    'd5c8ca22-e0e3-4746-9383-c3a9d11015c8',
+    'a8aeae4d-1f4f-4f4d-847e-0bfb8d9c19fe',
     'Bulongan',
     NOW()
   ),
   (
-    '54e651ba-5839-46fd-b849-f9e7f4257ce4',
-    '4299d49b-55ef-4c66-9b23-b67f0d842473',
+    'efbd533e-c6c4-43ef-aae0-6d6dab978639',
+    'a8aeae4d-1f4f-4f4d-847e-0bfb8d9c19fe',
     'Bulongan Malay',
     NOW()
   ),
   (
-    'f7fe019a-d56d-43d5-be98-98db10527b7e',
-    '4299d49b-55ef-4c66-9b23-b67f0d842473',
+    '9bf27efb-8b39-4f2f-b44e-4f8b95e14607',
+    'a8aeae4d-1f4f-4f4d-847e-0bfb8d9c19fe',
     'Melayu: Bulongan',
     NOW()
   ),
   (
-    '5e9fefd0-ed8a-4e06-8c22-7dc33e7b4a57',
-    '4834fe6a-5baf-4c94-9e9a-99033028480b',
+    '58dcda9b-ca66-4453-9ec3-e464b9dd9476',
+    'e1cf2709-3e6f-4f5a-8f77-6cce6c6897c6',
     'Lun Ba',
     NOW()
   ),
   (
-    '084fa0ff-bd86-47a8-95a8-35cbc7fc35b9',
-    '4834fe6a-5baf-4c94-9e9a-99033028480b',
+    'b68da63a-a1db-4aa3-9490-6c7b8f4e7d54',
+    'e1cf2709-3e6f-4f5a-8f77-6cce6c6897c6',
     'Lun Bawang',
     NOW()
   ),
   (
-    'f207b3d1-55e8-462a-b89f-63380b0b4470',
-    '4834fe6a-5baf-4c94-9e9a-99033028480b',
+    '6d1295e7-ba7c-4f23-ab52-889ffd0fb656',
+    'e1cf2709-3e6f-4f5a-8f77-6cce6c6897c6',
     'Lundaye: Lun Bà',
     NOW()
   ),
   (
-    '3757fd10-31a2-4ffb-87cb-d45b50c761fd',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '51421923-670c-40c8-be1f-f5860562e17d',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Binongko',
     NOW()
   ),
   (
-    '1e3975db-19ea-4a22-b31c-970e368b9e19',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '0489d160-a572-4d0f-aabb-066c2ba366a2',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Bonerate',
     NOW()
   ),
   (
-    'fa50fb0a-b5a2-4e31-96df-33b01c1f2d3f',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '0b085c33-f86d-4b5f-afd5-b5284abf7421',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Buton',
     NOW()
   ),
   (
-    '7e20e8ed-7582-48a3-afb5-323568455fdc',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    'fab52eed-4c73-41f1-98c9-e44dfb7931c1',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Tukangbesi',
     NOW()
   ),
   (
-    '362462cb-d068-4234-9620-73f81bfda5c5',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '54a5daaf-abb0-4547-9773-42503402d712',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Tukang-Besi',
     NOW()
   ),
   (
-    'bcf44f47-84a1-42f5-b983-5717911d7326',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '83dc4ae3-939e-4eb4-9d1d-d051e706b862',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Tukangbesi, South: Binongko',
     NOW()
   ),
   (
-    'f030c76d-7ad6-4a3e-b7ec-5e04d9680ef2',
-    '65571aaf-42a9-4b66-96cd-681b49bbcfc1',
+    '2a1b90ad-0f7e-421e-ae4f-8512f2ebd186',
+    '4ef7eb82-b03d-4e1f-ac7d-c778e6f2a8cd',
     'Wakatobi',
     NOW()
   ),
   (
-    '1bc37610-4821-4f69-9bcd-3e648aca13c1',
-    '5a9e3ac2-8af9-48a9-8af6-4c99c7509a04',
+    'b3040eb6-f8fa-4428-a32e-01891421293e',
+    '7c80a3ab-60f3-40e6-b000-e68699ac23b2',
     'Tondano',
     NOW()
   ),
   (
-    '480c1891-085b-4d9f-9000-2bf8ee37655c',
-    '5a9e3ac2-8af9-48a9-8af6-4c99c7509a04',
+    '8ec6f9c5-9f55-4fab-b266-36c9fe55c81b',
+    '7c80a3ab-60f3-40e6-b000-e68699ac23b2',
     'Tondanou',
     NOW()
   ),
   (
-    '8e032cf9-4208-401d-9cab-013e5d491725',
-    '85e95b8b-1f1d-4ef5-9e25-b935cdd49cfa',
+    '4b7bc597-dff7-4846-9b9c-4c558f3aa08f',
+    '082d45c4-f3bf-4fe9-bd60-d29dee4e09fd',
     'Kelai',
     NOW()
   ),
   (
-    'f078b071-e0a8-469f-b567-b19764130d5f',
-    '1f2269c0-4e45-48cc-894e-4311f8fd85e4',
+    '454b1c08-1fb8-48f3-a304-a60b27700d19',
+    'e503e8f5-2176-417b-9b22-a098fcd5f6b4',
     'Long Iluk',
     NOW()
   ),
   (
-    '1c95ffd5-ba1d-411e-ae0c-330ea59b6697',
-    '1f2269c0-4e45-48cc-894e-4311f8fd85e4',
+    '6fa1b013-607d-4f67-b5e7-2527909e16a8',
+    'e503e8f5-2176-417b-9b22-a098fcd5f6b4',
     'Lun Bawang',
     NOW()
   ),
   (
-    '17b2cee0-30ba-48f5-b295-d399fc1fdae6',
-    '98ab06e0-f043-4df8-9033-7a84ed01f0b1',
+    'e4dc0dd9-8446-473e-a08c-6b0f773e6bb6',
+    'd25d0c53-1794-4b51-bc66-54dfb419f780',
     'Bantian',
     NOW()
   )

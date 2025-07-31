@@ -110,15 +110,7 @@ export async function parseImageUploadRequest(
     // Parse multipart form data
     const formData = await req.formData();
     const fileEntry = formData.get('file');
-
-    // Check if fileEntry is a File object (supports both real File and mock File in tests)
-    if (
-      !fileEntry ||
-      typeof fileEntry !== 'object' ||
-      !('name' in fileEntry) ||
-      !('size' in fileEntry) ||
-      !('type' in fileEntry)
-    ) {
+    if (!fileEntry || !(fileEntry instanceof File)) {
       throw new Error('No file provided or invalid file type');
     }
     file = fileEntry;
