@@ -445,10 +445,10 @@ const getRegionEntityDetails = async (
 
 ```typescript
 interface HierarchyNode {
-  entity_id: string;
-  entity_name: string;
-  entity_level: string;
-  parent_id: string | null;
+  hierarchy_entity_id: string;
+  hierarchy_entity_name: string;
+  hierarchy_entity_level: string;
+  hierarchy_parent_id: string | null;
   relationship_type: 'self' | 'ancestor' | 'descendant' | 'sibling';
   generation_distance: number;
 }
@@ -472,11 +472,20 @@ const getLanguageEntityHierarchy = async (
 ### **Region Hierarchy**
 
 ```typescript
+interface RegionHierarchyNode {
+  hierarchy_region_id: string;
+  hierarchy_region_name: string;
+  hierarchy_region_level: string;
+  hierarchy_parent_id: string | null;
+  relationship_type: 'self' | 'ancestor' | 'descendant' | 'sibling';
+  generation_distance: number;
+}
+
 const getRegionHierarchy = async (
   regionId: string,
   generationsUp: number = 3,
   generationsDown: number = 3
-): Promise<HierarchyNode[]> => {
+): Promise<RegionHierarchyNode[]> => {
   const { data, error } = await supabase.rpc('get_region_hierarchy', {
     region_id: regionId,
     generations_up: generationsUp,

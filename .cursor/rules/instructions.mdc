@@ -6,7 +6,7 @@ alwaysApply: false
 
 for supabase migrations, use `supabase migrations new` rather than manually creating the file
 my created_by fields reference public.users and not auth.users
-NEVER change data in my remote database or apply migrations through the supabase MCP / psql. All changes should ONLY be done through my automated CICD unless I EXPLICITLY tell you otherise. Test migrations and changes locally first.
+NEVER change data in my remote database or apply migrations through the supabase MCP / psql / supabase db push. All changes should ONLY be done through my automated CICD unless I EXPLICITLY tell you otherise. Test migrations and changes locally first.
  
 Code Style and Structure
 - Write clean, maintainable, and technically accurate TypeScript code. - Prioritize functional and declarative programming patterns; avoid using

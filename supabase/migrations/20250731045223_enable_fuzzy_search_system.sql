@@ -298,10 +298,10 @@ CREATE OR REPLACE FUNCTION get_language_entity_hierarchy (
   generations_up INTEGER DEFAULT 3,
   generations_down INTEGER DEFAULT 3
 ) returns TABLE (
-  entity_id UUID,
-  entity_name TEXT,
-  entity_level TEXT,
-  parent_id UUID,
+  hierarchy_entity_id UUID,
+  hierarchy_entity_name TEXT,
+  hierarchy_entity_level TEXT,
+  hierarchy_parent_id UUID,
   relationship_type TEXT, -- 'self', 'ancestor', 'descendant', 'sibling'
   generation_distance INTEGER -- 0 for self, negative for ancestors, positive for descendants
 ) language plpgsql security definer
@@ -347,7 +347,7 @@ BEGIN
       'descendant'::text as rel_type,
       h.gen_distance + 1
     FROM language_entities child
-    JOIN hierarchy h ON child.parent_id = h.entity_id
+    JOIN hierarchy h ON child.parent_id = h.id
     WHERE child.deleted_at IS NULL 
       AND h.gen_distance < generations_down
   ),
@@ -368,10 +368,24 @@ BEGIN
       AND sibling.deleted_at IS NULL
       AND target.parent_id IS NOT NULL
   )
-  SELECT * FROM hierarchy
+  SELECT 
+    h.id as hierarchy_entity_id,
+    h.name as hierarchy_entity_name,
+    h.level as hierarchy_entity_level,
+    h.parent_id as hierarchy_parent_id,
+    h.rel_type as relationship_type,
+    h.gen_distance as generation_distance
+  FROM hierarchy h
   UNION ALL
-  SELECT * FROM siblings
-  ORDER BY gen_distance ASC, entity_name ASC;
+  SELECT 
+    s.id as hierarchy_entity_id,
+    s.name as hierarchy_entity_name,
+    s.level as hierarchy_entity_level,
+    s.parent_id as hierarchy_parent_id,
+    s.rel_type as relationship_type,
+    s.gen_distance as generation_distance
+  FROM siblings s
+  ORDER BY generation_distance ASC, hierarchy_entity_name ASC;
 END;
 $$;
 
@@ -382,10 +396,10 @@ CREATE OR REPLACE FUNCTION get_region_hierarchy (
   generations_up INTEGER DEFAULT 3,
   generations_down INTEGER DEFAULT 3
 ) returns TABLE (
-  region_id UUID,
-  region_name TEXT,
-  region_level TEXT,
-  parent_id UUID,
+  hierarchy_region_id UUID,
+  hierarchy_region_name TEXT,
+  hierarchy_region_level TEXT,
+  hierarchy_parent_id UUID,
   relationship_type TEXT, -- 'self', 'ancestor', 'descendant', 'sibling'
   generation_distance INTEGER -- 0 for self, negative for ancestors, positive for descendants
 ) language plpgsql security definer
@@ -431,7 +445,7 @@ BEGIN
       'descendant'::text as rel_type,
       h.gen_distance + 1
     FROM regions child
-    JOIN hierarchy h ON child.parent_id = h.region_id
+    JOIN hierarchy h ON child.parent_id = h.id
     WHERE child.deleted_at IS NULL 
       AND h.gen_distance < generations_down
   ),
@@ -452,9 +466,23 @@ BEGIN
       AND sibling.deleted_at IS NULL
       AND target.parent_id IS NOT NULL
   )
-  SELECT * FROM hierarchy
+  SELECT 
+    h.id as hierarchy_region_id,
+    h.name as hierarchy_region_name,
+    h.level as hierarchy_region_level,
+    h.parent_id as hierarchy_parent_id,
+    h.rel_type as relationship_type,
+    h.gen_distance as generation_distance
+  FROM hierarchy h
   UNION ALL
-  SELECT * FROM siblings
-  ORDER BY gen_distance ASC, region_name ASC;
+  SELECT 
+    s.id as hierarchy_region_id,
+    s.name as hierarchy_region_name,
+    s.level as hierarchy_region_level,
+    s.parent_id as hierarchy_parent_id,
+    s.rel_type as relationship_type,
+    s.gen_distance as generation_distance
+  FROM siblings s
+  ORDER BY generation_distance ASC, hierarchy_region_name ASC;
 END;
 $$;

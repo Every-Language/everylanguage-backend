@@ -49,3 +49,6 @@ coverage/
 
 # Big data files
 assets/data/
+
+# Cursor
+.cursor/
