@@ -2,6 +2,16 @@
 -- Generated from Natural Earth v5.1.1 data
 -- Run these files in order:
 
+-- WARNING: This will DELETE all existing region data before importing!
+-- Make sure you have backups if needed.
+
+-- Clear existing data (in dependency order)
+DELETE FROM region_properties WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM region_aliases WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM region_sources WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM language_entities_regions WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM regions;
+
 \i supabase/seed/production/10_regions/01_regions_hierarchy.sql
 \i supabase/seed/production/10_regions/02_regions_countries.sql
 \i supabase/seed/production/10_regions/03_region_sources.sql
@@ -17,6 +27,9 @@ AND regions.level = 'country'
 AND rp.key = 'subregion'
 AND wr.name = rp.value
 AND wr.level = 'world_region';
+
+-- Note: All region names (including primary names) are added to region_aliases 
+-- for comprehensive fuzzy search functionality
 
 -- Verify the import
 SELECT 

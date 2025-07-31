@@ -4,8 +4,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5bbc4107-2d20-40b6-959e-321ab9db3db4',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '4d0d4cbe-cdb0-423f-b423-23e752d66a62',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'continent',
     'Africa',
     NOW()
@@ -16,8 +16,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '46b57f8c-728e-4b3f-8106-c106eda763c6',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '217d5856-081b-4cdb-9407-1276a121b064',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'region_un',
     'Africa',
     NOW()
@@ -28,8 +28,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'afea9d72-a44c-44dc-8f04-f0c62edf2486',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '87cdb871-5350-49af-a34e-44482aa8bfae',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -40,8 +40,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac44fd78-0a60-42f5-82e6-cdee61d571ba',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '9efdbcfe-593c-45b5-8cd6-1c5dce37aa03',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -52,8 +52,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '69600e1c-4050-4634-886c-7c3872d9a596',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '1a9af150-5722-4966-a537-a8a44267f6cf',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'population',
     '14645468',
     NOW()
@@ -64,8 +64,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd0196ec5-e3bb-4e6c-865b-fa4007488860',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '1e372e9b-55ac-45b6-8c1f-93c3c5d5bc1c',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'gdp_md',
     '21440',
     NOW()
@@ -76,8 +76,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '819ab7c2-eb64-41da-bf3d-d89598630a05',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '730f16bf-23fb-4b53-ab89-00eb2f9c0770',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -88,8 +88,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6a46b8d9-f90e-447f-b68d-8d5c95864efc',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '9b50baef-e05d-4368-ab24-5813fcd535e6',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'income_group',
     '5. Low income',
     NOW()
@@ -100,8 +100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '29eddd53-fb33-4e8a-b6fc-7cd0f3856c95',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    '8f70bb19-7ccd-4f6a-9d59-ab0ddc5182d5',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'type',
     'Sovereign country',
     NOW()
@@ -112,8 +112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '849844ef-32e1-4b9f-a3a9-f5b0010d2977',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    'f1fef6e8-1e39-4887-bb62-54169f4e6bef',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'label_x',
     '29.925444',
     NOW()
@@ -124,8 +124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42d70be6-7a98-4e96-9e3e-16f803a7dac4',
-    'bac7d76b-b5be-47ca-8ef4-5e0a43676f4d',
+    'cf02c0c6-89d5-416a-b24a-640937447876',
+    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
     'label_y',
     '-18.91164',
     NOW()
@@ -136,8 +136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '82479153-9e4f-4c92-b7ba-415267298351',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    'f5690568-c777-42bb-99a4-d2bc9b34ece9',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'continent',
     'Africa',
     NOW()
@@ -148,8 +148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '211d0a26-06a6-4b6c-b7b4-8ad3c75ac7fe',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '73fb6d49-f42f-4ad0-ab5f-1c39a8e0c3ab',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'region_un',
     'Africa',
     NOW()
@@ -160,8 +160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '46b14e02-a90d-48e6-ad3a-2fdbcf02a6a9',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '34009de4-2bc7-45bf-8420-4857427d3134',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -172,8 +172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd6a5bf5e-33da-4110-abfa-4a33e6952cc5',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '3e1bb279-4d9f-4376-996a-94ecabbec8ee',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -184,8 +184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6f319336-b3bf-49a4-9306-a9163c210803',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '5bd2c5bd-04b7-474d-aa9e-0888e3ca326d',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'population',
     '17861030',
     NOW()
@@ -196,8 +196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3069cd10-bbff-4046-8ef4-3269223fc78c',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '67e05a28-a881-44cf-aaf5-98f214e14464',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'gdp_md',
     '23309',
     NOW()
@@ -208,8 +208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff665942-4e94-4676-b479-cf682b9b156f',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '1971094a-2ee0-4b50-aca7-3527bb3eb6a3',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'economy',
     '7. Least developed region',
     NOW()
@@ -220,8 +220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42f72591-f059-4f8b-ab68-6f59b814a528',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '57c8bcf4-a66b-4568-bbce-f91db219e518',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -232,8 +232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '753a1651-43cb-4452-bd2c-2d9c30fd0af6',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    'bfb11f00-afc3-4e7d-9e72-f70a17473232',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'type',
     'Sovereign country',
     NOW()
@@ -244,8 +244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4e19439-cde1-4882-ad9b-81d6d7d29a95',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '43193740-1cfc-496e-8459-ad2e01ad2fb0',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'label_x',
     '26.395298',
     NOW()
@@ -256,8 +256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52b5a0a3-3f59-4025-900b-5f36518fe23d',
-    'f5a77212-ac74-4050-9e61-17c0f3f25633',
+    '9cc2ed3b-9b0c-432b-a40d-e7d4b3ad96a2',
+    'ef150562-b38a-4198-b976-e095bace37b1',
     'label_y',
     '-14.660804',
     NOW()
@@ -268,8 +268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd90bdbab-8dd0-4c19-a6a4-caa0395e284b',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '25a9574b-cf86-49d2-9465-6d1c0f291f0a',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'continent',
     'Asia',
     NOW()
@@ -280,8 +280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6252d867-cba4-4bc2-b739-fedfd72307c0',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    'de586447-be88-46d5-a624-a47e37c7cd35',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'region_un',
     'Asia',
     NOW()
@@ -292,8 +292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '66856783-09b1-4385-959f-000f28801573',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '0b1cba58-c6d8-4c2f-868d-f6f93e37f06c',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'subregion',
     'Western Asia',
     NOW()
@@ -304,8 +304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53f16a6b-0358-4ab7-a1ac-0d7bd24eeb3c',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '260700e4-ca86-4204-8731-bcf186faf7cd',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -316,8 +316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ab6b70e4-1224-4aa4-826b-75e406945afe',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '5c059e27-86c7-4f5d-994b-0b44d78f45c1',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'population',
     '29161922',
     NOW()
@@ -328,8 +328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5fc85600-6019-4f55-a40d-d6aa1dae899f',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '4c403829-832d-436b-a63e-2318c13e729e',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'gdp_md',
     '22581',
     NOW()
@@ -340,8 +340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '437dbfc2-687d-4487-b64c-aecf3b7b4014',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '44592735-99ea-4cf2-84f2-bc1d7ae82529',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'economy',
     '7. Least developed region',
     NOW()
@@ -352,8 +352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9681939d-d5c0-4d5d-8225-d6be76c7b081',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '421febeb-5dff-427d-a206-06d4a4a37485',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -364,8 +364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9050bfa9-fdf8-4b78-8205-ce809ea605ee',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '62b9e27f-31fb-47a1-8dd1-29eb777e023b',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'type',
     'Sovereign country',
     NOW()
@@ -376,8 +376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3c0fd9c6-b4b0-4223-852b-0943e460c5af',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    '9e15e715-f09d-4f48-80ca-4d2583d54a4c',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'label_x',
     '45.874383',
     NOW()
@@ -388,8 +388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44777d39-6a63-4049-8b2d-937b8d712150',
-    'a21aad13-81ee-47eb-bd59-80ab599133eb',
+    'bcc86850-15c5-4135-9247-e3e45cb78eb8',
+    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
     'label_y',
     '15.328226',
     NOW()
@@ -400,8 +400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71ad4a04-c4d4-4cf8-b41f-4787ffb49831',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    '5916169b-675f-4719-8e2f-0bfdf9006259',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'continent',
     'Asia',
     NOW()
@@ -412,8 +412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62568fb0-ae55-4dda-a229-8208a34ddbb7',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'e528015a-9433-458c-bfc1-da5af2e1d60e',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'region_un',
     'Asia',
     NOW()
@@ -424,8 +424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '898839f1-9a19-467b-8b49-a9483faf4ac6',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'c30630d6-629f-4ce4-a573-6005f192aadc',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -436,8 +436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0284b5f4-a831-486c-b706-24ce7834a8e2',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'a0f35d06-927f-4033-80e3-f340b9de16ff',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -448,8 +448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '07eb903d-8356-4527-8fe5-7c379fbc01ec',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    '8a6bc5be-b753-4401-a478-598ea4ca5fa8',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'population',
     '96462106',
     NOW()
@@ -460,8 +460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61ae4598-a2db-4a4d-ab15-20f316bd6071',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'b3acd7f0-460d-4dda-a7ad-fc2e6700346d',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'gdp_md',
     '261921',
     NOW()
@@ -472,8 +472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c090f436-8922-448c-acd5-d4479d8b3855',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'e61b24d1-7629-4e65-868b-0b01ad26c059',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -484,8 +484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '374ae5d8-d018-4a2a-9226-c525d9274e95',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'c8550e90-5eb5-45f7-a2cf-e647ef3a6783',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -496,8 +496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '29befe8b-52eb-4665-a3d6-06a477bbee2d',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    '79480960-4328-4528-9773-29a178f8b85c',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'type',
     'Sovereign country',
     NOW()
@@ -508,8 +508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '05b843af-9aa1-4b30-b858-2c7e6e307f57',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    'e410e80f-1e86-45d4-b556-6e1af85e7c11',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'label_x',
     '105.387292',
     NOW()
@@ -520,8 +520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5536e58-cf14-46ce-b2fb-181d3c0caf31',
-    'a42971d8-fd9d-4a02-a447-9137c0444795',
+    '9811bb4f-8387-493c-b8c1-92745a79fb50',
+    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
     'label_y',
     '21.715416',
     NOW()
@@ -532,8 +532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3f591a1a-f6f2-4c16-b8c6-3cc29fe66e49',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '4084c2b1-7d02-4f02-9c11-cbc3f5bdef69',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'continent',
     'South America',
     NOW()
@@ -544,8 +544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42bad45d-0094-48cc-8527-41a3b3c848f0',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '9196edf3-3519-4f41-bef4-26ad73b8a47a',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'region_un',
     'Americas',
     NOW()
@@ -556,8 +556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65972fc1-73c9-480e-80a6-26a65eba457c',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    'c31fa2bc-1ecc-4ab2-bba5-7e72c8b62124',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'subregion',
     'South America',
     NOW()
@@ -568,8 +568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b47b7fc6-d67f-44bc-80f7-a6a2de45dba8',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '61e7bfe0-2788-47d2-aea8-c806fd7f4f77',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -580,8 +580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42dcfbbd-9484-4c4c-bab4-41681f5e6fa6',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    'e149fe68-af42-4833-9f9e-d72283b57f6e',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'population',
     '28515829',
     NOW()
@@ -592,8 +592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4572c8f-3bc2-44d8-b5ad-60a498abc2a9',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    'b4981498-ddab-46ef-bcf6-9221bc3805aa',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'gdp_md',
     '482359',
     NOW()
@@ -604,8 +604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f8a835e-424d-410f-92cc-bc3ff6414b4f',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    'ca21f610-862d-4c2e-b4fe-d4104a275b20',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -616,8 +616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1b1bcd2-5d41-484c-b524-75e5bcbe9726',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '2cf52e24-635f-4ed5-b37f-3a7a2aff7821',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -628,8 +628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '77e7d3cd-6409-4852-a381-01ba69413956',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '6f1fcaff-25bc-4466-8852-a12b32bdc62a',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'type',
     'Sovereign country',
     NOW()
@@ -640,8 +640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9a246ca-1998-4745-993d-c10df6c3b000',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '24b43472-c552-476d-98fd-b32c14ed05b4',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'label_x',
     '-64.599381',
     NOW()
@@ -652,8 +652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86f63160-9bf7-46b3-84e5-04bdc6993312',
-    '014c2068-cabf-4449-8d88-807c45123338',
+    '8fc9d917-2aba-4644-bb35-6dd331434e8a',
+    '471f7484-c730-4d36-920f-a0f1e5d346c0',
     'label_y',
     '7.182476',
     NOW()
@@ -664,8 +664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aab67024-62eb-441f-83bb-47189744ce8d',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    'c406708c-8b80-4184-8668-69d5d4e081cd',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'continent',
     'Europe',
     NOW()
@@ -676,8 +676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a449275a-460b-4c1e-b62b-05643b4d497e',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    'dd2dae6c-77ae-473d-b4f8-0a13f259e771',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'region_un',
     'Europe',
     NOW()
@@ -688,8 +688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '26ff7441-bab4-4d00-a7e8-0a47b6f22763',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '54fcc615-c2c8-482f-a562-d1e108cad244',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'subregion',
     'Southern Europe',
     NOW()
@@ -700,8 +700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93f7e873-fae2-4ad8-aa4d-f86457a59bdd',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '8b8408f9-1c2c-414c-a3e6-472fe6eefaef',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -712,8 +712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e7320d3-da19-4b6e-92e4-254658b4679d',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '5137983f-5482-41ed-8905-c8c7a04a8564',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'population',
     '825',
     NOW()
@@ -724,8 +724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '867d3c64-d777-4e3b-80b2-dc962e717bd2',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '442fdb8b-30f7-4d6c-970c-b7c7b72c6f06',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'gdp_md',
     '-99',
     NOW()
@@ -736,8 +736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f65f7b22-a5c7-41ef-9d79-564be8bba4d2',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '88d2177f-3fa3-41f1-82d1-30ae36b35583',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -748,8 +748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65306b09-b731-405d-953a-21c174e412ce',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '34d9f289-8bee-4029-9d75-cccf8754269a',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -760,8 +760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '60fce1a6-9fda-4fcb-88d6-8cbf554770fa',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '245184ca-031c-44fa-9a52-2ebc753aa91e',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'type',
     'Sovereign country',
     NOW()
@@ -772,8 +772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92676956-2b5f-4bb8-80e4-1db1e77d8179',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '03af17e0-c0d5-4a0a-9338-bd2b5a546e0c',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'label_x',
     '12.453418',
     NOW()
@@ -784,8 +784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8f22082-6cd0-4f70-9b7d-740dcd8d1ead',
-    '3656254b-111e-441c-8b55-0d2cca819055',
+    '52dc5b78-3013-45d1-ac7b-77b09504bdc3',
+    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
     'label_y',
     '41.903323',
     NOW()
@@ -796,8 +796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '516f6f69-a8a4-4603-a88c-34ab5fd054fc',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'c4adbd9e-55b4-4f22-944f-44b22ad49cd8',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'continent',
     'Oceania',
     NOW()
@@ -808,8 +808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dc795491-e0b4-42d5-b95d-0fce4d948bb9',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'cd27b11f-42cb-4fd4-bf91-c5483810b046',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'region_un',
     'Oceania',
     NOW()
@@ -820,8 +820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c37fa0cd-46a4-423f-9d58-8284e25fb167',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'a85c37ec-6908-4aa2-b0d0-c3a27026f128',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'subregion',
     'Melanesia',
     NOW()
@@ -832,8 +832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ae56f2d-5374-42a3-90d4-cf3ac3c73ef0',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    '64224f76-c0c1-45a9-8879-63a3a73505f5',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -844,8 +844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd85f18f4-d120-46cf-bfbc-44b1ee96fd4b',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    '77164e9f-ad6e-453e-be3f-8208232e3302',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'population',
     '299882',
     NOW()
@@ -856,8 +856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd21bba5-2d60-4bd1-967e-4b0c43ab1425',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    '32064405-cf46-46d9-b3cd-e9a66bbd98b4',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'gdp_md',
     '934',
     NOW()
@@ -868,8 +868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1493b760-a4c0-4d15-a368-b7659b554977',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    '33cc33e2-b7c1-4e1e-bb92-8a470a5b8893',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'economy',
     '7. Least developed region',
     NOW()
@@ -880,8 +880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1978865c-e764-4754-ae4f-f90e41d69bbc',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'aa4fc799-7744-47a2-93ff-66143dcb4560',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -892,8 +892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '685251ea-b428-462d-b7ef-1b14e42d7296',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    '8ddae9e8-ae67-4992-9d07-95633d6f4cc2',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'type',
     'Sovereign country',
     NOW()
@@ -904,8 +904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e58431b1-f000-4264-8658-fb348cf4aa33',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'ddc0ff07-d172-4006-bc2c-d67c81eb77bf',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'label_x',
     '166.908762',
     NOW()
@@ -916,8 +916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6a071c7f-1506-4cdc-afab-cee337c9fcbe',
-    'baf298b5-4df2-46f2-bb2a-8b75afa6fe30',
+    'b56d850d-d2e3-4142-840d-af0e4e4c617a',
+    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
     'label_y',
     '-15.37153',
     NOW()
@@ -928,8 +928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fef01aca-a242-4df3-9f99-fe07f86ebfaa',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '0638d15f-4f19-404d-b7c7-fdb718f72dd1',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'continent',
     'Asia',
     NOW()
@@ -940,8 +940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53bd6de4-3fbe-422c-97e7-ee39b378babe',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    'b590a03b-7dd3-4a74-b39e-212835497008',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'region_un',
     'Asia',
     NOW()
@@ -952,8 +952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c48a6f60-fd5e-4fe3-9f39-2497e7a2dbb6',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '01237265-e863-4fc0-8037-7e672246e839',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'subregion',
     'Central Asia',
     NOW()
@@ -964,8 +964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c0f22db-67d0-42eb-8aa4-be9b98e9fa15',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '50851dc4-04a2-4e27-b9b5-fba8da80f95b',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -976,8 +976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2b77f4e-78e2-4217-a77b-7d5dad28b853',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '63bcc645-95fe-4577-a551-9167ba6ea76a',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'population',
     '33580650',
     NOW()
@@ -988,8 +988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f516c56-18c9-4ce2-93ae-57e4fa6e17e0',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    'cd3ec360-b6fb-4711-9520-2d98532e57f8',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'gdp_md',
     '57921',
     NOW()
@@ -1000,8 +1000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2bcaea39-847a-4193-b963-a6d44f2d75ae',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    'd326b8e2-038f-4277-bfd7-c712216fab5f',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'economy',
     '6. Developing region',
     NOW()
@@ -1012,8 +1012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6546f16e-de5e-4b53-a429-d9346d8da8ea',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '4d4a61bb-3b39-4ddf-abf4-e59ce32568a8',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -1024,8 +1024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca84d548-c77f-4221-a03e-219b0d9756d9',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    'a50e1637-81c0-41be-bf0d-a300365729d5',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'type',
     'Sovereign country',
     NOW()
@@ -1036,8 +1036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cce60e40-02df-44d9-bbbe-d4025b5b4e31',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '4fa6568e-54b6-4802-9f4c-fc1ea1cf896b',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'label_x',
     '64.005429',
     NOW()
@@ -1048,8 +1048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c19b9bbb-83c7-4d40-88a2-a3a52352f60f',
-    'c8894fed-db61-4070-999a-2c514dcf6f35',
+    '3dfffb08-ac3e-46e6-bfe4-212bf51c66bf',
+    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
     'label_y',
     '41.693603',
     NOW()
@@ -1060,8 +1060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4697b21-1bc0-4985-a1f9-edfd8fdf6427',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    'e55cb24f-5914-485a-8f3f-2bd55e5dc6df',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'continent',
     'South America',
     NOW()
@@ -1072,8 +1072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bdecaec8-6640-4bc0-875c-9554cde2448c',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '3ccbaaab-2fc9-45ac-be60-fa9a0ed11c6e',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'region_un',
     'Americas',
     NOW()
@@ -1084,8 +1084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a318c116-0d82-4f86-a7b4-09732c135398',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '150a89a6-7472-4a79-9d7b-c13b98c4b40a',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'subregion',
     'South America',
     NOW()
@@ -1096,8 +1096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7cb54f41-7815-4177-9032-29f37d6e55a9',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '84f8a7ff-49f6-4d2e-bf9d-75d9e4ed758b',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -1108,8 +1108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7561fd16-7ecc-4ff2-b3d4-7e8a5c9ca841',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '2c1f9fb5-ed36-4eef-9c7f-f4ed4e011a1f',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'population',
     '3461734',
     NOW()
@@ -1120,8 +1120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0dce4cb2-2960-4e5a-99e7-6712e26d4f6b',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    'c8689137-45cc-4185-ae2e-68012899e958',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'gdp_md',
     '56045',
     NOW()
@@ -1132,8 +1132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a99efa8-5a0a-4195-8e81-9bebcf672438',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    'd6093bdc-4d55-45b8-afc7-d36a6f7cdfc2',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -1144,8 +1144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '57434921-6428-4ab4-8966-f31d62d97781',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    'b42fc6ea-9070-4b99-adee-59b5ff977f9f',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -1156,8 +1156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36115935-1cfe-418a-8152-c6556f12a2c1',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '18da52bd-3187-4a48-b622-64af09f25bbe',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'type',
     'Sovereign country',
     NOW()
@@ -1168,8 +1168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e2d0867-deb5-4816-8b17-bde42d276f09',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    'f0601a51-843f-4faf-a25e-bca5f58be473',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'label_x',
     '-55.966942',
     NOW()
@@ -1180,8 +1180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4b8c3bb-bd7d-4c9d-a9c3-99f912167eba',
-    '4eea9842-5be1-40dd-bd27-2d7a288a9ec9',
+    '257c0ff2-6760-44c5-a812-960afb5721fc',
+    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
     'label_y',
     '-32.961127',
     NOW()
@@ -1192,8 +1192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2170ea4-8696-4453-85ae-5a0adac8108f',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '593a03a7-8ec2-46a9-8ae0-25d0a9b4d405',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'continent',
     'Oceania',
     NOW()
@@ -1204,8 +1204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da642e15-7604-40e9-a2d5-d2849fbce494',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '4e4d6ce2-3072-422c-9d29-9fd7643784b5',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'region_un',
     'Oceania',
     NOW()
@@ -1216,8 +1216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'def83a91-dc48-4c63-9c9d-60f854862475',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    'fe19c14a-8c7e-4f93-8caa-d641be7c34ba',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'subregion',
     'Micronesia',
     NOW()
@@ -1228,8 +1228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '125c29ea-f43f-4731-9f67-0fbd34ef47d6',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '0614066f-a641-46c6-96d3-8d9090ac4b13',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -1240,8 +1240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd42c59b4-b918-439b-adb3-8623678ba730',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    'dd9e5a8c-9433-4f9a-9793-544906530944',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'population',
     '113815',
     NOW()
@@ -1252,8 +1252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a96854b5-05d8-4724-8bfc-ec06b86ee3b1',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '8578a311-e5dd-42a9-be14-63910b31e38f',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'gdp_md',
     '401',
     NOW()
@@ -1264,8 +1264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '900a7d88-aab7-4972-9222-ddb1e536f8b9',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    'a45f6edd-4f31-4977-8486-dcb224e163ba',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'economy',
     '6. Developing region',
     NOW()
@@ -1276,8 +1276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '49e970f6-8059-470f-81fc-05814959e12a',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '371abf24-ff47-4735-ae77-45ac89eacfb6',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -1288,8 +1288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce9f32c9-8ba2-4fb2-afee-b4fa7f20d6e5',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '7f767ac1-4fa8-4556-8e63-ecb93a27471d',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'type',
     'Sovereign country',
     NOW()
@@ -1300,8 +1300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2c188a1-96a8-44dd-83a1-8041ed334372',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '01b1eb27-fb25-41c9-80cd-fefe20ed05c6',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'label_x',
     '158.234019',
     NOW()
@@ -1312,8 +1312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a0fd170b-378b-4010-a23c-ae09dc6468eb',
-    '4b819d4e-3ffc-4130-870f-57d8f7168a9b',
+    '3f50e105-0ed6-4d1c-bb46-4a4834741fab',
+    'a42f472c-45d1-4be7-9113-e048676b1df2',
     'label_y',
     '6.887553',
     NOW()
@@ -1324,8 +1324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'abbb80f2-a49e-459b-a5af-2b897d4f4583',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '0c042851-cc8c-4fa0-8215-e3cbfe8eccf9',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'continent',
     'Oceania',
     NOW()
@@ -1336,8 +1336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b49afd0c-2dc4-4916-b11e-7b9fb21b9642',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '20ace464-a551-42e7-817a-32d5baab913a',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'region_un',
     'Oceania',
     NOW()
@@ -1348,8 +1348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e28a5dda-fc86-4a26-af9c-2bbb2e4bc49d',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '0ed45b6d-9eba-4c79-9feb-baeb06f8d8e6',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'subregion',
     'Micronesia',
     NOW()
@@ -1360,8 +1360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '679d6b35-9749-48ba-8a86-b229ea427fd6',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '35a37551-d623-4697-a13c-767d18fef59a',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -1372,8 +1372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0d6d7407-a3a6-466d-9685-26150cd4a0ef',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '0b1665ad-ed39-4204-86ab-2145fd2026b5',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'population',
     '58791',
     NOW()
@@ -1384,8 +1384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6ea9070b-a010-4b48-be8b-8c7d4b9c4779',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '29efd3f5-dbbf-4621-8a05-991173850673',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'gdp_md',
     '221',
     NOW()
@@ -1396,8 +1396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fed11add-49c1-440a-a85f-8aac00721386',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '8954300c-4345-4656-bc22-410eb9b4118c',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'economy',
     '6. Developing region',
     NOW()
@@ -1408,8 +1408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '63b8f556-8ea5-4f5b-a170-69f18aa1b134',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '25935dba-49cd-45de-9094-d7d01cd56dac',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -1420,8 +1420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4cd24e28-b1f1-4558-90f6-e3852e8f6b3e',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    'd63b3794-d7ed-4974-973c-1cd6928f66f2',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'type',
     'Sovereign country',
     NOW()
@@ -1432,8 +1432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c56cdfd7-5844-48c8-9e5a-4d50f48e3239',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '9e6241fa-7d8d-48af-853a-478987ad1ac9',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'label_x',
     '171.193609',
     NOW()
@@ -1444,8 +1444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd896d772-4561-471b-8c29-3ee0bf69dfd7',
-    'c25f260f-5a46-4fc5-8f18-953a988cd5ba',
+    '4a5c20a7-892f-4bc4-a158-3e20f2484852',
+    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
     'label_y',
     '7.082568',
     NOW()
@@ -1456,8 +1456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '270138ca-7ac3-41e7-bec5-89da63abfa5f',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'f4f33cc9-6f30-4bff-9c0f-9bfebb12fb94',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'continent',
     'Oceania',
     NOW()
@@ -1468,8 +1468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f6c0689-f32b-496e-858f-1783caf37304',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    '702ff76a-3e37-4a35-aa23-95738e415504',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'region_un',
     'Oceania',
     NOW()
@@ -1480,8 +1480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf5e942d-69d8-4f31-b838-aa2ed76f50b3',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'aa68b94f-d64c-4d32-9f8c-f378261b2c66',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'subregion',
     'Micronesia',
     NOW()
@@ -1492,8 +1492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e183180-e587-4754-bf3a-9bc574fd0aa3',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    '0fdcfe6b-c4e7-44cf-b98c-32915dd1c12c',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -1504,8 +1504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21fffb30-d7f1-4b04-bc53-936e1a14aeb9',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    '86679d72-3649-4602-94b8-1c4aaa7e0329',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'population',
     '57216',
     NOW()
@@ -1516,8 +1516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6ea7e6c-cfdd-4c73-a239-41c6705e1ed8',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'bb23b1e6-2d50-40c1-8739-3b092ec6df30',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'gdp_md',
     '1323',
     NOW()
@@ -1528,8 +1528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c370254c-9d3e-4922-8050-9b3716866a17',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    '1950e6fb-d749-460e-824f-83c2b4c50ec2',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'economy',
     '6. Developing region',
     NOW()
@@ -1540,8 +1540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '725811c5-b8a8-4103-ad76-1ac6128d23b2',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'a868f10f-ed86-4442-a129-80ae8992d022',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -1552,8 +1552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5bdee546-441a-4230-a51b-a28fc9766822',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    '8b77be26-d28f-48f8-8193-adb4e0dc60e1',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'type',
     'Dependency',
     NOW()
@@ -1564,8 +1564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc90ad6b-f50e-419a-b3b7-d43bfad16c03',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'd96f91c5-f0a8-47c4-8749-ed09c7c83e31',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'label_x',
     '145.734397',
     NOW()
@@ -1576,8 +1576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3ca6821-57ce-415c-a0b4-cb1b978d3b53',
-    'c0127f1f-2b11-4526-a2f9-89c9f77f7cd6',
+    'a9c0f0e4-e891-4e87-bf40-dec237c4aa08',
+    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
     'label_y',
     '15.188188',
     NOW()
@@ -1588,8 +1588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd68a49a3-d2a2-4b79-8b6b-b9713cd67189',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    'dafe46f3-b094-4406-a54c-5bb513c9696e',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'continent',
     'North America',
     NOW()
@@ -1600,8 +1600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f74df5e3-59d9-405c-a804-0efeb45dd7b8',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '7a504193-a141-4318-bd36-4c904cf6b1ab',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'region_un',
     'Americas',
     NOW()
@@ -1612,8 +1612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9af439d3-b590-496c-a824-1a6034bc7f58',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    'a361b5b4-5328-496c-979d-2f7734ab7295',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'subregion',
     'Caribbean',
     NOW()
@@ -1624,8 +1624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b0699b4-5a4d-4663-a8ff-b40fd9529740',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '2024177a-009d-4e0c-9d20-fd3484d545ce',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -1636,8 +1636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6da70d5b-0ba9-48c7-974b-9e57f8f6a6d9',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    'f3fd98d5-f133-4cd6-928a-df683dd7ba42',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'population',
     '106631',
     NOW()
@@ -1648,8 +1648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a0c8ece-d740-48db-a67a-add5e3631fcd',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '2ad19177-6451-4237-b632-f28d1f1a6176',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'gdp_md',
     '3855',
     NOW()
@@ -1660,8 +1660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ef9657f7-32f8-42e6-be38-e12f62c549ae',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '4e41cf40-3165-4647-802b-b4fcecd8d91f',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'economy',
     '6. Developing region',
     NOW()
@@ -1672,8 +1672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3cb5459f-3147-42d0-b5dd-704a97bbece9',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '8dba1cce-c030-47ea-ac4d-ec83323d197d',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -1684,8 +1684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a9538a8-6d7d-4a78-89ce-1a703cddb785',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '60bee205-5546-4ea2-8b4a-0b5c71c3d076',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'type',
     'Dependency',
     NOW()
@@ -1696,8 +1696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7aad402e-7a9b-4ebe-b7d1-fc280106e82a',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '3add3130-1fad-4d64-9ef6-58fad588f652',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'label_x',
     '-64.779172',
     NOW()
@@ -1708,8 +1708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e11adfc6-c7d4-4ab3-a10a-afec10165e44',
-    'e7a6b152-4bf7-4f7d-94f1-cb41262d9e29',
+    '197169ca-a206-4d9a-9794-69b43ee9d849',
+    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
     'label_y',
     '17.746706',
     NOW()
@@ -1720,8 +1720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '72cdaafc-2c44-493a-bb58-20fa63b9676d',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '1b826035-6fca-444a-89be-5f67882930ab',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'continent',
     'Oceania',
     NOW()
@@ -1732,8 +1732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8bf85c86-436b-4695-bb66-3088572ea4e0',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    'dd04a2e6-e2bd-439a-b5c4-aa836211f790',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'region_un',
     'Oceania',
     NOW()
@@ -1744,8 +1744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf83c686-da04-4f95-9e20-51b66238b4ef',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '969b93e5-4e73-4850-8f2a-c3a142955a22',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'subregion',
     'Micronesia',
     NOW()
@@ -1756,8 +1756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1b5bc21-5d46-4747-8bbe-16facca7c9df',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '25dbe231-fc67-4180-b0f3-7404f274bf38',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -1768,8 +1768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '348ba4da-324e-4cc0-abfd-e4e3fba5a7b9',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    'd953c0be-b38b-4487-b73e-b5134c175c7b',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'population',
     '167294',
     NOW()
@@ -1780,8 +1780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca83a914-08d0-42b9-9287-ee92c8bbe160',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    'f496fa19-5cd6-4495-8f7e-f3481ef3e9dd',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'gdp_md',
     '5920',
     NOW()
@@ -1792,8 +1792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '568d7cea-234f-4702-b36d-4bb90cc550fb',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '7a41eabb-914c-4a4d-be47-939dfc5a8917',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'economy',
     '6. Developing region',
     NOW()
@@ -1804,8 +1804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd74b0317-f147-4692-b144-1f2087e17764',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '1bb371c0-86eb-47df-a13e-256edbde747f',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -1816,8 +1816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '335cc0b3-5676-461b-8b6e-c501a91fec27',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '5fb4825a-695d-4e39-942f-5cfc3e1aaf56',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'type',
     'Dependency',
     NOW()
@@ -1828,8 +1828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e038fe5-5443-4dd6-9bf8-7f3f4bbe3f0f',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    'fd8a7b19-efcf-42a5-b174-2c5dce8d96ad',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'label_x',
     '144.703614',
     NOW()
@@ -1840,8 +1840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6770755e-8667-4d9d-855b-66d0ddf05fee',
-    '14ed2739-37e2-4619-ba9f-2bf940030cf3',
+    '40794f3f-c6a4-448b-aeb8-e9f585b75093',
+    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
     'label_y',
     '13.354173',
     NOW()
@@ -1852,8 +1852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7a462e6-24fd-429e-a23b-dfbc999a0cab',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '95a87c56-4535-4cec-a1c2-006c2af71a3a',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'continent',
     'Oceania',
     NOW()
@@ -1864,8 +1864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6aeef6fe-87ce-472e-b6c8-80db11d879e5',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '13cb8948-2b6c-45cc-bd15-c45672d903b7',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'region_un',
     'Oceania',
     NOW()
@@ -1876,8 +1876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ee14ce87-e8c8-46a4-8468-11a0edcb7f09',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '1b5483d5-4cff-426c-9079-97c5ce974044',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'subregion',
     'Polynesia',
     NOW()
@@ -1888,8 +1888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '698278df-bb76-4e18-9f5f-5c97dbf49314',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    'dd50b26b-d689-4d76-8697-977e759a4abf',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -1900,8 +1900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '16f489d0-b63a-4adb-91ee-0f80f69cf908',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    'cb9cbd5a-5f71-4b54-ba8d-fd6996179754',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'population',
     '55312',
     NOW()
@@ -1912,8 +1912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b000f1d9-993f-4d2d-8316-b4cb1b644457',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '60a00bc9-b8c7-4a11-9e4f-a7d2ac0350c3',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'gdp_md',
     '636',
     NOW()
@@ -1924,8 +1924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '558e810d-f8aa-4797-b676-f7739db9a17a',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '057a29c8-c344-40db-8ec6-5f275f35e8b3',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'economy',
     '6. Developing region',
     NOW()
@@ -1936,8 +1936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c17ade8-8de3-4e72-b0f5-54579036dfef',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '7aa7f2d5-8d65-4cc8-9358-b9bf846a0cb7',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -1948,8 +1948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca267058-4ef0-45b5-a2fc-04f29735e987',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    'a4c52c8e-e8de-42fe-a362-24688476b89b',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'type',
     'Dependency',
     NOW()
@@ -1960,8 +1960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '144542a5-002e-4b1a-ae94-ac2a5428daac',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '05244041-105b-4b1e-8aea-af4b9ad94f66',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'label_x',
     '-170.747153',
     NOW()
@@ -1972,8 +1972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd43d691a-e58d-49d2-8f00-11d105ab9a7b',
-    '6bdf605a-9f34-43c2-83b8-ace64c8e1c7d',
+    '5e5c551a-1b29-4eec-afb4-7cee9639d697',
+    '98b6a517-fefb-407c-9c06-8211efeb3727',
     'label_y',
     '-14.32671',
     NOW()
@@ -1984,8 +1984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a23a6031-16cd-4ecf-b23c-1d7bb8a7b3e7',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '4fe0fcc1-e634-4d13-ad71-52b501464cc9',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'continent',
     'North America',
     NOW()
@@ -1996,8 +1996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96819878-db08-47d8-a61f-5e487b4163b2',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '198d2a79-7209-48ff-81cf-8e3f7c7177cc',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'region_un',
     'Americas',
     NOW()
@@ -2008,8 +2008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3fa3a381-79b4-458f-80f5-bc7351b2dc0a',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '2e964d25-9115-4411-812c-1a7c4d8fec74',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'subregion',
     'Caribbean',
     NOW()
@@ -2020,8 +2020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f84c472-6d30-4e98-8a0d-27521a0e4c30',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    'c1b40ad5-c09c-41ca-b9af-0b24fc5d9bca',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -2032,8 +2032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d40042b-ed14-4314-9782-edf1e4c478d3',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    'a8c906f5-61c0-4e3a-92ea-94490bf7319f',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'population',
     '3193694',
     NOW()
@@ -2044,8 +2044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9da331ab-d2fb-445b-8061-367b7218530f',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    'edddc53d-acec-4431-9ffe-a28ffc566e33',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'gdp_md',
     '104988',
     NOW()
@@ -2056,8 +2056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4024041-a58e-4d21-b65f-9fe7f3c990d6',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '1144a01d-38d2-4b36-8cd9-68bd36126c37',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'economy',
     '6. Developing region',
     NOW()
@@ -2068,8 +2068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '89e68851-b1cc-458f-8339-3cd5b935f274',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '746fc27a-010b-45a7-9d9b-48e3ccfb5424',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -2080,8 +2080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0de70235-e257-4ae9-9484-c24cad517140',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '96d074b0-be19-4b62-9005-652039b72fa7',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'type',
     'Dependency',
     NOW()
@@ -2092,8 +2092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dbd9e302-f34f-4f94-ae34-2de7c2dc75ea',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    'd3d32b4e-d9e8-4515-be59-41b32ef1811e',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'label_x',
     '-66.481065',
     NOW()
@@ -2104,8 +2104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0fbd3497-f867-4f7c-84b6-b1dc3fcc8351',
-    '4b013928-4496-4a7a-86ad-c1983f2af3c4',
+    '6eb40ca2-4a2e-43a6-b468-5bfd60b0d692',
+    'aaca12b3-7306-4e62-9f66-66b085e96a72',
     'label_y',
     '18.234668',
     NOW()
@@ -2116,8 +2116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f48a698-cca4-4f29-80fb-395ffb72d733',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    'af5c56a4-a238-4cd7-8fdc-433b240ae4ca',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'continent',
     'North America',
     NOW()
@@ -2128,8 +2128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '46273aec-4e69-44aa-be20-938a12555fd7',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '0d397044-6058-4bcd-a592-572dd691ded8',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'region_un',
     'Americas',
     NOW()
@@ -2140,8 +2140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1903564-5fc5-4c6e-b820-17c08d15f41e',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    'b1fcdc02-09a8-4048-a8c2-5f86394f0d00',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'subregion',
     'Northern America',
     NOW()
@@ -2152,8 +2152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e7177ed-9b6f-4e3a-a734-08f63049d832',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '7a6a6ce1-4875-4a04-98b8-fbc5898b4913',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'region_wb',
     'North America',
     NOW()
@@ -2164,8 +2164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa06c9e7-52c4-421e-b062-e78c772eb095',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    'f24457c0-87f9-47bb-8ffc-fe6d908071b2',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'population',
     '328239523',
     NOW()
@@ -2176,8 +2176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e23f63bc-113f-4dbd-8fd5-c94675c09065',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '57bc7c37-a533-4be1-ba7d-af67a5bce170',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'gdp_md',
     '21433226',
     NOW()
@@ -2188,8 +2188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '75bd2f1f-67f5-4915-886e-b2033e1a97d3',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '0b57b803-acca-4a33-9ca8-da11c1c118d3',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -2200,8 +2200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '513f2def-b36f-4ad4-a476-f6c3ad975571',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '89924ca8-cafd-4d5e-9e9a-cf6dd6cb588a',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -2212,8 +2212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c52a190c-281d-4162-bb6b-26a9a05a96d0',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    'cba3a343-7b3a-4bba-9976-204fbf2bd1b0',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'type',
     'Country',
     NOW()
@@ -2224,8 +2224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa9fefbe-4e94-46d2-a643-4351e40a30c6',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    '791745a4-7f02-44df-a90d-9446639b2259',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'label_x',
     '-97.482602',
     NOW()
@@ -2236,8 +2236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f05b7d4c-8763-46e2-b894-70f884155c99',
-    '10148334-414a-4781-973e-aa630068a0f1',
+    'ed70cc6c-9a15-4a91-ad05-f87db21628c8',
+    '37dbcd01-532c-48b6-b616-180e0bbbea58',
     'label_y',
     '39.538479',
     NOW()
@@ -2248,8 +2248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f869d28-b2b6-47bc-96dc-c9463bb9eb5e',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '03945b41-5f6f-4c85-987d-7ba77d823b83',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -2260,8 +2260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '72f431b4-cdb5-41ee-aa3f-8d141353919a',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    'f5a156ab-acb3-40d6-9b63-7a8573ed1c76',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'region_un',
     'Americas',
     NOW()
@@ -2272,8 +2272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32c2c4c6-0381-4850-aa5b-db094a9c1e9f',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '343df323-f15f-4a01-9bc0-96caffc5f8c9',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
@@ -2284,8 +2284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c2be6742-5c7c-4a8b-aadc-e147be84b8ab',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    'bdd1ae71-235b-4877-b3a1-e392ccba5a6a',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'region_wb',
     'Antarctica',
     NOW()
@@ -2296,8 +2296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b89a5491-5b37-42e7-b067-7fb5545f5f93',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '253c0835-537b-4e24-ac19-9b5a90e64c5c',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'population',
     '30',
     NOW()
@@ -2308,8 +2308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b2739b87-a215-4e14-941c-e48d3387f686',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '2bca5a2a-5d9c-47ce-86b2-e99225fbdf81',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'gdp_md',
     '0',
     NOW()
@@ -2320,8 +2320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '66ac3ca2-d213-408c-8c57-ad682b491793',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '63481499-6e1f-451d-9fb1-06c653011bcc',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'economy',
     '7. Least developed region',
     NOW()
@@ -2332,8 +2332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d3c14af-8cee-4dc5-978c-4894163362a6',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '394af3f4-c116-4b32-bf1a-1a6ef1dc4545',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'income_group',
     '5. Low income',
     NOW()
@@ -2344,8 +2344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0bff87e-a32b-419f-93be-4edf2144a9fe',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '8a350b11-fadf-4b6a-ac57-7297ecc065e0',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'type',
     'Dependency',
     NOW()
@@ -2356,8 +2356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b776a219-e302-4f12-8390-7842d208d78e',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '67cb63a3-34b9-4e59-abdb-8e0d7567be05',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'label_x',
     '-31.063179',
     NOW()
@@ -2368,8 +2368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f9455b1c-335f-468f-8b20-fc2db6166018',
-    '7b028876-aa64-410d-8003-85774039fcb1',
+    '92333c7c-c7a5-46a7-91c9-60d2b9e05a38',
+    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
     'label_y',
     '-55.683402',
     NOW()
@@ -2380,8 +2380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '251d4645-bfd2-41b7-978f-e9873d56b2bc',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '437396bd-1d48-4efd-b80c-a3cfb5cbb25e',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -2392,8 +2392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ecf29607-0259-4546-a0da-57acad5b0785',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '532dab8b-d9d5-4d2b-aced-0c31469f7f4a',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'region_un',
     'Africa',
     NOW()
@@ -2404,8 +2404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc66286e-3187-4a6e-95ca-11de465540c5',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '03c32c1f-e893-4dfc-9999-9927fb0e8e05',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
@@ -2416,8 +2416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '763bc53f-c2f1-4927-bba4-f78248ba9efc',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    'cbc8dab5-d149-49d0-ae08-c268d2f18517',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -2428,8 +2428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d416939-703c-4dde-8f20-2c9f63bbf136',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '107bcd0f-3635-4b64-9d2f-283a374b14b2',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'population',
     '3000',
     NOW()
@@ -2440,8 +2440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06c0d4bc-2844-4562-86ca-357af33ae659',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    'b263e8e8-dde1-4f1b-88f9-1cae412b348e',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'gdp_md',
     '120',
     NOW()
@@ -2452,8 +2452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba4bfffa-bb44-431e-8e7d-5788810817f5',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '937ade74-cb64-428f-a3b3-c74d24059de2',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -2464,8 +2464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7240684b-fe5c-4829-a324-4de132d9ee1c',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    'a6876962-3a2c-4de9-8a60-138f1002ca88',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -2476,8 +2476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fa04f7f4-d0e8-41d5-a397-0260b27224a6',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '1282a6c9-2b9a-4568-b625-bbe67f76c72f',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'type',
     'Disputed',
     NOW()
@@ -2488,8 +2488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5ca29c59-f9d9-4a7c-a6b7-dd630c7680c8',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    'cb841330-d2f8-4c63-807a-babf39361e50',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'label_x',
     '71.348349',
     NOW()
@@ -2500,8 +2500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cae63c67-0ecb-4bea-9f72-41052d7366b0',
-    '0d5842cd-0b5a-42d6-8c0e-03085c8bcaa2',
+    '23e48526-dd7b-485b-9a02-157971c387c4',
+    '5999db54-ef76-4204-b8de-9907b805d0ba',
     'label_y',
     '-6.190826',
     NOW()
@@ -2512,8 +2512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd62cd91e-9f69-420e-b9c3-bf4e1b312e01',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    'b3f88d4b-6f46-47dc-b7fc-06cff9531952',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -2524,8 +2524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85e0a152-340b-4275-87c2-bbdfb9c59a29',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '05ae8b71-afaa-416a-89c9-0dddc44a7130',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'region_un',
     'Africa',
     NOW()
@@ -2536,8 +2536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7ca6297c-1609-4cf8-b46c-7acf48fc4d91',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '52220160-2e0c-4069-aedf-232f0f21d99d',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'subregion',
     'Western Africa',
     NOW()
@@ -2548,8 +2548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1c37a049-d786-42ac-9541-ad358be2af1a',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '4efe28fb-e45c-4598-9f3e-1dd42a40f5c8',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -2560,8 +2560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '152ab7ab-c56e-40e8-b936-e563e52f29a0',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '04efbb98-df4a-4e41-bc92-d39343349188',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'population',
     '4534',
     NOW()
@@ -2572,8 +2572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '898910a0-9ef8-456c-b5ef-f3d1b523f2aa',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '2ff7c864-0b6f-4eac-ba21-c3a3b119b281',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'gdp_md',
     '31',
     NOW()
@@ -2584,8 +2584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c4371c0-4623-49c7-9981-d2825c4b635b',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '20012f8f-6acb-45e7-8267-69066401ada2',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'economy',
     '6. Developing region',
     NOW()
@@ -2596,8 +2596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dcbf852c-b1bf-4f20-a4ed-39c471d32ddd',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '6abb0261-d35d-4c76-8ecc-0eefba1e0c85',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -2608,8 +2608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '97975292-ea76-4c0b-acae-9ab0ebe54627',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    'bb5ce0aa-1a26-4e0e-b2da-122dcb98c926',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'type',
     'Dependency',
     NOW()
@@ -2620,8 +2620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56d03605-af9c-4bbf-b28d-33c79f8aefca',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    '951c5b5a-3c77-4c4f-987f-360b370f1c8a',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'label_x',
     '-5.71262',
     NOW()
@@ -2632,8 +2632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78f796d3-2f94-491f-9eff-e92168f2e113',
-    '71a0d647-c534-42eb-9207-1d5e58c26f17',
+    'a296819a-b6de-47a6-8469-c40231294d2a',
+    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
     'label_y',
     '-15.950487',
     NOW()
@@ -2644,8 +2644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6aea2448-0ba0-45b5-9617-d4994a795d0d',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '15bca578-6a31-47de-95b8-12513e4c5fe0',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'continent',
     'Oceania',
     NOW()
@@ -2656,8 +2656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61eb6a66-fb45-4c8e-900e-7fac978a21e6',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    'ce991dfa-3410-4f73-bba3-944dce7c4141',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'region_un',
     'Oceania',
     NOW()
@@ -2668,8 +2668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86aa90ee-2a69-4e97-baee-834b1ca6ed4b',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '5e1628fd-49ae-4e95-9452-5a07a60dfc0a',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'subregion',
     'Polynesia',
     NOW()
@@ -2680,8 +2680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '150b0a47-d33c-4e9e-9a75-793167449f74',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '803737db-244b-474b-881f-59f8a6d827ae',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -2692,8 +2692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '912d0c38-8347-4c73-b641-6993a7683df7',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    'a2096ac4-7c97-41de-8355-c099e5b150db',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'population',
     '54',
     NOW()
@@ -2704,8 +2704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45d072b1-cd13-42a2-84ef-8a37d8dcc13c',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    'd261ac2f-5c60-4f13-9b9b-4b7552bdf433',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'gdp_md',
     '0',
     NOW()
@@ -2716,8 +2716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b05d842c-742e-4d2e-8a94-ad1ccbdf15ae',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '1e99a26f-0103-4f81-b8d8-d8de084e729a',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'economy',
     '7. Least developed region',
     NOW()
@@ -2728,8 +2728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '917bcb5f-9642-4828-b90d-ba5835d7ee86',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '3cbd5b14-b36c-42f0-81c5-718afc01c2c7',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'income_group',
     '5. Low income',
     NOW()
@@ -2740,8 +2740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b40098e6-64da-436f-b358-e0f0fbad2820',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '4e68312f-abda-4b0d-82b2-7e49cc200472',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'type',
     'Dependency',
     NOW()
@@ -2752,8 +2752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96ff7caa-0ec5-41f5-bbea-3c1c717a0cf0',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    '97bbdbc2-d09e-41f2-9804-8296ff4e2ae7',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'label_x',
     '-128.317536',
     NOW()
@@ -2764,8 +2764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '64c61590-47cb-4232-b42c-172d9cc68c17',
-    '81f163ab-dbe2-446a-9778-463ee4e575be',
+    'd3713024-1aa4-492c-9a46-115a5dac128a',
+    'c1ddf163-b840-462d-a651-fd14bf4473d8',
     'label_y',
     '-24.364576',
     NOW()
@@ -2776,8 +2776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52ebe606-2bba-44bb-9838-58b7be0ddc6c',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    'f0ba34f2-508f-493a-8c27-9768acb8c88b',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'continent',
     'North America',
     NOW()
@@ -2788,8 +2788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '29bb1193-cc8d-4379-9da2-ecdc20fb8246',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '7a159f67-0a19-4685-9708-1b2f9e08dc22',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'region_un',
     'Americas',
     NOW()
@@ -2800,8 +2800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c11777ef-692b-4626-b4e3-e86c4578e1dd',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    'f768c427-c35a-4a15-bd36-5554e406e21a',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'subregion',
     'Caribbean',
     NOW()
@@ -2812,8 +2812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f53034f1-cf95-43f1-838d-913578542e3d',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '2a1ce384-9a0d-4799-858b-76f4e556dd6d',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -2824,8 +2824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a84a6a35-b682-4dfc-8e09-00c18e778c9f',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '2ab31f97-7399-4d9a-88fd-2254415b2511',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'population',
     '14731',
     NOW()
@@ -2836,8 +2836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3cc0179-7344-4a7b-be56-97532f0d63b4',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '1fffbb79-7225-40aa-b2fd-791ec5ac8f58',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'gdp_md',
     '175',
     NOW()
@@ -2848,8 +2848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e3d02ad-585f-4c24-b456-357e73ab7cec',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '71877af5-0191-4865-906b-a27abd7a525d',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'economy',
     '6. Developing region',
     NOW()
@@ -2860,8 +2860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2cea3f3d-8735-4b24-b50b-71ab206e6eb8',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    'f7f7ac89-5adc-4c5e-b3c0-dadd0da10ad9',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -2872,8 +2872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3143f99b-1a31-4134-9291-334c4f21090b',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    'a592633e-9ee1-48b8-b8c4-3a7659b71705',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'type',
     'Dependency',
     NOW()
@@ -2884,8 +2884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '72890173-0a30-4e73-a388-8119b1f48024',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '9cf518df-aeb4-4ed6-871f-dfc6aa29553c',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'label_x',
     '-63.026361',
     NOW()
@@ -2896,8 +2896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '57f48226-f897-4a93-a450-d41a2b505f0f',
-    '113f27d5-a3ea-4255-b958-9623f8f884af',
+    '5963e6c6-a0aa-4a78-a029-c2edaa817cb6',
+    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
     'label_y',
     '18.242979',
     NOW()
@@ -2908,8 +2908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '08264cfc-bf36-4cb3-94bc-5151feef81e4',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    'd7ccbf03-18ac-438e-9844-b2cc493a1471',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'continent',
     'South America',
     NOW()
@@ -2920,8 +2920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02e44057-b222-4f06-ba98-46f2da136ffb',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    'de4ed4b0-97d5-41b7-bda5-702b2096875d',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'region_un',
     'Americas',
     NOW()
@@ -2932,8 +2932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '10534032-33f7-4219-9396-d229e67adb8f',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '9dc86e6c-f2aa-490b-9a11-e839ed915dd3',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'subregion',
     'South America',
     NOW()
@@ -2944,8 +2944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efd864ec-8829-4978-9874-abd113a8b46f',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '01f10121-c2e1-42d9-97ce-eb65053c38ea',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -2956,8 +2956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b803aa3-f703-454b-b696-c68260d7b428',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '3578530b-2557-4ee1-8489-d91a8d676c2d',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'population',
     '3398',
     NOW()
@@ -2968,8 +2968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3100c6c-34d8-401d-853b-020bc4aec86c',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '870f296d-d0f0-4ddb-898e-cc7a490e4233',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'gdp_md',
     '282',
     NOW()
@@ -2980,8 +2980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b59e3e4b-42fd-4e95-8d63-be7b7cdf8628',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    'f279c169-1f7d-42e0-8aee-fe368ece6254',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -2992,8 +2992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f10918f8-ca18-4a91-b754-fadbf41520de',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '45ce1232-a6e3-45a3-91b7-b7a05ee1956c',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -3004,8 +3004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6395f6b6-d8f6-4be5-b0a3-ad726dfa56f3',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '3d98d264-c183-4721-af49-1c0637642cbd',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'type',
     'Disputed',
     NOW()
@@ -3016,8 +3016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b71e490f-c3c4-40a4-907c-c22202a6775c',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '47a6b96b-4986-43b1-ae46-d591f7d51617',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'label_x',
     '-58.738602',
     NOW()
@@ -3028,8 +3028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a3dd4c8-985e-4b33-be6d-ddc6bb723b47',
-    'f524b72d-6ffd-4acc-a057-e53981dfcda0',
+    '3d4e4648-5749-49b7-ac11-576847362ca3',
+    '2a985659-5b6a-4840-b904-4301a3d91911',
     'label_y',
     '-51.608913',
     NOW()
@@ -3040,8 +3040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e0ee620-873f-4bb0-a2f0-02d4673e9c89',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    'aadf2d8e-3f10-4be8-b9e5-24cfa928615f',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'continent',
     'North America',
     NOW()
@@ -3052,8 +3052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca2d3a41-45b5-4179-8bb3-f5fd2c2b7dbf',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    'f67e9507-e33e-434a-8753-df4c742ae284',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'region_un',
     'Americas',
     NOW()
@@ -3064,8 +3064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50bab294-4c62-40d5-80fe-4d970b6f5c25',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '4b85cf3c-066d-4a5a-bdc9-768643ce0ff3',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'subregion',
     'Caribbean',
     NOW()
@@ -3076,8 +3076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8ca30e93-8fbc-44d6-86c6-a55ab3508134',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '125d9c0d-e361-45d1-bab0-5784c2919f7b',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -3088,8 +3088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '335bf8f3-0d5d-441c-bbfc-26b32cb0211f',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '3d47f567-42c6-4b75-b103-ff827eff3085',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'population',
     '64948',
     NOW()
@@ -3100,8 +3100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3aa7fd8d-54d6-4ee1-9682-d006ed13ad3d',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '178d4996-5ca8-472d-bccd-ecbd6d9cd7c1',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'gdp_md',
     '5517',
     NOW()
@@ -3112,8 +3112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44a0f586-5ea0-42d5-92e0-c36591f704cd',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '0145e2c7-d73e-4fd3-91de-747ecc6c5a80',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -3124,8 +3124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '440976d3-6a30-48f8-9c72-9ad0e84a8a4b',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    'f76ba4d7-2e50-41b5-97fe-6d9c79a2afb3',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -3136,8 +3136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90b2e9ec-49e8-42fa-b493-2ff16a6f7cf3',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '699f09c7-36da-40f3-97aa-37539efcfb6a',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'type',
     'Dependency',
     NOW()
@@ -3148,8 +3148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd852eb1-f799-4313-9ca2-5946b402e0e1',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '935573e3-4746-45cf-b2cc-3571b6a972df',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'label_x',
     '-81.24055',
     NOW()
@@ -3160,8 +3160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '568c22be-c757-43eb-a52a-232c0c63104c',
-    '238a89e2-ea37-4b31-bbf5-e75492ed1ba8',
+    '7a592e16-7955-42d1-bf3a-9332a3a727e5',
+    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
     'label_y',
     '19.319862',
     NOW()
@@ -3172,8 +3172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c5618107-b441-4c7f-b50c-0e79729ec74d',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '341cffcd-7555-4cb7-985d-d77cb2a1f974',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'continent',
     'North America',
     NOW()
@@ -3184,8 +3184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd3e1cdfa-b187-4a09-9bf1-152b327cf43c',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '70ed0e1b-9b86-49d8-840b-a71bd8e4181e',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'region_un',
     'Americas',
     NOW()
@@ -3196,8 +3196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '00ff5a83-ddae-4f5f-b271-c2a7a8c09bdf',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    'd0fee237-71dc-4d64-b96a-dbc31c7b7533',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'subregion',
     'Northern America',
     NOW()
@@ -3208,8 +3208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '10f22d92-3158-4293-9f7d-03e602d34d67',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '3fa49507-90aa-43f8-9f14-32515d8eb256',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'region_wb',
     'North America',
     NOW()
@@ -3220,8 +3220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20601d6c-c05c-4e95-8a50-5d55ee89e02a',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    'f3c2530f-21a0-42b8-ac4e-13b5896ddfbc',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'population',
     '63918',
     NOW()
@@ -3232,8 +3232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4249c69-a173-4163-93fe-206066ddaf50',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    'd4dd5ccb-bab4-4560-a8e3-d496f66cc45c',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'gdp_md',
     '7484',
     NOW()
@@ -3244,8 +3244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96738bd2-a248-4d26-9c59-fc355140e6f7',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '13f44171-9ace-4bf7-9c87-4c251b8252f3',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -3256,8 +3256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '981a4797-e176-4bc9-bf2a-1e93a796a7ad',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    'ae2f4087-f75c-4b19-8f9f-419d6d42db20',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -3268,8 +3268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a41d6bc-9e5f-43d6-bdfb-d11ec85d1978',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '87b50c12-26a3-4f85-9980-5bfad5e013bb',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'type',
     'Dependency',
     NOW()
@@ -3280,8 +3280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db0d4678-acd7-46e2-951e-052f5996a216',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    'daeb7586-886b-41f7-ba3d-fbeafcd5f3bf',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'label_x',
     '-64.763573',
     NOW()
@@ -3292,8 +3292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bdcc01df-6e26-4308-b674-5d0290182286',
-    '7913bbc0-46ec-4b2e-ae8b-6ea9c56681a4',
+    '145d7c9b-4ae4-4ee6-a363-79e2a7a3336d',
+    '1725d4ca-4c57-4234-bf8d-31bde367477a',
     'label_y',
     '32.296592',
     NOW()
@@ -3304,8 +3304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd56934b8-db32-4ff1-8b70-e550c668e5a6',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '51b00a04-61d4-4844-8ae8-e50b8b41ae09',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'continent',
     'North America',
     NOW()
@@ -3316,8 +3316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1a35866-08ba-461d-99bb-1410e8bf15e8',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    'd5136b2a-a720-4692-84cd-16029476a26c',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'region_un',
     'Americas',
     NOW()
@@ -3328,8 +3328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bdfcd5cc-db63-4da7-b6cb-98a4d50dbedb',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '6b9eb8cd-c30e-490a-9a32-0f30aaa6249e',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'subregion',
     'Caribbean',
     NOW()
@@ -3340,8 +3340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95d9135f-0118-4d7c-af57-b318ce0cc769',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '6591e227-0fd4-4c6e-9ec0-5bea4b2a3c6c',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -3352,8 +3352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8ce0e291-dc1c-4b66-9eec-6055e0e3cf88',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '185a0bd2-c7ea-47de-af8b-8985eaafb3da',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'population',
     '30030',
     NOW()
@@ -3364,8 +3364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f69e907-60ac-4769-950b-f838d05d2424',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '3acdc238-a998-4c3c-b564-71e130b4d778',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'gdp_md',
     '500',
     NOW()
@@ -3376,8 +3376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd3867650-a755-4db9-93ba-a7ebd9ed829a',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '59c09094-1e14-4dc4-833e-7cfb0c531c83',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -3388,8 +3388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b011ea8-0506-481c-b688-89bdca4a1b3f',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '781aa500-a0a7-4609-a964-cd1770387609',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -3400,8 +3400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c64040fd-2a14-4f70-84eb-c36cb322b706',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '060403dd-44ee-4c1f-8731-b38586986d76',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'type',
     'Dependency',
     NOW()
@@ -3412,8 +3412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3bd10fa9-2f6b-4ac6-9d1a-ed96483304c6',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '5347057e-576e-4c43-90db-49c529be1a2e',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'label_x',
     '-64.63661',
     NOW()
@@ -3424,8 +3424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '39fd8cf2-0341-499a-b12c-db15f993944a',
-    '0b928eaa-7d5d-4ef6-af09-6aed515d4250',
+    '46e328a8-3eee-4bf2-89bc-96a4b6e4d241',
+    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
     'label_y',
     '18.426606',
     NOW()
@@ -3436,8 +3436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8a811a16-883f-4b89-a64c-d2bac63ad0f4',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    'e0ac3b2f-74c6-4c36-90ad-1a8d7f991b86',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'continent',
     'North America',
     NOW()
@@ -3448,8 +3448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b644f021-6a08-4b56-a9d6-1d61638b6de1',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    'f7ec0781-ae66-41b4-8194-933e74adbc10',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'region_un',
     'Americas',
     NOW()
@@ -3460,8 +3460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ef8f41e9-8fbd-4add-abf3-dc0b51f28273',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '9f4443fb-3e2f-424a-ab7d-258a9db38af5',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'subregion',
     'Caribbean',
     NOW()
@@ -3472,8 +3472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9fe055a0-83e2-4860-ad0f-c9730999e6e1',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '702740c7-37cc-4403-80e4-c2fdc33cd7af',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -3484,8 +3484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '486ee151-addd-473a-9bc2-5826824c9145',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    'b383191e-3a26-4c3f-a330-408b8daf7d5c',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'population',
     '38191',
     NOW()
@@ -3496,8 +3496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45f8fc72-01fd-4646-b382-c771f79b8139',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '1d2891ac-d119-46fe-abef-61b755dc26cd',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'gdp_md',
     '1197',
     NOW()
@@ -3508,8 +3508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce24b23c-f542-4ec6-975f-3837e94e7de7',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    'e835f2b4-ce76-428e-9894-c146d8537fe2',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'economy',
     '6. Developing region',
     NOW()
@@ -3520,8 +3520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '841d8021-c656-4ff1-8b20-bddce09e6028',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '34027c08-a254-4d46-8562-ff9d8d526d4f',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -3532,8 +3532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8ebf672-3d12-4d82-8a4e-159fe10e8e71',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '831980f6-98a3-4d48-9c4d-f13f548497b6',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'type',
     'Dependency',
     NOW()
@@ -3544,8 +3544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f005eaf5-9539-4f71-a120-d2915939987a',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    '5d0a4f03-6d62-44c5-b206-b5e0cfbcb0ff',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'label_x',
     '-71.752704',
     NOW()
@@ -3556,8 +3556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc8e2fe1-c4f8-497a-b297-9570f6a3903c',
-    'ce9a404e-7e3b-4af3-af62-b0ec39544741',
+    'f009d32b-d2d3-45c5-9d22-ca0972072549',
+    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
     'label_y',
     '21.81663',
     NOW()
@@ -3568,8 +3568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '686e3b1c-5df5-4987-ac2f-fa9831fb7ac8',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    '2a11ecfe-04e4-4678-83ee-12a17631315d',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'continent',
     'North America',
     NOW()
@@ -3580,8 +3580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '766aec32-0bd5-46a3-a3c0-46f1c8e34ee0',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'c5e08cc5-080a-42b9-a9e8-f740c407c1f2',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'region_un',
     'Americas',
     NOW()
@@ -3592,8 +3592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8fcdcd7-662b-4d94-92d2-704140e01b41',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    '7e67f5f1-7a40-4145-a7da-ba816f87d9d8',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'subregion',
     'Caribbean',
     NOW()
@@ -3604,8 +3604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91a1821c-3013-4de4-81ed-bba0bec353ab',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'eb2c27ae-3cb3-43fe-bfde-524de9844f9a',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -3616,8 +3616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '228dbc1f-8abd-4587-8bd6-0520b903e486',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'cbc396cc-1c8b-4e29-a997-0e453a5606c9',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'population',
     '4649',
     NOW()
@@ -3628,8 +3628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eb315bb9-197b-4d8c-b997-b8530b5bd2e4',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    '68d3485e-1879-4ad7-8fad-b0fe7011e847',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'gdp_md',
     '44',
     NOW()
@@ -3640,8 +3640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '227d9b85-2e28-4e78-b187-b515f8a4a267',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'bacbe2cb-294c-4b9d-88c6-c905050d4abe',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'economy',
     '6. Developing region',
     NOW()
@@ -3652,8 +3652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0befda7-6bd7-49d4-90e9-c0d69f2bfac1',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'b93e2653-a06f-4f9a-ae3f-703f43ef663a',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -3664,8 +3664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c008920e-48bb-4756-976b-0ed4e4b49f04',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    '2dc00863-5034-4dcb-8c21-7ecc6d440b54',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'type',
     'Dependency',
     NOW()
@@ -3676,8 +3676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7d42a77-9479-42de-9147-4c6e88c07ad1',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'bc3b06a4-fd25-461f-bbc5-c8104b71c43c',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'label_x',
     '-62.188252',
     NOW()
@@ -3688,8 +3688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f3817685-dbcb-4e0d-8bac-4332baab3822',
-    'f287a605-2604-4752-98ff-b8545d483bcf',
+    'ab3ec7f5-bbac-4606-a4c9-e88e9410c686',
+    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
     'label_y',
     '16.73717',
     NOW()
@@ -3700,8 +3700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71a8b390-94cf-4ea7-ae5f-ea352daeace3',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'e9e9eba2-21e1-41d7-8fe7-e268505cedd1',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'continent',
     'Europe',
     NOW()
@@ -3712,8 +3712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6db9655e-2f85-46d8-9cd9-9abe4744c2d8',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'ebbea47d-98d9-4327-b8c7-3eb7df793940',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'region_un',
     'Europe',
     NOW()
@@ -3724,8 +3724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a459803e-1222-4e03-abc9-84fc74135d2d',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'e7199bbc-6029-4b3d-a443-4fdd147dad5d',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'subregion',
     'Northern Europe',
     NOW()
@@ -3736,8 +3736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2b79a7ea-e327-4b1a-97aa-bfcc81e2804d',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'bffcf713-bc3a-4f36-b595-df2d1af6ebc5',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -3748,8 +3748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '287b4f4b-6fa6-4885-90d0-2ce0a50912a4',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'af8bac38-b998-40dd-88fb-25bad06a3f46',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'population',
     '107800',
     NOW()
@@ -3760,8 +3760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6c654782-563c-4cb3-9a8d-8e49558d7bc5',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    '34977f07-c005-4fce-b1ba-886d1129e6fc',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'gdp_md',
     '5080',
     NOW()
@@ -3772,8 +3772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4cecf206-1181-4f71-ace8-7bcb0e8ed1bb',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'd95fcd78-fb89-4e76-9d05-e7477e9d0d12',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -3784,8 +3784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7bf0d357-8aca-4e5f-89b4-24eccb132b63',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    '44b3d8f7-f3d1-4ed3-80b9-8a0cd0f4162b',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -3796,8 +3796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fce11009-6bdd-4dca-a708-c9230a0e9e3b',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'd827ec5a-e29e-4dca-b601-b7ff94b7edcf',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'type',
     'Country',
     NOW()
@@ -3808,8 +3808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc66c08e-ad93-46e2-8617-f8362cd69efb',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    'c71f936a-35d9-4d5b-91a5-61b69719be37',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'label_x',
     '-2.090146',
     NOW()
@@ -3820,8 +3820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7e214e35-ff57-4ada-b563-6de2f69e8269',
-    '39e3e54d-38f2-4bc8-9133-5360b7f32563',
+    '7c92ba7b-a27e-4c42-93e1-150331ca3a81',
+    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
     'label_y',
     '49.220808',
     NOW()
@@ -3832,8 +3832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7b78d1b-0dc1-4a13-bbde-b2d6fe60e433',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '2e8acaac-aa33-4a12-ac6e-73aeddb2eb7a',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'continent',
     'Europe',
     NOW()
@@ -3844,8 +3844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e42d5ae6-a525-4b83-80c9-e55cadb1aff2',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '9fd07636-de45-4122-8429-7e5cd473a8df',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'region_un',
     'Europe',
     NOW()
@@ -3856,8 +3856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4ccf750-2704-4542-8bd8-20cbfe5ab128',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '48686a10-1dba-494a-a720-43f2c57cb525',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'subregion',
     'Northern Europe',
     NOW()
@@ -3868,8 +3868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '488d52c7-949d-4030-96d5-f456ef1a4e34',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '6d162220-0855-4067-a5ef-5e2c180a6542',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -3880,8 +3880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a7f4ed63-ad38-4e56-9df7-1900472ed85e',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '8478b22e-ed42-42e1-9614-c8524c6b1a02',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'population',
     '62792',
     NOW()
@@ -3892,8 +3892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5717516f-04b5-4cc9-8554-88cd61266f84',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    'e084b64b-b8ee-4763-8360-6bc535ac274a',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'gdp_md',
     '3465',
     NOW()
@@ -3904,8 +3904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5bf6089f-dc4b-4667-bed3-1281e34ddf65',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '26af2bdf-5eb1-48c2-82cc-c2bf6bfd0e22',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -3916,8 +3916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb5a8aa4-6c0d-4bb2-bff5-75d62687aeb9',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '1c4e980f-3286-4e8f-b9fe-8835a3173a36',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -3928,8 +3928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f787b65e-d290-414b-ba06-13d898ad6f07',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '75399d6f-671e-4f4f-9154-521d7de8397e',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'type',
     'Country',
     NOW()
@@ -3940,8 +3940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6eff56c0-ef50-4ce5-a2f4-16a5129c1f1b',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '85292219-10d3-4bc3-9d2b-160f32f9d21a',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'label_x',
     '-2.561736',
     NOW()
@@ -3952,8 +3952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c63ac0af-14ce-4d4c-8c33-53a6cc4ff273',
-    '7c049e52-259f-40b4-9528-6ca33269c846',
+    '6e17c025-3efa-4a3e-a868-da9a308a041b',
+    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
     'label_y',
     '49.463533',
     NOW()
@@ -3964,8 +3964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e725a20-8152-4556-bdeb-a95842875400',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '489f32a5-f77a-48c9-8967-a439e5d7ee5f',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'continent',
     'Europe',
     NOW()
@@ -3976,8 +3976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d083187-06fd-4937-8608-853a7d8a6c10',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    'ddd291d8-0603-4334-9d7d-f159004342f2',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'region_un',
     'Europe',
     NOW()
@@ -3988,8 +3988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ebf36eb-9684-40db-9a78-20aa5528a9cf',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '78ff4091-e5bd-4478-844d-6507b59ec5ca',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'subregion',
     'Northern Europe',
     NOW()
@@ -4000,8 +4000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7944d647-c6a1-462f-9cfc-3191ee33d27f',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    'd4a392e5-1a16-417a-b49c-6d3e7835b687',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -4012,8 +4012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '81e4ad25-f592-40c5-9503-093050c3aa4d',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '785aa8e7-4504-4534-83b5-da310af87149',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'population',
     '84584',
     NOW()
@@ -4024,8 +4024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b493f75-10fc-4728-86ee-37f56ba94cee',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '91fd4861-97b2-48e1-80ff-67bb4ae4ced5',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'gdp_md',
     '7491',
     NOW()
@@ -4036,8 +4036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '29b225b3-527a-48cb-919f-4d66ef13f9cc',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    'b92b1292-6bbc-4042-83e7-3efcb44f942d',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -4048,8 +4048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86019582-c228-44d2-aeb2-6ee4eee80931',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '076d5f03-f769-4bf8-a2cd-d392488a64be',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -4060,8 +4060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '335bf1d1-26b3-47df-8326-5cda3701986d',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '64d1bf18-e3e8-476d-803f-16746c47a513',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'type',
     'Country',
     NOW()
@@ -4072,8 +4072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1ad8418-82df-4c91-bff6-646a953e807d',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    '710e600b-14c0-4245-b91c-19417d3b089a',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'label_x',
     '-4.530069',
     NOW()
@@ -4084,8 +4084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dc8b64f9-2f50-474c-a015-e1e6aaa0eede',
-    '30a60ec1-3bb9-425c-a9b4-2497ae26f498',
+    'dca51106-e0fc-45a2-b68e-7e5a36414503',
+    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
     'label_y',
     '54.220833',
     NOW()
@@ -4096,8 +4096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b569feb-a1c7-482f-a9b4-1ceee713655f',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'bc6f94a4-0874-4b83-bfbc-d59c50e875b7',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'continent',
     'Europe',
     NOW()
@@ -4108,8 +4108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f82921b-2b50-4d8b-ac44-37d2917b7d19',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    '0642366a-bbb7-40ae-a4ac-9cbf51b51c05',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'region_un',
     'Europe',
     NOW()
@@ -4120,8 +4120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e8cfaff9-e80c-45ea-90dc-a8e1ff025048',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    '9e52ff20-2164-4aff-8d1c-a47ffe90d13f',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'subregion',
     'Northern Europe',
     NOW()
@@ -4132,8 +4132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '34dd9951-ebda-4835-b3ff-2f4110f63c62',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    '0fce8f39-a81b-46d3-a86b-aee979b41dea',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -4144,8 +4144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1568e0cc-313a-4c32-9aa4-be4a348ba7e7',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    '356ef937-a1e7-4b72-9075-33503916812d',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'population',
     '66834405',
     NOW()
@@ -4156,8 +4156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '532b51a4-184a-4f7b-8e6b-d5e5775aff0e',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'f85ab709-1cb9-48b1-bb39-85e0fd642f8e',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'gdp_md',
     '2829108',
     NOW()
@@ -4168,8 +4168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3428809a-fe86-4f53-9696-1693a597abed',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'b4df7b12-de85-4a4d-8d93-90ec9782ca29',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -4180,8 +4180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2adfbc96-ced0-49ac-8400-dd4e555ea9fa',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'd44d5cbf-e109-4947-85c1-4d026ba3ab05',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -4192,8 +4192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7dc4088d-fb17-4650-a1b3-858d75ff936e',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'e13e6bbc-14cd-470d-ad99-0e7a90cb7aea',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'type',
     'Country',
     NOW()
@@ -4204,8 +4204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c753fbc7-1c1b-4fdc-9e7a-7c945c65b629',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    '7b43195d-e10e-4c99-9f35-3a11079bc965',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'label_x',
     '-2.116346',
     NOW()
@@ -4216,8 +4216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd7dbf6b1-11c3-4094-a9ef-48af1b17fadc',
-    '0bae9d35-f774-4a78-bd07-8c9739e0cfb6',
+    'b5455e43-6e61-4fd8-ab69-4d1510cf7cfd',
+    '2e89d857-6a58-4541-bada-14ead28ed554',
     'label_y',
     '54.402739',
     NOW()
@@ -4228,8 +4228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36cc183e-8073-4343-8d05-607c785f2dff',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'af7d6d46-063c-4df8-ad90-95c712220daa',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'continent',
     'Asia',
     NOW()
@@ -4240,8 +4240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '194deeff-2600-4f58-a801-1ffe12ad12fb',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'ea753e7b-dee2-43db-a1bd-0da4c37b227e',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'region_un',
     'Asia',
     NOW()
@@ -4252,8 +4252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '484824d2-01b7-40c8-9f02-0fe304a0c014',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'effa28f0-f189-413b-b237-d7c9d5457703',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'subregion',
     'Western Asia',
     NOW()
@@ -4264,8 +4264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5a4ef48f-8917-4c78-b217-c501e5e39ad8',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'ad4cfcad-e615-497a-9741-a4fe76c505ad',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -4276,8 +4276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c76db45e-7151-4ae1-859f-6fe0f53b6948',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    '8c05163c-7d7a-4564-9c07-de3c570f99ea',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'population',
     '9770529',
     NOW()
@@ -4288,8 +4288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '23f9f27d-9fba-497a-a458-fd5967f3be5e',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'c7ad054e-81a1-4f72-ab01-1b1f9112cd53',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'gdp_md',
     '421142',
     NOW()
@@ -4300,8 +4300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e3c36af-4fba-4156-a4bb-c4a2cba6f407',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'a2399655-6a38-4531-bca9-92cb3145e204',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'economy',
     '6. Developing region',
     NOW()
@@ -4312,8 +4312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6eec6d20-62c9-41bc-89a1-a719fe41ded0',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    '32701c9e-ed69-449d-85fb-36b8fbb86f72',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -4324,8 +4324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c02b99f3-a2c5-4cb8-b408-51c9eb7668d6',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    '5f2a08d8-b949-4568-8487-82c5a0c494f0',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'type',
     'Sovereign country',
     NOW()
@@ -4336,8 +4336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e78abaed-9283-4acc-8451-f14466702bf5',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'd068d172-e992-47bb-8fa8-b9d26df2d842',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'label_x',
     '54.547256',
     NOW()
@@ -4348,8 +4348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '23cca84a-f0e2-45d2-b3f2-867839196a18',
-    '79cf2354-02ad-42e8-9989-525e63d1f41e',
+    'e2f71d27-b6d0-4c56-87f0-743e8fe8820d',
+    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
     'label_y',
     '23.466285',
     NOW()
@@ -4360,8 +4360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '984f0ad4-1b7f-4678-9e0c-f467d35e2e77',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    '30f7d60f-6109-4be2-8654-a33bb37a4f22',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'continent',
     'Europe',
     NOW()
@@ -4372,8 +4372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9312804d-ebdf-4a01-9c38-3eb122e91007',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    '622270d2-4eb5-4a8f-ab4d-c9148f14b8ad',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'region_un',
     'Europe',
     NOW()
@@ -4384,8 +4384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '05e89bc3-6630-44c7-8fb1-264e74ba6602',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'b20ffe7b-7157-4796-bc65-1fae5a673dce',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -4396,8 +4396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8672dd6-1728-480e-95b9-03433af00f86',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'fa6b6c1b-c7b7-44f8-acb6-e0f9818a9c22',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -4408,8 +4408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b68c106-879b-428a-aa77-e2f7838ecfae',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'a38b461b-0ec3-411a-95db-13757fd07490',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'population',
     '44385155',
     NOW()
@@ -4420,8 +4420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1106871-115f-4e37-9eaf-d9a9463bf3dd',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    '891c502c-c326-4a7f-b262-51ad67a4644a',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'gdp_md',
     '153781',
     NOW()
@@ -4432,8 +4432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d589e40-fc0c-44f5-b798-5e454968af47',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    '6f7911ce-31b6-49dc-aa07-f02fe1246064',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'economy',
     '6. Developing region',
     NOW()
@@ -4444,8 +4444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6f470ce7-b49c-4e41-8a9b-55b375b56c8b',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    '905db99f-03dc-40da-a431-820759442ded',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -4456,8 +4456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d2e9579-0daf-4918-861d-dc174dd93814',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'fd9e813f-1a38-4194-9bd7-a99b433aee75',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'type',
     'Sovereign country',
     NOW()
@@ -4468,8 +4468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec526cae-efc3-4f63-b5cd-7f61740b20b8',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'd9ebf7da-bc77-405c-856d-bd1cb81d1a28',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'label_x',
     '32.140865',
     NOW()
@@ -4480,8 +4480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1911193e-ece9-4baa-8247-8e148bc1454e',
-    '54859137-d8c1-4905-9cb0-cda155400c45',
+    'b7861f07-f7fb-4f90-9949-0692823f5c41',
+    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
     'label_y',
     '49.724739',
     NOW()
@@ -4492,8 +4492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b35b1ad-e7ef-4241-81eb-2c4805eabd60',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '67e78c87-7ce2-4181-a957-94737b665f3a',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'continent',
     'Africa',
     NOW()
@@ -4504,8 +4504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cac4d1a9-032d-43fc-bcae-eb9b49930d1f',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '427b1ef7-ac35-4d03-b299-b50ef91708f8',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'region_un',
     'Africa',
     NOW()
@@ -4516,8 +4516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '354fe7bb-31ae-48df-9500-9c1947e23346',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    'ff0ceb0b-498e-46ea-b0af-99abfe91d86a',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -4528,8 +4528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0cc7e10-aed8-4c75-8ec3-2bdbae388337',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    'ca1cfe08-1bf0-412d-adc1-ad4e639357a6',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -4540,8 +4540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25ab8156-cd74-4bb1-bb4b-f9f8cd677f04',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '53877d93-3bb1-4a7c-b198-4bfc5b192e9b',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'population',
     '44269594',
     NOW()
@@ -4552,8 +4552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6047d6f1-0a58-494d-8e28-39a8888e8993',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '41bf695a-5c20-43c1-a0e3-472b5b439289',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'gdp_md',
     '35165',
     NOW()
@@ -4564,8 +4564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91ff7bee-59fb-4ad5-acf5-e90c1dcadfba',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '8b933f51-7f27-46c1-9f6f-0c6c7b105801',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'economy',
     '7. Least developed region',
     NOW()
@@ -4576,8 +4576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c873a03-a6dd-4b02-b4de-6ccdeff3ab08',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    'bec8e7f4-bda0-4ba2-9fbd-ee668aa094e4',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'income_group',
     '5. Low income',
     NOW()
@@ -4588,8 +4588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af9a95ac-15d0-4b7f-abb1-aa9d0eddf95b',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '24e24982-fb8c-43e8-9085-4a58d4244267',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'type',
     'Sovereign country',
     NOW()
@@ -4600,8 +4600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51a6701f-1554-45a6-919e-f029bc6d79ff',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '65a7ebca-3aff-4dbf-b41c-65432b6e20b0',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'label_x',
     '32.948555',
     NOW()
@@ -4612,8 +4612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed3736f1-08de-45e3-92bc-b733c132c714',
-    '50e61a0f-064a-401e-9b4f-338506842abb',
+    '38138add-dc37-4205-a28a-4040b1e875fe',
+    '46748046-2c5e-4352-95a3-73b0766cfcdf',
     'label_y',
     '1.972589',
     NOW()
@@ -4624,8 +4624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2bbd788b-ef7b-49f9-b62c-b5477e7fc4ea',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '8247d864-e980-4d9f-96fb-483f055112d5',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'continent',
     'Asia',
     NOW()
@@ -4636,8 +4636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce65b585-fac6-4a7c-a648-162af4719856',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '4bc9f7f1-8ece-4bb3-984a-983ec9645c5f',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'region_un',
     'Asia',
     NOW()
@@ -4648,8 +4648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94a0d5ad-785d-4504-95f2-c8453fab818c',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    'd89ecf55-18aa-4e95-81b0-5f93dfb72063',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'subregion',
     'Central Asia',
     NOW()
@@ -4660,8 +4660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '353c7355-d3da-4684-b864-68d7b83a957d',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    'a507fc76-15a3-4736-b469-243e7a22c133',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -4672,8 +4672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '46bef349-d552-4be0-8a58-c117b9aa50ca',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    'd2fa60bc-a5ec-4c5f-a308-f360774528ca',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'population',
     '5942089',
     NOW()
@@ -4684,8 +4684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45d93eba-ad8a-49cd-9ad5-ceec365aee7b',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    'b34ec57f-af43-43b4-b0fd-1b26d2214c20',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'gdp_md',
     '40761',
     NOW()
@@ -4696,8 +4696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c2844777-e11c-402f-b120-5738077a7241',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '328c574f-f65e-468e-96e2-a94bf0b577e2',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'economy',
     '6. Developing region',
     NOW()
@@ -4708,8 +4708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '55eb8d19-0315-4538-a708-5869fe1f3d54',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '5e5af121-5a68-48af-8984-6930b69a114b',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -4720,8 +4720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0d6d5867-fbc7-4e23-b452-608810aef031',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '54a71904-5e62-44c5-a887-1b7e12f2091b',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'type',
     'Sovereign country',
     NOW()
@@ -4732,8 +4732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2dd3a46-c834-4981-a5e5-410a92353612',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    '9fccdcd3-e59e-4473-81a9-4045408b2c16',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'label_x',
     '58.676647',
     NOW()
@@ -4744,8 +4744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70f2c338-0df0-4431-9ee8-7662a560cc4a',
-    'ad6c1b7e-0db9-44d5-8bdb-8bf3e36826bd',
+    'dbde4f9e-0398-4bdf-8b22-d78adfef7ef6',
+    'fed24581-31b1-41d2-a3ce-d445084acea8',
     'label_y',
     '39.855246',
     NOW()
@@ -4756,8 +4756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6539330-44f9-4767-9c07-57a542f9ca96',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '877a0bcf-57cb-4f7b-973a-a4180b15f2f0',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'continent',
     'Asia',
     NOW()
@@ -4768,8 +4768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '869901f1-40f4-418d-a708-b8c894965761',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    'dc75c55e-d14a-41d1-8b5e-6a1603503260',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'region_un',
     'Asia',
     NOW()
@@ -4780,8 +4780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '078f1b2a-75a7-40c7-8686-64b081b093cd',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '8df157e4-1384-4f64-b78a-c01f434ebacd',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'subregion',
     'Western Asia',
     NOW()
@@ -4792,8 +4792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68f979d9-abf6-4117-8cda-18c19e910670',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '5d0f2537-dd05-439a-8fde-9099d0f0f4ef',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -4804,8 +4804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc800dff-b12a-442f-8d79-02bba8f02e96',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '40a7b41d-f498-4681-b60c-ab9c37ac3d85',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'population',
     '83429615',
     NOW()
@@ -4816,8 +4816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1f80128-6281-4782-8eec-90272c16ce3a',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '9073d6e4-9dec-42af-b077-0c4f527bafc1',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'gdp_md',
     '761425',
     NOW()
@@ -4828,8 +4828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dfa92eb3-652f-436a-952f-2e01827e5d5a',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '81904525-1937-4ae3-a8ad-21e2f3654bcf',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
@@ -4840,8 +4840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b829d4e9-958f-45da-9d2d-e58d28de7219',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '10b1b497-2168-4341-ab4f-0748f09cb26e',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -4852,8 +4852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a545bf83-b04b-4cfc-a99c-e0490b692e6f',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '577547de-6f5d-4e54-b415-e0c9ca1509d6',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'type',
     'Sovereign country',
     NOW()
@@ -4864,8 +4864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bab13b4f-1f1d-4f9e-88a8-2c8313a70861',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    '1958bc80-7004-46ef-8d36-ed9b6fd748b4',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'label_x',
     '34.508268',
     NOW()
@@ -4876,8 +4876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e180ad77-8da3-43bd-929e-57d84c5bce9e',
-    '2312bd53-9ab7-4d4f-ac50-31a850fc3965',
+    'e9d7e006-fdc4-4431-b484-8f863d096f41',
+    'e6236608-69d1-4add-9811-fbcbb0188c80',
     'label_y',
     '39.345388',
     NOW()
@@ -4888,8 +4888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11e5567b-31ac-4af8-beb5-a61d3f609a49',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    'aae27605-dddb-4d43-bd73-f6324e8349fc',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'continent',
     'Africa',
     NOW()
@@ -4900,8 +4900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bf28c041-7d5e-4a98-b273-61a84d931495',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '338cff6e-e3ba-46e9-9f06-b4cae2a25ce8',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'region_un',
     'Africa',
     NOW()
@@ -4912,8 +4912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70024216-f03f-446a-bb3e-47a513423c37',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '5bd964e9-f21c-4829-b20b-1108e63dc881',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'subregion',
     'Northern Africa',
     NOW()
@@ -4924,8 +4924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec601c7b-a615-4cc4-a63b-9264c4517efa',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '30ae2972-18c0-4fca-b582-b7e4223536f2',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -4936,8 +4936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '898fd13a-137c-46b8-937f-7f5a2a8a3474',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '1bcfe92a-fd93-4149-9b5d-20d0504a2d67',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'population',
     '11694719',
     NOW()
@@ -4948,8 +4948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd0cdfc26-e87c-4cd1-bf49-5c9fa6074615',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '661d5072-ea03-4dbf-91d1-a14bdb1a0302',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'gdp_md',
     '38796',
     NOW()
@@ -4960,8 +4960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '054d3c6e-ba03-4291-a604-95c66fa73a23',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '96abf607-6aac-4cde-a170-dc2bf8329530',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'economy',
     '6. Developing region',
     NOW()
@@ -4972,8 +4972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac9cc6fd-92c4-4e3b-99eb-f27cfabbeffb',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '0081cdb7-abd2-4783-881c-ae06c7ba5b1a',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -4984,8 +4984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6f0bd667-02d2-4644-a705-357130a98b21',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    'b032c718-8790-4535-85d7-1fcf76ea69b9',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'type',
     'Sovereign country',
     NOW()
@@ -4996,8 +4996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd394eef3-6138-4272-a804-43931e7fc39c',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '23c04d19-390f-4bec-9237-3a4c4be72358',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'label_x',
     '9.007881',
     NOW()
@@ -5008,8 +5008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd29fdf4c-bd27-48df-ab82-c389377fea0f',
-    'ce18a3ae-92fb-465e-9c03-ffe80f876b6c',
+    '36179916-4650-4799-b1a3-3e00246190bc',
+    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
     'label_y',
     '33.687263',
     NOW()
@@ -5020,8 +5020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '08f59eda-7339-4ddf-aac6-59337180cf2d',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '28448140-0954-42a3-aa88-56ec6e00112b',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'continent',
     'North America',
     NOW()
@@ -5032,8 +5032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '60009aa4-cd6f-478d-b052-62c43d78c250',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '6260fb0c-0c16-41d5-9e81-2827a818bf77',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'region_un',
     'Americas',
     NOW()
@@ -5044,8 +5044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2f57775-46f9-49a4-b281-9ee1bab6e8c6',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '37a57f36-3c6d-46e4-aa55-7b66a34f5365',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'subregion',
     'Caribbean',
     NOW()
@@ -5056,8 +5056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c44980e-3d6a-439f-ba4b-97ea97c94734',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    'ac738a21-4fd5-4993-8e9a-2b5149fbc6ba',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -5068,8 +5068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '608df56c-13cf-4839-9b71-91ffe19fe6e0',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    'bf8f8ea4-f6b3-46b8-8d49-5fd60955c5ac',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'population',
     '1394973',
     NOW()
@@ -5080,8 +5080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '022d7169-ea7c-4fdb-9435-898bfbe88e05',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    'fc1413d6-e9cb-43d8-8379-9e5ae457bace',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'gdp_md',
     '24269',
     NOW()
@@ -5092,8 +5092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7fa2f92f-2586-4770-97e3-ad9cad02a716',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '5c5b9b69-9dd2-41e3-99b7-cd77f7c4843c',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'economy',
     '6. Developing region',
     NOW()
@@ -5104,8 +5104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44db1b3b-562a-40cc-a3d4-6a7449eaf887',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '199bfd06-310d-48ff-9ad0-b3adcff8a004',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -5116,8 +5116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae7a92da-ebbe-45a8-93ae-bb5d621d0269',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '52b5eb81-cd42-4440-8d5c-91f6f5e429ec',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'type',
     'Sovereign country',
     NOW()
@@ -5128,8 +5128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a3e1a6d-344f-40cd-810c-48bfaa8a4a81',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    '5309992a-205f-46a2-b10e-d948855d4aac',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'label_x',
     '-60.9184',
     NOW()
@@ -5140,8 +5140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7cb96d7-86f2-4833-b349-a9f1a6c8898b',
-    '991db544-b193-4774-8fd6-3d0f06221444',
+    'a783c395-764a-4fec-99fb-a14908e28aa2',
+    '9eaec937-544e-45c0-b057-a2390652d646',
     'label_y',
     '10.9989',
     NOW()
@@ -5152,8 +5152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e2e1c40-797b-4101-b8e5-aa3b8d41b771',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    'cc3cfedc-703c-4992-8f6c-d90556aad526',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'continent',
     'Oceania',
     NOW()
@@ -5164,8 +5164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0474f2aa-88d9-49c8-a787-24c8d9d9563e',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '67cf485f-2064-41d4-b3dd-ce8e9ee874f5',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'region_un',
     'Oceania',
     NOW()
@@ -5176,8 +5176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4427b0e7-96bc-4224-9e24-2aa5e0d766b6',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '9931ea88-2821-4f15-8f76-41158e676398',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'subregion',
     'Polynesia',
     NOW()
@@ -5188,8 +5188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4846e98a-6ad5-49ac-b0cf-4e8862ac89e5',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    'd3936fed-d29e-4950-8562-bf4a52e94b6d',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -5200,8 +5200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd963c3c8-d217-4c0a-a5fd-9912d71f37c6',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '16bc38e3-842b-4e7b-aadb-f4ad2ce4685b',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'population',
     '104494',
     NOW()
@@ -5212,8 +5212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7b494c92-4b6e-4811-b9ec-60a6aa9eb2ac',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '626f076e-fed2-4e8b-9fde-7a9f38ca1e3d',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'gdp_md',
     '512',
     NOW()
@@ -5224,8 +5224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7407bb7-403a-4ef5-aead-8b7449fe07b2',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '4057bc61-126f-4a51-bb73-de816a458b1e',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'economy',
     '6. Developing region',
     NOW()
@@ -5236,8 +5236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '24d22c16-2ac0-4860-85d6-4544c5407b29',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '74fa4185-0eeb-4224-a703-07bfafa222d5',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -5248,8 +5248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ab03d88b-6125-4b57-9617-ed4cd29eed92',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '0d955b29-fb08-44f0-8965-c9473a7f1bfc',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'type',
     'Sovereign country',
     NOW()
@@ -5260,8 +5260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e36f80aa-4545-4271-b1d6-2231aa96ce37',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    'f6cbb50f-ec40-4df2-863f-712f7735d806',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'label_x',
     '-175.163014',
     NOW()
@@ -5272,8 +5272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '543ba236-24c2-4334-9c5d-96ab7a4eb9bb',
-    '8d9d83f7-053e-4efb-a9a9-b482c8d635cd',
+    '58e5ca90-85b3-4add-bbe1-18eec89e8e1a',
+    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
     'label_y',
     '-21.210026',
     NOW()
@@ -5284,8 +5284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1230a3f2-205f-44b2-867d-69cdaeafccbc',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '6980555a-bf8d-4ebe-902b-4bf9b4fba650',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'continent',
     'Africa',
     NOW()
@@ -5296,8 +5296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a92f05a-3068-40d6-a6be-4fcaa8b108e1',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '2d6e664b-cf54-4a4f-a910-b76db00537b0',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'region_un',
     'Africa',
     NOW()
@@ -5308,8 +5308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52a2bb25-d2d8-4171-9f37-be6384df024f',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '7e586f0b-493c-4dc7-a563-8e697777dda3',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'subregion',
     'Western Africa',
     NOW()
@@ -5320,8 +5320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3dda71ee-edc0-4f92-87fb-4650bfe704e0',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '00842196-71a2-49ed-a082-6fcc01fb0991',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -5332,8 +5332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a6ff80c-a60f-46d4-8c3e-f2a8319a41a9',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    'a7ca268d-70df-4f77-885b-7888933d3127',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'population',
     '8082366',
     NOW()
@@ -5344,8 +5344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65fd6526-1153-4c4d-b9af-7851a183415e',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '8f0d43e1-ab68-4ceb-ab07-570f695e5426',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'gdp_md',
     '5490',
     NOW()
@@ -5356,8 +5356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f7106ba-d63f-44a6-8d0f-2a19fcbc9938',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '0b79c363-0b89-4213-9440-5109df3c7dc1',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'economy',
     '7. Least developed region',
     NOW()
@@ -5368,8 +5368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17ac26d1-5f4d-45db-82c7-325938374628',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '328e77fc-6ec2-4e62-bf9a-ee78dcac0dfd',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'income_group',
     '5. Low income',
     NOW()
@@ -5380,8 +5380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5b472a1a-7056-4934-a9af-f44e31478262',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    'ecf5b6bc-8670-4649-a605-c14011a331d1',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'type',
     'Sovereign country',
     NOW()
@@ -5392,8 +5392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '428b4ea3-f992-4b0c-95c1-9931d4802316',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '9e678716-e937-486c-8cf1-87684b295780',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'label_x',
     '1.058113',
     NOW()
@@ -5404,8 +5404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7b705db6-8eea-488d-889e-24836dd56067',
-    'f028c4cb-d6b3-4105-a71c-1ca31126dc37',
+    '695e162e-af65-4cff-a218-92a09f6fa7e4',
+    '2957b8ca-7171-444a-ae8d-4de76df16b32',
     'label_y',
     '8.80722',
     NOW()
@@ -5416,8 +5416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9698cd4b-c05d-44b3-8129-8f64d2093aa9',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    'b6926a01-1f20-498c-a70c-f330206975e1',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'continent',
     'Asia',
     NOW()
@@ -5428,8 +5428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67d6211f-db32-4e4f-ad22-e9ffd912e39e',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '6cbcbcac-a927-4fc9-9b6e-c47832b4522b',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'region_un',
     'Asia',
     NOW()
@@ -5440,8 +5440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12bc0f79-1811-409d-85a3-f5c1af813d3b',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    'f95e1333-a429-4a71-ab47-039867c7127d',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -5452,8 +5452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '08323a50-ff18-4c0c-aede-7df2fe1addce',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '4365355b-3dd8-4eba-af37-d8d09684e5b1',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -5464,8 +5464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'acfdea23-8d06-4242-8873-99aa6235a8fc',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '6c108d37-feb9-46a5-800b-c273dbe0ba43',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'population',
     '1293119',
     NOW()
@@ -5476,8 +5476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62f08c4d-859d-4d44-b553-e868afa2bacc',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '4a09d234-c32d-4690-84d1-a71da424dcae',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'gdp_md',
     '2017',
     NOW()
@@ -5488,8 +5488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a22eb1c2-fbb7-4cd4-92ad-24f9ce0e3236',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '54726f84-3762-4610-8fdb-3babf6497b96',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'economy',
     '7. Least developed region',
     NOW()
@@ -5500,8 +5500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '863aab78-e6f1-42b6-902c-5e527a47448f',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '0093a6cf-64a2-4c1c-a78a-6525012e5efd',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -5512,8 +5512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ac65d5d-1534-4fed-8ccf-75746b92364d',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '6fd4d04f-cd99-457b-9be6-c3413206e8f8',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'type',
     'Sovereign country',
     NOW()
@@ -5524,8 +5524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'deb07463-332a-40fc-85db-9b5d2502e036',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '72bc9a56-6f0e-4d61-9f63-16fb4350bfe4',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'label_x',
     '125.854679',
     NOW()
@@ -5536,8 +5536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fdb0a34d-8728-4478-8417-af8ae93f1094',
-    'ece13d68-1098-4a72-9474-10fbcda1dd56',
+    '66400b6b-8326-44a9-8355-be98f18a9fc6',
+    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
     'label_y',
     '-8.803705',
     NOW()
@@ -5548,8 +5548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '04a4ff27-1cee-4995-a20b-55c2d59cbf96',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '59ee0e5c-9c55-4d0a-be09-a831b79930e5',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'continent',
     'Asia',
     NOW()
@@ -5560,8 +5560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd243b377-9955-40b2-b5b8-7c7527964b75',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    'f22bdc40-8954-499b-b47f-3d6483aa6812',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'region_un',
     'Asia',
     NOW()
@@ -5572,8 +5572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '105d3e1e-8f53-428e-b982-ee32f1c58fec',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '70108482-2057-46ae-a7ed-bf5f835b2941',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -5584,8 +5584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8bcaa0ad-bc98-43f2-8ddc-51677b073ea5',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '19dd9d42-a4ae-492a-a41b-48d4269bdb59',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -5596,8 +5596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5f66d242-a0f4-4e96-bcef-5f1d40dff8bd',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '21c97240-0e81-4b96-9a32-08d74f087635',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'population',
     '69625582',
     NOW()
@@ -5608,8 +5608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99ea6a12-25eb-4569-a012-13df26d81d03',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '61ff46af-d0f7-421a-9f96-17db41a50dcd',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'gdp_md',
     '543548',
     NOW()
@@ -5620,8 +5620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '77733000-11b3-48de-a42d-9386b3d96b42',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '0e65730d-8531-475a-8689-74d32cd85eca',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -5632,8 +5632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec9c42e9-5abd-48ee-85a2-cc2a684be551',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '9465db68-5d37-4b02-b035-66495bdf53e2',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -5644,8 +5644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a82cccd-57f2-4acd-8542-88a15dc8d662',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '42a9a178-7045-4b21-b8ae-7f4cd8cd2c07',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'type',
     'Sovereign country',
     NOW()
@@ -5656,8 +5656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93dd3cab-158e-42b0-8f07-1f8f9b56708b',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    '2f4288c6-b2f6-492f-839d-0c39379fe8a0',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'label_x',
     '101.073198',
     NOW()
@@ -5668,8 +5668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5da51d47-85a4-4695-bf94-e305d87bb29f',
-    '3ab21d5b-9639-46f6-9768-954659a59c22',
+    'b53491dc-cbfb-4991-a7dc-b73a3b6d65a4',
+    'f170a079-6570-4eca-8a21-7e17fde36f58',
     'label_y',
     '15.45974',
     NOW()
@@ -5680,8 +5680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a42f8110-da88-4931-aa23-6856c8071a21',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '73f84c06-9cd6-4706-a34a-c7e6820ed826',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'continent',
     'Africa',
     NOW()
@@ -5692,8 +5692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ebab25d7-6a38-4358-bfeb-be9b226d62b3',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '6704e1e7-1c9d-4688-9d7d-02b62cb78299',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'region_un',
     'Africa',
     NOW()
@@ -5704,8 +5704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a05e158-b299-4e05-b763-072592892062',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    'e8584068-3a7d-4ed8-b296-03025b38e638',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -5716,8 +5716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c2e94a2-cef9-4427-ad28-211a457bf84b',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '7a99f47a-05d7-49de-88ba-89a0fc65d345',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -5728,8 +5728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eff63fc3-5a36-4e8d-8c8a-2836038b724b',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '2ab6f0fc-4da7-446f-9afa-31095f1d9a58',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'population',
     '58005463',
     NOW()
@@ -5740,8 +5740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '43c2571e-e223-4692-8cea-d9e51466f54b',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    'ce3168ad-19a7-42b0-9e2c-29000df41313',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'gdp_md',
     '63177',
     NOW()
@@ -5752,8 +5752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1108e8bc-e70d-48ea-9c2c-900a68e75ad1',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '949c5507-a86a-4c9d-92ec-2fd4752a4cd4',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'economy',
     '7. Least developed region',
     NOW()
@@ -5764,8 +5764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2acaa6ce-1d31-479e-ba98-35fb0c990425',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '490b4cbd-4866-4579-91a9-7822015400c2',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'income_group',
     '5. Low income',
     NOW()
@@ -5776,8 +5776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da7633e3-6d6d-41f3-8c75-ccdeab03ef61',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    '6d8345a4-c034-4752-bb26-0e7dcb416986',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'type',
     'Sovereign country',
     NOW()
@@ -5788,8 +5788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0607e207-8ed3-4f45-85b6-56f200c87ab8',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    'c3267313-8508-4d78-8fe8-de9c93ad3bed',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'label_x',
     '34.959183',
     NOW()
@@ -5800,8 +5800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '514a1aaa-e951-4e0d-add1-b373ead845a0',
-    'f3158023-5590-4899-89a6-66b362842e0e',
+    'bbff1619-bdbb-47cf-818f-af5adc19f63c',
+    'e3c28021-68fd-4791-a20a-84e2f029542d',
     'label_y',
     '-6.051866',
     NOW()
@@ -5812,8 +5812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb464e60-3b61-43ce-b45a-c46048ab6bec',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    'ff3303e1-9cd4-4f37-9b85-0e06161fd3bc',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'continent',
     'Asia',
     NOW()
@@ -5824,8 +5824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e8990f6-069e-4e81-9302-fbe18bf44eef',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '292cef6e-ebd5-46d3-ae66-e8c0c7f0d6e3',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'region_un',
     'Asia',
     NOW()
@@ -5836,8 +5836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4da88b3-81f7-4ea1-bd75-28da02a990d4',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '79732083-d945-4dec-a4e8-0fe008ca9ca2',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'subregion',
     'Central Asia',
     NOW()
@@ -5848,8 +5848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '191acf3f-7781-4c14-879a-521b12e19117',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    'b2a1678c-de7e-4b90-b065-554855510cb5',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -5860,8 +5860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65e8709d-f482-4683-9971-93a0245f076a',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    'c688a7bf-ad64-4c36-b169-29011dbd2a63',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'population',
     '9321018',
     NOW()
@@ -5872,8 +5872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3c27683-0ab9-4686-84fd-6dee8d27dae4',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    'c6f0843f-78bd-4ba7-9834-7bc8e6a850e4',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'gdp_md',
     '8116',
     NOW()
@@ -5884,8 +5884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '581bce25-39a6-468b-a56e-14a03ced62fe',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '07d594a5-a190-410a-bb02-bf511bd46184',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'economy',
     '6. Developing region',
     NOW()
@@ -5896,8 +5896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4981c2ff-add9-46f9-808b-b011842f22e6',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    'ed693a8a-257f-4572-b655-a82a40c3452b',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'income_group',
     '5. Low income',
     NOW()
@@ -5908,8 +5908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '75721777-c1bc-4c16-a76d-401d0ea46afb',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '3a106dd7-81fe-4c68-8264-5f4a47ec3b25',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'type',
     'Sovereign country',
     NOW()
@@ -5920,8 +5920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '83a0f4de-e96d-4dc5-9b51-bc32b70802bb',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '8be2fbaf-6d91-4a68-8714-c00b1cfaf0ae',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'label_x',
     '72.587276',
     NOW()
@@ -5932,8 +5932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9c5def7-67a3-4192-ab92-0f07290d5068',
-    '424920b2-6628-4a0d-b129-21a9b3f1529c',
+    '6d0c5378-93f2-4a65-8d49-bd9cab572bb3',
+    'bc187fe0-4f45-449d-915d-7f70f16587a4',
     'label_y',
     '38.199835',
     NOW()
@@ -5944,8 +5944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bbbc35f5-3b33-441f-9c17-c988ae7f4ef7',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '21b74445-bc69-4df3-b932-783959742072',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'continent',
     'Asia',
     NOW()
@@ -5956,8 +5956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1f00ce2-59c3-4822-b2b4-791db27ddc85',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '3ff46756-ddac-45b3-bf99-b202bda2f534',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'region_un',
     'Asia',
     NOW()
@@ -5968,8 +5968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87155cb4-f56f-4612-a424-1f763347001d',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    'c89809b3-561c-464c-b97b-a79dae2ce093',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -5980,8 +5980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca074e76-ca00-4fe6-8ec5-477d7e05c354',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '46545913-059c-4be6-9a45-409b0da79c1b',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -5992,8 +5992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0223edf5-3835-47c2-b8c7-8f61e1c3d071',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '0bc19df6-49dc-4025-b2b6-48726d64274b',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'population',
     '23568378',
     NOW()
@@ -6004,8 +6004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'abbbc7fe-9d28-4e5d-bd2a-5f83b56de910',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    'b161b5cb-fef8-4e9b-9f59-505c020549e5',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'gdp_md',
     '1127000',
     NOW()
@@ -6016,8 +6016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d17bd0f-8f53-487d-9587-41203fa1c3f4',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    'b5225a74-625c-490c-9e48-72d22c4b2313',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -6028,8 +6028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c03d0ad4-f695-4341-9398-3248ff6ee499',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    'c7ad0da1-44b3-4c58-9a0e-8112c63c6499',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -6040,8 +6040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37a79516-e209-4374-b705-1fec33689bbb',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '95b1f01b-9769-49f5-bbea-21289322647d',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'type',
     'Sovereign country',
     NOW()
@@ -6052,8 +6052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a4021c1-d6c1-44d2-9036-c602cc064cd0',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '2c01d5d8-8c0c-4650-bede-c089f5b7402c',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'label_x',
     '120.868204',
     NOW()
@@ -6064,8 +6064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb7cc12d-786c-4b45-84f9-88a64044428f',
-    '7fcf223a-b81d-46a9-916a-9b4f4ee616a5',
+    '7ea4e4af-0b70-4177-b63d-3e99f2eb9fa7',
+    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
     'label_y',
     '23.652408',
     NOW()
@@ -6076,8 +6076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '49b76451-dce7-4228-98a9-1b4b19162004',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '7555bf41-3363-4e46-bd1a-03f3dd220f99',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'continent',
     'Asia',
     NOW()
@@ -6088,8 +6088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2dabf3e4-8dce-4a04-aecd-748f78da988e',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '07f88b3a-e9fd-4386-aa7c-d40ed9fb5304',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'region_un',
     'Asia',
     NOW()
@@ -6100,8 +6100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ad5cdddb-b528-49f0-818f-ab7c70dd36cf',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '06399262-dc79-4aa3-aabf-0755a17b45b5',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'subregion',
     'Western Asia',
     NOW()
@@ -6112,8 +6112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4fc9214-569b-452d-850f-30651645a8e0',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '56c7447d-314b-40eb-ba42-221e83c958cd',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -6124,8 +6124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3de0cbdc-b893-42c4-a09a-3530b58ac253',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '5b067922-a3d7-4da3-8547-ebb8f2f19af9',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'population',
     '17070135',
     NOW()
@@ -6136,8 +6136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '24d4c840-90e3-4b1f-bc67-503dfc0d46e5',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    'a23e756c-33d3-4146-93c4-7aa974c71ca7',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'gdp_md',
     '98830',
     NOW()
@@ -6148,8 +6148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36106d8a-4551-4aac-9b39-07ea6c36c4d8',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    'c7157308-36b2-4fc8-b5dc-d38a8e13d63f',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'economy',
     '6. Developing region',
     NOW()
@@ -6160,8 +6160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3d7843b5-1be8-4126-bf25-4e6e2391f3f6',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    'b6a304e3-eccd-4ecc-ab83-0dcb73055fe9',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -6172,8 +6172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6234cf7-8941-4e1e-925c-05ca447d6a3a',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '743831a2-1156-4d5b-aae7-b06e937d001b',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'type',
     'Sovereign country',
     NOW()
@@ -6184,8 +6184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c79e686e-0962-4aba-b82f-f188ac555a34',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    'a4ea20cb-a11d-42c7-add3-0681e6d877cf',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'label_x',
     '38.277783',
     NOW()
@@ -6196,8 +6196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4e81fb7-38e0-466a-b403-a8ee6f4d070b',
-    'df101c18-4aeb-44e0-b678-301edbc02014',
+    '4038f5b4-e17c-42b8-90bb-86f71f8fcf0d',
+    'd740b05c-4e8e-4f54-825b-623a65244a14',
     'label_y',
     '35.006636',
     NOW()
@@ -6208,8 +6208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3be3a01a-5f8e-4647-93c2-3d3ce52afb53',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '9dfead6c-6375-4ba5-9ebb-b87bec83fd0e',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'continent',
     'Europe',
     NOW()
@@ -6220,8 +6220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50e049a6-92d7-41af-8642-5679756e350e',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '20a6417e-7a33-45c6-88cc-c86269391e1d',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'region_un',
     'Europe',
     NOW()
@@ -6232,8 +6232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd203531-9898-4dd9-82e9-22ff2f2ef574',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '28e1898c-7716-431e-8d7c-44b8a006b623',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'subregion',
     'Western Europe',
     NOW()
@@ -6244,8 +6244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3dcb8163-9f31-462d-a73f-fedb1d32e35f',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '60eb1c76-7c9c-49ef-8cd0-fcde5c913457',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -6256,8 +6256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88cbfd39-19ee-4119-84b0-3c8bf86c41c8',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '0c53162d-03fa-4d74-9fd4-04bf0ad91ff0',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'population',
     '8574832',
     NOW()
@@ -6268,8 +6268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f0502db-84c7-4d4f-8804-6145b03a08e0',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '809275c8-2eab-4a5a-bf78-3bce1d5b5097',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'gdp_md',
     '703082',
     NOW()
@@ -6280,8 +6280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30222a9a-f301-4da2-b382-ffbb315019ca',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    'b6253ab4-dc4d-442d-a726-7d8a74db85bd',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -6292,8 +6292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7253ec39-6667-44de-b2ea-235abf0fca52',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '75e12494-36bc-452b-a682-775fa5dcaa3f',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -6304,8 +6304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a16668d-1d8f-4d44-815d-d1fa736cf84d',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    'db0d65dd-6060-4c42-8b81-7d5ce95ddbc5',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'type',
     'Sovereign country',
     NOW()
@@ -6316,8 +6316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '458371a0-83c7-4679-a87f-9c27089e3611',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '519cdc1e-3e32-4d9b-ad4d-a611c9f16e3d',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'label_x',
     '7.463965',
     NOW()
@@ -6328,8 +6328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae622714-1de2-4ad0-ba35-2c5902131275',
-    '7cb7c927-6332-4a62-80a9-25de1271c822',
+    '6778e72d-44ec-4a93-964b-413824ff3df2',
+    '819770d8-61da-4df9-9b2d-27a16f2594f1',
     'label_y',
     '46.719114',
     NOW()
@@ -6340,8 +6340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca1650b1-663a-4abe-bff2-1c396ebdf4e7',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'aa20ae6f-1b4c-4acb-b138-bc5b71718137',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'continent',
     'Europe',
     NOW()
@@ -6352,8 +6352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5288f52d-0956-432f-a22e-e81915a2c27e',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'ac66646d-5ae0-4ad5-8397-28ad3e197043',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'region_un',
     'Europe',
     NOW()
@@ -6364,8 +6364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9510833e-c178-4a87-8289-392a009ce777',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'c20064c7-c82e-4cfc-8a83-13623e108ac8',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'subregion',
     'Northern Europe',
     NOW()
@@ -6376,8 +6376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e29527e1-5919-44bd-9390-318273665d52',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'c6e7e652-e6ff-45ec-a867-75fffc60090c',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -6388,8 +6388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86c39896-f135-415d-b938-f05437313d86',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    '5da57041-151a-4c26-bce0-a7c0c890c52e',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'population',
     '10285453',
     NOW()
@@ -6400,8 +6400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67eb48fe-a952-4740-8648-f47442d07977',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    '02b2b693-d8a8-42a4-8770-fb038c215596',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'gdp_md',
     '530883',
     NOW()
@@ -6412,8 +6412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '494e86e5-c0bc-4e7c-a0d8-d1d55e1b85ea',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    '14fbf0f4-1f2e-4890-8d76-507b495d8e1d',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -6424,8 +6424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c64742d6-32e6-4535-84a7-0e9dadec9b6b',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'c2f80f0d-4b9c-4510-85e8-42007f8b883b',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -6436,8 +6436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '969b18aa-8fce-4a8d-a525-76d584602727',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    '1c9b9372-5513-4188-912f-20f7c059b020',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'type',
     'Sovereign country',
     NOW()
@@ -6448,8 +6448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a443010-ff3d-4fad-8ff1-5a37b4744a66',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    'da443c48-ed37-44d1-80b6-9c0690eb64b5',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'label_x',
     '19.01705',
     NOW()
@@ -6460,8 +6460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27c073a1-73ba-4855-9f68-964bf7fe3cc2',
-    '2e78630e-0089-4332-8daa-649a60f06611',
+    '366f0d7c-d3e8-4bcb-8976-38819727b428',
+    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
     'label_y',
     '65.85918',
     NOW()
@@ -6472,8 +6472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '09f42666-801f-4a47-848c-1fb18abe8141',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    '8738c144-3360-41e1-ab68-3881379d9f06',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'continent',
     'Africa',
     NOW()
@@ -6484,8 +6484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e6b93fcb-75ce-45ae-b8e9-c253f3d52d9c',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    '08314c8f-5a82-4b1a-951f-95aa1b83d4df',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'region_un',
     'Africa',
     NOW()
@@ -6496,8 +6496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8c16677-00df-49e0-8caa-31078af2accf',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    '5fd60631-7a58-4d93-9458-2953b8aacd5c',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'subregion',
     'Southern Africa',
     NOW()
@@ -6508,8 +6508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f84c333-6acd-497d-a973-dccfebbe294e',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'a1c324a2-f28e-432d-8a28-47b1c70ffd49',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -6520,8 +6520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a589514-27a6-439c-ae68-c69dbfd034ae',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'dc0bb257-6edc-41d1-bbcb-c31adb43787f',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'population',
     '1148130',
     NOW()
@@ -6532,8 +6532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bdcdd677-e4ac-4446-a576-db139035fc1f',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'e7936de7-5fec-4c31-8b74-f3630b1c544d',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'gdp_md',
     '4471',
     NOW()
@@ -6544,8 +6544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e922a49-d92d-4eed-8f72-1f36d3062d89',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'b5c62cc2-ebf5-493c-9f68-9f8d9d8a3ed0',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'economy',
     '6. Developing region',
     NOW()
@@ -6556,8 +6556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd9a6b00-01e9-4a69-b699-3daa4fc05366',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    '4bdd4086-08be-4d61-9b81-f2325c93d498',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -6568,8 +6568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d7889ca-99c8-4321-b415-4d15cedec94c',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'e15e4f17-c7f0-4715-9ac3-d12630928024',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'type',
     'Sovereign country',
     NOW()
@@ -6580,8 +6580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dedccfab-d344-4578-927d-c82d494de992',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'afe6828d-fd21-4b15-b1c1-95710a723170',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'label_x',
     '31.467264',
     NOW()
@@ -6592,8 +6592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a91546cc-cab0-4ddd-a04b-0ee4301ab975',
-    '9e1baa67-e343-4234-ac3e-bf782a156a62',
+    'c476bf7e-d662-4a10-afe8-344261a3ff84',
+    '375dd90e-c584-4162-8d0a-0c7463338a55',
     'label_y',
     '-26.533676',
     NOW()
@@ -6604,8 +6604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ddff0eb4-6351-479c-9772-0105ebc05ff5',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    '187792c8-d195-4b67-b5ee-a762f79676e3',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'continent',
     'South America',
     NOW()
@@ -6616,8 +6616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f0b033e1-6c58-471a-a23b-008b47b8ab4b',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'd6926a12-9834-4e23-ae3a-b7fec3e779ca',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'region_un',
     'Americas',
     NOW()
@@ -6628,8 +6628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d64beed-4a86-4a79-90b8-3e2b05bbf42c',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    '9e23c85d-6048-4407-9939-052c7f630c1d',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'subregion',
     'South America',
     NOW()
@@ -6640,8 +6640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9bd12b7d-475f-48b6-bcee-b0a11244f588',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'fbeccd20-aac5-405e-9f65-fb0e90e9c596',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -6652,8 +6652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '524fcc85-d371-4bec-a4f5-1b5daea65015',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'dc391e4c-0e2b-4247-8d53-b0d45552f049',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'population',
     '581363',
     NOW()
@@ -6664,8 +6664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f60ac124-1cd2-42ba-bdc4-4f5db3d75614',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'a1db2844-5e80-42b1-b03f-6d5358ebc545',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'gdp_md',
     '3697',
     NOW()
@@ -6676,8 +6676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9763d5a-b03a-40ec-8826-0c0e3ce2e584',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    '55a9369d-fd68-4b86-8a91-301a6320ee79',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'economy',
     '6. Developing region',
     NOW()
@@ -6688,8 +6688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '04485311-413c-48de-ab7f-e699ca64346f',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    '243c9f55-35c0-41a6-84ce-0f51503a6a98',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -6700,8 +6700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53f1e84a-22f7-4999-a50e-8d8a1ddd01a5',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    '4ee72c84-7500-482f-b23a-dabeff77df5f',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'type',
     'Sovereign country',
     NOW()
@@ -6712,8 +6712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e7e71d6e-dcd4-4f0a-8a5d-65a1921d5ca7',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'aa42715a-850b-403b-9b6f-c28642e338e9',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'label_x',
     '-55.91094',
     NOW()
@@ -6724,8 +6724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56114c3d-78d9-4a94-8543-1271057ba4b3',
-    'b5f964e3-e886-406e-b9df-f8c3cd14f871',
+    'f4327274-4a31-4ed9-92de-7f519f05154f',
+    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
     'label_y',
     '4.143987',
     NOW()
@@ -6736,8 +6736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '886d22d7-82c3-46fd-87cb-3f5900cdde3b',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    'a28ec2ee-3733-4d43-8290-16da38e537b8',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'continent',
     'Africa',
     NOW()
@@ -6748,8 +6748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0d615ebb-64f5-4f91-826d-14664cfe3980',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    'd020d2a4-574f-4634-a726-f2b18a66a236',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'region_un',
     'Africa',
     NOW()
@@ -6760,8 +6760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1278d66e-1e94-4eca-ace2-5c27fd637c69',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    'cdb216ae-064a-4993-a366-fbba3dd159c3',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -6772,8 +6772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f39d4835-96c2-44b3-a6c9-fc84d037c933',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '3aa79e94-e1dc-4371-bd3e-58be038a59cd',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -6784,8 +6784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eef84442-22df-4825-a8cb-faa9ca36285d',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '8195e40c-e1a2-4ffa-99bf-4a6439cd2b04',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'population',
     '11062113',
     NOW()
@@ -6796,8 +6796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4258f33c-f46b-402b-bf4e-627234ea05b9',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '50864a8c-9a76-4e51-948e-06890179e8d3',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'gdp_md',
     '11998',
     NOW()
@@ -6808,8 +6808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30236277-c971-47d5-b7bf-8aa143c8843e',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '334b2968-2d7b-416c-b295-9bb4ed7d87b7',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'economy',
     '7. Least developed region',
     NOW()
@@ -6820,8 +6820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5513dad2-0ec3-462e-aa0f-f21eb9ff17cd',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    'be5dfeff-75bf-457f-99be-491a73f8da3c',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'income_group',
     '5. Low income',
     NOW()
@@ -6832,8 +6832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cc6dab1c-1f42-482a-8b1e-16e309892c6e',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '03456ed9-973f-4dbb-923d-a2cbb46ebe81',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'type',
     'Sovereign country',
     NOW()
@@ -6844,8 +6844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5a23f49-917e-40b9-94e3-28243f5eac19',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    '3b053f80-6bc6-41a9-ad28-ac217c7de03c',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'label_x',
     '30.390151',
     NOW()
@@ -6856,8 +6856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d88ce71-d56a-481d-a62c-fcb81480b9cf',
-    '7ba61946-d025-4078-b5de-6db5a6f867b6',
+    'a7242a49-aca0-436d-946a-e99c50295a2b',
+    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
     'label_y',
     '7.230477',
     NOW()
@@ -6868,8 +6868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c95b1d45-452c-4e60-8629-e2359e22b77f',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    'ffaf4227-45f9-4209-b506-df186cb40ec8',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'continent',
     'Africa',
     NOW()
@@ -6880,8 +6880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a378ef6-9dee-44a2-b7e4-4d6e437dc90d',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    'ee753a1d-ccda-4daf-b04c-f65dcfa9ad27',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'region_un',
     'Africa',
     NOW()
@@ -6892,8 +6892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e08af62a-83e7-431c-bc8c-07f3b6949b26',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '040ebaff-306a-4876-aad0-4a6aa48b4bb8',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'subregion',
     'Northern Africa',
     NOW()
@@ -6904,8 +6904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02356c54-6ba4-4ab9-a86c-e7a233b36a31',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '701ff66f-8cda-4437-918b-f9cad9536a90',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -6916,8 +6916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2e208c62-7dbc-40a9-b05f-077369b928e3',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    'facfafb1-7b26-4cd9-a208-9ae9b6f7f3eb',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'population',
     '42813238',
     NOW()
@@ -6928,8 +6928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4e2c44be-36fa-41bd-99cf-2ab61119a728',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '15fa0fd5-ad62-486b-8815-ffe7df1b361c',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'gdp_md',
     '30513',
     NOW()
@@ -6940,8 +6940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '742f0751-848a-4add-9a21-eed6f676a3bd',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '675cf059-b2e1-44ed-8209-4ab14033df1c',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'economy',
     '6. Developing region',
     NOW()
@@ -6952,8 +6952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b556100d-1f8c-4976-a6c7-63da63789bc4',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    'cdcfc081-15bc-40b7-ae46-806045e18422',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -6964,8 +6964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25ae0dc6-d81c-4cb1-85be-07388c677d66',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '37500edb-3c88-4aec-83e6-10ed353c3408',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'type',
     'Sovereign country',
     NOW()
@@ -6976,8 +6976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f91f98cc-8cc3-47e2-a19a-23636ca59eb4',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '8fa01f36-e6f7-4036-82f6-c389453c57d5',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'label_x',
     '29.260657',
     NOW()
@@ -6988,8 +6988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '58c9a777-0acd-4fd7-8407-005fa2e72bbd',
-    '9b4c375e-246f-4bd5-87ea-48621fcc020f',
+    '5af9601d-ce7b-403e-8133-8d1dc1ec7439',
+    '04d89534-cd62-4c4c-9c71-51fb381686e0',
     'label_y',
     '16.330746',
     NOW()
@@ -7000,8 +7000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25e35a39-1895-4b45-8d71-7e34d1dd8c16',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    '523d6f95-fd05-42c0-af13-0742dc251cdf',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'continent',
     'Asia',
     NOW()
@@ -7012,8 +7012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4dbb398-d20b-4924-b57a-e1491b1ddaae',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'ae0b2f75-d3b1-4272-8624-3c96d492b187',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'region_un',
     'Asia',
     NOW()
@@ -7024,8 +7024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '577d2598-4026-4c8d-bef3-9ef9fd139a3a',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'e16e3422-5d23-424f-ab7b-f1daa7b17301',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'subregion',
     'Southern Asia',
     NOW()
@@ -7036,8 +7036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a4943e3-edd9-4136-add7-5d78fd6e21f1',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    '9e5e0693-6171-4c38-aebe-581006fbafc2',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'region_wb',
     'South Asia',
     NOW()
@@ -7048,8 +7048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f1faafb-deda-4589-8479-b075c75be8f5',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    '8c56a320-3c0c-4e0f-a09d-3cd102abb345',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'population',
     '21803000',
     NOW()
@@ -7060,8 +7060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2645345b-a16b-4ba2-bac4-e0b3c81270f4',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'a631b929-a1db-4e3f-8123-76afab0924e0',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'gdp_md',
     '84008',
     NOW()
@@ -7072,8 +7072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f99c889-4958-440f-a748-32d2f4063453',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    '6739f3b3-76d1-4328-97a9-44639441fc67',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'economy',
     '6. Developing region',
     NOW()
@@ -7084,8 +7084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12048128-9098-449c-b7b3-09c77fcd804c',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'ca984e26-f516-4199-b631-754c8bb681ad',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -7096,8 +7096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0552f815-2486-434b-a372-eb4fb55afaf9',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    '4d761457-7cb2-4b22-a3af-092fe2ac835b',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'type',
     'Sovereign country',
     NOW()
@@ -7108,8 +7108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efb761ba-e868-4fdf-8521-0d33fc14abc5',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'a4eeb9e2-fc25-4193-b3d9-38570bbac50b',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'label_x',
     '80.704823',
     NOW()
@@ -7120,8 +7120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '544c376f-e00a-4a03-8e74-8f7db2016d57',
-    'b091a49a-62f8-4f84-addb-4e342a2dc4a4',
+    'a3eb7a79-f539-4ccc-808f-7393abd66947',
+    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
     'label_y',
     '7.581097',
     NOW()
@@ -7132,8 +7132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb56b76b-7860-44ff-848f-1f24c648253e',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '6e6a34ca-896b-4bc6-b377-fd610abe0ce3',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'continent',
     'Europe',
     NOW()
@@ -7144,8 +7144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6991e1a-490d-43e1-9662-9964ee89124f',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '82a95816-c8b1-491c-b507-f3212e04e84c',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'region_un',
     'Europe',
     NOW()
@@ -7156,8 +7156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67189017-afed-4abf-857b-6b5f2a0ca743',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    'd302bb9c-c730-4eb5-96da-33f56cfa566a',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'subregion',
     'Southern Europe',
     NOW()
@@ -7168,8 +7168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5ee989b-3448-4b6b-b739-25f71abc0dc0',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '9894f47a-8b66-4c00-90a1-93f58c9001e0',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -7180,8 +7180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eaa138f8-ce7a-4f78-8516-221dc775df3d',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    'e296ccba-6cb5-44e6-82a5-7d58e93c888b',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'population',
     '47076781',
     NOW()
@@ -7192,8 +7192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5698939a-cea2-4892-922b-9aa0778ae85e',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '2e0b3d3d-32dd-4213-99a6-3c36e6843b46',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'gdp_md',
     '1393490',
     NOW()
@@ -7204,8 +7204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d99ca3a-996b-42e0-a26e-cefa8777b974',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '75cd0188-a048-40f6-8e56-842cc23dd44d',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -7216,8 +7216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3afec184-fbb8-4212-ba59-c2fdc5f8d0ab',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '45245fa8-c512-4ce1-b783-1780ec17b148',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -7228,8 +7228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ddcc0b23-e00d-4929-82f2-6212ea2bedf8',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    'b15a0aa3-916c-44d3-960e-dd72dfc1c4d9',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'type',
     'Sovereign country',
     NOW()
@@ -7240,8 +7240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1002f98-eff3-4875-abed-1953d9495ac9',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    'a945058d-c956-46da-abec-279b5a1ff45c',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'label_x',
     '-3.464718',
     NOW()
@@ -7252,8 +7252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bcb0b6ba-c6a1-4724-9ab6-2fec0314ceae',
-    '3bd9d409-49f4-4398-8f32-5c79f3fae46c',
+    '77a4c0f9-675a-44f6-af1c-c2be0586aac6',
+    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
     'label_y',
     '40.090953',
     NOW()
@@ -7264,8 +7264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0d8d7f30-6f1a-452b-8f07-c459c98454bc',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '8b3562e8-1a33-4155-b8e3-32664acf9349',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'continent',
     'Asia',
     NOW()
@@ -7276,8 +7276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eceeb2db-4f74-4b01-be70-82fecf29ca42',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    'b95617c1-e4e0-4584-a0a0-cb1eb0ab17da',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'region_un',
     'Asia',
     NOW()
@@ -7288,8 +7288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54f365b5-8a8e-4e37-a148-06d8259e033d',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '91b7f228-91e9-43bb-8ef4-2cb40e09e515',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -7300,8 +7300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '149468e2-0de6-4b23-aa88-092e3464e2b6',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '310a245c-4a74-4a4f-8430-2ad57ff07acc',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -7312,8 +7312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1229562d-e179-4706-b187-711ab7d6a157',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '2ecf4cea-2999-4724-98ce-9014ea923ab2',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'population',
     '51709098',
     NOW()
@@ -7324,8 +7324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f56840c-a941-408b-9726-feae1b054803',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '557b3130-8ca0-4d1a-bc5a-6cbf83091d42',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'gdp_md',
     '1646739',
     NOW()
@@ -7336,8 +7336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '40c30a97-6952-4667-8052-2e0b63194901',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    'f4f100b4-d3b7-4e51-a0ed-5df2bfa4ecba',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
@@ -7348,8 +7348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fde1d2df-bab7-4488-ae94-3ea32d310246',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    'ee44e377-3a93-4841-b433-d26a19c668e0',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -7360,8 +7360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd84d136b-4bc6-4354-bbbc-910401130254',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    'a341abda-c70a-4f03-8228-2f933742032b',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'type',
     'Sovereign country',
     NOW()
@@ -7372,8 +7372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91dc8b6b-23e8-4fe3-a391-fcb9621acc50',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    'edf2c05f-54f9-4824-bf66-27517d0b7b62',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'label_x',
     '128.129504',
     NOW()
@@ -7384,8 +7384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45c1c17a-914c-4597-b30a-23f83a1bb20f',
-    'd2c9b39b-3816-4d2f-b652-abbba966945b',
+    '9fde8101-adfc-4c15-ac56-351bc8c84919',
+    '1020cde7-e4a2-4687-9301-248e19867bc7',
     'label_y',
     '36.384924',
     NOW()
@@ -7396,8 +7396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4f018c9-f2e4-4810-b88c-a6f398bf57d5',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '00c5fcfe-3305-4096-8280-e93b7e4b2902',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'continent',
     'Africa',
     NOW()
@@ -7408,8 +7408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9452d42f-5770-4d42-96da-d2a815c4d710',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '246c413e-60cf-4339-804b-d30c519877df',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'region_un',
     'Africa',
     NOW()
@@ -7420,8 +7420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9a57c773-a5c1-4dec-8b39-48afdf1c75ec',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '3d07dbfa-1247-43de-b6fa-a3c3d80cb39d',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'subregion',
     'Southern Africa',
     NOW()
@@ -7432,8 +7432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e0b02d9-5a9a-48ce-a59e-ca010c3377f7',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '2a714077-9fbd-43b4-854f-6525e632b437',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -7444,8 +7444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a604d41f-e34d-47ce-9a7d-d1be15a51d2e',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '2ca32058-c5f1-4c88-b7de-33888985beba',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'population',
     '58558270',
     NOW()
@@ -7456,8 +7456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c236d5b-a14a-4a19-825c-976d3188333e',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '3570a5b0-d6ad-4c73-9876-3be5db1530cf',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'gdp_md',
     '351431',
     NOW()
@@ -7468,8 +7468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '76b6008e-e1dd-42e2-9806-73c6f4ad23fc',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    'dd384803-c857-4a64-bcdf-f46dc913de5b',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -7480,8 +7480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e03d534-2ee7-4cb8-84e4-30fe8a1c6c5c',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    'b8f56212-cc41-46d3-b7fc-cc01f48ea8e0',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -7492,8 +7492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e03a9d6-49ce-42ff-9355-7248e5ea5433',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '89e95bee-5b72-45f1-b39e-f74b965e3947',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'type',
     'Sovereign country',
     NOW()
@@ -7504,8 +7504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '66519e0b-ccd1-488d-ad94-628241b68b45',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '77859fd7-98cc-493a-b3c2-e26465bf2065',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'label_x',
     '23.665734',
     NOW()
@@ -7516,8 +7516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e02c107a-aaac-4d65-b331-277d057df685',
-    '4529cb9e-ae45-4461-ac86-f49cd2189880',
+    '43164178-20c5-431a-a014-97e0c5b36e77',
+    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
     'label_y',
     '-29.708776',
     NOW()
@@ -7528,8 +7528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd731f61a-7eca-46d9-9180-01b518ca99e9',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    '729f79c1-f24e-408e-9778-33fc319f6b7a',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'continent',
     'Africa',
     NOW()
@@ -7540,8 +7540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54330ba4-0f4a-4614-94ea-9f21b46bfbba',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'f83eae47-9b3a-4c23-bf08-c7c89b07660a',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'region_un',
     'Africa',
     NOW()
@@ -7552,8 +7552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36938d19-c85b-4b3d-ae28-78b73d188478',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'e5cd0902-4215-46d6-973a-f0deddf2d1fc',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -7564,8 +7564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86459f9c-e1a0-47d6-9acc-6485179cb7ef',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'a9d4d285-0902-462a-8e09-f57286f90a98',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -7576,8 +7576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '80c3fb52-be1b-4059-975c-56a91a294b10',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    '65aed760-f6e2-4403-911e-0c4aaa3a3ab9',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'population',
     '10192317.3',
     NOW()
@@ -7588,8 +7588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b028dce9-f88b-4230-af09-8930b9db14ef',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'c9acea2b-5dc6-4a4a-9cf0-bb88dde8133d',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'gdp_md',
     '4719',
     NOW()
@@ -7600,8 +7600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f16cb880-942b-4907-a0ec-34e872783b0b',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    '11d674f4-6694-45f2-be2f-378b64edbb38',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'economy',
     '7. Least developed region',
     NOW()
@@ -7612,8 +7612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7fe25e5d-0cb8-433c-80e3-12efc810883a',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'd18fb830-b0d7-4eff-8fe7-485d1a140bb7',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'income_group',
     '5. Low income',
     NOW()
@@ -7624,8 +7624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2eef677e-351e-4290-8ab0-55cecec33fb0',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    '1efa841e-bb4e-4120-934a-0b8c2fac50b1',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'type',
     'Sovereign country',
     NOW()
@@ -7636,8 +7636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a22a260c-e105-4272-8f5c-6fbfc3843fed',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    '8d55c288-5dd9-441e-b031-2cda4e5f8f10',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'label_x',
     '45.19238',
     NOW()
@@ -7648,8 +7648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb3523fc-cb13-4b5a-88a3-3e4aed6d740f',
-    '7fe374c1-ef75-42a6-878b-fd12d1d85b22',
+    'ac5facef-ef00-4692-bc8d-4e9d1bfb8938',
+    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
     'label_y',
     '3.568925',
     NOW()
@@ -7660,8 +7660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '356cd678-ee37-4c86-b634-47df6a6ded39',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    '8c296cf4-a7f7-407b-a4f0-63c85612fda5',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'continent',
     'Africa',
     NOW()
@@ -7672,8 +7672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '82d7d67b-d248-44ca-a63f-6a0e6db0c00f',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'ea3c97d8-135d-4bb0-bf1b-5822e307fab3',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'region_un',
     'Africa',
     NOW()
@@ -7684,8 +7684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd5eb0a19-59e0-45dc-bd16-4703321e01ae',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'c3519f2f-9fbf-43e7-b338-588b51c779f2',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -7696,8 +7696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2bfdc011-5f36-4816-ae23-f9d8c6c0be98',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    '812b392e-c574-4ee0-b9c6-6ae565aca4c2',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -7708,8 +7708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '14a14b54-8963-4718-ba5e-6cad58d57b43',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'e6ab138d-a75e-40c9-8042-72b008d6dc0a',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'population',
     '5096159',
     NOW()
@@ -7720,8 +7720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f993a604-79fa-403d-854a-493124d41f7d',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    '4d10ea88-838c-461e-86dd-26ce487709bb',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'gdp_md',
     '17836',
     NOW()
@@ -7732,8 +7732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9864c389-1278-49da-9724-eb4bec49b679',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    '227050eb-6ff1-45b7-9460-730991786317',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'economy',
     '6. Developing region',
     NOW()
@@ -7744,8 +7744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b8c01489-6882-4c01-bce7-11b84d79a237',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'ad6a48e6-83da-4126-9057-4c80d16c467b',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -7756,8 +7756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93b38f93-a71f-4689-b3d1-d6b0d2492feb',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'd2c79c5d-5bc6-4d0e-b1da-194a8fc348d2',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'type',
     'Sovereign country',
     NOW()
@@ -7768,8 +7768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '234d767d-1fb6-44ac-a665-5bc4463ad04e',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    '9c73fadb-1c80-4c15-a72a-57f0c39b5854',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'label_x',
     '46.731595',
     NOW()
@@ -7780,8 +7780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '607243fa-ad2d-4230-a151-85c3e9c6930f',
-    '2cc07464-6319-440e-851d-b2547019290a',
+    'd3eb88bf-6ef3-4990-898f-fb2a6015e064',
+    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
     'label_y',
     '9.443889',
     NOW()
@@ -7792,8 +7792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ace7a23-378a-4392-8333-473e3a17c9b7',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '9f885a21-f980-4db0-a026-689789b646f4',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'continent',
     'Oceania',
     NOW()
@@ -7804,8 +7804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65309637-db43-4722-966a-4f029faa6e3b',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    'a452bc73-3b7d-4442-b4b7-9ad4eae9d25d',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'region_un',
     'Oceania',
     NOW()
@@ -7816,8 +7816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1adfdade-164c-4802-8cb1-3161a9bfed7d',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    'e4d20c4c-7d82-4e98-8bfb-d85527f63870',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'subregion',
     'Melanesia',
     NOW()
@@ -7828,8 +7828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '39ec5a36-e56e-4ca8-8534-6b5283e6b483',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    'ef65e584-b3a5-44c9-b086-bb3f7a94bfea',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -7840,8 +7840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3ca758ef-6c69-4cb7-ac78-9a9d985591c2',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '94a1f943-f950-411b-ad84-ec7b997bc524',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'population',
     '669823',
     NOW()
@@ -7852,8 +7852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f728464a-504c-4a3e-ab5a-23511d6cc7c6',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '759d4a47-167e-4fef-9b65-33cce99d9338',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'gdp_md',
     '1589',
     NOW()
@@ -7864,8 +7864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5cb6a3db-2835-472d-93e5-6cafa9dbf48a',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '8395916a-2040-4aab-8139-6e56e7e55bd0',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'economy',
     '7. Least developed region',
     NOW()
@@ -7876,8 +7876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88b56fd3-a46d-4d5e-880e-2d2403e5b178',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '988c0fb6-d52e-4689-a9a5-e42ef8448521',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -7888,8 +7888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '335aac0e-a422-4ac6-a930-fb58337f3ba1',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '7a65c162-de58-4073-bf60-8d536bdbc84d',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'type',
     'Sovereign country',
     NOW()
@@ -7900,8 +7900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '759385fb-a225-4429-be0b-194949e8115e',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    '5b302de1-b8bd-455c-b6bc-380edd6949e8',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'label_x',
     '159.170468',
     NOW()
@@ -7912,8 +7912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91bb7cef-1db6-4d83-ab9e-61ef44277447',
-    '488a1871-8b9d-4cd9-9239-a954b126c45b',
+    'be52d4b0-4a72-45f4-a45c-937160a6c6ca',
+    '2011404e-5c3a-475d-b609-64587ed0fc5b',
     'label_y',
     '-8.029548',
     NOW()
@@ -7924,8 +7924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '16551d6f-e413-4563-bc5a-843587a8df16',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '54ed621b-671f-4d06-80d2-dc5c89f2193a',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'continent',
     'Europe',
     NOW()
@@ -7936,8 +7936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a96e7859-8007-4083-99ac-0883056293dd',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    'a5ae0776-1c5a-4462-9c07-125cda11f5b3',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'region_un',
     'Europe',
     NOW()
@@ -7948,8 +7948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '488a6152-9906-47da-90a1-08fb47134d83',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    'af869819-ffea-4712-b488-87d164c1d639',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -7960,8 +7960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '465495c4-9d75-4b12-b724-c29fd87e6b81',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '1df38672-260c-4cfc-aace-105c75e91db9',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -7972,8 +7972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aff58b68-db9e-4f03-90c4-993956f33068',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '8b1c78ca-8090-4ee8-8886-a9422249f343',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'population',
     '5454073',
     NOW()
@@ -7984,8 +7984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2c904486-b69b-496d-b497-1ac2711ebb6b',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '9bfb79ad-f931-4fb6-b010-62a376033436',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'gdp_md',
     '105079',
     NOW()
@@ -7996,8 +7996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4b48d3f8-295d-46b1-a12d-70bf7c6c097d',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    'd22ac374-e127-4359-92a7-3b5f0b911b74',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -8008,8 +8008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6594c2e5-2652-4fe8-ba93-7b2abc31de3b',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    'edf4a89d-459c-4100-86d6-ba25d817f18d',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -8020,8 +8020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c27fcf39-9e6d-4c2d-832b-4375bccf03ef',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    'f213bba4-ce3a-4e44-a451-35f32448c16e',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'type',
     'Sovereign country',
     NOW()
@@ -8032,8 +8032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '414b0b88-3d05-4dde-8ca2-e5a3ec3b4101',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '9e857ae5-eaec-4db3-9786-3c7c6b06db01',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'label_x',
     '19.049868',
     NOW()
@@ -8044,8 +8044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0711d512-9d2f-4a96-8761-2f9100ec27e7',
-    '90ce42f0-4ed2-4dcb-baba-717b423d8ea8',
+    '7830cf5e-b2e8-4d1f-8843-7381def23c19',
+    '63e66dd6-63a3-41fc-a234-f29930e09598',
     'label_y',
     '48.734044',
     NOW()
@@ -8056,8 +8056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd27c293f-1ed0-46df-8cff-2707406ea7d0',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    'e02355e5-8f3b-4d2b-a797-2031d135726b',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'continent',
     'Europe',
     NOW()
@@ -8068,8 +8068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '48ccb626-6137-4af4-865a-871f22e5c2e9',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '31112f81-56dd-452d-8c93-ec06f66e921a',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'region_un',
     'Europe',
     NOW()
@@ -8080,8 +8080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e290fcec-4ff6-4bfc-af9a-9f50aab1b153',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '15b49c6f-eb77-450c-9390-4c35ee7e476c',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'subregion',
     'Southern Europe',
     NOW()
@@ -8092,8 +8092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cba93f43-c5f0-4a30-be8c-a5343906e960',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '87e527c6-6c31-45af-b903-61c5e8ca292e',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -8104,8 +8104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06aec660-b162-4f94-87de-74619ee46963',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    'b74825ff-e3ed-4984-a718-3804b36dcfc7',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'population',
     '2087946',
     NOW()
@@ -8116,8 +8116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2f12af9-510d-4ddb-8beb-919e13459c4b',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    'b87fd88e-c373-4c26-97b7-b336f01764b5',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'gdp_md',
     '54174',
     NOW()
@@ -8128,8 +8128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '920d29aa-1e9b-47c3-8757-298016a49782',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '906a9c6a-151d-4b86-b0a7-1ea02a3a2d30',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -8140,8 +8140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a2989d7-0d5e-4651-8e2d-2a32ce8c7557',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '41d99e74-2b67-4be9-9884-418e17611f05',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -8152,8 +8152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f037caa9-8174-49fa-a395-45364091dfaf',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '88cb969e-ed6e-4880-b712-59e6941763f6',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'type',
     'Sovereign country',
     NOW()
@@ -8164,8 +8164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c836e27d-9ec9-48df-88b6-e6aa10b5f7c8',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    'df737c67-db47-41df-99e9-e1f0a8e6dbac',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'label_x',
     '14.915312',
     NOW()
@@ -8176,8 +8176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd08f733b-0c10-471f-aa07-55322a2b4be2',
-    '6ad2a4e6-aaa2-4869-80d2-b0f807118fad',
+    '92e80b04-79d8-4f70-b93e-f54782ed1430',
+    '2198cb12-430e-430b-8f51-7c4098a0dda0',
     'label_y',
     '46.06076',
     NOW()
@@ -8188,8 +8188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b8b3d1d-bdae-40b1-8d3c-2ceb8fc7b91c',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    '1796791a-b2e1-4c75-91ba-b7f6c23fa40d',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'continent',
     'Asia',
     NOW()
@@ -8200,8 +8200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd289416e-a162-4e03-8904-1f3a87955394',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    '90a3ab2d-dc99-41b2-9ebe-8e61fcb0fd9d',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'region_un',
     'Asia',
     NOW()
@@ -8212,8 +8212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '14e5560f-05ae-4cc7-8237-271400650968',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'b4d0c581-989f-45d7-a99c-8655f7bfcce4',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -8224,8 +8224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '14f169db-a675-48b8-ada4-733b4c8af681',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'afcf052a-2900-4d5e-a6b9-39963d7baeba',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -8236,8 +8236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b8bb77f8-f7c3-4073-a03d-e9202daa0327',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'eb8caf4b-781f-44f8-81ba-a22d3c14ddc0',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'population',
     '5703569',
     NOW()
@@ -8248,8 +8248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8af233a-7040-45ea-8f16-1987a421af06',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    '06c8bfdb-12f7-40a3-bef8-93991680ebd8',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'gdp_md',
     '372062',
     NOW()
@@ -8260,8 +8260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c9ca674-a8ed-493b-8b5e-21313ec0c499',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'de82b61b-06cc-4128-bba1-7c5cdfde57c7',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'economy',
     '6. Developing region',
     NOW()
@@ -8272,8 +8272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1c38ec9-f7e2-43bd-94d0-48d8131fcedc',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'cecb8c26-be35-4b1d-abcd-69794886b063',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -8284,8 +8284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9339fb04-2050-4018-9c8e-348ae4eb4cdf',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    '6c0f1388-1467-4615-b666-af0e8d407f59',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'type',
     'Sovereign country',
     NOW()
@@ -8296,8 +8296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1f1ac11-80d4-4377-8fb7-7a7e94dcda70',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    'ef683a01-8303-46c1-ae1f-a11b9943337c',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'label_x',
     '103.816925',
     NOW()
@@ -8308,8 +8308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3ce9a17b-bbe6-44b9-b2b0-99a608d5b62a',
-    '1ce5ac2f-3e35-405c-9047-20f9c66b3635',
+    '61a97bfc-6a1d-4ce2-9175-14527d5c2987',
+    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
     'label_y',
     '1.366587',
     NOW()
@@ -8320,8 +8320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da3089da-548c-4f38-8ace-24d90cdaefb7',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '5da15475-dfef-47c0-a518-14e78ee7f0fc',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'continent',
     'Africa',
     NOW()
@@ -8332,8 +8332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a4c634a-aaf5-4a69-8506-2de068289985',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '4e0301a6-da69-44e5-8589-dcdd9e86366a',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'region_un',
     'Africa',
     NOW()
@@ -8344,8 +8344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d94a1fb-8df7-4ddd-bc17-78f0446abacd',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '98cc2a15-b9dd-4dd4-9493-41f3990b3e46',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'subregion',
     'Western Africa',
     NOW()
@@ -8356,8 +8356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f12009a2-3cfa-49c2-bdfe-adbbe810a97c',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '0b40f624-ee0c-4e45-89e9-03ec1a3d1535',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -8368,8 +8368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae39ab9e-273e-49ab-9602-8904f0052f1c',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    'f71fe91f-df59-4bde-ad10-a2c816f17a3c',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'population',
     '7813215',
     NOW()
@@ -8380,8 +8380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ea7609e7-b1ab-4a22-b15a-9e876b4da9a1',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '2e8d0549-fb4f-49e1-a140-883a6dc5c53d',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'gdp_md',
     '4121',
     NOW()
@@ -8392,8 +8392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ea265866-f4db-410f-88c3-2ca183b69e51',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '47a68472-adc9-494b-a368-0b1de066c86a',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'economy',
     '7. Least developed region',
     NOW()
@@ -8404,8 +8404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '489b9e76-d14b-4e33-beae-d7c9e3fb5075',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '39c4df15-55d3-42e7-ae1b-be81a4d5be78',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'income_group',
     '5. Low income',
     NOW()
@@ -8416,8 +8416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd7f5433d-f038-4d0d-a827-bd8ba2fb67b6',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '7e4beedb-3f77-454e-882b-f6c5afc5dcd2',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'type',
     'Sovereign country',
     NOW()
@@ -8428,8 +8428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a543f407-5c4a-49d4-b07a-62c45cd22641',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '10938574-560f-4602-b688-7a558b5689c8',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'label_x',
     '-11.763677',
     NOW()
@@ -8440,8 +8440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5100004-de94-4760-ae60-ee9afaf3fadf',
-    '42cd2883-cb22-41c7-a53f-3f856d544a0f',
+    '2f13bb1e-2577-41a1-96eb-c38f947a4ce8',
+    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
     'label_y',
     '8.617449',
     NOW()
@@ -8452,8 +8452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7507e2b7-c8c5-4595-9cb9-b5c4b0eca2a3',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    'dfb41a5e-1d77-442e-a14c-62f8f4438135',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -8464,8 +8464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27ec9940-4674-4b8f-a4d8-b2a661aac7c7',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '5959adb1-9f90-48ae-b673-a341a7c13f20',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'region_un',
     'Africa',
     NOW()
@@ -8476,8 +8476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4314869-b533-42ed-a633-b547719e5aa9',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    'a3c249a1-83ca-4138-a854-7dfeb805dcdf',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -8488,8 +8488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5b40556-f98d-41e2-b96d-f7abd8c83c12',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '99e27ae9-51ea-44b1-ae45-a0b886ef89f8',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -8500,8 +8500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eb881136-b238-4f66-923b-c64ed53b3218',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '34244ae4-954f-4a18-b8bf-63e9bd985429',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'population',
     '97625',
     NOW()
@@ -8512,8 +8512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '80c44a7d-6d51-4833-98a5-fd15c537968c',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    'baa87453-4f4b-42a8-8abc-29af9fff10d3',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'gdp_md',
     '1703',
     NOW()
@@ -8524,8 +8524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25af5e9f-9b9d-4487-8cb3-5538c78610bc',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '9ba3cff5-0fb7-4635-a90b-28e9f3cf884c',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'economy',
     '6. Developing region',
     NOW()
@@ -8536,8 +8536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11e81b10-b08a-4175-b16f-9c6cb971ff31',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    'a2ece015-bc67-46b8-8b39-12743df93901',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -8548,8 +8548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a168eb7b-ec83-44c3-a5a0-3e12894df168',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '3b37bdbd-8e9f-4fd2-9442-3a959ac4f0e1',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'type',
     'Sovereign country',
     NOW()
@@ -8560,8 +8560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f88b3f06-fa3f-4d01-a09f-1cb4aba6601b',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    'f4c7123b-7553-4e6f-a7e8-f79ee267746a',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'label_x',
     '55.480175',
     NOW()
@@ -8572,8 +8572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3f7eda5-8086-4a72-9482-60c800c883d3',
-    '6bef8218-fef5-4902-9eea-05e30c03a7f8',
+    '4affc8d0-0f4e-4be7-b217-ff78bf7de926',
+    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
     'label_y',
     '-4.676659',
     NOW()
@@ -8584,8 +8584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ad2127b6-2a37-41ef-b8ad-826a1f42c0f4',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '34f30b17-140b-4540-bc29-74a55152a116',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'continent',
     'Europe',
     NOW()
@@ -8596,8 +8596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a443c20c-d8a5-4275-b2bd-c0416926aeba',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '0ac4c6c9-b844-4f59-ac00-9e6688a023f1',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'region_un',
     'Europe',
     NOW()
@@ -8608,8 +8608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '63fa3af9-7dd8-4e60-a27c-cfd14e8034ee',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    'd9c64b5c-8555-4e3f-930e-0083329cbd80',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'subregion',
     'Southern Europe',
     NOW()
@@ -8620,8 +8620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '76e0d7f0-4a9f-4746-9069-05d679b17297',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '752220a2-dc9a-4915-91c1-7241a9d41b0b',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -8632,8 +8632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '03a4b4bc-5763-42a0-9bd8-d80b51adf5e9',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    'd01c3024-ce3f-4bee-9833-5b0bd6c75eab',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'population',
     '6944975',
     NOW()
@@ -8644,8 +8644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6184fd9d-f140-46d5-8140-983f86bc2b9f',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '193b7bce-c542-4cc6-91f6-b9b715296a55',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'gdp_md',
     '51475',
     NOW()
@@ -8656,8 +8656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f28bb5b-320e-403d-a6d0-4623e67036e2',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '02efdc58-65e5-47fe-ad30-daf4bfac9ed4',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'economy',
     '6. Developing region',
     NOW()
@@ -8668,8 +8668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4b3fb2be-5df9-4504-bd3d-b3a2694dc00b',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '3af9ae0b-99f1-4cf5-87c1-7d8c9ff39339',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -8680,8 +8680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db4f8536-930e-44ec-9667-26398059f1c7',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '6c4533e2-1018-4e3c-8aad-fe792aced58c',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'type',
     'Sovereign country',
     NOW()
@@ -8692,8 +8692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '121ef46e-73a8-40bb-bce8-7a700d3fae2a',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '9a43ab56-8b51-4e99-b12d-f95ed3ab9759',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'label_x',
     '20.787989',
     NOW()
@@ -8704,8 +8704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ccf296c-2461-4b09-91f5-5adc0c465e1e',
-    '751237cd-fd83-4ec7-ac00-5a281fbebb5c',
+    '52fda93e-343a-4afa-b4f9-d6f2315a73bc',
+    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
     'label_y',
     '44.189919',
     NOW()
@@ -8716,8 +8716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5578a14e-f19a-4903-bc9c-cc167b05b362',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '2d558878-9148-46b6-b7b9-fc63d3490863',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'continent',
     'Africa',
     NOW()
@@ -8728,8 +8728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3276d11d-c9af-40f5-a5a6-96cbec6cc4d4',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '5e3737a5-7fba-44fd-8dd6-7bb8f46e2cf5',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'region_un',
     'Africa',
     NOW()
@@ -8740,8 +8740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67d9180d-c3e6-488d-8108-56f010736e27',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    'caf760bf-6e4f-4367-b903-726d1aa952ec',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'subregion',
     'Western Africa',
     NOW()
@@ -8752,8 +8752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3c4e5b81-31d2-42fa-998c-ef1a4cbf0fbc',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    'f7cd2bc8-2785-47ec-99ed-c59136c7186d',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -8764,8 +8764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0aedce09-a923-4c40-b7c5-9fb49ecc6c15',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    'ada81119-0ca2-44aa-8148-b303edbd8ee4',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'population',
     '16296364',
     NOW()
@@ -8776,8 +8776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8c36a61-e564-494f-bd55-6d2d4590cfea',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '0018aed4-e5e7-4932-835d-b0a4ce724458',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'gdp_md',
     '23578',
     NOW()
@@ -8788,8 +8788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e8b07f3f-910d-4846-a01f-3ab1108b2dc9',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '18060ee2-6db4-427e-a363-0637ccc984ae',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'economy',
     '7. Least developed region',
     NOW()
@@ -8800,8 +8800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c78b6327-2c1c-4005-a6bd-5428d327141d',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '05673fb5-796b-4a68-b65e-0c7e307df38a',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -8812,8 +8812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f0b028c-6b57-4f66-b8ff-f6c51f3de78d',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '311ee107-c86f-480e-97fd-edad47627377',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'type',
     'Sovereign country',
     NOW()
@@ -8824,8 +8824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b290f96e-cf10-4bda-8ac0-1f16123f09e4',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '4473d8bb-b53f-4d03-9894-1378ede50a54',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'label_x',
     '-14.778586',
     NOW()
@@ -8836,8 +8836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '38644f74-853a-4dcc-82c3-34662d9ad035',
-    '9fa7dfbf-fc63-4643-9c7f-acaea5c3cb99',
+    '5ce90ee0-4b73-4f21-9dac-f53a8665c6e0',
+    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
     'label_y',
     '15.138125',
     NOW()
@@ -8848,8 +8848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9001c80-f07b-415c-965d-83c04cfa6a91',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    'fc706efb-9b16-454e-b792-f59e33861282',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'continent',
     'Asia',
     NOW()
@@ -8860,8 +8860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e0f8f171-11de-40ad-9be6-dfc46c00078f',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '5e9de9d5-5425-4fb5-90ed-6cdee162bb71',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'region_un',
     'Asia',
     NOW()
@@ -8872,8 +8872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98e71739-c8f4-47c4-b851-291e3ccf062f',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '4dc1a2af-dedb-41fe-bc73-485dc7b3e587',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'subregion',
     'Western Asia',
     NOW()
@@ -8884,8 +8884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c807e8cd-cf52-4a19-a379-53aa404c266a',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    'fa765f13-6610-4a73-828a-9562e42df3dc',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -8896,8 +8896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a73667b-4ccb-4c24-bd6f-48f20a8c1dc9',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '28067c7b-ccf7-45c7-b205-114700dd2874',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'population',
     '34268528',
     NOW()
@@ -8908,8 +8908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85853945-ce36-4ba0-831a-adc52e931392',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '7242b37c-8961-4e95-90f9-7f43c7f1c50f',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'gdp_md',
     '792966',
     NOW()
@@ -8920,8 +8920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3dee74cd-d8eb-44ca-bbe1-9e17d5130aee',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    'c6e96785-5d53-4f9f-aed9-076da2198296',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -8932,8 +8932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '31102e13-e608-4799-88a8-0af42f6a0587',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    'ee4cef00-170f-48a2-8cc7-ed00f0e9c167',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -8944,8 +8944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9575af76-399d-4f72-a751-b7a73e1f0868',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '77c6eeda-799d-4a6c-b6f0-25f4e57b27ee',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'type',
     'Sovereign country',
     NOW()
@@ -8956,8 +8956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68fef08b-06e1-49e8-989f-60ec85767ca6',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '5c5a9aa1-03f1-48f3-816a-590449c1c90c',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'label_x',
     '44.6996',
     NOW()
@@ -8968,8 +8968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fa7abd9f-86b8-4929-be03-4daf83543e5c',
-    '90622152-d71f-4043-80e1-674a82a13066',
+    '33596e24-bfce-415c-9443-5a76eb82745d',
+    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
     'label_y',
     '23.806908',
     NOW()
@@ -8980,8 +8980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '58fc0c2f-5c94-4688-8408-1b4256653881',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '5f29b454-a906-411d-ae44-565a9ce9eafd',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'continent',
     'Africa',
     NOW()
@@ -8992,8 +8992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '757e3b5a-9ca2-4c07-b715-454089470308',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '288f28d2-a313-4b64-921c-36130158c85c',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'region_un',
     'Africa',
     NOW()
@@ -9004,8 +9004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e89e92b-d00e-4517-8945-12177b6d0c6b',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '102d012a-3a95-4a31-9465-1e4a1cd0a63b',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'subregion',
     'Middle Africa',
     NOW()
@@ -9016,8 +9016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db3f8a32-33d9-4fa1-b5fd-34efc6e84995',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '8cb65d3a-fa2c-46be-8a41-6a0bfed77e0d',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -9028,8 +9028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c90814a-e25e-49b8-8241-817ba224eda9',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    'ebe641a3-4dca-4dd7-a78f-d87476eba56d',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'population',
     '215056',
     NOW()
@@ -9040,8 +9040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '982539d2-a8a0-416f-b797-691c8d187694',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    'a6f39a81-15d2-49a2-abb3-f19cf09acf68',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'gdp_md',
     '418',
     NOW()
@@ -9052,8 +9052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ee3b8ca-0c72-4081-bb7e-aec8ac6c0594',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '3eb94535-6be8-4b78-8411-01d3e6ab4aa5',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'economy',
     '7. Least developed region',
     NOW()
@@ -9064,8 +9064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2fe5529-36ad-42d9-8f4e-5d0645f7e724',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    'd990740b-1799-48ef-b36c-188235f16578',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -9076,8 +9076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3188ec9b-c2e5-4705-b3f7-986bf908199c',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    'a36e7f49-47aa-4f4f-a662-31d63967eaf7',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'type',
     'Sovereign country',
     NOW()
@@ -9088,8 +9088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e5459ef-c954-440c-881d-bcdd77a8941d',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '7870d90e-fbf5-4f43-97bd-07b568cb7bef',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'label_x',
     '7.021',
     NOW()
@@ -9100,8 +9100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '783d969f-04d5-41dc-8232-85dd16f19af3',
-    'dc981a38-6db3-4ca6-b0df-5cfee98ea8e4',
+    '69a530d1-745f-4b34-8f39-351c3fff3ec7',
+    '042af8ab-814a-4f08-b645-b954161cb337',
     'label_y',
     '0.9709',
     NOW()
@@ -9112,8 +9112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d899aae-15bf-411c-bb01-20bbc7aad69e',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    'c80ea137-5fd0-4a6c-b132-2992af70e586',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'continent',
     'Europe',
     NOW()
@@ -9124,8 +9124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5fb1286-a12d-4adb-8beb-a0795cd71ce1',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '27f2f024-3d4b-4e63-9dc9-a5f5abd27e21',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'region_un',
     'Europe',
     NOW()
@@ -9136,8 +9136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bcd0da02-a880-4415-ae84-3ad646858dde',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    'eefb1530-22b4-44f4-945d-b00d66423ba9',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'subregion',
     'Southern Europe',
     NOW()
@@ -9148,8 +9148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b1fda301-4910-41f2-bd68-70a1491fa0b3',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    'd82cb704-3d75-4a32-87d8-a58902d07108',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -9160,8 +9160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e34158b-01c0-4a82-a5bc-bbddcc427cf7',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '6dc07d82-f328-43d8-bd22-6bf4a92e3158',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'population',
     '33860',
     NOW()
@@ -9172,8 +9172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af252f44-8466-401f-960f-b21cb7c71dfe',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '9a32332f-1fce-4548-b34b-63b51ba92e48',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'gdp_md',
     '1655',
     NOW()
@@ -9184,8 +9184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e5c7a69b-75a9-4db6-8a3c-5f4e4adf068b',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '75f2d2aa-33cd-4662-a636-e4cec699069f',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -9196,8 +9196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7cb94f4f-cc82-45b7-b10d-8fc9ee0b7ddd',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '05802bf8-29a0-4191-bd8e-30bff9d0a83a',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -9208,8 +9208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c23426cc-8062-4076-a057-66b374b8f9a5',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '3388173d-8de2-471c-b2d7-86a07bf60376',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'type',
     'Sovereign country',
     NOW()
@@ -9220,8 +9220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c64923a-bf5d-48fe-b598-240f19e76349',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    'aa03ac81-bbf6-469d-975d-15f683ca3de9',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'label_x',
     '12.441206',
     NOW()
@@ -9232,8 +9232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9a3dbdc0-dad5-4053-bef1-999ba0bbbbe1',
-    '0f327053-d3d3-4c3b-8d35-4ab1a068b538',
+    '9216c501-88b1-47bf-8592-5178e504f312',
+    '190e7da0-b719-48e2-92ee-73df703139d9',
     'label_y',
     '43.933916',
     NOW()
@@ -9244,8 +9244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '302cccfd-ee76-47a9-9fe5-9d411bba8c94',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '813dc06b-a9ed-4e7c-b825-bed738480716',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'continent',
     'Oceania',
     NOW()
@@ -9256,8 +9256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e73e349f-f40a-4b01-babf-218b736c0d64',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '7aa5cdf1-0f5d-4ebb-bcb0-e8950034ce6a',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'region_un',
     'Oceania',
     NOW()
@@ -9268,8 +9268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f70da1a6-2108-4c8d-9f6e-84c5fa8a8096',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    'd13c3686-9d61-412e-b777-e345a36365e3',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'subregion',
     'Polynesia',
     NOW()
@@ -9280,8 +9280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '019d4f48-fec9-4889-a65a-4638f27c8c8e',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    'b3088008-828e-4b33-9d52-ba3a8364f915',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -9292,8 +9292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '55090554-6ebd-4f13-9cbb-e5e0772cfae6',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '9f740824-4869-480a-81cb-600176253605',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'population',
     '197097',
     NOW()
@@ -9304,8 +9304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '164676e3-236d-4ec4-b67e-7c5f4294ccb8',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    'bbc69b16-9e04-474e-becb-99b92eb15c6f',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'gdp_md',
     '852',
     NOW()
@@ -9316,8 +9316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '121d6928-f03f-4c8e-a58c-851c009f9fc2',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '7477dbe8-e61e-421a-aeeb-078723f7de35',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'economy',
     '7. Least developed region',
     NOW()
@@ -9328,8 +9328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db954118-5bff-49f2-8688-943b6b0cad33',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    'ba21f63a-82ea-4f60-9c1d-dd190c6645cb',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -9340,8 +9340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc89a499-c3f2-4fd9-afc3-bcd7c529cac6',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '4d898a9d-3a96-4124-9374-101e05fa5183',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'type',
     'Sovereign country',
     NOW()
@@ -9352,8 +9352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6ef8650c-7a73-48ae-a006-ded64dafb801',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '4603ad3f-67ac-4fb7-8a23-87d8aac70a8b',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'label_x',
     '-172.438241',
     NOW()
@@ -9364,8 +9364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da56bea9-5722-4481-b91e-b6ba473feadf',
-    '9fb4bde7-24dd-4f96-b343-106b0088fe60',
+    '5d8b1b9f-e851-411d-8f31-4cc9d7c37381',
+    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
     'label_y',
     '-13.639139',
     NOW()
@@ -9376,8 +9376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d590642-0839-4699-b93b-f66658954a74',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '481793b8-28e6-4bce-8a9f-3ef4c2c544ab',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'continent',
     'North America',
     NOW()
@@ -9388,8 +9388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8bdbfdc-4fb1-483d-a401-18c72f329013',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '767661ef-4de9-486f-b34a-c46c29844c49',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'region_un',
     'Americas',
     NOW()
@@ -9400,8 +9400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c6950cb-10a5-4741-9abe-36973985d228',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '9dd29548-5397-4ff9-8797-b9b9caac8ac0',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'subregion',
     'Caribbean',
     NOW()
@@ -9412,8 +9412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dbd6711f-b088-4944-a386-1e4f8b232c73',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '2d645670-82b2-4d61-bbb4-d0d5cfe12e66',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -9424,8 +9424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62b31245-7971-402e-93b1-d7495075cc38',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    'c51c87c9-b188-468e-9026-71bdf34a27b9',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'population',
     '110589',
     NOW()
@@ -9436,8 +9436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'baa38f54-dcd1-4493-8a7f-f076bc017456',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    'cc9aea6d-c171-421c-af5e-731413ca0ba2',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'gdp_md',
     '824',
     NOW()
@@ -9448,8 +9448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a3da806-bb69-461f-a57c-2f42a282989b',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '12da0c5a-1aa7-48ed-b0a5-945a167b71b5',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'economy',
     '6. Developing region',
     NOW()
@@ -9460,8 +9460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c127fad8-ebf2-435b-bdd6-34e5201bec9f',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '33509527-7468-4bc5-b46b-e4581c7012b3',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -9472,8 +9472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9f4e089-6d19-4cc6-a8da-737e1e6bf3e6',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '10afaee3-c25f-4511-892b-98126ce2ca39',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'type',
     'Sovereign country',
     NOW()
@@ -9484,8 +9484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4acba40d-d27a-4122-a99b-4bca81f60284',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    'acdd347d-42b8-464b-be72-69e9d05b67df',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'label_x',
     '-61.3359',
     NOW()
@@ -9496,8 +9496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '169d3807-8ac4-4319-91af-bd2e85ce59fe',
-    'a341a96a-5e94-456e-8350-318dda71ac0e',
+    '6920efc9-bb83-458d-a977-7189554f9bd9',
+    '487a82eb-4a09-4cec-831f-1292d16ba32c',
     'label_y',
     '13.0879',
     NOW()
@@ -9508,8 +9508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8a4a0a7c-9168-415a-b57b-bfaf3ee23d90',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    'd414c430-08d9-4ca9-87a9-c92effe923c5',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'continent',
     'North America',
     NOW()
@@ -9520,8 +9520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2cc3424a-a6da-46ae-9bd3-cf8c66e02d4f',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '7b61e341-419a-4a6b-869f-97971c1e43fc',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'region_un',
     'Americas',
     NOW()
@@ -9532,8 +9532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '83eb5f36-3301-45fe-9107-bad69c73e4f4',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '694b86bd-bf21-4448-8567-5961ad509cd8',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'subregion',
     'Caribbean',
     NOW()
@@ -9544,8 +9544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3f7a7ac7-d991-4db5-87bd-75498429e552',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '6cf566d6-2063-493c-b567-3e3bdabb2f09',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -9556,8 +9556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '876e613e-0770-4a40-b8f5-3b0cc7a6397f',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '6f25d769-0733-4dab-b40f-7ec32f67a928',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'population',
     '182790',
     NOW()
@@ -9568,8 +9568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '258621c5-b226-49e6-9e85-a23e6ed68481',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '7db3719d-5390-4093-a064-9266f62a1f1d',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'gdp_md',
     '2122',
     NOW()
@@ -9580,8 +9580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68fe5ee3-a9ec-4600-a12a-bcb4efd6b3ff',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '74b48b97-9430-4424-8205-a698720d6e45',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'economy',
     '6. Developing region',
     NOW()
@@ -9592,8 +9592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b84b5ecb-1f07-48b9-b6f8-ee21e023d80d',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '8e2732b0-9ba5-4ce4-bb3a-6cb6a4f1985e',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -9604,8 +9604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '80bd1ba8-f276-486f-bad8-f615a1279d19',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '9190f721-c102-4727-bf82-9091f9db502f',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'type',
     'Sovereign country',
     NOW()
@@ -9616,8 +9616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '77ff7e25-30a5-4221-b8ed-a959ae2e675b',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    'f6b5196c-3dab-4036-b1c3-87432a6345b2',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'label_x',
     '-60.980094',
     NOW()
@@ -9628,8 +9628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1263b72d-9050-4618-a449-1be3b5f36095',
-    '48ad0fe3-b1be-4daf-971c-47f2523a1615',
+    '2a7c2d9f-752e-4ce3-868a-5a27ccc8065e',
+    'b622d129-e5aa-49e3-be15-bb822875dcd3',
     'label_y',
     '13.892371',
     NOW()
@@ -9640,8 +9640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc405fe9-da1f-4bd2-96ba-38eb106ffc0f',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '5eafcf94-0212-4c99-a7a3-1ea47f999e1a',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'continent',
     'North America',
     NOW()
@@ -9652,8 +9652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9849783e-d258-4e64-8adf-36c344428661',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    'e73a8df3-d355-4b9b-9057-509f1839caef',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'region_un',
     'Americas',
     NOW()
@@ -9664,8 +9664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '18235189-c243-452a-906f-20c0339e518b',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '79718548-b802-4eba-a629-2b07f132cc38',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'subregion',
     'Caribbean',
     NOW()
@@ -9676,8 +9676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc02c0e4-a485-4310-a32d-8ed79515eb67',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '9c8dedf2-3b98-4e9e-be5e-ec5193a3b658',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -9688,8 +9688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78309afd-e613-4e3e-96cd-0dbc692d4c1b',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    'f6527a6c-ec44-46af-a644-7e7cba576540',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'population',
     '52834',
     NOW()
@@ -9700,8 +9700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2071a72e-202b-48a6-abeb-1f179e68d8db',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '8538c88e-66f1-480e-aa48-ce0399357aeb',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'gdp_md',
     '1053',
     NOW()
@@ -9712,8 +9712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '400a5e4f-0bb6-44b6-9f9d-dc8ed3f2dacc',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '10378918-824f-4e28-832e-12590aaf07e2',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'economy',
     '6. Developing region',
     NOW()
@@ -9724,8 +9724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f41f22ec-d6bf-4cc3-831d-12a229437821',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    'e93144f0-06b0-47aa-83bf-e057b10c9f1e',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -9736,8 +9736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c373462-7c07-4721-836e-ffa8d023a222',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '3668b906-fbd2-4ad5-a4f6-53fcbf3fb53a',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'type',
     'Sovereign country',
     NOW()
@@ -9748,8 +9748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '132e3845-86b9-4589-8a18-05812f180ac0',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '45cf40f1-3114-469c-8a50-b40773b68e8d',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'label_x',
     '-62.757975',
     NOW()
@@ -9760,8 +9760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06e80bfb-1195-47fd-b2e5-3ab1b0d8394e',
-    '54d21390-7391-410e-946a-f01f1cb14f70',
+    '508890e5-ac8f-4889-b922-661f281211a3',
+    '11d656e0-72dd-4e15-b698-e69a9209a96b',
     'label_y',
     '17.336558',
     NOW()
@@ -9772,8 +9772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a70e664e-0ffc-43d6-9866-fcf07199841f',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '6754ad20-be39-4eba-b138-95c04ff4c006',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'continent',
     'Africa',
     NOW()
@@ -9784,8 +9784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'afaf9723-10cd-4767-b095-914067c1ac31',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '866f3c0a-1a1c-4e43-bf21-979ff40ad6f9',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'region_un',
     'Africa',
     NOW()
@@ -9796,8 +9796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e515c3da-e68b-4c80-bdd5-9c7c295e504f',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '73562b97-4856-4224-bd1b-3ffbabaf5165',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -9808,8 +9808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4a8172a-9f68-4f25-bac9-661ad984e545',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '4d765a43-19b5-4a14-816d-b7357f1e2c16',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -9820,8 +9820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '00fc88f8-73d1-4557-b24c-00572ea9cd28',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '4691069e-f400-4ad0-aa67-8ececd07afef',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'population',
     '12626950',
     NOW()
@@ -9832,8 +9832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '808f5381-b878-43ac-9fcc-043c95ebfb0e',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '67c47ebc-5d20-4c0c-b405-d9f5eb380ce5',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'gdp_md',
     '10354',
     NOW()
@@ -9844,8 +9844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8be7ee0e-a2cd-4ba0-90af-66500e04726f',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '170edf0f-7920-4edf-9cbe-b51e4641bd67',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'economy',
     '7. Least developed region',
     NOW()
@@ -9856,8 +9856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '192ac409-66ce-40a0-9f47-b646370bbf2e',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    'ea2b0de9-7e47-4406-aca9-151828746ae3',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'income_group',
     '5. Low income',
     NOW()
@@ -9868,8 +9868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2563b291-9bd4-4a94-8207-8f946af2e11d',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '49aa45e6-5645-44ec-86f7-ffeeb56be876',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'type',
     'Sovereign country',
     NOW()
@@ -9880,8 +9880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '193b5e12-7a7e-40ad-be55-70f104a59e0e',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    'ea51c827-4554-4373-aa9f-286d1bc17822',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'label_x',
     '30.103894',
     NOW()
@@ -9892,8 +9892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96f90360-fb16-4f9a-9527-42262b19136e',
-    'f8f90652-0447-4192-9742-404651a02e6f',
+    '9ec80a2c-99c9-4aac-97fc-4f48398a0ebb',
+    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
     'label_y',
     '-1.897196',
     NOW()
@@ -9904,8 +9904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78f83563-0044-4afa-961c-3be0fccb4c8a',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '94477542-4ef0-46d0-b034-46b0f1b5d1e3',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'continent',
     'Europe',
     NOW()
@@ -9916,8 +9916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44cd8338-c540-4427-875b-d1248663ee54',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '0b08b4e4-6cca-47b7-b9c3-0bc2a1a699ce',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'region_un',
     'Europe',
     NOW()
@@ -9928,8 +9928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a570610d-1910-4574-a568-e480c38165a5',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '2383af0d-f340-4af8-93e9-4bc05c0ec5f3',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -9940,8 +9940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b9f1c9e4-258c-499c-b8ae-2ff28fcfa0b4',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '8e5c0dcb-6692-4de5-aacf-4825248308f9',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -9952,8 +9952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '03d82ee7-8b87-4774-9e92-57e271d81eb6',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '64379f97-2d20-4394-8f02-8a88a9610f6d',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'population',
     '144373535',
     NOW()
@@ -9964,8 +9964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f4e3d3d-4b0e-4294-8f78-63e2e6612a41',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '09b2640e-e01e-4906-b9f9-ee69e95cab89',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'gdp_md',
     '1699876',
     NOW()
@@ -9976,8 +9976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '025ee7e5-b19c-4f47-8847-4025e6740d5b',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '019b36d5-0782-4d81-8b00-e921d4c2cb8b',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
@@ -9988,8 +9988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '698affd7-d0aa-49c2-b63a-a1bd9e7c2bf8',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    'fa048b7a-f352-4962-a12e-b71a46628631',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -10000,8 +10000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e7b33c7a-5690-49fb-bece-c957ec892efc',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '986d601d-9760-43f8-98c0-94b20773bbab',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'type',
     'Sovereign country',
     NOW()
@@ -10012,8 +10012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '41f99c7f-63b4-4a15-bb28-cb8f83a64297',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '2ae1d71c-c1bc-4d8b-bf79-9951ecc348e7',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'label_x',
     '44.686469',
     NOW()
@@ -10024,8 +10024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70103d50-371f-4aaa-b2d3-49126707096d',
-    '771b6f3e-d238-461e-b9e5-2480282f3af7',
+    '411a6ffe-da0f-4b62-9405-63981e2015b3',
+    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
     'label_y',
     '58.249357',
     NOW()
@@ -10036,8 +10036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e0cef39a-d074-4aed-914f-f61883900100',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '51338adb-0756-47cc-a49a-c7e5081d655c',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'continent',
     'Europe',
     NOW()
@@ -10048,8 +10048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5dd21be1-4132-4ed9-8120-321c42941ea7',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    'e339ae24-61c0-4cd5-aa1e-835a01b83766',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'region_un',
     'Europe',
     NOW()
@@ -10060,8 +10060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba39f553-08e8-44e6-8adc-0c22e908d967',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    'd5d6ed14-5c08-4161-8ec0-bcd58fae4d4a',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -10072,8 +10072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51def971-762b-4e5b-8d99-6e8e5ed1469e',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    'b5d345e4-5a46-4399-9641-89ad70773f0d',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -10084,8 +10084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dfe93d80-eae4-4d8e-99d1-90da8d9a4a85',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '73a781d9-027e-480d-b18c-487049bcdecf',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'population',
     '19356544',
     NOW()
@@ -10096,8 +10096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '34e33762-6914-4d19-ad65-142eb46d8a90',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '8f4fab23-3e2c-4097-ab1b-5e8e4402e932',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'gdp_md',
     '250077',
     NOW()
@@ -10108,8 +10108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5eded63a-35e6-4f9f-b55f-887426561a72',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '5dfe5be4-8953-43d2-9209-934b4ec4d130',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -10120,8 +10120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f0d7d8e-b517-4f58-922f-b02529d5e95c',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '21c6a8a4-a16c-4dcb-83be-5af46919157d',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -10132,8 +10132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e9f213b-5f39-462e-b9c7-b523dee897ff',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '8e6cf09e-cb47-4ab3-a763-77a2db0012fc',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'type',
     'Sovereign country',
     NOW()
@@ -10144,8 +10144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd38decf-554b-4da4-baea-87dae17ea6ec',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '03a7733e-1983-42a1-b0e2-8e383e214bc9',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'label_x',
     '24.972624',
     NOW()
@@ -10156,8 +10156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '74c2caf2-f3c4-4c9d-b918-d9f0b27a79d3',
-    'a6c0423e-6cf2-48a3-81de-0a9a2f97f92f',
+    '22d28929-5ca3-4b7d-a845-745ac75a595e',
+    '7f00858d-218d-499d-b916-e9a2b1faac3c',
     'label_y',
     '45.733237',
     NOW()
@@ -10168,8 +10168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da7d3aae-2750-4907-b33f-f84c662afe36',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    'ba49b154-b454-44b7-a527-0b43f31dda87',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'continent',
     'Asia',
     NOW()
@@ -10180,8 +10180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4de66924-d0bd-46ce-b4a6-c00a29c834ca',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '2c5302c4-c805-410c-8dfa-4ddd05ea792f',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'region_un',
     'Asia',
     NOW()
@@ -10192,8 +10192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c45d3a64-39d0-4f21-a508-95d447164bbe',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '16c11a96-6769-41aa-9cf3-8571931dba0d',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'subregion',
     'Western Asia',
     NOW()
@@ -10204,8 +10204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d3ad179-1603-4c15-a2cc-f5ca83861d27',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    'd567697b-ad2e-401a-9009-5714eb39d3ba',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -10216,8 +10216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a2ca6fd-9b00-49a9-a0e5-c355dfedd476',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    'cfb9fdb7-486b-4ba0-b64e-d0d961b4bc58',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'population',
     '2832067',
     NOW()
@@ -10228,8 +10228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd70ca8e7-880d-4548-a1ae-85a4c7dd8631',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '7fd8059b-f2ee-4b54-a0a4-5f182aca6ed5',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'gdp_md',
     '175837',
     NOW()
@@ -10240,8 +10240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f1ec533-d146-4a96-b7f8-bddec1040399',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    'acc1f379-1bea-4dff-9271-bffb14ab480f',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'economy',
     '6. Developing region',
     NOW()
@@ -10252,8 +10252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a674b118-9a7e-4870-b862-5aa26026c6a0',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '210d5568-0e07-453b-914f-99261dd9b9fa',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -10264,8 +10264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a05837c8-dff9-4c64-9a5a-10db5ce77c6e',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '504945e4-9042-48e5-931d-8801a24e58bd',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'type',
     'Sovereign country',
     NOW()
@@ -10276,8 +10276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1bd2016-1c55-490a-83ab-13a60a72d667',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '40b76ed0-0530-4a90-a471-0d8a56261d90',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'label_x',
     '51.143509',
     NOW()
@@ -10288,8 +10288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b52cf7c5-2059-4fc8-a6d0-4ad1f5edbc02',
-    '6794bc50-0901-4228-b0fb-00118f125ef8',
+    '63ccfef2-25b2-425f-8c99-28db6ace6307',
+    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
     'label_y',
     '25.237383',
     NOW()
@@ -10300,8 +10300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99dff83e-cbe9-4add-9358-3bafda4bf045',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    '2fc4adab-a5ec-45fa-a0e9-8b94ca0289d5',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'continent',
     'Europe',
     NOW()
@@ -10312,8 +10312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c76e5b26-b2ec-4a5d-ba29-06c534920ed5',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'bbc647ce-5a11-4f96-962a-e596fd4b1342',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'region_un',
     'Europe',
     NOW()
@@ -10324,8 +10324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '28d5fe40-b254-4402-baa2-e15ce6836235',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    '6ad80a1e-821c-47fc-960b-2edcb0c46c3f',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'subregion',
     'Southern Europe',
     NOW()
@@ -10336,8 +10336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20977123-9205-44ee-ace7-55ce81c55cdc',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    '4298664f-3356-443c-8cb8-f6d298ccac52',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -10348,8 +10348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44baefe8-d7ef-4119-9d6a-1bd9f3631ab0',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    '71c3c9b8-2183-4271-a7b7-0f1556a1d16c',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'population',
     '10269417',
     NOW()
@@ -10360,8 +10360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a1e4917f-a5ba-463f-9ff7-c9bd59bf07d5',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'cdc64ec2-cbc2-4213-bbec-254f561ba146',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'gdp_md',
     '238785',
     NOW()
@@ -10372,8 +10372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2be3490b-8f56-475f-a3e7-4f4f7f09d77d',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'd13112ed-2605-4585-9e38-4e1e77f83e9c',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -10384,8 +10384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d52d2d9-9109-4130-a821-3d234fac4340',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'ae4f0be7-c415-4433-a611-50203a32e254',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -10396,8 +10396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6dc278b3-7c0a-459c-97ba-62aa77d7eaf1',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'cdef89f9-0e81-46a0-801b-f080fc09467b',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'type',
     'Sovereign country',
     NOW()
@@ -10408,8 +10408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68460ccd-b6e8-4167-af2a-99ca9ebb3fc6',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'c1e57a0b-7e21-4748-892b-7f6809c89ac1',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'label_x',
     '-8.271754',
     NOW()
@@ -10420,8 +10420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5bca0cb-77c1-4492-bb4c-ad390b952258',
-    'd907cf64-a68a-46f2-9a29-db0341e9e02e',
+    'ae2a1da4-db44-43f6-954e-81eeda8882bb',
+    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
     'label_y',
     '39.606675',
     NOW()
@@ -10432,8 +10432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6c79c0b2-10d1-45d0-967d-f86a17f89180',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    'f2637999-f845-4f54-9e2b-f12f655f286f',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'continent',
     'Europe',
     NOW()
@@ -10444,8 +10444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d98f20e-a82f-453f-a7ab-4db2ad9364cf',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '5bbaf9e7-bb48-486c-bf4e-98d27184001f',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'region_un',
     'Europe',
     NOW()
@@ -10456,8 +10456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99cb4ae9-f8fb-48ea-9da9-93f96d46027a',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    'fa2df17f-ac8a-4645-8710-6cc7c719cfe4',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -10468,8 +10468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '103f2819-a247-4618-a1ff-ac91e2ee0935',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '8fbd75b7-5379-429b-870d-4b80b27323b6',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -10480,8 +10480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4db6a48c-aed7-4a40-a247-caae4aca28b4',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    'c844d5d2-09b1-47e1-a06f-55aa27b3e89a',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'population',
     '37970874',
     NOW()
@@ -10492,8 +10492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37b09ee1-1a3b-45ca-bed5-27d7a29a6551',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '1a353ea6-142a-4e06-b3c1-0b99f35038dc',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'gdp_md',
     '595858',
     NOW()
@@ -10504,8 +10504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87eb25a7-a1f9-4294-9433-4a8975e97bad',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    'e06dbeee-90be-4738-a316-2bada2d52721',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -10516,8 +10516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0c02494-ff91-45a0-891f-d79756450f99',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '96401441-71cd-4ff9-9f1f-db86b0305857',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -10528,8 +10528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4de45a11-6573-40ce-a446-9a1de52f9277',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '3dfb0698-7506-4aa1-884f-a9f1c965b2d2',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'type',
     'Sovereign country',
     NOW()
@@ -10540,8 +10540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2a99278-d1fc-40e3-a498-920fc45ad9dc',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    'dd913281-7da4-4aff-9912-315305ccf36a',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'label_x',
     '19.490468',
     NOW()
@@ -10552,8 +10552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cbeaee79-d00e-4e75-84d0-b9a0bb0b15e4',
-    'ba87ea5f-0001-47ed-ac05-67a88570d365',
+    '04dd65eb-577b-4c56-83a3-58da65ff34f4',
+    '6fa329cd-33cd-4ab3-8911-870480ac0580',
     'label_y',
     '51.990316',
     NOW()
@@ -10564,8 +10564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3b369d8-cd55-47bd-b907-e59f78130b27',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '74d4ae47-6d4f-49ce-a7df-fef83086935f',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'continent',
     'Asia',
     NOW()
@@ -10576,8 +10576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '39d5a3c5-46a5-464c-851d-797c608634c6',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '675d4613-d070-424a-981b-5b331557d60d',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'region_un',
     'Asia',
     NOW()
@@ -10588,8 +10588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c6cf742-5a58-4060-ba9e-c12d9d30c846',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    'e459c871-e8ff-4fcb-9bef-7ed6f7cdb78e',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -10600,8 +10600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b40276cb-fb6c-444f-99a4-5d70aeead107',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    'efbe3fe3-fce5-4b2e-bd4e-c699b583fcd1',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -10612,8 +10612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3c526690-4147-4b32-8a15-da4b20df991b',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '30cbfb24-9b2a-4bca-bdcc-f832ad25fcf3',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'population',
     '108116615',
     NOW()
@@ -10624,8 +10624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b22e1ac3-f62c-4e6a-825f-a8729a52e88d',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '3b9e5336-424d-40cc-b629-879a383cca75',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'gdp_md',
     '376795',
     NOW()
@@ -10636,8 +10636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b22ba321-6dd4-455b-9481-209b8634ff5f',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '331d4406-9cd7-4f21-ad33-c65ee737b546',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -10648,8 +10648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c0dc226-1936-4916-8d25-8003e7ee74c1',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '367b2a91-835c-44f8-8e4a-83cca7ab54c8',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -10660,8 +10660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce208ab1-6a5f-4722-8582-92238569db38',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '4c5d821e-a491-4f90-bb84-a85bd47f67f8',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'type',
     'Sovereign country',
     NOW()
@@ -10672,8 +10672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37de975a-ca2e-48d2-b675-8d36de314d8d',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    '0ff70e74-5e69-49a1-a0de-012c8beb3521',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'label_x',
     '122.465',
     NOW()
@@ -10684,8 +10684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '166502b2-157a-410c-be44-3c00cdb42ba9',
-    'f58bfbdf-d648-4f73-91c1-e6b5f2855734',
+    'e48d64aa-e51f-4fdf-bf90-23347629e9df',
+    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
     'label_y',
     '11.198',
     NOW()
@@ -10696,8 +10696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c997cea3-d8fc-4795-8ebe-a605d43e73fb',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'bc2c5056-3225-48f0-9bc6-8c06f2658192',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'continent',
     'South America',
     NOW()
@@ -10708,8 +10708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2171c2b6-57d3-4fcf-b824-cdf26e7391a1',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    '61dd7f08-4269-4c47-9a06-e343e6aa4d3c',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'region_un',
     'Americas',
     NOW()
@@ -10720,8 +10720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e729017-71a5-45eb-be49-9964d29dbb77',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'b6f48a18-bb4e-4929-beac-8fa213632299',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'subregion',
     'South America',
     NOW()
@@ -10732,8 +10732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51dab369-0c9d-4503-9078-14d15e32e0fd',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'eb8bf666-a92b-4602-847b-9395bfc90570',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -10744,8 +10744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94e6c692-d982-404a-9fee-2a6b2f756c91',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'c3f1bd83-9808-4320-acbc-144484de934b',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'population',
     '32510453',
     NOW()
@@ -10756,8 +10756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '43ea44d5-c2ec-4bd8-9c3f-b3bb9561f76e',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    '711ee7bb-2901-46a6-a487-026768870d2b',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'gdp_md',
     '226848',
     NOW()
@@ -10768,8 +10768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b1045a78-3f28-47c5-8f86-ca7782617bb8',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'b244da5f-2f61-4d73-90f6-9bf6bcc8c589',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -10780,8 +10780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '630bd92a-4feb-453c-ba58-826019804011',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    '6f3c51e8-eba2-4eb2-8ac4-f30d308aaf24',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -10792,8 +10792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '192b8fe8-4c77-4069-b68c-7fd2b87caddd',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    '090c300c-8a41-431b-bb61-1cada6b3e518',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'type',
     'Sovereign country',
     NOW()
@@ -10804,8 +10804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4279c800-04d1-4d96-b946-b23eb9e75b23',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    '06836a0f-7393-49ea-afe3-d864bf015616',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'label_x',
     '-72.90016',
     NOW()
@@ -10816,8 +10816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd01d1239-8872-4cdf-98fd-b236c612b37a',
-    'b80e1cc8-55d5-486d-a998-f900b0c0ba23',
+    'cdf70a80-2d1e-4b34-8e38-4b53a09963fb',
+    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
     'label_y',
     '-12.976679',
     NOW()
@@ -10828,8 +10828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c02c58e3-053e-45cc-8c70-9b330d913f1d',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    '17cfc74f-606c-4def-9171-e72c76cef044',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'continent',
     'South America',
     NOW()
@@ -10840,8 +10840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed270813-28e2-4368-b6b9-7870583d1574',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'd500e0a6-7c54-49e4-b42f-151a7e1ec4dd',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'region_un',
     'Americas',
     NOW()
@@ -10852,8 +10852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8791b1c6-8c3a-432e-9d83-91173389fda8',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'edbea6cb-e5e1-4a85-842f-1d31dfd68be9',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'subregion',
     'South America',
     NOW()
@@ -10864,8 +10864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf46aa6f-f6aa-4ac2-8f8f-1bd4abc82801',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    '99d59cb3-c693-4823-a3ba-fc323105cace',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -10876,8 +10876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '97844f44-04ae-4706-98d8-aeccbeea933e',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    '2f647b8c-77a7-4a5f-aa4b-9ce59094f089',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'population',
     '7044636',
     NOW()
@@ -10888,8 +10888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '18a80ff6-3290-4517-91b5-e849a9604b9e',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'bd39e5ec-b12b-4be5-b76a-e168d4fcceb1',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'gdp_md',
     '38145',
     NOW()
@@ -10900,8 +10900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70d704be-b593-401b-b512-75ac698cf421',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'd41c654d-55fd-4fe7-bef7-a5c4b7cdc8d5',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -10912,8 +10912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ecba1c0c-3555-4e9c-967a-df3fc32cfa69',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'b9cc6769-c8e1-4e1e-9f4a-70b5eb799b06',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -10924,8 +10924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4efa06b-5f5a-4508-b14e-f8db44a587a5',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    '5406b83b-8e4e-4416-af08-f764c6b21fea',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'type',
     'Sovereign country',
     NOW()
@@ -10936,8 +10936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '79f3daaa-8b16-4fe6-b1cf-14e3eef44149',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    'd444263a-46b0-473c-8cd9-f1e11decdb5e',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'label_x',
     '-60.146394',
     NOW()
@@ -10948,8 +10948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '372270ba-7dd3-4407-b1a2-a9363bcc62cd',
-    '74feb176-f41e-43a0-9b5e-86cb9cf68b58',
+    '48fcc38d-5331-4c85-bc5b-5242ed3789e1',
+    '612e31b7-73b3-4cdb-88ce-acefef003baa',
     'label_y',
     '-21.674509',
     NOW()
@@ -10960,8 +10960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e75a7a05-4c0c-486d-a05b-84df998bd914',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'd7284558-9bd9-47bc-bb01-692d5dba72ee',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'continent',
     'Oceania',
     NOW()
@@ -10972,8 +10972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd61f8459-b2ba-47ed-9c35-dd493dfabcff',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    '54ae6cb1-5e22-4d86-b920-2705b832313f',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'region_un',
     'Oceania',
     NOW()
@@ -10984,8 +10984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15cf230f-c4e4-4ae1-8016-8a7dce4a1539',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'a78f08dc-31a7-49cc-843b-1adddd649d64',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'subregion',
     'Melanesia',
     NOW()
@@ -10996,8 +10996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54c6a0cf-e3c6-4ff3-b1c9-6d802abffe20',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'a4082c70-26fc-4867-af17-b17604044d07',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -11008,8 +11008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e11a7d3a-995b-4fc6-b8e6-f10812039853',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'f62eb6ba-683a-4235-82e4-7f5d74d17493',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'population',
     '8776109',
     NOW()
@@ -11020,8 +11020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff06b3f7-b40c-4610-be07-f67d82fb40c7',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'bc203478-983b-4ff8-be31-22e224d3a9b8',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'gdp_md',
     '24829',
     NOW()
@@ -11032,8 +11032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '09de8688-f7d0-429e-ae80-222b32567756',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    '981e3de8-bdeb-4c38-a6b4-ebb5075db1d1',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'economy',
     '6. Developing region',
     NOW()
@@ -11044,8 +11044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b9767eec-89e1-47aa-ae38-a771eaebc734',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    '57b5aa71-0ead-47b0-9495-9e7376024232',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -11056,8 +11056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5a13b372-aa31-4926-88f0-873181966940',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    '9ba05b98-7825-48b5-bc60-e27faadbfe72',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'type',
     'Sovereign country',
     NOW()
@@ -11068,8 +11068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '77200095-5209-4ae2-99d6-fe030fc3f197',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    'e7fa34e5-e4ff-44f8-8356-7fc5cd3aaffd',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'label_x',
     '143.910216',
     NOW()
@@ -11080,8 +11080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12d4e117-b503-49ee-b5af-f4fb35218fb3',
-    '5fb30fed-eb35-4163-bdd7-2bda82db512a',
+    '4745fb40-eef0-4d33-8614-e28df2552d1e',
+    'd18f0871-6193-495c-96d3-b0b399ba5608',
     'label_y',
     '-5.695285',
     NOW()
@@ -11092,8 +11092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91eaef18-1835-43d3-88ae-0ddcabfb9cb0',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '335e12dc-ca93-4c27-97a9-4ae3abc379fe',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'continent',
     'North America',
     NOW()
@@ -11104,8 +11104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd0c976d6-09c3-47e9-b933-e3e79eb3d3ed',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    'feb3ccab-b00a-4bd0-ab71-69aab1383782',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'region_un',
     'Americas',
     NOW()
@@ -11116,8 +11116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb376bf3-f48f-4c34-8cde-d2df9fed2f35',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '9a8f20e5-9edc-4884-87c8-5bf2c7c0e507',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'subregion',
     'Central America',
     NOW()
@@ -11128,8 +11128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'faf383ae-c48c-4002-8471-6733f521a635',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '524e16de-0a92-4faf-ab79-463f53337fdd',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -11140,8 +11140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8a8f74cb-1387-4869-8479-bc6dd1d7cfd0',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '74ed6ec4-dab5-4665-a90e-a0fbb993e736',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'population',
     '4246439',
     NOW()
@@ -11152,8 +11152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4810b65c-36f7-4547-b208-ef7454c444d5',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '1c5cf9b6-d549-4cfc-9ab0-e3f6d20b66bd',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'gdp_md',
     '66800',
     NOW()
@@ -11164,8 +11164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd5759a54-cfca-4401-af38-d292f4b0e87e',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '1190597f-03cf-4a0e-9eb5-9fc9021d656c',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'economy',
     '6. Developing region',
     NOW()
@@ -11176,8 +11176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '672898c2-f32a-4965-b573-1ba89dc483ba',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '229e8bbd-b854-48c0-9fe7-7bde947d9783',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -11188,8 +11188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c783956c-d329-432c-8fd4-1d1772471de3',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '293b9d65-bd46-4c02-8d5f-5b4514e44239',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'type',
     'Sovereign country',
     NOW()
@@ -11200,8 +11200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed71cd7d-ecf2-4635-b4c5-ded3a6b892cf',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    '7dda25c3-7514-4c60-b7c7-19e806740343',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'label_x',
     '-80.352106',
     NOW()
@@ -11212,8 +11212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'caa17e9b-aab1-4056-b343-7bf29a14f95d',
-    '192f59e2-89ee-47cf-8659-e254d55f4123',
+    'e2f515c2-51ff-462c-a46e-5d62c6ee129f',
+    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
     'label_y',
     '8.72198',
     NOW()
@@ -11224,8 +11224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af42f3fb-eaee-4a20-b40b-db0e4007036e',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'c4c532f5-1ae7-48cd-873f-d90c1755d9ed',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'continent',
     'Oceania',
     NOW()
@@ -11236,8 +11236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f6ca0fb-0644-401f-95ae-888268d7fb12',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'e4657959-965e-4eef-a125-90a4caa9f388',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'region_un',
     'Oceania',
     NOW()
@@ -11248,8 +11248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd47c258d-1515-41e3-b941-1495ebe78e5e',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    '554483cd-081a-4075-ba2a-1d60b7df842f',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'subregion',
     'Micronesia',
     NOW()
@@ -11260,8 +11260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6a07401-5ac5-49e6-a496-e398d06054cd',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'fbaf4928-73da-4e9e-98f4-d7692e38432a',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -11272,8 +11272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ee3cc01f-fae3-44ea-ad1e-c6fca716c712',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    '23dba921-212f-4376-8d78-912a920dfe65',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'population',
     '18008',
     NOW()
@@ -11284,8 +11284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a0223ce5-d1f9-4230-86d2-5524c16962d0',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    '30d90e60-64ef-4cb6-abe8-cdc543588d63',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'gdp_md',
     '268',
     NOW()
@@ -11296,8 +11296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'df102f3c-f486-41da-b045-726c767621f2',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'e039baec-9fef-4d0f-870c-f522d4946cee',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'economy',
     '6. Developing region',
     NOW()
@@ -11308,8 +11308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '89794235-ebd4-4f46-ae1f-8394a720fbd0',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'f2084898-6c10-442d-ba04-cf629204530f',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -11320,8 +11320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '984f2dc4-b102-4d3b-bf9b-bf025db4e344',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    '8c6ca879-7316-4330-a75b-242c73c4e67b',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'type',
     'Sovereign country',
     NOW()
@@ -11332,8 +11332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '49a62a7a-5228-4e2a-bed8-b609db97edf2',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    '34227b47-eb3d-4856-a107-be4c2179f479',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'label_x',
     '134.580157',
     NOW()
@@ -11344,8 +11344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8b94153-1586-46ff-a6ef-ed550149ad12',
-    'debda4ff-5041-4d2e-8170-2f825495811d',
+    'f5e1f272-d2c1-4d03-9d4f-fa0e06d21896',
+    '062adf3f-11d5-41b2-b706-c8606dd2b086',
     'label_y',
     '7.518252',
     NOW()
@@ -11356,8 +11356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4e8e1a0f-230e-4dfe-a95c-c6e91a690686',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '1e55ffe3-1a1a-41b2-a1f8-74627418595e',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'continent',
     'Asia',
     NOW()
@@ -11368,8 +11368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '760f782b-f532-4a57-b817-5be80c94452d',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '018c28d9-6d97-4124-b298-3916c110a370',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'region_un',
     'Asia',
     NOW()
@@ -11380,8 +11380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec8e85f8-8c3f-474e-a4e2-759326320b0c',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '02dc6a91-cff2-4595-9f0a-04261936cabe',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'subregion',
     'Southern Asia',
     NOW()
@@ -11392,8 +11392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b309864b-8773-496f-ac02-cfbce62c0207',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '17a5e163-1f00-4603-b70f-a850537df41d',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'region_wb',
     'South Asia',
     NOW()
@@ -11404,8 +11404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed8435f9-a048-469a-81ec-f9a95cca35e6',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    'a04c1d4f-1b1c-4737-9cb8-9ded4e3f1a0c',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'population',
     '216565318',
     NOW()
@@ -11416,8 +11416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '268cd144-11da-45dc-8cd2-8b4a45355e6f',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '1d5e357a-82b7-4b9f-9da5-f471babf50f9',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'gdp_md',
     '278221',
     NOW()
@@ -11428,8 +11428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ecf29bb-930d-456d-849b-87aa7d378b5f',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '88731fd1-5c2e-42e9-b549-5ee9df9a1406',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -11440,8 +11440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0868ed5e-061f-48ed-a91e-a8edac22e0bb',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '5cf4e42b-558d-4918-b9dc-0865ca8f2053',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -11452,8 +11452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed57c222-b04c-4829-ba6e-7f2aa02b0c4e',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    'fc5ccd5f-7a37-439d-a871-a8b167863390',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'type',
     'Sovereign country',
     NOW()
@@ -11464,8 +11464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2006d16b-da5c-4de8-96e5-ca42905c1db1',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    '3d2df163-3fa9-4f1d-bfa6-88578de2500f',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'label_x',
     '68.545632',
     NOW()
@@ -11476,8 +11476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e97923c0-65c1-4e5c-9389-afeb92f573fd',
-    'a600c2a6-5e5f-481c-b43e-7b4c1ab834c6',
+    'c2cd72c1-a601-4be7-9c03-84a48d5365c7',
+    '168a3ea3-3e69-4edc-b710-36355c012b62',
     'label_y',
     '29.328389',
     NOW()
@@ -11488,8 +11488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2aeddba0-d00f-41cb-9565-30b1d9555035',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '17e97601-519d-42b4-aad8-88a0181e4326',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'continent',
     'Asia',
     NOW()
@@ -11500,8 +11500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '891f2f1a-2951-4075-b959-b2128752b5a0',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '3426be19-9bce-4d70-b814-549e31405818',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'region_un',
     'Asia',
     NOW()
@@ -11512,8 +11512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd469dd5b-2758-48a6-b9e8-faf4155651d9',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '10a60b5c-56e9-410a-b762-6f1549931bf1',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'subregion',
     'Western Asia',
     NOW()
@@ -11524,8 +11524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'abff47a4-6734-4fe0-ab4c-174f8eccfb3e',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    'c7dc53c1-7fec-4215-b8d9-90f227a736e0',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -11536,8 +11536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec09b252-5ae7-4034-b37a-112ce1404063',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '43130eaf-4f47-4dc5-85f3-1ddb7da650cc',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'population',
     '4974986',
     NOW()
@@ -11548,8 +11548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bdd6dcd2-0511-4f1d-803d-f341a198199c',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '34992f65-86bd-4c9c-89d4-923d39dcdb65',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'gdp_md',
     '76331',
     NOW()
@@ -11560,8 +11560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd9df036-33fc-4930-bcc8-f821fdbd1f2e',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    'd28d4144-eeab-4167-9971-e3d7dbd8d3be',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'economy',
     '6. Developing region',
     NOW()
@@ -11572,8 +11572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '29e17daa-a44d-4dc4-8f09-fa14d9d9ae67',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '4fa66254-6979-4a25-9e5b-cb394b170983',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -11584,8 +11584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e6ff5cd-7b16-4b04-af9f-6cb4fcd08260',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    'c722bd3a-4ecf-4b17-b88f-02821a8ba2bf',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'type',
     'Sovereign country',
     NOW()
@@ -11596,8 +11596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85513e8a-63f5-4eb8-afbf-a4a994dd836f',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '7addc240-d0e1-49d0-8599-f370117c85ce',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'label_x',
     '57.336553',
     NOW()
@@ -11608,8 +11608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37c9fa58-3160-40e9-93fc-2df03797900b',
-    'bf211602-0410-46c4-a6e9-73da48625e03',
+    '9466c582-d9ec-4ced-ac5d-8444981cfe92',
+    '12d756f2-55d1-47b5-a498-9796023e7bac',
     'label_y',
     '22.120427',
     NOW()
@@ -11620,8 +11620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e783c94e-0c4a-409e-ae89-7b9bd3d464f5',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '431cedcc-902e-46ca-95c0-98a299d9da44',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'continent',
     'Europe',
     NOW()
@@ -11632,8 +11632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a425d59-1f87-4564-9d79-26608d5287c5',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    'b32daeb0-75e9-44ee-add6-da120279e4b1',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'region_un',
     'Europe',
     NOW()
@@ -11644,8 +11644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '38b058f5-9331-4732-bdd4-acd6de3e7257',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    'f5c95dc2-bda2-4d3c-a646-fb1739742898',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'subregion',
     'Northern Europe',
     NOW()
@@ -11656,8 +11656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '775b4cb5-dfbb-49d1-acff-62bbb8c0ad17',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '08d45177-3716-4fc7-ad07-a11d6d07b81a',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -11668,8 +11668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '35c91706-3541-49d4-bda4-62e2f07b4d9b',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '317b6827-e4da-4ffe-be8e-184f24e4e5f5',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'population',
     '5347896',
     NOW()
@@ -11680,8 +11680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e8e63471-8a86-4b50-b876-6d20319cd9cd',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    'f7ee593b-39ef-4510-939d-4be56085d73b',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'gdp_md',
     '403336',
     NOW()
@@ -11692,8 +11692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1ba2a61-9e6c-479e-8d15-4c985a436459',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '8cddecab-765f-4453-a460-afdf47327a4e',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -11704,8 +11704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0fd56338-90d7-4c67-84fb-a1ac0f7e5a05',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    'd36935b8-125b-40e7-9f4b-6877b3533466',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -11716,8 +11716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91368365-e500-417e-b647-053eda5dc623',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '2b1d08b0-7489-4d51-bde1-208cf32c3c63',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'type',
     'Sovereign country',
     NOW()
@@ -11728,8 +11728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '26ea0456-ffe0-4ad7-a433-0efd2d4453ee',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    '8c4a33cb-90bb-4224-bb35-f100f2b876b2',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'label_x',
     '9.679975',
     NOW()
@@ -11740,8 +11740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '661c557d-0632-4c36-afa0-bbe9734a56ad',
-    'e72bb836-cb4b-46e6-b2a1-c57fc511e0b4',
+    'd3fffcb1-ddd4-47e8-b79b-6e833cc927b7',
+    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
     'label_y',
     '61.357092',
     NOW()
@@ -11752,8 +11752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9a0c5fb5-635c-4811-abec-ed98c6a0b240',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    'f14fbdd0-ddfa-494e-a21d-7dd1b2eaf13d',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'continent',
     'Asia',
     NOW()
@@ -11764,8 +11764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7d78697-f741-490f-967c-212cb500c38b',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '09174956-2154-4353-9b10-b7a0bfe758b8',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'region_un',
     'Asia',
     NOW()
@@ -11776,8 +11776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1f423a1-ccbf-49a8-95ef-527a65a5c6bf',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '635aeccc-6d4e-4003-9992-e7a3c3ac771a',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -11788,8 +11788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2141ad0a-57e9-47e9-ad76-851eb3c46c16',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '34cf2ca5-0c7c-4a63-b297-1111669aa0c8',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -11800,8 +11800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a84b69b3-9bce-4254-ab16-34fa14e7ac5c',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    'd6c39427-3b54-4cf4-95fc-7028d7b1ce0e',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'population',
     '25666161',
     NOW()
@@ -11812,8 +11812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '63ec2628-7e9d-4317-8d49-568cd0a4ab55',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    'ec3fc271-089b-4c05-bacd-cc4520b3bb21',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'gdp_md',
     '40000',
     NOW()
@@ -11824,8 +11824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9923b88-c1ec-42d0-ba5f-092f08f95e34',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '170f1af5-78ac-4f39-a4ef-9260cdf94117',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'economy',
     '7. Least developed region',
     NOW()
@@ -11836,8 +11836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c600fd7e-21a7-4ea1-a5c9-dc05c030f7b9',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '5ba29775-64b6-4e2e-9328-6acfe3196ef0',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'income_group',
     '5. Low income',
     NOW()
@@ -11848,8 +11848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '00ea0dba-a86a-45e9-b930-66f74079c44d',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    'a94c10aa-a0ab-42f8-88c5-e922674359c4',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'type',
     'Sovereign country',
     NOW()
@@ -11860,8 +11860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'df96ddb3-4687-4300-b9cd-31382870d91d',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '0cfc0193-8a16-46c2-98e7-492c302aa66e',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'label_x',
     '126.444516',
     NOW()
@@ -11872,8 +11872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c5124b50-1abc-40f0-bd41-b3290d2ab44d',
-    '7119459b-f7a5-45c9-a506-83b20027fd09',
+    '1eb716bf-5cc0-4b90-8753-5fc7539cad5f',
+    'd96844ea-296f-4f03-b064-5d3681c81e16',
     'label_y',
     '39.885252',
     NOW()
@@ -11884,8 +11884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd0d923cc-17c1-4799-881c-ec2716e62002',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '6a80ab83-7ef5-4335-aa91-99f6dabfec33',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'continent',
     'Africa',
     NOW()
@@ -11896,8 +11896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '572e70ab-f0b6-4b50-ac65-376f597c3001',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '45ba4777-4b5d-4648-85f3-41e0a6e38440',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'region_un',
     'Africa',
     NOW()
@@ -11908,8 +11908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd535a647-ff55-43ef-a936-3f28d1dc7621',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '3fa27bd4-2a64-43d6-b9c5-f522fc51b928',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'subregion',
     'Western Africa',
     NOW()
@@ -11920,8 +11920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca4003f1-0e57-4f10-a7c9-b9de963efcb0',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '13680727-2ec0-49d2-b23a-89023dd07971',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -11932,8 +11932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd48a91e-564a-40d0-96fe-297179d97c32',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '1fc5ca52-4433-4f4a-aa20-0e06e21321e5',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'population',
     '200963599',
     NOW()
@@ -11944,8 +11944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f40109d4-273a-458d-9dfc-7609d25054cb',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '0be4a9bd-d904-4781-b871-fc5c8cb19f95',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'gdp_md',
     '448120',
     NOW()
@@ -11956,8 +11956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1347551-515c-4493-8d23-f8da2a2c7cb6',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '9e09ecdf-781a-410a-b507-3074589b8732',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -11968,8 +11968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68d3c6be-b5f7-4b2e-a5f0-14ff19aaa0e8',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    'f5d49552-b1b0-4cbc-b77b-2a4cb0ef483d',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -11980,8 +11980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3a7f025-2621-4932-9b3c-e497a53f4a57',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '3957cef0-3a1f-47e5-9422-2cff046c6115',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'type',
     'Sovereign country',
     NOW()
@@ -11992,8 +11992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f382a00f-7c88-4b73-bc7b-3964d0e835c1',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '72b787c0-b206-4ebb-973e-36313e1a1994',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'label_x',
     '7.50322',
     NOW()
@@ -12004,8 +12004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f0b4ac63-b277-459b-a1d1-63c5241c43f0',
-    '35c4d118-cb37-4253-a6ae-d96ee3605d82',
+    '77695f8e-76b0-47c0-b9e1-1afb6c4b566e',
+    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
     'label_y',
     '9.439799',
     NOW()
@@ -12016,8 +12016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb281d8e-a184-458e-9d67-af0886cc37b4',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'bc0978f4-1fb2-4e30-8700-c1edc993995d',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'continent',
     'Africa',
     NOW()
@@ -12028,8 +12028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6260c22-8e12-4c17-9706-d1ddd8248919',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'f14179ab-031b-4319-8d5a-27a2907873d7',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'region_un',
     'Africa',
     NOW()
@@ -12040,8 +12040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0089c1b-8716-4179-92f6-4da5523b990b',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'ced365e0-53b7-44d0-93bf-06b0051482aa',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'subregion',
     'Western Africa',
     NOW()
@@ -12052,8 +12052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a1e4ab0-29a9-44bd-af44-338908734ef1',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    '2d8a6d78-0aad-4fbd-bc0b-e02d2c73b866',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -12064,8 +12064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01a11a96-8657-41e3-bb7c-77db4a5e06ed',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'f7c9bef4-4246-4d48-a6aa-86ebe247104a',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'population',
     '23310715',
     NOW()
@@ -12076,8 +12076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '974c0c31-632c-42f9-9986-0ca134959abd',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'aac7b7b3-284e-4ceb-9b8d-305fd5aec0a7',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'gdp_md',
     '12911',
     NOW()
@@ -12088,8 +12088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4d8a7f7-ed5a-4fc9-aed6-978cdbbdb136',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    '70ceb471-58a1-4bcf-a1f6-b5f81ff22aa5',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'economy',
     '7. Least developed region',
     NOW()
@@ -12100,8 +12100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa878f93-c829-4449-8cf6-2c9918158b72',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    'cb87874c-579e-4ab5-a9f3-79d1a388df96',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'income_group',
     '5. Low income',
     NOW()
@@ -12112,8 +12112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b4c8ee5-7ee1-4e60-8c1b-30cc930adb85',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    '048b347c-5d7a-4804-8e23-1b5d34c37a0b',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'type',
     'Sovereign country',
     NOW()
@@ -12124,8 +12124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a46a0e38-d81c-4c46-b6d9-291cc7076a9f',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    '27f05a9e-c516-4a6e-a9e0-04df7a6014df',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'label_x',
     '9.504356',
     NOW()
@@ -12136,8 +12136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e6d3a5c-f69d-458b-b644-35c44cc9a9a9',
-    '6abb63e1-65dd-404a-abf0-17fdffaea5c5',
+    '9479908c-4072-4f73-981f-a7252b6ce2f1',
+    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
     'label_y',
     '17.446195',
     NOW()
@@ -12148,8 +12148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '583d7e49-d20b-464e-96c2-c1c0f7d9dd77',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '4472da00-1286-4f45-bfb7-f384ec0b231b',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'continent',
     'North America',
     NOW()
@@ -12160,8 +12160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b88223d-1bd9-4689-a555-b7f660f3b6d4',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '96ade8da-34ab-4a57-a8de-cedae096d11e',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'region_un',
     'Americas',
     NOW()
@@ -12172,8 +12172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3f773bf9-d60f-41ed-b929-667cd55d6847',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '04b2ccc8-028f-4ed7-b57d-d947e4a6d6d8',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'subregion',
     'Central America',
     NOW()
@@ -12184,8 +12184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '09334a42-164d-4329-af08-04498b5a6773',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    'f5c9ec14-365e-4043-a3ae-51a27f023789',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -12196,8 +12196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88f808cb-6e76-4c98-81b5-59534d950f80',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    'fad07662-be35-48fa-b741-86dd9c1670b0',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'population',
     '6545502',
     NOW()
@@ -12208,8 +12208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a22ac505-d77f-4f32-a9bf-ceb7db567465',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '1f01f255-6c98-4dc0-b6c0-5be900a1715b',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'gdp_md',
     '12520',
     NOW()
@@ -12220,8 +12220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb3de8dc-499a-4dd7-be8e-6cae9ae26009',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    'f0b84f8b-3724-4105-9cea-6f9e2df4d9dd',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'economy',
     '6. Developing region',
     NOW()
@@ -12232,8 +12232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '35b39fac-b5dc-4653-b84a-b2823787fb4d',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '6588d357-4119-44dd-a22f-d8a1470877fb',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -12244,8 +12244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '18182274-0161-43a1-bff7-9b9356dfab4e',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '4b57cb75-4ede-4c82-a8ee-773d1654f618',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'type',
     'Sovereign country',
     NOW()
@@ -12256,8 +12256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b44bd5b9-43df-4ab6-bdbe-f5ccf2fbf818',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '37fb4bbc-be17-4c32-8580-66fe053cf4c8',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'label_x',
     '-85.069347',
     NOW()
@@ -12268,8 +12268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '799ab204-7019-4c7d-8ee0-357884a62136',
-    'c8113d94-9759-420a-9cfe-00c954144302',
+    '9b7bf15d-55ac-4d05-ad6e-0a791e969f99',
+    '10138f4d-2a9b-4102-b235-a12affa24f6a',
     'label_y',
     '12.670697',
     NOW()
@@ -12280,8 +12280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '806ec18c-ba93-4446-8386-63935b23b748',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '78cce881-536c-4d0a-b389-f3f8682d88c0',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'continent',
     'Oceania',
     NOW()
@@ -12292,8 +12292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f62a4a7a-913d-4933-8bf6-dc585a751198',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    'e3783d83-7d55-469e-8cd0-5ae12dbea4e1',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'region_un',
     'Oceania',
     NOW()
@@ -12304,8 +12304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '912af48b-0c1e-4a2e-835b-4030f423ae4b',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '2a20a0f8-5ecf-4b96-b41f-f594da67ff0b',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'subregion',
     'Australia and New Zealand',
     NOW()
@@ -12316,8 +12316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53d55266-ba22-44f1-917a-898e46ed4698',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '95409602-5a92-46c8-871e-ad1a623d8d77',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -12328,8 +12328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9280166-4feb-4317-82f3-2c2fa975977a',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '5fd0285b-c740-4cdc-8b2d-c5267b53aa21',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'population',
     '4917000',
     NOW()
@@ -12340,8 +12340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e386b1a9-9378-45ea-a885-72c5c561e809',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    'b54845f6-9ddf-4c79-b6fc-7f5bd8ca56c9',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'gdp_md',
     '206928',
     NOW()
@@ -12352,8 +12352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e5092885-86eb-4907-bc63-bcd33f076545',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    'bbdaa4e9-3552-4db3-ba8a-ac733ac7101c',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -12364,8 +12364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0c4a96a5-b20d-4cf5-beb4-241f2bb38846',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '9cd7e3ba-f087-40cf-ab03-7991a4954c69',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -12376,8 +12376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f9312a9f-5eb8-4e20-bd42-d03202befd7b',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '2a3251e5-2654-480a-9808-119fdb8397db',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'type',
     'Country',
     NOW()
@@ -12388,8 +12388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed6b2514-b077-4558-a1e2-7b47cfb5d154',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    'c06be324-0270-43f0-9695-9e5327127d52',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'label_x',
     '172.787',
     NOW()
@@ -12400,8 +12400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17044509-1d05-46d2-88dd-006cc77f396d',
-    'e368ed11-975d-453c-a569-5bd890fb62b9',
+    '12cef431-b790-4d14-9227-7d3357254248',
+    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
     'label_y',
     '-39.759',
     NOW()
@@ -12412,8 +12412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0db9afd8-e0f8-4914-8706-43126d0434ab',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '331fb155-2b34-474c-9d6a-2d7ee0b2b148',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'continent',
     'Oceania',
     NOW()
@@ -12424,8 +12424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e8dd7c2-f761-482f-838a-de93b1d867d7',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '467ff883-d104-497c-b188-8586b88edd58',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'region_un',
     'Oceania',
     NOW()
@@ -12436,8 +12436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7805fe66-620a-4451-962f-fd1817d1c645',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '099a1780-28f3-4da5-9e2a-cab071ab7c6b',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'subregion',
     'Polynesia',
     NOW()
@@ -12448,8 +12448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '942ea128-45e6-4d07-bf70-7804676cd254',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    'd4387f9c-6be5-4398-90da-81f462b44eb3',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -12460,8 +12460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb73b765-3f2c-45fd-baae-77d089c1eeeb',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '90b3d26f-10bf-4da1-9d3f-cea9358f4044',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'population',
     '1620',
     NOW()
@@ -12472,8 +12472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd03ac6d1-2ea5-43c1-b130-b45fbcfbd44d',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '077934aa-31f7-47bc-8d2f-8864fbb27279',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'gdp_md',
     '10',
     NOW()
@@ -12484,8 +12484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b5717f2-f422-468e-babb-4b433e683100',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    'ef312ca6-4881-41b7-8eac-004d6d01e2d0',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'economy',
     '6. Developing region',
     NOW()
@@ -12496,8 +12496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9bf56280-c884-40b5-9660-9ff2593a8d7e',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    'a83f8a0f-b58b-4c51-89ad-bbce619744d8',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -12508,8 +12508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ebfe2a7-20e2-49ca-ac0a-d71f3bcbe0b0',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '9722ed9f-b1a6-4b1f-8a23-64ba5bcf62d8',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'type',
     'Dependency',
     NOW()
@@ -12520,8 +12520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e3d2000-4af2-47eb-a611-21b0eb43b36e',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '778723b5-68d4-439c-ab8b-eab48f500d35',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'label_x',
     '-169.862565',
     NOW()
@@ -12532,8 +12532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ef2725c-80ab-4a47-a7a7-56ec7e28e4c5',
-    '6c308e00-67b4-4b54-b7fa-786ca5689f03',
+    '30a53d66-e48a-48bc-9758-406e8552be44',
+    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
     'label_y',
     '-19.045956',
     NOW()
@@ -12544,8 +12544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c704664d-bd03-4097-96e1-9daa8229d59b',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    '4b648d88-05d9-40d9-897a-0d764dd208b3',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'continent',
     'Oceania',
     NOW()
@@ -12556,8 +12556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c2ad968b-3cce-48f8-840c-9062eb9e97a4',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'ac9eb31b-314f-4e0d-80dd-0f9b6067cfa4',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'region_un',
     'Oceania',
     NOW()
@@ -12568,8 +12568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '35065d26-c4b8-406d-bb30-dec58ba65b5f',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'cb1b725b-a9d1-471a-974b-045df7bba9cf',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'subregion',
     'Polynesia',
     NOW()
@@ -12580,8 +12580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae54c0ed-47f2-4a39-8e49-b5973de23ec4',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    '1c30554c-0131-4b4a-8d44-ceda5641c563',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -12592,8 +12592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6959a1c6-b7c0-41df-a26f-01f33c08d4bc',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'ae28fc9d-a47c-46d1-b787-98ac6c28a247',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'population',
     '17459',
     NOW()
@@ -12604,8 +12604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e9752944-3f31-4341-8743-5f532124a05e',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    '10c2ce7b-2194-4d85-9d33-319a52c0dd0e',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'gdp_md',
     '244',
     NOW()
@@ -12616,8 +12616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30ff6a03-a0ca-4b39-b0e4-e9e0e7fcdda5',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'e02c6a7f-6ad9-453d-81f7-37537e8435d9',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'economy',
     '6. Developing region',
     NOW()
@@ -12628,8 +12628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b2e11fc-0d8f-46af-aeb4-baba2de5b41d',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    '12519db1-ad74-4924-baed-395256b09d5e',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -12640,8 +12640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5f5c5152-61da-4606-a68a-ba5a907a349e',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'd6812d05-e035-478a-9c1b-71f951daf54a',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'type',
     'Dependency',
     NOW()
@@ -12652,8 +12652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dba06bb6-9b64-4918-90ad-0b29703bcd1d',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    'c0c47059-a624-4ad3-bf8c-663f89ed4696',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'label_x',
     '-159.785675',
     NOW()
@@ -12664,8 +12664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c03f64c4-b975-4bef-8725-28dbcb6e9f72',
-    '6b530889-529d-47a2-bb96-ae1082672336',
+    '9ee0e8bf-e00e-472a-9620-30a859236db8',
+    'c9770e09-c837-40c0-aa64-7f1781051599',
     'label_y',
     '-21.215993',
     NOW()
@@ -12676,8 +12676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '841697ae-10f5-4534-a781-2aac5792d0cf',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '4a46e7fe-4ebd-4dce-b8d3-965b87abfd77',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'continent',
     'Europe',
     NOW()
@@ -12688,8 +12688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2176ed9b-e057-40d5-a08e-639279c2e10e',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '72fcb2fa-d8c0-47a7-aab5-b84fd5a9a2ba',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'region_un',
     'Europe',
     NOW()
@@ -12700,8 +12700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e7a452c-448e-4531-bfd0-351f942f0a4a',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '23b74351-bf57-4dff-9964-1f99bdacdc41',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'subregion',
     'Western Europe',
     NOW()
@@ -12712,8 +12712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '637ce0cf-79c7-41cc-8bc4-44c661c5e547',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    'b84792d0-17c6-4fda-8c23-8a1f051d6c8f',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -12724,8 +12724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4cd38e7f-038b-4562-b598-2609bc8cf294',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '24ecdac8-95e9-41fc-bee6-391368575415',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'population',
     '17332850',
     NOW()
@@ -12736,8 +12736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1bdfc2e4-383d-44fe-9bd9-93fe3a73c979',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '090727ab-bf92-4253-89d7-9e5662e0a52c',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'gdp_md',
     '907050',
     NOW()
@@ -12748,8 +12748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b8144e7-cf80-4790-afa8-a326c9f8647c',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    'd5f6b7b3-7b3f-42e1-b820-841bf9e00b1e',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -12760,8 +12760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ea1486e-f504-482e-a0bd-a4c3faa90ad3',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    'c0aa1a0a-cfbf-484d-8220-fa608edc975e',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -12772,8 +12772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '368e5931-104a-47c8-842d-5d81b7bc1998',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    'be00df27-fbb1-4016-88c4-4e78853103e3',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'type',
     'Country',
     NOW()
@@ -12784,8 +12784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68a0d03d-323a-4522-8366-7fcaea96899d',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '44a4428d-98b9-4057-a4b6-24fbd9ab8b97',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'label_x',
     '5.61144',
     NOW()
@@ -12796,8 +12796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fcd4606d-6c62-404a-8285-380186665b8f',
-    '07dfb32e-0747-40a6-8f18-0130eecad294',
+    '27c07e26-ba95-4917-806a-f71b9d6ed0bc',
+    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
     'label_y',
     '52.422211',
     NOW()
@@ -12808,8 +12808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '34b8fc70-ce04-43ed-97ae-155a0cf26466',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '596575be-8428-47bf-832d-553e5c3553eb',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'continent',
     'North America',
     NOW()
@@ -12820,8 +12820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e678abcc-15f4-454e-ad4f-156a3e3b9e1c',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '690aabfb-356e-4c87-a33b-9cd0dc8aeac2',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'region_un',
     'Americas',
     NOW()
@@ -12832,8 +12832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f737f2d9-9a80-44f3-b605-29518ceca9c5',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    'aa07281b-08b0-4367-b888-9391431ca51c',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'subregion',
     'Caribbean',
     NOW()
@@ -12844,8 +12844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2bafbd03-dbbf-4229-a242-f31f4d96dd6c',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    'da348b92-698c-4fb8-ac66-e738cac10491',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -12856,8 +12856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2786903-911e-49c4-b17a-34d7c3c0d63d',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '7bdf5d25-26d4-417b-b91e-4e00de1a34de',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'population',
     '106314',
     NOW()
@@ -12868,8 +12868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1992db5-3770-4aa9-8258-8f19199ad2ce',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '8b3361a0-4dc1-4763-94b3-03223d5c894c',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'gdp_md',
     '3056',
     NOW()
@@ -12880,8 +12880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c07abdc-bf4a-4cbf-95b7-dd31e6c8d113',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '92c7d384-f7eb-4665-b19e-cca6e56fbb90',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'economy',
     '6. Developing region',
     NOW()
@@ -12892,8 +12892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4c97d60-150c-405e-b1b6-00dbb895637e',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '61dec810-6a4a-4ba3-aa2d-018c50086182',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -12904,8 +12904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f042551f-8836-4908-8a34-173caab82cab',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    'ea04e0e9-3cb4-404b-b0ed-0310a80d3dfb',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'type',
     'Country',
     NOW()
@@ -12916,8 +12916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '75e5d3b0-29f9-4e88-8a2a-f9c5f13b8478',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    '21ba5676-7d45-4ae9-a837-621f1ac0cf99',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'label_x',
     '-69.972795',
     NOW()
@@ -12928,8 +12928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54f1bdf1-50a1-48df-997a-f7472f180f73',
-    '3987faf4-8566-4c99-b7fb-42939ac91f9d',
+    'fb6bb272-370c-4899-a0fe-6a24e5913aaa',
+    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
     'label_y',
     '12.5174',
     NOW()
@@ -12940,8 +12940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15c9fbb2-18c2-431c-a917-05f1961c3a62',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '1c446b4a-e6ab-4c58-b47d-28f8ed787f63',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'continent',
     'North America',
     NOW()
@@ -12952,8 +12952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ebf8d8f9-d8d4-4868-85eb-0db9efbadf4e',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    'b5d16ec5-f633-4a6a-83c9-93523b1d72a4',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'region_un',
     'Americas',
     NOW()
@@ -12964,8 +12964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c58fe6aa-c146-4ba7-8672-608c73e86a67',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '718cafa7-5c92-415e-aa85-5523f4a641e7',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'subregion',
     'Caribbean',
     NOW()
@@ -12976,8 +12976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73596acb-e04b-47ba-bb43-a71279b01b70',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '86fba6f4-34e6-4522-8ad2-6a8861f3ce7a',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -12988,8 +12988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '437e258d-3633-46f1-91b7-6883a3ce4a09',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '58e7c00b-8daf-471f-8220-a24484f35e92',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'population',
     '157538',
     NOW()
@@ -13000,8 +13000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1b77ec6-a69b-4837-86e4-54ce40650c14',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    'a6f5e491-d489-4318-bb36-a79ff4b64c4a',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'gdp_md',
     '3101',
     NOW()
@@ -13012,8 +13012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '035a27f8-d060-4448-922c-73c3dd89c16d',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    'a498d259-0d30-40fd-b458-1dae0097147b',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'economy',
     '6. Developing region',
     NOW()
@@ -13024,8 +13024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '681ffc26-e115-4359-88fc-00f212f94a99',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    'a01cd196-e971-47f9-ab19-90027d052828',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -13036,8 +13036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac5356bc-be4a-49f7-86b5-b919d9f4aba4',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '582fda42-fba9-409d-9bef-02bbdca0b6f5',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'type',
     'Country',
     NOW()
@@ -13048,8 +13048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3df952c1-954b-4575-a2b1-4fb34b562173',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '39f06f4a-24ef-4297-bc5d-69a9792dbfc5',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'label_x',
     '-68.920578',
     NOW()
@@ -13060,8 +13060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a494e257-2e0c-4d93-91a8-a5b6f30f1c93',
-    'c009e8ff-38cc-4982-9b5a-c4c20620d402',
+    '0c77853d-06b3-4f21-b939-58526335fe15',
+    'b779aea7-af14-4386-ba5e-d97409ad161e',
     'label_y',
     '12.145039',
     NOW()
@@ -13072,8 +13072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'daddf08b-ed8d-4e23-bb49-f43d9e5d135f',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '80f604de-2977-4008-9446-8f9f4b3cba3a',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'continent',
     'Asia',
     NOW()
@@ -13084,8 +13084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '395484c0-b62b-4bda-bab9-a7fd3a1afc38',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '8755218e-8767-43ef-a8e7-e26419cc9785',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'region_un',
     'Asia',
     NOW()
@@ -13096,8 +13096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44d98e59-4784-49ba-a15c-1ce94d3b3406',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '3cf6a0ee-dc03-4522-acab-d8be019fbe1d',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'subregion',
     'Southern Asia',
     NOW()
@@ -13108,8 +13108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b108030a-e34d-4829-8952-3245fe60bb1b',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '5434d839-d319-4cf8-9a3c-5ec6be45d457',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'region_wb',
     'South Asia',
     NOW()
@@ -13120,8 +13120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e26f5c03-92b2-4e26-947f-472d04fc57c4',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    'bf8f2148-29b9-4f89-843f-751d8e201017',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'population',
     '28608710',
     NOW()
@@ -13132,8 +13132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff03c204-a69c-4f52-8f71-8c47ee8c6f11',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    'f7494a43-36d1-4cf7-9e96-3b862e5ab9bf',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'gdp_md',
     '30641',
     NOW()
@@ -13144,8 +13144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e42f235-d803-4bd2-a286-95dd26a26e6d',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '8dacd064-36a2-4107-9a94-fce088ffc6fd',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'economy',
     '7. Least developed region',
     NOW()
@@ -13156,8 +13156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9934c4ec-3437-4bb6-bdbb-235593bcf542',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '1a85d98c-93dd-4150-aab3-b8a7206628e8',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'income_group',
     '5. Low income',
     NOW()
@@ -13168,8 +13168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02939d2d-348e-4c7b-8080-d7527343d786',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '69f53d4c-d1eb-4e93-9394-19e52da655a7',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'type',
     'Sovereign country',
     NOW()
@@ -13180,8 +13180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '898b9bbd-8a4d-4bce-89eb-d6ff551c4641',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    'dba243bb-24ca-4505-87aa-83faf23a1069',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'label_x',
     '83.639914',
     NOW()
@@ -13192,8 +13192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae649a6d-fc1b-4769-863b-6e7a408a741b',
-    '550e27ee-a149-4ced-9f51-5e2467016fcb',
+    '5f12caf5-5176-4f5e-8323-6485b2117db2',
+    '6a2f60b7-c438-41c1-8eff-b55226da2607',
     'label_y',
     '28.297925',
     NOW()
@@ -13204,8 +13204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '067f86f5-1441-4455-82cc-86f424d08658',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '0ca16ab9-5799-41ed-847d-6c4ceb1d887d',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'continent',
     'Oceania',
     NOW()
@@ -13216,8 +13216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6cdc85d6-a8e3-4597-b4fc-30972089cbde',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '38192a9a-c220-478d-8ef3-22df25e291ea',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'region_un',
     'Oceania',
     NOW()
@@ -13228,8 +13228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d700154-00aa-4178-8012-0f550523b3ec',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '3970f142-86c0-4bb6-bed6-56fc0e0c29db',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'subregion',
     'Micronesia',
     NOW()
@@ -13240,8 +13240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c25d8233-173d-4669-8b07-3bcd9eed38fe',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '20130879-1bae-4bfd-8981-785c9b57a515',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -13252,8 +13252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '146b2960-0354-4813-af4d-e4e34256d28a',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '4a44b98b-0e65-4fc2-9973-1f3272e53029',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'population',
     '12581',
     NOW()
@@ -13264,8 +13264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ce9202c-7078-4bc8-a2a5-40069a2602ea',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '39935e13-25e0-47a3-bacd-052ef08fa68e',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'gdp_md',
     '118',
     NOW()
@@ -13276,8 +13276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4695ffe5-646c-4fde-9e0a-167dbbbddad0',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    'ce078360-46c3-4a46-ad6c-f221b068d68f',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'economy',
     '6. Developing region',
     NOW()
@@ -13288,8 +13288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '59de5da8-66af-4d00-ab9d-049e519e7935',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '9128bbe2-d97e-460d-9bae-b985195a5e71',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -13300,8 +13300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9567a8b-2783-4b83-80a8-85b22ad30077',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    'af3ef192-9e37-456c-b104-100ee4b8aa95',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'type',
     'Sovereign country',
     NOW()
@@ -13312,8 +13312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21f98e22-6734-4580-b655-7e8b484b2134',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '81d87e0b-b0a6-44a4-a8da-59999cfce5e0',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'label_x',
     '166.932644',
     NOW()
@@ -13324,8 +13324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9aedfd52-5834-4a5e-8296-d938186890e0',
-    'c1d30a54-6ca5-4207-9e9c-5391f2d2ca66',
+    '3c02a12e-6783-42bc-9ad4-88ba8ebc7297',
+    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
     'label_y',
     '-0.520261',
     NOW()
@@ -13336,8 +13336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1dd633b2-80fb-49e8-b502-3748ac2a2697',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '0fa07b17-8e09-475f-b513-7ade5099d27f',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'continent',
     'Africa',
     NOW()
@@ -13348,8 +13348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'daaf3048-d630-44ef-9fe4-4650adfcbecd',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '6315ffe6-afe6-42a0-ac0f-6437b97af5f5',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'region_un',
     'Africa',
     NOW()
@@ -13360,8 +13360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0740a6e9-3941-4d3d-b1ac-660ee5d01e31',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '519cd534-2a8e-451c-91ca-cedbb6829529',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'subregion',
     'Southern Africa',
     NOW()
@@ -13372,8 +13372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8267aa03-20b2-4290-8515-462ee917ed2d',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    'e3f6aefa-8c30-42b0-b0e8-193bda2a542f',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -13384,8 +13384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd564bc7c-bd93-4807-9f37-6415b772f326',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '2d0acd75-c0e5-4830-967b-45109120474f',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'population',
     '2494530',
     NOW()
@@ -13396,8 +13396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fa49154b-6ac0-41c4-ab40-3dffe436e884',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '0f0d27b6-a8b8-46f0-b367-7db2e85ab5d1',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'gdp_md',
     '12366',
     NOW()
@@ -13408,8 +13408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '060bf338-1c42-4503-a0c1-70b25c3d7f90',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '80a5020a-2570-4e30-bddc-f2b0107462e7',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'economy',
     '6. Developing region',
     NOW()
@@ -13420,8 +13420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e7383a4-76d5-4129-87cb-18cb00681936',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '365ad814-dc40-40c4-af98-297c43904ad3',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -13432,8 +13432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a26e8d2b-8e03-4b69-b408-4395ce671972',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    'c37a63b6-3525-4c47-a4e6-ae3d1d61a799',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'type',
     'Sovereign country',
     NOW()
@@ -13444,8 +13444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '940511bd-b77f-41a9-b8ae-6ce8ac22f585',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    'ae8f4d24-6a3f-4d17-ab6b-01678ca56d51',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'label_x',
     '17.108166',
     NOW()
@@ -13456,8 +13456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12cf96fd-15cc-4b3f-9a09-6099876e9ed2',
-    '6fd3c9db-3fa1-4758-8f06-2fb5cbb9173c',
+    '324a63f6-5d8b-46f4-b55f-46502fb0895c',
+    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
     'label_y',
     '-20.575298',
     NOW()
@@ -13468,8 +13468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62f909be-399b-41dd-b35d-66f7c8225cba',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    'e6ba4200-c932-4567-8abe-536a0ab5fa44',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'continent',
     'Africa',
     NOW()
@@ -13480,8 +13480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e1d4786-9168-44d1-ae62-148c2bca7486',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    'e1d15094-0b59-4bd9-b4c9-70880d8415d2',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'region_un',
     'Africa',
     NOW()
@@ -13492,8 +13492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'afaacb5f-27bb-496f-8790-eb9528f29ff2',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    'cadad9c3-97c4-4dee-a4f4-9b8579711c0b',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -13504,8 +13504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9281b599-f80e-4371-8afd-507ee1cdb810',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '288d1125-6747-4109-baed-0146bc7dda2a',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -13516,8 +13516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a70ac5f2-1ca2-4020-8a9b-7c675f079484',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    'fb0ee9c8-7870-4b8e-a5c7-52f9c2ecc41d',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'population',
     '30366036',
     NOW()
@@ -13528,8 +13528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa8e0967-59c2-4841-948f-0329b51ab25b',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '499095b7-b0d4-406f-864c-8f7afc5cea3d',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'gdp_md',
     '15291',
     NOW()
@@ -13540,8 +13540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90c1ed32-141e-4f4e-aa7b-5db69dca7a5d',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    'bc869436-06fa-4044-bd12-f4fccd7a22b3',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'economy',
     '7. Least developed region',
     NOW()
@@ -13552,8 +13552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98cd66d0-0e3f-4ef1-81fb-5bd63ef5434e',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '3f16fecf-9f75-476e-ab44-20f63f814b6d',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'income_group',
     '5. Low income',
     NOW()
@@ -13564,8 +13564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b28d9be-a7e7-4e1e-8f53-5cd400a7e5c5',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '1365ca6f-9659-42ff-a28f-fb5b03d2bd75',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'type',
     'Sovereign country',
     NOW()
@@ -13576,8 +13576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0af1d958-5a5a-45f5-9973-41fe2979dd12',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '315c1df2-ccd5-4ecb-ba3d-38f0294bd30f',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'label_x',
     '37.83789',
     NOW()
@@ -13588,8 +13588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '526e6036-5961-46f5-8f6e-dbada535286c',
-    '28a8efea-afa5-49e6-9e9d-760f15279a38',
+    '27521cda-b8eb-4394-894e-17c6de4c6b15',
+    '424e3720-d60a-4fc3-9025-6094a5dce460',
     'label_y',
     '-13.94323',
     NOW()
@@ -13600,8 +13600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'abc5305c-af84-43f0-8e94-f77a7c09bff6',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '40ccd3a6-d781-4408-a7f9-464bfa2c75f9',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'continent',
     'Africa',
     NOW()
@@ -13612,8 +13612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86b505f9-f438-4c93-9551-6545515b4ce4',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '8e4f7709-95a3-4ef2-86c7-92272849cff8',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'region_un',
     'Africa',
     NOW()
@@ -13624,8 +13624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a1aa5b9e-0109-4ee3-8f8b-18276720478e',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '0bf3798f-d066-4e7c-8334-17ad2438d951',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'subregion',
     'Northern Africa',
     NOW()
@@ -13636,8 +13636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6b36a0e-24a9-4d93-90dd-ec2c775cded5',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    'b8924824-a387-4af0-805c-bd1ea1053267',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -13648,8 +13648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2412bdc-84f3-4e3c-894e-ebf46f269119',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '3063f9ba-50a1-47dc-b832-9d03a80842e3',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'population',
     '36471769',
     NOW()
@@ -13660,8 +13660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01a4f241-a1ac-4f86-82db-52aab2e24c86',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    'c8fc1a13-9bbd-4265-ae67-a3d6972c240b',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'gdp_md',
     '119700',
     NOW()
@@ -13672,8 +13672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ee16e059-d76e-4dd8-9a64-9c4663ca1b7c',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '9bfb4c76-dd80-431e-8f3f-a80cc0279652',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'economy',
     '6. Developing region',
     NOW()
@@ -13684,8 +13684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56a0f2ed-fc82-48c7-8421-33eea870ea41',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    'f5cd0d4a-eae7-4be1-ae36-e797c5c51ba8',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -13696,8 +13696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8be70b1-cdc6-4d8b-bcd6-6a94eccde6f6',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '84a87120-205e-43a2-bfd4-138de9cd66aa',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'type',
     'Sovereign country',
     NOW()
@@ -13708,8 +13708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01c8c6e6-1527-43b6-afd9-dfb0585fd00d',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '61a3f7a3-9ed1-431f-8f3e-85c675211d79',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'label_x',
     '-7.187296',
     NOW()
@@ -13720,8 +13720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c976403e-743d-4be1-a5c1-b4f866ef01bf',
-    '50e3b843-347c-4205-998d-ca513d2e6998',
+    '4d9e6559-e6d5-434b-8f9d-e7cff9ff7aa3',
+    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
     'label_y',
     '31.650723',
     NOW()
@@ -13732,8 +13732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '83a1264a-c027-41e5-97a3-5d97488a018a',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '825a7044-9150-44af-84e4-cf7af0c7bfba',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'continent',
     'Africa',
     NOW()
@@ -13744,8 +13744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96af50e8-10f1-4bc9-b80d-ce6475b9ed8b',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    'eea9834c-cb67-4ce7-a858-2a3a9b42dc85',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'region_un',
     'Africa',
     NOW()
@@ -13756,8 +13756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff1b08c9-ee8b-4db2-8a6c-4f792e86dc9a',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '684f4d4b-7e3c-4342-8826-deda4fa85e75',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'subregion',
     'Northern Africa',
     NOW()
@@ -13768,8 +13768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '84075d7f-aa90-48f6-9694-abd514f9f537',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    'c2f9dafc-0e6f-4ad0-82c7-90dadf6e7532',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -13780,8 +13780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65d4c070-0f8d-4107-8945-77b2862b71fd',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    'a46af60e-812d-408d-8a1c-23a4949058de',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'population',
     '603253',
     NOW()
@@ -13792,8 +13792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94a62a1f-052a-4014-bf9f-edc4a1c2a8de',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '0f2d5e21-8f1a-4ef3-a31f-2e7419899608',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'gdp_md',
     '907',
     NOW()
@@ -13804,8 +13804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8afb7bd-86b9-490c-9afd-70cf7c4495f7',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    'a38aa41c-d6f8-4ef0-acbf-1e290b5c49fc',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'economy',
     '7. Least developed region',
     NOW()
@@ -13816,8 +13816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b13fea26-c49d-40c5-ae19-e396630f4151',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '23fe16e1-8f0c-47ab-a1b0-e4352773c3ee',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'income_group',
     '5. Low income',
     NOW()
@@ -13828,8 +13828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ef72eb83-fbf7-45df-8c1f-bb615d802735',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '2f023614-8f91-44c2-bc0e-7f4a1e56d8c1',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'type',
     'Indeterminate',
     NOW()
@@ -13840,8 +13840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4e9d9f42-2058-4682-97c2-74249c6aeef1',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '7ebe48ac-615c-4127-a5f8-421a5cbb3f6b',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'label_x',
     '-12.630304',
     NOW()
@@ -13852,8 +13852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7f81fa15-3c45-49e5-8468-d4c394a18f6f',
-    'f8968ff9-6d85-45dd-a4be-43d6b78daf5b',
+    '0024962a-97e8-4d5a-a4c5-f374278ea062',
+    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
     'label_y',
     '23.967592',
     NOW()
@@ -13864,8 +13864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba551f4e-7e3c-44a7-a64a-5fee0e6f759c',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '6110a452-0136-4801-9e98-dafe36f19e5e',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'continent',
     'Europe',
     NOW()
@@ -13876,8 +13876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aed324ea-02ea-4b35-a47a-38cb96471902',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    'e1dff8b2-f969-4c46-a0fb-4ffd6ef246d9',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'region_un',
     'Europe',
     NOW()
@@ -13888,8 +13888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '367d310e-ec66-401e-8a68-a9409a807352',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    'e61553ea-d546-4e69-b71e-d5d50ca5e356',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'subregion',
     'Southern Europe',
     NOW()
@@ -13900,8 +13900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8741e06-07d9-4f3b-87d1-9d9f452f5dd3',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    'aee67523-ab7b-4ada-8bfa-edce65382914',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -13912,8 +13912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '125092d5-485e-4b0c-a5b6-fb4de70f1a3d',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '316424e5-aacf-4447-a59c-c1f58807546e',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'population',
     '622137',
     NOW()
@@ -13924,8 +13924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '59680a2e-e18c-44b0-a00d-3c61ec9c097c',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '4886ceab-11f3-441d-a578-4e1db20c6a08',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'gdp_md',
     '5542',
     NOW()
@@ -13936,8 +13936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af30febb-cf7e-4179-93db-303de2f77a80',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '71121347-470c-4cb3-b04d-95f97baef989',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'economy',
     '6. Developing region',
     NOW()
@@ -13948,8 +13948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2632627-1e11-4d90-a0a4-786bacf04dd9',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '90d1547d-4ba2-4351-99c5-51fb5cc8f9a9',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -13960,8 +13960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9246cc7f-ed58-4e1b-8e5a-b5e16a9ad32b',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '1387643b-2c42-4f11-a65b-b271f6216982',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'type',
     'Sovereign country',
     NOW()
@@ -13972,8 +13972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f935dcf1-4f47-4b0d-beb8-c8e1e2f9a48a',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '4f8d5ea2-c346-4051-915a-2bb95f749d33',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'label_x',
     '19.143727',
     NOW()
@@ -13984,8 +13984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff9d4fc9-e61f-4b3a-96a2-2e4dd38642cb',
-    '81eb89ee-34cf-46ae-aa71-9d29f04f820e',
+    '46c2421f-c6cd-4d22-84b2-1a4f3c2bc75c',
+    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
     'label_y',
     '42.803101',
     NOW()
@@ -13996,8 +13996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3476d1f6-9051-40d3-a04d-f1a032580fe7',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    '37dd5d90-f5ab-45d1-b6ae-9b7ba57f592e',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'continent',
     'Asia',
     NOW()
@@ -14008,8 +14008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '628bcc6a-d5d6-4b70-b2ff-20c972235636',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'c7e4e476-9c2d-4a0a-87b4-331a916b22d1',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'region_un',
     'Asia',
     NOW()
@@ -14020,8 +14020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'abe9fefe-84f1-44a7-83fe-a9197230e49a',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    '543f0079-c0b3-4768-a5c3-4206e3778037',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -14032,8 +14032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7be775be-3084-4149-941a-ca132fb68211',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'f67c679c-ac77-4aab-a8f6-575f5250a32b',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -14044,8 +14044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3da76c91-ecdc-49da-8dea-e381f474b3d6',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    '526a0a29-7e9a-4b8c-ba3c-cea646c7fc25',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'population',
     '3225167',
     NOW()
@@ -14056,8 +14056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b8d8bb72-26d7-497a-9836-f52ae62329af',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    '15020f7e-bac1-4195-bc14-e72f08fc5cc7',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'gdp_md',
     '13996',
     NOW()
@@ -14068,8 +14068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5d928d2d-43cc-4636-886a-eb00c6add3eb',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'c366f53a-8cef-4eb7-a576-8acdeda9d1c4',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'economy',
     '6. Developing region',
     NOW()
@@ -14080,8 +14080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c544abc-0705-4db7-a45e-fa383e101444',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'e7c5a287-2a03-4dd4-b25b-af5ddb179a61',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -14092,8 +14092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42e5f94e-fbfc-4f4d-a0d2-4a33f68e9834',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'a80aa957-24af-498c-8d8d-6432fac2028f',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'type',
     'Sovereign country',
     NOW()
@@ -14104,8 +14104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4eabe624-a0ad-4202-8455-fbf599a298a3',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    'fe0393b9-27f3-4438-8ef4-fbe1c4e0cbbb',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'label_x',
     '104.150405',
     NOW()
@@ -14116,8 +14116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4285a97e-3f49-4fda-8883-3484513db774',
-    'adf7a21b-f213-4c27-b43b-863a9e17770a',
+    '0a971564-732a-48f2-9047-bdd6c8545012',
+    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
     'label_y',
     '45.997488',
     NOW()
@@ -14128,8 +14128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '114e68ff-3580-4689-9ce8-4c7c6c90828f',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '592b8e42-72c1-4836-b7da-46000cf6495f',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'continent',
     'Europe',
     NOW()
@@ -14140,8 +14140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73364476-d672-41da-921e-f903d81c90e6',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '554cc094-205a-4249-ac18-58f00e6c5010',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'region_un',
     'Europe',
     NOW()
@@ -14152,8 +14152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed0aaf14-d2ee-4934-9b88-95ffa9a5bba2',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '49b22f20-a8bf-493c-ad56-92186574f88f',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -14164,8 +14164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a6c7d8b-c5a0-4a2f-a87f-95ca81fde4c3',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '7f243048-55e6-4f09-bd39-2bb73f195df8',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -14176,8 +14176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68df6d1a-1843-4d5c-aff7-a3e237332123',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '462c5e5a-650a-4f21-98df-292b91318a61',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'population',
     '2657637',
     NOW()
@@ -14188,8 +14188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efdbe777-95f6-4e3a-a62e-e490c774678d',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    'deca8320-2444-46c3-ad18-90ede1f8a4ca',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'gdp_md',
     '11968',
     NOW()
@@ -14200,8 +14200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1de4d5ef-aaa7-48ea-9016-73eaf310c4d7',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '75658faa-a119-440b-9b1b-45d36377fa84',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'economy',
     '6. Developing region',
     NOW()
@@ -14212,8 +14212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fdf3e3f8-266a-4f72-83ed-527936dcd618',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '5a46492c-5e81-4fb6-afe8-1f2cc1584848',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -14224,8 +14224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4059dba-ccfb-46aa-ac93-7212a8a10194',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    'ad872cb5-3ba0-4aa7-bb78-4ae4a543500f',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'type',
     'Sovereign country',
     NOW()
@@ -14236,8 +14236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ea21897b-b203-428c-ab9c-32e8b2964d7d',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    '8be0d739-ec38-40a9-9a45-9cbfa774c25c',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'label_x',
     '28.487904',
     NOW()
@@ -14248,8 +14248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd799132e-a623-4cfa-bcac-72c11e0fbd77',
-    'b9f278a5-5aaa-4084-8226-b07701979e91',
+    'f304e8c2-ee54-47c2-a294-a82a7021d923',
+    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
     'label_y',
     '47.434999',
     NOW()
@@ -14260,8 +14260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7118ace-02e9-412e-9e15-51241fd09f27',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '7e3f4beb-1bfa-4d29-9b8b-27f1876cab70',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'continent',
     'Europe',
     NOW()
@@ -14272,8 +14272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '962ec806-7766-47cf-9f5c-18a21550e878',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    'f4c7bb96-edd4-43cf-ab9f-0a1ce386ecd4',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'region_un',
     'Europe',
     NOW()
@@ -14284,8 +14284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4696d699-a7da-45a0-bf63-df2810815275',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    'c795b292-02f2-4748-b299-72a0708dc8a7',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'subregion',
     'Western Europe',
     NOW()
@@ -14296,8 +14296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9ab8992b-3b6a-4ac6-8b99-82d93ec5dc72',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    'c350cc55-403d-4e44-add6-a02529243c3f',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -14308,8 +14308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '57cf6b45-3747-4c9d-9ac6-0dd3b010653a',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '10e6471e-ed78-4905-83da-e89b77140929',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'population',
     '38964',
     NOW()
@@ -14320,8 +14320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54c2c151-4112-402b-a76c-1054f88ebe1d',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    'f0adae16-e9c2-40a6-8c40-5e924f1b972e',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'gdp_md',
     '7188',
     NOW()
@@ -14332,8 +14332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02c06111-285d-40f0-a7b8-1b9b36a66e9c',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '05849bff-3a5a-43b2-8807-09da28f64dc2',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -14344,8 +14344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9a8d63d0-0e79-4d0a-8cbc-3d357a782590',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '2b8da5c1-e89c-4a4a-949c-15a78615c34b',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -14356,8 +14356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5d1658dd-396e-46b9-beb7-032ba7f06f47',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '9422e951-f043-4bb9-91ad-8738eeb13740',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'type',
     'Sovereign country',
     NOW()
@@ -14368,8 +14368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9097a65-d9ab-465e-91ce-67589cd9c05e',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    'cf9f3719-096a-4a08-8b1b-4e7ca6951b41',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'label_x',
     '7.398291',
     NOW()
@@ -14380,8 +14380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'be28d66e-1c09-45f2-8093-5f97158ba219',
-    'df87930a-462a-480a-be24-42cf7912136b',
+    '39532fe7-7899-463e-b314-b0a833b4f345',
+    '08ac02b3-bf00-427c-9343-c59b97e073d2',
     'label_y',
     '43.739652',
     NOW()
@@ -14392,8 +14392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b8834f1-7651-4579-aa9f-0df636d07b71',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '699ebc3c-8760-4ce6-b9ff-6a8e7da0ee02',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'continent',
     'North America',
     NOW()
@@ -14404,8 +14404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb9b3f7f-78a1-4777-b5c7-7f9bb423e271',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '6fe56b08-41e0-4ea7-8642-af7c2ef37003',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'region_un',
     'Americas',
     NOW()
@@ -14416,8 +14416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2df9d089-2157-48d9-864f-82200fbedbd7',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '8ece1610-0370-4732-bcc3-757c109b83bd',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'subregion',
     'Central America',
     NOW()
@@ -14428,8 +14428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '34d370b9-275d-4c12-a758-1bfe4dc4a014',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '7192f6fc-5d73-486d-84e1-f09c2aa9b084',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -14440,8 +14440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bad5bcab-d2ab-4d36-941c-ff0ca50ae5ba',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '3d179ddd-5d95-44bd-bc4b-f7c750a0e6f1',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'population',
     '127575529',
     NOW()
@@ -14452,8 +14452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c50ab446-e813-4760-90df-0236b7bbede4',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '83c5145a-98a9-4b85-b141-674c3e66295c',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'gdp_md',
     '1268870',
     NOW()
@@ -14464,8 +14464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7cfab914-3726-47b3-9f49-5a74e7e2cca8',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '69a94439-0ac6-4959-a697-f642607750d3',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
@@ -14476,8 +14476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aabcbbe4-ded8-4a7f-a307-dd6ee9db3aaf',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '5a63e2bf-ad83-4bd0-878c-844645a8fa3c',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -14488,8 +14488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd6f019c9-171c-4537-a5cb-547bd90bae17',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '8c6a9821-88f8-4d48-bca1-cc99f8091702',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'type',
     'Sovereign country',
     NOW()
@@ -14500,8 +14500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f3daee69-20b7-4582-b030-f68d2f9b9910',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '18f13db3-cdcb-431d-a1f2-224509a9cdd4',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'label_x',
     '-102.289448',
     NOW()
@@ -14512,8 +14512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98bf3c59-ab58-4280-91b8-072ce22ef8ba',
-    'd8505850-3aa2-4fb5-9ebe-829fe1633407',
+    '86a1d139-8e1e-4d8e-9e46-04e128e85e26',
+    '6576053f-8a89-4044-a54e-71c54318fe3c',
     'label_y',
     '23.919988',
     NOW()
@@ -14524,8 +14524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2bc8c164-efef-462f-a7a6-cceaad4ed7e8',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    '36343772-25c8-42a5-b945-a07a07dcc244',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -14536,8 +14536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '77ec9b49-c70e-40eb-a5b6-572322c10449',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'b9a3a391-b3e9-4d40-af00-bd29eb3091fd',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'region_un',
     'Africa',
     NOW()
@@ -14548,8 +14548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f26bdc66-037d-4526-bb48-c4c7e2a3a3b7',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    '676f1327-ad64-4a85-a6f1-5d699ed19425',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -14560,8 +14560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c3696a7-1ac4-42a0-9d06-8d3a12cc34b1',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'c8be5374-2f04-430f-9cd5-3a19b6149f0a',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -14572,8 +14572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4204e27-eb16-4dfd-9e35-81fb33c44e1d',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    '632209f2-223c-429a-b686-7ced7132d3a1',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'population',
     '1265711',
     NOW()
@@ -14584,8 +14584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45d85077-860f-4c8a-807d-ab763a8ddd5a',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'cf0a6f00-a9e3-4256-83b0-25d52e5d9e47',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'gdp_md',
     '14048',
     NOW()
@@ -14596,8 +14596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0556b99c-23af-45c5-8193-7c54ceb79663',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    '524cebeb-889e-4c34-a21e-8535168ebd11',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'economy',
     '6. Developing region',
     NOW()
@@ -14608,8 +14608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '69145844-7999-4e7f-a6bd-21001329b752',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'cf9c4ddb-bac2-41a7-a5bd-8b24e1fc71cf',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -14620,8 +14620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '430426f9-b842-4f88-b6ac-0add4a6a2de8',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'f8fef562-3384-4639-915a-cad1eac2a161',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'type',
     'Sovereign country',
     NOW()
@@ -14632,8 +14632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd19953ec-fa30-4953-9352-1c38cab6d253',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    '7b03196e-62f8-42ab-ab8d-0b99e4ebaa89',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'label_x',
     '57.565848',
     NOW()
@@ -14644,8 +14644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efdb7f86-8477-4889-9b81-c82837b99730',
-    '6f9a644d-4e29-42cd-940c-35f67034237a',
+    'b770b337-0cda-4530-879f-e75bd73170a6',
+    'c85ed008-cbd3-43cf-96de-be93d048d182',
     'label_y',
     '-20.299506',
     NOW()
@@ -14656,8 +14656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70fbf57f-f2f9-4350-af63-c91e55f359e7',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    'bfff94b9-5940-4566-88e2-d153067bf211',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'continent',
     'Africa',
     NOW()
@@ -14668,8 +14668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '727e07eb-09d8-4682-af2a-ecf3f24cf562',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    'bfba4cfa-bff1-48b7-9a40-27b20cd68940',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'region_un',
     'Africa',
     NOW()
@@ -14680,8 +14680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f782432-3739-4605-aeaa-3687f5eac762',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    'e05c2803-1084-4f78-9ebe-383a7e1622fe',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'subregion',
     'Western Africa',
     NOW()
@@ -14692,8 +14692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7ca1702e-b852-41a7-a68f-6e5f784ef0c0',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '48e12349-82ac-4fb5-b06d-a99c7c0d78b0',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -14704,8 +14704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '14fc2477-f611-42ad-aef3-3ad0ad0309e1',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '5b22b5a8-7527-4860-844c-f2133dbe0be6',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'population',
     '4525696',
     NOW()
@@ -14716,8 +14716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93051b9d-002e-4574-9239-1f8607c8c795',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    'bed368ad-066a-4890-a262-e4590d7fc3c8',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'gdp_md',
     '7600',
     NOW()
@@ -14728,8 +14728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21d4da9a-bd3a-4002-b10c-2c7787f0a45e',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    'f29b86a0-50f7-445e-a08a-75e1c04da583',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'economy',
     '7. Least developed region',
     NOW()
@@ -14740,8 +14740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e945419-abdd-475c-abfa-3d4887ea0477',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '8be57bb4-de3b-4a43-bc01-d2586541bba5',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'income_group',
     '5. Low income',
     NOW()
@@ -14752,8 +14752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2c0ee05-5d79-45f6-ade4-2b2799102d82',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '7b5b012e-6c80-4ab9-87dd-0cdff020e29f',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'type',
     'Sovereign country',
     NOW()
@@ -14764,8 +14764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8499635-ca82-4850-8d65-cfa9cfb8d92f',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '1c39afd5-2121-4263-bcf0-ec234222b77b',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'label_x',
     '-9.740299',
     NOW()
@@ -14776,8 +14776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8eb17ea-9bb4-43ec-bcf9-826e1146ebab',
-    '3cee71a1-f8c4-4763-b74b-432dd8c09d09',
+    '9a6d17f6-e164-4508-95b0-379bef312235',
+    '222c44da-805f-489d-9894-5fe48d0b6953',
     'label_y',
     '19.587062',
     NOW()
@@ -14788,8 +14788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7ca19b5-2c24-46c3-9027-806a7190bc06',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '2cf7fedd-8bfc-472e-9cb8-24dd2bc1d858',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'continent',
     'Europe',
     NOW()
@@ -14800,8 +14800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4577993-6319-433a-bd52-a053afa2af0b',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    'ab24eb95-0788-41b7-aa0a-4c0d02634922',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'region_un',
     'Europe',
     NOW()
@@ -14812,8 +14812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d8a0536-2eae-4c91-9630-1a5d4abfd37b',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    'c8ef402e-e3df-4857-a02b-409adf54da54',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'subregion',
     'Southern Europe',
     NOW()
@@ -14824,8 +14824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7ca3c25e-aee4-4e40-bfb3-44d2ec4ed59a',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '5d5ebe16-566f-4417-a9e0-a8b539d38c6b',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -14836,8 +14836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5f983da-ad1d-45f9-9b93-361e615abc77',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '8ca9f611-cc4c-44d6-8e10-e21f7f5927d0',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'population',
     '502653',
     NOW()
@@ -14848,8 +14848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a59d1371-fb46-4211-88ab-911177655bc5',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '12503cf5-4d3c-4564-b2b4-29eb9bb43462',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'gdp_md',
     '14989',
     NOW()
@@ -14860,8 +14860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8562c5aa-fdf1-4553-8651-e82df6d1055a',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '341b3b75-e39c-47fd-a5a8-10bbed2b9489',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -14872,8 +14872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e94b326a-17b6-41d4-af99-10449d2ff7a8',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '2d35b83e-305b-4caa-b919-f552c8f26d98',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -14884,8 +14884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4990d168-6d30-4f64-a3da-e5ef61ec5700',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '1929dbe7-bcc7-4559-a64a-cc63ee11e84a',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'type',
     'Sovereign country',
     NOW()
@@ -14896,8 +14896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '04b7584f-646e-40fa-bd1d-5ed4c6a259fb',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '6a5d9bc0-9c7f-42d7-9110-e584178eb22a',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'label_x',
     '14.433005',
     NOW()
@@ -14908,8 +14908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4857ba2-faa9-409f-b989-691d54610756',
-    '176bad7b-ba7e-4cc6-b7ef-f9d03b791129',
+    '1639dd9f-056b-422b-9078-f27984514d8a',
+    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
     'label_y',
     '35.892886',
     NOW()
@@ -14920,8 +14920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '112275c4-4ca6-4ae7-bf5f-548f6afc4850',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '36d6d029-fe7c-43d2-ba0d-c0c6b5af178d',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'continent',
     'Africa',
     NOW()
@@ -14932,8 +14932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce987353-5353-41e9-8221-b23648ddcf59',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '8edf41ee-540d-46ad-9302-51eaeaff2fb1',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'region_un',
     'Africa',
     NOW()
@@ -14944,8 +14944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dde48dc7-885c-46a5-9b14-3586d6137ce8',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    'f5e99122-c89b-4851-9f24-06adb7fef835',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'subregion',
     'Western Africa',
     NOW()
@@ -14956,8 +14956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11d6bb84-7712-4b48-a7c5-491761ad8480',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '855c77fd-ecaf-40b6-967e-962ffbb15eea',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -14968,8 +14968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d7cddd5-f50d-4e4e-8e99-91ea2e99df9f',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    'b7ded9e5-3a70-4a0e-a96a-87a50de56ef0',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'population',
     '19658031',
     NOW()
@@ -14980,8 +14980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '506cd5ac-64dc-4636-8d55-1217e0fda1ee',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    'e8fc65c2-45b8-4a97-b45e-41135555cc99',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'gdp_md',
     '17279',
     NOW()
@@ -14992,8 +14992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff238974-a325-4e31-afb0-8b3b75c03544',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '860f1866-fdb0-43b3-aa92-5f9dded45a78',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'economy',
     '7. Least developed region',
     NOW()
@@ -15004,8 +15004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f53338d-f6cc-4103-9ef3-8c3799952f7c',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '5936e4ae-be9a-448f-8937-60ac70e656a9',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'income_group',
     '5. Low income',
     NOW()
@@ -15016,8 +15016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12e72519-2bea-49bd-8256-7b463670c45a',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '2efefd4e-72b7-4800-8603-543da7fa8fa5',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'type',
     'Sovereign country',
     NOW()
@@ -15028,8 +15028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3707014a-fa43-4646-b4c7-de9fea97dfbb',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '1964075d-c0c6-4bdf-925e-9cdbc28c8a29',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'label_x',
     '-2.038455',
     NOW()
@@ -15040,8 +15040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '579c39b3-9fb3-4bfd-9220-93a26780765d',
-    'da4417da-6021-4f77-9ae1-c3ebd71ee5f4',
+    '50551353-baf4-468f-98bb-018be72741cb',
+    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
     'label_y',
     '18.692713',
     NOW()
@@ -15052,8 +15052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5745c94-bb0b-4bd3-8271-0fde45a4b43b',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    'a856911a-4d33-4083-9d68-77509ea9724b',
+    '99678227-0705-464b-96d3-686846bb100e',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -15064,8 +15064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4a40068-19c8-4bd9-b3b2-690e956e6d50',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '7180df52-290b-423b-a863-5a64f18342fd',
+    '99678227-0705-464b-96d3-686846bb100e',
     'region_un',
     'Asia',
     NOW()
@@ -15076,8 +15076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9756695e-8cec-4fe8-9cc3-c4ced08a8da4',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '4f869c6f-2794-4fab-8832-83053b1337ae',
+    '99678227-0705-464b-96d3-686846bb100e',
     'subregion',
     'Southern Asia',
     NOW()
@@ -15088,8 +15088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e29e55ca-b7f2-484b-b0bf-e27a1f493dff',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    'fcc00f94-a67d-47fd-8aa9-a3c7fc4076c2',
+    '99678227-0705-464b-96d3-686846bb100e',
     'region_wb',
     'South Asia',
     NOW()
@@ -15100,8 +15100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '82acd1f3-99bf-4040-9bca-7a4e7f173d29',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '046e47a2-75ab-4873-baef-30e10b353f93',
+    '99678227-0705-464b-96d3-686846bb100e',
     'population',
     '530953',
     NOW()
@@ -15112,8 +15112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2a9cf3e-a42c-4254-b552-43ae4dd4c86b',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '318fed58-2845-4fd0-b4a5-f2fb8e01c5bd',
+    '99678227-0705-464b-96d3-686846bb100e',
     'gdp_md',
     '5642',
     NOW()
@@ -15124,8 +15124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0682b65c-7e20-40a4-90aa-4aac7c8faf99',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    'ee4b037b-6c95-401c-b7af-d98ea42e9156',
+    '99678227-0705-464b-96d3-686846bb100e',
     'economy',
     '6. Developing region',
     NOW()
@@ -15136,8 +15136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0116fa36-578b-49f0-8084-4bc3ed9550ff',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '8914faee-8ed8-4800-aad3-857d49f97b2c',
+    '99678227-0705-464b-96d3-686846bb100e',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -15148,8 +15148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9a557da2-a79d-4579-9007-9a3a148b8e7f',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '18eb84be-3851-40ae-9902-68b83b00380f',
+    '99678227-0705-464b-96d3-686846bb100e',
     'type',
     'Sovereign country',
     NOW()
@@ -15160,8 +15160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1c311c21-a3dc-40aa-a434-08cab529a1ac',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    '7242acc1-da9f-44c9-9a02-17db6c1a772d',
+    '99678227-0705-464b-96d3-686846bb100e',
     'label_x',
     '73.507554',
     NOW()
@@ -15172,8 +15172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0823c312-6f6c-4676-b6cd-64d792e48f36',
-    'b6e4cf3b-a687-42c9-8566-0b07c287ba48',
+    'f74ffcf8-05b9-496c-b568-cacc81cadc22',
+    '99678227-0705-464b-96d3-686846bb100e',
     'label_y',
     '4.174441',
     NOW()
@@ -15184,8 +15184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4b3f1ba-afd4-4a76-acac-73ece3c73d77',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '35710327-5dd9-4498-845a-495ca2530efb',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'continent',
     'Asia',
     NOW()
@@ -15196,8 +15196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e602e5f-953c-458e-a6d7-18f5cbf030a1',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    'b63f3486-2eb7-4476-b237-3a5e1da2a350',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'region_un',
     'Asia',
     NOW()
@@ -15208,8 +15208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '926f69de-83bf-4732-af42-050f911f7a1b',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '2dc22824-8608-454d-bc20-42f554fe20cd',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -15220,8 +15220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1c62c12e-343d-4899-93ab-379e61f01795',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '25fa7ce6-e97d-4574-afda-b5a7774eec94',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -15232,8 +15232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2cf32d02-c188-4a5c-9170-cfc4fe0a2656',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '42e9bfb7-d4fb-40e3-a4fc-1ea00f969902',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'population',
     '31949777',
     NOW()
@@ -15244,8 +15244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a473e7ee-e48e-401c-9eb9-87596cdfdc8a',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '5237f2ef-cd02-448f-ac48-bd1d349169a4',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'gdp_md',
     '364681',
     NOW()
@@ -15256,8 +15256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '328a09e9-737d-4ff0-a4e6-46ce4d7e8b39',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '2d3d2916-4054-4142-b2da-4fa07d58c7ed',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'economy',
     '6. Developing region',
     NOW()
@@ -15268,8 +15268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17e9f113-6a23-4b7d-a452-f60dbc529a86',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    'ada50084-e7eb-45b8-bd82-063a2724b2cc',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -15280,8 +15280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bf6a7034-5b1d-4245-82b8-eed07ed9221f',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    'bb82455a-07ad-4591-9844-f0ee0599619c',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'type',
     'Sovereign country',
     NOW()
@@ -15292,8 +15292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '551b3fff-236e-4670-9950-582bc0d2baa9',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    'a492da70-da37-4525-8937-769434ba8d72',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'label_x',
     '113.83708',
     NOW()
@@ -15304,8 +15304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec58b94f-8865-45e9-a553-b5ef0449f75a',
-    '2cca97e8-a709-4528-af91-cf556a67ce3c',
+    '1443c58e-ce9e-461c-9e58-52afc3bcd2a3',
+    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
     'label_y',
     '2.528667',
     NOW()
@@ -15316,8 +15316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6fe3bc8e-ca34-4c40-b036-29564b66be93',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    'b67c9dbc-881c-4c9c-a548-a19155ffcdd0',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'continent',
     'Africa',
     NOW()
@@ -15328,8 +15328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3e1431f-14d4-40fb-be96-b4cdd8d8f447',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '7a649be0-bd6d-4fe6-938f-4babb63a9ec2',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'region_un',
     'Africa',
     NOW()
@@ -15340,8 +15340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd80c3be-862c-4538-be01-9db67c6a6ab1',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '4cc1775c-16ce-4685-8999-7c737e48e18e',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -15352,8 +15352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21a6abff-f883-437f-930c-f83ac34ca8ea',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    'da44eb80-9dcd-453a-9573-e5931f388598',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -15364,8 +15364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '49bbbc4c-d88b-46c0-bef6-a0f2cb67b29a',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    'dfe06fca-4ba0-49ba-bb02-492aa37440a0',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'population',
     '18628747',
     NOW()
@@ -15376,8 +15376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '64feb346-a69e-45aa-bd5f-97684e984b7f',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '5b355217-c117-4929-829f-c92008d5f6c4',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'gdp_md',
     '7666',
     NOW()
@@ -15388,8 +15388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd87ee60-733d-435d-98fe-0cb07f07ca51',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '84365ff7-50e2-48d4-aa22-be45d2420e40',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'economy',
     '7. Least developed region',
     NOW()
@@ -15400,8 +15400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f753292-fb99-42e8-b497-6ed33a310187',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '2a7c58e1-0235-4d8d-b58f-b1266d772ea2',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'income_group',
     '5. Low income',
     NOW()
@@ -15412,8 +15412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06b6fc35-1028-48d3-869b-c3e07d8abba7',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    'b43fdad0-16e1-464b-9701-9f9f002a4c49',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'type',
     'Sovereign country',
     NOW()
@@ -15424,8 +15424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd36cd06-281f-44cc-99e5-bd54838ce931',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '1e2b59d1-95f4-444e-8726-f3abbb6e8e10',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'label_x',
     '33.608082',
     NOW()
@@ -15436,8 +15436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dcd0e58f-2078-4512-9936-274e0a014dbe',
-    '54192116-617a-4d40-9455-234274be3b8d',
+    '3f4c8319-779b-4113-b301-30bd5d0baec0',
+    '4c839947-763e-4654-adfc-c706b03c5563',
     'label_y',
     '-13.386737',
     NOW()
@@ -15448,8 +15448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ada380df-1c7d-4400-bc97-93cf6ec04f35',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'a93f57c9-e8a8-4473-8519-553d5b00fe8f',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'continent',
     'Africa',
     NOW()
@@ -15460,8 +15460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '834334f2-364f-4988-9eae-eb0a857e4009',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'd1989c63-b5a4-43a1-904c-bc4bbcda4578',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'region_un',
     'Africa',
     NOW()
@@ -15472,8 +15472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7f742e8f-d577-4f51-9534-a8d39094441b',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'be600519-dea1-4c44-afc5-0af1f22f6b93',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -15484,8 +15484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ee911c4-a523-45f4-a71d-a5e26f4cc9b2',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'af135345-4a5c-4cb7-b6df-f1a84d34a38b',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -15496,8 +15496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4aaa49e-d2af-4a8d-8063-97dd5ae4a203',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'f7c5da74-7ac1-4282-a54d-10eee2677294',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'population',
     '26969307',
     NOW()
@@ -15508,8 +15508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd6ec37a0-fb24-4ab5-837f-23d9d137fb2c',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    '86f66fef-5890-44fd-90c5-afe1ecd29a96',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'gdp_md',
     '14114',
     NOW()
@@ -15520,8 +15520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '237a9804-a093-4d1c-a780-edf6ff0736e7',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'd71aefc8-9324-45c5-ac5f-dd643fba64da',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'economy',
     '7. Least developed region',
     NOW()
@@ -15532,8 +15532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0ad1fa6-9e07-4ab6-a77f-2ba56ea99fb6',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    '5e3e90b1-2fb8-4c19-87c0-5f8377836ef5',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'income_group',
     '5. Low income',
     NOW()
@@ -15544,8 +15544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '40e7f965-ba48-4fec-8927-7c350bcb32dc',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'a2a9af13-560a-4a43-994a-c70de57c8ba7',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'type',
     'Sovereign country',
     NOW()
@@ -15556,8 +15556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '64c1ec91-d64d-4798-81fd-d62701c83d22',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    'ed5257ca-9648-4920-a5a7-ba1a3006905c',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'label_x',
     '46.704241',
     NOW()
@@ -15568,8 +15568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b2655f4-7470-4faf-96e6-7fd7a2100231',
-    'ea08a526-6d83-4901-9d19-1cd6c16296f0',
+    '26192dc7-2e81-47fd-92f0-5df0a582d9dd',
+    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
     'label_y',
     '-18.628288',
     NOW()
@@ -15580,8 +15580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5302be7e-b4b6-437f-a892-f616bc54a78d',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '9cafab33-7df7-4707-8529-1cf39a15ebbe',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'continent',
     'Europe',
     NOW()
@@ -15592,8 +15592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3ac9808-5fe1-487e-87f5-b01188ab3f18',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '6aa2fffd-fcf7-44c2-9450-7f3c7b8c90d6',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'region_un',
     'Europe',
     NOW()
@@ -15604,8 +15604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '304b3c70-5f60-4c21-a253-c6968ca64196',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    'b244fff0-ec98-45ab-8eeb-b762f1cac47f',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'subregion',
     'Southern Europe',
     NOW()
@@ -15616,8 +15616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8ef5c248-93cb-4c4d-bea4-02b3b90c17fc',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '63659d25-b083-4ef0-b87b-e88351645317',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -15628,8 +15628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4d6738f-51ad-4f38-b971-8827ff231a58',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '76c9955f-1814-47c4-a1c2-515b152379ad',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'population',
     '2083459',
     NOW()
@@ -15640,8 +15640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c51ee68c-8e96-4973-8a52-ebbcc163476c',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '994de54c-6a23-47bc-afb6-f95cd3f7b5e3',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'gdp_md',
     '12547',
     NOW()
@@ -15652,8 +15652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca01962c-8522-49c8-a577-5d38d801b05a',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '5baf57f8-250d-470f-be5a-e520197a68e4',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'economy',
     '6. Developing region',
     NOW()
@@ -15664,8 +15664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9556ad15-ec41-40da-98d7-53546e193391',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    'cc2f82f7-6f4d-4598-aeac-2818831df476',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -15676,8 +15676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88978ed3-1bd4-4f21-8628-91a04bd6e0b4',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    'e02a3c48-005a-420c-94d7-407950afeed2',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'type',
     'Sovereign country',
     NOW()
@@ -15688,8 +15688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d92bad7-c983-48cc-a219-27f8a21d9bbc',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '498838ff-deaf-4287-9eef-db9658f44814',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'label_x',
     '21.555839',
     NOW()
@@ -15700,8 +15700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3987e64f-0154-4420-ae70-6139c08a4c28',
-    '1ec3e108-9dc8-477e-8963-2ff597cf70a2',
+    '2f13138b-c85d-492c-af6c-5edaef1bf7fb',
+    '9b576835-9395-42ab-950e-0784a4838648',
     'label_y',
     '41.558223',
     NOW()
@@ -15712,8 +15712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a526f367-702d-42ed-b5e8-6031681c70ff',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '1f8072be-0d02-4b21-9f5f-09971e324479',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'continent',
     'Europe',
     NOW()
@@ -15724,8 +15724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '31ad206a-80ce-4e63-a07a-5b43c66b8775',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '0fe7060c-75f0-4e17-8a08-f9375fd86e9b',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'region_un',
     'Europe',
     NOW()
@@ -15736,8 +15736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c035bb1-8553-4ee3-92cc-08c4e395b2cb',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    'e35bf6b5-4330-483c-9790-bafe55e72b00',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'subregion',
     'Western Europe',
     NOW()
@@ -15748,8 +15748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '737b55db-e8a6-4843-86bb-1040d5402180',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    'ea94cdea-60dc-4d5e-9308-f64c1baa9b98',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -15760,8 +15760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21241c30-3c4c-49ed-a1d8-f72ebd9d3409',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    'df0bfb68-f972-4862-8652-e32db7bef0e2',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'population',
     '619896',
     NOW()
@@ -15772,8 +15772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '39762389-dd80-4d97-95b0-9d0de7b27129',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '18dad905-3afc-47d5-998f-8ca1286260b3',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'gdp_md',
     '71104',
     NOW()
@@ -15784,8 +15784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4b9fbff-dca4-4e61-97b8-a41438923f46',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '9a05f233-4e6a-418c-9b0e-96f9230d3633',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -15796,8 +15796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '336ec1be-618f-4ec1-b187-5f7dda89ae46',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '1bd94345-957d-4d14-b9bb-3ebf9b3cc2ee',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -15808,8 +15808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6fb13332-dfc9-417e-ae8a-d179e3f60796',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '9b1591ce-fd29-4623-9623-ce367149e29d',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'type',
     'Sovereign country',
     NOW()
@@ -15820,8 +15820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '09e985fc-07a2-443a-b1e2-0a0b43732eef',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '1e744f3b-7df0-4fc3-a241-c1682d21e96f',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'label_x',
     '6.07762',
     NOW()
@@ -15832,8 +15832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e366ac96-f9f4-444c-8b60-3c95b0a99f4f',
-    '34f75ce5-449b-45cc-ab9c-3d9311fe925c',
+    '968f3703-f9dd-46a4-9ae2-3a0e38e2dddb',
+    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
     'label_y',
     '49.733732',
     NOW()
@@ -15844,8 +15844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0fe7e5b-2db0-4fee-8384-907acde05de8',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '5a98fd9b-4392-44e7-b03e-240e50690faf',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'continent',
     'Europe',
     NOW()
@@ -15856,8 +15856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '03a53685-dab5-4dca-9c02-2e1afd8290a6',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    'dbded20b-e6f0-4535-80ce-dc1c34f0cbe9',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'region_un',
     'Europe',
     NOW()
@@ -15868,8 +15868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ffb60731-add8-4dc3-b9b1-df81cbc59fc9',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '9a44a6ca-3694-4c9d-9728-118fccf5c7d7',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'subregion',
     'Northern Europe',
     NOW()
@@ -15880,8 +15880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88aaf39f-c7f0-4815-8aef-f9aece6b3e8b',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '277e9401-a2c2-4217-a3a3-ab989e3ca808',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -15892,8 +15892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54fdf68c-05e6-4373-a709-333c57521214',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '0b471d96-37cf-49fa-a446-2413e46b72d0',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'population',
     '2786844',
     NOW()
@@ -15904,8 +15904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3875b411-193e-4219-b3a7-a40bfed2b59b',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '8418c0af-12e3-4065-b6c9-634fc4309393',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'gdp_md',
     '54627',
     NOW()
@@ -15916,8 +15916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1abcde2e-71c2-4d2e-861a-a698433da9e7',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    'eaf97b99-3f10-4a8c-8ea3-01d404a08788',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -15928,8 +15928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1284f211-3301-4208-a2cb-a3fd05648116',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '7de02201-721b-453b-a86b-0eeb647aecf9',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -15940,8 +15940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'de6cfc84-f830-4d0c-b783-2226a842c4be',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '00543148-fb1d-483b-b640-81d1e51249c3',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'type',
     'Sovereign country',
     NOW()
@@ -15952,8 +15952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb879cd8-cdc0-410d-beb9-10858f78de28',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    'b11b6aba-893b-4516-938f-ff613e23d28d',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'label_x',
     '24.089932',
     NOW()
@@ -15964,8 +15964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '390af7c3-061a-4a4f-9f7a-395cb731f203',
-    '964a8030-dbbb-4525-8352-7be2ff761a0f',
+    '7d5c525b-0072-4cf3-8f30-8b5072ce1d42',
+    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
     'label_y',
     '55.103703',
     NOW()
@@ -15976,8 +15976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '702cfa57-baf8-4ac7-b0ed-54d3ca8fd3a0',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '27d40956-ae76-49dd-ac85-29e844c36091',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'continent',
     'Europe',
     NOW()
@@ -15988,8 +15988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c8e5421-92e5-4d7d-8650-c28367c9ba7a',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '08e675b6-dfbb-4c18-bd73-f627e77e7277',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'region_un',
     'Europe',
     NOW()
@@ -16000,8 +16000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b5b21ab1-1001-4c1c-a1c9-4de881450265',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '69dfbf87-c974-4bbd-bf3f-0b8d58cb252c',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'subregion',
     'Western Europe',
     NOW()
@@ -16012,8 +16012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5941307d-8c90-4521-a7c1-fb22f3bc5b2e',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '08906b66-0197-4a33-b477-8fae980de89b',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -16024,8 +16024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '621476a2-f775-4518-812c-1ba458b8f41f',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '68ff2728-08fa-4b13-b267-47821c0c8790',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'population',
     '38019',
     NOW()
@@ -16036,8 +16036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '959f7165-a7fc-4cc8-8dec-95f6dd0213b0',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    'd5c20df8-a080-44cb-ba91-80821dfde034',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'gdp_md',
     '6876',
     NOW()
@@ -16048,8 +16048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '63797677-04b9-4743-96f3-092e91665e9e',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    'ec5bf918-21f7-4d6a-a644-8f839cba83ad',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -16060,8 +16060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6ce23e8-1f7d-4a16-b1e8-bd086e6be32d',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '0239c06f-e064-4a1a-ba60-d503eef44161',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -16072,8 +16072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6469f13d-2214-4465-9562-bc1ba090299b',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    'e69b96c4-d0ec-4632-b58d-8d49033b2c54',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'type',
     'Sovereign country',
     NOW()
@@ -16084,8 +16084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d7d9009-1caf-46b8-a80e-624c8f5e8716',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '847b419d-d452-46a9-8819-253dfc82a6bd',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'label_x',
     '9.559439',
     NOW()
@@ -16096,8 +16096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95d4fe76-9395-488f-8eeb-18455e419a57',
-    'f73c5721-b093-484e-bd91-cc81fbade67b',
+    '3f00a084-7d53-4fef-a332-87a7e7eabfce',
+    '599b3365-980b-4f16-9a32-f1e03359a432',
     'label_y',
     '47.111405',
     NOW()
@@ -16108,8 +16108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f7bbf9c0-7f64-466b-954a-d44e7f73e479',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '2f2742ba-75e9-4a74-a309-c3047eb53a11',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'continent',
     'Africa',
     NOW()
@@ -16120,8 +16120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ade61f46-d9aa-4931-b6a8-ebe518f55151',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    'ddc258b4-b048-4928-be9e-0cb1c89be2b9',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'region_un',
     'Africa',
     NOW()
@@ -16132,8 +16132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca9302d8-c21b-40bd-a924-6eabe67d3969',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    'ded92487-1d31-4ed5-a79d-49c9064a07c2',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'subregion',
     'Northern Africa',
     NOW()
@@ -16144,8 +16144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4219cd6-53bf-4df7-9982-188fb914a525',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '4e85a4f9-9522-426c-88d0-16053ff03653',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -16156,8 +16156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32b21ecf-be91-41ac-a2ea-6e569542aae9',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '83f610b2-ae47-4771-b86e-bd153a5251a2',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'population',
     '6777452',
     NOW()
@@ -16168,8 +16168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c085cc68-8c41-4fe1-9aae-ce0df8a3cb81',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '41ba1d84-1f1f-45e2-8733-b8d63e217296',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'gdp_md',
     '52091',
     NOW()
@@ -16180,8 +16180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7cd4edfd-1f36-428f-ae5e-c0900a9fe3eb',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '26a7007c-0f56-4e34-9400-3f736bf3c93d',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'economy',
     '6. Developing region',
     NOW()
@@ -16192,8 +16192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '711a7422-0d96-4d94-a4ae-27d39b16cedb',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    'f8eda306-1595-4a59-a82a-892c4bc9d07f',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -16204,8 +16204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '674a02a9-a314-49fc-8a79-81b0d881628a',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '25689190-c723-4970-90db-8f513801e7ee',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'type',
     'Sovereign country',
     NOW()
@@ -16216,8 +16216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fe468b9a-4a46-4ad1-b43b-70940e9daaa9',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    '05d8c900-85bf-4eab-9caf-78abc97a5a32',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'label_x',
     '18.011015',
     NOW()
@@ -16228,8 +16228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '105eafe8-2d46-4440-b636-21744bf31524',
-    '1d527a73-4be4-47b8-9485-2fc3e48251e9',
+    'ab1411fa-7e5c-4e87-aea2-b2b1d140406a',
+    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
     'label_y',
     '26.638944',
     NOW()
@@ -16240,8 +16240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99014682-99d1-4c84-bbd2-11fc5d7c77fe',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    '519ef5f6-cc60-4fc6-b2f0-bb20477a3e3c',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'continent',
     'Africa',
     NOW()
@@ -16252,8 +16252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17167bc8-cfe3-4420-8701-a97ba23f250a',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    '72d3386c-f5f0-4cbf-a1d4-fbf8270bb7e0',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'region_un',
     'Africa',
     NOW()
@@ -16264,8 +16264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eeb4852a-ebea-4608-8398-c3d64e087d72',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'e9d6f46b-b68e-4580-a6d8-0f5b36a417cb',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'subregion',
     'Western Africa',
     NOW()
@@ -16276,8 +16276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96e332f2-09c8-4d4e-afbc-9384fbfabf8c',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'b07ac67b-6e2a-4f6b-941b-8ad6e98ba234',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -16288,8 +16288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25bbcb95-887b-438c-89c7-f42a2bad23fd',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'f44f1d98-6788-4bc3-8752-276db91ad0ba',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'population',
     '4937374',
     NOW()
@@ -16300,8 +16300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '07bec933-eb2e-45da-82f6-dbd97cb41798',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    '0b51bd0e-340c-4c48-b2f5-60a2162f9afb',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'gdp_md',
     '3070',
     NOW()
@@ -16312,8 +16312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '33ccbcc2-a4f5-4f20-a1fc-684fa5d59687',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    '313c26ba-c807-45f6-82fb-3f45cc9fe028',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'economy',
     '7. Least developed region',
     NOW()
@@ -16324,8 +16324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fcb3746f-2ade-428d-83a0-8798e99bd514',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'fd691529-cecf-4c39-b9cc-ec3cf65303cc',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'income_group',
     '5. Low income',
     NOW()
@@ -16336,8 +16336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7bad462-9279-420f-ad17-5d7415754591',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'e27bffe2-fb72-4d9f-9f90-3c153892f304',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'type',
     'Sovereign country',
     NOW()
@@ -16348,8 +16348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c3f90b7-0551-4236-aa9e-afe31ff77f16',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    'e0ba7d36-38eb-46f1-a531-a1607d012284',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'label_x',
     '-9.460379',
     NOW()
@@ -16360,8 +16360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '75d77e27-bac1-47d3-8f99-e562a439b14c',
-    'a3a62629-3b4a-455d-b5f2-32e62eaf6f4d',
+    '10c9e337-cd80-41e2-9284-5c4a7aea605a',
+    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
     'label_y',
     '6.447177',
     NOW()
@@ -16372,8 +16372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e91a5b5-ac28-497a-a970-a16a2ad5d795',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '47708d7b-2d3b-4358-81c9-865666fa7020',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'continent',
     'Africa',
     NOW()
@@ -16384,8 +16384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98a52b08-dba9-4a95-b312-1e4107710fa9',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    'ddd5df6f-63f1-419c-bca6-2f5d88bed08c',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'region_un',
     'Africa',
     NOW()
@@ -16396,8 +16396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95d791c7-bf03-49cd-ac98-68eb040117f4',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '9e5cf19e-51f5-4cea-8ca3-64c91fc0c1f0',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'subregion',
     'Southern Africa',
     NOW()
@@ -16408,8 +16408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b8cf47a9-dcfc-44ee-be4d-a5b47642a602',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '7f352391-79d3-4346-a908-7ba4b4da4621',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -16420,8 +16420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5b1ff9a1-af05-448f-82ea-79ac248180e6',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '5a655589-d6ba-4e07-a334-4ac6fba750f6',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'population',
     '2125268',
     NOW()
@@ -16432,8 +16432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'feb2a05f-d63d-43c8-98fd-4d3ee1e219ce',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '79366870-e14b-4e8b-9e50-2ff0b23d1e5e',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'gdp_md',
     '2376',
     NOW()
@@ -16444,8 +16444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98ec92b9-ff45-47b4-9ab2-2abef4b560f6',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    'd95fbf1d-ec7d-4695-9191-b1747d9e263a',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'economy',
     '7. Least developed region',
     NOW()
@@ -16456,8 +16456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '118f1d6b-70b3-4db0-ab9b-e283ba9a5985',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '6f275167-e16b-4662-ad95-16f0acdd1f27',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -16468,8 +16468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15407f06-fdab-4c4d-ab15-8a35204eeb06',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    'ddbd061b-efc1-46fb-8182-9165f58d616d',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'type',
     'Sovereign country',
     NOW()
@@ -16480,8 +16480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f7c88a8c-5564-4e3c-ad0a-55fb6284404b',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    'fc3d90bc-e2ac-46e5-b133-ab168fbe4eb3',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'label_x',
     '28.246639',
     NOW()
@@ -16492,8 +16492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71555ac5-e160-4d82-b08a-f5abfbaa52e5',
-    '07446732-b433-40c7-8c0f-7a1efe6ac726',
+    '06d6f54d-abb5-4620-b14e-9958437c3b63',
+    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
     'label_y',
     '-29.480158',
     NOW()
@@ -16504,8 +16504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '10bc8d76-c10d-401f-9072-ebf11b78bc79',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'ec82b670-c5e2-49d9-9221-aa9c92e6c310',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'continent',
     'Asia',
     NOW()
@@ -16516,8 +16516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '689f559f-51d6-4b0a-912d-06fe37071671',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    '36a662ef-aded-4d8f-a4a8-edf1e7ad490b',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'region_un',
     'Asia',
     NOW()
@@ -16528,8 +16528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e5696533-bb8f-4463-8825-e97d0b8ffb17',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'a56c166a-2b4c-4cfa-af92-0ccb7deb7545',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'subregion',
     'Western Asia',
     NOW()
@@ -16540,8 +16540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4a2d953-0b40-4fe7-ae26-807c38315a39',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    '4381131f-5057-4918-823d-19a4f0d0819e',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -16552,8 +16552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd3c67883-2347-48c6-9ac1-14acba3f3782',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'cad28b42-a7b2-4fc9-b852-511b1769ca91',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'population',
     '6855713',
     NOW()
@@ -16564,8 +16564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5001f5de-e8b6-4f39-b569-38312ca0d42e',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'dd9ac5f3-915e-4a62-9b9b-84753ea2c7cf',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'gdp_md',
     '51991',
     NOW()
@@ -16576,8 +16576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7b4502be-21b7-4396-9024-a951b55f79e3',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'b0880448-e165-4889-8f5b-fea804bdb82a',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'economy',
     '6. Developing region',
     NOW()
@@ -16588,8 +16588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a816d512-e8d3-40da-a061-20ec7a88efb8',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    '0ea8d318-fafe-4e8c-9d38-f675027e3c64',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -16600,8 +16600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '183a12ba-b019-41f6-b5c3-62c38f9da878',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'babee8b8-73ad-40d5-a534-6c914edd3e32',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'type',
     'Sovereign country',
     NOW()
@@ -16612,8 +16612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c97cba05-b958-4816-ab1a-f678b155ac47',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    'a5995460-ebd8-4cfc-a0e1-cab182e564aa',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'label_x',
     '35.992892',
     NOW()
@@ -16624,8 +16624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7605afd4-66e2-4c9b-b4ca-33751dbd1a70',
-    '02f0d1ac-97e5-43cc-b331-a7100c32784b',
+    '28658a54-314e-490d-ab9f-3a6eb217748a',
+    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
     'label_y',
     '34.133368',
     NOW()
@@ -16636,8 +16636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e33cf47c-a0c2-4ff8-9cb3-ee362e1bcb6b',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '35663be2-89fd-499f-b026-b36e4521df23',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'continent',
     'Europe',
     NOW()
@@ -16648,8 +16648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6861fce4-0c8f-4966-bd87-410c568af59d',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '74746ae4-6cc2-4378-aef2-3f7388c03fa3',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'region_un',
     'Europe',
     NOW()
@@ -16660,8 +16660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1e76346-5543-44d2-9ec2-7f079fdca532',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '5de62a76-dbb0-471d-958a-80f852226950',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'subregion',
     'Northern Europe',
     NOW()
@@ -16672,8 +16672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4b397250-b770-4efa-a0f2-a06ecfa8fb4e',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '918bfd10-972d-4383-b79e-c191d394fe74',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -16684,8 +16684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c74dd7f4-1656-49e6-b17e-45d7ba1d00ce',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    'd967cb89-183e-44e2-9763-c69e4759f119',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'population',
     '1912789',
     NOW()
@@ -16696,8 +16696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e96bbb4-9c9a-4455-94e6-4953d465513f',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    'f202a8ad-65ec-46b9-a951-5cd80ad21be1',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'gdp_md',
     '34102',
     NOW()
@@ -16708,8 +16708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9980716b-7d7e-42df-8e93-6418d8de76b6',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '85b79f16-767a-43ea-857f-7c28c46e2b4b',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -16720,8 +16720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c9f362c-c688-4ae5-964f-edcac83b9f9c',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '5931d00f-bbd7-4b14-b49c-34d9b1ac0fe1',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -16732,8 +16732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f86c1d8d-a4b3-4aaf-a6ca-a49f7e9b47eb',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    'ab370c21-26c4-4b95-aa2e-596a37619f45',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'type',
     'Sovereign country',
     NOW()
@@ -16744,8 +16744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f1d1861-0070-47f9-918c-a1318f1f71eb',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    '442df56f-1eee-4a3d-b4ee-a740ceb73304',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'label_x',
     '25.458723',
     NOW()
@@ -16756,8 +16756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78572c3a-6dfe-4712-88e1-685aaea4e05a',
-    'a6c70f29-c0bb-41ea-9d92-09db7f6c05c6',
+    'de4ed8e6-9c8d-4407-9fc4-dbde3371d69d',
+    '196b8b74-3541-47cc-b3de-e42e25e9360d',
     'label_y',
     '57.066872',
     NOW()
@@ -16768,8 +16768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd44f8de8-5c7f-4fb2-b5c5-71d21d9b66ed',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    'e07c1ccd-661e-4c6c-b002-5f8d67fa5c09',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'continent',
     'Asia',
     NOW()
@@ -16780,8 +16780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2568afc6-7e95-4438-b3d6-021038b2d11d',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    'e167a67d-caa0-4d00-9469-cc0d88456d71',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'region_un',
     'Asia',
     NOW()
@@ -16792,8 +16792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a6b3871a-af56-4365-8ff5-270f06a024d8',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '14ab5329-940e-4c08-b72d-f84777aa6d61',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -16804,8 +16804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '214c5d8f-12b6-4e25-9876-e89b750303f0',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '37fdee66-870e-418b-bd0a-2022b6bd6ffa',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -16816,8 +16816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af68c8b9-defe-4a27-9889-e27590615f02',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    'ee42f368-5b10-4150-8654-566199e832fd',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'population',
     '7169455',
     NOW()
@@ -16828,8 +16828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61305c1c-f6d2-4ed7-8e12-84e8d160f01c',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '84f4726f-4cce-4ba6-ad11-4a936c58ce23',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'gdp_md',
     '18173',
     NOW()
@@ -16840,8 +16840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd794e515-15b1-49fc-8b8a-e1ff095e307c',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '81e1dce2-e1fa-411a-938f-5049430613ac',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'economy',
     '7. Least developed region',
     NOW()
@@ -16852,8 +16852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e017c80-7cdf-42b7-afb3-3ccb32b84474',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    'edb3ae24-1e17-4ddb-b746-07cd63661401',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -16864,8 +16864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'adff8e47-3057-41b1-aa6d-d036eca96dc7',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    'e42b65c7-ce73-4e89-bfcc-4dcf08ce8f6c',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'type',
     'Sovereign country',
     NOW()
@@ -16876,8 +16876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cbf8c6df-ac19-4113-ab84-1393a2bd2430',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '72db5a00-4f70-467e-8cbc-334dc177b192',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'label_x',
     '102.533912',
     NOW()
@@ -16888,8 +16888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a5368bc-a39d-47db-989a-c51b6154a4f3',
-    '0cbc2f78-bb72-49d3-b7a2-98298541437d',
+    '18d8c9dc-f2ab-4975-8a9e-6a9a9b15955c',
+    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
     'label_y',
     '19.431821',
     NOW()
@@ -16900,8 +16900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '48eb957b-3785-41cf-b2ca-ad136f3186e6',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    'ad47bd5b-adbb-4131-b3dd-76c63f0d88d5',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'continent',
     'Asia',
     NOW()
@@ -16912,8 +16912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b5883f4-ad2a-459c-bfb2-63a1f89d2cde',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    'cfe3a296-f2ec-416c-8004-6a0c5075317a',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'region_un',
     'Asia',
     NOW()
@@ -16924,8 +16924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd7fab5b-4829-4a23-972b-c494b8038364',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '8d9e8f17-0ada-4fcb-8e4b-9f65df640c1a',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'subregion',
     'Central Asia',
     NOW()
@@ -16936,8 +16936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7a75cb63-05ef-4354-8fd5-056c7c662dd8',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    'ba500932-af00-4ee1-b22f-c5d7d81bb623',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -16948,8 +16948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '34b7341c-429e-45ea-9a49-32f24c6f444d',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '5ce79153-9a32-4af0-8b59-c816ac7b42e7',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'population',
     '6456900',
     NOW()
@@ -16960,8 +16960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d46fae6-4e74-446b-bf27-2d5d283e159f',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '01d815da-16c5-42cb-85e9-2b9dc76bb925',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'gdp_md',
     '8454',
     NOW()
@@ -16972,8 +16972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93cb7e45-5d60-42ba-9ac0-c6c93c667614',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    'f5dfb71d-b072-405e-8ac0-290a536a5fd5',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'economy',
     '6. Developing region',
     NOW()
@@ -16984,8 +16984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd6a6ff1a-5013-419e-baa7-7aaa3ce551a2',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '1d557932-fb32-4945-ab38-0c8b182007fc',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'income_group',
     '5. Low income',
     NOW()
@@ -16996,8 +16996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86e1387e-f0d2-40b4-b58a-178db9024342',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '332e67f2-2158-4388-8c48-b3f0d6f82f40',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'type',
     'Sovereign country',
     NOW()
@@ -17008,8 +17008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6f8d3932-8d24-423f-aa62-44404c5ee0e3',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    'c8e045f5-6f6d-4a12-8958-0a719eaf47f8',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'label_x',
     '74.532637',
     NOW()
@@ -17020,8 +17020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a6828af-52ed-47ae-9bb6-ff63ed84e139',
-    '8ab8c354-7ac6-48b3-9fde-81881a4fc079',
+    '8dfa6fc6-88e4-42dd-a8b7-4aee0af9b6bf',
+    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
     'label_y',
     '41.66854',
     NOW()
@@ -17032,8 +17032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '79a5e9ef-4f88-4e23-8e46-f129ef3b2fa5',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '512c5b42-5dcc-44a6-8ab6-c755c467fdaa',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'continent',
     'Asia',
     NOW()
@@ -17044,8 +17044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a0b29cd-6790-4610-bfbb-67500a568ce2',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '63a79e60-786b-4b93-a719-61b79c77e023',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'region_un',
     'Asia',
     NOW()
@@ -17056,8 +17056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '38fb5900-2d72-4803-b9a2-585684b6a863',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '210fcf40-fd37-4af4-8b00-6ea087e576a9',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'subregion',
     'Western Asia',
     NOW()
@@ -17068,8 +17068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c4d08eb-3d44-4b95-a47e-a45c843f0c00',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '642fb0e2-5f88-4543-94fb-f34fb456b8e5',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -17080,8 +17080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44be69e9-c721-40e6-bca0-2499308bd713',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    'ed522324-0213-4348-966d-424699b8ddb5',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'population',
     '4207083',
     NOW()
@@ -17092,8 +17092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e0b79d1-82c6-48ca-97da-7d2129f2da2a',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '0694b1ce-6c83-4d83-ac4a-80061715dcab',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'gdp_md',
     '134628',
     NOW()
@@ -17104,8 +17104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'de0171f8-d0c0-413f-97b6-2467e474eaa5',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    'f79d1766-de52-48fd-ae27-1cad0bd3e952',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'economy',
     '6. Developing region',
     NOW()
@@ -17116,8 +17116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '273a315e-3127-4d74-a0d1-4154c109b1da',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '7e1ba9b0-6cbb-4288-b003-bf160bf30865',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -17128,8 +17128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7e6a1b4d-cd53-42b6-9e50-30c430994f5e',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    'bda6bd44-2bae-4a94-b74a-702922d7abb7',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'type',
     'Sovereign country',
     NOW()
@@ -17140,8 +17140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '40fd6269-68fa-4506-aaf8-5f38ecfff850',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    '87a6cdda-347c-4088-be46-e577803738db',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'label_x',
     '47.313999',
     NOW()
@@ -17152,8 +17152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f82e7af-4996-4ce3-9c68-850ff760c25d',
-    '0068c9f0-596f-46fd-91ed-e56d4e8bc840',
+    'afd87e2f-69a4-4102-ae0a-cbd1d1ba0df8',
+    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
     'label_y',
     '29.413628',
     NOW()
@@ -17164,8 +17164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50c7561f-d98d-4eb1-b902-39f45d8f85f6',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    'c00e2327-a954-4ac3-b6c2-e1761d4ee32a',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'continent',
     'Europe',
     NOW()
@@ -17176,8 +17176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54812644-3c8b-4b6b-bbef-60950b9bbada',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    'f9366239-4fab-4589-bdf2-1737153658a9',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'region_un',
     'Europe',
     NOW()
@@ -17188,8 +17188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a37379ef-603a-4d14-8e2b-194824453d48',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '88cd0289-d00c-492e-b548-1e0af76d7967',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'subregion',
     'Southern Europe',
     NOW()
@@ -17200,8 +17200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a008283a-d6f1-4394-9677-bfe51da4fe36',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    'b3d25724-dceb-41fe-a101-5bced0caf763',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -17212,8 +17212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1d41d7c-4cfd-4b84-a1ec-242add3d8860',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '6366c2ab-1d57-447e-a8ac-74c5785decb1',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'population',
     '1794248',
     NOW()
@@ -17224,8 +17224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c14ccc3-23a7-4479-898a-be4273dab04f',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '9c215ee4-6ebf-4397-a4a5-dde21c8ba7b7',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'gdp_md',
     '7926',
     NOW()
@@ -17236,8 +17236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85f36a95-4cc0-4005-82a5-256ddcd4e7ad',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '35e5fcc2-d226-432d-b60b-8e16449a067a',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'economy',
     '6. Developing region',
     NOW()
@@ -17248,8 +17248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '89ed80b5-97ba-4683-a165-8be0c8a1cc7b',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '7c88d0b5-51e5-4b7b-85ff-d452a4daab89',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -17260,8 +17260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0afc1a18-f4c4-40a7-84e0-6a7273dfb5d1',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    'ca05a844-0870-43eb-a02e-a7c381b4ca52',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'type',
     'Disputed',
     NOW()
@@ -17272,8 +17272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '210386c7-12d1-4766-a119-cc5e6fcddd51',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '8f972ff9-1a87-4c22-aa67-269438761229',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'label_x',
     '20.860719',
     NOW()
@@ -17284,8 +17284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2be59b36-638f-4b1c-8a0b-c0d46c6548b9',
-    '9181b077-1dd9-430c-a41b-a921cc38a329',
+    '9c113e26-392a-4608-8a9b-5cc8d7479862',
+    '58220c54-0688-472c-b5f7-02b5d426ca58',
     'label_y',
     '42.593587',
     NOW()
@@ -17296,8 +17296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3329b0be-276a-4c59-95c0-3b2eae8904ba',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '04d3be2a-162a-4924-841b-d45ed422fa30',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'continent',
     'Oceania',
     NOW()
@@ -17308,8 +17308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d7ffc6a-447f-47c5-9313-cf4714f44417',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    'd4fb98c5-6aee-4f2b-a5d2-db7cbe8ceb4a',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'region_un',
     'Oceania',
     NOW()
@@ -17320,8 +17320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f1677c6-e29a-4e23-b446-f00e51743763',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '744529c4-72d4-4006-b222-eca4c410ab8d',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'subregion',
     'Micronesia',
     NOW()
@@ -17332,8 +17332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30884359-2257-49cc-8c44-249733d012c3',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    'df3e2f84-fd38-43b9-bc70-a1cc362ff696',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -17344,8 +17344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c36f0af3-4a55-48af-b84a-e6ed9ef57970',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '3e7866ed-53ea-46c9-99cb-8dd0d26005ac',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'population',
     '117606',
     NOW()
@@ -17356,8 +17356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50917c8e-fa4e-4e9c-afda-55448115f087',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    'd4358921-f001-42b1-8034-fe031823395c',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'gdp_md',
     '194',
     NOW()
@@ -17368,8 +17368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f47cd45a-7797-43d3-87ae-09fbbea5756f',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '25465061-9f2a-40d8-aead-466300a3fe24',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'economy',
     '7. Least developed region',
     NOW()
@@ -17380,8 +17380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e7ffc64d-fca9-40a4-81dd-a80ea812a685',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '0e249825-55b1-4236-b464-0b7647a54851',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -17392,8 +17392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4a801a2e-938c-49cf-8fa0-e4e384f86d90',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    'b2199ae2-4dbc-4b27-b4d9-0b8b0d44712a',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'type',
     'Sovereign country',
     NOW()
@@ -17404,8 +17404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4053615f-a105-4bea-86e0-4e0da7051910',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    '5acae85f-8256-4ef7-813a-71706b44997c',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'label_x',
     '-157.384577',
     NOW()
@@ -17416,8 +17416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae446310-f3db-4a6e-b344-bbd7850688a3',
-    '7ba78786-2722-4247-b328-8a0f535f4397',
+    'd068ce9e-62d3-4f18-9712-37c8ddaf2d92',
+    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
     'label_y',
     '1.820437',
     NOW()
@@ -17428,8 +17428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54c67779-39e8-463b-b9e3-af505fe42a56',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '16d91393-206d-4816-894e-7d387e516e89',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'continent',
     'Africa',
     NOW()
@@ -17440,8 +17440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0827ec76-6b2a-445d-ad5f-c3b21f4709d8',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '2ac51b94-4491-483f-9d25-6220f70209a4',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'region_un',
     'Africa',
     NOW()
@@ -17452,8 +17452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87fe8010-299b-4bc8-9d37-6a43fc8a1918',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '514f7d77-05d0-4f4c-b130-220e7263c3a5',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -17464,8 +17464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20dc7ff4-7a17-4acc-8991-6c49d4b297fc',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '87f96df7-3472-4932-8a99-1feea830eeea',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -17476,8 +17476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c3960fc-7fb1-4e35-baaf-119a1d1da0e8',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '3d488369-1646-4d87-9966-1f5829864e49',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'population',
     '52573973',
     NOW()
@@ -17488,8 +17488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b67cc8d-7905-4ded-a991-cf5efeafd066',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '9380c253-cc31-4887-9c9a-6f8a3c9e2cc1',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'gdp_md',
     '95503',
     NOW()
@@ -17500,8 +17500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2fa3f91-f773-4d58-bad7-74a12329bf93',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '2c2a49ee-5272-4216-b974-61e12627ca5a',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -17512,8 +17512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce8d3529-4889-4733-9027-6d69f70ea581',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    'd52f4cd6-5f60-4084-9836-a5af60cbd093',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'income_group',
     '5. Low income',
     NOW()
@@ -17524,8 +17524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb5a87e8-cf76-491b-a27a-a35d17fde713',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '40035f0b-a3cf-4133-b1f0-c41b06db9b81',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'type',
     'Sovereign country',
     NOW()
@@ -17536,8 +17536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9023da0-7ae7-4241-8cca-cbc343f8952f',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '99282836-c4f2-40a7-9332-90707b9ef4f9',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'label_x',
     '37.907632',
     NOW()
@@ -17548,8 +17548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '24e09f03-90fd-472d-85a6-9d7b2a26fa47',
-    '42a56321-6864-403b-87e8-7744aea458f8',
+    '6715988b-0df0-4f8f-831f-0f8db7ad46e4',
+    'f33645db-fc42-4cf7-a48d-785183ae76c1',
     'label_y',
     '0.549043',
     NOW()
@@ -17560,8 +17560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '888074f9-3d79-40f5-84bb-fd5dd63fa9fd',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    'd6cf93c9-ee41-48ed-bde5-39996ef51512',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'continent',
     'Asia',
     NOW()
@@ -17572,8 +17572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9b1c00ef-408c-45da-a993-e1d534ecf21b',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '8b99c91c-8abd-4706-b9f2-2c72780032b9',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'region_un',
     'Asia',
     NOW()
@@ -17584,8 +17584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8293d697-6f04-4fe0-a517-42caec6a6622',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '544fe2fd-64ad-41c2-a226-3660405fadc8',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'subregion',
     'Central Asia',
     NOW()
@@ -17596,8 +17596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3643360a-a2c6-4690-9982-642eb72fdff2',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    'dedc1e01-e023-4351-93be-5f8888948798',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -17608,8 +17608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2c91d80-408b-4560-bd09-390161bef2dd',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '9ee39604-7d74-4103-ab64-94f03e936efa',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'population',
     '18513930',
     NOW()
@@ -17620,8 +17620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '484319c2-27d4-41f7-9779-0a7509e0bb5a',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '21e76f93-cacc-4afc-b5e2-7b516532fb0f',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'gdp_md',
     '181665',
     NOW()
@@ -17632,8 +17632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd443a98-af9c-4fe5-a277-546adc117111',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '19398b5e-ad20-4e95-8327-a4f2d4be0693',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'economy',
     '6. Developing region',
     NOW()
@@ -17644,8 +17644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f328d3b8-1839-4b2c-8da7-835b2e0e3d8e',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '2329ca16-d4e7-47fb-9839-e2737bb3e21c',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -17656,8 +17656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5bea52e-cb1e-464d-8a89-2d11e0edad1e',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '8de4db35-d022-47a6-ae20-c7e142840749',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'type',
     'Sovereignty',
     NOW()
@@ -17668,8 +17668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ff329c5-0cb9-48ff-b8b9-5a7af8e4c9a4',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    'b1736668-7d77-4a8a-bc2b-97f60aa8b9a3',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'label_x',
     '68.685548',
     NOW()
@@ -17680,8 +17680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f92a458b-6798-44c6-849d-e52ea81f99b6',
-    '6de9aae3-9c11-400a-93b7-9a11d848ae63',
+    '2b59b883-de82-4b78-a61e-07650b151c2f',
+    '29174852-3f89-4849-a384-7e1d20fd22f3',
     'label_y',
     '49.054149',
     NOW()
@@ -17692,8 +17692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7fc3c76-724c-4b7e-b8ac-310b59d1a066',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '0764df5e-91df-4b30-bcc6-3dc9fdb2f502',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'continent',
     'Asia',
     NOW()
@@ -17704,8 +17704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71dde32b-d13b-433d-a8cd-61c7f4419f20',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '6a40270d-c5fd-461e-89c2-8b086c5c711a',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'region_un',
     'Asia',
     NOW()
@@ -17716,8 +17716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b8389f2-fb00-4b6a-af05-e78d637d4959',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '86b27ace-2202-4231-b8c4-f4472cdafaca',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'subregion',
     'Western Asia',
     NOW()
@@ -17728,8 +17728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ec428da-41a4-4ea4-bd97-83697acbd893',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '3f2d9cf0-ddce-4487-b748-b2931239a586',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -17740,8 +17740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94553df1-4a06-4b2c-8729-8d8a939cec9b',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '58d46ea5-3c70-455f-817c-ee9ef1249ce4',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'population',
     '10101694',
     NOW()
@@ -17752,8 +17752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed25439d-1def-4f7f-a2f6-ef9504deb3de',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '06ca2ab8-4981-4b79-9ccf-28675e86082b',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'gdp_md',
     '44502',
     NOW()
@@ -17764,8 +17764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3bc4c21d-7942-4ecb-9f48-58bb331973ae',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '6dff8d0f-a52c-4251-8310-3457420f5a1f',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'economy',
     '6. Developing region',
     NOW()
@@ -17776,8 +17776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '38968e3f-6561-414b-b82c-ec38e57d80a5',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    'd1f81773-2539-40ee-98cd-b8476ea30ce6',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -17788,8 +17788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd7111994-dc9d-40d6-ab8f-d98b9ec11e98',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '4a839594-d090-4432-b6bf-995e78a2c8d3',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'type',
     'Sovereign country',
     NOW()
@@ -17800,8 +17800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '223edf2b-52cd-4f99-a183-be8c8d7e3db0',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    '32137f0e-96f8-4536-8bfc-ef3644100348',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'label_x',
     '36.375991',
     NOW()
@@ -17812,8 +17812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '564893ce-03a5-4e21-bc8b-2c6bd2850615',
-    '5933ba02-1d25-46f3-9267-bb6525a57c04',
+    'dab5fd41-5bf9-45be-942d-09f0f00df3a2',
+    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
     'label_y',
     '30.805025',
     NOW()
@@ -17824,8 +17824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8b097a73-b932-4b28-b321-6338ff32f05e',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    'af8415ef-ffce-489b-bd5a-493d069abdef',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'continent',
     'Asia',
     NOW()
@@ -17836,8 +17836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65a5de05-d2e2-468b-8987-4f292ad881d3',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '51aa0396-3ea8-4d9b-a4cc-5d2f668fa0f7',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'region_un',
     'Asia',
     NOW()
@@ -17848,8 +17848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5674b60a-ecee-43f5-9cae-de6b505fe51e',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '19d3e48a-fa11-4ce8-a9ea-69c6b55e6374',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -17860,8 +17860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '13f1f576-e6a9-46fa-ab68-93e5fde367fa',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '8583faf5-4f5b-4c2b-af2b-b4d0e875df1e',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -17872,8 +17872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f5b486c-83d3-480d-b759-38e3c970b364',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '95da7d94-780f-460e-83f1-23ea0449c213',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'population',
     '126264931',
     NOW()
@@ -17884,8 +17884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd942b81d-bad4-4970-bbdf-af73b5a2f924',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    'b71a8cdf-e01d-4b29-a931-da2d8c1493a0',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'gdp_md',
     '5081769',
     NOW()
@@ -17896,8 +17896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb8cc653-d464-400d-aa58-6b03f0ee31fe',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    'b8ccaa2b-56af-4b36-95a4-aecb3efdc66b',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -17908,8 +17908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42d61c32-a84e-4f1c-943a-17a2bd101142',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '870a0a6d-5414-4646-9fe8-895a741a222e',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -17920,8 +17920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2af2749-d64a-457f-b9fb-ebe2c292668e',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '846a41b9-98b2-4fbf-bf0e-90ccf0f90738',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'type',
     'Sovereign country',
     NOW()
@@ -17932,8 +17932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6288206d-66d7-4524-a168-92bf59f2fe5a',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '62ad1768-6bd6-41ad-92b2-693cc9b17815',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'label_x',
     '138.44217',
     NOW()
@@ -17944,8 +17944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dec89b9b-8e33-4ddd-b44c-75fcd49ae5d7',
-    'f99d64da-0a62-4c2a-9394-8f478c7790bd',
+    '790e00fe-fbfb-4fdb-bd09-d2f135b14746',
+    '5471f972-4358-4b1f-a660-ab54062e4c0d',
     'label_y',
     '36.142538',
     NOW()
@@ -17956,8 +17956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '506768cc-3d31-4c6d-8107-4bd4c69c7540',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '0b17e6fe-9cd2-434e-a5e4-5e39272dda5f',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'continent',
     'North America',
     NOW()
@@ -17968,8 +17968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5efd9e31-cde7-47e3-a39c-56eb9d85c4e6',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '075857a0-b86b-4323-b81a-353f36218f07',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'region_un',
     'Americas',
     NOW()
@@ -17980,8 +17980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2363a5dd-7981-446f-8f74-218d7f19b53e',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    'd6f26715-b532-40dd-96eb-127fe04112a7',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'subregion',
     'Caribbean',
     NOW()
@@ -17992,8 +17992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '22088628-ce1a-42d6-ac6a-d9ee70fb7704',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '1d8776e9-a29c-4602-9dfc-c603ee9b9bef',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -18004,8 +18004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9668d46b-1a3c-4e71-a0ac-a0a5eee20d31',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '3cd2c4a6-ddca-4fc5-801a-f1e9a76379ee',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'population',
     '2948279',
     NOW()
@@ -18016,8 +18016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'baa0692b-a99d-4c11-b830-bf47601fe83c',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '7916558a-2452-48cf-8e6d-9e3f1b635026',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'gdp_md',
     '16458',
     NOW()
@@ -18028,8 +18028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a1138d49-2812-4e6e-8858-936cd3f46ea1',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '6befcab5-dea9-4b1c-a9ec-5e7493102137',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'economy',
     '6. Developing region',
     NOW()
@@ -18040,8 +18040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8bd0ec41-6bc1-4741-a7bc-47e8073ad81b',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '215647fa-f3a0-4de6-9ba0-415d5e4c6414',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -18052,8 +18052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e888ccee-ea82-4a59-a41d-a0015b76208a',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '163bc18a-82fe-405b-8fd7-7c0dcf49de72',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'type',
     'Sovereign country',
     NOW()
@@ -18064,8 +18064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '861b91cd-8aa7-448d-a9c3-72ff50a7182f',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '87c3e3fb-8a6f-4fbc-bf16-69784f8e269e',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'label_x',
     '-77.318767',
     NOW()
@@ -18076,8 +18076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb876434-3e84-40e6-b548-2ec6ecf2309c',
-    'b93e16dc-0ce7-4427-9865-1cfb59c61a40',
+    '36225c8b-2d52-4a32-bcf8-9f44a9b896ab',
+    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
     'label_y',
     '18.137124',
     NOW()
@@ -18088,8 +18088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4b8bec02-4d11-410f-924b-2f4ff67ee5de',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    'c10a8816-0f66-4d3f-bd72-bc3f3b31e5a3',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'continent',
     'Europe',
     NOW()
@@ -18100,8 +18100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20d8df5a-e377-4070-9ff0-3195d20121df',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '51569214-f16e-4c04-a76f-3921cd837680',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'region_un',
     'Europe',
     NOW()
@@ -18112,8 +18112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '03765f34-b7de-4e70-87dd-d92147171e88',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    'a4429443-653a-4ac8-91be-8970390fd232',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'subregion',
     'Southern Europe',
     NOW()
@@ -18124,8 +18124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '22d82c46-1a22-49f8-9eb0-84347abcf08b',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '267d9580-6498-4661-bf4e-cc23b52357db',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -18136,8 +18136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c9892c9-0dd5-4167-a237-35bc5a1a680f',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '3fe6d737-d3f9-4742-855d-194b662db933',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'population',
     '60297396',
     NOW()
@@ -18148,8 +18148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dbe57e0e-36a3-403d-9fe4-a85a3f4f7ed3',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    'd7c58b9c-e568-4ccb-a7e2-ac75e705ce24',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'gdp_md',
     '2003576',
     NOW()
@@ -18160,8 +18160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '881f7eb6-7241-483f-a351-b22948fd59ea',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '39c20391-5d47-4c45-82fd-01bb7dbd6244',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -18172,8 +18172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dcff20b9-e280-4100-975f-4c39c58cb971',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '2b0bb537-5135-4c76-ba28-284847970274',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -18184,8 +18184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ac0c69c-cc64-483d-a217-aad7f4079dee',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    'f273858b-941a-4097-b6b5-ed986dd3d6f7',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'type',
     'Sovereign country',
     NOW()
@@ -18196,8 +18196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f942c2d5-6fdc-4044-a99a-b723f4191f76',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    'aafc6121-cd14-4905-b870-cbb0679c46b7',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'label_x',
     '11.076907',
     NOW()
@@ -18208,8 +18208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '643323d3-96a2-4bb6-8341-1717334ff40d',
-    '5c3804af-d5a9-46cb-8363-3ee26b069176',
+    '71d92b18-c293-40be-82dd-8704563ecbc7',
+    '7f468b61-66de-4e07-af46-085e07ee7512',
     'label_y',
     '44.732482',
     NOW()
@@ -18220,8 +18220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1aefffeb-e8dd-415e-a95e-def655d7f6db',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '04036543-846c-43b1-8dcb-2f3f4d612e7e',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'continent',
     'Asia',
     NOW()
@@ -18232,8 +18232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20d8748b-82f1-458e-bb3b-ae7495eee75e',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '87977167-5b97-4bc2-9459-259536894bbf',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'region_un',
     'Asia',
     NOW()
@@ -18244,8 +18244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e57aa1e2-f24e-42de-bf9b-0578672ad2cb',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    'dd0ca82d-5a41-45e0-89ae-650e32c74f9f',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'subregion',
     'Western Asia',
     NOW()
@@ -18256,8 +18256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0af7b810-8502-45a5-90f0-c6f07afe5dc4',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    'dfdb18b1-dfe0-4a96-a423-32ef9ac74d8d',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -18268,8 +18268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'caaacd80-b65a-4a17-a5a3-c3a2a99a3b40',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '5247a5d5-b9bc-4a71-8f18-1befd0f65115',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'population',
     '9053300',
     NOW()
@@ -18280,8 +18280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b90f8744-4d51-49ed-ba80-419fcefa1bd6',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '369928d1-1bf4-4751-89d5-ddd209277d1e',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'gdp_md',
     '394652',
     NOW()
@@ -18292,8 +18292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1c92816-59d0-4723-8e0e-143161a5f88b',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '04b515c5-5a08-46c7-8324-db1632a5cf87',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -18304,8 +18304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e5461b0e-51c7-47e6-873b-38e016507232',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '39d261d5-0048-4eba-8db0-deeb9fc4d98c',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -18316,8 +18316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5214692-2efe-4d38-be64-c07937e01700',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    'a51b9c7b-1a33-4d90-9670-764b91b87b8d',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'type',
     'Disputed',
     NOW()
@@ -18328,8 +18328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'de50ed6c-afe4-419c-a43a-f0b10a82c4e9',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '5a9a9ac5-e996-459d-ba6b-03b79c989bf0',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'label_x',
     '34.847915',
     NOW()
@@ -18340,8 +18340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '719a485c-5f96-4871-8852-fe6d80546d21',
-    '8e994a88-f890-415d-847f-53949efdcaa1',
+    '279e1faa-13fc-4a95-93ea-c2d45a94739c',
+    '282b41f2-b081-45db-8216-303a8082e2db',
     'label_y',
     '30.911148',
     NOW()
@@ -18352,8 +18352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a53a263d-5c80-4c93-98c9-9d58e33dc3d9',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    '82e55715-29b5-4719-9e72-700dfdc335e7',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'continent',
     'Asia',
     NOW()
@@ -18364,8 +18364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '033a7c97-e67b-461f-9b06-9d669d7d2bad',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    '447a2803-d8c5-45d8-821a-604929610868',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'region_un',
     'Asia',
     NOW()
@@ -18376,8 +18376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d41f261-11a7-4f02-89b9-541f2a846a18',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    '1e26e38c-ded7-4e7a-bb54-a69209c5cc37',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'subregion',
     'Western Asia',
     NOW()
@@ -18388,8 +18388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6424a645-551c-4b4b-9f47-f90d8e350e15',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'ab55efe1-11e1-4733-849c-38b569ed1f56',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -18400,8 +18400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1bdf021e-c233-488a-9e3e-77d875e0c90a',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'c69e356f-6894-48bf-a244-f16c06df8c26',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'population',
     '4685306',
     NOW()
@@ -18412,8 +18412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30a15e98-9c29-428b-865c-d8280c4b6041',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'dfbd3237-3663-4c84-a77a-895584c64e27',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'gdp_md',
     '16276',
     NOW()
@@ -18424,8 +18424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d1d03c1-89c2-4723-8dcb-52d21512a4cd',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    '8d806638-6331-4cb5-9bce-9b49cf791183',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'economy',
     '6. Developing region',
     NOW()
@@ -18436,8 +18436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd596c3a8-9a9a-4d20-9e21-6b8606422de9',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'ea202f78-436e-419e-9831-c0367631b03a',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -18448,8 +18448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3833fea5-0959-4638-ae4e-26833e1e3bc5',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'cb6ec66c-bcdd-4966-88f5-e0888a6906c7',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'type',
     'Indeterminate',
     NOW()
@@ -18460,8 +18460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d7c8b05-8671-41fd-b5a3-fcfc1412032e',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    '8e70fc1c-8f15-4da4-af10-a6fef71d149a',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'label_x',
     '35.291341',
     NOW()
@@ -18472,8 +18472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a51e7db1-3a5a-4b70-955f-1dd5f41efd54',
-    '5f31d7fc-5f70-4646-9b0e-e7bf8b632f77',
+    'f8826fb5-74f2-46da-a3bf-0b513103d393',
+    'e1caaf54-183e-4633-a83d-3ce08867d936',
     'label_y',
     '32.047431',
     NOW()
@@ -18484,8 +18484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3216831-9404-49cf-853b-89bed15fa46c',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '37a57283-28c9-4a6c-8435-2be9d7c4a744',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'continent',
     'Europe',
     NOW()
@@ -18496,8 +18496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8faab6bf-7afb-46bb-b499-a3b874c9d138',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    'af19c307-c018-4fbc-ae43-dfff462bffc8',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'region_un',
     'Europe',
     NOW()
@@ -18508,8 +18508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52aea0bb-66ca-4258-bf44-d9f0c81b24b4',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '94379c23-a443-4924-aba2-c4ccc3b5dfa5',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'subregion',
     'Northern Europe',
     NOW()
@@ -18520,8 +18520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c2618cd-45a0-448e-ac78-c9f0394403de',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    'e41c6047-a25b-4a9f-b799-91aa148fc176',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -18532,8 +18532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91e9c8bb-91dd-4039-bd21-825011229c6e',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '82cbfbc6-fba5-4a9d-85f3-271c81bec112',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'population',
     '4941444',
     NOW()
@@ -18544,8 +18544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b569550c-f7e9-4f76-8f66-e2152c016411',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    'd19aeecc-cd0e-4d71-bd8c-e2b97f5bf8d5',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'gdp_md',
     '388698',
     NOW()
@@ -18556,8 +18556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d996a1f-6e43-4c3d-a1ee-7927105fd41e',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    'c5b2ab44-52af-4331-9099-f2520ae981a3',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -18568,8 +18568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15b54237-63b7-4a8f-b454-cd53e8ca9420',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '9366dce1-0f84-4327-a371-bf90407fa0e7',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -18580,8 +18580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dd1584b2-04fd-4dff-ab93-a1c4502dc45a',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '7629638e-b796-429d-80b4-156cbba55235',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'type',
     'Sovereign country',
     NOW()
@@ -18592,8 +18592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a65bab35-4828-4d5e-8738-a52cbedc43f4',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    '92cf275a-59c6-42cd-b05d-b857b3bbe813',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'label_x',
     '-7.798588',
     NOW()
@@ -18604,8 +18604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '510a8011-1e7b-4283-a3b8-012dfa305442',
-    '82d73d79-eb53-4002-9b4b-55e514d23571',
+    'e0534b0f-0186-4d2b-a28d-4a3fbd0fa769',
+    '57121741-7fc4-4de0-ade5-73732b3108b8',
     'label_y',
     '53.078726',
     NOW()
@@ -18616,8 +18616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2105677-25f3-4284-a610-55a5364bdb4c',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    'b6bb3575-07a2-41dd-94ed-1f07e44d342d',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'continent',
     'Asia',
     NOW()
@@ -18628,8 +18628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b6b0b0ac-7e72-4ed7-8f22-af3c68473a61',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '43c5a3fa-c047-438e-8b91-915297f24346',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'region_un',
     'Asia',
     NOW()
@@ -18640,8 +18640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f561e6fc-dbb1-45b8-a785-c714a113da0c',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    'af4b14d2-0c28-4a8c-a8a4-620e12301475',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'subregion',
     'Western Asia',
     NOW()
@@ -18652,8 +18652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ccfcb6d8-080b-4335-94ca-9e3955f85a1d',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '8e9a894d-9204-49fd-ac50-6391aac006fb',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -18664,8 +18664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb067e1f-3c5b-4a65-8cc3-44277e686978',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '7e34fc49-0a06-4324-84cd-974653788fad',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'population',
     '39309783',
     NOW()
@@ -18676,8 +18676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '048fedc3-9054-495b-be65-d195b69c6e08',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    'd5119806-d60d-4ebb-ad0f-adedb0246037',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'gdp_md',
     '234094',
     NOW()
@@ -18688,8 +18688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8d1c759-acb0-4820-8629-d313f9f796d8',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    'f2044961-98a5-433d-8aa0-b39e70ed727f',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'economy',
     '6. Developing region',
     NOW()
@@ -18700,8 +18700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cc739afe-dd5c-4c8c-baac-75fe844b60d6',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '85a16a1a-702e-4fd7-ae15-f6dfc62c6839',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -18712,8 +18712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '002dc653-1b85-470f-ae5f-61a2fa8ad0d7',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '902123cc-e0c4-43d4-beca-2762ba8fa625',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'type',
     'Sovereign country',
     NOW()
@@ -18724,8 +18724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6f1a2387-6fcd-400f-8c2d-71231b34ac66',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '1c326293-4068-4fc8-bb4b-e4b287f7d442',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'label_x',
     '43.26181',
     NOW()
@@ -18736,8 +18736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c7376d8-1a9b-49f2-904f-33a0a55b85fd',
-    '7ef3bb4d-3078-4d52-9330-8efa382c1249',
+    '483d4f7a-82f5-4ff3-be30-7f13731e3d27',
+    '608df761-157c-4542-9613-9cd61641d34f',
     'label_y',
     '33.09403',
     NOW()
@@ -18748,8 +18748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '13d255cc-11b8-4600-88db-d20c59eafa8b',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '050dff74-4157-4817-8782-39295201ce29',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'continent',
     'Asia',
     NOW()
@@ -18760,8 +18760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dd43f5d3-d715-402f-b56c-d62e7c8a5931',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '187b47a1-e551-4b0a-8e38-9866cabeec9e',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'region_un',
     'Asia',
     NOW()
@@ -18772,8 +18772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e7b1629-75da-4bdd-bbf0-70a66ab2926c',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '65870534-e9f1-4157-a024-4cdf3ccd3e08',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'subregion',
     'Southern Asia',
     NOW()
@@ -18784,8 +18784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94a6eb51-2aa0-4204-8f4d-c1180f8d0373',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    'c1b127d7-9363-4ea6-b6a6-7c81f3e6ec79',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -18796,8 +18796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2a542fd-afab-4248-8bfb-fafac44b5665',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '04ae02cd-2aaa-423f-9be4-32eb04db016b',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'population',
     '82913906',
     NOW()
@@ -18808,8 +18808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6bd8baa5-edc5-46fc-b13d-8d6860d968f3',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '69f45b1e-679e-45cd-a6e1-805eabacea3a',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'gdp_md',
     '453996',
     NOW()
@@ -18820,8 +18820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ac59828-6de9-4c9f-a890-6205da5238d0',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '17716634-cfcc-4690-b219-89fba4fb9d62',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -18832,8 +18832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d6426da-3458-41af-b2b6-3f5f596912c3',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '3fbc425a-06ef-4c42-8902-8c5165181dd2',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -18844,8 +18844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6168b12a-e6b9-4353-a7aa-ef4dadb6d64a',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    'd8540529-aca5-4419-8b2c-d9e15ecfc14b',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'type',
     'Sovereign country',
     NOW()
@@ -18856,8 +18856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54c67fc6-9c1b-48a0-8ceb-1f910db36c53',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '71b8cbcc-2604-41ce-a703-983fa2865b95',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'label_x',
     '54.931495',
     NOW()
@@ -18868,8 +18868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '414d8e90-0e99-40ad-bdf8-c231b1042036',
-    '2c57ed60-0ca6-41e2-9824-1c33e3171d48',
+    '2a6374e3-c607-4641-952b-f168c03cbb20',
+    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
     'label_y',
     '32.166225',
     NOW()
@@ -18880,8 +18880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '920ed100-174c-41cb-a654-0fd5ce3af839',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '91675d56-773d-49f2-a6d9-e3d59cc8b29a',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'continent',
     'Asia',
     NOW()
@@ -18892,8 +18892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4bac31c0-46a4-4483-964c-19cf387c26cc',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '705b589e-a9a2-4c4a-bf30-aac3d8af6091',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'region_un',
     'Asia',
     NOW()
@@ -18904,8 +18904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '960d9104-4637-4646-938e-8586d1dbcfb1',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    'faa34c12-540e-485f-b1bb-2fb594a4c34a',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -18916,8 +18916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2a2a55e-a34a-4f48-ba23-bee765b89f73',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    'e9d45adb-df28-4b27-bc46-629687bc6989',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -18928,8 +18928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a8d68753-3f51-4b24-9841-71d86158987a',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '9ab8e191-51db-45f9-beac-1948e1aa02f5',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'population',
     '270625568',
     NOW()
@@ -18940,8 +18940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '834503c2-2f9f-4bd7-8182-19cb56e1bbc4',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '0da1e471-fd79-4d4a-a17a-db180653e930',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'gdp_md',
     '1119190',
     NOW()
@@ -18952,8 +18952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a496e8b0-3712-4204-a564-759411160787',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '3a19df66-ecd6-4b7f-8ad0-d8a244441cf5',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
@@ -18964,8 +18964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3e07c32-63cd-484e-917c-cf5fedbd13bc',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '38347149-a47a-4b6a-9faf-3adf1a4d5d24',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -18976,8 +18976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5301a47-5bc1-47a1-b945-bba052665da7',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '42c72951-c869-428e-9357-e041f55f8aeb',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'type',
     'Sovereign country',
     NOW()
@@ -18988,8 +18988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87e7207d-549e-4617-b1e6-3726634f9b2b',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '6148f57f-55fc-42a6-a612-a8c08084deb0',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'label_x',
     '101.892949',
     NOW()
@@ -19000,8 +19000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba82496b-f3cf-4743-953b-93326a4b284c',
-    'e132ee94-89a5-4f28-8e40-d975daad5bcb',
+    '3196fdc0-c82b-4524-b7e3-342a8f119c0c',
+    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
     'label_y',
     '-0.954404',
     NOW()
@@ -19012,8 +19012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db2b168d-3361-47d3-8a78-7e68c3e66cba',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'eaeabd63-c1ee-4e6c-9556-013423d3e3b7',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'continent',
     'Asia',
     NOW()
@@ -19024,8 +19024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4d83080-331f-4c60-ae73-9299ea8afdd2',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'e6074395-6fff-4a0f-a51f-32c6d37363a6',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'region_un',
     'Asia',
     NOW()
@@ -19036,8 +19036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2b8cfb1-ea66-43f5-9356-f260c2f9056d',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    '9c4caa21-4084-476c-ae42-ee96d3667860',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'subregion',
     'Southern Asia',
     NOW()
@@ -19048,8 +19048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7433d011-30d0-4130-8b66-cba096b39a8d',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    '546efca8-333a-4276-9c0c-d6db4c5c23a7',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'region_wb',
     'South Asia',
     NOW()
@@ -19060,8 +19060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'daddf47f-3483-453a-bc48-a103100eec7b',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    '3b223f3b-89db-4e40-b4a4-18fd4b677e16',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'population',
     '1366417754',
     NOW()
@@ -19072,8 +19072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4433618a-7717-4993-92bc-9af69ff318e0',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'a43407f0-b95c-4bc9-a126-807a61473bce',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'gdp_md',
     '2868929',
     NOW()
@@ -19084,8 +19084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4f94890-64d8-4d1a-98ca-fbb9c5aa7d02',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'b1f72421-0ae3-4528-bb87-564b8df86b84',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
@@ -19096,8 +19096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f10ab419-088c-4081-9608-b90a4f18c14e',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'b5cd70cf-7b0d-4cf8-a14a-da705363de48',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -19108,8 +19108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '456fc3fd-4619-4e7c-8d01-8236fe0549c3',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'e759ec12-ea44-483c-87f9-1e6cda028c48',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'type',
     'Sovereign country',
     NOW()
@@ -19120,8 +19120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d94ad47-c880-410e-be6f-3fa02c872a95',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    '06578397-0937-4d91-9869-1d58ad68b4ca',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'label_x',
     '79.358105',
     NOW()
@@ -19132,8 +19132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '203e3545-3067-406f-89ee-94cb50a8c2e3',
-    'aee79045-1d65-4191-938f-5e83a4313d79',
+    'b3fc6ecf-2c5b-4268-bd2d-9dc71bdc7688',
+    '1571e521-af6f-4db6-b932-7fad4784d02e',
     'label_y',
     '22.686852',
     NOW()
@@ -19144,8 +19144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '429477fe-757f-40c2-9650-fa4cf77aa666',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '4dc09275-f856-4307-bfac-bfe76d3618e3',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'continent',
     'Europe',
     NOW()
@@ -19156,8 +19156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '567ba585-45d4-428b-8a34-19fcf27f6b7a',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '79342397-322a-4dff-ba65-fa49fb0a8271',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'region_un',
     'Europe',
     NOW()
@@ -19168,8 +19168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1343d7e2-0dfa-4826-a803-10b272941b96',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    'd256f1b3-05d9-4e43-9c0f-06797c658610',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'subregion',
     'Northern Europe',
     NOW()
@@ -19180,8 +19180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '691202d2-9ffe-4936-97bb-3dabe3616ca4',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    'b86cef4c-0167-470d-b2dd-cdd9444b5cd7',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -19192,8 +19192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a98483e0-27da-4a9e-8df9-612be50d2bc7',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '75500722-b505-4038-a1e7-7fa4e740753b',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'population',
     '361313',
     NOW()
@@ -19204,8 +19204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c57cddbb-abe5-4f2a-ab16-4f3aa8c0f024',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '8abbf3d2-d331-4ec8-aa8c-89f92ad89c7c',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'gdp_md',
     '24188',
     NOW()
@@ -19216,8 +19216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '97de152c-8845-48ae-8f24-b391ee54543e',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '6ef4bf13-eda7-4c7e-8dbc-804cffe73cbd',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -19228,8 +19228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f14abfdd-52ab-4e05-8928-28233f639fd2',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '1dcd2e76-2b35-49c3-8fff-a417a0913fb2',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -19240,8 +19240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2b7d3f85-e18b-4957-902e-656acca27e72',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '374f4d02-d500-40b1-89e4-c65decce7c1d',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'type',
     'Sovereign country',
     NOW()
@@ -19252,8 +19252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a741e900-7ce2-4866-b814-9a22abfdf71e',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '4719454d-d5ac-47bd-ac96-f80a57816e22',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'label_x',
     '-18.673711',
     NOW()
@@ -19264,8 +19264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc73e956-b6eb-410f-9060-3a7de06dbcb1',
-    '7dd8bd74-e248-41c0-91dd-a6e35aa79f29',
+    '46c6a57e-31dc-48f8-81a9-4a2281195198',
+    'c6a18276-e762-45f2-9ac1-185e7154e202',
     'label_y',
     '64.779286',
     NOW()
@@ -19276,8 +19276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8de12cdc-30da-4e0b-8dfd-dcfc96f1b7fb',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    'cf31890f-f67b-4243-9fac-8f99fefbd3dd',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'continent',
     'Europe',
     NOW()
@@ -19288,8 +19288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f9c402f-b609-4840-86fe-852ed2da47ee',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '72be747b-0ec3-412a-911d-5b7b88d2bcc3',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'region_un',
     'Europe',
     NOW()
@@ -19300,8 +19300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f7b7560-6d4e-4c69-a7c1-57ec71d2abfb',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '279a78ae-5ef0-466f-8e5f-7370b8b9b00d',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -19312,8 +19312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7c2bc8fc-8d5e-416d-8ec9-968d6c50efb3',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '7b48c0a2-42db-4425-a757-d038a96b2842',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -19324,8 +19324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68ed6f75-ec3c-478b-bfd5-5112c89f804f',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    'f3105ea9-33ca-45a5-ad54-aba771904ea2',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'population',
     '9769949',
     NOW()
@@ -19336,8 +19336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f34c3d36-7efd-4918-aebf-eb51aa13c168',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    'ab21f345-d411-4924-94ab-f63f8b292081',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'gdp_md',
     '163469',
     NOW()
@@ -19348,8 +19348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95d0ad17-3957-4312-954b-22b983d1404a',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    'cbc03bd5-7566-468c-b7b9-c4dfd24e758a',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -19360,8 +19360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bbc684fc-a1af-4fdd-9674-ebccdb71cd5c',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '1c53a56a-9df8-43a0-87ee-bb02143e43e4',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -19372,8 +19372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e31823b-27a0-4598-ab18-6abdb083c694',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '424c0873-d34b-4d1f-a692-7489be7f1bc3',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'type',
     'Sovereign country',
     NOW()
@@ -19384,8 +19384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9d4ac59-f32d-4a14-a44e-399e02f44b9f',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    '1ae60180-ec93-442e-acca-79bd31f5c491',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'label_x',
     '19.447867',
     NOW()
@@ -19396,8 +19396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87ce9ad9-1363-43ea-8e3f-996a08632612',
-    '32706bc4-a75c-475f-bcff-2ee02cbd0557',
+    'b8d18804-5e19-4266-b5a2-7bf1ed316071',
+    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
     'label_y',
     '47.086841',
     NOW()
@@ -19408,8 +19408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0c3b7829-d02d-4205-b834-2bb275214788',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '581e2e93-4fbf-4379-af76-01262d0bc58b',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'continent',
     'North America',
     NOW()
@@ -19420,8 +19420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8330a6dd-170a-442a-9a55-0528ef0aef11',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '43d37926-7302-4c3d-91e8-54593c72337d',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'region_un',
     'Americas',
     NOW()
@@ -19432,8 +19432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '25d665d3-c784-456c-9cde-f6064a27c50e',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    'aef2fdad-1287-4b4d-9cf7-625efd99e653',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'subregion',
     'Central America',
     NOW()
@@ -19444,8 +19444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ad713071-7f06-429b-a053-ba96554ca810',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '51a53afc-5ec0-4600-9eb9-9f3eff4e7b34',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -19456,8 +19456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a5d5512-3410-40e3-bc0d-8982ffdcdb4d',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '80210613-8c8c-43e3-a33d-4f32aa54f690',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'population',
     '9746117',
     NOW()
@@ -19468,8 +19468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd542e22e-0c07-4edd-9be6-266c0c44c4ce',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    'a992130d-0654-4f5b-bf29-ed464c1f8da4',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'gdp_md',
     '25095',
     NOW()
@@ -19480,8 +19480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1eee2f62-52f3-41cf-ac81-18a5c054fe6c',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '7e4bb23b-3840-4c69-b713-516546fb9aad',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'economy',
     '6. Developing region',
     NOW()
@@ -19492,8 +19492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '96ed4690-d40a-4542-b9ad-0a675da5cf8d',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '5011e5b6-b247-43e6-a958-7dfef32b03eb',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -19504,8 +19504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4a68e7eb-d782-498e-90d1-1d67eb196eda',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    'd7e9a5e3-069a-4b34-8c27-d8280d927c84',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'type',
     'Sovereign country',
     NOW()
@@ -19516,8 +19516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e8653c1-9382-456e-8a35-c7db095bec11',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    '000bf47e-87f4-44dc-8a98-5dca65b6858c',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'label_x',
     '-86.887604',
     NOW()
@@ -19528,8 +19528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '59925b0c-8909-4968-8f51-48ac46fc4256',
-    'bc4c0e49-75f2-4c1b-98a8-b9ee28210b38',
+    'bdcc493d-1908-4430-88b8-787044bc53fd',
+    'ffd22c37-0e5f-49b6-92bd-847090471af3',
     'label_y',
     '14.794801',
     NOW()
@@ -19540,8 +19540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78699ff8-7230-47b7-b6d0-4bd4ff6c8878',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '818aacfd-7c34-4384-a722-abe6f2bf715f',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'continent',
     'North America',
     NOW()
@@ -19552,8 +19552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '28552f56-9072-45a3-ac34-91dad92d6031',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    'da26bf88-c783-4a61-a0be-5beb5f1481ae',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'region_un',
     'Americas',
     NOW()
@@ -19564,8 +19564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b10a7027-a1f1-47fe-bc8a-0364f7da6b3c',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '8d7a943a-d8a2-4113-9a16-6916e7094743',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'subregion',
     'Caribbean',
     NOW()
@@ -19576,8 +19576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92944788-9906-4be6-bbbc-af08038590d3',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    'e9c81e1d-fc91-412b-8ba3-b62c6f687953',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -19588,8 +19588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d0e8de2-ee2a-4aa1-b772-d5769a2dc6f5',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '57e266ba-3d1d-4c78-8fcb-9e183100c327',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'population',
     '11263077',
     NOW()
@@ -19600,8 +19600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '58e4c426-edf9-4e25-9bf2-2fc7f59084df',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    'e6c9d27f-c19a-44d4-a445-db3bdb0df222',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'gdp_md',
     '14332',
     NOW()
@@ -19612,8 +19612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f085a13-ad8b-4549-9d54-a7326209bf72',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '2b054b9e-fdb9-424b-a8d2-2ea46a9c1c8e',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'economy',
     '7. Least developed region',
     NOW()
@@ -19624,8 +19624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93eda745-56bb-4f01-b45d-051c2f78eb8e',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '2b522cc7-6bca-416a-88b3-8a98d3667ad4',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'income_group',
     '5. Low income',
     NOW()
@@ -19636,8 +19636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5bd4b028-32e8-41ab-b98c-b6ad5a381948',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    'cdf7540e-a605-4577-a6b3-018651a3d680',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'type',
     'Sovereign country',
     NOW()
@@ -19648,8 +19648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cbf00c74-fa48-46b2-a82e-c337d9c3d69a',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '404eb812-e899-45b1-bd75-188074af3e5d',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'label_x',
     '-72.224051',
     NOW()
@@ -19660,8 +19660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9de5ba5-ee4d-424f-86af-e7a9fcd82b81',
-    'b8cb0764-d1ff-4b2f-b2e7-1524adef9b2b',
+    '997200a4-0db6-4d1c-98e2-18c1b42fbd10',
+    '4186f739-e685-495f-b1bb-2748798f98bd',
     'label_y',
     '19.263784',
     NOW()
@@ -19672,8 +19672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d3f34bb-f15e-488c-b7a1-46a77b5cb5cb',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '95b17e04-5d57-4771-adf2-15c0e0ec2740',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'continent',
     'South America',
     NOW()
@@ -19684,8 +19684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e14c2cb-ae4d-41a7-bacb-5178ee4de84c',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    'e74fdc08-1060-4c9b-be17-37feadb12076',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'region_un',
     'Americas',
     NOW()
@@ -19696,8 +19696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3d84aec7-8ba8-4427-a819-4203214824d5',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '85d31f05-8f86-4d8d-a042-3ee438773761',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'subregion',
     'South America',
     NOW()
@@ -19708,8 +19708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7ec4033d-b3db-4da8-88be-2c76ae901e8d',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '4092312e-f901-4012-8885-90de09f67162',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -19720,8 +19720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fbf05276-edc4-43fa-97ba-c60fd4c23c29',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '7afbd718-4c15-4994-b972-3a5956020a92',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'population',
     '782766',
     NOW()
@@ -19732,8 +19732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '04b46bd5-840c-4ef4-bf39-8491228ff690',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '5bc3f8ac-b050-4883-9f65-30f6eb3e4e70',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'gdp_md',
     '5173',
     NOW()
@@ -19744,8 +19744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '677c5d25-cbea-4c80-8632-d149848fcedf',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    'b0175116-ffa7-4e7b-b375-362a53072ba1',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'economy',
     '6. Developing region',
     NOW()
@@ -19756,8 +19756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '565fe54c-0c58-439c-a902-8976bddb1b96',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    'a8326d18-d936-43ee-9c10-af274f9fe554',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -19768,8 +19768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90512bec-67f1-4ba2-bd86-603305b2dbf2',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    'e7fe55f8-2e05-4a7a-8214-9de03d11587d',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'type',
     'Sovereign country',
     NOW()
@@ -19780,8 +19780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e65ea054-14b0-4b1e-94d3-8eb6d7aeb94e',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    '35c57aa7-a4cc-4d98-933e-1a21e79ff704',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'label_x',
     '-58.942643',
     NOW()
@@ -19792,8 +19792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '027889e9-01e8-4410-bb94-5028b0f83c9f',
-    '8f6ee60a-e9e8-434b-870b-95b6573eaa5d',
+    'cda1f7be-738c-43f1-896f-5680bcc33a89',
+    'a8ceb848-c874-4fff-879c-c30e8389280e',
     'label_y',
     '5.124317',
     NOW()
@@ -19804,8 +19804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30246cbf-f0a6-41d0-8bb3-e220cacd6aac',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '31b3977a-036c-406a-a040-4c6267d58699',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'continent',
     'Africa',
     NOW()
@@ -19816,8 +19816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d897bfc-8948-4db5-b252-6a0936d08c3c',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    'b2f0e2dd-8806-4a41-8fd3-d2be17caf06b',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'region_un',
     'Africa',
     NOW()
@@ -19828,8 +19828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a88cb191-d41d-4e02-8d84-a8fe6e7f8f8d',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '58ade3ce-dabb-45f5-acd2-76eaa383ff76',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'subregion',
     'Western Africa',
     NOW()
@@ -19840,8 +19840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c967f11-3264-4d7c-84af-1a70d7911e24',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '6b274c8f-c2b4-4436-8b40-0eb691ec6668',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -19852,8 +19852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c56f444a-3a83-4b88-b030-7324cbb650c4',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '90cad872-6a8d-4be0-9295-e592920ec1b1',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'population',
     '1920922',
     NOW()
@@ -19864,8 +19864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '590fb53e-82e4-497e-8078-b4b8465bf4c1',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    'ef0c7e1d-ef5b-427b-a41e-81ab5174c7be',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'gdp_md',
     '1339',
     NOW()
@@ -19876,8 +19876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e77ecbe-96e4-4544-acb2-891681d88a59',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    'ef082921-eec6-473a-81eb-22e015267261',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'economy',
     '7. Least developed region',
     NOW()
@@ -19888,8 +19888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53241b5e-ff78-41e0-bf47-b8c8cab2515e',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '6d0b1128-11bb-437e-9e90-a6d90afc5a7d',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'income_group',
     '5. Low income',
     NOW()
@@ -19900,8 +19900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb5cca75-95a9-4fc7-9a9e-37f28ff8053e',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    'd4053171-4336-4b49-8848-5640f6b4a41c',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'type',
     'Sovereign country',
     NOW()
@@ -19912,8 +19912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '79be5b98-382b-48df-9629-1a71dd87127b',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    '8637c0f6-872c-4a23-bfd5-080d0e88dbea',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'label_x',
     '-14.52413',
     NOW()
@@ -19924,8 +19924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e1641a4-ef43-4f1b-a3c7-cf937d47dfcf',
-    '3ad1f524-4146-46a1-bc33-a36ac13fdaf3',
+    'a82528c0-7d85-4bbe-a080-e246cd5575b8',
+    '596f5f59-fd58-436c-8cc0-2ab65d294344',
     'label_y',
     '12.163712',
     NOW()
@@ -19936,8 +19936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f8cf5fc-e601-42d5-a1d9-3f28baf69823',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'e5300c2e-8c8d-4a1a-b8a9-9dc0d34dd5bb',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'continent',
     'Africa',
     NOW()
@@ -19948,8 +19948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6991b80f-c08a-4f05-95d8-9361ae2d74d3',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'c8eee0f7-6941-43fd-a28b-a92625f9b500',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'region_un',
     'Africa',
     NOW()
@@ -19960,8 +19960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2abde37d-cea1-41e4-8aa1-a9e2e8899d4d',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'b2ac1d1d-838a-4166-b9d1-34e024caa11c',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'subregion',
     'Western Africa',
     NOW()
@@ -19972,8 +19972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af7aa0a4-98f7-433f-9257-5b86aed2006b',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    '4d49179b-4d9b-4684-9e56-b3f6e19ea2f0',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -19984,8 +19984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'add2f8df-e084-4b5a-ac52-8e51eaa609c0',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'dbb769ff-d8ec-4c21-b999-882d563c5289',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'population',
     '12771246',
     NOW()
@@ -19996,8 +19996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3ca7d22-bcbf-40d2-b4aa-7f6cc0a0b1b9',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    '5a955b75-f88b-4406-8a12-db5f2dcc2a68',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'gdp_md',
     '12296',
     NOW()
@@ -20008,8 +20008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cae03296-7f30-414a-922b-f0e5ff51a8d2',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    '8c6c9903-ce54-48a3-a336-03098cbc3d63',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'economy',
     '7. Least developed region',
     NOW()
@@ -20020,8 +20020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0759ab85-e717-4f3a-959b-d0b545f4279d',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    '3e37b899-25a2-4329-87c8-e44092854e2e',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'income_group',
     '5. Low income',
     NOW()
@@ -20032,8 +20032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '014075e3-2404-4daf-8911-18c1b80b8caf',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'a399a5af-a3d1-44a5-9b72-3ecdb6233d76',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'type',
     'Sovereign country',
     NOW()
@@ -20044,8 +20044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3dbe5659-7dee-4fd9-ae13-13acee9634d1',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'baf32fff-0e6a-475d-8a40-05b2a839b7d1',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'label_x',
     '-10.016402',
     NOW()
@@ -20056,8 +20056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a7eab040-3be4-4f84-a213-eeff82e6698b',
-    'e0f7a5c9-c15f-4492-937c-5915409353aa',
+    'cbcd4ff6-7320-40d2-9699-014aa473610a',
+    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
     'label_y',
     '10.618516',
     NOW()
@@ -20068,8 +20068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '620a5a95-5023-455f-9efe-5bf9fb879af3',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'c6f0dd01-8c4e-4ae3-a532-ea905c6e4ac9',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'continent',
     'North America',
     NOW()
@@ -20080,8 +20080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2b07f579-f75c-4810-8690-f9f79e7a7aa7',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    '3edfae10-f410-40ae-bf33-f2704cd3bf9e',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'region_un',
     'Americas',
     NOW()
@@ -20092,8 +20092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45e532d5-4b05-4e3a-8c6e-cc449e881d37',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    '84f86d59-80a1-4649-9ff1-395f64f5384b',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'subregion',
     'Central America',
     NOW()
@@ -20104,8 +20104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '22874aa1-acb6-42a9-8055-14bbcac3d3e4',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'caa4960a-3894-4336-9e54-1ad393697fb0',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -20116,8 +20116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d7d6d14-b469-4ec5-b0b4-d302d4ce6159',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    '4de8c79e-0395-4af6-8777-83874008db62',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'population',
     '16604026',
     NOW()
@@ -20128,8 +20128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bbaa2270-2183-463f-98b0-d40c9aa3bef6',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'dba93c16-2f1c-408e-bf16-626643f9dfaa',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'gdp_md',
     '76710',
     NOW()
@@ -20140,8 +20140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd18cfbc-d511-4960-861c-3db0f70e8b68',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'a553d0b1-3686-4538-8eed-dbdf1a04241d',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'economy',
     '6. Developing region',
     NOW()
@@ -20152,8 +20152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e40d487-6e94-4cbd-b87c-e95e1024f34e',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    '46e904fe-43fb-467a-9e30-07a4d5b25a6a',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -20164,8 +20164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '75d26a5b-50a3-44f0-b572-be87c1b8186c',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'a4ba7806-a892-46e0-9599-af9fe5edf4d9',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'type',
     'Sovereign country',
     NOW()
@@ -20176,8 +20176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86285f8a-49d6-4866-98ed-5d724a04ad79',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    '40a30e32-54c6-420c-a364-dbc35ea96315',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'label_x',
     '-90.497134',
     NOW()
@@ -20188,8 +20188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4d8af0b-1eb2-460c-baa5-906dffb889ba',
-    '8ec0da0b-647b-4002-8de4-d556ba440cb3',
+    'a7c31fb5-ae8f-428a-a1f4-bcd3208647eb',
+    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
     'label_y',
     '14.982133',
     NOW()
@@ -20200,8 +20200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44ef8e10-67b9-4569-8697-0f66fc60ddfc',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    '23910603-169f-4161-ab06-b5e16e5aa6c1',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'continent',
     'North America',
     NOW()
@@ -20212,8 +20212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce077b92-a309-49b9-ab47-5879773430fd',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    '0cf99156-1961-41ff-b459-3c36183c2db9',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'region_un',
     'Americas',
     NOW()
@@ -20224,8 +20224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f3d57fbf-b218-48f8-b69f-630f38f517b3',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    '186571fe-440e-4307-b743-1fc610f8f5df',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'subregion',
     'Caribbean',
     NOW()
@@ -20236,8 +20236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fe5038cc-550b-4eb1-a2c3-0b30806b7a57',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'edbcb532-b07e-4259-a953-4ae0713ceb2d',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -20248,8 +20248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '482a5356-f1e8-404c-afab-b2cb7d2e855d',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'b6092a1d-6efa-4aeb-9f23-bce38d8f4af3',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'population',
     '112003',
     NOW()
@@ -20260,8 +20260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ceca7801-fd69-40f7-a72f-d894874872a4',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    '720afaa7-47c4-4575-98d7-d5ecbda0aca9',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'gdp_md',
     '1210',
     NOW()
@@ -20272,8 +20272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5b71a07f-1aa3-4f56-8158-7db56362e632',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'fa19cded-7f3f-4d67-a191-002a333b6e93',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'economy',
     '6. Developing region',
     NOW()
@@ -20284,8 +20284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6a06b44-05be-4db8-b66e-46985d3aa16a',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    '7b2fc97e-6702-4bdf-a649-a000b41c5e72',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -20296,8 +20296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e12e0f1-6706-417d-884d-bd40aa08c4a7',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'e361f63f-564d-4f07-9fa2-f1dca5c7fcf0',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'type',
     'Sovereign country',
     NOW()
@@ -20308,8 +20308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd0e2739-9475-49ab-bb39-fad92bbea305',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'adbf4ef0-7579-4492-90ff-e066b1fa743e',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'label_x',
     '-61.680461',
     NOW()
@@ -20320,8 +20320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'deb65a3a-fe8b-4e5a-a9f9-6f9690d6ada9',
-    'b45d2812-6f90-4f3c-bf1a-3695e9a42bfc',
+    'e33dd538-a479-4f01-ad3a-89a794d8f066',
+    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
     'label_y',
     '12.113156',
     NOW()
@@ -20332,8 +20332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4b59e0f-0c72-4713-ab42-dc3fd1e80b4f',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '983f1bdf-4c80-420e-acd8-07c8c2c2f9a3',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'continent',
     'Europe',
     NOW()
@@ -20344,8 +20344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5ef56db9-2483-40a1-b8d6-05b10136d68e',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '4403b0b6-c21b-4561-a11e-d565674f09c6',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'region_un',
     'Europe',
     NOW()
@@ -20356,8 +20356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8b6b6e9a-318e-4b4e-8fea-b17b067d95b0',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '3ae4ab8b-f50b-45a4-82fb-aae050c1dda1',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'subregion',
     'Southern Europe',
     NOW()
@@ -20368,8 +20368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd226ab8-3df4-4bfa-9cfd-92878bd8b0bd',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '27b605da-0366-4381-8df5-c8c1f3f1c9b6',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -20380,8 +20380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21ea1e66-c5c7-4543-841c-16378f9d338a',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '677f1c98-64f8-427b-8dae-eee9e2784985',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'population',
     '10716322',
     NOW()
@@ -20392,8 +20392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'db331404-e632-47b4-924c-21bad8524680',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    'b82f1df4-4f8d-4996-ad85-de7b7ed52910',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'gdp_md',
     '209852',
     NOW()
@@ -20404,8 +20404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d9730bd-dbac-4db8-a829-ff2b34c27fe2',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '1172bc35-e5eb-46bb-8eff-75875997168a',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -20416,8 +20416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4fab9c90-5d0e-434f-8bbf-a01a01fdc260',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '9b1aa349-24e6-4a78-b59f-4c961ccf2e6a',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -20428,8 +20428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02bc1561-e244-4ec8-8752-af1e5eb73bef',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    'c1518aa6-5712-4f3b-8fdb-b5920314b010',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'type',
     'Sovereign country',
     NOW()
@@ -20440,8 +20440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '72c479ef-2736-4d9d-a4a4-9d622fd064a0',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '193cc7e0-4afa-493a-9ca0-d5d596eb7109',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'label_x',
     '21.72568',
     NOW()
@@ -20452,8 +20452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6cb55851-d8e5-41cf-8244-68f6166a7e05',
-    '89920a6f-adbf-4d27-afc8-d636b7360bf4',
+    '939a5ad9-b8dd-47ab-95ea-0449a8fc52c0',
+    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
     'label_y',
     '39.492763',
     NOW()
@@ -20464,8 +20464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8653927-f72c-445c-83aa-5f70e019d544',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '5b6fe48b-3fcb-4e9b-914a-30fd48d12a64',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'continent',
     'Africa',
     NOW()
@@ -20476,8 +20476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '76f5b01e-2609-42c3-b339-067b351561f8',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '2d66a84f-5614-487c-bc30-3b3750157639',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'region_un',
     'Africa',
     NOW()
@@ -20488,8 +20488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a0139e4-1ab7-40f6-aebb-c39f1980d7af',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '34892610-b370-4e80-b00e-f0e4d990efc6',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'subregion',
     'Western Africa',
     NOW()
@@ -20500,8 +20500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b2c37b55-c66b-4695-ae6d-b12f8120b623',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '7f821004-1b9d-4577-a855-51ebf06d5513',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -20512,8 +20512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06c4fa3b-971c-48c6-994e-f97fb06486a4',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '6afedfcd-2458-4409-8edb-8e5fac602515',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'population',
     '30417856',
     NOW()
@@ -20524,8 +20524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f069411b-08f9-4915-9d2b-259a29c0819a',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '28834e8c-c425-4e15-91e9-173e449668d8',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'gdp_md',
     '66983',
     NOW()
@@ -20536,8 +20536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5387100a-453f-4dab-b323-33f6dcf4f685',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    'fc640788-2d51-4a63-af3b-76515d6ce4b8',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'economy',
     '6. Developing region',
     NOW()
@@ -20548,8 +20548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eee4c9a4-a745-4468-ae63-cf8526398fa3',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    'ebf44d83-a07a-4636-aea4-cfa994b1ac8e',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -20560,8 +20560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bbab23ff-b795-451f-b747-6797f1ba2dcc',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '0f1c64df-bde4-489f-83fb-372c0df365e7',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'type',
     'Sovereign country',
     NOW()
@@ -20572,8 +20572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '514642ad-60cc-499e-bf68-4983ac030e8f',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '1267eff4-d06a-44ee-9bee-889554e33d3b',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'label_x',
     '-1.036941',
     NOW()
@@ -20584,8 +20584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '368b2890-f8c1-44d2-a1c3-e7ddbaf8f5b5',
-    'c2e53ec6-d701-4749-84d4-8b287beba720',
+    '017cee4c-bebe-4dcb-8e6e-4d0e818bd4b4',
+    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
     'label_y',
     '7.717639',
     NOW()
@@ -20596,8 +20596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7b3c04e-9d70-48bb-a07d-ab4a0e7b12b8',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    'c6f38f0c-c27a-42a6-9651-4fe9dd01a8dc',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'continent',
     'Europe',
     NOW()
@@ -20608,8 +20608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e06e49f0-b0c2-4307-adde-9d3d34b8a674',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '668721aa-98f5-4250-9120-28fdd73acbff',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'region_un',
     'Europe',
     NOW()
@@ -20620,8 +20620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '950a9735-1e6b-419e-b1f4-86a257dcbcc4',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    'eb476ad8-5fe7-4a54-be7a-efd8090eb5a2',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'subregion',
     'Western Europe',
     NOW()
@@ -20632,8 +20632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2281d27b-782e-44b7-829f-297747af907d',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '9522594b-7bfe-42dd-af0a-e261e65768d5',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -20644,8 +20644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '33fa94a2-09be-4cc3-879e-9fb0a773ee8c',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '82f556a3-9035-4d5f-ab21-21a4f6f5b254',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'population',
     '83132799',
     NOW()
@@ -20656,8 +20656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f7e0249f-47d8-4940-8dab-3be4e75b1f90',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    'e67d9f29-216c-4af9-a632-6ff1170c9393',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'gdp_md',
     '3861123',
     NOW()
@@ -20668,8 +20668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0c97bb66-7ee1-4d9f-bb2f-a2eb61c06f00',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '969301fe-a851-4304-96bd-0aeca2033bf5',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -20680,8 +20680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b38dec4b-d109-4274-adfa-4f20345f17f8',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '74a31e91-2cf0-45cd-89e4-bbc496ca18c8',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -20692,8 +20692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27e5e0dd-61c7-43e2-b38a-3cf98e47aacf',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '6167d364-ef76-4869-b164-42493b690456',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'type',
     'Sovereign country',
     NOW()
@@ -20704,8 +20704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'df538516-13f0-40c7-90cf-d72b77bf71ad',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    '47202a1f-ea49-456a-b69c-6fbfd1d3afc5',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'label_x',
     '9.678348',
     NOW()
@@ -20716,8 +20716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '13447107-491d-4d6d-b88c-c73bbc73f086',
-    'f6c844f0-e87f-484c-879e-3df43ac66cb5',
+    'c45c41bf-8178-4604-9fab-ccf6d0f005cd',
+    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
     'label_y',
     '50.961733',
     NOW()
@@ -20728,8 +20728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce484956-ff8e-47b2-8328-447f18abb75a',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    'a417e16b-7621-4fe4-98dd-0c7440752645',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'continent',
     'Asia',
     NOW()
@@ -20740,8 +20740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0587763-775d-4c7a-af51-03305b54e23d',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '05879d97-166a-490a-b610-d29e2ecf5c9e',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'region_un',
     'Asia',
     NOW()
@@ -20752,8 +20752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0022bb4c-ba07-4dcc-b9b5-ac50d340f705',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    'dc82ffae-279e-45a0-934c-ba6de6eafa73',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'subregion',
     'Western Asia',
     NOW()
@@ -20764,8 +20764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '04def937-6510-4eff-a379-3137a366df5a',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '162e5774-164a-49b8-9c0b-8d7ede324728',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -20776,8 +20776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '764ff31b-306f-48f5-9145-af29a027262a',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '79e0c3a3-4f91-4767-9515-ca1f98778f05',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'population',
     '3720382',
     NOW()
@@ -20788,8 +20788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9099f825-96f3-47b2-b303-6e90c8160a24',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '346b1155-5457-488d-bf88-56da02f1b580',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'gdp_md',
     '17477',
     NOW()
@@ -20800,8 +20800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6588a5d-d689-4aee-a581-26c8c978694c',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '1f4751f0-5f27-4c20-aae6-c63326de977f',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'economy',
     '6. Developing region',
     NOW()
@@ -20812,8 +20812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4f14ae52-868c-4264-98c7-be3d3acdfacb',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '78325d55-7ef6-43eb-a7e6-6b3e89abec95',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -20824,8 +20824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b1f086c-21cd-4115-8428-fcfb9efd1f3f',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    'e572c6e1-3aaf-493f-9792-6acf6bde8c06',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'type',
     'Sovereign country',
     NOW()
@@ -20836,8 +20836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3fbb6cbf-035d-4b3f-a928-61f848734f12',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    '23dcfad4-7dd0-4242-a52c-ef0e678e9942',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'label_x',
     '43.735724',
     NOW()
@@ -20848,8 +20848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0fddd188-604b-493c-8f08-7928fbd1638e',
-    '5443e417-3866-49bd-98c2-ba5f8aca3d13',
+    'a89af249-b686-4c3a-a8ad-f12311618fe7',
+    'eeec6175-9c08-4404-9512-cd8e9404b260',
     'label_y',
     '41.870087',
     NOW()
@@ -20860,8 +20860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5d13d390-df65-49c3-8f53-0a0d6c12073c',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    '843f9d6a-cee2-44fe-8975-9bb038191299',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'continent',
     'Africa',
     NOW()
@@ -20872,8 +20872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a8aec0a3-69b9-45d6-abbf-e494fb4169b4',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    '5d90e876-96d3-4be5-8033-bba4418e7292',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'region_un',
     'Africa',
     NOW()
@@ -20884,8 +20884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cadd62cc-d6b9-4b6b-bd9b-35f84ffd95f4',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    '98f93a71-23e8-4997-b908-89d2aa87a064',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'subregion',
     'Western Africa',
     NOW()
@@ -20896,8 +20896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '162dc31a-7167-4db1-b828-9a175be4a3b6',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'b31c0aa1-71fd-4421-81db-19e596fcd0cf',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -20908,8 +20908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1eb32ab6-c537-41be-b1b0-8d58431d3fd2',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'bd79654b-b964-4935-8bee-a7b4548bd49b',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'population',
     '2347706',
     NOW()
@@ -20920,8 +20920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '82b786ff-0db9-4433-8886-b046b83cf886',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    '574295bf-a3ee-4d1b-b102-167c5c175c45',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'gdp_md',
     '1826',
     NOW()
@@ -20932,8 +20932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8ea08a1e-0e97-441a-978d-8ff7c185db7f',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'b131aa96-e15a-4f7d-9a35-9d0836ea2b81',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'economy',
     '7. Least developed region',
     NOW()
@@ -20944,8 +20944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba23ba1e-1389-4325-a540-7f5c27f8365d',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'bb6f6e3d-a2d8-4759-a10e-755a7429f771',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'income_group',
     '5. Low income',
     NOW()
@@ -20956,8 +20956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cbfa2520-78dc-4a5c-bd61-6f22b8b71136',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'e0431e17-e86a-47cb-8662-f8fd5d017ba3',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'type',
     'Sovereign country',
     NOW()
@@ -20968,8 +20968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b3903d6-6f1d-4c88-bc7b-7a6b40770b1a',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    '4c318917-6bfc-44b4-8d60-280c6d45ad6c',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'label_x',
     '-14.998318',
     NOW()
@@ -20980,8 +20980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b3c4ec0-e3a8-48b2-a497-eb976ebb73c2',
-    '8c86ed25-772d-4dc9-836d-260a2c04bf4a',
+    'be9d3044-98e7-4cf8-80ab-c47cbbaf5f1c',
+    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
     'label_y',
     '13.641721',
     NOW()
@@ -20992,8 +20992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '28020bea-606e-4958-97ea-9293768561bc',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '29b3048a-3909-47ab-a923-52c98afb421a',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'continent',
     'Africa',
     NOW()
@@ -21004,8 +21004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a68f554e-b35c-422b-a793-59949954a3f1',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    'b5a01bbf-7afb-49ad-8543-a0dc3eb75b06',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'region_un',
     'Africa',
     NOW()
@@ -21016,8 +21016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0a1f783-b202-474d-b281-919c84360b27',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '27d0d305-4e1b-4a6c-879e-265fe13e3a6b',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'subregion',
     'Middle Africa',
     NOW()
@@ -21028,8 +21028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0b5ae36-07aa-473b-be09-dae35f6604e9',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '217ccf09-d6cf-49a8-8ec1-3c409786f691',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -21040,8 +21040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '684e9b3b-5362-4955-bc87-55a2b7995611',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '26adfd4f-6b6d-437c-ab57-d574014c0d60',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'population',
     '2172579',
     NOW()
@@ -21052,8 +21052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aff1c1f5-eeb7-4982-a7cd-7fa71d530467',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    'b14305e4-aafb-4f74-9ffb-cfef6fdf224a',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'gdp_md',
     '16874',
     NOW()
@@ -21064,8 +21064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e5cee73b-dead-4f4b-b815-600de949c0bc',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    'eda02513-4a1b-484f-a95d-21f50b9208c1',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'economy',
     '6. Developing region',
     NOW()
@@ -21076,8 +21076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0203b0ee-fc29-4537-90f3-b6ef9eb33695',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    'ecfac0f2-bcfe-40cb-8730-9e17cb43f61f',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -21088,8 +21088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30cdfdfa-66c3-46dd-b3e2-b44e2ce4bd01',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    'b85f050d-3f9f-4f3f-a51c-bb7c56654d31',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'type',
     'Sovereign country',
     NOW()
@@ -21100,8 +21100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0fdd95c0-a394-4d51-a644-4725bec807ce',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '1fe73b25-c7a9-4f47-8626-66e02b42bfd6',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'label_x',
     '11.835939',
     NOW()
@@ -21112,8 +21112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02058e4d-7398-48c2-b7fa-891e0ddab271',
-    '56ae1022-5616-4497-a330-109c260c7f70',
+    '27420de2-c894-4494-8198-b464d1cfd7aa',
+    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
     'label_y',
     '-0.437739',
     NOW()
@@ -21124,8 +21124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3f5f1a42-0fc6-4edc-9be1-b9cbf144c092',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '9b9a14b5-7a16-4817-9b48-e10e98921915',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'continent',
     'Europe',
     NOW()
@@ -21136,8 +21136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '229067dc-0c96-459f-998e-14e049c29032',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '1a1bc696-6a78-484d-b95e-f34d83fa6975',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'region_un',
     'Europe',
     NOW()
@@ -21148,8 +21148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88a888ca-ed98-447e-9f24-442885978766',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '9fb80ac3-ff9f-4d2e-8f0d-2e9598b2393d',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'subregion',
     'Western Europe',
     NOW()
@@ -21160,8 +21160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92125521-ddfa-4a2b-855f-f231b558b823',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '846f963c-ca4c-4b4d-982c-dce059bf8974',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -21172,8 +21172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3e2b462-0e1b-4ac8-95cc-2005d939a0e1',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '132758ae-2127-4e80-bb94-8d34e2d1fb3a',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'population',
     '67059887',
     NOW()
@@ -21184,8 +21184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aead2b09-f003-4023-b474-ad6272e38140',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    'c26ba2d6-8ae3-49c9-8c36-fb2475bfa786',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'gdp_md',
     '2715518',
     NOW()
@@ -21196,8 +21196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7ce14ed7-17b0-48cd-869c-25a2fc83784b',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '7f5ec979-6ec9-407e-aa09-1e2ed6dcc2f9',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -21208,8 +21208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0edcdfb-2232-48fc-bb5b-6df5380f6eb1',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '33dd0b1d-3547-4500-9b28-c7eff760e06d',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -21220,8 +21220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '856c966c-742e-4085-b125-8c2bcab05f8c',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '74695cac-42ea-4639-98c0-68fd4455cc2d',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'type',
     'Country',
     NOW()
@@ -21232,8 +21232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44f8dfbc-0559-4822-a0d9-1c0369f8660c',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    'e13e9c3a-740c-45b9-9175-ef1a83cee375',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'label_x',
     '2.552275',
     NOW()
@@ -21244,8 +21244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f43e0fd-8b30-4fc2-98be-4fdef615ab3d',
-    '0c2ac9a6-c8ca-4e67-8473-c07e2e2c625f',
+    '21d296e9-3c78-4ec8-afaa-dfe826a1fa07',
+    '640220f5-5a24-4a62-a352-6d364d05d7af',
     'label_y',
     '46.696113',
     NOW()
@@ -21256,8 +21256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bfc08ae4-f648-44fd-a219-7d3457f8eab0',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '31a7ec1c-0642-467d-a481-c7c158917951',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'continent',
     'North America',
     NOW()
@@ -21268,8 +21268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6bf4030c-f4c2-46d2-b05f-4deceaa70b74',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '5cb76760-5138-4955-a209-88125b846a43',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'region_un',
     'Americas',
     NOW()
@@ -21280,8 +21280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68f836a8-3848-4fe8-878c-ea84cea3ff28',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '27433052-5bbc-4860-a807-7b7d8702e15c',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'subregion',
     'Northern America',
     NOW()
@@ -21292,8 +21292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e03f4555-a727-4cf3-bdf6-f9a8238459a9',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    'c651d092-3042-449d-b6bc-e7a1cd6f61f2',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'region_wb',
     'North America',
     NOW()
@@ -21304,8 +21304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '630bb296-5f87-46bd-84cd-4e5137b89ce2',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '6fcf05c4-3447-4c48-8a84-2d0edbb63261',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'population',
     '5997',
     NOW()
@@ -21316,8 +21316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44e903a5-c839-40d7-b6a8-1714505fc497',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '593914a7-eb68-4386-ac8d-efda0533991d',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'gdp_md',
     '215',
     NOW()
@@ -21328,8 +21328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '549165dc-912e-4d57-8c48-d37fd8c23ebc',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    'a709b5f3-5a85-4b09-b41f-d32c0f6b9e98',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -21340,8 +21340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36a55773-bb54-49ef-8e78-a23ba50eda5e',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    'e707910d-f277-4fc8-9768-2e18a3a7d86e',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -21352,8 +21352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8f1b0bd-e221-4fac-a604-277ab6bfb758',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    'e92393f1-47b1-44e8-8e86-4cca902041a1',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'type',
     'Dependency',
     NOW()
@@ -21364,8 +21364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '28c26c24-e7eb-419c-8f13-2d92d06aa906',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '1d9ac7c7-c74d-458f-b562-0cb67d1c0432',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'label_x',
     '-56.332352',
     NOW()
@@ -21376,8 +21376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a81ae0fe-7859-44e2-84c6-6b7cdc72fafe',
-    '944ee3cf-128a-4f3e-9345-c51fda77373d',
+    '0afb304d-7c1a-4f84-949b-b3f20ec808d2',
+    'a8ade175-3a61-44f1-a056-f93d87c467ed',
     'label_y',
     '47.040344',
     NOW()
@@ -21388,8 +21388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ff8eb381-aa05-4bc4-ad86-09542ef62851',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    '2800a532-7654-404c-89d4-b551db4ea8d6',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'continent',
     'Oceania',
     NOW()
@@ -21400,8 +21400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e637e255-01bb-4ff4-86d3-c4b6c359125a',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    '16a6ce66-dee9-4150-9198-f3a79873d299',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'region_un',
     'Oceania',
     NOW()
@@ -21412,8 +21412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95468999-4f6a-4e12-a0b4-d9391a5f39fa',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'b13e3b03-5eb6-4024-ae4c-167043dbb415',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'subregion',
     'Polynesia',
     NOW()
@@ -21424,8 +21424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d9b4b76-7530-4b44-8dd1-36703628059c',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'cac850db-350c-4a0b-a33b-1b0a67ce3c1f',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -21436,8 +21436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54e5fe1b-5743-476c-ac05-a4365ae94f6a',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'b0c5414f-5d3b-4a0e-8e5a-7bc308e66c7c',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'population',
     '11558',
     NOW()
@@ -21448,8 +21448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac9859db-bd30-40a7-8d34-0e8a7e535d50',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'e0945ef2-957b-4356-a99c-e2ae77e54289',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'gdp_md',
     '60',
     NOW()
@@ -21460,8 +21460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4ae3551f-5e4d-40a1-a50f-bb95f6927fe4',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'dc68171d-9173-4ad8-b928-4d0e9ef78685',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'economy',
     '6. Developing region',
     NOW()
@@ -21472,8 +21472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7a09e762-3dcf-4005-bdb7-97fa1986837d',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    '85f61a82-a46b-4717-83ce-09f8985533f0',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -21484,8 +21484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0adeb0ca-422f-4720-8739-f8a3a29306d1',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    'ccbd6c4e-f89a-4496-86aa-3790ef63f2c4',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'type',
     'Dependency',
     NOW()
@@ -21496,8 +21496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '91d54c4b-91d4-4705-ad77-4761204123f3',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    '1c34e498-7a0c-4ed6-b9e2-c3ee626b1c8a',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'label_x',
     '-178.137436',
     NOW()
@@ -21508,8 +21508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '599707ec-662d-49f4-a245-3f5380f5ff04',
-    'c3e544cf-c3db-48bd-a346-4d22acfa8ca1',
+    '4a9be31c-30f5-498b-bc60-90c2b3754abf',
+    '0aa471aa-f359-41e2-9456-e5921d2555e2',
     'label_y',
     '-14.286415',
     NOW()
@@ -21520,8 +21520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'beed1853-f8b8-41bb-a8fd-b122a93f9892',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '5d492d5f-4f5b-4c13-80f0-5d6f4b01b0a6',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'continent',
     'North America',
     NOW()
@@ -21532,8 +21532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f76cdd8d-e34c-4b8c-a813-799d234c7874',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '8ead3fea-d3f2-440e-ac87-992b083cd5c7',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'region_un',
     'Americas',
     NOW()
@@ -21544,8 +21544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dd0f5b6d-5c21-4215-b2d1-b2f65fd43141',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '1b9d706f-4399-48b2-b8c8-7367b3d244a0',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'subregion',
     'Caribbean',
     NOW()
@@ -21556,8 +21556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2018912d-f174-4311-b7d7-91b5e48e55d3',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '3a792454-2b8b-4053-823b-2b9d46c4f6aa',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -21568,8 +21568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '290d84d5-09e6-4dad-b9b5-e00abafa8c2f',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '80d6b16b-1cd9-409a-8c9d-22f2bc3dce7d',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'population',
     '38002',
     NOW()
@@ -21580,8 +21580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90cd3c60-724a-45f4-be42-ab2203f4ffba',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    'ed70930e-8561-4137-a711-ece891a5012f',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'gdp_md',
     '562',
     NOW()
@@ -21592,8 +21592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56251dca-dfd2-4b37-92a7-23bf8298339b',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '69f51e91-fa81-485f-bc16-4ff62b65f6f9',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'economy',
     '6. Developing region',
     NOW()
@@ -21604,8 +21604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd41da32c-7619-4a0a-b4cc-ba6ec42c253a',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    'f71462d9-3285-4461-950a-46596d2014f5',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -21616,8 +21616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fbc539e3-69ef-4060-b555-1b7b9c3c9d7f',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    'cef56939-3f79-48a5-854f-17fd4d3fdf64',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'type',
     'Dependency',
     NOW()
@@ -21628,8 +21628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c29ec4ec-9e92-4397-a979-94493ddc87a9',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    'f95fc626-bd9e-4650-b934-e74e3d1a867b',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'label_x',
     '-63.049399',
     NOW()
@@ -21640,8 +21640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3cac6172-87f3-4689-8c34-9a68d52ece15',
-    '118e4611-8115-452c-997b-5c36ecf6d2dc',
+    '5d5a6ca8-2f04-445b-8020-3492ee45bfd2',
+    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
     'label_y',
     '18.081302',
     NOW()
@@ -21652,8 +21652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dc77d3d1-8f2c-4e3d-a137-292a3237518e',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    'ea84648c-ca80-4f59-abca-fe6360a569d3',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'continent',
     'North America',
     NOW()
@@ -21664,8 +21664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e4b6906-2ef3-4c28-9511-d36c79d10ec2',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '3606fbbf-644e-411d-8d7e-725427c10edd',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'region_un',
     'Americas',
     NOW()
@@ -21676,8 +21676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b6fd71d-7546-4fd7-9157-a888069da365',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    'ea687efc-67bb-4186-b0b0-6e332a60c745',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'subregion',
     'Caribbean',
     NOW()
@@ -21688,8 +21688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5ad68bcd-03ae-4e6d-923d-91e1175d7156',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '37db76ca-4c42-4483-bdf5-489c5573ab94',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -21700,8 +21700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '093f0653-4ce8-480c-a61f-ba6efd6c5e95',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '5821bd62-b256-4259-afcb-20a80b4a0e4a',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'population',
     '9961',
     NOW()
@@ -21712,8 +21712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2e3df17-1d4d-4e8d-824f-0ac92f020823',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    'c31853ff-51c7-4c3f-9fa7-25426c5bfc16',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'gdp_md',
     '255',
     NOW()
@@ -21724,8 +21724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01a3bc50-9b91-40c3-9c05-b0602a4dddb5',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '615b9630-923e-4c75-a209-a757a2752316',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -21736,8 +21736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e6da9c5-e71d-4800-af7f-b706a4990b55',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '02ab53fc-c734-4a33-8912-07f1bdd5b265',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -21748,8 +21748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d9ccd69-bc4c-400f-b6ab-5f197a4ba68f',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '357362f9-4042-4343-a0c9-b0ff9f686d87',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'type',
     'Dependency',
     NOW()
@@ -21760,8 +21760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ae607fa-474e-4f31-a2ef-2e09b61ef7cf',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    'cc6a1377-1328-4c66-af4b-03a31a07b21e',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'label_x',
     '-62.833193',
     NOW()
@@ -21772,8 +21772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '22e45487-d447-4be1-8352-28c48097caa3',
-    '9ec93889-4a69-4245-876f-8e3b833a56ce',
+    '1dbb8b9f-2f1b-4be9-b892-3190be81c75c',
+    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
     'label_y',
     '17.901987',
     NOW()
@@ -21784,8 +21784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '496050c8-1ad2-43c8-9ac9-767236ee6e6e',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '58ed9f57-2127-45dc-8da7-9f49a0c14d61',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'continent',
     'Oceania',
     NOW()
@@ -21796,8 +21796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca0c15e1-2f44-4e55-a4dc-bfdc7cb7adf7',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '89f2942a-7497-456c-933a-7c935cd03236',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'region_un',
     'Oceania',
     NOW()
@@ -21808,8 +21808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a68a0be1-ca37-4016-9a62-fc6d384ade99',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    'aadf02af-2a48-45e2-9b71-7d52e2e1c36a',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'subregion',
     'Polynesia',
     NOW()
@@ -21820,8 +21820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5662f8d2-4fed-443a-93b8-b427884cfbd5',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    'd533b9c0-eedd-4871-886d-db8f3f255cbe',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -21832,8 +21832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e8685279-8fbd-4026-9a97-453ca1fd6f34',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '9d12264e-7380-4c7f-aa20-e517437db642',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'population',
     '279287',
     NOW()
@@ -21844,8 +21844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9c4963c-4b2d-4bc3-a7f2-f7ef11b3c0fa',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '022330bf-e0b5-480c-9186-87d273f02440',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'gdp_md',
     '5490',
     NOW()
@@ -21856,8 +21856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92645ea4-411a-4be2-b676-a879afd137e8',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    'b615c656-cf13-4299-9919-cfe68832708b',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'economy',
     '6. Developing region',
     NOW()
@@ -21868,8 +21868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '218932e3-6534-47d5-b1cb-d40238211125',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '52823e13-8cc4-4ca0-8ca7-175f07a327d5',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -21880,8 +21880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b574c47-8c74-40ac-aedf-ab2b45db06c4',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    '24162cc5-b00e-475a-858a-f3215d6506aa',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'type',
     'Dependency',
     NOW()
@@ -21892,8 +21892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67639689-c8a9-4e8f-bab7-a03497e550f2',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    'bf8c0cfc-fdd9-4149-b8e0-edc37bf70237',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'label_x',
     '-149.46157',
     NOW()
@@ -21904,8 +21904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9ab0c920-35f0-4b4b-8686-daba5528593e',
-    '0348c382-9dbd-4307-b08d-5ef21255a8b8',
+    'c4b99376-6922-40ea-9ad1-1e0cae9ad340',
+    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
     'label_y',
     '-17.628081',
     NOW()
@@ -21916,8 +21916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc53e252-fce5-441b-90b7-8d97cbd576d8',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    'a6852156-9bec-4683-93fe-1941e7df3b86',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'continent',
     'Oceania',
     NOW()
@@ -21928,8 +21928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '034793a6-96f0-41a9-b377-20fda39e9988',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '9a4070e5-db1a-4676-8c22-09354aa22fe1',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'region_un',
     'Oceania',
     NOW()
@@ -21940,8 +21940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fb3ad140-cebb-4bce-8683-88f23daddaf3',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '85f7e877-06dc-4bfa-90b7-1a88c7fa3a60',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'subregion',
     'Melanesia',
     NOW()
@@ -21952,8 +21952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '466549d7-c29a-42fd-a9e5-aefb04949cd0',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '861f1342-699b-4ebd-8a16-ccdf8c99bfac',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -21964,8 +21964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '26c811ea-a578-4245-9669-26843386b1ab',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '60126527-1c01-4e70-bf6c-a802292a7690',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'population',
     '287800',
     NOW()
@@ -21976,8 +21976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9bbfbe07-f522-44fe-9b9a-d2d54f3e3f83',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '73e7173c-cfea-42ac-9145-a490bd11658b',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'gdp_md',
     '10770',
     NOW()
@@ -21988,8 +21988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bcd592e5-9501-4b7b-96f2-eb37c78c1e42',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    'f7d5a4bc-c5f3-4713-a634-5fbb844e30b4',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'economy',
     '6. Developing region',
     NOW()
@@ -22000,8 +22000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7ea3dcd-e369-4780-a309-341ddf80880e',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    'f78191e1-dc4f-43f5-a080-4cdffb3ac931',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -22012,8 +22012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1f7e8ebb-67f0-47de-85c2-db3874a98bb3',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    'fe6e873d-a63c-4867-91b4-d8ca6059c9f2',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'type',
     'Dependency',
     NOW()
@@ -22024,8 +22024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15465ee8-8321-4696-a624-83fdd02d46d0',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    '6611b31e-0800-4fcf-8055-8668001d4456',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'label_x',
     '165.084004',
     NOW()
@@ -22036,8 +22036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5741cab6-6651-47cd-85ed-f0d0fe47b203',
-    'bd203217-f746-4031-8d3a-7fa38ae7bc21',
+    'dcefd46f-50af-48bd-a404-f26959806e6c',
+    '948c6e7c-72a2-48a5-82da-043f480a49e9',
     'label_y',
     '-21.064697',
     NOW()
@@ -22048,8 +22048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b70eebbb-65e4-4dc4-8331-eeba2824a802',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    'fbaeda6f-fea8-4868-a671-f524afe3e694',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -22060,8 +22060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ef2edfa1-33d2-427d-8c8e-cef434da92c5',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '120243f3-2360-40a0-b1af-617571fae118',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'region_un',
     'Africa',
     NOW()
@@ -22072,8 +22072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37b556ad-780e-4a64-b466-c570a559cb21',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '5f86e21a-6b6c-426a-b9e3-fcdebfc191a5',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
@@ -22084,8 +22084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30f9be63-d8f5-4892-a116-3126750e58e6',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '5cbe86ab-5a91-425e-9309-38c4b8d2def6',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -22096,8 +22096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c072afa-0a00-4d57-9222-9afdea61bdef',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '3580d434-bc3e-4c75-9d70-cbe300c1525c',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'population',
     '140',
     NOW()
@@ -22108,8 +22108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fff84ff4-9b3b-421c-a36c-0506dd5ec056',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '5165a97b-f3ea-4b0d-bbfb-6a1d5f72aa24',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'gdp_md',
     '16',
     NOW()
@@ -22120,8 +22120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2322fe7-9408-4e0c-a0a7-1a39aa577d41',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '127341b4-ca16-4185-90bd-60889513b563',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'economy',
     '6. Developing region',
     NOW()
@@ -22132,8 +22132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dfb5d6e1-9298-4b30-a09e-1d7806a46414',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '2641c024-e7ec-46bd-87b4-a6ec659eeffe',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -22144,8 +22144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '69f45826-d3db-4669-992e-ae4cb2cf0c46',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    'e15a7ec1-9b1b-43be-8bee-1781d00f1072',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'type',
     'Dependency',
     NOW()
@@ -22156,8 +22156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99a8f817-61d0-47d6-ba36-2c73c384cf28',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    '28ea0e9a-e36d-4aea-839c-fd4ce16e4cfa',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'label_x',
     '69.122136',
     NOW()
@@ -22168,8 +22168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e01724d-86ce-431f-9e9f-d7ab1af08072',
-    'bac4e4ee-bf5b-476e-8a19-aad738dda5af',
+    'a367362b-edb9-421b-8717-78fd106909a5',
+    '4cd01671-8e42-4a89-a491-6c206035ca62',
     'label_y',
     '-49.303721',
     NOW()
@@ -22180,8 +22180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '811653c9-221b-4664-9f28-94b1bd23864f',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    'db7935f3-085d-4231-b9b7-c6562ba027ac',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'continent',
     'Europe',
     NOW()
@@ -22192,8 +22192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e8587de-0a77-4864-9860-c6e5baab0bff',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '6a505117-e9da-4abf-881e-52fb83509a1d',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'region_un',
     'Europe',
     NOW()
@@ -22204,8 +22204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '28ebd7bb-5aee-4ed1-bea1-fc833bc20af5',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '6b6f61a7-9a7b-4960-98e7-59d8e438c137',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'subregion',
     'Northern Europe',
     NOW()
@@ -22216,8 +22216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9fa566e-a531-41a6-9cb0-be5afe8d532c',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '3981ec6e-86cf-4023-a1fa-963d26bce74c',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -22228,8 +22228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce2ff2fc-4839-47de-a45f-58afd8645b51',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '94970e28-f2f5-4d54-8d2f-876fe0d18d8c',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'population',
     '29884',
     NOW()
@@ -22240,8 +22240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a0addd7b-1735-4986-98e8-39457103d8ee',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '06ae1157-3d0d-4c7a-92fe-7c88748ce3c3',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'gdp_md',
     '1563',
     NOW()
@@ -22252,8 +22252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'adc78097-4c66-41b6-a2e6-5b82737b812f',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    'c6416989-f2c8-4341-9fc4-c8de5b76a394',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -22264,8 +22264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17c2fd27-4e15-4305-8893-c51ca4684b99',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '202bdd91-71a4-4982-bbfc-26948ed5ffef',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -22276,8 +22276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4beb2374-3132-4e68-a8af-f82b1a697efc',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    'cdcfada9-7103-40a5-ac27-f0e83edd15eb',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'type',
     'Country',
     NOW()
@@ -22288,8 +22288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9969230c-6d63-4604-ab1d-812ee159a0a2',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    '9a7ea2f5-317b-45b8-a033-14ba0132e47d',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'label_x',
     '19.869671',
     NOW()
@@ -22300,8 +22300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dfb72c01-1541-487c-83f6-55fb0305f1bb',
-    '50e347ad-06a6-4997-8c13-4819000ab76a',
+    'c57cbc0f-b969-47d4-b33f-909e14f25773',
+    '24396f28-1cd8-4020-8203-8e37a348aa27',
     'label_y',
     '60.156467',
     NOW()
@@ -22312,8 +22312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50783d62-5241-46fc-a123-26d7f534374a',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '1dd1fc32-4b0e-43ed-821c-d4befd62a79f',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'continent',
     'Europe',
     NOW()
@@ -22324,8 +22324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '850dc37a-0b8a-4656-9d49-87c9c136c7d1',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '96628b1c-0675-495c-a44c-685fc23ce61e',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'region_un',
     'Europe',
     NOW()
@@ -22336,8 +22336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '26456b47-fb85-4040-be55-72f6f512ecdb',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    'ce8d273d-100a-44b4-af3c-ad43082e63fe',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'subregion',
     'Northern Europe',
     NOW()
@@ -22348,8 +22348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '650fd8d0-d50b-46d7-81e7-4e9a5b746c63',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    'e53af948-b0eb-4a23-867e-4edab8906874',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -22360,8 +22360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '904f3672-56cc-4dee-9e39-0d0a39b4593f',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '9114549c-3009-49a2-9b06-7dd0814edd38',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'population',
     '5520314',
     NOW()
@@ -22372,8 +22372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd903e896-7c59-403e-a90b-9b67201def77',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '0735597e-566f-4047-a42a-62499c047568',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'gdp_md',
     '269296',
     NOW()
@@ -22384,8 +22384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fcd07029-17e0-46cb-9daf-dc81000cc9ed',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '96e3ae59-88f8-40d6-9389-819b5ebfa3bd',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -22396,8 +22396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ec142c4-0b2e-411b-b4d3-a07b13a885ba',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '59f669cd-7d33-4fe5-99b1-193fe2c09e07',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -22408,8 +22408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf2ed5e0-f5f7-43d7-957e-43f85f404a90',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    '86e0a8b9-f2aa-4c9e-8054-b1b676955429',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'type',
     'Country',
     NOW()
@@ -22420,8 +22420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a92d530-192b-4a4d-b6b5-e63f0304a2a7',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    'aec578de-5b0f-4415-956e-6fa2605f87e6',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'label_x',
     '27.276449',
     NOW()
@@ -22432,8 +22432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8976e9dd-c2a1-47cf-9e1c-2c60c3a23e6d',
-    '0cb5a388-8797-4b21-be4d-c895dc1af1f1',
+    'd82c95c2-3127-4faf-ba4a-c295e07a17b5',
+    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
     'label_y',
     '63.252361',
     NOW()
@@ -22444,8 +22444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51f33edd-23f7-4178-89df-fc0d395eea44',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'b8fdbe6e-73a1-465b-90c2-ddce26eafde3',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'continent',
     'Oceania',
     NOW()
@@ -22456,8 +22456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a7f4d4e5-f822-409f-9178-ac52f7411801',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'c23406c0-94ec-4f38-9ebf-3f6f22f19136',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'region_un',
     'Oceania',
     NOW()
@@ -22468,8 +22468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc5c8420-da0a-4d96-abbb-962f38aa4f76',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'd103441a-1954-4c65-94c8-f59d3d3397f0',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'subregion',
     'Melanesia',
     NOW()
@@ -22480,8 +22480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71c95822-b83e-4a5d-aa5b-2bc9acaf367f',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'e7b38108-0348-4402-a103-2bd4a7782cbf',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -22492,8 +22492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd3d5e63f-4212-48cc-971b-c35fc8725306',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'cad24c51-fc44-4fb7-a061-66534a3191d8',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'population',
     '889953',
     NOW()
@@ -22504,8 +22504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f30a500-a129-4f10-81c9-0b2e5d2a31c6',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    '2b9eed54-13d2-405f-9e9f-189c32eb7e22',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'gdp_md',
     '5496',
     NOW()
@@ -22516,8 +22516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61a56484-8d56-49a7-ab25-8344b8b98058',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    '4c7ba3b3-0df9-4333-b738-a5359bc67b07',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'economy',
     '6. Developing region',
     NOW()
@@ -22528,8 +22528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '13e43b0c-c5cd-4175-bc10-c06b8e546e10',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    'e3300dcb-f74c-4a6e-b538-bc5dd64e850b',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -22540,8 +22540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2809f10b-e38b-42e2-9227-04dbe1c544d4',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    '9f3aa081-2597-4214-a545-cc2d76d55bb1',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'type',
     'Sovereign country',
     NOW()
@@ -22552,8 +22552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3850351e-70e9-4b54-b79f-cd4d656eb935',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    '3fd89235-d328-4f5c-aba3-3571d172fb3b',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'label_x',
     '177.975427',
     NOW()
@@ -22564,8 +22564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2632f4b2-20cd-4d04-9a29-760ea2645990',
-    '0af7175b-558c-4e46-8d39-47ef49da5bd9',
+    '5b9ffa4b-9b7d-4327-a54a-1ce425bdd5a9',
+    '211f8231-a059-4c90-af36-1d33c21042aa',
     'label_y',
     '-17.826099',
     NOW()
@@ -22576,8 +22576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c5c529be-6ae1-4701-ba31-622e1d1692f9',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '52651c52-443e-480f-b68c-35c62e23b490',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'continent',
     'Africa',
     NOW()
@@ -22588,8 +22588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '97dc2f21-6841-43a2-accd-df13c1f90c62',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    'b384def6-d560-445a-bdc8-00b6508fb57d',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'region_un',
     'Africa',
     NOW()
@@ -22600,8 +22600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c86386fb-db43-418a-8684-efb3ac44433c',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '7bc48cea-a9db-49a1-a8e7-d3ea086dee3e',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -22612,8 +22612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4365f91-41cd-4bfb-9325-b764df1bd32e',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '7b6bd0bc-2bfb-4f0e-b88d-ef0031a6ab46',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -22624,8 +22624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3cd6480a-3642-4b86-a6b5-48d9caa849cc',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    'a2c52307-06d2-4952-9006-10a6780f1b24',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'population',
     '112078730',
     NOW()
@@ -22636,8 +22636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd0241fca-1f0e-418d-9830-f8d338933da3',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '36525a42-e568-4093-83c7-3559792f6dcd',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'gdp_md',
     '95912',
     NOW()
@@ -22648,8 +22648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5abf905-cefc-4d22-a02b-504fa15af1c3',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '43023418-b22f-4659-8a1d-84c6ffa91255',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'economy',
     '7. Least developed region',
     NOW()
@@ -22660,8 +22660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67b579cc-7da0-4739-83fd-e7e29ea9e108',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '63c29537-8684-4e71-b9b0-430cf45e792b',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'income_group',
     '5. Low income',
     NOW()
@@ -22672,8 +22672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '703178d3-a196-46da-8514-3ae509037be7',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    'd33e9c90-86ac-46e4-b44a-773bd270b567',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'type',
     'Sovereign country',
     NOW()
@@ -22684,8 +22684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd679e50f-6046-4239-b5bc-0a26736c23c1',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    'fe200269-4705-4430-9c1c-1454b9ff55fc',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'label_x',
     '39.0886',
     NOW()
@@ -22696,8 +22696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '420ea0a7-7aae-47d8-9d71-b10dd6199189',
-    '529d69cd-ca04-4453-823f-9cc465f673a6',
+    '12fe1df7-011d-4d9f-a108-a23adde2b6a7',
+    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
     'label_y',
     '8.032795',
     NOW()
@@ -22708,8 +22708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56e1682f-d1a5-42be-8015-c233d14ee2dc',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '12f56b20-d7a0-4a0e-a7a7-eebb483af46e',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'continent',
     'Europe',
     NOW()
@@ -22720,8 +22720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a608eef4-cb2f-404b-8725-7739ee833119',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    'b2e5a594-1948-46a0-a44f-42ecbeb65b33',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'region_un',
     'Europe',
     NOW()
@@ -22732,8 +22732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '393834ff-f4b4-47ef-a497-abd454706b2e',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '587fc998-493b-4567-ac91-22a4c2bfb64f',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'subregion',
     'Northern Europe',
     NOW()
@@ -22744,8 +22744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '140ec7ad-d11a-4782-9bf1-8c28ce4bc313',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '70624cd7-7cd7-47d5-8204-4129cde7b5aa',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -22756,8 +22756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17853fcf-3396-42b5-bfab-8d7434d8c88a',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '1e425065-4be7-41c8-812d-21c3360653a9',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'population',
     '1326590',
     NOW()
@@ -22768,8 +22768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17f82259-3cab-4e13-b09a-a4e23eea06da',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '232b0cb4-dc81-419c-a104-8ba5a7e55bba',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'gdp_md',
     '31471',
     NOW()
@@ -22780,8 +22780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa43b333-a509-4d46-b914-2abc06497b29',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    'fe819dd5-b1d3-4517-a6ba-419bbed56ffd',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -22792,8 +22792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eccabc3d-156f-4d27-90f5-a82bc15f0e5f',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    'a3e613a1-1361-45b3-9781-e737bbce9fb8',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -22804,8 +22804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d9c8d24-c63d-4353-a9d6-0e71d717052b',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    'ac46cb82-3369-4053-bb13-6fadec8a72a4',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'type',
     'Sovereign country',
     NOW()
@@ -22816,8 +22816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e92bc5a-18dd-444f-98ab-bd72ad0ecd9b',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '459ea59d-ce22-4872-9378-853fbfc8cab6',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'label_x',
     '25.867126',
     NOW()
@@ -22828,8 +22828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3696f6a6-4092-43b3-8cd2-40062eb9e82c',
-    '5ff1fb1f-421b-4fe8-828b-789532d95905',
+    '8693dc0e-aac2-4014-b33d-8d54a0ef6031',
+    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
     'label_y',
     '58.724865',
     NOW()
@@ -22840,8 +22840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2fe51b86-0e95-43c6-8982-fbb49eb1bcf2',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    '68e26da0-2ec1-43a1-85de-6e764a304a69',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'continent',
     'Africa',
     NOW()
@@ -22852,8 +22852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3860d1e4-1cd9-46fb-bbf2-f9f4ef7a132a',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'b03cbf59-4e8f-4758-8801-08fca113742a',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'region_un',
     'Africa',
     NOW()
@@ -22864,8 +22864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'be32ed21-9880-4ca5-beec-86ea9086c1c2',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    '440758c9-3773-410e-b833-a4be069b1141',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -22876,8 +22876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd27edae2-f905-4368-bebc-5c5ea212bca7',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    '27703790-9e9d-45f0-8247-68faba3a6b3f',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -22888,8 +22888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9619240d-afff-447c-961f-527d8dcb2e05',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'a8f1943c-0fc8-4b30-8cf8-bca9dba1772f',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'population',
     '6081196',
     NOW()
@@ -22900,8 +22900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'afe55df9-dc20-4e23-bc95-7eee1a9f8d49',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'a5a541fb-1e36-4d41-bfb7-9a110cbf58b7',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'gdp_md',
     '2065',
     NOW()
@@ -22912,8 +22912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '471aca61-eac4-44cc-96e0-3fcb35e12c9c',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'f57552fb-0bbd-4f59-b32d-f73859ae35d1',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'economy',
     '7. Least developed region',
     NOW()
@@ -22924,8 +22924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d3927cf-c9cd-4ccc-b2c7-d45ed8c394a8',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'c6a0af2b-e086-4786-9d5f-ec8ba59b7fad',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'income_group',
     '5. Low income',
     NOW()
@@ -22936,8 +22936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ecdc1ea-ccd3-475b-b89b-944696cf8bbb',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    '0fb36318-99d7-4278-9f0c-eb9825abf1ef',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'type',
     'Sovereign country',
     NOW()
@@ -22948,8 +22948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f8ede1b1-38e8-48da-a6b1-b490d40e9c79',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'd50d103d-b105-432f-a60c-8b03446d5435',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'label_x',
     '38.285566',
     NOW()
@@ -22960,8 +22960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6893f29-b354-41dc-b1f4-2ea688558eae',
-    '80536c16-4fd1-49b8-ad57-0fdddd6ea8a6',
+    'cab36ffd-5868-482c-9ea6-c6978a5bbb1b',
+    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
     'label_y',
     '15.787401',
     NOW()
@@ -22972,8 +22972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2df849f-0ffe-4a72-a0a9-1ef87c72ce14',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '7c54cbd8-21ff-43cb-a4b1-071f01906d8c',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'continent',
     'Africa',
     NOW()
@@ -22984,8 +22984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '79978403-8765-4d3d-9a96-fcc1a69a31de',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '498da384-85c1-4bc2-855b-6d26b44413e8',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'region_un',
     'Africa',
     NOW()
@@ -22996,8 +22996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c28584c-4e95-4abf-86b1-4a1d76c05aaf',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '4d6d5d50-9552-4516-ab97-ab7195d592fb',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'subregion',
     'Middle Africa',
     NOW()
@@ -23008,8 +23008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bbeb3248-46c0-41d9-a528-8e6f0bf1dd93',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '11eeb845-ee81-4df4-93a1-4f820e6a063f',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -23020,8 +23020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1c27ef53-4ffa-4673-a07b-37f2a7c4f7cf',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '31fe6ed6-9cbd-47eb-a340-4820fbc72e0a',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'population',
     '1355986',
     NOW()
@@ -23032,8 +23032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ee91d97b-d862-42ea-ab72-f7e62fc6194b',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '14276c2b-6b47-44fe-8d67-f3ef04a339d9',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'gdp_md',
     '11026',
     NOW()
@@ -23044,8 +23044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2c4ea9bf-765a-4200-871f-5c417a012917',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '5cb39da7-ebfc-4ef7-9a19-e9e44a0607b3',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'economy',
     '7. Least developed region',
     NOW()
@@ -23056,8 +23056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '98cc9872-2560-4cbc-91e3-de8a3e631641',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    'b5a41a1a-a0f3-4e35-8735-aa00096b456c',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -23068,8 +23068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27cfb154-baa0-4e2a-97ba-291df2cc1f99',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '5bdc62e8-bfa5-405b-bc74-ce61014ceaba',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'type',
     'Sovereign country',
     NOW()
@@ -23080,8 +23080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b2fe4fb-01cd-4c39-8be8-821399bd77d7',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '5d8ae4de-5260-444a-84c6-83932b474ee7',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'label_x',
     '8.9902',
     NOW()
@@ -23092,8 +23092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac40907c-d99c-409d-b25d-b4a32c475522',
-    'd7dbad36-d0cc-46a1-b389-b86639338ebc',
+    '6537afc0-61a9-44d9-833a-c1ecd07e8e0b',
+    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
     'label_y',
     '2.333',
     NOW()
@@ -23104,8 +23104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52482ad0-e5cb-4004-abc2-b41c8bfcc4c9',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '7eba14bc-4962-4a48-943b-0399e3614b99',
+    'e129430d-596b-4699-979e-ac624791db80',
     'continent',
     'North America',
     NOW()
@@ -23116,8 +23116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '63d2c8ae-cfd9-4a1b-b04d-22c0ca0e2f4f',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '8cd1bfd3-bb3c-4bbb-ad7b-52011d0b07ea',
+    'e129430d-596b-4699-979e-ac624791db80',
     'region_un',
     'Americas',
     NOW()
@@ -23128,8 +23128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4a0b87c-f45a-4749-9340-d035435fd94e',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '9c0007af-70b0-4d92-87bd-db49d72cda2a',
+    'e129430d-596b-4699-979e-ac624791db80',
     'subregion',
     'Central America',
     NOW()
@@ -23140,8 +23140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0113de28-d72d-42ce-9dcd-9bcee0a0c39a',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    'dc7d1800-44bc-41c3-b777-9cc0c25b3d00',
+    'e129430d-596b-4699-979e-ac624791db80',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -23152,8 +23152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f6a0e1d1-6744-419e-b485-f1f5327d7057',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '50b44b74-3ebf-4438-8ea0-0ca082e09e6a',
+    'e129430d-596b-4699-979e-ac624791db80',
     'population',
     '6453553',
     NOW()
@@ -23164,8 +23164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0777688-e0eb-4016-ba50-27c6c39e5ca6',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '5cab50e5-f3df-48ea-8b3f-3abbc67bd505',
+    'e129430d-596b-4699-979e-ac624791db80',
     'gdp_md',
     '27022',
     NOW()
@@ -23176,8 +23176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51bc9c01-c838-41b7-b417-923c795f2b98',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '8a3ae6b3-c23d-416e-a754-2fab4cc072a8',
+    'e129430d-596b-4699-979e-ac624791db80',
     'economy',
     '6. Developing region',
     NOW()
@@ -23188,8 +23188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6823c48a-e293-45e1-beaf-eecfac7323aa',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '463ce73d-3b84-46d4-b843-d13e1fd596b4',
+    'e129430d-596b-4699-979e-ac624791db80',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -23200,8 +23200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bd1f909a-c45d-4d01-a730-31585b9d7747',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '1dd785e6-64af-444b-b4de-7c8af7b4828d',
+    'e129430d-596b-4699-979e-ac624791db80',
     'type',
     'Sovereign country',
     NOW()
@@ -23212,8 +23212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa4fa699-1e7c-47ab-972f-c1de143cd46e',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    '9cf65edc-e723-454c-a6af-61501757c256',
+    'e129430d-596b-4699-979e-ac624791db80',
     'label_x',
     '-88.890124',
     NOW()
@@ -23224,8 +23224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f67ce0ac-edaf-4bff-babc-47cffe0282ac',
-    '304ef58f-8a86-4630-952d-155a56eef0f4',
+    'cd0a7f35-d474-4bf3-a343-1ce0d8936e26',
+    'e129430d-596b-4699-979e-ac624791db80',
     'label_y',
     '13.685371',
     NOW()
@@ -23236,8 +23236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92bd5217-11b1-42a5-80d2-dab04af16ee9',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '5ebfb202-35cc-45ba-83c4-f4a3943f8691',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'continent',
     'Africa',
     NOW()
@@ -23248,8 +23248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8f9c4f5-9181-4e8f-97ae-74ada7406d2f',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '8fb6affd-8b6a-4269-b478-7bb90d18f399',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'region_un',
     'Africa',
     NOW()
@@ -23260,8 +23260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3ce76ab5-d11a-446a-995b-2027fef834ef',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '9713ff59-252f-471a-aaa1-9249d5ddf472',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'subregion',
     'Northern Africa',
     NOW()
@@ -23272,8 +23272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5976b248-4220-4d8f-a81c-2631a200ac93',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '0d3367ef-a22e-47d9-8c9e-5e601e7ca00e',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -23284,8 +23284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bf555ec3-1700-413f-a575-15697429df45',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '18915cad-9f57-49fd-ad6f-ec0eaf554b69',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'population',
     '100388073',
     NOW()
@@ -23296,8 +23296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dea5cc14-4f42-4309-b3e2-c1174a3c2211',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '4d300a8f-c011-463d-a181-71eb348da9a2',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'gdp_md',
     '303092',
     NOW()
@@ -23308,8 +23308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '114786f9-baa7-47c3-aba7-21424259378f',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '34785ec4-1317-480b-916d-49e2193aa277',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -23320,8 +23320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e9ea2a3a-cef7-496b-ba91-7987a991282b',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    'ae58ef5a-85e8-48e9-96ad-04a234edf75c',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -23332,8 +23332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51b98e50-79df-4d3c-954e-7c3dcdc06acd',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '33bb614d-8247-4358-b009-24d3bc7183cc',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'type',
     'Sovereign country',
     NOW()
@@ -23344,8 +23344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6c3dffd4-d6af-4d37-9680-e3f2c24c9a61',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    'cf22e72a-32eb-4ab5-a764-2406fe1282c2',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'label_x',
     '29.445837',
     NOW()
@@ -23356,8 +23356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b48fc7c1-7208-4d33-bc2c-2120d816c99b',
-    'bf793012-7fd3-45fa-b4de-96c82d262c60',
+    '2cc5b9b2-0187-4f3d-88c4-2a6b4761ad46',
+    'ef462fe4-501b-4ead-aac9-e802a95766ce',
     'label_y',
     '26.186173',
     NOW()
@@ -23368,8 +23368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '16ff1b55-f286-418b-8d67-8a1ae65d4c25',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '17b5fb86-9154-4de7-b1e6-7f441d1d9117',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'continent',
     'South America',
     NOW()
@@ -23380,8 +23380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fe44da1e-0b34-449d-8b8c-cb8705221481',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '5202f3b9-b0f1-40cc-b99b-4d2d51fc41c2',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'region_un',
     'Americas',
     NOW()
@@ -23392,8 +23392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8fd399ee-77ae-43d6-bab3-8f07ad752ad0',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '8928657d-cb43-4998-89c5-3cd84ce797f4',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'subregion',
     'South America',
     NOW()
@@ -23404,8 +23404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1377b7f9-256c-4e02-bd49-1dbdb7a8f7ab',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '2aad15a8-f22c-4e7a-b78c-b020215b34b3',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -23416,8 +23416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fca1e61c-7f8b-4c3d-ac7a-6441e35061fb',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '34355436-4f49-4537-940e-bcfdf3c2f4db',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'population',
     '17373662',
     NOW()
@@ -23428,8 +23428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e32701d5-1041-41b0-a571-eb4d325091e0',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    'e52e5202-ceed-486d-bec8-c5fdb9f13b24',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'gdp_md',
     '107435',
     NOW()
@@ -23440,8 +23440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20c8b5e0-cc71-42a9-a5e7-410433b27ccd',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    'ab9ba738-e237-434f-a53c-010515832265',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'economy',
     '6. Developing region',
     NOW()
@@ -23452,8 +23452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11edd28e-0f8f-4f41-9e2c-90b66197e9f4',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    'bdab4414-2900-43bc-881d-1085541f4bdf',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -23464,8 +23464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99ca7ccf-9a00-4e18-9125-87491914d058',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '1ec8ab6e-9bd9-4a7c-b277-5da1bd968329',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'type',
     'Sovereign country',
     NOW()
@@ -23476,8 +23476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6dbc738-de3c-4beb-9eb0-148ebffba735',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '81d0362c-9eb8-4201-a969-21e8af96b262',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'label_x',
     '-78.188375',
     NOW()
@@ -23488,8 +23488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45b9d2c8-2d0e-4c76-b161-aed544584b28',
-    '14643a2e-0aa2-458b-979f-c49a716cfb02',
+    '2ce8e818-c165-4d1e-a7cb-226ddc57bc76',
+    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
     'label_y',
     '-1.259076',
     NOW()
@@ -23500,8 +23500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e1af883-6652-44fe-a1c8-edd357c3ae13',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '64729808-5b15-49ce-8c3c-0a6fda587383',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'continent',
     'North America',
     NOW()
@@ -23512,8 +23512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a2b721d2-9bb8-4098-9bdc-64a7d9cb4686',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '0e681eb5-4875-426f-8a75-31c3ae0c8850',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'region_un',
     'Americas',
     NOW()
@@ -23524,8 +23524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01db10c1-2750-4bc7-bc1c-ca2f3500a083',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '3719dce6-6c83-47f6-a17f-114a016e0804',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'subregion',
     'Caribbean',
     NOW()
@@ -23536,8 +23536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e86ca8b-2a7d-4068-819c-ccdde5cd8c9d',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '7e3a059a-15c2-4f1f-9af3-7f8d73fdadb9',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -23548,8 +23548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f07df09f-1b16-41cf-b256-5cf9d1973a09',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    'd22169c0-5315-488f-8c48-9b02b3f4c673',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'population',
     '10738958',
     NOW()
@@ -23560,8 +23560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a503465a-ea2d-47ab-957d-ff84a84fa950',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '3d524b0d-4b17-4104-b542-708c4f85d091',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'gdp_md',
     '88941',
     NOW()
@@ -23572,8 +23572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0809a398-c5d8-402e-99cc-3e7121749677',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    'd3cd95de-e427-45c1-8972-15d1891fb879',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'economy',
     '6. Developing region',
     NOW()
@@ -23584,8 +23584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4cc2a9e-aa17-4867-aedc-ab9c9a1a776a',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    'e3394e0e-6bfd-4fc4-9aeb-6337919361e1',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -23596,8 +23596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5902de60-bafa-40b9-9f09-b46e5c87a0ed',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    'eddeaa16-5c6b-4415-9a93-6c5e77c20c24',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'type',
     'Sovereign country',
     NOW()
@@ -23608,8 +23608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e7d9a39c-4bd5-43a9-b15d-1d3bc8671d43',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    'f365c6ff-fffb-461c-9d0a-7ab2a99bedca',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'label_x',
     '-70.653998',
     NOW()
@@ -23620,8 +23620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6ee92ec1-7032-47e5-8b46-a1137b6b954e',
-    '398cfe6d-d444-4e4a-968b-9d919d95c95a',
+    '44e8c4d8-0f25-427c-a938-024b4b7e5890',
+    'caccd3ed-0f75-465b-928f-115f5c1dc172',
     'label_y',
     '19.104137',
     NOW()
@@ -23632,8 +23632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'edca7b7b-73f2-4924-a4ac-57bc757577dd',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '43b73671-1169-44b9-b3b9-b709ce5c375c',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'continent',
     'North America',
     NOW()
@@ -23644,8 +23644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1fbaa77-7cd6-4594-9539-0bf5d537f07a',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    'ab771395-9f3e-4262-8828-1cea414cfe64',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'region_un',
     'Americas',
     NOW()
@@ -23656,8 +23656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a23a865a-f1d4-4e34-9cd5-ca1dd740c8a9',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    'e2a7f70c-eee2-4de5-bd1c-8b47d884b4ab',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'subregion',
     'Caribbean',
     NOW()
@@ -23668,8 +23668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '84268a3c-f207-450c-95d0-aeaf7d655adf',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    'e500cc2f-6e19-46e3-808e-3b0095effa72',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -23680,8 +23680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b9127011-93a9-48fd-b041-4e267b3f0ed2',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '480d36fc-78d7-4dfa-8fd0-aaae65639611',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'population',
     '71808',
     NOW()
@@ -23692,8 +23692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '794cdc6b-be58-4d0e-99b7-f3e7f74ce21b',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '0b67b8c4-0576-4069-8069-ccb10a823dd0',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'gdp_md',
     '582',
     NOW()
@@ -23704,8 +23704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd5efd7d8-9834-4983-83e1-4ea71b55d7e6',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '7c29daf0-667a-470c-a79f-39673115ba56',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'economy',
     '6. Developing region',
     NOW()
@@ -23716,8 +23716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6a6506ff-1959-4569-85d6-31bac696a5ae',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    'c053d0bb-0425-4efd-ba40-3dd34215f069',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -23728,8 +23728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01198805-2cde-4d63-aba3-29c157cc1aed',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '98914c67-a877-4aaf-82ce-345d710b15b3',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'type',
     'Sovereign country',
     NOW()
@@ -23740,8 +23740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '30d117b3-5bd0-41b5-9f57-262f258ca189',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '8a2fecdc-5815-45d6-bf8f-2afb8f19e67a',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'label_x',
     '-61.344958',
     NOW()
@@ -23752,8 +23752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '19eef786-3203-44b8-866e-1869e7d34936',
-    '04c5c532-37f5-4a6d-97de-4e3966b6bbc1',
+    '7609ff92-a25c-4fc6-82c8-b451170d4a10',
+    'b20934f4-798b-4aac-b742-f770644f0e30',
     'label_y',
     '15.458829',
     NOW()
@@ -23764,8 +23764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c213d0f-aef6-471d-950b-adf9a03200b7',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '725f033f-b2ab-47af-9cce-bde5391a1cf2',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'continent',
     'Africa',
     NOW()
@@ -23776,8 +23776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71072ea6-7011-4d6f-8ff8-1d0ba9911409',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '6f8cbef1-ca6a-49e7-8864-5e7908258672',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'region_un',
     'Africa',
     NOW()
@@ -23788,8 +23788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fa616aad-cec8-4f5a-955f-8d67fab15eb1',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '20181042-4f65-4dd2-af9e-7a25a2a42e30',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -23800,8 +23800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb8a8a41-4034-4bdd-b5a6-7732e0b1f33b',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    'cbc8ef07-f900-4c58-84fe-c7aebd00a1a6',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -23812,8 +23812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c2cafb1-81d8-4e00-9e84-54ccb9a1e67e',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '981d13e2-1b32-450b-9d67-c666a44776db',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'population',
     '973560',
     NOW()
@@ -23824,8 +23824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95b4379c-7237-4092-9287-081c7e1c399b',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    'aca2f181-1f57-4160-be42-3fed9f5b7b8e',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'gdp_md',
     '3324',
     NOW()
@@ -23836,8 +23836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94c8928c-c8da-4f44-9035-7cca9d6277b3',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '6cc78b13-695e-447c-ac5b-1b69ccda4a9c',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'economy',
     '7. Least developed region',
     NOW()
@@ -23848,8 +23848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8a0522b8-dae0-4483-8b89-89c87aef5080',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    'c1704d09-0a6f-49a3-9122-91c9d31bd839',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -23860,8 +23860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32ddf598-fb29-4c9c-9dec-967e9c36895b',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    '6a02640e-3aca-4be3-b25b-ff4cb4b0cbb5',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'type',
     'Sovereign country',
     NOW()
@@ -23872,8 +23872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8fa0f5fc-11f3-4b2a-9bb9-d72edcacdd80',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    'cbb428e5-6539-4f93-a0ed-7822b7eff3a0',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'label_x',
     '42.498825',
     NOW()
@@ -23884,8 +23884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4b9d88d-0353-47cb-88a0-4c77597998a2',
-    '7ea14670-aa37-4f5d-abc3-56b55dc85262',
+    'bb9e07a0-02ec-4413-937a-4796151d6beb',
+    'c1cf082f-4b21-456c-8953-f0587ddfe223',
     'label_y',
     '11.976343',
     NOW()
@@ -23896,8 +23896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7368a889-9ae4-49c8-aa9d-7a307375b2a5',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'e3ab60be-cc7c-4436-bdc9-b1a7b5847a7a',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'continent',
     'North America',
     NOW()
@@ -23908,8 +23908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e072269d-a9ed-4395-b450-030760a9e724',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'f5f9aa22-0505-4ce7-b792-29fc25f7381f',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'region_un',
     'Americas',
     NOW()
@@ -23920,8 +23920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6af81cec-d3f1-43eb-9837-93c1c8f55040',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    '5358cac5-7b16-4227-b888-5d1f2f0d8686',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'subregion',
     'Northern America',
     NOW()
@@ -23932,8 +23932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f4daef2-f918-465e-8526-5adcb61b6d3d',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    '9e6ae85c-cd89-4e56-9fcc-4d759c93f2e8',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -23944,8 +23944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5703190b-d4af-4e0a-95aa-335a26470977',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'b7acb43c-6db6-4caa-bccb-1cc2d7c9cf61',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'population',
     '56225',
     NOW()
@@ -23956,8 +23956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0615b00a-ddcd-4f4a-9380-a02251fd1bc6',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'c04ce19c-a89a-4b8c-b69f-8bbd5a2159fc',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'gdp_md',
     '3051',
     NOW()
@@ -23968,8 +23968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8158269f-26f2-441d-bd82-eb7cc4c62812',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'd012b2de-b4cc-47d8-b0db-7390ce6639ef',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -23980,8 +23980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a4c9160-c1fc-4da1-bc92-c3700e8d7a4a',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    '1f5e29aa-dbc7-42e3-bbc1-4bf35b03c860',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -23992,8 +23992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0463763e-b3f0-4801-8d5c-82fbbc6e4e22',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'b232b525-f027-4164-81ea-3ee3fe159f2a',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'type',
     'Country',
     NOW()
@@ -24004,8 +24004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '102c6e4a-f548-4ecc-9f44-0a8176db9d2a',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    '818779c7-71e3-46f4-88ac-3847392af0a3',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'label_x',
     '-39.335251',
     NOW()
@@ -24016,8 +24016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb5c9786-59b5-4eb9-992f-8845b3271b88',
-    '1bf5fb21-8527-4f1b-830e-91345576bc5f',
+    'ef94500f-bfb3-4a73-bfb3-9411f63b7fec',
+    '82c64047-7389-416d-9682-0e8af079752b',
     'label_y',
     '74.319387',
     NOW()
@@ -24028,8 +24028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '80ce722f-d5b6-4128-b71c-5cc1f6f43612',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '7901e3e3-832d-47c8-9bfb-8a3e31ea753a',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'continent',
     'Europe',
     NOW()
@@ -24040,8 +24040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6ea11519-064e-49d5-ae40-04add7f26562',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '76866261-b15a-4fff-b644-089aade2c8f6',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'region_un',
     'Europe',
     NOW()
@@ -24052,8 +24052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2190b23b-86b2-4a8d-82b1-3959eeda7743',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '0e54e977-46ac-414e-b844-bfe1995fa1d1',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'subregion',
     'Northern Europe',
     NOW()
@@ -24064,8 +24064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd349e890-e06c-4e7f-afb9-cb790cc6bfb3',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '88426d4b-aa28-4f6c-a475-7fbe463996ca',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24076,8 +24076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '489f4558-0c5f-49fd-89eb-96a88b6c6309',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '9f3915a4-e8cd-4fea-bc4e-847139ab422a',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'population',
     '48678',
     NOW()
@@ -24088,8 +24088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '656ba0df-0224-4216-b0c5-c873e909ddf5',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    'd2b608b9-3988-4104-ab65-98d404c7fd4c',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'gdp_md',
     '3116',
     NOW()
@@ -24100,8 +24100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c7baa219-8916-46be-8980-9a482169b143',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '86970865-0d5a-4da5-9bc1-23a773a87760',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -24112,8 +24112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd55c5c4-ab1a-4366-b7d0-fa19c310a579',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    'ca94b58a-abc6-46e9-88e2-a665f63d8213',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -24124,8 +24124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '66fc03cd-070e-4c62-9f60-84dd8d3143f0',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '391dd50a-ff11-4e34-bc48-0b6c012cbfb2',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'type',
     'Dependency',
     NOW()
@@ -24136,8 +24136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b9cf3689-fe38-4e8b-871f-ad0e3fba20ec',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '0765e0f4-91e7-4cbe-acbc-39291e830abf',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'label_x',
     '-7.058429',
     NOW()
@@ -24148,8 +24148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '340822e9-a3e8-4474-9993-eab4a0ac4688',
-    '95065af3-8600-4231-ae0b-556de1e8275b',
+    '677b5e0f-5825-4222-839e-e825d8d0abd8',
+    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
     'label_y',
     '62.185604',
     NOW()
@@ -24160,8 +24160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4c90c31-a2a1-4d6a-8482-5d1ef30a6f4c',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '12fc9c1f-682e-4de4-9ec4-753d423d0395',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'continent',
     'Europe',
     NOW()
@@ -24172,8 +24172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd34f20e7-a4e6-4849-baf0-c393410d8de4',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '30024aa7-2d22-4405-a5c4-8f48588a5dda',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'region_un',
     'Europe',
     NOW()
@@ -24184,8 +24184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd19186b1-3c53-408a-9f07-b1c84c3f5992',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '0b9c3306-5343-40c0-ae7d-cb932e80a662',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'subregion',
     'Northern Europe',
     NOW()
@@ -24196,8 +24196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '714583be-3a43-4fdd-825b-b3c93faa5c7b',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    'bafce959-b1fe-4399-870a-e8e7ef0b8404',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24208,8 +24208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '43a873e5-ac91-4345-9e30-fe0fa5e08c5c',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '91040aaa-9a88-4979-94e8-1c9460343923',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'population',
     '5818553',
     NOW()
@@ -24220,8 +24220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '363db6e2-5d40-4509-b74e-8319d8cb458b',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '24514a1b-279b-4eaa-832b-37630bff51a0',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'gdp_md',
     '350104',
     NOW()
@@ -24232,8 +24232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68f2d9d8-76e9-44d7-ab52-af3b88239f54',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    'b51aee35-37a4-4894-b5cd-dd8b77f06e33',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -24244,8 +24244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27eff543-4b0e-4e4c-9ef8-3400433f7e5a',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '021a92ff-2202-4292-abba-8f2dbc2eae09',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -24256,8 +24256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e640f3be-6cdb-4ab4-b279-c91cf0e8b8a4',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '266567ce-7e22-435b-91b0-676b73f271f3',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'type',
     'Country',
     NOW()
@@ -24268,8 +24268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '741a18b6-4c1d-4581-8f7a-ffaf2a68daeb',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '94d2edf9-3b5d-47a7-97ea-6866417d6d6a',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'label_x',
     '9.018163',
     NOW()
@@ -24280,8 +24280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e714377d-fa3b-424e-a46f-4a5bfde9fe8f',
-    '83532ef1-a470-4d8e-a7d0-9233492c8545',
+    '0b9407f9-9cb1-4938-9da0-6710c0b8dcf2',
+    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
     'label_y',
     '55.966965',
     NOW()
@@ -24292,8 +24292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4ea9f565-2e48-4f2b-9b64-f7b9541ec0c7',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '1859cdac-a554-479d-b5c2-cb90e1d0ec84',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'continent',
     'Europe',
     NOW()
@@ -24304,8 +24304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7cc70c2d-ec22-4c50-b617-ca68d2512de1',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '39c09de1-88eb-4780-b537-8106e7a39fcb',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'region_un',
     'Europe',
     NOW()
@@ -24316,8 +24316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '81604c97-8825-48ee-aee6-8bb0e08b0f2c',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '8a946122-b11b-43a3-8e49-d71e85ebe517',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -24328,8 +24328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cef394c7-b457-4930-9823-cacbfac0ffa8',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '303d4501-25f0-4323-9d45-5ba6578fa1f3',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24340,8 +24340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3130ba8c-4418-48e5-888a-33a4ca9d5318',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    'd0824634-c3d1-4b99-bf2c-80d53b55eab8',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'population',
     '10669709',
     NOW()
@@ -24352,8 +24352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3a4bd4c7-790b-4278-a0bf-4803b5a6e978',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '73db0e99-65b4-4280-a2ca-a5a0bba26b7c',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'gdp_md',
     '250680',
     NOW()
@@ -24364,8 +24364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32728e16-01a1-438f-bb4f-900cbaeaea68',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '0f812411-78d0-4047-8905-2b730749375e',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -24376,8 +24376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ff46567-0410-4243-ad98-c4100d313a66',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    'b4b76501-af2b-47ac-bb8b-797ad63023d2',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -24388,8 +24388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f3a13dd4-6b9b-4159-976c-ab7f5ded4701',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '809edc5d-f52a-413b-9d50-cb7f1a448948',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'type',
     'Sovereign country',
     NOW()
@@ -24400,8 +24400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32a48a22-fbc6-4bbe-a87b-ba473078c4b2',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '3009f3a9-aedf-4c53-ba19-112d12cefef3',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'label_x',
     '15.377555',
     NOW()
@@ -24412,8 +24412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f76aa0c9-9a71-40b9-bf2c-c331c6673158',
-    '1e58e835-eef1-4af4-882a-7396c9b3dfe3',
+    '51e03f19-b7af-4303-82d7-e271d3b657d4',
+    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
     'label_y',
     '49.882364',
     NOW()
@@ -24424,8 +24424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '57f7a875-4762-415b-91d4-2162afe8425e',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '493c6ece-5aff-46ad-affd-94cb16b127f7',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'continent',
     'Asia',
     NOW()
@@ -24436,8 +24436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '293e29c3-5163-4016-941a-51028bc4c09b',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '6ec64301-c27b-4a9e-8499-7420bd0d62d8',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'region_un',
     'Asia',
     NOW()
@@ -24448,8 +24448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '592182e4-db42-43cb-a849-1a96905f061c',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    'e4de3e3b-877f-4f61-bacd-bb9a3cc7faef',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'subregion',
     'Western Asia',
     NOW()
@@ -24460,8 +24460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc077df3-261b-46ec-93e9-bf04f4c5f39b',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    'e3de2738-0b80-4548-acc5-d2647c5d5ff1',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24472,8 +24472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fea3fa88-56d0-4875-8837-d353a3c24be2',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '5663f2b8-b053-4098-b758-a3e1a01ea9d7',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'population',
     '326000',
     NOW()
@@ -24484,8 +24484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68fea979-6a81-4ec9-b8de-15f659f0efe5',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '159b1e00-1fde-43b5-bfb2-ede245ea8efc',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'gdp_md',
     '3600',
     NOW()
@@ -24496,8 +24496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b444085a-25e1-43b8-9635-b6a7e4ed210d',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '9ce4afd6-84a1-4f26-a68f-fd5e3ccb3712',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'economy',
     '6. Developing region',
     NOW()
@@ -24508,8 +24508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1fa6c014-2053-435f-a982-1d5729bb7493',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '8a2b9351-244f-4530-adc4-c139ae89dda0',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -24520,8 +24520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1a0ec1f-161a-4a1c-b083-db5edefaa4a2',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '660e44d5-bd04-4ddf-b15c-184284df070e',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'type',
     'Sovereign country',
     NOW()
@@ -24532,8 +24532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '410ca71d-7a77-4b30-a09f-a2abd1bb5e0c',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    'd850b0de-2bff-40ef-a449-5481a3b9fbb6',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'label_x',
     '33.692434',
     NOW()
@@ -24544,8 +24544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '42a130e0-75e2-4ba4-893e-ec744050f825',
-    '353aea70-1ff5-49cd-80cc-12a13cb5f073',
+    '387087cb-e017-4a1e-ad36-f6ff61d933b9',
+    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
     'label_y',
     '35.216071',
     NOW()
@@ -24556,8 +24556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '886d13aa-2364-429a-8e4d-13de685d4d5f',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '09ec762b-6ff3-4b65-91ac-ca701d0d7f82',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'continent',
     'Asia',
     NOW()
@@ -24568,8 +24568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '27cee611-c1d3-4894-8a49-b05c21b8b457',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '2bde66be-c10c-4003-a592-1dd71bab27cc',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'region_un',
     'Asia',
     NOW()
@@ -24580,8 +24580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '737f332a-f88a-404c-9ce1-25fbe7022b56',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '7bf897cf-49e6-4418-8494-18a68650e7bb',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'subregion',
     'Western Asia',
     NOW()
@@ -24592,8 +24592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '18595c81-27ac-494c-b693-ee33b245d5a9',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    'f6c9da0b-0f20-4ff4-99ad-73a4e652dd18',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24604,8 +24604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87e12073-b2c1-4308-a6c7-5d489d7d2ecc',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '332829f1-0937-469d-a39a-ed6168319411',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'population',
     '1198575',
     NOW()
@@ -24616,8 +24616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eff3a3b7-90f5-4694-8533-484d15ed6591',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '0fb17ccd-2c0d-486c-992e-6201fb24ce58',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'gdp_md',
     '24948',
     NOW()
@@ -24628,8 +24628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f77e0f1f-e7d9-4def-baa4-48928110a593',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    'c08c0278-8984-4478-b07a-7a4a13f66ec3',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'economy',
     '6. Developing region',
     NOW()
@@ -24640,8 +24640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5a03b221-dd29-4c32-87cf-d61c905d4e80',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    'c1fc5e79-451c-4e15-b35b-34063536b3f0',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -24652,8 +24652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01d36ebd-2074-4167-9732-94092ad13e22',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '96d280b9-0f72-4fb8-a79f-e823c7a26b73',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'type',
     'Sovereign country',
     NOW()
@@ -24664,8 +24664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3003af72-410d-4bff-8b15-f83fd728304d',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '67ea7e9c-d0f6-4f89-9169-675ba909dbb8',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'label_x',
     '33.084182',
     NOW()
@@ -24676,8 +24676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0cdec5e9-0ccd-442b-bf4f-653b0a334a95',
-    '35c1522b-6218-4ab9-8135-0c4b939f1d7a',
+    '34a2eb03-962e-4f06-a806-f565743d0ed9',
+    '4952803b-3269-4667-b307-1f2b1248fe61',
     'label_y',
     '34.913329',
     NOW()
@@ -24688,8 +24688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '780e1946-d4e2-4ab1-a480-2eb79a485bcc',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '4362cdb3-85db-481d-aeb1-df2f1acf4883',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'continent',
     'North America',
     NOW()
@@ -24700,8 +24700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1602d4dc-c420-489f-a192-bb6f07047d79',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '1b3468df-0c56-4417-9cdb-ba7cf879058b',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'region_un',
     'Americas',
     NOW()
@@ -24712,8 +24712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '334f4cf4-4be3-47b4-96a1-c4395b5092f4',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '823e0cb6-a168-4ab1-9e78-03f66b1a649c',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'subregion',
     'Caribbean',
     NOW()
@@ -24724,8 +24724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2de8aca0-17d6-4e64-a94c-0f31ada4bf61',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '70d09006-e69b-4d49-89bf-2c3f8133583f',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -24736,8 +24736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b4cb914-e6cb-4b29-8cd2-cb4e7848817d',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    'f5608cb8-bc1b-40ff-ae81-48d5820960ff',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'population',
     '11333483',
     NOW()
@@ -24748,8 +24748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8a6d05c8-a83e-4946-83f0-13855697da65',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '1d169a0a-b58f-4720-b53c-e4c46957208d',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'gdp_md',
     '100023',
     NOW()
@@ -24760,8 +24760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '84bd635e-c55f-4917-9700-1473487534f6',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '6d88ef93-347f-411f-94bd-dec1408eeeec',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -24772,8 +24772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2b3d1b45-48d6-4670-93e4-aa2077a5b873',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '56d0300a-1fdb-42a1-82ad-ab0cbb2c7689',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -24784,8 +24784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '714dfe35-aa28-4791-a0ef-7bfd6deada5d',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '1c28310b-9559-498f-aed6-6aa534b1f052',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'type',
     'Sovereignty',
     NOW()
@@ -24796,8 +24796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1222aac-f815-4ed1-bf37-accf6ddbd2fc',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '614a5fcd-c64a-4ac3-96c3-699e930c2cb3',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'label_x',
     '-77.975855',
     NOW()
@@ -24808,8 +24808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1bbedd79-87a9-40dd-8c1d-1b60a257cbf1',
-    '9a95ca3f-f2b7-477d-9c72-f5917c1f5528',
+    '59115191-7bd2-4d20-83b4-6913218e8bcd',
+    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
     'label_y',
     '21.334024',
     NOW()
@@ -24820,8 +24820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54324fbb-de1c-4864-9332-c55b09bc6826',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '6af65c39-0a0e-4199-9f6c-762f7ee94fd3',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'continent',
     'Europe',
     NOW()
@@ -24832,8 +24832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1dd13d3d-795f-46a3-9d2e-16d1c8f3b2f3',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '29f9fd6e-943b-4b7f-90d8-b31262458d51',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'region_un',
     'Europe',
     NOW()
@@ -24844,8 +24844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73affc57-fedb-42e8-8084-2a52fefd7d9d',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '82600641-731a-4cd1-a7b7-4996d65f1d67',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'subregion',
     'Southern Europe',
     NOW()
@@ -24856,8 +24856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a71eb0ad-edf1-49bb-a6a8-f29effa39e06',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '612aa64e-d4f9-46be-b122-c8212c6cb0d9',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -24868,8 +24868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dd32c787-a68b-4389-a137-643fbba40966',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '566edee7-7a94-4914-aeb2-211b835120b1',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'population',
     '4067500',
     NOW()
@@ -24880,8 +24880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f972fa99-b461-4d98-8cf5-8d214342d632',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '6cd7249c-c001-480c-8453-a5ec3e093135',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'gdp_md',
     '60752',
     NOW()
@@ -24892,8 +24892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e9b03781-f87d-4edf-bd5d-656dd994fa5a',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    'ace3ede1-30cf-4b1e-b0a5-83c58ea155d6',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -24904,8 +24904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b17763da-5d67-4447-80b7-e3a675b4797c',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '62982157-8780-4333-a092-18442f5eda31',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -24916,8 +24916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11030fb2-64ed-4edf-a0ce-a6480ad91081',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '6e2eac5a-6ca0-494e-8244-2d88ef49ccc1',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'type',
     'Sovereign country',
     NOW()
@@ -24928,8 +24928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '793c27bb-20c0-4906-a5fe-64223ede021c',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    'f409697f-00d7-4e87-b7e0-8e5fbbd18544',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'label_x',
     '16.37241',
     NOW()
@@ -24940,8 +24940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae806d22-c558-44dd-b42c-a5f909248c29',
-    'bd78035d-ec87-422a-ac20-c73458938899',
+    '222b3327-a764-4db4-a84d-4217fd2cf963',
+    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
     'label_y',
     '45.805799',
     NOW()
@@ -24952,8 +24952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d49d924-cc9a-4c11-acbd-2ce9318d8129',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '5dc5ec64-ccd1-46bb-bc61-a98f4f4f1a41',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'continent',
     'Africa',
     NOW()
@@ -24964,8 +24964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '783485cd-f320-4fab-8276-6c467818ca22',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '8018dce5-5dcd-47dd-9dc3-4df3267dc75d',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'region_un',
     'Africa',
     NOW()
@@ -24976,8 +24976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6c5b61d6-8f70-47e7-bf8e-184ad3bde550',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    'c8f8c54d-d84d-46dd-8dce-d76bbe061004',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'subregion',
     'Western Africa',
     NOW()
@@ -24988,8 +24988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3ed19a37-fbde-44cc-9e87-165628d1ad08',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '80ddebf5-bb28-41bc-aa91-8c10e9fcf092',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -25000,8 +25000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '99b644d7-9be6-4300-baf6-30976a9a3992',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '5c94a1c9-5ca3-4234-874a-9e8ce395bcc6',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'population',
     '25716544',
     NOW()
@@ -25012,8 +25012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a860d398-d81a-464a-9d26-970d944a0f19',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    'b2d77910-b377-44de-ad66-7321d2fb7884',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'gdp_md',
     '58539',
     NOW()
@@ -25024,8 +25024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eadb08aa-6bb0-465a-a0fb-c4e524fb708d',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '048007de-3c09-45c4-8870-79f57a25238c',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'economy',
     '6. Developing region',
     NOW()
@@ -25036,8 +25036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56878531-87e3-454d-aa7a-58214bec8378',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '9598dd7e-1ba3-4e76-b1ba-3ccb95dd75b7',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -25048,8 +25048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e1ab662b-a532-4baa-81b5-e0b462462dce',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '5b5f39ed-f28a-4d8c-9f43-9f9206e1efe9',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'type',
     'Sovereign country',
     NOW()
@@ -25060,8 +25060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9fa3576-ceec-4139-8891-6a036086a32e',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    'aefde87e-0ec4-4f26-a022-17380b71d225',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'label_x',
     '-5.568618',
     NOW()
@@ -25072,8 +25072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95bc54d1-fcae-4601-89b0-a4bb6d30c81b',
-    'e75e934b-c795-4a96-a9f7-bb40406754a7',
+    '48b194f6-df99-48a8-b9e7-ec000cf55fd3',
+    '30e01406-725d-418c-b8c9-336389ea828f',
     'label_y',
     '7.49139',
     NOW()
@@ -25084,8 +25084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8586f75f-cc09-43e6-8887-2b83010ff691',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '6993dee2-c6b7-4fb5-906d-f1f65cb70c6a',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'continent',
     'North America',
     NOW()
@@ -25096,8 +25096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56c05b81-2a48-47ed-9402-c034f2473428',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '6e4fc7b8-3b48-4dbe-b099-ab39f2dba371',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'region_un',
     'Americas',
     NOW()
@@ -25108,8 +25108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '19fdae05-cf54-47e6-86b4-498555a19c2c',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '89750048-de37-4cd7-83ba-a765f1a591a1',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'subregion',
     'Central America',
     NOW()
@@ -25120,8 +25120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'de3045f7-26bc-43ba-bf2b-0881ef1866ff',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '5d8fa5fd-5c91-406b-be07-b1b21d3fc056',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -25132,8 +25132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d362963-5d71-41d2-a637-f4504f0cf6b6',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '23cdbabe-05ea-4b33-ba73-859eaf1bb27e',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'population',
     '5047561',
     NOW()
@@ -25144,8 +25144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4dba556c-60d8-4b4d-b62c-36477cd453c7',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    'be0a4610-23db-4dcf-a04c-7b38a3baee3d',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'gdp_md',
     '61801',
     NOW()
@@ -25156,8 +25156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d191505-184d-4bbd-8e59-41e32661a841',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '524b4387-bff1-4eb9-bad0-a9f3ae8f10df',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -25168,8 +25168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8b304932-8988-4eca-a2cf-40f418d19743',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    'be932f85-7736-489a-b7d9-71c39468892c',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -25180,8 +25180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ce81c367-22d9-42c7-b35d-266f590d05f6',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    'f77978b9-8348-4ffa-8548-a8df4ef59ac5',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'type',
     'Sovereign country',
     NOW()
@@ -25192,8 +25192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0785005e-48bf-4b50-a761-e62a6c20ef94',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '6173f975-8fd9-4d92-9696-06b218ee6f4d',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'label_x',
     '-84.077922',
     NOW()
@@ -25204,8 +25204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c24897f0-d804-4522-acbb-9f702c60bf91',
-    'eefe1a54-3304-418e-8905-75ba299facff',
+    '275bae68-572c-41aa-9ec5-4e7cc2768e50',
+    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
     'label_y',
     '10.0651',
     NOW()
@@ -25216,8 +25216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '368e4309-8622-416f-8519-ba1529fa4a22',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    'ff49d8a7-00f4-4f6b-8f1b-1e431e23903e',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'continent',
     'Africa',
     NOW()
@@ -25228,8 +25228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8aad6f1c-c5cc-411c-aa58-7cc7d50d3ab1',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '00f9404c-f08a-47ec-9fee-5a5ab7b428d8',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'region_un',
     'Africa',
     NOW()
@@ -25240,8 +25240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9228eec4-57a6-4868-9b77-2e1503d4e23f',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    'd0b4d236-0a43-446e-8c17-82f5fb21939f',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'subregion',
     'Middle Africa',
     NOW()
@@ -25252,8 +25252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70bacc9c-8107-4159-8856-dc44ab528ba9',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '15cee57b-8945-4024-a331-28a799fefd30',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -25264,8 +25264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a38597fd-a64f-40ff-b594-dc401c775fd9',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '79b53a10-5356-47bf-897b-4ca59120602d',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'population',
     '86790567',
     NOW()
@@ -25276,8 +25276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cfe64921-51be-4ba9-aeff-c18b8ed5f8e9',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '35dbe789-c967-4672-89c7-839f3a11e54d',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'gdp_md',
     '50400',
     NOW()
@@ -25288,8 +25288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61f59ac6-7bcf-484d-aca5-f162a12edd42',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '83abd887-17dc-40ea-aa23-9fdc60461cf0',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'economy',
     '7. Least developed region',
     NOW()
@@ -25300,8 +25300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ceeda116-e28f-4e42-92e9-5b433a51ab55',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '00ab8233-b262-40fd-bbc8-67460f09b7e5',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'income_group',
     '5. Low income',
     NOW()
@@ -25312,8 +25312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '45d67c5f-3918-4234-9437-96e3b0eac613',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    '6ef10387-1bbe-44cd-9ea5-5d93fa7660dd',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'type',
     'Sovereign country',
     NOW()
@@ -25324,8 +25324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fa0fd9f3-c478-41cc-80e5-20f9092df1b7',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    'efcf0d89-cce1-4cad-b85e-d2eafab5ef67',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'label_x',
     '23.458829',
     NOW()
@@ -25336,8 +25336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e8adba05-5d65-4f8e-bdfa-d9c7afd3dc99',
-    'e543d1ae-f183-4c2a-bb9a-368eaa12ef26',
+    'bdb0c2c0-75f9-4332-acc6-15632d8a2b7d',
+    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
     'label_y',
     '-1.858167',
     NOW()
@@ -25348,8 +25348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba99efc0-6fc6-4f0a-97b4-75cfc95e8b50',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    'eaa0d45d-3df6-42aa-9579-85d42316c9a3',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'continent',
     'Africa',
     NOW()
@@ -25360,8 +25360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '76611676-a58e-4f6d-a4a7-d07dbf3f1e77',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '816afc06-09cc-4672-8b8f-94e5f231ba06',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'region_un',
     'Africa',
     NOW()
@@ -25372,8 +25372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68a59d90-021d-42cf-9032-891bbc33a575',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    'a3cdea3d-6542-47f7-8e86-d056832aabba',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'subregion',
     'Middle Africa',
     NOW()
@@ -25384,8 +25384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '50782835-7866-48e7-ab4b-8b59657bf3a9',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '7ec52a26-eb3f-4d80-9ec3-da2a43594b9d',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -25396,8 +25396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4420f093-0d1b-4881-b00c-af92e0da2cd6',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '44a2b81a-fa4b-4636-992f-f4675ff52f43',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'population',
     '5380508',
     NOW()
@@ -25408,8 +25408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '829d14b5-9298-41db-9ae1-072b9d2d8b81',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '98bac1fe-0255-4f55-b4cd-ae6849cb461c',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'gdp_md',
     '12267',
     NOW()
@@ -25420,8 +25420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7eb01a48-e854-4069-a56d-28d7692ef846',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '8cdea389-8aa1-463f-91d7-0cb41797bd31',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'economy',
     '6. Developing region',
     NOW()
@@ -25432,8 +25432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f67a351-b0db-4b63-954a-18b6a17b4db8',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '031cc4ae-865d-4a28-8439-f4be45169d36',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -25444,8 +25444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd75a7073-12eb-41e1-b876-e4a78df1bc60',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    'aa8b3392-d90d-4ff3-ae5e-241fa968aa93',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'type',
     'Sovereign country',
     NOW()
@@ -25456,8 +25456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fcb05b6a-c053-4c65-9fae-23963f45b99d',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    'dac49da3-0921-437c-94c5-ecdcf1c00a16',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'label_x',
     '15.9005',
     NOW()
@@ -25468,8 +25468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65b3e3e6-343b-49c3-956e-bf14aa789a3e',
-    '5dc58779-5684-496b-97db-50199f475c61',
+    '4b7a1aec-5774-43e7-a2fb-e760610362f9',
+    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
     'label_y',
     '0.142331',
     NOW()
@@ -25480,8 +25480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf297545-3d4f-4c83-afbc-e789103d5f2e',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'aecce430-f09f-4f0a-8a5c-b74dc713f566',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'continent',
     'Africa',
     NOW()
@@ -25492,8 +25492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4bd1204f-ff29-4f8f-98da-30f84864a59f',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    '21ca7536-fa3d-4d34-b207-bafbc03f08d5',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'region_un',
     'Africa',
     NOW()
@@ -25504,8 +25504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd345180-e3aa-4e65-8572-080ffa7a2452',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'efdf75f6-c122-4a9f-bf7b-7dc09d1f55ca',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -25516,8 +25516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2e5503d-c1d3-4b52-be82-ea3bd9def552',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'bfe48874-20b9-4a82-b3f3-950df5a01b7b',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -25528,8 +25528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '701c12d3-00f0-411f-bbde-abe63f13ae7d',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'af648cd3-317b-4072-8116-522dc5ba261c',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'population',
     '850886',
     NOW()
@@ -25540,8 +25540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec3b0a93-5301-443b-b653-996ee9f1c708',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'b764d288-5a77-4cd9-a9bd-f708a76fcdd9',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'gdp_md',
     '1165',
     NOW()
@@ -25552,8 +25552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7c0956cf-64b8-4fd7-9e23-7620e3402a1d',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    '3fb9c09d-749b-4cfd-ad3c-fcfd31011e30',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'economy',
     '7. Least developed region',
     NOW()
@@ -25564,8 +25564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a53823d9-e7a2-4e9d-a103-f989250ab72a',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'd757254c-cabb-42e5-b24c-64ac6c8c8011',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'income_group',
     '5. Low income',
     NOW()
@@ -25576,8 +25576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7650d974-4808-401e-a181-18c8435ab8ea',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    '99175a91-775d-4919-bdf8-86fdc9e2f473',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'type',
     'Sovereign country',
     NOW()
@@ -25588,8 +25588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5ae56738-80cc-400d-9862-5a777b06a867',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    '9d3d3407-a4c2-478c-a6d1-23f3cd9d434b',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'label_x',
     '43.318094',
     NOW()
@@ -25600,8 +25600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61c7edc2-34b2-4324-8f99-c02824052a8a',
-    'b5c6f489-04ef-4c5f-a50a-5f5b91a9bce5',
+    'c9eaf1e5-bb82-47a2-bc16-6e7f2227076b',
+    '1739a1fb-855e-45fa-957f-43d39b51c797',
     'label_y',
     '-11.727683',
     NOW()
@@ -25612,8 +25612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '46c981a8-3fe6-4583-91b1-2e0e5d2ee6f4',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    'dce75916-96af-4921-a5fc-464d100f8736',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'continent',
     'South America',
     NOW()
@@ -25624,8 +25624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efdc5eac-e117-4e14-8a33-c61e9131c8ec',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    'da55b9be-75aa-4b30-b48f-7b17bc851d2e',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'region_un',
     'Americas',
     NOW()
@@ -25636,8 +25636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51e350d2-eaa2-4e53-be99-aa9461a1bb2a',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '68a86d6a-acf1-4ffa-aff3-b98575ffd585',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'subregion',
     'South America',
     NOW()
@@ -25648,8 +25648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b8c10c3-eeec-4c97-af06-f80ecd3e52ae',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '6ef51c8d-f91c-4044-8c38-bada4a720228',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -25660,8 +25660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d807b47-076d-4819-aaef-d02eba6aef9d',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    'a3cca487-dc3d-4ad6-8385-acecc6f1d044',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'population',
     '50339443',
     NOW()
@@ -25672,8 +25672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f4d38490-4072-4635-a230-2b5bb75f78f3',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '198c03ef-31d8-4e57-a5a9-0bc5396b1d22',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'gdp_md',
     '323615',
     NOW()
@@ -25684,8 +25684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7e9d37aa-9aa2-4b40-b362-be2d599fd949',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    'da96adc0-222a-405b-9087-a3cbeb24749b',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'economy',
     '6. Developing region',
     NOW()
@@ -25696,8 +25696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eb51917c-bb3c-4c65-8e89-ae8df8e1e4b8',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '03ed3ad7-3fcd-4e1e-a585-c940b1ac2005',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -25708,8 +25708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bb70cb8e-dcec-462e-bfa5-80d4f4d1abab',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    'f45b2ef3-ac12-4295-b5f1-9fad2335ef62',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'type',
     'Sovereign country',
     NOW()
@@ -25720,8 +25720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2f7e5381-1f17-4964-83ac-ed9b6d71c0ef',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '758630cb-fae1-4c7e-8783-c0dd9fe4b9d0',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'label_x',
     '-73.174347',
     NOW()
@@ -25732,8 +25732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e42ac205-041f-4ed8-9690-6293dfd89b9e',
-    'e0b704e1-3964-4419-b84a-ab10fc8c2c0f',
+    '6a969862-4704-493a-bb04-43f4cd6b2eaf',
+    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
     'label_y',
     '3.373111',
     NOW()
@@ -25744,8 +25744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8b128ea-4574-42e6-b435-cc3f6f2dded2',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '6df89e89-2a4b-4d95-8167-7f6a12ea4fc9',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'continent',
     'Asia',
     NOW()
@@ -25756,8 +25756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e88406a-b9c8-4ec3-bed5-16c5b6dac157',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    'b46ab02a-5c99-4677-a7fb-1d19e35011c2',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'region_un',
     'Asia',
     NOW()
@@ -25768,8 +25768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3017ea66-320c-4ce1-801e-450bdd2678e5',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    'cdb1317e-51d8-400c-bbf8-9579b5ef0bda',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -25780,8 +25780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aff6bed5-185d-44a4-a8e8-e8b0bbfb914b',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    'f26072b7-0522-414d-a5b7-d197fab30b5e',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -25792,8 +25792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3cfcfe3-cff6-4ada-9187-cf42c893bca7',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '5de6ecaf-96b7-4e86-8277-ba1610ebded4',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'population',
     '1397715000',
     NOW()
@@ -25804,8 +25804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11a58bd0-2281-4bfb-9679-b56bd8252f91',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    'c4e8416d-ace0-4cd0-9245-d32274106b58',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'gdp_md',
     '14342903',
     NOW()
@@ -25816,8 +25816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9bc4648-13e0-43a4-88bf-4e5f439f153b',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    'ff4ade01-043c-480f-943e-239d2a92be2e',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
@@ -25828,8 +25828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c08e77ff-8fa4-4074-bec8-4fa22fdf8e6b',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '24e32fd0-2783-49da-b502-c65c5a81db64',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -25840,8 +25840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e4645409-f464-49ac-842e-cc06b51715a0',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '5f7d0e24-f8be-4d04-ade3-78b77e74caf7',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'type',
     'Country',
     NOW()
@@ -25852,8 +25852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0bd2bdac-876a-4bcd-8edd-aa8ca3b95515',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '3f91a024-4195-4e64-818a-4907f0f874e1',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'label_x',
     '106.337289',
     NOW()
@@ -25864,8 +25864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '069876f0-f16f-475b-9250-f4a9e3f18ac5',
-    '758e2653-9a26-4b76-baf2-5967950ae352',
+    '750518d7-a3d4-44e7-b247-00ac5ab11c43',
+    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
     'label_y',
     '32.498178',
     NOW()
@@ -25876,8 +25876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '66c52e55-e880-451f-82b6-753191a3b372',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    '84732bae-d029-4ae9-8129-6e1d14bd30eb',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'continent',
     'Asia',
     NOW()
@@ -25888,8 +25888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cc216d1e-7b76-4feb-a369-c4b8a5b471d7',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'b0053c07-eff4-4ddf-9803-41fc3b818546',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'region_un',
     'Asia',
     NOW()
@@ -25900,8 +25900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d62b15a-42de-4d23-b99d-6939b85a3ca2',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    '00feb607-30a9-49fa-954c-0afee50b4d87',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -25912,8 +25912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a8f7d32e-d0a8-4dc5-b201-c316137335d7',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    '5220ce8a-744b-4516-80b8-2bca48de7f6b',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -25924,8 +25924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3ff0e0e8-66f6-4ff3-b157-d28d4f0cfe3f',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'b76370d1-f392-4fdc-a365-eb39563da7a2',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'population',
     '640445',
     NOW()
@@ -25936,8 +25936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56f28b83-ad7a-42c0-bcf1-0d57eb34ac71',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'd2d5b769-caec-42c1-bd95-f88f04c82563',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'gdp_md',
     '53859',
     NOW()
@@ -25948,8 +25948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '48bf6a3d-af52-4718-818b-eaf506cb6e90',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'f35b3eb9-24f9-4f91-84c4-d934504b6d2f',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'economy',
     '6. Developing region',
     NOW()
@@ -25960,8 +25960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3047fce-8010-4bb9-afbb-2a513659089e',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'cd167520-4730-41ce-a0ef-3acfd5861c2d',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -25972,8 +25972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '155cbfb2-71b6-4d54-833c-d927fb2e68d9',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    'f141d7ad-d9a3-49f6-b670-7001fe384aab',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'type',
     'Country',
     NOW()
@@ -25984,8 +25984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '538d1974-226d-463f-afe1-bf5e400b7e51',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    '3aa83b51-9a2e-450d-a528-318180af27b2',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'label_x',
     '113.556038',
     NOW()
@@ -25996,8 +25996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a549d9a1-1f89-42cb-9955-88c5085202f3',
-    '3d2f7094-a651-47ee-a3ae-0e9465337440',
+    '91755a91-660f-429b-8a3a-81db0c40b157',
+    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
     'label_y',
     '22.129735',
     NOW()
@@ -26008,8 +26008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2504db5-38be-40bf-b750-6d60f6c196ae',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '176f072f-db18-4bc1-a545-4bc3f43632ac',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'continent',
     'Asia',
     NOW()
@@ -26020,8 +26020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '74bb7513-6e01-461a-8b6b-95770b4a756a',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    'ef8b6034-3c19-48a6-8a43-9dc5f4b8a981',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'region_un',
     'Asia',
     NOW()
@@ -26032,8 +26032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba1f063d-14d2-4eaa-bf04-1c9c705282f6',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '7e33a9f8-c2b7-4fd3-ace9-549b39897520',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'subregion',
     'Eastern Asia',
     NOW()
@@ -26044,8 +26044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '05171308-4461-454f-a881-b8a82a7bc85e',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    'fbd48333-93ca-40e5-b496-64cd4fb1c800',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -26056,8 +26056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fac6b837-5dc0-419e-8079-718e771fffa2',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '0142ca6b-b5c9-43fd-b369-5766b09c6656',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'population',
     '7507400',
     NOW()
@@ -26068,8 +26068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90c9f370-ad76-43ec-8f7d-b3bc6e937b0e',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '36774418-dba4-49cc-9a3e-34f42f3e0878',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'gdp_md',
     '365711',
     NOW()
@@ -26080,8 +26080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73b70e4a-94f8-4173-8a27-f8358a08d331',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '8c1ccaac-cd95-4bca-85db-fefc4aadfeea',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'economy',
     '6. Developing region',
     NOW()
@@ -26092,8 +26092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac4feeb8-e753-4d2d-a93a-37d0cb8cec20',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    'a78a1e92-059a-4271-b526-b6ef282769d4',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -26104,8 +26104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '361888a1-55ae-4483-9fa0-db4acc6e29f5',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '7a5dd3b5-3484-4c74-9e89-7a8947875968',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'type',
     'Country',
     NOW()
@@ -26116,8 +26116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '43f74db1-f18a-464d-92a5-871d550bb56d',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '8aaf85aa-3945-4988-a192-5a18d5088411',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'label_x',
     '114.097769',
     NOW()
@@ -26128,8 +26128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0dfe279a-3fb7-44b3-bb87-53664a50f891',
-    '1eabdbbf-2d81-410f-86b2-bf78ae731d43',
+    '7c109fd2-0c11-41b9-a61b-a92b9d88ca13',
+    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
     'label_y',
     '22.448829',
     NOW()
@@ -26140,8 +26140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6785a32-466a-4934-9ad4-2faeff6ef94c',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    'db9b716a-9c35-4b2e-8163-f6a524c76403',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'continent',
     'South America',
     NOW()
@@ -26152,8 +26152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ad9a03b-1697-47dc-bf0d-203c64d9b1f7',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    'babfdc7a-60ad-4ee5-81f0-95a8f91f73d0',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'region_un',
     'Americas',
     NOW()
@@ -26164,8 +26164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9baf4469-27e4-4970-a0bf-9bef31ffda94',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '796e4065-65ee-4160-b788-001ef1fe519a',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'subregion',
     'South America',
     NOW()
@@ -26176,8 +26176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '22a89255-35f6-4c1c-8550-60832086ebb3',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '8044d059-889e-4c2b-b49b-c6c035564378',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -26188,8 +26188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b028b200-beac-4bca-82ec-1992578572be',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    'fbe0060b-c589-4c16-a029-2a29f91a0aa4',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'population',
     '18952038',
     NOW()
@@ -26200,8 +26200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d640591-d707-4f42-8098-0f7674528150',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    'a0e7a880-e031-44de-b3a3-e51503b0587d',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'gdp_md',
     '282318',
     NOW()
@@ -26212,8 +26212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da295133-494a-452f-8085-1fd831196242',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    'a53eef43-cd01-4caf-a29a-7075a1b671bb',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -26224,8 +26224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '41489913-8077-415d-8673-c4a8f10c6e54',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '44ec8ac6-1189-4366-9377-ff6cbea1d49e',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -26236,8 +26236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1c625297-34a8-4d00-a560-c972e9e53ee1',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '9e238ec2-de18-4297-a8a1-02d2f06e2a41',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'type',
     'Sovereign country',
     NOW()
@@ -26248,8 +26248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb5a726f-aa00-4135-a47a-0198c892cb60',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '90a16345-f65f-443e-ac1b-3a315fdcc400',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'label_x',
     '-72.318871',
     NOW()
@@ -26260,8 +26260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6cd41c07-a804-4ebd-adc6-039afa40ee17',
-    '4c210b73-c746-4681-8584-762145be0dd5',
+    '382941d2-6f90-4667-89dc-57972fef1f0f',
+    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
     'label_y',
     '-38.151771',
     NOW()
@@ -26272,8 +26272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a4371ba8-6054-4cee-b219-df135c1f58e6',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'aeb8af99-4578-4284-ad6d-d775de45ba54',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'continent',
     'Africa',
     NOW()
@@ -26284,8 +26284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '562b2985-3399-4092-8557-5a3a8cf623f1',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'd3faa5aa-196b-42d1-8889-7369b477d933',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'region_un',
     'Africa',
     NOW()
@@ -26296,8 +26296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd0dc530-721b-4bee-8e78-79b27c6a6083',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    '6d7c07dc-0ff1-4aa8-b047-7e9006df66c3',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'subregion',
     'Middle Africa',
     NOW()
@@ -26308,8 +26308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b4e45408-ddf6-44bd-83f7-11f4d19f73a8',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    '181fbb1c-6d26-4e56-942f-1ca9f8578317',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -26320,8 +26320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '18d20e2a-d112-4a21-bf16-9a06c9d19c76',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    '1eb59101-f5eb-4146-866c-40a911579688',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'population',
     '15946876',
     NOW()
@@ -26332,8 +26332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '84fbdcbb-a3bc-49d2-878e-c2d33f5e3c04',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    '9ade5b04-cc00-4f6b-9f3f-4c3ba16745fc',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'gdp_md',
     '11314',
     NOW()
@@ -26344,8 +26344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '94c3bdc0-1695-4ef4-abbc-95dc3cbe664f',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'f7ec73a3-dc5b-446c-9404-8bc7f6ae1d3c',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'economy',
     '7. Least developed region',
     NOW()
@@ -26356,8 +26356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3bc0eec1-6fbd-4cea-a2c3-ad3943ab74ed',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'c523756e-60f8-4480-ab92-bacd9afa5db8',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'income_group',
     '5. Low income',
     NOW()
@@ -26368,8 +26368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '78dd947c-ffa0-4cac-8d27-8179efc75787',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'be7fc265-fa69-4e00-9e17-f9d80a064364',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'type',
     'Sovereign country',
     NOW()
@@ -26380,8 +26380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2fc9e24f-4a5b-481e-bcdd-623ca2cba8ef',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    '8cd3712d-987c-466f-b04b-5506ce91f97b',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'label_x',
     '18.645041',
     NOW()
@@ -26392,8 +26392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '02bbd076-bb8d-4f45-b1de-fbd7c20849f0',
-    'c379e817-55be-4d73-b08d-534e22b8ac9a',
+    'f00425a2-366c-44a4-bc72-1c43aa94ab16',
+    'bb6cd869-bc26-4f04-b742-6e8264295a50',
     'label_y',
     '15.142959',
     NOW()
@@ -26404,8 +26404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a14428d9-b50b-4874-ae84-3990e28f9f58',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '2fe68470-722c-435c-a604-3d6a43ea557a',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'continent',
     'Africa',
     NOW()
@@ -26416,8 +26416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '72c4c181-e0bb-4324-93da-60a6f1fa0446',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '29361ca7-dbdf-4aaa-abca-99194875a95a',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'region_un',
     'Africa',
     NOW()
@@ -26428,8 +26428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ed6d818e-17fa-4a93-b84c-ca1945829a34',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    'caa277cf-8630-40d7-8994-a308162e6bef',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'subregion',
     'Middle Africa',
     NOW()
@@ -26440,8 +26440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e2d0083-45bc-4484-9d95-8c4fd79576d1',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '971d773f-c9fa-4124-b840-19a0bb1588fe',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -26452,8 +26452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dc2e0c8c-fae8-466c-b771-3da21f537269',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '929ef7d0-3d3a-4982-b988-99b1e34f70c7',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'population',
     '4745185',
     NOW()
@@ -26464,8 +26464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f436f4bd-a9bd-487a-b7d3-37947faef14f',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '34cd65a3-f2c6-4029-946c-b105f0770886',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'gdp_md',
     '2220',
     NOW()
@@ -26476,8 +26476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2c3831bd-6202-4c16-af50-62d43130f91d',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    'c0c4a78b-cb2e-4e8a-aad7-2e3bb94d1a40',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'economy',
     '7. Least developed region',
     NOW()
@@ -26488,8 +26488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11b0ed84-5d74-4985-b519-2142a55e8252',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    'b1aaa608-d879-460a-af61-747083ffe67c',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'income_group',
     '5. Low income',
     NOW()
@@ -26500,8 +26500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fee21c6a-d4dd-4b3f-9dcf-4f2c48bde5a6',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    'd9aa6ef5-af75-474d-9094-dda59993a144',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'type',
     'Sovereign country',
     NOW()
@@ -26512,8 +26512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '713bf0f9-26c0-4e5b-bad5-e200b6b8151e',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    'd3037d50-9e48-4503-95f4-64378baa3ad1',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'label_x',
     '20.906897',
     NOW()
@@ -26524,8 +26524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12829b20-4d55-4665-96dc-8c3c5fc97471',
-    '000a1812-f7f8-42f5-9119-d30987c1a144',
+    '9e11eb9f-9d6a-4760-a77f-b270032b84c0',
+    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
     'label_y',
     '6.989681',
     NOW()
@@ -26536,8 +26536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '40a6e0d6-4e29-43af-830f-8d48f3ad717b',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '6c44eef4-45c3-4409-ae46-4943c49de598',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'continent',
     'Africa',
     NOW()
@@ -26548,8 +26548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a40d6079-23fe-4596-b97a-1a854e4dc3a4',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    'd888582f-5c41-4a95-ac7c-6358186e0e7e',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'region_un',
     'Africa',
     NOW()
@@ -26560,8 +26560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73029d60-135b-4b00-a0d9-1a8b58991880',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    'cd938437-f711-4936-a350-7e2e9d004f2e',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'subregion',
     'Western Africa',
     NOW()
@@ -26572,8 +26572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4a9a3d98-4c14-4a7f-8fee-ecd9aee7007b',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '7df60741-1557-4fb8-a413-a212d1418176',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -26584,8 +26584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e64baf0-8199-40ce-bf1b-059f02fa5b0d',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    'a65b079b-9d6b-40fe-9600-36491a442fd1',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'population',
     '549935',
     NOW()
@@ -26596,8 +26596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dfd887d7-7570-49b9-961d-b2cf6fb48422',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '3e555eca-b65a-4eeb-935c-781c8eeedfba',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'gdp_md',
     '1981',
     NOW()
@@ -26608,8 +26608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8408004b-f256-4a31-88a3-e8de4d467612',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '82be7a31-4590-41cb-a581-ee0cf43b9c8a',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'economy',
     '6. Developing region',
     NOW()
@@ -26620,8 +26620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88430808-2882-4e9f-b73c-e04e80d086db',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '00381b95-114e-4b4b-acb1-9034f749f434',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -26632,8 +26632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '17190664-8d6f-4ea8-90d7-474f9eebb9ba',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '89ed0958-2be3-428e-a6d4-e88d0918f874',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'type',
     'Sovereign country',
     NOW()
@@ -26644,8 +26644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1856af8d-e4e1-4ac8-b1f5-132bf3f790df',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    '728642d2-c241-4cfd-9753-c6014cc02142',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'label_x',
     '-23.639434',
     NOW()
@@ -26656,8 +26656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c03b7a5-3c1d-4fae-bb6c-cb291257a07a',
-    '9f16ea4a-1aa9-4c91-bcba-f1a33d36a33e',
+    'a554abe1-d86c-4dfd-a49b-a814df9f7f6d',
+    '95359e34-24db-4d98-981f-df0c19413ed0',
     'label_y',
     '15.074761',
     NOW()
@@ -26668,8 +26668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d76aaab-2745-42f5-87b5-f213f2986047',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '1b942b65-4bfd-42b6-9fb2-574ab232695f',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'continent',
     'North America',
     NOW()
@@ -26680,8 +26680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '835ab999-c345-4368-97cd-eb49f55bcfa6',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '90be1768-6beb-40ec-a66e-4d3c7693c821',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'region_un',
     'Americas',
     NOW()
@@ -26692,8 +26692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e8d549c-36ee-496c-ac52-415d994a7777',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    'c2900119-dcb8-4dfe-a403-15b4b5583167',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'subregion',
     'Northern America',
     NOW()
@@ -26704,8 +26704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6901f9cd-3a4f-466b-ba93-97c764434694',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '3e10bce4-6599-42a5-a2b1-41c9f641c29a',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'region_wb',
     'North America',
     NOW()
@@ -26716,8 +26716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9c792ca-66bd-4cee-a06e-bf10e3e3233e',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    'dd1a5d6f-0e74-4bb9-8d52-d871ac2e305f',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'population',
     '37589262',
     NOW()
@@ -26728,8 +26728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ff6288f-d9e7-4c28-95a4-5f51d5ae9867',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '942fcd35-571f-49fa-b517-05fd3c6d3a1b',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'gdp_md',
     '1736425',
     NOW()
@@ -26740,8 +26740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4534fb8e-bcfa-4688-aaab-162b194167d4',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '200ea4a4-2caf-456f-a0f0-261206f4e4ba',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'economy',
     '1. Developed region: G7',
     NOW()
@@ -26752,8 +26752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e6a29186-f4f7-429f-abd6-255b6ef2ff0a',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    'ea15ce21-e756-4bd8-a309-9ee7e41f3148',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -26764,8 +26764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dcab9dd5-ffad-4f03-8929-0240c162f61e',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    'b7de1c88-72bb-46c5-90d8-2689747f0fab',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'type',
     'Sovereign country',
     NOW()
@@ -26776,8 +26776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f44852f-6c6c-4fba-ad7e-11a5b8af2856',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '1c0bd2f3-cd83-4b45-aa41-abef72399db9',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'label_x',
     '-101.9107',
     NOW()
@@ -26788,8 +26788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dd89ac92-9b28-4b97-892d-90026b7dcb93',
-    'ea08a5f1-cd5d-4bd3-b910-079d7158c8c3',
+    '53c600e4-f395-4dcf-8203-e9cf8d645734',
+    'ed3df07d-aab2-41fb-9142-8073c05e9269',
     'label_y',
     '60.324287',
     NOW()
@@ -26800,8 +26800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4d0fab5-fa6b-46e9-a9fc-2868a260c4d2',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '1529a8bd-dad1-4ddd-9e50-2bfec022d004',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'continent',
     'Africa',
     NOW()
@@ -26812,8 +26812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f5b42192-dd72-49b7-87f7-06c600c4b8e0',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '451275dd-5ee3-468b-9762-64bc3c2ec6f2',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'region_un',
     'Africa',
     NOW()
@@ -26824,8 +26824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90940f78-7491-4829-8213-de919a5c5844',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '7fade62b-d2ad-4d1a-a479-84a98e5df4e4',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'subregion',
     'Middle Africa',
     NOW()
@@ -26836,8 +26836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c97d5ce1-fdd1-4382-ac97-4e8dfde4ffa5',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    'd75a427a-3686-4bd8-b1cb-85bacad25c5f',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -26848,8 +26848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1982b944-ac63-489b-8c37-9295d102f71a',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    'f810d7e1-590d-482b-8de1-f8d4d544a7c3',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'population',
     '25876380',
     NOW()
@@ -26860,8 +26860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '49697e81-8957-4a1e-962d-ada047a356e5',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    'b9d20855-53d5-4cac-9ed1-676f8f50b0c2',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'gdp_md',
     '39007',
     NOW()
@@ -26872,8 +26872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d937075-5020-489a-9753-655f718dc5f8',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '6221bf68-1f7f-4e77-9304-7c89cf937fac',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'economy',
     '6. Developing region',
     NOW()
@@ -26884,8 +26884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a650da73-6988-4426-86b9-ba8f4d6980ab',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    'b3fb729d-e737-4b0a-8b34-f8157ac8477c',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -26896,8 +26896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aafd5564-2045-44bc-b238-54ee647e8add',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '1a2d99ce-a7b6-46fc-8f87-c96199bdd9b5',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'type',
     'Sovereign country',
     NOW()
@@ -26908,8 +26908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '55f81646-3f5a-476d-bd4b-bd4aeee74cdd',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '106adf4f-b064-4152-93a1-20471d650836',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'label_x',
     '12.473488',
     NOW()
@@ -26920,8 +26920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7c297c3-fe13-45a7-ae6c-e19ae73b7e4a',
-    '3d188194-287e-4985-95bc-838106c4e0c7',
+    '4fffdcd0-4185-455f-bc69-e3ec6a4ab893',
+    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
     'label_y',
     '4.585041',
     NOW()
@@ -26932,8 +26932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd07365e9-3035-4931-85e2-0aa305b31512',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '82b517a8-7ee8-4f1a-af03-cb8e6dab32ae',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'continent',
     'Asia',
     NOW()
@@ -26944,8 +26944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c9851e1b-c335-4053-bd60-a92fb5fe04f6',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '4b2c6be1-348f-4b01-90ca-455691279f8c',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'region_un',
     'Asia',
     NOW()
@@ -26956,8 +26956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70dc723e-5f7b-4317-a0b2-e814ebe20f63',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '38600f6b-fbbc-4d4f-af52-32aaa5259b6d',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -26968,8 +26968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '126d70b8-59c0-47d9-873c-a855853867f9',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '1daea7ba-1b2a-4638-8d5c-1bbb14f60522',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -26980,8 +26980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3f327bb-17b2-49f4-bfa8-0556cfe6dd1f',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    'b68f06cd-2fd7-4e5b-8e95-64dec98b35ef',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'population',
     '16486542',
     NOW()
@@ -26992,8 +26992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa289514-4806-40d6-a51f-564234bf16c1',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '4863d008-03c5-435e-a928-0204ab0166cc',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'gdp_md',
     '27089',
     NOW()
@@ -27004,8 +27004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6647a4db-0f17-4276-8019-a4dc6a5eb318',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '73e81fe5-c744-4666-96d8-08ef78adcc29',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'economy',
     '7. Least developed region',
     NOW()
@@ -27016,8 +27016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3bb89312-cc5a-4c47-9b9f-8aa25d13bef7',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    'da25117f-6dc7-4259-9ef0-970f72b9495e',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'income_group',
     '5. Low income',
     NOW()
@@ -27028,8 +27028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c1ab2016-58b7-47af-bfc9-658f1aa29f41',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    'b41fbddf-55ca-43d0-b4e1-83461719b13a',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'type',
     'Sovereign country',
     NOW()
@@ -27040,8 +27040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b3160f40-b8ed-4e7c-b881-d95a154b5009',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '53c224b4-a897-425e-97d2-7982ea8a8773',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'label_x',
     '104.50487',
     NOW()
@@ -27052,8 +27052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8b78fd4b-cc81-4fce-925d-39ce7333d5f1',
-    '38ae6161-373a-4c0d-9b38-e68f066e1f1b',
+    '6287a298-c581-44aa-852f-ece5e985d041',
+    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
     'label_y',
     '12.647584',
     NOW()
@@ -27064,8 +27064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9dbb45b-660c-4fda-b098-4c8244529f3b',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '7b9f1716-43ed-4b40-9b16-98f56fcfe37e',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'continent',
     'Asia',
     NOW()
@@ -27076,8 +27076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b0ac991-cce5-4d3e-83c6-7292206c1cf7',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '49c40fa5-45eb-407e-8155-02585a482bd0',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'region_un',
     'Asia',
     NOW()
@@ -27088,8 +27088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '59d1b782-349f-4904-a94c-4c68a59d6bd1',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '4021bfd9-f3bb-4e7d-b83c-4386954bc1df',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -27100,8 +27100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '666005f8-49d4-453c-b255-5e385c568320',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    'b343dff2-71a2-4569-8d51-8467f06d690d',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -27112,8 +27112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7fb697b6-474d-4e58-8243-e7f677782c9e',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '18f498ef-cdb1-45c9-93b5-8ab5ee8d7cf0',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'population',
     '54045420',
     NOW()
@@ -27124,8 +27124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c88f6889-98ca-4e64-82ef-08b545dbc171',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '88173428-a419-42cb-a763-c08c44a77962',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'gdp_md',
     '76085',
     NOW()
@@ -27136,8 +27136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cd7fef4b-44bc-4aa3-af3a-ba2a5dcf48f0',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '2237de3c-3627-40d9-8df7-70e0c7da1cbe',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'economy',
     '7. Least developed region',
     NOW()
@@ -27148,8 +27148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85a0436c-bcd9-4737-8508-edfc4ad87f19',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '68f03a96-5c60-42f3-8d06-cd5b01f3c577',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'income_group',
     '5. Low income',
     NOW()
@@ -27160,8 +27160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3c95f36-205a-46d4-9292-f315ed0652f2',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    '874c39f3-33fb-477e-b704-1e01fdcc2ccd',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'type',
     'Sovereign country',
     NOW()
@@ -27172,8 +27172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '413a0be3-fbf1-4dbb-90e4-ef69ce37b6d0',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    'a5b8978a-5d5b-41df-a5cb-d9c54e5e05c9',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'label_x',
     '95.804497',
     NOW()
@@ -27184,8 +27184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7debc8d6-ceba-4460-8f85-bf80438a2f1b',
-    '96b328ad-ec81-4809-9bfd-74c85a007968',
+    'ee507287-2a83-4624-a4b0-20c82970deb6',
+    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
     'label_y',
     '21.573855',
     NOW()
@@ -27196,8 +27196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0f5781b4-f5ac-4d7f-bda1-efe3ebddd6bd',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    '8313848c-a47b-4c10-ba89-4d3b061af0b9',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'continent',
     'Africa',
     NOW()
@@ -27208,8 +27208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56352490-4f15-4ba0-8614-68ba21c65708',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'dd72fe8b-8b5a-4ad0-90c6-90d28e0dd051',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'region_un',
     'Africa',
     NOW()
@@ -27220,8 +27220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68e0f75b-12d2-415f-b32f-5628cf6247c3',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'c391c7cf-b007-485f-9715-d6dff879e374',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'subregion',
     'Eastern Africa',
     NOW()
@@ -27232,8 +27232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bed598a9-334e-4a3a-b7c5-f2ce9795e8e7',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    '9323c66a-f139-4271-a7f6-c065d63ccd7c',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -27244,8 +27244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa48f6f2-76c3-435e-92d2-7cec148888bf',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    '8fd709dc-a5e0-471d-9f02-dd00651a0b25',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'population',
     '11530580',
     NOW()
@@ -27256,8 +27256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c18dbb6a-8965-4d53-8be6-1e36aed9b93d',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'a87e86e3-aa8c-4c55-9cc0-6804b4fe4547',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'gdp_md',
     '3012',
     NOW()
@@ -27268,8 +27268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0d57c626-6f26-473b-99c2-c299e71bfee7',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    '946e5372-b52e-45ff-96af-0dfa6b963822',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'economy',
     '7. Least developed region',
     NOW()
@@ -27280,8 +27280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'de58fce2-4617-468f-8d98-07848e49cd0e',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'de6cc4bd-2504-484f-b54a-453217346a3b',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'income_group',
     '5. Low income',
     NOW()
@@ -27292,8 +27292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4ea2699a-d2b3-47c8-973a-2b600584fd54',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'de83f5a3-8db4-40a9-9bf8-86ce2959fe9a',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'type',
     'Sovereign country',
     NOW()
@@ -27304,8 +27304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61632b54-4dfc-4c88-93c1-e700e3288e9a',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    '8c5f7055-0c72-4223-9120-615a9ad6a186',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'label_x',
     '29.917086',
     NOW()
@@ -27316,8 +27316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ec43e76-cbd3-44c4-b39e-aa0037bc3426',
-    'e3522be7-242d-4daf-ae66-b51999dfaf50',
+    'a1d50bd8-e740-457a-82aa-6a63b5d5a720',
+    '475e6835-5e39-4d60-be44-b9c19026fb7f',
     'label_y',
     '-3.332836',
     NOW()
@@ -27328,8 +27328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c5f208ab-26d5-40a9-b0f3-2340583834e1',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    'a0a2e504-f06b-4936-9292-3916e76e97fd',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'continent',
     'Africa',
     NOW()
@@ -27340,8 +27340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e6995ce1-5d7f-486f-ad16-de3067104987',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '8cb9d132-24bc-444a-bbab-0cc94cf050c5',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'region_un',
     'Africa',
     NOW()
@@ -27352,8 +27352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1de58b99-0cf6-433b-962f-2bc335669e0b',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '457e8b7b-5330-4b2e-9869-822e277e9add',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'subregion',
     'Western Africa',
     NOW()
@@ -27364,8 +27364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8927dc18-479b-48fd-b5be-7702f31c5549',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '452be9c4-202e-41f3-886e-e29e5e502fd5',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -27376,8 +27376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '903705b2-8665-4eae-9bb1-ea59093d6254',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '9bd4c1ee-14e7-41e0-9dff-0cb5585c31d7',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'population',
     '20321378',
     NOW()
@@ -27388,8 +27388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd8dec8e1-7be3-4423-9d89-f6d27861e91a',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    'be7869eb-ad2f-4e67-89fc-f7a451cff840',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'gdp_md',
     '15990',
     NOW()
@@ -27400,8 +27400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '060d2fbc-fb13-4b1d-b6d5-175e532c81f0',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '723e0da3-dda2-4c8f-bf50-bc4f412cb305',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'economy',
     '7. Least developed region',
     NOW()
@@ -27412,8 +27412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'da8c54e7-8a27-4935-a439-a3d02e51bd1a',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '74ac91fd-ef0f-42ba-b19b-f81ca1f086a8',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'income_group',
     '5. Low income',
     NOW()
@@ -27424,8 +27424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8921dd7c-b33d-4826-bb5a-f5cfc6988441',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '3d369414-8a8a-4028-bf9a-cb244ada0e54',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'type',
     'Sovereign country',
     NOW()
@@ -27436,8 +27436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61f01510-06e3-4f77-88bd-bc5baf80056a',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    '78ebf011-2dbc-4cda-98e5-21be3e18b0b7',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'label_x',
     '-1.36388',
     NOW()
@@ -27448,8 +27448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85b8f082-faf4-4a60-94e9-54c5786551bb',
-    'a380aaa1-3cc3-4a0c-9d12-e1fa639187f5',
+    'f84c60f1-edaa-4c3a-85f8-a4968435af3b',
+    '6928afe8-4517-489a-89f8-31d4daedd346',
     'label_y',
     '12.673048',
     NOW()
@@ -27460,8 +27460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '38562f21-1f80-49cc-b6b1-b6e4b4c942a1',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '270b29fc-52ff-4e3a-8704-af177d0f9665',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'continent',
     'Europe',
     NOW()
@@ -27472,8 +27472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '33db9112-346b-4cd3-8e45-5d864266760b',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '5807ad6b-2f5f-42d3-b3ce-66888a1581d8',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'region_un',
     'Europe',
     NOW()
@@ -27484,8 +27484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8ad326ca-7f94-4fa0-a018-0575209e4ef0',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    'effe2ef1-818c-4972-b0ff-00f109ae2993',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -27496,8 +27496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ad594cb1-6771-4106-8d23-247e7cefe785',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '29373720-c7e1-4dc3-a11a-a500a258ccdf',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -27508,8 +27508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3db45dc7-d44b-4ab1-936f-7175855d5cad',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    'a549bf73-9dbe-4dc3-bab8-09ce50558ec1',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'population',
     '6975761',
     NOW()
@@ -27520,8 +27520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a97de99-2e2c-4550-9eba-493c95d4a9fd',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '84ba71b5-fa75-4450-acff-9d9e11d772ca',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'gdp_md',
     '68558',
     NOW()
@@ -27532,8 +27532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68229867-e62a-4c17-8093-fa61993466dc',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    'b905b403-2b49-468c-b0f9-268ebf1e5147',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -27544,8 +27544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ad5fa783-4e48-4587-9749-5fdc0328ff19',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '441232fb-51a9-41f4-a346-3ae1eff4bd3e',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -27556,8 +27556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cdff7af1-5917-4f89-9620-077c18eaecc7',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '0bab9eaa-8ada-48ee-af3d-27f096f59a87',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'type',
     'Sovereign country',
     NOW()
@@ -27568,8 +27568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5325fe2b-ea54-41b1-b4de-16177c1df307',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '8ca67cd1-7e19-493e-a742-37dbb2ac9fb7',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'label_x',
     '25.15709',
     NOW()
@@ -27580,8 +27580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '59d93a1c-27e9-4545-81a1-5e2d39cfeb3c',
-    '16608642-011b-4c81-bb16-42d81ee82827',
+    '9201f68c-9082-4f09-bea7-29a0bddb2acc',
+    'c29435cb-55c0-48e3-aa17-825634721a08',
     'label_y',
     '42.508785',
     NOW()
@@ -27592,8 +27592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ba54d194-3619-4305-b635-619ef5adbcee',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '8043d0ac-1870-488f-9001-d5468787ce8e',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'continent',
     'Asia',
     NOW()
@@ -27604,8 +27604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '761a1afc-880d-47f1-8362-83d77f7f8952',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '421a2521-1887-43f5-a3d3-4af74463ee97',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'region_un',
     'Asia',
     NOW()
@@ -27616,8 +27616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4740f073-f40f-4850-aa6d-9977792a7618',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '1990d95f-bb41-449b-a21d-73497221a901',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'subregion',
     'South-Eastern Asia',
     NOW()
@@ -27628,8 +27628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3db5a724-91f3-4b93-a4ab-ffc494a27fb1',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '9c96adf2-f547-4d5f-bdb4-c4d1ebe0cc90',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -27640,8 +27640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d7b26a6-d140-4c91-915d-94d4673e677a',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '031c493e-0763-4ff2-9ee9-9fa2fc144d8b',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'population',
     '433285',
     NOW()
@@ -27652,8 +27652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c0323e51-8562-4907-b42f-7cb8c7fb90fb',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    'cad9b508-5b3d-4303-9bc0-482c105613a0',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'gdp_md',
     '13469',
     NOW()
@@ -27664,8 +27664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '218f77fa-f837-4296-a706-1c0d350d3bc7',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    'c7b521ad-7d94-425a-a05c-301c60a5d36e',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'economy',
     '6. Developing region',
     NOW()
@@ -27676,8 +27676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '65cefbd2-a9ff-4cb7-930c-2a4c5fc9a91f',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    'e71343e3-7329-4e5f-9a1b-399059ac9dff',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -27688,8 +27688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7c535a2b-dafd-4dd2-b881-21e928be1504',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    'ee7c9383-0e26-4545-82de-48e819796955',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'type',
     'Sovereign country',
     NOW()
@@ -27700,8 +27700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5b5310b3-6636-41a3-b086-e36e47299794',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '7c3733d1-145e-4852-97d1-75c8e1601531',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'label_x',
     '114.551943',
     NOW()
@@ -27712,8 +27712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e0998330-a926-4e90-a778-1badc1420d3e',
-    '2db78694-dba9-4695-a0de-7d32c84663a4',
+    '34ce7439-2599-4d1e-8682-2e4d9c4395e2',
+    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
     'label_y',
     '4.448298',
     NOW()
@@ -27724,8 +27724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3de7157e-05e1-43ab-8ff1-2430e879281a',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '1e66b7f3-6870-4f28-b5f8-48196d32f0fc',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'continent',
     'South America',
     NOW()
@@ -27736,8 +27736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'afee3795-8696-4c0a-b5c0-c577df7c2aca',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '75c4e99e-dd77-44cd-9ae8-31e70489136f',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'region_un',
     'Americas',
     NOW()
@@ -27748,8 +27748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a44c5c10-38e7-41f3-b01c-8d2671d862b2',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    'e83dbc73-517a-4f3a-9dde-0e14d51891b6',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'subregion',
     'South America',
     NOW()
@@ -27760,8 +27760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bae7c3ba-dfb4-44f1-87ef-8aa94f276e85',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '43d0b1a1-5e9e-442c-933f-d31621c5cea0',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -27772,8 +27772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3d9a5a60-9260-4f50-a2ae-6ee706df1e1b',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '832a1da0-8061-4986-8075-eb0cbe06da4f',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'population',
     '211049527',
     NOW()
@@ -27784,8 +27784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c3f8885-89b7-4020-8c54-4a3f67e73ac3',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    'c673a3ea-28c6-40be-b108-da36a8d1bac1',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'gdp_md',
     '1839758',
     NOW()
@@ -27796,8 +27796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd10c744b-fec1-41f6-86ae-c56e36c58cae',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    'e53bf488-6c88-48f3-af29-edbef88b7023',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
@@ -27808,8 +27808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4590296a-bb9f-4cd2-968e-f49f68336373',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '1e2a580f-f3c8-45c4-9098-3b1b4fb90663',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -27820,8 +27820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e10b68ac-c8ca-4d88-8d54-0ccc12492fb9',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    'fa1076bb-0be0-482a-ba07-f420cc8b645f',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'type',
     'Sovereign country',
     NOW()
@@ -27832,8 +27832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ef6b949c-0a56-4227-b57e-c1d4e4a5816d',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '6901b952-b86b-47f9-98a7-d7bd2e152738',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'label_x',
     '-49.55945',
     NOW()
@@ -27844,8 +27844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9779e7c5-356d-4e34-a3ff-5ebc1fba7411',
-    '15e1b318-1f45-44ce-8286-8329776091ac',
+    '290edf67-4d36-4fa5-b3fa-ed9809354b63',
+    '8195907a-d060-4319-bb95-a28ba497bd6b',
     'label_y',
     '-12.098687',
     NOW()
@@ -27856,8 +27856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6902418d-ad84-41a8-a540-941a50ec2f72',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '8411d3f1-4174-4118-a329-4a3a37d08d62',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'continent',
     'Africa',
     NOW()
@@ -27868,8 +27868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b5f77f7-5974-4117-b913-abcb69c8ebfd',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '8782a12a-9cd4-4b24-99b3-da25df81624c',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'region_un',
     'Africa',
     NOW()
@@ -27880,8 +27880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c3e51b3e-a6d3-488d-aa9f-f5ef7042ffc1',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '0dc8e6f7-4bd5-4389-be3b-f1914dee0c28',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'subregion',
     'Southern Africa',
     NOW()
@@ -27892,8 +27892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9492213c-6d90-4aba-9647-a683f855c043',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '1120e90e-42d0-4173-b325-6efb918b3b7e',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -27904,8 +27904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd9b527db-de37-4dbe-b017-00f05283c38c',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '42424a17-ed17-46ad-9518-ddeb1e6435e9',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'population',
     '2303697',
     NOW()
@@ -27916,8 +27916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '940c4c28-20c3-41e7-bc8d-deed2e1f93a6',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '68946042-618b-4347-94af-3cc11381c1da',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'gdp_md',
     '18340',
     NOW()
@@ -27928,8 +27928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1cd88c2b-e6bc-40a8-8f49-41fc9059ea4d',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    'b5ede827-3e61-470d-9e74-3e7ac34fb12a',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'economy',
     '6. Developing region',
     NOW()
@@ -27940,8 +27940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5bbb1660-eaa8-48f6-aaaf-879fa5f5c47a',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '9a112b21-df3a-4b6b-8585-7568110262aa',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -27952,8 +27952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '80b1499a-6f06-4ad1-a86b-b0948867af9e',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    'dfce1d04-e2de-4853-a90d-8d8978a520f5',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'type',
     'Sovereign country',
     NOW()
@@ -27964,8 +27964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '10442f93-e4a3-4e70-8dc2-7ab9e6aef91f',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '058ea153-f1a1-46f2-abee-ff47defdc2ae',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'label_x',
     '24.179216',
     NOW()
@@ -27976,8 +27976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3e553a0b-2619-4d58-863e-12a72d6a97c3',
-    'bc51bba8-7adb-4386-816a-4fbf1480f055',
+    '5d3a3762-83f9-438a-a37e-40cd78e08381',
+    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
     'label_y',
     '-22.102634',
     NOW()
@@ -27988,8 +27988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '037b2f9f-3ff4-4dcf-b97e-3ca624136e8d',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '1fb18c28-724d-4e7f-878c-f666c4cc2f1d',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'continent',
     'Europe',
     NOW()
@@ -28000,8 +28000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3fa2e5c0-3e88-469a-9343-0640cd2f45f1',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '187b8db7-ec97-4584-a495-6bde75be11a6',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'region_un',
     'Europe',
     NOW()
@@ -28012,8 +28012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '128f0a73-680e-4102-9404-87549ad7fddc',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    'f653c0b4-81e6-475e-9e6f-310d752f9fcf',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'subregion',
     'Southern Europe',
     NOW()
@@ -28024,8 +28024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5745c411-a584-4b62-8af4-63504239199b',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '2289a314-cbc3-4a5e-ad6d-b3603cbce977',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -28036,8 +28036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e2ef84d-207d-4c36-9149-ffa5afc3f4c4',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '06a119c8-cbae-425f-814a-b35e316694a2',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'population',
     '3301000',
     NOW()
@@ -28048,8 +28048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e2797b6-6502-49f5-b788-aa2e9e451a5c',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '01974450-dd45-47e9-a318-0b2026b24132',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'gdp_md',
     '20164',
     NOW()
@@ -28060,8 +28060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '805b1597-631c-474d-b0f6-bd1acec9d90e',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    'fd41dc52-366a-4b7c-b990-012907d854a1',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'economy',
     '6. Developing region',
     NOW()
@@ -28072,8 +28072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a44e404d-a67a-4129-a5b4-aca7e112d106',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '419751c9-6bcc-407f-a7c6-5a54b8411e9a',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -28084,8 +28084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b81d2aff-3889-4288-ba23-cfd82c2a5909',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '63afd9a0-3d47-429b-bb6c-14f954136df5',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'type',
     'Sovereign country',
     NOW()
@@ -28096,8 +28096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a873f245-c1d5-4ace-b12f-cd6a6d9aba1f',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    '409e25d8-a195-46dd-bb62-57e12c6b589a',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'label_x',
     '18.06841',
     NOW()
@@ -28108,8 +28108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6d13bff3-e18b-4401-a64a-ae3cb57af0b7',
-    '51fa84af-8021-47b6-96f8-2f3a4f381739',
+    'b53727f7-1775-48c5-8733-b9c25a78f962',
+    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
     'label_y',
     '44.091051',
     NOW()
@@ -28120,8 +28120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15d5aba9-0a0f-4f69-a409-bf8a188c697d',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '3f539427-2745-41f5-bfea-ee2ac2086e36',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'continent',
     'South America',
     NOW()
@@ -28132,8 +28132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4fc80b06-bd0b-4a12-8f6a-6501976995b4',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '4394ad94-bc00-4f87-8011-8f488e7dea26',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'region_un',
     'Americas',
     NOW()
@@ -28144,8 +28144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cf18d836-0525-4f61-949a-29108bf19e3a',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '2309f08f-50c4-4819-a69a-fc5b591030bc',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'subregion',
     'South America',
     NOW()
@@ -28156,8 +28156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '92827f57-599f-48bc-ada9-815ed2300968',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '481f00d2-f201-456e-b3d0-502d4db6ab2d',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -28168,8 +28168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1452bc4-8304-4db1-9941-c46839502b9d',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    'ae0c6edf-ed06-49fb-80c6-08083ed848aa',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'population',
     '11513100',
     NOW()
@@ -28180,8 +28180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fda8963c-fdcc-4065-b626-12e34efc54dc',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '928acc85-284c-4715-b91a-1ef4847b385f',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'gdp_md',
     '40895',
     NOW()
@@ -28192,8 +28192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3f3a79c0-cc80-4c16-ac8e-a3390be3ac69',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '973dd045-73a3-491f-8ca8-ad63a882bfc7',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -28204,8 +28204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'af87ab8a-aa93-4214-80f2-23247066524e',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '6d34cdee-ca94-46de-9715-1af9d5305221',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -28216,8 +28216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5eb32208-0907-4632-bc2a-1cc250ef83cb',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '984d30bc-efa0-4d5b-86fb-afc202aacc57',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'type',
     'Sovereign country',
     NOW()
@@ -28228,8 +28228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6902ceac-6730-4f93-a5d5-9ce961439895',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '64b2e54f-125d-48f9-9a23-24682fb07713',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'label_x',
     '-64.593433',
     NOW()
@@ -28240,8 +28240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b76cff26-d918-4c92-ab26-26856cc0a00b',
-    'df7b8099-ab9e-4051-be82-3de37ec921c6',
+    '05cdb992-b002-4b46-8183-e59405cb79d3',
+    '47fc94cc-4152-4636-84c7-b66e243d472b',
     'label_y',
     '-16.666015',
     NOW()
@@ -28252,8 +28252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'dadd7dba-881c-4d98-953d-724e9975d027',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    'ca688125-3187-4e94-815d-0a8705fb6f01',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'continent',
     'Asia',
     NOW()
@@ -28264,8 +28264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c25b4a7e-5a69-4607-a358-2a96a2d62d8e',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    'ddd03112-4c64-4b54-8beb-e8c650cd5cce',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'region_un',
     'Asia',
     NOW()
@@ -28276,8 +28276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '796ea084-7a74-4eb0-8300-4384430b1313',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    'f1f9ce98-ece4-4605-8bc3-817e283e6857',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'subregion',
     'Southern Asia',
     NOW()
@@ -28288,8 +28288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e4baeaf-f29e-4bfc-83da-f5f183896728',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '4e83b8ea-3d23-4b98-941b-5e4f3089ae29',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'region_wb',
     'South Asia',
     NOW()
@@ -28300,8 +28300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bc0c726f-1f99-40a4-bda3-c75d4bcd7c54',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '5668de1e-9b2e-4353-8632-19689ba8fdfc',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'population',
     '763092',
     NOW()
@@ -28312,8 +28312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6403d6f9-98f6-4c32-89d1-bf0730dc27c7',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '4a96d77a-686c-4e3d-91d5-a719c98690fb',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'gdp_md',
     '2530',
     NOW()
@@ -28324,8 +28324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c59c7a1c-b54f-4ac6-b29b-a9afaa8a0bad',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '9243cfe6-a9e0-4394-94da-557ae958da13',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'economy',
     '7. Least developed region',
     NOW()
@@ -28336,8 +28336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f71bcd04-92af-48c7-9865-7c59e4674e52',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    'd05ce255-e05e-448a-976e-686bc30d931c',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -28348,8 +28348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '43d34102-4271-4992-baf1-53a283c76e03',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '1392be46-962a-4ba8-90c5-c3c664e54aa3',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'type',
     'Sovereign country',
     NOW()
@@ -28360,8 +28360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4bcd608c-6c17-42d4-9e18-f75322a490be',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '86ebe109-dbc7-4577-bdbf-ff2cded45e63',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'label_x',
     '90.040294',
     NOW()
@@ -28372,8 +28372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '01b3c1a2-3de5-4e14-b2fe-d07ad0475148',
-    '05bf3bad-ab78-4a36-9aec-44fe7dbb0688',
+    '639d74c5-9215-43b8-bdf9-591c334b0e9f',
+    '3efa301c-5418-449b-8e26-1168846cbc26',
     'label_y',
     '27.536685',
     NOW()
@@ -28384,8 +28384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc89982f-0d23-4d65-9fb5-5cf98e6cec58',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '21505ce3-7643-4d3e-8b34-3d3c13e82937',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'continent',
     'Africa',
     NOW()
@@ -28396,8 +28396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3cd5c62b-7b36-4a19-b5f9-d82f152d593d',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    'd16c1eac-9af1-4ffa-afcb-82b267afd735',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'region_un',
     'Africa',
     NOW()
@@ -28408,8 +28408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0a6fa64c-8cab-4670-aa02-d635d8b5630d',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '5dbeb43f-7d08-474b-a424-be9bcb92bde8',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'subregion',
     'Western Africa',
     NOW()
@@ -28420,8 +28420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2a69b9f7-4078-4ce7-b8b2-31759c066d71',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '493e9414-7a22-4717-b583-ef1ca2ee77dd',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -28432,8 +28432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '73a8503f-4884-40e1-bfd6-bfac44cea134',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '67d3d579-7c78-4e23-8827-9dea2d55642f',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'population',
     '11801151',
     NOW()
@@ -28444,8 +28444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd67d6c9e-b699-467c-a421-7814a7539c3c',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    'eaa401b7-4cee-4687-be60-f6d564dfe09e',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'gdp_md',
     '14390',
     NOW()
@@ -28456,8 +28456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cfcecc44-84ef-49cf-aed8-d608f2780c8f',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '2004ca54-9285-41c8-a7b5-bc5b0cce6539',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'economy',
     '7. Least developed region',
     NOW()
@@ -28468,8 +28468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3d1dd4ed-2709-4267-b2a1-2ff8ce6c5114',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    'ef90e8d2-9004-428f-b04e-c8b3418ef1a6',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'income_group',
     '5. Low income',
     NOW()
@@ -28480,8 +28480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c23b0825-d06c-4f20-8eac-2e20fe7a699b',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '7b7e07da-23ee-4336-a750-78695d249767',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'type',
     'Sovereign country',
     NOW()
@@ -28492,8 +28492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2f18179-966b-474b-a61a-1dd353415e75',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '6a7b8a30-825c-4c5e-a285-feb4956642a7',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'label_x',
     '2.352018',
     NOW()
@@ -28504,8 +28504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9ae7eca-5f7f-48c7-8cd8-36486378b2cc',
-    '27ac1550-3c4c-4e9b-af0d-95be7ee03439',
+    '51446e61-178f-4ee2-9eed-912035f2ea93',
+    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
     'label_y',
     '10.324775',
     NOW()
@@ -28516,8 +28516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bfb184a8-c9c5-46ac-a0f8-45bced6b2a87',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'e43523e2-ded7-4ab4-a01d-ac2ae7d5da70',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'continent',
     'North America',
     NOW()
@@ -28528,8 +28528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bba7dcf1-b1a8-4479-b133-3db234b5078e',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    '4ebad28c-4dc3-481b-b23b-c0e9a642fdb1',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'region_un',
     'Americas',
     NOW()
@@ -28540,8 +28540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '11613257-ed86-414f-ba4e-49db81ee30a8',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'f36b4312-bee8-4cde-8bd9-48ec3b0a01d8',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'subregion',
     'Central America',
     NOW()
@@ -28552,8 +28552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6bf54bb2-b7fc-4a4c-bcaf-890f538942ff',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'fac4134c-66a0-4990-ae91-3b0670170aae',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -28564,8 +28564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2df2dfbf-d600-4210-b855-487300ef58b8',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    '032b0183-a2ca-4fee-9431-ea3474df8c27',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'population',
     '390353',
     NOW()
@@ -28576,8 +28576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0e56dd8-68ae-4369-b649-08340d32e2cb',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    '1346857a-ac78-44b5-b27e-83ab78fd99f6',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'gdp_md',
     '1879',
     NOW()
@@ -28588,8 +28588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '88ab0bb3-1d23-475b-b9bb-d460d8a15325',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'a839066d-abf1-44c1-bd8f-f7dce4f886b5',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'economy',
     '6. Developing region',
     NOW()
@@ -28600,8 +28600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc905d83-7b7b-4c85-8f5a-6e3e2a7a9075',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    '9164f452-4799-4d54-84b9-83f4604bf699',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -28612,8 +28612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bcb91b34-d78e-4d44-90db-98a43fac309d',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'dc4648a6-1cbd-4aa8-81a8-c6a459a9df55',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'type',
     'Sovereign country',
     NOW()
@@ -28624,8 +28624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5a73dec6-6a61-45de-ac4c-c1391badfdca',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    '7122be3e-4c00-4351-8d74-69ecab3aef30',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'label_x',
     '-88.712962',
     NOW()
@@ -28636,8 +28636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '24a62e4c-ed0b-4e28-940b-575fc212559a',
-    '807823f5-49cd-4af9-902c-9cbdada970ff',
+    'bd5896a1-33f3-4bf3-86f4-d557dc5719fd',
+    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
     'label_y',
     '17.202068',
     NOW()
@@ -28648,8 +28648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c8a0741b-77d4-4334-b62e-4354bd0ddf43',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '4b800948-809b-4339-a915-38e7e9c3036a',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'continent',
     'Europe',
     NOW()
@@ -28660,8 +28660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd1ffdf3f-942b-43f9-8599-8539c487b543',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    'd54a035b-8de7-47f9-a07c-d1483338eb7c',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'region_un',
     'Europe',
     NOW()
@@ -28672,8 +28672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c73daf0f-6abc-4980-8ab3-cb3e14b40b86',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    'fe450d50-1e19-4902-9091-5774f9e78b64',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'subregion',
     'Western Europe',
     NOW()
@@ -28684,8 +28684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8634bbf6-9cce-48a1-a728-cb7dc792dc8a',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '8b38b835-58d8-479c-9415-95c75f94ce0c',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -28696,8 +28696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '861952c2-d0e4-4af0-b120-b7882937199f',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    'a7f2ace3-a81f-4561-9ae0-b2a6bf515d9f',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'population',
     '11484055',
     NOW()
@@ -28708,8 +28708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '764891be-290b-4d1e-b55e-1e74d07fcf28',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '1b6b1b47-46fa-4fa3-b358-111604a3be16',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'gdp_md',
     '533097',
     NOW()
@@ -28720,8 +28720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '382eb7f7-0d79-435d-9dd2-e6dafbc4f976',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '6c1dce6b-9e44-4237-98ad-48307a4bcdf1',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -28732,8 +28732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7fe75200-58d0-4270-b849-2059227044c9',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    'fd2758b9-dfd1-4015-bcd5-2c3939af134b',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -28744,8 +28744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '700e2423-7ff1-45dc-943a-238381f27ed9',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '3d48bc13-633b-4798-9d1b-81f7facbe672',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'type',
     'Sovereign country',
     NOW()
@@ -28756,8 +28756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd291af36-1b06-42be-9cb2-73a5c65f2ce0',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    '95f43c2b-5d28-4289-b76e-46c439444c9f',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'label_x',
     '4.800448',
     NOW()
@@ -28768,8 +28768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb60c004-2ec6-4d01-b674-aa4dbac79ae6',
-    'ab5da065-7a4a-49e5-9bf5-70f60bff1479',
+    'ff7a555a-37fd-4079-b2b4-9205cf438b3c',
+    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
     'label_y',
     '50.785392',
     NOW()
@@ -28780,8 +28780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3f8a195-2428-481a-a6c0-08dee332ecf3',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    'b97f39b6-2c04-4e6b-a27c-e2d2bd67092c',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'continent',
     'Europe',
     NOW()
@@ -28792,8 +28792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8c601023-d25d-4fe2-a543-58c56fd2f2be',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '385b6e6c-18e7-49df-82dc-ff1e89995f2a',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'region_un',
     'Europe',
     NOW()
@@ -28804,8 +28804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ae7a9841-fcb8-4c17-8fd1-316556c6a65f',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '5b1e9203-0a76-4b44-8043-069444c58574',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'subregion',
     'Eastern Europe',
     NOW()
@@ -28816,8 +28816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'aa486d8b-a440-4dd7-acd5-8b5fedb4d02f',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '614061b3-fc11-414d-bfb7-662697eec39a',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -28828,8 +28828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62f9590b-09fc-4e10-be80-1d3be5924360',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    'a3700259-e6a8-4d64-939d-207fbbd85b04',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'population',
     '9466856',
     NOW()
@@ -28840,8 +28840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc9104b1-1d63-41f6-85c2-9284ba45f681',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '0f460f2e-fea5-46a6-8ef8-ab53ad2e6760',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'gdp_md',
     '63080',
     NOW()
@@ -28852,8 +28852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '376fa195-e4c1-44e9-94cb-fd7e9ccb4a06',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '562c59f4-8b79-4bd0-be96-cb9bccc36c1c',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'economy',
     '6. Developing region',
     NOW()
@@ -28864,8 +28864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '44d9154c-2eca-4ab7-93e9-d58b1dfabaa3',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '2b610083-b43e-43dc-9ad2-afb5e7b9d2a6',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -28876,8 +28876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd5adcc9-91be-43f2-9dee-495a34671c14',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    'd2e9fac3-8d0a-4578-85c2-e72cc34c00c7',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'type',
     'Sovereign country',
     NOW()
@@ -28888,8 +28888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b78d2aec-4033-43f5-9377-04b864152496',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    '50b7ad12-cfb5-4e6b-b441-c89d5fe9efc6',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'label_x',
     '28.417701',
     NOW()
@@ -28900,8 +28900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e401e6a-3a00-4a73-adaf-55adf8121516',
-    '33c235dc-8fe7-4bd0-800e-d483ca2c53d3',
+    'b00b1615-ed21-4e05-9b91-c3133f0e5b04',
+    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
     'label_y',
     '53.821888',
     NOW()
@@ -28912,8 +28912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5395ca9e-e074-4dee-b60d-ca46bf86a0ff',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    'b77a31f8-097e-4837-a03b-da9defd60616',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'continent',
     'North America',
     NOW()
@@ -28924,8 +28924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f24b8584-b07c-41d7-9017-a9a90abf58f3',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '3083909b-dea7-4405-98cb-40ef44e7a96c',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'region_un',
     'Americas',
     NOW()
@@ -28936,8 +28936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9f3b4b1b-a05a-4f3e-a847-5463e4d187ab',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    'adf59e3c-53fb-4cc7-9a7d-372eacad6ab7',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'subregion',
     'Caribbean',
     NOW()
@@ -28948,8 +28948,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4ce1f5b6-9c47-4cff-97b3-51c041d8fc4b',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '5ed38c7f-7a11-46b4-bed6-d41d109e4142',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -28960,8 +28960,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f06bad05-44ea-4c1b-a370-b135990cadd4',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    'b27c02b6-9922-4c68-b632-4de501cb8666',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'population',
     '287025',
     NOW()
@@ -28972,8 +28972,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cc412263-8173-4675-bbc7-30df96fdd242',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    'aebf6ea1-a69a-45a5-af3e-ad4dbcd1a774',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'gdp_md',
     '5209',
     NOW()
@@ -28984,8 +28984,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5eacdef9-2920-4c91-820f-04417c072c3f',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '7bc36b3e-c9f9-4254-bbfc-ca99d18eba5b',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'economy',
     '6. Developing region',
     NOW()
@@ -28996,8 +28996,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c6b85f0b-f785-467b-b5b0-848e9e0d6328',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '0e8e9177-bf91-41da-a643-f2293d0321d4',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -29008,8 +29008,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ab6d916e-937a-4cb7-b288-9d73bddf9ff2',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '52872184-09e8-4c34-91a9-f997907780f8',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'type',
     'Sovereign country',
     NOW()
@@ -29020,8 +29020,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2ce7011f-e394-467b-b1f8-39c9702cb527',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '2e1d32e3-397e-4341-918f-365c5442ee1a',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'label_x',
     '-59.568966',
     NOW()
@@ -29032,8 +29032,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b7755474-09e4-4a22-aff1-31fac911f751',
-    'e751f401-0c01-4cd0-bb2d-22dae3040550',
+    '367c4af7-4322-4536-9e45-af6f87eea4d7',
+    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
     'label_y',
     '13.163709',
     NOW()
@@ -29044,8 +29044,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2dd230f7-4b01-4941-be10-e62fe2f0d2c5',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    'd7cc4d08-89fc-4840-90a5-853a3b1c6a5b',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'continent',
     'Asia',
     NOW()
@@ -29056,8 +29056,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc746c20-63b1-47f5-9b45-a0642b588745',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '437306e7-6197-4d63-a72a-2638a55f1dda',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'region_un',
     'Asia',
     NOW()
@@ -29068,8 +29068,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f18236ee-585d-4ab8-a2ca-4906eda0bdea',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '30c16df3-d867-4b4e-bf06-1fa803e28701',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'subregion',
     'Southern Asia',
     NOW()
@@ -29080,8 +29080,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c60ef3b8-4feb-4797-821c-6e2e7e9ad3f4',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    'dcc58c66-267b-40d8-b9d8-6d10022606b1',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'region_wb',
     'South Asia',
     NOW()
@@ -29092,8 +29092,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0704e09e-0296-49bf-a31c-65c92885d18b',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '7b3868ae-fa9e-4dae-a41f-77903f025a78',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'population',
     '163046161',
     NOW()
@@ -29104,8 +29104,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8154d5ae-c4da-4e0f-933d-4d21b319b9db',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '979dffbd-eaaa-4484-9eaf-7f28b1cff762',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'gdp_md',
     '302571',
     NOW()
@@ -29116,8 +29116,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37e06429-52a3-4ce0-a6ad-14502b78f545',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    'cbea2e7a-8b6d-467b-b225-eedfc0051a4c',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'economy',
     '7. Least developed region',
     NOW()
@@ -29128,8 +29128,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a81d9af4-3745-4138-90a8-be0e88c7b222',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '01b65f7a-ecaf-4163-8da7-eea7aab56239',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'income_group',
     '5. Low income',
     NOW()
@@ -29140,8 +29140,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e8d487f-4638-40d4-bf64-328fe609bc3c',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    'cbdb6dca-edae-4e50-bc67-f148a4c7ca31',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'type',
     'Sovereign country',
     NOW()
@@ -29152,8 +29152,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5949c18e-22b9-4f55-a27e-1d7601d8165f',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    '9b92603d-4ec5-4c30-adb4-804917c144c6',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'label_x',
     '89.684963',
     NOW()
@@ -29164,8 +29164,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b9896c60-bf36-4e2f-843a-4d8061dfec02',
-    'ed7a0e22-8055-4467-9459-ce326f11bf09',
+    'c2625c44-2d62-4649-8ebb-387ea4130d63',
+    '5bc4c9ea-6889-4789-a47a-183a2372b613',
     'label_y',
     '24.214956',
     NOW()
@@ -29176,8 +29176,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0039d5d0-70c5-4316-bdc5-a8519c95fcbe',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '522d742d-2ec8-480d-b247-227d20689410',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'continent',
     'Asia',
     NOW()
@@ -29188,8 +29188,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '52f6bb7f-3e19-4406-95db-313f529b9be6',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '0f569bc9-984b-4501-9994-50d1151ed8b6',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'region_un',
     'Asia',
     NOW()
@@ -29200,8 +29200,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f33aeda4-bf56-4f06-9a57-cd4813ca4645',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    'c9330603-5707-43fc-90a8-f1403e15d7db',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'subregion',
     'Western Asia',
     NOW()
@@ -29212,8 +29212,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7d707c80-2570-4d95-bc19-9da164218084',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '2af733bd-bbbe-41fc-8044-42477827632d',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -29224,8 +29224,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9dede8e2-c0b1-412e-9ea0-5ee3f3e9cb85',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '40987afd-a04b-4ca0-bce5-a1333f4314af',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'population',
     '1641172',
     NOW()
@@ -29236,8 +29236,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '58d10f91-47b7-48a1-8ecd-a7fb2ca608d2',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    'f69cf483-97dc-4b43-bda5-b9956d628993',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'gdp_md',
     '38574',
     NOW()
@@ -29248,8 +29248,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '14229676-40e8-4f9d-9e99-322aad6b210d',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '67ddb6bc-354d-438f-aa35-be0acc5fe2c9',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'economy',
     '6. Developing region',
     NOW()
@@ -29260,8 +29260,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f36a0955-c57c-4918-823f-742ebca6af70',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '06732831-6335-4033-9fc0-52a299d77919',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -29272,8 +29272,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '81a28725-092a-4cae-8320-9cf79f82ce67',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '8a4640f8-ff97-471d-8425-35574a54ec3d',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'type',
     'Sovereign country',
     NOW()
@@ -29284,8 +29284,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9abff69c-8c10-476a-bead-a2f0e89ba99a',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '7f3687a9-bff7-4e37-b911-aea6af9ea283',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'label_x',
     '50.554816',
     NOW()
@@ -29296,8 +29296,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3fa232cd-d621-4328-9398-68440f3ab679',
-    '6b677845-64f3-403d-bed9-9db170341b64',
+    '46abc3d5-c05b-4911-8572-08fbe03203dd',
+    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
     'label_y',
     '26.055972',
     NOW()
@@ -29308,8 +29308,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bf1897a7-e90d-409a-b342-2710bc09b856',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'e66e7a8a-3ffb-40d6-85ad-e97e8bc30a90',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'continent',
     'North America',
     NOW()
@@ -29320,8 +29320,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1e1329a1-41af-415e-94bc-4a65853750a3',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    '4761878f-0a92-402e-ba06-31c0b6d2eced',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'region_un',
     'Americas',
     NOW()
@@ -29332,8 +29332,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '615664a3-9cb7-4ad2-a52d-8b5554b42993',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'fe043189-4945-47bf-9ed6-83d5a5a66337',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'subregion',
     'Caribbean',
     NOW()
@@ -29344,8 +29344,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b780b229-a195-4aa3-a6ff-e4199e12d68f',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    '7ea72ebf-9d8f-4ada-bf6d-c47092fb4445',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -29356,8 +29356,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e6c4a5b-eca8-4e1f-b55f-6907eb271206',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    '7ed0962a-7414-477f-8d97-60242ddc044f',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'population',
     '389482',
     NOW()
@@ -29368,8 +29368,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd10324cf-896d-4627-9ef3-6b1e4e6922dd',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'c1cf2367-e78b-4eef-87cd-23a58ce045c4',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'gdp_md',
     '13578',
     NOW()
@@ -29380,8 +29380,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ac6d0640-0c62-4c4a-a066-69c9323fd9ee',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    '4fb4013a-0c9d-4cde-9619-a39636999a7e',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'economy',
     '6. Developing region',
     NOW()
@@ -29392,8 +29392,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61e047b5-f849-48a8-ba6e-85e9e7fe176b',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    '432fec9f-63a4-47a2-9d9d-73ac622a5a4c',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -29404,8 +29404,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0590cbe4-00de-4dfe-a8e1-b3d65f62770d',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'e26b630f-c844-4a39-8cde-3fb7afcbc580',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'type',
     'Sovereign country',
     NOW()
@@ -29416,8 +29416,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ca507c88-f64e-4de4-8428-101948b933a5',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'c37359a0-7147-433f-b64d-23b067ac614f',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'label_x',
     '-77.146688',
     NOW()
@@ -29428,8 +29428,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6e898e14-fc5e-4f09-974f-9b3fafd97d0f',
-    '4afeb773-fa06-4916-8a55-f2faa08ab406',
+    'd1ae063f-4f24-4e05-8d6e-ac409c5c39e8',
+    '46119391-d865-45ac-b658-1e4684e69c69',
     'label_y',
     '26.401789',
     NOW()
@@ -29440,8 +29440,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '51aae49e-845f-42d3-a346-1ae98c36e280',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    'dc3663d8-3ff7-473f-9714-20d0c8b20849',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'continent',
     'Asia',
     NOW()
@@ -29452,8 +29452,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '10c7dd29-9dbf-4c9a-996f-6581ad1a5e2b',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '7f46dd0f-f331-4910-bb17-271bd3898011',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'region_un',
     'Asia',
     NOW()
@@ -29464,8 +29464,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1a102b6-24b0-4aa9-abae-d44e7030c079',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    'b8e1e8f4-2115-4619-a19f-e6b844ac1530',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'subregion',
     'Western Asia',
     NOW()
@@ -29476,8 +29476,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fe182166-21a5-45f0-a55e-fa8ace040fcb',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '40e27db9-7f26-4bb3-b70c-77519af7f830',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -29488,8 +29488,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '381da7b1-edf4-4310-8e2c-2f3a6b67cc90',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    'dfe10b1d-29ab-4097-91ab-b9381f9f44f2',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'population',
     '10023318',
     NOW()
@@ -29500,8 +29500,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f0a93fb5-e5a5-4f37-8651-228a950f8dc1',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '20f1a0c0-b229-4d37-a0ab-a2e336fa2751',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'gdp_md',
     '48047',
     NOW()
@@ -29512,8 +29512,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b2677fd6-d75a-453c-adec-169155a36ac1',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '963642d2-02bb-475f-a46c-9886bef07552',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'economy',
     '6. Developing region',
     NOW()
@@ -29524,8 +29524,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1ac5a840-242d-4af8-9399-4f9d867758d5',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '774add22-6ba0-491f-8067-421b5dd5fe8b',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -29536,8 +29536,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd7af3e7d-6fcc-472e-859e-16f74d496c2f',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    'e69e8c0d-6c4b-45f7-ad18-7b5f241bd49d',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'type',
     'Sovereign country',
     NOW()
@@ -29548,8 +29548,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b30e3747-fa2f-4a08-b644-b00948cf3bec',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '4298dc4b-1e92-4a00-a733-4cc12d1d5a12',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'label_x',
     '47.210994',
     NOW()
@@ -29560,8 +29560,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cda6bcbc-7c1a-482e-a164-33a6700c92b9',
-    'ef4c44ee-af52-4fdf-ad49-cb66c5cad0e3',
+    '678d1309-f84d-4c8d-b834-754f05ca8de1',
+    '2332ee1d-880f-4118-9399-a7a6a207b608',
     'label_y',
     '40.402387',
     NOW()
@@ -29572,8 +29572,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7c222730-56bb-4295-a39d-d145785dd910',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '6734cd90-c169-47af-9d2b-c4bd73da19e3',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'continent',
     'Europe',
     NOW()
@@ -29584,8 +29584,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '20c8631b-d0b0-429d-981b-c97015e7d954',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '65ae04a5-7328-4980-9c54-e3b91ca05488',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'region_un',
     'Europe',
     NOW()
@@ -29596,8 +29596,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8256ecaa-077c-4c2f-b1fe-fa82fdbee475',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    'd22aa2f5-0446-4768-9561-57a79b7ca3f3',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'subregion',
     'Western Europe',
     NOW()
@@ -29608,8 +29608,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b5767fad-ae44-48b0-8116-07353394f662',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '98170bc0-b391-4ba1-989a-292887dd1d98',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -29620,8 +29620,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '58a7ce58-84cb-4806-bca5-292bfbc70578',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '9096c863-7ab7-47a7-8d89-66610d6b7791',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'population',
     '8877067',
     NOW()
@@ -29632,8 +29632,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b457b776-99df-4928-a6a6-7aeeb44e978f',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '427cccc5-dd54-409d-bf2f-8cb5d712179f',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'gdp_md',
     '445075',
     NOW()
@@ -29644,8 +29644,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec95fae6-3387-4cd9-96d1-c843060b8760',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '9e87c130-9e8d-4996-8acf-f76816ff312e',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -29656,8 +29656,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61bdbaaf-45b8-41f4-9ff7-66bf1a769d32',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    'c7d8a847-c7de-46aa-9f4c-da3bb502492b',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -29668,8 +29668,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cb8aea20-b23a-40f3-8f42-1ecb8fcefbe6',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '5e14393d-fc1b-4796-ba9b-225b7fd0cdbf',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'type',
     'Sovereign country',
     NOW()
@@ -29680,8 +29680,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e586c9e3-bb43-4ddf-8474-423b82d263a7',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '85166cd4-c903-4717-adec-e5ccd9a80829',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'label_x',
     '14.130515',
     NOW()
@@ -29692,8 +29692,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '37165912-b71c-4066-a728-e663c4ba66a0',
-    '6118a46f-8749-4bea-a34f-cc8b5643794b',
+    '34eed6b1-b6ca-4bb0-979b-051ecbfe2317',
+    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
     'label_y',
     '47.518859',
     NOW()
@@ -29704,8 +29704,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4abcae2b-0d2e-4247-9b47-1eac919ad31b',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    'e6677f8a-3482-4e79-b4b4-7721f740f8f9',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'continent',
     'Oceania',
     NOW()
@@ -29716,8 +29716,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4ee18b59-9fea-42d0-8964-da3054114560',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    'a3ab647d-febf-40c4-8d64-85044234f00d',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'region_un',
     'Oceania',
     NOW()
@@ -29728,8 +29728,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '676ac047-80f8-4f53-8827-f5da8a5aa766',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '6deeb276-8692-49a3-a338-35aa8ccee236',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'subregion',
     'Australia and New Zealand',
     NOW()
@@ -29740,8 +29740,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fe3471f1-9813-4601-b74a-60ee20f0b3f4',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '27827a8e-f78d-409c-8e80-6ed4ec2e0f65',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -29752,8 +29752,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '00644131-3ebd-4875-8a2f-e1e34943e84d',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '6338c3de-dbe6-4dd4-9005-847385682f0f',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'population',
     '25364307',
     NOW()
@@ -29764,8 +29764,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '67c8a31a-f20d-48d8-be38-f1e77b043e4b',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    'f035bcfb-9e94-4315-8bf8-d53121be919f',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'gdp_md',
     '1396567',
     NOW()
@@ -29776,8 +29776,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a8a92eaa-baec-4965-a1ae-845f7a790977',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    'ef52924b-f03e-47e5-b85e-a0da1528024d',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -29788,8 +29788,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b1f40ae2-2b92-422e-9f8f-62d234be3e19',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    'bf575e1e-338a-47e7-a738-808a7086c4ea',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'income_group',
     '1. High income: OECD',
     NOW()
@@ -29800,8 +29800,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0e6a576a-0562-4e13-a067-92b170954c8f',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '85c2f60e-0875-4f13-9dea-84db87e8a83f',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'type',
     'Country',
     NOW()
@@ -29812,8 +29812,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'efcc09c8-542b-40b8-a7b8-f13c7da6c38a',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '5d18eaae-0392-4cf8-8bc0-ea3b312f3e77',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'label_x',
     '134.04972',
     NOW()
@@ -29824,8 +29824,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9458337e-87b2-41d1-b404-0e7af9565e54',
-    'c169f360-8c54-475a-ae10-62b434273207',
+    '2be1f11c-4ac8-428f-8244-5299a258f0c5',
+    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
     'label_y',
     '-24.129522',
     NOW()
@@ -29836,8 +29836,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90632509-8e40-4289-9ae8-426de58f9fca',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '5b033e19-df9f-4161-a27d-1f04791a3473',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'continent',
     'Asia',
     NOW()
@@ -29848,8 +29848,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5db2855c-d78d-4ac7-9cad-f8b2403e3e8c',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    'aca2293c-862f-4668-98f9-083181ee8d8e',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'region_un',
     'Africa',
     NOW()
@@ -29860,8 +29860,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '911be1a7-f53e-49d2-86ce-4f4944c2fdaf',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '16da5651-02ab-4cb6-b32a-cf149ac9c052',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
@@ -29872,8 +29872,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e3ec08d1-2589-4afc-82c4-e7d331c4689d',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '4abd9ef2-f853-4de4-8c7f-bb866f6d3e88',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -29884,8 +29884,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '60a1612d-f8e1-43cc-8444-34deecc16b4b',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    'e252c870-b637-4646-bf89-56ea28d47a62',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'population',
     '2387',
     NOW()
@@ -29896,8 +29896,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e7b8b212-17fb-481a-aa4e-75c8bfd5773f',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    'c5474b10-9f57-43ad-aada-b52943fafd3b',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'gdp_md',
     '35',
     NOW()
@@ -29908,8 +29908,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '21bd9cfc-b090-4a05-ae59-1543b80aeba1',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '31a9be83-6e1c-485d-8838-8a054ff3f8b2',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -29920,8 +29920,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '05f90382-a870-4de2-842f-89d73b76edb3',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '945ace7b-9b6d-4edc-889e-77ac0a5fb7b8',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -29932,8 +29932,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '127be937-3627-43e7-af84-400bac8aa1f6',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    'efa07889-7ce3-458a-8f21-fb1ee538001e',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'type',
     'Dependency',
     NOW()
@@ -29944,8 +29944,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5e5c87bf-727a-41d7-a7da-85a7ace2b16c',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    'd069fdf0-e106-4562-9b85-e3a33dc22089',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'label_x',
     '105.67259',
     NOW()
@@ -29956,8 +29956,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '97fd571a-8ef5-4ab5-a6e1-6775a6b717d9',
-    '9e4b2e45-0a0b-4a1d-8a6c-02d3c279dfdb',
+    '517334b7-b216-4fe3-9c3e-b2d60bc7a195',
+    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
     'label_y',
     '-10.490789',
     NOW()
@@ -29968,8 +29968,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5022fac1-0291-42a9-8ac4-767d9a8fde08',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '55045a7d-913b-471d-afff-5e9c06f9a709',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'continent',
     'Seven seas (open ocean)',
     NOW()
@@ -29980,8 +29980,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bacf5133-bdc4-4764-be8e-27b6059e4021',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '9f855b9e-6080-46e9-b1ef-30abb1876150',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'region_un',
     'Africa',
     NOW()
@@ -29992,8 +29992,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9d55c122-0faf-4676-b4ca-2e36ac110674',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '785cff2b-fca2-404d-ac16-b9f6289d3f2a',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
@@ -30004,8 +30004,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1963af1-b59d-4e02-a428-b3451caf45f8',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    'dca546ac-f23d-49c5-b031-2ed6a1becd53',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -30016,8 +30016,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '06a950b6-f89e-459f-8cae-e3caab27f7fc',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '065f438e-7173-400e-8048-05ad862be7b4',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'population',
     '0',
     NOW()
@@ -30028,8 +30028,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '86bc12d0-0472-48ea-8764-e97d82d1b4ef',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    'ba908fa1-86ea-44b0-a7f9-af9a2e9aae3b',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'gdp_md',
     '0',
     NOW()
@@ -30040,8 +30040,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e2c49f40-bde4-4389-b9c1-aa144d834cf9',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '94fbfa4b-7e1a-4090-92fb-77abf6878996',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'economy',
     '7. Least developed region',
     NOW()
@@ -30052,8 +30052,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2b5dbe8-4451-49f8-a0ff-fd560beb13cf',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    'b5862cb6-ccaa-409d-9934-9e4dc2615623',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'income_group',
     '5. Low income',
     NOW()
@@ -30064,8 +30064,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93905fbb-4b59-4645-a99e-fda1fda70a61',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '0a8ef7f0-a575-4a59-b810-83ce630d179c',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'type',
     'Dependency',
     NOW()
@@ -30076,8 +30076,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f719d799-aa08-4663-9508-f8af5ee8eb9a',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    'f1f8deb4-f724-4c35-848e-6d0fe99a61ee',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'label_x',
     '73.50521',
     NOW()
@@ -30088,8 +30088,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4dc57266-609c-4886-9164-2f24007cb5e4',
-    '4464fb0c-93e0-4aae-af53-ebac125ff014',
+    '56b662ac-61ab-4d23-bb5b-e297e94da1e0',
+    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
     'label_y',
     '-53.103462',
     NOW()
@@ -30100,8 +30100,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '12ee7f23-ff9b-4283-a78f-2a6ebbaaa4d7',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '6a64757a-44af-49a6-883f-d1874a83143f',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'continent',
     'Oceania',
     NOW()
@@ -30112,8 +30112,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b2f9ce74-98a2-4b88-b77c-5d0fe7d4cb41',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    'd2ab7633-55d7-4570-a4d8-181c7349e1b3',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'region_un',
     'Oceania',
     NOW()
@@ -30124,8 +30124,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54e84bc7-d2b0-4c2f-b52c-97239a8959df',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    'e9468993-9eda-4137-b24e-4ea18e2b2c2f',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'subregion',
     'Australia and New Zealand',
     NOW()
@@ -30136,8 +30136,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c76153e8-96a5-4527-b07f-d96e5af58d4b',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    'c5497bd3-650b-4c1c-9c97-7cc92282b5ff',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -30148,8 +30148,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87ac1c50-1df6-415a-a8b7-a709c65dd99f',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '3e8955d5-b0c8-4da8-b9ba-d7a037a39935',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'population',
     '2169',
     NOW()
@@ -30160,8 +30160,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1d5ba48f-a76b-4583-8608-6076b811228a',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '91bbe519-ca14-4d96-af00-2a51ccaeace0',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'gdp_md',
     '32',
     NOW()
@@ -30172,8 +30172,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd4e1154d-2420-4131-bc3b-9679aae84364',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '96182551-9a84-43a5-8376-4b9a23686b8a',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'economy',
     '6. Developing region',
     NOW()
@@ -30184,8 +30184,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '81fd6f5d-4c4a-494b-8c63-c7d9f6fc831e',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '7a998de1-cb5a-472a-ac69-ae7e4267b8e1',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -30196,8 +30196,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '85eb21f9-fae6-4c3a-a43c-3e69ece3b6a8',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    'd2d0944f-3d2b-494f-83fa-edf3d947d615',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'type',
     'Dependency',
     NOW()
@@ -30208,8 +30208,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1b10a04b-25c1-4cee-a779-b2ec39c3974d',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    'd008326e-38f3-4871-aeb0-a7add435114a',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'label_x',
     '167.954531',
     NOW()
@@ -30220,8 +30220,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2764de92-f530-4362-9d20-985fc660ffb5',
-    '22b55f36-a672-4324-8bc2-30e126f96a7b',
+    '68054177-83bb-4644-8c0b-088e287df940',
+    '6715b523-469d-435f-8fa4-c4ddfc282a63',
     'label_y',
     '-29.033042',
     NOW()
@@ -30232,8 +30232,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '372f65d0-13dd-475d-ac68-f5c13621e438',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    'ef5e8e07-5639-4312-901f-91ec3654f360',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'continent',
     'Oceania',
     NOW()
@@ -30244,8 +30244,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9cd69032-3383-4f26-b67e-504718e9df81',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    'def63dab-a836-493f-bbe5-8df6c0797f1b',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'region_un',
     'Oceania',
     NOW()
@@ -30256,8 +30256,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f7be325-8c86-4dfa-985e-ad317745d629',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '00317562-40e5-4bfe-b30a-1713d5455c45',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'subregion',
     'Australia and New Zealand',
     NOW()
@@ -30268,8 +30268,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3d041e4d-1c72-411b-a4f1-fbb85c0f11d0',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '7347fbba-d3b3-43a4-8b71-346ea96d0e66',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -30280,8 +30280,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d6057f2-100a-4b7c-bb93-a032c8dfdb76',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '8a28eefb-1235-4edc-93ef-cf27475463fc',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'population',
     '0',
     NOW()
@@ -30292,8 +30292,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fdde5a1b-49ac-4827-bffe-54aefa06bb5e',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '1c1c5680-37c4-46d9-b5f7-84bbe1dfe645',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'gdp_md',
     '0',
     NOW()
@@ -30304,8 +30304,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a173779c-8246-420f-bace-ffb21cefb506',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '26de4e90-7e36-40e0-8be3-8c370575c090',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'economy',
     '7. Least developed region',
     NOW()
@@ -30316,8 +30316,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b980fc70-1c56-400b-8f29-e32a742499dc',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '47d8d3dd-04ce-4041-9bf5-f0a922984b15',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'income_group',
     '5. Low income',
     NOW()
@@ -30328,8 +30328,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b8492c1c-fced-4386-8710-826ac6ca1f37',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    'f7bd11e8-51f1-4429-b400-afd75d39b34f',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'type',
     'Dependency',
     NOW()
@@ -30340,8 +30340,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7a9abdd0-7c89-458e-95f7-1ca7355ce1ce',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '803f553f-5a61-4760-909f-e82e8ff4524a',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'label_x',
     '123.586368',
     NOW()
@@ -30352,8 +30352,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ec42a7b3-8fab-4509-9717-72336b1b89cc',
-    '52f73ee7-223a-4650-a055-6fc7148fb72d',
+    '279a05cb-4b30-4713-bf9a-b505b2281ea4',
+    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
     'label_y',
     '-12.432571',
     NOW()
@@ -30364,8 +30364,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '850bda36-a827-4f0a-a4f8-0c8266bb1a52',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    'e1f1bf37-aa6f-41d3-a338-45107ae77020',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'continent',
     'Asia',
     NOW()
@@ -30376,8 +30376,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5561f272-df16-47fa-988b-1e98bf5984fa',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    'b32fb8ac-a140-4bc5-ab75-ce222c9f8eb8',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'region_un',
     'Asia',
     NOW()
@@ -30388,8 +30388,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7b57a776-7f6d-4f30-ae11-2553f6bb3ff2',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '64b4d296-a564-4251-ba4c-8ab7db0fcf25',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'subregion',
     'Western Asia',
     NOW()
@@ -30400,8 +30400,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ffa2f764-a670-4b13-98e1-48f1509cfffe',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '94c5ebb0-dfd3-4a0a-811e-36ceed95bc5f',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -30412,8 +30412,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9fc1529e-9594-4775-95fb-b0b64b1f6926',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    'a1200cd1-f057-41ea-8f21-db94a1c10329',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'population',
     '2957731',
     NOW()
@@ -30424,8 +30424,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '021d4742-8d7a-4488-87fb-032777117875',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    'd1b13556-0fa4-444b-9968-938c69f24d89',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'gdp_md',
     '13672',
     NOW()
@@ -30436,8 +30436,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '95c2945a-5b17-4199-b5bc-39584e39173a',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '4d753a97-7e2b-494b-a218-78a0535abca6',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'economy',
     '6. Developing region',
     NOW()
@@ -30448,8 +30448,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '39fca1e5-382e-4e8c-84e8-43e1acb8b4a0',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    'f4db5950-cb02-4652-89a4-33933b3970b1',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -30460,8 +30460,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '105a93f7-ea71-4d04-b6a4-ee3c172e8b94',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '44c99f34-d060-469f-af70-e07198d274af',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'type',
     'Sovereign country',
     NOW()
@@ -30472,8 +30472,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '47ba7827-c12c-4026-ba77-fe57bc34b1a3',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '37aff636-abf8-4073-a60e-151877adee6c',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'label_x',
     '44.800564',
     NOW()
@@ -30484,8 +30484,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0625c951-a9fc-47fa-803e-d9c46c00f814',
-    '47abe9a2-9fdf-4a62-aa54-a7f8a3ff420d',
+    '44808172-9da7-4b70-831b-22ae9b168f4e',
+    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
     'label_y',
     '40.459077',
     NOW()
@@ -30496,8 +30496,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8d2d6237-99da-4615-9abb-559e9e24ecd8',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '2ee392ff-7c0f-4e5c-a003-7838f51debae',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'continent',
     'South America',
     NOW()
@@ -30508,8 +30508,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3c6d89c5-8a8d-46a9-9e19-091ff2f7eaf7',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '5ee69eba-5434-4d52-99fc-74f2930f2236',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'region_un',
     'Americas',
     NOW()
@@ -30520,8 +30520,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36804e42-0288-4636-978b-529cb070acb2',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '3fa2819d-38ef-4f09-a876-7d212f895da8',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'subregion',
     'South America',
     NOW()
@@ -30532,8 +30532,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '56cf6f4c-a52f-4630-9d8a-26d7f15e43d9',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '23e166b3-45bd-4079-9aa8-edb3d739cbcb',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -30544,8 +30544,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0c71f863-d95d-446c-ac10-1f4a75e8e42b',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    'd756930e-c699-4668-88ca-760bd2b41ec1',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'population',
     '44938712',
     NOW()
@@ -30556,8 +30556,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a457ffd5-31a7-47be-bda1-c22ee7515a38',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    'c21b6a13-d361-4b64-8773-4da862efd37d',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'gdp_md',
     '445445',
     NOW()
@@ -30568,8 +30568,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '32b07692-964b-4e39-bd52-3c4322f8bc63',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '04e973c3-38ca-4d41-8b6f-2bb8e77bc3bd',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'economy',
     '5. Emerging region: G20',
     NOW()
@@ -30580,8 +30580,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '694aa1fd-7755-4eeb-942e-786abf76e98b',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    'a6d28977-0318-4262-b7d1-539b9b06e7fc',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -30592,8 +30592,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5d2eb981-c89f-4de9-aeed-ae387a5339d7',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '0978c31e-3072-4699-9903-bc46ffd6ab24',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'type',
     'Sovereign country',
     NOW()
@@ -30604,8 +30604,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8e3b0ecc-684a-4f02-bcdf-2e746c73be5c',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    'a41a5ea0-3e5f-4b00-a898-e26f36799d28',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'label_x',
     '-64.173331',
     NOW()
@@ -30616,8 +30616,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3027b091-ee42-498d-8f8b-21672dfdfc3e',
-    '5942fb38-d85e-40e8-bcd7-2ff03fdf19c8',
+    '4e642dcc-31f6-4b3c-97ed-48381470cf4e',
+    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
     'label_y',
     '-33.501159',
     NOW()
@@ -30628,8 +30628,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a7f869ac-ee48-495c-84ec-9b31ef8596f4',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'a8b57aa0-195a-4f0c-92e1-51d1490eac20',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'continent',
     'North America',
     NOW()
@@ -30640,8 +30640,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1577da65-91aa-43a6-a1b1-340395ab2d54',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    '67e86f54-ff38-484d-a16c-8515e31c28ee',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'region_un',
     'Americas',
     NOW()
@@ -30652,8 +30652,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c32ce904-fff8-45de-8ac7-e5537473b6e7',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    '0bd1f978-8bcd-4786-b1af-2dd7d8bf0bc6',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'subregion',
     'Caribbean',
     NOW()
@@ -30664,8 +30664,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cab18fdd-dcb8-4144-bac8-73fa2e067d2b',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'ee53f178-2da5-4040-bcb4-9f0af3edbd1a',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -30676,8 +30676,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f1e47e59-f9f0-4140-9c34-3be4d75c7cf7',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    '17a18154-c2e9-406d-985e-d67f839f3ef8',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'population',
     '97118',
     NOW()
@@ -30688,8 +30688,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a7fbb5a3-92c1-43b8-9a7d-2a3ae9f07831',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'c6107bd0-7ee4-48be-85cb-143b8fd92921',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'gdp_md',
     '1661',
     NOW()
@@ -30700,8 +30700,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5736036e-9ff5-4b6c-a90b-54af341f5b88',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'e70d995a-e5da-4322-8fc3-34b6fd2bbecd',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'economy',
     '6. Developing region',
     NOW()
@@ -30712,8 +30712,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '62bb0b3c-35fe-4d5f-b0cd-73b1c40474fc',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'c2bf7f69-9489-43b6-9b81-160d92491afb',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -30724,8 +30724,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cab6bbb5-0653-4de0-88bd-3e98b2903489',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'd0c537e9-d018-4163-92e9-829bcae27b87',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'type',
     'Sovereign country',
     NOW()
@@ -30736,8 +30736,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9cf01ffc-2d10-45e0-9fcb-47ada5e51f2f',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    '942c7c3d-965e-46cf-98ff-7e071c951389',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'label_x',
     '-61.790612',
     NOW()
@@ -30748,8 +30748,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4daf6013-553d-45d4-8c73-0c12467d168b',
-    'ee2ed1de-9937-4181-ae80-0ad70fe487ac',
+    'd97e2c6f-597b-48f6-894b-e167d54db005',
+    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
     'label_y',
     '17.352249',
     NOW()
@@ -30760,8 +30760,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d14741d-a4ff-4ca3-90e9-74de9c002720',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '78e28091-99cc-465f-9f21-47ff95555f25',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'continent',
     'Africa',
     NOW()
@@ -30772,8 +30772,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '973a5f18-5635-4d97-8c74-6f9801fae71a',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '4804ef54-3028-4f42-a2cd-1820eec7cb67',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'region_un',
     'Africa',
     NOW()
@@ -30784,8 +30784,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fff23442-b97d-45bb-b5c4-f124f526b187',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '05a7bfcd-d333-46d4-ba1b-9255d4473d91',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'subregion',
     'Middle Africa',
     NOW()
@@ -30796,8 +30796,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6b166559-3f0a-4344-9486-55c9b66b5d49',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    'cffa4d62-ae08-4789-901e-bf8a15bc138b',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
@@ -30808,8 +30808,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a5488faa-36a6-4a27-a4cb-61eb6abe1eb8',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    'd7bc287d-ae7e-4ab2-965c-49e5e7651e1f',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'population',
     '31825295',
     NOW()
@@ -30820,8 +30820,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2d81c417-a7ba-4c36-81c6-b42cbece0ab5',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '41936575-d305-4456-92fa-091a47661ad3',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'gdp_md',
     '88815',
     NOW()
@@ -30832,8 +30832,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c43dc180-113c-44f3-bab6-23c932835254',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '2c957be6-7e16-46ef-8719-280c2f5c2e3d',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'economy',
     '7. Least developed region',
     NOW()
@@ -30844,8 +30844,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'adcf25c0-c2cc-4f42-8992-f13167c51b5e',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    'cd9d49a1-19bd-4a0a-b826-755d2ccdd6ae',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -30856,8 +30856,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'cc96f57a-2512-4ab7-918b-68b24e4007b8',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    'e9d0829f-c7a2-41e1-8d11-86e9fbdd6324',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'type',
     'Sovereign country',
     NOW()
@@ -30868,8 +30868,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '860f9705-fd4d-4422-a527-ebe43683068e',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    '2f029fa5-d68c-47cd-97e5-f95cb67101dc',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'label_x',
     '17.984249',
     NOW()
@@ -30880,8 +30880,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f9d719b6-8f01-452e-84da-8f92276724b3',
-    '67dfb9b7-3bba-468b-9329-c2a4a6c4b7bf',
+    'a5a67f98-98df-4684-a372-f92b4c24fcc0',
+    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
     'label_y',
     '-12.182762',
     NOW()
@@ -30892,8 +30892,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0ead941e-6004-4509-b71d-0ec27fa2ea8a',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '3dd6f86c-df88-4f7d-9926-8d9775ae8137',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'continent',
     'Europe',
     NOW()
@@ -30904,8 +30904,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9bdca579-356d-4302-83c4-92ce2ee55fec',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    'a93f603e-d7ae-45f4-b386-4beaf744675a',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'region_un',
     'Europe',
     NOW()
@@ -30916,8 +30916,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '100b5ed9-d345-4ec8-9c31-51bcc90c392c',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '8d2b4ab6-e47c-40e4-983c-40b2d2db82cb',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'subregion',
     'Southern Europe',
     NOW()
@@ -30928,8 +30928,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f2c45f64-a306-43fe-8736-94b9fc1997d3',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '2a97704b-f97a-45a7-97d8-819f76ed9fc0',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -30940,8 +30940,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eaa8f9f8-b7ae-4ff9-ad74-9ab1039611dd',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    'd5c61017-1913-47f2-8585-4252f3aedaa4',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'population',
     '77142',
     NOW()
@@ -30952,8 +30952,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '705018f6-99c8-4d27-9980-28baad938074',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '2d3b0d54-89d2-430c-9dae-f5274d7f7440',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'gdp_md',
     '3154',
     NOW()
@@ -30964,8 +30964,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '142a1f1a-2258-479e-acc5-0e608c835141',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '9dcfa0d7-05ef-4c75-a193-0cf40fc28799',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'economy',
     '2. Developed region: nonG7',
     NOW()
@@ -30976,8 +30976,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f064c88c-dcd3-4792-a076-67d8edeffe8d',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '647d81e9-a248-4598-9254-c20b79b25f0d',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -30988,8 +30988,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '90ef403a-26d8-4d9b-84c5-0a40996a0d31',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '7518e964-e57a-4366-94c9-6194a1d157b7',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'type',
     'Sovereign country',
     NOW()
@@ -31000,8 +31000,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9c5eb09f-9206-4bba-b6b7-0344a154fdf0',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    'e83e464d-edf7-46b5-b6c5-19615c219dc7',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'label_x',
     '1.539409',
     NOW()
@@ -31012,8 +31012,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '15b21386-730c-4f1b-bab4-0e3f9f9d00ce',
-    'c34e5bfe-93a9-47a5-ae6e-a7c2fdef5eba',
+    '989a8b1c-9eb2-423c-944a-73e4b3b636a2',
+    'caf02d78-1dc0-4107-be90-57a618767c97',
     'label_y',
     '42.547643',
     NOW()
@@ -31024,8 +31024,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5c75a199-2642-4aa4-84cb-d4fbf3dc28a5',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '7454071c-1da3-46ef-a570-824a5c54bd14',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'continent',
     'Africa',
     NOW()
@@ -31036,8 +31036,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '488c4d28-a3d1-448c-9a12-a28531aa34d4',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '4eb8c194-3526-4ff3-8e46-71e4eaeb6064',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'region_un',
     'Africa',
     NOW()
@@ -31048,8 +31048,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c4a9d853-dec9-454b-9712-ee032cbb070b',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '7c833def-fa77-41a1-be25-17a4857afb82',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'subregion',
     'Northern Africa',
     NOW()
@@ -31060,8 +31060,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '82408c17-48f7-4e9d-a32a-af5dc68a9554',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    'daa097ec-b1b8-4849-b758-e19a94762561',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'region_wb',
     'Middle East & North Africa',
     NOW()
@@ -31072,8 +31072,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '2500c32b-f9a2-483e-9193-6a762bf961b7',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '48e79c4f-2852-4f1c-a2f5-24b8ca041376',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'population',
     '43053054',
     NOW()
@@ -31084,8 +31084,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '71e04056-c446-4b27-99c7-fdee800752c2',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    'bb8d355d-201a-40e0-a7b3-e6342683d8d2',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'gdp_md',
     '171091',
     NOW()
@@ -31096,8 +31096,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7e928a2f-8321-4af4-81ea-b485dd674e5e',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '372a038c-6407-4245-bcec-3366e05b0a6a',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'economy',
     '6. Developing region',
     NOW()
@@ -31108,8 +31108,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd6d27dd1-88f6-4462-a8e7-600f901bbdad',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '0e165f01-5fd0-47f4-86c6-4ddaa0480187',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -31120,8 +31120,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a23af5d9-7dfb-4662-8579-389b0596da18',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    '24d83142-25c3-42f4-8b17-97722042f543',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'type',
     'Sovereign country',
     NOW()
@@ -31132,8 +31132,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '1a7ae0f1-71a3-4c6b-b001-b8fe430ed660',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    'eaff3b7a-2389-4270-9d59-7259d64a174e',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'label_x',
     '2.808241',
     NOW()
@@ -31144,8 +31144,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '03c87106-83c8-454c-8646-14020c0ab38c',
-    'c66d2410-34d5-43fb-b0b8-6d4b476a0645',
+    'b91c05ac-8a21-4228-a848-6d599f142496',
+    '494120aa-fa7d-4857-b35a-148d0f44f021',
     'label_y',
     '27.397406',
     NOW()
@@ -31156,8 +31156,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5b247ace-6c30-4619-8d32-9ee392b8bdcf',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '15279c30-130e-4ed8-a024-3df0c991cc4b',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'continent',
     'Europe',
     NOW()
@@ -31168,8 +31168,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '865b29d4-39fd-46a1-821a-56a5050ccca8',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    'fa174776-c6aa-4854-ac0e-6ece18370f03',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'region_un',
     'Europe',
     NOW()
@@ -31180,8 +31180,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '070ab3aa-fbf5-4bac-a44e-7ceb60085e9a',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '22f82129-ce97-401d-a681-a4e706940ca4',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'subregion',
     'Southern Europe',
     NOW()
@@ -31192,8 +31192,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '74528a94-53c9-4061-a556-d53ddbfeb80e',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '96ef01be-5d0a-46a3-ae0f-2564363b5fc5',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'region_wb',
     'Europe & Central Asia',
     NOW()
@@ -31204,8 +31204,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '93f2f0a2-22fd-4988-ac8a-78d59f4d3731',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    'b637670f-e843-4645-a381-743f10c2fbf6',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'population',
     '2854191',
     NOW()
@@ -31216,8 +31216,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5ae08138-427d-442c-809a-d44428230e87',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '27b60f93-ab6c-4cf3-a028-ebcf16bb2a5d',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'gdp_md',
     '15279',
     NOW()
@@ -31228,8 +31228,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9833d1e6-c03c-4787-ae50-731d9546e001',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '61b45aee-277a-4035-9a5a-4ca302416a86',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'economy',
     '6. Developing region',
     NOW()
@@ -31240,8 +31240,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a54428e1-3295-4520-9b45-2eb9ec95137f',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '28ffbcd0-dfcc-4875-8abb-7ca46a60c7f6',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -31252,8 +31252,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8f7ca7e6-92ca-49eb-8b90-074e589f0459',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    '06d6233e-88d6-4aed-9ed9-27e0f90a420e',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'type',
     'Sovereign country',
     NOW()
@@ -31264,8 +31264,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd2920309-7b46-497f-812d-3a950e89f47d',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    'b3febafd-2648-4637-9a41-900228db66c8',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'label_x',
     '20.11384',
     NOW()
@@ -31276,8 +31276,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'eaf05274-6d10-4c8e-af6e-9e6d92a4b242',
-    '74adc194-4ebe-4c1c-9209-f95e344888c1',
+    'd1382755-9d10-4d33-aa4c-70306a55d7d0',
+    '8c491ab5-c919-41be-98f0-9b1793214617',
     'label_y',
     '40.654855',
     NOW()
@@ -31288,8 +31288,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '241bdd8b-62d2-4b5b-9b33-5b1c57e53991',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    'abbf505e-c49b-45d2-ac60-27f662011c74',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'continent',
     'Asia',
     NOW()
@@ -31300,8 +31300,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '466d1a35-0d75-4805-898c-2408c9ae141c',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '03aa6a86-a782-4c56-aba4-5bad45706048',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'region_un',
     'Asia',
     NOW()
@@ -31312,8 +31312,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9e6c0bf2-722a-4125-ac1d-b39872836460',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '679bb79a-04e2-4430-8813-274d27f07f7e',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'subregion',
     'Southern Asia',
     NOW()
@@ -31324,8 +31324,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4efc2b29-67da-4e6c-b6be-aa6b2cfc0b02',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '4219e4de-2645-484d-8dc9-688ba929eb53',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'region_wb',
     'South Asia',
     NOW()
@@ -31336,8 +31336,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '68b2be7f-ff48-458a-b4ea-8ecb1c130ac4',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '01b37616-e808-494a-8d6b-5708e464289e',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'population',
     '38041754',
     NOW()
@@ -31348,8 +31348,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0db773a6-0ef2-42de-9819-76ce7f04a18f',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '47341faa-ac02-4bf1-8041-f93e875ac459',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'gdp_md',
     '19291',
     NOW()
@@ -31360,8 +31360,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '357c0394-2c1d-4d3b-9f64-73d616de1d9c',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '47cafd40-ad2c-4c70-abef-d0f203666421',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'economy',
     '7. Least developed region',
     NOW()
@@ -31372,8 +31372,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'df5355a8-b6ff-40b8-a5c3-dca34b4f61f3',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '93afa1d5-418b-42de-a78c-8312636d4357',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'income_group',
     '5. Low income',
     NOW()
@@ -31384,8 +31384,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '5a7b666d-37db-44fa-887c-c52364488c30',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    'a76a5399-c4c7-4df3-abcf-a800bf05eea2',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'type',
     'Sovereign country',
     NOW()
@@ -31396,8 +31396,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '960fd36a-6e52-4488-9d13-42debbd2561e',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '641d5d13-26c8-4c07-b727-8a1367e665a9',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'label_x',
     '66.496586',
     NOW()
@@ -31408,8 +31408,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3b9d3071-2957-4136-aedd-66310e7bee90',
-    '17711bed-6b03-4bae-b6db-aa515ef4c63e',
+    '5825524c-bb65-4903-aabe-b06f856f00d9',
+    'b839ed40-8fbf-4c69-bd25-9863792d579e',
     'label_y',
     '34.164262',
     NOW()
@@ -31420,8 +31420,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '694b44b7-26d3-4c8d-9cc8-ab6b0949007e',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '23ecaf62-6406-4868-aab0-fd956c1d81e4',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'continent',
     'Asia',
     NOW()
@@ -31432,8 +31432,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fd13a42b-f744-4dbb-8a0e-657eb66b95a8',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '242d9854-4131-4905-9d61-6e7f82dfb5e5',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'region_un',
     'Asia',
     NOW()
@@ -31444,8 +31444,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c052264d-cc70-4911-b4b3-c4f23d6c6542',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    'f686777c-6321-44e1-a401-ccd80d415437',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'subregion',
     'Southern Asia',
     NOW()
@@ -31456,8 +31456,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b139ad1-e2c4-4e0c-accf-46a147649844',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '11f38ead-4be2-48d0-b6f4-78cb0a0cad79',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'region_wb',
     'South Asia',
     NOW()
@@ -31468,8 +31468,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b52dca1e-f884-4e0e-8a45-a83fbe5f30b4',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '8b4f2c6f-36a3-4ae6-9ea4-5d86ae9b09de',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'population',
     '6000',
     NOW()
@@ -31480,8 +31480,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '572da929-77a6-484b-8a48-ce602682f033',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '134c9425-328f-4cba-ae9a-82c0cdd2637b',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'gdp_md',
     '15',
     NOW()
@@ -31492,8 +31492,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'ab8fcb2a-091f-4af9-84c2-d98f48b07d8d',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    'caa9cf58-f315-4f38-9b5c-826eae2850a6',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'economy',
     '6. Developing region',
     NOW()
@@ -31504,8 +31504,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'edb55cf9-9937-42e1-9c7e-d83962c92aa4',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    'b485f03c-b1bb-4f6b-8dc5-18baef5f166e',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'income_group',
     '4. Lower middle income',
     NOW()
@@ -31516,8 +31516,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '36281dfd-c7d4-4f9b-9368-301530d02530',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '848b6f50-d1e0-4d02-aec3-5175c81e84bd',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'type',
     'Indeterminate',
     NOW()
@@ -31528,8 +31528,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3695ed77-813c-4484-a13d-8510e1831b05',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '98de2b99-65f9-430f-915d-3648b1c1bbdc',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'label_x',
     '77.129553',
     NOW()
@@ -31540,8 +31540,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '61fb92d3-8eda-4993-92a1-b94f6a413107',
-    '8df47d74-1563-496d-9ad9-929d411c5ada',
+    '047a2c57-bdef-4979-acd1-f688227084b6',
+    '767f3c30-c8e5-41be-9023-5ada5d268c61',
     'label_y',
     '35.340606',
     NOW()
@@ -31552,8 +31552,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b873b297-807c-4030-b551-87ae6f13d4e8',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'bf6dcc1c-32c8-42e8-b505-2350dc92969a',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'continent',
     'Antarctica',
     NOW()
@@ -31564,8 +31564,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b0930586-499d-442e-ad1a-5075261ec112',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'a19e88e7-f876-4d5f-a2aa-d8ef6f7f30f9',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'region_un',
     'Antarctica',
     NOW()
@@ -31576,8 +31576,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d9f0f78-2aea-4c53-907f-a9d85bcd0b6e',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    '20429576-e688-4255-b507-c7559141e8a6',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'subregion',
     'Antarctica',
     NOW()
@@ -31588,8 +31588,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '24c33632-9d74-4843-914c-46e020062362',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'd08c6699-c93e-4b38-98f2-f5e59d2c5ba0',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'region_wb',
     'Antarctica',
     NOW()
@@ -31600,8 +31600,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7e804a0c-7e6a-432b-80ac-dfacb0e61c75',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'c407161c-93be-4195-9195-3d37363fd988',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'population',
     '4490',
     NOW()
@@ -31612,8 +31612,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '84dfb7ea-6cd6-4463-b17d-52a22f58c9df',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    '2d6ece78-a6b3-4520-a014-32b963fdb8ed',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'gdp_md',
     '898',
     NOW()
@@ -31624,8 +31624,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'fc292b22-bba1-4963-a153-613b60a3ec16',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    '1287d742-1125-4591-acc9-fea921c9d98c',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'economy',
     '6. Developing region',
     NOW()
@@ -31636,8 +31636,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4c1e9035-2650-46da-ba21-50ef176878ab',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'db4958e4-2177-4b5b-aeac-e6919369373b',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -31648,8 +31648,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '0b798eb7-936b-48c6-85a5-0c864dc07790',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    'db5f28dc-6797-4073-9e9b-951d9e5f6441',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'type',
     'Indeterminate',
     NOW()
@@ -31660,8 +31660,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '8750d3bf-8e42-4e80-9484-6c2e24cf14ba',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    '60bfbd94-2456-4858-878c-c7c7e2dce09c',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'label_x',
     '35.885455',
     NOW()
@@ -31672,8 +31672,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '70a2c97f-7b16-4a85-be2f-2181f4293687',
-    '8b538bcb-c675-4798-86c8-444e27faebf9',
+    '02d24b46-ee08-455a-a42f-94b6b630adfa',
+    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
     'label_y',
     '-79.843222',
     NOW()
@@ -31684,8 +31684,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '3c248031-9bf9-4340-9570-ec4045e6c462',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '5b06ef5c-860f-4b54-af44-3498b0805441',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'continent',
     'North America',
     NOW()
@@ -31696,8 +31696,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '54673eab-dfa9-43a2-ab42-05fd14210880',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '2990f944-d27f-4d42-b258-1d3e4659132b',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'region_un',
     'Americas',
     NOW()
@@ -31708,8 +31708,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4734b56d-1d24-41b8-8284-4bfc6ce63b51',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    'cfdeddd5-3b54-499a-9c38-0521d1c5028c',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'subregion',
     'Caribbean',
     NOW()
@@ -31720,8 +31720,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '773baf80-29bb-4d39-8ed3-24b8ecd33006',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '31ff4a85-86de-4118-9f07-4e986ff9a3b1',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
@@ -31732,8 +31732,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f9f31499-9f70-4992-a42f-25c05be0b4a6',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '5bee5c87-257c-4f61-8e0b-a76455ce1859',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'population',
     '40733',
     NOW()
@@ -31744,8 +31744,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a3eeb50c-eb08-43b2-9aac-789b5d0cc757',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    'fdf7dfe6-910d-402a-94b3-9891d3a9cce1',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'gdp_md',
     '1185',
     NOW()
@@ -31756,8 +31756,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '53c8d692-69c0-408a-adb2-44f4088aaf87',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '5bb359a7-63c4-4341-88c2-13dabdaf790d',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'economy',
     '6. Developing region',
     NOW()
@@ -31768,8 +31768,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '87a8a54a-9c6d-4e6d-8064-9395764dea57',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '4ec640d0-062a-468f-8aff-32592b95d617',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'income_group',
     '2. High income: nonOECD',
     NOW()
@@ -31780,8 +31780,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'f798e006-9520-4437-a7c2-349f14e57997',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '45d0874f-b94f-45d3-8075-c8ba11154d5b',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'type',
     'Country',
     NOW()
@@ -31792,8 +31792,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'd3f5247a-cb76-4965-a4bd-88b949406092',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '6d6d96fe-3ef0-4b6a-ad6b-20dafe6bf813',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'label_x',
     '-63.070133',
     NOW()
@@ -31804,8 +31804,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '071763b1-405f-43a7-854d-0b8ad2ac3574',
-    'bcb7f8e6-fee1-4029-a1fe-e48e2d1626a7',
+    '7fe330b9-e5af-43ce-baad-9a991b127730',
+    'bc05e43b-fef3-425a-b4a0-526191490a05',
     'label_y',
     '18.04088',
     NOW()
@@ -31816,8 +31816,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'c74c7348-0070-4d2d-9b1a-61ed5cc6bb12',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '5a44f261-da76-4612-860f-ec3ed428b18a',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'continent',
     'Oceania',
     NOW()
@@ -31828,8 +31828,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '6659a97c-76e3-4409-a525-ea66acbca173',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '28a9556d-51b2-49a7-a17a-d6d8a8609cc8',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'region_un',
     'Oceania',
     NOW()
@@ -31840,8 +31840,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'a9915347-e905-4de4-aa8f-db614ccac6bb',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    'a3c08527-1f0c-4263-adcd-cedb913a2404',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'subregion',
     'Polynesia',
     NOW()
@@ -31852,8 +31852,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'e01c6ac5-964a-4717-a19e-82a6974244b7',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    'b1251961-f298-4e71-a66e-9c69f310ec08',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'region_wb',
     'East Asia & Pacific',
     NOW()
@@ -31864,8 +31864,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b57bed73-44a8-40cd-b641-9de428a742be',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '1b683fbf-6f62-4cca-a920-c38c01cf37f6',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'population',
     '11646',
     NOW()
@@ -31876,8 +31876,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'b506150b-daf3-46a5-81bc-490e93e78a20',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '29138c1b-7015-4f28-8793-cbb109c1df1e',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'gdp_md',
     '47',
     NOW()
@@ -31888,8 +31888,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '7340659e-193d-4873-aa78-8745b8ec32a4',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '2e76bc2c-62f4-4065-8d03-97110976e2f4',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'economy',
     '7. Least developed region',
     NOW()
@@ -31900,8 +31900,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '303b7fb0-39a3-4027-827c-8c634944a42b',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '5a60d5ce-1f1a-42e8-aaff-7392039061a9',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'income_group',
     '3. Upper middle income',
     NOW()
@@ -31912,8 +31912,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    'bfc73cca-66a3-419b-8a37-8cfe7080db2f',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    'b59303c3-ce2d-4745-8aac-1f6ac5bcae83',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'type',
     'Sovereign country',
     NOW()
@@ -31924,8 +31924,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '597fcad3-7c6b-4d28-be11-27e7afbad584',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '0cfcb5b8-4b27-4cf7-b4f5-9b3081ac2085',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'label_x',
     '179.209587',
     NOW()
@@ -31936,8 +31936,8 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '591f49b6-ebdc-4b1e-bd7f-2ff8b7473835',
-    'ed45100e-6ecc-45fd-8879-c31c28e39c93',
+    '88359c6e-8b68-4942-a518-5b9603ef322f',
+    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
     'label_y',
     '-8.513717',
     NOW()

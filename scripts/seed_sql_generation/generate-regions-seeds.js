@@ -128,6 +128,15 @@ function generateHierarchySQL() {
     sql += `INSERT INTO regions (id, name, level, parent_id, created_at) VALUES ('${region.id}', '${escapeSqlString(region.name)}', '${region.level}', '${region.parent_id}', NOW());\n`;
   }
 
+  sql +=
+    '\n-- Insert aliases for continents and world regions (for fuzzy search)\n';
+  for (const continent of continents) {
+    sql += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${continent.id}', '${escapeSqlString(continent.name)}', NOW());\n`;
+  }
+  for (const region of worldRegions) {
+    sql += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${region.id}', '${escapeSqlString(region.name)}', NOW());\n`;
+  }
+
   sql += '\n';
 
   console.log(
@@ -259,8 +268,9 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
       }
     });
 
-    // Create aliases for alternative names
+    // Create aliases for alternative names (including the main name for fuzzy search)
     const aliases = [
+      cleanName, // Add the main name as an alias for fuzzy search
       props.NAME_LONG,
       props.FORMAL_EN,
       props.FORMAL_FR,
@@ -276,9 +286,13 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
       props.NAME_PT,
     ];
 
+    // Use a Set to track already-added aliases to avoid duplicates
+    const addedAliases = new Set();
+
     aliases.forEach(alias => {
       const cleanAlias = cleanText(alias);
-      if (cleanAlias && cleanAlias !== cleanName) {
+      if (cleanAlias && !addedAliases.has(cleanAlias.toLowerCase())) {
+        addedAliases.add(cleanAlias.toLowerCase());
         aliasesSQL += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${regionId}', '${escapeSqlString(cleanAlias)}', NOW());\n`;
       }
     });
@@ -374,6 +388,16 @@ async function main() {
 -- Generated from Natural Earth v5.1.1 data
 -- Run these files in order:
 
+-- WARNING: This will DELETE all existing region data before importing!
+-- Make sure you have backups if needed.
+
+-- Clear existing data (in dependency order)
+DELETE FROM region_properties WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM region_aliases WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM region_sources WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM language_entities_regions WHERE region_id IN (SELECT id FROM regions);
+DELETE FROM regions;
+
 \\i supabase/seed/production/10_regions/01_regions_hierarchy.sql
 \\i supabase/seed/production/10_regions/02_regions_countries.sql
 \\i supabase/seed/production/10_regions/03_region_sources.sql
@@ -389,6 +413,9 @@ AND regions.level = 'country'
 AND rp.key = 'subregion'
 AND wr.name = rp.value
 AND wr.level = 'world_region';
+
+-- Note: All region names (including primary names) are added to region_aliases 
+-- for comprehensive fuzzy search functionality
 
 -- Verify the import
 SELECT 
