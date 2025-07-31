@@ -16,13 +16,14 @@ Additional data can be fetched using regular Supabase queries after the user sel
 ### **Basic Search Implementation**
 
 ```typescript
+// Updated search result interface (includes deduplication and optional regions)
 interface LanguageSearchResult {
   // Search metadata
   total_found: number;
   max_limit_hit: boolean;
   similarity_threshold_used: number;
 
-  // Alias data
+  // Best alias data (highest scoring alias per entity)
   alias_id: string;
   alias_name: string;
   alias_similarity_score: number;
@@ -32,12 +33,25 @@ interface LanguageSearchResult {
   entity_name: string;
   entity_level: 'family' | 'language' | 'dialect' | 'mother_tongue';
   entity_parent_id: string | null;
+
+  // Optional region data (when include_regions=true)
+  regions: RegionInfo[] | null;
 }
 
+interface RegionInfo {
+  region_id: string;
+  region_name: string;
+  region_level: string;
+  region_parent_id: string | null;
+  dominance_level: number;
+}
+
+// Simplified search function with optional regions
 const searchLanguages = async (
   query: string,
   maxResults: number = 50,
-  minSimilarity: number = 0.1
+  minSimilarity: number = 0.1,
+  includeRegions: boolean = false
 ): Promise<{
   results: LanguageSearchResult[];
   metadata: {
@@ -50,6 +64,7 @@ const searchLanguages = async (
     search_query: query,
     max_results: maxResults,
     min_similarity: minSimilarity,
+    include_regions: includeRegions,
   });
 
   if (error) throw error;
@@ -82,8 +97,9 @@ const LanguageSearchScreen = () => {
   const [results, setResults] = useState<LanguageSearchResult[]>([])
   const [metadata, setMetadata] = useState(null)
   const [loading, setLoading] = useState(false)
+  const [showRegions, setShowRegions] = useState(false)
 
-  // Debounced search
+  // Debounced search using the simplified function
   useEffect(() => {
     if (query.length < 2) {
       setResults([])
@@ -93,7 +109,8 @@ const LanguageSearchScreen = () => {
     const timeoutId = setTimeout(async () => {
       setLoading(true)
       try {
-        const { results, metadata } = await searchLanguages(query)
+        const { results, metadata } = await searchLanguages(query, 50, 0.1, showRegions)
+
         setResults(results)
         setMetadata(metadata)
 
@@ -112,11 +129,12 @@ const LanguageSearchScreen = () => {
     }, 300)
 
     return () => clearTimeout(timeoutId)
-  }, [query])
+  }, [query, showRegions])
 
   const handleSelectLanguage = (result: LanguageSearchResult) => {
     // Navigate to language details or store selection
     console.log('Selected language:', result.entity_name)
+    console.log('Best matching alias:', result.alias_name)
     // Navigate to details screen with entity_id
   }
 
@@ -138,7 +156,7 @@ const LanguageSearchScreen = () => {
 
       <FlatList
         data={results}
-        keyExtractor={(item) => item.alias_id}
+        keyExtractor={(item) => item.entity_id}
         renderItem={({ item }) => (
           <TouchableOpacity
             onPress={() => handleSelectLanguage(item)}
@@ -151,12 +169,43 @@ const LanguageSearchScreen = () => {
             <Text style={{ fontSize: 12, color: '#999' }}>
               {item.entity_level} • {Math.round(item.alias_similarity_score * 100)}% match
             </Text>
+            {showRegions && item.regions && item.regions.length > 0 && (
+              <Text style={{ fontSize: 10, color: '#aaa', marginTop: 4 }}>
+                Regions: {item.regions.slice(0, 3).map(r => r.region_name).join(', ')}
+                {item.regions.length > 3 && ` (+${item.regions.length - 3} more)`}
+              </Text>
+            )}
           </TouchableOpacity>
         )}
       />
     </View>
   )
 }
+```
+
+### **Improved Function Features**
+
+**`search_language_aliases` (Updated)**
+
+- ✅ **Automatic deduplication** - One result per language entity
+- ✅ **Best alias selection** - Returns highest scoring alias per entity
+- ✅ **Optional regions** - Include related regions with `include_regions=true`
+- ✅ **Better performance** - Counts unique entities, not aliases
+- ✅ **Backward compatible** - Same function name, improved functionality
+
+### **Usage Examples**
+
+```typescript
+// Basic search (automatically deduplicated)
+const { results } = await searchLanguages('spanish');
+// Returns: [{ entity_name: 'Spanish', alias_name: 'Spanish', ... }]
+
+// Search with regions included
+const { results } = await searchLanguages('spanish', 50, 0.1, true);
+// Returns results with regions array populated
+
+// Toggle regions dynamically
+const { results } = await searchLanguages(query, 50, 0.1, showRegions);
 ```
 
 ## **2. Region Fuzzy Search**
@@ -170,7 +219,7 @@ interface RegionSearchResult {
   max_limit_hit: boolean;
   similarity_threshold_used: number;
 
-  // Alias data
+  // Best alias data (highest scoring alias per region)
   alias_id: string;
   alias_name: string;
   alias_similarity_score: number;
@@ -188,12 +237,24 @@ interface RegionSearchResult {
     | 'town'
     | 'village';
   region_parent_id: string | null;
+
+  // Optional language data (when include_languages=true)
+  languages: LanguageInfo[] | null;
+}
+
+interface LanguageInfo {
+  entity_id: string;
+  entity_name: string;
+  entity_level: string;
+  entity_parent_id: string | null;
+  dominance_level: number;
 }
 
 const searchRegions = async (
   query: string,
   maxResults: number = 50,
-  minSimilarity: number = 0.1
+  minSimilarity: number = 0.1,
+  includeLanguages: boolean = false
 ): Promise<{
   results: RegionSearchResult[];
   metadata: { totalFound: number; maxLimitHit: boolean; thresholdUsed: number };
@@ -202,6 +263,7 @@ const searchRegions = async (
     search_query: query,
     max_results: maxResults,
     min_similarity: minSimilarity,
+    include_languages: includeLanguages,
   });
 
   if (error) throw error;
