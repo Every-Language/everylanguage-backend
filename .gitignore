@@ -48,6 +48,4 @@ coverage/
 *.tsbuildinfo
 
 # Big data files
-assets/data/languages/*/*.sql
-assets/data/languages/*/*.json
-assets/data/languages/*/*.tab
+assets/data/

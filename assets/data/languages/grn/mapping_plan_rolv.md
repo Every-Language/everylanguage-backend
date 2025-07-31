@@ -20,7 +20,7 @@ The target database has the following key tables for language data:
   - `is_external` (bool) - whether external or user created
   - `external_id_type` (text) - which type of ID is in the external_id eg. iso-639-3 eg. rolvcode
   - `external_id` (string) - the actual ID in the external database eg. aab
-  - `version` (string) - version of the external database
+  - `version` (string) - version of the external database 
   - `created_by` (fk to public.users.id) nullable, only filled in if it is a user created language
 
 - **`language_aliases`**: Alternative names for language entities. Should also include an entry for the actual/primary name as this table will be indexed for searching
@@ -48,6 +48,7 @@ The target database has the following key tables for language data:
 
 ## Data Source Mapping
 
+
 ### 1. ROLV Main Data (`ROLV.json`)
 
 **File Structure:**
@@ -66,7 +67,7 @@ The target database has the following key tables for language data:
 
 **Mapping to Database:**
 
-For each entry in the ROLV.json file, we will need to:
+For each entry in the ROLV.json file, we will need to: 
 
 #### 1.1 One entry in thelanguage_entities Table
 
@@ -99,7 +100,7 @@ For each entry in the ROLV.json file, we will need to:
 - `external_id` = the actual `LanguageTag` value
 - `created_by` null
 
-#### 1.3 One entry in the language_entities_regions table
+#### 1.3 One entry in the language_entities_regions table 
 
 - `id` UUID
 - `language_entity_id` references record created in the 1.1 step above
@@ -122,17 +123,5 @@ For each entry in the ROLV.json file, we will need to:
 
 #### 2.1 one entry in the language_aliases Table
 
-- `language_entity_id` = `LanguageTag`
+- `language_entity_id` - find the record in language_entity_sources where `external_id` = the `ROLVCode` attribute of the row. Then take the `language_entity_id` of this entry - this is what should be set as the 
 - `alias_name` = `AlternateName`
-
-**Note**: Must verify that `LanguageTag` exists in `language_entities` before creating alias.
-
-## Processing Order
-
-The seeding process must follow this specific order due to foreign key dependencies:
-
-1. **First**: Process `iso-639-3.tab` → Creates base language entities
-2. **Second**: Process `iso-639-3-macrolanguages.tab` → Sets up parent-child relationships
-3. **Third**: Process `iso-639-3_Name_Index.tab` → Adds ISO 639-3 aliases
-4. **Fourth**: Process `ROLV.json` → Creates dialect-level entities with regions
-5. **Fifth**: Process `rolv_altnames.json` → Adds ROLV aliases
