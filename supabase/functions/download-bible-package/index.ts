@@ -51,6 +51,10 @@ Deno.serve(async (req: Request) => {
 
     console.log(`📦 Package built successfully: ${result.sizeInBytes} bytes`);
 
+    if (!result.manifest || result.sizeInBytes === undefined) {
+      throw new Error('Package result is missing required properties');
+    }
+
     return new Response(result.packageBuffer, {
       headers: {
         ...corsHeaders,
@@ -67,7 +71,8 @@ Deno.serve(async (req: Request) => {
       JSON.stringify({
         success: false,
         error: 'Package download failed',
-        details: error.message,
+        details:
+          error instanceof Error ? error.message : 'Unknown error occurred',
       }),
       {
         status: 500,

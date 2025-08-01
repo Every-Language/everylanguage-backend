@@ -101,6 +101,10 @@ export class UploadOrchestrator {
       );
 
       // Complete processing with all related data
+      if (!mediaFileId) {
+        throw new Error('Media file ID is required but was not set');
+      }
+
       await completeMediaFileProcessing(supabaseClient, {
         mediaFileId,
         uploadResult,

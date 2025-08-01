@@ -32,7 +32,7 @@ jobs:
         run: |
           if [ -d "supabase/functions" ] && [ "$(ls -A supabase/functions)" ]; then
             echo "Deploying Edge Functions to production supabase project..."
-            supabase functions deploy
+            supabase functions deploy --no-verify-jwt
           else
             echo "No Edge Functions to deploy"
           fi

@@ -147,7 +147,11 @@ Deno.serve(async (req: Request) => {
     const result = await builder.build(packageRequest);
 
     // Handle single package result
-    if (result.packageBuffer && result.manifest) {
+    if (
+      result.packageBuffer &&
+      result.manifest &&
+      result.sizeInBytes !== undefined
+    ) {
       const filename = `${result.manifest.packageId}.bible`;
       const downloadTime = Math.ceil(result.sizeInBytes / (1024 * 1024 * 2)); // Assume 2MB/s
 
@@ -208,7 +212,8 @@ Deno.serve(async (req: Request) => {
       JSON.stringify({
         success: false,
         error: 'Package creation failed',
-        details: error.message,
+        details:
+          error instanceof Error ? error.message : 'Unknown error occurred',
       }),
       {
         status: 500,

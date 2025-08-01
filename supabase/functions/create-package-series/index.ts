@@ -196,7 +196,8 @@ Deno.serve(async (req: Request) => {
       JSON.stringify({
         success: false,
         error: 'Package series creation failed',
-        details: error.message,
+        details:
+          error instanceof Error ? error.message : 'Unknown error occurred',
       }),
       {
         status: 500,
