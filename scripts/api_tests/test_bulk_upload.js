@@ -3,27 +3,80 @@
  * Run this to verify the fixes are working correctly
  */
 
+// Configuration (matching your other test files)
+const SUPABASE_URL = 'https://sjczwtpnjbmscxoszlyi.supabase.co';
+const ANON_KEY =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNqY3p3dHBuamJtc2N4b3N6bHlpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExODE2MjcsImV4cCI6MjA2Njc1NzYyN30.XqaYmc7WPXeF_eASoxHUUMIok8a1OStmfmGL2a5qnAo';
+
+async function authenticateUser(email, password) {
+  console.log(`🔐 Authenticating user: ${email}`);
+
+  const authUrl = `${SUPABASE_URL}/auth/v1/token?grant_type=password`;
+
+  try {
+    const response = await fetch(authUrl, {
+      method: 'POST',
+      headers: {
+        apikey: ANON_KEY,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        email: email,
+        password: password,
+      }),
+    });
+
+    if (response.ok) {
+      const authData = await response.json();
+      console.log(`✅ Authentication successful!`);
+      console.log(`   User: ${authData.user.email}`);
+      return authData.access_token;
+    } else {
+      const errorText = await response.text();
+      console.log(`❌ Authentication failed: ${response.status}`);
+      console.log(`   Response: ${errorText}`);
+      return null;
+    }
+  } catch (error) {
+    console.log(`❌ Authentication error: ${error.message}`);
+    return null;
+  }
+}
+
 export const testBulkUpload = async () => {
+  console.log('🚀 Starting Bulk Upload Test');
+  console.log('=' + '='.repeat(29));
+
+  // Step 1: Authenticate
+  const token = await authenticateUser(
+    'sarah.johnson@example.com',
+    'password123'
+  );
+  if (!token) {
+    console.log('❌ Authentication failed, cannot proceed with test');
+    return;
+  }
+
   const formData = new FormData();
 
   // Add multiple test files with metadata
   const testFiles = [
     {
       fileName: 'genesis_1.m4a',
-      languageEntityId: 'bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb',
+      languageEntityId: '3a714f99-f982-40c7-8ff6-87019a652100',
       chapterId: 'num-4',
-      audioVersionId: '0a4e7438-7815-46f2-bafd-c57b7405c8bf', // ✅ This is now included!
+      audioVersionId: 'cc8f3110-a366-4d81-88d5-4a2bb7d31062', // ✅ This is now included!
       startVerseId: 'num-4-3',
       endVerseId: 'num-4-7',
       durationSeconds: 120.5,
     },
     {
       fileName: 'genesis_2.m4a',
-      languageEntityId: 'your-language-entity-id',
-      chapterId: 'your-chapter-id-2',
-      audioVersionId: 'your-audio-version-id', // ✅ This is now included!
-      startVerseId: 'verse-2-start',
-      endVerseId: 'verse-2-end',
+      languageEntityId: '3a714f99-f982-40c7-8ff6-87019a652100',
+      chapterId: 'exo-1',
+      audioVersionId: 'cc8f3110-a366-4d81-88d5-4a2bb7d31062', // ✅ This is now included!
+      startVerseId: 'exo-1-1',
+      endVerseId: 'exo-1-7',
       durationSeconds: 95.3,
     },
   ];
@@ -42,11 +95,11 @@ export const testBulkUpload = async () => {
 
   try {
     const response = await fetch(
-      'http://127.0.0.1:54321/functions/v1/upload-bible-chapter-audio-bulk',
+      `${SUPABASE_URL}/functions/v1/upload-bible-chapter-audio-bulk`,
       {
         method: 'POST',
         headers: {
-          Authorization: 'Bearer your-supabase-jwt-token',
+          Authorization: `Bearer ${token}`,
         },
         body: formData,
       }
@@ -57,8 +110,12 @@ export const testBulkUpload = async () => {
 
     if (result.success) {
       console.log(
-        `🎉 SUCCESS: ${result.data.successfulUploads}/${result.data.totalFiles} files uploaded`
+        `🎉 SUCCESS: Created ${result.data.totalFiles} records (batch: ${result.data.batchId})`
       );
+      console.log('📋 Media Records:', result.data.mediaRecords);
+
+      // Now poll for progress
+      await pollUploadProgress(result.data.batchId, token);
     } else {
       console.log('❌ FAILED:', result.error);
     }
@@ -67,23 +124,65 @@ export const testBulkUpload = async () => {
   }
 };
 
-// Uncomment to run the test:
-// testBulkUpload();
+// Function to poll upload progress
+const pollUploadProgress = async (batchId, token) => {
+  console.log(`🔄 Polling progress for batch: ${batchId}`);
 
-console.log(`
-🧪 Bulk Upload Test Script Ready!
+  for (let i = 0; i < 20; i++) {
+    // Poll for up to 2 minutes
+    try {
+      const response = await fetch(
+        `${SUPABASE_URL}/functions/v1/get-upload-progress`,
+        {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${token}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ batchId }),
+        }
+      );
 
-✅ Key fixes applied:
-1. Added missing audioVersionId to shared functions
-2. Fixed database inserts to include audio_version_id
-3. Eliminated code duplication between functions
-4. Fixed function parameter calls
+      const progress = await response.json();
 
-To test:
-1. Update the test data with your actual IDs
-2. Make sure your Supabase functions are running
-3. Uncomment the testBulkUpload() call at the bottom
-4. Run: node test_bulk_upload.js
+      if (progress.success) {
+        const { data } = progress;
+        console.log(
+          `📊 Progress: ${data.progress.percentage}% (${data.progress.status})`
+        );
+        console.log(
+          `   Pending: ${data.pendingCount}, Uploading: ${data.uploadingCount}, Completed: ${data.completedCount}, Failed: ${data.failedCount}`
+        );
 
-Your bulk upload should now work correctly! 🎵
-`);
+        // Show individual file statuses
+        data.files.forEach(file => {
+          const status =
+            file.status === 'completed'
+              ? '✅'
+              : file.status === 'failed'
+                ? '❌'
+                : file.status === 'uploading'
+                  ? '⬆️'
+                  : '⏳';
+          console.log(`   ${status} ${file.fileName}: ${file.status}`);
+        });
+
+        // Stop polling if all done
+        if (
+          data.progress.status === 'completed' ||
+          data.progress.status === 'failed'
+        ) {
+          console.log('🎉 Upload batch completed!');
+          break;
+        }
+      }
+
+      // Wait 6 seconds before next poll
+      await new Promise(resolve => setTimeout(resolve, 6000));
+    } catch (error) {
+      console.error('❌ Progress check failed:', error);
+    }
+  }
+};
+
+testBulkUpload();

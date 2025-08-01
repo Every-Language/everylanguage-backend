@@ -10,7 +10,7 @@ INSERT INTO
   )
 VALUES
   (
-    'd3d42aed-6bb8-4cd4-a7b9-112c010579d8',
+    'fa4067f6-42b0-44a1-9bd0-7cf1eabf8534',
     'Songe',
     'language',
     NULL,
@@ -18,7 +18,7 @@ VALUES
     NOW()
   ),
   (
-    '518d674e-9f39-42fe-b6f3-3788caba34cd',
+    '49934ecf-4c06-447b-b3e9-bf50ad4c2c67',
     'Kanasi',
     'language',
     NULL,
@@ -26,7 +26,7 @@ VALUES
     NOW()
   ),
   (
-    '9fdf0eb7-0e8c-4fdf-830a-4c13d5ad335d',
+    'a7b84718-9dd6-436a-955d-18d4c56a418b',
     'Somrai',
     'language',
     NULL,
@@ -34,7 +34,7 @@ VALUES
     NOW()
   ),
   (
-    '48bd6adf-e73c-4885-8e66-e5992793770f',
+    '8edc50d3-5c3c-406d-8568-1b55b418a71a',
     'Seeku',
     'language',
     NULL,
@@ -42,7 +42,7 @@ VALUES
     NOW()
   ),
   (
-    'a7f23c65-c7e6-4bb6-b5c3-ca4c0596d8bf',
+    'cc1d1324-a848-40c4-b947-4acedf708770',
     'Southern Sotho',
     'language',
     NULL,
@@ -50,7 +50,7 @@ VALUES
     NOW()
   ),
   (
-    'dea5b270-44d2-453c-baf8-1f8ae26ec984',
+    'a20d38d6-9bde-479c-84a3-4a09aa54ef44',
     'Southern Thai',
     'language',
     NULL,
@@ -58,7 +58,7 @@ VALUES
     NOW()
   ),
   (
-    '5874d979-8222-4f9e-802a-b2e545723982',
+    '99949b8f-8d18-44c5-85a6-bb46ac2dde5f',
     'Sonsorol',
     'language',
     NULL,
@@ -66,7 +66,7 @@ VALUES
     NOW()
   ),
   (
-    '59e3704d-1ac8-4f92-a4b7-7c4beef72004',
+    'b1d3a7af-548b-4a44-bfed-ce8e3db007de',
     'Sowanda',
     'language',
     NULL,
@@ -74,7 +74,7 @@ VALUES
     NOW()
   ),
   (
-    '3f19917d-000a-4325-9c82-63890f0d554e',
+    '23a6e7ea-4053-45c0-93d1-eb3b7a5d11b1',
     'Swo',
     'language',
     NULL,
@@ -82,7 +82,7 @@ VALUES
     NOW()
   ),
   (
-    '3fa0d989-7e06-4975-9980-c7d8e637434d',
+    'a8a7bf21-c781-45b2-bd2e-dc0dc9f8ddb7',
     'Miyobe',
     'language',
     NULL,
@@ -90,7 +90,7 @@ VALUES
     NOW()
   ),
   (
-    'f6e1bf92-7ca3-419d-8e3f-0fcd2422f4a9',
+    '151122ae-52e5-4117-b20f-e0e0af69a9d6',
     'Temi',
     'language',
     NULL,
@@ -98,7 +98,7 @@ VALUES
     NOW()
   ),
   (
-    'bafdc29e-89f3-464e-aa12-a9d7826e4140',
+    'd9a00738-9791-433c-ac76-02392a52a211',
     'Spanish',
     'language',
     NULL,
@@ -106,7 +106,7 @@ VALUES
     NOW()
   ),
   (
-    'ed32ab22-b464-4133-ae64-7bf0505432f4',
+    '99e0b1b6-ff93-438e-877a-6f7b7e2b1e0d',
     'Sepa (Indonesia)',
     'language',
     NULL,
@@ -114,7 +114,7 @@ VALUES
     NOW()
   ),
   (
-    'e2cb4e57-feb1-44cb-8f1d-4a944cb86574',
+    '677f5292-3aaa-49ad-89d6-fb2b55b68fde',
     'Sapé',
     'language',
     NULL,
@@ -122,7 +122,7 @@ VALUES
     NOW()
   ),
   (
-    '9f7a8ddb-bdb6-4cd6-a010-5c50ea100a32',
+    '43c93424-46e0-4bba-9b53-194d2ba0c9f3',
     'Saep',
     'language',
     NULL,
@@ -130,7 +130,7 @@ VALUES
     NOW()
   ),
   (
-    'f3c5a759-99ec-4204-8904-b6272f191412',
+    'c86241fa-0009-445b-92d8-798e0328ef43',
     'Sepa (Papua New Guinea)',
     'language',
     NULL,
@@ -138,7 +138,7 @@ VALUES
     NOW()
   ),
   (
-    '8355fd23-eb79-4143-ba4d-66eeae6390e5',
+    '1121eb76-4b1f-46d8-8570-a664a084232c',
     'Sian',
     'language',
     NULL,
@@ -146,7 +146,7 @@ VALUES
     NOW()
   ),
   (
-    'b3c29b14-cd25-416a-b765-58f0f914eb3f',
+    '70216486-1fbb-4322-92ae-18f95e73702d',
     'Saponi',
     'language',
     NULL,
@@ -154,7 +154,7 @@ VALUES
     NOW()
   ),
   (
-    '2ab87659-91fe-4af0-8247-ae3bb04ecf25',
+    '2dbc3567-e655-4b1f-93e4-5ee812128d16',
     'Sengo',
     'language',
     NULL,
@@ -162,7 +162,7 @@ VALUES
     NOW()
   ),
   (
-    '1d35bdab-06ca-4c59-b37c-97ffd6d8f55a',
+    '029f5471-fa2e-4124-9f4b-4fd580f6afe1',
     'Selepet',
     'language',
     NULL,
@@ -170,7 +170,7 @@ VALUES
     NOW()
   ),
   (
-    'a794e2ac-8bad-4880-b689-811f0051a5d6',
+    'a6cd8bc4-392f-4e26-91d5-4cc8b579caa4',
     'Akukem',
     'language',
     NULL,
@@ -178,7 +178,7 @@ VALUES
     NOW()
   ),
   (
-    'bdcc58e2-ea67-4ec0-ae03-6c2be9cc7019',
+    '27785505-dbbe-41af-8e40-bc27852f1cd5',
     'Sanapaná',
     'language',
     NULL,
@@ -186,7 +186,7 @@ VALUES
     NOW()
   ),
   (
-    '945065be-9861-490f-90a9-9cfdd165d8d9',
+    'f909afe0-96d6-488e-a69c-21cd23b6a911',
     'Spokane',
     'language',
     NULL,
@@ -194,7 +194,7 @@ VALUES
     NOW()
   ),
   (
-    '533ac510-85f8-45ed-8de7-1ff82d05ec62',
+    '6d035291-c78c-4d37-b059-0a6f7cb895aa',
     'Supyire Senoufo',
     'language',
     NULL,
@@ -202,7 +202,7 @@ VALUES
     NOW()
   ),
   (
-    '542e2668-4517-4558-bb65-6025e49c3044',
+    'c509ffcc-eb65-4ef6-89e4-f9c9a28a38c3',
     'Loreto-Ucayali Spanish',
     'language',
     NULL,
@@ -210,7 +210,7 @@ VALUES
     NOW()
   ),
   (
-    '125d705a-1487-480e-af5d-bf1db4101ca4',
+    '9ab4259a-21c1-4c64-8216-ce3b0a9d8e18',
     'Saparua',
     'language',
     NULL,
@@ -218,7 +218,7 @@ VALUES
     NOW()
   ),
   (
-    '5f7b4f71-653c-445c-b4c4-081ce4ccd889',
+    '20f5a56a-2f8a-40c3-a06a-eadb2b866a83',
     'Saposa',
     'language',
     NULL,
@@ -226,7 +226,7 @@ VALUES
     NOW()
   ),
   (
-    'cc093e67-924b-4883-84fe-2a0d118e4a02',
+    '7820cff3-57f1-408c-921b-3a9b334d28bc',
     'Spiti Bhoti',
     'language',
     NULL,
@@ -234,7 +234,7 @@ VALUES
     NOW()
   ),
   (
-    '34fe9eb4-3d3f-4db0-813d-38d37bff851d',
+    '17f01a40-9387-45c4-af84-e264efcc4e36',
     'Sapuan',
     'language',
     NULL,
@@ -242,15 +242,15 @@ VALUES
     NOW()
   ),
   (
-    '0f306b5c-c856-4854-be82-cdada20ffa77',
+    '5b7d48a0-7f7d-4290-8fe0-cc35eca82c09',
     'Sambalpuri',
     'language',
-    'a1383599-8379-44b5-801d-b0ec9ffb1cf5',
+    '7eddcf9f-a69a-4475-ba39-8c06b8395556',
     NOW(),
     NOW()
   ),
   (
-    '0b80868d-35d5-4ca8-87a2-6b674a31b109',
+    'af453528-4157-46d9-9850-f1d765706cdf',
     'South Picene',
     'language',
     NULL,
@@ -258,15 +258,15 @@ VALUES
     NOW()
   ),
   (
-    '467e61a1-db49-44d6-8216-81ddf9a82e71',
+    'd3bf80ac-a628-44be-9037-f0038039501d',
     'Sabaot',
     'language',
-    '8c4ecf77-8cb7-4058-86c6-9e8a8b5ca563',
+    '54aa0ee5-0fe2-4d79-bc0a-034c56466a65',
     NOW(),
     NOW()
   ),
   (
-    'bd5d5882-b9c1-4e74-8c74-43ad729d585e',
+    'c43a4009-1cc0-4af3-80d3-6af38115f513',
     'Shama-Sambuga',
     'language',
     NULL,
@@ -274,7 +274,7 @@ VALUES
     NOW()
   ),
   (
-    'a29d053c-434e-4e8d-9376-fccdc5dc22c3',
+    '1761a2f1-e4b9-441e-9818-94e0a9db54a5',
     'Shau',
     'language',
     NULL,
@@ -282,7 +282,7 @@ VALUES
     NOW()
   ),
   (
-    '82076a00-0fc0-4312-ba8e-76da62e3ea16',
+    '0debd430-4a36-4102-b187-026a26200605',
     'Albanian',
     'family',
     NULL,
@@ -290,7 +290,7 @@ VALUES
     NOW()
   ),
   (
-    '177af8d9-bf9f-4afb-9514-804815689066',
+    '9c5d8fb1-7be4-4bc4-86ec-6f81dfee1580',
     'Albanian Sign Language',
     'language',
     NULL,
@@ -298,7 +298,7 @@ VALUES
     NOW()
   ),
   (
-    '167e8924-7969-48ac-b241-b7c580e2fd58',
+    'd8c4323b-e9fc-4d06-83e3-074b541c469d',
     'Suma',
     'language',
     NULL,
@@ -306,7 +306,7 @@ VALUES
     NOW()
   ),
   (
-    '92fb26cf-50e4-40e6-b31d-f32f269ae951',
+    'ebe5e6cf-14a3-443c-b84e-0c428467a2fa',
     'Susquehannock',
     'language',
     NULL,
@@ -314,7 +314,7 @@ VALUES
     NOW()
   ),
   (
-    'b3317aa8-2367-4f31-a5c9-819107de964e',
+    'bc67a70e-e9b5-4e90-92ae-467f710731f2',
     'Sorkhei',
     'language',
     NULL,
@@ -322,7 +322,7 @@ VALUES
     NOW()
   ),
   (
-    'e415adbf-dc08-49b5-b80e-00313186bc13',
+    'e8c4c282-76c5-4542-a56d-419dada48882',
     'Sou',
     'language',
     NULL,
@@ -330,7 +330,7 @@ VALUES
     NOW()
   ),
   (
-    'b50280be-3af0-4a93-93ac-b959dff47a7f',
+    'e47277c8-14c1-4d2d-beed-f854a54dab83',
     'Siculo Arabic',
     'language',
     NULL,
@@ -338,7 +338,7 @@ VALUES
     NOW()
   ),
   (
-    'df762f95-f7b2-4e3a-bb7b-720888ea2e94',
+    'f41c52f7-139e-40b4-a827-c1ab9e60e882',
     'Sri Lankan Sign Language',
     'language',
     NULL,
@@ -346,7 +346,7 @@ VALUES
     NOW()
   ),
   (
-    '5dada358-4b6b-4657-af6d-56b803aafda0',
+    '39d4975e-6b88-4299-a7b6-f85b257a3f69',
     'Soqotri',
     'language',
     NULL,
@@ -354,7 +354,7 @@ VALUES
     NOW()
   ),
   (
-    '9a33be6c-5f51-4f0c-b58c-485ba315fa08',
+    '1330dbab-00aa-4676-bad7-36ea072e40cf',
     'Squamish',
     'language',
     NULL,
@@ -362,7 +362,7 @@ VALUES
     NOW()
   ),
   (
-    '2e036c8a-3aa8-482f-b294-22ca996d8375',
+    'd528123c-8b98-4dfc-b29f-9611168bcb92',
     'Kufr Qassem Sign Language (KQSL)',
     'language',
     NULL,
@@ -370,7 +370,7 @@ VALUES
     NOW()
   ),
   (
-    '4bb22961-f997-4336-9c03-dd17a45f9378',
+    '720832f1-1f93-4ef0-a1e5-2360c1ee5adc',
     'Saruga',
     'language',
     NULL,
@@ -378,7 +378,7 @@ VALUES
     NOW()
   ),
   (
-    '5728b13b-f47f-4540-bb5e-84c73b66ebec',
+    '1af09421-90fb-4fb3-8dcf-a2f1ae1abca1',
     'Sora',
     'language',
     NULL,
@@ -386,15 +386,15 @@ VALUES
     NOW()
   ),
   (
-    'b01608dc-5a0f-485d-9ab6-621c4eae99ea',
+    '0033fd7d-f7ba-48e5-b292-6f325c6b92d2',
     'Logudorese Sardinian',
     'language',
-    'bf84d1e8-b915-43df-b274-13ecae80aaef',
+    '2c4a9d0d-a28d-4e6b-b82e-e2ff0df7f6da',
     NOW(),
     NOW()
   ),
   (
-    'bf84d1e8-b915-43df-b274-13ecae80aaef',
+    '2c4a9d0d-a28d-4e6b-b82e-e2ff0df7f6da',
     'Sardinian',
     'family',
     NULL,
@@ -402,7 +402,7 @@ VALUES
     NOW()
   ),
   (
-    '0d9d7e85-9c25-400a-bc1f-873a49cf5b1d',
+    'a6769043-e629-4e98-a327-1e9af9ddfe8c',
     'Sara',
     'language',
     NULL,
@@ -410,7 +410,7 @@ VALUES
     NOW()
   ),
   (
-    'a3168758-622a-4f72-909e-ce01f91b5374',
+    'b810bcef-35dd-4d55-884a-e219f9fa1cb8',
     'Nafi',
     'language',
     NULL,
@@ -418,7 +418,7 @@ VALUES
     NOW()
   ),
   (
-    'ef75b7ea-0874-4b23-ae90-d7e73e8d2519',
+    '64a045d4-f0a4-481a-81bb-e346340700f7',
     'Sulod',
     'language',
     NULL,
@@ -426,7 +426,7 @@ VALUES
     NOW()
   ),
   (
-    'c0681969-3eba-4b6b-8036-0135021560d0',
+    '458db709-3c37-4e2e-9603-91bc4eb43f7e',
     'Sarikoli',
     'language',
     NULL,
@@ -434,7 +434,7 @@ VALUES
     NOW()
   ),
   (
-    '4f60ea34-56f6-47af-9ae5-42ce6df3ab01',
+    'a0f389e9-6b32-42ff-b207-56911ee68884',
     'Siriano',
     'language',
     NULL,
@@ -442,7 +442,7 @@ VALUES
     NOW()
   ),
   (
-    '466689fe-7930-4221-8416-0dae527b901e',
+    '7a1d68ba-0371-402b-8d8d-923b9a05d0f3',
     'Serudung Murut',
     'language',
     NULL,
@@ -450,7 +450,7 @@ VALUES
     NOW()
   ),
   (
-    '24e34619-c9f4-43b0-bb1a-9e5a29c92c16',
+    'f4520de2-96c0-4769-a9a7-5019c5c01910',
     'Isirawa',
     'language',
     NULL,
@@ -458,7 +458,7 @@ VALUES
     NOW()
   ),
   (
-    'c8a81c4c-3b04-44d0-af38-7b4a845906d1',
+    '3f9e2ff3-b01f-4bc5-a5a8-46c8fd213665',
     'Saramaccan',
     'language',
     NULL,
@@ -466,7 +466,7 @@ VALUES
     NOW()
   ),
   (
-    '3a1163f5-64d4-4964-ab2c-3ea90d2efd10',
+    '53563259-f3d1-4dd8-a8c6-8be3e14809bb',
     'Sranan Tongo',
     'language',
     NULL,
@@ -474,23 +474,23 @@ VALUES
     NOW()
   ),
   (
-    '284bd783-66a1-4807-9f5e-bd6335e235fa',
+    '466b4652-4c83-4f83-996d-28fa2529a6a6',
     'Campidanese Sardinian',
     'language',
-    'bf84d1e8-b915-43df-b274-13ecae80aaef',
+    '2c4a9d0d-a28d-4e6b-b82e-e2ff0df7f6da',
     NOW(),
     NOW()
   ),
   (
-    '8b7984df-b333-441e-89d4-ef300aca741b',
+    'bc643665-c159-4304-ad1e-ecc2285c4388',
     'Serbian',
     'language',
-    'cc14bf1f-be5b-4b55-9d5a-6e12d825918c',
+    '40b316ec-e3c5-4407-864a-fdb258312127',
     NOW(),
     NOW()
   ),
   (
-    '1192e38f-6737-42a4-8a1d-19f37f73cd15',
+    '26e48e3b-d887-4169-b73f-393599bae19a',
     'Sirionó',
     'language',
     NULL,
@@ -498,7 +498,7 @@ VALUES
     NOW()
   ),
   (
-    '213ff1c6-de5d-4cfb-8178-9f4d1b7bb49d',
+    '08b76f37-ee81-4818-9d27-b8c29a3dedbf',
     'Serer',
     'language',
     NULL,
@@ -506,7 +506,7 @@ VALUES
     NOW()
   ),
   (
-    '6856f569-2fb0-47c2-b033-288410b9d286',
+    '2a1005fa-67f1-4365-a36d-293d3a5849f4',
     'Sarsi',
     'language',
     NULL,
@@ -514,7 +514,7 @@ VALUES
     NOW()
   ),
   (
-    '37cb923a-acfc-45cc-b35c-58e8212f6a7f',
+    '5afa4435-3ded-4f82-80e7-c24d9067af48',
     'Sauri',
     'language',
     NULL,
@@ -522,7 +522,7 @@ VALUES
     NOW()
   ),
   (
-    '5caea6cd-9565-4e0f-9ee7-0fad847dce3c',
+    'de758ce8-9508-4baa-aec4-31bbca8e128b',
     'Suruí',
     'language',
     NULL,
@@ -530,7 +530,7 @@ VALUES
     NOW()
   ),
   (
-    'eb7fc233-10e6-4a4a-bc44-3898ed33b3cb',
+    'abdb75d0-e0c4-444f-b121-78d0c564df97',
     'Southern Sorsoganon',
     'language',
     NULL,
@@ -538,7 +538,7 @@ VALUES
     NOW()
   ),
   (
-    'ffe1fb47-8c06-4ab0-bd1f-15edb3833690',
+    'aa650efe-36a4-4a8f-81cd-ac89f9c1b1eb',
     'Serua',
     'language',
     NULL,
@@ -546,7 +546,7 @@ VALUES
     NOW()
   ),
   (
-    'f791e287-3051-4056-a6ec-37da1d2fbede',
+    '7c2626eb-2c22-48cb-a8e8-90eb4bbd574b',
     'Sirmauri',
     'language',
     NULL,
@@ -554,7 +554,7 @@ VALUES
     NOW()
   ),
   (
-    '866266b3-ecac-4711-b9c1-91365c44de5e',
+    '763ef02f-8e40-4a70-84e8-348a878fcd90',
     'Sera',
     'language',
     NULL,
@@ -562,7 +562,7 @@ VALUES
     NOW()
   ),
   (
-    '0c17d6ee-b35d-48bb-a464-843471a3f028',
+    'a84eecfa-a07b-4b9b-9841-4c9a919fc65c',
     'Shahmirzadi',
     'language',
     NULL,
@@ -570,7 +570,7 @@ VALUES
     NOW()
   ),
   (
-    '406e36ef-0f02-4274-ae6a-239afd2fca6f',
+    '29e14345-b154-4314-90d8-edfcb6393424',
     'Southern Sama',
     'language',
     NULL,
@@ -578,7 +578,7 @@ VALUES
     NOW()
   ),
   (
-    '9c68c10c-5707-4a45-ae47-920fa874d0b7',
+    '5f144fc4-7567-464e-bb5d-9dd3afa3856e',
     'Suba-Simbiti',
     'language',
     NULL,
@@ -586,7 +586,7 @@ VALUES
     NOW()
   ),
   (
-    '5ed4c4ce-fd24-47b5-8671-6afa3f7fb743',
+    '0f817fa7-045b-4a5f-a10f-5935ae768183',
     'Siroi',
     'language',
     NULL,
@@ -594,7 +594,7 @@ VALUES
     NOW()
   ),
   (
-    '67f55acd-00f2-456f-9eca-82a1e790a640',
+    'b91c46ad-d40f-4690-aba7-49f8b4f50474',
     'Balangingi',
     'language',
     NULL,
@@ -602,7 +602,7 @@ VALUES
     NOW()
   ),
   (
-    '600360d0-8fca-4665-8b83-cea08de09dc4',
+    'a2c43b1a-29e8-47a0-931f-a65f707c4bc1',
     'Thao',
     'language',
     NULL,
@@ -610,7 +610,7 @@ VALUES
     NOW()
   ),
   (
-    '67c1e7a1-1405-42c4-9d30-44e1748d7178',
+    '6b4a997e-5157-4384-874c-2cb183b05e2a',
     'Seimat',
     'language',
     NULL,
@@ -618,15 +618,15 @@ VALUES
     NOW()
   ),
   (
-    '16e40def-68fd-48fd-890f-56897d8494b1',
+    'b52ad68c-fd9e-4f42-b9af-05fa4b7ded80',
     'Shihhi Arabic',
     'language',
-    '46c665bf-fe82-4a01-a641-deedc56211b9',
+    '00542823-58a1-4251-ae62-f208dd1296b2',
     NOW(),
     NOW()
   ),
   (
-    'df35995e-1857-4bee-826d-31c08bd45235',
+    'be64392d-b848-474d-82dc-59de11acdf56',
     'Sansi',
     'language',
     NULL,
@@ -634,7 +634,7 @@ VALUES
     NOW()
   ),
   (
-    'cc5775fc-4c24-4e32-b4da-23dde5512699',
+    '943fc3fe-3e9a-488e-8e87-d12d4c3caaae',
     'Sausi',
     'language',
     NULL,
@@ -642,7 +642,7 @@ VALUES
     NOW()
   ),
   (
-    '6fdb2b27-9b45-41cb-8279-b2b5d2fe5a80',
+    '8bc90d57-62b6-47aa-b542-e4ef9b0f9978',
     'Sunam',
     'language',
     NULL,
@@ -650,7 +650,7 @@ VALUES
     NOW()
   ),
   (
-    '447736ef-ef07-4461-ac40-bd2b17493f31',
+    '42375d26-3ea1-4267-8e7f-4cfe3e847be1',
     'Western Sisaala',
     'language',
     NULL,
@@ -658,7 +658,7 @@ VALUES
     NOW()
   ),
   (
-    '5721e69b-2edb-4366-8bf5-56b08cab54b0',
+    '33d15ef6-940d-416b-b5b0-19981283f227',
     'Semnam',
     'language',
     NULL,
@@ -666,7 +666,7 @@ VALUES
     NOW()
   ),
   (
-    'ffe55922-a9d7-432b-bf97-dcf7e3cf418e',
+    '333641ce-467a-4c8a-ae4e-45d5087bada8',
     'Waata',
     'language',
     NULL,
@@ -674,7 +674,7 @@ VALUES
     NOW()
   ),
   (
-    '0662c2bd-c1cd-464b-b5f4-afc2557cd85c',
+    '5642eacc-b7be-4bba-8020-04648b190b10',
     'Sissano',
     'language',
     NULL,
@@ -682,7 +682,7 @@ VALUES
     NOW()
   ),
   (
-    '376d639e-cee4-4592-9c3a-dacb6eb8c40c',
+    'f25ac5c3-9736-48bb-8d44-c9e04103fb2a',
     'Spanish Sign Language',
     'language',
     NULL,
@@ -690,7 +690,7 @@ VALUES
     NOW()
   ),
   (
-    'c2dfeff4-cc3f-433d-b282-95c738658a35',
+    '747e022d-9c2b-4295-9bce-87ddb3e6bb4e',
     'So''a',
     'language',
     NULL,
@@ -698,7 +698,7 @@ VALUES
     NOW()
   ),
   (
-    'b3531f5b-9411-4b7c-a057-837856cbe8b5',
+    '2270a36d-e5d8-433f-a0eb-cba2b0ec7603',
     'Swiss-French Sign Language',
     'language',
     NULL,
@@ -706,7 +706,7 @@ VALUES
     NOW()
   ),
   (
-    'be362623-6142-4a57-b3a8-ae6843b0ca8f',
+    '16fc5d0f-45bb-43f2-9a9c-b9d3fc54f732',
     'Sô',
     'language',
     NULL,
@@ -714,7 +714,7 @@ VALUES
     NOW()
   ),
   (
-    'c166c75b-7063-4fc8-b987-53f58fba7b38',
+    '32963cae-9d86-40a3-a68c-0ff5b56f29ca',
     'Sinasina',
     'language',
     NULL,
@@ -722,7 +722,7 @@ VALUES
     NOW()
   ),
   (
-    'd14d5a55-1072-418e-87a6-76a15dbde321',
+    '31cfc2bd-6615-4672-bee3-b60db3a5e235',
     'Susuami',
     'language',
     NULL,
@@ -730,7 +730,7 @@ VALUES
     NOW()
   ),
   (
-    '11864103-6bf5-47bb-986d-9fd6196a1d1e',
+    '04acb9db-1588-456b-b96a-60ddbd0983b0',
     'Shark Bay',
     'language',
     NULL,
@@ -738,7 +738,7 @@ VALUES
     NOW()
   ),
   (
-    'd9537f3b-45c6-4223-9c13-6a0d3b10510e',
+    'f5f51ec8-4ee6-40cf-b4ea-dfce7e4d4d41',
     'Swati',
     'language',
     NULL,
@@ -746,7 +746,7 @@ VALUES
     NOW()
   ),
   (
-    '6553031a-c52b-4002-b2a5-e3c4154ab992',
+    'ddd5ef11-3bcb-4304-8d4c-0fb1755128a9',
     'Samberigi',
     'language',
     NULL,
@@ -754,7 +754,7 @@ VALUES
     NOW()
   ),
   (
-    '925f2a2e-fece-4f87-8140-5c30f16a30ca',
+    'df74598d-61ee-4746-b986-bd9f317eb9f0',
     'Saho',
     'language',
     NULL,
@@ -762,7 +762,7 @@ VALUES
     NOW()
   ),
   (
-    '1e996e1d-a44a-406a-abac-39e6cd536d9f',
+    'c8bfb054-018e-48a6-8254-3fcae8e44818',
     'Sengseng',
     'language',
     NULL,
@@ -770,7 +770,7 @@ VALUES
     NOW()
   ),
   (
-    '63277bae-a01b-4577-90af-575aefe0830c',
+    '1fc0d67a-610d-49c7-969c-7a20c08de0e3',
     'Settla',
     'language',
     NULL,
@@ -778,7 +778,7 @@ VALUES
     NOW()
   ),
   (
-    '62dcdb83-1702-47dc-815f-9bd9efabdb82',
+    '735db175-cba9-484b-bbef-1d5812cf76a7',
     'Northern Subanen',
     'language',
     NULL,
@@ -786,7 +786,7 @@ VALUES
     NOW()
   ),
   (
-    '1deb3c39-07ee-4e1c-8e88-72712fb3ca71',
+    '861572b3-28e5-4107-af2f-fff76e9ed183',
     'Sentinel',
     'language',
     NULL,
@@ -794,7 +794,7 @@ VALUES
     NOW()
   ),
   (
-    '056c0e99-ef11-43bf-b9c5-072ac79f95c3',
+    'dc7781bb-bf88-400a-bd76-b44af629292d',
     'Liana-Seti',
     'language',
     NULL,
@@ -802,7 +802,7 @@ VALUES
     NOW()
   ),
   (
-    'a60c0aed-d05f-4e32-8fef-8a4c27cfeac9',
+    'f881c6f1-e46b-4700-9440-9243a2ea517b',
     'Seta',
     'language',
     NULL,
@@ -810,7 +810,7 @@ VALUES
     NOW()
   ),
   (
-    '9f38ef45-8876-4ae7-a6bb-5ed30a1b669d',
+    '3b8ab2df-f4b3-41f6-93c6-fbcadbaf91ca',
     'Trieng',
     'language',
     NULL,
@@ -818,7 +818,7 @@ VALUES
     NOW()
   ),
   (
-    '7e576aa1-5a90-4aae-806b-cb5d16bd2fd3',
+    'e3b24e9a-2440-45e3-82a8-ba37a85b20f3',
     'Shelta',
     'language',
     NULL,
@@ -826,7 +826,7 @@ VALUES
     NOW()
   ),
   (
-    '43e902d4-d097-4499-8204-d1a57fe22e41',
+    'ab89932f-fcc7-4416-ab80-94e57a6330aa',
     'Bulo Stieng',
     'language',
     NULL,
@@ -834,7 +834,7 @@ VALUES
     NOW()
   ),
   (
-    '02ecfb2b-f55b-43c9-bbf6-b31e8a65fd9f',
+    'e2056503-8279-454b-8e5a-e5e465a6f0a7',
     'Matya Samo',
     'language',
     NULL,
@@ -842,7 +842,7 @@ VALUES
     NOW()
   ),
   (
-    'b344ebd8-daa8-42c2-93b4-8400be08832b',
+    '8ac7cb21-9dd8-4c4a-92c9-d9ebd0d3f985',
     'Arammba',
     'language',
     NULL,
@@ -850,7 +850,7 @@ VALUES
     NOW()
   ),
   (
-    'dbfa0e15-c5a8-45fc-a62a-e720221a9d2b',
+    'd83afc7e-dbf0-4b33-aa89-bf56ec88bb7e',
     'Stellingwerfs',
     'language',
     NULL,
@@ -858,7 +858,7 @@ VALUES
     NOW()
   ),
   (
-    '7535e32e-fa96-4bcd-8eaf-f6a0fb29863c',
+    '87ac742e-d516-49e3-9b71-0f41f786d8c7',
     'Setaman',
     'language',
     NULL,
@@ -866,7 +866,7 @@ VALUES
     NOW()
   ),
   (
-    '2b618a6a-417b-4248-b489-ab9dedb1da19',
+    '5503f64f-765a-4e50-b5b5-4e2d5abefeeb',
     'Owa',
     'language',
     NULL,
@@ -874,7 +874,7 @@ VALUES
     NOW()
   ),
   (
-    '80484133-c863-49db-a7cf-e7303cc6c19c',
+    'ed6b736f-3c53-437d-bc96-a2c5850ac070',
     'Stoney',
     'language',
     NULL,
@@ -882,7 +882,7 @@ VALUES
     NOW()
   ),
   (
-    '33631006-dfc8-4364-aaf5-e354a032a46b',
+    '3276e03e-4917-40d0-95d0-f1bc54cbe4f1',
     'Southeastern Tepehuan',
     'language',
     NULL,
@@ -890,7 +890,7 @@ VALUES
     NOW()
   ),
   (
-    '12be19e9-9459-4648-abbe-3dba8eae6399',
+    'f6630310-aad2-4350-b716-34a18930fc28',
     'Saterfriesisch',
     'language',
     NULL,
@@ -898,7 +898,7 @@ VALUES
     NOW()
   ),
   (
-    'e27d506b-1a44-4e61-9650-c6d848b11a1f',
+    '48febad2-e3ef-4be1-91d7-acefe99c12f6',
     'Straits Salish',
     'language',
     NULL,
@@ -906,7 +906,7 @@ VALUES
     NOW()
   ),
   (
-    '15af4eff-49ae-4dbc-961c-dab7e75a4292',
+    '0b28c04c-a318-484f-8edc-176dd6ef7d28',
     'Shumashti',
     'language',
     NULL,
@@ -914,7 +914,7 @@ VALUES
     NOW()
   ),
   (
-    '1edbd2c6-8861-4117-834d-3777daf53266',
+    'eab6101d-6023-4e44-a76f-e6eef2e4e868',
     'Budeh Stieng',
     'language',
     NULL,
@@ -922,7 +922,7 @@ VALUES
     NOW()
   ),
   (
-    '353a7cae-c527-41d3-867d-f952e6e456f1',
+    'e279be0d-b44c-4043-914a-a25e7b1c8563',
     'Samtao',
     'language',
     NULL,
@@ -930,7 +930,7 @@ VALUES
     NOW()
   ),
   (
-    '4fb4b63b-df35-4ef8-a4a0-27fda601e80f',
+    '412428a5-7c24-48fb-8743-6c2261819a16',
     'Silt''e',
     'language',
     NULL,
@@ -938,7 +938,7 @@ VALUES
     NOW()
   ),
   (
-    'f4a458be-75b6-418e-bd06-4cb99173d925',
+    '2f74f771-7b1d-4c84-8b8b-575ef42cae07',
     'Satawalese',
     'language',
     NULL,
@@ -946,7 +946,7 @@ VALUES
     NOW()
   ),
   (
-    '27baf139-aadd-48cf-af90-e3687c99eeac',
+    '45f7a2f7-9e1e-4fb0-a753-4582d1e0e1fa',
     'Siberian Tatar',
     'language',
     NULL,
@@ -954,7 +954,7 @@ VALUES
     NOW()
   ),
   (
-    '084aaed2-2266-4c19-bcf5-b4b2ac7ffe88',
+    '6aaaa2c2-bd41-4dd9-9ce0-f6dcdc3e60c8',
     'Sulka',
     'language',
     NULL,
@@ -962,7 +962,7 @@ VALUES
     NOW()
   ),
   (
-    'c908dbc3-2815-4c7e-bd36-a7c5a789e804',
+    '9be7767d-62f7-4dc3-bb98-c48725cf8fdf',
     'Suku',
     'language',
     NULL,
@@ -970,7 +970,7 @@ VALUES
     NOW()
   ),
   (
-    'f9c58227-b292-4179-9ff7-fedee06df249',
+    '2a85a76e-c0be-4077-bc06-2d52ebc2e886',
     'Western Subanon',
     'language',
     NULL,
@@ -978,7 +978,7 @@ VALUES
     NOW()
   ),
   (
-    'f6a1747e-0bf0-4a36-ad00-4ffb5209ae24',
+    '528c77b7-9514-405b-85c5-391071955065',
     'Suena',
     'language',
     NULL,
@@ -986,7 +986,7 @@ VALUES
     NOW()
   ),
   (
-    '6fe2e23e-41e1-4725-b576-c7dea675a685',
+    '8d47d7f8-9d89-4d54-b1c4-641735f6ffca',
     'Suganga',
     'language',
     NULL,
@@ -994,7 +994,7 @@ VALUES
     NOW()
   ),
   (
-    'bca72761-1a12-40ca-b848-c38cba85c725',
+    '9e709710-6c5d-4441-bc12-6a940d9e5e8f',
     'Suki',
     'language',
     NULL,
@@ -1002,7 +1002,7 @@ VALUES
     NOW()
   ),
   (
-    'e5b01aeb-e92f-4083-9729-5e5be4be86de',
+    'bede34c9-7c7e-4d4c-bc7d-428105efc7bd',
     'Shubi',
     'language',
     NULL,
@@ -1010,7 +1010,7 @@ VALUES
     NOW()
   ),
   (
-    '4802a9a9-67f2-4f1d-b6f0-dbb3a4747af1',
+    '9f43f59f-79da-4ec6-b262-17c9c1ac76fe',
     'Sukuma',
     'language',
     NULL,
@@ -1018,7 +1018,7 @@ VALUES
     NOW()
   ),
   (
-    '23fa41d5-c82b-4c10-a08f-a8c1abca7852',
+    'dfaa3120-6abe-410e-bbc4-0a925fb38d94',
     'Sundanese',
     'language',
     NULL,
@@ -1026,7 +1026,7 @@ VALUES
     NOW()
   ),
   (
-    '185578a9-ec24-4683-a6d5-32ee89ec393f',
+    '4f4719bd-1061-41dc-b5a1-e8fa94088c6b',
     'Bouni',
     'language',
     NULL,
@@ -1034,7 +1034,7 @@ VALUES
     NOW()
   ),
   (
-    'f4ee0df6-4686-47a9-b918-72e074f518fa',
+    '0cac338e-9d34-43a3-b62e-88942280a990',
     'Tirmaga-Chai Suri',
     'language',
     NULL,
@@ -1042,7 +1042,7 @@ VALUES
     NOW()
   ),
   (
-    '7b118a52-22da-4190-bbd1-7f70a923672b',
+    '0fe43905-e258-45af-beda-1acbbb72f8a0',
     'Mwaghavul',
     'language',
     NULL,
@@ -1050,7 +1050,7 @@ VALUES
     NOW()
   ),
   (
-    '362c1543-5a50-45f6-a7e4-09681df1ce47',
+    'e1750df9-6f6c-4b9d-9f24-6e6df918eda6',
     'Susu',
     'language',
     NULL,
@@ -1058,7 +1058,7 @@ VALUES
     NOW()
   ),
   (
-    '28cc74aa-ea48-41aa-9ada-c72dc798d6a8',
+    'f1628389-b48e-4728-ae55-57b5f7ac9768',
     'Subtiaba',
     'language',
     NULL,
@@ -1066,7 +1066,7 @@ VALUES
     NOW()
   ),
   (
-    '7abba7f4-bdf1-4a68-93b4-0d94d2057b42',
+    '1267b021-86fc-43d0-a1bd-e7cdacc7a9a4',
     'Puroik',
     'language',
     NULL,
@@ -1074,7 +1074,7 @@ VALUES
     NOW()
   ),
   (
-    'c24cdb03-fc67-4a2f-beb9-2bc0529c245d',
+    'cdc6ca53-7029-4ad7-b06f-8c9499faeb7f',
     'Sumbwa',
     'language',
     NULL,
@@ -1082,7 +1082,7 @@ VALUES
     NOW()
   ),
   (
-    'ef6b8b41-c974-424e-9267-7c07cdefe4ee',
+    '4d7d0268-b4ed-499f-b302-660e769d28e7',
     'Sumerian',
     'language',
     NULL,
@@ -1090,7 +1090,7 @@ VALUES
     NOW()
   ),
   (
-    'f48187e2-cc13-4039-a5f6-3f678e88ecc1',
+    '14fc3de5-7c94-4e7e-b5e5-d6d0953c03c7',
     'Suyá',
     'language',
     NULL,
@@ -1098,7 +1098,7 @@ VALUES
     NOW()
   ),
   (
-    '8f53c731-f65f-48b2-869b-064c8c0be7a3',
+    'ca68f964-7fa0-43fd-982b-7ce2bf30669f',
     'Sunwar',
     'language',
     NULL,
@@ -1106,7 +1106,7 @@ VALUES
     NOW()
   ),
   (
-    'fd8628f7-46f1-4f5e-a453-21d95ad1bebe',
+    '3a230661-13a7-42a3-82c6-9943125eaac2',
     'Svan',
     'language',
     NULL,
@@ -1114,7 +1114,7 @@ VALUES
     NOW()
   ),
   (
-    '0ab58709-7ecf-4364-a167-ad9d8f9ff603',
+    '140e5da0-bacb-470d-a33a-4e66498f419d',
     'Ulau-Suain',
     'language',
     NULL,
@@ -1122,7 +1122,7 @@ VALUES
     NOW()
   ),
   (
-    '0b2ef562-df15-4cc0-a0ab-baa63dfb56c9',
+    '920220d6-0669-471b-a02b-80e48f26e71a',
     'Vincentian Creole English',
     'language',
     NULL,
@@ -1130,7 +1130,7 @@ VALUES
     NOW()
   ),
   (
-    '643eed06-df42-4a13-b32d-3b71d727fff0',
+    '19dc8aca-29c4-4bfd-b292-11f87830c213',
     'Serili',
     'language',
     NULL,
@@ -1138,7 +1138,7 @@ VALUES
     NOW()
   ),
   (
-    'fca37b65-b812-49ff-8e6f-fed762c0557a',
+    '4837e8bd-7099-4a89-992e-0a2b9b563456',
     'Slovakian Sign Language',
     'language',
     NULL,
@@ -1146,7 +1146,7 @@ VALUES
     NOW()
   ),
   (
-    '359a5383-0ff5-4907-87a5-dcd2f3284b40',
+    'dceaff37-6ee8-42a6-9f9a-16c4604ffd4e',
     'Slavomolisano',
     'language',
     NULL,
@@ -1154,7 +1154,7 @@ VALUES
     NOW()
   ),
   (
-    '5074b115-3091-4bbc-9ab9-664eb2f51424',
+    'bc1799e5-8f51-4f89-a152-52c7745e59ba',
     'Savosavo',
     'language',
     NULL,
@@ -1162,7 +1162,7 @@ VALUES
     NOW()
   ),
   (
-    '6303e8d5-86d8-40b8-a2f5-3be77acce4bb',
+    '01f79ce0-0e6f-4ee5-80f8-b393b8123384',
     'Skalvian',
     'language',
     NULL,
@@ -1170,7 +1170,7 @@ VALUES
     NOW()
   ),
   (
-    'd340a60a-c3f4-471f-afd1-c54daade22fa',
+    '359f779c-ffef-43c6-b2cd-406d3eb5166f',
     'Swahili (macrolanguage)',
     'family',
     NULL,
@@ -1178,7 +1178,7 @@ VALUES
     NOW()
   ),
   (
-    'a3c1247f-f46f-40ea-bb97-6965afd15b3c',
+    '78678ab4-33ec-410c-9e49-598e0453ba5a',
     'Maore Comorian',
     'language',
     NULL,
@@ -1186,15 +1186,15 @@ VALUES
     NOW()
   ),
   (
-    '6a68bce5-6eff-4e97-933c-2b26fbcc2477',
+    '56fd0133-4fa0-4ed8-b1a9-d0111ead42b7',
     'Congo Swahili',
     'language',
-    'd340a60a-c3f4-471f-afd1-c54daade22fa',
+    '359f779c-ffef-43c6-b2cd-406d3eb5166f',
     NOW(),
     NOW()
   ),
   (
-    'a1f47b76-4249-4bae-a78c-91de36bc4e93',
+    '01490a3b-b033-4bc8-a8a9-c7a389af618b',
     'Swedish',
     'language',
     NULL,
@@ -1202,7 +1202,7 @@ VALUES
     NOW()
   ),
   (
-    'c5953aa0-d79c-41fc-8391-f075bc04b0b8',
+    'd22b3aff-6d72-42c4-a044-97cdb1119357',
     'Sere',
     'language',
     NULL,
@@ -1210,7 +1210,7 @@ VALUES
     NOW()
   ),
   (
-    'c16fc798-79a0-4c72-becd-bee4ff84d432',
+    '5d733256-20f1-4a6d-beb6-519a01c5975d',
     'Swabian',
     'language',
     NULL,
@@ -1218,15 +1218,15 @@ VALUES
     NOW()
   ),
   (
-    'ffe4b383-858f-4bc3-adf9-11751facd7b7',
+    '2bcb4d2e-2237-41ab-946d-31e14ffc04fd',
     'Swahili (individual language)',
     'language',
-    'd340a60a-c3f4-471f-afd1-c54daade22fa',
+    '359f779c-ffef-43c6-b2cd-406d3eb5166f',
     NOW(),
     NOW()
   ),
   (
-    '9d70624d-c36e-45d1-ba05-5bcaea16fb89',
+    '268db850-02fe-4bb9-a314-3669975527c3',
     'Sui',
     'language',
     NULL,
@@ -1234,7 +1234,7 @@ VALUES
     NOW()
   ),
   (
-    '8e6e67b2-5188-4750-b6e6-b5fb64fa2e80',
+    '08751649-2e37-42c9-aa2b-f221c1d06fed',
     'Sira',
     'language',
     NULL,
@@ -1242,7 +1242,7 @@ VALUES
     NOW()
   ),
   (
-    '7ce5b694-d00b-4b4b-b13b-1fac93303244',
+    'ac580156-e8ea-4d2e-99d8-7a094018a280',
     'Malawi Sena',
     'language',
     NULL,
@@ -1250,7 +1250,7 @@ VALUES
     NOW()
   ),
   (
-    '14c5ec3f-0831-4b10-9671-05e833129028',
+    'a2b5c241-3227-4589-9bd5-eca29fc351b8',
     'Swedish Sign Language',
     'language',
     NULL,
@@ -1258,7 +1258,7 @@ VALUES
     NOW()
   ),
   (
-    '9ed9a359-1544-472c-9c59-bacc0af10ebf',
+    '7c26c682-1daa-4a9f-a781-f3f27105c1e7',
     'Samosa',
     'language',
     NULL,
@@ -1266,7 +1266,7 @@ VALUES
     NOW()
   ),
   (
-    '8ff258ea-9e58-4a26-960f-18c4152ddeed',
+    '525d5e77-4f78-468e-9544-0f91ea6bbf3d',
     'Sawknah',
     'language',
     NULL,
@@ -1274,7 +1274,7 @@ VALUES
     NOW()
   ),
   (
-    '7f1562e6-827d-443d-a463-545e334357b8',
+    '50d37763-20a5-4f01-b82a-9baf1803292f',
     'Shanenawa',
     'language',
     NULL,
@@ -1282,7 +1282,7 @@ VALUES
     NOW()
   ),
   (
-    '035d8fcc-63d2-4615-82fa-269f060a70f1',
+    '9d063f80-ec01-478b-88db-21449781d62e',
     'Suau',
     'language',
     NULL,
@@ -1290,7 +1290,7 @@ VALUES
     NOW()
   ),
   (
-    '2968a260-1763-418b-a893-e698a25d17a0',
+    '4c61b441-b48b-46a1-a721-96c60284052c',
     'Sharwa',
     'language',
     NULL,
@@ -1298,7 +1298,7 @@ VALUES
     NOW()
   ),
   (
-    '8559e7f3-79b7-434b-ab2d-889f8881b1cc',
+    'c1505ad3-c572-4ac3-b67b-8e17f505e35e',
     'Saweru',
     'language',
     NULL,
@@ -1306,7 +1306,7 @@ VALUES
     NOW()
   ),
   (
-    '020fb433-7320-494d-9aa7-acae8daa7857',
+    '70d0d71d-5878-4237-a494-0da8b7905c64',
     'Seluwasan',
     'language',
     NULL,
@@ -1314,7 +1314,7 @@ VALUES
     NOW()
   ),
   (
-    '5bba96bb-976f-4c44-be7a-9ce2106153cd',
+    'e1ecabef-5de3-418a-9753-85deddd65dba',
     'Sawila',
     'language',
     NULL,
@@ -1322,7 +1322,7 @@ VALUES
     NOW()
   ),
   (
-    'a46c6347-3b14-451b-9282-664e64d86908',
+    '29289d9d-5789-420a-8117-366c54ccfc0c',
     'Suwawa',
     'language',
     NULL,
@@ -1330,15 +1330,15 @@ VALUES
     NOW()
   ),
   (
-    'da091a0f-0322-4806-9873-bd6bb00a30dd',
+    'ab632576-64c0-4947-a3c6-e413fd54f628',
     'Shekhawati',
     'language',
-    '04fd8c2a-35a0-484e-be8a-a13a80930478',
+    'd51b4e69-1d96-4351-b730-4bb6678e2b34',
     NOW(),
     NOW()
   ),
   (
-    'c29f4f45-68e4-49ef-8b17-bba70bb92626',
+    '88b5d2a1-a375-4d0b-8e2a-849b7ca51981',
     'Sowa',
     'language',
     NULL,
@@ -1346,7 +1346,7 @@ VALUES
     NOW()
   ),
   (
-    '31364b91-1b36-4c8e-a9ee-c15ea853b166',
+    'f6802432-60f1-49f9-9fa4-233fe93c60d3',
     'Suruahá',
     'language',
     NULL,
@@ -1354,7 +1354,7 @@ VALUES
     NOW()
   ),
   (
-    'e9e939d3-28d3-44c1-8583-21d561386a06',
+    '657ec92a-c5fb-4427-9d8b-ce16d878c41f',
     'Sarua',
     'language',
     NULL,
@@ -1362,7 +1362,7 @@ VALUES
     NOW()
   ),
   (
-    '4b6257ec-c6e9-48c0-8842-caac7245a523',
+    '2fdc9ca2-c0ea-495e-af4a-892a7c5aa11a',
     'Suba',
     'language',
     NULL,
@@ -1370,7 +1370,7 @@ VALUES
     NOW()
   ),
   (
-    '68861ba0-29cd-4105-bcd5-633cdbf7d7da',
+    'b06567e3-1067-41c5-ab65-99e607a998b4',
     'Sicanian',
     'language',
     NULL,
@@ -1378,7 +1378,7 @@ VALUES
     NOW()
   ),
   (
-    '417012b0-8348-49a4-9f0c-0d702ded7674',
+    '34464e5c-b642-465d-b1c8-95dd7e49eb9f',
     'Sighu',
     'language',
     NULL,
@@ -1386,7 +1386,7 @@ VALUES
     NOW()
   ),
   (
-    'fd83834b-35c9-41c6-bc08-2dd29a3fc350',
+    'c6ae0442-ab5b-4dc7-9c63-6f11ec4e23fc',
     'Shuhi',
     'language',
     NULL,
@@ -1394,7 +1394,7 @@ VALUES
     NOW()
   ),
   (
-    '3833ee6b-cd97-4305-b1eb-0c44006b470c',
+    '2dbcda7f-305d-4a7a-9519-6812209e22f8',
     'Southern Kalapuya',
     'language',
     NULL,
@@ -1402,7 +1402,7 @@ VALUES
     NOW()
   ),
   (
-    '11ca7807-99a6-43a6-84ff-8dbfb3280c2c',
+    'fd35dc1e-483d-4ccb-89ca-a69d763f8987',
     'Selian',
     'language',
     NULL,
@@ -1410,7 +1410,7 @@ VALUES
     NOW()
   ),
   (
-    '3dbb3823-ce93-4d6e-95bf-f9a17a27d81f',
+    '964aea37-d2cb-4661-90b6-aa1726601f3f',
     'Samre',
     'language',
     NULL,
@@ -1418,7 +1418,7 @@ VALUES
     NOW()
   ),
   (
-    'e968d1ca-c235-4289-a0de-1ccda89aaa06',
+    'a35ef412-3310-4572-9b72-cc5a370742df',
     'Sangir',
     'language',
     NULL,
@@ -1426,7 +1426,7 @@ VALUES
     NOW()
   ),
   (
-    '11c8b108-b1e3-4c24-849d-28508bf30411',
+    '16b4b0d7-f721-4cf4-94ff-8f5940cdb21f',
     'Sorothaptic',
     'language',
     NULL,
@@ -1434,7 +1434,7 @@ VALUES
     NOW()
   ),
   (
-    '25667d27-3c5c-450c-aaaf-76244c24c4d5',
+    '4b6a649b-06c6-4bf8-a4f8-97b79255fa44',
     'Saaroa',
     'language',
     NULL,
@@ -1442,7 +1442,7 @@ VALUES
     NOW()
   ),
   (
-    '56d50366-aa1f-47e9-a439-ceab2a102c15',
+    '409f5d4a-5022-4a69-81a7-c19ee518350f',
     'Sasaru',
     'language',
     NULL,
@@ -1450,7 +1450,7 @@ VALUES
     NOW()
   ),
   (
-    '90a43df2-b287-41f7-86c9-fe1619d182d2',
+    '02b5b610-b93a-4827-b0c6-832d874f5957',
     'Upper Saxon',
     'language',
     NULL,
@@ -1458,7 +1458,7 @@ VALUES
     NOW()
   ),
   (
-    '28da3a2c-40ec-4007-a47a-a883f71449ee',
+    '7cbf89e0-dee6-4c98-8fea-46e8c8bf66a7',
     'Saxwe Gbe',
     'language',
     NULL,
@@ -1466,7 +1466,7 @@ VALUES
     NOW()
   ),
   (
-    '2e8b3544-c548-41e1-b448-5f98865647b8',
+    '706ae819-227f-4f47-801e-fa494a6097fa',
     'Siang',
     'language',
     NULL,
@@ -1474,7 +1474,7 @@ VALUES
     NOW()
   ),
   (
-    '35d9ff05-f571-49b9-873d-826525c16e81',
+    '8d1d0115-9a3a-49ce-a24f-2f5e7e3e911a',
     'Central Subanen',
     'language',
     NULL,
@@ -1482,7 +1482,7 @@ VALUES
     NOW()
   ),
   (
-    '39320a1d-ab88-4f87-a371-ef059c12370f',
+    '0ae176a2-0a14-4b23-ab31-05bbd4777f4b',
     'Classical Syriac',
     'language',
     NULL,
@@ -1490,7 +1490,7 @@ VALUES
     NOW()
   ),
   (
-    '955f8534-a700-42df-96fc-d6057907638b',
+    'bcdc6248-5ad2-491b-89fe-e65b489e1286',
     'Seki',
     'language',
     NULL,
@@ -1498,7 +1498,7 @@ VALUES
     NOW()
   ),
   (
-    'a5cf624e-64d9-4a30-9a63-5164c5396fa8',
+    '19d53914-c728-4f44-8a46-606c0ff1106f',
     'Sukur',
     'language',
     NULL,
@@ -1506,7 +1506,7 @@ VALUES
     NOW()
   ),
   (
-    '8d8aa041-a1a2-4433-be91-d88369022489',
+    '6635bf27-d696-4758-a3fa-2507598a2cba',
     'Sylheti',
     'language',
     NULL,
@@ -1514,7 +1514,7 @@ VALUES
     NOW()
   ),
   (
-    'db8a68e6-a712-408c-82f5-918c0a3b9820',
+    '62691c1b-c8a7-463b-bcf6-796f07ee8aaf',
     'Maya Samo',
     'language',
     NULL,
@@ -1522,7 +1522,7 @@ VALUES
     NOW()
   ),
   (
-    '91b13350-e7e9-43c1-9d6f-0ecd1777df69',
+    '5d223f71-6da7-4966-8ed1-c963cc46cd5c',
     'Senaya',
     'language',
     NULL,
@@ -1530,7 +1530,7 @@ VALUES
     NOW()
   ),
   (
-    '99038184-5a45-4eda-b8c3-f26945a4020f',
+    '9c853066-733f-459e-8387-151797273707',
     'Suoy',
     'language',
     NULL,
@@ -1538,7 +1538,7 @@ VALUES
     NOW()
   ),
   (
-    '5f5adfa5-e073-4f72-b7a9-e7b9885ab3dc',
+    'd4176a83-e6f7-4eea-9b16-9382a7600ad5',
     'Syriac',
     'family',
     NULL,
@@ -1546,7 +1546,7 @@ VALUES
     NOW()
   ),
   (
-    '798ba492-35db-462e-9b4b-3bc9572b33c3',
+    '85ab1d82-5314-4d83-86f6-f14cb487c127',
     'Sinyar',
     'language',
     NULL,
@@ -1554,7 +1554,7 @@ VALUES
     NOW()
   ),
   (
-    '91d86306-58f6-438c-89b4-8e5162ed9f6f',
+    '724b6585-9f6f-44b3-ad5c-89412b416ee9',
     'Kagate',
     'language',
     NULL,
@@ -1562,7 +1562,7 @@ VALUES
     NOW()
   ),
   (
-    'a012b5b4-2077-44ef-9143-77c82e7666d3',
+    'ed3f6b0d-a9ce-4491-a93f-394c41f4cc5e',
     'Samay',
     'language',
     NULL,
@@ -1570,7 +1570,7 @@ VALUES
     NOW()
   ),
   (
-    '514c413e-77df-4486-a1cd-7e8711c2c1bf',
+    '2b536b9a-51f2-4b49-9665-938997fe0fc7',
     'Al-Sayyid Bedouin Sign Language',
     'language',
     NULL,
@@ -1578,7 +1578,7 @@ VALUES
     NOW()
   ),
   (
-    '7b8d3fa6-efe7-4997-8403-b7f7f22029ad',
+    'e82a88ff-2c6d-4ee7-92d3-672c9a9dbbd7',
     'Semelai',
     'language',
     NULL,
@@ -1586,7 +1586,7 @@ VALUES
     NOW()
   ),
   (
-    '0d10d35d-7c61-438d-9a2b-3b9bab52e3a7',
+    '6244df53-055b-40c4-9bd6-441d3f120b91',
     'Ngalum',
     'language',
     NULL,
@@ -1594,7 +1594,7 @@ VALUES
     NOW()
   ),
   (
-    '2d5d05a1-ece5-4d69-a4f8-8f4e2cb34030',
+    '8df978ca-f45b-4be9-bfe8-f98df8642615',
     'Semaq Beri',
     'language',
     NULL,
@@ -1602,7 +1602,7 @@ VALUES
     NOW()
   ),
   (
-    '988eb45b-734a-4a81-b582-40920d7747bb',
+    '0bf21409-80f0-48c1-ab9b-ab5be652cb37',
     'Seze',
     'language',
     NULL,
@@ -1610,7 +1610,7 @@ VALUES
     NOW()
   ),
   (
-    'e836796b-3e4c-450a-b0d0-031b8d0c504a',
+    'a48be450-3776-4373-83f7-93b32b86f70d',
     'Sengele',
     'language',
     NULL,
@@ -1618,7 +1618,7 @@ VALUES
     NOW()
   ),
   (
-    'bdd0c65a-1532-454a-a692-6d138b0875a9',
+    '34c0f856-2946-4154-9d4e-230c871e4cfd',
     'Silesian',
     'language',
     NULL,
@@ -1626,7 +1626,7 @@ VALUES
     NOW()
   ),
   (
-    '71da719f-57bc-4df7-82b2-ed1657fd624e',
+    '11a59f10-2590-472a-8f16-310b73ec553c',
     'Sula',
     'language',
     NULL,
@@ -1634,7 +1634,7 @@ VALUES
     NOW()
   ),
   (
-    '20eb01d9-2d19-4f23-af08-e564b79cb93b',
+    '6961b7d4-cf1f-4ecc-bfd2-656871278ee5',
     'Suabo',
     'language',
     NULL,
@@ -1642,7 +1642,7 @@ VALUES
     NOW()
   ),
   (
-    'da40703d-63a3-4605-afea-925eba71c901',
+    'c6a4b435-b07b-474b-9b44-0e28bd2db506',
     'Solomon Islands Sign Language',
     'language',
     NULL,
@@ -1650,7 +1650,7 @@ VALUES
     NOW()
   ),
   (
-    'fd8bdee7-39d8-4a50-be5f-6cec0d9e8912',
+    '77a528a7-3a21-45d6-9f1a-f6ad95e03bde',
     'Isu (Fako Division)',
     'language',
     NULL,
@@ -1658,7 +1658,7 @@ VALUES
     NOW()
   ),
   (
-    '81a391a8-9baf-4e95-aa38-e08314ef97e6',
+    '92a053c8-a07f-4da6-baca-cc336ce6b397',
     'Sawai',
     'language',
     NULL,
@@ -1666,7 +1666,7 @@ VALUES
     NOW()
   ),
   (
-    '35021b53-3ed6-47ad-a03e-7944ca94a603',
+    '6766b308-3b8d-4ef4-84d9-93f119ed0901',
     'Sakizaya',
     'language',
     NULL,
@@ -1674,7 +1674,7 @@ VALUES
     NOW()
   ),
   (
-    '49af7e0c-ca35-48f0-a887-9aaadde242a4',
+    'efbe718f-5de6-40e7-9a97-e4b45635f240',
     'Lower Tanana',
     'language',
     NULL,
@@ -1682,7 +1682,7 @@ VALUES
     NOW()
   ),
   (
-    '7ceea19b-c9ee-4508-a255-7bb050bb1184',
+    '248b5bd7-69c0-4d0d-8bda-2a5247671071',
     'Tabassaran',
     'language',
     NULL,
@@ -1690,7 +1690,7 @@ VALUES
     NOW()
   ),
   (
-    '5f1ffb0f-3906-48f3-9b2c-b5874c4ab13f',
+    'b2aee20e-8079-4354-8360-37321e1344c0',
     'Lowland Tarahumara',
     'language',
     NULL,
@@ -1698,7 +1698,7 @@ VALUES
     NOW()
   ),
   (
-    '1bff6013-154e-4f98-967b-eb2fcdac7b9a',
+    '36d975a4-9b89-4cef-9fc8-b8b0382a619d',
     'Tause',
     'language',
     NULL,
@@ -1706,7 +1706,7 @@ VALUES
     NOW()
   ),
   (
-    '7547c254-dd1c-4611-a8a0-b8c57e0dd33f',
+    'ed164f73-7a28-499a-b57d-692c45d30d1f',
     'Tariana',
     'language',
     NULL,
@@ -1714,7 +1714,7 @@ VALUES
     NOW()
   ),
   (
-    'f4914df5-3374-4d14-9e05-a2c7454f251f',
+    '9beb3301-ede8-4800-bb55-c1a4b94e246a',
     'Tapirapé',
     'language',
     NULL,
@@ -1722,7 +1722,7 @@ VALUES
     NOW()
   ),
   (
-    'a3c0ddf3-b629-4018-a488-e9f796df5936',
+    '7e2ae06f-dfb6-4afb-a76c-5af039f1333c',
     'Tagoi',
     'language',
     NULL,
@@ -1730,7 +1730,7 @@ VALUES
     NOW()
   ),
   (
-    'b7baafa1-20c3-4653-b563-5e92e2c9bac5',
+    '894e4959-93a5-436b-a5a7-9927332d363e',
     'Tahitian',
     'language',
     NULL,
@@ -1738,7 +1738,7 @@ VALUES
     NOW()
   ),
   (
-    '3cce79ee-999a-446c-ae28-58d7cacb52a9',
+    '5cb0ffe0-3131-49b2-a363-de715bcaae95',
     'Eastern Tamang',
     'language',
     NULL,
@@ -1746,7 +1746,7 @@ VALUES
     NOW()
   ),
   (
-    '152e95ef-8d1a-4b81-bdd9-9ddd84064397',
+    'c9b8f756-f12d-4e48-bd48-869af4ec25dc',
     'Tala',
     'language',
     NULL,
@@ -1754,7 +1754,7 @@ VALUES
     NOW()
   ),
   (
-    'a7a01ef7-67d9-4fe6-94fa-8220c27d3667',
+    '759ee6d7-16ed-4981-bdc2-a2c610ca780a',
     'Tal',
     'language',
     NULL,
@@ -1762,7 +1762,7 @@ VALUES
     NOW()
   ),
   (
-    '9d0991c8-cb1d-4bef-be36-33672f737a2d',
+    '7a126638-9895-44ab-9737-024bbb8bc0c5',
     'Tamil',
     'language',
     NULL,
@@ -1770,7 +1770,7 @@ VALUES
     NOW()
   ),
   (
-    '3877df28-b220-4ebd-b141-83d229f11d61',
+    '9f231055-8f16-4549-8a5a-3e4f563ebc1e',
     'Tangale',
     'language',
     NULL,
@@ -1778,7 +1778,7 @@ VALUES
     NOW()
   ),
   (
-    '526f9e4d-6a80-424f-817f-a1293b7f4fa9',
+    '7a7ac884-c437-4c6c-9839-01885178aed9',
     'Yami',
     'language',
     NULL,
@@ -1786,7 +1786,7 @@ VALUES
     NOW()
   ),
   (
-    'e3e23c6b-6ba9-4fc7-a4e9-391f7a74820e',
+    '9c7bb848-cad2-4d48-aa4d-221e8313518b',
     'Taabwa',
     'language',
     NULL,
@@ -1794,15 +1794,15 @@ VALUES
     NOW()
   ),
   (
-    'ac0e7ce4-3318-4a3e-bf6c-0a28523322d9',
+    '474fffac-5f33-403f-a018-5bec0167da80',
     'Tamasheq',
     'language',
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     NOW(),
     NOW()
   ),
   (
-    'c81e5858-26cd-47b1-a7f8-6bdb12ec638b',
+    'b85ba8fb-b21e-4c9f-a02e-9fba50ce3d07',
     'Central Tarahumara',
     'language',
     NULL,
@@ -1810,7 +1810,7 @@ VALUES
     NOW()
   ),
   (
-    '65fad9be-1b25-4673-9400-7f083f6f1b97',
+    'd1ef085a-13e0-49ed-8d34-ded224a91b85',
     'Tay Boi',
     'language',
     NULL,
@@ -1818,7 +1818,7 @@ VALUES
     NOW()
   ),
   (
-    'cd37eee0-9cf0-48c7-913f-5db5963a6730',
+    '8004084f-4f47-48ac-be17-ddc46d86421e',
     'Tatar',
     'language',
     NULL,
@@ -1826,7 +1826,7 @@ VALUES
     NOW()
   ),
   (
-    '7e64f94f-4a4c-4b48-8208-b7ba7efeb0f1',
+    '0dc07922-e07f-4af3-81c1-e2ea06f2e69e',
     'Upper Tanana',
     'language',
     NULL,
@@ -1834,7 +1834,7 @@ VALUES
     NOW()
   ),
   (
-    '0977f632-636c-4e69-8bf4-8b84e99d6add',
+    '86853383-57da-4098-9fc1-edcb4864778a',
     'Tatuyo',
     'language',
     NULL,
@@ -1842,7 +1842,7 @@ VALUES
     NOW()
   ),
   (
-    '5ef75579-9ec9-49e6-92cc-0c63799c8e44',
+    'df187de3-0454-475a-a2f4-1204757ecbd7',
     'Tai',
     'language',
     NULL,
@@ -1850,7 +1850,7 @@ VALUES
     NOW()
   ),
   (
-    'ba60f5f1-7559-463c-866b-c7161cdf9085',
+    'fbed2b56-73ae-46f9-a5b2-e6e5aeee0a1a',
     'Tamki',
     'language',
     NULL,
@@ -1858,7 +1858,7 @@ VALUES
     NOW()
   ),
   (
-    'e73120b0-0dfd-49da-bff3-9f46b7119679',
+    '21a45287-1127-4994-bbc6-41a39e1d0078',
     'Atayal',
     'language',
     NULL,
@@ -1866,7 +1866,7 @@ VALUES
     NOW()
   ),
   (
-    '6d15039a-36f7-4e1e-84e3-4eca933a0e3c',
+    '9b742965-adfc-4cff-9d3f-a126a4a25e7b',
     'Tocho',
     'language',
     NULL,
@@ -1874,7 +1874,7 @@ VALUES
     NOW()
   ),
   (
-    'a882756e-f4f8-43bb-b03c-4d6fbbc912bd',
+    '6eed479f-65d4-446b-9037-16a419e05bd6',
     'Aikanã',
     'language',
     NULL,
@@ -1882,7 +1882,7 @@ VALUES
     NOW()
   ),
   (
-    '30c5634b-bb06-4f8c-a729-32b1e03de6e9',
+    '2a2e3563-5662-41bb-a8af-5463dcae234c',
     'Takia',
     'language',
     NULL,
@@ -1890,7 +1890,7 @@ VALUES
     NOW()
   ),
   (
-    'f73468c9-61ad-45c6-a616-19abe222d5ae',
+    '2d6fd964-39fd-4705-a27b-eb352b1f3414',
     'Kaki Ae',
     'language',
     NULL,
@@ -1898,7 +1898,7 @@ VALUES
     NOW()
   ),
   (
-    'e0d10bef-52f3-4ec4-8f93-07f20044f9de',
+    '90c37238-2e2f-40fc-915d-987a88d388ec',
     'Tanimbili',
     'language',
     NULL,
@@ -1906,7 +1906,7 @@ VALUES
     NOW()
   ),
   (
-    '80bc77af-427e-44ec-9f0f-d3d15e3a4807',
+    '191c078a-a25c-495a-8fad-3f19d0d4593a',
     'Mandara',
     'language',
     NULL,
@@ -1914,7 +1914,7 @@ VALUES
     NOW()
   ),
   (
-    '80add076-c489-4eb5-a184-8501c20f21bc',
+    '746093aa-d53e-4bde-a523-c2ebe87bb44d',
     'North Tairora',
     'language',
     NULL,
@@ -1922,7 +1922,7 @@ VALUES
     NOW()
   ),
   (
-    '70b53fd6-4700-4290-a4ff-727b72609ab3',
+    '77edecfc-6670-4580-b06b-8623270abc08',
     'Dharawal',
     'language',
     NULL,
@@ -1930,7 +1930,7 @@ VALUES
     NOW()
   ),
   (
-    'c24bcf48-caaf-4719-925d-df8de8de4ed8',
+    'cb70b796-7950-47bf-94e3-43b00dc96b77',
     'Gaam',
     'language',
     NULL,
@@ -1938,7 +1938,7 @@ VALUES
     NOW()
   ),
   (
-    'b764266e-db3b-48ab-b03f-858efab9caa3',
+    'cf0bced7-70d9-4916-a61c-51de84bd55a0',
     'Tiang',
     'language',
     NULL,
@@ -1946,7 +1946,7 @@ VALUES
     NOW()
   ),
   (
-    '27c9ab48-0042-4762-be69-c87c8eab9701',
+    '92c0f5ca-867e-4787-9373-7705d87ca3cd',
     'Calamian Tagbanwa',
     'language',
     NULL,
@@ -1954,7 +1954,7 @@ VALUES
     NOW()
   ),
   (
-    '8cc64587-52fb-4052-ad27-ab84ff16c8b5',
+    '42db9df7-7108-43d1-8d49-9766ddf90513',
     'Tboli',
     'language',
     NULL,
@@ -1962,7 +1962,7 @@ VALUES
     NOW()
   ),
   (
-    'da63088c-76be-4c4f-94ce-8ed2de4564ca',
+    'd4517ae4-83be-44f3-b54f-d29b16311a0a',
     'Tagbu',
     'language',
     NULL,
@@ -1970,7 +1970,7 @@ VALUES
     NOW()
   ),
   (
-    '23b9c3b3-0650-4ad6-a77f-46a3027e2e14',
+    'f44d7c41-4721-47c2-abea-50ee5439b0bf',
     'Barro Negro Tunebo',
     'language',
     NULL,
@@ -1978,7 +1978,7 @@ VALUES
     NOW()
   ),
   (
-    '5f6ceeb7-ed00-4a49-a916-177970411f01',
+    '0117c212-e169-4b7a-ab45-0dd18828b32f',
     'Tawala',
     'language',
     NULL,
@@ -1986,7 +1986,7 @@ VALUES
     NOW()
   ),
   (
-    'b076008e-0655-44fc-89b9-33634df959d9',
+    'e1c46b52-b148-4a0f-92ff-13bbeb541838',
     'Taworta',
     'language',
     NULL,
@@ -1994,7 +1994,7 @@ VALUES
     NOW()
   ),
   (
-    'caa754d6-d4eb-4709-9dff-1a4ffc9a92cc',
+    'a2d59230-e3a6-4e02-bb62-55657ecca860',
     'Tumtum',
     'language',
     NULL,
@@ -2002,7 +2002,7 @@ VALUES
     NOW()
   ),
   (
-    '415089f6-28ea-4733-90e3-1b8ce9c70e71',
+    '364babfc-c44a-4efb-af6d-324d6d29c98d',
     'Tanguat',
     'language',
     NULL,
@@ -2010,7 +2010,7 @@ VALUES
     NOW()
   ),
   (
-    'c6acb122-eb21-480d-a480-e5f3dd701622',
+    'd7fea808-83ee-411e-8476-3589bf1c2744',
     'Tembo (Kitembo)',
     'language',
     NULL,
@@ -2018,7 +2018,7 @@ VALUES
     NOW()
   ),
   (
-    '2f31ac4d-fc49-42e7-894e-8aea15b3b968',
+    'eb09be6d-cbfa-4621-8974-fb2083e79918',
     'Tubar',
     'language',
     NULL,
@@ -2026,7 +2026,7 @@ VALUES
     NOW()
   ),
   (
-    '30849bc4-ad8e-43d1-bfbf-47f334e99acc',
+    '169b5270-cf9a-4fe2-b7c7-8b2f7fa0642a',
     'Tobo',
     'language',
     NULL,
@@ -2034,7 +2034,7 @@ VALUES
     NOW()
   ),
   (
-    '3135c37b-a064-4f87-a310-36903c5e88eb',
+    '21a418a0-614d-42ed-a11a-8f55f8258532',
     'Tagbanwa',
     'language',
     NULL,
@@ -2042,7 +2042,7 @@ VALUES
     NOW()
   ),
   (
-    '23acd5f7-b6ab-4d49-b1c4-a6610444bcb9',
+    '21c945f2-b7f4-4205-ba75-9286dc49d487',
     'Kapin',
     'language',
     NULL,
@@ -2050,7 +2050,7 @@ VALUES
     NOW()
   ),
   (
-    '2f05a7b8-3767-4806-8f82-680fe33f2b7d',
+    '74096c93-1513-4361-8398-7aad02f7d6c9',
     'Tabaru',
     'language',
     NULL,
@@ -2058,7 +2058,7 @@ VALUES
     NOW()
   ),
   (
-    'a4789b1b-9b12-4c3c-ae5c-0fb14817240b',
+    'fb244fe8-63d3-4382-bcd8-06be8c90a5ea',
     'Ditammari',
     'language',
     NULL,
@@ -2066,7 +2066,7 @@ VALUES
     NOW()
   ),
   (
-    'fcb7136f-4600-4482-bbbf-fb9949bb61e2',
+    'd43dcf5a-899d-4fcd-949b-e9497658d70e',
     'Ticuna',
     'language',
     NULL,
@@ -2074,7 +2074,7 @@ VALUES
     NOW()
   ),
   (
-    '728b25d0-6633-4152-9440-976744b394a8',
+    '9fc03022-1501-4085-b728-9e926e0b3a5b',
     'Tanacross',
     'language',
     NULL,
@@ -2082,7 +2082,7 @@ VALUES
     NOW()
   ),
   (
-    '7fcff8bf-a2d8-4014-aeb4-25e652f133c7',
+    '6c2ae09a-1e63-4938-a267-c71065ab822a',
     'Datooga',
     'language',
     NULL,
@@ -2090,7 +2090,7 @@ VALUES
     NOW()
   ),
   (
-    'f95caddd-afec-4c13-934f-b7af7ecd389d',
+    '938f1371-3bbe-41df-8940-1c047cc53f5a',
     'Tafi',
     'language',
     NULL,
@@ -2098,7 +2098,7 @@ VALUES
     NOW()
   ),
   (
-    'cc4d2130-93ab-4972-b187-d3562e3999ed',
+    'dfff516d-abaf-49e5-bd5c-8cc81aa72971',
     'Southern Tutchone',
     'language',
     NULL,
@@ -2106,7 +2106,7 @@ VALUES
     NOW()
   ),
   (
-    '1bce4801-5da9-4ea7-a0a5-3b6e6fff9b09',
+    '104159e7-f5a4-4aac-bee1-cefc4bcc1cff',
     'Malinaltepec Me''phaa',
     'language',
     NULL,
@@ -2114,7 +2114,7 @@ VALUES
     NOW()
   ),
   (
-    'eebfbe46-6860-4553-ac07-65be6757da99',
+    '140c6d0b-919e-42d6-8ad8-7696706e4bb9',
     'Tamagario',
     'language',
     NULL,
@@ -2122,7 +2122,7 @@ VALUES
     NOW()
   ),
   (
-    'ee158655-5d71-4bc6-a5cd-cb7dcdc74b1c',
+    '4de7e833-0896-424f-99d6-213a14841731',
     'Turks And Caicos Creole English',
     'language',
     NULL,
@@ -2130,7 +2130,7 @@ VALUES
     NOW()
   ),
   (
-    'c9c6580c-9ae7-4bbe-9cf8-e5bae3ca6498',
+    '821a8212-d203-432d-8f2c-ce0bb45a8783',
     'Wára',
     'language',
     NULL,
@@ -2138,7 +2138,7 @@ VALUES
     NOW()
   ),
   (
-    'e0d07bf8-89a3-4801-936f-2b3386ac165d',
+    'bfa3c3c3-c090-479f-9a50-1a462beeb92a',
     'Tchitchege',
     'language',
     NULL,
@@ -2146,7 +2146,7 @@ VALUES
     NOW()
   ),
   (
-    '4ac85026-8f41-452a-8ca7-69f58f93dffb',
+    'f83d76e1-42b5-4094-aba4-2cb6a81332bc',
     'Taman (Myanmar)',
     'language',
     NULL,
@@ -2154,7 +2154,7 @@ VALUES
     NOW()
   ),
   (
-    '7ed47655-9696-477f-804c-7000db1bf7a6',
+    '80f09e9f-ba4d-4d03-9b06-e5f7963e458c',
     'Tanahmerah',
     'language',
     NULL,
@@ -2162,7 +2162,7 @@ VALUES
     NOW()
   ),
   (
-    'f86e5df3-f9f9-4898-a2ad-3f4d6fbbad84',
+    '91ea97e7-4cc4-4382-bb33-56c251d91545',
     'Tichurong',
     'language',
     NULL,
@@ -2170,7 +2170,7 @@ VALUES
     NOW()
   ),
   (
-    'b1d4b3db-69e7-4e51-b673-46bec98b3950',
+    'cbeba4b3-2a3f-4c2d-82da-e0edd92bd645',
     'Taungyo',
     'language',
     NULL,
@@ -2178,7 +2178,7 @@ VALUES
     NOW()
   ),
   (
-    '1183a020-dc62-496d-9255-374326564f86',
+    '6ce2380d-f222-4b53-9b60-7974119ed5e5',
     'Tawr Chin',
     'language',
     NULL,
@@ -2186,7 +2186,7 @@ VALUES
     NOW()
   ),
   (
-    '521a40ea-19ba-467a-9998-c522dd4ee0c2',
+    '3b3c5c97-3da6-4857-b45b-3387ce87c28b',
     'Kaiy',
     'language',
     NULL,
@@ -2194,7 +2194,7 @@ VALUES
     NOW()
   ),
   (
-    'f0807322-4874-4d41-a79f-5dddf4dd4316',
+    'db7b3c2b-b8db-4e07-9491-cb3b4be8cb42',
     'Torres Strait Creole',
     'language',
     NULL,
@@ -2202,7 +2202,7 @@ VALUES
     NOW()
   ),
   (
-    'ccd9a802-d7d3-4c27-910c-6ec2891893b3',
+    'ddb8d8ee-2956-47b9-8466-6bcaad45df6c',
     'T''en',
     'language',
     NULL,
@@ -2210,7 +2210,7 @@ VALUES
     NOW()
   ),
   (
-    '32d7af24-e58b-410c-bc24-a38d86b944a7',
+    '2067a7f7-c524-4ce7-b699-928e84b764d9',
     'Southeastern Tarahumara',
     'language',
     NULL,
@@ -2218,7 +2218,7 @@ VALUES
     NOW()
   ),
   (
-    '6309d74d-b0c8-4bb5-b249-2d5a4f49e404',
+    '46e944a3-d293-4d52-b855-7d36a68ba357',
     'Tecpatlán Totonac',
     'language',
     NULL,
@@ -2226,7 +2226,7 @@ VALUES
     NOW()
   ),
   (
-    '34840ce5-f2d1-4294-9009-3c5db3702305',
+    '85505489-bb9c-4a3a-a521-8af713bd21ff',
     'Toda',
     'language',
     NULL,
@@ -2234,7 +2234,7 @@ VALUES
     NOW()
   ),
   (
-    '3c551f39-791d-4f71-a7d9-be375491a3c5',
+    '1212cd55-2f04-43af-b208-7b804c47bd9d',
     'Tulu',
     'language',
     NULL,
@@ -2242,7 +2242,7 @@ VALUES
     NOW()
   ),
   (
-    '57eb8543-7961-4bef-82f6-d3533414e484',
+    'b961aadc-f3bb-4d22-acc7-f3c80dca5720',
     'Thado Chin',
     'language',
     NULL,
@@ -2250,7 +2250,7 @@ VALUES
     NOW()
   ),
   (
-    '3a021bc8-7436-4f8d-b1f2-3fd5df6c2a6e',
+    'cc1471d2-62f5-4bbf-9368-0dcd3fbf8008',
     'Tagdal',
     'language',
     NULL,
@@ -2258,7 +2258,7 @@ VALUES
     NOW()
   ),
   (
-    'f56efa10-c055-442b-a439-dfac64c0ce9e',
+    '4bb128f5-7fa9-4cb6-8667-eb519473ce9b',
     'Panchpargania',
     'language',
     NULL,
@@ -2266,7 +2266,7 @@ VALUES
     NOW()
   ),
   (
-    'b04ffa3b-62e3-4ce9-bf5d-7274ad45f369',
+    'ad8d0015-6d23-4c3e-b98b-60e30292b11a',
     'Emberá-Tadó',
     'language',
     NULL,
@@ -2274,7 +2274,7 @@ VALUES
     NOW()
   ),
   (
-    '6dbf2abc-33bb-4863-a2c7-3489afe4af56',
+    'bb78d738-5205-42f1-88fc-dc80016ae20c',
     'Tai Nüa',
     'language',
     NULL,
@@ -2282,7 +2282,7 @@ VALUES
     NOW()
   ),
   (
-    'a9734df4-3add-41ff-8165-2ba4ccacc43c',
+    'db416ae5-3cf7-4a64-ba90-f3185397d623',
     'Tiranige Diga Dogon',
     'language',
     NULL,
@@ -2290,7 +2290,7 @@ VALUES
     NOW()
   ),
   (
-    'f2b4911c-b809-4181-a43e-d19b40c6aa60',
+    '12c22d31-5a16-44d4-afb3-84cc89f73395',
     'Talieng',
     'language',
     NULL,
@@ -2298,7 +2298,7 @@ VALUES
     NOW()
   ),
   (
-    '9b7fad05-0b2d-4f6c-a94f-1fa72038e616',
+    'aad29523-2879-4a82-9988-19fab19fe6c1',
     'Western Tamang',
     'language',
     NULL,
@@ -2306,7 +2306,7 @@ VALUES
     NOW()
   ),
   (
-    '1a729df5-6723-4401-b3e4-1d40b10376e0',
+    'a8d3f51e-0438-4582-a365-de2daa665f9b',
     'Thulung',
     'language',
     NULL,
@@ -2314,7 +2314,7 @@ VALUES
     NOW()
   ),
   (
-    'bb71f727-7da5-481e-bb1c-9a73323f1516',
+    '86cb518b-0ae0-4cc1-93f4-e6aafe68e880',
     'Tomadino',
     'language',
     NULL,
@@ -2322,7 +2322,7 @@ VALUES
     NOW()
   ),
   (
-    '36d8bc54-9478-42af-98ac-00d0f6af5ead',
+    '7dfc051a-74d8-4eae-9192-fe29e82e87e3',
     'Tajio',
     'language',
     NULL,
@@ -2330,7 +2330,7 @@ VALUES
     NOW()
   ),
   (
-    'e53b8af3-fd99-49d6-af13-b9173a07f275',
+    'e241ccac-9069-4202-a18e-5422da3ded96',
     'Tambas',
     'language',
     NULL,
@@ -2338,7 +2338,7 @@ VALUES
     NOW()
   ),
   (
-    '5ca3ef59-1b2b-460d-bdb5-e520537864b0',
+    '7aa05a3e-97f6-4ff5-a2ee-a06f1f3fa7a2',
     'Sur',
     'language',
     NULL,
@@ -2346,7 +2346,7 @@ VALUES
     NOW()
   ),
   (
-    'f149c16f-e26e-4ff5-b618-f12249f373a6',
+    '16983d6a-5cca-4541-be39-6a4d7e94619d',
     'Taruma',
     'language',
     NULL,
@@ -2354,7 +2354,7 @@ VALUES
     NOW()
   ),
   (
-    '41679b94-eb84-49cc-aeb4-93aad22806e7',
+    'a17cd691-71ff-49e3-a8b9-9d63377a73f2',
     'Tondano',
     'language',
     NULL,
@@ -2362,7 +2362,7 @@ VALUES
     NOW()
   ),
   (
-    'bf02603a-80b4-431a-88d9-2c10c129f207',
+    '4e2242b3-8d18-4e65-b352-1ac6a5780dbf',
     'Teme',
     'language',
     NULL,
@@ -2370,7 +2370,7 @@ VALUES
     NOW()
   ),
   (
-    'a4b60b74-3f3c-4ab9-8d1d-76d0a38649a5',
+    '6f7ee90c-7b9e-46d8-965b-0b5250794e82',
     'Tita',
     'language',
     NULL,
@@ -2378,7 +2378,7 @@ VALUES
     NOW()
   ),
   (
-    'd3fbb074-f6f6-4497-9d6a-baf3e85c7099',
+    '7d1d569d-fc40-4d19-abe8-5de06e8b83f9',
     'Todrah',
     'language',
     NULL,
@@ -2386,7 +2386,7 @@ VALUES
     NOW()
   ),
   (
-    '2d8462d7-3f4e-4ef1-996c-71e85ed5d47f',
+    '4df8ace8-a284-4de1-9171-59622be2b8af',
     'Doutai',
     'language',
     NULL,
@@ -2394,7 +2394,7 @@ VALUES
     NOW()
   ),
   (
-    '4be28829-2038-428f-8810-7c1b0c35bb4a',
+    '6d678f44-453b-4058-b88b-0fff25a4cd0e',
     'Tetun Dili',
     'language',
     NULL,
@@ -2402,7 +2402,7 @@ VALUES
     NOW()
   ),
   (
-    '9b079d46-3a18-47cc-802c-3ed13735997a',
+    '66eaaae4-bfdf-484a-92cb-067973458040',
     'Toro',
     'language',
     NULL,
@@ -2410,15 +2410,15 @@ VALUES
     NOW()
   ),
   (
-    '66276669-dc1e-4028-9194-f45184ea281f',
+    '63eedd83-bd3b-4b52-bf89-f570d280b871',
     'Tandroy-Mahafaly Malagasy',
     'language',
-    '2554ad73-2586-457b-9f00-00357a7cb807',
+    'befec57b-4d7e-4266-a8b7-54a97df49462',
     NOW(),
     NOW()
   ),
   (
-    '6f4927fa-a37e-44f2-a9e5-7e25d66871ba',
+    'e9e08898-eca1-45df-ac63-2dd73ad153b8',
     'Tadyawan',
     'language',
     NULL,
@@ -2426,7 +2426,7 @@ VALUES
     NOW()
   ),
   (
-    '8c81ef54-8d8d-4773-be2f-0073f3e3cbb1',
+    '6639d4af-1bce-4080-bbc9-8817b3044965',
     'Temiar',
     'language',
     NULL,
@@ -2434,7 +2434,7 @@ VALUES
     NOW()
   ),
   (
-    'e1a206ca-fce9-4375-a278-ffa90433c2b0',
+    'd1b01822-72a8-456a-bc3c-167558403317',
     'Tetete',
     'language',
     NULL,
@@ -2442,15 +2442,15 @@ VALUES
     NOW()
   ),
   (
-    'f130bca5-8044-4c79-a3ce-674e08791970',
+    'c2c1467d-146e-43f2-b64f-cb2a52d0d1b0',
     'Terik',
     'language',
-    '8c4ecf77-8cb7-4058-86c6-9e8a8b5ca563',
+    '54aa0ee5-0fe2-4d79-bc0a-034c56466a65',
     NOW(),
     NOW()
   ),
   (
-    '1ea2881c-99e7-4d52-b744-a8e71d4cb4b7',
+    '8bc20387-3f56-4967-83d1-ae65080857a6',
     'Tepo Krumen',
     'language',
     NULL,
@@ -2458,7 +2458,7 @@ VALUES
     NOW()
   ),
   (
-    '62707e42-ca9c-4f1f-965d-996bc73724a8',
+    '32d468c5-ffbe-41fb-af7e-450e0fc4ef3e',
     'Huehuetla Tepehua',
     'language',
     NULL,
@@ -2466,7 +2466,7 @@ VALUES
     NOW()
   ),
   (
-    '51c476a8-0040-4d0c-97ef-b35b584f2fb5',
+    '853f4877-c1a5-4213-9644-bf184273ced2',
     'Teressa',
     'language',
     NULL,
@@ -2474,7 +2474,7 @@ VALUES
     NOW()
   ),
   (
-    '535c2c2c-fc4d-4b9d-9637-bcde58be78e6',
+    'a363ed83-9e75-484d-889b-241c43de0b3f',
     'Teke-Tege',
     'language',
     NULL,
@@ -2482,7 +2482,7 @@ VALUES
     NOW()
   ),
   (
-    'e88ad7d3-c409-4f64-ab88-d0373a660fa8',
+    '13693df2-2631-49de-a040-14fcc740033e',
     'Tehuelche',
     'language',
     NULL,
@@ -2490,7 +2490,7 @@ VALUES
     NOW()
   ),
   (
-    'c645373d-d73d-495c-a47a-e0d0e7ce9df8',
+    '21f4c941-b9b6-418e-a40c-ddc8e8772f46',
     'Torricelli',
     'language',
     NULL,
@@ -2498,7 +2498,7 @@ VALUES
     NOW()
   ),
   (
-    'afbf39f2-f176-4967-97af-e593ce5edcd6',
+    '565e6aba-215d-471f-9d72-b26ed6dae29f',
     'Ibali Teke',
     'language',
     NULL,
@@ -2506,7 +2506,7 @@ VALUES
     NOW()
   ),
   (
-    '4656514b-e373-4ffa-9d1f-9321216017e7',
+    '0b0ab594-84da-45ef-9fa9-7a670b60ec50',
     'Telugu',
     'language',
     NULL,
@@ -2514,7 +2514,7 @@ VALUES
     NOW()
   ),
   (
-    'c489a025-3826-4e13-b2e9-81c8b4fb54b6',
+    '935a6ab2-8550-4c69-a4b7-015e3ad65c24',
     'Timne',
     'language',
     NULL,
@@ -2522,7 +2522,7 @@ VALUES
     NOW()
   ),
   (
-    'a5bb82e6-26d2-46dc-8908-be12edb18e70',
+    '66bb0107-e55e-4c3b-82d9-4ed0d5ca02ea',
     'Tama (Colombia)',
     'language',
     NULL,
@@ -2530,7 +2530,7 @@ VALUES
     NOW()
   ),
   (
-    'a580470a-8813-4303-9d46-ea0bbba154c8',
+    'f103f5cd-3e9e-4687-b709-a9da1b8ea2a0',
     'Teso',
     'language',
     NULL,
@@ -2538,7 +2538,7 @@ VALUES
     NOW()
   ),
   (
-    'd80f0f0a-57d9-4937-9a55-a00a215dee6e',
+    'ad0060c0-25ce-49ae-903e-68e77cb46d69',
     'Tepecano',
     'language',
     NULL,
@@ -2546,7 +2546,7 @@ VALUES
     NOW()
   ),
   (
-    '33f44118-7d70-4fb2-9486-c604d7028263',
+    '73cbf53a-6b4a-4f6a-9a37-b0f6e32450ff',
     'Temein',
     'language',
     NULL,
@@ -2554,7 +2554,7 @@ VALUES
     NOW()
   ),
   (
-    'da5880b0-737b-4a1f-a1a3-f3c615e9d5b6',
+    'db822890-10af-4174-88c8-1b320297fb39',
     'Tereno',
     'language',
     NULL,
@@ -2562,7 +2562,7 @@ VALUES
     NOW()
   ),
   (
-    '89a0d9ed-3738-4447-bffb-2dcdff18f699',
+    'c135b54f-85eb-4b1a-9583-107655f5f590',
     'Tengger',
     'language',
     NULL,
@@ -2570,7 +2570,7 @@ VALUES
     NOW()
   ),
   (
-    'e48c2576-bb0b-45be-8908-abb94d4c68f7',
+    '3c313fd2-a028-4af1-9931-56c9bbe5298e',
     'Tetum',
     'language',
     NULL,
@@ -2578,7 +2578,7 @@ VALUES
     NOW()
   ),
   (
-    '3d14852d-4ea4-4bc1-be10-e9964c5c4a89',
+    'ba2b6bad-24ac-47a6-a637-a2cc189fce94',
     'Soo',
     'language',
     NULL,
@@ -2586,7 +2586,7 @@ VALUES
     NOW()
   ),
   (
-    '6915fc68-3a69-442e-8fdf-9df92266a007',
+    'a53acb2c-889b-4fd3-9be9-0d671696ee36',
     'Teor',
     'language',
     NULL,
@@ -2594,7 +2594,7 @@ VALUES
     NOW()
   ),
   (
-    'b38272bb-6c06-4461-ad30-0f67fdc44f60',
+    '215ae1bd-c76a-477c-8759-74111404b811',
     'Tewa (USA)',
     'language',
     NULL,
@@ -2602,7 +2602,7 @@ VALUES
     NOW()
   ),
   (
-    'c69e0dfa-0b1f-45f8-a59e-21afb9266e69',
+    '76c4c673-ca13-4717-bc79-4c2be52bd559',
     'Tennet',
     'language',
     NULL,
@@ -2610,7 +2610,7 @@ VALUES
     NOW()
   ),
   (
-    '2c509185-6f24-4c3b-a0e9-7b5d62fb1d33',
+    'ffd31031-4403-49a3-8c1b-5d959134a3f4',
     'Tulishi',
     'language',
     NULL,
@@ -2618,7 +2618,7 @@ VALUES
     NOW()
   ),
   (
-    'a8a8066f-7e18-4833-9da3-fa6dc74758a7',
+    '30ea09ee-3206-4d56-9fb8-c5f7f9f0ac66',
     'Tetserret',
     'language',
     NULL,
@@ -2626,7 +2626,7 @@ VALUES
     NOW()
   ),
   (
-    '69c36d36-e9ce-4e62-83e2-267ee0b7a4ef',
+    '9e8af0d3-c865-42de-9b54-9bcb0c2d169c',
     'Tofin Gbe',
     'language',
     NULL,
@@ -2634,7 +2634,7 @@ VALUES
     NOW()
   ),
   (
-    'ca0ea2be-4a49-4790-a8ff-a691185f996b',
+    '2754d153-cac6-49e7-8548-01cea63d9f39',
     'Tanaina',
     'language',
     NULL,
@@ -2642,7 +2642,7 @@ VALUES
     NOW()
   ),
   (
-    'c1c18d1a-9712-41e2-bbc7-ce27aa11121c',
+    'da547940-b314-42ac-a9fc-8ab8114710ae',
     'Tefaro',
     'language',
     NULL,
@@ -2650,7 +2650,7 @@ VALUES
     NOW()
   ),
   (
-    '214b8177-b692-486d-ad53-484253533c09',
+    'fd8c0619-bc86-46ea-9662-709e831b9131',
     'Teribe',
     'language',
     NULL,
@@ -2658,7 +2658,7 @@ VALUES
     NOW()
   ),
   (
-    'dcc6a8ca-bdba-40c5-b1e5-8a94db377f93',
+    '3a04748c-ad55-4f40-a4c0-a5664a23605c',
     'Ternate',
     'language',
     NULL,
@@ -2666,7 +2666,7 @@ VALUES
     NOW()
   ),
   (
-    'bcb5f769-639a-4d77-b7a1-96647cc8411d',
+    'c7984b61-4b35-413c-b3d5-6a0eccc794fc',
     'Sagalla',
     'language',
     NULL,
@@ -2674,7 +2674,7 @@ VALUES
     NOW()
   ),
   (
-    '71df3654-78b0-4a2a-b7df-65954792238e',
+    'b7f1c8d4-1d05-4347-9573-c9c2f628ad30',
     'Tobilung',
     'language',
     NULL,
@@ -2682,7 +2682,7 @@ VALUES
     NOW()
   ),
   (
-    '679d09d1-7e37-4a75-8b7f-1952b1695892',
+    'efb5ab16-d7af-4cbf-9738-9200148b6466',
     'Tigak',
     'language',
     NULL,
@@ -2690,7 +2690,7 @@ VALUES
     NOW()
   ),
   (
-    '9333c6be-4d1a-4c15-838e-cfd3b61d1127',
+    '0b90dd30-22e5-4153-828d-7200d00e76de',
     'Ciwogai',
     'language',
     NULL,
@@ -2698,7 +2698,7 @@ VALUES
     NOW()
   ),
   (
-    '1035a5ee-b3ab-4771-8f22-2ff972bf3ef0',
+    '2a3bfb8d-e278-4067-b40a-633dec4cebf3',
     'Eastern Gorkha Tamang',
     'language',
     NULL,
@@ -2706,7 +2706,7 @@ VALUES
     NOW()
   ),
   (
-    '32c7b6fa-1371-47db-bf04-410f724ff6e3',
+    'db3036a6-f267-4b52-8b3e-f6b0c9f1798f',
     'Chalikha',
     'language',
     NULL,
@@ -2714,7 +2714,7 @@ VALUES
     NOW()
   ),
   (
-    'f9517263-9dea-4ce8-b57a-08a0d15c13b5',
+    'c139db65-5838-4ca2-8faa-7ea1f2029bab',
     'Tobagonian Creole English',
     'language',
     NULL,
@@ -2722,7 +2722,7 @@ VALUES
     NOW()
   ),
   (
-    'ea1211f7-aef5-47ca-a320-4c60fc4b20f7',
+    '2bd97eb0-2ae5-4293-add7-6418eb8ec061',
     'Lawunuia',
     'language',
     NULL,
@@ -2730,7 +2730,7 @@ VALUES
     NOW()
   ),
   (
-    '6a05eb4e-264c-4826-b9ee-fd6835ecc11f',
+    '637db695-f043-4a91-9697-b23e4061caf5',
     'Tagin',
     'language',
     NULL,
@@ -2738,7 +2738,7 @@ VALUES
     NOW()
   ),
   (
-    '3edbbb02-e4d5-49e6-a65e-9597fc08ba4f',
+    'fb07ef15-3dd2-4d75-bd39-6a908e552db8',
     'Tajik',
     'language',
     NULL,
@@ -2746,7 +2746,7 @@ VALUES
     NOW()
   ),
   (
-    '1521db15-131d-4ba5-ad5d-54ed1d461b44',
+    '9d223f50-f65a-4904-8a8c-1ba3ffaab64c',
     'Tagalog',
     'language',
     NULL,
@@ -2754,7 +2754,7 @@ VALUES
     NOW()
   ),
   (
-    '6ba6b7bd-b1cf-4563-9532-8ad369133e05',
+    'bb2ab97a-69b3-4591-8fd5-77e796fa441f',
     'Tandaganon',
     'language',
     NULL,
@@ -2762,7 +2762,7 @@ VALUES
     NOW()
   ),
   (
-    'd3c422c4-d113-40a6-8a4e-6822eb77f76b',
+    '5ed8cce5-47b9-4bf4-b6f2-fee9fcb74c78',
     'Sudest',
     'language',
     NULL,
@@ -2770,7 +2770,7 @@ VALUES
     NOW()
   ),
   (
-    '5239f03f-2cea-4fab-96a3-e409b4f2c42a',
+    '5775063f-edd1-4d2f-ab97-4d393dc58e0b',
     'Tangoa',
     'language',
     NULL,
@@ -2778,7 +2778,7 @@ VALUES
     NOW()
   ),
   (
-    '6165efab-3e83-4fcc-a0cf-4400562cf48c',
+    '02937fdb-9c6d-402f-a460-74c2f3eae6c4',
     'Tring',
     'language',
     NULL,
@@ -2786,7 +2786,7 @@ VALUES
     NOW()
   ),
   (
-    '0adb4622-fa5d-43ce-a3ad-a3c373a52eb9',
+    'db67b1df-3879-4716-b743-e34fd6c729f9',
     'Tareng',
     'language',
     NULL,
@@ -2794,7 +2794,7 @@ VALUES
     NOW()
   ),
   (
-    'c4f52ace-b896-408f-83ff-1587d4c8f9b1',
+    '1745b975-1c08-4c65-95e0-77e9ad3f634f',
     'Nume',
     'language',
     NULL,
@@ -2802,7 +2802,7 @@ VALUES
     NOW()
   ),
   (
-    'fac49ecd-8b6e-429a-9892-9c27ccaf0c86',
+    '17cf0661-8cfe-404c-9204-33f66446ea74',
     'Central Tagbanwa',
     'language',
     NULL,
@@ -2810,7 +2810,7 @@ VALUES
     NOW()
   ),
   (
-    'c05f6762-bc94-49d5-ba0c-0289126ab03c',
+    '78d56a10-f997-40a2-afad-f448e49fef5c',
     'Tanggu',
     'language',
     NULL,
@@ -2818,7 +2818,7 @@ VALUES
     NOW()
   ),
   (
-    '29b40525-5d69-4115-81a7-face96155c03',
+    '0566af52-22a5-4759-afbd-b649a20a3c6a',
     'Tingui-Boto',
     'language',
     NULL,
@@ -2826,7 +2826,7 @@ VALUES
     NOW()
   ),
   (
-    'bdfdc931-91fa-4919-8d08-09ce462098cf',
+    '4fe6345d-220e-4e86-8411-67cbd9af2fed',
     'Tagwana Senoufo',
     'language',
     NULL,
@@ -2834,7 +2834,7 @@ VALUES
     NOW()
   ),
   (
-    '7bdf0dcc-531d-4958-8ec2-41c3644da7c6',
+    '94d3cab3-83de-487d-9c48-89971db4b105',
     'Tagish',
     'language',
     NULL,
@@ -2842,7 +2842,7 @@ VALUES
     NOW()
   ),
   (
-    'eaf1a468-9b74-4d07-ab06-0252786eef54',
+    'd5f84bff-fd25-4f6e-8850-d8c7b14126f7',
     'Togoyo',
     'language',
     NULL,
@@ -2850,7 +2850,7 @@ VALUES
     NOW()
   ),
   (
-    '40ca8073-4063-46a3-9405-86a5453570a4',
+    'db28a359-6e60-482d-89a2-209136022423',
     'Tagalaka',
     'language',
     NULL,
@@ -2858,7 +2858,7 @@ VALUES
     NOW()
   ),
   (
-    'bfd33d22-f949-4476-af2e-47b9e1db06f6',
+    'fddb4f53-f44e-4f43-9409-9edf883b8e00',
     'Thai',
     'language',
     NULL,
@@ -2866,7 +2866,7 @@ VALUES
     NOW()
   ),
   (
-    '3c538297-7cd2-47db-bbae-34633f9b073d',
+    '5f9749c0-be9a-496f-9cbb-4061649ff99c',
     'Kuuk Thaayorre',
     'language',
     NULL,
@@ -2874,7 +2874,7 @@ VALUES
     NOW()
   ),
   (
-    '309d6ba4-ba4b-4a27-a43b-8cd7dcd248f8',
+    '28f22c5c-2642-491c-93fb-edda8cb6c7ed',
     'Chitwania Tharu',
     'language',
     NULL,
@@ -2882,7 +2882,7 @@ VALUES
     NOW()
   ),
   (
-    'e5be5c98-a02b-430c-bea7-58fa3ca4d240',
+    'a7dd44a4-cc1a-43b3-874c-4342bd63d642',
     'Thangmi',
     'language',
     NULL,
@@ -2890,7 +2890,7 @@ VALUES
     NOW()
   ),
   (
-    'e1838af3-3377-4843-a3de-185d43294586',
+    '157fd665-7c19-4087-a853-fd1ca6aad976',
     'Northern Tarahumara',
     'language',
     NULL,
@@ -2898,7 +2898,7 @@ VALUES
     NOW()
   ),
   (
-    '584a0be3-84d6-4b13-a20a-bcfca8cd65f5',
+    '1673adf4-0fe0-4505-ada9-d4adca89dc03',
     'Tai Long',
     'language',
     NULL,
@@ -2906,7 +2906,7 @@ VALUES
     NOW()
   ),
   (
-    'e0e3cdb0-dae2-4b30-b05b-b0302491b645',
+    '6742c83b-d112-46ea-bd7a-f32712dbc3b3',
     'Tharaka',
     'language',
     NULL,
@@ -2914,7 +2914,7 @@ VALUES
     NOW()
   ),
   (
-    '4f9e7b11-393d-4c3d-a70d-b70dbac41fdc',
+    'e5f63225-d3b7-4318-967e-b5c3d2615211',
     'Dangaura Tharu',
     'language',
     NULL,
@@ -2922,7 +2922,7 @@ VALUES
     NOW()
   ),
   (
-    '20fb01ef-fc9f-4b70-826c-41dd9f2b6d72',
+    '4d80c29a-3a19-41e9-b28e-641e20885653',
     'Aheu',
     'language',
     NULL,
@@ -2930,7 +2930,7 @@ VALUES
     NOW()
   ),
   (
-    'eeb2eb62-0b2d-4ea9-9363-4aa459ab722b',
+    'd4dccc5f-4881-419b-9f5d-e25b756a3477',
     'Thachanadan',
     'language',
     NULL,
@@ -2938,7 +2938,7 @@ VALUES
     NOW()
   ),
   (
-    'bf301cfe-1983-4015-9f09-f93c30bd60d5',
+    'f05ce6c6-4368-45b1-955f-7b4f8e170839',
     'Thompson',
     'language',
     NULL,
@@ -2946,7 +2946,7 @@ VALUES
     NOW()
   ),
   (
-    '7f88423a-024e-4812-96de-0239a6cda62b',
+    '028254ad-acd8-46ab-bca5-f686866b12a5',
     'Kochila Tharu',
     'language',
     NULL,
@@ -2954,7 +2954,7 @@ VALUES
     NOW()
   ),
   (
-    '8725eb8d-a319-49aa-8bf0-f1a031c0eeb7',
+    '35233dcc-fad2-4f90-a27a-2fc739cafa16',
     'Rana Tharu',
     'language',
     NULL,
@@ -2962,7 +2962,7 @@ VALUES
     NOW()
   ),
   (
-    'd5ea461f-32d7-4812-a494-3b0101ce85eb',
+    'eb95e95d-15ba-42c1-9bff-b2c59b9eb5bb',
     'Thakali',
     'language',
     NULL,
@@ -2970,7 +2970,7 @@ VALUES
     NOW()
   ),
   (
-    '7a416d5d-b049-4751-ab2f-2753a5269b0b',
+    '7dbb59a4-95ac-4f1e-98f0-4728c4681cca',
     'Tahltan',
     'language',
     NULL,
@@ -2978,7 +2978,7 @@ VALUES
     NOW()
   ),
   (
-    '887ff293-41dd-4083-9778-609464b13a85',
+    '0f882dea-2aa5-46bf-b4c6-5a7d8758405a',
     'Thuri',
     'language',
     NULL,
@@ -2986,15 +2986,15 @@ VALUES
     NOW()
   ),
   (
-    '26ec1e10-e937-4076-a385-71cefcb6a4cd',
+    '1c793257-87b3-48ee-b9df-b5b158e7ec33',
     'Tahaggart Tamahaq',
     'language',
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     NOW(),
     NOW()
   ),
   (
-    'c7649bfa-cd88-4030-bf17-8d5b3d6b535e',
+    '4ed27742-c5e9-4d87-adbe-b1a53b6731fe',
     'Tha',
     'language',
     NULL,
@@ -3002,15 +3002,15 @@ VALUES
     NOW()
   ),
   (
-    '68f0f4d5-4941-4f13-995c-c72d1539028a',
+    'a6d7a0b0-7007-4e66-b469-b58dcbf033ac',
     'Tayart Tamajeq',
     'language',
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     NOW(),
     NOW()
   ),
   (
-    'ea9d0147-f6ff-4190-bd80-abadd07b5f3f',
+    '38f21b18-98d1-48e6-8e7f-4b56422a283a',
     'Tidikelt Tamazight',
     'language',
     NULL,
@@ -3018,7 +3018,7 @@ VALUES
     NOW()
   ),
   (
-    'a23e8d67-2b1e-4c9f-b99d-d159691b1ba9',
+    '3e748165-583a-43eb-8c4b-452ed0101908',
     'Tira',
     'language',
     NULL,
@@ -3026,7 +3026,7 @@ VALUES
     NOW()
   ),
   (
-    '830a9c31-c68a-4a9d-91f2-767d4a4a2705',
+    '90dca2f3-b3ed-4782-a1bd-a942d25996bd',
     'Tifal',
     'language',
     NULL,
@@ -3034,7 +3034,7 @@ VALUES
     NOW()
   ),
   (
-    '0ea563d8-0158-415b-a4bb-6db47b70d448',
+    'b9e1638b-a7c5-4f05-9c0f-9cdf33b569c0',
     'Tigre',
     'language',
     NULL,
@@ -3042,7 +3042,7 @@ VALUES
     NOW()
   ),
   (
-    'd72cde13-142e-4290-8435-40d1ce223038',
+    '44a5008b-6dd5-419f-85d8-6e1cd9c5431c',
     'Timugon Murut',
     'language',
     NULL,
@@ -3050,7 +3050,7 @@ VALUES
     NOW()
   ),
   (
-    '63e743c2-c812-473c-8c85-2c2521c67265',
+    '1711e205-5cd0-49ee-8e6b-3e7cdc954987',
     'Tiene',
     'language',
     NULL,
@@ -3058,7 +3058,7 @@ VALUES
     NOW()
   ),
   (
-    '1fa28759-fa9e-4187-a851-dba898c6922e',
+    '37bb283a-2eb1-4d05-8658-fe83f399b2b9',
     'Tilung',
     'language',
     NULL,
@@ -3066,7 +3066,7 @@ VALUES
     NOW()
   ),
   (
-    '7c3d50b9-7dfd-48d4-88d5-e1d10706f98f',
+    '3ee24c6c-0848-43ac-b1d5-19b93adcce76',
     'Tikar',
     'language',
     NULL,
@@ -3074,7 +3074,7 @@ VALUES
     NOW()
   ),
   (
-    '19500999-73fd-4f6a-b55a-f1cd76efa909',
+    '2c18eb7e-dc31-4d3d-8a5f-c907e29f3667',
     'Tillamook',
     'language',
     NULL,
@@ -3082,7 +3082,7 @@ VALUES
     NOW()
   ),
   (
-    'ee21d2b5-b5cb-4c1f-8b17-e739ada1c8ac',
+    '4ce03847-3d9c-4607-96d2-9aaa9d43c9e9',
     'Timbe',
     'language',
     NULL,
@@ -3090,7 +3090,7 @@ VALUES
     NOW()
   ),
   (
-    '983e003b-7a90-426b-ae7f-7074427a385f',
+    'f66e8cd7-4a87-4f9e-bf0c-29355f0e7bf9',
     'Tindi',
     'language',
     NULL,
@@ -3098,7 +3098,7 @@ VALUES
     NOW()
   ),
   (
-    'c68b58de-20a7-4828-be21-96ea80f0ad90',
+    'ea62bd1d-d218-4bff-85eb-e7f94e17c438',
     'Teop',
     'language',
     NULL,
@@ -3106,7 +3106,7 @@ VALUES
     NOW()
   ),
   (
-    'ac05b872-2aa8-49fb-9ce2-729f1a0fdf3a',
+    'a49a5d19-5d02-409f-9831-913e9a59588d',
     'Trimuris',
     'language',
     NULL,
@@ -3114,7 +3114,7 @@ VALUES
     NOW()
   ),
   (
-    '78e9af60-e195-4130-ac6e-fec1740c8185',
+    'a4671e1c-7dff-49bf-9dae-4508e5a7711d',
     'Tiéfo',
     'language',
     NULL,
@@ -3122,7 +3122,7 @@ VALUES
     NOW()
   ),
   (
-    'f40efe6e-050d-4f89-87dc-d86166b8b4e4',
+    'ff553800-0aef-4358-9cb6-ba02904fbb28',
     'Tigrinya',
     'language',
     NULL,
@@ -3130,7 +3130,7 @@ VALUES
     NOW()
   ),
   (
-    '948897df-13bc-4ae3-a539-12925aa0d487',
+    '8f949639-fe59-4ff7-a721-c5e4dc4a1529',
     'Masadiit Itneg',
     'language',
     NULL,
@@ -3138,7 +3138,7 @@ VALUES
     NOW()
   ),
   (
-    'ed34961c-6f54-443b-a0ea-3682589dea89',
+    'eaac91ca-4e6f-4c46-ba59-85f522086d79',
     'Tinigua',
     'language',
     NULL,
@@ -3146,7 +3146,7 @@ VALUES
     NOW()
   ),
   (
-    'cee225f6-803a-4464-96be-5a6b14e9f105',
+    '258bb521-ade8-4864-bbdd-3fb84ead319a',
     'Adasen',
     'language',
     NULL,
@@ -3154,7 +3154,7 @@ VALUES
     NOW()
   ),
   (
-    '0c572f48-8526-4be5-b7a9-4c4f377157d2',
+    '1710523c-dd30-46e2-a9b5-4482b2324f8a',
     'Tiv',
     'language',
     NULL,
@@ -3162,7 +3162,7 @@ VALUES
     NOW()
   ),
   (
-    '48ce04a1-0a8f-4552-a770-e8a84dde9134',
+    '53105423-b406-4cac-b7ce-526eadda3de3',
     'Tiwi',
     'language',
     NULL,
@@ -3170,7 +3170,7 @@ VALUES
     NOW()
   ),
   (
-    'bf80b1d2-70f6-42f2-8b42-e1b7f896d738',
+    'ce0c7d49-0441-464d-9264-e8e76e5ac1b6',
     'Southern Tiwa',
     'language',
     NULL,
@@ -3178,7 +3178,7 @@ VALUES
     NOW()
   ),
   (
-    '5a5af9b0-0a1e-4395-bf5e-8b57fa27698a',
+    'ab05b73e-5840-49e6-8937-d02b0a0cb11c',
     'Tiruray',
     'language',
     NULL,
@@ -3186,7 +3186,7 @@ VALUES
     NOW()
   ),
   (
-    'a94b2c61-0de8-4c2f-bd7c-5f9f3394fe11',
+    '41eee52e-c09e-4fd4-98ee-07b43efce967',
     'Tai Hongjin',
     'language',
     NULL,
@@ -3194,7 +3194,7 @@ VALUES
     NOW()
   ),
   (
-    '481f7b1a-f888-448b-8ac8-0101230b26c0',
+    '0a640799-f79c-4d43-b533-08a740cfed50',
     'Tajuasohn',
     'language',
     NULL,
@@ -3202,7 +3202,7 @@ VALUES
     NOW()
   ),
   (
-    'ff49de9a-bd0b-430a-8aa9-5fc14a269005',
+    'a87c0830-8959-49bb-b8d6-a567b9997fae',
     'Tunjung',
     'language',
     NULL,
@@ -3210,7 +3210,7 @@ VALUES
     NOW()
   ),
   (
-    'e456873b-60eb-4910-9218-18269fd03f14',
+    'eacf4a47-1573-425f-85e4-c51295a87bd1',
     'Northern Tujia',
     'language',
     NULL,
@@ -3218,7 +3218,7 @@ VALUES
     NOW()
   ),
   (
-    '91968685-aebe-4581-97c1-2ea26b115059',
+    'fc3aae57-eea4-4bcf-a1b0-d2be1ea4301a',
     'Tjungundji',
     'language',
     NULL,
@@ -3226,7 +3226,7 @@ VALUES
     NOW()
   ),
   (
-    '2013fcdf-ed58-45be-b6b2-49636c2b76cc',
+    '6fd26dce-fa8d-4f05-b93a-783fca5d1bd4',
     'Tai Laing',
     'language',
     NULL,
@@ -3234,7 +3234,7 @@ VALUES
     NOW()
   ),
   (
-    'f82a5490-7209-4fa1-8ef4-770950c1ae0c',
+    '4a9afc0e-e8e0-403e-a7c9-ec81a26ecd32',
     'Timucua',
     'language',
     NULL,
@@ -3242,7 +3242,7 @@ VALUES
     NOW()
   ),
   (
-    '4035100f-39c9-4f22-9d65-43262ee799eb',
+    '08e22c8f-05a7-4e7b-ad23-8f2bdcbcb9fb',
     'Tonjon',
     'language',
     NULL,
@@ -3250,7 +3250,7 @@ VALUES
     NOW()
   ),
   (
-    '7dc1345e-cabb-4ffa-816b-0a7cbf1f1e5d',
+    '593b9554-ba86-429b-b90c-3b2421df6694',
     'Temacine Tamazight',
     'language',
     NULL,
@@ -3258,7 +3258,7 @@ VALUES
     NOW()
   ),
   (
-    '0f5660be-1254-43e3-a469-06ac496a3e28',
+    '770b949e-b2a8-4789-baec-3bf827a76b20',
     'Tjupany',
     'language',
     NULL,
@@ -3266,7 +3266,7 @@ VALUES
     NOW()
   ),
   (
-    'fc26614c-a38f-4ccf-bde2-a5f4f4bd0676',
+    '1624f2be-b806-4868-baa4-294cb67eebae',
     'Southern Tujia',
     'language',
     NULL,
@@ -3274,7 +3274,7 @@ VALUES
     NOW()
   ),
   (
-    '41d62076-288f-422b-a62d-8d62b3f3a2c6',
+    'afcd5fdd-2d43-4903-b120-cfcdfc485a2a',
     'Tjurruru',
     'language',
     NULL,
@@ -3282,7 +3282,7 @@ VALUES
     NOW()
   ),
   (
-    '0001660a-5f9c-4727-8a74-ce27838f62d8',
+    'fee66f8b-de72-402c-8b92-6c6d43e4226f',
     'Djabwurrung',
     'language',
     NULL,
@@ -3290,7 +3290,7 @@ VALUES
     NOW()
   ),
   (
-    '1441b0dd-89b6-4a07-8089-939e73dfd385',
+    'a4c92361-99c8-4607-823e-3b824352190c',
     'Truká',
     'language',
     NULL,
@@ -3298,7 +3298,7 @@ VALUES
     NOW()
   ),
   (
-    'bd68c9b4-ac20-4bb2-ab86-0d82523681b7',
+    'a0744ce0-1140-465d-b38d-e088e7c48145',
     'Buksa',
     'language',
     NULL,
@@ -3306,7 +3306,7 @@ VALUES
     NOW()
   ),
   (
-    'f256eda8-14d7-490b-88d2-db8b511488d0',
+    '45bde9b9-fed3-4801-bdaf-f1e65b5a8424',
     'Tukudede',
     'language',
     NULL,
@@ -3314,7 +3314,7 @@ VALUES
     NOW()
   ),
   (
-    '5858dda0-b931-4d33-8cd5-35d8c33b97b3',
+    'd65c6f46-79c3-4fbd-b75b-fc423afdce5e',
     'Takwane',
     'language',
     NULL,
@@ -3322,7 +3322,7 @@ VALUES
     NOW()
   ),
   (
-    'a3260e05-909d-42e4-8d10-7cbc3ed3e7e5',
+    'ceabfdc2-ab9a-4344-99aa-8eb7ce3361cc',
     'Tukumanféd',
     'language',
     NULL,
@@ -3330,15 +3330,15 @@ VALUES
     NOW()
   ),
   (
-    'f2b211cc-4d4b-4a42-a931-0bfc46cadb1d',
+    '819812b6-03a6-4db2-a696-ab1deb4cf941',
     'Tesaka Malagasy',
     'language',
-    '2554ad73-2586-457b-9f00-00357a7cb807',
+    'befec57b-4d7e-4266-a8b7-54a97df49462',
     NOW(),
     NOW()
   ),
   (
-    'd2277685-498d-4d3a-a3ac-7e80541623cc',
+    'dc000ed1-4dfe-49f6-95e9-4b3ae9518917',
     'Tokelau',
     'language',
     NULL,
@@ -3346,7 +3346,7 @@ VALUES
     NOW()
   ),
   (
-    'efb75307-bfe1-408a-86bb-53e8a9836445',
+    'e87260a2-0a6d-45a2-b73a-f502b76871c7',
     'Takelma',
     'language',
     NULL,
@@ -3354,7 +3354,7 @@ VALUES
     NOW()
   ),
   (
-    '6b444fdf-fb21-42fb-b503-8f926ef8fab1',
+    '3ebbb5ef-10af-48ec-8cab-14458b96beef',
     'Toku-No-Shima',
     'language',
     NULL,
@@ -3362,7 +3362,7 @@ VALUES
     NOW()
   ),
   (
-    '7dfe1b49-1125-44f6-b49e-29bc8ce7da27',
+    'affbae6f-bf7d-461a-b0a8-5bf19cdbd768',
     'Tikopia',
     'language',
     NULL,
@@ -3370,7 +3370,7 @@ VALUES
     NOW()
   ),
   (
-    '5661b1e2-65c4-4997-a1bd-7421772d8eec',
+    'f6d75bb6-5cb6-481c-aa0a-6d7e7f0e0f69',
     'Tee',
     'language',
     NULL,
@@ -3378,7 +3378,7 @@ VALUES
     NOW()
   ),
   (
-    '6d2e43b5-1db4-4e76-821b-432ad5dd1051',
+    'ea7de95d-23f5-442f-b603-5497660e6cd5',
     'Tsakhur',
     'language',
     NULL,
@@ -3386,7 +3386,7 @@ VALUES
     NOW()
   ),
   (
-    '3baf8c63-eff9-4190-8d58-496846cdc87a',
+    'b548fe2f-86d7-4515-8ae8-e48c1f124b6b',
     'Takestani',
     'language',
     NULL,
@@ -3394,7 +3394,7 @@ VALUES
     NOW()
   ),
   (
-    '55e4043f-3c2d-4915-8499-0fd15c52b459',
+    '7126caa1-054d-41ca-a605-4be292181875',
     'Kathoriya Tharu',
     'language',
     NULL,
@@ -3402,7 +3402,7 @@ VALUES
     NOW()
   ),
   (
-    '372452f1-6072-493f-a6cd-cf26233687f4',
+    '33b9acb5-0a6b-422b-88e2-82f7eeaa4764',
     'Upper Necaxa Totonac',
     'language',
     NULL,
@@ -3410,7 +3410,7 @@ VALUES
     NOW()
   ),
   (
-    '7bc9cdd6-42c5-4017-b0c2-4050ecbe7e8d',
+    '1b548ed9-169f-4f57-93b3-e2951ae01d5b',
     'Mur Pano',
     'language',
     NULL,
@@ -3418,7 +3418,7 @@ VALUES
     NOW()
   ),
   (
-    '1c2ced9a-1986-4a57-981d-c5834ac2030b',
+    'd01baaf3-928a-48ef-bcbd-408a1b17df6b',
     'Teanu',
     'language',
     NULL,
@@ -3426,7 +3426,7 @@ VALUES
     NOW()
   ),
   (
-    'd92c1e23-2d08-40c7-b4ac-b04c152e86af',
+    '75c18179-647b-45ab-b269-314268820128',
     'Tangko',
     'language',
     NULL,
@@ -3434,7 +3434,7 @@ VALUES
     NOW()
   ),
   (
-    '8b3322b3-8908-4ae5-84b5-296354aeb6e4',
+    '86b512df-e789-4c51-aec8-30b48e361d7d',
     'Takua',
     'language',
     NULL,
@@ -3442,7 +3442,7 @@ VALUES
     NOW()
   ),
   (
-    'a6982ba1-0a10-4682-bad0-ab4d7f1f1cf2',
+    'cf27a38d-906c-4f3e-ab94-43556619a535',
     'Southwestern Tepehuan',
     'language',
     NULL,
@@ -3450,7 +3450,7 @@ VALUES
     NOW()
   ),
   (
-    'd6e19c93-7f8b-4815-be9a-f3a43498b844',
+    'bb8bf692-035f-4004-91a0-85f0b3fd2fb5',
     'Tobelo',
     'language',
     NULL,
@@ -3458,7 +3458,7 @@ VALUES
     NOW()
   ),
   (
-    '53b92d78-0b82-45a9-8f18-7ddbe2e21fef',
+    '8f56490e-45df-4912-9318-89a612f4ef5d',
     'Yecuatla Totonac',
     'language',
     NULL,
@@ -3466,7 +3466,7 @@ VALUES
     NOW()
   ),
   (
-    '2bf38393-c9c1-4405-82ea-adb08ad064fa',
+    '79d729e3-f5c2-43cd-b41d-3feeb51e6146',
     'Talaud',
     'language',
     NULL,
@@ -3474,7 +3474,7 @@ VALUES
     NOW()
   ),
   (
-    '3cbdab4b-f898-4e9b-a799-7f7b8ac3e45f',
+    '9c6fbc34-2daa-48a2-9e3a-92939bc54239',
     'Telefol',
     'language',
     NULL,
@@ -3482,7 +3482,7 @@ VALUES
     NOW()
   ),
   (
-    '571132c5-4a0c-4e73-8ccd-a96fe20c4d4e',
+    '99671590-7316-4bbf-9646-00f3f9eb0ed7',
     'Tofanma',
     'language',
     NULL,
@@ -3490,7 +3490,7 @@ VALUES
     NOW()
   ),
   (
-    'd12e1c62-15b9-4331-9a4b-cbdfe18a2ca0',
+    '065fd50e-3b92-4bc7-bfe6-f96bae5ac542',
     'Klingon',
     'language',
     NULL,
@@ -3498,7 +3498,7 @@ VALUES
     NOW()
   ),
   (
-    '4646583e-7f20-4964-939d-45ce7888179b',
+    '3bdd8463-060c-46aa-b510-de25d0d8d55d',
     'Tlingit',
     'language',
     NULL,
@@ -3506,7 +3506,7 @@ VALUES
     NOW()
   ),
   (
-    'b6ea7725-0a88-4763-814c-a63b977b9828',
+    '2a9ef2a2-8beb-4d64-96a5-be81c2b083f7',
     'Talinga-Bwisi',
     'language',
     NULL,
@@ -3514,7 +3514,7 @@ VALUES
     NOW()
   ),
   (
-    'b9f49bbd-1da8-4dd5-95e8-8a40f57f0664',
+    '33cd5200-f813-4647-8722-efc00acabe6e',
     'Taloki',
     'language',
     NULL,
@@ -3522,7 +3522,7 @@ VALUES
     NOW()
   ),
   (
-    'b844981c-792e-4b24-85d3-bbf4a13c0659',
+    'f7b87591-2184-4c52-996a-af374ee49d20',
     'Tetela',
     'language',
     NULL,
@@ -3530,7 +3530,7 @@ VALUES
     NOW()
   ),
   (
-    'ea56ead8-5a93-4a40-9dad-92a3f65cb4f1',
+    'e33578bb-bc0f-484f-976c-66c6f58d9117',
     'Tolomako',
     'language',
     NULL,
@@ -3538,7 +3538,7 @@ VALUES
     NOW()
   ),
   (
-    '0bcabff3-c170-44ce-97ac-3da25f6378e0',
+    '661a7198-8fed-46fc-a817-5ec744d970a1',
     'Talondo''',
     'language',
     NULL,
@@ -3546,7 +3546,7 @@ VALUES
     NOW()
   ),
   (
-    '7e28e721-9446-4fcb-a15c-95586bd9a2bd',
+    'e50e5493-d42b-48b6-b108-50d067891af5',
     'Talodi',
     'language',
     NULL,
@@ -3554,7 +3554,7 @@ VALUES
     NOW()
   ),
   (
-    'e18a5d94-d86c-4b80-a8ee-cf5737d8245c',
+    '17c849c2-720a-4683-aabd-84724c0a4008',
     'Filomena Mata-Coahuitlán Totonac',
     'language',
     NULL,
@@ -3562,7 +3562,7 @@ VALUES
     NOW()
   ),
   (
-    '29267611-a788-4766-be88-0e4abed11695',
+    '24eb7e9c-18e8-4612-88a7-598ef24cef27',
     'Tai Loi',
     'language',
     NULL,
@@ -3570,7 +3570,7 @@ VALUES
     NOW()
   ),
   (
-    'a5a5a07f-8d9e-4af0-afff-71d023ffc3e9',
+    '0dd15177-4ada-4e5b-aa9f-2675525b19bf',
     'Talise',
     'language',
     NULL,
@@ -3578,7 +3578,7 @@ VALUES
     NOW()
   ),
   (
-    '1b75c88d-d5ec-462e-8a72-8eead5306b14',
+    'af62b555-0970-4d2a-8c6e-a5a227d427e0',
     'Tambotalo',
     'language',
     NULL,
@@ -3586,7 +3586,7 @@ VALUES
     NOW()
   ),
   (
-    'cadff781-7cfc-416c-aba7-ca3f8566e2e0',
+    '49732a93-8c7d-4c6f-ac1a-dc115067d65c',
     'Sou Nama',
     'language',
     NULL,
@@ -3594,7 +3594,7 @@ VALUES
     NOW()
   ),
   (
-    '3d730ad9-f18f-4469-b05b-8e684a8f6461',
+    '78b605fc-35a6-4831-981b-4c0d373aaf8d',
     'Tulehu',
     'language',
     NULL,
@@ -3602,7 +3602,7 @@ VALUES
     NOW()
   ),
   (
-    '41f2eb2d-6ce3-42e7-a2b4-622ab7ff2356',
+    'a9e7e7e2-d9de-42ca-a43a-247fa7fea946',
     'Taliabu',
     'language',
     NULL,
@@ -3610,7 +3610,7 @@ VALUES
     NOW()
   ),
   (
-    '6b4fa140-2f4d-4e5d-9455-396273a3f9ab',
+    '3293daa8-792f-412b-b5bc-c88fab8945f2',
     'Khehek',
     'language',
     NULL,
@@ -3618,7 +3618,7 @@ VALUES
     NOW()
   ),
   (
-    '724a6417-9776-4090-8cbf-1f3739ddab83',
+    '436da91f-baab-4b80-a8d0-2ed6bfa0522f',
     'Talysh',
     'language',
     NULL,
@@ -3626,7 +3626,7 @@ VALUES
     NOW()
   ),
   (
-    '745082d5-07fd-466f-a608-ac49f0dbb747',
+    '0a1565fd-e20a-43e8-9f58-2e133576f730',
     'Tama (Chad)',
     'language',
     NULL,
@@ -3634,7 +3634,7 @@ VALUES
     NOW()
   ),
   (
-    'dd08a8ab-58be-4c28-8a08-5e298cbff13f',
+    '46757aa2-8fad-41d6-9dc4-564ddf627238',
     'Katbol',
     'language',
     NULL,
@@ -3642,7 +3642,7 @@ VALUES
     NOW()
   ),
   (
-    '1661a7a9-7e73-4349-a5ba-2b83cb4e75b5',
+    'a14404b0-4952-4d99-bbe3-b91e7d366bb5',
     'Tumak',
     'language',
     NULL,
@@ -3650,7 +3650,7 @@ VALUES
     NOW()
   ),
   (
-    'ae0d0fd8-bf3f-49f2-8d0b-0b0c612b48fc',
+    'b4a413f8-5a34-40af-acae-3bac66f8f8a2',
     'Haruai',
     'language',
     NULL,
@@ -3658,7 +3658,7 @@ VALUES
     NOW()
   ),
   (
-    '855c98eb-1b12-4ba3-be30-dbfb4f10562f',
+    '4fde941b-39a1-4776-9bb9-f927a3a2cbed',
     'Tremembé',
     'language',
     NULL,
@@ -3666,7 +3666,7 @@ VALUES
     NOW()
   ),
   (
-    '85e0afa9-1fed-4afe-950b-b542f9e25304',
+    'ea06e771-3843-4b71-a1d2-5ecd869e8a6f',
     'Toba-Maskoy',
     'language',
     NULL,
@@ -3674,7 +3674,7 @@ VALUES
     NOW()
   ),
   (
-    '8a81a5c7-40a6-4a58-9598-fa97396738ce',
+    '0d86e27c-7abd-4cc8-89cb-c53208cb555a',
     'Ternateño',
     'language',
     NULL,
@@ -3682,7 +3682,7 @@ VALUES
     NOW()
   ),
   (
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     'Tamashek',
     'family',
     NULL,
@@ -3690,7 +3690,7 @@ VALUES
     NOW()
   ),
   (
-    'd7a55c75-b57b-48ea-ba49-dd932e7ca30b',
+    'fbd2a900-105f-492a-b5be-21910038f085',
     'Tutuba',
     'language',
     NULL,
@@ -3698,7 +3698,7 @@ VALUES
     NOW()
   ),
   (
-    '0578c836-1e2b-47f3-8c05-d8d9156c2b59',
+    '05c373a4-b5d8-46e2-bd34-34d141c55580',
     'Samarokena',
     'language',
     NULL,
@@ -3706,7 +3706,7 @@ VALUES
     NOW()
   ),
   (
-    '378da007-5a5d-4d9e-93cd-edd01efd122c',
+    'e1a6e426-e47e-42b2-a1f3-78e1f6c937d5',
     'Tamnim Citak',
     'language',
     NULL,
@@ -3714,7 +3714,7 @@ VALUES
     NOW()
   ),
   (
-    '81e56741-80b3-4b7b-bd0f-c87e4e04214d',
+    'e916a2e0-42c3-4eaa-9dda-8c983a50a065',
     'Tai Thanh',
     'language',
     NULL,
@@ -3722,7 +3722,7 @@ VALUES
     NOW()
   ),
   (
-    '31456d29-ee95-413f-a889-c7c6700b761b',
+    '70e03e03-b0cd-4c7d-b156-c28f5bfce64d',
     'Taman (Indonesia)',
     'language',
     NULL,
@@ -3730,7 +3730,7 @@ VALUES
     NOW()
   ),
   (
-    '95375c35-fa10-46db-bbf2-6be97bb202f4',
+    'f20ce837-1454-4a24-9d37-01a93f051bb9',
     'Temoq',
     'language',
     NULL,
@@ -3738,7 +3738,7 @@ VALUES
     NOW()
   ),
   (
-    'eea851b8-9320-4d40-8c78-b724655e6f53',
+    'ced131e7-bdf4-407d-af0f-9133fcac21e6',
     'Tumleo',
     'language',
     NULL,
@@ -3746,7 +3746,7 @@ VALUES
     NOW()
   ),
   (
-    'c3653e9b-3ce8-4f3c-bae8-fddd326bb540',
+    '183411f7-75c9-4163-987e-6224f8163c33',
     'Jewish Babylonian Aramaic (ca. 200-1200 CE)',
     'language',
     NULL,
@@ -3754,7 +3754,7 @@ VALUES
     NOW()
   ),
   (
-    '1128fdda-f6bf-4552-9764-79624f2b18ee',
+    'be15c7b1-146a-4c89-baa1-c18668c7042d',
     'Tima',
     'language',
     NULL,
@@ -3762,7 +3762,7 @@ VALUES
     NOW()
   ),
   (
-    '54c91b9d-63f6-4dbe-b8d6-6f0aa5e6b43b',
+    'e3e6f273-afc1-454d-b02d-e8431c633d89',
     'Tasmate',
     'language',
     NULL,
@@ -3770,7 +3770,7 @@ VALUES
     NOW()
   ),
   (
-    '7e2046ff-1af3-4440-bb7b-c2e5cef121a1',
+    'bc0e6a94-7447-4d06-a6e5-cafb178a93ab',
     'Iau',
     'language',
     NULL,
@@ -3778,7 +3778,7 @@ VALUES
     NOW()
   ),
   (
-    '33251b60-7571-4da8-b314-1892deeb9aff',
+    '203cb28e-a902-4784-a08a-331a02308bdc',
     'Tembo (Motembo)',
     'language',
     NULL,
@@ -3786,15 +3786,15 @@ VALUES
     NOW()
   ),
   (
-    '32e8ea4a-3533-400c-b743-d78d752e4f3b',
+    '40385c38-3e0a-47cd-b609-bbc4a9ce3d4b',
     'Temuan',
     'language',
-    'b35b3b8c-c07c-437f-a746-8ef586fd55ca',
+    '828c4f51-4667-44a8-8049-34a4693bb87b',
     NOW(),
     NOW()
   ),
   (
-    '8495135f-bc20-4b6f-b2e9-378c585038f1',
+    '4d5e94de-9c16-4f93-99cf-99bf559741a6',
     'Tami',
     'language',
     NULL,
@@ -3802,7 +3802,7 @@ VALUES
     NOW()
   ),
   (
-    '2df4aace-664e-4a87-b52a-c0a3643e7695',
+    'beed88e9-d5dc-44c2-900f-0b6b1828928a',
     'Tamanaku',
     'language',
     NULL,
@@ -3810,7 +3810,7 @@ VALUES
     NOW()
   ),
   (
-    '6eb8e80d-f345-43a8-a34f-eab0bf6d8fe7',
+    '13974924-0c15-45af-82b3-897c284276d3',
     'Tacana',
     'language',
     NULL,
@@ -3818,7 +3818,7 @@ VALUES
     NOW()
   ),
   (
-    'f17e8f52-0ea1-42a0-aa5f-01941df5f044',
+    'baab0d8c-7ecb-4068-97d8-33bbecd6b16f',
     'Western Tunebo',
     'language',
     NULL,
@@ -3826,7 +3826,7 @@ VALUES
     NOW()
   ),
   (
-    'a7d2ab20-f30d-4f92-b012-b143774bf599',
+    'b2b45c99-f72e-4099-a864-cd984d6cb8db',
     'Tanimuca-Retuarã',
     'language',
     NULL,
@@ -3834,7 +3834,7 @@ VALUES
     NOW()
   ),
   (
-    '5703a239-41aa-401a-a07b-5f0acc2fe32d',
+    '09fb46f6-ad82-4b31-b544-16a5c2f4fe71',
     'Angosturas Tunebo',
     'language',
     NULL,
@@ -3842,7 +3842,7 @@ VALUES
     NOW()
   ),
   (
-    '6f716900-fc38-4085-9b01-fab04e64c260',
+    '2aade5c0-409f-4a2e-ac91-c9e624afb2db',
     'Tobanga',
     'language',
     NULL,
@@ -3850,7 +3850,7 @@ VALUES
     NOW()
   ),
   (
-    '6e60c630-c7e5-4bde-9c11-f16ee6301a29',
+    'c681c26a-0fae-4c47-9e75-301d03ffe113',
     'Maiani',
     'language',
     NULL,
@@ -3858,7 +3858,7 @@ VALUES
     NOW()
   ),
   (
-    'b0368811-5b78-4b90-b1ca-9780e97082d9',
+    '1957af07-4361-4eeb-a08e-f7cc63462e38',
     'Tandia',
     'language',
     NULL,
@@ -3866,7 +3866,7 @@ VALUES
     NOW()
   ),
   (
-    '6060bc48-0faf-403d-a045-fb5701d80a9a',
+    '151f6fc8-3d33-4d97-8a7e-91160aeb04ab',
     'Kwamera',
     'language',
     NULL,
@@ -3874,7 +3874,7 @@ VALUES
     NOW()
   ),
   (
-    'b14387ce-0bca-471d-ade7-2131ee9bb8a1',
+    'de1e81c1-cae9-4e3a-b702-81f9ff44fa6b',
     'Lenakel',
     'language',
     NULL,
@@ -3882,7 +3882,7 @@ VALUES
     NOW()
   ),
   (
-    '40d5372b-950a-48f2-96c5-09dfa2b24891',
+    '68a94ca0-f749-4afb-bc85-180a61433d61',
     'Tabla',
     'language',
     NULL,
@@ -3890,7 +3890,7 @@ VALUES
     NOW()
   ),
   (
-    'ed29bbd0-d66a-4983-9baf-bd7ee874895c',
+    'b7104c81-44db-4365-8780-50e50a7f33ca',
     'North Tanna',
     'language',
     NULL,
@@ -3898,7 +3898,7 @@ VALUES
     NOW()
   ),
   (
-    'ac762464-ac60-4a50-8412-7f01b6479dd6',
+    '14d908fa-1470-406f-8a74-2d1378b3bf01',
     'Toromono',
     'language',
     NULL,
@@ -3906,7 +3906,7 @@ VALUES
     NOW()
   ),
   (
-    'a03d1c37-cafe-4f49-872c-550d8036534e',
+    '5a018e82-4ea4-4458-899c-eac6328ac819',
     'Whitesands',
     'language',
     NULL,
@@ -3914,7 +3914,7 @@ VALUES
     NOW()
   ),
   (
-    '3b2f45f1-4274-4cb8-acd5-dcdaef1e07a4',
+    'fa9882c4-08de-4db6-825f-f357b3c7035d',
     'Taino',
     'language',
     NULL,
@@ -3922,7 +3922,7 @@ VALUES
     NOW()
   ),
   (
-    'f8076d6e-64e5-4367-ac7a-a5b6ecd964f3',
+    'a0e897ca-3967-470f-829d-aec51ed6a0f5',
     'Ménik',
     'language',
     NULL,
@@ -3930,7 +3930,7 @@ VALUES
     NOW()
   ),
   (
-    'c148d6a8-0dc2-4fd3-8b61-0edc5b9d1ef7',
+    '18ddef47-f992-493d-b0d8-605c08ff623b',
     'Tenis',
     'language',
     NULL,
@@ -3938,7 +3938,7 @@ VALUES
     NOW()
   ),
   (
-    'da3cca73-042c-4002-a453-f5ac54cb3dd7',
+    'e6885a36-cefb-4e56-811f-f5add6722ece',
     'Tontemboan',
     'language',
     NULL,
@@ -3946,7 +3946,7 @@ VALUES
     NOW()
   ),
   (
-    '9e452290-731d-4d33-b553-5b8d56f8ac23',
+    '96e903ef-b440-4b53-862a-29ca49adcbc5',
     'Tay Khang',
     'language',
     NULL,
@@ -3954,7 +3954,7 @@ VALUES
     NOW()
   ),
   (
-    'e98b55b3-c20b-42c5-b1f6-152977606bc8',
+    '8a4d7c14-4bea-48ae-92f8-13770049fc0a',
     'Tangchangya',
     'language',
     NULL,
@@ -3962,7 +3962,7 @@ VALUES
     NOW()
   ),
   (
-    'cef7228b-3c61-44e4-bb75-4fd8808a3212',
+    'a61efc35-c88b-47a5-ab4d-b81ffd8ddbea',
     'Tonsawang',
     'language',
     NULL,
@@ -3970,7 +3970,7 @@ VALUES
     NOW()
   ),
   (
-    '96d9562c-ff80-4177-badb-92c5116180b8',
+    'adf47ada-f6ab-45c5-9701-6fc375448860',
     'Tanema',
     'language',
     NULL,
@@ -3978,7 +3978,7 @@ VALUES
     NOW()
   ),
   (
-    '0ebdce3f-caba-4cc5-bc07-54cea0ed2ac1',
+    'f0e2c106-fe2b-476b-9110-56439af9e921',
     'Tongwe',
     'language',
     NULL,
@@ -3986,7 +3986,7 @@ VALUES
     NOW()
   ),
   (
-    'dee55c92-3201-4204-9645-244e18c62709',
+    '4f0685d8-8a5a-41a2-b832-d46962ccbf9c',
     'Ten''edn',
     'language',
     NULL,
@@ -3994,7 +3994,7 @@ VALUES
     NOW()
   ),
   (
-    'd4621029-9b27-4155-bb71-29abe6c22fdb',
+    '4e2ee225-ebf4-45b0-b281-2bf2c6384af0',
     'Toba',
     'language',
     NULL,
@@ -4002,7 +4002,7 @@ VALUES
     NOW()
   ),
   (
-    '77cb72c3-6172-40d7-80e5-85329d23ae00',
+    '569d0ed9-10d8-4334-80eb-2f574ecb0689',
     'Coyutla Totonac',
     'language',
     NULL,
@@ -4010,7 +4010,7 @@ VALUES
     NOW()
   ),
   (
-    '5d4b3a4f-ba41-4acb-b520-5031ef59d274',
+    'b76c503b-fa91-46d4-bc33-c3ff99270460',
     'Toma',
     'language',
     NULL,
@@ -4018,7 +4018,7 @@ VALUES
     NOW()
   ),
   (
-    'fe8c9888-2a09-4d1e-b1ba-7a4830107b56',
+    'fde63279-de60-451d-9db3-80c52b6a4eb3',
     'Gizrra',
     'language',
     NULL,
@@ -4026,7 +4026,7 @@ VALUES
     NOW()
   ),
   (
-    '88991e11-878d-467e-b77c-55f76704a174',
+    'a3e64fbf-92fe-428e-b128-f04f692df257',
     'Tonga (Nyasa)',
     'language',
     NULL,
@@ -4034,7 +4034,7 @@ VALUES
     NOW()
   ),
   (
-    '9f192f63-526d-4f79-b332-c6e562cecd13',
+    '21ee4ab4-320d-4877-a574-87e520c11570',
     'Gitonga',
     'language',
     NULL,
@@ -4042,7 +4042,7 @@ VALUES
     NOW()
   ),
   (
-    '8d6a9af5-e405-4715-b765-6e87fae9807c',
+    '841adc23-b180-46cb-96cb-2b9c5e17e5dd',
     'Tonga (Zambia)',
     'language',
     NULL,
@@ -4050,7 +4050,7 @@ VALUES
     NOW()
   ),
   (
-    'bd9cc27e-cee4-4915-9029-9e8bb4efb3de',
+    'd1320579-15b1-4038-9108-4b2a5212092a',
     'Tojolabal',
     'language',
     NULL,
@@ -4058,7 +4058,7 @@ VALUES
     NOW()
   ),
   (
-    '1924e35c-28e9-407c-99f2-153b4ff2b1ca',
+    'c396e029-cf19-4407-943a-045d5d809b99',
     'Toki Pona',
     'language',
     NULL,
@@ -4066,7 +4066,7 @@ VALUES
     NOW()
   ),
   (
-    '9c4f4f5e-eb52-4b8f-8bbe-0aa8d2720cf0',
+    'a617d3b0-15a7-43cd-bf53-d247657559e8',
     'Tolowa',
     'language',
     NULL,
@@ -4074,7 +4074,7 @@ VALUES
     NOW()
   ),
   (
-    'f5094ba2-3685-44c1-9cdc-09a994f4345d',
+    '5e10ccbd-419c-48a5-8fde-57439ac0b3d6',
     'Tombulu',
     'language',
     NULL,
@@ -4082,7 +4082,7 @@ VALUES
     NOW()
   ),
   (
-    'a11d6c25-cfc7-42d5-9577-eea446c1158e',
+    '1dc68cd6-08b1-4143-b131-b5263f93366a',
     'Tonga (Tonga Islands)',
     'language',
     NULL,
@@ -4090,7 +4090,7 @@ VALUES
     NOW()
   ),
   (
-    'e723e504-67d6-4947-a0d6-0f0fe6dde64c',
+    '78fffb94-fd68-4bd5-83e3-1aec32db9cc2',
     'Xicotepec De Juárez Totonac',
     'language',
     NULL,
@@ -4098,7 +4098,7 @@ VALUES
     NOW()
   ),
   (
-    '93085fa2-89e9-46a9-b5f4-b15af0fa0837',
+    'e914e491-db58-465b-942c-dd492f8e3d74',
     'Papantla Totonac',
     'language',
     NULL,
@@ -4106,7 +4106,7 @@ VALUES
     NOW()
   ),
   (
-    'f4368a82-3a6b-4c32-a0c8-63824b72f67e',
+    '5a1e2b7d-43b3-4a07-a775-6dc3fe474d56',
     'Toposa',
     'language',
     NULL,
@@ -4114,7 +4114,7 @@ VALUES
     NOW()
   ),
   (
-    '897b9948-17c1-4ea4-b889-0221265cd874',
+    'b20c9910-a30d-4ec8-945b-74e1e9ecaa30',
     'Togbo-Vara Banda',
     'language',
     NULL,
@@ -4122,7 +4122,7 @@ VALUES
     NOW()
   ),
   (
-    'ef50d854-7760-4584-98d0-0f17fa1f50f2',
+    '9b6e2b47-20e2-4fee-8bc8-3ea8c61304c1',
     'Highland Totonac',
     'language',
     NULL,
@@ -4130,7 +4130,7 @@ VALUES
     NOW()
   ),
   (
-    '58118952-e588-45ca-9fca-0f570265c0af',
+    '82f8bc02-f24a-48cf-ab49-df1983d0d59a',
     'Tho',
     'language',
     NULL,
@@ -4138,7 +4138,7 @@ VALUES
     NOW()
   ),
   (
-    '54569b35-f98b-4da3-8f6d-5d090d34a688',
+    '17ab657e-ffa6-4b4f-94a0-ddec1f834a6c',
     'Upper Taromi',
     'language',
     NULL,
@@ -4146,7 +4146,7 @@ VALUES
     NOW()
   ),
   (
-    'eec64b7a-eeba-4883-87fa-0cbbf77bc708',
+    'c0026a19-026e-4952-8568-28ec8f19fe79',
     'Jemez',
     'language',
     NULL,
@@ -4154,7 +4154,7 @@ VALUES
     NOW()
   ),
   (
-    '9f9fbba5-af1a-49bd-9458-59c1c6e5f272',
+    'e178ac69-5e27-4c71-8ddb-9d649ba7ca7a',
     'Tobian',
     'language',
     NULL,
@@ -4162,7 +4162,7 @@ VALUES
     NOW()
   ),
   (
-    'ae426f2b-42cf-4dd5-8db3-32de97a1ce1d',
+    '1aea15f1-6ae9-4b6f-85e3-bdeb827f5d72',
     'Topoiyo',
     'language',
     NULL,
@@ -4170,7 +4170,7 @@ VALUES
     NOW()
   ),
   (
-    '4dfa62c4-e3cb-4f48-bb5c-693f30285e32',
+    '4e14892f-d993-451f-9783-321a2860f79b',
     'To',
     'language',
     NULL,
@@ -4178,7 +4178,7 @@ VALUES
     NOW()
   ),
   (
-    '73aced6f-7ef8-40f9-b199-c4d9e0a716b3',
+    '66b3b2f4-45d9-4f71-9b99-f662b7b7c943',
     'Taupota',
     'language',
     NULL,
@@ -4186,7 +4186,7 @@ VALUES
     NOW()
   ),
   (
-    '2ec1c719-6520-4636-8a7a-03def28d3946',
+    '086965ae-c065-4827-8a3c-c4347057b99e',
     'Azoyú Me''phaa',
     'language',
     NULL,
@@ -4194,7 +4194,7 @@ VALUES
     NOW()
   ),
   (
-    'f94d8c46-5f39-4a89-9814-1106c62a7e82',
+    'a1273dc7-aa3a-4699-b278-fb8a9b089bfa',
     'Tippera',
     'language',
     NULL,
@@ -4202,7 +4202,7 @@ VALUES
     NOW()
   ),
   (
-    'acf474c8-4b78-4280-9bfd-e1ef6ee45d44',
+    '7b49d924-87b8-490e-88cd-c7db60a0456a',
     'Tarpia',
     'language',
     NULL,
@@ -4210,7 +4210,7 @@ VALUES
     NOW()
   ),
   (
-    'd31a35e4-4e2c-49e8-af54-ce4cc3dc3e9d',
+    '21432ea7-8e30-4985-a5bc-20cab72a70d6',
     'Kula',
     'language',
     NULL,
@@ -4218,7 +4218,7 @@ VALUES
     NOW()
   ),
   (
-    '275a7e53-d0b4-4036-b08a-5afad9b68802',
+    '18d70453-0eab-44ed-b793-75002472a031',
     'Tok Pisin',
     'language',
     NULL,
@@ -4226,7 +4226,7 @@ VALUES
     NOW()
   ),
   (
-    'f81d3975-d1b2-4d3e-ba8a-c0dfad131cfb',
+    '0dd63650-1a7a-4844-826c-d4eb92af590f',
     'Tapieté',
     'language',
     NULL,
@@ -4234,7 +4234,7 @@ VALUES
     NOW()
   ),
   (
-    '4e97c9ae-ed5d-4c1c-bdb1-718150625abf',
+    '4fb6ac38-c666-43ce-b717-2cca559f9b61',
     'Tupinikin',
     'language',
     NULL,
@@ -4242,7 +4242,7 @@ VALUES
     NOW()
   ),
   (
-    'c4d2dabe-61b0-4214-91c9-da13fa229664',
+    'f505ff66-b69d-4c9f-8d66-a975c7e79ad9',
     'Tlacoapa Me''phaa',
     'language',
     NULL,
@@ -4250,7 +4250,7 @@ VALUES
     NOW()
   ),
   (
-    'b5e785a2-2d63-4719-95b2-cfe53f9f0899',
+    '99fa1f15-215a-4c14-83d5-044e7154e50c',
     'Tampulma',
     'language',
     NULL,
@@ -4258,7 +4258,7 @@ VALUES
     NOW()
   ),
   (
-    '2ee67f30-e268-444c-bb14-8a29ca64b686',
+    '181ea1cc-8c24-43ad-99c9-018a90b9eaaf',
     'Tupinambá',
     'language',
     NULL,
@@ -4266,7 +4266,7 @@ VALUES
     NOW()
   ),
   (
-    '61f1d720-e473-44ae-aedb-ccf1b1e1e1c9',
+    '391bd49a-1eb8-4c05-aa38-5ab7307a3a8b',
     'Tai Pao',
     'language',
     NULL,
@@ -4274,7 +4274,7 @@ VALUES
     NOW()
   ),
   (
-    'ae44bb76-1d60-49f6-b1b5-1bc553eb402e',
+    '02665180-53c0-4d30-bf91-741041d220f9',
     'Pisaflores Tepehua',
     'language',
     NULL,
@@ -4282,7 +4282,7 @@ VALUES
     NOW()
   ),
   (
-    'c3f5fb94-9807-4e45-ae89-d88fa9c9de8c',
+    '81db0a3c-92bc-4db2-b3e9-263bd304ce13',
     'Tukpa',
     'language',
     NULL,
@@ -4290,7 +4290,7 @@ VALUES
     NOW()
   ),
   (
-    '9de56ab7-691c-4db9-8a95-d15805878ef2',
+    'c8602b37-269c-4037-817d-82e5293b31e5',
     'Tuparí',
     'language',
     NULL,
@@ -4298,7 +4298,7 @@ VALUES
     NOW()
   ),
   (
-    '143ffd9f-1902-442e-b6bc-0a187fac6889',
+    'ac772e8f-af38-482d-8c28-880c67fdfb72',
     'Tlachichilco Tepehua',
     'language',
     NULL,
@@ -4306,7 +4306,7 @@ VALUES
     NOW()
   ),
   (
-    'd1e07b32-66d9-4103-b4b8-0b807a344a3f',
+    '07b45cd5-74c4-4fda-be6c-4764d32ea27c',
     'Tampuan',
     'language',
     NULL,
@@ -4314,7 +4314,7 @@ VALUES
     NOW()
   ),
   (
-    '08c511d7-70fc-41a2-8f29-f0233da59864',
+    'c22e435e-43b9-47eb-97da-a4977507bdef',
     'Tanapag',
     'language',
     NULL,
@@ -4322,7 +4322,7 @@ VALUES
     NOW()
   ),
   (
-    'fd456750-8652-4d74-93a4-b284652f5097',
+    '1833f5e4-d6a7-4b47-b6c9-4e5cc23c42d4',
     'Acatepec Me''phaa',
     'language',
     NULL,
@@ -4330,7 +4330,7 @@ VALUES
     NOW()
   ),
   (
-    '3a1c8053-d5a4-4569-9a9e-774ce41fa003',
+    '0b3dec29-faf3-4edf-ab20-15f808034bd7',
     'Trumai',
     'language',
     NULL,
@@ -4338,7 +4338,7 @@ VALUES
     NOW()
   ),
   (
-    'fe3258f1-2d1b-4341-bafc-ff0c27b3da9d',
+    'b5e91861-e50a-4e02-8d18-3317cc5ba9bf',
     'Tinputz',
     'language',
     NULL,
@@ -4346,7 +4346,7 @@ VALUES
     NOW()
   ),
   (
-    'f334317c-8a93-4e70-a459-507a8b95ca21',
+    '4b91b4d9-7920-44a7-a4f1-43c12b19055a',
     'Tembé',
     'language',
     NULL,
@@ -4354,7 +4354,7 @@ VALUES
     NOW()
   ),
   (
-    '813af76d-2640-4e65-93b5-8a31b9a3db1c',
+    '43cbc11b-3de4-440e-bc51-29ee58910e26',
     'Lehali',
     'language',
     NULL,
@@ -4362,7 +4362,7 @@ VALUES
     NOW()
   ),
   (
-    'd4a4831c-a36b-426b-894d-54bd213873eb',
+    '85ef7ed9-daf1-411e-aeba-bb67cd4863fc',
     'Turumsa',
     'language',
     NULL,
@@ -4370,7 +4370,7 @@ VALUES
     NOW()
   ),
   (
-    'cb28688c-e9d0-4460-9e6e-52335c43a383',
+    'fb4d1397-67e0-4793-9f23-c310e4c582ad',
     'Tenino',
     'language',
     NULL,
@@ -4378,7 +4378,7 @@ VALUES
     NOW()
   ),
   (
-    'e3c7868d-b24b-485c-9bc9-7d956a4a04be',
+    '3b291b17-b62e-4eb8-9199-07542b0c2fb7',
     'Toaripi',
     'language',
     NULL,
@@ -4386,7 +4386,7 @@ VALUES
     NOW()
   ),
   (
-    '756a9069-52bc-4abc-b501-29c76db9b09c',
+    '0ed87aed-e7b1-47fe-8513-4aa7f0e8e1a9',
     'Tomoip',
     'language',
     NULL,
@@ -4394,7 +4394,7 @@ VALUES
     NOW()
   ),
   (
-    'bc90195c-123c-4942-b878-c88727489fec',
+    '3684efe0-56dc-4f44-9759-60e670491d8b',
     'Tunni',
     'language',
     NULL,
@@ -4402,7 +4402,7 @@ VALUES
     NOW()
   ),
   (
-    '4454f4e4-f266-4632-9513-a137a012ce47',
+    '1c985aab-e046-4d23-b58a-4dd77d65d5d9',
     'Torona',
     'language',
     NULL,
@@ -4410,7 +4410,7 @@ VALUES
     NOW()
   ),
   (
-    '336825eb-1dd7-4198-837e-333ffe6bee4a',
+    '4cdf28b9-5739-4eff-919b-1f7c1b46bce5',
     'Western Totonac',
     'language',
     NULL,
@@ -4418,7 +4418,7 @@ VALUES
     NOW()
   ),
   (
-    '59a53c51-19a2-4cf0-adf0-7ff7d70a3579',
+    '70ffdcb6-677b-497c-820c-f5c951d9dff3',
     'Touo',
     'language',
     NULL,
@@ -4426,7 +4426,7 @@ VALUES
     NOW()
   ),
   (
-    '687f38f3-a531-448b-85ac-26e578148be1',
+    '9bc3d29f-d393-471e-bba4-31b184688c91',
     'Tonkawa',
     'language',
     NULL,
@@ -4434,7 +4434,7 @@ VALUES
     NOW()
   ),
   (
-    'd36dea11-0ffe-4b91-bc5a-eb6dc743aa8d',
+    'f6cb9d4b-2eb2-44ce-97bb-7c59237869f1',
     'Tirahi',
     'language',
     NULL,
@@ -4442,7 +4442,7 @@ VALUES
     NOW()
   ),
   (
-    '20bf8107-15e1-4098-8e11-87f236b1b63b',
+    '3e3a1a9f-5ff4-4020-89cf-bd44b45b0086',
     'Terebu',
     'language',
     NULL,
@@ -4450,7 +4450,7 @@ VALUES
     NOW()
   ),
   (
-    '2eacf486-01f3-4a37-a67a-90cc98aece6a',
+    '238a124e-cd24-4f63-9e58-34832f20b006',
     'Copala Triqui',
     'language',
     NULL,
@@ -4458,7 +4458,7 @@ VALUES
     NOW()
   ),
   (
-    'adabb6a2-7151-47a1-a789-527818fd04cd',
+    '457b726d-8a89-44fe-8b72-5fbeead2487f',
     'Turi',
     'language',
     NULL,
@@ -4466,7 +4466,7 @@ VALUES
     NOW()
   ),
   (
-    'bd970c50-3947-4d3b-aaec-895563bf5e41',
+    'c8b65eb3-61f2-4f3d-a8af-bbdaa9ec7410',
     'East Tarangan',
     'language',
     NULL,
@@ -4474,7 +4474,7 @@ VALUES
     NOW()
   ),
   (
-    '87d2275b-c9d5-4111-9d28-9a79eabdf977',
+    '925f69a8-976c-41c7-ad3b-8e349b6ff87d',
     'Trinidadian Creole English',
     'language',
     NULL,
@@ -4482,7 +4482,7 @@ VALUES
     NOW()
   ),
   (
-    'afadd3b0-8a6d-4c8c-8858-5d5c4a07e650',
+    '2be36c55-7d1a-4a6d-bf73-b42b1ea98ab0',
     'Lishán Didán',
     'language',
     NULL,
@@ -4490,7 +4490,7 @@ VALUES
     NOW()
   ),
   (
-    '2e7245f7-fc9e-44c1-8242-e4aa6a720fad',
+    'c07cea31-7f62-43d1-b67b-7b7ccb3d16f8',
     'Turaka',
     'language',
     NULL,
@@ -4498,7 +4498,7 @@ VALUES
     NOW()
   ),
   (
-    'f65c0305-7610-4cd5-b660-9ab550e5a4fa',
+    '8ad7fe9a-bdac-4d15-9a39-71e104f5ca0c',
     'Trió',
     'language',
     NULL,
@@ -4506,7 +4506,7 @@ VALUES
     NOW()
   ),
   (
-    'ab42bcc7-2806-4f9f-9140-9d077e55ce1d',
+    '7572f63f-1429-4a9d-8fb3-9737b1ca4452',
     'Toram',
     'language',
     NULL,
@@ -4514,7 +4514,7 @@ VALUES
     NOW()
   ),
   (
-    'c984ef5e-1bc1-48d8-a648-02581e110be6',
+    'c7c95dde-60cf-41fb-aa81-9b7799090024',
     'Traveller Scottish',
     'language',
     NULL,
@@ -4522,7 +4522,7 @@ VALUES
     NOW()
   ),
   (
-    'b735fbbf-53bc-4e88-8220-4161dfb12ed1',
+    'b74bec66-73b6-4e25-ac41-27ec389a4932',
     'Tregami',
     'language',
     NULL,
@@ -4530,7 +4530,7 @@ VALUES
     NOW()
   ),
   (
-    '554f8d58-ce6d-49a4-b939-1dd73ec9f482',
+    '4d8e3f10-7c11-4740-8c64-943f4e021dc5',
     'Trinitario',
     'language',
     NULL,
@@ -4538,7 +4538,7 @@ VALUES
     NOW()
   ),
   (
-    'a9273a0a-fb95-4261-9fe7-30b7f2f662e3',
+    'd266848c-ea8d-44e2-a81e-ee21e576ad26',
     'Tarao Naga',
     'language',
     NULL,
@@ -4546,7 +4546,7 @@ VALUES
     NOW()
   ),
   (
-    '4c375d06-191e-4857-88f8-bd5f19a45e17',
+    'da61f258-38f4-47a4-8ec9-d2d6ad5f9856',
     'Kok Borok',
     'language',
     NULL,
@@ -4554,7 +4554,7 @@ VALUES
     NOW()
   ),
   (
-    '118e3734-c72c-4980-be02-71f81f8bc9fe',
+    'e9cf22ea-ac8c-481a-a84f-293c5751b475',
     'San Martín Itunyoso Triqui',
     'language',
     NULL,
@@ -4562,7 +4562,7 @@ VALUES
     NOW()
   ),
   (
-    '51a772a0-afe4-4a0b-b7ec-9c9892a781b1',
+    '614929f3-7b3e-45d0-bd72-4889ed7b5be0',
     'Taushiro',
     'language',
     NULL,
@@ -4570,7 +4570,7 @@ VALUES
     NOW()
   ),
   (
-    'c23994d0-354b-4cd8-84aa-24d300067e09',
+    '524fce6c-d9c2-4f8c-a07b-05b498606c2f',
     'Chicahuaxtla Triqui',
     'language',
     NULL,
@@ -4578,7 +4578,7 @@ VALUES
     NOW()
   ),
   (
-    'a60a037a-87d6-4ed6-9d36-0611cc4aee69',
+    '77cecc7c-5bba-4e6a-9ece-51ad94b86abb',
     'Tunggare',
     'language',
     NULL,
@@ -4586,7 +4586,7 @@ VALUES
     NOW()
   ),
   (
-    'bcaeb936-1e9a-4f8b-8a01-5c5467749558',
+    '3385f704-b943-4cb3-b3bb-bf0870194693',
     'Turoyo',
     'language',
     NULL,
@@ -4594,7 +4594,7 @@ VALUES
     NOW()
   ),
   (
-    '5c17d3c3-8711-4ee4-8ee7-b4aa95fda6dd',
+    '5448e60d-1408-4480-856d-74c6b04c8812',
     'Sediq',
     'language',
     NULL,
@@ -4602,7 +4602,7 @@ VALUES
     NOW()
   ),
   (
-    '18ae88ec-a6f2-4a48-a0c9-c226ffe0f770',
+    '7c9d1a94-2f6e-43b6-9514-22e3d76fd4cf',
     'Torwali',
     'language',
     NULL,
@@ -4610,7 +4610,7 @@ VALUES
     NOW()
   ),
   (
-    '825945de-1024-447e-869a-0a5d2af20b4c',
+    '16c4b93e-eace-4b3f-854a-63053b34535d',
     'Tringgus-Sembaan Bidayuh',
     'language',
     NULL,
@@ -4618,7 +4618,7 @@ VALUES
     NOW()
   ),
   (
-    'fe12f78d-64d5-4e2b-85fd-193bc75100f4',
+    '7f54fdf6-08b6-48f2-a2bb-9a444a65298f',
     'Turung',
     'language',
     NULL,
@@ -4626,7 +4626,7 @@ VALUES
     NOW()
   ),
   (
-    '32210f36-f203-4749-93e1-0da58f89d738',
+    'e2b3bf4f-1518-4905-8ff7-4c8d02b10975',
     'Torá',
     'language',
     NULL,
@@ -4634,7 +4634,7 @@ VALUES
     NOW()
   ),
   (
-    '90f6830f-d56c-4af6-bba3-aa628a034697',
+    'ee2a8c85-b83b-4170-8f6e-81da7f5c4e34',
     'Tsaangi',
     'language',
     NULL,
@@ -4642,7 +4642,7 @@ VALUES
     NOW()
   ),
   (
-    '1e933fef-7a51-449c-8cbf-b7049455a602',
+    '8ed6720b-61a1-45eb-9585-1a718da3d75e',
     'Tsamai',
     'language',
     NULL,
@@ -4650,7 +4650,7 @@ VALUES
     NOW()
   ),
   (
-    '23c7d429-3c8d-4fd0-81e8-92d196cff5e6',
+    '32f121aa-5ec2-425c-b199-30e48270fda4',
     'Tswa',
     'language',
     NULL,
@@ -4658,7 +4658,7 @@ VALUES
     NOW()
   ),
   (
-    '4d04d8f7-852e-4a68-8e59-57bebd6946a8',
+    'e76f524f-9a05-498d-9871-251cb74445ca',
     'Tsakonian',
     'language',
     NULL,
@@ -4666,7 +4666,7 @@ VALUES
     NOW()
   ),
   (
-    '48f756f3-44dc-4460-8109-4e6a9c8e5243',
+    'c6688822-d675-4944-8713-108df2a81b22',
     'Tunisian Sign Language',
     'language',
     NULL,
@@ -4674,7 +4674,7 @@ VALUES
     NOW()
   ),
   (
-    'a573c31d-43da-4cc2-a984-6d4e7f7e9e5f',
+    'e8b158c5-28bd-4e3e-8c81-143f59915ff1',
     'Tausug',
     'language',
     NULL,
@@ -4682,7 +4682,7 @@ VALUES
     NOW()
   ),
   (
-    'a4792efa-fe5f-4143-9214-c1087ecf30e3',
+    'a1aa3b99-e4e0-48ac-a3e7-8d97a7f75f13',
     'Tsuvan',
     'language',
     NULL,
@@ -4690,7 +4690,7 @@ VALUES
     NOW()
   ),
   (
-    '27201715-0b90-44dc-846b-79ba0723bfec',
+    '452744c6-eca2-4421-9dae-7bd1f9951772',
     'Tsimshian',
     'language',
     NULL,
@@ -4698,7 +4698,7 @@ VALUES
     NOW()
   ),
   (
-    '510d49b5-ac0b-4ea9-92d3-6cb5af967262',
+    '89b94c0c-971b-4d85-8b5b-91b11a711e12',
     'Tshangla',
     'language',
     NULL,
@@ -4706,7 +4706,7 @@ VALUES
     NOW()
   ),
   (
-    '2617dcb0-d29f-46a2-80d7-7df28abe2974',
+    '9556bedf-a436-4e4c-9397-5619207ba0fb',
     'Tseku',
     'language',
     NULL,
@@ -4714,7 +4714,7 @@ VALUES
     NOW()
   ),
   (
-    '03c7a477-6b5a-4ffa-bc84-b5b3fbb2bd4c',
+    'b846f22a-1298-4482-be9b-82043ea6b038',
     'Ts''ün-Lao',
     'language',
     NULL,
@@ -4722,7 +4722,7 @@ VALUES
     NOW()
   ),
   (
-    '5689906e-5ccb-4046-a05b-c7bd8f2924d8',
+    'fd54ed60-d3db-4821-b750-6c7159c8220e',
     'Turkish Sign Language',
     'language',
     NULL,
@@ -4730,7 +4730,7 @@ VALUES
     NOW()
   ),
   (
-    '723f1f35-dbb1-4900-8caf-fae0a5052e99',
+    '3dbc0d09-2a7c-43c2-8967-915ae2a0e502',
     'Tswana',
     'language',
     NULL,
@@ -4738,7 +4738,7 @@ VALUES
     NOW()
   ),
   (
-    '1a61ab9e-d7a0-423b-8f0a-c8ba272ea14e',
+    '9af4ab3f-52c2-446e-8b80-f65ff1c2e1e5',
     'Tsonga',
     'language',
     NULL,
@@ -4746,7 +4746,7 @@ VALUES
     NOW()
   ),
   (
-    '3aeb27e2-4bb7-406e-8e38-cd411ad69f46',
+    '6c793853-da29-4324-8a8a-0e51361188e1',
     'Northern Toussian',
     'language',
     NULL,
@@ -4754,7 +4754,7 @@ VALUES
     NOW()
   ),
   (
-    'f295a366-3265-4167-abb6-d76744d4493a',
+    'bbc9fb14-b81d-4732-ba69-ef0d515ebcc8',
     'Thai Sign Language',
     'language',
     NULL,
@@ -4762,7 +4762,7 @@ VALUES
     NOW()
   ),
   (
-    '3256a4c7-f0f2-4098-8c91-edd3960f995c',
+    '3b2c8f13-44c4-4fd5-a24c-0fb0acd0ba1e',
     'Akei',
     'language',
     NULL,
@@ -4770,7 +4770,7 @@ VALUES
     NOW()
   ),
   (
-    'c3bde282-14c6-4f90-91f6-709eb240bd01',
+    '567ccf6c-f7ac-4cd4-ba04-573e392b2c18',
     'Taiwan Sign Language',
     'language',
     NULL,
@@ -4778,7 +4778,7 @@ VALUES
     NOW()
   ),
   (
-    'eeb9a694-8de1-4f85-b4ce-c9b74c16266d',
+    '3a3ea74b-560d-4959-b44e-8f9e5779444f',
     'Tondi Songway Kiini',
     'language',
     NULL,
@@ -4786,7 +4786,7 @@ VALUES
     NOW()
   ),
   (
-    '67bf022b-e63e-4d3a-86e1-3396f9044818',
+    '53b96191-214f-433d-8356-0f5b02f83454',
     'Tsou',
     'language',
     NULL,
@@ -4794,7 +4794,7 @@ VALUES
     NOW()
   ),
   (
-    '58627987-d64a-4fc1-969a-f7659e2f4548',
+    '9e09cd86-2c0c-49cb-97f7-8b1a900a51fc',
     'Tsogo',
     'language',
     NULL,
@@ -4802,7 +4802,7 @@ VALUES
     NOW()
   ),
   (
-    '519fc7c6-4ba2-4f4b-b0ac-5f90beab7479',
+    '411cebee-01c3-4c60-9ac2-7b19cc8b859d',
     'Tsishingini',
     'language',
     NULL,
@@ -4810,7 +4810,7 @@ VALUES
     NOW()
   ),
   (
-    'e810ed2c-be64-4db4-9f69-06303d275629',
+    '69bdb7c3-ea7b-4ad3-9f16-99f669419dff',
     'Mubami',
     'language',
     NULL,
@@ -4818,7 +4818,7 @@ VALUES
     NOW()
   ),
   (
-    '9346ede8-9416-4168-8cd7-9b4842563dea',
+    '408919a7-0ced-4b7b-bf16-500ad21f51dd',
     'Tebul Sign Language',
     'language',
     NULL,
@@ -4826,7 +4826,7 @@ VALUES
     NOW()
   ),
   (
-    '3987b6fd-ee20-4fdd-b44e-5a2b0f7ee78e',
+    '93f98f0a-b897-428a-9c45-ea48c4ae3ade',
     'Purepecha',
     'language',
     NULL,
@@ -4834,7 +4834,7 @@ VALUES
     NOW()
   ),
   (
-    'c6afd45b-7da2-4e07-9dda-958c137a0ea9',
+    'dd9769f3-cc9e-4c5a-945f-07f5f80e2a73',
     'Tutelo',
     'language',
     NULL,
@@ -4842,7 +4842,7 @@ VALUES
     NOW()
   ),
   (
-    '3d74670f-3de9-4fde-8ad0-3ff3d6e99dc4',
+    '7142a344-5f1c-4b4f-9ed5-7af0245c8afd',
     'Gaa',
     'language',
     NULL,
@@ -4850,7 +4850,7 @@ VALUES
     NOW()
   ),
   (
-    '0ec50977-f0cc-477b-a405-17258164da03',
+    '8f58479b-20b9-485a-a0df-75854729d611',
     'Tektiteko',
     'language',
     NULL,
@@ -4858,7 +4858,7 @@ VALUES
     NOW()
   ),
   (
-    'c5c0ce1a-fb2b-4197-a69e-d04d4075832a',
+    'c388feaa-8cf2-4455-8101-3cdad375b2c8',
     'Tauade',
     'language',
     NULL,
@@ -4866,7 +4866,7 @@ VALUES
     NOW()
   ),
   (
-    '521880df-e998-4aa3-8b38-57368600cdce',
+    '46962e6d-8e1f-41c6-addd-deda4edf0717',
     'Bwanabwana',
     'language',
     NULL,
@@ -4874,7 +4874,7 @@ VALUES
     NOW()
   ),
   (
-    '88efef64-ae85-49a9-8496-7b818241de48',
+    'd43b1b4e-5ac3-46ee-b45d-71146189b3f7',
     'Tuotomb',
     'language',
     NULL,
@@ -4882,7 +4882,7 @@ VALUES
     NOW()
   ),
   (
-    '79496ff7-90a4-4041-88ad-c3f52e6e5446',
+    '0fae2733-573e-4504-b5df-6551d1596f2d',
     'Tutong',
     'language',
     NULL,
@@ -4890,7 +4890,7 @@ VALUES
     NOW()
   ),
   (
-    '059d6d2b-714a-4096-9348-131d81bc6da9',
+    '11f3e582-794d-4188-ac10-f2a4b4c5023a',
     'Upper Ta''oih',
     'language',
     NULL,
@@ -4898,7 +4898,7 @@ VALUES
     NOW()
   ),
   (
-    '184580de-7613-4b9c-b555-0e732a5fde19',
+    '16d84c6c-d3ae-4522-bfb4-ecaf52b0ba2e',
     'Tobati',
     'language',
     NULL,
@@ -4906,7 +4906,7 @@ VALUES
     NOW()
   ),
   (
-    'b5442c0c-a122-42e0-89a6-b246c365324c',
+    '5e582219-8365-4817-ab25-2d5b55f9b128',
     'Tooro',
     'language',
     NULL,
@@ -4914,7 +4914,7 @@ VALUES
     NOW()
   ),
   (
-    '455ea3c3-912d-4076-a327-f544f2dfa250',
+    '20a84d95-e874-4e29-831c-152d3e180e6a',
     'Totoro',
     'language',
     NULL,
@@ -4922,7 +4922,7 @@ VALUES
     NOW()
   ),
   (
-    '5cffb747-6298-4022-8562-4e2cf70c4c51',
+    '687cee31-ce4e-4061-96a1-1d36a713e8cd',
     'Totela',
     'language',
     NULL,
@@ -4930,7 +4930,7 @@ VALUES
     NOW()
   ),
   (
-    'fb43850b-f932-40e1-bd09-72deae4ca85f',
+    '81e8edf3-551b-43ad-a571-70548a32750f',
     'Northern Tutchone',
     'language',
     NULL,
@@ -4938,7 +4938,7 @@ VALUES
     NOW()
   ),
   (
-    '0f6e9641-1df7-425f-82d9-521a4b44bb8a',
+    '1d94b39e-05e7-452a-a453-d3560808fc07',
     'Towei',
     'language',
     NULL,
@@ -4946,7 +4946,7 @@ VALUES
     NOW()
   ),
   (
-    '3a2d3112-9f1c-4085-8c33-82301ddecd05',
+    '44d29408-2458-4e5f-a367-3b0153a336c3',
     'Lower Ta''oih',
     'language',
     NULL,
@@ -4954,7 +4954,7 @@ VALUES
     NOW()
   ),
   (
-    '8c18dcb5-037c-4ade-b1a3-99c6993ea216',
+    '7b7a1ab0-9e41-4625-bca7-0a659330bdc8',
     'Tombelala',
     'language',
     NULL,
@@ -4962,15 +4962,15 @@ VALUES
     NOW()
   ),
   (
-    'f1c1c14f-a70f-4dec-9739-cd1a3e0deed8',
+    '39963228-4bc0-4005-9f92-ba6b88bc176d',
     'Tawallammat Tamajaq',
     'language',
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     NOW(),
     NOW()
   ),
   (
-    '4891fe96-fee4-421d-ab84-bf0145fb4815',
+    '966c85e3-a5dc-4fa7-bda8-be0ada6f04da',
     'Tera',
     'language',
     NULL,
@@ -4978,7 +4978,7 @@ VALUES
     NOW()
   ),
   (
-    '4a881e54-be9e-4730-9e76-aeb25aae9bad',
+    '60d5f86b-d499-409e-bfbc-a9b089bfc3b0',
     'Northeastern Thai',
     'language',
     NULL,
@@ -4986,7 +4986,7 @@ VALUES
     NOW()
   ),
   (
-    'fcd8adc0-68c6-41b6-a8af-fffed61e9c9c',
+    '5678616a-24b9-401d-8498-c5564d4720c3',
     'Muslim Tat',
     'language',
     NULL,
@@ -4994,7 +4994,7 @@ VALUES
     NOW()
   ),
   (
-    'e5aaffca-19e3-4800-a81f-874d21b251aa',
+    '853c79dd-1b72-439e-97d7-25debee351d0',
     'Torau',
     'language',
     NULL,
@@ -5002,7 +5002,7 @@ VALUES
     NOW()
   ),
   (
-    '51dd2dcc-d3ae-49d5-b25a-b7013ce553fe',
+    '114d5578-44e3-4e8e-bd2c-a77d7b4f314b',
     'Titan',
     'language',
     NULL,
@@ -5010,7 +5010,7 @@ VALUES
     NOW()
   ),
   (
-    '09d790ec-90a4-4696-ab24-197726cef10c',
+    '27575d37-76c9-4b46-b23f-536d23a00411',
     'Long Wat',
     'language',
     NULL,
@@ -5018,7 +5018,7 @@ VALUES
     NOW()
   ),
   (
-    '6ad859ef-6c8e-42db-bd76-da1ef3305331',
+    '8baf0590-6c8e-463b-b7b3-2483df98c225',
     'Sikaritai',
     'language',
     NULL,
@@ -5026,7 +5026,7 @@ VALUES
     NOW()
   ),
   (
-    '8a220ebe-df19-4ba2-823e-2c9aaafd311d',
+    'e21f0726-c7fa-42b0-b39d-fe55d7c37e26',
     'Tsum',
     'language',
     NULL,
@@ -5034,7 +5034,7 @@ VALUES
     NOW()
   ),
   (
-    'fc56569e-4165-41c7-8cea-a365f15fac06',
+    '077df0f1-a558-41cb-866f-1e8082dd9a5a',
     'Wiarumus',
     'language',
     NULL,
@@ -5042,7 +5042,7 @@ VALUES
     NOW()
   ),
   (
-    'e743cd7f-097c-4175-9538-e94a51af6b52',
+    '6be5550e-bc2b-4b2b-8473-628de134f794',
     'Tübatulabal',
     'language',
     NULL,
@@ -5050,7 +5050,7 @@ VALUES
     NOW()
   ),
   (
-    '42fff521-0c7e-4612-a976-34d478cebe79',
+    '8b5b2985-ccde-41f6-b73a-345aae0673b7',
     'Mutu',
     'language',
     NULL,
@@ -5058,7 +5058,7 @@ VALUES
     NOW()
   ),
   (
-    '195f7f5f-a39b-4801-b4c3-0b6c94a7799a',
+    'adc5d6f4-00f0-4a0b-9671-bd9e0488a9fc',
     'Tuxá',
     'language',
     NULL,
@@ -5066,7 +5066,7 @@ VALUES
     NOW()
   ),
   (
-    '4dc35f90-29ad-4e80-a9e3-2fe88d1ae6ed',
+    'a20294a7-7438-499d-aa58-fbd007540632',
     'Tuyuca',
     'language',
     NULL,
@@ -5074,7 +5074,7 @@ VALUES
     NOW()
   ),
   (
-    'e6b15429-39c4-449d-a420-2dbe1ec37f40',
+    'd7320ac3-d5db-450b-ad3f-3103789879ee',
     'Central Tunebo',
     'language',
     NULL,
@@ -5082,7 +5082,7 @@ VALUES
     NOW()
   ),
   (
-    '6e2727d5-b169-4d18-b0c6-1b55f50e56b8',
+    '0c46ccd9-3fa1-4bbe-8b92-4d2a1ab4ed81',
     'Tunia',
     'language',
     NULL,
@@ -5090,7 +5090,7 @@ VALUES
     NOW()
   ),
   (
-    '7bdd940d-5e66-420e-a569-4f1cba8f715b',
+    '8ef2ac3b-1c89-408a-9a10-1055d56fac65',
     'Taulil',
     'language',
     NULL,
@@ -5098,7 +5098,7 @@ VALUES
     NOW()
   ),
   (
-    '3ed0e389-819a-40cd-9346-c1c6355d682d',
+    '1be37af3-4a8b-434f-a275-bbbf867ecc88',
     'Tupuri',
     'language',
     NULL,
@@ -5106,7 +5106,7 @@ VALUES
     NOW()
   ),
   (
-    'b50a6cd2-a60e-4314-8ca9-757b9f706781',
+    '5f891e07-1c3b-4638-957b-40fa859a8918',
     'Tugutil',
     'language',
     NULL,
@@ -5114,7 +5114,7 @@ VALUES
     NOW()
   ),
   (
-    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
+    'aaab7677-28c2-41da-b543-26f7397434db',
     'Turkmen',
     'language',
     NULL,
@@ -5122,7 +5122,7 @@ VALUES
     NOW()
   ),
   (
-    'b308725c-1468-41ec-9524-aecc93603191',
+    '5dfee571-6969-4e9d-9367-a01e96b9ac0c',
     'Tula',
     'language',
     NULL,
@@ -5130,7 +5130,7 @@ VALUES
     NOW()
   ),
   (
-    'c74ac503-abc4-4902-94b8-75c1f9561280',
+    'f63c25bc-dc7b-4bc4-81d8-c5751e362cc4',
     'Tumbuka',
     'language',
     NULL,
@@ -5138,7 +5138,7 @@ VALUES
     NOW()
   ),
   (
-    '94379901-4599-45e3-abab-492786381670',
+    '1d56f1a5-f59b-4878-8d02-ed7d080770b6',
     'Tunica',
     'language',
     NULL,
@@ -5146,7 +5146,7 @@ VALUES
     NOW()
   ),
   (
-    '9dfa44b5-0ea6-4ee0-a275-05c75c667c85',
+    'cc319de0-e936-46ec-9270-f3437d8b043a',
     'Tucano',
     'language',
     NULL,
@@ -5154,7 +5154,7 @@ VALUES
     NOW()
   ),
   (
-    '88d664c3-124c-442c-8a07-38edb6e6ac71',
+    'e6fbbec7-c2ee-44cd-8dc1-adfb7cf8ad8a',
     'Tedaga',
     'language',
     NULL,
@@ -5162,7 +5162,7 @@ VALUES
     NOW()
   ),
   (
-    '9bb6651e-cd17-4a95-a0d2-169497709419',
+    '36019a7b-be85-4007-99be-f9602df0629c',
     'Turkish',
     'language',
     NULL,
@@ -5170,7 +5170,7 @@ VALUES
     NOW()
   ),
   (
-    '3dcff58d-9ad4-4d0e-8247-532ca491ece4',
+    '72935d00-ba1e-4d35-9470-fe9900a0c943',
     'Tuscarora',
     'language',
     NULL,
@@ -5178,7 +5178,7 @@ VALUES
     NOW()
   ),
   (
-    'f2ac00ef-92b3-4380-9701-b6618c9d7e31',
+    'b97a38df-45fe-4739-8aba-a3fdf2c544f6',
     'Tututni',
     'language',
     NULL,
@@ -5186,7 +5186,7 @@ VALUES
     NOW()
   ),
   (
-    '1de9080d-4a0a-405e-8d9d-194657b36ae8',
+    '44c18e4d-308e-4339-88ee-82f13e1c2362',
     'Turkana',
     'language',
     NULL,
@@ -5194,7 +5194,7 @@ VALUES
     NOW()
   ),
   (
-    '3db0957b-0cbb-44a6-bca4-5261cffb326c',
+    'e6772a55-a9f8-4688-9c62-f07cabae4c45',
     'Tuxináwa',
     'language',
     NULL,
@@ -5202,15 +5202,15 @@ VALUES
     NOW()
   ),
   (
-    '659f2ba2-561f-4c83-be41-44473a87bd23',
+    '26ff6444-b29a-436f-873d-ada016ddc4ff',
     'Tugen',
     'language',
-    '8c4ecf77-8cb7-4058-86c6-9e8a8b5ca563',
+    '54aa0ee5-0fe2-4d79-bc0a-034c56466a65',
     NOW(),
     NOW()
   ),
   (
-    'ca38ddbf-08b7-4943-ac21-916fb2460042',
+    '4e4eabd6-35d5-49c1-9dde-ddcdb9a8186c',
     'Turka',
     'language',
     NULL,
@@ -5218,7 +5218,7 @@ VALUES
     NOW()
   ),
   (
-    '55e4124f-aa09-4259-8708-54de70fadeae',
+    'eabeeeaf-feb8-44a5-9d6d-ece9093c27ef',
     'Vaghua',
     'language',
     NULL,
@@ -5226,7 +5226,7 @@ VALUES
     NOW()
   ),
   (
-    'c0f82b8d-19e5-4447-b636-d27fe3b763b1',
+    '5c7c2b30-4ec0-4f42-bd8b-50bc11dd610e',
     'Tsuvadi',
     'language',
     NULL,
@@ -5234,7 +5234,7 @@ VALUES
     NOW()
   ),
   (
-    'd04ee75f-9c3f-4705-a657-d600c5aba792',
+    '48d9f7e0-02df-4b31-a6b7-7d79f8a07864',
     'Te''un',
     'language',
     NULL,
@@ -5242,7 +5242,7 @@ VALUES
     NOW()
   ),
   (
-    'c4b3d28f-b0df-4535-9213-0b0e7ffaf669',
+    'b25484b2-2498-42b8-be30-aecf901d8895',
     'Tulai',
     'language',
     NULL,
@@ -5250,7 +5250,7 @@ VALUES
     NOW()
   ),
   (
-    '1636c874-a15a-47de-bd85-5e8efa078793',
+    '3c56091f-fac0-4db8-ba69-109cae0f909f',
     'Southeast Ambrym',
     'language',
     NULL,
@@ -5258,7 +5258,7 @@ VALUES
     NOW()
   ),
   (
-    'ce27469d-1b32-42b8-af92-7baccc43bcc0',
+    'caf52d84-f642-43db-b46e-98761538633b',
     'Tuvalu',
     'language',
     NULL,
@@ -5266,7 +5266,7 @@ VALUES
     NOW()
   ),
   (
-    '96c049eb-0e42-4337-9ac1-bc5790bea379',
+    'e89b6cdd-7a7f-4e4d-baf1-332550e9970f',
     'Tela-Masbuar',
     'language',
     NULL,
@@ -5274,7 +5274,7 @@ VALUES
     NOW()
   ),
   (
-    'af37e796-6ba2-479c-b330-b192dbd4046e',
+    'e748e46e-d12a-4a04-bf26-819b0953f121',
     'Tavoyan',
     'language',
     NULL,
@@ -5282,7 +5282,7 @@ VALUES
     NOW()
   ),
   (
-    '88c35e24-1747-4bb0-bc28-777d421b0d2b',
+    '9bbd10ed-838e-40bd-8710-358eef9bbdd7',
     'Tidore',
     'language',
     NULL,
@@ -5290,7 +5290,7 @@ VALUES
     NOW()
   ),
   (
-    'ad639539-5e5c-468d-84d5-04c7c8ea95d4',
+    '4ae22a58-2109-4c0e-89c9-3d5d74fb1026',
     'Taveta',
     'language',
     NULL,
@@ -5298,7 +5298,7 @@ VALUES
     NOW()
   ),
   (
-    '26a407d4-e9b0-4be5-a2ab-a5231c5bf7e6',
+    '07061044-cc63-403c-bbcd-c74b4fcd0e6f',
     'Tutsa Naga',
     'language',
     NULL,
@@ -5306,7 +5306,7 @@ VALUES
     NOW()
   ),
   (
-    '6a5c7e82-b426-4c33-bfaa-955369c88af5',
+    'b77fce50-3426-4e7c-bc4a-44c64779e72f',
     'Tunen',
     'language',
     NULL,
@@ -5314,7 +5314,7 @@ VALUES
     NOW()
   ),
   (
-    '4b3e59f9-980c-4e5f-a739-4243760bbeac',
+    'b9a411e9-f81b-4d0f-97d8-b6e639303d47',
     'Sedoa',
     'language',
     NULL,
@@ -5322,7 +5322,7 @@ VALUES
     NOW()
   ),
   (
-    'b55f3f5c-0366-4baf-97a6-99939a7129ef',
+    '911c69e1-ad62-4f3a-ab6f-827891570b8e',
     'Taivoan',
     'language',
     NULL,
@@ -5330,7 +5330,7 @@ VALUES
     NOW()
   ),
   (
-    '74618b81-5e64-4aef-bb1e-0b2cc2ff4848',
+    'b82bccdb-e68e-459c-996d-5441f0ba6911',
     'Timor Pidgin',
     'language',
     NULL,
@@ -5338,7 +5338,7 @@ VALUES
     NOW()
   ),
   (
-    '0f8c57a6-26d4-4386-ba31-0620a3643416',
+    '70cdf43c-1390-4249-a9bb-c2bbcde4cf39',
     'Twana',
     'language',
     NULL,
@@ -5346,7 +5346,7 @@ VALUES
     NOW()
   ),
   (
-    '8449bde0-4773-4778-99a5-f5ae77930479',
+    'a831292d-8c09-461b-b85d-642037309ee9',
     'Western Tawbuid',
     'language',
     NULL,
@@ -5354,7 +5354,7 @@ VALUES
     NOW()
   ),
   (
-    'c2188ecd-fb6e-4eeb-9c9e-5e02e9dd3baf',
+    '015ba6ce-b707-4d4e-acae-be0be3e6420d',
     'Teshenawa',
     'language',
     NULL,
@@ -5362,7 +5362,7 @@ VALUES
     NOW()
   ),
   (
-    '2e61a705-7b15-477f-a505-7f13be7f50dc',
+    '74c83b53-1fd6-4a05-acb6-ca01bd45621e',
     'Twents',
     'language',
     NULL,
@@ -5370,7 +5370,7 @@ VALUES
     NOW()
   ),
   (
-    '6504f4a8-8340-425b-82e6-a606e0f73ff0',
+    'b20e27d2-02c7-4e44-b444-c51dae0a0cf8',
     'Tewa (Indonesia)',
     'language',
     NULL,
@@ -5378,7 +5378,7 @@ VALUES
     NOW()
   ),
   (
-    'bd01d8b5-e08c-40bd-bb57-f1aba3263b3a',
+    'd5cb41d1-238e-4732-a76e-40ae49d37acb',
     'Northern Tiwa',
     'language',
     NULL,
@@ -5386,7 +5386,7 @@ VALUES
     NOW()
   ),
   (
-    '0a8617a5-40fa-4ae4-ad58-4adea1b5f09a',
+    'c6fe47d7-d920-4a72-80fe-044ab0f104ca',
     'Tereweng',
     'language',
     NULL,
@@ -5394,7 +5394,7 @@ VALUES
     NOW()
   ),
   (
-    '47472120-0ba3-4c67-a7c9-f393b615f0fc',
+    '323257dd-01de-46a7-8682-cb80a6e1d1d3',
     'Tai Dón',
     'language',
     NULL,
@@ -5402,15 +5402,15 @@ VALUES
     NOW()
   ),
   (
-    '0c8a4788-0012-4b15-8c0a-68a6b5b177ef',
+    '29b06515-6af6-40db-8f47-5072563b952b',
     'Twi',
     'language',
-    'b62ea0b7-8fe7-4ffa-900c-6098bc5b55d9',
+    'cff31b7d-a1cc-4885-b1fe-c84ad475fcc0',
     NOW(),
     NOW()
   ),
   (
-    '43e231b3-37f9-47fc-903e-6e77a3f97c9c',
+    '41b00c3f-b281-4e09-a082-a44e4ec0de06',
     'Tawara',
     'language',
     NULL,
@@ -5418,7 +5418,7 @@ VALUES
     NOW()
   ),
   (
-    '066b41ed-c969-4f4a-9487-1e913926b8e0',
+    'ad9c1ee9-4c36-4d5e-b67e-9a2ace188723',
     'Tawang Monpa',
     'language',
     NULL,
@@ -5426,7 +5426,7 @@ VALUES
     NOW()
   ),
   (
-    '15aaa2c5-53ea-4aa1-aeea-d84e9668b459',
+    '6ef15778-44e7-49c8-911a-07660c41fa83',
     'Twendi',
     'language',
     NULL,
@@ -5434,7 +5434,7 @@ VALUES
     NOW()
   ),
   (
-    '5389c3f2-7c5b-4997-9be9-542000eb6698',
+    '98a12537-a11f-4f44-b4ae-99f570c1778a',
     'Tswapong',
     'language',
     NULL,
@@ -5442,7 +5442,7 @@ VALUES
     NOW()
   ),
   (
-    '0fbf0b6c-b9fd-4bfa-9140-5a38ad7a1deb',
+    '6866eb40-7414-483e-8dd6-52099a22d88a',
     'Ere',
     'language',
     NULL,
@@ -5450,7 +5450,7 @@ VALUES
     NOW()
   ),
   (
-    '1196f9d6-19d9-4eaf-9dab-c8ac801417c6',
+    'a52d4574-3c76-4bb3-b384-8523c6b1430f',
     'Tasawaq',
     'language',
     NULL,
@@ -5458,7 +5458,7 @@ VALUES
     NOW()
   ),
   (
-    'f9d78875-940f-4b15-8d25-7b7c853e3431',
+    'a35308d3-27ed-484f-b7da-3466c3181e90',
     'Southwestern Tarahumara',
     'language',
     NULL,
@@ -5466,7 +5466,7 @@ VALUES
     NOW()
   ),
   (
-    '7c80750a-382b-4d39-8b26-7ef18b2d893e',
+    '11ef0e11-9cb3-409d-9d2c-65e0cf48e7fa',
     'Turiwára',
     'language',
     NULL,
@@ -5474,7 +5474,7 @@ VALUES
     NOW()
   ),
   (
-    '2e96051b-2370-4f15-a879-35f749468d86',
+    '0eb593e3-a4d1-40bd-b302-905bbe2b12e4',
     'Termanu',
     'language',
     NULL,
@@ -5482,7 +5482,7 @@ VALUES
     NOW()
   ),
   (
-    '3b72f58e-4e93-4e9b-9462-a3fa75881e35',
+    '5e568a4c-a9e7-4abc-812c-f044291b5acc',
     'Tuwari',
     'language',
     NULL,
@@ -5490,7 +5490,7 @@ VALUES
     NOW()
   ),
   (
-    '1784fa35-d2a9-4bb1-90d4-51645a673d8d',
+    '0189657d-bc91-46dd-8482-c7e15e474d88',
     'Tewe',
     'language',
     NULL,
@@ -5498,7 +5498,7 @@ VALUES
     NOW()
   ),
   (
-    'fd6ee158-d727-4b4e-a61a-9b3769ea87fa',
+    '748453c2-27c8-4f50-8132-80cd5bcfd8c5',
     'Tawoyan',
     'language',
     NULL,
@@ -5506,7 +5506,7 @@ VALUES
     NOW()
   ),
   (
-    '03e55a4b-63b6-4e15-aa91-421caff50fac',
+    '55ad8e36-eab8-46c3-8152-45dc097cce9a',
     'Tombonuo',
     'language',
     NULL,
@@ -5514,7 +5514,7 @@ VALUES
     NOW()
   ),
   (
-    'fef815c3-8988-4269-8131-aaf92ddffd17',
+    '269d0ff9-be70-493f-9056-f37065fb0bc3',
     'Tokharian B',
     'language',
     NULL,
@@ -5522,7 +5522,7 @@ VALUES
     NOW()
   ),
   (
-    '96cc723a-b440-472c-8148-175c331b8122',
+    '24a1dff4-c20e-4706-8764-e3109046cd1f',
     'Tsetsaut',
     'language',
     NULL,
@@ -5530,7 +5530,7 @@ VALUES
     NOW()
   ),
   (
-    'f78efb16-9547-4da4-b477-2c8ef5ac5f2c',
+    '6cff64da-2a9c-409f-9627-dee599128a7b',
     'Totoli',
     'language',
     NULL,
@@ -5538,7 +5538,7 @@ VALUES
     NOW()
   ),
   (
-    'e77ebe72-a026-4f73-8482-1e01ca654598',
+    '69a2f947-60a1-4342-8ebb-6e428a7f0a01',
     'Tangut',
     'language',
     NULL,
@@ -5546,7 +5546,7 @@ VALUES
     NOW()
   ),
   (
-    'e0d82f97-f400-421b-8e01-f29893deab9b',
+    'ae9bdab1-f61b-4be3-988b-367d45ec4ce1',
     'Thracian',
     'language',
     NULL,
@@ -5554,7 +5554,7 @@ VALUES
     NOW()
   ),
   (
-    'bca6d867-9c65-4c5f-9ebf-a02be8104038',
+    '0e64473e-f335-4199-a35d-8fd3d47921fa',
     'Ikpeng',
     'language',
     NULL,
@@ -5562,7 +5562,7 @@ VALUES
     NOW()
   ),
   (
-    '8a928a81-211f-431a-beac-bda95aafece6',
+    '2c1fa232-4b29-4ba7-a319-03b238940e52',
     'Tarjumo',
     'language',
     NULL,
@@ -5570,7 +5570,7 @@ VALUES
     NOW()
   ),
   (
-    'b39749fa-18d7-44a6-b9f5-f4de43f69eda',
+    '7000e075-645b-4462-9d33-a9e224cdfb1e',
     'Tomini',
     'language',
     NULL,
@@ -5578,7 +5578,7 @@ VALUES
     NOW()
   ),
   (
-    'e4343cd7-3ddf-4052-aa93-cae4bd5eb90c',
+    'c0e6849f-4a70-491f-9e01-0d48125f534a',
     'West Tarangan',
     'language',
     NULL,
@@ -5586,7 +5586,7 @@ VALUES
     NOW()
   ),
   (
-    '3e6edd23-7503-4e8a-83bf-92acea68404b',
+    'a678b473-303d-440e-b115-a081a9523b42',
     'Toto',
     'language',
     NULL,
@@ -5594,7 +5594,7 @@ VALUES
     NOW()
   ),
   (
-    'f1b30f27-0387-4ca8-a708-69e32fa65e18',
+    '89c16fb4-555b-4ba6-a830-c51cb5424f92',
     'Tii',
     'language',
     NULL,
@@ -5602,7 +5602,7 @@ VALUES
     NOW()
   ),
   (
-    '907ee803-528a-47ea-80dc-550f46bd7560',
+    'e146c655-7786-4a93-85af-3d8a35e06a48',
     'Tartessian',
     'language',
     NULL,
@@ -5610,7 +5610,7 @@ VALUES
     NOW()
   ),
   (
-    '3461e3ce-deec-4690-a64b-a53c670a493f',
+    '1f13acb0-1305-4d0f-a7ba-a373c62bd67e',
     'Tonsea',
     'language',
     NULL,
@@ -5618,7 +5618,7 @@ VALUES
     NOW()
   ),
   (
-    'da8912ed-939f-4bfe-a06c-7750723f8244',
+    'b3d57c03-1b4a-4468-88de-c49a849dff3b',
     'Citak',
     'language',
     NULL,
@@ -5626,7 +5626,7 @@ VALUES
     NOW()
   ),
   (
-    '8e6cfc12-b21e-4172-a1dd-d3157a595376',
+    '30b4ce14-24a6-4bb6-9d4d-201ca236d0d8',
     'Kayapó',
     'language',
     NULL,
@@ -5634,7 +5634,7 @@ VALUES
     NOW()
   ),
   (
-    '756c9446-95be-4c72-a560-50707b92ce01',
+    '03071ce7-5f49-4e36-a887-275b5fe9dfcf',
     'Tatana',
     'language',
     NULL,
@@ -5642,15 +5642,15 @@ VALUES
     NOW()
   ),
   (
-    '60648134-192b-410d-8b0d-3032d62ac70b',
+    '75cc7705-27b3-48eb-996a-77a2a71f4fd3',
     'Tanosy Malagasy',
     'language',
-    '2554ad73-2586-457b-9f00-00357a7cb807',
+    'befec57b-4d7e-4266-a8b7-54a97df49462',
     NOW(),
     NOW()
   ),
   (
-    '13585b49-6c35-43de-85ac-74e69f0ca007',
+    '5cd3fb14-e898-40d9-a0fd-8c5266a8e81e',
     'Tauya',
     'language',
     NULL,
@@ -5658,7 +5658,7 @@ VALUES
     NOW()
   ),
   (
-    '6dc6b906-d006-4a8c-9d08-4a2b9b8b728f',
+    'ef2e81a8-dcb2-4029-b17e-b928c386dd5b',
     'Kyanga',
     'language',
     NULL,
@@ -5666,7 +5666,7 @@ VALUES
     NOW()
   ),
   (
-    'b5aaa253-8309-4adf-ba41-33784d3195b8',
+    '53de08fe-4e3b-41be-bf0e-5228e132e8da',
     'O''du',
     'language',
     NULL,
@@ -5674,7 +5674,7 @@ VALUES
     NOW()
   ),
   (
-    '2da8beea-6eed-464f-acf6-373df1b83fa6',
+    '8bcaa35c-574b-4706-bf4f-3f370a5fe860',
     'Teke-Tsaayi',
     'language',
     NULL,
@@ -5682,7 +5682,7 @@ VALUES
     NOW()
   ),
   (
-    'd23ba04d-f8e7-4fb3-98bc-62fcde4352a4',
+    '590c9463-6d91-4f32-9371-0cc182eb1ff8',
     'Tai Do',
     'language',
     NULL,
@@ -5690,7 +5690,7 @@ VALUES
     NOW()
   ),
   (
-    'a0bf2564-5019-4a86-aa6f-2e83f3182d9c',
+    '7852edcd-4b8a-405d-aa16-a47ea18f9cc8',
     'Thu Lao',
     'language',
     NULL,
@@ -5698,7 +5698,7 @@ VALUES
     NOW()
   ),
   (
-    'b702c27b-a118-4013-9990-ab519b022515',
+    'b8f437c0-7ab7-454e-afea-6152ce85253e',
     'Kombai',
     'language',
     NULL,
@@ -5706,7 +5706,7 @@ VALUES
     NOW()
   ),
   (
-    '7aba4733-9b29-42d4-bb99-b646d51767eb',
+    'f893ece3-d97c-47fe-8ea1-2e7287373aff',
     'Thaypan',
     'language',
     NULL,
@@ -5714,7 +5714,7 @@ VALUES
     NOW()
   ),
   (
-    '11e8d3dd-4b57-47f9-945a-f38d0362fb13',
+    '41fb3b58-ff5d-4198-b0d9-31c4da4414c2',
     'Tai Daeng',
     'language',
     NULL,
@@ -5722,7 +5722,7 @@ VALUES
     NOW()
   ),
   (
-    'cea409ee-50ba-42ee-a1a2-ee58d16ed5e3',
+    '8686f58c-ae58-4a01-8cf5-d6b2235e7ad9',
     'Tày Sa Pa',
     'language',
     NULL,
@@ -5730,7 +5730,7 @@ VALUES
     NOW()
   ),
   (
-    '4ff97164-130b-4301-b110-91a68c433208',
+    'c06cfff7-9267-4cba-86f5-dcd091ad0000',
     'Tày Tac',
     'language',
     NULL,
@@ -5738,7 +5738,7 @@ VALUES
     NOW()
   ),
   (
-    'd324c650-edb6-440d-b2e4-dbfc8d426c6f',
+    '7bba896a-cfb9-4c29-be82-8737de18c6cb',
     'Kua',
     'language',
     NULL,
@@ -5746,7 +5746,7 @@ VALUES
     NOW()
   ),
   (
-    '6c7a704c-3e85-43c7-adbb-a121cf296bee',
+    '15622d83-64aa-4de4-aae7-d8008dac0e1b',
     'Tuvinian',
     'language',
     NULL,
@@ -5754,7 +5754,7 @@ VALUES
     NOW()
   ),
   (
-    '991c3a7d-9070-4a81-aaf5-178f8dafafb6',
+    '8ce21d76-a8a8-4a3f-8309-d5130f800dff',
     'Teke-Tyee',
     'language',
     NULL,
@@ -5762,7 +5762,7 @@ VALUES
     NOW()
   ),
   (
-    '515f8023-7b4c-454c-b382-bc732b1cfb1b',
+    '001c14ef-56d6-44da-a17c-a260d69221f0',
     'Tiyaa',
     'language',
     NULL,
@@ -5770,7 +5770,7 @@ VALUES
     NOW()
   ),
   (
-    '3ee4378e-0cc4-46a3-a58c-cb31ba014f17',
+    '0bb99844-641d-4372-b9fa-ca179c1cdb1f',
     'Tày',
     'language',
     NULL,
@@ -5778,7 +5778,7 @@ VALUES
     NOW()
   ),
   (
-    '988de061-9ebe-427a-92e2-f321d6162eb1',
+    '3bd08457-afd9-4178-b782-3c2be8da8afc',
     'Tanzanian Sign Language',
     'language',
     NULL,
@@ -5786,7 +5786,7 @@ VALUES
     NOW()
   ),
   (
-    'b9b01675-fb87-4d16-913a-89b917f1a5ff',
+    'e404d933-4546-4c81-ad9d-078678b23615',
     'Tzeltal',
     'language',
     NULL,
@@ -5794,7 +5794,7 @@ VALUES
     NOW()
   ),
   (
-    '7aa7029e-d45c-4dca-a64b-d2fc8033a7d8',
+    '012c3747-ee6f-484e-b2b4-1265324fb034',
     'Tz''utujil',
     'language',
     NULL,
@@ -5802,7 +5802,7 @@ VALUES
     NOW()
   ),
   (
-    '2fef97c3-6e12-4aed-b3f0-61f3a8f0c235',
+    '31341349-e4ce-4c5e-9339-1bf46d1ddbc8',
     'Talossan',
     'language',
     NULL,
@@ -5810,7 +5810,7 @@ VALUES
     NOW()
   ),
   (
-    'b231f779-9778-4cef-b8ea-d480af1b95e5',
+    '4daa66dd-f5cd-40d9-aa47-4b3ff10e7d37',
     'Central Atlas Tamazight',
     'language',
     NULL,
@@ -5818,7 +5818,7 @@ VALUES
     NOW()
   ),
   (
-    'dfa717be-4e7f-4272-b367-ad93e3237807',
+    '9cc7f520-cd48-4e5a-b879-a994325f6d7d',
     'Tugun',
     'language',
     NULL,
@@ -5826,7 +5826,7 @@ VALUES
     NOW()
   ),
   (
-    'e7ab6797-c017-498a-b1fd-16c15b81abae',
+    '5935761b-d3bd-4c36-80bf-0a9d2a8ec512',
     'Tzotzil',
     'language',
     NULL,
@@ -5834,7 +5834,7 @@ VALUES
     NOW()
   ),
   (
-    '479e1a4f-48b3-4b5d-bdba-6b619ae1d805',
+    '8edb5e2f-7774-4fd9-835a-d4b4aec6c97c',
     'Tabriak',
     'language',
     NULL,
@@ -5842,7 +5842,7 @@ VALUES
     NOW()
   ),
   (
-    '7480097b-e122-4b03-a4fa-4e34c520ee1c',
+    'd3d87ba3-1ef3-43b7-8f62-ec5468e95d25',
     'Uamué',
     'language',
     NULL,
@@ -5850,7 +5850,7 @@ VALUES
     NOW()
   ),
   (
-    '2587df67-94fe-4cfb-8664-35d3ba265ac8',
+    '5a90d41f-2cfc-4f7f-bf39-a17be20fa89b',
     'Kuan',
     'language',
     NULL,
@@ -5858,7 +5858,7 @@ VALUES
     NOW()
   ),
   (
-    '9fb6dca5-d7aa-4f6b-8013-c343b2406f08',
+    '5e6c589c-9291-4f0d-9d1a-9bc0543f9292',
     'Tairuma',
     'language',
     NULL,
@@ -5866,7 +5866,7 @@ VALUES
     NOW()
   ),
   (
-    'b1a82a72-2735-42b6-867b-de41d523e3a4',
+    '0607f36a-77bb-4997-9f3c-c9116cce12db',
     'Ubang',
     'language',
     NULL,
@@ -5874,7 +5874,7 @@ VALUES
     NOW()
   ),
   (
-    'ecb34440-6478-494c-9aa1-70ea78fc527a',
+    'bebd7c82-f5dd-4444-9c4b-7d0e90e4260b',
     'Ubi',
     'language',
     NULL,
@@ -5882,15 +5882,15 @@ VALUES
     NOW()
   ),
   (
-    'a8718ac3-c876-406e-b05c-4ee1af816771',
+    'b3b1873b-bcf9-4a95-9ff3-332423791b54',
     'Buhi''non Bikol',
     'language',
-    'b421627c-1244-4e32-9569-67f32d534025',
+    '64af305f-f6a1-4920-aef5-b5b069ad5093',
     NOW(),
     NOW()
   ),
   (
-    '16729103-8d40-4efd-8137-97c235e33a3b',
+    '890e19fe-7a9d-45ec-b12b-de46dbfa24f0',
     'Ubir',
     'language',
     NULL,
@@ -5898,7 +5898,7 @@ VALUES
     NOW()
   ),
   (
-    '9bbaa056-b2a5-4c3b-806f-e5bc6735c755',
+    'b6b76158-0a02-4b96-aec2-91ead4762fa2',
     'Umbu-Ungu',
     'language',
     NULL,
@@ -5906,7 +5906,7 @@ VALUES
     NOW()
   ),
   (
-    '7585e221-2a23-4842-9822-4a08fdbdf13e',
+    'e46be1db-b909-48b6-8cbd-18e474a67ab4',
     'Ubykh',
     'language',
     NULL,
@@ -5914,7 +5914,7 @@ VALUES
     NOW()
   ),
   (
-    '5b5ed569-d038-49a0-94c1-7ef88ba5b1be',
+    'f52505b9-4a44-4c98-844b-13a86ef327ac',
     'Uda',
     'language',
     NULL,
@@ -5922,7 +5922,7 @@ VALUES
     NOW()
   ),
   (
-    'b6529875-023d-42bb-ac42-c17efd06524a',
+    'd4fa9948-b705-4bc9-9f64-8cbb6e2febe2',
     'Udihe',
     'language',
     NULL,
@@ -5930,7 +5930,7 @@ VALUES
     NOW()
   ),
   (
-    '516d1823-a9ae-49c8-96e0-7763743f6d7b',
+    '8530f0b8-5d8a-4a30-ae32-18efde440f85',
     'Muduga',
     'language',
     NULL,
@@ -5938,7 +5938,7 @@ VALUES
     NOW()
   ),
   (
-    'c920d445-af37-4ff1-bfc9-cad8e43e4ffa',
+    'e4717393-d7b5-4f67-835a-49d678faea45',
     'Udi',
     'language',
     NULL,
@@ -5946,7 +5946,7 @@ VALUES
     NOW()
   ),
   (
-    'dd0fe02a-82d2-4906-994f-b47536a1b720',
+    '8bdebaff-3ca5-44da-b881-d8b1e02810d6',
     'Ujir',
     'language',
     NULL,
@@ -5954,7 +5954,7 @@ VALUES
     NOW()
   ),
   (
-    '62e0c4ad-dd1e-44a9-bbe8-eba491ee1cb6',
+    '216ac1f9-3c55-4d41-9092-059f2ef43f46',
     'Wuzlam',
     'language',
     NULL,
@@ -5962,7 +5962,7 @@ VALUES
     NOW()
   ),
   (
-    '6a0183d3-927f-4e8b-8f20-6d67d5c80bca',
+    '054e789b-f3ac-4016-9100-7bf283180500',
     'Udmurt',
     'language',
     NULL,
@@ -5970,7 +5970,7 @@ VALUES
     NOW()
   ),
   (
-    '30600407-e3b1-4f80-8b25-7e4c28fa9ac0',
+    '16bfbe9a-fd65-44df-8e58-7d36634e4b12',
     'Uduk',
     'language',
     NULL,
@@ -5978,7 +5978,7 @@ VALUES
     NOW()
   ),
   (
-    '1a89c8f0-7cd7-47e6-9ba2-dfcf14bd34e5',
+    '506c95f5-1a6a-49e0-b790-4a3d2c534dab',
     'Kioko',
     'language',
     NULL,
@@ -5986,7 +5986,7 @@ VALUES
     NOW()
   ),
   (
-    'fddc5e89-77e9-40cc-a2eb-6febc7a98e52',
+    '7940c6db-09c7-4f91-a470-eb20f1107ac9',
     'Ufim',
     'language',
     NULL,
@@ -5994,7 +5994,7 @@ VALUES
     NOW()
   ),
   (
-    '785f6787-b347-4ebd-bf34-b8cacf29fb06',
+    '8b1c9f33-cbf2-4e2c-bc0d-e9c0ae41a097',
     'Ugaritic',
     'language',
     NULL,
@@ -6002,7 +6002,7 @@ VALUES
     NOW()
   ),
   (
-    '1e2b0f54-ba96-45e3-9ab3-0d9d28ac7250',
+    '1b1315f5-6325-42e5-a882-526bff2cb91f',
     'Kuku-Ugbanh',
     'language',
     NULL,
@@ -6010,7 +6010,7 @@ VALUES
     NOW()
   ),
   (
-    '1419382a-e319-4c6f-9907-14c15b71313c',
+    '70ca7b2b-71ee-4c46-8f53-fdb25389d8c0',
     'Ughele',
     'language',
     NULL,
@@ -6018,7 +6018,7 @@ VALUES
     NOW()
   ),
   (
-    '429ae07d-cb27-4de6-a9f8-5d82e0c0e54b',
+    '0793ac16-5fda-4483-970c-0eb0091265e9',
     'Kubachi',
     'language',
     NULL,
@@ -6026,7 +6026,7 @@ VALUES
     NOW()
   ),
   (
-    '540c9192-9e49-4a5e-b9d3-f542bc402ac0',
+    'a4c44624-6317-48ad-8204-bf0be992a35d',
     'Ugandan Sign Language',
     'language',
     NULL,
@@ -6034,7 +6034,7 @@ VALUES
     NOW()
   ),
   (
-    '4ff3969f-b398-4902-bf6d-da61432aec6c',
+    '56c73239-a8a3-48f1-bb77-3c4daa9ccb0f',
     'Ugong',
     'language',
     NULL,
@@ -6042,7 +6042,7 @@ VALUES
     NOW()
   ),
   (
-    '6ae51107-6b60-4f42-bc23-d779decebca5',
+    '51a9a56d-4120-4e4b-983e-a59bbbb37c0e',
     'Uruguayan Sign Language',
     'language',
     NULL,
@@ -6050,7 +6050,7 @@ VALUES
     NOW()
   ),
   (
-    '3d76081b-0a86-458f-a584-ca3000809196',
+    '7730aaa2-7774-457e-8336-4512ed343dfa',
     'Uhami',
     'language',
     NULL,
@@ -6058,7 +6058,7 @@ VALUES
     NOW()
   ),
   (
-    '5072e940-2ba2-48dd-8489-b1e2f99f382f',
+    '5001ca10-075e-4f9d-b3bd-20f530308c54',
     'Damal',
     'language',
     NULL,
@@ -6066,7 +6066,7 @@ VALUES
     NOW()
   ),
   (
-    '21bc8956-9c44-4133-a0e4-e5b8ff073dba',
+    '634c44ac-d604-45b7-9047-46adb8195d09',
     'Uighur',
     'language',
     NULL,
@@ -6074,7 +6074,7 @@ VALUES
     NOW()
   ),
   (
-    '3252a1eb-17d0-43fc-bfc4-44e69c79c558',
+    '1d734f9b-04a3-4dd7-bcdd-1115dcdc61ec',
     'Uisai',
     'language',
     NULL,
@@ -6082,7 +6082,7 @@ VALUES
     NOW()
   ),
   (
-    'afc17681-4902-4079-890e-023c3493a22c',
+    'ac0a6d13-8a88-4be0-a3ac-bd6a6b0b3c16',
     'Iyive',
     'language',
     NULL,
@@ -6090,7 +6090,7 @@ VALUES
     NOW()
   ),
   (
-    '521f4dc8-a276-48be-85cb-fcc7a3b5e666',
+    '58b44e0c-7858-4c80-bc0b-342b0e4b7131',
     'Tanjijili',
     'language',
     NULL,
@@ -6098,7 +6098,7 @@ VALUES
     NOW()
   ),
   (
-    'b3a06f98-9c86-4489-9678-d72e5d3e95c4',
+    '20a67b59-c734-44ea-9e5f-9f6c3c229dfc',
     'Kaburi',
     'language',
     NULL,
@@ -6106,7 +6106,7 @@ VALUES
     NOW()
   ),
   (
-    'bdd269d9-f70f-4a7b-b7de-a4af24f173a1',
+    '7e2d907d-0ff2-4022-829d-3652bcc1c75f',
     'Ukuriguma',
     'language',
     NULL,
@@ -6114,7 +6114,7 @@ VALUES
     NOW()
   ),
   (
-    '7cc83dee-2a24-4a68-8904-d0a520c4440d',
+    'a5c3f342-fda8-4256-a264-8e1be7e79a42',
     'Ukhwejo',
     'language',
     NULL,
@@ -6122,7 +6122,7 @@ VALUES
     NOW()
   ),
   (
-    'd951cae9-7fbd-4a03-b4dd-73f168237a05',
+    '2ca46ba5-5b96-42fd-8a1e-984032b9b303',
     'Kui (India)',
     'language',
     NULL,
@@ -6130,7 +6130,7 @@ VALUES
     NOW()
   ),
   (
-    '88b0962c-36ec-470a-99ed-f54ec08b891e',
+    '15a5cf04-9cc2-4711-b2be-8482b3eef5cc',
     'Muak Sa-aak',
     'language',
     NULL,
@@ -6138,7 +6138,7 @@ VALUES
     NOW()
   ),
   (
-    'd78665af-bbda-4488-b120-1402b15e8650',
+    'f9c7ea90-828c-4479-a19b-114e1f84f2f3',
     'Ukrainian Sign Language',
     'language',
     NULL,
@@ -6146,7 +6146,7 @@ VALUES
     NOW()
   ),
   (
-    '2224dc13-570e-46ab-b8c3-aa41e5d66b94',
+    'f5072faa-5c3d-4d92-bbb4-88f4c7869591',
     'Ukpe-Bayobiri',
     'language',
     NULL,
@@ -6154,7 +6154,7 @@ VALUES
     NOW()
   ),
   (
-    '7d83ffdb-fbd5-4681-9050-f48ebd6d286c',
+    '19734e5a-728e-4a10-b407-f11ef8e31440',
     'Ukwa',
     'language',
     NULL,
@@ -6162,7 +6162,7 @@ VALUES
     NOW()
   ),
   (
-    'be5e4304-7f69-4f83-8aa1-c59ff45c5d09',
+    '5d69d9e2-c478-467a-84be-981dc4b3ea45',
     'Ukrainian',
     'language',
     NULL,
@@ -6170,7 +6170,7 @@ VALUES
     NOW()
   ),
   (
-    '66df4340-8cf3-4832-954e-ac40dc51b809',
+    'fc73ebc4-ceee-407b-a80e-1b7cee906a49',
     'Urubú-Kaapor Sign Language',
     'language',
     NULL,
@@ -6178,7 +6178,7 @@ VALUES
     NOW()
   ),
   (
-    '6c2aeaf5-bde5-4012-b766-ab1d22d7619b',
+    'b79c49c3-2701-4582-ab36-68910649f994',
     'Ukue',
     'language',
     NULL,
@@ -6186,7 +6186,7 @@ VALUES
     NOW()
   ),
   (
-    'db3e58f1-7d58-4d9c-aea7-15f1ea585ded',
+    '9cd92a6b-4348-4810-8a65-4b792b994141',
     'Kuku',
     'language',
     NULL,
@@ -6194,7 +6194,7 @@ VALUES
     NOW()
   ),
   (
-    '80608667-a04c-47d4-847f-bb85e5a6ef58',
+    'c55d56c7-6cc9-46e9-8c96-f15921b20e17',
     'Ukwuani-Aboh-Ndoni',
     'language',
     NULL,
@@ -6202,7 +6202,7 @@ VALUES
     NOW()
   ),
   (
-    '8e494f3d-f7dc-4329-9c6e-c054603c1c79',
+    'fcf948a5-f7dd-4e32-a758-63ae07a82430',
     'Kuuk-Yak',
     'language',
     NULL,
@@ -6210,7 +6210,7 @@ VALUES
     NOW()
   ),
   (
-    '25fdd6ee-8daf-4831-826d-27e906cadadd',
+    'b726be4e-ce06-4acd-b0d8-98637db4e392',
     'Fungwa',
     'language',
     NULL,
@@ -6218,7 +6218,7 @@ VALUES
     NOW()
   ),
   (
-    '98d22c41-3102-4891-9f9a-c94ab186f1d1',
+    'cea1f0c5-95d6-454a-9422-56b942d210fe',
     'Ulukwumi',
     'language',
     NULL,
@@ -6226,7 +6226,7 @@ VALUES
     NOW()
   ),
   (
-    'a794740c-7126-4ca0-950a-7274ec144aea',
+    '86de30e1-e916-4725-9deb-eb16426c034e',
     'Ulch',
     'language',
     NULL,
@@ -6234,7 +6234,7 @@ VALUES
     NOW()
   ),
   (
-    'c80e6f26-ca8c-48b4-80dc-21bfaf5228bd',
+    '93353756-277e-4ced-983e-52e2654951e6',
     'Lule',
     'language',
     NULL,
@@ -6242,7 +6242,7 @@ VALUES
     NOW()
   ),
   (
-    '1e03f262-329b-48fe-84c7-31b37b860b05',
+    '99cff9b6-966a-44ee-8c1d-6f78145d6dd2',
     'Usku',
     'language',
     NULL,
@@ -6250,7 +6250,7 @@ VALUES
     NOW()
   ),
   (
-    'c0ad1930-70f3-4447-870e-9a3d9f0af68f',
+    'e4fab150-78b1-4247-965e-ceeeeace19b3',
     'Ulithian',
     'language',
     NULL,
@@ -6258,7 +6258,7 @@ VALUES
     NOW()
   ),
   (
-    '225340b0-0790-4546-9169-8cfcccc3ced6',
+    'c11b3426-3832-4b3d-944a-c2db01fa68c4',
     'Meriam Mir',
     'language',
     NULL,
@@ -6266,7 +6266,7 @@ VALUES
     NOW()
   ),
   (
-    '067c5d26-c5b9-4b9f-87e3-5beebab1067b',
+    'dd53d88b-4793-4a80-8e66-ad145122cb7d',
     'Ullatan',
     'language',
     NULL,
@@ -6274,7 +6274,7 @@ VALUES
     NOW()
   ),
   (
-    'aec14ae8-ecb4-407c-9164-df22808cc92c',
+    '449b976b-2ddb-45ab-92a2-0d47ed886a12',
     'Ulumanda''',
     'language',
     NULL,
@@ -6282,7 +6282,7 @@ VALUES
     NOW()
   ),
   (
-    'ea60eea8-9980-4051-be2e-83ccf3ffd768',
+    '0d7bbbb1-f862-4f9e-a644-ee048f5f5c8c',
     'Unserdeutsch',
     'language',
     NULL,
@@ -6290,7 +6290,7 @@ VALUES
     NOW()
   ),
   (
-    '1a1b8f8d-2af1-4120-881e-7eed06389ef3',
+    '7eacf053-c702-427e-adb6-98ee641d8e10',
     'Uma'' Lung',
     'language',
     NULL,
@@ -6298,7 +6298,7 @@ VALUES
     NOW()
   ),
   (
-    'c35cd835-de2e-4524-b793-479985d8db9d',
+    'a4376a08-f9fc-4735-9a23-37a95fb7776c',
     'Ulwa',
     'language',
     NULL,
@@ -6306,7 +6306,7 @@ VALUES
     NOW()
   ),
   (
-    'dec6516b-f7ce-4c61-a3e2-92bf32714299',
+    'c71a63d0-b44f-4766-ac6f-59264d9a82fb',
     'Buli',
     'language',
     NULL,
@@ -6314,7 +6314,7 @@ VALUES
     NOW()
   ),
   (
-    'fc941e0a-eca2-445e-9019-f2daa2a1da53',
+    '3956d34d-4e84-484a-bd9a-cc3365f21d5e',
     'Umatilla',
     'language',
     NULL,
@@ -6322,7 +6322,7 @@ VALUES
     NOW()
   ),
   (
-    'd18dcddd-f8ab-4cfe-b8f6-5b37a225abc5',
+    'c27069fc-bdf9-47ae-a3e0-04a21cfbb6cd',
     'Umbundu',
     'language',
     NULL,
@@ -6330,7 +6330,7 @@ VALUES
     NOW()
   ),
   (
-    '9e5c96f2-24f1-451a-9e4f-78fd0568e651',
+    '325cd65a-85ae-443d-ac4b-5548aa5d13bf',
     'Marrucinian',
     'language',
     NULL,
@@ -6338,7 +6338,7 @@ VALUES
     NOW()
   ),
   (
-    '74495f18-2da6-486f-b52b-1afa9860df38',
+    '5d72913b-0348-4a6d-8856-c922bba5a0c6',
     'Umbindhamu',
     'language',
     NULL,
@@ -6346,7 +6346,7 @@ VALUES
     NOW()
   ),
   (
-    '130f4ec5-7525-48c1-8041-3cf39af85a77',
+    'e3cf0795-7f2b-479d-8ee0-7e8f8eb5649c',
     'Morrobalama',
     'language',
     NULL,
@@ -6354,7 +6354,7 @@ VALUES
     NOW()
   ),
   (
-    '8d7aee7f-980e-4fe5-a60f-fbaa3f03537d',
+    'a36f254e-5d50-48ce-9706-19905619c4b5',
     'Ukit',
     'language',
     NULL,
@@ -6362,7 +6362,7 @@ VALUES
     NOW()
   ),
   (
-    '1e564a9e-96db-4a66-8ae0-ae75cf07a88d',
+    'f5987392-e046-480f-887c-d680eaa30cf0',
     'Umon',
     'language',
     NULL,
@@ -6370,7 +6370,7 @@ VALUES
     NOW()
   ),
   (
-    '005591af-143f-49c8-9f4a-aed6d2792227',
+    '24d7fbc7-f2ae-45af-a1fd-f837dc1e28c7',
     'Makyan Naga',
     'language',
     NULL,
@@ -6378,7 +6378,7 @@ VALUES
     NOW()
   ),
   (
-    '8c2a2dca-e268-4fca-9b66-f9ad02a31dd0',
+    '860e8bbb-f084-439d-b972-4f6ecad28f39',
     'Umotína',
     'language',
     NULL,
@@ -6386,7 +6386,7 @@ VALUES
     NOW()
   ),
   (
-    '784975a1-4fa2-464c-9973-d837ba2f70f8',
+    'dcd371cb-5f80-4ee8-b2b6-3eef824ee553',
     'Umpila',
     'language',
     NULL,
@@ -6394,7 +6394,7 @@ VALUES
     NOW()
   ),
   (
-    '2b8c1dea-492d-43cc-a0ba-ecde6a321f38',
+    'bfc0fd99-975a-44a2-8489-de6de676bf85',
     'Umbugarla',
     'language',
     NULL,
@@ -6402,7 +6402,7 @@ VALUES
     NOW()
   ),
   (
-    '5494cca6-0016-41f5-93be-2c03184197fc',
+    '41081a8d-b520-45f0-a380-2db0b5635f5a',
     'Pendau',
     'language',
     NULL,
@@ -6410,15 +6410,15 @@ VALUES
     NOW()
   ),
   (
-    '182e7a2e-fc68-49d4-b326-fdd7b3af0b8f',
+    '0883bc83-45c3-4f10-b3c8-2cd946365629',
     'Munsee',
     'language',
-    'dae05035-c480-4c42-b10f-67cc223643ac',
+    '42dd5857-3eb7-4db2-baa7-6bb7737b8952',
     NOW(),
     NOW()
   ),
   (
-    'e8c5bb71-2e09-4404-a2f9-113df000b65c',
+    '82aea6c4-e023-4856-9110-9595b11eaee4',
     'North Watut',
     'language',
     NULL,
@@ -6426,7 +6426,7 @@ VALUES
     NOW()
   ),
   (
-    'cc7184b3-bd29-448c-8df3-7d2207d1735a',
+    '5224055d-ec25-4ef0-a0db-5e4afd571b72',
     'Undetermined',
     'language',
     NULL,
@@ -6434,7 +6434,7 @@ VALUES
     NOW()
   ),
   (
-    'e3f90e78-a19a-4b1b-832f-6752d38462af',
+    '43433b50-0c74-4edd-bef0-60f25df4667f',
     'Uneme',
     'language',
     NULL,
@@ -6442,7 +6442,7 @@ VALUES
     NOW()
   ),
   (
-    '17fd6943-7f11-4a48-8c92-fffa30c89a96',
+    '28c8fe23-4720-4c77-8ac8-423ecf52e494',
     'Ngarinyin',
     'language',
     NULL,
@@ -6450,7 +6450,7 @@ VALUES
     NOW()
   ),
   (
-    '25c20543-8e92-446a-901e-74755d02d855',
+    'df7cdee9-300f-451d-84a2-58f08e4e6cfe',
     'Uni',
     'language',
     NULL,
@@ -6458,7 +6458,7 @@ VALUES
     NOW()
   ),
   (
-    'af13dd01-bad0-49b4-9d54-86fddf32d86d',
+    'cf2a15bf-9a1c-4521-bb7b-c5290e77a77b',
     'Enawené-Nawé',
     'language',
     NULL,
@@ -6466,15 +6466,15 @@ VALUES
     NOW()
   ),
   (
-    '713a2809-9bd9-4499-a72c-0d35c2f7ac77',
+    '2bc1e04b-79de-499c-8c93-5aee112f9ebc',
     'Unami',
     'language',
-    'dae05035-c480-4c42-b10f-67cc223643ac',
+    '42dd5857-3eb7-4db2-baa7-6bb7737b8952',
     NOW(),
     NOW()
   ),
   (
-    'c36a218f-f79d-47aa-98d4-d9d50bff9113',
+    '64639761-82e8-4b5d-ab79-66e9dbdfe501',
     'Kurnai',
     'language',
     NULL,
@@ -6482,7 +6482,7 @@ VALUES
     NOW()
   ),
   (
-    'dac1ab08-193c-4feb-9a02-ecd5594bfc9b',
+    '239b6ea5-885d-49fa-af32-83e50353818a',
     'Mundari',
     'language',
     NULL,
@@ -6490,7 +6490,7 @@ VALUES
     NOW()
   ),
   (
-    '0c68712c-cf58-4e58-ad16-99665fe53322',
+    'a987aa44-f762-480c-a068-7eb3b91944ff',
     'Unubahe',
     'language',
     NULL,
@@ -6498,7 +6498,7 @@ VALUES
     NOW()
   ),
   (
-    '1c553960-9828-4428-ab83-88f07e7adab6',
+    'c7f5ca61-adb2-4741-9e21-c83d276fb8b3',
     'Munda',
     'language',
     NULL,
@@ -6506,7 +6506,7 @@ VALUES
     NOW()
   ),
   (
-    'e42a83fa-d56c-4b1a-96c1-c1a6e54bae68',
+    '89ec7545-2289-45ad-9155-599e3bbf6caf',
     'Unde Kaili',
     'language',
     NULL,
@@ -6514,7 +6514,7 @@ VALUES
     NOW()
   ),
   (
-    '0cfd024c-7aa2-496c-a414-254b0800901d',
+    '99834629-ddfe-4ddc-bdbf-135639352f4b',
     'Kulon',
     'language',
     NULL,
@@ -6522,7 +6522,7 @@ VALUES
     NOW()
   ),
   (
-    '60167b9f-6eba-45fe-be53-f085862123a5',
+    'a1842c07-9859-4920-9e26-fbff4e3bf7b9',
     'Umeda',
     'language',
     NULL,
@@ -6530,7 +6530,7 @@ VALUES
     NOW()
   ),
   (
-    '09276dc0-8269-45ba-a7ec-0725ca6ecbcb',
+    '61ce4b9b-62a0-4595-90df-f57eadbe5e43',
     'Uripiv-Wala-Rano-Atchin',
     'language',
     NULL,
@@ -6538,7 +6538,7 @@ VALUES
     NOW()
   ),
   (
-    '566394c5-662e-4707-985d-cc75ec74dc10',
+    'c94bbb36-4153-4e2f-9e15-4facede12fb1',
     'Urarina',
     'language',
     NULL,
@@ -6546,7 +6546,7 @@ VALUES
     NOW()
   ),
   (
-    'ce0a7fe7-a409-403b-a059-2379218a2c7f',
+    '29603bf1-a7c0-4a77-85e5-bd889ea3f299',
     'Urubú-Kaapor',
     'language',
     NULL,
@@ -6554,7 +6554,7 @@ VALUES
     NOW()
   ),
   (
-    '2a63887c-3b9e-4bb4-99c5-b1749a3200ae',
+    '0ac0ed56-b2b1-4ec4-a294-3e0b84119a4f',
     'Urningangg',
     'language',
     NULL,
@@ -6562,7 +6562,7 @@ VALUES
     NOW()
   ),
   (
-    '240c340b-c688-4345-ac17-101ef4eb164e',
+    '141cf9da-ddf5-41ec-8e68-4bb03ec8dcbd',
     'Urdu',
     'language',
     NULL,
@@ -6570,7 +6570,7 @@ VALUES
     NOW()
   ),
   (
-    'af98a9dc-ae1e-4129-86a7-b13daf3217a3',
+    'f616f823-e818-494b-be4e-11974ba43d7f',
     'Uru',
     'language',
     NULL,
@@ -6578,7 +6578,7 @@ VALUES
     NOW()
   ),
   (
-    'feb6dc5c-2eaa-46eb-be53-96e52cb6ed9a',
+    '55c11f87-1447-4d80-9ffa-b6771420ef41',
     'Uradhi',
     'language',
     NULL,
@@ -6586,7 +6586,7 @@ VALUES
     NOW()
   ),
   (
-    '243fdf85-aa32-4760-9d39-fe58cd7e976a',
+    '83b2b0fc-e203-4644-8757-75843abd0aa7',
     'Urigina',
     'language',
     NULL,
@@ -6594,7 +6594,7 @@ VALUES
     NOW()
   ),
   (
-    '53737801-d25b-4535-bc67-e90fd1fbee54',
+    'a9367d8d-b2f1-49e9-a79a-432457e74f54',
     'Urhobo',
     'language',
     NULL,
@@ -6602,7 +6602,7 @@ VALUES
     NOW()
   ),
   (
-    '09d39020-939b-45be-adc2-cf03d10c7775',
+    'b055925e-5d5d-49f3-a882-a0296273ecdf',
     'Urim',
     'language',
     NULL,
@@ -6610,15 +6610,15 @@ VALUES
     NOW()
   ),
   (
-    '7f00bf94-7c6f-44f4-b34b-5540df1999dd',
+    '60179374-36da-43a5-a90f-6bdfd4deb7bb',
     'Urak Lawoi''',
     'language',
-    'b35b3b8c-c07c-437f-a746-8ef586fd55ca',
+    '828c4f51-4667-44a8-8049-34a4693bb87b',
     NOW(),
     NOW()
   ),
   (
-    '91915574-8d9c-41a8-b41a-a036483817c9',
+    '4bdf6ca4-eb18-486e-b07b-10830b34470f',
     'Urali',
     'language',
     NULL,
@@ -6626,7 +6626,7 @@ VALUES
     NOW()
   ),
   (
-    'a0cc9334-cac3-452a-9eda-d3ddb0ad00ea',
+    '6a97c405-8594-46cf-9234-19cd37f111a0',
     'Urapmin',
     'language',
     NULL,
@@ -6634,7 +6634,7 @@ VALUES
     NOW()
   ),
   (
-    '2dc63712-0c79-406b-994f-9756ade8981d',
+    '3b74d927-747d-4b25-8f0e-2339c93e64d2',
     'Uruangnirin',
     'language',
     NULL,
@@ -6642,7 +6642,7 @@ VALUES
     NOW()
   ),
   (
-    '902ae968-5470-45dc-8605-f4a6aefba9f1',
+    '71fb00a0-1543-4b59-8a2f-f384efc49e89',
     'Ura (Papua New Guinea)',
     'language',
     NULL,
@@ -6650,7 +6650,7 @@ VALUES
     NOW()
   ),
   (
-    '8b97bcd6-aa00-4f9b-bc91-08a2807e4c94',
+    'ccafe786-a7d2-4e1e-9203-01dc693ad380',
     'Uru-Pa-In',
     'language',
     NULL,
@@ -6658,7 +6658,7 @@ VALUES
     NOW()
   ),
   (
-    '3d086373-36c7-4aca-82da-46d73141c53b',
+    '848c8add-d3be-42e9-a51c-e9a6909853b1',
     'Lehalurup',
     'language',
     NULL,
@@ -6666,7 +6666,7 @@ VALUES
     NOW()
   ),
   (
-    '5e6836c9-ffa9-4f20-aaed-20cebee68fc3',
+    '224e135a-33d9-429d-a157-ec889da187e4',
     'Urat',
     'language',
     NULL,
@@ -6674,7 +6674,7 @@ VALUES
     NOW()
   ),
   (
-    '6bfa388a-bbd6-4cbb-bc19-ece773929f66',
+    '8d118ec1-5f9b-40c7-8537-92c96d5892dd',
     'Urumi',
     'language',
     NULL,
@@ -6682,7 +6682,7 @@ VALUES
     NOW()
   ),
   (
-    'edbe4414-5bc2-43ca-888b-b9fd11237139',
+    'c0cebb59-8d7c-49de-acd5-873948b4288a',
     'Uruava',
     'language',
     NULL,
@@ -6690,7 +6690,7 @@ VALUES
     NOW()
   ),
   (
-    'fe32b419-8a82-44f8-818b-cdace8eb149a',
+    '7a0cb704-88ee-4cba-895d-6b5385a6327e',
     'Sop',
     'language',
     NULL,
@@ -6698,7 +6698,7 @@ VALUES
     NOW()
   ),
   (
-    '548370ee-e98c-44dc-8380-b216365ed327',
+    'adb544e2-9d65-430e-8ae2-dc3949424f09',
     'Urimo',
     'language',
     NULL,
@@ -6706,7 +6706,7 @@ VALUES
     NOW()
   ),
   (
-    'ac5fb52a-67dc-4b2a-a5c9-90a40d109b12',
+    'c1dca94e-0e05-4ca0-a371-e1c269512445',
     'Orya',
     'language',
     NULL,
@@ -6714,7 +6714,7 @@ VALUES
     NOW()
   ),
   (
-    'a8d81f37-9871-486e-8cbe-229f5986f02c',
+    'e8c42e28-a8a2-450a-8d77-f82a616c4458',
     'Uru-Eu-Wau-Wau',
     'language',
     NULL,
@@ -6722,7 +6722,7 @@ VALUES
     NOW()
   ),
   (
-    '19aeb40d-c7be-4f0a-9972-ef193d2966ca',
+    '2386c83b-1834-476f-8d34-3a192692d770',
     'Usarufa',
     'language',
     NULL,
@@ -6730,7 +6730,7 @@ VALUES
     NOW()
   ),
   (
-    '9575088f-92eb-4c6e-9b35-5b1574a5f1ea',
+    'bf5914b9-8bf2-4393-aaa0-8a48333cc0d2',
     'Ushojo',
     'language',
     NULL,
@@ -6738,7 +6738,7 @@ VALUES
     NOW()
   ),
   (
-    '4ba1c078-1df6-4cc4-b8e9-faa86d5eeb4e',
+    '12736248-1ec4-46bb-a1c3-5f3284c9a79c',
     'Usui',
     'language',
     NULL,
@@ -6746,7 +6746,7 @@ VALUES
     NOW()
   ),
   (
-    '59645bd6-e136-4f45-b63d-3288aebff582',
+    'f395e297-9ae3-4b20-abec-c9bbad6da181',
     'Usaghade',
     'language',
     NULL,
@@ -6754,7 +6754,7 @@ VALUES
     NOW()
   ),
   (
-    '3f492ffc-e5f4-496b-8db7-97c70b4f4cba',
+    'a40084a6-d299-442e-a395-e2bf1bde6cd5',
     'Uspanteco',
     'language',
     NULL,
@@ -6762,7 +6762,7 @@ VALUES
     NOW()
   ),
   (
-    'c8b94403-d53b-48ff-ab50-40d290720050',
+    '0d68c11c-039e-4dc9-8c94-1943696093d7',
     'us-Saare',
     'language',
     NULL,
@@ -6770,7 +6770,7 @@ VALUES
     NOW()
   ),
   (
-    '9d83205f-7539-4701-9af8-96759ea93171',
+    '1cdece6c-71e9-4da8-bfee-790c1a51ec13',
     'Uya',
     'language',
     NULL,
@@ -6778,7 +6778,7 @@ VALUES
     NOW()
   ),
   (
-    '007ef3b0-1566-4080-b06e-9243ee4cc472',
+    '2e65ba5f-b011-42a4-b44d-c041ccfe5302',
     'Otank',
     'language',
     NULL,
@@ -6786,7 +6786,7 @@ VALUES
     NOW()
   ),
   (
-    '9f9aaebc-23af-472d-ad8a-d897ba36aa23',
+    'c060b69f-3cd7-41ee-9a1b-29835e322e72',
     'Ute-Southern Paiute',
     'language',
     NULL,
@@ -6794,7 +6794,7 @@ VALUES
     NOW()
   ),
   (
-    'c9d9a1bb-bf83-4e66-a691-b72a61435b7d',
+    '827a1594-4de6-4cae-adb4-0808c2539fa0',
     'ut-Hun',
     'language',
     NULL,
@@ -6802,7 +6802,7 @@ VALUES
     NOW()
   ),
   (
-    '59250129-a17a-45c2-a7bf-787039e9ef1f',
+    'e84997c7-bfd1-41fc-8b9b-40b4aaa94272',
     'Amba (Solomon Islands)',
     'language',
     NULL,
@@ -6810,7 +6810,7 @@ VALUES
     NOW()
   ),
   (
-    'a6472cd8-3a0f-4839-a30a-f75816f89fc8',
+    'c6102089-12f7-4e2d-be31-579ade032c88',
     'Etulo',
     'language',
     NULL,
@@ -6818,7 +6818,7 @@ VALUES
     NOW()
   ),
   (
-    'da772630-19d3-472c-b4a8-a8b4c5bc39e6',
+    '0a0a889f-2ae3-4df7-bef1-03404e1412ed',
     'Utu',
     'language',
     NULL,
@@ -6826,7 +6826,7 @@ VALUES
     NOW()
   ),
   (
-    '81c2a016-0197-4e72-8354-1f8e103b4286',
+    'c407127c-0285-43b8-abac-a1967525d38f',
     'Urum',
     'language',
     NULL,
@@ -6834,7 +6834,7 @@ VALUES
     NOW()
   ),
   (
-    'dafa2f1a-9abd-4f15-b3b2-82f1572c3856',
+    '939fd1dd-30e6-477b-9adb-2083d67b01ed',
     'Ura (Vanuatu)',
     'language',
     NULL,
@@ -6842,7 +6842,7 @@ VALUES
     NOW()
   ),
   (
-    'ab2d9286-3b4b-4f94-acf5-c3ad145b9ba9',
+    '78e12c63-d63b-40a3-b214-f3bc2379e153',
     'U',
     'language',
     NULL,
@@ -6850,7 +6850,7 @@ VALUES
     NOW()
   ),
   (
-    '9f71a096-7634-40b2-bb88-a46f23cef1d7',
+    'd2ebc5f2-3790-490f-953c-20674d1699fb',
     'West Uvean',
     'language',
     NULL,
@@ -6858,7 +6858,7 @@ VALUES
     NOW()
   ),
   (
-    '4e369a19-6bbf-46a2-acf3-fe0c662dc4f6',
+    'dd6eccd3-6d58-4c2a-b213-9d6a1c3c99c9',
     'Uri',
     'language',
     NULL,
@@ -6866,7 +6866,7 @@ VALUES
     NOW()
   ),
   (
-    'c99a1758-b7d3-4796-80b9-acd2592cfcd0',
+    'a46b59df-c2ad-48bc-b682-dfeaad99d46a',
     'Lote',
     'language',
     NULL,
@@ -6874,7 +6874,7 @@ VALUES
     NOW()
   ),
   (
-    '12160f94-22fa-498d-aed6-e6e030b3aca8',
+    '1db16fab-0740-40ca-b213-f0078d3021c3',
     'Kuku-Uwanh',
     'language',
     NULL,
@@ -6882,7 +6882,7 @@ VALUES
     NOW()
   ),
   (
-    '36e6e133-2049-4b0c-a80b-2790a7831888',
+    '0ed526c1-84a9-479e-aa58-3c4533d21323',
     'Doko-Uyanga',
     'language',
     NULL,
@@ -6890,7 +6890,7 @@ VALUES
     NOW()
   ),
   (
-    '07053af7-d760-4b07-b96d-c0daf0c3a407',
+    'c14a29a8-147c-4a59-b714-9aae2211a339',
     'Uzbek',
     'family',
     NULL,
@@ -6898,23 +6898,23 @@ VALUES
     NOW()
   ),
   (
-    'd9eb87b9-29fd-4e0a-b813-9d1aec43296e',
+    '977f170a-0a3e-4596-9ee2-81db55b02e41',
     'Northern Uzbek',
     'language',
-    '07053af7-d760-4b07-b96d-c0daf0c3a407',
+    'c14a29a8-147c-4a59-b714-9aae2211a339',
     NOW(),
     NOW()
   ),
   (
-    '6237ae1b-9150-4c53-ae66-7527576c5abd',
+    '39c4f121-c6d9-4916-94cd-5000c9ece379',
     'Southern Uzbek',
     'language',
-    '07053af7-d760-4b07-b96d-c0daf0c3a407',
+    'c14a29a8-147c-4a59-b714-9aae2211a339',
     NOW(),
     NOW()
   ),
   (
-    '01e9a6cc-a0b7-4536-9551-a1104a45f879',
+    '21576fc8-fd9c-41ce-b43a-d572e1ce4b7e',
     'Vaagri Booli',
     'language',
     NULL,
@@ -6922,7 +6922,7 @@ VALUES
     NOW()
   ),
   (
-    '30858711-5491-4cc1-a41a-4bcaa60df3d9',
+    '36426a06-bec3-46b0-9111-106bedb7ab22',
     'Vale',
     'language',
     NULL,
@@ -6930,7 +6930,7 @@ VALUES
     NOW()
   ),
   (
-    'a8be9b7b-ab85-413b-9f85-7e2fdacb4e20',
+    'e9bc344e-c02e-4827-908a-b3d99109dc8f',
     'Vafsi',
     'language',
     NULL,
@@ -6938,7 +6938,7 @@ VALUES
     NOW()
   ),
   (
-    'd9b22a1f-7bed-4699-bead-f45d71f681fb',
+    'b08604e4-b64b-4ddf-a217-24f75957b19f',
     'Vagla',
     'language',
     NULL,
@@ -6946,7 +6946,7 @@ VALUES
     NOW()
   ),
   (
-    'df115ed7-bd27-4a95-b995-1fa0e07bd239',
+    '9dd72c76-7831-4e44-9704-9a17ca2ce740',
     'Varhadi-Nagpuri',
     'language',
     NULL,
@@ -6954,7 +6954,7 @@ VALUES
     NOW()
   ),
   (
-    '086a70c2-a5be-41e1-a679-c75a845a59bc',
+    '9048e15e-8700-4630-89c0-8bd73f41c1ac',
     'Vai',
     'language',
     NULL,
@@ -6962,7 +6962,7 @@ VALUES
     NOW()
   ),
   (
-    '2e73378e-2b09-4de6-925a-00da3dd8ba94',
+    '27c96b76-b6f4-456d-9367-2b446c5e20e7',
     'Sekele',
     'language',
     NULL,
@@ -6970,7 +6970,7 @@ VALUES
     NOW()
   ),
   (
-    '805cb2dc-f1e0-4960-8dc5-36890ba832e8',
+    '8092dabb-34cc-48ad-bf3c-d4c26cd233fe',
     'Vehes',
     'language',
     NULL,
@@ -6978,7 +6978,7 @@ VALUES
     NOW()
   ),
   (
-    'acb07879-c06d-474c-b37a-9d19ddce6b7c',
+    'a682bf80-1d0a-4d8d-a4fb-7beff2f31d3a',
     'Vanimo',
     'language',
     NULL,
@@ -6986,7 +6986,7 @@ VALUES
     NOW()
   ),
   (
-    '2ea56a7d-2e76-4a0b-b6a3-5482340c7625',
+    'dd261729-9245-484f-bd14-e0a02c6f49e1',
     'Valman',
     'language',
     NULL,
@@ -6994,7 +6994,7 @@ VALUES
     NOW()
   ),
   (
-    '1e96801e-7459-470e-a905-f40cac1d127a',
+    '0558462c-5293-40e5-95f4-dbc42ca86550',
     'Vao',
     'language',
     NULL,
@@ -7002,7 +7002,7 @@ VALUES
     NOW()
   ),
   (
-    '5c591fb2-bfa6-44ef-aa89-17e651e934bd',
+    '06c18d6e-7487-4e3b-944b-24d706e2552b',
     'Vaiphei',
     'language',
     NULL,
@@ -7010,7 +7010,7 @@ VALUES
     NOW()
   ),
   (
-    '980a34e5-b209-42f0-8443-03541714e141',
+    '0a65a10a-3e2f-49ef-a91d-ee643d16be04',
     'Huarijio',
     'language',
     NULL,
@@ -7018,7 +7018,7 @@ VALUES
     NOW()
   ),
   (
-    '6e11c60b-b610-4161-a04e-2d1476a5da24',
+    'f8c59ff7-751d-4d0b-b011-a9d7db7ae60f',
     'Vasavi',
     'language',
     NULL,
@@ -7026,7 +7026,7 @@ VALUES
     NOW()
   ),
   (
-    '53400687-414a-4b2a-a0b8-7f36d7756bb0',
+    '3114f5fd-3691-4cc7-a746-9e456ade8066',
     'Vanuma',
     'language',
     NULL,
@@ -7034,7 +7034,7 @@ VALUES
     NOW()
   ),
   (
-    '718e2cb1-8bde-462e-a08b-c8f2d716be58',
+    '4eaaf3aa-d191-467c-a7c3-6da13d42287d',
     'Varli',
     'language',
     NULL,
@@ -7042,7 +7042,7 @@ VALUES
     NOW()
   ),
   (
-    'aa284acd-a50c-4953-b9a5-aecc9e3ce2f5',
+    '10a2f6af-8b6e-4073-a2ec-514d9c282770',
     'Wayu',
     'language',
     NULL,
@@ -7050,7 +7050,7 @@ VALUES
     NOW()
   ),
   (
-    'e69e97e7-ca74-4881-8a98-0aa9b10e1efa',
+    '44f46b73-747d-4b14-a019-33dd32f87da7',
     'Southeast Babar',
     'language',
     NULL,
@@ -7058,15 +7058,15 @@ VALUES
     NOW()
   ),
   (
-    'd6121e5c-e44a-47bb-8368-99cd7f4c8c60',
+    'f1cff262-f79b-47a2-abf2-28c844550980',
     'Southwestern Bontok',
     'language',
-    '68dd5679-90ee-41fb-9a3d-4d7c498ae922',
+    'df7a899f-2752-4591-b764-66bfba63eefa',
     NOW(),
     NOW()
   ),
   (
-    'f9f9c8ce-d117-4555-b2f5-80a8198e4d80',
+    '007addb5-ef31-4e04-8a0e-6e8e1a32589e',
     'Venetian',
     'language',
     NULL,
@@ -7074,7 +7074,7 @@ VALUES
     NOW()
   ),
   (
-    '9ed65580-f7c8-49b9-8e42-034f7309cc42',
+    '5fedcf3b-6281-42bf-a423-12ff40409629',
     'Veddah',
     'language',
     NULL,
@@ -7082,7 +7082,7 @@ VALUES
     NOW()
   ),
   (
-    'ec3958e1-e873-4478-8188-b70e97649fc9',
+    '46663821-7f3f-4151-9b6e-70811415b7ea',
     'Veluws',
     'language',
     NULL,
@@ -7090,7 +7090,7 @@ VALUES
     NOW()
   ),
   (
-    'd371cbb7-1c8b-424d-bb8e-add72f14e7af',
+    '2bc005b9-dd34-4744-b7e7-115cde9d8aff',
     'Vemgo-Mabas',
     'language',
     NULL,
@@ -7098,7 +7098,7 @@ VALUES
     NOW()
   ),
   (
-    '0c36ae0f-8bc7-4b5e-96f0-933b32a366a8',
+    '94b8cfde-e3fa-4b9b-b921-2abc3a210dcd',
     'Venda',
     'language',
     NULL,
@@ -7106,7 +7106,7 @@ VALUES
     NOW()
   ),
   (
-    'c1df9af9-82a4-4f93-bd08-05c0ebb58b12',
+    'fdc011f4-a5f8-44a2-9315-4c5a1d3c6625',
     'Ventureño',
     'language',
     NULL,
@@ -7114,7 +7114,7 @@ VALUES
     NOW()
   ),
   (
-    '395fbc22-1678-4b8e-b6ec-33fa2eea9164',
+    'cc9bdac6-dda0-419c-90ce-14cd951eb228',
     'Veps',
     'language',
     NULL,
@@ -7122,7 +7122,7 @@ VALUES
     NOW()
   ),
   (
-    '5f9e2332-f74a-45f6-8560-71d366fd6d4d',
+    'adc270b5-e40f-45e6-9e5b-67e89722f368',
     'Mom Jango',
     'language',
     NULL,
@@ -7130,7 +7130,7 @@ VALUES
     NOW()
   ),
   (
-    'ff2d8a20-b247-4174-9440-1a0613fb0bed',
+    'b13b64cc-5d4c-40ea-b2f1-7fde889ff35e',
     'Vaghri',
     'language',
     NULL,
@@ -7138,7 +7138,7 @@ VALUES
     NOW()
   ),
   (
-    '600297d7-6dfd-4889-be41-95f75afd9e89',
+    '600c717d-405c-481d-a24e-0d5945182f33',
     'Vlaamse Gebarentaal',
     'language',
     NULL,
@@ -7146,7 +7146,7 @@ VALUES
     NOW()
   ),
   (
-    '53ac08ae-5c47-4557-a129-5840e5987683',
+    '75f8f1dd-3f1b-49b3-8dda-145e38e5ad72',
     'Virgin Islands Creole English',
     'language',
     NULL,
@@ -7154,7 +7154,7 @@ VALUES
     NOW()
   ),
   (
-    'b2c0fc51-2ce8-4502-b05f-c85452757c0d',
+    '98ae8ec3-a072-4c95-9a84-a72100f44b46',
     'Vidunda',
     'language',
     NULL,
@@ -7162,7 +7162,7 @@ VALUES
     NOW()
   ),
   (
-    '322c8a03-d8fe-4da3-8843-81e178d86c90',
+    '0e86dd0c-f4cf-4687-b246-95ae6f69278f',
     'Vietnamese',
     'language',
     NULL,
@@ -7170,7 +7170,7 @@ VALUES
     NOW()
   ),
   (
-    'fb42af0e-b7dd-4e1f-91f9-1599e16d2227',
+    'e887464d-01df-459a-b97e-a7b3ee5ad012',
     'Vili',
     'language',
     NULL,
@@ -7178,7 +7178,7 @@ VALUES
     NOW()
   ),
   (
-    '433c9985-9607-4025-9c08-be7a5f6e56c7',
+    'd091c6d0-c2c5-4ee3-acc0-cc383d95d8ae',
     'Viemo',
     'language',
     NULL,
@@ -7186,7 +7186,7 @@ VALUES
     NOW()
   ),
   (
-    'ea45661a-e1be-4540-8b2d-c66b95c0d17a',
+    '19f9704e-49e3-4043-9f8d-38502c70dd04',
     'Vilela',
     'language',
     NULL,
@@ -7194,7 +7194,7 @@ VALUES
     NOW()
   ),
   (
-    '186ec246-5868-4739-87a3-ee770d3027f0',
+    'b4e2426c-3f0e-4581-b1de-4ba3720d4405',
     'Vinza',
     'language',
     NULL,
@@ -7202,7 +7202,7 @@ VALUES
     NOW()
   ),
   (
-    'dece1b56-d61d-44e1-911f-2e0f562f7483',
+    'cc64e664-4f04-4d60-b4c0-25f58ffab9ab',
     'Vishavan',
     'language',
     NULL,
@@ -7210,7 +7210,7 @@ VALUES
     NOW()
   ),
   (
-    '8d7708da-dbde-4ec2-82fa-e381aa88194a',
+    '3a972e57-037b-4b38-b373-a70e71a8bb5b',
     'Viti',
     'language',
     NULL,
@@ -7218,7 +7218,7 @@ VALUES
     NOW()
   ),
   (
-    '182d5cb2-67b3-47a7-8227-f95debeed457',
+    'dceece7f-f618-450d-aa53-1f70c5d6b4e9',
     'Iduna',
     'language',
     NULL,
@@ -7226,7 +7226,7 @@ VALUES
     NOW()
   ),
   (
-    '25ed474d-76d6-4f43-aabe-c92bc0a1f323',
+    'ea701409-8c19-4b3c-b570-c6e4b59ff013',
     'Bajjika',
     'language',
     NULL,
@@ -7234,7 +7234,7 @@ VALUES
     NOW()
   ),
   (
-    'f47b26ba-7c31-4ab4-95fe-99deec0f7c98',
+    '8456c457-5023-443d-975d-b94933d95c44',
     'Kariyarra',
     'language',
     NULL,
@@ -7242,7 +7242,7 @@ VALUES
     NOW()
   ),
   (
-    'd8bcc6d9-35b7-40a0-9cf0-7ab27955a7c0',
+    'de90284d-d6ca-4cdb-9aa1-4eeb7f545c11',
     'Kujarge',
     'language',
     NULL,
@@ -7250,15 +7250,15 @@ VALUES
     NOW()
   ),
   (
-    '0b257656-60d3-4b0c-a169-68b203c06797',
+    '99845d1d-aa8e-44aa-95a5-79e715fb657e',
     'Kaur',
     'language',
-    'b35b3b8c-c07c-437f-a746-8ef586fd55ca',
+    '828c4f51-4667-44a8-8049-34a4693bb87b',
     NOW(),
     NOW()
   ),
   (
-    'ac6e88d4-f9b4-46a0-a7fb-43d4c0fcd827',
+    'bbba6919-a5bc-4584-82ad-5210c55630d4',
     'Kulisusu',
     'language',
     NULL,
@@ -7266,7 +7266,7 @@ VALUES
     NOW()
   ),
   (
-    '155f7b1f-0da4-4b86-b569-0d974c8dd995',
+    '4b887759-739c-4f61-a346-e9168f122ee5',
     'Kamakan',
     'language',
     NULL,
@@ -7274,7 +7274,7 @@ VALUES
     NOW()
   ),
   (
-    'dc9594a9-94af-4d9b-b9ae-4a67d7b0e021',
+    '874c98c7-da87-4f37-9fdc-fb90739f2fed',
     'Koro Nulu',
     'language',
     NULL,
@@ -7282,7 +7282,7 @@ VALUES
     NOW()
   ),
   (
-    '33cd047c-900b-44c9-9820-76c90f24a4be',
+    '3622f7d2-43b3-4df0-ab38-98e6aebe9e9e',
     'Kodeoha',
     'language',
     NULL,
@@ -7290,7 +7290,7 @@ VALUES
     NOW()
   ),
   (
-    'a6fab684-4d4e-4aef-a822-473ddd60e901',
+    '5eaa0010-cf58-435b-85c5-5251fb5eb5e2',
     'Korlai Creole Portuguese',
     'language',
     NULL,
@@ -7298,15 +7298,15 @@ VALUES
     NOW()
   ),
   (
-    'e046d766-2973-4bcd-8e09-5eda0f3db349',
+    'f7ce4ee9-b134-48b3-be5a-35c60447af4a',
     'Tenggarong Kutai Malay',
     'language',
-    'b35b3b8c-c07c-437f-a746-8ef586fd55ca',
+    '828c4f51-4667-44a8-8049-34a4693bb87b',
     NOW(),
     NOW()
   ),
   (
-    'f3447d96-cb65-4c53-945a-39abcfb4b6a1',
+    'f711958f-1a9b-4144-870d-54eea671b76f',
     'Kurrama',
     'language',
     NULL,
@@ -7314,7 +7314,7 @@ VALUES
     NOW()
   ),
   (
-    '752d9065-e186-4c5d-8be3-0c718c096b7e',
+    '43c5e6c6-1609-49f2-963a-b681749d5b89',
     'Koro Zuba',
     'language',
     NULL,
@@ -7322,7 +7322,7 @@ VALUES
     NOW()
   ),
   (
-    'db25c675-9d04-480d-95e3-fbaef0481630',
+    '4aadfaea-1670-4767-995c-a3e371bd60ad',
     'Valpei',
     'language',
     NULL,
@@ -7330,7 +7330,7 @@ VALUES
     NOW()
   ),
   (
-    '209e2825-2756-4ee3-a16f-19b9946979bc',
+    'beeed345-1d6c-4146-a64c-c1b950b97f40',
     'Vlaams',
     'language',
     NULL,
@@ -7338,7 +7338,7 @@ VALUES
     NOW()
   ),
   (
-    '8e990b63-6fa7-41d7-9f2d-0ef8f7fc6670',
+    '31b599b3-3ab8-4ec7-9dc2-239e864b070c',
     'Martuyhunira',
     'language',
     NULL,
@@ -7346,7 +7346,7 @@ VALUES
     NOW()
   ),
   (
-    '091c7caf-921f-4b2a-a681-37e30102ed39',
+    '26b6f29b-bac4-4347-bac5-875535e8da35',
     'Barbaram',
     'language',
     NULL,
@@ -7354,7 +7354,7 @@ VALUES
     NOW()
   ),
   (
-    'd4856ab1-ed58-4048-917a-72237c271d77',
+    '7b75c697-e24d-481d-860d-8333b334d2d8',
     'Juxtlahuaca Mixtec',
     'language',
     NULL,
@@ -7362,7 +7362,7 @@ VALUES
     NOW()
   ),
   (
-    '01864e20-00f2-4ef5-85c9-16c747f24d92',
+    'b2c3285d-da20-445f-bad9-5972a58ddc06',
     'Mudu Koraga',
     'language',
     NULL,
@@ -7370,7 +7370,7 @@ VALUES
     NOW()
   ),
   (
-    '897e92e1-987e-4533-9762-b62e30686ac5',
+    '0a4ea80a-8c91-4d8a-aee0-f7e8f1843b7e',
     'East Masela',
     'language',
     NULL,
@@ -7378,7 +7378,7 @@ VALUES
     NOW()
   ),
   (
-    '0a5826a4-afca-48ff-8f10-463ae0c0743d',
+    '3aa2243a-c002-4675-9f91-04cbefa5f281',
     'Mainfränkisch',
     'language',
     NULL,
@@ -7386,7 +7386,7 @@ VALUES
     NOW()
   ),
   (
-    'c8a3a990-a044-4379-9df8-0d251903924d',
+    '302b0ce1-c9a7-421d-852a-9273371eac8f',
     'Lungalunga',
     'language',
     NULL,
@@ -7394,7 +7394,7 @@ VALUES
     NOW()
   ),
   (
-    '6d1b96cf-9f9e-48b1-8e89-34f89bb2ddf5',
+    '48ed4732-eb1c-43ef-9935-c85a9f7eeb6f',
     'Maraghei',
     'language',
     NULL,
@@ -7402,7 +7402,7 @@ VALUES
     NOW()
   ),
   (
-    '77f3754d-41dd-4021-956a-db4c4694ec25',
+    '2c6f22be-5e7d-41b8-9555-9db51b370373',
     'Miwa',
     'language',
     NULL,
@@ -7410,7 +7410,7 @@ VALUES
     NOW()
   ),
   (
-    'feb67c51-bf17-49e5-a9f6-ff8002b1dd97',
+    '7c86c97e-be36-4a76-bf89-a5ba3ddf20fc',
     'Ixtayutla Mixtec',
     'language',
     NULL,
@@ -7418,7 +7418,7 @@ VALUES
     NOW()
   ),
   (
-    'a553cbca-9d43-4e40-9ed9-ad8e3568a84b',
+    '312af0b3-ccee-4647-a95c-c68bfa110a80',
     'Makhuwa-Shirima',
     'language',
     NULL,
@@ -7426,7 +7426,7 @@ VALUES
     NOW()
   ),
   (
-    'b147b8a2-0a38-4a1a-adf2-fcf79960788f',
+    '615b795b-a0ac-4108-b9fd-a6345d24f027',
     'Malgana',
     'language',
     NULL,
@@ -7434,7 +7434,7 @@ VALUES
     NOW()
   ),
   (
-    '1c3b87bd-de7f-4fe3-a0f5-69f9317484be',
+    'b1ad6df1-7b68-4bab-b85f-7818603d1438',
     'Mitlatongo Mixtec',
     'language',
     NULL,
@@ -7442,7 +7442,7 @@ VALUES
     NOW()
   ),
   (
-    '79236fdf-ef11-4e4b-8753-4585fc64c403',
+    'fefe93ae-98db-4920-8779-2ad2a0ccd8b8',
     'Soyaltepec Mazatec',
     'language',
     NULL,
@@ -7450,7 +7450,7 @@ VALUES
     NOW()
   ),
   (
-    'e9fb7a4a-c556-4faa-9b31-ea8e376dda50',
+    '86275b6b-022c-465d-a34c-cd48555da28b',
     'Soyaltepec Mixtec',
     'language',
     NULL,
@@ -7458,7 +7458,7 @@ VALUES
     NOW()
   ),
   (
-    '7ae9a1af-1995-4ca2-ad97-609826c41382',
+    '9d5601b6-2bc4-4442-8cb6-5ea14fe66831',
     'Marenje',
     'language',
     NULL,
@@ -7466,7 +7466,7 @@ VALUES
     NOW()
   ),
   (
-    '1a4a16d4-61cb-49e8-b907-74bc67a8773d',
+    '125efa43-9012-4144-8841-0023a810d157',
     'Moksela',
     'language',
     NULL,
@@ -7474,7 +7474,7 @@ VALUES
     NOW()
   ),
   (
-    '1437f1d7-030e-4707-97d5-8b52e2875923',
+    '01f3cf41-54b4-42d0-83b8-08f8a94ae756',
     'Muluridyi',
     'language',
     NULL,
@@ -7482,7 +7482,7 @@ VALUES
     NOW()
   ),
   (
-    'e1651b13-eec0-4002-a005-1d0eb14d8964',
+    'f6deb812-ef05-40d4-8b3b-fda53085cfbc',
     'Valley Maidu',
     'language',
     NULL,
@@ -7490,7 +7490,7 @@ VALUES
     NOW()
   ),
   (
-    'afed43c4-1057-4498-910f-53ce16a000c8',
+    '1bb0b199-4952-48db-af38-35eac3948d9c',
     'Makhuwa',
     'language',
     NULL,
@@ -7498,7 +7498,7 @@ VALUES
     NOW()
   ),
   (
-    '8bc96719-1b3d-4424-bba9-2f2fe6857a44',
+    '1fd00bc5-7bd8-4cbd-aa63-66b89e69ad12',
     'Tamazola Mixtec',
     'language',
     NULL,
@@ -7506,7 +7506,7 @@ VALUES
     NOW()
   ),
   (
-    'e30d43e9-68c6-490e-96ab-f795d42e56a4',
+    'c7750b4a-99f6-4a20-9379-603c0b4af3eb',
     'Ayautla Mazatec',
     'language',
     NULL,
@@ -7514,7 +7514,7 @@ VALUES
     NOW()
   ),
   (
-    '00076451-0e53-4ecf-a8ec-ba412f0215f2',
+    '7ed2723c-c7d1-435e-b33d-cabddfdd2818',
     'Mazatlán Mazatec',
     'language',
     NULL,
@@ -7522,7 +7522,7 @@ VALUES
     NOW()
   ),
   (
-    'f31b9df8-a636-4212-abd6-6a02a1fd975d',
+    '3fff602d-f5a7-4423-bfab-cfefe8634725',
     'Vano',
     'language',
     NULL,
@@ -7530,7 +7530,7 @@ VALUES
     NOW()
   ),
   (
-    'a755e820-f479-4a73-9f55-218a72b9b995',
+    'bdd71a3a-327d-4625-b162-9b45156b880c',
     'Vinmavis',
     'language',
     NULL,
@@ -7538,7 +7538,7 @@ VALUES
     NOW()
   ),
   (
-    'f58cf86d-b91b-45c5-9ed0-ffcf04f602a3',
+    'b3d129f0-e37c-46ea-b056-b8f651bd75ba',
     'Vunapu',
     'language',
     NULL,
@@ -7546,7 +7546,7 @@ VALUES
     NOW()
   ),
   (
-    'fe289463-229c-4c16-bfbe-61c35691cc76',
+    '7532cb00-cfab-4acb-ab54-c9ba5b60dc5c',
     'Volapük',
     'language',
     NULL,
@@ -7554,7 +7554,7 @@ VALUES
     NOW()
   ),
   (
-    'ec0779fb-2a2b-44f3-9a42-69838ecb2a52',
+    '86b3da07-aedc-490e-9ef6-59836bd8b918',
     'Voro',
     'language',
     NULL,
@@ -7562,7 +7562,7 @@ VALUES
     NOW()
   ),
   (
-    'f7193aab-2b78-4961-bd44-a6b8684209b3',
+    '087fea7d-97bb-4dbb-bebf-7da52ae2410d',
     'Votic',
     'language',
     NULL,
@@ -7570,7 +7570,7 @@ VALUES
     NOW()
   ),
   (
-    'a1b890ab-24be-45fb-8e61-2b173eb0f201',
+    '85fe05fa-69fb-47c5-b8bf-6ffa679d6949',
     'Vera''a',
     'language',
     NULL,
@@ -7578,15 +7578,15 @@ VALUES
     NOW()
   ),
   (
-    '2c4daf01-bc61-4239-a9fc-b28505261bd0',
+    '631396cb-170d-4a69-ab1b-2db38b218535',
     'Võro',
     'language',
-    '57153dce-2276-40d1-a323-0a32b4665260',
+    'f359499e-cf45-4e74-808a-0ecaf0a8d154',
     NOW(),
     NOW()
   ),
   (
-    'de46cb56-ee82-4f8a-a833-8e94270ef654',
+    '5d07f412-247f-44a5-a58a-1261a64ded92',
     'Varisi',
     'language',
     NULL,
@@ -7594,7 +7594,7 @@ VALUES
     NOW()
   ),
   (
-    'c85953c0-a8aa-4b35-a4d4-afca06dbb166',
+    '52312871-ca7b-4b5c-a26e-8324f3a37572',
     'Burmbar',
     'language',
     NULL,
@@ -7602,7 +7602,7 @@ VALUES
     NOW()
   ),
   (
-    '5975d1f9-d57d-456b-abaf-211023a8c967',
+    '3e34eb1e-db91-4942-bf81-0c085d7800d1',
     'Moldova Sign Language',
     'language',
     NULL,
@@ -7610,7 +7610,7 @@ VALUES
     NOW()
   ),
   (
-    'b83eb6b8-f2c1-475f-91ae-59c86af39875',
+    '2604d888-f043-4434-827b-8f326ab9670e',
     'Venezuelan Sign Language',
     'language',
     NULL,
@@ -7618,15 +7618,15 @@ VALUES
     NOW()
   ),
   (
-    '256a3122-028a-4800-9282-09b53a92cf7d',
+    '6093dd49-6377-47be-9171-ff82f3cba90e',
     'Vedic Sanskrit',
     'language',
-    '7989a808-d123-47ab-9232-381dbed8144a',
+    '679c407d-7f09-4fb5-a9b2-1f301337facc',
     NOW(),
     NOW()
   ),
   (
-    '5ef364c9-1359-49ad-8ffb-16ee32adc41e',
+    '26344c82-3dc5-4a64-8104-00450a605e2d',
     'Valencian Sign Language',
     'language',
     NULL,
@@ -7634,7 +7634,7 @@ VALUES
     NOW()
   ),
   (
-    '1c33a8b9-9750-4b35-9902-a41b791de198',
+    '576d874a-e15e-4ad1-b6c8-935b3a3a329d',
     'Vitou',
     'language',
     NULL,
@@ -7642,7 +7642,7 @@ VALUES
     NOW()
   ),
   (
-    'cc1e46cc-f614-4b2a-8401-78fcd19dec01',
+    '4a165faa-7931-45d1-86ba-7f1e5b94eded',
     'Vumbu',
     'language',
     NULL,
@@ -7650,7 +7650,7 @@ VALUES
     NOW()
   ),
   (
-    'ce14d1b4-a521-4d6a-98f8-5e71c74c40cd',
+    'dd810e0f-d4ca-411f-8f81-a853db0968ec',
     'Vunjo',
     'language',
     NULL,
@@ -7658,7 +7658,7 @@ VALUES
     NOW()
   ),
   (
-    'ef610f8d-d461-4c98-8817-4139be249ac8',
+    '7bd922a8-cd0e-4264-a5c8-8c9a7e34ffdc',
     'Vute',
     'language',
     NULL,
@@ -7666,7 +7666,7 @@ VALUES
     NOW()
   ),
   (
-    '56ccda78-5335-4e9c-acf9-66db1fff6b26',
+    'ce91fa55-0357-44cd-b288-b4dabc341329',
     'Awa (China)',
     'language',
     NULL,
@@ -7674,7 +7674,7 @@ VALUES
     NOW()
   ),
   (
-    'c526bb8d-0e7c-4625-a468-825fb3344654',
+    '1bd802f7-a649-4c4b-b583-8fe5359c28b7',
     'Walla Walla',
     'language',
     NULL,
@@ -7682,7 +7682,7 @@ VALUES
     NOW()
   ),
   (
-    'cc940223-110b-4581-934b-8111ad825b22',
+    'a5c0a1ba-861b-48f7-a3e9-202aa9f683f3',
     'Wab',
     'language',
     NULL,
@@ -7690,7 +7690,7 @@ VALUES
     NOW()
   ),
   (
-    '22d96647-75e6-4757-99a5-230cab76c6c8',
+    '8739baf6-6360-455b-bd80-b6d49c40274a',
     'Wasco-Wishram',
     'language',
     NULL,
@@ -7698,7 +7698,7 @@ VALUES
     NOW()
   ),
   (
-    '60936957-d818-47a6-acaa-e7871d195ed9',
+    '89d4cca3-f63e-46fa-96ba-55f0433f5533',
     'Wamesa',
     'language',
     NULL,
@@ -7706,7 +7706,7 @@ VALUES
     NOW()
   ),
   (
-    '24d9ddfd-d579-4386-8051-57010bf577fd',
+    '60a5c8ba-d262-4306-ac75-d427b00e8f8b',
     'Walser',
     'language',
     NULL,
@@ -7714,7 +7714,7 @@ VALUES
     NOW()
   ),
   (
-    '08043768-b6b5-4121-a4d9-67f7ee985e60',
+    'e211d77a-1957-4ce6-af3c-4cd54a025a66',
     'Wakoná',
     'language',
     NULL,
@@ -7722,7 +7722,7 @@ VALUES
     NOW()
   ),
   (
-    'e16b51d0-21f1-4f4a-a024-aa0a2fcfe875',
+    '6bcbac6a-6f5d-4018-8ec0-e33f757bc340',
     'Wa''ema',
     'language',
     NULL,
@@ -7730,7 +7730,7 @@ VALUES
     NOW()
   ),
   (
-    'fd4379d4-6087-49b6-8ab0-cf7728e998e7',
+    '668da1e0-de98-4bc2-a0f6-d8ca69a49814',
     'Watubela',
     'language',
     NULL,
@@ -7738,7 +7738,7 @@ VALUES
     NOW()
   ),
   (
-    '47c37e0c-5c33-4b94-bba0-4eadc566ec3c',
+    '5bed4ad5-d5a6-4553-bd64-71a0f8d7be0e',
     'Wares',
     'language',
     NULL,
@@ -7746,7 +7746,7 @@ VALUES
     NOW()
   ),
   (
-    '998630b7-babd-4a6b-ac0f-2f16bdd66d29',
+    '8a70c032-e670-4472-bd9b-f51fc717a805',
     'Waffa',
     'language',
     NULL,
@@ -7754,7 +7754,7 @@ VALUES
     NOW()
   ),
   (
-    'd498e7c3-b259-4873-8192-e43b583ca920',
+    '569fb787-e721-4950-8a80-24675ff2aed0',
     'Wolaytta',
     'language',
     NULL,
@@ -7762,7 +7762,7 @@ VALUES
     NOW()
   ),
   (
-    '496fcb21-1352-4c0e-8076-2395712b2f29',
+    '64766131-5391-4d0a-ac23-b8a799f7392d',
     'Wampanoag',
     'language',
     NULL,
@@ -7770,7 +7770,7 @@ VALUES
     NOW()
   ),
   (
-    'ec433f7e-928d-49b9-9236-ccdeceaad837',
+    'ddcd1811-527a-4b81-a7e4-7b8967ac90fd',
     'Wan',
     'language',
     NULL,
@@ -7778,7 +7778,7 @@ VALUES
     NOW()
   ),
   (
-    '3fa90f85-f7e2-4e7c-972b-b5b18405e5bc',
+    '517e7421-ea72-4b2e-8e57-0b51f439e2d5',
     'Wappo',
     'language',
     NULL,
@@ -7786,7 +7786,7 @@ VALUES
     NOW()
   ),
   (
-    '68adf821-cb74-4be7-af89-075beb9be320',
+    '39cf9bfa-bc89-4784-8c5b-5ea7af7dd4b6',
     'Wapishana',
     'language',
     NULL,
@@ -7794,7 +7794,7 @@ VALUES
     NOW()
   ),
   (
-    'c6d225c3-ea3c-4587-8a7a-802249d253a7',
+    '0623f576-b6c1-41a1-a16a-b34908552672',
     'Wagiman',
     'language',
     NULL,
@@ -7802,7 +7802,7 @@ VALUES
     NOW()
   ),
   (
-    'babf80fd-4331-4286-aed6-1cde159a731e',
+    'a4c1d6ca-9085-4b6f-a8ae-69ac460ededb',
     'Waray (Philippines)',
     'language',
     NULL,
@@ -7810,7 +7810,7 @@ VALUES
     NOW()
   ),
   (
-    '1fd8420f-3571-42b3-9a22-40933c5cd965',
+    '88c0c296-da57-4cc2-8083-ab26b5d9d4ee',
     'Washo',
     'language',
     NULL,
@@ -7818,7 +7818,7 @@ VALUES
     NOW()
   ),
   (
-    '318b2afb-fd84-4545-8123-230ce112223a',
+    '4de6c37c-7316-4a77-a1b5-8381b85a5ca3',
     'Kaninuwa',
     'language',
     NULL,
@@ -7826,7 +7826,7 @@ VALUES
     NOW()
   ),
   (
-    '79e44f82-1432-4603-ade6-d201fc446e06',
+    '887ffbc9-fd2d-48c7-808b-3d70df6efae3',
     'Waurá',
     'language',
     NULL,
@@ -7834,7 +7834,7 @@ VALUES
     NOW()
   ),
   (
-    '046455d4-49b4-4186-89d7-486a7a65f992',
+    'b0a4425c-11b7-474c-8f69-92a1c4fb4efc',
     'Waka',
     'language',
     NULL,
@@ -7842,7 +7842,7 @@ VALUES
     NOW()
   ),
   (
-    'c4dc7b15-cc90-411b-a80c-b3d756ee68fa',
+    'e468a022-3009-44f4-b1a3-ac6553d0afc6',
     'Waiwai',
     'language',
     NULL,
@@ -7850,7 +7850,7 @@ VALUES
     NOW()
   ),
   (
-    'a6e2913f-9a12-4494-b93d-31dfc35a038f',
+    '0fe7a96b-b8e8-4c03-b485-e751a0d9c199',
     'Watam',
     'language',
     NULL,
@@ -7858,7 +7858,7 @@ VALUES
     NOW()
   ),
   (
-    '24ef6aed-53a4-4211-b37c-bd6108802462',
+    '71418772-0676-4402-96e5-19c68aa6adf8',
     'Wayana',
     'language',
     NULL,
@@ -7866,7 +7866,7 @@ VALUES
     NOW()
   ),
   (
-    'c10cc04f-fbaf-4f36-84f2-57da0c8ccb94',
+    '11d34ea4-ee2c-4fd9-b273-a27b83dc9fea',
     'Wampur',
     'language',
     NULL,
@@ -7874,7 +7874,7 @@ VALUES
     NOW()
   ),
   (
-    '1af2f29f-9aa3-4e4b-a6ab-7b7504fe0048',
+    '4c2551a5-7e94-4959-8561-f32973bb0b55',
     'Warao',
     'language',
     NULL,
@@ -7882,7 +7882,7 @@ VALUES
     NOW()
   ),
   (
-    '38d29638-cfd5-40e2-b58d-ac94acdbb3f9',
+    '66338f33-4b0a-4f7d-bd3c-cd28c7f1f8a7',
     'Wabo',
     'language',
     NULL,
@@ -7890,7 +7890,7 @@ VALUES
     NOW()
   ),
   (
-    'a7aec56c-2bc5-4c89-85ea-14d251bd9d6c',
+    'ebdca9fa-13a6-4964-bd77-fef11ddd85c0',
     'Waritai',
     'language',
     NULL,
@@ -7898,7 +7898,7 @@ VALUES
     NOW()
   ),
   (
-    'c4677734-6a0a-4dcf-9baa-dec1c4f48cc0',
+    'b842e968-6912-43b3-95fa-231dce2be571',
     'Wara',
     'language',
     NULL,
@@ -7906,7 +7906,7 @@ VALUES
     NOW()
   ),
   (
-    '94511704-d840-422e-98dc-9ea5b489d4cb',
+    '182a1882-4ecc-4f05-99bc-6e06fc7ddde0',
     'Wanda',
     'language',
     NULL,
@@ -7914,7 +7914,7 @@ VALUES
     NOW()
   ),
   (
-    'fb56100e-dafb-4720-8dd1-9adc2c55aae2',
+    '6388b9da-08ed-4c2b-8d4a-5ddd0624cf96',
     'Vwanji',
     'language',
     NULL,
@@ -7922,7 +7922,7 @@ VALUES
     NOW()
   ),
   (
-    '7c1c8f16-a038-4320-bfad-078c94213eab',
+    '620b5a53-356e-457f-899a-bc7a465676e3',
     'Alagwa',
     'language',
     NULL,
@@ -7930,7 +7930,7 @@ VALUES
     NOW()
   ),
   (
-    'cde48c91-5e3e-401d-bcfc-2b2327c9b93b',
+    'e5979b3d-b3a7-476d-9e32-b4dc5876f480',
     'Waigali',
     'language',
     NULL,
@@ -7938,7 +7938,7 @@ VALUES
     NOW()
   ),
   (
-    '32b402a7-65cf-4419-a079-99b3cc995671',
+    '5b6de0b3-677d-4892-8fef-cbb297973c52',
     'Wakhi',
     'language',
     NULL,
@@ -7946,7 +7946,7 @@ VALUES
     NOW()
   ),
   (
-    'a198c8cd-223f-4e21-ab16-e7d1970fe4d6',
+    '0ba1ce6e-d33a-4e11-b1fc-96667ca11221',
     'Wa',
     'language',
     NULL,
@@ -7954,7 +7954,7 @@ VALUES
     NOW()
   ),
   (
-    '2a890f24-60d6-4260-a926-63f66f44da84',
+    '3e84b4a6-76cd-47b0-90df-cab64133b719',
     'Warlpiri',
     'language',
     NULL,
@@ -7962,7 +7962,7 @@ VALUES
     NOW()
   ),
   (
-    'fe91e1ac-0d25-4a52-bdf7-6ea3dc744978',
+    'a4071766-31c5-427c-870e-21ede4878684',
     'Waddar',
     'language',
     NULL,
@@ -7970,15 +7970,15 @@ VALUES
     NOW()
   ),
   (
-    '30ce1df9-7efa-459f-9a6f-39594995dcf5',
+    '60a4b04a-a89c-4cf0-a958-3876f89be60d',
     'Wagdi',
     'language',
-    'ba33213e-ac3b-4afd-a1cc-ff0d1ecc85af',
+    '3cdb2fb3-cc70-4f83-9de2-d573a67c0368',
     NOW(),
     NOW()
   ),
   (
-    '985255ed-6ed0-41fd-a09a-24049e277c10',
+    '50a43c83-217c-408b-802d-dc84fd41bb77',
     'West Bengal Sign Language',
     'language',
     NULL,
@@ -7986,7 +7986,7 @@ VALUES
     NOW()
   ),
   (
-    '870635f8-44ab-4cd2-934b-9ae0600da2cc',
+    'a1ec98a3-7268-49be-8d27-c7219325ad50',
     'Warnman',
     'language',
     NULL,
@@ -7994,7 +7994,7 @@ VALUES
     NOW()
   ),
   (
-    '56702e1f-ed0a-459e-8ded-9378a31a8c10',
+    '3e6a1cfd-b2f7-4cae-9044-ab54a848f483',
     'Wajarri',
     'language',
     NULL,
@@ -8002,7 +8002,7 @@ VALUES
     NOW()
   ),
   (
-    '02e0914e-432b-4e4d-a1b5-a50cdd54d79a',
+    '2c698c8e-6bec-47d2-8f46-270d73b25350',
     'Woi',
     'language',
     NULL,

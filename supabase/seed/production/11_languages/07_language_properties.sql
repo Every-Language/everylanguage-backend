@@ -3,7001 +3,7001 @@ INSERT INTO
   language_properties (id, language_entity_id, key, value, created_at)
 VALUES
   (
-    '908c102a-459b-4e5e-9af5-80d9c232f605',
-    'd3d42aed-6bb8-4cd4-a7b9-112c010579d8',
+    '0976abce-236f-46f5-b85b-31b1aca19515',
+    'fa4067f6-42b0-44a1-9bd0-7cf1eabf8534',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6a20ab59-30ae-4829-bdad-7d506bf223b8',
-    '518d674e-9f39-42fe-b6f3-3788caba34cd',
+    '0d27d49f-119e-4b99-a27c-aa5e6d984316',
+    '49934ecf-4c06-447b-b3e9-bf50ad4c2c67',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dd83546f-323c-4253-9baa-51c651baa265',
-    '9fdf0eb7-0e8c-4fdf-830a-4c13d5ad335d',
+    '55c4e188-0568-40ec-8000-dc2129184c7d',
+    'a7b84718-9dd6-436a-955d-18d4c56a418b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6ffe2618-6612-4e18-b0bd-993d8dc51e54',
-    '48bd6adf-e73c-4885-8e66-e5992793770f',
+    'd26310ea-a2ba-4294-8ad8-e55ba9927076',
+    '8edc50d3-5c3c-406d-8568-1b55b418a71a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e8d66826-3b9d-44c5-9fda-9726d170618a',
-    'a7f23c65-c7e6-4bb6-b5c3-ca4c0596d8bf',
+    'e8b85735-1a37-49fd-a09d-15cc23db3c90',
+    'cc1d1324-a848-40c4-b947-4acedf708770',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'be96080d-3d36-42e1-b09b-f2a460dc6b01',
-    'dea5b270-44d2-453c-baf8-1f8ae26ec984',
+    '1726f7e8-7572-42bc-808a-7691aea84be3',
+    'a20d38d6-9bde-479c-84a3-4a09aa54ef44',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'df6c1b8f-54be-49d6-95d6-c0d6989493e8',
-    '5874d979-8222-4f9e-802a-b2e545723982',
+    '304b75a3-3ec8-4bc2-a97a-69ae554b7a84',
+    '99949b8f-8d18-44c5-85a6-bb46ac2dde5f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '76c3d17b-be58-433b-8028-c75f71f7e17f',
-    '59e3704d-1ac8-4f92-a4b7-7c4beef72004',
+    'bfe2b646-4c0b-44ac-a7a0-eada56becd32',
+    'b1d3a7af-548b-4a44-bfed-ce8e3db007de',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f6fffbd0-471d-495a-adb5-ae06a4b8d589',
-    '3f19917d-000a-4325-9c82-63890f0d554e',
+    'a304c222-0066-4320-990f-2cef32544326',
+    '23a6e7ea-4053-45c0-93d1-eb3b7a5d11b1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eb5c5fcf-0fab-4b5f-aed6-15195b7a5e28',
-    '3fa0d989-7e06-4975-9980-c7d8e637434d',
+    'e3f489f2-9978-4e01-9b6e-5de7e7f6dded',
+    'a8a7bf21-c781-45b2-bd2e-dc0dc9f8ddb7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '123cbef9-9f11-4187-97a2-4fbe89b990b8',
-    'f6e1bf92-7ca3-419d-8e3f-0fcd2422f4a9',
+    '4c8fc914-2b17-4c91-b43e-2530f802720f',
+    '151122ae-52e5-4117-b20f-e0e0af69a9d6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'aa70fd6b-1180-45ef-9958-7913246da75b',
-    'bafdc29e-89f3-464e-aa12-a9d7826e4140',
+    '8ee9b6ea-07ad-429c-a066-b948f0f20633',
+    'd9a00738-9791-433c-ac76-02392a52a211',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bf28aa39-654e-4826-8d86-82f70dc76b07',
-    'ed32ab22-b464-4133-ae64-7bf0505432f4',
+    '641a1b35-0d4b-4843-9d69-0796a5c73d08',
+    '99e0b1b6-ff93-438e-877a-6f7b7e2b1e0d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a52d05ad-5ebe-4c24-afa1-67faa54bd60e',
-    'e2cb4e57-feb1-44cb-8f1d-4a944cb86574',
+    '79d79fb7-668f-40a5-9ec2-26e74e6bb81a',
+    '677f5292-3aaa-49ad-89d6-fb2b55b68fde',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '99a601a4-6864-43c2-8651-4902f6ccbd7e',
-    '9f7a8ddb-bdb6-4cd6-a010-5c50ea100a32',
+    '2f408316-30cf-454a-b038-59051b34037d',
+    '43c93424-46e0-4bba-9b53-194d2ba0c9f3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3c293a85-7a9e-4b43-8a68-c22c09fb7990',
-    'f3c5a759-99ec-4204-8904-b6272f191412',
+    '0559d635-566b-4c96-8241-0aaff22c0807',
+    'c86241fa-0009-445b-92d8-798e0328ef43',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '42b4726e-faa4-46c3-b65e-78a164d6517a',
-    '8355fd23-eb79-4143-ba4d-66eeae6390e5',
+    'a9a76731-c7ed-4f07-93d0-58e4c09642df',
+    '1121eb76-4b1f-46d8-8570-a664a084232c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd6f3bef7-84cc-4bb3-8347-9702f1a7573b',
-    'b3c29b14-cd25-416a-b765-58f0f914eb3f',
+    '227c2a86-c798-4fba-83d8-9eabdffc866f',
+    '70216486-1fbb-4322-92ae-18f95e73702d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4176343a-f472-40ae-81bc-b6e520fab2de',
-    '2ab87659-91fe-4af0-8247-ae3bb04ecf25',
+    '61ea87fb-1a21-4834-b241-0b88f420a069',
+    '2dbc3567-e655-4b1f-93e4-5ee812128d16',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6fa00be2-01f0-4f8e-97d4-e50db06544e8',
-    '1d35bdab-06ca-4c59-b37c-97ffd6d8f55a',
+    '97420b11-7c91-4dbb-8f48-945cfab7c92f',
+    '029f5471-fa2e-4124-9f4b-4fd580f6afe1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1f9f5963-b03f-4e33-8b15-579a48bfcd7c',
-    'a794e2ac-8bad-4880-b689-811f0051a5d6',
+    'c58e43b6-3eeb-4667-bfa5-a51c12e68c5c',
+    'a6cd8bc4-392f-4e26-91d5-4cc8b579caa4',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '11be06f1-f37d-4cfa-bd94-25c85ba19f9d',
-    'bdcc58e2-ea67-4ec0-ae03-6c2be9cc7019',
+    '5de58936-46eb-4129-aa2d-e939278d95c4',
+    '27785505-dbbe-41af-8e40-bc27852f1cd5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8028aded-92fb-4b1a-b704-b3d80c179c0f',
-    '945065be-9861-490f-90a9-9cfdd165d8d9',
+    'be5485ff-5e98-4189-8e56-87f708425955',
+    'f909afe0-96d6-488e-a69c-21cd23b6a911',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'df6fdd2e-75a5-457b-854c-c3396577aec8',
-    '533ac510-85f8-45ed-8de7-1ff82d05ec62',
+    '0d561387-f1da-4175-9bb3-4d5a5538ec55',
+    '6d035291-c78c-4d37-b059-0a6f7cb895aa',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5840b888-b50f-461a-bf00-53a950034394',
-    '542e2668-4517-4558-bb65-6025e49c3044',
+    '03e64d4b-7768-4e04-ab89-3a0b65ecf469',
+    'c509ffcc-eb65-4ef6-89e4-f9c9a28a38c3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'acdec1ad-a0b5-4d05-964b-becf7df960a6',
-    '125d705a-1487-480e-af5d-bf1db4101ca4',
+    'be991491-0ece-46bc-b0df-aef589226abe',
+    '9ab4259a-21c1-4c64-8216-ce3b0a9d8e18',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5aeae942-3a5c-484f-9ff7-224cbf3db358',
-    '5f7b4f71-653c-445c-b4c4-081ce4ccd889',
+    '7a02cc38-b53c-4f99-b87f-164ea2c1705c',
+    '20f5a56a-2f8a-40c3-a06a-eadb2b866a83',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd83bb173-3729-430b-9880-aebb05a3ef6c',
-    'cc093e67-924b-4883-84fe-2a0d118e4a02',
+    '137abf21-03f3-45f3-ab31-a680bec16ab8',
+    '7820cff3-57f1-408c-921b-3a9b334d28bc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b6a0b2b4-ba65-4627-ab97-c76568959efd',
-    '34fe9eb4-3d3f-4db0-813d-38d37bff851d',
+    '99cd1d2d-d31d-4d71-8242-4123fabc82a6',
+    '17f01a40-9387-45c4-af84-e264efcc4e36',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c89b76be-2b5e-43fe-83fa-c535899a0c44',
-    '0f306b5c-c856-4854-be82-cdada20ffa77',
+    'a229d86b-c807-4d5f-b7e9-6eb08a985b9e',
+    '5b7d48a0-7f7d-4290-8fe0-cc35eca82c09',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a120e6c1-7c79-4714-8774-d64ceab200e7',
-    '0b80868d-35d5-4ca8-87a2-6b674a31b109',
-    'iso_639_language_type',
-    'Historical',
-    NOW()
-  ),
-  (
-    '1eca6ecf-d881-4621-bbc8-60a39a6d981d',
-    '467e61a1-db49-44d6-8216-81ddf9a82e71',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '38b941b3-4816-4688-8c22-7517c0757042',
-    'bd5d5882-b9c1-4e74-8c74-43ad729d585e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4f20fd09-1cdb-4900-a5f0-225c58e23edd',
-    'a29d053c-434e-4e8d-9376-fccdc5dc22c3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '84b7bbdd-dcac-478c-b170-25e34a68a494',
-    '82076a00-0fc0-4312-ba8e-76da62e3ea16',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c65ad7ec-7557-48e8-a768-939486d58150',
-    '177af8d9-bf9f-4afb-9514-804815689066',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6a20f877-c30e-43e7-ad6a-458df94c6cdb',
-    '167e8924-7969-48ac-b241-b7c580e2fd58',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'beed245b-215c-4db6-b067-bd5172364743',
-    '92fb26cf-50e4-40e6-b31d-f32f269ae951',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'c1a4910f-5a51-41bd-a448-381afe57d7f9',
-    'b3317aa8-2367-4f31-a5c9-819107de964e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4567a278-4fec-4217-91cb-397da4b96b3c',
-    'e415adbf-dc08-49b5-b80e-00313186bc13',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5981b934-aa84-4b4c-9196-0e5704636c5d',
-    'b50280be-3af0-4a93-93ac-b959dff47a7f',
+    'b26a359d-58a2-4b71-9356-f1eb0bb74675',
+    'af453528-4157-46d9-9850-f1d765706cdf',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    'a645fffc-0810-483c-835b-6521d76c8b60',
-    'df762f95-f7b2-4e3a-bb7b-720888ea2e94',
+    '0a1ebe03-45a4-4712-a887-39197be18f69',
+    'd3bf80ac-a628-44be-9037-f0038039501d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7da1e6a8-90c6-4151-83d3-f57e50971043',
-    '5dada358-4b6b-4657-af6d-56b803aafda0',
+    '5cff138b-5ddc-416a-b5d9-512db6581c68',
+    'c43a4009-1cc0-4af3-80d3-6af38115f513',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd0fc7a72-f061-486f-9f8b-f07212affd56',
-    '9a33be6c-5f51-4f0c-b58c-485ba315fa08',
+    '142d1a9f-6ed3-4549-8eae-33648018a013',
+    '1761a2f1-e4b9-441e-9818-94e0a9db54a5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3d8a76c3-ca80-4f21-9ca3-6af8a5fd882f',
-    '2e036c8a-3aa8-482f-b294-22ca996d8375',
+    'd1880ec3-bf07-4cd2-93b3-51ac45dbcba6',
+    '0debd430-4a36-4102-b187-026a26200605',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0ec419f3-d908-43e2-be28-afc123871d91',
-    '4bb22961-f997-4336-9c03-dd17a45f9378',
+    '8c1443dc-53c4-4713-850d-c12734c0426e',
+    '9c5d8fb1-7be4-4bc4-86ec-6f81dfee1580',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e195b6ad-5cf2-462f-9090-acb08006bc3a',
-    '5728b13b-f47f-4540-bb5e-84c73b66ebec',
+    '376e3331-f786-4fd5-b865-012d6bff996f',
+    'd8c4323b-e9fc-4d06-83e3-074b541c469d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8b8c7c62-02bd-490b-b2d4-9acee037ca7c',
-    'b01608dc-5a0f-485d-9ab6-621c4eae99ea',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f0b6635d-8957-4c59-9ecd-6343ae2286e1',
-    'bf84d1e8-b915-43df-b274-13ecae80aaef',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ea8ee79b-ed99-4342-82b2-4e77775932b9',
-    '0d9d7e85-9c25-400a-bc1f-873a49cf5b1d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b32eb5ee-fc1c-4a0e-9ac1-f2f0101eed7b',
-    'a3168758-622a-4f72-909e-ce01f91b5374',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3a0a5fef-46a3-4376-ae63-53597bc6f13a',
-    'ef75b7ea-0874-4b23-ae90-d7e73e8d2519',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1bfc2ac0-1e35-4b9e-b17f-7af20347b21d',
-    'c0681969-3eba-4b6b-8036-0135021560d0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e45eb8a5-aa06-4c93-bb7d-437199b93463',
-    '4f60ea34-56f6-47af-9ae5-42ce6df3ab01',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a86aaae0-8076-4508-8c37-6f669bab4582',
-    '466689fe-7930-4221-8416-0dae527b901e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'cba1d379-8bc0-491f-b6b5-17561157ccf2',
-    '24e34619-c9f4-43b0-bb1a-9e5a29c92c16',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '262e0e59-8d16-43cb-900e-82e78bffbfb8',
-    'c8a81c4c-3b04-44d0-af38-7b4a845906d1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '156e7d11-b183-42e2-a7f3-d01fc938c3a8',
-    '3a1163f5-64d4-4964-ab2c-3ea90d2efd10',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '160c6cf1-0044-44e4-9911-ea2cdbe17577',
-    '284bd783-66a1-4807-9f5e-bd6335e235fa',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8c3e4e37-6e4b-4183-a07d-9c71c243660a',
-    '8b7984df-b333-441e-89d4-ef300aca741b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '927cbb20-c8a7-49e6-aa49-a659ddbe4810',
-    '1192e38f-6737-42a4-8a1d-19f37f73cd15',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a5b08af4-e193-47bf-b488-19624e717291',
-    '213ff1c6-de5d-4cfb-8178-9f4d1b7bb49d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a8a1ccb6-44d0-4132-8963-1b142b8c2dc4',
-    '6856f569-2fb0-47c2-b033-288410b9d286',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9d52301e-18f0-4782-87fe-983194139b6c',
-    '37cb923a-acfc-45cc-b35c-58e8212f6a7f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e7ec8efc-b561-4bc9-8f68-185d929035d4',
-    '5caea6cd-9565-4e0f-9ee7-0fad847dce3c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c5fa733c-4eaf-4845-9449-65d1b2975379',
-    'eb7fc233-10e6-4a4a-bc44-3898ed33b3cb',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd2b91130-2ae2-48ae-81e9-afda89f7a974',
-    'ffe1fb47-8c06-4ab0-bd1f-15edb3833690',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2da0e825-35ac-47fa-a18a-bb6d12ddeff3',
-    'f791e287-3051-4056-a6ec-37da1d2fbede',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dfdad8e7-bb63-4c46-8547-7d4c16fa452f',
-    '866266b3-ecac-4711-b9c1-91365c44de5e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2dd4af1c-eb74-4815-acb9-a1751606110b',
-    '0c17d6ee-b35d-48bb-a464-843471a3f028',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8a7ed226-2c27-4d67-aa0f-e8fb160bca16',
-    '406e36ef-0f02-4274-ae6a-239afd2fca6f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '56dfec49-3492-4fe1-a472-8e3c04531cf2',
-    '9c68c10c-5707-4a45-ae47-920fa874d0b7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '362301f2-9405-45ee-a9b8-2ed388fe18f5',
-    '5ed4c4ce-fd24-47b5-8671-6afa3f7fb743',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '224ac819-2d9a-4e37-811b-1a00259fce4e',
-    '67f55acd-00f2-456f-9eca-82a1e790a640',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0f1d4891-2550-4a92-8219-0144bcb91774',
-    '600360d0-8fca-4665-8b83-cea08de09dc4',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '52324c30-2e46-4d8c-adb1-2d2524205aea',
-    '67c1e7a1-1405-42c4-9d30-44e1748d7178',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '12e8e43e-2c71-47f1-9963-4827d0735b2a',
-    '16e40def-68fd-48fd-890f-56897d8494b1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '52187123-2943-4b34-839e-260e8cded52a',
-    'df35995e-1857-4bee-826d-31c08bd45235',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e6c12993-6d3a-42bf-a17b-6a58dc200c01',
-    'cc5775fc-4c24-4e32-b4da-23dde5512699',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1be89146-2a21-4835-acfa-eb7659ea24fc',
-    '6fdb2b27-9b45-41cb-8279-b2b5d2fe5a80',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bb442198-d6a9-44e5-b277-1f8b1cc2300a',
-    '447736ef-ef07-4461-ac40-bd2b17493f31',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7d8dfb27-3b05-477f-ad54-21f019cafaf9',
-    '5721e69b-2edb-4366-8bf5-56b08cab54b0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '42895341-d889-4405-8488-4ca72cddb0a2',
-    'ffe55922-a9d7-432b-bf97-dcf7e3cf418e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'edb4691b-e273-43d2-8641-7e5df29ee1a4',
-    '0662c2bd-c1cd-464b-b5f4-afc2557cd85c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '300480b1-dd4a-43f7-9652-ed80f4fc6ac6',
-    '376d639e-cee4-4592-9c3a-dacb6eb8c40c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7e1ad3c4-833a-457d-adad-4f26537d5725',
-    'c2dfeff4-cc3f-433d-b282-95c738658a35',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '949c10e5-98ec-47db-ac04-6ffd681bfdfc',
-    'b3531f5b-9411-4b7c-a057-837856cbe8b5',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '44370485-2f30-4190-b4a6-56a6cefa2dd0',
-    'be362623-6142-4a57-b3a8-ae6843b0ca8f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dff246c6-b32c-4e84-96d7-5021dafe5e5a',
-    'c166c75b-7063-4fc8-b987-53f58fba7b38',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8800ba97-f861-4959-b417-0eb9834785c6',
-    'd14d5a55-1072-418e-87a6-76a15dbde321',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '966b5de5-2771-4c0d-a020-d951a23a40fd',
-    '11864103-6bf5-47bb-986d-9fd6196a1d1e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '725e561e-35a9-4b7d-a607-5268e8e3c5c5',
-    'd9537f3b-45c6-4223-9c13-6a0d3b10510e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9d5524d1-498b-45d0-bf67-22b632ec5a58',
-    '6553031a-c52b-4002-b2a5-e3c4154ab992',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '42c6eff5-112d-47aa-aa0d-83916dbf26ef',
-    '925f2a2e-fece-4f87-8140-5c30f16a30ca',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4fc6e651-84d4-4c41-87cb-f8f71cf40737',
-    '1e996e1d-a44a-406a-abac-39e6cd536d9f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '42576649-7287-4fba-b0f9-ad467bac66fd',
-    '63277bae-a01b-4577-90af-575aefe0830c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'eb4b5a5d-a383-46b1-b84f-e75ee18fe491',
-    '62dcdb83-1702-47dc-815f-9bd9efabdb82',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6c5cf575-7ea5-443f-af45-b0b50b298a25',
-    '1deb3c39-07ee-4e1c-8e88-72712fb3ca71',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ee7fb5f9-8c55-465f-81c5-d1e4eefb42d8',
-    '056c0e99-ef11-43bf-b9c5-072ac79f95c3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b9cc72a5-8730-4dd0-ad0d-19967795043c',
-    'a60c0aed-d05f-4e32-8fef-8a4c27cfeac9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd5d7f594-bea6-47fb-af2a-c57676897270',
-    '9f38ef45-8876-4ae7-a6bb-5ed30a1b669d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4ca35211-c8cf-431e-974f-3a44d6b50c37',
-    '7e576aa1-5a90-4aae-806b-cb5d16bd2fd3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c7dde330-e505-45dc-adba-284a902dc6ba',
-    '43e902d4-d097-4499-8204-d1a57fe22e41',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fc4a3de5-408d-47d7-82ed-d72a46aff298',
-    '02ecfb2b-f55b-43c9-bbf6-b31e8a65fd9f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a56ff454-4fe8-43f6-ab14-e85f1ec0a85a',
-    'b344ebd8-daa8-42c2-93b4-8400be08832b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f0cac940-74c0-4b73-93f9-cd7b71c17f50',
-    'dbfa0e15-c5a8-45fc-a62a-e720221a9d2b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7c5b1c7e-94f6-4d63-bbe0-ff4d9ab70606',
-    '7535e32e-fa96-4bcd-8eaf-f6a0fb29863c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ccd225fa-0148-44b9-ab60-16f3ef0ef989',
-    '2b618a6a-417b-4248-b489-ab9dedb1da19',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '27aa9ca6-00a9-42da-87bd-d42ae4d60426',
-    '80484133-c863-49db-a7cf-e7303cc6c19c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '91403a47-91f6-42b1-a1eb-641e217916a8',
-    '33631006-dfc8-4364-aaf5-e354a032a46b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c7183b09-708c-45ef-8bb8-a796f2a6e6f7',
-    '12be19e9-9459-4648-abbe-3dba8eae6399',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6cce8037-10f3-4172-b698-a1d43c62de07',
-    'e27d506b-1a44-4e61-9650-c6d848b11a1f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '59aff855-bca6-4d57-92d0-a862c67ea55f',
-    '15af4eff-49ae-4dbc-961c-dab7e75a4292',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '71f5bc8f-7bd3-49f2-ab31-fb2fc01065b8',
-    '1edbd2c6-8861-4117-834d-3777daf53266',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e29f1b95-0fc0-458b-85e0-a9c20d1fa477',
-    '353a7cae-c527-41d3-867d-f952e6e456f1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0264a775-03a0-4ee2-a7a9-cb64064dbf09',
-    '4fb4b63b-df35-4ef8-a4a0-27fda601e80f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'edfb29f5-16cd-4e7e-ab6c-efd4685bc0db',
-    'f4a458be-75b6-418e-bd06-4cb99173d925',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9af16a4c-2a03-4f6b-957b-bb8dcc04a7c7',
-    '27baf139-aadd-48cf-af90-e3687c99eeac',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '06716bb5-a4b1-493c-8eb3-5a81bc10de2a',
-    '084aaed2-2266-4c19-bcf5-b4b2ac7ffe88',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '670c6050-a143-4720-b313-e1f0a9522d5f',
-    'c908dbc3-2815-4c7e-bd36-a7c5a789e804',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2a58981d-4506-48da-996f-f3b7134eebf7',
-    'f9c58227-b292-4179-9ff7-fedee06df249',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0d4d9f59-77e8-45e3-a847-db56b9483ff4',
-    'f6a1747e-0bf0-4a36-ad00-4ffb5209ae24',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '009b2313-58bb-4858-8cb2-2f17d2af4a93',
-    '6fe2e23e-41e1-4725-b576-c7dea675a685',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e3b3b23b-16fd-4d94-9c3d-e138c08c1d21',
-    'bca72761-1a12-40ca-b848-c38cba85c725',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ccf88c0c-9a7a-4225-9c42-31ba4d7cd067',
-    'e5b01aeb-e92f-4083-9729-5e5be4be86de',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '22d00110-799d-43a6-b0d6-c8b9f437bd97',
-    '4802a9a9-67f2-4f1d-b6f0-dbb3a4747af1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fde59bf6-415f-46b8-a879-ae6db585ad8b',
-    '23fa41d5-c82b-4c10-a08f-a8c1abca7852',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0aa1130c-e324-4451-933b-6a4ef190caf5',
-    '185578a9-ec24-4683-a6d5-32ee89ec393f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd6ee65bf-be5e-4347-9c89-5f26e5f1268f',
-    'f4ee0df6-4686-47a9-b918-72e074f518fa',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd97647d6-cabc-41ab-826e-9ba771084c91',
-    '7b118a52-22da-4190-bbd1-7f70a923672b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b331c60a-7106-4636-9107-cc2d3c42efe3',
-    '362c1543-5a50-45f6-a7e4-09681df1ce47',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '84ea3643-776d-439a-bd6c-5a36fb7821b0',
-    '28cc74aa-ea48-41aa-9ada-c72dc798d6a8',
+    '329c5242-87e9-4c62-ae09-2f8897ac7341',
+    'ebe5e6cf-14a3-443c-b84e-0c428467a2fa',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '04eebe32-dad0-49e8-8f29-4ba9f3b32e6b',
-    '7abba7f4-bdf1-4a68-93b4-0d94d2057b42',
+    '1226dc67-7631-4d19-be13-cf43e549acb2',
+    'bc67a70e-e9b5-4e90-92ae-467f710731f2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '82d0116b-1dfc-44c0-8a7d-30a4a9623856',
-    'c24cdb03-fc67-4a2f-beb9-2bc0529c245d',
+    'acbda885-eded-48b7-9ac3-731a88d4591a',
+    'e8c4c282-76c5-4542-a56d-419dada48882',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '90f31fe4-b69d-4711-bd44-0b1c6bd9e29e',
-    'ef6b8b41-c974-424e-9267-7c07cdefe4ee',
+    '5a3c0705-88ab-4fda-bcc7-77e1c5e0f90a',
+    'e47277c8-14c1-4d2d-beed-f854a54dab83',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '1347e9fb-ed51-4b0e-8a1e-ba7682c68b02',
-    'f48187e2-cc13-4039-a5f6-3f678e88ecc1',
+    'f721edbc-62a7-44ef-bb81-cbbd296852f6',
+    'f41c52f7-139e-40b4-a827-c1ab9e60e882',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4f30bd20-8d78-48f4-b918-869fe717d6a9',
-    '8f53c731-f65f-48b2-869b-064c8c0be7a3',
+    '7b11331a-d621-479e-b484-9d2f227ed12f',
+    '39d4975e-6b88-4299-a7b6-f85b257a3f69',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5c69abb1-0550-4863-817c-87559ace861c',
-    'fd8628f7-46f1-4f5e-a453-21d95ad1bebe',
+    'c58d97f0-13af-400c-b44b-392c7ffd8e34',
+    '1330dbab-00aa-4676-bad7-36ea072e40cf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '22a01a44-fa37-4549-878c-6c5c7ef212e7',
-    '0ab58709-7ecf-4364-a167-ad9d8f9ff603',
+    'e07295fa-42f7-422e-bba4-cd3c0385ff4f',
+    'd528123c-8b98-4dfc-b29f-9611168bcb92',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5e0eefd8-6366-4552-a95f-b3034456bc4f',
-    '0b2ef562-df15-4cc0-a0ab-baa63dfb56c9',
+    '9dd1bd62-eeb7-460d-92d4-6005d54c8d78',
+    '720832f1-1f93-4ef0-a1e5-2360c1ee5adc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6005e523-7141-42da-9ebb-37f1b7b24c58',
-    '643eed06-df42-4a13-b32d-3b71d727fff0',
+    '094b49db-6d83-4739-9e3c-aa2080336711',
+    '1af09421-90fb-4fb3-8dcf-a2f1ae1abca1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '116093c4-34af-42bd-b138-27509de6c621',
-    'fca37b65-b812-49ff-8e6f-fed762c0557a',
+    'ade61804-cde6-4280-b4f8-1a54ab9e2ebf',
+    '0033fd7d-f7ba-48e5-b292-6f325c6b92d2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5c1827a7-7490-4954-b01b-3f78047df574',
-    '359a5383-0ff5-4907-87a5-dcd2f3284b40',
+    '910b998c-5340-473e-b1b7-8affa7143a7c',
+    '2c4a9d0d-a28d-4e6b-b82e-e2ff0df7f6da',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '63e27d3d-1c26-4166-aad8-a8d71e305352',
-    '5074b115-3091-4bbc-9ab9-664eb2f51424',
+    '098f2b4a-4485-4cbc-98d4-46ec3ca18eb1',
+    'a6769043-e629-4e98-a327-1e9af9ddfe8c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '66d408af-02c4-4753-8756-53519ec5536e',
-    '6303e8d5-86d8-40b8-a2f5-3be77acce4bb',
+    'e4bd39a9-e138-4c92-adb2-267aefcbd7a5',
+    'b810bcef-35dd-4d55-884a-e219f9fa1cb8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '501937fb-5e17-479c-bbe6-2b2ee6235b6d',
+    '64a045d4-f0a4-481a-81bb-e346340700f7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '387b581b-1e06-4e1d-9dca-a4a72b8cf3d0',
+    '458db709-3c37-4e2e-9603-91bc4eb43f7e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5ecc7c7d-17d0-46ce-a5f5-30885004fa0a',
+    'a0f389e9-6b32-42ff-b207-56911ee68884',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '57a31ad0-5a64-415e-a854-5efcc1a84f5b',
+    '7a1d68ba-0371-402b-8d8d-923b9a05d0f3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ec55e37c-3e4b-41e4-8513-9127891a0543',
+    'f4520de2-96c0-4769-a9a7-5019c5c01910',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '43a541b2-a586-4318-9520-f8664443b723',
+    '3f9e2ff3-b01f-4bc5-a5a8-46c8fd213665',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '173021a7-2eec-4cff-a457-cf6c16503a25',
+    '53563259-f3d1-4dd8-a8c6-8be3e14809bb',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '43ffeb05-6a5a-47d4-8231-c6c988c68191',
+    '466b4652-4c83-4f83-996d-28fa2529a6a6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '693d4d59-a3ab-4a2e-b040-9877f4a96b1b',
+    'bc643665-c159-4304-ad1e-ecc2285c4388',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '75ad1d6e-4371-45e2-8871-75cb165709ea',
+    '26e48e3b-d887-4169-b73f-393599bae19a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c065c773-eec1-4c9e-8e78-a4363bfd6f53',
+    '08b76f37-ee81-4818-9d27-b8c29a3dedbf',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '33e183a9-0fba-46fc-8e23-e13c03be39c7',
+    '2a1005fa-67f1-4365-a36d-293d3a5849f4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f153ee75-8d2e-4329-b6d5-141c32fa8f9d',
+    '5afa4435-3ded-4f82-80e7-c24d9067af48',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ba7e453a-4e64-4442-abbf-66f6af3d3b0f',
+    'de758ce8-9508-4baa-aec4-31bbca8e128b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a2198357-147c-4bbb-b942-f5825a329c12',
+    'abdb75d0-e0c4-444f-b121-78d0c564df97',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4f500c44-7c39-48f8-8a4c-e93747ea3076',
+    'aa650efe-36a4-4a8f-81cd-ac89f9c1b1eb',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7f78c9b8-38f2-46f5-8d6f-79138420763a',
+    '7c2626eb-2c22-48cb-a8e8-90eb4bbd574b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0c927ea9-9931-4e35-bfb3-b8ce9d5842f7',
+    '763ef02f-8e40-4a70-84e8-348a878fcd90',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '67861276-8e1e-4a4f-9551-29dcbb63a8a4',
+    'a84eecfa-a07b-4b9b-9841-4c9a919fc65c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '98f63786-9b2c-42fb-92ac-03285f42ab4c',
+    '29e14345-b154-4314-90d8-edfcb6393424',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '67b5c038-b29b-4d67-b966-8e590fb6d9c1',
+    '5f144fc4-7567-464e-bb5d-9dd3afa3856e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd927c3ea-d63a-4908-a4b2-e2e035a24c15',
+    '0f817fa7-045b-4a5f-a10f-5935ae768183',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '492f3988-d6c3-405e-9eda-a022e84dd0bd',
+    'b91c46ad-d40f-4690-aba7-49f8b4f50474',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9efa6f98-3a9a-4c7e-933c-9df44542aa76',
+    'a2c43b1a-29e8-47a0-931f-a65f707c4bc1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4b94004d-f62f-4568-9e10-4414a2fcaa20',
+    '6b4a997e-5157-4384-874c-2cb183b05e2a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0841f9a2-79c1-4857-bcca-f52fd25bd9c5',
+    'b52ad68c-fd9e-4f42-b9af-05fa4b7ded80',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c3d7793e-6a0b-488a-960c-8e9d2ef33a9e',
+    'be64392d-b848-474d-82dc-59de11acdf56',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8f773f65-9441-4575-b39d-ba9821cb4aa6',
+    '943fc3fe-3e9a-488e-8e87-d12d4c3caaae',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e08e6263-dc01-4292-8600-221e07d4a1ba',
+    '8bc90d57-62b6-47aa-b542-e4ef9b0f9978',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1471c1a0-b47b-47a9-aac7-3338703f4141',
+    '42375d26-3ea1-4267-8e7f-4cfe3e847be1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '54894f88-f626-413e-8061-ab6ed3716a92',
+    '33d15ef6-940d-416b-b5b0-19981283f227',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f5893930-7a98-4073-8873-3596e22dde80',
+    '333641ce-467a-4c8a-ae4e-45d5087bada8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '052e5205-1fb3-4c50-9493-d1c7716582b9',
+    '5642eacc-b7be-4bba-8020-04648b190b10',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f7145d43-7697-40fc-a5a4-d1c63439d590',
+    'f25ac5c3-9736-48bb-8d44-c9e04103fb2a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bbb01391-6ce1-41e1-a87c-43e3ada1ec97',
+    '747e022d-9c2b-4295-9bce-87ddb3e6bb4e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '05f1784b-5cad-4a82-a465-008a08052325',
+    '2270a36d-e5d8-433f-a0eb-cba2b0ec7603',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '48cbbd2e-4add-4dc8-a340-71408f1efacf',
+    '16fc5d0f-45bb-43f2-9a9c-b9d3fc54f732',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '573f0df3-0385-4390-ad73-a43e3d2cc9ad',
+    '32963cae-9d86-40a3-a68c-0ff5b56f29ca',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cbd5db2e-c0c5-40de-a1fa-b2ca2c69196b',
+    '31cfc2bd-6615-4672-bee3-b60db3a5e235',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1fc00c3d-0f14-4abf-ac3b-392f99d25311',
+    '04acb9db-1588-456b-b96a-60ddbd0983b0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c58f608b-2365-405f-a37c-664fe927198c',
+    'f5f51ec8-4ee6-40cf-b4ea-dfce7e4d4d41',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f9337785-60ae-4186-b995-a7bc64739720',
+    'ddd5ef11-3bcb-4304-8d4c-0fb1755128a9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4c0bbbef-2cf8-477c-ac55-f8d0cff50dda',
+    'df74598d-61ee-4746-b986-bd9f317eb9f0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f47e9a99-7690-4e94-b71c-af75312c6717',
+    'c8bfb054-018e-48a6-8254-3fcae8e44818',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4ed7f5a7-f881-4e37-b9e6-8f94277499aa',
+    '1fc0d67a-610d-49c7-969c-7a20c08de0e3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '70fc785b-0fcc-4e7b-919a-0973dabb96b2',
+    '735db175-cba9-484b-bbef-1d5812cf76a7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'de652bbc-eff2-41ef-a8b0-19f47b30abf5',
+    '861572b3-28e5-4107-af2f-fff76e9ed183',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '95b2b5ae-6330-426c-b846-f8d90951d058',
+    'dc7781bb-bf88-400a-bd76-b44af629292d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1fd7bbfc-a49e-447e-a5f0-72bde3152ea6',
+    'f881c6f1-e46b-4700-9440-9243a2ea517b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c7004ae9-9fb7-439b-8438-d149bc6ef013',
+    '3b8ab2df-f4b3-41f6-93c6-fbcadbaf91ca',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1066e516-851d-431a-b2fa-a4ceda0fa343',
+    'e3b24e9a-2440-45e3-82a8-ba37a85b20f3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c4b1b59f-421c-454a-9b9e-f446802e3dac',
+    'ab89932f-fcc7-4416-ab80-94e57a6330aa',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd8a84061-eb73-4344-8ace-5f36fe9fa6fa',
+    'e2056503-8279-454b-8e5a-e5e465a6f0a7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7bafb888-c9ae-4543-8aa5-00bc0d8b8b11',
+    '8ac7cb21-9dd8-4c4a-92c9-d9ebd0d3f985',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '69fe4be3-be13-4c8a-a5a9-2b690ca48497',
+    'd83afc7e-dbf0-4b33-aa89-bf56ec88bb7e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd1f7a5c7-f703-43f0-b56a-5f2261646752',
+    '87ac742e-d516-49e3-9b71-0f41f786d8c7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e6419146-387f-41c9-9fa3-53718b27e5e8',
+    '5503f64f-765a-4e50-b5b5-4e2d5abefeeb',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8625d758-bfa6-4610-aebd-8c43c09f8652',
+    'ed6b736f-3c53-437d-bc96-a2c5850ac070',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '535179a6-dcad-40d8-bc40-9f322715b0de',
+    '3276e03e-4917-40d0-95d0-f1bc54cbe4f1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8bae390a-0797-4028-b80c-4be2d6ea2565',
+    'f6630310-aad2-4350-b716-34a18930fc28',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '29e1663c-bca3-4026-b3ba-d0aa79d749f7',
+    '48febad2-e3ef-4be1-91d7-acefe99c12f6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7f0ec5d1-f9d2-4e32-9fc8-8f66742c8217',
+    '0b28c04c-a318-484f-8edc-176dd6ef7d28',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c19ffaf3-7340-461b-afb7-167b45a2307a',
+    'eab6101d-6023-4e44-a76f-e6eef2e4e868',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a2fcebb0-4fce-4b9f-bf97-5bf30b07c1e3',
+    'e279be0d-b44c-4043-914a-a25e7b1c8563',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8f9620ea-c1b0-497d-a02d-a898e0f60c46',
+    '412428a5-7c24-48fb-8743-6c2261819a16',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7e75728b-c571-4789-bdc6-ac809ea79bdc',
+    '2f74f771-7b1d-4c84-8b8b-575ef42cae07',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '753b3672-cbf8-4d19-973d-01da5a49bcad',
+    '45f7a2f7-9e1e-4fb0-a753-4582d1e0e1fa',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3428e36c-6089-40ef-9ddc-5f9a75ce5a9d',
+    '6aaaa2c2-bd41-4dd9-9ce0-f6dcdc3e60c8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '861db8ad-de8b-44ef-9411-169b4b3a444f',
+    '9be7767d-62f7-4dc3-bb98-c48725cf8fdf',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '58dddefd-1bb4-4a4d-8982-ef8588f8c72d',
+    '2a85a76e-c0be-4077-bc06-2d52ebc2e886',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8ad7a13b-55f1-4e34-80cd-82cff802dc60',
+    '528c77b7-9514-405b-85c5-391071955065',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e60ecb67-92d3-4ce0-bded-8c4cfda4a160',
+    '8d47d7f8-9d89-4d54-b1c4-641735f6ffca',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '84d1f006-20cb-47f0-b4de-91816e7b6fbf',
+    '9e709710-6c5d-4441-bc12-6a940d9e5e8f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a6690a71-a535-49e3-9328-f4b6443d2d64',
+    'bede34c9-7c7e-4d4c-bc7d-428105efc7bd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '76cdd797-c390-4ee7-b4cf-2766e991fb0c',
+    '9f43f59f-79da-4ec6-b262-17c9c1ac76fe',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e5f84054-2e18-4cb6-94fe-1143508c2a4f',
+    'dfaa3120-6abe-410e-bbc4-0a925fb38d94',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'dd7f90f4-24ab-4fb9-b66a-cce6b1a0a942',
+    '4f4719bd-1061-41dc-b5a1-e8fa94088c6b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7351df83-2eb6-4dee-a8bb-238e3431c5dd',
+    '0cac338e-9d34-43a3-b62e-88942280a990',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '270aedfd-660c-43f0-95e3-b310827e9125',
+    '0fe43905-e258-45af-beda-1acbbb72f8a0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '08f42aa7-cb5d-49d4-acd8-9203002b79a5',
+    'e1750df9-6f6c-4b9d-9f24-6e6df918eda6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cff971a2-4a2d-4333-bca6-f5cb93407bdb',
+    'f1628389-b48e-4728-ae55-57b5f7ac9768',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '20391ff6-c955-4c23-9960-218f7a6b7cb2',
+    '1267b021-86fc-43d0-a1bd-e7cdacc7a9a4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '362d868e-3d42-48e5-8498-423fa519371b',
+    'cdc6ca53-7029-4ad7-b06f-8c9499faeb7f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7be0420a-9905-4f67-9545-51848e0e163e',
+    '4d7d0268-b4ed-499f-b302-660e769d28e7',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '9e6d6574-f324-4bf3-bd5c-ce685573ed6b',
-    'd340a60a-c3f4-471f-afd1-c54daade22fa',
+    '7ec5fff8-61ba-4dad-b3c5-f7c3fd991a2f',
+    '14fc3de5-7c94-4e7e-b5e5-d6d0953c03c7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5883cade-e9fd-4671-abb4-96eed1a8273e',
-    'a3c1247f-f46f-40ea-bb97-6965afd15b3c',
+    '2f9b0279-eec4-4c61-94da-4a7a10d8053d',
+    'ca68f964-7fa0-43fd-982b-7ce2bf30669f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9c5db250-adcd-4d0a-8c6f-3c8274d0648a',
-    '6a68bce5-6eff-4e97-933c-2b26fbcc2477',
+    '41990738-643b-4ee4-a430-4b8db8169129',
+    '3a230661-13a7-42a3-82c6-9943125eaac2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6f2d69c0-f2d6-408b-bf9c-6c8be1b1f8fe',
-    'a1f47b76-4249-4bae-a78c-91de36bc4e93',
+    '82205a6d-5a8c-437f-ad9e-7a884bfe525e',
+    '140e5da0-bacb-470d-a33a-4e66498f419d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'aac34f6a-dd68-4672-a8db-b8188ef06b89',
-    'c5953aa0-d79c-41fc-8391-f075bc04b0b8',
+    '9eaba7d5-c978-4125-84e0-5ba2cc8e67dc',
+    '920220d6-0669-471b-a02b-80e48f26e71a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '72dfbe48-7c74-4d1c-990a-f3806430254d',
-    'c16fc798-79a0-4c72-becd-bee4ff84d432',
+    'eeabdfdc-05af-4add-8355-ecfd39ed914c',
+    '19dc8aca-29c4-4bfd-b292-11f87830c213',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '38cef7ee-fca6-41b8-ae94-bedf58f8234d',
-    'ffe4b383-858f-4bc3-adf9-11751facd7b7',
+    '9dfe1899-ccc8-4a85-84b6-a8dc86bb0d18',
+    '4837e8bd-7099-4a89-992e-0a2b9b563456',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd7e54cce-4dc9-410d-b9f8-8c8833ae0866',
-    '9d70624d-c36e-45d1-ba05-5bcaea16fb89',
+    '6b0e73e4-a38c-4130-b197-bd29770d60b8',
+    'dceaff37-6ee8-42a6-9f9a-16c4604ffd4e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0c7a0f98-0eb6-4a63-84f5-0e7576c30053',
-    '8e6e67b2-5188-4750-b6e6-b5fb64fa2e80',
+    'f269748d-9361-41eb-9cd1-6e15e34b2f4a',
+    'bc1799e5-8f51-4f89-a152-52c7745e59ba',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '748bb873-18c1-4967-a1c2-bde348e516cb',
-    '7ce5b694-d00b-4b4b-b13b-1fac93303244',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9f05c216-abf5-4990-b2af-2587c6074b18',
-    '14c5ec3f-0831-4b10-9671-05e833129028',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '616b287e-92d6-4cec-b895-96e159e442fa',
-    '9ed9a359-1544-472c-9c59-bacc0af10ebf',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0c1554c6-6493-42a6-b8dc-4b9df89fe851',
-    '8ff258ea-9e58-4a26-960f-18c4152ddeed',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5c27021c-b7e6-4964-9913-d65ee4a33229',
-    '7f1562e6-827d-443d-a463-545e334357b8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0dab295d-2554-4811-a556-31bdeef6e22f',
-    '035d8fcc-63d2-4615-82fa-269f060a70f1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '25cd3903-96b3-4a79-81e4-74883079c29b',
-    '2968a260-1763-418b-a893-e698a25d17a0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b7ca2a7e-fe89-4bbc-adb6-946a92313485',
-    '8559e7f3-79b7-434b-ab2d-889f8881b1cc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '47e434a0-281c-48fb-962d-31fc66a33b07',
-    '020fb433-7320-494d-9aa7-acae8daa7857',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7461d078-b162-4b9b-95e1-e8538801ff85',
-    '5bba96bb-976f-4c44-be7a-9ce2106153cd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '08cbf17b-3558-412c-81fd-b6b48dd621f5',
-    'a46c6347-3b14-451b-9282-664e64d86908',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e1544fca-59aa-410b-b7cd-2f1dc126791a',
-    'da091a0f-0322-4806-9873-bd6bb00a30dd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7d6e1886-6fd7-4371-9b9f-fd6532665721',
-    'c29f4f45-68e4-49ef-8b17-bba70bb92626',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'c0215e5a-7354-4d99-b0e3-93d87a8f047b',
-    '31364b91-1b36-4c8e-a9ee-c15ea853b166',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ff7bc8cc-1be9-44fb-a0e8-711aee44abfe',
-    'e9e939d3-28d3-44c1-8583-21d561386a06',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3a6183b1-17a0-4dea-81f7-eb8da92bc160',
-    '4b6257ec-c6e9-48c0-8842-caac7245a523',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ccecd5c0-1a6a-4762-8b46-6064c8dc8009',
-    '68861ba0-29cd-4105-bcd5-633cdbf7d7da',
+    'c6b96999-26a8-4141-9c14-55ebd74a83cb',
+    '01f79ce0-0e6f-4ee5-80f8-b393b8123384',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    'cbb61c74-8b0a-4d35-8f4e-bcd4b093d528',
-    '417012b0-8348-49a4-9f0c-0d702ded7674',
+    'b2fa45b1-e4ec-41cb-934d-7330689525e7',
+    '359f779c-ffef-43c6-b2cd-406d3eb5166f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '98f19280-9611-4e4f-b3b5-1f8e54ced8af',
-    'fd83834b-35c9-41c6-bc08-2dd29a3fc350',
+    '4bc181e1-637f-4e36-b154-a0faee1b1816',
+    '78678ab4-33ec-410c-9e49-598e0453ba5a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1321ade2-3ce9-4134-90db-63bd60920459',
-    '3833ee6b-cd97-4305-b1eb-0c44006b470c',
+    '4d770c4d-0210-4579-873f-d1824d4360d2',
+    '56fd0133-4fa0-4ed8-b1a9-d0111ead42b7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'adccf8d5-6264-4ca7-846d-adfa461daba0',
+    '01490a3b-b033-4bc8-a8a9-c7a389af618b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '057e48f9-9088-4ecf-805f-3257b3cf1563',
+    'd22b3aff-6d72-42c4-a044-97cdb1119357',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2d7a89e4-4b04-475f-827d-231f6eb99548',
+    '5d733256-20f1-4a6d-beb6-519a01c5975d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '999e8fd0-3ba5-4ff2-9209-b3171182ecdd',
+    '2bcb4d2e-2237-41ab-946d-31e14ffc04fd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '28f182e0-63ae-432a-905a-d5642f790a04',
+    '268db850-02fe-4bb9-a314-3669975527c3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8ee9e3fc-3e17-446f-b175-24c92b9d5ac4',
+    '08751649-2e37-42c9-aa2b-f221c1d06fed',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2ba1fd6a-f772-417e-a8c7-abcddb9f538e',
+    'ac580156-e8ea-4d2e-99d8-7a094018a280',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '848b8368-6cb1-4038-840e-917c8725a9b3',
+    'a2b5c241-3227-4589-9bd5-eca29fc351b8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '63188d3b-b75f-443f-9884-fad2f619b7c9',
+    '7c26c682-1daa-4a9f-a781-f3f27105c1e7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c2fc11dc-8d6f-4bac-b12b-c68cbf42f0ad',
+    '525d5e77-4f78-468e-9544-0f91ea6bbf3d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '38ef7602-7d87-4461-b7a0-e88655bd094e',
+    '50d37763-20a5-4f01-b82a-9baf1803292f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bfb97533-f6d1-4388-be90-68aa0b47645e',
+    '9d063f80-ec01-478b-88db-21449781d62e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2de4a054-8d9d-4a12-a742-ce1562aca367',
+    '4c61b441-b48b-46a1-a721-96c60284052c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f2eee7ac-52ff-4a05-8766-d0b053f91804',
+    'c1505ad3-c572-4ac3-b67b-8e17f505e35e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd56211eb-efd6-4d09-9d2f-9bbbc52613fa',
+    '70d0d71d-5878-4237-a494-0da8b7905c64',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6c307adf-5db8-462c-bfa4-8819cca47590',
+    'e1ecabef-5de3-418a-9753-85deddd65dba',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2f425169-6d7a-4a64-95f8-d267d2be2b26',
+    '29289d9d-5789-420a-8117-366c54ccfc0c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e4682780-0a9c-4499-82a8-4912df5da048',
+    'ab632576-64c0-4947-a3c6-e413fd54f628',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1bac598c-9f93-4f09-aeb2-5e6e9d7e43d0',
+    '88b5d2a1-a375-4d0b-8e2a-849b7ca51981',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '50492008-c10c-4b25-8e14-e09dfdcbf172',
-    '11ca7807-99a6-43a6-84ff-8dbfb3280c2c',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'f050416f-1e54-4c70-ac1b-cef479640ac0',
-    '3dbb3823-ce93-4d6e-95bf-f9a17a27d81f',
+    '21ce0c80-0292-4999-afa5-c108b4f54d9f',
+    'f6802432-60f1-49f9-9fa4-233fe93c60d3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f76253e8-c938-44b9-a60e-084bd4ad2fe9',
-    'e968d1ca-c235-4289-a0de-1ccda89aaa06',
+    '45eb6764-36c2-4119-83e5-925ed2c3152b',
+    '657ec92a-c5fb-4427-9d8b-ce16d878c41f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'acb3a4d8-fb92-4b22-a72b-49c99ea21718',
-    '11c8b108-b1e3-4c24-849d-28508bf30411',
+    '4184920c-91db-44d3-8c14-1c6feebf4fb5',
+    '2fdc9ca2-c0ea-495e-af4a-892a7c5aa11a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bc0b82de-4ef4-4d8e-b9e1-93038a2df11e',
+    'b06567e3-1067-41c5-ab65-99e607a998b4',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '0af17e89-9a47-4c4d-91d9-cd486d1f9267',
-    '25667d27-3c5c-450c-aaaf-76244c24c4d5',
+    '624022e6-cbb6-4789-9417-c7e2aeafcca3',
+    '34464e5c-b642-465d-b1c8-95dd7e49eb9f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b5e1f069-a160-467a-a9e1-2000fc071e06',
-    '56d50366-aa1f-47e9-a439-ceab2a102c15',
+    'f9db3e71-3131-4266-96aa-80c05af3ac84',
+    'c6ae0442-ab5b-4dc7-9c63-6f11ec4e23fc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fb059f60-dc58-49fc-9b87-5756f2240f51',
-    '90a43df2-b287-41f7-86c9-fe1619d182d2',
+    '4aaba859-b9df-41ba-9e09-0f468f734e32',
+    '2dbcda7f-305d-4a7a-9519-6812209e22f8',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    'abc5550e-5540-43dc-9bdc-2e60d6b104ba',
+    'fd35dc1e-483d-4ccb-89ca-a69d763f8987',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '009f74a0-b2fc-44c4-abb8-b554db5edde1',
+    '964aea37-d2cb-4661-90b6-aa1726601f3f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ee4c737a-473d-4b2d-9c64-ae9bf8d86cb8',
-    '28da3a2c-40ec-4007-a47a-a883f71449ee',
+    '1cbfc4ef-41b0-4bb1-9836-a4b70d3195db',
+    'a35ef412-3310-4572-9b72-cc5a370742df',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e5d108c3-c99a-4e1e-b5a1-ffed9a113d8d',
-    '2e8b3544-c548-41e1-b448-5f98865647b8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '03d2fc97-7b8b-46e5-88d3-7e8f84cef26f',
-    '35d9ff05-f571-49b9-873d-826525c16e81',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8ce3c35f-d6f9-4add-9d03-4f351ecd8a2b',
-    '39320a1d-ab88-4f87-a371-ef059c12370f',
+    'ae6f3f53-9d2b-4273-9768-36aa7385d5b4',
+    '16b4b0d7-f721-4cf4-94ff-8f5940cdb21f',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '5c3811bb-f137-4ee2-9c90-f245a53c95d8',
-    '955f8534-a700-42df-96fc-d6057907638b',
+    'beea0f77-4c3d-4be6-9be5-3f8d0948f54a',
+    '4b6a649b-06c6-4bf8-a4f8-97b79255fa44',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3802591a-9946-4858-85c5-379c388c56c8',
-    'a5cf624e-64d9-4a30-9a63-5164c5396fa8',
+    'abcaf9a0-7a60-4aaa-ac26-ab8fb3cf98e0',
+    '409f5d4a-5022-4a69-81a7-c19ee518350f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '64f9ca28-6016-4704-ba06-e3d8d6c79339',
-    '8d8aa041-a1a2-4433-be91-d88369022489',
+    '841e4960-54b8-4ed8-b5aa-b6d131cb09f0',
+    '02b5b610-b93a-4827-b0c6-832d874f5957',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '12d664d3-1efc-4b53-b919-43e3488b5076',
-    'db8a68e6-a712-408c-82f5-918c0a3b9820',
+    '56b6152e-91fa-4dc0-9f64-ff6f5a6842fb',
+    '7cbf89e0-dee6-4c98-8fea-46e8c8bf66a7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '417e2b45-6d72-47ad-be63-d5f2c1b612a4',
-    '91b13350-e7e9-43c1-9d6f-0ecd1777df69',
+    '1bae6681-dbb6-40aa-8ca9-b80e8f1d406f',
+    '706ae819-227f-4f47-801e-fa494a6097fa',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '836c38b1-df73-46e3-9c97-96d7fb114ac9',
-    '99038184-5a45-4eda-b8c3-f26945a4020f',
+    'cea6fdc6-7c2a-4dd8-990d-9e5d085cea92',
+    '8d1d0115-9a3a-49ce-a24f-2f5e7e3e911a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ba0913cd-9b28-42b7-b8f9-5c060f03669d',
-    '5f5adfa5-e073-4f72-b7a9-e7b9885ab3dc',
+    'b8f6a79a-1712-4d33-8a4f-b06be21de556',
+    '0ae176a2-0a14-4b23-ab31-05bbd4777f4b',
+    'iso_639_language_type',
+    'Historical',
+    NOW()
+  ),
+  (
+    '6bdb3f95-35b3-42d1-8c81-d0a5132d4fad',
+    'bcdc6248-5ad2-491b-89fe-e65b489e1286',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cbec2cac-c271-4a19-847b-4c0cc8a33207',
-    '798ba492-35db-462e-9b4b-3bc9572b33c3',
+    '08e4b8ca-ce72-4aae-b7b9-d98b82df527c',
+    '19d53914-c728-4f44-8a46-606c0ff1106f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '74952c93-1301-467d-bc1d-35898119d04a',
-    '91d86306-58f6-438c-89b4-8e5162ed9f6f',
+    '76ae8b03-c4d6-4d8c-85a1-dbb285c551f0',
+    '6635bf27-d696-4758-a3fa-2507598a2cba',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b0979b8e-3a19-4f99-b5ad-bc6325fb9aa5',
-    'a012b5b4-2077-44ef-9143-77c82e7666d3',
+    '022f1d1f-6e6d-4252-a5a2-d4eff4e2b02c',
+    '62691c1b-c8a7-463b-bcf6-796f07ee8aaf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '41f4224d-4366-4823-900c-a8ac8fbc46cc',
-    '514c413e-77df-4486-a1cd-7e8711c2c1bf',
+    '9a52467f-bb08-4db5-b305-79682a407511',
+    '5d223f71-6da7-4966-8ed1-c963cc46cd5c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c1527d91-6832-4beb-9f36-5dd74edf1f68',
-    '7b8d3fa6-efe7-4997-8403-b7f7f22029ad',
+    'f91efa7c-e10f-43f6-8cd5-07e473b05c58',
+    '9c853066-733f-459e-8387-151797273707',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '48a7aa88-e4be-45a8-bda0-23493fe62d11',
-    '0d10d35d-7c61-438d-9a2b-3b9bab52e3a7',
+    '624a9e19-9824-4843-a186-f0a3e9b955ac',
+    'd4176a83-e6f7-4eea-9b16-9382a7600ad5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '423aa9e1-ae3f-41d1-9c93-3db9e40b5b39',
-    '2d5d05a1-ece5-4d69-a4f8-8f4e2cb34030',
+    '2cfef021-4536-4e77-bd72-e43b3bdaf8e0',
+    '85ab1d82-5314-4d83-86f6-f14cb487c127',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a73d6aa0-1207-49c3-8822-2d1494100f47',
-    '988eb45b-734a-4a81-b582-40920d7747bb',
+    '9640c0de-ccfe-4b7f-9604-56a6a8e544b4',
+    '724b6585-9f6f-44b3-ad5c-89412b416ee9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '47727110-a158-415b-bc58-a1943e377a46',
-    'e836796b-3e4c-450a-b0d0-031b8d0c504a',
+    'c50b0814-9681-4a6b-995e-08e26189e0ad',
+    'ed3f6b0d-a9ce-4491-a93f-394c41f4cc5e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1a9d9385-91be-4aac-b2a4-ff21dd0b0308',
-    'bdd0c65a-1532-454a-a692-6d138b0875a9',
+    'b2ced27a-8503-4781-8ae9-142e4903fe92',
+    '2b536b9a-51f2-4b49-9665-938997fe0fc7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '162977be-42df-4403-83e4-892f38fef5f5',
-    '71da719f-57bc-4df7-82b2-ed1657fd624e',
+    '62170892-559f-4281-a85b-067a0307f80b',
+    'e82a88ff-2c6d-4ee7-92d3-672c9a9dbbd7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '89c0c5da-f93d-4c33-a3bb-26ce3f3a427c',
-    '20eb01d9-2d19-4f23-af08-e564b79cb93b',
+    '37a67529-bf26-499e-afb0-ed27e07fc35e',
+    '6244df53-055b-40c4-9bd6-441d3f120b91',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '73d3bb73-bb88-42c8-b3ad-7752c4378835',
-    'da40703d-63a3-4605-afea-925eba71c901',
+    '17d6ae85-f1ee-4aa1-be93-9f12332b0e86',
+    '8df978ca-f45b-4be9-bfe8-f98df8642615',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7431587e-708a-442a-a9a8-c9aad0411959',
-    'fd8bdee7-39d8-4a50-be5f-6cec0d9e8912',
+    'de0abe41-9801-46a7-b05c-e22a339f58d4',
+    '0bf21409-80f0-48c1-ab9b-ab5be652cb37',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3eb118e0-7430-47ad-ac9b-c305614d1901',
-    '81a391a8-9baf-4e95-aa38-e08314ef97e6',
+    '4fb311e2-2b75-43c8-9c73-d42e43c6dda6',
+    'a48be450-3776-4373-83f7-93b32b86f70d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '741d80b1-0b37-417b-b109-57b6cc5e7399',
-    '35021b53-3ed6-47ad-a03e-7944ca94a603',
+    'd338b259-5f12-4351-9fdf-280ed1a4c8c3',
+    '34c0f856-2946-4154-9d4e-230c871e4cfd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f5827bae-069c-4555-86a5-715fd8636844',
-    '49af7e0c-ca35-48f0-a887-9aaadde242a4',
+    '7fb5d04c-1657-449e-bd4e-8b1d4772a473',
+    '11a59f10-2590-472a-8f16-310b73ec553c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dfe4e069-0bd8-4cc2-8500-9ff780104e3b',
-    '7ceea19b-c9ee-4508-a255-7bb050bb1184',
+    '97e50c34-447b-4548-aec8-7e43c0fbeae8',
+    '6961b7d4-cf1f-4ecc-bfd2-656871278ee5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a1857b84-16f5-4467-b131-acbdc65dade2',
-    '5f1ffb0f-3906-48f3-9b2c-b5874c4ab13f',
+    'e88c79e6-cc18-48ec-835a-37f2b9af8b14',
+    'c6a4b435-b07b-474b-9b44-0e28bd2db506',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '09b0179f-aefe-497c-a0d0-140d6172a27b',
-    '1bff6013-154e-4f98-967b-eb2fcdac7b9a',
+    'bf11b6f8-8b10-4c08-8e35-99845769a963',
+    '77a528a7-3a21-45d6-9f1a-f6ad95e03bde',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5cdbd5a4-cc47-4b29-a219-d451d34804af',
-    '7547c254-dd1c-4611-a8a0-b8c57e0dd33f',
+    '0587a30c-c301-4a1d-97dd-3f0c8f106917',
+    '92a053c8-a07f-4da6-baca-cc336ce6b397',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f4f20ab9-da81-4f4d-a534-eb6ebd473988',
-    'f4914df5-3374-4d14-9e05-a2c7454f251f',
+    '05367440-07db-4a95-ad3a-8e857b636eda',
+    '6766b308-3b8d-4ef4-84d9-93f119ed0901',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4093f28b-22ef-42ef-807e-e69bbf290714',
-    'a3c0ddf3-b629-4018-a488-e9f796df5936',
+    '98e6ae18-d449-49f2-9b42-e5c51ef1a130',
+    'efbe718f-5de6-40e7-9a97-e4b45635f240',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '31abff21-5c29-44e0-bf8d-f057d648a4dc',
-    'b7baafa1-20c3-4653-b563-5e92e2c9bac5',
+    'f504e4c7-0f9e-4750-83a4-16680c4012a7',
+    '248b5bd7-69c0-4d0d-8bda-2a5247671071',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a2b23d40-b2ea-44d4-8c7b-e0199a10dbb2',
-    '3cce79ee-999a-446c-ae28-58d7cacb52a9',
+    '00dc1c40-4ad9-4b59-ad55-86b06c4a3ce7',
+    'b2aee20e-8079-4354-8360-37321e1344c0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3a82ce62-e9ff-4331-822c-25ac0571b1ba',
-    '152e95ef-8d1a-4b81-bdd9-9ddd84064397',
+    '50f76cd9-ae0a-40bd-9434-7a87fb0d5e81',
+    '36d975a4-9b89-4cef-9fc8-b8b0382a619d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '48e1c28e-baae-4df7-85da-d0e97da17f9c',
-    'a7a01ef7-67d9-4fe6-94fa-8220c27d3667',
+    'c53c8daa-8339-4a46-b42b-da6462235603',
+    'ed164f73-7a28-499a-b57d-692c45d30d1f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4aaa8b77-8fda-4f10-9c33-3e95f7a9c9a6',
-    '9d0991c8-cb1d-4bef-be36-33672f737a2d',
+    '32886c66-93e4-41bd-ad8d-dce5af1e3aa9',
+    '9beb3301-ede8-4800-bb55-c1a4b94e246a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '23ae2a89-0cbe-4185-9806-73409dc3bfd0',
-    '3877df28-b220-4ebd-b141-83d229f11d61',
+    '7888df8f-ae23-451d-bbf3-d78abd8f6041',
+    '7e2ae06f-dfb6-4afb-a76c-5af039f1333c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c8d72d86-08d3-4e6a-9858-e09d7df7dacc',
-    '526f9e4d-6a80-424f-817f-a1293b7f4fa9',
+    'a31a4bc4-2b31-4a6f-9b9a-acce54be492f',
+    '894e4959-93a5-436b-a5a7-9927332d363e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2ac5b6f5-a387-4e15-ac2b-50ac1a61c50f',
-    'e3e23c6b-6ba9-4fc7-a4e9-391f7a74820e',
+    '6c26bff5-337f-481d-8d60-a3f9856c2341',
+    '5cb0ffe0-3131-49b2-a363-de715bcaae95',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8d5732c5-e665-493e-8813-7d1ee711909b',
-    'ac0e7ce4-3318-4a3e-bf6c-0a28523322d9',
+    'bfbc0df6-5b53-4605-9d27-93fc4b3e9615',
+    'c9b8f756-f12d-4e48-bd48-869af4ec25dc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f73ae619-fca5-4f35-a9a9-22f7528cf4af',
-    'c81e5858-26cd-47b1-a7f8-6bdb12ec638b',
+    '9237d3d6-f35c-4de9-858f-ec2b1c6f7cd3',
+    '759ee6d7-16ed-4981-bdc2-a2c610ca780a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd9d970d5-a475-4ebb-96da-7cb4c3ac8f1d',
-    '65fad9be-1b25-4673-9400-7f083f6f1b97',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'd25b3fda-2df0-4a36-9315-c3d35cf76a82',
-    'cd37eee0-9cf0-48c7-913f-5db5963a6730',
+    '104903f3-3b8d-47c5-a068-cf6b69bae01d',
+    '7a126638-9895-44ab-9737-024bbb8bc0c5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '66e80c43-513a-4491-8b93-968bdd7a4988',
-    '7e64f94f-4a4c-4b48-8208-b7ba7efeb0f1',
+    'eddf7e9d-cdde-4b52-bd60-e2585d19410b',
+    '9f231055-8f16-4549-8a5a-3e4f563ebc1e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2ebb846a-051d-458c-8258-305f25b38f7a',
-    '0977f632-636c-4e69-8bf4-8b84e99d6add',
+    'b43079ba-9a2e-480e-ae11-d309eac69959',
+    '7a7ac884-c437-4c6c-9839-01885178aed9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ea3cf1bd-1ed2-4fbf-9b5c-f06297aa1d51',
-    '5ef75579-9ec9-49e6-92cc-0c63799c8e44',
+    'f8b68f4f-1e81-4963-a57e-ad85bdf6e8c2',
+    '9c7bb848-cad2-4d48-aa4d-221e8313518b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5eac5214-b9e9-46d5-ba97-1294b48db696',
-    'ba60f5f1-7559-463c-866b-c7161cdf9085',
+    'cbc09088-5318-4a71-b6f8-d615b104b957',
+    '474fffac-5f33-403f-a018-5bec0167da80',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6a14ac23-f563-4f96-bbf7-90fd7eae1a0c',
-    'e73120b0-0dfd-49da-bff3-9f46b7119679',
+    '8fec11b8-bea2-4a95-b4c4-a8c1f908b173',
+    'b85ba8fb-b21e-4c9f-a02e-9fba50ce3d07',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8cff7872-9c4b-4c30-9a49-69828be96d73',
-    '6d15039a-36f7-4e1e-84e3-4eca933a0e3c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '97a39f99-5817-49b7-9ded-2a6a85553f4e',
-    'a882756e-f4f8-43bb-b03c-4d6fbbc912bd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e429744c-a3e9-4c3f-8258-603efbc0ce54',
-    '30c5634b-bb06-4f8c-a729-32b1e03de6e9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '853f5c9e-4a7d-4e15-96f2-1d1119dc1423',
-    'f73468c9-61ad-45c6-a616-19abe222d5ae',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5a5e69cf-53a7-4e1e-bd9c-bfd5805a0c33',
-    'e0d10bef-52f3-4ec4-8f93-07f20044f9de',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3f71ad39-4481-4b5b-bc5a-a12c40d267d8',
-    '80bc77af-427e-44ec-9f0f-d3d15e3a4807',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dc25bef0-8b71-445f-9ea4-7a1eac985013',
-    '80add076-c489-4eb5-a184-8501c20f21bc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd829ea8f-6073-42d2-9b04-a3ce6af14e14',
-    '70b53fd6-4700-4290-a4ff-727b72609ab3',
+    '9d9272e7-6368-4788-890c-29289a7c9825',
+    'd1ef085a-13e0-49ed-8d34-ded224a91b85',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'faeccfdf-06c5-4802-8798-530f13786194',
-    'c24bcf48-caaf-4719-925d-df8de8de4ed8',
+    '87a34bd8-d591-4c74-84d3-7411a6173b05',
+    '8004084f-4f47-48ac-be17-ddc46d86421e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '651b5944-c8b7-4ff6-b0a8-22d42e5c82e9',
-    'b764266e-db3b-48ab-b03f-858efab9caa3',
+    'e7076ad5-3697-4875-adaf-6adb50278ec5',
+    '0dc07922-e07f-4af3-81c1-e2ea06f2e69e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c9b34efe-fe01-4086-aeda-7527e44a93d0',
-    '27c9ab48-0042-4762-be69-c87c8eab9701',
+    'be795a58-e0e7-4b58-b46b-66cceb0126a8',
+    '86853383-57da-4098-9fc1-edcb4864778a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dd1183e2-1985-4ae4-a30f-9ea539d1d4ac',
-    '8cc64587-52fb-4052-ad27-ab84ff16c8b5',
+    '8d12fa37-a9a4-4cee-a704-7246e5b02075',
+    'df187de3-0454-475a-a2f4-1204757ecbd7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fbf470af-89e1-43b9-9b33-474a6bbc2b61',
-    'da63088c-76be-4c4f-94ce-8ed2de4564ca',
+    '09759d9c-a40d-4e5c-bbc7-bdb35cc7922e',
+    'fbed2b56-73ae-46f9-a5b2-e6e5aeee0a1a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4d7bd446-1edc-45c5-86a2-d5676d6b0646',
-    '23b9c3b3-0650-4ad6-a77f-46a3027e2e14',
+    'be9e1054-a06f-426b-b75a-1cef7933a74c',
+    '21a45287-1127-4994-bbc6-41a39e1d0078',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cd7cd2b9-0373-4bcf-ac96-f7dbce13b238',
-    '5f6ceeb7-ed00-4a49-a916-177970411f01',
+    '95aebbac-cb97-4676-ab7b-f1476dc462c3',
+    '9b742965-adfc-4cff-9d3f-a126a4a25e7b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6ee4b68f-eae3-438a-b05c-d54154d6f63c',
-    'b076008e-0655-44fc-89b9-33634df959d9',
+    'df5cf3a9-17c2-431a-8a37-c2e219296f17',
+    '6eed479f-65d4-446b-9037-16a419e05bd6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '49214771-5924-4244-88ff-7523a73c6c09',
-    'caa754d6-d4eb-4709-9dff-1a4ffc9a92cc',
+    '27df5011-f1b0-4a86-9d76-1d4b7fd73c6a',
+    '2a2e3563-5662-41bb-a8af-5463dcae234c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '646232fe-4e58-4cd2-8a31-9b5e0dc890d8',
-    '415089f6-28ea-4733-90e3-1b8ce9c70e71',
+    'da606764-eb7f-4ffd-9e0b-c30f51d0c48b',
+    '2d6fd964-39fd-4705-a27b-eb352b1f3414',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '80623db7-e386-4d97-bc72-d6d3e5176efd',
-    'c6acb122-eb21-480d-a480-e5f3dd701622',
+    'a7263f95-cc25-43ef-8a8c-071ec87d988b',
+    '90c37238-2e2f-40fc-915d-987a88d388ec',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '670a6897-8a25-4e4c-88be-406be93d9eec',
-    '2f31ac4d-fc49-42e7-894e-8aea15b3b968',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'a864ed6b-5dd8-41f1-99ac-a92dfcf9f401',
-    '30849bc4-ad8e-43d1-bfbf-47f334e99acc',
+    '3d7b2744-6fe8-46c7-b8f9-c6e9036778bc',
+    '191c078a-a25c-495a-8fad-3f19d0d4593a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '24c85bea-6d6b-4cb8-9634-9e0ce4675cad',
-    '3135c37b-a064-4f87-a310-36903c5e88eb',
+    'f6826244-5493-4b33-a1a8-1995f7e13f44',
+    '746093aa-d53e-4bde-a523-c2ebe87bb44d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6bb2b814-e143-44ee-959e-0a87d156b6e6',
-    '23acd5f7-b6ab-4d49-b1c4-a6610444bcb9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1a761d87-5e36-4e7a-8e2f-ce63c3017f96',
-    '2f05a7b8-3767-4806-8f82-680fe33f2b7d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '37a2121a-e9dc-45c0-9049-f58ca43d5109',
-    'a4789b1b-9b12-4c3c-ae5c-0fb14817240b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'de2fa40b-9e8d-4375-a4f7-1d627615c9bb',
-    'fcb7136f-4600-4482-bbbf-fb9949bb61e2',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '183260a7-220f-4959-be89-944f7fcfc0e1',
-    '728b25d0-6633-4152-9440-976744b394a8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e1af20b2-c50d-40c6-aae5-5ae1007d0d3f',
-    '7fcff8bf-a2d8-4014-aeb4-25e652f133c7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5068cfce-8e66-48ff-8c82-ad1dbd5ffb4f',
-    'f95caddd-afec-4c13-934f-b7af7ecd389d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5cc00cae-4f33-404c-9ebc-d93d73738010',
-    'cc4d2130-93ab-4972-b187-d3562e3999ed',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '05ee5e72-40df-4d91-958c-e4832d13c23e',
-    '1bce4801-5da9-4ea7-a0a5-3b6e6fff9b09',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '79ed39dc-d43e-4099-9820-28c727253bcf',
-    'eebfbe46-6860-4553-ac07-65be6757da99',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2a09bbbf-555f-435a-8fb3-b7f94a0662a2',
-    'ee158655-5d71-4bc6-a5cd-cb7dcdc74b1c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '938767ad-f9ba-44ec-a175-eb7f86264ac2',
-    'c9c6580c-9ae7-4bbe-9cf8-e5bae3ca6498',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9568b788-59fe-4a3b-b31c-d640b5e92001',
-    'e0d07bf8-89a3-4801-936f-2b3386ac165d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'eb232fd3-0687-412d-98e6-8ed1aa2958d5',
-    '4ac85026-8f41-452a-8ca7-69f58f93dffb',
+    'a3e2a4e5-de4f-446a-9843-17b7c64f33fb',
+    '77edecfc-6670-4580-b06b-8623270abc08',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'a57234b6-60b1-4b9f-bd8c-fc68e9be6603',
-    '7ed47655-9696-477f-804c-7000db1bf7a6',
+    'a7d08a77-d2f6-45b3-8736-ed24c920ef3e',
+    'cb70b796-7950-47bf-94e3-43b00dc96b77',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e54963ee-a3b8-48ed-90b3-f94df915fda2',
-    'f86e5df3-f9f9-4898-a2ad-3f4d6fbbad84',
+    'f34ab4a5-4d04-46a7-a553-5f37fce76632',
+    'cf0bced7-70d9-4916-a61c-51de84bd55a0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '092c86f7-631e-479b-a09b-172648b35b1b',
-    'b1d4b3db-69e7-4e51-b673-46bec98b3950',
+    'f5250dbd-d813-4f2d-a934-324c3cd220e8',
+    '92c0f5ca-867e-4787-9373-7705d87ca3cd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6e7dd7ef-06a5-4314-a457-df567dc3295d',
-    '1183a020-dc62-496d-9255-374326564f86',
+    '5be7e068-4256-451d-9cbf-c2f440fd256e',
+    '42db9df7-7108-43d1-8d49-9766ddf90513',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8ac92305-7a18-4c7c-aeb4-73ace8e0890f',
-    '521a40ea-19ba-467a-9998-c522dd4ee0c2',
+    '19662765-8557-466a-bcc5-6f56312b09e5',
+    'd4517ae4-83be-44f3-b54f-d29b16311a0a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1779dede-92e6-41ba-933c-2683e258a345',
-    'f0807322-4874-4d41-a79f-5dddf4dd4316',
+    'c4f1f515-653c-4a36-ab9a-4099c5b9518a',
+    'f44d7c41-4721-47c2-abea-50ee5439b0bf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '507123ec-eacb-4372-920c-d76e830da09c',
-    'ccd9a802-d7d3-4c27-910c-6ec2891893b3',
+    '46b2f3d2-b5c2-4aa6-bd4a-8f214ba0feb4',
+    '0117c212-e169-4b7a-ab45-0dd18828b32f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b71e875e-b5ba-41ab-8d1b-b435621e61fe',
-    '32d7af24-e58b-410c-bc24-a38d86b944a7',
+    '89b0cfb3-fe2e-43dc-a90b-5b05a02b8c67',
+    'e1c46b52-b148-4a0f-92ff-13bbeb541838',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4bacba62-25b2-4ccd-848e-5ddab6559709',
-    '6309d74d-b0c8-4bb5-b249-2d5a4f49e404',
+    '5cc78b2b-87fc-479a-b74a-ff3ab0a001ff',
+    'a2d59230-e3a6-4e02-bb62-55657ecca860',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5f2ac1f4-2e64-4678-946b-7ef806c8f5d5',
-    '34840ce5-f2d1-4294-9009-3c5db3702305',
+    'afb58c8d-1cd2-49ea-9cc2-b828ba686684',
+    '364babfc-c44a-4efb-af6d-324d6d29c98d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '27dc4bfe-6c2d-489f-8bb2-30773d5b5f16',
-    '3c551f39-791d-4f71-a7d9-be375491a3c5',
+    'c79a947d-1860-46d1-8e23-a75224f5d365',
+    'd7fea808-83ee-411e-8476-3589bf1c2744',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bba43522-60f4-479e-8bda-445018f95459',
-    '57eb8543-7961-4bef-82f6-d3533414e484',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6ca83fed-d248-4a4d-bd9d-ee21f04da3d1',
-    '3a021bc8-7436-4f8d-b1f2-3fd5df6c2a6e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5c23d528-282b-4497-8dad-67b91f67d92f',
-    'f56efa10-c055-442b-a439-dfac64c0ce9e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fd55b4a7-17af-4bca-bd4d-0bc2ca9e27a4',
-    'b04ffa3b-62e3-4ce9-bf5d-7274ad45f369',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '94bf4cde-d1e6-42f7-9b8a-b4897ea3ac73',
-    '6dbf2abc-33bb-4863-a2c7-3489afe4af56',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e5ce68ec-5421-4964-bca7-d18863c9f4f5',
-    'a9734df4-3add-41ff-8165-2ba4ccacc43c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fe4144f2-e024-4797-ad8b-e521e6ba5af0',
-    'f2b4911c-b809-4181-a43e-d19b40c6aa60',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'be132b79-b333-4ebd-b29f-9184b1dcc07a',
-    '9b7fad05-0b2d-4f6c-a94f-1fa72038e616',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '35c4a2f1-ec6f-4610-9574-87a1161ff641',
-    '1a729df5-6723-4401-b3e4-1d40b10376e0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ddfb231a-8455-44da-b48f-b22fb532cd40',
-    'bb71f727-7da5-481e-bb1c-9a73323f1516',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '27869922-0639-40d5-8fa8-7f21455bc20d',
-    '36d8bc54-9478-42af-98ac-00d0f6af5ead',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a2616b74-12a6-47cc-a373-f2e48d4ebce6',
-    'e53b8af3-fd99-49d6-af13-b9173a07f275',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '459d9c40-35cd-4ddc-9cc0-e3f68a1ce643',
-    '5ca3ef59-1b2b-460d-bdb5-e520537864b0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2c143a34-f030-4a3c-bbff-54bf1251efee',
-    'f149c16f-e26e-4ff5-b618-f12249f373a6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '267253de-7854-4491-8a16-9d0c15f1854a',
-    '41679b94-eb84-49cc-aeb4-93aad22806e7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9c19e529-1537-408c-b3e1-9cd0a6023298',
-    'bf02603a-80b4-431a-88d9-2c10c129f207',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '26fbcef2-9520-49b4-bb85-8c2a17bb1398',
-    'a4b60b74-3f3c-4ab9-8d1d-76d0a38649a5',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '124d91ee-eb11-4643-bda0-720d278ce7c9',
-    'd3fbb074-f6f6-4497-9d6a-baf3e85c7099',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '79c2b5b0-1be6-45f9-ad51-6594e044195d',
-    '2d8462d7-3f4e-4ef1-996c-71e85ed5d47f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '41e461be-d34c-454b-ae86-3e46b39c2011',
-    '4be28829-2038-428f-8810-7c1b0c35bb4a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8d4eada2-9030-48c4-b7f0-7b4f28f9d9ef',
-    '9b079d46-3a18-47cc-802c-3ed13735997a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4725840a-362e-416b-b936-9d8347b8797e',
-    '66276669-dc1e-4028-9194-f45184ea281f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd4343b37-4af5-4fe8-ba9f-9a3358a9f3f9',
-    '6f4927fa-a37e-44f2-a9e5-7e25d66871ba',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1e9d9029-c01c-4678-b396-8d9b00fae7a8',
-    '8c81ef54-8d8d-4773-be2f-0073f3e3cbb1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ae712527-665a-4da7-a6f6-7727a7238d43',
-    'e1a206ca-fce9-4375-a278-ffa90433c2b0',
+    '1695aa98-792c-4037-a9aa-77e1b12ed0cd',
+    'eb09be6d-cbfa-4621-8974-fb2083e79918',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '896fd53e-ed4b-42cd-b0bf-ac5e12f51cb0',
-    'f130bca5-8044-4c79-a3ce-674e08791970',
+    '9349b2d2-f3bb-4389-ac4a-e398b0b76d75',
+    '169b5270-cf9a-4fe2-b7c7-8b2f7fa0642a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '03753acc-4356-467e-afa5-2047fee43429',
-    '1ea2881c-99e7-4d52-b744-a8e71d4cb4b7',
+    'd0b353e9-cc6c-4e10-81eb-ed58da156b7f',
+    '21a418a0-614d-42ed-a11a-8f55f8258532',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2aa23bdc-20c3-4229-b9b1-6af83c3d693a',
-    '62707e42-ca9c-4f1f-965d-996bc73724a8',
+    'e9fd203e-f45d-4833-a34e-48ec50978412',
+    '21c945f2-b7f4-4205-ba75-9286dc49d487',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ee9000cd-d9d0-4b8a-a3b0-e90c269c28b3',
-    '51c476a8-0040-4d0c-97ef-b35b584f2fb5',
+    'a4327426-ee1a-4e2a-8bd6-39cde24781fb',
+    '74096c93-1513-4361-8398-7aad02f7d6c9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '433251f8-d57a-486e-b158-a25d4ffe2905',
-    '535c2c2c-fc4d-4b9d-9637-bcde58be78e6',
+    '8bf80cfb-31a9-4649-8678-cd76b2daa42e',
+    'fb244fe8-63d3-4382-bcd8-06be8c90a5ea',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f870bcc4-ae16-42de-802c-50538c294b10',
-    'e88ad7d3-c409-4f64-ab88-d0373a660fa8',
+    'effcdc48-af41-46a6-9313-15a90190e8c8',
+    'd43dcf5a-899d-4fcd-949b-e9497658d70e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd4cb4b55-c5d1-44ac-85bc-7420baeb713b',
-    'c645373d-d73d-495c-a47a-e0d0e7ce9df8',
+    '0a55a8a4-8bad-453b-9a07-a09315449a68',
+    '9fc03022-1501-4085-b728-9e926e0b3a5b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5f15e7f2-9e2e-4b5b-b3e0-2d401ed24d4a',
-    'afbf39f2-f176-4967-97af-e593ce5edcd6',
+    '8fbed7b5-1ef5-4e3f-97b8-796451b43304',
+    '6c2ae09a-1e63-4938-a267-c71065ab822a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9e5497f1-e06f-49d2-ace0-95fbb2b60f02',
-    '4656514b-e373-4ffa-9d1f-9321216017e7',
+    'fd8ec3af-e04f-43b6-a6aa-e9f7de1671e8',
+    '938f1371-3bbe-41df-8940-1c047cc53f5a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dbc67ca0-eb2b-49db-bb18-6ac10a1256db',
-    'c489a025-3826-4e13-b2e9-81c8b4fb54b6',
+    '8149b29c-1068-41e6-9a79-26c2fc37a722',
+    'dfff516d-abaf-49e5-bd5c-8cc81aa72971',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f8be1ecd-f367-410c-8b13-75df468599bd',
-    'a5bb82e6-26d2-46dc-8908-be12edb18e70',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'c92bc594-4cfa-4031-88e6-2923c65525e0',
-    'a580470a-8813-4303-9d46-ea0bbba154c8',
+    'd07a44ea-a292-4382-83a3-4d77d2e05066',
+    '104159e7-f5a4-4aac-bee1-cefc4bcc1cff',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1d554b14-139d-4da6-9f21-ca9f7fe57d8e',
-    'd80f0f0a-57d9-4937-9a55-a00a215dee6e',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'e5f35fe8-49fe-473b-9ebc-f5cab0ac7891',
-    '33f44118-7d70-4fb2-9486-c604d7028263',
+    '8a32db4f-81f4-4ed7-930e-74858fee6c2e',
+    '140c6d0b-919e-42d6-8ad8-7696706e4bb9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '29959808-7118-4015-a058-7b344266d7eb',
-    'da5880b0-737b-4a1f-a1a3-f3c615e9d5b6',
+    'c8bb9370-b4fb-4a9c-b44d-ef748b553a76',
+    '4de7e833-0896-424f-99d6-213a14841731',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd59bc3c9-d264-4e43-8816-446dfc667ef9',
-    '89a0d9ed-3738-4447-bffb-2dcdff18f699',
+    '82f4d316-b8ed-4587-8190-905de7c45f77',
+    '821a8212-d203-432d-8f2c-ce0bb45a8783',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fcfd06f4-d84d-4f08-97eb-a9b20d94daa8',
-    'e48c2576-bb0b-45be-8908-abb94d4c68f7',
+    '5aa10ea6-5841-4df2-8c78-26dd34c574ae',
+    'bfa3c3c3-c090-479f-9a50-1a462beeb92a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '09f9ebb2-16e3-46f6-8c42-40c2666382df',
-    '3d14852d-4ea4-4bc1-be10-e9964c5c4a89',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '58f59f77-f97b-41a9-8980-4ef37d5ed682',
-    '6915fc68-3a69-442e-8fdf-9df92266a007',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '748b1f90-8d65-4e9c-bf08-a9a4a738bdd6',
-    'b38272bb-6c06-4461-ad30-0f67fdc44f60',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'babccbab-e371-4d3d-af7b-313edd02fe98',
-    'c69e0dfa-0b1f-45f8-a59e-21afb9266e69',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2b447edf-5c14-432b-857b-d1f03c116ed3',
-    '2c509185-6f24-4c3b-a0e9-7b5d62fb1d33',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a56478a4-4cf2-4ce0-bb84-47748d9c9e48',
-    'a8a8066f-7e18-4833-9da3-fa6dc74758a7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '308cc526-391a-4dea-a8c2-7e133820d24d',
-    '69c36d36-e9ce-4e62-83e2-267ee0b7a4ef',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a17d820f-2eed-4af6-955f-2ff2eb303c08',
-    'ca0ea2be-4a49-4790-a8ff-a691185f996b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0bab8fae-32c7-4ce5-8cb0-3060b84f067c',
-    'c1c18d1a-9712-41e2-bbc7-ce27aa11121c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a2a44bc4-a7f7-4c6f-8dac-07085a30b307',
-    '214b8177-b692-486d-ad53-484253533c09',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c9ba4d67-7f7a-42bd-8099-65107e245eed',
-    'dcc6a8ca-bdba-40c5-b1e5-8a94db377f93',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5e4c8d77-78bc-4c63-add1-25e4cc9c44ba',
-    'bcb5f769-639a-4d77-b7a1-96647cc8411d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e9c2005d-a27d-432a-9c6b-4eb31fa5102b',
-    '71df3654-78b0-4a2a-b7df-65954792238e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '015d485c-a456-4068-b76f-fab7eb567e66',
-    '679d09d1-7e37-4a75-8b7f-1952b1695892',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0f01aac6-ae02-4f04-86c0-d162b448931b',
-    '9333c6be-4d1a-4c15-838e-cfd3b61d1127',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd255fad8-104d-4d21-b2ee-52e930809b8d',
-    '1035a5ee-b3ab-4771-8f22-2ff972bf3ef0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '649609ef-4be2-4d76-a1ec-93b427094f41',
-    '32c7b6fa-1371-47db-bf04-410f724ff6e3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '17d28dd8-af6b-409f-a896-d2b5c71d3f7a',
-    'f9517263-9dea-4ce8-b57a-08a0d15c13b5',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6d768597-7797-409d-af08-ce300e885029',
-    'ea1211f7-aef5-47ca-a320-4c60fc4b20f7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8a5ca771-45a7-4d9f-a25e-459d5f4a9257',
-    '6a05eb4e-264c-4826-b9ee-fd6835ecc11f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8cebb307-2d39-4857-9113-be8b96258d75',
-    '3edbbb02-e4d5-49e6-a65e-9597fc08ba4f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5e0a3fac-c7da-4aee-a9f8-46edd8f9c7ce',
-    '1521db15-131d-4ba5-ad5d-54ed1d461b44',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e6cb22a4-7fc1-465b-9f18-b1602db4e2e6',
-    '6ba6b7bd-b1cf-4563-9532-8ad369133e05',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '868e41e2-9824-4d01-a1e2-85f2399cd5d3',
-    'd3c422c4-d113-40a6-8a4e-6822eb77f76b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '72401c08-2168-4de4-95c7-b695b17ad662',
-    '5239f03f-2cea-4fab-96a3-e409b4f2c42a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0ee88f6a-2c7a-4b6f-b05b-c5a5d7ea701d',
-    '6165efab-3e83-4fcc-a0cf-4400562cf48c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '468ae8cf-22d4-4794-ac86-0ef8904750f6',
-    '0adb4622-fa5d-43ce-a3ad-a3c373a52eb9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd6027ac4-e94e-4aad-bcee-6ee01410f37b',
-    'c4f52ace-b896-408f-83ff-1587d4c8f9b1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e4bba9c4-bd24-4f3d-9aa3-501b918573ba',
-    'fac49ecd-8b6e-429a-9892-9c27ccaf0c86',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6da79b66-ec7b-4c19-a5fc-6a4e235d8fe2',
-    'c05f6762-bc94-49d5-ba0c-0289126ab03c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '57f949d6-c9b0-416b-a090-2999117985c4',
-    '29b40525-5d69-4115-81a7-face96155c03',
+    'f44e1e4d-d589-475a-bda0-77d2225e8f09',
+    'f83d76e1-42b5-4094-aba4-2cb6a81332bc',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '46f69231-a842-42be-ac6e-75bed28cd0cc',
-    'bdfdc931-91fa-4919-8d08-09ce462098cf',
+    '2d433641-f7c3-4277-84b9-2ec64c735137',
+    '80f09e9f-ba4d-4d03-9b06-e5f7963e458c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cc61b1e2-b990-4611-a906-9095c6d498c0',
-    '7bdf0dcc-531d-4958-8ec2-41c3644da7c6',
+    'b6d7c281-c65a-4ef5-8570-5136a3cbcaf6',
+    '91ea97e7-4cc4-4382-bb33-56c251d91545',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f797fb46-02c5-45e5-be0c-d001f9b51538',
-    'eaf1a468-9b74-4d07-ab06-0252786eef54',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'a881d87f-b4db-4e27-bf25-65827886e728',
-    '40ca8073-4063-46a3-9405-86a5453570a4',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '886f5f7a-7bc0-4de3-980a-52b82bf85dd1',
-    'bfd33d22-f949-4476-af2e-47b9e1db06f6',
+    '8b3fcdc8-ebb3-4615-88f2-340e0099d2c9',
+    'cbeba4b3-2a3f-4c2d-82da-e0edd92bd645',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9227b73c-954e-4a23-bfd5-df69be5ee581',
-    '3c538297-7cd2-47db-bbae-34633f9b073d',
+    '6a7c2c32-598f-44bd-b018-3c6d7c3fc18a',
+    '6ce2380d-f222-4b53-9b60-7974119ed5e5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '379d51c6-0015-42f6-90d5-1b6272810d13',
-    '309d6ba4-ba4b-4a27-a43b-8cd7dcd248f8',
+    '143ba0ba-ee34-46e6-84fe-058847c166c2',
+    '3b3c5c97-3da6-4857-b45b-3387ce87c28b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9806d67e-1dc5-4ebb-b373-4326f54c422e',
-    'e5be5c98-a02b-430c-bea7-58fa3ca4d240',
+    'e212479e-0092-4767-9954-20c04b5f2fdf',
+    'db7b3c2b-b8db-4e07-9491-cb3b4be8cb42',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'aaa161c2-0e67-4017-ba32-c3df28dd8e92',
-    'e1838af3-3377-4843-a3de-185d43294586',
+    '40db46fc-66bd-430b-8ed1-e406568066e3',
+    'ddb8d8ee-2956-47b9-8466-6bcaad45df6c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8a197ffa-010f-49d2-8b16-261dc027ff15',
-    '584a0be3-84d6-4b13-a20a-bcfca8cd65f5',
+    '50268d1d-7fd0-4f9a-82f3-3253722a2a6a',
+    '2067a7f7-c524-4ce7-b699-928e84b764d9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ec259488-3ed9-43d4-855c-8ea8b7ba1423',
-    'e0e3cdb0-dae2-4b30-b05b-b0302491b645',
+    'ab80052b-a871-436c-a444-bbfb9d0ff88b',
+    '46e944a3-d293-4d52-b855-7d36a68ba357',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2d4bc7ef-4af9-4253-9e8b-a31429ce48cc',
-    '4f9e7b11-393d-4c3d-a70d-b70dbac41fdc',
+    '63d309ab-8d17-47c6-9629-e79c7d40e17f',
+    '85505489-bb9c-4a3a-a521-8af713bd21ff',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd5114386-68ab-4990-b749-baadd07f704c',
-    '20fb01ef-fc9f-4b70-826c-41dd9f2b6d72',
+    'b280c8d0-1dfe-4e27-8485-d479cb9db231',
+    '1212cd55-2f04-43af-b208-7b804c47bd9d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6547dbaf-2618-4fd6-9b1c-0fafa2cc3fbf',
-    'eeb2eb62-0b2d-4ea9-9363-4aa459ab722b',
+    '61cf4891-8b67-4b1c-ab4f-e5b3fe773e82',
+    'b961aadc-f3bb-4d22-acc7-f3c80dca5720',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9d09f97a-89d7-411b-9e0e-15c62cce1534',
-    'bf301cfe-1983-4015-9f09-f93c30bd60d5',
+    'b7d8a5a9-72c2-4076-a7cf-46adf1084b17',
+    'cc1471d2-62f5-4bbf-9368-0dcd3fbf8008',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b3c750cf-300d-4636-80c2-8b7e3231afc4',
-    '7f88423a-024e-4812-96de-0239a6cda62b',
+    '114f39ae-7751-477a-8118-887276750505',
+    '4bb128f5-7fa9-4cb6-8667-eb519473ce9b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '15dc7c7b-3d43-4a57-8c2f-e5c9b0bf26bd',
-    '8725eb8d-a319-49aa-8bf0-f1a031c0eeb7',
+    'af533a4d-caa7-4a76-b2f9-d6f3a0e74268',
+    'ad8d0015-6d23-4c3e-b98b-60e30292b11a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7b01ccd5-cd34-47c5-bc8f-b8eeca89886b',
-    'd5ea461f-32d7-4812-a494-3b0101ce85eb',
+    '8c87928a-4a72-4a92-9f40-1f37866d8d99',
+    'bb78d738-5205-42f1-88fc-dc80016ae20c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '151a80c5-ed43-4580-97ec-0b3acf05c1d6',
-    '7a416d5d-b049-4751-ab2f-2753a5269b0b',
+    '99abbddb-a3c8-4b41-b0c6-48dcee04a775',
+    'db416ae5-3cf7-4a64-ba90-f3185397d623',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '37624616-96ed-4751-89d0-8f13d9b6498b',
-    '887ff293-41dd-4083-9778-609464b13a85',
+    'f5844590-3d42-48da-9e74-c1c9a79e535d',
+    '12c22d31-5a16-44d4-afb3-84cc89f73395',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6415a7ab-fcfc-47a2-8ef4-10d6522b6a41',
-    '26ec1e10-e937-4076-a385-71cefcb6a4cd',
+    '63b90d2f-0a55-43b7-a02d-ae8116c424e8',
+    'aad29523-2879-4a82-9988-19fab19fe6c1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ecb87c39-0969-4271-993f-f897624a4714',
-    'c7649bfa-cd88-4030-bf17-8d5b3d6b535e',
+    '79c42f29-794f-4a97-a1f3-62a401bff4d0',
+    'a8d3f51e-0438-4582-a365-de2daa665f9b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5c257e89-f0a9-4788-99c9-168389b53ab6',
-    '68f0f4d5-4941-4f13-995c-c72d1539028a',
+    '7618fee4-26d4-45fa-9d8c-641a78fd75e4',
+    '86cb518b-0ae0-4cc1-93f4-e6aafe68e880',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '69edf2c2-8898-456b-8435-f9d6eae73ca1',
-    'ea9d0147-f6ff-4190-bd80-abadd07b5f3f',
+    '16c98bb1-96e5-4091-b450-92ed9eb84d43',
+    '7dfc051a-74d8-4eae-9192-fe29e82e87e3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '806596d2-f538-4b1b-9214-e3fca5708674',
-    'a23e8d67-2b1e-4c9f-b99d-d159691b1ba9',
+    '779c35fa-3f7d-4311-a46f-621d2d016cf5',
+    'e241ccac-9069-4202-a18e-5422da3ded96',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '23ef8f02-5d94-442e-a376-71f1e7489eb0',
-    '830a9c31-c68a-4a9d-91f2-767d4a4a2705',
+    'b709347d-805c-4436-8500-1e0d2bef369d',
+    '7aa05a3e-97f6-4ff5-a2ee-a06f1f3fa7a2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '42a4afef-0211-47de-b5b0-1069980f7a35',
-    '0ea563d8-0158-415b-a4bb-6db47b70d448',
+    '44bd82cc-3a7b-4eef-b1d9-8131287cacad',
+    '16983d6a-5cca-4541-be39-6a4d7e94619d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '30f1176a-c73b-490e-a66a-951d18b7da8c',
-    'd72cde13-142e-4290-8435-40d1ce223038',
+    '01e700b0-d097-43bb-ba80-7a7a1f4b716a',
+    'a17cd691-71ff-49e3-a8b9-9d63377a73f2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'db308b49-e5fa-4c7a-a5d0-bedfab488403',
-    '63e743c2-c812-473c-8c85-2c2521c67265',
+    '4dcc736a-7b46-4b91-ae82-65d750bbac78',
+    '4e2242b3-8d18-4e65-b352-1ac6a5780dbf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8f621465-2631-42fc-9c89-705714acc6fb',
-    '1fa28759-fa9e-4187-a851-dba898c6922e',
+    '23cc2099-9c14-48ce-9923-dc05abb81954',
+    '6f7ee90c-7b9e-46d8-965b-0b5250794e82',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '14890189-9c41-4d30-b524-9e0cf1790279',
-    '7c3d50b9-7dfd-48d4-88d5-e1d10706f98f',
+    '6dfb3b14-e82c-469c-ac28-59615333aad7',
+    '7d1d569d-fc40-4d19-abe8-5de06e8b83f9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b5501f88-084a-495d-9d47-a5c544b90c86',
-    '19500999-73fd-4f6a-b55a-f1cd76efa909',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '6279f8f4-d9e5-41d0-8d25-9fd35d91f365',
-    'ee21d2b5-b5cb-4c1f-8b17-e739ada1c8ac',
+    '758a5b3e-8bd8-4554-a51b-4483c766dacf',
+    '4df8ace8-a284-4de1-9171-59622be2b8af',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0a7977d5-d3a2-4ccb-9b20-8084bec586e6',
-    '983e003b-7a90-426b-ae7f-7074427a385f',
+    '4260b936-d735-49d4-a0e8-2b7eb956480f',
+    '6d678f44-453b-4058-b88b-0fff25a4cd0e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a2c8b761-5f36-482c-8ae8-c89ed39e9104',
-    'c68b58de-20a7-4828-be21-96ea80f0ad90',
+    '267ab27e-b246-4de5-aed8-1b331c9f3df2',
+    '66eaaae4-bfdf-484a-92cb-067973458040',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e323d7a7-f8b9-469f-af7a-09b50215bd2c',
-    'ac05b872-2aa8-49fb-9ce2-729f1a0fdf3a',
+    'fa8fd8b1-3f39-4903-8db9-9c5a4cd84caf',
+    '63eedd83-bd3b-4b52-bf89-f570d280b871',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3f1b1cdd-7751-45a7-b3b5-3958d2138d43',
-    '78e9af60-e195-4130-ac6e-fec1740c8185',
+    '30fb9a10-f33a-4649-b111-cc125b456b26',
+    'e9e08898-eca1-45df-ac63-2dd73ad153b8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b114aab9-e6f0-4a05-877e-fe99de245821',
-    'f40efe6e-050d-4f89-87dc-d86166b8b4e4',
+    '0a572826-5dba-42b9-a04d-b0fd9b5384a4',
+    '6639d4af-1bce-4080-bbc9-8817b3044965',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b0d409cc-b926-4c74-bae8-e74ba70ad6a3',
-    '948897df-13bc-4ae3-a539-12925aa0d487',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '85aca3ff-b03b-4d42-ab02-13384eea56f7',
-    'ed34961c-6f54-443b-a0ea-3682589dea89',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f8dc3a7a-b3ac-4c5f-8788-0340a6318428',
-    'cee225f6-803a-4464-96be-5a6b14e9f105',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dfaa73a8-2e87-43b8-a508-04194f438ad6',
-    '0c572f48-8526-4be5-b7a9-4c4f377157d2',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '026fb574-83df-42aa-9d26-438e2232324c',
-    '48ce04a1-0a8f-4552-a770-e8a84dde9134',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'da04788a-2868-458e-97ac-460464aac429',
-    'bf80b1d2-70f6-42f2-8b42-e1b7f896d738',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1b8d6799-87f7-4152-95e2-33dd3d323424',
-    '5a5af9b0-0a1e-4395-bf5e-8b57fa27698a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b7b772c3-f997-455c-aac6-8f162c2b33b0',
-    'a94b2c61-0de8-4c2f-bd7c-5f9f3394fe11',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '010427bd-f997-4886-ae0b-f4a00c8144bd',
-    '481f7b1a-f888-448b-8ac8-0101230b26c0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '62f82e33-69cd-42d2-b252-6458952c7249',
-    'ff49de9a-bd0b-430a-8aa9-5fc14a269005',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b98111ca-364d-45be-b4a3-d1fd05c38742',
-    'e456873b-60eb-4910-9218-18269fd03f14',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4239036d-4885-47fa-99bd-f2cd1894a3a2',
-    '91968685-aebe-4581-97c1-2ea26b115059',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '282326ee-0b40-4cbe-af0c-b02ea10066b9',
-    '2013fcdf-ed58-45be-b6b2-49636c2b76cc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd813ff96-d7e1-4757-a168-284e175fbb55',
-    'f82a5490-7209-4fa1-8ef4-770950c1ae0c',
+    '71656115-eb8d-48bd-9231-576fe0b74382',
+    'd1b01822-72a8-456a-bc3c-167558403317',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '975616ec-5024-4ed4-9ab5-7bf6297ba1fa',
-    '4035100f-39c9-4f22-9d65-43262ee799eb',
+    '045ade16-2016-4a23-a4f9-9347897b0d3d',
+    'c2c1467d-146e-43f2-b64f-cb2a52d0d1b0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '34aa3a87-b481-4b47-bc0f-1f073b759f1a',
+    '8bc20387-3f56-4967-83d1-ae65080857a6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '48c2bc42-e1eb-4aed-a627-aa5c2dde4ea7',
+    '32d468c5-ffbe-41fb-af7e-450e0fc4ef3e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4a481f89-6381-4569-970d-4a457381d5b9',
+    '853f4877-c1a5-4213-9644-bf184273ced2',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1a860543-c2b0-4869-a94c-0b9eae971359',
+    'a363ed83-9e75-484d-889b-241c43de0b3f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5b54a87f-6ea8-4812-9954-fcc0e5731c0e',
+    '13693df2-2631-49de-a040-14fcc740033e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd6a77974-075c-4e42-8cda-5019296b81d0',
+    '21f4c941-b9b6-418e-a40c-ddc8e8772f46',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8fa69a12-dca3-406e-b3b6-8e180d8292d1',
+    '565e6aba-215d-471f-9d72-b26ed6dae29f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6ec2f847-142f-41c0-b399-1eac3e49051a',
+    '0b0ab594-84da-45ef-9fa9-7a670b60ec50',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8adc751f-7591-416d-a933-fa9d05dfd586',
+    '935a6ab2-8550-4c69-a4b7-015e3ad65c24',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '62cf6d5c-4d24-48af-b6f1-fc77ef66ba40',
+    '66bb0107-e55e-4c3b-82d9-4ed0d5ca02ea',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '9a135ba5-004d-4cc3-ac1c-4d9bf82844b0',
-    '7dc1345e-cabb-4ffa-816b-0a7cbf1f1e5d',
+    '8ae8a6a9-10a9-4db1-bc39-0f89fd56c6b9',
+    'f103f5cd-3e9e-4687-b709-a9da1b8ea2a0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e11d8e14-fad4-48ac-86ef-fafc63c050c1',
-    '0f5660be-1254-43e3-a469-06ac496a3e28',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0c83e16e-45a2-4c37-80ab-cc14cecddecc',
-    'fc26614c-a38f-4ccf-bde2-a5f4f4bd0676',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9b0aad23-ecaf-490b-9127-dcae703067c5',
-    '41d62076-288f-422b-a62d-8d62b3f3a2c6',
+    '54ceaf49-9a7b-4b72-9484-16c000c5d6e5',
+    'ad0060c0-25ce-49ae-903e-68e77cb46d69',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '148a35bc-7609-4350-b0d9-560346dd3f23',
-    '0001660a-5f9c-4727-8a74-ce27838f62d8',
+    '8613638e-ccf7-42c4-b54c-80bdb6a87736',
+    '73cbf53a-6b4a-4f6a-9a37-b0f6e32450ff',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '258f3661-59d3-4dfe-9dfc-53af7caf6f12',
-    '1441b0dd-89b6-4a07-8089-939e73dfd385',
+    '02112b39-b5e1-402c-9d35-3670b9e14774',
+    'db822890-10af-4174-88c8-1b320297fb39',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e7fbf29c-8684-41de-9ee2-c528f9f86042',
+    'c135b54f-85eb-4b1a-9583-107655f5f590',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7dae5e16-6c53-4930-b816-36aba3021ab6',
+    '3c313fd2-a028-4af1-9931-56c9bbe5298e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'fefe59dc-6811-4fa9-87c4-44eb981ef067',
+    'ba2b6bad-24ac-47a6-a637-a2cc189fce94',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '203f5621-30a5-4f4e-8a94-680fcb4c8ab0',
+    'a53acb2c-889b-4fd3-9be9-0d671696ee36',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '12db31eb-a826-47e8-bcdf-076af55c8ba0',
+    '215ae1bd-c76a-477c-8759-74111404b811',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2d3a1529-82b8-48cf-82a4-650cd279eae2',
+    '76c4c673-ca13-4717-bc79-4c2be52bd559',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3f3b2757-b9a5-4986-8a8a-30fcb35da89d',
+    'ffd31031-4403-49a3-8c1b-5d959134a3f4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '353dec47-0abd-4342-9af3-5d03e1688c1c',
+    '30ea09ee-3206-4d56-9fb8-c5f7f9f0ac66',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5316ce6a-f5f2-43b2-9a7f-f1c266edfcce',
+    '9e8af0d3-c865-42de-9b54-9bcb0c2d169c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'df43d147-5831-470c-a588-5ab0b1591ab3',
+    '2754d153-cac6-49e7-8548-01cea63d9f39',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '232def91-19ee-4847-ba7c-8ab1201fe34f',
+    'da547940-b314-42ac-a9fc-8ab8114710ae',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '431d7314-d765-4470-b551-26f7924a7ea8',
+    'fd8c0619-bc86-46ea-9662-709e831b9131',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b1dfa33c-b653-435b-982e-efbe289c67ce',
+    '3a04748c-ad55-4f40-a4c0-a5664a23605c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7e4fd892-ce75-4f77-991f-bbc4484ba9d1',
+    'c7984b61-4b35-413c-b3d5-6a0eccc794fc',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8defa849-55a9-4d0b-8c60-4ac8eaa00f27',
+    'b7f1c8d4-1d05-4347-9573-c9c2f628ad30',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c652d206-e71a-4336-bf92-5f278b784293',
+    'efb5ab16-d7af-4cbf-9738-9200148b6466',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '60348aeb-5831-450f-b124-22696c140db8',
+    '0b90dd30-22e5-4153-828d-7200d00e76de',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0a3d7c6e-1794-4452-8864-b322ae7bb5f8',
+    '2a3bfb8d-e278-4067-b40a-633dec4cebf3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '935bb96b-2708-478c-84c1-6dc02ac3521e',
+    'db3036a6-f267-4b52-8b3e-f6b0c9f1798f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0c1bfd82-0c74-4dc3-8a72-8101cb2d26c4',
+    'c139db65-5838-4ca2-8faa-7ea1f2029bab',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ce88439b-fe7c-46b4-af27-d100e8246d6d',
+    '2bd97eb0-2ae5-4293-add7-6418eb8ec061',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '848a8f05-9be4-4b4f-9aef-55e6be2beddd',
+    '637db695-f043-4a91-9697-b23e4061caf5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6e5ab422-a33a-4535-be13-0c84a6b4624d',
+    'fb07ef15-3dd2-4d75-bd39-6a908e552db8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0ad963ae-7a39-4d61-8d42-0ed05e183400',
+    '9d223f50-f65a-4904-8a8c-1ba3ffaab64c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '89f36390-7efc-4de7-aa55-6aec78bfb515',
+    'bb2ab97a-69b3-4591-8fd5-77e796fa441f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a8b0ccaf-d65b-4313-bb4a-ad3d7bc8e166',
+    '5ed8cce5-47b9-4bf4-b6f2-fee9fcb74c78',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a557b901-4a97-4ae3-9c4c-14504d29a37b',
+    '5775063f-edd1-4d2f-ab97-4d393dc58e0b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a7071073-c950-4232-b58b-e8d9dd680dcb',
+    '02937fdb-9c6d-402f-a460-74c2f3eae6c4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '82707046-fd59-4a90-af69-315a25739b9a',
+    'db67b1df-3879-4716-b743-e34fd6c729f9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '405b9fca-593a-4425-a5fb-97e5da5cf6f2',
+    '1745b975-1c08-4c65-95e0-77e9ad3f634f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '668c7abe-719f-47ea-a422-cd008dcd8558',
+    '17cf0661-8cfe-404c-9204-33f66446ea74',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b3cec33b-1421-4c44-8dab-880ee2f4adfe',
+    '78d56a10-f997-40a2-afad-f448e49fef5c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b72b0e0b-526b-4ed9-a407-1083b0c08c01',
+    '0566af52-22a5-4759-afbd-b649a20a3c6a',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '7291af7e-575d-44ca-8ba4-db9adc979229',
-    'bd68c9b4-ac20-4bb2-ab86-0d82523681b7',
+    '5dc3d8fe-85e4-4e70-a55c-1d0579a14f66',
+    '4fe6345d-220e-4e86-8411-67cbd9af2fed',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e1c0da56-1c72-4db4-b5ee-5eb1bc31b399',
-    'f256eda8-14d7-490b-88d2-db8b511488d0',
+    'c98ffae7-767d-4231-b7bc-c5cb78cdd08d',
+    '94d3cab3-83de-487d-9c48-89971db4b105',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5c2d3797-d006-4540-b335-58a3fd76828f',
-    '5858dda0-b931-4d33-8cd5-35d8c33b97b3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'cd6a5c0e-c490-4270-ae40-dcad0c45e9a9',
-    'a3260e05-909d-42e4-8d10-7cbc3ed3e7e5',
+    'bce16228-3efa-459b-ba54-27805af3b739',
+    'd5f84bff-fd25-4f6e-8850-d8c7b14126f7',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'b90caf5e-8ce1-4153-b533-cde3e8d01527',
-    'f2b211cc-4d4b-4a42-a931-0bfc46cadb1d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '35f93e0f-0953-4f1b-b136-b458dd0b998b',
-    'd2277685-498d-4d3a-a3ac-7e80541623cc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '074dce23-d1eb-442e-804c-5c1755bb298c',
-    'efb75307-bfe1-408a-86bb-53e8a9836445',
+    '09df6eb4-f42a-4599-a26a-034644acd63b',
+    'db28a359-6e60-482d-89a2-209136022423',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '78a263ed-adcf-4ebf-bdad-59c40cd349b5',
-    '6b444fdf-fb21-42fb-b503-8f926ef8fab1',
+    '3d17f6d9-b425-4b93-afff-0382878eb0f1',
+    'fddb4f53-f44e-4f43-9409-9edf883b8e00',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '91e27bac-a30c-498d-9fed-978b8cca6a49',
-    '7dfe1b49-1125-44f6-b49e-29bc8ce7da27',
+    '2edc747b-ecee-47d0-ad6e-7a96c6f16bd1',
+    '5f9749c0-be9a-496f-9cbb-4061649ff99c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '10b21688-6112-4352-b12e-7eda321796a8',
-    '5661b1e2-65c4-4997-a1bd-7421772d8eec',
+    'bb7b3090-28ff-4605-bfef-65f38a385aa6',
+    '28f22c5c-2642-491c-93fb-edda8cb6c7ed',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '206afdea-8ff5-4b9e-bb0f-ff04dcd872ef',
-    '6d2e43b5-1db4-4e76-821b-432ad5dd1051',
+    '0d542bc7-07b2-43d0-b9bf-7d3f646c5fe5',
+    'a7dd44a4-cc1a-43b3-874c-4342bd63d642',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '78521dec-5847-4275-b746-9f34d3cf6f85',
-    '3baf8c63-eff9-4190-8d58-496846cdc87a',
+    'd6ab85b9-ef83-431b-a1c2-430c492ad20e',
+    '157fd665-7c19-4087-a853-fd1ca6aad976',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1e88f054-712a-4ef3-aa28-03d18cef0d80',
-    '55e4043f-3c2d-4915-8499-0fd15c52b459',
+    'a467310a-af3f-4f58-a523-1d4504893369',
+    '1673adf4-0fe0-4505-ada9-d4adca89dc03',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b63d9402-e937-4ca0-b043-15e0c486ec1c',
-    '372452f1-6072-493f-a6cd-cf26233687f4',
+    'd7d74e6a-8587-42ce-90b2-fd9f641d4417',
+    '6742c83b-d112-46ea-bd7a-f32712dbc3b3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '40e0e75e-fe49-4cc3-b28a-c56bea206a98',
-    '7bc9cdd6-42c5-4017-b0c2-4050ecbe7e8d',
+    '1dc38445-048f-462f-88c8-eac4ea94446b',
+    'e5f63225-d3b7-4318-967e-b5c3d2615211',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eae23b64-5760-4ed0-8fa0-c80ffa55e192',
-    '1c2ced9a-1986-4a57-981d-c5834ac2030b',
+    'd4af961e-ca8f-4a06-9d72-426fa6dc5482',
+    '4d80c29a-3a19-41e9-b28e-641e20885653',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '262f95c6-569b-49a3-b05e-468f33cc4755',
-    'd92c1e23-2d08-40c7-b4ac-b04c152e86af',
+    'ad0f1604-83f3-4476-ad13-67c0b0dcd2f4',
+    'd4dccc5f-4881-419b-9f5d-e25b756a3477',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9bd1d415-1735-467e-b3f5-47c18da1cc72',
-    '8b3322b3-8908-4ae5-84b5-296354aeb6e4',
+    '123e1f4e-7c56-4ae7-9f26-2416222eda2f',
+    'f05ce6c6-4368-45b1-955f-7b4f8e170839',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '885f93f3-8974-4432-b358-4ff8f2cc8eb4',
-    'a6982ba1-0a10-4682-bad0-ab4d7f1f1cf2',
+    '4e290bb6-abd1-41ec-abc5-0c4120413bee',
+    '028254ad-acd8-46ab-bca5-f686866b12a5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b733343c-0e15-4fbb-8209-6fa100d17bd3',
-    'd6e19c93-7f8b-4815-be9a-f3a43498b844',
+    '79d1a223-8bf7-4c9d-9bcf-2dc88753cef8',
+    '35233dcc-fad2-4f90-a27a-2fc739cafa16',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '08da40a6-9db6-45e7-a625-a00ed1dc557e',
-    '53b92d78-0b82-45a9-8f18-7ddbe2e21fef',
+    '54f4d2fe-fbbe-402a-821b-cb8c4aa7e033',
+    'eb95e95d-15ba-42c1-9bff-b2c59b9eb5bb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b5835594-5bf3-4c81-bbaa-ed4730a581b6',
-    '2bf38393-c9c1-4405-82ea-adb08ad064fa',
+    '7438fb85-cb82-413b-863a-0749fda01fcb',
+    '7dbb59a4-95ac-4f1e-98f0-4728c4681cca',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4ffd160b-277b-4ddf-833f-e1c100881d32',
-    '3cbdab4b-f898-4e9b-a799-7f7b8ac3e45f',
+    '4b721810-9748-456d-a1ec-fbb1b0d93170',
+    '0f882dea-2aa5-46bf-b4c6-5a7d8758405a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'afbe15f6-7520-494b-98c0-21391e004b17',
-    '571132c5-4a0c-4e73-8ccd-a96fe20c4d4e',
+    '96116f70-b63e-4063-bca8-740e869b6915',
+    '1c793257-87b3-48ee-b9df-b5b158e7ec33',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f436c2bb-2c55-45ab-971d-78a827dc92d9',
-    'd12e1c62-15b9-4331-9a4b-cbdfe18a2ca0',
+    '5a9a395d-77a5-4eff-86d5-9222fb750fbc',
+    '4ed27742-c5e9-4d87-adbe-b1a53b6731fe',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3200cf6b-a873-4b48-a5ca-54a574da69f7',
+    'a6d7a0b0-7007-4e66-b469-b58dcbf033ac',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ca03f769-c166-41ec-abaf-d83901ba8db6',
+    '38f21b18-98d1-48e6-8e7f-4b56422a283a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0af3b032-21ff-4398-ab0c-be220b71e90c',
+    '3e748165-583a-43eb-8c4b-452ed0101908',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '84293c64-75d9-41b5-9f38-d08a2819499f',
+    '90dca2f3-b3ed-4782-a1bd-a942d25996bd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'dfa78a4c-42f0-48e5-87fa-4c8616a0ead3',
+    'b9e1638b-a7c5-4f05-9c0f-9cdf33b569c0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '967825f7-2b72-4453-9be0-5b22b8a3b02d',
+    '44a5008b-6dd5-419f-85d8-6e1cd9c5431c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5d80ae34-68e7-402d-afe0-9814a6430594',
+    '1711e205-5cd0-49ee-8e6b-3e7cdc954987',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7731ce67-030a-4c15-bcc3-fe7162da6441',
+    '37bb283a-2eb1-4d05-8658-fe83f399b2b9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bc65a982-09dd-4c9c-99dd-9669a4c23260',
+    '3ee24c6c-0848-43ac-b1d5-19b93adcce76',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '450fff85-57b0-4b7b-ab67-77826d69bb52',
+    '2c18eb7e-dc31-4d3d-8a5f-c907e29f3667',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '9d12ef6b-85cf-407c-b3a3-ac2fdfe13998',
+    '4ce03847-3d9c-4607-96d2-9aaa9d43c9e9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9f5e7b63-ef4b-4654-a42e-7b7cc12d6229',
+    'f66e8cd7-4a87-4f9e-bf0c-29355f0e7bf9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4a984a20-0515-47b6-b72e-ba94f994a700',
+    'ea62bd1d-d218-4bff-85eb-e7f94e17c438',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3356609e-2c95-41d0-984a-53192afeed29',
+    'a49a5d19-5d02-409f-9831-913e9a59588d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ebeba97d-48c3-44e9-a5e7-8c0efc3134c3',
+    'a4671e1c-7dff-49bf-9dae-4508e5a7711d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c036f9f9-d773-4bde-b66d-c5998e17df0c',
+    'ff553800-0aef-4358-9cb6-ba02904fbb28',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b66917fb-5853-43c0-b2bc-3d6688eb8f43',
+    '8f949639-fe59-4ff7-a721-c5e4dc4a1529',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9354bafa-5101-410e-a760-84def68ebf4b',
+    'eaac91ca-4e6f-4c46-ba59-85f522086d79',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '97779f75-2cf5-4d27-8d6b-59fce1ef73f9',
+    '258bb521-ade8-4864-bbdd-3fb84ead319a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6cbe0b72-131a-4e5c-88af-478a787f859d',
+    '1710523c-dd30-46e2-a9b5-4482b2324f8a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ea7deaab-8575-4cb9-9463-c5d01b13b8d8',
+    '53105423-b406-4cac-b7ce-526eadda3de3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '42412be0-42b2-42bd-93f2-0476d9609e4a',
+    'ce0c7d49-0441-464d-9264-e8e76e5ac1b6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4ad9593c-145f-403a-ac57-329420573c2a',
+    'ab05b73e-5840-49e6-8937-d02b0a0cb11c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6861c184-4f0c-481d-b1ed-59f7cd02c14a',
+    '41eee52e-c09e-4fd4-98ee-07b43efce967',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '244317b6-3e7e-41c7-b997-5f584d29340a',
+    '0a640799-f79c-4d43-b533-08a740cfed50',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '31a4d385-7a21-4f6f-b323-0b489e4cc93d',
+    'a87c0830-8959-49bb-b8d6-a567b9997fae',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '38b16e50-964c-4f0e-8b06-73c507c254ac',
+    'eacf4a47-1573-425f-85e4-c51295a87bd1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ac90bb24-6589-445f-a28d-4bc8b417ad1d',
+    'fc3aae57-eea4-4bcf-a1b0-d2be1ea4301a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'faa65b4e-1d1b-4746-8b05-954ff2cd8b50',
+    '6fd26dce-fa8d-4f05-b93a-783fca5d1bd4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1a0714bb-b8eb-4277-949e-9fabd5c7a542',
+    '4a9afc0e-e8e0-403e-a7c9-ec81a26ecd32',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    'f26c7ebe-4054-48dc-8680-e13aeec2d17d',
+    '08e22c8f-05a7-4e7b-ad23-8f2bdcbcb9fb',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    'cc7c3e42-24b8-4794-84f5-94aa45558989',
+    '593b9554-ba86-429b-b90c-3b2421df6694',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2edab488-a795-4fb0-812c-c0fb0a161f0d',
+    '770b949e-b2a8-4789-baec-3bf827a76b20',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ac203c09-3cc2-46be-8af0-10768d7ba43b',
+    '1624f2be-b806-4868-baa4-294cb67eebae',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ae6eb48c-fbc2-4b4b-984c-74f144c616c9',
+    'afcd5fdd-2d43-4903-b120-cfcdfc485a2a',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '4361dd37-265f-47e9-a4f5-4876dd6b0e91',
+    'fee66f8b-de72-402c-8b92-6c6d43e4226f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ef013e08-e16f-4999-a3f9-e583541b5e67',
+    'a4c92361-99c8-4607-823e-3b824352190c',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    'c8b473b3-b905-4623-9cfc-74c9033116bd',
+    'a0744ce0-1140-465d-b38d-e088e7c48145',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '035943e0-d55d-407f-a295-6ca5589185b7',
+    '45bde9b9-fed3-4801-bdaf-f1e65b5a8424',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '15ce69c2-3630-4dcf-846d-7b486fb2f841',
+    'd65c6f46-79c3-4fbd-b75b-fc423afdce5e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2275518f-a3b1-4551-a3c4-b17b2025dcd9',
+    'ceabfdc2-ab9a-4344-99aa-8eb7ce3361cc',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '6ddbb0db-395c-4d66-87a2-062e24ec2777',
+    '819812b6-03a6-4db2-a696-ab1deb4cf941',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8ec6b463-ea58-4beb-a0d3-6af14ba8852b',
+    'dc000ed1-4dfe-49f6-95e9-4b3ae9518917',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0f1c6902-513c-46ff-bbdc-90ad53054a7e',
+    'e87260a2-0a6d-45a2-b73a-f502b76871c7',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '28fa509d-c390-428d-8985-61542bf190cb',
+    '3ebbb5ef-10af-48ec-8cab-14458b96beef',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4a21f9d5-fce5-4304-88e9-a32cc94f6b5a',
+    'affbae6f-bf7d-461a-b0a8-5bf19cdbd768',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'edb3ae1d-3b57-42c8-8e52-9d9cac8e5a75',
+    'f6d75bb6-5cb6-481c-aa0a-6d7e7f0e0f69',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c351ae98-d743-4fd1-b4a7-3772bb363f79',
+    'ea7de95d-23f5-442f-b603-5497660e6cd5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5dfcdc9e-8b85-48fd-a3ea-77dfd3e06ad6',
+    'b548fe2f-86d7-4515-8ae8-e48c1f124b6b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4ae82194-5d58-449e-8ec3-c6a67cce616d',
+    '7126caa1-054d-41ca-a605-4be292181875',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a53e9f9a-d2d1-4e6d-a0d2-3e78154e285c',
+    '33b9acb5-0a6b-422b-88e2-82f7eeaa4764',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '57b3cc00-14f5-4668-aa3e-8a8e11a4d84f',
+    '1b548ed9-169f-4f57-93b3-e2951ae01d5b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'dd8eb13f-465a-45b6-9a6a-54f4d5618c23',
+    'd01baaf3-928a-48ef-bcbd-408a1b17df6b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'abbc7216-4668-47d6-a018-8c82bf5afdbe',
+    '75c18179-647b-45ab-b269-314268820128',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8afb5e02-c805-4954-8a3a-32b6d99a8cb3',
+    '86b512df-e789-4c51-aec8-30b48e361d7d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9f11bf19-029a-4260-b7f8-ddafbebe9a97',
+    'cf27a38d-906c-4f3e-ab94-43556619a535',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ad6e0a02-ffd3-4f35-b9e6-843688b4fd1f',
+    'bb8bf692-035f-4004-91a0-85f0b3fd2fb5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '66951364-a279-41b2-b718-87e6a43ed250',
+    '8f56490e-45df-4912-9318-89a612f4ef5d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '615dc491-7d3b-4cfd-aa17-50dbaba9f7c5',
+    '79d729e3-f5c2-43cd-b41d-3feeb51e6146',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '96efac85-8144-4ba1-8880-ef38e0306a76',
+    '9c6fbc34-2daa-48a2-9e3a-92939bc54239',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c5acc152-5119-4915-aefd-145a56ccde32',
+    '99671590-7316-4bbf-9646-00f3f9eb0ed7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8076ddbb-958c-4eb2-99e2-644d1cfb018c',
+    '065fd50e-3b92-4bc7-bfe6-f96bae5ac542',
     'iso_639_language_type',
     'Constructed',
     NOW()
   ),
   (
-    'b8a677df-acb9-47d4-9d92-dec8ba3869e9',
-    '4646583e-7f20-4964-939d-45ce7888179b',
+    'dcafce08-1f83-40ee-9873-b47899325243',
+    '3bdd8463-060c-46aa-b510-de25d0d8d55d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7aad64ef-5639-4452-b1c1-8c5aa60c41ce',
-    'b6ea7725-0a88-4763-814c-a63b977b9828',
+    'd9a8591c-5ade-4f64-b460-6989a341ed2c',
+    '2a9ef2a2-8beb-4d64-96a5-be81c2b083f7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '628c398b-d9d2-4d4b-b3ef-d242d7935590',
-    'b9f49bbd-1da8-4dd5-95e8-8a40f57f0664',
+    '00be9370-05da-4689-860d-e78c5630d1ee',
+    '33cd5200-f813-4647-8722-efc00acabe6e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a6d7876b-d490-4622-badb-fa5fc2f350e2',
-    'b844981c-792e-4b24-85d3-bbf4a13c0659',
+    '708f9dc4-359a-46fb-a213-b449b34a9c1e',
+    'f7b87591-2184-4c52-996a-af374ee49d20',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4fe00b4e-7d01-45b0-acd4-a72755ab7ea7',
-    'ea56ead8-5a93-4a40-9dad-92a3f65cb4f1',
+    'fc44f3d9-fd77-461f-baad-4d542a409008',
+    'e33578bb-bc0f-484f-976c-66c6f58d9117',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cca57464-24b2-4b52-a778-3ac94c253edf',
-    '0bcabff3-c170-44ce-97ac-3da25f6378e0',
+    '95a1e931-9966-4639-adb2-d52cd7a64f59',
+    '661a7198-8fed-46fc-a817-5ec744d970a1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f82d3f82-90f9-49da-8d3b-8aa3414b8cd6',
-    '7e28e721-9446-4fcb-a15c-95586bd9a2bd',
+    '301697d5-640d-46c9-a604-f3fe582abaa4',
+    'e50e5493-d42b-48b6-b108-50d067891af5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e41dc847-a5cf-420e-872a-5d7cf8678296',
-    'e18a5d94-d86c-4b80-a8ee-cf5737d8245c',
+    'eb73763e-a4a1-430d-b836-d89fb73f0685',
+    '17c849c2-720a-4683-aabd-84724c0a4008',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a828a5b3-7630-413f-b0f2-635bdbf92e2c',
-    '29267611-a788-4766-be88-0e4abed11695',
+    '3bc6e8bf-c56c-4447-8540-146dabfe0065',
+    '24eb7e9c-18e8-4612-88a7-598ef24cef27',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a8f1148d-e224-4ab4-a7e6-940fb772614a',
-    'a5a5a07f-8d9e-4af0-afff-71d023ffc3e9',
+    '484781ee-2927-471f-9126-fc1e3b397428',
+    '0dd15177-4ada-4e5b-aa9f-2675525b19bf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '318efa2f-f48e-4232-bfe9-21ef9515c99f',
-    '1b75c88d-d5ec-462e-8a72-8eead5306b14',
+    '1dbd7f5e-4bc3-45e6-bbed-6200bc9e4b0e',
+    'af62b555-0970-4d2a-8c6e-a5a227d427e0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9725a39b-a2e5-41ec-b90c-bd4171fdf86c',
-    'cadff781-7cfc-416c-aba7-ca3f8566e2e0',
+    '548161b4-7948-4868-8c6d-b89bbfa62de0',
+    '49732a93-8c7d-4c6f-ac1a-dc115067d65c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '31351987-2460-4f6d-b483-676ad46f298f',
-    '3d730ad9-f18f-4469-b05b-8e684a8f6461',
+    '01eb3957-ec19-4084-b6f7-1e134954c74f',
+    '78b605fc-35a6-4831-981b-4c0d373aaf8d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8c9902be-68eb-4280-9778-ffa7c2d68815',
-    '41f2eb2d-6ce3-42e7-a2b4-622ab7ff2356',
+    '00619335-78e5-41e5-80ea-d81d854b4ea1',
+    'a9e7e7e2-d9de-42ca-a43a-247fa7fea946',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ab8ce453-0f1b-4601-b7df-fc3081706d0a',
-    '6b4fa140-2f4d-4e5d-9455-396273a3f9ab',
+    'bf28bbee-40fd-42af-bea6-292de20a92ab',
+    '3293daa8-792f-412b-b5bc-c88fab8945f2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8798b768-710f-4110-a10b-9add10055bb4',
-    '724a6417-9776-4090-8cbf-1f3739ddab83',
+    '4db6de23-9159-4200-914a-2f809ea4afbc',
+    '436da91f-baab-4b80-a8d0-2ed6bfa0522f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fc4f469a-dc4a-45f9-b340-143e8164b56d',
-    '745082d5-07fd-466f-a608-ac49f0dbb747',
+    'cbb4b54e-33a6-48e4-a981-fcac8a7a0f79',
+    '0a1565fd-e20a-43e8-9f58-2e133576f730',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2eaa7583-43da-4c92-8904-4e58b7e293bf',
-    'dd08a8ab-58be-4c28-8a08-5e298cbff13f',
+    'b9a5831a-4fe4-43ae-ace4-047178d12db9',
+    '46757aa2-8fad-41d6-9dc4-564ddf627238',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2024fc2a-a4c2-4ecc-ab36-c50e66eab0f3',
-    '1661a7a9-7e73-4349-a5ba-2b83cb4e75b5',
+    'f618b7d0-f5ca-4a4d-a73a-83f341f185ae',
+    'a14404b0-4952-4d99-bbe3-b91e7d366bb5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fc18b04e-20b1-45fd-b9c7-32f02f7f2930',
-    'ae0d0fd8-bf3f-49f2-8d0b-0b0c612b48fc',
+    '892d11f7-994a-4535-94aa-f39610646235',
+    'b4a413f8-5a34-40af-acae-3bac66f8f8a2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2b516105-c774-40d7-93cb-e69f4e803302',
-    '855c98eb-1b12-4ba3-be30-dbfb4f10562f',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '24f9999e-75fc-45d0-8972-4836aa631870',
-    '85e0afa9-1fed-4afe-950b-b542f9e25304',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5126f998-2e74-440f-b5f5-3b81a80eeb16',
-    '8a81a5c7-40a6-4a58-9598-fa97396738ce',
+    'e266bfb1-ca08-4376-937c-c8df83d644a7',
+    '4fde941b-39a1-4776-9bb9-f927a3a2cbed',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '612887ee-6d3f-41c5-b7ef-6530edddad74',
-    '395357d8-2cd5-4992-adcf-d59d96c69177',
+    '6f6036c0-a34f-4c0f-abc3-73e32bc61628',
+    'ea06e771-3843-4b71-a1d2-5ecd869e8a6f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '035dcb06-39c5-4ed4-a2ba-2cee649ba0ee',
-    'd7a55c75-b57b-48ea-ba49-dd932e7ca30b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd99f6665-e940-4ee0-b8db-6b9152790d78',
-    '0578c836-1e2b-47f3-8c05-d8d9156c2b59',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6ef0521a-4f2a-4501-88a9-accb914e4d27',
-    '378da007-5a5d-4d9e-93cd-edd01efd122c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '935cf56a-42e4-496b-8e58-c4b84da67685',
-    '81e56741-80b3-4b7b-bd0f-c87e4e04214d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f8d3634f-b8dc-4e7a-985a-852d24b16c82',
-    '31456d29-ee95-413f-a889-c7c6700b761b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6d5c7de5-b437-4ecc-a59b-71b016996cf7',
-    '95375c35-fa10-46db-bbf2-6be97bb202f4',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '10621c90-4bfe-4407-ad78-729300288261',
-    'eea851b8-9320-4d40-8c78-b724655e6f53',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0923af45-b62b-45c6-b1df-43e5cc13b2d9',
-    'c3653e9b-3ce8-4f3c-bae8-fddd326bb540',
+    '0e11ec2c-12a0-4bb8-bebc-f658da71ebf0',
+    '0d86e27c-7abd-4cc8-89cb-c53208cb555a',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '1a24bb5a-f2c0-4131-923a-53f96a2c2d72',
-    '1128fdda-f6bf-4552-9764-79624f2b18ee',
+    'fa1c5c5e-4518-4d6b-8698-2052c69c697d',
+    '13d66968-ae3f-4aee-ba0d-8d45ebce9a3c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '14f40bc3-4ffd-487b-a0a2-03b81a372a89',
-    '54c91b9d-63f6-4dbe-b8d6-6f0aa5e6b43b',
+    '4afd2939-e7a6-4475-94d8-13b75096b7d3',
+    'fbd2a900-105f-492a-b5be-21910038f085',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '21710ec0-eb0e-4b4c-8674-d069bf1d1a2b',
-    '7e2046ff-1af3-4440-bb7b-c2e5cef121a1',
+    '6b03a785-92da-4ef6-9607-c9a84457f4cb',
+    '05c373a4-b5d8-46e2-bd34-34d141c55580',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '59f005d0-35c9-4d24-8587-79cd3da8e059',
-    '33251b60-7571-4da8-b314-1892deeb9aff',
+    '9f373f3a-5843-4e8f-8b7c-253d355344c8',
+    'e1a6e426-e47e-42b2-a1f3-78e1f6c937d5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4c0a9aac-c88e-4edf-b8b1-6dd9dfae9a5e',
-    '32e8ea4a-3533-400c-b743-d78d752e4f3b',
+    'eb057315-ff44-425d-a619-93b0b8ecc24c',
+    'e916a2e0-42c3-4eaa-9dda-8c983a50a065',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ff573cba-f5a2-403c-85a7-fc93114ae826',
-    '8495135f-bc20-4b6f-b2e9-378c585038f1',
+    '56067379-f136-4544-8f0b-06460f7a1f87',
+    '70e03e03-b0cd-4c7d-b156-c28f5bfce64d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1d4e61aa-e562-4770-b4a4-3f281a6a6630',
-    '2df4aace-664e-4a87-b52a-c0a3643e7695',
+    'f017aaff-74a5-4d04-b363-ab32fa6be0ec',
+    'f20ce837-1454-4a24-9d37-01a93f051bb9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '45916421-7b51-45d1-98e0-8f88a023126d',
+    'ced131e7-bdf4-407d-af0f-9133fcac21e6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a0ddddd9-5731-4ab2-9bd9-fddce2cc44ba',
+    '183411f7-75c9-4163-987e-6224f8163c33',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '25ff44e0-2139-4933-bd1e-2828240a1963',
-    '6eb8e80d-f345-43a8-a34f-eab0bf6d8fe7',
+    'de77f52c-5c9e-47c5-8bce-a9de7295a88d',
+    'be15c7b1-146a-4c89-baa1-c18668c7042d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e9aece8f-2cbb-4d61-a088-58a9c18caaee',
-    'f17e8f52-0ea1-42a0-aa5f-01941df5f044',
+    '765a6196-247d-4912-9ffc-66656a90fb68',
+    'e3e6f273-afc1-454d-b02d-e8431c633d89',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1719f379-2154-478f-8be5-8730dba3568a',
-    'a7d2ab20-f30d-4f92-b012-b143774bf599',
+    'ec46e55c-645d-462e-8e90-ce0dce752e8d',
+    'bc0e6a94-7447-4d06-a6e5-cafb178a93ab',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '347984ef-8e3b-49dc-913c-c71c242c1af6',
-    '5703a239-41aa-401a-a07b-5f0acc2fe32d',
+    'beb39006-6fb4-479c-88ba-a317361c22ec',
+    '203cb28e-a902-4784-a08a-331a02308bdc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '387adec7-0994-4949-8458-2fbec3509bad',
-    '6f716900-fc38-4085-9b01-fab04e64c260',
+    'f5abde8a-191a-4d9e-ba11-3c15bb576eaf',
+    '40385c38-3e0a-47cd-b609-bbc4a9ce3d4b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7dd79256-b7c5-4ea0-bf99-4a2d21b8f2b4',
-    '6e60c630-c7e5-4bde-9c11-f16ee6301a29',
+    'a3f37777-0e9b-4773-82c6-415dba618205',
+    '4d5e94de-9c16-4f93-99cf-99bf559741a6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '240066e6-812d-4205-818d-b4c269fb5715',
-    'b0368811-5b78-4b90-b1ca-9780e97082d9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fdc54ed4-88dd-4fb8-a884-94d8e65c693f',
-    '6060bc48-0faf-403d-a045-fb5701d80a9a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'aa940b6a-c983-447a-a79e-8c32bbebc587',
-    'b14387ce-0bca-471d-ade7-2131ee9bb8a1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '811de80a-42b5-4019-a15e-ca506288d67c',
-    '40d5372b-950a-48f2-96c5-09dfa2b24891',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9f93eff4-de06-4ea8-a40a-55740296a34f',
-    'ed29bbd0-d66a-4983-9baf-bd7ee874895c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9b50c1d5-2efa-488a-ad37-fcb5595dc57e',
-    'ac762464-ac60-4a50-8412-7f01b6479dd6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '33f7b8ba-09b0-416f-8fe8-00951ed5d911',
-    'a03d1c37-cafe-4f49-872c-550d8036534e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8efc1f63-64f6-491c-8184-7adfc2015d7f',
-    '3b2f45f1-4274-4cb8-acd5-dcdaef1e07a4',
+    'e60bcebe-927f-4a53-adad-aedb5a8cf890',
+    'beed88e9-d5dc-44c2-900f-0b6b1828928a',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'f7c64a79-5202-410d-8689-3681c00ec25e',
-    'f8076d6e-64e5-4367-ac7a-a5b6ecd964f3',
+    '9652aff5-85d8-4bc5-b11c-502d3770ca39',
+    '13974924-0c15-45af-82b3-897c284276d3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cb6ef426-e62b-480b-a2df-689f2483d75b',
-    'c148d6a8-0dc2-4fd3-8b61-0edc5b9d1ef7',
+    'ff7ca7e8-4d14-4a77-8e90-2df231865258',
+    'baab0d8c-7ecb-4068-97d8-33bbecd6b16f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a87950ed-4abb-4480-9495-c0c137621d62',
-    'da3cca73-042c-4002-a453-f5ac54cb3dd7',
+    '1e1811b4-ebd9-4c3b-bdb4-46bc1473b95c',
+    'b2b45c99-f72e-4099-a864-cd984d6cb8db',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a53d4abf-c005-47b8-a5ae-f1a9df6d9172',
-    '9e452290-731d-4d33-b553-5b8d56f8ac23',
+    '87bca0fd-8d52-4945-8c1f-39b9260c7e13',
+    '09fb46f6-ad82-4b31-b544-16a5c2f4fe71',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'acc2d894-3670-4467-a80c-adfd1898d9ca',
-    'e98b55b3-c20b-42c5-b1f6-152977606bc8',
+    '804c61c9-3e38-4ee4-9d61-2dd68fb1e6ec',
+    '2aade5c0-409f-4a2e-ac91-c9e624afb2db',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ad91a939-1115-4fcc-a648-eb2dc2091e94',
-    'cef7228b-3c61-44e4-bb75-4fd8808a3212',
+    '2b760b53-dfca-4820-a9f8-fca3c6d69817',
+    'c681c26a-0fae-4c47-9e75-301d03ffe113',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '864714bc-98f3-44c1-a90c-644915552e7b',
-    '96d9562c-ff80-4177-badb-92c5116180b8',
+    '939d403e-1b27-49a6-aa48-f38164199da5',
+    '1957af07-4361-4eeb-a08e-f7cc63462e38',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4e4dfc91-964e-487f-b71c-26e884096497',
-    '0ebdce3f-caba-4cc5-bc07-54cea0ed2ac1',
+    'bcdca056-b5a6-4bd2-8f15-f4bf5efb41eb',
+    '151f6fc8-3d33-4d97-8a7e-91160aeb04ab',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c3ecf1ea-2f3e-45e8-8ed9-9dfcc2ae5867',
-    'dee55c92-3201-4204-9645-244e18c62709',
+    'dae2d55a-6c01-48a8-bc7a-f62ff5b2fec7',
+    'de1e81c1-cae9-4e3a-b702-81f9ff44fa6b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2231f98a-6ec8-4b0a-af9b-c1c860e69927',
-    'd4621029-9b27-4155-bb71-29abe6c22fdb',
+    'fed7c91d-c3f9-4174-8b1b-ee5c117da3ec',
+    '68a94ca0-f749-4afb-bc85-180a61433d61',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '31096161-0ae0-41db-bdff-85e3a7528cad',
-    '77cb72c3-6172-40d7-80e5-85329d23ae00',
+    '7b1c26ff-4a1a-4c67-bb35-3f68c4b91359',
+    'b7104c81-44db-4365-8780-50e50a7f33ca',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ab40dbc5-3f84-41a7-9382-26fef818704b',
-    '5d4b3a4f-ba41-4acb-b520-5031ef59d274',
+    '89cf3dab-0651-447b-88ce-bdbbb3a7040c',
+    '14d908fa-1470-406f-8a74-2d1378b3bf01',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '05370860-0cde-47e3-8870-1deb16e6d0b7',
-    'fe8c9888-2a09-4d1e-b1ba-7a4830107b56',
+    'f063955a-8909-4203-aa2b-d01325bee747',
+    '5a018e82-4ea4-4458-899c-eac6328ac819',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b11e76bc-a542-4337-9c00-5c0bedd82d84',
-    '88991e11-878d-467e-b77c-55f76704a174',
+    'f9172dfb-926e-44b5-8f56-b1d13715539e',
+    'fa9882c4-08de-4db6-825f-f357b3c7035d',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '78975328-55de-4aa9-9384-054bc91e76ba',
+    'a0e897ca-3967-470f-829d-aec51ed6a0f5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '094d33c5-9a74-48c9-a667-e0f23abd1a1c',
-    '9f192f63-526d-4f79-b332-c6e562cecd13',
+    '18ece264-e587-427a-94ab-e27918c8ff97',
+    '18ddef47-f992-493d-b0d8-605c08ff623b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'be70b98d-22f0-43b6-a7e6-0d797580b329',
-    '8d6a9af5-e405-4715-b765-6e87fae9807c',
+    '2d6a68fb-a8d4-4fcd-b305-04c556f800d7',
+    'e6885a36-cefb-4e56-811f-f5add6722ece',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ef2cc1a9-7c15-4136-bc9c-51223201f0a4',
-    'bd9cc27e-cee4-4915-9029-9e8bb4efb3de',
+    '82471cf6-53a8-4322-b171-8ff06fa78cd5',
+    '96e903ef-b440-4b53-862a-29ca49adcbc5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ed51e2eb-7628-473d-9bed-c40c0d49bdb8',
-    '1924e35c-28e9-407c-99f2-153b4ff2b1ca',
+    '4d0459f7-cfc3-4ba1-be3b-3c846d60e33f',
+    '8a4d7c14-4bea-48ae-92f8-13770049fc0a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4f8934ce-ede7-47eb-8db3-369bf0fbfc02',
+    'a61efc35-c88b-47a5-ab4d-b81ffd8ddbea',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '661c1926-53bf-4c66-bee3-b7319af9c83e',
+    'adf47ada-f6ab-45c5-9701-6fc375448860',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'aa6c22f0-6aae-48b3-ba13-015939719004',
+    'f0e2c106-fe2b-476b-9110-56439af9e921',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '310065c8-946d-4e07-93cb-ef5dfba14e0b',
+    '4f0685d8-8a5a-41a2-b832-d46962ccbf9c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3dba8cda-78a7-4e65-ae0f-a49424e91b11',
+    '4e2ee225-ebf4-45b0-b281-2bf2c6384af0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ed44501d-353f-4217-b64c-0b5ce6d9f9d0',
+    '569d0ed9-10d8-4334-80eb-2f574ecb0689',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '596ff162-0496-4e3d-929d-a1011f4d9d45',
+    'b76c503b-fa91-46d4-bc33-c3ff99270460',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bca4d773-bc3c-4ee8-b240-3973ac93b951',
+    'fde63279-de60-451d-9db3-80c52b6a4eb3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1455f614-8030-4cdc-a4a5-714db222a9a9',
+    'a3e64fbf-92fe-428e-b128-f04f692df257',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '550c35cf-3872-40be-bc74-20ca5e0cabaf',
+    '21ee4ab4-320d-4877-a574-87e520c11570',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd46e3c0c-e75f-4c47-837a-ec1d69833ee6',
+    '841adc23-b180-46cb-96cb-2b9c5e17e5dd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3716a2b6-5ab2-4f02-9152-ee12fb685eb3',
+    'd1320579-15b1-4038-9108-4b2a5212092a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5a9afe9a-b6b6-4884-a6dc-16dd570bf1f7',
+    'c396e029-cf19-4407-943a-045d5d809b99',
     'iso_639_language_type',
     'Constructed',
     NOW()
   ),
   (
-    '65838cc0-2033-43fb-bbc2-402f2acdddab',
-    '9c4f4f5e-eb52-4b8f-8bbe-0aa8d2720cf0',
+    '1f735973-999e-4e6d-a216-5fb86715cf94',
+    'a617d3b0-15a7-43cd-bf53-d247657559e8',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '399d9fd2-f2e7-4339-a9e5-0bbdf6d85b1e',
-    'f5094ba2-3685-44c1-9cdc-09a994f4345d',
+    'f2fa3f3b-260b-4ccb-9fbd-8a719fb84a3e',
+    '5e10ccbd-419c-48a5-8fde-57439ac0b3d6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e86f1445-5ab7-4c71-bd5f-841de0d521b4',
-    'a11d6c25-cfc7-42d5-9577-eea446c1158e',
+    'db2511a7-223f-486b-874d-d68e8e7d82dd',
+    '1dc68cd6-08b1-4143-b131-b5263f93366a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '22ac0dbf-1e11-48ab-a4bb-dd9d5217c461',
-    'e723e504-67d6-4947-a0d6-0f0fe6dde64c',
+    '4845d7cd-e549-4034-8b9e-f0dd360fa592',
+    '78fffb94-fd68-4bd5-83e3-1aec32db9cc2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ad5cae5d-42d2-43bc-8ddb-b860991be733',
-    '93085fa2-89e9-46a9-b5f4-b15af0fa0837',
+    'c3f76f60-2eb1-4259-8f37-db2819af786e',
+    'e914e491-db58-465b-942c-dd492f8e3d74',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dd981da5-275f-43f6-87d8-f0e9e33de78e',
-    'f4368a82-3a6b-4c32-a0c8-63824b72f67e',
+    'd75c86eb-c17d-4662-9299-eeef2e4e7422',
+    '5a1e2b7d-43b3-4a07-a775-6dc3fe474d56',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fba55386-c6a3-424f-b73a-154cf488f00e',
-    '897b9948-17c1-4ea4-b889-0221265cd874',
+    'd268b6bf-e5ae-44d6-92c5-816481584772',
+    'b20c9910-a30d-4ec8-945b-74e1e9ecaa30',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '133f9d33-a7d2-4ddf-9dae-4230ab40e7b6',
-    'ef50d854-7760-4584-98d0-0f17fa1f50f2',
+    'f490b434-c026-4445-9a2f-e5834b626605',
+    '9b6e2b47-20e2-4fee-8bc8-3ea8c61304c1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b90914da-3da5-4ad2-bf4d-1bdb62a0e01d',
-    '58118952-e588-45ca-9fca-0f570265c0af',
+    '09dd3d9a-7521-44e5-8332-969ddefac143',
+    '82f8bc02-f24a-48cf-ab49-df1983d0d59a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a2f9be05-381e-4b5f-b027-394b5ea255eb',
-    '54569b35-f98b-4da3-8f6d-5d090d34a688',
+    'cf943400-7e6e-4026-bbf4-e370f474b2a5',
+    '17ab657e-ffa6-4b4f-94a0-ddec1f834a6c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9823f4ba-3e92-41bf-a436-a45088849f59',
-    'eec64b7a-eeba-4883-87fa-0cbbf77bc708',
+    '7f786701-9edd-4608-9290-49e372bd98bc',
+    'c0026a19-026e-4952-8568-28ec8f19fe79',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a9ec2373-aff5-4b86-81bf-e0dfc3ca6303',
-    '9f9fbba5-af1a-49bd-9458-59c1c6e5f272',
+    'd0a5fc21-deca-4301-b721-82d21731b799',
+    'e178ac69-5e27-4c71-8ddb-9d649ba7ca7a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd23f604c-a643-4cde-8da4-92f2540ecd59',
-    'ae426f2b-42cf-4dd5-8db3-32de97a1ce1d',
+    'd5b84f8a-7cf2-4eba-88d8-757fac890fad',
+    '1aea15f1-6ae9-4b6f-85e3-bdeb827f5d72',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '403826ce-9cb5-4c23-ac82-bdc7cc0a19eb',
-    '4dfa62c4-e3cb-4f48-bb5c-693f30285e32',
+    '0d24d9c2-9da2-4755-84cc-b69bffd071ad',
+    '4e14892f-d993-451f-9783-321a2860f79b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '023e6589-9c12-425f-81bb-fae0806ffd6e',
-    '73aced6f-7ef8-40f9-b199-c4d9e0a716b3',
+    '2080fe14-cc65-45c0-a7b8-30e936766161',
+    '66b3b2f4-45d9-4f71-9b99-f662b7b7c943',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e233549d-f259-4ef5-8466-655f74fd1c1e',
-    '2ec1c719-6520-4636-8a7a-03def28d3946',
+    '4daab81a-ff80-49df-9d7b-410f65269590',
+    '086965ae-c065-4827-8a3c-c4347057b99e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4b1c993d-ea51-4b04-9971-88b44e5e1e64',
-    'f94d8c46-5f39-4a89-9814-1106c62a7e82',
+    '14553589-7735-48da-92d0-4a828230509f',
+    'a1273dc7-aa3a-4699-b278-fb8a9b089bfa',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e22909b9-b131-4753-b0a5-2a6f2e095d53',
-    'acf474c8-4b78-4280-9bfd-e1ef6ee45d44',
+    '15a0c61c-7fa8-4cb9-8c30-edc462d6e176',
+    '7b49d924-87b8-490e-88cd-c7db60a0456a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '752fd928-9e77-42d0-a8d6-439be4bde53a',
-    'd31a35e4-4e2c-49e8-af54-ce4cc3dc3e9d',
+    '83766126-25aa-4302-a0ad-77dd81001df2',
+    '21432ea7-8e30-4985-a5bc-20cab72a70d6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '13b3602d-cd02-46e3-9fde-f9042c1b7af4',
-    '275a7e53-d0b4-4036-b08a-5afad9b68802',
+    '02ddf174-1a9a-41f2-a330-12f42ff4d38b',
+    '18d70453-0eab-44ed-b793-75002472a031',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ffdd2ee9-d203-4911-8b07-480c92a470e3',
-    'f81d3975-d1b2-4d3e-ba8a-c0dfad131cfb',
+    'f856d586-328c-46b4-ab4c-798e0e06c3bc',
+    '0dd63650-1a7a-4844-826c-d4eb92af590f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '513c6f2c-ad73-4088-8121-85ae4f15b254',
-    '4e97c9ae-ed5d-4c1c-bdb1-718150625abf',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '7ea3e0e2-e74b-40f8-a7c1-c59702e84946',
-    'c4d2dabe-61b0-4214-91c9-da13fa229664',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '42f6508f-2808-44f9-964c-71b06ffef25a',
-    'b5e785a2-2d63-4719-95b2-cfe53f9f0899',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '652b62ec-e582-469e-80e7-0f21f3e45360',
-    '2ee67f30-e268-444c-bb14-8a29ca64b686',
+    '95b8ce83-3938-45d9-9bee-06a8edf74596',
+    '4fb6ac38-c666-43ce-b717-2cca559f9b61',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '3d8ad0cd-4b13-419a-a51a-a9e34d0a3a98',
-    '61f1d720-e473-44ae-aedb-ccf1b1e1e1c9',
+    '5a245b29-9ce7-427e-bbcf-97d4738ac19c',
+    'f505ff66-b69d-4c9f-8d66-a975c7e79ad9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '84db1bb1-7682-47c9-a131-f96b3bd4de0b',
-    'ae44bb76-1d60-49f6-b1b5-1bc553eb402e',
+    '86fd23e3-cda8-4bd8-84f0-ac6ea0113bb3',
+    '99fa1f15-215a-4c14-83d5-044e7154e50c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8fd0e9a3-1f09-423e-895e-64c34a8252f1',
-    'c3f5fb94-9807-4e45-ae89-d88fa9c9de8c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5194ccfc-6856-4ee7-a0da-232b86250075',
-    '9de56ab7-691c-4db9-8a95-d15805878ef2',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'cc189361-6796-40b8-977d-a0d981130600',
-    '143ffd9f-1902-442e-b6bc-0a187fac6889',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b8bf52bc-e179-4832-8ee7-e05b4385f236',
-    'd1e07b32-66d9-4103-b4b8-0b807a344a3f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ed57ace7-b1bd-4055-8757-f3769faae897',
-    '08c511d7-70fc-41a2-8f29-f0233da59864',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '91d6de3e-d215-44e5-8fc7-e03e4da04449',
-    'fd456750-8652-4d74-93a4-b284652f5097',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1eedd395-57e4-499f-8325-698887818ffe',
-    '3a1c8053-d5a4-4569-9a9e-774ce41fa003',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '671dae64-dc7b-424f-8bd2-fe4c64107aa5',
-    'fe3258f1-2d1b-4341-bafc-ff0c27b3da9d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '529b553b-43bc-462c-b61c-f91bdd6515c4',
-    'f334317c-8a93-4e70-a459-507a8b95ca21',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '03c195e9-d34e-4e2b-a851-ac0ce60e8a5c',
-    '813af76d-2640-4e65-93b5-8a31b9a3db1c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '031d6f91-b9e1-4579-8eb1-ee1ef6901988',
-    'd4a4831c-a36b-426b-894d-54bd213873eb',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '879b9e5a-e2b3-4fcb-bc2c-4461b2ebbe02',
-    'cb28688c-e9d0-4460-9e6e-52335c43a383',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5c7ed940-14bc-463a-95de-8d90f1f24ccd',
-    'e3c7868d-b24b-485c-9bc9-7d956a4a04be',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6fa8e977-37dd-4a30-a43c-84dbedf36d05',
-    '756a9069-52bc-4abc-b501-29c76db9b09c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7e6b1b49-54a5-4b20-accd-5da61491c5bb',
-    'bc90195c-123c-4942-b878-c88727489fec',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'faed2723-b3f8-40fa-a85f-e6128cb98cef',
-    '4454f4e4-f266-4632-9513-a137a012ce47',
+    '766fd163-2de4-4cd9-8a3e-76b6df3a3e8d',
+    '181ea1cc-8c24-43ad-99c9-018a90b9eaaf',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '0e3ff088-3309-4b30-b18c-d910fb1f3b7d',
-    '336825eb-1dd7-4198-837e-333ffe6bee4a',
+    '33653de6-49f2-411a-8f39-b8234cc12a87',
+    '391bd49a-1eb8-4c05-aa38-5ab7307a3a8b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fe921bd2-9f8c-4e9c-968f-3f4ef790fd3b',
-    '59a53c51-19a2-4cf0-adf0-7ff7d70a3579',
+    '14ffbb01-652d-4445-8c8e-bc67ab444ad3',
+    '02665180-53c0-4d30-bf91-741041d220f9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4d705e55-9852-41b3-afd8-b117f4826396',
-    '687f38f3-a531-448b-85ac-26e578148be1',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    'f6852661-511e-45e1-9046-80f29742a553',
-    'd36dea11-0ffe-4b91-bc5a-eb6dc743aa8d',
+    '2d8be5b4-fc94-474c-8942-b3ebfe8415f0',
+    '81db0a3c-92bc-4db2-b3e9-263bd304ce13',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bad2e406-3f33-4fcd-9bba-6c045cb39332',
-    '20bf8107-15e1-4098-8e11-87f236b1b63b',
+    'be4af68f-6352-42ea-9b37-6ba844c2ea65',
+    'c8602b37-269c-4037-817d-82e5293b31e5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1e95d849-a45a-429f-8f6c-e6f5875b6a56',
-    '2eacf486-01f3-4a37-a67a-90cc98aece6a',
+    '244db34e-5c0f-4ad0-a323-853409119d2d',
+    'ac772e8f-af38-482d-8c28-880c67fdfb72',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cc124ffe-b7a9-463b-9b62-9dc91c89bbb6',
-    'adabb6a2-7151-47a1-a789-527818fd04cd',
+    '55e4daf2-d2cd-4ee8-ab88-40e44d44f3f6',
+    '07b45cd5-74c4-4fda-be6c-4764d32ea27c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '324c02e0-8e01-4fda-b546-7a0ddc816596',
-    'bd970c50-3947-4d3b-aaec-895563bf5e41',
+    'ef801c00-61b2-4724-8b5a-88a1167453a0',
+    'c22e435e-43b9-47eb-97da-a4977507bdef',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8bfe5ac5-34f8-4d9d-a419-f87a09419d2e',
-    '87d2275b-c9d5-4111-9d28-9a79eabdf977',
+    '1bb43f6b-d36a-42ce-bca4-285580be6c28',
+    '1833f5e4-d6a7-4b47-b6c9-4e5cc23c42d4',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f9a8f57f-54ea-44ff-88ae-0271c97ebea7',
-    'afadd3b0-8a6d-4c8c-8858-5d5c4a07e650',
+    '439f131e-5681-4908-afda-ccbda1da4ffc',
+    '0b3dec29-faf3-4edf-ab20-15f808034bd7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '80827f8b-5aae-4079-a068-c5ba08529952',
-    '2e7245f7-fc9e-44c1-8242-e4aa6a720fad',
+    'ee9b3f3d-1375-4b7f-ac0e-4e1be1d0e642',
+    'b5e91861-e50a-4e02-8d18-3317cc5ba9bf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '002d23b4-fcc0-4bd2-9a81-b7b2d8587d72',
-    'f65c0305-7610-4cd5-b660-9ab550e5a4fa',
+    'efa5e473-8dc8-4737-a6a8-be58f8ff5bda',
+    '4b91b4d9-7920-44a7-a4f1-43c12b19055a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bde42782-7f8f-42ec-9a1e-5586b1ec2a53',
-    'ab42bcc7-2806-4f9f-9140-9d077e55ce1d',
+    'c9e32211-d6a5-4337-b062-a082ea7a4e60',
+    '43cbc11b-3de4-440e-bc51-29ee58910e26',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '043d2b6a-fdb8-4e1b-b135-ba45e7b382b5',
-    'c984ef5e-1bc1-48d8-a648-02581e110be6',
+    '3a2db3b5-8647-432d-8abe-0fe656c96723',
+    '85ef7ed9-daf1-411e-aeba-bb67cd4863fc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '45eea517-0701-4cad-b94a-231b2f659d36',
-    'b735fbbf-53bc-4e88-8220-4161dfb12ed1',
+    'cdda4c2e-2bb1-4f28-8bf4-03a74aa4fffb',
+    'fb4d1397-67e0-4793-9f23-c310e4c582ad',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cd752ffc-2e1d-4680-9e66-d09884da4a6b',
-    '554f8d58-ce6d-49a4-b939-1dd73ec9f482',
+    '6c5b9d3f-ee81-480f-a06e-c807e1d60c11',
+    '3b291b17-b62e-4eb8-9199-07542b0c2fb7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3d80abb7-bd1b-4fd4-88a4-53b87945a9c5',
-    'a9273a0a-fb95-4261-9fe7-30b7f2f662e3',
+    '63882e91-0d59-4ba9-b345-e90bf81712c2',
+    '0ed87aed-e7b1-47fe-8513-4aa7f0e8e1a9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b247ddf7-baf9-4b76-9aa6-d3c70f50cd81',
-    '4c375d06-191e-4857-88f8-bd5f19a45e17',
+    'ceede4e1-6bb4-4b08-b775-026f028f7922',
+    '3684efe0-56dc-4f44-9759-60e670491d8b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '63494ff0-144d-4154-b62b-1dbeeb0ecb73',
-    '118e3734-c72c-4980-be02-71f81f8bc9fe',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bdbcafe0-655e-4fed-bf2f-da42befbc981',
-    '51a772a0-afe4-4a0b-b7ec-9c9892a781b1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f41039d0-5e3e-4c0b-ab63-617d79e18780',
-    'c23994d0-354b-4cd8-84aa-24d300067e09',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fded160a-1ee2-4e9d-8292-859b6b3a5753',
-    'a60a037a-87d6-4ed6-9d36-0611cc4aee69',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '060c0274-d96e-487c-b5bf-89526798138f',
-    'bcaeb936-1e9a-4f8b-8a01-5c5467749558',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4e0750fc-43af-449d-ac80-765b83b1eada',
-    '5c17d3c3-8711-4ee4-8ee7-b4aa95fda6dd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '1820413a-9cc7-4ebf-bea1-8d5cd5ab137d',
-    '18ae88ec-a6f2-4a48-a0c9-c226ffe0f770',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'da7946f3-1db1-44d9-b8cd-b0249be9b999',
-    '825945de-1024-447e-869a-0a5d2af20b4c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '937c4e53-a626-4465-8b03-8a2196049066',
-    'fe12f78d-64d5-4e2b-85fd-193bc75100f4',
+    'de73a567-754e-4f5e-bf1a-fb51ffd32ea2',
+    '1c985aab-e046-4d23-b58a-4dd77d65d5d9',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'a5d02376-2501-4f48-99f9-8c17df422984',
-    '32210f36-f203-4749-93e1-0da58f89d738',
+    'aed8ad2b-273f-4051-8259-401721c0f245',
+    '4cdf28b9-5739-4eff-919b-1f7c1b46bce5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9440f99b-6e25-4d6d-8c6a-d6fc1f6b9b6d',
+    '70ffdcb6-677b-497c-820c-f5c951d9dff3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c39668ff-73a0-4a71-a626-8c5df9f27517',
+    '9bc3d29f-d393-471e-bba4-31b184688c91',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '64a6ff6e-5d49-4a1b-ad23-0a53070bd209',
-    '90f6830f-d56c-4af6-bba3-aa628a034697',
+    'cb61ba90-7ecd-4c33-ad8b-c051a5c924bb',
+    'f6cb9d4b-2eb2-44ce-97bb-7c59237869f1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0d5e7956-7f8c-454d-9bda-9940f1f85981',
-    '1e933fef-7a51-449c-8cbf-b7049455a602',
+    '5dec18c9-cca1-497a-87bc-299b44a2c73d',
+    '3e3a1a9f-5ff4-4020-89cf-bd44b45b0086',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '464f17f1-1481-42a6-84a1-73d234d67b2c',
-    '23c7d429-3c8d-4fd0-81e8-92d196cff5e6',
+    '372a8063-9286-4e91-aa87-5e08dcdcc040',
+    '238a124e-cd24-4f63-9e58-34832f20b006',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e9a67402-b75f-4ce5-9159-3c8fb71bb75d',
-    '4d04d8f7-852e-4a68-8e59-57bebd6946a8',
+    'd67a852a-ac89-43ad-9adf-f9885ab68359',
+    '457b726d-8a89-44fe-8b72-5fbeead2487f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2a2b36d8-8513-4f68-97ae-ab92cc86db18',
-    '48f756f3-44dc-4460-8109-4e6a9c8e5243',
+    '76e5f548-88e6-4929-a1f5-11b66442546e',
+    'c8b65eb3-61f2-4f3d-a8af-bbdaa9ec7410',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '16d82fff-0903-4693-b1fc-bd2bc2cb2bf8',
-    'a573c31d-43da-4cc2-a984-6d4e7f7e9e5f',
+    '432f222b-f51d-4213-940e-522f83152ebc',
+    '925f69a8-976c-41c7-ad3b-8e349b6ff87d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2e4f9d96-bed3-46b2-b12b-12122f47b5be',
-    'a4792efa-fe5f-4143-9214-c1087ecf30e3',
+    'c3e822e4-5864-46a2-b43f-28a36ed114a4',
+    '2be36c55-7d1a-4a6d-bf73-b42b1ea98ab0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ed5f74d8-2967-4f08-a5b7-1a7cbdc5a92e',
-    '27201715-0b90-44dc-846b-79ba0723bfec',
+    '00b95dad-d805-4039-94da-e49b8066574c',
+    'c07cea31-7f62-43d1-b67b-7b7ccb3d16f8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2a35f0d2-b394-47dc-8c5b-8208dfc2eacd',
-    '510d49b5-ac0b-4ea9-92d3-6cb5af967262',
+    '944a214f-ff55-4504-b89b-628dfdb12ef2',
+    '8ad7fe9a-bdac-4d15-9a39-71e104f5ca0c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5c93b655-a90c-4d21-882b-224adc060b2a',
-    '2617dcb0-d29f-46a2-80d7-7df28abe2974',
+    'c5f48648-36f7-485f-8701-3a7168ba7733',
+    '7572f63f-1429-4a9d-8fb3-9737b1ca4452',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a2974bd8-4cc4-4f90-934b-0e12cad1f42d',
-    '03c7a477-6b5a-4ffa-bc84-b5b3fbb2bd4c',
+    'c2fefa03-1a90-45f0-a18e-40875679f82e',
+    'c7c95dde-60cf-41fb-aa81-9b7799090024',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f6061d68-24d6-4eb4-8bec-3e317a8f0bd0',
-    '5689906e-5ccb-4046-a05b-c7bd8f2924d8',
+    '1c9dfc16-11e2-4422-be2d-11f38bbbd43c',
+    'b74bec66-73b6-4e25-ac41-27ec389a4932',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '756d7707-456f-4bb7-9a23-8b998e5b85a3',
-    '723f1f35-dbb1-4900-8caf-fae0a5052e99',
+    '7aca8a9e-c834-4f50-823d-98c193bf59ea',
+    '4d8e3f10-7c11-4740-8c64-943f4e021dc5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c5493ca9-aeb4-4425-8af6-fc800d7c1420',
-    '1a61ab9e-d7a0-423b-8f0a-c8ba272ea14e',
+    'd2750472-cec4-4bfb-9dd7-350061800724',
+    'd266848c-ea8d-44e2-a81e-ee21e576ad26',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ff6655e7-0c72-4644-ba17-fe67bdd39038',
-    '3aeb27e2-4bb7-406e-8e38-cd411ad69f46',
+    '48dcbbd5-63b2-4184-ac37-94c875f96c1f',
+    'da61f258-38f4-47a4-8ec9-d2d6ad5f9856',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a6fd1740-4d5a-452c-a3c0-b9ef31b1e971',
-    'f295a366-3265-4167-abb6-d76744d4493a',
+    '3082ab28-25e0-4cef-88ea-0476c69172fb',
+    'e9cf22ea-ac8c-481a-a84f-293c5751b475',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '238184d5-0ff4-44ff-8f4d-7ce4fbddf565',
-    '3256a4c7-f0f2-4098-8c91-edd3960f995c',
+    'f27cdb25-2fd2-452e-a384-340c50da547b',
+    '614929f3-7b3e-45d0-bd72-4889ed7b5be0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cff57f93-710a-4303-b0a3-7e8e0aa54f73',
-    'c3bde282-14c6-4f90-91f6-709eb240bd01',
+    '381d649d-338b-4172-b304-3cf7d563b3df',
+    '524fce6c-d9c2-4f8c-a07b-05b498606c2f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7e45082e-56c5-40d9-ae53-6e904ba41be8',
-    'eeb9a694-8de1-4f85-b4ce-c9b74c16266d',
+    '6c10590b-b72e-4c3e-8dca-fcdaa4f922e6',
+    '77cecc7c-5bba-4e6a-9ece-51ad94b86abb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4cbe38f4-836b-4ce3-9e2a-2382498a016d',
-    '67bf022b-e63e-4d3a-86e1-3396f9044818',
+    '990e1778-11e7-47d2-abfb-ef6b1b561b01',
+    '3385f704-b943-4cb3-b3bb-bf0870194693',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6f98c630-8ae8-4d84-9c24-7abcef313d07',
-    '58627987-d64a-4fc1-969a-f7659e2f4548',
+    'dcdf5244-d0c7-48c8-af7e-d8b170a51dc6',
+    '5448e60d-1408-4480-856d-74c6b04c8812',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f6dbac89-6b60-4d93-9dd9-bc0abe3070e3',
-    '519fc7c6-4ba2-4f4b-b0ac-5f90beab7479',
+    'bd1e1b25-4459-4cb7-bd86-d77914f9717d',
+    '7c9d1a94-2f6e-43b6-9514-22e3d76fd4cf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'be8f8a64-4d4b-4891-a679-fd2c9263d6aa',
-    'e810ed2c-be64-4db4-9f69-06303d275629',
+    'ae0b4f8e-fd8f-4e4d-b37c-16b865af9211',
+    '16c4b93e-eace-4b3f-854a-63053b34535d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b34fc656-d7fc-4bba-b6fd-8e0ef9875399',
-    '9346ede8-9416-4168-8cd7-9b4842563dea',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '065df009-4ffa-41d4-a2e0-5f730e2ae926',
-    '3987b6fd-ee20-4fdd-b44e-5a2b0f7ee78e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c50f9e6c-8ca4-4859-9948-2e8a9063d13b',
-    'c6afd45b-7da2-4e07-9dda-958c137a0ea9',
+    'bc9e07d3-d611-4f8c-b5c4-586ffc90e9d7',
+    '7f54fdf6-08b6-48f2-a2bb-9a444a65298f',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '304d779a-26a5-4730-8f7a-beb1e7a4a62c',
-    '3d74670f-3de9-4fde-8ad0-3ff3d6e99dc4',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '775e32a0-3be4-4e84-a42a-515cdb03ba7a',
-    '0ec50977-f0cc-477b-a405-17258164da03',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c63cee2e-5e4a-4d5a-9316-039adba40740',
-    'c5c0ce1a-fb2b-4197-a69e-d04d4075832a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e6481a25-93f9-46f5-af8f-ae5f3dce1e46',
-    '521880df-e998-4aa3-8b38-57368600cdce',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a934ad15-3ee3-4336-9fa5-960bc1cc641a',
-    '88efef64-ae85-49a9-8496-7b818241de48',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4bca26ff-a453-4aeb-8232-b992c578c49c',
-    '79496ff7-90a4-4041-88ad-c3f52e6e5446',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '48e40ad9-9c4b-4438-be0b-71ae82458183',
-    '059d6d2b-714a-4096-9348-131d81bc6da9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7dbedc78-dde7-48d1-adf2-64bc3e562fe1',
-    '184580de-7613-4b9c-b555-0e732a5fde19',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e7cca378-db3a-4c23-a30c-1ed74dfb4f08',
-    'b5442c0c-a122-42e0-89a6-b246c365324c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ebd4a4d1-dbf2-4d98-a923-ef0e630c46e1',
-    '455ea3c3-912d-4076-a327-f544f2dfa250',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3ef7189c-fb13-48ad-9b12-778a984f2dc7',
-    '5cffb747-6298-4022-8562-4e2cf70c4c51',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '84b698ca-c265-4708-a7f9-ff0baa3f0341',
-    'fb43850b-f932-40e1-bd09-72deae4ca85f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dc3ffe93-a4da-429a-8a58-38b103c08f1a',
-    '0f6e9641-1df7-425f-82d9-521a4b44bb8a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b7803761-3dfa-43a1-ba75-9e01b6ab5d57',
-    '3a2d3112-9f1c-4085-8c33-82301ddecd05',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f16ea892-677b-4c40-96e1-033995fba96a',
-    '8c18dcb5-037c-4ade-b1a3-99c6993ea216',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e4e7ccf3-b63c-4bd3-a4e9-4015ba262b78',
-    'f1c1c14f-a70f-4dec-9739-cd1a3e0deed8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '57d967b5-9666-4432-89d9-5e66bc37e6bd',
-    '4891fe96-fee4-421d-ab84-bf0145fb4815',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c0fae724-f35e-455e-bbbd-8345a78601f6',
-    '4a881e54-be9e-4730-9e76-aeb25aae9bad',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7c4e07af-e0ca-493f-a413-72340ef828ce',
-    'fcd8adc0-68c6-41b6-a8af-fffed61e9c9c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c652a1f1-7f26-4876-8ea4-ff10b5c6f834',
-    'e5aaffca-19e3-4800-a81f-874d21b251aa',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0e052d78-38ee-4a29-8a17-67b84bb648e4',
-    '51dd2dcc-d3ae-49d5-b25a-b7013ce553fe',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '398f405f-6b00-4636-b2a8-8d454b661b42',
-    '09d790ec-90a4-4696-ab24-197726cef10c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bd69cb21-38da-4a13-85a2-d6aa2f372fc0',
-    '6ad859ef-6c8e-42db-bd76-da1ef3305331',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '84dcde16-41a0-4bb9-81b7-af8ae7e4b69c',
-    '8a220ebe-df19-4ba2-823e-2c9aaafd311d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ba66e45b-a4bc-4699-8c5f-6362e9c3729e',
-    'fc56569e-4165-41c7-8cea-a365f15fac06',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fefab758-df43-49c3-adcd-4405a0e4f097',
-    'e743cd7f-097c-4175-9538-e94a51af6b52',
+    'e103cd76-7fe9-4b36-9668-d268415f5844',
+    'e2b3bf4f-1518-4905-8ff7-4c8d02b10975',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'a04e5a7c-cb42-4258-967c-b3f03ee09d6d',
-    '42fff521-0c7e-4612-a976-34d478cebe79',
+    '6dcc4c28-1ab4-47b4-920f-8d154afed016',
+    'ee2a8c85-b83b-4170-8f6e-81da7f5c4e34',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'af9efb5e-d90d-4fed-9583-12587773fae5',
-    '195f7f5f-a39b-4801-b4c3-0b6c94a7799a',
+    'a083656b-7229-43b6-82b1-36114c03949a',
+    '8ed6720b-61a1-45eb-9585-1a718da3d75e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '32ab54a8-4e9e-4388-938b-b0e4e611af38',
+    '32f121aa-5ec2-425c-b199-30e48270fda4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '908eff16-8c93-4b10-abfa-73ab341b0f8b',
+    'e76f524f-9a05-498d-9871-251cb74445ca',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd92a18cd-f7ca-4058-af1d-578236a55b58',
+    'c6688822-d675-4944-8713-108df2a81b22',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '741d8217-7a67-4128-a550-5415e0f691c7',
+    'e8b158c5-28bd-4e3e-8c81-143f59915ff1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0967702a-ddaf-4520-a395-b246edad9353',
+    'a1aa3b99-e4e0-48ac-a3e7-8d97a7f75f13',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '34346fac-f3d2-4adb-a3a5-6f1692f6c83d',
+    '452744c6-eca2-4421-9dae-7bd1f9951772',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7f21b1c0-0179-4028-8439-5abbf75d7b9c',
+    '89b94c0c-971b-4d85-8b5b-91b11a711e12',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '513c0b37-94ea-4443-973c-91023453f529',
+    '9556bedf-a436-4e4c-9397-5619207ba0fb',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f53767c9-33ab-4fe8-bd32-62452880c5e7',
+    'b846f22a-1298-4482-be9b-82043ea6b038',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2b6d229f-0e7f-4acc-b16b-9e7cb1d17d04',
+    'fd54ed60-d3db-4821-b750-6c7159c8220e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'edb93b56-d20e-420f-8b89-a64b0139740f',
+    '3dbc0d09-2a7c-43c2-8967-915ae2a0e502',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b6eaa049-f12d-4e84-ac33-729a137b3c6d',
+    '9af4ab3f-52c2-446e-8b80-f65ff1c2e1e5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'faf7d062-540e-4841-9efa-ab53098eaa6e',
+    '6c793853-da29-4324-8a8a-0e51361188e1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8bfebca9-e08d-4f97-a489-c2d777c4bf1c',
+    'bbc9fb14-b81d-4732-ba69-ef0d515ebcc8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '85a3eeb5-1968-42f8-85ac-da5dc9acb6dd',
+    '3b2c8f13-44c4-4fd5-a24c-0fb0acd0ba1e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '33d8212b-d2ad-4d35-8341-e955efa148e5',
+    '567ccf6c-f7ac-4cd4-ba04-573e392b2c18',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '34f92357-79e6-4050-bd1a-0ec8f6657eb4',
+    '3a3ea74b-560d-4959-b44e-8f9e5779444f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6af62f9e-792a-4fb5-92f8-d309cd54b538',
+    '53b96191-214f-433d-8356-0f5b02f83454',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e719dc43-4059-4e5f-b46f-9fd6abda5a02',
+    '9e09cd86-2c0c-49cb-97f7-8b1a900a51fc',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '105eecaf-f1c5-49c5-9965-63aa4c2459a1',
+    '411cebee-01c3-4c60-9ac2-7b19cc8b859d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '30d0dfe3-33ad-4bca-9342-ed9aa46522d9',
+    '69bdb7c3-ea7b-4ad3-9f16-99f669419dff',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4b338471-1c80-48ec-ad1e-5c9e0ba1819d',
+    '408919a7-0ced-4b7b-bf16-500ad21f51dd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'da288027-752a-4020-959c-1f9533c7c2de',
+    '93f98f0a-b897-428a-9c45-ea48c4ae3ade',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd6841268-1e97-4a42-8048-82522e865387',
+    'dd9769f3-cc9e-4c5a-945f-07f5f80e2a73',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'b04386f0-f9a6-40b2-94f8-f3354fe1db72',
-    '4dc35f90-29ad-4e80-a9e3-2fe88d1ae6ed',
+    'e1b950b1-2d02-4ad0-b5e8-4b69d4de6c48',
+    '7142a344-5f1c-4b4f-9ed5-7af0245c8afd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2df1a3ab-fb34-47b9-9b12-4de41287e7b3',
-    'e6b15429-39c4-449d-a420-2dbe1ec37f40',
+    'bb94b9fd-9480-4bcc-94c2-c346fc99af3f',
+    '8f58479b-20b9-485a-a0df-75854729d611',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ae469252-a250-4c9a-9755-f57e9921a746',
-    '6e2727d5-b169-4d18-b0c6-1b55f50e56b8',
+    'd19b7c0a-d1f3-48f2-ab44-d8e919f44f42',
+    'c388feaa-8cf2-4455-8101-3cdad375b2c8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1e4d2df1-bee6-4b35-b1db-f5474c23f73d',
-    '7bdd940d-5e66-420e-a569-4f1cba8f715b',
+    'd4d1446d-1ad5-4e81-b87f-21f570e0f25b',
+    '46962e6d-8e1f-41c6-addd-deda4edf0717',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '45b15545-32d4-4205-b1f0-79b64722f64d',
-    '3ed0e389-819a-40cd-9346-c1c6355d682d',
+    '74b01750-cfe4-4145-95d5-3a2ce8775362',
+    'd43b1b4e-5ac3-46ee-b45d-71146189b3f7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c06e37bb-fd2b-417a-bd9d-04c80dbf0978',
-    'b50a6cd2-a60e-4314-8ca9-757b9f706781',
+    '69237e0d-dde5-438b-b96f-87d4f704799a',
+    '0fae2733-573e-4504-b5df-6551d1596f2d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e0849f0f-4da8-43a0-b521-c47ff6098e36',
-    '686431f1-174d-4e60-b4ba-ae17c0b54faa',
+    '851e909e-cd61-4ba3-9219-ac42bb5258ff',
+    '11f3e582-794d-4188-ac10-f2a4b4c5023a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '32bedb99-a04a-4ce7-899d-3e3a519346b1',
-    'b308725c-1468-41ec-9524-aecc93603191',
+    'b628902a-b4e7-48af-84f2-f361f985a220',
+    '16d84c6c-d3ae-4522-bfb4-ecaf52b0ba2e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5bfdbf2c-18f2-4310-b701-c8320d6b9f74',
-    'c74ac503-abc4-4902-94b8-75c1f9561280',
+    '4b772bc5-3775-4fd2-b134-0dfd70bde0c0',
+    '5e582219-8365-4817-ab25-2d5b55f9b128',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd1f36f18-f036-4025-b99f-1751fd960aba',
-    '94379901-4599-45e3-abab-492786381670',
+    '34adc689-c2b2-45e1-aeb7-de6008232722',
+    '20a84d95-e874-4e29-831c-152d3e180e6a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'de785c2b-55a0-4540-b404-bbacd7f4892f',
-    '9dfa44b5-0ea6-4ee0-a275-05c75c667c85',
+    '4736d6bc-c3ca-4faa-8adc-a358be7c95d7',
+    '687cee31-ce4e-4061-96a1-1d36a713e8cd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '55a9da2c-a9c4-4a36-ab41-762490a7c136',
-    '88d664c3-124c-442c-8a07-38edb6e6ac71',
+    'caad36a6-d06d-438b-8a2a-3a8af32f9ce3',
+    '81e8edf3-551b-43ad-a571-70548a32750f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5bd66fff-28c6-4f50-b91a-7f7bbbb75d29',
-    '9bb6651e-cd17-4a95-a0d2-169497709419',
+    '4776b525-6f1b-445f-a04d-27c0dde74cf3',
+    '1d94b39e-05e7-452a-a453-d3560808fc07',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cc61f3f9-feaf-4fd4-a66f-7abb8acf5ca8',
-    '3dcff58d-9ad4-4d0e-8247-532ca491ece4',
+    '24bdd366-e214-4746-ab29-07b65c30fe6e',
+    '44d29408-2458-4e5f-a367-3b0153a336c3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4dac09db-c8a2-41cf-9315-f1940e33233c',
-    'f2ac00ef-92b3-4380-9701-b6618c9d7e31',
+    'd34bd204-c1cd-4a1d-bc03-5f4f37e376be',
+    '7b7a1ab0-9e41-4625-bca7-0a659330bdc8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3f410063-8f86-430c-88b6-dc65ae8b39f1',
-    '1de9080d-4a0a-405e-8d9d-194657b36ae8',
+    '4900840e-8b0e-4842-9ac0-7fdc8d8704a6',
+    '39963228-4bc0-4005-9f92-ba6b88bc176d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a70b551b-7731-42af-bbbf-d170663527f3',
-    '3db0957b-0cbb-44a6-bca4-5261cffb326c',
+    'd52621bd-a0ac-47f4-b2a6-04bcf13a6e81',
+    '966c85e3-a5dc-4fa7-bda8-be0ada6f04da',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a26f1931-0937-4b03-828e-c4ec25da1b1f',
+    '60d5f86b-d499-409e-bfbc-a9b089bfc3b0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '743fbe9e-e0b6-4726-be14-9e907e4ff798',
+    '5678616a-24b9-401d-8498-c5564d4720c3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '848b596b-a0c9-4a4c-9822-4dac7b696486',
+    '853c79dd-1b72-439e-97d7-25debee351d0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '4471bf6b-954a-4adb-a0e2-fb430e99c9e5',
+    '114d5578-44e3-4e8e-bd2c-a77d7b4f314b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e5ea49d3-1d80-4eb7-b56d-b01d6cc8da61',
+    '27575d37-76c9-4b46-b23f-536d23a00411',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2cdb887e-e176-4d42-9b9d-438b96a4f7e1',
+    '8baf0590-6c8e-463b-b7b3-2483df98c225',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0f8bbef9-e02c-455c-9142-f771bafc20fa',
+    'e21f0726-c7fa-42b0-b39d-fe55d7c37e26',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9c320cad-7df5-4d39-9aac-ed45ae153def',
+    '077df0f1-a558-41cb-866f-1e8082dd9a5a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1e6cd7c8-012d-4590-ae7d-58dc3f77a2c1',
+    '6be5550e-bc2b-4b2b-8473-628de134f794',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '20e8d61a-a588-4a7b-a9ec-392ccb68e81d',
-    '659f2ba2-561f-4c83-be41-44473a87bd23',
+    '56fca682-ffb0-4453-aab0-91c20be895ad',
+    '8b5b2985-ccde-41f6-b73a-345aae0673b7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0c103005-4dfb-49b3-b059-e9d2b9c90ed7',
-    'ca38ddbf-08b7-4943-ac21-916fb2460042',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5e1e8c1e-625d-4b12-b0c2-ddd136ce1b38',
-    '55e4124f-aa09-4259-8708-54de70fadeae',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '00e6e2e5-42eb-47d4-87ad-4a2d43021efb',
-    'c0f82b8d-19e5-4447-b636-d27fe3b763b1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '60539930-2f11-4728-ac2c-371149b19520',
-    'd04ee75f-9c3f-4705-a657-d600c5aba792',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '96f3802e-8edd-4af0-8063-2e1d793fa539',
-    'c4b3d28f-b0df-4535-9213-0b0e7ffaf669',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bc643cef-a1a4-4e07-857b-6a223fdf99ad',
-    '1636c874-a15a-47de-bd85-5e8efa078793',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5651ed9a-7f46-4748-9731-7a26ae13e857',
-    'ce27469d-1b32-42b8-af92-7baccc43bcc0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '243771db-0757-41be-8005-fd8055605f8d',
-    '96c049eb-0e42-4337-9ac1-bc5790bea379',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '57bd0d08-ccb1-4b49-8829-ee646c3aea81',
-    'af37e796-6ba2-479c-b330-b192dbd4046e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '155806ed-0f7b-4cb3-b893-6a496fa42129',
-    '88c35e24-1747-4bb0-bc28-777d421b0d2b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9184bf20-c6ed-4564-8949-0d0cf933579b',
-    'ad639539-5e5c-468d-84d5-04c7c8ea95d4',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fbf70e0b-378c-4114-bd6f-32b72b868a81',
-    '26a407d4-e9b0-4be5-a2ab-a5231c5bf7e6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '789d9123-21d1-4e82-849e-89ae21eb2829',
-    '6a5c7e82-b426-4c33-bfaa-955369c88af5',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '060c7873-e325-483b-a892-78bf6569f6d0',
-    '4b3e59f9-980c-4e5f-a739-4243760bbeac',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '53a00f28-c348-47ac-9c0f-0a1bbdd8e9eb',
-    'b55f3f5c-0366-4baf-97a6-99939a7129ef',
+    '0c298dff-f075-41d1-8c6d-2cfde2792e9f',
+    'adc5d6f4-00f0-4a0b-9671-bd9e0488a9fc',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'c711f766-fbb2-48e3-b1d8-6b9b446060a8',
-    '74618b81-5e64-4aef-bb1e-0b2cc2ff4848',
+    'fda7da47-7ac0-4c2d-a742-3798a891f48a',
+    'a20294a7-7438-499d-aa58-fbd007540632',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'bb4cee62-a505-423b-950e-7144b291fab2',
+    'd7320ac3-d5db-450b-ad3f-3103789879ee',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e98983f7-ea5d-4662-80be-35854149511a',
+    '0c46ccd9-3fa1-4bbe-8b92-4d2a1ab4ed81',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '42ce5e2c-83d5-4a6a-b510-5a52d852ed72',
+    '8ef2ac3b-1c89-408a-9a10-1055d56fac65',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a251de33-f4ec-44a9-92aa-c370f93a56de',
+    '1be37af3-4a8b-434f-a275-bbbf867ecc88',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '8f3c1cda-8710-4a9b-9175-6bdfbb95d21e',
+    '5f891e07-1c3b-4638-957b-40fa859a8918',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd401308d-6b6b-4cc1-88be-aed63225f810',
+    'aaab7677-28c2-41da-b543-26f7397434db',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0d1fa7e3-2642-4f75-a645-654f2d9e52c4',
+    '5dfee571-6969-4e9d-9367-a01e96b9ac0c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3a24bd0b-90f4-4121-bdfc-174c144b2c78',
+    'f63c25bc-dc7b-4bc4-81d8-c5751e362cc4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cc50433d-6aa4-429e-a893-9e2cd4fda053',
+    '1d56f1a5-f59b-4878-8d02-ed7d080770b6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '91cb85eb-709d-44db-8132-2821a2dda9ea',
+    'cc319de0-e936-46ec-9270-f3437d8b043a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'eea78a52-6aef-42c3-80af-5b148f325f26',
+    'e6fbbec7-c2ee-44cd-8dc1-adfb7cf8ad8a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7589ac56-ef8d-451e-ba77-0342e6184fdd',
+    '36019a7b-be85-4007-99be-f9602df0629c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'dedd8af2-2c60-4646-aa65-d033501f4fab',
+    '72935d00-ba1e-4d35-9470-fe9900a0c943',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '692a931d-0a29-4327-a798-851fdc62b3b9',
+    'b97a38df-45fe-4739-8aba-a3fdf2c544f6',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a0928edd-ca84-472b-9624-39816f49d524',
+    '44c18e4d-308e-4339-88ee-82f13e1c2362',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '39a33e90-a23b-4076-ba7e-15a1a69a7910',
+    'e6772a55-a9f8-4688-9c62-f07cabae4c45',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'f9965d24-4729-460a-babb-cdb8dabe9e27',
-    '0f8c57a6-26d4-4386-ba31-0620a3643416',
+    'f7622190-1712-430d-b77b-aab49626ea5c',
+    '26ff6444-b29a-436f-873d-ada016ddc4ff',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '09abe0fc-6ec4-4ea4-a5b2-0c1184b1c6d8',
+    '4e4eabd6-35d5-49c1-9dde-ddcdb9a8186c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '007b0068-25a4-48d0-9c03-181b07bad5f4',
+    'eabeeeaf-feb8-44a5-9d6d-ece9093c27ef',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '93e5476c-4dcc-4e25-ba2a-5f8fa1fb5f2e',
+    '5c7c2b30-4ec0-4f42-bd8b-50bc11dd610e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '18df6882-4476-45c6-bb6a-9e1c5dcf7bf8',
+    '48d9f7e0-02df-4b31-a6b7-7d79f8a07864',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a55571d3-6fcb-4f3f-94ae-1d4a9af596e6',
+    'b25484b2-2498-42b8-be30-aecf901d8895',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9be46bc8-451f-4def-aafb-791be39e585c',
+    '3c56091f-fac0-4db8-ba69-109cae0f909f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '86b939da-ae4f-4c1f-8f91-c6ffe39efb5a',
+    'caf52d84-f642-43db-b46e-98761538633b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e9da3671-8aea-4353-b767-7951dd002758',
+    'e89b6cdd-7a7f-4e4d-baf1-332550e9970f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5054018b-6df5-456e-a124-66d33c7924fa',
+    'e748e46e-d12a-4a04-bf26-819b0953f121',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'de1d8b4a-f732-4723-82c5-c346ad731a61',
+    '9bbd10ed-838e-40bd-8710-358eef9bbdd7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '27db2bf2-30aa-429d-a373-3b0aacc97194',
+    '4ae22a58-2109-4c0e-89c9-3d5d74fb1026',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c74602d8-1b8f-412e-945f-5046a8435e23',
+    '07061044-cc63-403c-bbcd-c74b4fcd0e6f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '6bd3b384-6bec-4699-8977-5a8ec38e874f',
+    'b77fce50-3426-4e7c-bc4a-44c64779e72f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '608f9e60-f42b-4fb5-b4ea-962e6352eb7f',
+    'b9a411e9-f81b-4d0f-97d8-b6e639303d47',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '43d006a2-f41f-47e1-8e0f-bbb6b11f5cbd',
+    '911c69e1-ad62-4f3a-ab6f-827891570b8e',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '8dc25dfe-db10-4508-81da-2eaec367d1d3',
-    '8449bde0-4773-4778-99a5-f5ae77930479',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c4f56bb2-9fcd-4099-a4a7-f71e3c7fe55a',
-    'c2188ecd-fb6e-4eeb-9c9e-5e02e9dd3baf',
+    '6b28cb96-79ca-4e92-b8db-54b662c1b9e6',
+    'b82bccdb-e68e-459c-996d-5441f0ba6911',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'ebcc96f5-987f-4722-a1a2-8b657d07f446',
-    '2e61a705-7b15-477f-a505-7f13be7f50dc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '94bb66e8-2eb1-4eb5-b41b-1c77be778d3a',
-    '6504f4a8-8340-425b-82e6-a606e0f73ff0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '465a4866-4551-4901-be8a-e9c2c72abe7a',
-    'bd01d8b5-e08c-40bd-bb57-f1aba3263b3a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '078f1504-fc18-43af-a3a5-f71065a51fe0',
-    '0a8617a5-40fa-4ae4-ad58-4adea1b5f09a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2d4ea0ac-5d27-42a5-808d-4919915876e0',
-    '47472120-0ba3-4c67-a7c9-f393b615f0fc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '36900af8-7a20-442c-87b8-c965ac801055',
-    '0c8a4788-0012-4b15-8c0a-68a6b5b177ef',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'aa6bbd97-fbe4-4ffc-826b-0c96e8671f67',
-    '43e231b3-37f9-47fc-903e-6e77a3f97c9c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '434e275f-0475-4e9e-8a30-52f51f425fab',
-    '066b41ed-c969-4f4a-9487-1e913926b8e0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '63b5f697-53b5-4383-9517-12f19ab5d7b4',
-    '15aaa2c5-53ea-4aa1-aeea-d84e9668b459',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b147df3e-94cd-483f-babf-a801583b154c',
-    '5389c3f2-7c5b-4997-9be9-542000eb6698',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '38f6e25c-18ef-4378-9b42-8c1523c498f7',
-    '0fbf0b6c-b9fd-4bfa-9140-5a38ad7a1deb',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '0e7fd8d0-4e7b-45f5-af3a-3526ea56324f',
-    '1196f9d6-19d9-4eaf-9dab-c8ac801417c6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '32371d69-96b8-4ee2-a656-56a589d3ddfd',
-    'f9d78875-940f-4b15-8d25-7b7c853e3431',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '771d604c-bd2c-4e5f-9165-73d517f445f5',
-    '7c80750a-382b-4d39-8b26-7ef18b2d893e',
+    '42a34ff1-a66a-4777-a703-a680956397f7',
+    '70cdf43c-1390-4249-a9bb-c2bbcde4cf39',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'e065cffd-6746-4533-aea7-724ad1d25139',
-    '2e96051b-2370-4f15-a879-35f749468d86',
+    '64776e62-69c4-4d1b-a71f-7a3e4b2c8a50',
+    'a831292d-8c09-461b-b85d-642037309ee9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'abe375dc-971d-48a8-8098-580f40fe93a6',
-    '3b72f58e-4e93-4e9b-9462-a3fa75881e35',
+    'aabd90ec-90c9-45d4-94c8-ec6036e0dec6',
+    '015ba6ce-b707-4d4e-acae-be0be3e6420d',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '7d9dd13d-833f-4442-83d9-30bddd9073a9',
+    '74c83b53-1fd6-4a05-acb6-ca01bd45621e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dde69c17-3cdd-480c-8e76-1f84362617ec',
-    '1784fa35-d2a9-4bb1-90d4-51645a673d8d',
+    '8236256e-f841-43f5-84e3-a74b9d2c4dfd',
+    'b20e27d2-02c7-4e44-b444-c51dae0a0cf8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8f28fe90-068e-49cb-be55-8f9c34ea6851',
-    'fd6ee158-d727-4b4e-a61a-9b3769ea87fa',
+    'e5632914-27a1-4cc0-9f98-085b6e7ca7cc',
+    'd5cb41d1-238e-4732-a76e-40ae49d37acb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fca2764a-0bfb-4159-b45b-7e530c465397',
-    '03e55a4b-63b6-4e15-aa91-421caff50fac',
+    '0758268e-4b9d-4159-b66e-188f6432e560',
+    'c6fe47d7-d920-4a72-80fe-044ab0f104ca',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4cc2ff26-4f07-4bd3-8882-8558deb21611',
-    'fef815c3-8988-4269-8131-aaf92ddffd17',
+    'fff8a31a-8260-40e3-9956-31896d92173c',
+    '323257dd-01de-46a7-8682-cb80a6e1d1d3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e70e9f0f-5856-464b-938e-faed772a4b78',
+    '29b06515-6af6-40db-8f47-5072563b952b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f00103a9-a43a-40cb-88f6-7d3ef32cc495',
+    '41b00c3f-b281-4e09-a082-a44e4ec0de06',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '12856311-7aea-4d21-9945-1cde6d7276b5',
+    'ad9c1ee9-4c36-4d5e-b67e-9a2ace188723',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3346a956-3fa2-4cfb-ab48-f4c8182ad718',
+    '6ef15778-44e7-49c8-911a-07660c41fa83',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9dbeeebd-7cdb-4df7-bbd3-947ac95aca15',
+    '98a12537-a11f-4f44-b4ae-99f570c1778a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '581e75d4-cd64-4936-839a-84a859251cf3',
+    '6866eb40-7414-483e-8dd6-52099a22d88a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2bc4d8d9-1c42-48ca-a17a-87e613188b35',
+    'a52d4574-3c76-4bb3-b384-8523c6b1430f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '44ccffaf-1378-432f-8714-56c1065be075',
+    'a35308d3-27ed-484f-b7da-3466c3181e90',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c4c32173-dc40-4c29-808c-26c1e702a9cd',
+    '11ef0e11-9cb3-409d-9d2c-65e0cf48e7fa',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    'b43bf16b-0d2c-4d8a-84ae-89829926427e',
+    '0eb593e3-a4d1-40bd-b302-905bbe2b12e4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7d513fcd-7d40-4202-ae9d-26c25b8638bf',
+    '5e568a4c-a9e7-4abc-812c-f044291b5acc',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '08fe2945-c9a5-4273-b992-b1eaeb6fec03',
+    '0189657d-bc91-46dd-8482-c7e15e474d88',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '69500995-2ad6-42e1-bb50-39fc38535211',
+    '748453c2-27c8-4f50-8132-80cd5bcfd8c5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '109db1d5-9955-494e-98e1-de4a80a4ffbf',
+    '55ad8e36-eab8-46c3-8152-45dc097cce9a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ad24aea8-da0c-4513-b055-88834fb30c1a',
+    '269d0ff9-be70-493f-9056-f37065fb0bc3',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    'a8fd0926-7f41-42fd-a6c4-da4dbbb62f7e',
-    '96cc723a-b440-472c-8148-175c331b8122',
+    '58699f15-faf7-4b05-a700-73f6afc2b171',
+    '24a1dff4-c20e-4706-8764-e3109046cd1f',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '43c7ba5d-2016-4d33-9004-8daa8e2f68c3',
-    'f78efb16-9547-4da4-b477-2c8ef5ac5f2c',
+    '0c5052c0-3bbf-47cd-b0cf-06b573106014',
+    '6cff64da-2a9c-409f-9627-dee599128a7b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2c675b7f-d492-4a31-9c37-dc476cecb5bc',
-    'e77ebe72-a026-4f73-8482-1e01ca654598',
+    '1eb32347-474c-4eee-bc2f-2d3c5e977d89',
+    '69a2f947-60a1-4342-8ebb-6e428a7f0a01',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    'c7d89b3b-a38c-4690-89d5-fc7433343ca3',
-    'e0d82f97-f400-421b-8e01-f29893deab9b',
+    'd5c397d6-b44e-4641-ab2e-f866ef551c8b',
+    'ae9bdab1-f61b-4be3-988b-367d45ec4ce1',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '276c168f-8291-45c3-8ec6-987578bfafcf',
-    'bca6d867-9c65-4c5f-9ebf-a02be8104038',
+    'c0f15ad5-acc2-44bb-bf94-f972f3777ffd',
+    '0e64473e-f335-4199-a35d-8fd3d47921fa',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '326e3c3a-6f9b-4786-8847-d179eb64a5c3',
-    '8a928a81-211f-431a-beac-bda95aafece6',
+    '4f0c3934-41c1-46ed-a112-5aabf23c654d',
+    '2c1fa232-4b29-4ba7-a319-03b238940e52',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7f1a7d14-0419-4a28-919a-d00e531aa90f',
-    'b39749fa-18d7-44a6-b9f5-f4de43f69eda',
+    '9b00e003-8c06-49e5-b14b-fbc79ee53202',
+    '7000e075-645b-4462-9d33-a9e224cdfb1e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd7da09ef-5d09-473d-92bd-0d07bb1e33ad',
-    'e4343cd7-3ddf-4052-aa93-cae4bd5eb90c',
+    '867ef863-9407-4783-93f1-cb72dff2a7f0',
+    'c0e6849f-4a70-491f-9e01-0d48125f534a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4ba16d21-0837-4290-b3f9-cf7e88dd7095',
-    '3e6edd23-7503-4e8a-83bf-92acea68404b',
+    '8ef5ac91-6552-4d46-838c-f578fd0bb50e',
+    'a678b473-303d-440e-b115-a081a9523b42',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '95536c94-7a86-46dd-914c-05286e7d07f2',
-    'f1b30f27-0387-4ca8-a708-69e32fa65e18',
+    'cce0c343-c0ce-4f19-bdd9-038de5e09d8b',
+    '89c16fb4-555b-4ba6-a830-c51cb5424f92',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9264909a-6684-4397-b7fc-78f328c2820a',
-    '907ee803-528a-47ea-80dc-550f46bd7560',
+    '689ed540-b9f6-4082-8e6f-0a1b317307ca',
+    'e146c655-7786-4a93-85af-3d8a35e06a48',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    'bdf84ff8-e6c0-45a0-9341-72c49286510d',
-    '3461e3ce-deec-4690-a64b-a53c670a493f',
+    'e1fa7d38-8f94-4de8-af33-137fb2bb59f0',
+    '1f13acb0-1305-4d0f-a7ba-a373c62bd67e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b6299dcb-ddae-47a5-973b-96b60a1f2501',
-    'da8912ed-939f-4bfe-a06c-7750723f8244',
+    '5439a7b5-89a7-4d3d-b51c-7ac8979f4923',
+    'b3d57c03-1b4a-4468-88de-c49a849dff3b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6db64934-722c-48ff-8740-dab6caa99fab',
-    '8e6cfc12-b21e-4172-a1dd-d3157a595376',
+    '14a8ba3b-4b40-41d5-b27c-429494e2dc03',
+    '30b4ce14-24a6-4bb6-9d4d-201ca236d0d8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '01081faa-4ea0-4cce-9235-4e3472d2bf4a',
-    '756c9446-95be-4c72-a560-50707b92ce01',
+    '4496def6-d400-4c6c-9972-9bd8f8ed0dc5',
+    '03071ce7-5f49-4e36-a887-275b5fe9dfcf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a752d4c9-a82f-44ae-88b7-4667c908267f',
-    '60648134-192b-410d-8b0d-3032d62ac70b',
+    '778ca846-2abf-4d58-8880-67394b7b06a9',
+    '75cc7705-27b3-48eb-996a-77a2a71f4fd3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '58f6f1c0-4235-4f37-830e-ce9959e88a24',
-    '13585b49-6c35-43de-85ac-74e69f0ca007',
+    '9cb80800-09da-499a-a981-428d6fcbd227',
+    '5cd3fb14-e898-40d9-a0fd-8c5266a8e81e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ef188e53-7919-406f-b91e-23852fdd25c7',
-    '6dc6b906-d006-4a8c-9d08-4a2b9b8b728f',
+    '813c9f2c-10d0-4ca3-b8f6-1951b1940887',
+    'ef2e81a8-dcb2-4029-b17e-b928c386dd5b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b855dd1f-6e5d-4a10-ac86-91b82b56f884',
-    'b5aaa253-8309-4adf-ba41-33784d3195b8',
+    'b0bda454-c112-431a-a510-9bdc776d5477',
+    '53de08fe-4e3b-41be-bf0e-5228e132e8da',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b45483b0-1dd5-4b15-b84b-248d6ab5877b',
-    '2da8beea-6eed-464f-acf6-373df1b83fa6',
+    '1d708e01-af9b-476c-97f1-94cfd2f5fb30',
+    '8bcaa35c-574b-4706-bf4f-3f370a5fe860',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fe6590b3-84d1-4f54-bb15-0ae7a3014494',
-    'd23ba04d-f8e7-4fb3-98bc-62fcde4352a4',
+    'f443026d-0ab1-48c3-af39-bd80cf7bcaf9',
+    '590c9463-6d91-4f32-9371-0cc182eb1ff8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '322f05fc-7b2b-4856-8a12-9dfe8dc278f0',
-    'a0bf2564-5019-4a86-aa6f-2e83f3182d9c',
+    'b466cb6a-10a5-4d99-a82e-af894f3031fa',
+    '7852edcd-4b8a-405d-aa16-a47ea18f9cc8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2eee1eba-77d0-448b-a3d5-cfeba6a32ff9',
-    'b702c27b-a118-4013-9990-ab519b022515',
+    '24b3a2fd-4c99-45bb-9b5b-305c9cf3c864',
+    'b8f437c0-7ab7-454e-afea-6152ce85253e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2bb901e2-3a0c-4f23-a08b-d5c7c033ef34',
-    '7aba4733-9b29-42d4-bb99-b646d51767eb',
+    'cd065d07-8653-4a9b-adbb-dc1059adcf7f',
+    'f893ece3-d97c-47fe-8ea1-2e7287373aff',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '8efe8caf-9a38-49e7-af36-0ef7ab0ef24b',
-    '11e8d3dd-4b57-47f9-945a-f38d0362fb13',
+    'ea40735b-f88d-49fd-bf09-5822ccfcbd2f',
+    '41fb3b58-ff5d-4198-b0d9-31c4da4414c2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '823ecada-cab3-4575-bb37-4df682fe79c9',
-    'cea409ee-50ba-42ee-a1a2-ee58d16ed5e3',
+    'fa0eabbf-7e14-4468-813f-0be310829466',
+    '8686f58c-ae58-4a01-8cf5-d6b2235e7ad9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7903cde1-753f-4d05-8cf7-24cb78e4ac0d',
-    '4ff97164-130b-4301-b110-91a68c433208',
+    '3c7dfdc8-50bf-40d4-9cce-2b1ea7b25405',
+    'c06cfff7-9267-4cba-86f5-dcd091ad0000',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e0658938-0193-4259-b3d4-7879f4a1e3ab',
-    'd324c650-edb6-440d-b2e4-dbfc8d426c6f',
+    'd5a72171-2e2d-4586-9980-cba098427c22',
+    '7bba896a-cfb9-4c29-be82-8737de18c6cb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3c3bb7eb-7fc3-4574-b6d6-7a1a93e661f8',
-    '6c7a704c-3e85-43c7-adbb-a121cf296bee',
+    '4a659b9e-5b46-445f-9563-a3bb2536a61c',
+    '15622d83-64aa-4de4-aae7-d8008dac0e1b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '41c42da7-78ed-4120-8842-07d68fa02f4b',
-    '991c3a7d-9070-4a81-aaf5-178f8dafafb6',
+    '36565b29-2309-4d51-9e66-92983b702755',
+    '8ce21d76-a8a8-4a3f-8309-d5130f800dff',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '893bb0bf-a304-4924-87be-8a9322ca5d34',
-    '515f8023-7b4c-454c-b382-bc732b1cfb1b',
+    '8565e99e-89d8-4b89-b444-9598096e1f48',
+    '001c14ef-56d6-44da-a17c-a260d69221f0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '385345a1-5666-4f44-8106-04f2bf5fb7ae',
-    '3ee4378e-0cc4-46a3-a58c-cb31ba014f17',
+    'd2037267-8ba9-4a7e-9111-d9e787177181',
+    '0bb99844-641d-4372-b9fa-ca179c1cdb1f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ecd62be1-a3d3-42a5-b08d-c821683cec61',
-    '988de061-9ebe-427a-92e2-f321d6162eb1',
+    'fc1dd77a-df62-48af-86bd-39a2cf2fa0cd',
+    '3bd08457-afd9-4178-b782-3c2be8da8afc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '01164fb0-773b-4cde-9912-1c9065124556',
-    'b9b01675-fb87-4d16-913a-89b917f1a5ff',
+    '08f48588-2a9c-427a-b84b-5f31782b634d',
+    'e404d933-4546-4c81-ad9d-078678b23615',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a95767c7-7d30-4fb3-878b-07afa6f30a4e',
-    '7aa7029e-d45c-4dca-a64b-d2fc8033a7d8',
+    'ba474542-7b1a-4450-bb86-ef8f3dff7ed9',
+    '012c3747-ee6f-484e-b2b4-1265324fb034',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7900a781-143c-4317-9554-e7093cde1d53',
-    '2fef97c3-6e12-4aed-b3f0-61f3a8f0c235',
+    '619cb9ce-b003-4889-9a99-78e300b60d0b',
+    '31341349-e4ce-4c5e-9339-1bf46d1ddbc8',
     'iso_639_language_type',
     'Constructed',
     NOW()
   ),
   (
-    'da1b4b8c-10fa-4b5b-a899-bcd4145f9f3a',
-    'b231f779-9778-4cef-b8ea-d480af1b95e5',
+    '05c8f811-d6ea-42ee-9aab-cc610e40263b',
+    '4daa66dd-f5cd-40d9-aa47-4b3ff10e7d37',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '49e96773-7964-4cdb-9849-2c892362acfb',
-    'dfa717be-4e7f-4272-b367-ad93e3237807',
+    'f64d61f2-d440-4d90-b7ec-b3ca9e4c3929',
+    '9cc7f520-cd48-4e5a-b879-a994325f6d7d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0cb440c2-8067-4274-bd8a-5723441b628b',
-    'e7ab6797-c017-498a-b1fd-16c15b81abae',
+    '542f5846-44d4-4478-b19f-c90aacc92152',
+    '5935761b-d3bd-4c36-80bf-0a9d2a8ec512',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '53b4d47b-7093-4898-8694-093be01388d7',
-    '479e1a4f-48b3-4b5d-bdba-6b619ae1d805',
+    'bfaf18f7-639a-4e7a-91af-95ab6a30541a',
+    '8edb5e2f-7774-4fd9-835a-d4b4aec6c97c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e4b3adf2-f0c0-4923-a0d9-5fa5275a875f',
-    '7480097b-e122-4b03-a4fa-4e34c520ee1c',
+    'ecf28b22-b8da-4cc3-ab65-42d34e5fdba7',
+    'd3d87ba3-1ef3-43b7-8f62-ec5468e95d25',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'ca934a41-619a-431f-88db-dd76e02cf08c',
-    '2587df67-94fe-4cfb-8664-35d3ba265ac8',
+    '5c4c70c2-15a6-4edd-9615-1ba1d747469e',
+    '5a90d41f-2cfc-4f7f-bf39-a17be20fa89b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c271c377-d676-4287-ac78-4d72537dcb84',
-    '9fb6dca5-d7aa-4f6b-8013-c343b2406f08',
+    '01a852d5-cc5b-4825-92e8-7224602945b0',
+    '5e6c589c-9291-4f0d-9d1a-9bc0543f9292',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4d0127a1-d2a1-4a17-b5a7-29ccc86413be',
-    'b1a82a72-2735-42b6-867b-de41d523e3a4',
+    'ea039852-0bf7-4bd2-a53d-c36c8d9bb8a7',
+    '0607f36a-77bb-4997-9f3c-c9116cce12db',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f1c66fa0-e273-46e8-af74-be7d64e7cf42',
-    'ecb34440-6478-494c-9aa1-70ea78fc527a',
+    'abaebc88-edd8-4f8f-b0e1-696b01d7ce02',
+    'bebd7c82-f5dd-4444-9c4b-7d0e90e4260b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '735cf865-fc8e-4368-ad34-c088b5197522',
-    'a8718ac3-c876-406e-b05c-4ee1af816771',
+    '1fcab640-bc73-458f-8e13-ae85dbabba1a',
+    'b3b1873b-bcf9-4a95-9ff3-332423791b54',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6dce6afa-a367-48b7-86b1-21466500c003',
-    '16729103-8d40-4efd-8137-97c235e33a3b',
+    '10b9d969-12b8-423e-91ff-d4dfc83f4ccd',
+    '890e19fe-7a9d-45ec-b12b-de46dbfa24f0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e4a3afe6-5633-4496-88da-d6d322dfe155',
-    '9bbaa056-b2a5-4c3b-806f-e5bc6735c755',
+    '5c148308-d685-40c0-8f7f-7351f1489d78',
+    'b6b76158-0a02-4b96-aec2-91ead4762fa2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8d7f98e9-dac2-44bb-9ccd-6d44bbc00d5e',
-    '7585e221-2a23-4842-9822-4a08fdbdf13e',
+    'd1a6e3a6-cb96-4ff0-a38f-26a49fd56df0',
+    'e46be1db-b909-48b6-8cbd-18e474a67ab4',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '53d93048-f993-42f1-aa54-e96202bcaacd',
-    '5b5ed569-d038-49a0-94c1-7ef88ba5b1be',
+    '8658621c-44fd-4edd-9d03-4fb832a51de5',
+    'f52505b9-4a44-4c98-844b-13a86ef327ac',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ba1494e4-4e1f-448f-878d-a59c9eab58ca',
-    'b6529875-023d-42bb-ac42-c17efd06524a',
+    '88066c4b-b24a-4342-901f-9b8bb04e4dae',
+    'd4fa9948-b705-4bc9-9f64-8cbb6e2febe2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3e8d8717-4e47-4fb0-b159-b1ede72557b6',
-    '516d1823-a9ae-49c8-96e0-7763743f6d7b',
+    '96960432-283e-44cb-88c5-fb12c7404d32',
+    '8530f0b8-5d8a-4a30-ae32-18efde440f85',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '30264d64-a531-4422-939c-4ff84cb3c59c',
-    'c920d445-af37-4ff1-bfc9-cad8e43e4ffa',
+    '266f6581-5ef0-4290-8fb9-78d8017bce7b',
+    'e4717393-d7b5-4f67-835a-49d678faea45',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '02084002-003b-42ca-8f13-87dcf6e25113',
-    'dd0fe02a-82d2-4906-994f-b47536a1b720',
+    '65cb970d-b021-4676-94ef-d34a097c377e',
+    '8bdebaff-3ca5-44da-b881-d8b1e02810d6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2158609e-0ab1-45e9-9f88-508ec4968feb',
-    '62e0c4ad-dd1e-44a9-bbe8-eba491ee1cb6',
+    'fba26ed7-2f21-416c-9a6c-4cc8ba91e881',
+    '216ac1f9-3c55-4d41-9092-059f2ef43f46',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '21ef4b48-cd9a-4c24-a1e2-157286a04eba',
-    '6a0183d3-927f-4e8b-8f20-6d67d5c80bca',
+    'ca6d08b0-c4ac-4ad2-b146-f68c09eaea1c',
+    '054e789b-f3ac-4016-9100-7bf283180500',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9a6a47cf-ab44-43d7-ae74-1a54a07bd7fe',
-    '30600407-e3b1-4f80-8b25-7e4c28fa9ac0',
+    'ff13dd20-310e-4490-9d0f-c2a22fbe1112',
+    '16bfbe9a-fd65-44df-8e58-7d36634e4b12',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '04059b22-f267-4a0d-af91-c6ffda882568',
-    '1a89c8f0-7cd7-47e6-9ba2-dfcf14bd34e5',
+    '9a039152-e8ec-488a-93bb-dfe02162ca10',
+    '506c95f5-1a6a-49e0-b790-4a3d2c534dab',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '13da86f9-3d9e-4611-b1c8-4de48e865818',
-    'fddc5e89-77e9-40cc-a2eb-6febc7a98e52',
+    'c9af5a7f-b509-410e-982d-bc001080003f',
+    '7940c6db-09c7-4f91-a470-eb20f1107ac9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '48206b84-1ce7-4789-95ef-96e1d910aa2a',
-    '785f6787-b347-4ebd-bf34-b8cacf29fb06',
+    'e0a20d31-40c0-4fab-8557-afc7c9a58d8c',
+    '8b1c9f33-cbf2-4e2c-bc0d-e9c0ae41a097',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '15a0ff8a-e774-4244-b65d-d27273d5d92d',
-    '1e2b0f54-ba96-45e3-9ab3-0d9d28ac7250',
+    '766b8785-bef0-40e3-af1d-5b4c855de1cf',
+    '1b1315f5-6325-42e5-a882-526bff2cb91f',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'd387dffb-4590-4f45-9c64-381a9373d9e6',
-    '1419382a-e319-4c6f-9907-14c15b71313c',
+    '12a43c03-6bc6-421e-b7eb-a23d5ea6d998',
+    '70ca7b2b-71ee-4c46-8f53-fdb25389d8c0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0148f045-87b4-4dfb-ba5c-bb36e0e8c674',
-    '429ae07d-cb27-4de6-a9f8-5d82e0c0e54b',
+    'be8bd709-0e64-4dc8-9f49-5e18a6940b43',
+    '0793ac16-5fda-4483-970c-0eb0091265e9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3fffba1e-eaf6-4bf1-a0e6-97bc68ea703b',
-    '540c9192-9e49-4a5e-b9d3-f542bc402ac0',
+    '80c12b22-0082-413b-9c91-d64fa5051de4',
+    'a4c44624-6317-48ad-8204-bf0be992a35d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f5f32ca8-0d5e-45be-bf08-fcb510e52f3d',
-    '4ff3969f-b398-4902-bf6d-da61432aec6c',
+    '04f790ef-2a1d-4eee-b5a4-5bb5e5abf45a',
+    '56c73239-a8a3-48f1-bb77-3c4daa9ccb0f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6c3e17ec-6b14-4dae-8f6a-b2c099b41247',
-    '6ae51107-6b60-4f42-bc23-d779decebca5',
+    '551b2086-e97a-499b-9c3f-df932f94fdd0',
+    '51a9a56d-4120-4e4b-983e-a59bbbb37c0e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a238f800-47e3-47e7-892d-7f115099ac4a',
-    '3d76081b-0a86-458f-a584-ca3000809196',
+    '08ad20fa-4cc3-4f79-85a1-d06503e97ea6',
+    '7730aaa2-7774-457e-8336-4512ed343dfa',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9ac68d24-3da5-46f8-93d3-9dc6b57b94bb',
-    '5072e940-2ba2-48dd-8489-b1e2f99f382f',
+    '08fb4c64-d07d-4d6d-9803-c0d7d60c9e26',
+    '5001ca10-075e-4f9d-b3bd-20f530308c54',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2c03af98-ab2f-4e42-86c9-ecfd624fb5f1',
-    '21bc8956-9c44-4133-a0e4-e5b8ff073dba',
+    'c1d8228e-cbfa-4279-9af5-a2e7b77fa013',
+    '634c44ac-d604-45b7-9047-46adb8195d09',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '357cb1be-2fdb-4a5f-81c0-618a0f7685cb',
-    '3252a1eb-17d0-43fc-bfc4-44e69c79c558',
+    '4e1aa7ab-8f70-4015-b313-c0a8fe5fb08a',
+    '1d734f9b-04a3-4dd7-bcdd-1115dcdc61ec',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7b89f3b0-e8f3-419b-94a6-9a3d2b2168fc',
-    'afc17681-4902-4079-890e-023c3493a22c',
+    '7194e0c9-4af4-4604-b619-ff502db14048',
+    'ac0a6d13-8a88-4be0-a3ac-bd6a6b0b3c16',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '879b939f-1da2-4e28-ad5b-fdbde53d9907',
-    '521f4dc8-a276-48be-85cb-fcc7a3b5e666',
+    '21277689-baf9-41e4-8ccd-d84ad2194b69',
+    '58b44e0c-7858-4c80-bc0b-342b0e4b7131',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '81f35d41-25d8-432a-99fb-de0fe983b895',
-    'b3a06f98-9c86-4489-9678-d72e5d3e95c4',
+    '1b02901a-8d21-4f7d-bc69-d9b3b7c03869',
+    '20a67b59-c734-44ea-9e5f-9f6c3c229dfc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a4b15a5b-5ab5-4b5f-a0bd-aaafa3e00eef',
-    'bdd269d9-f70f-4a7b-b7de-a4af24f173a1',
+    '91923f91-045e-457a-865e-d0d725cf1e98',
+    '7e2d907d-0ff2-4022-829d-3652bcc1c75f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eeeabaef-6b16-4f9e-b1b0-656144cdef75',
-    '7cc83dee-2a24-4a68-8904-d0a520c4440d',
+    'dee05b7f-3c57-468e-9ac7-72474226c905',
+    'a5c3f342-fda8-4256-a264-8e1be7e79a42',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0cc8172e-73ad-4ca7-9e2c-2ef8b660e888',
-    'd951cae9-7fbd-4a03-b4dd-73f168237a05',
+    '31158893-a592-49b2-8046-df602183c89b',
+    '2ca46ba5-5b96-42fd-8a1e-984032b9b303',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '31f2811d-9d7f-487b-b255-12c237eb3ce6',
-    '88b0962c-36ec-470a-99ed-f54ec08b891e',
+    '6de805c8-b47c-4631-a4d8-c379ae9deb0a',
+    '15a5cf04-9cc2-4711-b2be-8482b3eef5cc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a69e045f-b4fa-451f-97d0-c17d3362cf2f',
-    'd78665af-bbda-4488-b120-1402b15e8650',
+    'db574741-0d39-4718-9636-c64f7a5d15f9',
+    'f9c7ea90-828c-4479-a19b-114e1f84f2f3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6b565d3b-4f95-408c-b561-73bf1fdddc03',
-    '2224dc13-570e-46ab-b8c3-aa41e5d66b94',
+    '320314ea-457c-458f-a26d-45dba6e17c26',
+    'f5072faa-5c3d-4d92-bbb4-88f4c7869591',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '824f7e32-f4df-4bd1-a1f2-6cad575a30c3',
-    '7d83ffdb-fbd5-4681-9050-f48ebd6d286c',
+    '92f51f1d-9351-43aa-b75e-f9546ee159d1',
+    '19734e5a-728e-4a10-b407-f11ef8e31440',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b9c9a6ab-534a-4ad2-b57a-079871a9401c',
-    'be5e4304-7f69-4f83-8aa1-c59ff45c5d09',
+    'b782df98-bfa1-4677-abd3-14703b370add',
+    '5d69d9e2-c478-467a-84be-981dc4b3ea45',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '967c9977-6e5c-4b54-a909-fbedab5f2bb3',
-    '66df4340-8cf3-4832-954e-ac40dc51b809',
+    '8937f740-b180-4678-b5d1-ec4bdfd50f0c',
+    'fc73ebc4-ceee-407b-a80e-1b7cee906a49',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2c0a092f-622f-476b-af12-9dbf235d90f7',
-    '6c2aeaf5-bde5-4012-b766-ab1d22d7619b',
+    'bdf889d8-5de3-4a26-b810-6d258eb7899e',
+    'b79c49c3-2701-4582-ab36-68910649f994',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b882843b-5d1f-427b-a70f-fb6b9f0ca724',
-    'db3e58f1-7d58-4d9c-aea7-15f1ea585ded',
+    '0de8e238-4b34-4197-8bff-12c8cdb03d8e',
+    '9cd92a6b-4348-4810-8a65-4b792b994141',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f9d58019-79c3-4d75-8d42-db3efea00925',
-    '80608667-a04c-47d4-847f-bb85e5a6ef58',
+    '3758d5e8-0833-4bf0-8dbf-ead87122d75b',
+    'c55d56c7-6cc9-46e9-8c96-f15921b20e17',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cd5c1772-588d-4676-a575-9fc62f631043',
-    '8e494f3d-f7dc-4329-9c6e-c054603c1c79',
+    '77ef8e4c-b7ea-4e2b-b061-de1d038a616a',
+    'fcf948a5-f7dd-4e32-a758-63ae07a82430',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '93350276-2f88-4e9e-a24b-d24d0fb33088',
-    '25fdd6ee-8daf-4831-826d-27e906cadadd',
+    'b023fd2a-c91f-4d45-9d18-005fc1193e3b',
+    'b726be4e-ce06-4acd-b0d8-98637db4e392',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '72fdf703-c12b-47ac-9ee8-69c1bc4faf4a',
-    '98d22c41-3102-4891-9f9a-c94ab186f1d1',
+    '3cf2532e-5a86-4356-93a9-a67051ae27bb',
+    'cea1f0c5-95d6-454a-9422-56b942d210fe',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ae96cb04-90d0-45c4-964f-91aaeaf159da',
-    'a794740c-7126-4ca0-950a-7274ec144aea',
+    '19f52aa4-b4ba-4a66-b2f8-a87e36670d04',
+    '86de30e1-e916-4725-9deb-eb16426c034e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7c18526b-858f-46b1-9283-86a242e3b8ee',
-    'c80e6f26-ca8c-48b4-80dc-21bfaf5228bd',
+    '0f2c2740-cf19-487b-9003-27094ff70044',
+    '93353756-277e-4ced-983e-52e2654951e6',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '9eef6352-e625-4f86-9e43-202beb92a5e1',
-    '1e03f262-329b-48fe-84c7-31b37b860b05',
+    '5ac19d40-9a9e-4f6d-a891-ffa677ad372e',
+    '99cff9b6-966a-44ee-8c1d-6f78145d6dd2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9fa00e67-cf45-41bf-8652-922826d75646',
-    'c0ad1930-70f3-4447-870e-9a3d9f0af68f',
+    '0f042ca8-5d2b-4cbe-a8e3-7376afde55d7',
+    'e4fab150-78b1-4247-965e-ceeeeace19b3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1b34bcfc-65bb-46d5-aa7f-69a89d7c78d1',
-    '225340b0-0790-4546-9169-8cfcccc3ced6',
+    '51b44a62-d9e2-43e9-addb-cb24ec6da256',
+    'c11b3426-3832-4b3d-944a-c2db01fa68c4',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b5a158e2-5ea5-4c4f-a299-4f183697b02b',
-    '067c5d26-c5b9-4b9f-87e3-5beebab1067b',
+    '06e061f7-89f0-4d0c-9a2f-08a9057d8868',
+    'dd53d88b-4793-4a80-8e66-ad145122cb7d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '31da46e5-8d2c-4e06-9091-16f05d5e379e',
-    'aec14ae8-ecb4-407c-9164-df22808cc92c',
+    '6383cae4-4764-4506-b67e-524604ca5ae0',
+    '449b976b-2ddb-45ab-92a2-0d47ed886a12',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e2cf020e-330e-4939-897e-ca7018de0ffe',
-    'ea60eea8-9980-4051-be2e-83ccf3ffd768',
+    '46e83456-c6b3-445b-ad1f-19a6b3adb8f7',
+    '0d7bbbb1-f862-4f9e-a644-ee048f5f5c8c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f321b41a-0592-42c5-ac5b-3da67a17a13f',
-    '1a1b8f8d-2af1-4120-881e-7eed06389ef3',
+    '581b2c1a-338e-44b3-98a5-165d9e22112b',
+    '7eacf053-c702-427e-adb6-98ee641d8e10',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '96ca907d-82ae-4bad-aef6-0b08dec17545',
-    'c35cd835-de2e-4524-b793-479985d8db9d',
+    '6087f5c1-cd17-44e2-8e8a-1cd7d7f1a790',
+    'a4376a08-f9fc-4735-9a23-37a95fb7776c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f6408396-a749-46be-826f-2dd7800a8083',
-    'dec6516b-f7ce-4c61-a3e2-92bf32714299',
+    'e2c75a1e-092a-4681-ac2a-1ac967503baf',
+    'c71a63d0-b44f-4766-ac6f-59264d9a82fb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c71ffc2d-37c7-4ccd-ac43-96b6c6f81040',
-    'fc941e0a-eca2-445e-9019-f2daa2a1da53',
+    '2935f4e8-3768-4547-8bde-0570306050df',
+    '3956d34d-4e84-484a-bd9a-cc3365f21d5e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a65abc10-f0db-459c-8499-c9fc6f6a9e27',
-    'd18dcddd-f8ab-4cfe-b8f6-5b37a225abc5',
+    'd89b54f4-2082-46d3-b93b-c5bece0fa033',
+    'c27069fc-bdf9-47ae-a3e0-04a21cfbb6cd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f638bb4f-b973-4dcb-a566-6637b606c813',
-    '9e5c96f2-24f1-451a-9e4f-78fd0568e651',
+    '867be361-578a-4796-9766-1834c7a1096e',
+    '325cd65a-85ae-443d-ac4b-5548aa5d13bf',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '76f45a36-b120-4aa9-bb5f-a6959f7ffafd',
-    '74495f18-2da6-486f-b52b-1afa9860df38',
+    'ff94e377-0bc8-4b87-90b1-f73df4463e0c',
+    '5d72913b-0348-4a6d-8856-c922bba5a0c6',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '91890d69-170d-4fc3-84c5-cde2486ced6d',
-    '130f4ec5-7525-48c1-8041-3cf39af85a77',
+    'a9b2eaa3-48a8-4621-8699-a7595f514abf',
+    'e3cf0795-7f2b-479d-8ee0-7e8f8eb5649c',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '7fbb9ffe-11fb-4838-ad0d-d1fc035bec8d',
-    '8d7aee7f-980e-4fe5-a60f-fbaa3f03537d',
+    '9113fb42-c6fb-4277-b79c-b3b47debb863',
+    'a36f254e-5d50-48ce-9706-19905619c4b5',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '857a8486-14b5-44dd-b719-3c4065b9cffe',
-    '1e564a9e-96db-4a66-8ae0-ae75cf07a88d',
+    'ae1b3724-f2a1-4908-b1b9-a90f07e0de84',
+    'f5987392-e046-480f-887c-d680eaa30cf0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a775056f-25e2-47bb-9702-ec928a51942e',
-    '005591af-143f-49c8-9f4a-aed6d2792227',
+    '693f899b-d4f8-4446-8478-94e21f520d41',
+    '24d7fbc7-f2ae-45af-a1fd-f837dc1e28c7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ca8587c1-ffdf-4e3b-b1c3-ecddfb167f06',
-    '8c2a2dca-e268-4fca-9b66-f9ad02a31dd0',
+    '54d3938d-2275-473b-aa09-3bc1bd656b9d',
+    '860e8bbb-f084-439d-b972-4f6ecad28f39',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '811c16a7-3208-4cf5-b686-4144c31793ad',
-    '784975a1-4fa2-464c-9973-d837ba2f70f8',
+    '27ebde05-e86e-46fa-8ed1-c936e69a0b93',
+    'dcd371cb-5f80-4ee8-b2b6-3eef824ee553',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a10737a1-2b7a-415d-b83b-cea8d9dbb222',
-    '2b8c1dea-492d-43cc-a0ba-ecde6a321f38',
+    'd1f7ba7e-1b42-4ba2-a22b-07f5809ef225',
+    'bfc0fd99-975a-44a2-8489-de6de676bf85',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'd5f59da0-6718-45a8-a227-4cc34a8fc056',
-    '5494cca6-0016-41f5-93be-2c03184197fc',
+    '4a847796-1dfc-49f5-ae9f-b196ff4d24bb',
+    '41081a8d-b520-45f0-a380-2db0b5635f5a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '897d2a4e-ea44-4253-a28f-2f8136445535',
-    '182e7a2e-fc68-49d4-b326-fdd7b3af0b8f',
+    'd33794b9-5cb5-4326-b1ae-055f3d73298c',
+    '0883bc83-45c3-4f10-b3c8-2cd946365629',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2003bfee-df0f-40d0-949e-eb378dc1c862',
-    'e8c5bb71-2e09-4404-a2f9-113df000b65c',
+    'b0cf6a37-440c-4bd5-b979-64b36d5d8147',
+    '82aea6c4-e023-4856-9110-9595b11eaee4',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '174a854b-2c96-4e48-a365-1a1cddb9449e',
-    'cc7184b3-bd29-448c-8df3-7d2207d1735a',
+    '28dbf014-8a7e-430b-819b-051f61b24308',
+    '5224055d-ec25-4ef0-a0db-5e4afd571b72',
     'iso_639_language_type',
     'Special',
     NOW()
   ),
   (
-    'e8aa613a-9dff-4e5d-9fe2-d7da198073ab',
-    'e3f90e78-a19a-4b1b-832f-6752d38462af',
+    '80a04ef6-9c71-4dbc-9a09-3d3f543b8db1',
+    '43433b50-0c74-4edd-bef0-60f25df4667f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6cb47912-857a-4da3-b034-8056116531e6',
-    '17fd6943-7f11-4a48-8c92-fffa30c89a96',
+    'a9461010-011c-4d6d-83ec-905d88d15bc7',
+    '28c8fe23-4720-4c77-8ac8-423ecf52e494',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f9d95771-180d-4fa7-a5e8-ce177775b532',
-    '25c20543-8e92-446a-901e-74755d02d855',
+    'a500a203-17d1-4659-b75c-481cdaf0a8e8',
+    'df7cdee9-300f-451d-84a2-58f08e4e6cfe',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6d3b53cc-29e0-496b-a6a3-58e76e266b33',
-    'af13dd01-bad0-49b4-9d54-86fddf32d86d',
+    '2c51bfcc-cccc-48a8-a983-1cf1817099a0',
+    'cf2a15bf-9a1c-4521-bb7b-c5290e77a77b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c4cfb306-2776-4a24-92e2-d0d8f254ec5c',
-    '713a2809-9bd9-4499-a72c-0d35c2f7ac77',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '410c044a-8318-402c-9f3f-81815afe8ec4',
-    'c36a218f-f79d-47aa-98d4-d9d50bff9113',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '84bad5b3-cb2a-482f-9495-936026d39a63',
-    'dac1ab08-193c-4feb-9a02-ecd5594bfc9b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b1620fe0-77ce-488e-856e-38b52ece341e',
-    '0c68712c-cf58-4e58-ad16-99665fe53322',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c9e5873f-3301-42b4-aa84-928a48d9db03',
-    '1c553960-9828-4428-ab83-88f07e7adab6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '49a6f873-efea-4c4c-88c7-d2f77f1d54c2',
-    'e42a83fa-d56c-4b1a-96c1-c1a6e54bae68',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '96c3eeb6-0d4e-4718-8e87-d3df7752cbef',
-    '0cfd024c-7aa2-496c-a414-254b0800901d',
+    'cf1fab2f-5b32-47ad-bc49-b182d805e916',
+    '2bc1e04b-79de-499c-8c93-5aee112f9ebc',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'bb7fc451-43e8-474e-ac21-cbd03c2299cb',
-    '60167b9f-6eba-45fe-be53-f085862123a5',
+    'c69d149e-e777-4901-a3b3-fab2adf56578',
+    '64639761-82e8-4b5d-ab79-66e9dbdfe501',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b3635911-cf03-47f8-97e7-2ccd37767266',
-    '09276dc0-8269-45ba-a7ec-0725ca6ecbcb',
+    'ebdd05f3-7fe6-48f7-a823-2f3e17b95cfd',
+    '239b6ea5-885d-49fa-af32-83e50353818a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'af1f59bd-c8cc-4fc9-8278-ac0ec3199b18',
-    '566394c5-662e-4707-985d-cc75ec74dc10',
+    '662cd171-0f01-4825-acf5-190fa9b9b669',
+    'a987aa44-f762-480c-a068-7eb3b91944ff',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9adea29f-b5c6-41b0-ab30-da6c3fe2f0cd',
-    'ce0a7fe7-a409-403b-a059-2379218a2c7f',
+    '3ef360c8-5e44-409e-9190-ba15acb1b6a7',
+    'c7f5ca61-adb2-4741-9e21-c83d276fb8b3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '92dc21bd-fe07-4215-a317-94c922ead8ba',
-    '2a63887c-3b9e-4bb4-99c5-b1749a3200ae',
-    'iso_639_language_type',
-    'Extinct',
-    NOW()
-  ),
-  (
-    '6ad9666f-64e1-4057-8f36-1a7010fc9ef5',
-    '240c340b-c688-4345-ac17-101ef4eb164e',
+    '3e9bd391-4d13-4c35-a3b4-ec73d13ad443',
+    '89ec7545-2289-45ad-9155-599e3bbf6caf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eb4ffe94-5e2e-4291-af8e-59c592fb7941',
-    'af98a9dc-ae1e-4129-86a7-b13daf3217a3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '93d8ddfa-509d-44ee-be68-79ce699008fe',
-    'feb6dc5c-2eaa-46eb-be53-96e52cb6ed9a',
+    '5b1b9c08-129c-459d-99ad-4346325bb40b',
+    '99834629-ddfe-4ddc-bdbf-135639352f4b',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '28034850-5573-4312-b890-59fda0b07010',
-    '243fdf85-aa32-4760-9d39-fe58cd7e976a',
+    '307618ea-30e0-4c4c-aeb3-3f6301fc3680',
+    'a1842c07-9859-4920-9e26-fbff4e3bf7b9',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'dd8eb5b5-186a-47ea-8717-ab4c5854d0ea',
-    '53737801-d25b-4535-bc67-e90fd1fbee54',
+    '578fd86f-378b-4e84-aac0-42775d77f0d7',
+    '61ce4b9b-62a0-4595-90df-f57eadbe5e43',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '033f52c7-93a1-4126-a0b9-e4057692fa68',
-    '09d39020-939b-45be-adc2-cf03d10c7775',
+    'f6b11a08-5ac9-491a-8164-f27f59b53bb6',
+    'c94bbb36-4153-4e2f-9e15-4facede12fb1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '63d96fbf-2353-4c9b-b527-f4e14ee0129d',
-    '7f00bf94-7c6f-44f4-b34b-5540df1999dd',
+    '3052aa90-0905-4399-9fe1-61fe722a6548',
+    '29603bf1-a7c0-4a77-85e5-bd889ea3f299',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9aaa587f-ecf5-422d-ac91-cfcbb21dfc94',
-    '91915574-8d9c-41a8-b41a-a036483817c9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f683cee6-9350-40bc-8004-6f88c565d8d2',
-    'a0cc9334-cac3-452a-9eda-d3ddb0ad00ea',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e3cb7620-5a0b-4a0d-81bf-1169745c4723',
-    '2dc63712-0c79-406b-994f-9756ade8981d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9ec7b307-b50b-4b1f-963f-e885053f549f',
-    '902ae968-5470-45dc-8605-f4a6aefba9f1',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4071f104-f67e-4f3f-8af1-1db12096c3e9',
-    '8b97bcd6-aa00-4f9b-bc91-08a2807e4c94',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '12274c47-5a86-4127-afa0-8cf39a79f9e9',
-    '3d086373-36c7-4aca-82da-46d73141c53b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '14130d3b-a921-45d0-b519-32d97f1c91de',
-    '5e6836c9-ffa9-4f20-aaed-20cebee68fc3',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '020cfd23-5ece-4976-8700-aa84a5f923d6',
-    '6bfa388a-bbd6-4cbb-bc19-ece773929f66',
+    'dc9249ec-22ff-4e95-8c8e-3116868e05ac',
+    '0ac0ed56-b2b1-4ec4-a294-3e0b84119a4f',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'de9eeffa-6420-42a7-ac70-1f66a8f99302',
-    'edbe4414-5bc2-43ca-888b-b9fd11237139',
+    '71eeef3e-0384-4c35-847b-1a05fe54e278',
+    '141cf9da-ddf5-41ec-8e68-4bb03ec8dcbd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '27cdf898-b82f-4270-8771-0583622879c6',
+    'f616f823-e818-494b-be4e-11974ba43d7f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9f9b1fa8-e233-4049-8044-cb5112c1ddd8',
+    '55c11f87-1447-4d80-9ffa-b6771420ef41',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '7132d428-c730-4ddf-bd7e-2506956c9999',
-    'fe32b419-8a82-44f8-818b-cdace8eb149a',
+    'c5232637-6245-4470-84de-22a669bd83bc',
+    '83b2b0fc-e203-4644-8757-75843abd0aa7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8ef659b0-e0bd-4305-b1c6-249aa7a83fcb',
-    '548370ee-e98c-44dc-8380-b216365ed327',
+    '6d2ae364-e2ad-42ac-9f73-1091ce9a0fea',
+    'a9367d8d-b2f1-49e9-a79a-432457e74f54',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bc2630e3-8908-43f0-8329-e1a657b9b184',
-    'ac5fb52a-67dc-4b2a-a5c9-90a40d109b12',
+    'c562d02a-ef91-448e-a327-84df900bd302',
+    'b055925e-5d5d-49f3-a882-a0296273ecdf',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '97638632-38a5-465a-947c-eb75be9b1983',
-    'a8d81f37-9871-486e-8cbe-229f5986f02c',
+    'a9ce7ba5-3bbc-4f37-ae88-3a179636739e',
+    '60179374-36da-43a5-a90f-6bdfd4deb7bb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '54415559-8014-438f-8951-06fe44c649fa',
-    '19aeb40d-c7be-4f0a-9972-ef193d2966ca',
+    '35f05426-81e2-4770-ac27-100d3bcd0292',
+    '4bdf6ca4-eb18-486e-b07b-10830b34470f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c646de0b-4cca-47ec-9a41-8df9d8f5ddf3',
-    '9575088f-92eb-4c6e-9b35-5b1574a5f1ea',
+    '7a4cbc7e-5205-4913-9ebc-f266b22f1b04',
+    '6a97c405-8594-46cf-9234-19cd37f111a0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '12423bc4-f1ea-4602-9052-d91c9147ca1e',
-    '4ba1c078-1df6-4cc4-b8e9-faa86d5eeb4e',
+    '56370b6a-df2f-4277-83a7-b70118134196',
+    '3b74d927-747d-4b25-8f0e-2339c93e64d2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6a86110a-b8d2-430b-85a9-f0b33a1c4dbc',
-    '59645bd6-e136-4f45-b63d-3288aebff582',
+    '64ffe742-7aeb-4c36-ad56-bb6d759624a5',
+    '71fb00a0-1543-4b59-8a2f-f384efc49e89',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e509fe4b-a4f1-493a-9b00-3422347ebbc1',
-    '3f492ffc-e5f4-496b-8db7-97c70b4f4cba',
+    '3c43baad-fb53-41b5-8b57-f122378d4f4b',
+    'ccafe786-a7d2-4e1e-9203-01dc693ad380',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '22fb2ada-0cfb-4244-b735-e0e9af699eac',
-    'c8b94403-d53b-48ff-ab50-40d290720050',
+    '69943277-73a1-4f7f-b301-a22e1870f2e2',
+    '848c8add-d3be-42e9-a51c-e9a6909853b1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '18c21321-7a02-40c7-bab5-a4bba6df1720',
-    '9d83205f-7539-4701-9af8-96759ea93171',
+    '290d4ae7-afc5-449c-b339-51caf558a49a',
+    '224e135a-33d9-429d-a157-ec889da187e4',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'abb75aa8-d2d4-4ff8-b67d-af47dbbe4a0f',
-    '007ef3b0-1566-4080-b06e-9243ee4cc472',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ff2bc93b-2950-4e20-97aa-e8a26d2be41b',
-    '9f9aaebc-23af-472d-ad8a-d897ba36aa23',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '07194eb4-d147-4907-bf05-c9f278f973b8',
-    'c9d9a1bb-bf83-4e66-a691-b72a61435b7d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '002fcb7e-dc7d-4e59-80c9-c49d41f24cd8',
-    '59250129-a17a-45c2-a7bf-787039e9ef1f',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'db7cf4de-50d4-40b6-a2f4-42a71c49af14',
-    'a6472cd8-3a0f-4839-a30a-f75816f89fc8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd7a1df60-1ae4-4387-82e3-ff09627e9d41',
-    'da772630-19d3-472c-b4a8-a8b4c5bc39e6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6dbe068b-bdff-437f-affb-dac8bc7b4cb3',
-    '81c2a016-0197-4e72-8354-1f8e103b4286',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '47649864-00e2-4bc1-8886-0383dd91cb25',
-    'dafa2f1a-9abd-4f15-b3b2-82f1572c3856',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '13793272-2e8a-490a-95d1-7885019b3c2a',
-    'ab2d9286-3b4b-4f94-acf5-c3ad145b9ba9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bd787779-4c24-44ee-9db9-abcd3bf83772',
-    '9f71a096-7634-40b2-bb88-a46f23cef1d7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bbf64e11-cfd2-4d68-be28-f059a99cf5e1',
-    '4e369a19-6bbf-46a2-acf3-fe0c662dc4f6',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '4d34dd1d-d5d0-4e24-930f-0b4e2dcefb2c',
-    'c99a1758-b7d3-4796-80b9-acd2592cfcd0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b85e5bc7-da72-49f5-899d-2abc959f7503',
-    '12160f94-22fa-498d-aed6-e6e030b3aca8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '049407f8-9030-4732-8b72-94e8b542da13',
-    '36e6e133-2049-4b0c-a80b-2790a7831888',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3a85f1fc-dc50-4344-9e55-70e24783c774',
-    '07053af7-d760-4b07-b96d-c0daf0c3a407',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2178d577-6ebe-4d7e-b607-c9da073348cf',
-    'd9eb87b9-29fd-4e0a-b813-9d1aec43296e',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'ed25709b-6a35-45a9-a298-da7d0be5ef7a',
-    '6237ae1b-9150-4c53-ae66-7527576c5abd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8a04d3a8-0399-4ca8-9420-ed3b215da97b',
-    '01e9a6cc-a0b7-4536-9551-a1104a45f879',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b970d24f-974c-451a-ade5-e72fccae2122',
-    '30858711-5491-4cc1-a41a-4bcaa60df3d9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7a2fb02a-4f84-4d0e-aa09-ce0190be74dd',
-    'a8be9b7b-ab85-413b-9f85-7e2fdacb4e20',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b657e35e-3e29-4626-b96d-e1f22adf7d77',
-    'd9b22a1f-7bed-4699-bead-f45d71f681fb',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b9a5aaf5-a96e-45fb-8902-5e200eed721e',
-    'df115ed7-bd27-4a95-b995-1fa0e07bd239',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a111f399-35c0-4c12-95ad-c8cfb93952a0',
-    '086a70c2-a5be-41e1-a679-c75a845a59bc',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd8991c21-f263-4941-a9bd-2095cc13d230',
-    '2e73378e-2b09-4de6-925a-00da3dd8ba94',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3aac4702-558e-482f-8328-bf1be3360aad',
-    '805cb2dc-f1e0-4960-8dc5-36890ba832e8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7cedafb8-9d8c-47b1-bb37-42761772d67a',
-    'acb07879-c06d-474c-b37a-9d19ddce6b7c',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '6fb9ea1d-8865-469f-a0aa-673702a350d9',
-    '2ea56a7d-2e76-4a0b-b6a3-5482340c7625',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'a87ccdad-a74b-42a4-9cb4-bea0976b6947',
-    '1e96801e-7459-470e-a905-f40cac1d127a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '2ef01b70-b2e3-466b-b925-b80b04dd8e49',
-    '5c591fb2-bfa6-44ef-aa89-17e651e934bd',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5b6d24c4-fea6-4429-a60d-3f93ffa6236c',
-    '980a34e5-b209-42f0-8443-03541714e141',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd8a7aa42-ad43-46fe-bda9-efa5a0d2ef46',
-    '6e11c60b-b610-4161-a04e-2d1476a5da24',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3a4bf396-0ef3-4414-9bf2-692aa9ac46fa',
-    '53400687-414a-4b2a-a0b8-7f36d7756bb0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '73d04ade-da74-4399-b60b-02a4ec621d07',
-    '718e2cb1-8bde-462e-a08b-c8f2d716be58',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c195189c-0ec5-4cd8-8943-befa64c7434b',
-    'aa284acd-a50c-4953-b9a5-aecc9e3ce2f5',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dc99b3bc-385c-4bf7-9119-597071d3ee9f',
-    'e69e97e7-ca74-4881-8a98-0aa9b10e1efa',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '45c1c202-2a46-44bc-81c8-a0fc836a9c1d',
-    'd6121e5c-e44a-47bb-8368-99cd7f4c8c60',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '8479f224-a7f4-481f-a988-183a3c8bf5cd',
-    'f9f9c8ce-d117-4555-b2f5-80a8198e4d80',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '382b86de-9edf-43f6-b61e-0016aa7d563e',
-    '9ed65580-f7c8-49b9-8e42-034f7309cc42',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd7722db8-d695-4ce7-b6d6-2846b149e7f8',
-    'ec3958e1-e873-4478-8188-b70e97649fc9',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'f92cb8d0-89b0-405d-a663-e2b5394301e3',
-    'd371cbb7-1c8b-424d-bb8e-add72f14e7af',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'bc6ccb99-d800-4409-808e-fb56bae8e6a2',
-    '0c36ae0f-8bc7-4b5e-96f0-933b32a366a8',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b37cc838-6a31-4497-81ac-6126c87ba11e',
-    'c1df9af9-82a4-4f93-bd08-05c0ebb58b12',
+    '1ecf39e3-bc19-4c8f-b10e-e7fe9edf733c',
+    '8d118ec1-5f9b-40c7-8537-92c96d5892dd',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '4cd7ca42-fad1-42ec-a253-035cfbb97939',
-    '395fbc22-1678-4b8e-b6ec-33fa2eea9164',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '22002cb6-800a-4e94-97d8-d8a30a177b00',
-    '5f9e2332-f74a-45f6-8560-71d366fd6d4d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'dceda20f-1ee7-4ed0-974f-84d83d268784',
-    'ff2d8a20-b247-4174-9440-1a0613fb0bed',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '7ce1894d-6986-4d44-a865-91373fdb8fb2',
-    '600297d7-6dfd-4889-be41-95f75afd9e89',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'b7d1b116-2cb5-48f2-be45-df56a84cbdc0',
-    '53ac08ae-5c47-4557-a129-5840e5987683',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '87402b41-d974-481e-94ca-d8dcf321d256',
-    'b2c0fc51-2ce8-4502-b05f-c85452757c0d',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '5d2e6d88-0b43-41d0-98ea-319c4a45d501',
-    '322c8a03-d8fe-4da3-8843-81e178d86c90',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '3ba0b584-14b5-4445-9beb-ce4696f338f6',
-    'fb42af0e-b7dd-4e1f-91f9-1599e16d2227',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '22d5268c-add4-426f-9ad8-e5abd5a0643c',
-    '433c9985-9607-4025-9c08-be7a5f6e56c7',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '637b8cca-de25-442c-a6b9-f5f906e91683',
-    'ea45661a-e1be-4540-8b2d-c66b95c0d17a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'c8fd0b35-505e-41f6-b9ce-03083d965d4c',
-    '186ec246-5868-4739-87a3-ee770d3027f0',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '82ec65dd-3e59-4355-a264-da10137d1d3e',
-    'dece1b56-d61d-44e1-911f-2e0f562f7483',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '9a63defc-e28b-4363-a758-a018792c4dd5',
-    '8d7708da-dbde-4ec2-82fa-e381aa88194a',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'd87ca243-89e7-45b1-91a3-f47618268422',
-    '182d5cb2-67b3-47a7-8227-f95debeed457',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'e0c47ecc-b725-441a-8994-db5ad1479daf',
-    '25ed474d-76d6-4f43-aabe-c92bc0a1f323',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    '676746fc-1ba2-455d-be00-1b2d2581b807',
-    'f47b26ba-7c31-4ab4-95fe-99deec0f7c98',
+    '87e4af01-0fcd-4be9-b7d7-8436e0c35be4',
+    'c0cebb59-8d7c-49de-acd5-873948b4288a',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'c3f8b43d-6d73-4355-9602-6b4192868017',
-    'd8bcc6d9-35b7-40a0-9cf0-7ab27955a7c0',
+    '4693b759-609c-429e-a2a5-1afad4e7efbc',
+    '7a0cb704-88ee-4cba-895d-6b5385a6327e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '086e95eb-31ff-4fba-acd5-d0a90daa03cf',
-    '0b257656-60d3-4b0c-a169-68b203c06797',
+    '12ace1d2-0f91-4671-b3ea-9f2b2c0f19db',
+    'adb544e2-9d65-430e-8ae2-dc3949424f09',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '86205ad6-a342-4a40-9786-85fb6c73292e',
-    'ac6e88d4-f9b4-46a0-a7fb-43d4c0fcd827',
+    '2a473761-36e0-46f4-9830-4edc80a4aca3',
+    'c1dca94e-0e05-4ca0-a371-e1c269512445',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4fc9f781-da2c-4669-82a1-fa7e60d8d83b',
-    '155f7b1f-0da4-4b86-b569-0d974c8dd995',
+    '495d9b7a-b87d-4f3f-9392-2c1977a5b956',
+    'e8c42e28-a8a2-450a-8d77-f82a616c4458',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd4966645-e164-4d36-926a-5637e62b27a5',
+    '2386c83b-1834-476f-8d34-3a192692d770',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9bec2a61-bd97-4c13-a62d-df10b6a65b8e',
+    'bf5914b9-8bf2-4393-aaa0-8a48333cc0d2',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd4c199fb-6170-4246-acd1-947289a3494e',
+    '12736248-1ec4-46bb-a1c3-5f3284c9a79c',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '537b856a-0067-4386-b231-8e2aca4883bb',
+    'f395e297-9ae3-4b20-abec-c9bbad6da181',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '17d103af-516c-468b-b2f5-883bddd52212',
+    'a40084a6-d299-442e-a395-e2bf1bde6cd5',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '31cd00c9-35da-4eb0-ad29-7db2fa6dd665',
+    '0d68c11c-039e-4dc9-8c94-1943696093d7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '481586d9-60c1-471d-b385-a4b486dee4d5',
+    '1cdece6c-71e9-4da8-bfee-790c1a51ec13',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '42cba6a0-39c6-4531-b1fb-3f61d47efc43',
+    '2e65ba5f-b011-42a4-b44d-c041ccfe5302',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2a533b70-eaa6-4c7c-8f75-99377172a951',
+    'c060b69f-3cd7-41ee-9a1b-29835e322e72',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f443d0ba-fd9c-438b-ab7f-776fd4e535b8',
+    '827a1594-4de6-4cae-adb4-0808c2539fa0',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '59dac8eb-712d-4121-8c0a-f5b8ca5c7da1',
+    'e84997c7-bfd1-41fc-8b9b-40b4aaa94272',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '9edfc97c-1b95-436e-8d7f-eb60d22f767d',
+    'c6102089-12f7-4e2d-be31-579ade032c88',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '275efdb8-12ae-470c-8ebd-8f831d9b522c',
+    '0a0a889f-2ae3-4df7-bef1-03404e1412ed',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5206af60-7a42-4637-b2ec-56a883c6ae60',
+    'c407127c-0285-43b8-abac-a1967525d38f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '19384272-794c-48e1-aa27-29cd4eacf35e',
+    '939fd1dd-30e6-477b-9adb-2083d67b01ed',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b9a8caf5-0ed4-40cc-846b-4f54fb348228',
+    '78e12c63-d63b-40a3-b214-f3bc2379e153',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f3896a10-ff32-4ba7-aa96-dee5f7c7372e',
+    'd2ebc5f2-3790-490f-953c-20674d1699fb',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '39873ee2-5d39-49d3-be84-ecfe279cf8a6',
+    'dd6eccd3-6d58-4c2a-b213-9d6a1c3c99c9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'b8510b6b-5d5f-408b-b937-2d44ee8141b9',
+    'a46b59df-c2ad-48bc-b682-dfeaad99d46a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '236a608d-9d31-4bf6-971c-dc8575079661',
+    '1db16fab-0740-40ca-b213-f0078d3021c3',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '481c45b0-a76c-47b5-9da8-951ddb4c2fb7',
+    '0ed526c1-84a9-479e-aa58-3c4533d21323',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '072954fb-a7c3-4777-9c1f-ac05c4bd54f0',
+    'c14a29a8-147c-4a59-b714-9aae2211a339',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1b1dc736-6503-46cf-8997-7db4e78211c7',
+    '977f170a-0a3e-4596-9ee2-81db55b02e41',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '43bd2f24-005b-408f-af6f-4d8296ca4f70',
+    '39c4f121-c6d9-4916-94cd-5000c9ece379',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3ca15f24-7f41-40cf-8d38-77b8daab8f63',
+    '21576fc8-fd9c-41ce-b43a-d572e1ce4b7e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '99a1eadc-fdde-4c2d-aced-02147068bbd0',
+    '36426a06-bec3-46b0-9111-106bedb7ab22',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e58ba3e4-dd11-4d82-9900-51aacf273d38',
+    'e9bc344e-c02e-4827-908a-b3d99109dc8f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e4f672cb-c954-40c2-915a-b2de0b5c88d7',
+    'b08604e4-b64b-4ddf-a217-24f75957b19f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ad62eaef-ab8d-4b4c-a5f7-3c402b69f95a',
+    '9dd72c76-7831-4e44-9704-9a17ca2ce740',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c3cf917f-fad8-4295-abbc-5c217978ba0c',
+    '9048e15e-8700-4630-89c0-8bd73f41c1ac',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '827a21c7-68ab-4235-a241-97132ae00958',
+    '27c96b76-b6f4-456d-9367-2b446c5e20e7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '46b34ee1-3cd1-4405-9160-438010102b4f',
+    '8092dabb-34cc-48ad-bf3c-d4c26cd233fe',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd8f1171c-66a8-4908-8ded-85a598c04dc5',
+    'a682bf80-1d0a-4d8d-a4fb-7beff2f31d3a',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '15098f1c-1fac-4645-8835-a5f256e6c334',
+    'dd261729-9245-484f-bd14-e0a02c6f49e1',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'c689fd3a-3250-4ee9-9f66-c9b0fb401fe2',
+    '0558462c-5293-40e5-95f4-dbc42ca86550',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1bc5e7f1-c338-47cc-b609-55b4ee62932a',
+    '06c18d6e-7487-4e3b-944b-24d706e2552b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5756bcf5-9a6e-4bb5-91d6-fc1b21489302',
+    '0a65a10a-3e2f-49ef-a91d-ee643d16be04',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0683c2b9-f2cb-4074-8718-dc13c3d47bfe',
+    'f8c59ff7-751d-4d0b-b011-a9d7db7ae60f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f8048842-320a-4219-b9a2-75aede79a1db',
+    '3114f5fd-3691-4cc7-a746-9e456ade8066',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cfbd53e0-ac9e-4316-bd7a-e22d256b5962',
+    '4eaaf3aa-d191-467c-a7c3-6da13d42287d',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '23c6394f-333a-44c2-9fa5-ec4946c377d0',
+    '10a2f6af-8b6e-4073-a2ec-514d9c282770',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a0eed76f-93ae-4ab2-8213-f5c8d232d94e',
+    '44f46b73-747d-4b14-a019-33dd32f87da7',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '04cc2824-196b-4d50-b958-c2cbb5bbbdf8',
+    'f1cff262-f79b-47a2-abf2-28c844550980',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '1e311d35-9b38-49e5-9676-c8a1c62e5cf4',
+    '007addb5-ef31-4e04-8a0e-6e8e1a32589e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7ded3fe8-8dc7-46fd-9a8f-a9cfd74ff99e',
+    '5fedcf3b-6281-42bf-a423-12ff40409629',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '155fda85-fdbf-4d12-9525-c2cd8c026b43',
+    '46663821-7f3f-4151-9b6e-70811415b7ea',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'a5a8447d-3943-40a5-9e0b-f38804cb2d26',
+    '2bc005b9-dd34-4744-b7e7-115cde9d8aff',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ef45834e-45a4-4917-a678-ba96dcf6f2a6',
+    '94b8cfde-e3fa-4b9b-b921-2abc3a210dcd',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e5f39c4f-84ef-4051-9cdc-d46aea75a541',
+    'fdc011f4-a5f8-44a2-9315-4c5a1d3c6625',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '4b32a6cd-c106-4653-8bb0-4884ba48a4a3',
-    'dc9594a9-94af-4d9b-b9ae-4a67d7b0e021',
+    '7907542f-972c-4bd3-a93e-ca7fc523c032',
+    'cc9bdac6-dda0-419c-90ce-14cd951eb228',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8098b2c6-a91c-4b3d-a68d-93abc5dac3ac',
-    '33cd047c-900b-44c9-9820-76c90f24a4be',
+    '3c8e6bce-8c9e-472d-a7cc-aeaecc1ab031',
+    'adc270b5-e40f-45e6-9e5b-67e89722f368',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '60080478-e1fd-4ebe-a855-1927361bb55e',
-    'a6fab684-4d4e-4aef-a822-473ddd60e901',
+    '33389046-9443-4ed0-b200-db36c0d93f4d',
+    'b13b64cc-5d4c-40ea-b2f1-7fde889ff35e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '26a3fe4e-fbb7-42cc-a94c-861d2eb5d3ed',
-    'e046d766-2973-4bcd-8e09-5eda0f3db349',
+    '979e5e09-a16b-49c0-b16a-487b2a15ff1f',
+    '600c717d-405c-481d-a24e-0d5945182f33',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '205a84ab-5785-498b-9f7c-bb15bada729f',
-    'f3447d96-cb65-4c53-945a-39abcfb4b6a1',
+    'a07e2263-bee2-44e3-8eaf-e0e114eeff3b',
+    '75f8f1dd-3f1b-49b3-8dda-145e38e5ad72',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fc7e56ba-cb31-4f7f-9825-d7543378e90c',
-    '752d9065-e186-4c5d-8be3-0c718c096b7e',
+    '9705fcfa-a0cc-4d9e-bf58-81a5619ad869',
+    '98ae8ec3-a072-4c95-9a84-a72100f44b46',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bd7c0b55-d33d-41a8-9931-0eb3d55424fe',
-    'db25c675-9d04-480d-95e3-fbaef0481630',
+    '5da92864-ed93-49c2-ba3d-af8325f8a784',
+    '0e86dd0c-f4cf-4687-b246-95ae6f69278f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd0ca0d60-3ee2-4354-9eeb-c1ad877c183f',
-    '209e2825-2756-4ee3-a16f-19b9946979bc',
+    'dfab4a54-1421-4ae6-a0ff-6100f9a22b04',
+    'e887464d-01df-459a-b97e-a7b3ee5ad012',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '69cda2ea-72ea-4e03-abc0-37f8245dc883',
-    '8e990b63-6fa7-41d7-9f2d-0ef8f7fc6670',
+    '0219ce73-658a-45d4-8cdf-92c630cdb0e4',
+    'd091c6d0-c2c5-4ee3-acc0-cc383d95d8ae',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ea19ea42-ed08-4473-836c-551e8f450013',
+    '19f9704e-49e3-4043-9f8d-38502c70dd04',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '27936af6-d855-4775-9c47-7b4a86e70b06',
+    'b4e2426c-3f0e-4581-b1de-4ba3720d4405',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e4f1765d-a0e1-431c-b893-ea32ff8b1491',
+    'cc64e664-4f04-4d60-b4c0-25f58ffab9ab',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '874ee5d6-e7a1-4a24-a710-555b62ca09bb',
+    '3a972e57-037b-4b38-b373-a70e71a8bb5b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cf8923a4-8bab-4a66-a108-a7dd3713debe',
+    'dceece7f-f618-450d-aa53-1f70c5d6b4e9',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'cca08e09-f6c8-4a96-8abb-0ce819683271',
+    'ea701409-8c19-4b3c-b570-c6e4b59ff013',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '57d591fb-b8e2-4ac2-81b6-a61997be0c27',
+    '8456c457-5023-443d-975d-b94933d95c44',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'd6920a03-4bd2-4040-8b26-fb44ab82f319',
-    '091c7caf-921f-4b2a-a681-37e30102ed39',
+    '7e04050d-5e2b-4da7-9058-483b6816941d',
+    'de90284d-d6ca-4cdb-9aa1-4eeb7f545c11',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '7cbbb87a-6729-42de-829c-86904d11d446',
+    '99845d1d-aa8e-44aa-95a5-79e715fb657e',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '49f4bdf2-7a12-46b5-a7e8-5206578e28ba',
+    'bbba6919-a5bc-4584-82ad-5210c55630d4',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '3dba0a6f-664e-485e-8d50-e216f8ed1f2e',
+    '4b887759-739c-4f61-a346-e9168f122ee5',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '1fb84519-376e-4da2-9915-141b8c028119',
-    'd4856ab1-ed58-4048-917a-72237c271d77',
+    'd7f7d632-a0fe-424f-ac73-2b7dabebb578',
+    '874c98c7-da87-4f37-9fdc-fb90739f2fed',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ff67c66d-465f-4528-ac5d-8893169f2f5a',
-    '01864e20-00f2-4ef5-85c9-16c747f24d92',
+    '89163d69-1aad-4a7a-9700-559e28215222',
+    '3622f7d2-43b3-4df0-ab38-98e6aebe9e9e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '13d2dc62-6570-4f82-a4f4-5a053ee1b2b7',
-    '897e92e1-987e-4533-9762-b62e30686ac5',
+    'aa42bdd0-dc8d-4b95-9438-ac793e9a37f2',
+    '5eaa0010-cf58-435b-85c5-5251fb5eb5e2',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2f0c22c8-b0f9-49ea-8308-b5f06cf94b23',
-    '0a5826a4-afca-48ff-8f10-463ae0c0743d',
+    'dc243ed3-1be6-43d8-b0f8-dfc089fa559a',
+    'f7ce4ee9-b134-48b3-be5a-35c60447af4a',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd008095e-babb-4944-8214-7f5c40a40a53',
-    'c8a3a990-a044-4379-9df8-0d251903924d',
+    '3993cd85-3905-438f-ba7b-ebd4bf885791',
+    'f711958f-1a9b-4144-870d-54eea671b76f',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2058e258-a89b-4a4a-8a95-1c60a6df5bea',
-    '6d1b96cf-9f9e-48b1-8e89-34f89bb2ddf5',
+    'b6ca5ae0-500d-4ff0-b277-78e19fa63d04',
+    '43c5e6c6-1609-49f2-963a-b681749d5b89',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'bbe2e187-c3db-4bf3-9fc6-fea205b02756',
-    '77f3754d-41dd-4021-956a-db4c4694ec25',
+    '2f94eb84-34c4-4971-a603-bf4eba4122ed',
+    '4aadfaea-1670-4767-995c-a3e371bd60ad',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f44cdb4b-5f95-4734-a65d-41ce4b3eb8c0',
+    'beeed345-1d6c-4146-a64c-c1b950b97f40',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '60d969f3-e915-4374-a112-ff7346dded57',
+    '31b599b3-3ab8-4ec7-9dc2-239e864b070c',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'd7ae3cbc-237e-461e-854f-d08a7313a4d2',
-    'feb67c51-bf17-49e5-a9f6-ff8002b1dd97',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fb7095a0-29f3-4ee6-845e-7627799dd5ec',
-    'a553cbca-9d43-4e40-9ed9-ad8e3568a84b',
-    'iso_639_language_type',
-    'Living',
-    NOW()
-  ),
-  (
-    'fe3ac8f3-3e5c-444a-a9e5-8ae3c9b0acad',
-    'b147b8a2-0a38-4a1a-adf2-fcf79960788f',
+    'b447c8e6-2578-4c74-8dc8-9b2a56c43f93',
+    '26b6f29b-bac4-4347-bac5-875535e8da35',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '24658e3e-f346-4aaf-92d4-cde681a8e13d',
-    '1c3b87bd-de7f-4fe3-a0f5-69f9317484be',
+    '4f2963ac-5e08-4fc9-8368-be5c772f713f',
+    '7b75c697-e24d-481d-860d-8333b334d2d8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c5812dc0-32ec-4bbd-9b87-4bbbb80a0637',
-    '79236fdf-ef11-4e4b-8753-4585fc64c403',
+    '99b8fbed-a348-4aba-970b-572fd5ced2e3',
+    'b2c3285d-da20-445f-bad9-5972a58ddc06',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3bce1580-9995-4ed4-a312-e9de7f5d8090',
-    'e9fb7a4a-c556-4faa-9b31-ea8e376dda50',
+    '3a07877b-5ab8-4f83-a340-76b202a9a8dc',
+    '0a4ea80a-8c91-4d8a-aee0-f7e8f1843b7e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6fddf9dc-fd33-4f5a-b9e0-6e866c1b9f94',
-    '7ae9a1af-1995-4ca2-ad97-609826c41382',
+    '827b76bf-9267-4607-a403-6b368c9f6e7b',
+    '3aa2243a-c002-4675-9f91-04cbefa5f281',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '12cf1008-57f2-4576-8e33-a5ff89a66b86',
-    '1a4a16d4-61cb-49e8-b907-74bc67a8773d',
+    '989ce4a6-3894-42a8-a09e-08898f619766',
+    '302b0ce1-c9a7-421d-852a-9273371eac8f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'd1d78546-778c-4fd5-8a22-0c1eab734177',
+    '48ed4732-eb1c-43ef-9935-c85a9f7eeb6f',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'e5d32678-0a5b-4afa-9be2-a2d7fc2a8409',
+    '2c6f22be-5e7d-41b8-9555-9db51b370373',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    'b864a1f2-d4c7-4a27-beea-be41ae5ca54e',
-    '1437f1d7-030e-4707-97d5-8b52e2875923',
+    'a4e3ec2f-4db6-4e2e-a080-b2cdf5163d07',
+    '7c86c97e-be36-4a76-bf89-a5ba3ddf20fc',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '0f316b7a-8ca7-4ff8-9c27-3fd4d7805ea0',
+    '312af0b3-ccee-4647-a95c-c68bfa110a80',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'f67920e1-23e0-40ae-8c72-cdbfda2a868b',
+    '615b795b-a0ac-4108-b9fd-a6345d24f027',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '96315285-79d4-4685-bf43-895dc36d11b8',
-    'e1651b13-eec0-4002-a005-1d0eb14d8964',
+    '01e3b0b1-8b38-4946-91eb-dde589238043',
+    'b1ad6df1-7b68-4bab-b85f-7818603d1438',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    'ac51f3c1-c47d-4f14-a74c-fed51dc10a87',
+    'fefe93ae-98db-4920-8779-2ad2a0ccd8b8',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '70655f52-528e-47c9-8459-73c193e3588a',
+    '86275b6b-022c-465d-a34c-cd48555da28b',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '2b89d9fb-7dd6-47b3-b1e7-ba37fc9c23e4',
+    '9d5601b6-2bc4-4442-8cb6-5ea14fe66831',
+    'iso_639_language_type',
+    'Living',
+    NOW()
+  ),
+  (
+    '5f3e0505-8338-4f7e-a700-e8dbf23fd7a7',
+    '125efa43-9012-4144-8841-0023a810d157',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '9736e18f-45a5-43c7-90f4-856d3b6678e9',
-    'afed43c4-1057-4498-910f-53ce16a000c8',
+    '704ba457-6f66-47c2-9f9b-b0a37d4e3e28',
+    '01f3cf41-54b4-42d0-83b8-08f8a94ae756',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '181449c0-cea6-485f-88ed-c475c9e8eef2',
+    'f6deb812-ef05-40d4-8b3b-fda53085cfbc',
+    'iso_639_language_type',
+    'Extinct',
+    NOW()
+  ),
+  (
+    '472de4ec-e615-4ac9-809e-48a0977bb6c6',
+    '1bb0b199-4952-48db-af38-35eac3948d9c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1b8db712-a877-47b2-a452-d50de8bcee97',
-    '8bc96719-1b3d-4424-bba9-2f2fe6857a44',
+    '404331a1-d68b-4394-9127-e907d8947996',
+    '1fd00bc5-7bd8-4cbd-aa63-66b89e69ad12',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a48f1556-5ea5-4d8b-a294-c5bcf9b6249f',
-    'e30d43e9-68c6-490e-96ab-f795d42e56a4',
+    '20f248d0-df8a-4b6d-9599-00ed40bab647',
+    'c7750b4a-99f6-4a20-9379-603c0b4af3eb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eb33e89a-8371-48b0-ad32-6822fbc92590',
-    '00076451-0e53-4ecf-a8ec-ba412f0215f2',
+    '44ec9041-2ebd-4a55-9136-2c47d51947d9',
+    '7ed2723c-c7d1-435e-b33d-cabddfdd2818',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'c0a26b99-8ef0-49e3-9a0d-2f1de551d438',
-    'f31b9df8-a636-4212-abd6-6a02a1fd975d',
+    '86de0526-e635-4b1f-bbf1-3bed75d55f62',
+    '3fff602d-f5a7-4423-bfab-cfefe8634725',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4dbd0521-57eb-4f08-94f8-f6ba813faec9',
-    'a755e820-f479-4a73-9f55-218a72b9b995',
+    '528792b1-1619-4ef0-8fe1-cf5ee292baca',
+    'bdd71a3a-327d-4625-b162-9b45156b880c',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '87a79428-a184-4cbd-95b5-f93fa15b815e',
-    'f58cf86d-b91b-45c5-9ed0-ffcf04f602a3',
+    '758c9447-e28b-4dfb-9c84-5874515f4c75',
+    'b3d129f0-e37c-46ea-b056-b8f651bd75ba',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3b06a1d6-c10d-4804-bf83-2b6caf4ae131',
-    'fe289463-229c-4c16-bfbe-61c35691cc76',
+    'aac84927-55dd-44b1-99af-835b53a6844c',
+    '7532cb00-cfab-4acb-ab54-c9ba5b60dc5c',
     'iso_639_language_type',
     'Constructed',
     NOW()
   ),
   (
-    '7fd1b765-23aa-4241-9d0d-58d72fad7ad6',
-    'ec0779fb-2a2b-44f3-9a42-69838ecb2a52',
+    '88d306b4-c9ff-4f28-95ad-f38c6d5a82c9',
+    '86b3da07-aedc-490e-9ef6-59836bd8b918',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'f70b93ac-5696-4e6e-a2e7-af6c54199620',
-    'f7193aab-2b78-4961-bd44-a6b8684209b3',
+    '05dffbac-5e3a-47b8-91ae-03b2a3fcc3b9',
+    '087fea7d-97bb-4dbb-bebf-7da52ae2410d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'fd57fc37-3005-4bbe-a963-7f615b0f7ef9',
-    'a1b890ab-24be-45fb-8e61-2b173eb0f201',
+    '9913feca-f4ec-4268-8553-5f8d67fe1063',
+    '85fe05fa-69fb-47c5-b8bf-6ffa679d6949',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'b05411bb-c1b2-4e25-8ad5-1d00e578bf85',
-    '2c4daf01-bc61-4239-a9fc-b28505261bd0',
+    'a993d29d-7dd3-4c95-ab51-7088c4f5caee',
+    '631396cb-170d-4a69-ab1b-2db38b218535',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1630a82a-24be-4235-8a1b-bd7c6cfe5869',
-    'de46cb56-ee82-4f8a-a833-8e94270ef654',
+    '52ad608c-0047-49e4-8154-527e7a6848ee',
+    '5d07f412-247f-44a5-a58a-1261a64ded92',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ce8ae1dd-053e-4f65-a28f-366e7c10e03f',
-    'c85953c0-a8aa-4b35-a4d4-afca06dbb166',
+    '5f093c86-23a3-4ae7-a296-e6c59df72adc',
+    '52312871-ca7b-4b5c-a26e-8324f3a37572',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7677a1f0-54b2-4a64-a9c5-29c3faca105f',
-    '5975d1f9-d57d-456b-abaf-211023a8c967',
+    'b13439c6-e378-4e6b-bbac-9f498b07f82e',
+    '3e34eb1e-db91-4942-bf81-0c085d7800d1',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd2dfd608-c5a8-4d25-a3fe-f3510c20622a',
-    'b83eb6b8-f2c1-475f-91ae-59c86af39875',
+    '3e98c363-beba-48ac-8f27-aa21611c2d41',
+    '2604d888-f043-4434-827b-8f326ab9670e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8aecb3db-49b7-4586-acfc-c452491c9fce',
-    '256a3122-028a-4800-9282-09b53a92cf7d',
+    '37f142a2-394f-415b-b3f5-8a4492571eea',
+    '6093dd49-6377-47be-9171-ff82f3cba90e',
     'iso_639_language_type',
     'Historical',
     NOW()
   ),
   (
-    '508f059e-043b-4288-ae70-ca8b7ea7bced',
-    '5ef364c9-1359-49ad-8ffb-16ee32adc41e',
+    'dfd730ab-c17f-48f5-aa07-906d1c87fa7c',
+    '26344c82-3dc5-4a64-8104-00450a605e2d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'a6f9fd21-265a-4f4e-838d-62af3bfbd95b',
-    '1c33a8b9-9750-4b35-9902-a41b791de198',
+    '1038a0d3-5555-4f48-b4a2-15cd478f9a92',
+    '576d874a-e15e-4ad1-b6c8-935b3a3a329d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3eb9a511-0fd5-43a0-9d44-65b1500970a1',
-    'cc1e46cc-f614-4b2a-8401-78fcd19dec01',
+    'b1491952-ac09-4f25-a036-a80cd214eaf9',
+    '4a165faa-7931-45d1-86ba-7f1e5b94eded',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '617f0206-1f6d-4b5d-b283-4b8c8ca6dc2c',
-    'ce14d1b4-a521-4d6a-98f8-5e71c74c40cd',
+    '55d61e3d-b7dd-4302-b475-fbca9c656165',
+    'dd810e0f-d4ca-411f-8f81-a853db0968ec',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5407c799-f5fc-40d0-b649-2cdb90452120',
-    'ef610f8d-d461-4c98-8817-4139be249ac8',
+    'fb6a0869-a00d-405b-a9f4-34c9afd847f1',
+    '7bd922a8-cd0e-4264-a5c8-8c9a7e34ffdc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'beefc0c8-2ba6-47a7-8724-d221203a3276',
-    '56ccda78-5335-4e9c-acf9-66db1fff6b26',
+    '3eb41ac2-d2d5-4de5-a6cc-bf66c5e34e72',
+    'ce91fa55-0357-44cd-b288-b4dabc341329',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '5d71877f-f6a6-4ef0-9efd-0f7518853e19',
-    'c526bb8d-0e7c-4625-a468-825fb3344654',
+    '6356a413-d6fc-4e63-9099-baf6ebc4cd07',
+    '1bd802f7-a649-4c4b-b583-8fe5359c28b7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6b47f3f1-547b-49ad-83e6-30693838c031',
-    'cc940223-110b-4581-934b-8111ad825b22',
+    '25e8d466-7102-432b-beac-982aaaeae2d0',
+    'a5c0a1ba-861b-48f7-a3e9-202aa9f683f3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3232f1df-1bfb-4b13-9975-cef0a63da53d',
-    '22d96647-75e6-4757-99a5-230cab76c6c8',
+    '30c90ad0-7267-42cc-8d32-e8606bff1be0',
+    '8739baf6-6360-455b-bd80-b6d49c40274a',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '54a5a4b9-7321-4dc9-9d00-c3d2288f0f7b',
-    '60936957-d818-47a6-acaa-e7871d195ed9',
+    'cb15a7b1-bc11-44e5-8011-044ada06ed13',
+    '89d4cca3-f63e-46fa-96ba-55f0433f5533',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '06ff792f-0831-4d63-ad15-3b42030f80ef',
-    '24d9ddfd-d579-4386-8051-57010bf577fd',
+    '8eb91a33-76f3-41c3-8127-2112d23d9c50',
+    '60a5c8ba-d262-4306-ac75-d427b00e8f8b',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7993eccf-6d93-4853-aa44-ff5e441b72bb',
-    '08043768-b6b5-4121-a4d9-67f7ee985e60',
+    '7935b7c5-ecc4-4e9b-a4ed-20d5c3bfdf95',
+    'e211d77a-1957-4ce6-af3c-4cd54a025a66',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '63a0b493-1784-4422-9f2f-8a84bdc231e2',
-    'e16b51d0-21f1-4f4a-a024-aa0a2fcfe875',
+    'fe5422de-7011-4615-8916-8e5a7c1b4c57',
+    '6bcbac6a-6f5d-4018-8ec0-e33f757bc340',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '417f86df-bb87-4cda-9dc0-42e4e7a8d5e6',
-    'fd4379d4-6087-49b6-8ab0-cf7728e998e7',
+    'ec134af1-315f-4d50-882b-72310fc93f9b',
+    '668da1e0-de98-4bc2-a0f6-d8ca69a49814',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cfd47aaa-2718-428b-a7da-46e71f2d57b5',
-    '47c37e0c-5c33-4b94-bba0-4eadc566ec3c',
+    '637cce82-5a05-464b-a813-477fc05fc3dd',
+    '5bed4ad5-d5a6-4553-bd64-71a0f8d7be0e',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '1e740707-6028-4826-89e8-516f0d77e21e',
-    '998630b7-babd-4a6b-ac0f-2f16bdd66d29',
+    'fe4bc53a-6282-4aa7-bdb8-be66de76526e',
+    '8a70c032-e670-4472-bd9b-f51fc717a805',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '52e9da59-8110-4923-be4d-0b6fd8500cb6',
-    'd498e7c3-b259-4873-8192-e43b583ca920',
+    '9025edc7-6de3-4bcf-acaa-c366dc540c4f',
+    '569fb787-e721-4950-8a80-24675ff2aed0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '69dbc780-85ae-4a7b-8046-7b64a872b324',
-    '496fcb21-1352-4c0e-8076-2395712b2f29',
+    'a8f290e4-ad3b-456e-b014-ead76af2f928',
+    '64766131-5391-4d0a-ac23-b8a799f7392d',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '025703d1-63ad-4381-808a-a3b8089ade40',
-    'ec433f7e-928d-49b9-9236-ccdeceaad837',
+    '5c4276fc-1201-48fe-a6a3-c4e27c0302fd',
+    'ddcd1811-527a-4b81-a7e4-7b8967ac90fd',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd20b926d-f6cb-4893-9f28-8feaa952ed41',
-    '3fa90f85-f7e2-4e7c-972b-b5b18405e5bc',
+    '6227dc87-0c40-4749-b0d1-e8039adb4914',
+    '517e7421-ea72-4b2e-8e57-0b51f439e2d5',
     'iso_639_language_type',
     'Extinct',
     NOW()
   ),
   (
-    '360ace95-8316-4bfe-887b-3d8d28e66b64',
-    '68adf821-cb74-4be7-af89-075beb9be320',
+    'e335a28c-57d8-4268-84ba-ccd65bf6e0b4',
+    '39cf9bfa-bc89-4784-8c5b-5ea7af7dd4b6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0be5d707-c150-42d4-be8d-b2596faeb63f',
-    'c6d225c3-ea3c-4587-8a7a-802249d253a7',
+    '210c3af8-80f1-43a5-8acf-31c83614bd9e',
+    '0623f576-b6c1-41a1-a16a-b34908552672',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2df87e9a-6833-436f-8fe0-c9fa4d571491',
-    'babf80fd-4331-4286-aed6-1cde159a731e',
+    'd59207d0-951c-4bf7-9c98-7d1bdacc51a0',
+    'a4c1d6ca-9085-4b6f-a8ae-69ac460ededb',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '0771a45c-a58e-4452-b344-9006fef9c51a',
-    '1fd8420f-3571-42b3-9a22-40933c5cd965',
+    '0c31e084-a439-43e4-930d-eef5858b1739',
+    '88c0c296-da57-4cc2-8083-ab26b5d9d4ee',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'aa2262d6-5788-41ce-9d6b-bf1f53303388',
-    '318b2afb-fd84-4545-8123-230ce112223a',
+    '3bd37cb0-579e-4469-aa76-7ceb6192d704',
+    '4de6c37c-7316-4a77-a1b5-8381b85a5ca3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '18549389-5c1d-4a53-9101-191851293aa7',
-    '79e44f82-1432-4603-ade6-d201fc446e06',
+    '7e1849f4-daf8-4556-98e4-6ec7357c6711',
+    '887ffbc9-fd2d-48c7-808b-3d70df6efae3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd4f21b65-671c-438a-b246-f145b1dac569',
-    '046455d4-49b4-4186-89d7-486a7a65f992',
+    '43915e12-aa89-48c1-921a-c975341d1bbc',
+    'b0a4425c-11b7-474c-8f69-92a1c4fb4efc',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd4590a86-2600-459d-85a9-4df8d689f961',
-    'c4dc7b15-cc90-411b-a80c-b3d756ee68fa',
+    'd1d200f2-f258-4397-8950-d15b0a81f0c9',
+    'e468a022-3009-44f4-b1a3-ac6553d0afc6',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e3aa6f42-dfc0-40f3-ae23-8204ed851f24',
-    'a6e2913f-9a12-4494-b93d-31dfc35a038f',
+    '387bf0f8-dede-48c9-81f0-217ec8d966d8',
+    '0fe7a96b-b8e8-4c03-b485-e751a0d9c199',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4282e9e0-afed-4f3c-bebb-9d4e8f5ebcd8',
-    '24ef6aed-53a4-4211-b37c-bd6108802462',
+    'cdcd3b14-34ee-4399-be02-c2de0feddb38',
+    '71418772-0676-4402-96e5-19c68aa6adf8',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3d94419e-3787-4397-8625-12409dcb5759',
-    'c10cc04f-fbaf-4f36-84f2-57da0c8ccb94',
+    '5edda181-ebc4-419a-a729-94b2ff97a28d',
+    '11d34ea4-ee2c-4fd9-b273-a27b83dc9fea',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '9e973761-efda-4096-b434-e48cd69b6cd4',
-    '1af2f29f-9aa3-4e4b-a6ab-7b7504fe0048',
+    '3193e398-d8a6-4f4b-8af3-5a082573cbef',
+    '4c2551a5-7e94-4959-8561-f32973bb0b55',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ec42ed19-fac8-4d4a-b3ec-5ab0aa275811',
-    '38d29638-cfd5-40e2-b58d-ac94acdbb3f9',
+    'bfc12b96-17ec-452e-b8b1-f0feac634afa',
+    '66338f33-4b0a-4f7d-bd3c-cd28c7f1f8a7',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3b116116-4212-43df-90bb-82730370ba95',
-    'a7aec56c-2bc5-4c89-85ea-14d251bd9d6c',
+    '4afe3c4c-7279-4838-bd01-9172d7e66a14',
+    'ebdca9fa-13a6-4964-bd77-fef11ddd85c0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'cb088047-d228-4ebb-bdc6-d2f9dc8d3b1a',
-    'c4677734-6a0a-4dcf-9baa-dec1c4f48cc0',
+    '19f0087d-9d65-46e5-823a-cb4ac2515f2c',
+    'b842e968-6912-43b3-95fa-231dce2be571',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '3c6bd665-33e6-48b2-9049-f461d6ae5c97',
-    '94511704-d840-422e-98dc-9ea5b489d4cb',
+    '4044bea8-9683-4c1e-94ad-969550314493',
+    '182a1882-4ecc-4f05-99bc-6e06fc7ddde0',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '30d3a3a7-4cf7-48f2-a273-d591577f0358',
-    'fb56100e-dafb-4720-8dd1-9adc2c55aae2',
+    'fff3ed2b-5201-4b3a-a912-270f319e1ea0',
+    '6388b9da-08ed-4c2b-8d4a-5ddd0624cf96',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '2c3cddff-e5e6-4145-837d-bdcabf671898',
-    '7c1c8f16-a038-4320-bfad-078c94213eab',
+    'db9265ca-a929-4574-b5b3-ecdda932752b',
+    '620b5a53-356e-457f-899a-bc7a465676e3',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'eb4937ef-deb7-48c7-ae5c-5af6d686b9ee',
-    'cde48c91-5e3e-401d-bcfc-2b2327c9b93b',
+    '8d5783aa-b24a-4b52-9ffc-eea5e4fbf22f',
+    'e5979b3d-b3a7-476d-9e32-b4dc5876f480',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '580db9f4-1a4e-4362-86d5-2ef935b7cb50',
-    '32b402a7-65cf-4419-a079-99b3cc995671',
+    '156110d1-8b7f-487a-b757-25c6c5d2437d',
+    '5b6de0b3-677d-4892-8fef-cbb297973c52',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '8e79c472-ddea-49ce-b3e6-e2fe9b025bd3',
-    'a198c8cd-223f-4e21-ab16-e7d1970fe4d6',
+    '1bc5f0b5-8aa2-4786-9288-8ec3aad149ab',
+    '0ba1ce6e-d33a-4e11-b1fc-96667ca11221',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '86663ac8-cd0c-4b4b-b4be-fadcda2b7a51',
-    '2a890f24-60d6-4260-a926-63f66f44da84',
+    'dbe21c51-052b-400a-996a-c1f223c62f4f',
+    '3e84b4a6-76cd-47b0-90df-cab64133b719',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'e843d1f9-e0cf-47fa-9569-e5e9f64ba5b5',
-    'fe91e1ac-0d25-4a52-bdf7-6ea3dc744978',
+    '906311ef-d5d2-4783-9fcd-5081292a721a',
+    'a4071766-31c5-427c-870e-21ede4878684',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'ba77e679-c927-4870-b51e-d1e0acb37ad5',
-    '30ce1df9-7efa-459f-9a6f-39594995dcf5',
+    '02677227-8766-49f7-b266-74788f0e5eea',
+    '60a4b04a-a89c-4cf0-a958-3876f89be60d',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '7d860214-a285-4355-ac57-84ea7f9cfe51',
-    '985255ed-6ed0-41fd-a09a-24049e277c10',
+    '65cf3ac2-749a-4a34-b206-b647fb7215e1',
+    '50a43c83-217c-408b-802d-dc84fd41bb77',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '4a2d0415-6711-44f6-b018-51bf20c24531',
-    '870635f8-44ab-4cd2-934b-9ae0600da2cc',
+    '639a5aee-54fc-4381-b3a8-d00f58af0307',
+    'a1ec98a3-7268-49be-8d27-c7219325ad50',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    '6b357501-c64b-44b4-bcc4-e0a52d83d25a',
-    '56702e1f-ed0a-459e-8ded-9378a31a8c10',
+    '9dd731bc-6a1b-4c26-acfe-c01aabed695f',
+    '3e6a1cfd-b2f7-4cae-9044-ab54a848f483',
     'iso_639_language_type',
     'Living',
     NOW()
   ),
   (
-    'd64d9aea-811e-4f4b-9a11-d1dc4dda06f2',
-    '02e0914e-432b-4e4d-a1b5-a50cdd54d79a',
+    'ef7dd735-2a4d-4b19-ac11-058997bb6a04',
+    '2c698c8e-6bec-47d2-8f46-270d73b25350',
     'iso_639_language_type',
     'Living',
     NOW()

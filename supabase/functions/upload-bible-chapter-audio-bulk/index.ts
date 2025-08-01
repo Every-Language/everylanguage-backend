@@ -32,6 +32,7 @@ interface BulkUploadResponse {
   error?: string;
 }
 
+// Force deployment after JWT secret rotation - can remove this comment later
 Deno.serve(async (req: Request) => {
   // Handle CORS preflight request
   if (req.method === 'OPTIONS') {
