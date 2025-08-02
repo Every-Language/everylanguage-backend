@@ -298,3 +298,53 @@ npm run type-check
 # Run CI checks locally
 npm run lint && npm run format:check && npm run type-check && npm test
 ```
+
+## Language Data Seeding
+
+This project includes comprehensive language data from ISO 639-3 and ROLV (Registry of Language Varieties) sources.
+
+### Quick Start
+
+1. **Generate seed files**:
+
+   ```bash
+   npm run generate:language-seeds
+   ```
+
+2. **Apply to database**:
+   ```bash
+   supabase db reset  # This will run all migrations including language seeds
+   ```
+
+### What Gets Seeded
+
+- **~7,900 ISO 639-3 languages** (family and individual language levels)
+- **~30,000+ ROLV varieties** (dialect level)
+- **~50,000+ language aliases** from both sources
+- **Complete source tracking** for data provenance
+- **Hierarchical relationships** between macrolanguages and individual languages
+
+### Data Sources
+
+- **ISO 639-3**: SIL International language codes and names
+- **ROLV**: Global Registry of Language Varieties dialect data
+- **Mapping Plans**: See `assets/data/languages/*/mapping_plan_*.md`
+
+### Manual Process
+
+If you need to regenerate or customize the language data:
+
+1. **Modify source data** in `assets/data/languages/`
+2. **Update mapping plans** in the respective directories
+3. **Regenerate seeds**: `npm run generate:language-seeds`
+4. **Test with fresh database**: `supabase db reset`
+
+### Database Schema
+
+The language data is stored across these tables:
+
+- `language_entities` - Core language/dialect entities
+- `language_entity_sources` - External source tracking
+- `language_aliases` - Alternative names for search
+- `language_properties` - Metadata key-value pairs
+- `language_entities_regions` - Geographic relationships

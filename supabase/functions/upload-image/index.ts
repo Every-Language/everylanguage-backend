@@ -81,7 +81,9 @@ Deno.serve(async req => {
       const { data: authData } = await supabaseClient.auth.getUser(authToken);
       if (authData.user) {
         authUser = await imageService.getAuthenticatedUser(authData.user.id);
-        userId = authUser; // authUser is already the public user ID string
+        if (authUser) {
+          userId = authUser; // authUser is already the public user ID string
+        }
       }
     }
 

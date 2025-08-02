@@ -3,38 +3,22 @@ node_modules/
 
 # Build outputs
 dist/
-build/
 coverage/
 
-# Logs
-*.log
-logs/
-
-# Environment files
-.env
-.env.*
-
-# Supabase generated/temp files
+# Supabase temp files
 supabase/.temp/
 supabase/.branches/
-types/database.ts
-
-# SQL files (use sql-formatter instead)
-*.sql
 
 # Generated files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+types/database.ts
+types/database.d.ts
+types/database.js
 
-# IDE files
-.vscode/
-.idea/
+# GitHub Actions workflows (to avoid linting false positives)
+.github/workflows/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Environment files
+.env*
 
-# Documentation that should preserve formatting
-CHANGELOG.md
-LICENSE 
+# Logs
+*.log 

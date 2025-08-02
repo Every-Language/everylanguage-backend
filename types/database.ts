@@ -17,10 +17,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          extensions?: Json
+          variables?: Json
           operationName?: string
           query?: string
-          variables?: Json
+          extensions?: Json
         }
         Returns: Json
       }
@@ -613,6 +613,7 @@ export type Database = {
           created_by: string | null
           deleted_at: string | null
           external_id: string | null
+          external_id_type: string | null
           id: string
           is_external: boolean
           language_entity_id: string
@@ -624,6 +625,7 @@ export type Database = {
           created_by?: string | null
           deleted_at?: string | null
           external_id?: string | null
+          external_id_type?: string | null
           id?: string
           is_external?: boolean
           language_entity_id: string
@@ -635,6 +637,7 @@ export type Database = {
           created_by?: string | null
           deleted_at?: string | null
           external_id?: string | null
+          external_id_type?: string | null
           id?: string
           is_external?: boolean
           language_entity_id?: string
@@ -1529,6 +1532,7 @@ export type Database = {
           created_by: string | null
           deleted_at: string | null
           external_id: string | null
+          external_id_type: string | null
           id: string
           is_external: boolean
           region_id: string
@@ -1540,6 +1544,7 @@ export type Database = {
           created_by?: string | null
           deleted_at?: string | null
           external_id?: string | null
+          external_id_type?: string | null
           id?: string
           is_external?: boolean
           region_id: string
@@ -1551,6 +1556,7 @@ export type Database = {
           created_by?: string | null
           deleted_at?: string | null
           external_id?: string | null
+          external_id_type?: string | null
           id?: string
           is_external?: boolean
           region_id?: string
@@ -2773,6 +2779,77 @@ export type Database = {
           },
         ]
       }
+      verse_feedback: {
+        Row: {
+          actioned: Database["public"]["Enums"]["feedback_actioned"]
+          created_at: string | null
+          created_by: string | null
+          feedback_text: string | null
+          feedback_type: Database["public"]["Enums"]["feedback_type"]
+          id: string
+          media_files_id: string
+          updated_at: string | null
+          updated_by: string | null
+          verse_id: string
+          version: number
+        }
+        Insert: {
+          actioned?: Database["public"]["Enums"]["feedback_actioned"]
+          created_at?: string | null
+          created_by?: string | null
+          feedback_text?: string | null
+          feedback_type: Database["public"]["Enums"]["feedback_type"]
+          id?: string
+          media_files_id: string
+          updated_at?: string | null
+          updated_by?: string | null
+          verse_id: string
+          version?: number
+        }
+        Update: {
+          actioned?: Database["public"]["Enums"]["feedback_actioned"]
+          created_at?: string | null
+          created_by?: string | null
+          feedback_text?: string | null
+          feedback_type?: Database["public"]["Enums"]["feedback_type"]
+          id?: string
+          media_files_id?: string
+          updated_at?: string | null
+          updated_by?: string | null
+          verse_id?: string
+          version?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_feedback_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_feedback_media_files_id_fkey"
+            columns: ["media_files_id"]
+            isOneToOne: false
+            referencedRelation: "media_files"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_feedback_updated_by_fkey"
+            columns: ["updated_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_feedback_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       verse_listens: {
         Row: {
           anon_user_id: string
@@ -2984,7 +3061,7 @@ export type Database = {
     }
     Functions: {
       _postgis_deprecate: {
-        Args: { version: string; oldname: string; newname: string }
+        Args: { newname: string; version: string; oldname: string }
         Returns: undefined
       }
       _postgis_index_extent: {
@@ -3000,7 +3077,7 @@ export type Database = {
         Returns: string
       }
       _postgis_selectivity: {
-        Args: { mode?: string; geom: unknown; att_name: string; tbl: unknown }
+        Args: { att_name: string; tbl: unknown; mode?: string; geom: unknown }
         Returns: number
       }
       _st_3dintersects: {
@@ -3104,8 +3181,8 @@ export type Database = {
       addgeometrycolumn: {
         Args:
           | {
-              catalog_name: string
               schema_name: string
+              catalog_name: string
               table_name: string
               column_name: string
               new_srid_in: number
@@ -3114,9 +3191,9 @@ export type Database = {
               use_typmod?: boolean
             }
           | {
-              column_name: string
               schema_name: string
               table_name: string
+              column_name: string
               new_srid: number
               new_type: string
               new_dim: number
@@ -3182,21 +3259,21 @@ export type Database = {
       }
       dropgeometrycolumn: {
         Args:
-          | { column_name: string; schema_name: string; table_name: string }
-          | { column_name: string; table_name: string }
           | {
-              schema_name: string
-              column_name: string
-              table_name: string
               catalog_name: string
+              schema_name: string
+              table_name: string
+              column_name: string
             }
+          | { column_name: string; table_name: string }
+          | { table_name: string; column_name: string; schema_name: string }
         Returns: string
       }
       dropgeometrytable: {
         Args:
           | { catalog_name: string; table_name: string; schema_name: string }
+          | { schema_name: string; table_name: string }
           | { table_name: string }
-          | { table_name: string; schema_name: string }
         Returns: string
       }
       enablelongtransactions: {
@@ -3264,7 +3341,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_below: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_cmp: {
@@ -3272,11 +3349,11 @@ export type Database = {
         Returns: number
       }
       geometry_contained_3d: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_contains: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_contains_3d: {
@@ -3284,7 +3361,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_distance_box: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: number
       }
       geometry_distance_centroid: {
@@ -3292,7 +3369,7 @@ export type Database = {
         Returns: number
       }
       geometry_eq: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_ge: {
@@ -3336,7 +3413,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_left: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_lt: {
@@ -3348,15 +3425,15 @@ export type Database = {
         Returns: unknown
       }
       geometry_overabove: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_overbelow: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_overlaps: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_overlaps_3d: {
@@ -3364,7 +3441,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_overleft: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_overright: {
@@ -3533,8 +3610,8 @@ export type Database = {
       }
       populate_geometry_columns: {
         Args:
-          | { tbl_oid: unknown; use_typmod?: boolean }
           | { use_typmod?: boolean }
+          | { use_typmod?: boolean; tbl_oid: unknown }
         Returns: string
       }
       postgis_addbbox: {
@@ -3714,13 +3791,13 @@ export type Database = {
         Returns: unknown
       }
       st_addpoint: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_angle: {
         Args:
           | { line1: unknown; line2: unknown }
-          | { pt4?: unknown; pt1: unknown; pt3: unknown; pt2: unknown }
+          | { pt2: unknown; pt1: unknown; pt3: unknown; pt4?: unknown }
         Returns: number
       }
       st_area: {
@@ -3873,8 +3950,8 @@ export type Database = {
       }
       st_buffer: {
         Args:
+          | { geom: unknown; quadsegs: number; radius: number }
           | { options?: string; geom: unknown; radius: number }
-          | { quadsegs: number; radius: number; geom: unknown }
         Returns: unknown
       }
       st_buildarea: {
@@ -4028,8 +4105,8 @@ export type Database = {
       }
       st_expand: {
         Args:
-          | { dy: number; box: unknown; dx: number }
-          | { dy: number; box: unknown; dx: number; dz?: number }
+          | { box: unknown; dx: number; dy: number; dz?: number }
+          | { dx: number; dy: number; box: unknown }
           | { dz?: number; geom: unknown; dx: number; dy: number; dm?: number }
         Returns: unknown
       }
@@ -4050,7 +4127,7 @@ export type Database = {
         Returns: unknown
       }
       st_force3dm: {
-        Args: { geom: unknown; mvalue?: number }
+        Args: { mvalue?: number; geom: unknown }
         Returns: unknown
       }
       st_force3dz: {
@@ -4195,7 +4272,7 @@ export type Database = {
         Returns: number
       }
       st_intersection: {
-        Args: { geom2: unknown; geom1: unknown; gridsize?: number }
+        Args: { gridsize?: number; geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_intersects: {
@@ -4554,11 +4631,11 @@ export type Database = {
       }
       st_quantizecoordinates: {
         Args: {
-          g: unknown
+          prec_x: number
           prec_y?: number
           prec_z?: number
           prec_m?: number
-          prec_x: number
+          g: unknown
         }
         Returns: unknown
       }
@@ -4583,7 +4660,7 @@ export type Database = {
         Returns: unknown
       }
       st_setsrid: {
-        Args: { geog: unknown; srid: number } | { srid: number; geom: unknown }
+        Args: { geog: unknown; srid: number } | { geom: unknown; srid: number }
         Returns: unknown
       }
       st_sharedpaths: {
@@ -4644,11 +4721,11 @@ export type Database = {
       }
       st_tileenvelope: {
         Args: {
-          margin?: number
-          zoom: number
           x: number
-          y: number
+          margin?: number
           bounds?: unknown
+          y: number
+          zoom: number
         }
         Returns: unknown
       }
@@ -4695,7 +4772,7 @@ export type Database = {
         Returns: unknown
       }
       st_wrapx: {
-        Args: { geom: unknown; move: number; wrap: number }
+        Args: { wrap: number; geom: unknown; move: number }
         Returns: unknown
       }
       st_x: {
@@ -4748,11 +4825,11 @@ export type Database = {
       }
       updategeometrysrid: {
         Args: {
-          table_name: string
-          new_srid_in: number
           column_name: string
-          catalogn_name: string
+          table_name: string
           schema_name: string
+          catalogn_name: string
+          new_srid_in: number
         }
         Returns: string
       }
@@ -4768,6 +4845,8 @@ export type Database = {
       check_status: "pending" | "approved" | "rejected" | "requires_review"
       connectivity_type: "wifi" | "cellular" | "offline" | "unknown"
       contribution_status: "approved" | "not_approved"
+      feedback_actioned: "pending" | "actioned" | "rejected"
+      feedback_type: "approved" | "change_required"
       language_entity_level: "family" | "language" | "dialect" | "mother_tongue"
       media_type: "audio" | "video"
       platform_type: "ios" | "android" | "web" | "desktop"
@@ -4928,6 +5007,8 @@ export const Constants = {
       check_status: ["pending", "approved", "rejected", "requires_review"],
       connectivity_type: ["wifi", "cellular", "offline", "unknown"],
       contribution_status: ["approved", "not_approved"],
+      feedback_actioned: ["pending", "actioned", "rejected"],
+      feedback_type: ["approved", "change_required"],
       language_entity_level: ["family", "language", "dialect", "mother_tongue"],
       media_type: ["audio", "video"],
       platform_type: ["ios", "android", "web", "desktop"],

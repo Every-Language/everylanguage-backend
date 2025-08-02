@@ -225,6 +225,7 @@ export default [
       'types/database.ts', // Generated file
       'types/database.d.ts', // Generated declaration file
       'types/database.js', // Generated JS file
+      '.github/workflows/**', // GitHub Actions workflows
       // Test files that import Deno-specific functions (excluded from main tsconfig)
       'tests/unit/bible-package-builder.test.ts',
       'tests/unit/bible-package-splitter.test.ts',

@@ -123,10 +123,18 @@ export class BiblePackageBuilder {
         };
       }
 
+      if (
+        !chunkResult.packageBuffer ||
+        !chunkResult.manifest ||
+        !chunkResult.sizeInBytes
+      ) {
+        throw new Error(`Failed to build package for chunk ${partNumber}`);
+      }
+
       packages.push({
-        packageBuffer: chunkResult.packageBuffer!,
-        manifest: chunkResult.manifest!,
-        sizeInBytes: chunkResult.sizeInBytes!,
+        packageBuffer: chunkResult.packageBuffer,
+        manifest: chunkResult.manifest,
+        sizeInBytes: chunkResult.sizeInBytes,
         partNumber,
       });
 
@@ -261,7 +269,7 @@ export class BiblePackageBuilder {
         request.audioVersionId
       );
       console.log(
-        `🎵 Audio version fetched: ${data.audioVersion?.mediaFiles?.length || 0} media files`
+        `🎵 Audio version fetched: ${data.audioVersion.mediaFiles.length || 0} media files`
       );
     }
 
@@ -478,7 +486,7 @@ export class BiblePackageBuilder {
       createdBy: data.requestedBy,
 
       languageEntityId: data.languageEntityId,
-      bibleVersionId: data.bibleStructure!.bibleVersion.id,
+      bibleVersionId: data.bibleStructure?.bibleVersion.id ?? '',
       audioVersionId: data.audioVersion?.audioVersion.id,
       textVersionId: data.textVersion?.textVersion.id,
 
@@ -489,8 +497,8 @@ export class BiblePackageBuilder {
         ) / 100,
       totalFiles: data.audioFileIndex?.length ?? 0,
       audioFormat: data.audioFileIndex?.[0]?.format as 'mp3' | 'm4a',
-      includesVerseTimings: (data.audioVersion?.verseTimings?.length ?? 0) > 0,
-      includesTotalVerses: data.textVersion?.verseTexts?.length ?? 0,
+      includesVerseTimings: (data.audioVersion?.verseTimings.length ?? 0) > 0,
+      includesTotalVerses: data.textVersion?.verseTexts.length ?? 0,
       includesBooks: this.getIncludedBooks(data),
 
       minAppVersion: '1.0.0',
@@ -510,10 +518,10 @@ export class BiblePackageBuilder {
       ),
 
       bibleStructure: {
-        totalBooks: data.bibleStructure!.books.length,
-        totalChapters: data.bibleStructure!.chapters.length,
-        totalVerses: data.bibleStructure!.verses.length,
-        testament: this.determineTestament(data.bibleStructure!.books),
+        totalBooks: data.bibleStructure?.books.length ?? 0,
+        totalChapters: data.bibleStructure?.chapters.length ?? 0,
+        totalVerses: data.bibleStructure?.verses.length ?? 0,
+        testament: this.determineTestament(data.bibleStructure?.books ?? []),
       },
     };
   }
