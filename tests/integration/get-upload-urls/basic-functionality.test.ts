@@ -19,7 +19,7 @@ interface UploadUrlInfo {
 interface GetUploadUrlsResponse {
   success: boolean;
   data?: {
-    uploadUrls: UploadUrlInfo[];
+    urls: UploadUrlInfo[];
     totalFiles: number;
     expiresIn: number;
     batchId: string;
@@ -279,7 +279,7 @@ describe('Get Upload URLs - Integration Tests', () => {
         Promise.resolve({
           success: true,
           data: {
-            uploadUrls: [
+            urls: [
               {
                 fileName: 'genesis-1.m4a',
                 b2FileName: '1703123456789-genesis-1.m4a',
@@ -322,11 +322,11 @@ describe('Get Upload URLs - Integration Tests', () => {
 
     const result = (await response.json()) as GetUploadUrlsResponse;
     expect(result.success).toBe(true);
-    expect(result.data?.uploadUrls).toHaveLength(1);
+    expect(result.data?.urls).toHaveLength(1);
     expect(result.data?.totalFiles).toBe(1);
     expect(result.data?.batchId).toBeDefined();
 
-    const uploadUrl = result.data!.uploadUrls[0];
+    const uploadUrl = result.data!.urls[0];
     expect(uploadUrl.fileName).toBe('genesis-1.m4a');
     expect(uploadUrl.b2FileName).toContain('genesis-1.m4a');
     expect(uploadUrl.remotePath).toContain('backblazeb2.com');
@@ -344,7 +344,7 @@ describe('Get Upload URLs - Integration Tests', () => {
         Promise.resolve({
           success: true,
           data: {
-            uploadUrls: [
+            urls: [
               {
                 fileName: 'genesis-1.m4a',
                 b2FileName: '1703123456789-genesis-1.m4a',
@@ -419,11 +419,11 @@ describe('Get Upload URLs - Integration Tests', () => {
 
     const result = (await response.json()) as GetUploadUrlsResponse;
     expect(result.success).toBe(true);
-    expect(result.data?.uploadUrls).toHaveLength(3);
+    expect(result.data?.urls).toHaveLength(3);
     expect(result.data?.totalFiles).toBe(3);
 
     // Verify each upload URL has required properties
-    result.data!.uploadUrls.forEach(uploadUrl => {
+    result.data!.urls.forEach(uploadUrl => {
       expect(uploadUrl.fileName).toBeDefined();
       expect(uploadUrl.b2FileName).toBeDefined();
       expect(uploadUrl.remotePath).toContain('backblazeb2.com');
@@ -434,9 +434,9 @@ describe('Get Upload URLs - Integration Tests', () => {
     });
 
     // Verify content types match request
-    expect(result.data!.uploadUrls[0].contentType).toBe('audio/m4a');
-    expect(result.data!.uploadUrls[1].contentType).toBe('audio/mpeg');
-    expect(result.data!.uploadUrls[2].contentType).toBe('audio/wav');
+    expect(result.data!.urls[0].contentType).toBe('audio/m4a');
+    expect(result.data!.urls[1].contentType).toBe('audio/mpeg');
+    expect(result.data!.urls[2].contentType).toBe('audio/wav');
   });
 
   test('should handle optional metadata in files', async () => {
@@ -447,7 +447,7 @@ describe('Get Upload URLs - Integration Tests', () => {
         Promise.resolve({
           success: true,
           data: {
-            uploadUrls: [
+            urls: [
               {
                 fileName: 'chapter-with-metadata.m4a',
                 b2FileName: '1703123456792-chapter-with-metadata.m4a',
@@ -497,7 +497,7 @@ describe('Get Upload URLs - Integration Tests', () => {
 
     const result = (await response.json()) as GetUploadUrlsResponse;
     expect(result.success).toBe(true);
-    expect(result.data?.uploadUrls).toHaveLength(1);
+    expect(result.data?.urls).toHaveLength(1);
   });
 
   test('should handle B2 service errors gracefully', async () => {
@@ -550,7 +550,7 @@ describe('Get Upload URLs - Integration Tests', () => {
         Promise.resolve({
           success: true,
           data: {
-            uploadUrls: [
+            urls: [
               {
                 fileName: 'Chapter (1) - "Genesis" & More.m4a',
                 b2FileName: '1703123456793-Chapter (1) - "Genesis" & More.m4a',
@@ -593,7 +593,7 @@ describe('Get Upload URLs - Integration Tests', () => {
 
     const result = (await response.json()) as GetUploadUrlsResponse;
     expect(result.success).toBe(true);
-    expect(result.data?.uploadUrls[0].fileName).toBe(
+    expect(result.data?.urls[0].fileName).toBe(
       'Chapter (1) - "Genesis" & More.m4a'
     );
   });

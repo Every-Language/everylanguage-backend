@@ -100,7 +100,7 @@ async function testSingleFileUploadUrls(accessToken) {
         totalFiles: result.data.totalFiles,
         batchId: result.data.batchId,
         expiresIn: result.data.expiresIn,
-        uploadUrls: result.data.uploadUrls.map(url => ({
+        uploadUrls: result.data.urls.map(url => ({
           fileName: url.fileName,
           b2FileName: url.b2FileName,
           remotePath: url.remotePath,
@@ -111,7 +111,7 @@ async function testSingleFileUploadUrls(accessToken) {
       });
 
       // Verify response structure
-      const uploadUrl = result.data.uploadUrls[0];
+      const uploadUrl = result.data.urls[0];
       if (!uploadUrl.uploadUrl.includes('b2_upload_file')) {
         log('WARNING', 'Upload URL does not contain expected B2 endpoint');
       }
@@ -186,11 +186,11 @@ async function testMultipleFilesUploadUrls(accessToken) {
       log('DEBUG', 'Multiple files data:', {
         totalFiles: result.data.totalFiles,
         batchId: result.data.batchId,
-        urlsGenerated: result.data.uploadUrls.length,
+        urlsGenerated: result.data.urls.length,
       });
 
       // Verify each upload URL
-      result.data.uploadUrls.forEach((uploadUrl, index) => {
+      result.data.urls.forEach((uploadUrl, index) => {
         log('DEBUG', `File ${index + 1}:`, {
           fileName: uploadUrl.fileName,
           contentType: uploadUrl.contentType,
@@ -251,7 +251,7 @@ async function testSpecialCharacterFilenames(accessToken) {
     if (response.ok && result.success) {
       log('SUCCESS', 'Special character filenames handled successfully');
 
-      result.data.uploadUrls.forEach(uploadUrl => {
+      result.data.urls.forEach(uploadUrl => {
         log('DEBUG', 'Special character file:', {
           originalName: uploadUrl.fileName,
           b2FileName: uploadUrl.b2FileName,
@@ -319,15 +319,15 @@ async function testLargeBatchUploadUrls(accessToken) {
       log('SUCCESS', `Large batch test completed in ${duration}ms`);
       log('DEBUG', 'Large batch results:', {
         requestedFiles: files.length,
-        generatedUrls: result.data.uploadUrls.length,
+        generatedUrls: result.data.urls.length,
         batchId: result.data.batchId,
         totalFiles: result.data.totalFiles,
         duration: `${duration}ms`,
-        avgTimePerUrl: `${(duration / result.data.uploadUrls.length).toFixed(2)}ms`,
+        avgTimePerUrl: `${(duration / result.data.urls.length).toFixed(2)}ms`,
       });
 
       // Check for unique B2 filenames
-      const b2FileNames = result.data.uploadUrls.map(url => url.b2FileName);
+      const b2FileNames = result.data.urls.map(url => url.b2FileName);
       const uniqueB2Names = new Set(b2FileNames);
 
       if (b2FileNames.length !== uniqueB2Names.size) {
