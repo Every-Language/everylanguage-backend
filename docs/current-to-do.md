@@ -9,3 +9,5 @@ allow community checking of verse texts too
 optimise indexes for powersync
 
 migrate to terraform for IaC
+
+add sequence_id to media files
