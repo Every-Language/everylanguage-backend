@@ -28,7 +28,7 @@ jobs:
           version: latest
 
       - name: Link to Development project
-        run: supabase link --project-ref ${{ secrets.SUPABASE_DEV_PROJECT_REF }}
+        run: supabase link --project-ref ${{ secrets.SUPABASE_DEV_PROJECT_REF }} --password ${{ secrets.SUPABASE_DEV_DB_PASSWORD }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
@@ -41,12 +41,19 @@ jobs:
         run: |
           if [ -d "supabase/functions" ] && [ "$(ls -A supabase/functions)" ]; then
             echo "Deploying Edge Functions to Development..."
-            supabase functions deploy
+            supabase functions deploy --no-verify-jwt
           else
             echo "No Edge Functions to deploy"
           fi
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Configure B2 CORS for Development
+        run: backblaze/deployment/deploy-cors-ci.sh dev
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
+          B2_DEV_BUCKET_NAME: ${{ secrets.B2_DEV_BUCKET_NAME }}
 
       - name: Verify development deployment success
         run: |

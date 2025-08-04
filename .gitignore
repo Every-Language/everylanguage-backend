@@ -46,3 +46,9 @@ coverage/
 
 # TypeScript
 *.tsbuildinfo
+
+# Big data files
+assets/data/
+
+# Cursor
+.cursor/

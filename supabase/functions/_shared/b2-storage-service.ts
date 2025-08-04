@@ -102,6 +102,16 @@ export class B2StorageService {
   // === URL OPERATIONS ===
 
   /**
+   * Get upload URL for B2 bucket
+   */
+  async getUploadUrl(): Promise<{
+    uploadUrl: string;
+    authorizationToken: string;
+  }> {
+    return this.authService.getUploadUrl();
+  }
+
+  /**
    * Generate download URL (backward compatible)
    */
   async generateDownloadUrl(
