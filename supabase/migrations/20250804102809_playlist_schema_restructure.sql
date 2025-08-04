@@ -11,6 +11,19 @@ DROP TABLE IF EXISTS user_positions cascade;
 
 
 -- Step 2: Modify playlists table
+-- First drop existing RLS policies that depend on user_id column
+DROP POLICY if EXISTS "Users can view their own playlists" ON playlists;
+
+
+DROP POLICY if EXISTS "Users can insert their own playlists" ON playlists;
+
+
+DROP POLICY if EXISTS "Users can update their own playlists" ON playlists;
+
+
+DROP POLICY if EXISTS "Users can delete their own playlists" ON playlists;
+
+
 -- Remove user_id column
 ALTER TABLE playlists
 DROP COLUMN IF EXISTS user_id;
