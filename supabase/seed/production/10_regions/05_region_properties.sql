@@ -4,31941 +4,18637 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '4d0d4cbe-cdb0-423f-b423-23e752d66a62',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '9cc46f0b-773a-4ca8-89ce-0821e9fc1092',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '217d5856-081b-4cdb-9407-1276a121b064',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '7db3e93e-7320-4426-b2b0-42424018fcf7',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87cdb871-5350-49af-a34e-44482aa8bfae',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'aeed74a5-4729-4a9c-985a-0920606ccddd',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9efdbcfe-593c-45b5-8cd6-1c5dce37aa03',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'd7203d0d-7dc7-435e-96c2-3e4b120ae8dd',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1a9af150-5722-4966-a537-a8a44267f6cf',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'bc004996-c65d-4dae-9434-5aeec07004e1',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'population',
     '14645468',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e372e9b-55ac-45b6-8c1f-93c3c5d5bc1c',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'c98a7aaf-c112-4214-9857-0534806a9f6e',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'gdp_md',
     '21440',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '730f16bf-23fb-4b53-ab89-00eb2f9c0770',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'f64f2728-c71a-449c-8eee-04cbe5c21969',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b50baef-e05d-4368-ab24-5813fcd535e6',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '28f08ab0-eb06-4571-99f5-f15aaa303e58',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8f70bb19-7ccd-4f6a-9d59-ab0ddc5182d5',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '1aaca06a-b43f-441b-9453-c73a30087107',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f1fef6e8-1e39-4887-bb62-54169f4e6bef',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '8824f646-bc39-487c-ba24-a169d1201918',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'label_x',
     '29.925444',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf02c0c6-89d5-416a-b24a-640937447876',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '22176c38-86c7-4edc-a216-9e0932e09171',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'label_y',
     '-18.91164',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5690568-c777-42bb-99a4-d2bc9b34ece9',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '0a01e8eb-7d62-4206-b9b0-bc71d491e871',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73fb6d49-f42f-4ad0-ab5f-1c39a8e0c3ab',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'cac0084a-d492-464d-b0dc-d846e5959555',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34009de4-2bc7-45bf-8420-4857427d3134',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '9daa32c3-acf8-440f-b11f-ae3aaa998f26',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e1bb279-4d9f-4376-996a-94ecabbec8ee',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '5d953b81-9ec7-48cb-b6d4-4828983917b9',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bd2c5bd-04b7-474d-aa9e-0888e3ca326d',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'ffcf5994-d896-4347-844a-38a9d25261be',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'population',
     '17861030',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67e05a28-a881-44cf-aaf5-98f214e14464',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'f813e6bf-24e7-49dd-8f19-ce412555536a',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'gdp_md',
     '23309',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1971094a-2ee0-4b50-aca7-3527bb3eb6a3',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '219d1700-fc36-49cc-a6ba-691494236db0',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '57c8bcf4-a66b-4568-bbce-f91db219e518',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'b3f0959b-1362-4908-8ea6-352588c9d81c',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bfb11f00-afc3-4e7d-9e72-f70a17473232',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'e206e53e-c89c-46b8-b1b8-d6a51554b9b1',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43193740-1cfc-496e-8459-ad2e01ad2fb0',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '762f2bba-9f06-4ab4-b550-7eb0cbd71375',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'label_x',
     '26.395298',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9cc2ed3b-9b0c-432b-a40d-e7d4b3ad96a2',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'd7618c5b-d6b8-49fd-bebb-2b90a19a7116',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'label_y',
     '-14.660804',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25a9574b-cf86-49d2-9465-6d1c0f291f0a',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'd036a9e5-256e-4efe-8864-aaf1d056dd84',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de586447-be88-46d5-a624-a47e37c7cd35',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '6cdf2d80-873c-4ef1-b9f0-0e1235104cc3',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b1cba58-c6d8-4c2f-868d-f6f93e37f06c',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '98262f70-5c15-47f2-8c21-e85cb40951bb',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '260700e4-ca86-4204-8731-bcf186faf7cd',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '33acb794-a819-4251-b56f-6d56ccca7c09',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5c059e27-86c7-4f5d-994b-0b44d78f45c1',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '638150c0-bf8c-4d1c-a10b-2ca423848fe4',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'population',
     '29161922',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4c403829-832d-436b-a63e-2318c13e729e',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '7630dd86-2c9c-4e57-9581-9dd5c73560e6',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'gdp_md',
     '22581',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44592735-99ea-4cf2-84f2-bc1d7ae82529',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '2fce7839-743b-4a5e-aebf-9ceb0223aa0b',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '421febeb-5dff-427d-a206-06d4a4a37485',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '595d3f12-5837-4752-892e-36cf47b78c47',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '62b9e27f-31fb-47a1-8dd1-29eb777e023b',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '23f8a9a9-5276-42a1-8489-c94bf851ff68',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e15e715-f09d-4f48-80ca-4d2583d54a4c',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '59f71c2e-7992-421e-9b50-1aab596cb409',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'label_x',
     '45.874383',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bcc86850-15c5-4135-9247-e3e45cb78eb8',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '7ff7b102-2db7-4c43-ab43-2e366f9c7ab1',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'label_y',
     '15.328226',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5916169b-675f-4719-8e2f-0bfdf9006259',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'f815194d-c6b8-43fe-9cff-6746167ee849',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e528015a-9433-458c-bfc1-da5af2e1d60e',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'd251efaa-6cfe-4c7f-b7ca-0f12f8ca4bbf',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c30630d6-629f-4ce4-a573-6005f192aadc',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'dce8e82f-9f42-4754-ba98-46e29408adcf',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a0f35d06-927f-4033-80e3-f340b9de16ff',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '5fe81a85-b719-4f16-9bde-a61bdef3fd9a',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a6bc5be-b753-4401-a478-598ea4ca5fa8',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '25dc06de-d3d3-48bb-b28f-c738d291ea85',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'population',
     '96462106',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3acd7f0-460d-4dda-a7ad-fc2e6700346d',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'eece9652-36f1-40d0-bdf6-bcda46aa5672',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'gdp_md',
     '261921',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e61b24d1-7629-4e65-868b-0b01ad26c059',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'deb877b4-cd40-4bf1-80fe-3819facdf5ee',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8550e90-5eb5-45f7-a2cf-e647ef3a6783',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'b6508252-f546-4e59-b1f5-d6a4efecddaf',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79480960-4328-4528-9773-29a178f8b85c',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '96aeb7f5-e739-4603-ade1-c938b6f41378',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e410e80f-1e86-45d4-b556-6e1af85e7c11',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '14e7a612-9c17-4f39-a2bd-7c5d63480c22',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'label_x',
     '105.387292',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9811bb4f-8387-493c-b8c1-92745a79fb50',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'd68e623d-06c2-4a0b-a25a-212f6de96aa6',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'label_y',
     '21.715416',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4084c2b1-7d02-4f02-9c11-cbc3f5bdef69',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'ecbe8a88-b987-4e3c-8c03-7a21153dc190',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9196edf3-3519-4f41-bef4-26ad73b8a47a',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '53dcb1b5-bd03-4af0-928a-daf139f23458',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c31fa2bc-1ecc-4ab2-bba5-7e72c8b62124',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '07ea6731-4e49-4919-b0d4-bc5d7cf1566f',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61e7bfe0-2788-47d2-aea8-c806fd7f4f77',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '3e8704cc-1a73-4c42-932e-70cbe3da3fb1',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e149fe68-af42-4833-9f9e-d72283b57f6e',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'f74fddc3-33a5-48f4-b1fe-fe1c4c9c737d',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'population',
     '28515829',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b4981498-ddab-46ef-bcf6-9221bc3805aa',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '092d0296-d3ab-4ca5-b12e-7922cbbdb4c4',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'gdp_md',
     '482359',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca21f610-862d-4c2e-b4fe-d4104a275b20',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '9ac0f01c-0dc9-4b30-9063-b31224d9e8d1',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2cf52e24-635f-4ed5-b37f-3a7a2aff7821',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'c9bdd611-ae13-4c2c-9920-4134f7fcd18b',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f1fcaff-25bc-4466-8852-a12b32bdc62a',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '57e124c8-68ca-40fd-ace6-4cb9e0cae053',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24b43472-c552-476d-98fd-b32c14ed05b4',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '29ffb621-213e-4ce2-a65d-71c3d9e4d269',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'label_x',
     '-64.599381',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8fc9d917-2aba-4644-bb35-6dd331434e8a',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '78d615a6-8349-4f6f-b790-fcebb9516fb0',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'label_y',
     '7.182476',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c406708c-8b80-4184-8668-69d5d4e081cd',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'a703352c-f5d2-40f3-8d46-aa0c8adf8dc0',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd2dae6c-77ae-473d-b4f8-0a13f259e771',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'ac1a374c-6b02-49d0-9467-dc4b8c9821bb',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '54fcc615-c2c8-482f-a562-d1e108cad244',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '4e656c19-dc84-4bae-93de-53daa7a6d696',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b8408f9-1c2c-414c-a3e6-472fe6eefaef',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'e7226b2d-a1e1-415b-9841-b061885a2982',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5137983f-5482-41ed-8905-c8c7a04a8564',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '76e0c8d5-c7d2-439e-935e-dabc5503e360',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'population',
     '825',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '442fdb8b-30f7-4d6c-970c-b7c7b72c6f06',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '548caa90-6c47-49c7-92db-7dcfcabd0e8c',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'gdp_md',
     '-99',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88d2177f-3fa3-41f1-82d1-30ae36b35583',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'b845ca01-64c2-4a8a-a2c3-0cd64994388f',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34d9f289-8bee-4029-9d75-cccf8754269a',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'cef6cedb-cb35-47e8-8771-d4191ca854f3',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '245184ca-031c-44fa-9a52-2ebc753aa91e',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '5ef4376c-d7cc-4c6a-b3c0-6319357cb747',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03af17e0-c0d5-4a0a-9338-bd2b5a546e0c',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'ab58e392-2a34-4535-abb5-5d258b956ee6',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'label_x',
     '12.453418',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52dc5b78-3013-45d1-ac7b-77b09504bdc3',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'a7f154ff-b5ee-437a-879c-b07079b3a3f5',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'label_y',
     '41.903323',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c4adbd9e-55b4-4f22-944f-44b22ad49cd8',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'b328011a-a52d-47da-9377-e11ba8bf6a7c',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd27b11f-42cb-4fd4-bf91-c5483810b046',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '0b1e56d7-de2f-4914-b2c0-56333e7799c0',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a85c37ec-6908-4aa2-b0d0-c3a27026f128',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '4fe115d3-0417-4479-9397-cd7f77364877',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'subregion',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64224f76-c0c1-45a9-8879-63a3a73505f5',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'd1381899-b322-4e0c-8b78-9b39b04895ca',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '77164e9f-ad6e-453e-be3f-8208232e3302',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'b1be0e9b-a344-482d-98b8-dec31e8f8948',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'population',
     '299882',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '32064405-cf46-46d9-b3cd-e9a66bbd98b4',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '44e58723-f0d8-46d4-ac55-336891985aee',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'gdp_md',
     '934',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '33cc33e2-b7c1-4e1e-bb92-8a470a5b8893',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'ea98ec87-5dd3-48c1-b876-34084b96278d',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa4fc799-7744-47a2-93ff-66143dcb4560',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '945bda17-a46d-4c26-966f-cc90cfa4414f',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8ddae9e8-ae67-4992-9d07-95633d6f4cc2',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '51ca2e26-8470-4a6c-84eb-36ab233ba225',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddc0ff07-d172-4006-bc2c-d67c81eb77bf',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'edc16609-b69d-438d-9ef5-808ee35a7e2f',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'label_x',
     '166.908762',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b56d850d-d2e3-4142-840d-af0e4e4c617a',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '7bfe676a-e02e-47e2-8b0e-fa7b7e128078',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'label_y',
     '-15.37153',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0638d15f-4f19-404d-b7c7-fdb718f72dd1',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'c387f96d-5725-4505-9106-5de0be8fe2bd',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b590a03b-7dd3-4a74-b39e-212835497008',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '79de8c00-8034-42c3-8385-826b57206447',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01237265-e863-4fc0-8037-7e672246e839',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '75e72644-f2ff-4190-8d42-a86cd4e197a2',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'subregion',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '50851dc4-04a2-4e27-b9b5-fba8da80f95b',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'c5016f75-c841-4a2b-bfa4-e52790320d8e',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63bcc645-95fe-4577-a551-9167ba6ea76a',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '2c262321-d6d9-46b7-b9ba-3059c2db5f07',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'population',
     '33580650',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd3ec360-b6fb-4711-9520-2d98532e57f8',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'cf059096-aecf-4e6e-ac16-bd4449ee5b6b',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'gdp_md',
     '57921',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd326b8e2-038f-4277-bfd7-c712216fab5f',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'a437efac-f5dd-43f2-ae2f-7db7f98b570c',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d4a61bb-3b39-4ddf-abf4-e59ce32568a8',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'c99be5a8-314e-45af-bb42-576bf92b4e34',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a50e1637-81c0-41be-bf0d-a300365729d5',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'e733cb74-0da3-4a03-834a-6fb0cc5831d3',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4fa6568e-54b6-4802-9f4c-fc1ea1cf896b',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '41b139fb-c3d2-4449-905c-d42848d9dc2b',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'label_x',
     '64.005429',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3dfffb08-ac3e-46e6-bfe4-212bf51c66bf',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '509d604f-eb0c-4cbf-b3ca-e5e69c0c1bfe',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'label_y',
     '41.693603',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e55cb24f-5914-485a-8f3f-2bd55e5dc6df',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'dfe0c258-335e-43d6-babc-fad7f2ce2e21',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3ccbaaab-2fc9-45ac-be60-fa9a0ed11c6e',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'cf3dc203-1c2b-4bc5-8342-915a58d19b68',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '150a89a6-7472-4a79-9d7b-c13b98c4b40a',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'ea4c948b-1732-4b61-9455-3b5f34b6e520',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84f8a7ff-49f6-4d2e-bf9d-75d9e4ed758b',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'e0156bb6-84e7-4085-8d1f-ccaab1033319',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2c1f9fb5-ed36-4eef-9c7f-f4ed4e011a1f',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '6bd92963-608f-4623-9290-b87cb45cb38c',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'population',
     '3461734',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8689137-45cc-4185-ae2e-68012899e958',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '12dcdbbf-e98a-4e58-aefe-efb990ce3444',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'gdp_md',
     '56045',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6093bdc-4d55-45b8-afc7-d36a6f7cdfc2',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '5d0b7060-e7b2-4d8b-8d58-4d1f3d56a2e0',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b42fc6ea-9070-4b99-adee-59b5ff977f9f',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'b87db660-e05b-44c9-843a-56931f911616',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18da52bd-3187-4a48-b622-64af09f25bbe',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '4d61b1ba-d91e-4090-a981-553eef489c7f',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f0601a51-843f-4faf-a25e-bca5f58be473',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'c9daca17-8763-4617-9fe6-d36b2c4bede6',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'label_x',
     '-55.966942',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '257c0ff2-6760-44c5-a812-960afb5721fc',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '637b5bd2-b544-47a8-965a-8c11a99f9b7c',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'label_y',
     '-32.961127',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '593a03a7-8ec2-46a9-8ae0-25d0a9b4d405',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'a76d2c81-1dfc-44c3-9591-685fdd450844',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e4d6ce2-3072-422c-9d29-9fd7643784b5',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'b8f4c498-fc95-4dad-87ed-952c23a6a5c4',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe19c14a-8c7e-4f93-8caa-d641be7c34ba',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '092cff50-42e7-42bd-b34e-6f39ffabaf89',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0614066f-a641-46c6-96d3-8d9090ac4b13',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '4d422e43-77ec-47ac-875e-9998763d077a',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd9e5a8c-9433-4f9a-9793-544906530944',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '418a79c2-dbc1-445d-a355-2fc60756651c',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'population',
     '113815',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8578a311-e5dd-42a9-be14-63910b31e38f',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '082c4c77-c052-42f2-872d-6a3c362af25f',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'gdp_md',
     '401',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a45f6edd-4f31-4977-8486-dcb224e163ba',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'e3a21264-a160-4ca1-ba2b-147eb8c928d8',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '371abf24-ff47-4735-ae77-45ac89eacfb6',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '6904e202-e73a-4f52-8f24-295b3fec8d16',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f767ac1-4fa8-4556-8e63-ecb93a27471d',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'cfff9ad8-623e-42e0-940a-2a50e31daeef',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01b1eb27-fb25-41c9-80cd-fefe20ed05c6',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '0e2bd267-5afa-408a-a115-94ed370ba7c9',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'label_x',
     '158.234019',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f50e105-0ed6-4d1c-bb46-4a4834741fab',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'f85ddb15-6cd0-4a8a-bb20-75af9b7ea7cd',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'label_y',
     '6.887553',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0c042851-cc8c-4fa0-8215-e3cbfe8eccf9',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '6802452b-b540-4cd6-89f3-c94966b2950f',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20ace464-a551-42e7-817a-32d5baab913a',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '01be838a-662a-47f3-b2c6-df19530de746',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0ed45b6d-9eba-4c79-9feb-baeb06f8d8e6',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '0505add1-579d-4a14-a390-a1c267fc4702',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35a37551-d623-4697-a13c-767d18fef59a',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '8d07ec0c-4e9d-46ff-8f1e-2718a78c8053',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b1665ad-ed39-4204-86ab-2145fd2026b5',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '9b81142d-16d9-4f84-a757-f72922be1ed5',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'population',
     '58791',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29efd3f5-dbbf-4621-8a05-991173850673',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '4b1ec265-8148-41ae-b159-b9999d80e1af',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'gdp_md',
     '221',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8954300c-4345-4656-bc22-410eb9b4118c',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '60aa64ab-ebcc-4023-a2e0-7c789dd48f07',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25935dba-49cd-45de-9094-d7d01cd56dac',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '8a505c0c-8893-4a05-a66f-45139d1710ca',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd63b3794-d7ed-4974-973c-1cd6928f66f2',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '45257990-8fd7-4c15-b5c0-7ea7d13f3957',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e6241fa-7d8d-48af-853a-478987ad1ac9',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '5a9a38a4-70be-4253-89d3-c085d249895b',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'label_x',
     '171.193609',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a5c20a7-892f-4bc4-a158-3e20f2484852',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '33f6e99d-d79b-4aaa-80ae-5cf476f315cf',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'label_y',
     '7.082568',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4f33cc9-6f30-4bff-9c0f-9bfebb12fb94',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '8e11354e-9ee2-4ed8-bec2-ba6759fbb620',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '702ff76a-3e37-4a35-aa23-95738e415504',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '2c9c5594-2ea2-4dd6-83e7-672beafa3b75',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa68b94f-d64c-4d32-9f8c-f378261b2c66',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'f1f6358c-e50e-4b84-a2a0-2eab9bd0bb8d',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fdcfe6b-c4e7-44cf-b98c-32915dd1c12c',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'dad8097f-49db-43a6-81c3-b42e76b392b1',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86679d72-3649-4602-94b8-1c4aaa7e0329',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '3d14c75d-e955-4b65-a133-aa1d974dcc9f',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'population',
     '57216',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb23b1e6-2d50-40c1-8739-3b092ec6df30',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '60c1a4f8-7ce3-494d-b200-dfb1ddcf28f9',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'gdp_md',
     '1323',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1950e6fb-d749-460e-824f-83c2b4c50ec2',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'f7f05124-56a2-4fc2-b930-5a18453f3c93',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a868f10f-ed86-4442-a129-80ae8992d022',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '50900ea7-31ae-4356-bdbf-adcde1c1998d',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b77be26-d28f-48f8-8193-adb4e0dc60e1',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '70a8eb6b-068f-4957-9727-304fd009a078',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd96f91c5-f0a8-47c4-8749-ed09c7c83e31',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '08f3eb13-c7a5-4226-8cd7-6edebba9795f',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'label_x',
     '145.734397',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a9c0f0e4-e891-4e87-bf40-dec237c4aa08',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '266ee635-d46b-453e-8b42-383d84f382dc',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'label_y',
     '15.188188',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dafe46f3-b094-4406-a54c-5bb513c9696e',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'f35bafa8-3047-408b-8ed0-ff47f6913ea3',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a504193-a141-4318-bd36-4c904cf6b1ab',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '3a8c0361-2d5c-4c05-a203-da85f7c6aba8',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a361b5b4-5328-496c-979d-2f7734ab7295',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '7b6065fc-fc8a-413f-bc63-5b1464a7ef3d',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2024177a-009d-4e0c-9d20-fd3484d545ce',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '6c79fb65-0c33-42cf-ab17-23b837b2d061',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f3fd98d5-f133-4cd6-928a-df683dd7ba42',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '9527baef-f4f9-4f71-89f5-b7f928addb35',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'population',
     '106631',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ad19177-6451-4237-b632-f28d1f1a6176',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '3951ca3c-0ce6-4826-a3f0-08e36d65aacb',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'gdp_md',
     '3855',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e41cf40-3165-4647-802b-b4fcecd8d91f',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '0c76231f-e023-4cca-bac8-8b3209aaef1e',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8dba1cce-c030-47ea-ac4d-ec83323d197d',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '81d547c3-226c-450f-881b-0655a5d27975',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '60bee205-5546-4ea2-8b4a-0b5c71c3d076',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'b5f07741-7672-4415-a067-e252ad827e97',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3add3130-1fad-4d64-9ef6-58fad588f652',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '01291237-49c0-468f-8365-d922396ea955',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'label_x',
     '-64.779172',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '197169ca-a206-4d9a-9794-69b43ee9d849',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'f2aaafcb-6bd4-4590-9472-d9f34b32edaa',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'label_y',
     '17.746706',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b826035-6fca-444a-89be-5f67882930ab',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '0d1f8ff8-35f7-46b6-9d28-90cfc930ba69',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd04a2e6-e2bd-439a-b5c4-aa836211f790',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'ceee7d7c-9a82-4f23-9556-bd8d78640d1f',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '969b93e5-4e73-4850-8f2a-c3a142955a22',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '560ad7d3-fec9-49b4-9c86-cab760316d07',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25dbe231-fc67-4180-b0f3-7404f274bf38',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'a932fde7-eb25-4ed5-ba65-1031f3e65753',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd953c0be-b38b-4487-b73e-b5134c175c7b',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '70c38e2a-c8cc-45c0-ba0d-cf62847f9876',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'population',
     '167294',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f496fa19-5cd6-4495-8f7e-f3481ef3e9dd',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '11513c13-a05e-4f5e-9a4e-e34fc06c6e21',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'gdp_md',
     '5920',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a41eabb-914c-4a4d-be47-939dfc5a8917',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'fa6bd5c9-b30d-4a5c-bd54-50e7ef515f98',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1bb371c0-86eb-47df-a13e-256edbde747f',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '405d8690-d30c-4428-bb14-b4421320f4e2',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5fb4825a-695d-4e39-942f-5cfc3e1aaf56',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '2eef0570-0223-4c9b-a3db-0fb099901023',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fd8a7b19-efcf-42a5-b174-2c5dce8d96ad',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'afa224fb-2509-4c77-b9c6-84259b0115ad',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'label_x',
     '144.703614',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40794f3f-c6a4-448b-aeb8-e9f585b75093',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'b3dfd8cc-2629-4401-b8e4-c521a057f540',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'label_y',
     '13.354173',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95a87c56-4535-4cec-a1c2-006c2af71a3a',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'ba6d848d-25b8-4bfc-a935-db7de74f1d72',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '13cb8948-2b6c-45cc-bd15-c45672d903b7',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '08e2419d-6f86-420f-9cbc-400a255afb9d',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b5483d5-4cff-426c-9079-97c5ce974044',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'cb9bdcb9-fd67-4dcc-b12e-bc254133688e',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd50b26b-d689-4d76-8697-977e759a4abf',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'aafda46d-4f1c-443b-8c3b-5a12cbdf2a65',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cb9cbd5a-5f71-4b54-ba8d-fd6996179754',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '438ce72b-3fb2-43cb-bed4-5ac49d40f925',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'population',
     '55312',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '60a00bc9-b8c7-4a11-9e4f-a7d2ac0350c3',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'b34c3020-b687-48ba-9ccb-78a8b876377b',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'gdp_md',
     '636',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '057a29c8-c344-40db-8ec6-5f275f35e8b3',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'd11f27e5-c876-438f-a25f-bb024ab4e234',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7aa7f2d5-8d65-4cc8-9358-b9bf846a0cb7',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '1b80a498-bd56-4830-bcec-3bbff3afb5c8',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4c52c8e-e8de-42fe-a362-24688476b89b',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '71dbd2a9-88c8-4f17-a4f9-c7042511b85f',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05244041-105b-4b1e-8aea-af4b9ad94f66',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'aed4db17-512a-488b-99e2-a64465b53ee4',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'label_x',
     '-170.747153',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e5c551a-1b29-4eec-afb4-7cee9639d697',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '4c1ec240-98da-40ac-b80c-856122b1b18c',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'label_y',
     '-14.32671',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4fe0fcc1-e634-4d13-ad71-52b501464cc9',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'ce3d6128-1d2c-4cb3-a8c6-ba3620b85ef6',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '198d2a79-7209-48ff-81cf-8e3f7c7177cc',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '231ee1a2-86be-41ae-8599-f338b3b2f978',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e964d25-9115-4411-812c-1a7c4d8fec74',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '3507d48e-0c05-472f-b119-73ea041b62da',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1b40ad5-c09c-41ca-b9af-0b24fc5d9bca',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'a0add3b5-5381-4591-bb9f-645df74a254b',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a8c906f5-61c0-4e3a-92ea-94490bf7319f',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'ada39759-59bc-4317-9551-63ca5899cdd1',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'population',
     '3193694',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edddc53d-acec-4431-9ffe-a28ffc566e33',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'e259d49f-5fc7-4c24-905e-6b0a7084af39',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'gdp_md',
     '104988',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1144a01d-38d2-4b36-8cd9-68bd36126c37',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'a1d9311b-725d-423c-8ea3-1b8946af7512',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '746fc27a-010b-45a7-9d9b-48e3ccfb5424',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'ae801a39-4143-45a4-ba96-0665f3250945',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96d074b0-be19-4b62-9005-652039b72fa7',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'e26217de-f7d4-4a7d-bce1-26a585057b09',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3d32b4e-d9e8-4515-be59-41b32ef1811e',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '2afe9bb6-35ed-401a-b55a-22f7a4e4d12a',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'label_x',
     '-66.481065',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6eb40ca2-4a2e-43a6-b468-5bfd60b0d692',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '9b0d405d-0ab8-4e10-80d8-f987a1da870f',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'label_y',
     '18.234668',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af5c56a4-a238-4cd7-8fdc-433b240ae4ca',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '3ef86349-1de4-4cf3-84f9-efce646cd44c',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0d397044-6058-4bcd-a592-572dd691ded8',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '1d74a704-fb31-4876-a25e-06e2ed1ea494',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b1fcdc02-09a8-4048-a8c2-5f86394f0d00',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '2e657117-069c-481e-9f51-facedb0b2a3d',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'subregion',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a6a6ce1-4875-4a04-98b8-fbc5898b4913',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'd65430ad-61ed-41ac-a9ec-a7eebe44f937',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'region_wb',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f24457c0-87f9-47bb-8ffc-fe6d908071b2',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '54da48f8-dd12-4121-b19c-adf953659bc6',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'population',
     '328239523',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '57bc7c37-a533-4be1-ba7d-af67a5bce170',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'a27cd2d5-2063-4404-aa63-1e02ab17166e',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'gdp_md',
     '21433226',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b57b803-acca-4a33-9ca8-da11c1c118d3',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '7bded32e-89c4-41cc-be64-1513b06323bd',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '89924ca8-cafd-4d5e-9e9a-cf6dd6cb588a',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'd089b078-d36e-4f3f-9b60-cfb796c9af53',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cba3a343-7b3a-4bba-9976-204fbf2bd1b0',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '43b270be-11c1-492e-a0a5-5eb7bd4c83e9',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '791745a4-7f02-44df-a90d-9446639b2259',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '7a7d5393-e951-4b63-8a80-41e2450a451e',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'label_x',
     '-97.482602',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ed70cc6c-9a15-4a91-ad05-f87db21628c8',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'ae347cbf-9ed8-4b75-9b7b-017933adc690',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'label_y',
     '39.538479',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03945b41-5f6f-4c85-987d-7ba77d823b83',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'f54f05e8-5862-489a-90d4-f1abbce72cc0',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5a156ab-acb3-40d6-9b63-7a8573ed1c76',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '23b89637-b293-40e7-9a74-208f4a7d6e3e',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '343df323-f15f-4a01-9bc0-96caffc5f8c9',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '37ba40cc-8bb9-4216-95eb-af9637efa57a',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bdd1ae71-235b-4877-b3a1-e392ccba5a6a',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'b76660d7-f57e-46a8-86f1-06b5f3a57cd3',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'region_wb',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '253c0835-537b-4e24-ac19-9b5a90e64c5c',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '86aa20ad-1be3-4721-b633-ee2db8458db3',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'population',
     '30',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2bca5a2a-5d9c-47ce-86b2-e99225fbdf81',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '9bb671c4-55df-4450-b899-7e9a7aa3cf01',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'gdp_md',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63481499-6e1f-451d-9fb1-06c653011bcc',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'c0b0395d-a219-4884-9780-8fe0d436a866',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '394af3f4-c116-4b32-bf1a-1a6ef1dc4545',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '9b8a1490-f3f5-4a75-bbf5-e98f6c449535',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a350b11-fadf-4b6a-ac57-7297ecc065e0',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '1b75bb16-aa3e-425b-8949-bf1e7c3f87ec',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67cb63a3-34b9-4e59-abdb-8e0d7567be05',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '27954457-6716-4bf2-acd7-5a52ef345fb8',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'label_x',
     '-31.063179',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '92333c7c-c7a5-46a7-91c9-60d2b9e05a38',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'f4efbe5e-2152-4a60-9b21-549e65e51b67',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'label_y',
     '-55.683402',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '437396bd-1d48-4efd-b80c-a3cfb5cbb25e',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '3c6a7f8d-1a80-4335-89b1-dbf3b1fbc53a',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '532dab8b-d9d5-4d2b-aced-0c31469f7f4a',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'd4e4ee5d-8f47-49ed-a357-686e53ecc029',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03c32c1f-e893-4dfc-9999-9927fb0e8e05',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'ab578aa4-8fb1-456b-8c34-59d07a259693',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbc8dab5-d149-49d0-ae08-c268d2f18517',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'f4f2c08b-e46e-44de-b14f-baaca5e7b168',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '107bcd0f-3635-4b64-9d2f-283a374b14b2',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '5f0ae995-e2c2-4eef-b7dd-e8cb9e59b474',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'population',
     '3000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b263e8e8-dde1-4f1b-88f9-1cae412b348e',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '88d39c3a-3e2a-4158-9287-0ce8e3fbd7c6',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'gdp_md',
     '120',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '937ade74-cb64-428f-a3b3-c74d24059de2',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '988766eb-4434-4930-b8f5-85c944306d85',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a6876962-3a2c-4de9-8a60-138f1002ca88',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '3720e9a6-817e-47e2-952c-786a8d04090e',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1282a6c9-2b9a-4568-b625-bbe67f76c72f',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '24ae1bc7-6cc2-4a91-920b-fb25d5c72f37',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'type',
     'Disputed',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cb841330-d2f8-4c63-807a-babf39361e50',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '2cfc4fea-026f-4269-b798-dabde85229c5',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'label_x',
     '71.348349',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23e48526-dd7b-485b-9a02-157971c387c4',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'f4704bca-9b69-413f-b28e-0e15790c7d31',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'label_y',
     '-6.190826',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3f88d4b-6f46-47dc-b7fc-06cff9531952',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '1f8af4c6-2661-44b1-addb-119416998f89',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05ae8b71-afaa-416a-89c9-0dddc44a7130',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '519ca4ce-dff3-415b-a27a-df83526305b9',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52220160-2e0c-4069-aedf-232f0f21d99d',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '209cc5bc-da36-4332-a27a-bbb1e42c8369',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4efe28fb-e45c-4598-9f3e-1dd42a40f5c8',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '2074cc41-bd30-4c05-a401-e1ce45c455bd',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04efbb98-df4a-4e41-bc92-d39343349188',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '1274a0fd-142c-4458-b545-39934c532236',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'population',
     '4534',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ff7c864-0b6f-4eac-ba21-c3a3b119b281',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '43725515-b229-43f5-8d45-10c36a05ba94',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'gdp_md',
     '31',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20012f8f-6acb-45e7-8267-69066401ada2',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'b1d73bf8-ee39-455c-ae3c-ed1797399a7f',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6abb0261-d35d-4c76-8ecc-0eefba1e0c85',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '60ff363d-a747-444c-9cd8-70231f1d9ee5',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb5ce0aa-1a26-4e0e-b2da-122dcb98c926',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'f91bc915-f078-48db-bf93-4ac40534416b',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '951c5b5a-3c77-4c4f-987f-360b370f1c8a',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'd17f24ea-8351-4b3e-83df-41f36996b04a',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'label_x',
     '-5.71262',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a296819a-b6de-47a6-8469-c40231294d2a',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'abc50261-4fa4-48b1-b387-4cfe4fb58c3b',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'label_y',
     '-15.950487',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15bca578-6a31-47de-95b8-12513e4c5fe0',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'bd41505d-6b38-45ac-a42f-b4aaf7fe67ef',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ce991dfa-3410-4f73-bba3-944dce7c4141',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'e8e81bec-4fb3-4104-b2a4-ef7797c1f117',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e1628fd-49ae-4e95-9452-5a07a60dfc0a',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '3917c530-a0fa-483a-820c-9f36ebed7fe3',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '803737db-244b-474b-881f-59f8a6d827ae',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'e132a6c5-ecd9-4423-b4e5-802cb0f27390',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a2096ac4-7c97-41de-8355-c099e5b150db',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'd8e099e6-a52f-445c-abf7-fec8a5b327a5',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'population',
     '54',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd261ac2f-5c60-4f13-9b9b-4b7552bdf433',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'c70f897c-78f7-4bf3-a361-38f000d5ca0a',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'gdp_md',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e99a26f-0103-4f81-b8d8-d8de084e729a',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '9b705b25-be9c-4d7e-8a44-1165ae605809',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3cbd5b14-b36c-42f0-81c5-718afc01c2c7',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '202c0031-55ae-4ed0-b495-0cd90975cb6b',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e68312f-abda-4b0d-82b2-7e49cc200472',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'eb9ba609-6809-4c6d-9193-368710c119ea',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '97bbdbc2-d09e-41f2-9804-8296ff4e2ae7',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '43b10942-5715-4a92-9c8e-c931521ebf77',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'label_x',
     '-128.317536',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3713024-1aa4-492c-9a46-115a5dac128a',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'eb5a7426-b1ec-456b-8acb-82e260c9dde8',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'label_y',
     '-24.364576',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f0ba34f2-508f-493a-8c27-9768acb8c88b',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '0d1be48f-c30e-45e5-bcd2-426cd6c878ef',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a159f67-0a19-4685-9708-1b2f9e08dc22',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'ac7630c3-dfc4-4c47-959c-a312f17bbb59',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f768c427-c35a-4a15-bd36-5554e406e21a',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '1c8dbcfb-aa53-4d41-b3bc-6c57555120ec',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a1ce384-9a0d-4799-858b-76f4e556dd6d',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'bb6b2aa8-33d8-453f-806e-79e165442d2b',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ab31f97-7399-4d9a-88fd-2254415b2511',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '47f4c320-3e1c-46c8-877c-9c2549a0839e',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'population',
     '14731',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1fffbb79-7225-40aa-b2fd-791ec5ac8f58',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '1ced95c8-6ba6-4a03-9d43-77ed3a742684',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'gdp_md',
     '175',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '71877af5-0191-4865-906b-a27abd7a525d',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'd462b59c-9cd7-41a8-822f-204bde860384',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7f7ac89-5adc-4c5e-b3c0-dadd0da10ad9',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '1529196d-e338-4f1a-9195-4b2c41dbab71',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a592633e-9ee1-48b8-b8c4-3a7659b71705',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '62b8e1d8-f506-4d89-b62a-29dd7425b15f',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9cf518df-aeb4-4ed6-871f-dfc6aa29553c',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '129c1d0d-4fc3-4573-8131-2c4b4e33d623',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'label_x',
     '-63.026361',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5963e6c6-a0aa-4a78-a029-c2edaa817cb6',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '9efd4aa8-5c2b-4ba4-b601-044daae83735',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'label_y',
     '18.242979',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7ccbf03-18ac-438e-9844-b2cc493a1471',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'd6e5bb7b-0ef5-47b9-974d-bf5483c2e13f',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de4ed4b0-97d5-41b7-bda5-702b2096875d',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'f5ad5bae-9041-4468-8852-38be409b9e96',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9dc86e6c-f2aa-490b-9a11-e839ed915dd3',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'eb332355-1b2c-495b-9451-e60cc6b4c114',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01f10121-c2e1-42d9-97ce-eb65053c38ea',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'ad19a2e6-a960-4888-8469-f9cdb72abd15',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3578530b-2557-4ee1-8489-d91a8d676c2d',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '02df8641-4920-4c69-89ed-419af1d23d88',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'population',
     '3398',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '870f296d-d0f0-4ddb-898e-cc7a490e4233',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'b4baf3bc-8f5d-48e1-8826-c80916386ed1',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'gdp_md',
     '282',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f279c169-1f7d-42e0-8aee-fe368ece6254',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'f96bf4c9-fa62-4c75-b440-feab13cad1ac',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '45ce1232-a6e3-45a3-91b7-b7a05ee1956c',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'a05978ec-ed63-4679-b789-f0c183d65be3',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d98d264-c183-4721-af49-1c0637642cbd',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '57e8df1c-26fa-4401-bcef-534f8eca2030',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'type',
     'Disputed',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47a6b96b-4986-43b1-ae46-d591f7d51617',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '13d9fab8-d739-4b0b-bdeb-4855f417abe7',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'label_x',
     '-58.738602',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d4e4648-5749-49b7-ac11-576847362ca3',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '13b33e2d-0180-4ac3-adbf-c6348de07cf5',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'label_y',
     '-51.608913',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aadf2d8e-3f10-4be8-b9e5-24cfa928615f',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'a4e5cdb4-6ef1-449d-9bf7-11901365ccdf',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f67e9507-e33e-434a-8753-df4c742ae284',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '2a6df8b4-a8ce-4a85-b97f-e145b2fac070',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b85cf3c-066d-4a5a-bdc9-768643ce0ff3',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '646969e4-20fa-490e-ad0f-fbb88729ff93',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '125d9c0d-e361-45d1-bab0-5784c2919f7b',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'b2c0ad0e-37c1-47ac-b080-41d05da237d1',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d47f567-42c6-4b75-b103-ff827eff3085',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'b3a9fbb2-f9be-400f-8658-65b88228c152',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'population',
     '64948',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '178d4996-5ca8-472d-bccd-ecbd6d9cd7c1',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'fc181fa6-ce38-48c3-9d64-2dbc53edd7f7',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'gdp_md',
     '5517',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0145e2c7-d73e-4fd3-91de-747ecc6c5a80',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '4c703de2-29b9-4090-8808-7219e891f83a',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f76ba4d7-2e50-41b5-97fe-6d9c79a2afb3',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '8ff84451-4e4b-46da-aba5-0c5225eb934b',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '699f09c7-36da-40f3-97aa-37539efcfb6a',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '6bdfbd29-4469-49a5-8bb2-0d170a6658b1',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '935573e3-4746-45cf-b2cc-3571b6a972df',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'eab1ce7a-aea4-4852-a89c-4da8ded273c2',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'label_x',
     '-81.24055',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a592e16-7955-42d1-bf3a-9332a3a727e5',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '3657ec09-b1c8-4867-95b0-84d7fb9e4be7',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'label_y',
     '19.319862',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '341cffcd-7555-4cb7-985d-d77cb2a1f974',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '9679530f-9420-482a-a7b4-a1c6a941e70d',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '70ed0e1b-9b86-49d8-840b-a71bd8e4181e',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '5bb9d9bc-fa7b-4b2d-a8c8-7ba863d8d35e',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd0fee237-71dc-4d64-b96a-dbc31c7b7533',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '54859c50-fecf-453c-9c0f-d3780abc5c07',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'subregion',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fa49507-90aa-43f8-9f14-32515d8eb256',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '5ed070cf-05d8-4c47-886f-ccf79862a919',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'region_wb',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f3c2530f-21a0-42b8-ac4e-13b5896ddfbc',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '13ed9751-86b9-477d-b11e-22c4e07ed8e9',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'population',
     '63918',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4dd5ccb-bab4-4560-a8e3-d496f66cc45c',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '1c14864a-b21b-4d2d-a820-cdce9a0bb589',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'gdp_md',
     '7484',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '13f44171-9ace-4bf7-9c87-4c251b8252f3',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '3c44ef2d-1805-4244-8f03-dc14c5759ee8',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae2f4087-f75c-4b19-8f9f-419d6d42db20',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '9c53f832-3b50-422e-b4bc-24f49006d995',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87b50c12-26a3-4f85-9980-5bfad5e013bb',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '143bc062-2395-420e-9a68-910272eaa276',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'daeb7586-886b-41f7-ba3d-fbeafcd5f3bf',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '42297806-43d1-40e2-856d-e96eddbd822c',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'label_x',
     '-64.763573',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '145d7c9b-4ae4-4ee6-a363-79e2a7a3336d',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'f36938c7-e2ef-4d2c-a532-8398ae73100b',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'label_y',
     '32.296592',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51b00a04-61d4-4844-8ae8-e50b8b41ae09',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '3d792f64-4745-47ff-8d06-8273285b10cf',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5136b2a-a720-4692-84cd-16029476a26c',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'b285d708-9f16-46df-b5f3-e3ca744ed081',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6b9eb8cd-c30e-490a-9a32-0f30aaa6249e',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '02d04aa5-1722-42a6-9bf0-347f250d211b',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6591e227-0fd4-4c6e-9ec0-5bea4b2a3c6c',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '875871d4-7716-47c6-a157-bc4ffab487bb',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '185a0bd2-c7ea-47de-af8b-8985eaafb3da',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'd8834416-db5c-4111-adf4-d8cddbb88bc7',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'population',
     '30030',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3acdc238-a998-4c3c-b564-71e130b4d778',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'e53dbf3a-7ecb-4475-ac10-96e4471d0157',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'gdp_md',
     '500',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '59c09094-1e14-4dc4-833e-7cfb0c531c83',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '0f2648f0-8566-442b-88d3-d30bb7823d62',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '781aa500-a0a7-4609-a964-cd1770387609',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '5463c994-edbf-4856-8eb7-65c77a5ed602',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '060403dd-44ee-4c1f-8731-b38586986d76',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '3e92e173-b201-4f5f-ac08-d59d69d78add',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5347057e-576e-4c43-90db-49c529be1a2e',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'a5d41850-e2ec-4a9d-8b02-46bce75a6d55',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'label_x',
     '-64.63661',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46e328a8-3eee-4bf2-89bc-96a4b6e4d241',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'ef0b6efc-a94a-472c-8dc5-b7f31cad56ad',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'label_y',
     '18.426606',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e0ac3b2f-74c6-4c36-90ad-1a8d7f991b86',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'f5b9a9d7-9eea-4dd4-baba-306f79e5f1e7',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7ec0781-ae66-41b4-8194-933e74adbc10',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '940262a9-86d0-4b6d-9902-137ffa5963c3',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f4443fb-3e2f-424a-ab7d-258a9db38af5',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '51994ad8-1749-4373-9d42-e76acb1ad28b',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '702740c7-37cc-4403-80e4-c2fdc33cd7af',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '8e4ec6fe-74f2-44bd-9443-c6c4df1649ac',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b383191e-3a26-4c3f-a330-408b8daf7d5c',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '3475d572-b5fe-477a-92dc-eaf701335b38',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'population',
     '38191',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d2891ac-d119-46fe-abef-61b755dc26cd',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '092a818d-b0b2-46f7-84ed-8db73bda18d3',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'gdp_md',
     '1197',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e835f2b4-ce76-428e-9894-c146d8537fe2',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '370ee2fe-5db8-4816-8a1a-42622a32f166',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34027c08-a254-4d46-8562-ff9d8d526d4f',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'e5eb79e6-334e-4e72-8e49-02b1b7c2aac3',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '831980f6-98a3-4d48-9c4d-f13f548497b6',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '2669fe11-7fba-4197-ac6a-a88da6510d56',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d0a4f03-6d62-44c5-b206-b5e0cfbcb0ff',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '6842053b-2bb9-433c-b78c-3396f470c6a9',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'label_x',
     '-71.752704',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f009d32b-d2d3-45c5-9d22-ca0972072549',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '39c04cb6-26bc-4b07-abc6-af8fbdbeefd6',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'label_y',
     '21.81663',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a11ecfe-04e4-4678-83ee-12a17631315d',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'bdf6b749-b535-49d0-828f-44032ebc5279',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c5e08cc5-080a-42b9-a9e8-f740c407c1f2',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'd54e28f3-1ca1-4c56-b40e-bbfbbac68894',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e67f5f1-7a40-4145-a7da-ba816f87d9d8',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '45156c2f-3fe7-4a75-8d9e-08e285d42be6',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eb2c27ae-3cb3-43fe-bfde-524de9844f9a',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '419c9376-b305-457e-b75c-6703057befd2',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbc396cc-1c8b-4e29-a997-0e453a5606c9',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'b67490b6-4010-46fc-832e-0bee8f67a63a',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'population',
     '4649',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68d3485e-1879-4ad7-8fad-b0fe7011e847',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'fccd328b-731a-4d7f-867e-872b6b50ae94',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'gdp_md',
     '44',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bacbe2cb-294c-4b9d-88c6-c905050d4abe',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '7eadea81-5014-4c6e-845e-6f6c708d34db',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b93e2653-a06f-4f9a-ae3f-703f43ef663a',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '24f95864-12b8-4198-b9de-2c43597f9dfc',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2dc00863-5034-4dcb-8c21-7ecc6d440b54',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '21235771-bc9f-4b19-8885-1f4413c0b50f',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc3b06a4-fd25-461f-bbc5-c8104b71c43c',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '3ead753d-12c4-4d45-96e5-79c2fe88e51f',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'label_x',
     '-62.188252',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab3ec7f5-bbac-4606-a4c9-e88e9410c686',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '2a79b994-ecf3-481d-a91f-80e54f38ee0b',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'label_y',
     '16.73717',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9e9eba2-21e1-41d7-8fe7-e268505cedd1',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'b3e89d77-a4b5-478c-b92b-f4cf5af43109',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ebbea47d-98d9-4327-b8c7-3eb7df793940',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'a7bfa712-c17b-4fca-9505-321b76758988',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7199bbc-6029-4b3d-a443-4fdd147dad5d',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'fea56381-b0e1-4140-b173-c5a013a67941',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bffcf713-bc3a-4f36-b595-df2d1af6ebc5',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '2a6dcb53-44f6-4469-bd21-d16d948b8d64',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af8bac38-b998-40dd-88fb-25bad06a3f46',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '9c093f2f-1e16-4494-89a7-cb49b8f1d46d',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'population',
     '107800',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34977f07-c005-4fce-b1ba-886d1129e6fc',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '374e22b7-3a23-477f-889b-df48a30cf417',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'gdp_md',
     '5080',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd95fcd78-fb89-4e76-9d05-e7477e9d0d12',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '7546f59d-c5ba-4d9f-8eac-4b7edf123459',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44b3d8f7-f3d1-4ed3-80b9-8a0cd0f4162b',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'bdbe6d22-5df2-46d0-94ee-d16bbf61cc84',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd827ec5a-e29e-4dca-b601-b7ff94b7edcf',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'bf2f9257-1e67-49be-861d-f2b6a9d08979',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c71f936a-35d9-4d5b-91a5-61b69719be37',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '4ab2f36c-87f5-4347-b35f-3c29b860a777',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'label_x',
     '-2.090146',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c92ba7b-a27e-4c42-93e1-150331ca3a81',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '09b43b6a-4207-44a8-bcb9-e35a2289165f',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'label_y',
     '49.220808',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e8acaac-aa33-4a12-ac6e-73aeddb2eb7a',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'bc2ba938-031d-4432-9cd0-d5c642e18f8e',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9fd07636-de45-4122-8429-7e5cd473a8df',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '2ba3345a-6a0d-4f40-b9ee-9a6974b9346a',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '48686a10-1dba-494a-a720-43f2c57cb525',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '0286f4df-8a88-460c-8e68-244d6422302d',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d162220-0855-4067-a5ef-5e2c180a6542',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '58d0c1f3-8df2-462f-848e-abf12d8fab37',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8478b22e-ed42-42e1-9614-c8524c6b1a02',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'ac27d400-80cd-4c7b-9170-5c434b017011',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'population',
     '62792',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e084b64b-b8ee-4763-8360-6bc535ac274a',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'e1dca73d-5e21-40d3-ba66-ff827841d242',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'gdp_md',
     '3465',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '26af2bdf-5eb1-48c2-82cc-c2bf6bfd0e22',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '733d57d8-804d-43dc-ad57-d06edb3411e3',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c4e980f-3286-4e8f-b9fe-8835a3173a36',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '04bce651-0812-4db1-b20f-a43ae9155f50',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75399d6f-671e-4f4f-9154-521d7de8397e',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'ee79a6a6-edad-475c-91c8-ca6ee94463fc',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85292219-10d3-4bc3-9d2b-160f32f9d21a',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '47ecc2bd-971f-4645-9425-c836ad44447a',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'label_x',
     '-2.561736',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6e17c025-3efa-4a3e-a868-da9a308a041b',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'c9c66c41-ff46-45be-8e9e-cfe08138442a',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'label_y',
     '49.463533',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '489f32a5-f77a-48c9-8967-a439e5d7ee5f',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'a7e6444c-a44c-4139-ba2e-e69be09f6258',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddd291d8-0603-4334-9d7d-f159004342f2',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '8b9e3e04-5093-4416-83d9-7e4ae6ad7073',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '78ff4091-e5bd-4478-844d-6507b59ec5ca',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '298bacdf-eacd-48d2-8992-8a6421fd10ec',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4a392e5-1a16-417a-b49c-6d3e7835b687',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'b936eabd-2dda-4647-8882-621e0473e8bc',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '785aa8e7-4504-4534-83b5-da310af87149',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '2c9cc11c-08bc-49db-bb5c-79720287c957',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'population',
     '84584',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91fd4861-97b2-48e1-80ff-67bb4ae4ced5',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '8f13445e-2120-4d7c-9cc7-7801c065b77b',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'gdp_md',
     '7491',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b92b1292-6bbc-4042-83e7-3efcb44f942d',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '8063cd1e-078f-4680-9fb1-2c7cd523a611',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '076d5f03-f769-4bf8-a2cd-d392488a64be',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '42e27208-4ad1-434d-9ae8-64c60a85df48',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64d1bf18-e3e8-476d-803f-16746c47a513',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'cdfcf953-3a51-42f8-b65b-047a33db0576',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '710e600b-14c0-4245-b91c-19417d3b089a',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '09fd140d-e4b0-453f-a795-220bd63a4608',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'label_x',
     '-4.530069',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dca51106-e0fc-45a2-b68e-7e5a36414503',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '2aa252ef-7ce7-4ee6-89cd-2b23aae70dc6',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'label_y',
     '54.220833',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc6f94a4-0874-4b83-bfbc-d59c50e875b7',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'f466c159-f32a-4530-9da8-0c3e385f0689',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0642366a-bbb7-40ae-a4ac-9cbf51b51c05',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '416acfe0-0478-4532-9027-eb79145f2835',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e52ff20-2164-4aff-8d1c-a47ffe90d13f',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '67a06a45-a9db-46c3-bb60-9b946087475d',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fce8f39-a81b-46d3-a86b-aee979b41dea',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '7fae4e11-d9a3-44e2-a826-502b9522e955',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '356ef937-a1e7-4b72-9075-33503916812d',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '38b7cba7-6be3-4ada-9b92-5267a7650603',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'population',
     '66834405',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f85ab709-1cb9-48b1-bb39-85e0fd642f8e',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '41c74fe5-7d5c-4037-8a9e-e9e1c5f8ddde',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'gdp_md',
     '2829108',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b4df7b12-de85-4a4d-8d93-90ec9782ca29',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '4b752601-1e26-4070-8f61-6dd4e10227ec',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd44d5cbf-e109-4947-85c1-4d026ba3ab05',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '68ea2845-a4c8-4888-b863-0a7682a68274',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e13e6bbc-14cd-470d-ad99-0e7a90cb7aea',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '75d7f709-cb1a-4375-a139-da56f6484b8d',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b43195d-e10e-4c99-9f35-3a11079bc965',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'cf3e6fe3-27b0-44f8-9065-9719231dea9d',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'label_x',
     '-2.116346',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5455e43-6e61-4fd8-ab69-4d1510cf7cfd',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '19a961cb-eeab-4095-90e4-357feef2c691',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'label_y',
     '54.402739',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af7d6d46-063c-4df8-ad90-95c712220daa',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'd1a0c8e8-d6c8-4317-bae9-5cfadfe08540',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea753e7b-dee2-43db-a1bd-0da4c37b227e',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '79dc270e-531f-4e30-a955-b1ea162a5a76',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'effa28f0-f189-413b-b237-d7c9d5457703',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '32602cce-a79c-4024-a29c-0bdd1e38c208',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ad4cfcad-e615-497a-9741-a4fe76c505ad',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'f42cd3ef-bc26-4843-8a73-049922d230d7',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c05163c-7d7a-4564-9c07-de3c570f99ea',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '98e9fcc3-6451-46de-acd9-9d37c42beac1',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'population',
     '9770529',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7ad054e-81a1-4f72-ab01-1b1f9112cd53',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '1fa8df0e-36ee-4a4a-be7e-a523a7005357',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'gdp_md',
     '421142',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a2399655-6a38-4531-bca9-92cb3145e204',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'd20e59ac-f80e-4e53-891c-c6b48b3b2b80',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '32701c9e-ed69-449d-85fb-36b8fbb86f72',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'd0ac728f-7872-4d2f-835d-a984d38ee424',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5f2a08d8-b949-4568-8487-82c5a0c494f0',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'dd1a2661-a5ba-4f69-9087-0933d0f156f8',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd068d172-e992-47bb-8fa8-b9d26df2d842',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'b9445491-aa1d-4a68-a5ea-5117fa718e15',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'label_x',
     '54.547256',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e2f71d27-b6d0-4c56-87f0-743e8fe8820d',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '8bf83976-ff55-4fb4-915b-29ef241f6e8f',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'label_y',
     '23.466285',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30f7d60f-6109-4be2-8654-a33bb37a4f22',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '5a523607-aa4a-4a82-97e5-696055703acb',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '622270d2-4eb5-4a8f-ab4d-c9148f14b8ad',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '4cdd6692-e4d2-4440-a3db-26c69576d628',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b20ffe7b-7157-4796-bc65-1fae5a673dce',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '3d93b697-6454-4b85-8427-fdab05d7ce8b',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa6b6c1b-c7b7-44f8-acb6-e0f9818a9c22',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '6b8b9c0c-f38e-44b6-ba07-89615bc2a91b',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a38b461b-0ec3-411a-95db-13757fd07490',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'cf349bc6-2e26-42f6-995e-376f7f43eb24',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'population',
     '44385155',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '891c502c-c326-4a7f-b262-51ad67a4644a',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'a6e26df0-6276-44b4-921c-61003de38d16',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'gdp_md',
     '153781',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f7911ce-31b6-49dc-aa07-f02fe1246064',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'ea44b5b6-c328-4a37-93e4-e3d838088514',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '905db99f-03dc-40da-a431-820759442ded',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '0b7e11b3-868e-498d-8030-4dc57c051bbe',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fd9e813f-1a38-4194-9bd7-a99b433aee75',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'b922b483-c6ce-4d10-b361-ef1fd9330fd5',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd9ebf7da-bc77-405c-856d-bd1cb81d1a28',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '9f093cfb-9230-4385-90dc-54264f6a6474',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'label_x',
     '32.140865',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b7861f07-f7fb-4f90-9949-0692823f5c41',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '5fba3e9e-cefe-47a2-bf1d-38a40a0347e4',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'label_y',
     '49.724739',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67e78c87-7ce2-4181-a957-94737b665f3a',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '02167c6f-535c-4594-9692-c8b0f728bbc8',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '427b1ef7-ac35-4d03-b299-b50ef91708f8',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '663a7e4b-be4c-4f76-a0db-002b297fdecb',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ff0ceb0b-498e-46ea-b0af-99abfe91d86a',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '49d7c2b4-769b-4602-98fe-0638fdbadd57',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca1cfe08-1bf0-412d-adc1-ad4e639357a6',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '043460e7-9640-4e57-a5fc-af278f9a0d2e',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '53877d93-3bb1-4a7c-b198-4bfc5b192e9b',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '2eeca09c-fa6a-4728-b48e-2da487eef413',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'population',
     '44269594',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '41bf695a-5c20-43c1-a0e3-472b5b439289',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '46dd0c58-c09a-4ab1-a28d-3218a18f1ba9',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'gdp_md',
     '35165',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b933f51-7f27-46c1-9f6f-0c6c7b105801',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '4de72170-6620-4562-8962-9cede478c91a',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bec8e7f4-bda0-4ba2-9fbd-ee668aa094e4',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'c3557f60-e767-4ae0-876e-c4f9f4942a90',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24e24982-fb8c-43e8-9085-4a58d4244267',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '3b470234-3dcb-4b44-881f-85a71b00c31e',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '65a7ebca-3aff-4dbf-b41c-65432b6e20b0',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'f5922f97-7316-4c0f-9c97-5d5a16a5ff76',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'label_x',
     '32.948555',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '38138add-dc37-4205-a28a-4040b1e875fe',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'ece8078c-2f42-4ca1-9dd8-9511e54cab72',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'label_y',
     '1.972589',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8247d864-e980-4d9f-96fb-483f055112d5',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '69c8f4a8-16d6-44df-8bd9-47b56c985db1',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4bc9f7f1-8ece-4bb3-984a-983ec9645c5f',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'f8e6a863-b7de-41fe-bdb8-73e3df030f75',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd89ecf55-18aa-4e95-81b0-5f93dfb72063',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'cd62ad68-ad99-48f9-80c2-0e1658bf8941',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'subregion',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a507fc76-15a3-4736-b469-243e7a22c133',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '66f314f5-6bf3-4724-8236-fd7594bcb178',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2fa60bc-a5ec-4c5f-a308-f360774528ca',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '42b50615-0166-44bf-84aa-b211d3cbb91f',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'population',
     '5942089',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b34ec57f-af43-43b4-b0fd-1b26d2214c20',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '8d3020e4-b41c-409c-8da7-75a4cd825042',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'gdp_md',
     '40761',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '328c574f-f65e-468e-96e2-a94bf0b577e2',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '2dfef967-7cf2-4d7a-b9f6-357fd09ea9ff',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e5af121-5a68-48af-8984-6930b69a114b',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '51180a2b-09bb-495b-a1a2-45fea4127cd5',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '54a71904-5e62-44c5-a887-1b7e12f2091b',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'be9cfab6-ede5-46c9-8cf1-1f500711a1ba',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9fccdcd3-e59e-4473-81a9-4045408b2c16',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'ec9ad7ea-4bbc-44dd-8a82-58e17bb6b71d',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'label_x',
     '58.676647',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dbde4f9e-0398-4bdf-8b22-d78adfef7ef6',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'd0a49cbb-d9b9-423d-9219-c3550136066d',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'label_y',
     '39.855246',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '877a0bcf-57cb-4f7b-973a-a4180b15f2f0',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '8a4a54b8-2a5e-40b0-b11e-dee2e78ac072',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc75c55e-d14a-41d1-8b5e-6a1603503260',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '6716df6c-1911-4dc3-8ab1-ab46a08bd84d',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8df157e4-1384-4f64-b78a-c01f434ebacd',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'd7ab11a8-2c39-4c1e-a2eb-12a453a70b30',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d0f2537-dd05-439a-8fde-9099d0f0f4ef',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '161a3125-8fa7-4747-b737-00fece901847',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40a7b41d-f498-4681-b60c-ab9c37ac3d85',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'dc8a27ab-37cc-4cf4-a50b-ae6d20465940',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'population',
     '83429615',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9073d6e4-9dec-42af-b077-0c4f527bafc1',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'dc989e82-541a-40e3-91ca-61a7f9798032',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'gdp_md',
     '761425',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '81904525-1937-4ae3-a8ad-21e2f3654bcf',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '7dd4a91e-ec30-40af-bb7e-54bf18bbc5b0',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10b1b497-2168-4341-ab4f-0748f09cb26e',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '2454e8aa-7e5f-4880-910d-50642e08f45d',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '577547de-6f5d-4e54-b415-e0c9ca1509d6',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'b476f248-1f37-4115-8934-a616b08f5b18',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1958bc80-7004-46ef-8d36-ed9b6fd748b4',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '31ec3bd4-8b02-4bd5-bd4f-905b017bb2de',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'label_x',
     '34.508268',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9d7e006-fdc4-4431-b484-8f863d096f41',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '45f874b7-c7aa-4f58-b888-b7c49db49004',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'label_y',
     '39.345388',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aae27605-dddb-4d43-bd73-f6324e8349fc',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'cea96bf1-7eaf-43f9-8e05-0ea915893a89',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '338cff6e-e3ba-46e9-9f06-b4cae2a25ce8',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '8416f818-f8fd-449b-8665-7cabb5b75090',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bd964e9-f21c-4829-b20b-1108e63dc881',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '708a4fb2-ad9a-41e3-9544-f2d8eaed1a34',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30ae2972-18c0-4fca-b582-b7e4223536f2',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '3d275121-391e-42f5-96b6-0e187f80a547',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1bcfe92a-fd93-4149-9b5d-20d0504a2d67',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '5a24bde4-0da8-45bc-865e-3e8e4273c386',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'population',
     '11694719',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '661d5072-ea03-4dbf-91d1-a14bdb1a0302',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'a6d58f2c-c9e8-4bbe-884b-95dff1b96b8a',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'gdp_md',
     '38796',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96abf607-6aac-4cde-a170-dc2bf8329530',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '65f9d139-4b24-4e03-83f1-2226797fc314',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0081cdb7-abd2-4783-881c-ae06c7ba5b1a',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '99d87d75-bd7c-49d6-a09d-bbb15bc444fe',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b032c718-8790-4535-85d7-1fcf76ea69b9',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '6c5f960d-2701-47fd-b1f5-263d8cb4d050',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23c04d19-390f-4bec-9237-3a4c4be72358',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '2e64a899-0c15-4fa4-9f20-f9d2c30f2aee',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'label_x',
     '9.007881',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36179916-4650-4799-b1a3-3e00246190bc',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '1722b703-0aae-48b8-b4a9-18c236cf4f2d',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'label_y',
     '33.687263',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28448140-0954-42a3-aa88-56ec6e00112b',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'e65915f1-0d2d-4cd5-93c5-bb062eca3527',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6260fb0c-0c16-41d5-9e81-2827a818bf77',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '4267e644-3f8e-4086-89e2-f744b9a53b68',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37a57f36-3c6d-46e4-aa55-7b66a34f5365',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '7ddb16c8-2213-422a-841d-40ed292e1238',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ac738a21-4fd5-4993-8e9a-2b5149fbc6ba',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '3db4d815-6e62-4af2-a9ad-98a9d1ef4c38',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bf8f8ea4-f6b3-46b8-8d49-5fd60955c5ac',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '3b8a4758-c00b-4fc1-a6f9-b2db771bb26b',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'population',
     '1394973',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fc1413d6-e9cb-43d8-8379-9e5ae457bace',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '3e616021-6814-4ed9-a8bd-5c17108d80e1',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'gdp_md',
     '24269',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5c5b9b69-9dd2-41e3-99b7-cd77f7c4843c',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'eba17139-1dc9-4be5-9c2a-217fbb1d4d4f',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '199bfd06-310d-48ff-9ad0-b3adcff8a004',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '8abd2530-4d0a-4d8e-9f2d-9d876749fa0f',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52b5eb81-cd42-4440-8d5c-91f6f5e429ec',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'f9a96d54-b015-4c53-a426-3a0fab73305b',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5309992a-205f-46a2-b10e-d948855d4aac',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '4075a1df-a023-486d-820a-0d894a99eae4',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'label_x',
     '-60.9184',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a783c395-764a-4fec-99fb-a14908e28aa2',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '70e8175f-c08e-4fe6-8f29-d98723f7cfa9',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'label_y',
     '10.9989',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cc3cfedc-703c-4992-8f6c-d90556aad526',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '11de111c-e2a7-451b-be71-7414a7828cb1',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67cf485f-2064-41d4-b3dd-ce8e9ee874f5',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '993a94bc-cfbf-42d6-a00e-e517ba1a083c',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9931ea88-2821-4f15-8f76-41158e676398',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '71357a7e-ffa9-4d5f-847f-e20004ee8aae',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3936fed-d29e-4950-8562-bf4a52e94b6d',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'fa44d7fa-1bc6-4652-834f-89dc6c60b70d',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '16bc38e3-842b-4e7b-aadb-f4ad2ce4685b',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'd0ffc069-cd22-4fb1-a5bb-be55e8311ac2',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'population',
     '104494',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '626f076e-fed2-4e8b-9fde-7a9f38ca1e3d',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'b94c5e32-eb92-4888-82a1-5e30db451f67',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'gdp_md',
     '512',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4057bc61-126f-4a51-bb73-de816a458b1e',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'd50e90de-f596-43b7-8c79-3ce1c9757016',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74fa4185-0eeb-4224-a703-07bfafa222d5',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'bb60d7b9-4735-431e-8330-d52559684b1f',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0d955b29-fb08-44f0-8965-c9473a7f1bfc',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '40564973-61d7-4035-bfce-a26581a9b31b',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f6cbb50f-ec40-4df2-863f-712f7735d806',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'f9aa2b8b-582e-4541-9bc9-20d0d2741dd5',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'label_x',
     '-175.163014',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '58e5ca90-85b3-4add-bbe1-18eec89e8e1a',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '9267548a-7d32-4466-afda-7ef6a7a421c4',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'label_y',
     '-21.210026',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6980555a-bf8d-4ebe-902b-4bf9b4fba650',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'f06b5a8f-2377-44fa-84b7-30d346fc9d00',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d6e664b-cf54-4a4f-a910-b76db00537b0',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '9364351a-7b40-42c1-9a20-1699a711e312',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e586f0b-493c-4dc7-a563-8e697777dda3',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'fb4cf554-c9b4-4ab7-8671-0ca9257f3ece',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00842196-71a2-49ed-a082-6fcc01fb0991',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '93dd4c51-608e-4563-8ab9-ee1a573e8b1b',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a7ca268d-70df-4f77-885b-7888933d3127',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '73ed01a5-fca2-4ee2-be56-3e45a74ef419',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'population',
     '8082366',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8f0d43e1-ab68-4ceb-ab07-570f695e5426',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '70edbb7a-aaa9-4597-98a6-9008bbca9fff',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'gdp_md',
     '5490',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b79c363-0b89-4213-9440-5109df3c7dc1',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '48749f41-0c78-414c-96ee-68316299d23b',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '328e77fc-6ec2-4e62-bf9a-ee78dcac0dfd',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '452cb5d4-a370-4d0f-8f5a-09e9beb1c057',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ecf5b6bc-8670-4649-a605-c14011a331d1',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '8e00730a-9e56-4d61-9378-399a2d471791',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e678716-e937-486c-8cf1-87684b295780',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'b3c2d104-4882-4b50-8e04-27b35b8b1570',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'label_x',
     '1.058113',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '695e162e-af65-4cff-a218-92a09f6fa7e4',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '89c7a72f-0dbb-465f-aa17-911f191251fd',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'label_y',
     '8.80722',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6926a01-1f20-498c-a70c-f330206975e1',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'b2ba26c9-ebef-404c-bd14-d815344675bc',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6cbcbcac-a927-4fc9-9b6e-c47832b4522b',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '6f459a4d-f29a-4890-abd7-5be49a630832',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f95e1333-a429-4a71-ab47-039867c7127d',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'cb6cee21-6a06-417d-af8c-43f8010b83d1',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4365355b-3dd8-4eba-af37-d8d09684e5b1',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '72b14474-e5b6-4d12-938d-33e7b45010fc',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6c108d37-feb9-46a5-800b-c273dbe0ba43',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'e4c00d9c-e8f4-4020-8642-0e4c27d7825d',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'population',
     '1293119',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a09d234-c32d-4690-84d1-a71da424dcae',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'ae7a9ae0-83f1-430e-bf0d-c9068c4caf76',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'gdp_md',
     '2017',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '54726f84-3762-4610-8fdb-3babf6497b96',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'e5c95c2a-f0c3-437a-a865-1e8544b59711',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0093a6cf-64a2-4c1c-a78a-6525012e5efd',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '583b3fa2-900a-4841-8ae8-b6a9b26cd199',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6fd4d04f-cd99-457b-9be6-c3413206e8f8',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '78562ac9-ef4d-402f-b72f-cabae18c875d',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72bc9a56-6f0e-4d61-9f63-16fb4350bfe4',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'cebcec6f-f9d7-49d1-bd89-0b15ced53235',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'label_x',
     '125.854679',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '66400b6b-8326-44a9-8355-be98f18a9fc6',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '73212f88-50d1-4dcf-acc3-21b7e53bb016',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'label_y',
     '-8.803705',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '59ee0e5c-9c55-4d0a-be09-a831b79930e5',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'f68168b4-e536-40f8-b529-35f7442f1a9e',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f22bdc40-8954-499b-b47f-3d6483aa6812',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '4e0e97c7-9fa9-4036-b305-a7a7a27c8c4b',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '70108482-2057-46ae-a7ed-bf5f835b2941',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'df26528c-2393-4b0a-a191-a4cf22e3dc2a',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '19dd9d42-a4ae-492a-a41b-48d4269bdb59',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '021ac121-9b45-4dc7-8e50-536ed6a2ca70',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21c97240-0e81-4b96-9a32-08d74f087635',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'f6ab41dc-a9ad-4445-ba51-d67cfa8f8ae2',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'population',
     '69625582',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61ff46af-d0f7-421a-9f96-17db41a50dcd',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'd7443a7b-534a-4d44-9e1d-2da646b2357a',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'gdp_md',
     '543548',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e65730d-8531-475a-8689-74d32cd85eca',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '8b0974d7-cfa0-4312-9634-8b332fc643d1',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9465db68-5d37-4b02-b035-66495bdf53e2',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '67d1bf30-8347-4786-966c-729df559f043',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '42a9a178-7045-4b21-b8ae-7f4cd8cd2c07',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'da6a73e2-759c-4438-917d-901a1d7c9e78',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f4288c6-b2f6-492f-839d-0c39379fe8a0',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '9e142c95-c767-4623-80c9-ce240cace026',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'label_x',
     '101.073198',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b53491dc-cbfb-4991-a7dc-b73a3b6d65a4',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'b73e4edf-3030-48e4-bfba-84182195b57d',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'label_y',
     '15.45974',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73f84c06-9cd6-4706-a34a-c7e6820ed826',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'b3948115-6b50-42d1-b7fb-c889fea12be3',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6704e1e7-1c9d-4688-9d7d-02b62cb78299',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '86e80080-63b8-4149-b626-c287508a8401',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e8584068-3a7d-4ed8-b296-03025b38e638',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '61aaded1-aac2-4e60-951d-7a9a593ed877',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a99f47a-05d7-49de-88ba-89a0fc65d345',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '0e4e17d7-9104-4697-b03d-d3368c54bb5e',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ab6f0fc-4da7-446f-9afa-31095f1d9a58',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'c0ab067c-83f8-4df4-83e2-182caf1fb192',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'population',
     '58005463',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ce3168ad-19a7-42b0-9e2c-29000df41313',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'aa2ff661-3ad4-4831-ab91-f602bf819f00',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'gdp_md',
     '63177',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '949c5507-a86a-4c9d-92ec-2fd4752a4cd4',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '24bea46a-b605-4268-ac28-c34d7c97607b',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '490b4cbd-4866-4579-91a9-7822015400c2',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '95305cef-bc5e-42ce-9dc8-620efc660353',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d8345a4-c034-4752-bb26-0e7dcb416986',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'dab6822f-9742-4f45-bc00-b55a8ce6c111',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c3267313-8508-4d78-8fe8-de9c93ad3bed',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '8bcf983e-c466-4dd2-b7a4-bb7199ccf409',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'label_x',
     '34.959183',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bbff1619-bdbb-47cf-818f-af5adc19f63c',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'b1ce6679-4706-4f92-a962-e1120b2c39f3',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'label_y',
     '-6.051866',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ff3303e1-9cd4-4f37-9b85-0e06161fd3bc',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '70d7b3a7-ff5e-4809-8a9f-ac83283f9788',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '292cef6e-ebd5-46d3-ae66-e8c0c7f0d6e3',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'eb6167ea-ee88-4eca-a217-f90723ceb09f',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79732083-d945-4dec-a4e8-0fe008ca9ca2',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '2c7aa88d-d31e-470d-906e-2a6f1400b539',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'subregion',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2a1678c-de7e-4b90-b065-554855510cb5',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '157d684e-73f1-4823-b22f-0c57d09c925a',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c688a7bf-ad64-4c36-b169-29011dbd2a63',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'f4f23f49-5762-4840-b9ca-d451c977932c',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'population',
     '9321018',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6f0843f-78bd-4ba7-9834-7bc8e6a850e4',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '7885309e-4109-444b-a5c7-c946fa6ed54b',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'gdp_md',
     '8116',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '07d594a5-a190-410a-bb02-bf511bd46184',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '1efa1708-aa70-47c3-aafc-cc75a5bcf29b',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ed693a8a-257f-4572-b655-a82a40c3452b',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'cba26084-ea7c-4f4d-bebd-486702d81fe1',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3a106dd7-81fe-4c68-8264-5f4a47ec3b25',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '1916656d-0abf-4978-a411-12df5bbd8548',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8be2fbaf-6d91-4a68-8714-c00b1cfaf0ae',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'f8e4ff25-2149-460f-8041-03a552542291',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'label_x',
     '72.587276',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d0c5378-93f2-4a65-8d49-bd9cab572bb3',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'fbb45671-deca-4dd7-9e64-60ca4bbfa9b5',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'label_y',
     '38.199835',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21b74445-bc69-4df3-b932-783959742072',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '3f5a0da7-ed8f-483c-9c1f-8d9d85a0135d',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3ff46756-ddac-45b3-bf99-b202bda2f534',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '3ad2096f-c434-4df1-9c5a-38bb18b0e4da',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c89809b3-561c-464c-b97b-a79dae2ce093',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '0d65b2c2-951f-4488-8a78-d9bdbd2f4d44',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46545913-059c-4be6-9a45-409b0da79c1b',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '9ce8cbd1-e988-4875-923d-34082958b761',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0bc19df6-49dc-4025-b2b6-48726d64274b',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '39046a43-6878-4d47-b8dc-8cc2cff753cd',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'population',
     '23568378',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b161b5cb-fef8-4e9b-9f59-505c020549e5',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    'b15228f1-1dd4-4122-8e69-95f1dc2306f7',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'gdp_md',
     '1127000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5225a74-625c-490c-9e48-72d22c4b2313',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '7e8e5322-0010-4c9a-9a38-e7965e63d2a3',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7ad0da1-44b3-4c58-9a0e-8112c63c6499',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '2d256a8f-0db0-46d0-9f3c-bdaabf18dab6',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95b1f01b-9769-49f5-bbea-21289322647d',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '91ee44fb-9edb-4a1c-a290-43dce942b2c6',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2c01d5d8-8c0c-4650-bede-c089f5b7402c',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '0fb15373-a032-4625-80e2-54895f4988af',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'label_x',
     '120.868204',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7ea4e4af-0b70-4177-b63d-3e99f2eb9fa7',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '0615d3f4-307e-4de2-890a-0e2bee8242f9',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'label_y',
     '23.652408',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7555bf41-3363-4e46-bd1a-03f3dd220f99',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'c1389e59-54a2-4987-b0fd-478703261ad5',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '07f88b3a-e9fd-4386-aa7c-d40ed9fb5304',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'd696db12-7315-4af9-a3ca-51834076ad39',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06399262-dc79-4aa3-aabf-0755a17b45b5',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '287c68f1-f157-49b2-b85c-695fbd4f5d80',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '56c7447d-314b-40eb-ba42-221e83c958cd',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '877b012f-48f8-43c9-881a-bf2fb30ac48b',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b067922-a3d7-4da3-8547-ebb8f2f19af9',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '9a6eab6f-870f-45b8-b17b-6fe8ecf5c24a',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'population',
     '17070135',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a23e756c-33d3-4146-93c4-7aa974c71ca7',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'b560aa04-3c3b-4750-9512-5196e59480d5',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'gdp_md',
     '98830',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7157308-36b2-4fc8-b5dc-d38a8e13d63f',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '543a0a52-9cb8-4040-9ad3-da7dc9dae71a',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6a304e3-eccd-4ecc-ab83-0dcb73055fe9',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'c9cded51-e012-46ee-a5ff-34f17fedeb39',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '743831a2-1156-4d5b-aae7-b06e937d001b',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '5442e821-0338-46a4-9f4a-85ab8ebe5221',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4ea20cb-a11d-42c7-add3-0681e6d877cf',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '56b5359b-5ab9-458f-870d-286454c71d25',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'label_x',
     '38.277783',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4038f5b4-e17c-42b8-90bb-86f71f8fcf0d',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '6def260b-a34e-4b4a-9cb2-09ecaf23eab1',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'label_y',
     '35.006636',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9dfead6c-6375-4ba5-9ebb-b87bec83fd0e',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '21463141-b5f8-4453-979e-4253a065606a',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20a6417e-7a33-45c6-88cc-c86269391e1d',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '67adc79a-db76-416d-b1f5-d8411b1cd493',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28e1898c-7716-431e-8d7c-44b8a006b623',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'd9d701aa-7129-4bf8-b479-6c11a70716e7',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '60eb1c76-7c9c-49ef-8cd0-fcde5c913457',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '1a3357aa-4874-4ccf-8b4f-5da195d46fb7',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0c53162d-03fa-4d74-9fd4-04bf0ad91ff0',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '8f114cff-85b8-429f-855c-7f3f749f5e48',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'population',
     '8574832',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '809275c8-2eab-4a5a-bf78-3bce1d5b5097',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'c9843b0e-d989-4433-9287-9d00ffe1387c',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'gdp_md',
     '703082',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6253ab4-dc4d-442d-a726-7d8a74db85bd',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '8c907e57-3c4b-4368-b655-144afeb419a3',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75e12494-36bc-452b-a682-775fa5dcaa3f',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'a97d0c86-d36e-46d0-816d-5e574d2bb794',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'db0d65dd-6060-4c42-8b81-7d5ce95ddbc5',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '39c77c60-efb8-454e-afb8-2f483290e7d0',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '519cdc1e-3e32-4d9b-ad4d-a611c9f16e3d',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'db483323-e547-4178-a178-f6850ad894dc',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'label_x',
     '7.463965',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6778e72d-44ec-4a93-964b-413824ff3df2',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'a9f884d2-fad3-43f0-bc1b-f9bbb4dd3dd3',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'label_y',
     '46.719114',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa20ae6f-1b4c-4acb-b138-bc5b71718137',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '948206eb-32d6-4029-a7e1-c619555ce635',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ac66646d-5ae0-4ad5-8397-28ad3e197043',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '7fd12ae2-925a-4b7e-99a7-0500c40463f3',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c20064c7-c82e-4cfc-8a83-13623e108ac8',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '189ae7e0-240c-4b54-a571-968a09110945',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6e7e652-e6ff-45ec-a867-75fffc60090c',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '42702586-6acb-4069-8d7f-e95269fc87f5',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5da57041-151a-4c26-bce0-a7c0c890c52e',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'd7f0b738-f7c6-45ab-a157-b9d76961f5bc',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'population',
     '10285453',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '02b2b693-d8a8-42a4-8770-fb038c215596',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '96dd79a3-8d9d-475f-aaba-1986c9d6b091',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'gdp_md',
     '530883',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '14fbf0f4-1f2e-4890-8d76-507b495d8e1d',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '066fe166-c83b-461b-9c32-6b9f45201003',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2f80f0d-4b9c-4510-85e8-42007f8b883b',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '86a6e0f8-67ac-42bb-9c48-897886243733',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c9b9372-5513-4188-912f-20f7c059b020',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '9d0327f6-bdaa-4255-ba7d-99587dd6afda',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da443c48-ed37-44d1-80b6-9c0690eb64b5',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '20960393-a0ca-48e9-8dd7-86e6ea914857',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'label_x',
     '19.01705',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '366f0d7c-d3e8-4bcb-8976-38819727b428',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'a5237f32-b09b-42f6-8659-94d87cfb578d',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'label_y',
     '65.85918',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8738c144-3360-41e1-ab68-3881379d9f06',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '6e389072-c0a3-4134-a34a-694e9ac38f71',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '08314c8f-5a82-4b1a-951f-95aa1b83d4df',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'c2a186cc-c999-4836-a1b7-87dfe4fe3d84',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5fd60631-7a58-4d93-9458-2953b8aacd5c',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'c879c753-57c7-4028-b213-07f5865210db',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'subregion',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a1c324a2-f28e-432d-8a28-47b1c70ffd49',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '806ef95f-692c-4128-99f8-0754501b6656',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc0bb257-6edc-41d1-bbcb-c31adb43787f',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '3238a635-f0d0-469c-ab36-84577ab4bdec',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'population',
     '1148130',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7936de7-5fec-4c31-8b74-f3630b1c544d',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'ee276169-ee1c-4351-b2b7-e3f5e162b912',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'gdp_md',
     '4471',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5c62cc2-ebf5-493c-9f68-9f8d9d8a3ed0',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '43a46207-cc9c-4d7e-909f-b9c29265a32d',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4bdd4086-08be-4d61-9b81-f2325c93d498',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '2e6d7dec-a7cd-4c52-8b7d-3a5558fc726d',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e15e4f17-c7f0-4715-9ac3-d12630928024',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '0864c4d2-06a3-48bb-9a12-b40b6012c69d',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'afe6828d-fd21-4b15-b1c1-95710a723170',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '454d54dd-ccd0-4392-b687-4f4202eda8cd',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'label_x',
     '31.467264',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c476bf7e-d662-4a10-afe8-344261a3ff84',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'e241cff8-8164-4943-8d67-df6ab4b38edb',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'label_y',
     '-26.533676',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '187792c8-d195-4b67-b5ee-a762f79676e3',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '87685471-76a9-4a08-9a52-58f2e7a89093',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6926a12-9834-4e23-ae3a-b7fec3e779ca',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'e220f1f0-6f1a-4400-bdbb-631e6c0dc403',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e23c85d-6048-4407-9939-052c7f630c1d',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '7c2fcdf0-60c3-43e8-ad70-27ce104d1077',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fbeccd20-aac5-405e-9f65-fb0e90e9c596',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '04c4b52a-367b-4716-9b60-29016f0272b8',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc391e4c-0e2b-4247-8d53-b0d45552f049',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '955713b9-8c42-47e5-8da7-c01c9512e55e',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'population',
     '581363',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a1db2844-5e80-42b1-b03f-6d5358ebc545',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '39e15647-b29b-4c32-95fa-c077ca15fe06',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'gdp_md',
     '3697',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '55a9369d-fd68-4b86-8a91-301a6320ee79',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '2431cd1f-9577-43ad-8a2c-192ca5eb6fde',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '243c9f55-35c0-41a6-84ce-0f51503a6a98',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '783c7d40-b902-49a7-a95d-2cad4479ffdf',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4ee72c84-7500-482f-b23a-dabeff77df5f',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '58919723-976c-467a-ab9f-a35f6bc35a3d',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa42715a-850b-403b-9b6f-c28642e338e9',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '488377b1-0e0e-48f5-a6d9-06f130a988ba',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'label_x',
     '-55.91094',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4327274-4a31-4ed9-92de-7f519f05154f',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'f5256c14-7f1b-495b-a677-29101b3000bc',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'label_y',
     '4.143987',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a28ec2ee-3733-4d43-8290-16da38e537b8',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '4b1a2362-6a49-4041-a018-a045fecedcc7',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd020d2a4-574f-4634-a726-f2b18a66a236',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'b762de32-c253-454a-84c5-22cc61c251cd',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdb216ae-064a-4993-a366-fbba3dd159c3',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'f74dcc8b-0156-45bf-8dec-f682a96804c3',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3aa79e94-e1dc-4371-bd3e-58be038a59cd',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'e5e033a4-172e-405b-858e-dfd98ace0230',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8195e40c-e1a2-4ffa-99bf-4a6439cd2b04',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'a09b1518-d40e-47ed-b569-e4cdf70dbc03',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'population',
     '11062113',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '50864a8c-9a76-4e51-948e-06890179e8d3',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '1fd7e620-3e3a-4aea-a363-fb2e6bf7b73f',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'gdp_md',
     '11998',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '334b2968-2d7b-416c-b295-9bb4ed7d87b7',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '441ef223-1a4a-4b2e-a5d8-101b0e0b597b',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be5dfeff-75bf-457f-99be-491a73f8da3c',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'f0da297f-26c2-48dd-8447-6a95c96b4d03',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03456ed9-973f-4dbb-923d-a2cbb46ebe81',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '8ed811ab-177d-4e84-9da9-bf71870d0086',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3b053f80-6bc6-41a9-ad28-ac217c7de03c',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '01b45a62-511e-4b0a-86dc-cea3c3748fb5',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'label_x',
     '30.390151',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a7242a49-aca0-436d-946a-e99c50295a2b',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '8d43f4f0-d939-45e1-bfba-a26ee0c41d34',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'label_y',
     '7.230477',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ffaf4227-45f9-4209-b506-df186cb40ec8',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '292f3ed8-9c27-45bd-b44f-a7b55456a0a4',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee753a1d-ccda-4daf-b04c-f65dcfa9ad27',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '77f48b52-80e6-47c0-9b7a-ce19106e299b',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '040ebaff-306a-4876-aad0-4a6aa48b4bb8',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'b8811642-ad8d-449c-9dde-ea62c9095da3',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '701ff66f-8cda-4437-918b-f9cad9536a90',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'de9c32c4-ecbe-4848-8494-750454aa75e9',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'facfafb1-7b26-4cd9-a208-9ae9b6f7f3eb',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '95d67519-1139-40d3-9373-076df1ef4baf',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'population',
     '42813238',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15fa0fd5-ad62-486b-8815-ffe7df1b361c',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '630560fd-cdc1-4ed6-98bc-22bce6d91107',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'gdp_md',
     '30513',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '675cf059-b2e1-44ed-8209-4ab14033df1c',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '9e4b899e-0f5e-4ad3-983a-9380f19731d7',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdcfc081-15bc-40b7-ae46-806045e18422',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'ad5b3fbd-11ad-499b-8a1d-e69a2ed2311e',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37500edb-3c88-4aec-83e6-10ed353c3408',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '7ca0fe88-44c2-4e11-aaac-b6f508727542',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8fa01f36-e6f7-4036-82f6-c389453c57d5',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'f19f9076-ba28-4763-a276-feee9966658b',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'label_x',
     '29.260657',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5af9601d-ce7b-403e-8133-8d1dc1ec7439',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '20c7f5b9-4935-4581-b65e-bdafc4351450',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'label_y',
     '16.330746',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '523d6f95-fd05-42c0-af13-0742dc251cdf',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'e13ad3d3-049c-46e9-a76c-06153c870cc3',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae0b2f75-d3b1-4272-8624-3c96d492b187',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'b1db4742-2ba4-42ef-ac79-0727089ce6c9',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e16e3422-5d23-424f-ab7b-f1daa7b17301',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'aafc5f8c-5882-4c56-88f5-9f0a0de605de',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e5e0693-6171-4c38-aebe-581006fbafc2',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'a039ef8e-b75f-4885-a44e-312fa2a0cc31',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c56a320-3c0c-4e0f-a09d-3cd102abb345',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '56fec476-476b-4cfc-9045-c6146dcf4072',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'population',
     '21803000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a631b929-a1db-4e3f-8123-76afab0924e0',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '86845bfd-2e8c-4051-8c0d-ef55a5743cd5',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'gdp_md',
     '84008',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6739f3b3-76d1-4328-97a9-44639441fc67',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'aec7275a-917f-48a3-83bf-ebb9fb0f6ea2',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca984e26-f516-4199-b631-754c8bb681ad',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '4def9e9a-f0b6-45ab-aa44-3c7ceb161e75',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d761457-7cb2-4b22-a3af-092fe2ac835b',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '2ed6a5ba-00fc-4463-acd2-e9ad9086087d',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4eeb9e2-fc25-4193-b3d9-38570bbac50b',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '095af3dd-8ee7-4e23-8fa8-9bfa9c11d245',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'label_x',
     '80.704823',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3eb7a79-f539-4ccc-808f-7393abd66947',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'a1b7731a-773a-4d01-a611-1082c06fdff4',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'label_y',
     '7.581097',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6e6a34ca-896b-4bc6-b377-fd610abe0ce3',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '311cd79c-0362-45b1-aa6c-56792c949f60',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82a95816-c8b1-491c-b507-f3212e04e84c',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '66d8f3ff-9864-4990-8ffc-c08ec89cbafa',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd302bb9c-c730-4eb5-96da-33f56cfa566a',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '7c5f8c00-36b2-409c-95b6-befb87212a25',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9894f47a-8b66-4c00-90a1-93f58c9001e0',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'bd94c269-8597-42a3-9101-3fc87275bcc5',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e296ccba-6cb5-44e6-82a5-7d58e93c888b',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '3057ac51-7683-4e47-864d-1cf866a25880',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'population',
     '47076781',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e0b3d3d-32dd-4213-99a6-3c36e6843b46',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '61b6cc72-20d3-4bd6-ba04-a9155e202189',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'gdp_md',
     '1393490',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75cd0188-a048-40f6-8e56-842cc23dd44d',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '3fc3a693-cb18-498b-9e75-1f7adf725a74',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '45245fa8-c512-4ce1-b783-1780ec17b148',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'e788c68c-4d43-455d-a756-31eccbd634c9',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b15a0aa3-916c-44d3-960e-dd72dfc1c4d9',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '8b9a5b0d-8aed-4996-9965-5d90bffe3cf2',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a945058d-c956-46da-abec-279b5a1ff45c',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'b749ffcd-f467-46a1-85f3-3dcc905d1381',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'label_x',
     '-3.464718',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '77a4c0f9-675a-44f6-af1c-c2be0586aac6',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'c0282c5c-6f95-4fa3-8a19-bc9e57676e5e',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'label_y',
     '40.090953',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b3562e8-1a33-4155-b8e3-32664acf9349',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'd570cde2-c85e-4ec2-a385-5d437f32eb53',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b95617c1-e4e0-4584-a0a0-cb1eb0ab17da',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '2916b883-4d0b-4600-90fa-5a8c9a3eb8cc',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91b7f228-91e9-43bb-8ef4-2cb40e09e515',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '67d66422-3cc1-4a52-85cc-08e4ba68ba0d',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '310a245c-4a74-4a4f-8430-2ad57ff07acc',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '19c0f6c3-5c72-43fa-bfd9-9820efbc1e23',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ecf4cea-2999-4724-98ce-9014ea923ab2',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'c8c26a4d-0b58-43fd-9a54-da78ee5e433a',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'population',
     '51709098',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '557b3130-8ca0-4d1a-bc5a-6cbf83091d42',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'c35f0ce9-822d-45e2-89ac-bdafa53a0739',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'gdp_md',
     '1646739',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4f100b4-d3b7-4e51-a0ed-5df2bfa4ecba',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'a753aea9-6252-481b-b135-12d58cf40a57',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee44e377-3a93-4841-b433-d26a19c668e0',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '58b31773-6297-46d0-a23c-2e1fd55acc05',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a341abda-c70a-4f03-8228-2f933742032b',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '3907b572-be64-4b86-b2ff-1ba81b30b831',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edf2c05f-54f9-4824-bf66-27517d0b7b62',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '7c68d927-cbcc-4e57-bdc7-89bd735acaba',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'label_x',
     '128.129504',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9fde8101-adfc-4c15-ac56-351bc8c84919',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '8ff1dd42-1e31-45f0-86be-76e7a8f22619',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'label_y',
     '36.384924',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00c5fcfe-3305-4096-8280-e93b7e4b2902',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '67c0b355-7ba3-423f-8695-713049855e24',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '246c413e-60cf-4339-804b-d30c519877df',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '09f14fbc-bf49-47fc-b29d-5b78e4627650',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d07dbfa-1247-43de-b6fa-a3c3d80cb39d',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '57a5e1de-d4e2-4992-85bc-cb78cb02eb9f',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'subregion',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a714077-9fbd-43b4-854f-6525e632b437',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '720a51e1-235d-41b6-94d5-3c98c45d7850',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ca32058-c5f1-4c88-b7de-33888985beba',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '4528d3cf-eb88-4277-9777-c826cd258c4a',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'population',
     '58558270',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3570a5b0-d6ad-4c73-9876-3be5db1530cf',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '0caf6ff6-120e-4707-b698-5bc8a85abb2a',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'gdp_md',
     '351431',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd384803-c857-4a64-bcdf-f46dc913de5b',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '93b36ecf-cb31-492d-8402-28ec9f76aece',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8f56212-cc41-46d3-b7fc-cc01f48ea8e0',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '405d1b6d-ca88-456b-8169-f446d10ef714',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '89e95bee-5b72-45f1-b39e-f74b965e3947',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '786df3d7-63bc-4c7a-9d3b-83caa784db2d',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '77859fd7-98cc-493a-b3c2-e26465bf2065',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'fde26310-3ee5-4454-86d0-1cbf86b8f12f',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'label_x',
     '23.665734',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43164178-20c5-431a-a014-97e0c5b36e77',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '8453d828-a151-4644-8162-4ca64b408957',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'label_y',
     '-29.708776',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '729f79c1-f24e-408e-9778-33fc319f6b7a',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '20c251bd-bdfc-474c-8063-e31440fe9233',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f83eae47-9b3a-4c23-bf08-c7c89b07660a',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'b5ea33a8-01ca-453d-bbd5-26831fe5c398',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e5cd0902-4215-46d6-973a-f0deddf2d1fc',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '3b697476-f0af-4362-92da-1cd057e5ea6a',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a9d4d285-0902-462a-8e09-f57286f90a98',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '62eb4c06-7058-46b9-ad05-088678177e71',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '65aed760-f6e2-4403-911e-0c4aaa3a3ab9',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '20bbc486-4789-429c-9464-d2f79672661c',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'population',
     '10192317.3',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c9acea2b-5dc6-4a4a-9cf0-bb88dde8133d',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '3303850d-b5b3-4fd3-adf2-ba8fc80c016b',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'gdp_md',
     '4719',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '11d674f4-6694-45f2-be2f-378b64edbb38',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'a9600461-59d4-4406-873d-e08b1f919651',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd18fb830-b0d7-4eff-8fe7-485d1a140bb7',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '241c4d1c-1e37-4e1c-89fe-d363ca0921d4',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1efa841e-bb4e-4120-934a-0b8c2fac50b1',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '26ae1a06-b530-4dbd-95e3-61155c428dce',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8d55c288-5dd9-441e-b031-2cda4e5f8f10',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'c503e217-716f-4283-a625-0b163d979d9e',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'label_x',
     '45.19238',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ac5facef-ef00-4692-bc8d-4e9d1bfb8938',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'e4c6d2a8-1dab-4387-8c6f-bece7a0001d8',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'label_y',
     '3.568925',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c296cf4-a7f7-407b-a4f0-63c85612fda5',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'a689f108-3a65-48a6-a6d0-b34b11137fd1',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea3c97d8-135d-4bb0-bf1b-5822e307fab3',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '14fe2d1d-869f-4dc9-b50b-7fd969f74086',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c3519f2f-9fbf-43e7-b338-588b51c779f2',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'd1481f88-72c3-4958-bc07-4fcbdc70c1f0',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '812b392e-c574-4ee0-b9c6-6ae565aca4c2',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'e6afb77c-bb32-42d1-b3f5-c0226460abcf',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e6ab138d-a75e-40c9-8042-72b008d6dc0a',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'ec75466a-2081-4aa8-8bf9-82a4b7c8eb53',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'population',
     '5096159',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d10ea88-838c-461e-86dd-26ce487709bb',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'b8cbca32-a68b-4a38-9ad7-6971785e9bef',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'gdp_md',
     '17836',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '227050eb-6ff1-45b7-9460-730991786317',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '79ccf09a-a07a-4191-a58a-5d5e67d490be',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ad6a48e6-83da-4126-9057-4c80d16c467b',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'dde3a2e2-9030-4037-884d-35913c690f72',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2c79c5d-5bc6-4d0e-b1da-194a8fc348d2',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '0495daec-f621-4d30-9216-a5a036050b7f',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c73fadb-1c80-4c15-a72a-57f0c39b5854',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'ddef1650-abe7-4695-b462-7ed8158ec13b',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'label_x',
     '46.731595',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3eb88bf-6ef3-4990-898f-fb2a6015e064',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '73c2115b-e125-4e26-97a8-b80d64876c1e',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'label_y',
     '9.443889',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f885a21-f980-4db0-a026-689789b646f4',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '75df9e64-966f-41be-8ea9-e6b03af16481',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a452bc73-3b7d-4442-b4b7-9ad4eae9d25d',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '36888dee-56fa-4c73-81ed-ede457dfb26c',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e4d20c4c-7d82-4e98-8bfb-d85527f63870',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'bd6f5d4b-80c1-4cfd-a61b-a8ace3e5b498',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'subregion',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef65e584-b3a5-44c9-b086-bb3f7a94bfea',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '23328a93-0bf0-4dd4-bf6f-6a5182247f1a',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94a1f943-f950-411b-ad84-ec7b997bc524',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'a12b88e7-4220-455d-af30-8b70ce57b772',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'population',
     '669823',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '759d4a47-167e-4fef-9b65-33cce99d9338',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '4bd951bb-e84d-494d-9799-690c5b90d825',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'gdp_md',
     '1589',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8395916a-2040-4aab-8139-6e56e7e55bd0',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '1600fa58-18d4-4552-9326-8fb79b03db01',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '988c0fb6-d52e-4689-a9a5-e42ef8448521',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '0098307c-58e8-470c-a7a1-a62ee5d572ee',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a65c162-de58-4073-bf60-8d536bdbc84d',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '5494f01d-f3a0-4b9d-8910-99ff7265b71b',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b302de1-b8bd-455c-b6bc-380edd6949e8',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '648a1982-729b-40c8-9172-d7a1244b39f7',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'label_x',
     '159.170468',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be52d4b0-4a72-45f4-a45c-937160a6c6ca',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '8e45cb5b-3b38-4096-9280-70a4fc42611b',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'label_y',
     '-8.029548',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '54ed621b-671f-4d06-80d2-dc5c89f2193a',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '67ee1dfb-c6ed-457c-8910-e1f71a868ecc',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a5ae0776-1c5a-4462-9c07-125cda11f5b3',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '467ac159-fa7f-410c-bde4-edf206060888',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af869819-ffea-4712-b488-87d164c1d639',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'c122e896-be7d-40b7-9d7e-57b5c1c45c71',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1df38672-260c-4cfc-aace-105c75e91db9',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '04f93a05-9bbc-400f-9218-b67a9176b0ca',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b1c78ca-8090-4ee8-8886-a9422249f343',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'c797d7bc-8504-44f0-a038-3d11a8084d50',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'population',
     '5454073',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9bfb79ad-f931-4fb6-b010-62a376033436',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '9670cdd3-5712-4996-9f72-7f54f2fc8b01',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'gdp_md',
     '105079',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd22ac374-e127-4359-92a7-3b5f0b911b74',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '84fcbeb7-c67a-49e1-901e-5ade513c6f1d',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edf4a89d-459c-4100-86d6-ba25d817f18d',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '89622516-576a-44d8-a73c-d0cbc6f2279a',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f213bba4-ce3a-4e44-a451-35f32448c16e',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'b43540b2-a5e2-4b51-883e-18ce45fa7832',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e857ae5-eaec-4db3-9786-3c7c6b06db01',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '1df79db8-9113-431e-a0cf-2bc1db4c162a',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'label_x',
     '19.049868',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7830cf5e-b2e8-4d1f-8843-7381def23c19',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'e688c48a-d12f-4acd-8b96-b0b870e3e581',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'label_y',
     '48.734044',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e02355e5-8f3b-4d2b-a797-2031d135726b',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '6dad02cd-1e90-4ca2-9d87-42dfc720d948',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31112f81-56dd-452d-8c93-ec06f66e921a',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'ed119863-8e4a-44dc-afa8-4f635f0ebcf0',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15b49c6f-eb77-450c-9390-4c35ee7e476c',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '4bf1ae5e-0742-4e84-87c3-9b8aa0d9b654',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87e527c6-6c31-45af-b903-61c5e8ca292e',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'ca4a29c0-aefa-4244-b703-1e2e19b5c90e',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b74825ff-e3ed-4984-a718-3804b36dcfc7',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'ff61db8a-c2a4-46c3-88fc-2e5620b3bc9c',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'population',
     '2087946',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b87fd88e-c373-4c26-97b7-b336f01764b5',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '840042b7-4568-4177-a6e3-0eae94b81f64',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'gdp_md',
     '54174',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '906a9c6a-151d-4b86-b0a7-1ea02a3a2d30',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'fe8b78cf-1dc1-40c9-979a-520b6299ce74',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '41d99e74-2b67-4be9-9884-418e17611f05',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '119fc4b3-826e-4f2d-a09c-786f18a10768',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88cb969e-ed6e-4880-b712-59e6941763f6',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'ceb55714-6fc8-4852-883c-6f59128506ce',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'df737c67-db47-41df-99e9-e1f0a8e6dbac',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '7df7566f-1a01-46e2-9795-6896e9a7e938',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'label_x',
     '14.915312',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '92e80b04-79d8-4f70-b93e-f54782ed1430',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '8a5532ea-76d4-4382-82b5-ad66282cf4c9',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'label_y',
     '46.06076',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1796791a-b2e1-4c75-91ba-b7f6c23fa40d',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '55a4f248-b181-416e-b2f1-373dd9c6aa60',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90a3ab2d-dc99-41b2-9ebe-8e61fcb0fd9d',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'cdd85ae0-2091-4129-962f-594a94fd35dd',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b4d0c581-989f-45d7-a99c-8655f7bfcce4',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '6028c3d6-dbb6-494a-b2c4-6dc03575a935',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'afcf052a-2900-4d5e-a6b9-39963d7baeba',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '2ff7f0f2-cf8f-499c-863f-f49774fcff64',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eb8caf4b-781f-44f8-81ba-a22d3c14ddc0',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'd1a2aec0-80c4-4ae3-817a-21d0698914ae',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'population',
     '5703569',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06c8bfdb-12f7-40a3-bef8-93991680ebd8',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'c3427bcc-7319-445e-8f15-608fdfbbc847',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'gdp_md',
     '372062',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de82b61b-06cc-4128-bba1-7c5cdfde57c7',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '1ac3f49a-9eed-43f4-8a53-8c4a8dac97b7',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cecb8c26-be35-4b1d-abcd-69794886b063',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '8dd20428-5573-4e2f-96ec-48a7452fdd70',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6c0f1388-1467-4615-b666-af0e8d407f59',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '23cb1522-3c6e-4f02-aee1-2ae0278ac905',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef683a01-8303-46c1-ae1f-a11b9943337c',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '7aa267cf-38e9-47c1-8b09-6aca1b2174e6',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'label_x',
     '103.816925',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61a97bfc-6a1d-4ce2-9175-14527d5c2987',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '79e80b35-ec08-4304-b3e1-645bc6d7f543',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'label_y',
     '1.366587',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5da15475-dfef-47c0-a518-14e78ee7f0fc',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '2d81e98a-3921-4d1f-82b0-00ddadc12938',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e0301a6-da69-44e5-8589-dcdd9e86366a',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'f0517f23-7c5d-4cab-8a4f-146dca16577e',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98cc2a15-b9dd-4dd4-9493-41f3990b3e46',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '916e9e45-c0f3-4d3f-9983-d0870364f48e',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b40f624-ee0c-4e45-89e9-03ec1a3d1535',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '135a2219-ff84-4228-998c-7b28a54969f9',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f71fe91f-df59-4bde-ad10-a2c816f17a3c',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '2b022fdc-7ce8-4788-bbe2-f4a1414c0874',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'population',
     '7813215',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e8d0549-fb4f-49e1-a140-883a6dc5c53d',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '4997fbbc-253f-4ff3-8d7f-419a2ea543de',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'gdp_md',
     '4121',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47a68472-adc9-494b-a368-0b1de066c86a',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '9bd26647-b694-437d-8eb1-eeddc093f3a6',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39c4df15-55d3-42e7-ae1b-be81a4d5be78',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '99e28b54-edeb-4f7e-945c-6b75d4d695b1',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e4beedb-3f77-454e-882b-f6c5afc5dcd2',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'f57be171-cccc-47a2-96b9-871b913ed04c',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10938574-560f-4602-b688-7a558b5689c8',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'f3f1eef0-c20c-499a-bc91-2653804ad7c0',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'label_x',
     '-11.763677',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f13bb1e-2577-41a1-96eb-c38f947a4ce8',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '0fc4d3fb-623f-4441-a307-9f11919136df',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'label_y',
     '8.617449',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfb41a5e-1d77-442e-a14c-62f8f4438135',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'bd636cca-d21c-4f8e-a886-b8c3389fa09f',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5959adb1-9f90-48ae-b673-a341a7c13f20',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'cfe34516-df1e-41dd-b6cd-fe2be0912282',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3c249a1-83ca-4138-a854-7dfeb805dcdf',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '588891b4-bd58-4dcc-bfdd-b2ddbe214e1e',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '99e27ae9-51ea-44b1-ae45-a0b886ef89f8',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'b8ef4446-557b-4858-a88d-02a2a520735f',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34244ae4-954f-4a18-b8bf-63e9bd985429',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'c0ec56d5-0f14-42c1-8862-9605d6f554e7',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'population',
     '97625',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'baa87453-4f4b-42a8-8abc-29af9fff10d3',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '6ad640d4-432e-4225-a4d5-ce6cef6ada4a',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'gdp_md',
     '1703',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ba3cff5-0fb7-4635-a90b-28e9f3cf884c',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'f15c3f17-cbfc-46d3-b7cf-51d9d9dd0ae7',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a2ece015-bc67-46b8-8b39-12743df93901',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '59ea26d8-274c-43a6-a17a-c57a0ca17378',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3b37bdbd-8e9f-4fd2-9442-3a959ac4f0e1',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '445683b6-f5c7-4e7c-bac7-91e0872ee431',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4c7123b-7553-4e6f-a7e8-f79ee267746a',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '6f5a6741-acb9-4959-ba55-cd9b12ceba42',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'label_x',
     '55.480175',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4affc8d0-0f4e-4be7-b217-ff78bf7de926',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'af731fbe-6267-45e1-8850-6da03f9cb646',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'label_y',
     '-4.676659',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34f30b17-140b-4540-bc29-74a55152a116',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'cb259036-6acb-466c-9f1f-631c3fcb8822',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0ac4c6c9-b844-4f59-ac00-9e6688a023f1',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'd40aeddf-2983-4dcf-b188-7ad18de11e66',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd9c64b5c-8555-4e3f-930e-0083329cbd80',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'a4f0274a-ab78-4f29-828b-5a00b4931733',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '752220a2-dc9a-4915-91c1-7241a9d41b0b',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '1d8a573d-71d4-4356-b95f-70263a849fa7',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd01c3024-ce3f-4bee-9833-5b0bd6c75eab',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '15c66238-870c-41e7-9e45-256a94305f79',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'population',
     '6944975',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '193b7bce-c542-4cc6-91f6-b9b715296a55',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '7790cf49-b740-4a93-9f6d-c39528d308fc',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'gdp_md',
     '51475',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '02efdc58-65e5-47fe-ad30-daf4bfac9ed4',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'af839a58-acb3-4f3c-9cb3-3d401541208a',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3af9ae0b-99f1-4cf5-87c1-7d8c9ff39339',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'ce496781-f575-4ad5-8afd-da2d7379a562',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6c4533e2-1018-4e3c-8aad-fe792aced58c',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'a32074db-5667-40f9-a192-a1f62ec9a5b8',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a43ab56-8b51-4e99-b12d-f95ed3ab9759',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '2f9dc2d2-bcd1-4b55-b845-1cf0ea8c1fd4',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'label_x',
     '20.787989',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52fda93e-343a-4afa-b4f9-d6f2315a73bc',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '9d587411-efcc-4571-9ac7-215953c35206',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'label_y',
     '44.189919',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d558878-9148-46b6-b7b9-fc63d3490863',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '4b4d29c7-78d8-41de-993f-5d3d49c896d0',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e3737a5-7fba-44fd-8dd6-7bb8f46e2cf5',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '65af1fdd-9f4d-44f7-b1e1-35b477924110',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'caf760bf-6e4f-4367-b903-726d1aa952ec',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '3e93d5f6-613d-40da-a719-45b6348e37eb',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7cd2bc8-2785-47ec-99ed-c59136c7186d',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '9d9b11c1-1356-4c92-b7a9-1b57296be738',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ada81119-0ca2-44aa-8148-b303edbd8ee4',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '97ffce24-c33a-476c-83f4-3bc7b9dae399',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'population',
     '16296364',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0018aed4-e5e7-4932-835d-b0a4ce724458',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'b7e3c3b6-3106-4cfd-834f-700b88671869',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'gdp_md',
     '23578',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18060ee2-6db4-427e-a363-0637ccc984ae',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '421227a4-202e-42d9-95ce-080f482b0636',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05673fb5-796b-4a68-b65e-0c7e307df38a',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '401ad29c-3f1b-4d20-aa4a-c456dfb059df',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '311ee107-c86f-480e-97fd-edad47627377',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'f44c6b87-9418-4f9a-abb4-487b665832d6',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4473d8bb-b53f-4d03-9894-1378ede50a54',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'f4d970fb-6010-41e7-b3b2-e192afd37801',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'label_x',
     '-14.778586',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ce90ee0-4b73-4f21-9dac-f53a8665c6e0',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '962b242f-77c6-4b4f-85dd-9784de819c38',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'label_y',
     '15.138125',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fc706efb-9b16-454e-b792-f59e33861282',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'f153e53f-14dc-4f9b-9159-37b2b80cdead',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e9de9d5-5425-4fb5-90ed-6cdee162bb71',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '419829b2-05e2-4479-9e8d-00f6f3944246',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4dc1a2af-dedb-41fe-bc73-485dc7b3e587',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '21a5008b-eb89-4ed0-91b7-6189ee88a213',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa765f13-6610-4a73-828a-9562e42df3dc',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '1a527517-cca7-4faf-b431-6126e1312f7d',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28067c7b-ccf7-45c7-b205-114700dd2874',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '536da65d-fc9b-4963-a752-4a07399ec1ba',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'population',
     '34268528',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7242b37c-8961-4e95-90f9-7f43c7f1c50f',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '388e897d-36e6-4b56-b0a1-c2987e3d04d6',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'gdp_md',
     '792966',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6e96785-5d53-4f9f-aed9-076da2198296',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '2ade9b68-8735-4cd4-b86d-c81e9df9a702',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee4cef00-170f-48a2-8cc7-ed00f0e9c167',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'ffb2e408-db26-4404-8a97-0b91ff14f7fb',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '77c6eeda-799d-4a6c-b6f0-25f4e57b27ee',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'b6ba4a8c-f357-4c66-9ce9-7a28d0bcff8c',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5c5a9aa1-03f1-48f3-816a-590449c1c90c',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'e81c022f-d23d-4e15-8788-94313e235ae3',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'label_x',
     '44.6996',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '33596e24-bfce-415c-9443-5a76eb82745d',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '4083c3f4-ebaf-42ce-8bcf-0b181b276e02',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'label_y',
     '23.806908',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5f29b454-a906-411d-ae44-565a9ce9eafd',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'e03d9e29-2c8a-4333-958c-9a3a6cf483af',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '288f28d2-a313-4b64-921c-36130158c85c',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '0808f3c4-9d77-46dd-8ff5-24d5539ac05b',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '102d012a-3a95-4a31-9465-1e4a1cd0a63b',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '29efcd0a-ae50-4bca-a46b-335ed36c7f71',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cb65d3a-fa2c-46be-8a41-6a0bfed77e0d',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '35b0cccc-5956-45f4-96e8-8ead546ab3da',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ebe641a3-4dca-4dd7-a78f-d87476eba56d',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '1f467209-a6e2-406b-9d08-c009aeac1d82',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'population',
     '215056',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a6f39a81-15d2-49a2-abb3-f19cf09acf68',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '61e16b01-7a6c-428d-9df1-386a9152b153',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'gdp_md',
     '418',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3eb94535-6be8-4b78-8411-01d3e6ab4aa5',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '26d8a469-28c5-4caa-862e-975bd706b86b',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd990740b-1799-48ef-b36c-188235f16578',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'c1a91e49-f01f-4b4f-b30c-9eb256e70d12',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a36e7f49-47aa-4f4f-a662-31d63967eaf7',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'f6e4013d-f2c4-4abd-a5d0-30ffb28f12e5',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7870d90e-fbf5-4f43-97bd-07b568cb7bef',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '58e18543-aed4-414d-94c5-9c4a58ad1055',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'label_x',
     '7.021',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69a530d1-745f-4b34-8f39-351c3fff3ec7',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'a8c73329-4a41-4b72-b168-0b7c90b74fb6',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'label_y',
     '0.9709',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c80ea137-5fd0-4a6c-b132-2992af70e586',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '78ad82b1-3235-4280-94a7-34bfe1b675fb',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27f2f024-3d4b-4e63-9dc9-a5f5abd27e21',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'f07b89e0-feda-4116-b0e4-1728bb9cf8c5',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eefb1530-22b4-44f4-945d-b00d66423ba9',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '89676326-360d-45e0-908b-159e7e78d2c7',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd82cb704-3d75-4a32-87d8-a58902d07108',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '51486a96-d56e-425b-880b-a93e5d54cd34',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6dc07d82-f328-43d8-bd22-6bf4a92e3158',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '993ff165-6f28-4644-b8b4-63974ea0ae37',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'population',
     '33860',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a32332f-1fce-4548-b34b-63b51ba92e48',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '945e111b-2ecb-445b-895e-31b9fc3203bd',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'gdp_md',
     '1655',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75f2d2aa-33cd-4662-a636-e4cec699069f',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '99af07e3-c613-4d7f-ab55-8d735aa82ebc',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05802bf8-29a0-4191-bd8e-30bff9d0a83a',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'e60f194a-0a3d-4d90-89bc-ff077c8a9c5d',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3388173d-8de2-471c-b2d7-86a07bf60376',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'cf506e68-f79e-465a-afd2-7df3dc2aa3f9',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa03ac81-bbf6-469d-975d-15f683ca3de9',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'dbd50305-16fb-4561-9749-7f0f3691968b',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'label_x',
     '12.441206',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9216c501-88b1-47bf-8592-5178e504f312',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'c06aee9c-b067-402f-bf58-9793372e8f4a',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'label_y',
     '43.933916',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '813dc06b-a9ed-4e7c-b825-bed738480716',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'c6a172df-ae76-4e8f-a814-7e717a5138e8',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7aa5cdf1-0f5d-4ebb-bcb0-e8950034ce6a',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '5b0129ac-d859-4e7a-9415-2f37b93b99a5',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd13c3686-9d61-412e-b777-e345a36365e3',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '3a357d36-d54f-4c47-a0a1-3967d62dd251',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3088008-828e-4b33-9d52-ba3a8364f915',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'c69eceff-cacb-4f41-9181-f346fc8be11f',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f740824-4869-480a-81cb-600176253605',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '5c5206fb-0879-470a-8be5-08e2e5f500f7',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'population',
     '197097',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bbc69b16-9e04-474e-becb-99b92eb15c6f',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '7fd839f2-04d9-4cca-91a7-67bfbf4e5981',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'gdp_md',
     '852',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7477dbe8-e61e-421a-aeeb-078723f7de35',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '52a570c4-fff0-456b-b947-de608390a50b',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ba21f63a-82ea-4f60-9c1d-dd190c6645cb',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'f5f34343-a2c4-4f7c-973d-d833557cd44c',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d898a9d-3a96-4124-9374-101e05fa5183',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'cf2d4444-32d5-4438-9002-c51523f482d8',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4603ad3f-67ac-4fb7-8a23-87d8aac70a8b',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '92eeb0a3-341e-4c46-a590-9f792fb45834',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'label_x',
     '-172.438241',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d8b1b9f-e851-411d-8f31-4cc9d7c37381',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '5bdb5191-c95d-475f-bf0f-0a7bb50e01cf',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'label_y',
     '-13.639139',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '481793b8-28e6-4bce-8a9f-3ef4c2c544ab',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '8f041395-93a9-4d62-b5d1-3ed3dc171ac0',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '767661ef-4de9-486f-b34a-c46c29844c49',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '46e48ced-72fa-4dc1-9d8d-81723fd943b2',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9dd29548-5397-4ff9-8797-b9b9caac8ac0',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'b58b78a0-b344-41c7-938e-57af591eaea9',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d645670-82b2-4d61-bbb4-d0d5cfe12e66',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'fb3b2aad-5e5b-4cac-aaf5-755f5dad4c46',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c51c87c9-b188-468e-9026-71bdf34a27b9',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '67674225-9c37-4165-9225-aec24a101e49',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'population',
     '110589',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cc9aea6d-c171-421c-af5e-731413ca0ba2',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '8b6a2a3f-88a9-4d95-9005-ef539852c248',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'gdp_md',
     '824',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12da0c5a-1aa7-48ed-b0a5-945a167b71b5',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '1fbb1a0c-4803-4486-9ed7-ae0cca85cee4',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '33509527-7468-4bc5-b46b-e4581c7012b3',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '72ff17c3-01a8-4830-8df8-3f0dccdd48b8',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10afaee3-c25f-4511-892b-98126ce2ca39',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'dded4ce4-7bb7-421d-b802-f6bb1dd3e4d2',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'acdd347d-42b8-464b-be72-69e9d05b67df',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'd4a38344-bb24-436c-bde2-34e2ac67a4eb',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'label_x',
     '-61.3359',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6920efc9-bb83-458d-a977-7189554f9bd9',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '71d3feef-e42d-4c6c-89b8-1b5a0257213c',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'label_y',
     '13.0879',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd414c430-08d9-4ca9-87a9-c92effe923c5',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'edd973ae-d76c-4038-a71e-4f93f3684481',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b61e341-419a-4a6b-869f-97971c1e43fc',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '403dbf70-3317-4478-be42-734a256a2108',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '694b86bd-bf21-4448-8567-5961ad509cd8',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '93a435b2-2289-4cd8-87fd-5f9a6b8730c1',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6cf566d6-2063-493c-b567-3e3bdabb2f09',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'f0071c7f-8e34-4301-99d0-841a5a9f97de',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f25d769-0733-4dab-b40f-7ec32f67a928',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'd9f8c167-5768-43e9-a768-7b89c211bcac',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'population',
     '182790',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7db3719d-5390-4093-a064-9266f62a1f1d',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '14b49fb6-7335-4ed2-b8a9-e1bcbfd6d279',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'gdp_md',
     '2122',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74b48b97-9430-4424-8205-a698720d6e45',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '7fba05ca-9ecf-44de-a14a-c39d89fca4c8',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e2732b0-9ba5-4ce4-bb3a-6cb6a4f1985e',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '68089a94-0eb9-4d0e-aa3b-b1aa741fa97a',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9190f721-c102-4727-bf82-9091f9db502f',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'f072bdea-4830-4881-9520-661ba7386d97',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f6b5196c-3dab-4036-b1c3-87432a6345b2',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '4ce2931f-2ffb-4f19-ad52-5a7c2ed6fe41',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'label_x',
     '-60.980094',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a7c2d9f-752e-4ce3-868a-5a27ccc8065e',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'c527c4fa-f81b-41aa-bc85-980393482edc',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'label_y',
     '13.892371',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5eafcf94-0212-4c99-a7a3-1ea47f999e1a',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '2d3a9f4e-6624-4e36-b701-0432f39ce9c9',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e73a8df3-d355-4b9b-9057-509f1839caef',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '69e0bd9e-7c5c-4f3e-ac0c-1e6fe5952b81',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79718548-b802-4eba-a629-2b07f132cc38',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '67cd9f7f-9879-4546-a533-c16a4c107563',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c8dedf2-3b98-4e9e-be5e-ec5193a3b658',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'c3545a0e-d1b1-4102-9019-bf57f88b3e7b',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f6527a6c-ec44-46af-a644-7e7cba576540',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'f17787f5-fb2f-41f4-99b3-424310f177b3',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'population',
     '52834',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8538c88e-66f1-480e-aa48-ce0399357aeb',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'c92795be-2dcf-4bc6-af9a-b1e5c4cc67b1',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'gdp_md',
     '1053',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10378918-824f-4e28-832e-12590aaf07e2',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '5e2a0a4c-964b-4f9f-a8ac-7ab7e185fd3d',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e93144f0-06b0-47aa-83bf-e057b10c9f1e',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '42f50486-a8fb-46aa-be5e-d4be0ce309eb',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3668b906-fbd2-4ad5-a4f6-53fcbf3fb53a',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '0d5b5972-faa3-4b77-ad78-3d01b632d88f',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '45cf40f1-3114-469c-8a50-b40773b68e8d',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '489cb04c-9ddd-4f98-8ea4-95803aab8e68',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'label_x',
     '-62.757975',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '508890e5-ac8f-4889-b922-661f281211a3',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '46cb76f5-bbd4-4c1c-99b1-45ca563d1002',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'label_y',
     '17.336558',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6754ad20-be39-4eba-b138-95c04ff4c006',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'c3c5c10a-dafd-4824-8f5b-003377c72217',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '866f3c0a-1a1c-4e43-bf21-979ff40ad6f9',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '991bc1f7-60a7-42eb-bd58-7565b970e2af',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73562b97-4856-4224-bd1b-3ffbabaf5165',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'f195bd93-a00e-4a44-9330-ffb7c18ef01d',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d765a43-19b5-4a14-816d-b7357f1e2c16',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '9cfb62f1-422b-479b-8d98-45b84e37199f',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4691069e-f400-4ad0-aa67-8ececd07afef',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'b982b264-6b6f-435d-8179-2f1d830e3bc4',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'population',
     '12626950',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67c47ebc-5d20-4c0c-b405-d9f5eb380ce5',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'eabf8499-2011-459b-ac48-e4f948a6cbe5',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'gdp_md',
     '10354',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '170edf0f-7920-4edf-9cbe-b51e4641bd67',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'a2224ba5-6dd6-42e8-b44d-de4608ac9c97',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea2b0de9-7e47-4406-aca9-151828746ae3',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'd743e977-b97e-4926-9226-5ccba3da526c',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '49aa45e6-5645-44ec-86f7-ffeeb56be876',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '93a2612b-804f-4c9a-8a02-4fca89f0ed4a',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea51c827-4554-4373-aa9f-286d1bc17822',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'd4d38727-a9e1-469c-a54e-4f53cf82b679',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'label_x',
     '30.103894',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ec80a2c-99c9-4aac-97fc-4f48398a0ebb',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '01e35305-0537-44e0-9b47-4811266a1e23',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'label_y',
     '-1.897196',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94477542-4ef0-46d0-b034-46b0f1b5d1e3',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'f8e70cf9-8a7c-41e3-befa-bb141c863755',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b08b4e4-6cca-47b7-b9c3-0bc2a1a699ce',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '6064c3d1-3ffe-41d0-8771-3885c642073c',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2383af0d-f340-4af8-93e9-4bc05c0ec5f3',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'e868d674-150a-49ee-ae97-7e571baad930',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e5c0dcb-6692-4de5-aacf-4825248308f9',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '83d93b5d-6eb8-4b91-8809-f4f51329f123',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64379f97-2d20-4394-8f02-8a88a9610f6d',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '0379dffe-c82e-43b5-a64d-b0a580c716e0',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'population',
     '144373535',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '09b2640e-e01e-4906-b9f9-ee69e95cab89',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'c269a44c-275a-4993-a9fd-d32a8ee8633d',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'gdp_md',
     '1699876',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '019b36d5-0782-4d81-8b00-e921d4c2cb8b',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '198d6c2b-d84f-4e94-a662-0174bf0b2f6d',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa048b7a-f352-4962-a12e-b71a46628631',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '299e4a13-7e0a-4548-841d-0034c301f38a',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '986d601d-9760-43f8-98c0-94b20773bbab',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '0a48765a-dd76-4227-bbfe-1ed15c28b3fd',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ae1d71c-c1bc-4d8b-bf79-9951ecc348e7',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'e685d101-571d-4940-bd6e-c6125e38c111',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'label_x',
     '44.686469',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '411a6ffe-da0f-4b62-9405-63981e2015b3',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'db00f049-0bdc-45bc-bfff-9801a07bb9f8',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'label_y',
     '58.249357',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51338adb-0756-47cc-a49a-c7e5081d655c',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'd40fa692-f5d4-4375-a0e8-c0d8c839c00f',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e339ae24-61c0-4cd5-aa1e-835a01b83766',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '8786373f-5501-4cce-b8fc-2de362d8b96e',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5d6ed14-5c08-4161-8ec0-bcd58fae4d4a',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '83c13674-10a9-45a0-98ef-6d4bbd9d4be6',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5d345e4-5a46-4399-9641-89ad70773f0d',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '50651329-2bb6-4f26-bb2d-7fb4c3dac5b8',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73a781d9-027e-480d-b18c-487049bcdecf',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'a404df11-3290-435f-99b3-5db6297d362b',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'population',
     '19356544',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8f4fab23-3e2c-4097-ab1b-5e8e4402e932',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'a53661e5-bd2e-42e0-9e72-796b88d590e7',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'gdp_md',
     '250077',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5dfe5be4-8953-43d2-9209-934b4ec4d130',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'a73c653c-ec11-4ead-9e2e-646d2df508e4',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21c6a8a4-a16c-4dcb-83be-5af46919157d',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '99911495-2a36-42c2-9de9-24209d9e6f0a',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e6cf09e-cb47-4ab3-a763-77a2db0012fc',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '6a9f6d77-cbe5-48ef-b1e9-7cb62d0afc07',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03a7733e-1983-42a1-b0e2-8e383e214bc9',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '174a9c6d-e488-4a80-85e8-1b2767fa9e55',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'label_x',
     '24.972624',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '22d28929-5ca3-4b7d-a845-745ac75a595e',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'd1fa8ac0-17e0-4e3d-8de8-79fa04884015',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'label_y',
     '45.733237',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ba49b154-b454-44b7-a527-0b43f31dda87',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'd6012062-0ac1-42a6-9844-b9bdea4aff2e',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2c5302c4-c805-410c-8dfa-4ddd05ea792f',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '950df621-7155-46d5-a39a-2a2c50946411',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '16c11a96-6769-41aa-9cf3-8571931dba0d',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'af721e3b-399e-4b90-9772-c45c9188d526',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd567697b-ad2e-401a-9009-5714eb39d3ba',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '428dfe31-c6a6-4ee1-a965-f4aeb5b678ea',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cfb9fdb7-486b-4ba0-b64e-d0d961b4bc58',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'e2fdd73a-2a06-4e36-8abc-826a00fc54cc',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'population',
     '2832067',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7fd8059b-f2ee-4b54-a0a4-5f182aca6ed5',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'c4e0b5b3-1d14-430c-8ac5-c616eb744d64',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'gdp_md',
     '175837',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'acc1f379-1bea-4dff-9271-bffb14ab480f',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '39df5efc-f331-4c5e-b478-1f00d7a8a09d',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '210d5568-0e07-453b-914f-99261dd9b9fa',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'a1ef2d39-b83a-4051-9cc3-f5e886abbf0f',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '504945e4-9042-48e5-931d-8801a24e58bd',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'cb69c151-2daa-46cb-9244-3ce0a6e47e9f',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40b76ed0-0530-4a90-a471-0d8a56261d90',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '33e28214-08b1-493b-9ae2-eb3d092579f3',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'label_x',
     '51.143509',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63ccfef2-25b2-425f-8c99-28db6ace6307',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '8e37098f-cdf7-4bf7-881d-d7d34b8435ff',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'label_y',
     '25.237383',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2fc4adab-a5ec-45fa-a0e9-8b94ca0289d5',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '04d673c6-2661-4cfd-b81a-b21f9bfef413',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bbc647ce-5a11-4f96-962a-e596fd4b1342',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'ed08704d-ccc8-45a3-8d77-8096f3036775',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6ad80a1e-821c-47fc-960b-2edcb0c46c3f',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '2aed8645-de0d-4bce-825d-8cf5ce6c2abe',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4298664f-3356-443c-8cb8-f6d298ccac52',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '69265068-aacb-46e5-9728-db2ea1fcc42a',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '71c3c9b8-2183-4271-a7b7-0f1556a1d16c',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'a8164466-060c-492c-845a-206244a6450b',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'population',
     '10269417',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdc64ec2-cbc2-4213-bbec-254f561ba146',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '47862313-5b46-4ba0-8b82-7be07b4ec839',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'gdp_md',
     '238785',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd13112ed-2605-4585-9e38-4e1e77f83e9c',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'b8befbd1-2fbe-42b4-981e-b98548210f60',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae4f0be7-c415-4433-a611-50203a32e254',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'd7acb61f-a7ed-4ecb-b059-27be7c0688fb',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdef89f9-0e81-46a0-801b-f080fc09467b',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '62bd3eb6-8561-414b-8285-12d90aad30f2',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1e57a0b-7e21-4748-892b-7f6809c89ac1',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'de8df3b0-0283-46e7-88e2-9f44c807cef2',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'label_x',
     '-8.271754',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae2a1da4-db44-43f6-954e-81eeda8882bb',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '85a53adb-14f5-4e4a-9d85-6f0b9764488f',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'label_y',
     '39.606675',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f2637999-f845-4f54-9e2b-f12f655f286f',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'dcacf836-f9d0-41c0-aa23-64a62edfaec8',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bbaf9e7-bb48-486c-bf4e-98d27184001f',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '7cbde4ca-a072-4b5d-a53f-239adc0cecba',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa2df17f-ac8a-4645-8710-6cc7c719cfe4',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '2d308b04-8156-41b7-8835-5d615c85fc64',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8fbd75b7-5379-429b-870d-4b80b27323b6',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'f8b24329-3d09-487b-bc4f-b5062eaaac66',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c844d5d2-09b1-47e1-a06f-55aa27b3e89a',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '2376bc6d-e5b0-4dc6-bbcb-35f946332bf7',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'population',
     '37970874',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1a353ea6-142a-4e06-b3c1-0b99f35038dc',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'd4bc187b-288b-448b-8c15-2079b5973d3e',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'gdp_md',
     '595858',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e06dbeee-90be-4738-a316-2bada2d52721',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '6d36e0ce-f8e9-4e6e-a288-a2674683271b',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96401441-71cd-4ff9-9f1f-db86b0305857',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '5546bf93-2579-405c-8021-31777f3d9c9a',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3dfb0698-7506-4aa1-884f-a9f1c965b2d2',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '936d7ddd-72cf-4caa-83b9-9cf31965ad6d',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd913281-7da4-4aff-9912-315305ccf36a',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '6382369b-119f-4072-b648-f15653fcf02b',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'label_x',
     '19.490468',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04dd65eb-577b-4c56-83a3-58da65ff34f4',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '60f4ca6e-5951-427c-a884-9597d39f8a17',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'label_y',
     '51.990316',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74d4ae47-6d4f-49ce-a7df-fef83086935f',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '988b22d8-ad5c-4e40-9fde-1bc177981ead',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '675d4613-d070-424a-981b-5b331557d60d',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '64fc894c-7ab0-426d-b7ca-7c8bb0210ae5',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e459c871-e8ff-4fcb-9bef-7ed6f7cdb78e',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '9d53eb75-a70b-4be8-b3a2-97cf1a710203',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'efbe3fe3-fce5-4b2e-bd4e-c699b583fcd1',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '7a96010d-156c-48fb-9c6d-af1531e8ef51',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30cbfb24-9b2a-4bca-bdcc-f832ad25fcf3',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'f7760001-81fd-4817-8b86-b29f43e7f327',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'population',
     '108116615',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3b9e5336-424d-40cc-b629-879a383cca75',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'cb0572f8-8a24-428f-9010-fe13f4d85d52',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'gdp_md',
     '376795',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '331d4406-9cd7-4f21-ad33-c65ee737b546',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'e6c0e131-3f1b-4e07-92f4-b685f8cfeab5',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '367b2a91-835c-44f8-8e4a-83cca7ab54c8',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '7574a498-4204-4c37-8f14-2635e0c7df42',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4c5d821e-a491-4f90-bb84-a85bd47f67f8',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '06bede36-4f13-4901-a1f7-6c00d5a3ac6d',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0ff70e74-5e69-49a1-a0de-012c8beb3521',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '3b3238c6-bc6c-4b0a-9c29-1fe301abc3aa',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'label_x',
     '122.465',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e48d64aa-e51f-4fdf-bf90-23347629e9df',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'b491585c-396e-493c-a772-e542a7fd58dc',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'label_y',
     '11.198',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc2c5056-3225-48f0-9bc6-8c06f2658192',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'c203a6c9-71ba-478a-966d-20d8710f4800',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61dd7f08-4269-4c47-9a06-e343e6aa4d3c',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'dc5f7740-25f4-4865-976b-60b16491e2f2',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6f48a18-bb4e-4929-beac-8fa213632299',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '2bf158ab-a560-4265-b06a-ff0108b93829',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eb8bf666-a92b-4602-847b-9395bfc90570',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '0c339c9f-d790-42de-b1b6-142bbd651f68',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c3f1bd83-9808-4320-acbc-144484de934b',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '330ca1d8-d9df-43f0-86f2-c7fae1951bd1',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'population',
     '32510453',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '711ee7bb-2901-46a6-a487-026768870d2b',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '191cabfa-9e73-489d-8449-f0efe06e2411',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'gdp_md',
     '226848',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b244da5f-2f61-4d73-90f6-9bf6bcc8c589',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '3a26a0e6-6dbc-47a4-94f1-118a99072eba',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f3c51e8-eba2-4eb2-8ac4-f30d308aaf24',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'a4c59554-9d53-4fed-b848-567591daec98',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '090c300c-8a41-431b-bb61-1cada6b3e518',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'beb6cb84-ef35-4716-ba97-786da7bcda68',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06836a0f-7393-49ea-afe3-d864bf015616',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'ce113fd6-9c44-4d86-beed-25968b4b476e',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'label_x',
     '-72.90016',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdf70a80-2d1e-4b34-8e38-4b53a09963fb',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'ab5eed2b-284f-416a-b37e-e8bc049d62e7',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'label_y',
     '-12.976679',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17cfc74f-606c-4def-9171-e72c76cef044',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'e1aa792b-2104-4cfd-80e6-86c5dea193ae',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd500e0a6-7c54-49e4-b42f-151a7e1ec4dd',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'dea66985-5b39-49cf-87be-7ead5aa91727',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edbea6cb-e5e1-4a85-842f-1d31dfd68be9',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '582ce5fc-c50f-4cba-a596-61f124052923',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '99d59cb3-c693-4823-a3ba-fc323105cace',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '3f7e816d-d84d-460d-9062-a8bed16766bb',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f647b8c-77a7-4a5f-aa4b-9ce59094f089',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '242f1444-1718-4e73-b6d7-407010a11181',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'population',
     '7044636',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bd39e5ec-b12b-4be5-b76a-e168d4fcceb1',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'c593450f-35c3-420e-b083-378fb826f1bf',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'gdp_md',
     '38145',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd41c654d-55fd-4fe7-bef7-a5c4b7cdc8d5',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '05c046b1-6078-4136-9845-7e7040d9cb50',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b9cc6769-c8e1-4e1e-9f4a-70b5eb799b06',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '1c6baeaf-c7b0-4fd9-bd2b-68435b9bbc33',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5406b83b-8e4e-4416-af08-f764c6b21fea',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '70c63da0-8c5a-490d-98eb-6a7f50c4c6f4',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd444263a-46b0-473c-8cd9-f1e11decdb5e',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '8a280446-24f0-432e-9314-5696330d6f11',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'label_x',
     '-60.146394',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '48fcc38d-5331-4c85-bc5b-5242ed3789e1',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '1c6c3e9f-f785-4855-beb9-6204b31422b0',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'label_y',
     '-21.674509',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7284558-9bd9-47bc-bb01-692d5dba72ee',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '64a52dc6-4f7e-4c13-90e8-deb917da175f',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '54ae6cb1-5e22-4d86-b920-2705b832313f',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'a3df050a-38a2-4b56-a73b-ed34d0e1bccf',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a78f08dc-31a7-49cc-843b-1adddd649d64',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '34b05778-fabb-497e-ada4-8289a00866f1',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'subregion',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4082c70-26fc-4867-af17-b17604044d07',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '71e44b7b-f7c4-40d4-b683-75e23de50195',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f62eb6ba-683a-4235-82e4-7f5d74d17493',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '6e57ff18-1edb-4f17-86ff-389a67133216',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'population',
     '8776109',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc203478-983b-4ff8-be31-22e224d3a9b8',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '30e45519-cb25-49a8-aa10-1d928397a2eb',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'gdp_md',
     '24829',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '981e3de8-bdeb-4c38-a6b4-ebb5075db1d1',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'e0161359-456f-4bb1-b862-e83f5baec139',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '57b5aa71-0ead-47b0-9495-9e7376024232',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '7a9d4a1e-1b42-476a-8597-42f49d464fe0',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ba05b98-7825-48b5-bc60-e27faadbfe72',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '3b02842f-c435-454b-a6eb-4845abeffdcf',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7fa34e5-e4ff-44f8-8356-7fc5cd3aaffd',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '6c71683d-29fd-4919-a1e1-9e020eaf83d2',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'label_x',
     '143.910216',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4745fb40-eef0-4d33-8614-e28df2552d1e',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '6f0120a8-7c81-4276-b58a-7aecd4bee7dd',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'label_y',
     '-5.695285',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '335e12dc-ca93-4c27-97a9-4ae3abc379fe',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '2a654bfb-130e-4f4e-bfd1-51f893a8c2fb',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'feb3ccab-b00a-4bd0-ab71-69aab1383782',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '512988fd-07d4-40f3-9d9b-40dc07da20ee',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a8f20e5-9edc-4884-87c8-5bf2c7c0e507',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'b31b798e-b101-438d-ab4a-e5c973e00591',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '524e16de-0a92-4faf-ab79-463f53337fdd',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '8e7edc4b-d2eb-429b-a05a-2c8b76f3be79',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74ed6ec4-dab5-4665-a90e-a0fbb993e736',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'b66e0806-a7f3-4f2c-b964-32e0bfcfafa0',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'population',
     '4246439',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c5cf9b6-d549-4cfc-9ab0-e3f6d20b66bd',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '3c920882-bf2c-40b3-b92b-d31ce45dac28',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'gdp_md',
     '66800',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1190597f-03cf-4a0e-9eb5-9fc9021d656c',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '01725d1c-0e07-4533-a520-1a2c8008ca9a',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '229e8bbd-b854-48c0-9fe7-7bde947d9783',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'ac473630-994c-4f3e-ac99-f75863f8575c',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '293b9d65-bd46-4c02-8d5f-5b4514e44239',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'e57cbc26-d003-42b7-8e53-1f2a0bbe4c92',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7dda25c3-7514-4c60-b7c7-19e806740343',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '97451323-2bf8-4c07-8e67-bb1fbfa4482b',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'label_x',
     '-80.352106',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e2f515c2-51ff-462c-a46e-5d62c6ee129f',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '080d7c31-8ef6-44f0-aeb1-d13aa274e4f3',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'label_y',
     '8.72198',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c4c532f5-1ae7-48cd-873f-d90c1755d9ed',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '3ce51f18-72e5-4723-b0d9-9ee2e4454157',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e4657959-965e-4eef-a125-90a4caa9f388',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '700499d9-983a-42e9-a76f-080e19ae8b20',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '554483cd-081a-4075-ba2a-1d60b7df842f',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '19ce21ac-fbef-4d50-a17c-8a1e6ffad62f',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fbaf4928-73da-4e9e-98f4-d7692e38432a',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'a26763dc-b5ae-4306-8a99-cc9f66cf9a9d',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23dba921-212f-4376-8d78-912a920dfe65',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'a02f88e8-bd4e-43be-a5d5-df34c6a05dca',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'population',
     '18008',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30d90e60-64ef-4cb6-abe8-cdc543588d63',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '28ad0c64-2504-4c53-b27a-99a58845e1ba',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'gdp_md',
     '268',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e039baec-9fef-4d0f-870c-f522d4946cee',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '966f28a0-500a-4600-bfaa-281ebcb6820f',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f2084898-6c10-442d-ba04-cf629204530f',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '8ac0c5e6-9018-4962-a983-2b91084c466a',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c6ca879-7316-4330-a75b-242c73c4e67b',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '420b5a08-3da7-449e-81e4-86c0cfc909e5',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34227b47-eb3d-4856-a107-be4c2179f479',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'ec0f83dc-ab31-48da-854f-c0e6cc42da67',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'label_x',
     '134.580157',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5e1f272-d2c1-4d03-9d4f-fa0e06d21896',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '19b853e1-54dc-4a20-b6e7-49ade3dcaeba',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'label_y',
     '7.518252',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e55ffe3-1a1a-41b2-a1f8-74627418595e',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '188a8ddc-7c7a-495b-82d9-0d3a8c82ab22',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '018c28d9-6d97-4124-b298-3916c110a370',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '7a500618-16b2-457f-a105-5ea3500cfc9b',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '02dc6a91-cff2-4595-9f0a-04261936cabe',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'ab6b1c20-e79e-4ed4-ba3b-77f2c18d3140',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17a5e163-1f00-4603-b70f-a850537df41d',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '7cdaa2be-4a6a-463d-9c5f-dd76aeaf9b06',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a04c1d4f-1b1c-4737-9cb8-9ded4e3f1a0c',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '7ff92e44-d6ca-4465-9dbb-5d69707e681e',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'population',
     '216565318',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d5e357a-82b7-4b9f-9da5-f471babf50f9',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '744cebc1-c850-4f3a-980b-6c2635b6a25d',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'gdp_md',
     '278221',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88731fd1-5c2e-42e9-b549-5ee9df9a1406',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '74a7a813-24b3-46b6-9071-4f40b1f56e78',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5cf4e42b-558d-4918-b9dc-0865ca8f2053',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'de2cbcf5-ea38-4912-a906-4b666ef9e122',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fc5ccd5f-7a37-439d-a871-a8b167863390',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '620ab2e6-d9cb-4fff-b05c-1521bfa63e51',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d2df163-3fa9-4f1d-bfa6-88578de2500f',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '2cce9efa-939e-4fb4-a491-b4b1ad73046e',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'label_x',
     '68.545632',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2cd72c1-a601-4be7-9c03-84a48d5365c7',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '52a81bda-d72f-4916-88a7-2d69f1834666',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'label_y',
     '29.328389',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17e97601-519d-42b4-aad8-88a0181e4326',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'a4f28c83-7796-498c-a7b6-e6c205953ba3',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3426be19-9bce-4d70-b814-549e31405818',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '823cf0a5-0c60-4a19-90d9-46e5bd7a0f65',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10a60b5c-56e9-410a-b762-6f1549931bf1',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '424632fc-38a7-431f-9fe5-044d3009cc3e',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7dc53c1-7fec-4215-b8d9-90f227a736e0',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '88b7de8f-4d32-4bf0-92c0-24cbb802bbd5',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43130eaf-4f47-4dc5-85f3-1ddb7da650cc',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'ae683098-1873-4f15-8f14-3d7e7a337498',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'population',
     '4974986',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34992f65-86bd-4c9c-89d4-923d39dcdb65',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '5f1a572a-7989-4356-ba5c-e7e401ec2192',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'gdp_md',
     '76331',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd28d4144-eeab-4167-9971-e3d7dbd8d3be',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'eeeb864a-7715-4079-9021-84ca06bad90c',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4fa66254-6979-4a25-9e5b-cb394b170983',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '826e501c-e496-4589-89b1-48bd1aef568a',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c722bd3a-4ecf-4b17-b88f-02821a8ba2bf',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'ffde5b2a-d530-4fc3-898b-f438aaa215aa',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7addc240-d0e1-49d0-8599-f370117c85ce',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '2b836234-e838-40ae-8b40-e3be6f168697',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'label_x',
     '57.336553',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9466c582-d9ec-4ced-ac5d-8444981cfe92',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '42be6d84-4818-4306-98f7-a9257e9484a2',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'label_y',
     '22.120427',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '431cedcc-902e-46ca-95c0-98a299d9da44',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'f80de8d1-135f-4011-a25b-06b54b9611f9',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b32daeb0-75e9-44ee-add6-da120279e4b1',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '70c5f1dd-4c03-409f-9754-a35cfa038c24',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5c95dc2-bda2-4d3c-a646-fb1739742898',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'b506f293-a375-429f-87b9-fa814d3bd6c0',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '08d45177-3716-4fc7-ad07-a11d6d07b81a',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '79ef99c2-e135-410a-a726-9f86ad5dec4c',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '317b6827-e4da-4ffe-be8e-184f24e4e5f5',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'faa80b14-6773-463f-80aa-4d2fa09ec0f0',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'population',
     '5347896',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7ee593b-39ef-4510-939d-4be56085d73b',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'adddaca0-12cf-4313-9784-988ef465053c',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'gdp_md',
     '403336',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cddecab-765f-4453-a460-afdf47327a4e',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '092a0ef2-e57e-4caf-83fe-cbc601c7a66b',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd36935b8-125b-40e7-9f4b-6877b3533466',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '7a9c07fc-c1d8-42c9-a275-74669b7d0883',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b1d08b0-7489-4d51-bde1-208cf32c3c63',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '085adfe6-5265-4d5d-94f5-189763f391e3',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c4a33cb-90bb-4224-bb35-f100f2b876b2',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '92c5265e-91de-44d5-a80c-ca48a8d19472',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'label_x',
     '9.679975',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3fffcb1-ddd4-47e8-b79b-6e833cc927b7',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '62b16d26-9b6a-4b38-8a45-63d354cd6111',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'label_y',
     '61.357092',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f14fbdd0-ddfa-494e-a21d-7dd1b2eaf13d',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'ba50d050-c4f7-43e9-89e3-7c5380afe349',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '09174956-2154-4353-9b10-b7a0bfe758b8',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '361d378a-d5f4-4fd6-8f94-cb567f7a3951',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '635aeccc-6d4e-4003-9992-e7a3c3ac771a',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'b278b61c-fe78-490b-b187-4fea7a18a6ed',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34cf2ca5-0c7c-4a63-b297-1111669aa0c8',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '2e5cc93d-a336-4e3b-aee6-118560af4ed8',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6c39427-3b54-4cf4-95fc-7028d7b1ce0e',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'aa47be07-72b9-4ef8-8dd8-be85b9327440',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'population',
     '25666161',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ec3fc271-089b-4c05-bacd-cc4520b3bb21',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '90486fb6-d4d7-49d7-a3e8-259f8a2342ad',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'gdp_md',
     '40000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '170f1af5-78ac-4f39-a4ef-9260cdf94117',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '9dc29a45-a3a7-4d5d-9dd9-46d5b5897aed',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ba29775-64b6-4e2e-9328-6acfe3196ef0',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '49c547b1-9926-4005-a3d3-e19874078ac4',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a94c10aa-a0ab-42f8-88c5-e922674359c4',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '698ed318-d83d-4bd5-b91b-25431dece39f',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0cfc0193-8a16-46c2-98e7-492c302aa66e',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '844e463e-8c5e-4b88-ac31-481105f16fbc',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'label_x',
     '126.444516',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1eb716bf-5cc0-4b90-8753-5fc7539cad5f',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '6e68acf4-a257-49d3-8860-8d487499e28a',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'label_y',
     '39.885252',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a80ab83-7ef5-4335-aa91-99f6dabfec33',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '9ccd3cd6-1be4-44ac-bd7a-61f5d4153e42',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '45ba4777-4b5d-4648-85f3-41e0a6e38440',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '93a66e29-5811-4a3a-a5e8-ea32f041d8bb',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fa27bd4-2a64-43d6-b9c5-f522fc51b928',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'b6ed6d29-6e88-4c8c-a994-74bb88c3da10',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '13680727-2ec0-49d2-b23a-89023dd07971',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'b44eb155-86ed-4161-8ed2-97308ccf2f5a',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1fc5ca52-4433-4f4a-aa20-0e06e21321e5',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'e4648ad3-7faf-4cf0-b2bd-2dfd87590e9f',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'population',
     '200963599',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0be4a9bd-d904-4781-b871-fc5c8cb19f95',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '0fb6a5af-f8d8-4013-8911-e416298a4d5d',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'gdp_md',
     '448120',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e09ecdf-781a-410a-b507-3074589b8732',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '8a4a7d1d-4652-4553-85f0-2d57d3b7650b',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5d49552-b1b0-4cbc-b77b-2a4cb0ef483d',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'aba327a9-1650-4d69-bc47-6b6e1f557b89',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3957cef0-3a1f-47e5-9422-2cff046c6115',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'a0e8f057-c40f-46b1-8662-fb54f864537f',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72b787c0-b206-4ebb-973e-36313e1a1994',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'df3fda35-26c8-46b5-ae95-0e437e731888',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'label_x',
     '7.50322',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '77695f8e-76b0-47c0-b9e1-1afb6c4b566e',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'd2d88a6b-f7d2-4871-a532-264c067d7dee',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'label_y',
     '9.439799',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc0978f4-1fb2-4e30-8700-c1edc993995d',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    'dd22194f-b269-4e86-b23b-82d46f447d73',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f14179ab-031b-4319-8d5a-27a2907873d7',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '0e7e3f96-1092-491e-a1a2-f5872a471c90',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ced365e0-53b7-44d0-93bf-06b0051482aa',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '4b9c3e07-33dc-4d8e-b785-81b85918a506',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d8a6d78-0aad-4fbd-bc0b-e02d2c73b866',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '8dc191ad-60c1-4440-b948-83b5e53112d3',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7c9bef4-4246-4d48-a6aa-86ebe247104a',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '9b575028-63b0-414c-ab4a-27bead19dbd5',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'population',
     '23310715',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aac7b7b3-284e-4ceb-9b8d-305fd5aec0a7',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '2b1f22dd-2162-43f7-a64d-9272b2284611',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'gdp_md',
     '12911',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '70ceb471-58a1-4bcf-a1f6-b5f81ff22aa5',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '0c6f2e3a-8cf8-42c8-b0fd-2328c2b42e0a',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cb87874c-579e-4ab5-a9f3-79d1a388df96',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '55fc1f87-f577-41a8-b50e-a0adb57d4b3a',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '048b347c-5d7a-4804-8e23-1b5d34c37a0b',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '806122fd-79fa-441d-bc81-38fe045f7a9a',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27f05a9e-c516-4a6e-a9e0-04df7a6014df',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '47b6128a-f507-4214-9b57-0705f513cf1d',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'label_x',
     '9.504356',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9479908c-4072-4f73-981f-a7252b6ce2f1',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '3250f0d2-d33d-45b6-bc7c-a60dc96f773b',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'label_y',
     '17.446195',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4472da00-1286-4f45-bfb7-f384ec0b231b',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '32294142-0ad9-49e8-a362-ac93fcb44ac7',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96ade8da-34ab-4a57-a8de-cedae096d11e',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '50f13292-5815-4384-b62e-942188446bd7',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04b2ccc8-028f-4ed7-b57d-d947e4a6d6d8',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '2477a998-520d-41be-8b2f-b5286dd7a555',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5c9ec14-365e-4043-a3ae-51a27f023789',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'bd6485d8-fa44-4dea-b1c7-68670ec8a319',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fad07662-be35-48fa-b741-86dd9c1670b0',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'cb5c4a1b-ee4d-42dc-b23c-6489cee99b07',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'population',
     '6545502',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1f01f255-6c98-4dc0-b6c0-5be900a1715b',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'ef6fbc0c-b879-46da-bfe9-4cd6032fc979',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'gdp_md',
     '12520',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f0b84f8b-3724-4105-9cea-6f9e2df4d9dd',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'd14ace01-f927-453e-b0f1-3eb6f131c91c',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6588d357-4119-44dd-a22f-d8a1470877fb',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '4fd32816-ebb3-460f-84b8-5b9a37915ba2',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b57cb75-4ede-4c82-a8ee-773d1654f618',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '11b7dbe1-57f8-4641-abb7-4083ca15124a',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37fb4bbc-be17-4c32-8580-66fe053cf4c8',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '82a9d366-2a28-4117-9953-e58bfd765f8d',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'label_x',
     '-85.069347',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b7bf15d-55ac-4d05-ad6e-0a791e969f99',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'ca00b6ed-c9b7-464d-9e6f-3d8b5ea29dcd',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'label_y',
     '12.670697',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '78cce881-536c-4d0a-b389-f3f8682d88c0',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '247ba7c5-f1ad-421c-896a-f4ecb1767f26',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3783d83-7d55-469e-8cd0-5ae12dbea4e1',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '020f26e2-3a4a-48ad-b177-ccfa9f12653d',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a20a0f8-5ecf-4b96-b41f-f594da67ff0b',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'c2ca1258-ee78-4ed6-a15f-e8f56d3202c0',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'subregion',
     'Australia and New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95409602-5a92-46c8-871e-ad1a623d8d77',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'a895efc7-07bf-4d5d-85b6-94693b549727',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5fd0285b-c740-4cdc-8b2d-c5267b53aa21',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '04c6cdba-fd59-42fb-8331-4b6c7f698abf',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'population',
     '4917000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b54845f6-9ddf-4c79-b6fc-7f5bd8ca56c9',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '56466623-eecd-43b0-90db-ac9b327fd434',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'gdp_md',
     '206928',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bbdaa4e9-3552-4db3-ba8a-ac733ac7101c',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '3f509a8e-aad4-456d-b773-bcef2654885d',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9cd7e3ba-f087-40cf-ab03-7991a4954c69',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '81d2022c-43b1-4c26-bfca-b1f660e0b3f6',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a3251e5-2654-480a-9808-119fdb8397db',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '767ae93b-ca67-4b82-b871-120a6c8d4668',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c06be324-0270-43f0-9695-9e5327127d52',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '93410d0c-ccf5-49b1-b469-fc982ecf036e',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'label_x',
     '172.787',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12cef431-b790-4d14-9227-7d3357254248',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '667c0e98-e1bf-4f77-9f78-652e87221cb6',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'label_y',
     '-39.759',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '331fb155-2b34-474c-9d6a-2d7ee0b2b148',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'f365d42a-d191-4ab1-8f4f-d47e88f7827a',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '467ff883-d104-497c-b188-8586b88edd58',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'd07cf3ae-f778-4fcf-b24b-33bb8a941478',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '099a1780-28f3-4da5-9e2a-cab071ab7c6b',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '01cdea65-070f-438c-9222-315b1d6c3071',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4387f9c-6be5-4398-90da-81f462b44eb3',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '8c9477ee-c411-48aa-87d1-1e64b90007f1',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90b3d26f-10bf-4da1-9d3f-cea9358f4044',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '5432d55d-bf90-4fee-8817-97c25fd25ccc',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'population',
     '1620',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '077934aa-31f7-47bc-8d2f-8864fbb27279',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'd14970f1-b81f-42fe-b70b-9ee4cf3a3140',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'gdp_md',
     '10',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef312ca6-4881-41b7-8eac-004d6d01e2d0',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '2f2f702b-a83c-40e6-a3a2-8f733d597537',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a83f8a0f-b58b-4c51-89ad-bbce619744d8',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '85be7986-f5d1-4489-8461-3ab14c318456',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9722ed9f-b1a6-4b1f-8a23-64ba5bcf62d8',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'f17cdb0c-e9d3-4b98-a8d0-566089fd59ae',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '778723b5-68d4-439c-ab8b-eab48f500d35',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'e2fe41e7-38ac-4b60-9ecd-624844c168aa',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'label_x',
     '-169.862565',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30a53d66-e48a-48bc-9758-406e8552be44',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '16e70e0a-c99f-44b6-9da2-321ec919c5f5',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'label_y',
     '-19.045956',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b648d88-05d9-40d9-897a-0d764dd208b3',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'dca3d07b-c059-476e-bf39-c3d9451d290f',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ac9eb31b-314f-4e0d-80dd-0f9b6067cfa4',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '989a08e4-2028-4492-a064-8edf7abbfe99',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cb1b725b-a9d1-471a-974b-045df7bba9cf',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '8ef1fe98-dbc8-4357-bec1-d75653fb13b0',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c30554c-0131-4b4a-8d44-ceda5641c563',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'ece98e23-bf6e-4fa4-9edc-67770d06450c',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae28fc9d-a47c-46d1-b787-98ac6c28a247',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'abfa1c1e-78ea-4e75-b946-b6c4a5ecad10',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'population',
     '17459',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10c2ce7b-2194-4d85-9d33-319a52c0dd0e',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'cef95097-ab20-43fd-866f-f9f65617ac4c',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'gdp_md',
     '244',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e02c6a7f-6ad9-453d-81f7-37537e8435d9',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '42a2e74a-1d71-4da7-9248-fe552fc9c005',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12519db1-ad74-4924-baed-395256b09d5e',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'bb63aa9a-d569-4cac-964a-87811b10f821',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6812d05-e035-478a-9c1b-71f951daf54a',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'acad78f6-0db8-4dad-876b-b86025bbb7fc',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c0c47059-a624-4ad3-bf8c-663f89ed4696',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '840627ec-8c8d-4af8-b31d-169a71bbafde',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'label_x',
     '-159.785675',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ee0e8bf-e00e-472a-9620-30a859236db8',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '7307f8fa-a2a6-4f81-ac0e-e856f70d70b1',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'label_y',
     '-21.215993',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a46e7fe-4ebd-4dce-b8d3-965b87abfd77',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '162a985b-01ae-454c-8489-20e8b35acd4c',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72fcb2fa-d8c0-47a7-aab5-b84fd5a9a2ba',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'ded3e71c-dc2b-4f9a-990f-2167b31b25fd',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23b74351-bf57-4dff-9964-1f99bdacdc41',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'cf387306-edbd-4937-ad0e-7efa08f03cbd',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b84792d0-17c6-4fda-8c23-8a1f051d6c8f',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '9c0d4817-cdf7-47ad-aa96-8020aad6f509',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24ecdac8-95e9-41fc-bee6-391368575415',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '93859957-0bf7-4ff4-8ad1-36804097349d',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'population',
     '17332850',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '090727ab-bf92-4253-89d7-9e5662e0a52c',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '8d6086c0-2fa1-4204-a5ba-a7c32f701b13',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'gdp_md',
     '907050',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5f6b7b3-7b3f-42e1-b820-841bf9e00b1e',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '418dcf4c-45d7-4fd0-8b8a-bd65d1d25ec9',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c0aa1a0a-cfbf-484d-8220-fa608edc975e',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'b3e29e07-29e7-415d-8b61-ef226ef2ce3b',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be00df27-fbb1-4016-88c4-4e78853103e3',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '50123d90-8ef1-4e43-b74e-4df76105eac3',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44a4428d-98b9-4057-a4b6-24fbd9ab8b97',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'ebd24a67-3838-40e6-b313-a8ecdd3d0de1',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'label_x',
     '5.61144',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27c07e26-ba95-4917-806a-f71b9d6ed0bc',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '63d5743b-f389-4418-ad96-044298121be2',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'label_y',
     '52.422211',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '596575be-8428-47bf-832d-553e5c3553eb',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '2f4be7be-cfb9-429e-80ca-4b3962c5484c',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '690aabfb-356e-4c87-a33b-9cd0dc8aeac2',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '8c1c0e16-a976-43eb-b416-3d65211cefcf',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa07281b-08b0-4367-b888-9391431ca51c',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '3a541420-f314-4d62-80b7-0c9d1a708f59',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da348b92-698c-4fb8-ac66-e738cac10491',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '04daebb7-689d-4ad7-9f11-3d5d230f5664',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7bdf5d25-26d4-417b-b91e-4e00de1a34de',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '72cf7541-7672-44ae-a9d7-5c38e9445009',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'population',
     '106314',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b3361a0-4dc1-4763-94b3-03223d5c894c',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'c7e287f1-e4fb-42d8-b50c-1f941aef6315',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'gdp_md',
     '3056',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '92c7d384-f7eb-4665-b19e-cca6e56fbb90',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'f6094021-7dfe-4584-92cd-60eb7266b9ec',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61dec810-6a4a-4ba3-aa2d-018c50086182',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '47feff9f-aaad-4ba2-818b-a97562f690d2',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea04e0e9-3cb4-404b-b0ed-0310a80d3dfb',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'cc38d78e-37fa-4d34-af70-906ec0007928',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21ba5676-7d45-4ae9-a837-621f1ac0cf99',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '911fff68-d8d7-4980-a4c0-a86a31af6da2',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'label_x',
     '-69.972795',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fb6bb272-370c-4899-a0fe-6a24e5913aaa',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '0d07d4a8-fb4b-4b3b-8677-374b4e8f92c6',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'label_y',
     '12.5174',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c446b4a-e6ab-4c58-b47d-28f8ed787f63',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '14c5e85e-6fc3-433c-b3f0-301959a87f3f',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5d16ec5-f633-4a6a-83c9-93523b1d72a4',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'd8dfe9c9-76d2-44f8-9f99-dbbe7ad763cd',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '718cafa7-5c92-415e-aa85-5523f4a641e7',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '21d5e0c3-cf51-4f52-a672-955b4e55373b',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86fba6f4-34e6-4522-8ad2-6a8861f3ce7a',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '110bc91e-6ca7-4c68-8eb5-828d3c9c9b03',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '58e7c00b-8daf-471f-8220-a24484f35e92',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '4d30bfed-6b45-4529-ab28-669ea7718cba',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'population',
     '157538',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a6f5e491-d489-4318-bb36-a79ff4b64c4a',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '5ad82964-995f-4e18-a09e-c56f2b694e98',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'gdp_md',
     '3101',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a498d259-0d30-40fd-b458-1dae0097147b',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '7c15bc1e-fb04-45bd-b6ae-1f8f63dc8f59',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a01cd196-e971-47f9-ab19-90027d052828',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'd3e41d7e-b48e-435e-9256-efb460895d0d',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '582fda42-fba9-409d-9bef-02bbdca0b6f5',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '4c838a66-3383-4ec4-b5bd-3c051e78d48e',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39f06f4a-24ef-4297-bc5d-69a9792dbfc5',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '038e4fc2-6178-4107-846c-64b77c0f0468',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'label_x',
     '-68.920578',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0c77853d-06b3-4f21-b939-58526335fe15',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '0eb02f10-c735-4a48-bbfd-672b37f0b485',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'label_y',
     '12.145039',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '80f604de-2977-4008-9446-8f9f4b3cba3a',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '1824a953-5c3d-4ba9-92de-936b26c45007',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8755218e-8767-43ef-a8e7-e26419cc9785',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'e9285064-7bf0-4122-b6dc-b721d76dd8e7',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3cf6a0ee-dc03-4522-acab-d8be019fbe1d',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '0d91307a-a6b6-4a68-b889-1802cfb5c851',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5434d839-d319-4cf8-9a3c-5ec6be45d457',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '567b68eb-e47a-41c6-8b23-25239860a764',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bf8f2148-29b9-4f89-843f-751d8e201017',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '1fb3d67e-f855-460a-95f3-3c4503a3c286',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'population',
     '28608710',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7494a43-36d1-4cf7-9e96-3b862e5ab9bf',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '4af82e1c-5e85-4e4f-843f-8f417d6b4399',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'gdp_md',
     '30641',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8dacd064-36a2-4107-9a94-fce088ffc6fd',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'a2ee3439-67ee-4314-a714-9da56cc7a3e4',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1a85d98c-93dd-4150-aab3-b8a7206628e8',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'e9affa2a-7c8f-44d0-ae15-d59134e904b0',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69f53d4c-d1eb-4e93-9394-19e52da655a7',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'f43148e3-1c53-44a3-a969-6a7ce73a1efe',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dba243bb-24ca-4505-87aa-83faf23a1069',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'ce2803a9-6b6c-4db2-a2c1-40b05e802644',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'label_x',
     '83.639914',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5f12caf5-5176-4f5e-8323-6485b2117db2',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '6b01d207-226d-41b6-9e2b-0a984fdb2e63',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'label_y',
     '28.297925',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0ca16ab9-5799-41ed-847d-6c4ceb1d887d',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'edcf2b29-af60-4b57-8b68-88453fd5fcd0',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '38192a9a-c220-478d-8ef3-22df25e291ea',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'c6147043-c7ac-4fa7-a7f8-fae6462e5168',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3970f142-86c0-4bb6-bed6-56fc0e0c29db',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '27d838f5-af89-4be4-94f2-2fe821336c0c',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20130879-1bae-4bfd-8981-785c9b57a515',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '35819a60-a396-48f9-a1dd-c74ad42bbc77',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a44b98b-0e65-4fc2-9973-1f3272e53029',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '08a86d22-5246-4412-8ed9-5e2bb214be1c',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'population',
     '12581',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39935e13-25e0-47a3-bacd-052ef08fa68e',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '8572c5d6-75e4-479c-afde-2345dbabee99',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'gdp_md',
     '118',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ce078360-46c3-4a46-ad6c-f221b068d68f',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'c520c14c-9e00-4d2b-829d-9958845855aa',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9128bbe2-d97e-460d-9bae-b985195a5e71',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '50733cc5-669b-408b-8704-2b7b47cb5a6b',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af3ef192-9e37-456c-b104-100ee4b8aa95',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'c23d556a-17e1-4556-8c7c-3bec3ffdf56c',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '81d87e0b-b0a6-44a4-a8da-59999cfce5e0',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'b2b149a5-65b5-4ea9-8a01-24e3bb6010c9',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'label_x',
     '166.932644',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3c02a12e-6783-42bc-9ad4-88ba8ebc7297',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'fdde866d-7b94-4cea-9fd5-c18b7f84965d',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'label_y',
     '-0.520261',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fa07b17-8e09-475f-b513-7ade5099d27f',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '4e4aac17-0224-420c-a319-b9d23506a1a4',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6315ffe6-afe6-42a0-ac0f-6437b97af5f5',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'fe1ffccc-8381-4a60-a57e-462e7e469036',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '519cd534-2a8e-451c-91ca-cedbb6829529',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '03dca0d3-03a3-482d-a4fe-499a332580f2',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'subregion',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3f6aefa-8c30-42b0-b0e8-193bda2a542f',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '157ef84a-bc28-441a-8c19-7718ca9ad037',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d0acd75-c0e5-4830-967b-45109120474f',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'f76a2e9f-1691-427d-846f-d8455c46d3bd',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'population',
     '2494530',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f0d27b6-a8b8-46f0-b367-7db2e85ab5d1',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '5c3b3564-589f-4779-8297-5fc0400609a4',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'gdp_md',
     '12366',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '80a5020a-2570-4e30-bddc-f2b0107462e7',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'a9fdfeeb-098d-4aff-975b-043d68575423',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '365ad814-dc40-40c4-af98-297c43904ad3',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '5e2324dd-0fb9-48e3-aa39-372d552540de',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c37a63b6-3525-4c47-a4e6-ae3d1d61a799',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '003d3275-7740-41e2-9448-fa2941225274',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae8f4d24-6a3f-4d17-ab6b-01678ca56d51',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '0016798f-2a6c-4f39-a086-b9b25f3496d1',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'label_x',
     '17.108166',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '324a63f6-5d8b-46f4-b55f-46502fb0895c',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '4730f15c-38af-4f67-9093-6e29abc88d9d',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'label_y',
     '-20.575298',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e6ba4200-c932-4567-8abe-536a0ab5fa44',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'a25450ad-66cd-4dde-aec8-b41c75794c61',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e1d15094-0b59-4bd9-b4c9-70880d8415d2',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '09d5e009-3b00-4f1f-bf21-bac5f11d5d71',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cadad9c3-97c4-4dee-a4f4-9b8579711c0b',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '2db0c6c6-c60e-4ca0-8829-0bf0710b4adf',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '288d1125-6747-4109-baed-0146bc7dda2a',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '5daba359-1307-4c37-b399-64c33cb7c0d3',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fb0ee9c8-7870-4b8e-a5c7-52f9c2ecc41d',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'e6b74970-cccb-49fb-9c06-f39abc291154',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'population',
     '30366036',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '499095b7-b0d4-406f-864c-8f7afc5cea3d',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'f52200c5-969d-4905-ac89-3ced4f6da137',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'gdp_md',
     '15291',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bc869436-06fa-4044-bd12-f4fccd7a22b3',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '2adc1679-94fa-40f5-8554-5a0f3feef06f',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f16fecf-9f75-476e-ab44-20f63f814b6d',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '5247bb3a-25ce-40c5-9e43-a44307f51816',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1365ca6f-9659-42ff-a28f-fb5b03d2bd75',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'd0318c55-706c-422d-91ba-bbea7e5a6080',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '315c1df2-ccd5-4ecb-ba3d-38f0294bd30f',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '2aa7f742-2c61-4063-914f-5b58c710bfb4',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'label_x',
     '37.83789',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27521cda-b8eb-4394-894e-17c6de4c6b15',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '5d005f4c-2287-4e73-8dee-f96c316a4867',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'label_y',
     '-13.94323',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40ccd3a6-d781-4408-a7f9-464bfa2c75f9',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'c8730817-6869-491a-acd3-df2c3dbf03da',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e4f7709-95a3-4ef2-86c7-92272849cff8',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '27c9735a-ac20-4938-82f7-2fdaea3fe199',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0bf3798f-d066-4e7c-8334-17ad2438d951',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'c3fcb1fc-0599-4465-90f7-7227d0c3399b',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8924824-a387-4af0-805c-bd1ea1053267',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '83f3ca2a-413d-4743-ab97-eff065295a4f',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3063f9ba-50a1-47dc-b832-9d03a80842e3',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'ae4679f5-4cce-4ff2-8fe1-1e8e5c944cbd',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'population',
     '36471769',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8fc1a13-9bbd-4265-ae67-a3d6972c240b',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'fab9204e-c97e-4c3f-a537-261eac3fe553',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'gdp_md',
     '119700',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9bfb4c76-dd80-431e-8f3f-a80cc0279652',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'd8cf02a7-43a1-460c-9384-365a9e29d9c3',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5cd0d4a-eae7-4be1-ae36-e797c5c51ba8',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '55a20d4d-1e8e-413b-82fd-4b848f1e5733',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84a87120-205e-43a2-bfd4-138de9cd66aa',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '14a9442d-97b2-4d62-854f-3e6e55542130',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61a3f7a3-9ed1-431f-8f3e-85c675211d79',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'b4936ecc-4b56-4c84-8979-6414184d6931',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'label_x',
     '-7.187296',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d9e6559-e6d5-434b-8f9d-e7cff9ff7aa3',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '992c425f-41b7-40ec-944b-063508e3cad7',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'label_y',
     '31.650723',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '825a7044-9150-44af-84e4-cf7af0c7bfba',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '2f4d233a-9050-43a9-a0bb-dc495338a057',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eea9834c-cb67-4ce7-a858-2a3a9b42dc85',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'bc7d5f70-aaa4-4568-910c-08c09906c895',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '684f4d4b-7e3c-4342-8826-deda4fa85e75',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'd3d02f71-9cd9-4e7a-9c65-b4878e88645b',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2f9dafc-0e6f-4ad0-82c7-90dadf6e7532',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '98cb3334-c303-4eec-9c04-e5a0d7ee92e5',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a46af60e-812d-408d-8a1c-23a4949058de',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'd3d74946-9e2a-421b-a098-5e627de4e173',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'population',
     '603253',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f2d5e21-8f1a-4ef3-a31f-2e7419899608',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '77aba3d1-650c-4d51-b0b5-c018d37e0e01',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'gdp_md',
     '907',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a38aa41c-d6f8-4ef0-acbf-1e290b5c49fc',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'b4e6b7dd-a048-4b2b-8abe-5217108a709d',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23fe16e1-8f0c-47ab-a1b0-e4352773c3ee',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '7648c0ab-7ab0-49e6-8cf9-5c68be1cb019',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f023614-8f91-44c2-bc0e-7f4a1e56d8c1',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'd098b7e9-4cdb-4581-8e20-52d960f67ab3',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'type',
     'Indeterminate',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7ebe48ac-615c-4127-a5f8-421a5cbb3f6b',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'df86e673-8911-4224-944b-2fbc381cbb38',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'label_x',
     '-12.630304',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0024962a-97e8-4d5a-a4c5-f374278ea062',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '528d9c83-af84-455c-9446-971d9402d669',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'label_y',
     '23.967592',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6110a452-0136-4801-9e98-dafe36f19e5e',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'a475ae96-a081-406e-979f-3d8be128e212',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e1dff8b2-f969-4c46-a0fb-4ffd6ef246d9',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '5c8e08fd-477e-41c8-aaf3-c443a199171a',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e61553ea-d546-4e69-b71e-d5d50ca5e356',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'b1e758e3-93db-4c6f-80e1-31d08c7daf13',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aee67523-ab7b-4ada-8bfa-edce65382914',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'c9d08520-3d8c-4fbc-a5b2-8d579dd0fc30',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '316424e5-aacf-4447-a59c-c1f58807546e',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '784769ff-3fd8-49c3-859f-4fb2057f6873',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'population',
     '622137',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4886ceab-11f3-441d-a578-4e1db20c6a08',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '4a4b5fc9-7657-4376-9501-beaaa380cfb8',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'gdp_md',
     '5542',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '71121347-470c-4cb3-b04d-95f97baef989',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '9b7fedf5-ea8d-4e58-9523-44c58748d134',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90d1547d-4ba2-4351-99c5-51fb5cc8f9a9',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'fb637f84-9a82-436b-b76f-761067f8b3fc',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1387643b-2c42-4f11-a65b-b271f6216982',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'ef11b2e5-ae41-43ad-b3b1-28c848980e9d',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4f8d5ea2-c346-4051-915a-2bb95f749d33',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'e7bb466d-3d34-410c-b1cb-633fef64ccbd',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'label_x',
     '19.143727',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46c2421f-c6cd-4d22-84b2-1a4f3c2bc75c',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '69dad82a-9b12-4feb-912f-d4c934d075e5',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'label_y',
     '42.803101',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37dd5d90-f5ab-45d1-b6ae-9b7ba57f592e',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '2b15dc7a-ebd3-4ba4-811f-172138e780dc',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7e4e476-9c2d-4a0a-87b4-331a916b22d1',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '93900a08-e68c-453a-9468-554c47a35561',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '543f0079-c0b3-4768-a5c3-4206e3778037',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '5029c220-c2eb-49d0-a53c-b3e4cb3a097d',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f67c679c-ac77-4aab-a8f6-575f5250a32b',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'e6b413a8-e45a-4f25-b7a2-d4be0911dad6',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '526a0a29-7e9a-4b8c-ba3c-cea646c7fc25',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '058ae21a-4dab-4c60-838a-277b2bf6ab2f',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'population',
     '3225167',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15020f7e-bac1-4195-bc14-e72f08fc5cc7',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'd3c6a46b-97f5-474b-9296-c8ad0a6f35ea',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'gdp_md',
     '13996',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c366f53a-8cef-4eb7-a576-8acdeda9d1c4',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'bb7211f3-3022-4955-9801-71532261d7b5',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7c5a287-2a03-4dd4-b25b-af5ddb179a61',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '635ffca9-1a8d-4e7a-8867-58c46e521851',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a80aa957-24af-498c-8d8d-6432fac2028f',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '87cfdfab-a2f5-4a1f-895d-53641892041e',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe0393b9-27f3-4438-8ef4-fbe1c4e0cbbb',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '8cef9f37-5086-4fde-9af2-586c17eaa37f',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'label_x',
     '104.150405',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0a971564-732a-48f2-9047-bdd6c8545012',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '803328b8-9ea9-4040-8195-681fd46a3cea',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'label_y',
     '45.997488',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '592b8e42-72c1-4836-b7da-46000cf6495f',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'a4fde1ee-1add-47df-88a2-36967f6423ae',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '554cc094-205a-4249-ac18-58f00e6c5010',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '67b96fb3-87fd-4b81-9d31-10de60505cf1',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '49b22f20-a8bf-493c-ad56-92186574f88f',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'bc22af1e-06c3-4a1f-8840-d26005560465',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f243048-55e6-4f09-bd39-2bb73f195df8',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '23325ce5-321a-414c-98ed-b7ada2ddfb22',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '462c5e5a-650a-4f21-98df-292b91318a61',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'd5148878-66eb-444b-a770-536d1e726c0e',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'population',
     '2657637',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'deca8320-2444-46c3-ad18-90ede1f8a4ca',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '3d86c293-3662-436d-b900-42dd7dd6e07e',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'gdp_md',
     '11968',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75658faa-a119-440b-9b1b-45d36377fa84',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '2ed3e304-6189-4b75-b74c-5aba1b0c9cb2',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a46492c-5e81-4fb6-afe8-1f2cc1584848',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '711a3b10-9b9a-442b-85af-9dc034dfd4de',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ad872cb5-3ba0-4aa7-bb78-4ae4a543500f',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'c527038f-fd74-47e5-9fe8-0123dc18a62d',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8be0d739-ec38-40a9-9a45-9cbfa774c25c',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'b0e943f2-9467-4cb5-b393-325909cfb9f5',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'label_x',
     '28.487904',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f304e8c2-ee54-47c2-a294-a82a7021d923',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '25356b77-b3da-47c6-96bc-5949a59b7d39',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'label_y',
     '47.434999',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e3f4beb-1bfa-4d29-9b8b-27f1876cab70',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'fe1afe3d-b6fa-442f-ad3f-efdbd905d380',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4c7bb96-edd4-43cf-ab9f-0a1ce386ecd4',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'b6917217-12d3-41fe-9fca-c1ac058a415b',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c795b292-02f2-4748-b299-72a0708dc8a7',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '39b2040c-ad89-48d6-bbec-2e1ec05bacf9',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c350cc55-403d-4e44-add6-a02529243c3f',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '3ccba1ca-aa23-4c2c-ab95-343ee4cf4d9c',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10e6471e-ed78-4905-83da-e89b77140929',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '08bb81b7-2510-47e7-89ba-28a2b118c865',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'population',
     '38964',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f0adae16-e9c2-40a6-8c40-5e924f1b972e',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '199abced-7b20-4733-b10e-a0f2dcafb256',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'gdp_md',
     '7188',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05849bff-3a5a-43b2-8807-09da28f64dc2',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '7c9903a1-95c1-434d-93d3-d0088d95ed1f',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b8da5c1-e89c-4a4a-949c-15a78615c34b',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '26ecd366-a8d2-4975-b6da-5e3f85b330e9',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9422e951-f043-4bb9-91ad-8738eeb13740',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'c56fbdd2-301a-4141-8dd8-188e9289d317',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf9f3719-096a-4a08-8b1b-4e7ca6951b41',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '92839a29-5d62-440e-83bd-68cb4ed9d127',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'label_x',
     '7.398291',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39532fe7-7899-463e-b314-b0a833b4f345',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '4e46937a-a327-4703-ab19-822f1dff4ea3',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'label_y',
     '43.739652',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '699ebc3c-8760-4ce6-b9ff-6a8e7da0ee02',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'b3a9f927-b626-4e4e-9ed4-7a90576f4921',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6fe56b08-41e0-4ea7-8642-af7c2ef37003',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'd942adca-fa0d-4fc6-88cd-a611d7f83338',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8ece1610-0370-4732-bcc3-757c109b83bd',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '2c5c8fd8-98e0-4390-9666-70bbf45b9e4f',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7192f6fc-5d73-486d-84e1-f09c2aa9b084',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '5fd147f1-5600-4d6e-89c4-07f50315bb15',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d179ddd-5d95-44bd-bc4b-f7c750a0e6f1',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'd1d60da8-5314-45e0-bf1e-09d170c2ac6c',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'population',
     '127575529',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '83c5145a-98a9-4b85-b141-674c3e66295c',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '1b8e54cc-5d9d-4485-8104-e1d55e3192c3',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'gdp_md',
     '1268870',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69a94439-0ac6-4959-a697-f642607750d3',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'a870c5a0-698f-4266-be4e-116710998f77',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a63e2bf-ad83-4bd0-878c-844645a8fa3c',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'cad16f2c-b5f0-4a2b-b0ab-cafd2a6e675c',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c6a9821-88f8-4d48-bca1-cc99f8091702',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '4281cccf-b007-4572-9307-ac7ebe0d8bfb',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18f13db3-cdcb-431d-a1f2-224509a9cdd4',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '0ef7e201-cb44-486c-9d54-04af96074d0e',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'label_x',
     '-102.289448',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86a1d139-8e1e-4d8e-9e46-04e128e85e26',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '736c7d78-a491-4d6e-9ac7-395af5fe5a8f',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'label_y',
     '23.919988',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36343772-25c8-42a5-b945-a07a07dcc244',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '66d08248-f90e-4a06-9fc6-de0f420b9d75',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b9a3a391-b3e9-4d40-af00-bd29eb3091fd',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'ebf2ab89-d9ce-4351-b610-2715d69a87b0',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '676f1327-ad64-4a85-a6f1-5d699ed19425',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '88ac9627-217a-401b-8a3b-7b491754b0de',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8be5374-2f04-430f-9cd5-3a19b6149f0a',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '105856eb-f3c8-4cf4-8c2c-f839a45df3f6',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '632209f2-223c-429a-b686-7ced7132d3a1',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '983335c9-933d-45fb-b1d6-52a9477511bf',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'population',
     '1265711',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf0a6f00-a9e3-4256-83b0-25d52e5d9e47',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '1a9e6aa9-d152-4124-9a09-a388f3028c4e',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'gdp_md',
     '14048',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '524cebeb-889e-4c34-a21e-8535168ebd11',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'cdbf8371-1cbc-47f2-90e8-f35303b7e840',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf9c4ddb-bac2-41a7-a5bd-8b24e1fc71cf',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '62bea522-5f55-43eb-8946-c2b87247693c',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f8fef562-3384-4639-915a-cad1eac2a161',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'aa735388-4f77-471c-88fd-68af018ffbb0',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b03196e-62f8-42ab-ab8d-0b99e4ebaa89',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '5866e781-d67f-4696-bfee-44848fa6ea46',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'label_x',
     '57.565848',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b770b337-0cda-4530-879f-e75bd73170a6',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '532114ff-3f24-4617-9087-ce9efbf00b1b',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'label_y',
     '-20.299506',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bfff94b9-5940-4566-88e2-d153067bf211',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'cd41b7a0-7697-490b-93f0-c0a42338c2fe',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bfba4cfa-bff1-48b7-9a40-27b20cd68940',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '565f0354-0008-4dd0-975a-68beb62e3bc1',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e05c2803-1084-4f78-9ebe-383a7e1622fe',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '19f627ac-c6c3-492d-b8f5-2456395c52b1',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '48e12349-82ac-4fb5-b06d-a99c7c0d78b0',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'c390a107-0018-4b12-b65a-ba8e899e4c75',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b22b5a8-7527-4860-844c-f2133dbe0be6',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'd69f65b8-987b-4902-9a54-9d5ac2d7021b',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'population',
     '4525696',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bed368ad-066a-4890-a262-e4590d7fc3c8',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '571b771d-fc9d-4390-baf6-bc5d5a4d9b3d',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'gdp_md',
     '7600',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f29b86a0-50f7-445e-a08a-75e1c04da583',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '47e2b0d2-e3bd-43be-9526-3b2e4f3f8726',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8be57bb4-de3b-4a43-bc01-d2586541bba5',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'ba6ca6d4-8e05-4978-930d-49bf92dadf1e',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b5b012e-6c80-4ab9-87dd-0cdff020e29f',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'dba19e7c-36b0-4aff-bde7-0073101da6c9',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c39afd5-2121-4263-bcf0-ec234222b77b',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '73ae8c94-376e-478b-8109-4c0926a410f6',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'label_x',
     '-9.740299',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a6d17f6-e164-4508-95b0-379bef312235',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'c323c5b3-436f-49f0-9419-75e20e4fabaa',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'label_y',
     '19.587062',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2cf7fedd-8bfc-472e-9cb8-24dd2bc1d858',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '9e9b7759-6292-4046-9e49-4c4b76c8d736',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab24eb95-0788-41b7-aa0a-4c0d02634922',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'e7a85503-589b-4c90-8bad-fd3d847f1d51',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8ef402e-e3df-4857-a02b-409adf54da54',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '4ec34fc6-a1c5-4a90-a68f-a9c4459eb138',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d5ebe16-566f-4417-a9e0-a8b539d38c6b',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '897ad581-2cc8-4aee-8183-a429ca41f2e3',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8ca9f611-cc4c-44d6-8e10-e21f7f5927d0',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '80742628-8e26-4133-a765-96d4587393bf',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'population',
     '502653',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12503cf5-4d3c-4564-b2b4-29eb9bb43462',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'da01be23-83c8-44c7-8f68-3b382b27fc40',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'gdp_md',
     '14989',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '341b3b75-e39c-47fd-a5a8-10bbed2b9489',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '14fb4a53-2a5a-42c9-a361-991e5ace4733',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d35b83e-305b-4caa-b919-f552c8f26d98',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '86092a7a-0171-41ed-94d6-4b29da121a80',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1929dbe7-bcc7-4559-a64a-cc63ee11e84a',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '92ee5927-4795-413b-8801-76fddf1ece5d',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a5d9bc0-9c7f-42d7-9110-e584178eb22a',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '8c2be27b-ff4a-4089-9fd2-eff3a3ccbfa2',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'label_x',
     '14.433005',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1639dd9f-056b-422b-9078-f27984514d8a',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '4b157043-1e02-420c-aa48-7a6075e117e4',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'label_y',
     '35.892886',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36d6d029-fe7c-43d2-ba0d-c0c6b5af178d',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '15db1e84-f054-414a-9876-8e8a38f0e286',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8edf41ee-540d-46ad-9302-51eaeaff2fb1',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '1a029dc6-1cd6-4a47-bed6-5aabda696482',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5e99122-c89b-4851-9f24-06adb7fef835',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '4b2f6690-89ac-426a-b031-821bcee711cd',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '855c77fd-ecaf-40b6-967e-962ffbb15eea',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '83d290b0-fd58-4387-9ee1-fc6261c6dd70',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b7ded9e5-3a70-4a0e-a96a-87a50de56ef0',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'f550a99a-ea1f-421c-ad29-b5421eba4644',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'population',
     '19658031',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e8fc65c2-45b8-4a97-b45e-41135555cc99',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '67f75078-42d2-423a-95c3-10e22e880861',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'gdp_md',
     '17279',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '860f1866-fdb0-43b3-aa92-5f9dded45a78',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '0b86d065-376f-42e7-bd17-a47c63b38bfa',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5936e4ae-be9a-448f-8937-60ac70e656a9',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '3d97ba8f-969a-40e4-9a15-82f091b57ec1',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2efefd4e-72b7-4800-8603-543da7fa8fa5',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '7bc8237c-307b-4cf6-b09a-ee81ea9baa5b',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1964075d-c0c6-4bdf-925e-9cdbc28c8a29',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'c9d85cf4-aac0-48d6-aa87-3bd04bc402fc',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'label_x',
     '-2.038455',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '50551353-baf4-468f-98bb-018be72741cb',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'ebaf4080-80d1-4f5d-a414-84def9f5881f',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'label_y',
     '18.692713',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a856911a-4d33-4083-9d68-77509ea9724b',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'd22e6f08-8518-4777-8a96-38e7a57560c0',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7180df52-290b-423b-a863-5a64f18342fd',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '368a277c-8bd1-4cdc-9f67-24967b8334d0',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4f869c6f-2794-4fab-8832-83053b1337ae',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '89b7a96d-c1a4-405a-8b12-b884ed55c386',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fcc00f94-a67d-47fd-8aa9-a3c7fc4076c2',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '9685ade6-d705-4939-a0ed-ef559d21411e',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '046e47a2-75ab-4873-baef-30e10b353f93',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'd642d4e3-fa55-4035-afac-4bac5ab24143',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'population',
     '530953',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '318fed58-2845-4fd0-b4a5-f2fb8e01c5bd',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'df23d1c6-01e9-4bd5-9592-f52893b20c7c',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'gdp_md',
     '5642',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee4b037b-6c95-401c-b7af-d98ea42e9156',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'a63ff191-8f9f-4197-b630-cb828b218ccd',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8914faee-8ed8-4800-aad3-857d49f97b2c',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'a77a3ff1-ad41-4cfb-aad2-03cd4ccaf168',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18eb84be-3851-40ae-9902-68b83b00380f',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'b31d3bb2-4763-4dff-a53d-1cc3894da252',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7242acc1-da9f-44c9-9a02-17db6c1a772d',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '224fee53-9f17-4b7f-9b19-3053ecee721d',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'label_x',
     '73.507554',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f74ffcf8-05b9-496c-b568-cacc81cadc22',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '754f760f-f42b-43ad-be7f-46b838aa673c',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'label_y',
     '4.174441',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35710327-5dd9-4498-845a-495ca2530efb',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'cfd64c70-3eae-4293-97fd-510d5b79122e',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b63f3486-2eb7-4476-b237-3a5e1da2a350',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'e99ac86a-d7c9-4273-8269-fa9b9054ebbc',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2dc22824-8608-454d-bc20-42f554fe20cd',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '954d47de-6f8f-4160-aab0-af23a6081eb3',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25fa7ce6-e97d-4574-afda-b5a7774eec94',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '4802e26e-d84b-4280-ab29-87f663c6c7b6',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '42e9bfb7-d4fb-40e3-a4fc-1ea00f969902',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '2e6bb935-a393-4bc3-be2e-6e864c3eac95',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'population',
     '31949777',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5237f2ef-cd02-448f-ac48-bd1d349169a4',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '22d2a32b-f56f-4187-b64e-37ccb74553d1',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'gdp_md',
     '364681',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d3d2916-4054-4142-b2da-4fa07d58c7ed',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '657b1b26-12d5-4f37-9e3c-d0be62d46b40',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ada50084-e7eb-45b8-bd82-063a2724b2cc',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '1ff4f1c2-b6d9-4bdb-b883-660ff1c87e7d',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb82455a-07ad-4591-9844-f0ee0599619c',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'e9a74b12-4faf-4cb0-be8c-3a37c99960d7',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a492da70-da37-4525-8937-769434ba8d72',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '15c806b5-accd-4de8-af6b-3ab5175043e0',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'label_x',
     '113.83708',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1443c58e-ce9e-461c-9e58-52afc3bcd2a3',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '71b89b9e-3af6-47f5-96cc-ae3b27dd8abd',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'label_y',
     '2.528667',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b67c9dbc-881c-4c9c-a548-a19155ffcdd0',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '98b0daae-fe1b-4206-bf96-8b09d9863c80',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a649be0-bd6d-4fe6-938f-4babb63a9ec2',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '4145e1cd-f7f0-4859-a8aa-488a2a98f3ee',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4cc1775c-16ce-4685-8999-7c737e48e18e',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '991dc3a8-b3a7-4ef8-801b-814f16209751',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da44eb80-9dcd-453a-9573-e5931f388598',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '8f59d901-93a2-4842-b93e-72dce43c0800',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfe06fca-4ba0-49ba-bb02-492aa37440a0',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'e832ea92-0d74-4dbd-bcce-c31f8c9032a3',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'population',
     '18628747',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b355217-c117-4929-829f-c92008d5f6c4',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'de9380c4-6671-4ead-a821-c5d948952f7f',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'gdp_md',
     '7666',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84365ff7-50e2-48d4-aa22-be45d2420e40',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'db06d851-4534-493a-b92f-08eedd214a0e',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a7c58e1-0235-4d8d-b58f-b1266d772ea2',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '543b065d-9dfc-4db7-b48f-66fdb10ff3e0',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b43fdad0-16e1-464b-9701-9f9f002a4c49',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '2e8865cd-d52c-4a96-9e9d-c06ffac8ec3c',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e2b59d1-95f4-444e-8726-f3abbb6e8e10',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '82c7a4e4-7bbd-4127-894e-01f603bb88f8',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'label_x',
     '33.608082',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f4c8319-779b-4113-b301-30bd5d0baec0',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '10d29365-2217-4b6f-8575-b2000c81dfce',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'label_y',
     '-13.386737',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a93f57c9-e8a8-4473-8519-553d5b00fe8f',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '31907028-fc31-4341-b5b8-ece076f938c5',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd1989c63-b5a4-43a1-904c-bc4bbcda4578',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'c80e1c66-327e-485f-9e6c-dd74cff7d445',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be600519-dea1-4c44-afc5-0af1f22f6b93',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '78e1a6c3-f9a3-4d52-be99-29c1960f2e52',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af135345-4a5c-4cb7-b6df-f1a84d34a38b',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '0c428e0a-b5dc-48f2-a3fe-c56817b6fc0c',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7c5da74-7ac1-4282-a54d-10eee2677294',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '3a710098-7446-499d-9c83-f03d3c89e4d9',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'population',
     '26969307',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86f66fef-5890-44fd-90c5-afe1ecd29a96',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'd2ebfb9d-b1c3-4306-88d3-ca01aee50389',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'gdp_md',
     '14114',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd71aefc8-9324-45c5-ac5f-dd643fba64da',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'dfd75304-0e15-43b4-b331-fc4a1920b339',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e3e90b1-2fb8-4c19-87c0-5f8377836ef5',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '4850831c-b403-4390-b192-471ffc661505',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a2a9af13-560a-4a43-994a-c70de57c8ba7',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'e9276344-6db2-4ddc-8be4-7e8f838d5973',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ed5257ca-9648-4920-a5a7-ba1a3006905c',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'e28ccda9-ac7d-4409-a6a4-99fb3941060c',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'label_x',
     '46.704241',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '26192dc7-2e81-47fd-92f0-5df0a582d9dd',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'b84e6339-16a9-4d8b-801c-7c51db75218a',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'label_y',
     '-18.628288',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9cafab33-7df7-4707-8529-1cf39a15ebbe',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '40f7e6e4-7792-49fc-959e-ea247e2da464',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6aa2fffd-fcf7-44c2-9450-7f3c7b8c90d6',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'bd9031de-50e1-4795-9253-bb0d125cc332',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b244fff0-ec98-45ab-8eeb-b762f1cac47f',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '23d08afa-b982-4770-93f1-3100982494c3',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63659d25-b083-4ef0-b87b-e88351645317',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'f2a65d1b-e938-49df-9aa9-d2b1950e9a7c',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '76c9955f-1814-47c4-a1c2-515b152379ad',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'af6d0b63-a0b6-4e72-91a7-722048c09ab6',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'population',
     '2083459',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '994de54c-6a23-47bc-afb6-f95cd3f7b5e3',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '8fe37e41-ac3b-4d88-9389-fd5d26540ab6',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'gdp_md',
     '12547',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5baf57f8-250d-470f-be5a-e520197a68e4',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'cde0dbfb-93c1-4e28-a26a-ef4dc0362704',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cc2f82f7-6f4d-4598-aeac-2818831df476',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '6a3d3109-b19a-48e0-a8cc-da4722165c99',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e02a3c48-005a-420c-94d7-407950afeed2',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'ddc041f3-f1ae-428b-ac41-5da5dd910d7b',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '498838ff-deaf-4287-9eef-db9658f44814',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '38d71546-c3bc-4f2d-9fe4-de0fd5e3220d',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'label_x',
     '21.555839',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f13138b-c85d-492c-af6c-5edaef1bf7fb',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'be3dc2f4-7f73-4993-841a-6586629e9b96',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'label_y',
     '41.558223',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1f8072be-0d02-4b21-9f5f-09971e324479',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'a24d783c-4d85-45a9-8f86-9fa522447b0e',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fe7060c-75f0-4e17-8a08-f9375fd86e9b',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '2330481a-8161-4166-acbf-c06740009509',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e35bf6b5-4330-483c-9790-bafe55e72b00',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '384e2417-ef14-4f57-991f-4539c58e790a',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea94cdea-60dc-4d5e-9308-f64c1baa9b98',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'a3803723-cf11-42d3-8711-5bf67356481a',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'df0bfb68-f972-4862-8652-e32db7bef0e2',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '29fb818c-df72-4b15-b5d3-1b3e3fa3eb41',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'population',
     '619896',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18dad905-3afc-47d5-998f-8ca1286260b3',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'fdec9d56-0071-464d-b3b0-3df90da5c894',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'gdp_md',
     '71104',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a05f233-4e6a-418c-9b0e-96f9230d3633',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '67df368d-1b75-486e-aa64-7ef51204e5eb',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1bd94345-957d-4d14-b9bb-3ebf9b3cc2ee',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '09595ab7-e5b3-4acc-a644-da7d0313575d',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b1591ce-fd29-4623-9623-ce367149e29d',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'ca498bfb-2087-487a-9524-cd79c0324a93',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e744f3b-7df0-4fc3-a241-c1682d21e96f',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'f54c9c8d-954b-4be8-a9b6-a8ebdce9b003',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'label_x',
     '6.07762',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '968f3703-f9dd-46a4-9ae2-3a0e38e2dddb',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'c53bdcbd-63b3-4a7a-b5cc-28dd87efc9da',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'label_y',
     '49.733732',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a98fd9b-4392-44e7-b03e-240e50690faf',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'b2b3402f-9aa2-4839-a89b-bc08801b72bc',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dbded20b-e6f0-4535-80ce-dc1c34f0cbe9',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'dcb97884-3d2b-4653-9da2-bc920283bf59',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a44a6ca-3694-4c9d-9728-118fccf5c7d7',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'e8a655b1-8eb9-41f1-a2f2-5c0c90672606',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '277e9401-a2c2-4217-a3a3-ab989e3ca808',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'aa13f974-dfd8-4404-858d-55351dbd609c',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b471d96-37cf-49fa-a446-2413e46b72d0',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'b667b2e3-f3f3-4e81-b943-626e7acdb160',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'population',
     '2786844',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8418c0af-12e3-4065-b6c9-634fc4309393',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '44938ef4-30a8-4502-9d84-32cc8f573742',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'gdp_md',
     '54627',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eaf97b99-3f10-4a8c-8ea3-01d404a08788',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '122d808f-81ba-4fe6-9851-a75b7b127f1a',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7de02201-721b-453b-a86b-0eeb647aecf9',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '69f2b9cd-dfb3-4a3c-8a0c-dc03e7e7a946',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00543148-fb1d-483b-b640-81d1e51249c3',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '600d1ea4-8946-4321-9359-20b01a9f09d1',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b11b6aba-893b-4516-938f-ff613e23d28d',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'eab9a18e-4955-4c17-b844-e39adb723239',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'label_x',
     '24.089932',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7d5c525b-0072-4cf3-8f30-8b5072ce1d42',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '202a12eb-efbd-444f-a1f3-a30883e40927',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'label_y',
     '55.103703',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27d40956-ae76-49dd-ac85-29e844c36091',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'efe71b2c-a125-4da7-a54d-77c480cf0a33',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '08e675b6-dfbb-4c18-bd73-f627e77e7277',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '8ebf1729-ba81-4d3e-9d84-f1d1fc5cff8f',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69dfbf87-c974-4bbd-bf3f-0b8d58cb252c',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '2f60fadd-c24c-42b5-958f-918085000c03',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '08906b66-0197-4a33-b477-8fae980de89b',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'a475e536-0e2a-4a37-ba8c-a8d87590c069',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68ff2728-08fa-4b13-b267-47821c0c8790',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '4f15de88-8487-4648-82e4-409fc43a244c',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'population',
     '38019',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5c20df8-a080-44cb-ba91-80821dfde034',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '1f9b01f6-2483-45ae-bab7-c0aefb71f218',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'gdp_md',
     '6876',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ec5bf918-21f7-4d6a-a644-8f839cba83ad',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '00065751-e8ca-447e-9657-5e747b55b174',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0239c06f-e064-4a1a-ba60-d503eef44161',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '3d79178d-283d-4b34-b49b-7a0a95943992',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e69b96c4-d0ec-4632-b58d-8d49033b2c54',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '9831cda9-dddd-4d13-b494-de59387720e3',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '847b419d-d452-46a9-8819-253dfc82a6bd',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'ebd3d8e0-aa08-41f8-b13a-f0439e956e77',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'label_x',
     '9.559439',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f00a084-7d53-4fef-a332-87a7e7eabfce',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'f88a2c4c-36ed-4418-9a6e-b21cd4480f76',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'label_y',
     '47.111405',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f2742ba-75e9-4a74-a309-c3047eb53a11',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '5cf9f2b9-f805-4286-8cc7-f4fd350941af',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddc258b4-b048-4928-be9e-0cb1c89be2b9',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '2e8c6bf1-329e-4b55-a674-4862b120fbce',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ded92487-1d31-4ed5-a79d-49c9064a07c2',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'ae4f5028-ca14-4877-8e8f-ea4646f1c06f',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e85a4f9-9522-426c-88d0-16053ff03653',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '2a7d24f7-b2a4-4fb4-80c5-97386968f56b',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '83f610b2-ae47-4771-b86e-bd153a5251a2',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'a583172e-57d2-49e0-91f8-28e6a80a4655',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'population',
     '6777452',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '41ba1d84-1f1f-45e2-8733-b8d63e217296',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '8cf5b9c6-92d0-40ec-a95d-1452a2dc079d',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'gdp_md',
     '52091',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '26a7007c-0f56-4e34-9400-3f736bf3c93d',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '266b3e8c-048a-49e0-a03e-331e22397cd6',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f8eda306-1595-4a59-a82a-892c4bc9d07f',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '08ef3b33-0f9e-42e2-bbc2-ece8b7d3b56c',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25689190-c723-4970-90db-8f513801e7ee',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'dbf5c4f1-65f6-4c71-a170-9bb7f3395b0f',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05d8c900-85bf-4eab-9caf-78abc97a5a32',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '8b8f5247-3481-4e01-a82f-a5924a9cfceb',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'label_x',
     '18.011015',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab1411fa-7e5c-4e87-aea2-b2b1d140406a',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '560c4659-09a9-4f94-aef7-c57f6fe81891',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'label_y',
     '26.638944',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '519ef5f6-cc60-4fc6-b2f0-bb20477a3e3c',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '5ad29fb9-31c6-4778-8063-042a618337cf',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72d3386c-f5f0-4cbf-a1d4-fbf8270bb7e0',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '0a8aa6ef-723a-4240-b2fa-06f795836349',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9d6f46b-b68e-4580-a6d8-0f5b36a417cb',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '2ab05288-51ca-4c26-b570-611c73489743',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b07ac67b-6e2a-4f6b-941b-8ad6e98ba234',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '08b9fb3d-a46c-49a2-981f-235dd2f65719',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f44f1d98-6788-4bc3-8752-276db91ad0ba',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '037c8b99-d754-45ae-accb-16bdc8fc2b75',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'population',
     '4937374',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b51bd0e-340c-4c48-b2f5-60a2162f9afb',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'b981e75c-aeb7-4c38-a44c-d84b97623e97',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'gdp_md',
     '3070',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '313c26ba-c807-45f6-82fb-3f45cc9fe028',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '98c811b6-4702-436d-b0af-11e37a2ab622',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fd691529-cecf-4c39-b9cc-ec3cf65303cc',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '10f3779e-ecaa-4d95-8d7e-0fae96d6dc8e',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e27bffe2-fb72-4d9f-9f90-3c153892f304',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'fb4c2838-80ac-4ab3-ac05-a08f0a3b88ad',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e0ba7d36-38eb-46f1-a531-a1607d012284',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '3b3cbeb2-2279-4a23-8794-7292f61ba5b6',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'label_x',
     '-9.460379',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '10c9e337-cd80-41e2-9284-5c4a7aea605a',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'e245f34a-b896-49ea-b489-5b28d8780e37',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'label_y',
     '6.447177',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47708d7b-2d3b-4358-81c9-865666fa7020',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '6dbd0581-3a16-43e9-87ed-5d962d6dbc88',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddd5df6f-63f1-419c-bca6-2f5d88bed08c',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'ef93c744-235a-4929-ad99-9bd1eb9817e0',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e5cf19e-51f5-4cea-8ca3-64c91fc0c1f0',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '2ee6145c-7abf-4f90-9267-a8c5e007e2a5',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'subregion',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f352391-79d3-4346-a908-7ba4b4da4621',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '375978e1-0f2e-4e05-91e2-ca8bd43644b3',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a655589-d6ba-4e07-a334-4ac6fba750f6',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '7bb62de7-a5bf-4715-9ffa-cec6d9774f16',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'population',
     '2125268',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79366870-e14b-4e8b-9e50-2ff0b23d1e5e',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'f2e8fbda-0f42-4c64-8ac4-db2fc47ac8ac',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'gdp_md',
     '2376',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd95fbf1d-ec7d-4695-9191-b1747d9e263a',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '0e9fc074-61ac-46fa-9126-d50e0b29c6d4',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f275167-e16b-4662-ad95-16f0acdd1f27',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '6c1c8582-bf35-4149-b9a3-e40f9342d878',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddbd061b-efc1-46fb-8182-9165f58d616d',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '73e20fe0-2974-40fc-b8fd-55fb512d51c5',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fc3d90bc-e2ac-46e5-b133-ab168fbe4eb3',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '700e8c04-6095-4097-87ab-02b9572c5d4c',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'label_x',
     '28.246639',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06d6f54d-abb5-4620-b14e-9958437c3b63',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'a8a32fc4-0674-4cfe-8ea9-7ff0df6b61fc',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'label_y',
     '-29.480158',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ec82b670-c5e2-49d9-9221-aa9c92e6c310',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '0e60a318-9590-43fb-a4f7-4a276d33278a',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36a662ef-aded-4d8f-a4a8-edf1e7ad490b',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '5db0c172-94b7-4be3-bdb6-ff9cb9f4e084',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a56c166a-2b4c-4cfa-af92-0ccb7deb7545',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '4394fbe6-3a25-440e-9c75-7b0fdd07a2ab',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4381131f-5057-4918-823d-19a4f0d0819e',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '7a3bc702-df86-46cd-966d-69967e02a92a',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cad28b42-a7b2-4fc9-b852-511b1769ca91',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '1050c74b-2fa1-4b13-a6d6-de084c686fe5',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'population',
     '6855713',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd9ac5f3-915e-4a62-9b9b-84753ea2c7cf',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '33beb9e0-043a-4f97-b72c-b861a6f43628',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'gdp_md',
     '51991',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b0880448-e165-4889-8f5b-fea804bdb82a',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '9947b815-bc4e-440d-8350-7a3dd48a42f3',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0ea8d318-fafe-4e8c-9d38-f675027e3c64',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'acd318ec-220d-4cef-b248-00f657d748f9',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'babee8b8-73ad-40d5-a534-6c914edd3e32',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'f78dbcc1-7e43-4ffb-b863-cd4987d76ab3',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a5995460-ebd8-4cfc-a0e1-cab182e564aa',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '0371535d-7f78-441c-b294-b690707e785a',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'label_x',
     '35.992892',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28658a54-314e-490d-ab9f-3a6eb217748a',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'e0b096f2-cd37-454a-83d4-56121d32194d',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'label_y',
     '34.133368',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35663be2-89fd-499f-b026-b36e4521df23',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '535d8302-70ad-4cde-9c1a-ad99dbc756cd',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74746ae4-6cc2-4378-aef2-3f7388c03fa3',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '6f31c8fb-c658-457d-93db-a1aa3fd9db3d',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5de62a76-dbb0-471d-958a-80f852226950',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '4dea49b6-8fe2-4a1c-850d-d63e923aef39',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '918bfd10-972d-4383-b79e-c191d394fe74',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '5b34c9a4-d17d-45a0-90da-9c4351820e0d',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd967cb89-183e-44e2-9763-c69e4759f119',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '66d1f87a-dd2e-47f9-8268-abfce509918d',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'population',
     '1912789',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f202a8ad-65ec-46b9-a951-5cd80ad21be1',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '58fa3f6e-0c24-47e8-93a2-01ea6df6e406',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'gdp_md',
     '34102',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85b79f16-767a-43ea-857f-7c28c46e2b4b',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    'd0401987-d50f-479c-be3a-585ddd080083',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5931d00f-bbd7-4b14-b49c-34d9b1ac0fe1',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '77cfaf4e-5e81-4e8e-884f-bbe4b7852126',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab370c21-26c4-4b95-aa2e-596a37619f45',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '292e060e-b269-416c-8e54-e6ef09c631f7',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '442df56f-1eee-4a3d-b4ee-a740ceb73304',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '45d9bc8f-1238-4ddb-a219-6d0f3646c01e',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'label_x',
     '25.458723',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de4ed8e6-9c8d-4407-9fc4-dbde3371d69d',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '86e200ee-4888-41b6-9308-bd6fd336e8e1',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'label_y',
     '57.066872',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e07c1ccd-661e-4c6c-b002-5f8d67fa5c09',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'a7f69cfa-266f-4a7e-8d30-b63e6edd4680',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e167a67d-caa0-4d00-9469-cc0d88456d71',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '7c7d806f-d977-4c85-b426-5d50255e53b6',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '14ab5329-940e-4c08-b72d-f84777aa6d61',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '00de7fc2-cbba-4392-a43d-fd258d2ab87f',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37fdee66-870e-418b-bd0a-2022b6bd6ffa',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'fa06fdbf-e73a-495c-a4e2-f64a5711e110',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee42f368-5b10-4150-8654-566199e832fd',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '6ba9190b-8962-41be-ac41-e72c0d8d97f7',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'population',
     '7169455',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84f4726f-4cce-4ba6-ad11-4a936c58ce23',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'ba664878-d3b2-417e-a152-4c14223f4cfa',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'gdp_md',
     '18173',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '81e1dce2-e1fa-411a-938f-5049430613ac',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'b3d6f300-e97a-48aa-a466-0735b00c0c9d',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edb3ae24-1e17-4ddb-b746-07cd63661401',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'ce939c0f-693f-4085-8a19-b12e8caadbae',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e42b65c7-ce73-4e89-bfcc-4dcf08ce8f6c',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '13a83c0c-7cce-4277-b0f4-c7b133c025e8',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72db5a00-4f70-467e-8cbc-334dc177b192',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '14608ab6-f8e9-45c6-b71e-bd3695e83c46',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'label_x',
     '102.533912',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18d8c9dc-f2ab-4975-8a9e-6a9a9b15955c',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '10620603-ace9-4ea7-bbe1-61a1e7e4f91b',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'label_y',
     '19.431821',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ad47bd5b-adbb-4131-b3dd-76c63f0d88d5',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '592b5560-6148-4f76-a7c3-718d0219fddb',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cfe3a296-f2ec-416c-8004-6a0c5075317a',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '78091170-3d1c-48a9-a83c-250cd478111c',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8d9e8f17-0ada-4fcb-8e4b-9f65df640c1a',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '504c5254-3f74-448a-bf8f-4691d4d35ae4',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'subregion',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ba500932-af00-4ee1-b22f-c5d7d81bb623',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '258446ab-d4dd-40e8-91d0-c80cfdd6539d',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ce79153-9a32-4af0-8b59-c816ac7b42e7',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '043a6588-1ec7-47b7-99f4-8ecd6db67d62',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'population',
     '6456900',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01d815da-16c5-42cb-85e9-2b9dc76bb925',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '6b7bdb70-cec2-47da-81d4-c860588fbb13',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'gdp_md',
     '8454',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5dfb71d-b072-405e-8ac0-290a536a5fd5',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '82ad5818-e21a-4e9f-a4dc-c0032a3d201e',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d557932-fb32-4945-ab38-0c8b182007fc',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '99f41a8c-cc4c-47d4-8153-cded2d7ce71f',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '332e67f2-2158-4388-8c48-b3f0d6f82f40',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '4ad9eeda-85f7-479b-8124-5b25cb1c2194',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8e045f5-6f6d-4a12-8958-0a719eaf47f8',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '874cf37a-327b-4e40-b092-9749f4b11ad6',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'label_x',
     '74.532637',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8dfa6fc6-88e4-42dd-a8b7-4aee0af9b6bf',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'e872ffca-7b89-4024-be09-f674302597fd',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'label_y',
     '41.66854',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '512c5b42-5dcc-44a6-8ab6-c755c467fdaa',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'cd3a73f0-25a7-43f9-b3d2-1dc103372519',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63a79e60-786b-4b93-a719-61b79c77e023',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'a95e2afb-658c-459a-8376-3264cfd32f63',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '210fcf40-fd37-4af4-8b00-6ea087e576a9',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '60d7bc6b-0808-444b-9697-6018078f427b',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '642fb0e2-5f88-4543-94fb-f34fb456b8e5',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '5895f6f3-b26c-4012-a9a5-194199c47303',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ed522324-0213-4348-966d-424699b8ddb5',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'b78d21d1-de8c-403f-b478-3bc28a8051d0',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'population',
     '4207083',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0694b1ce-6c83-4d83-ac4a-80061715dcab',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '81ee2c1b-2649-4e7e-956c-ed487c7c5090',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'gdp_md',
     '134628',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f79d1766-de52-48fd-ae27-1cad0bd3e952',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '19c419d9-d818-45d3-93d0-f2606b83d552',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e1ba9b0-6cbb-4288-b003-bf160bf30865',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '89b317ca-aa27-45a9-a27a-06952da68f17',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bda6bd44-2bae-4a94-b74a-702922d7abb7',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '2505954a-777c-4c50-b475-5d06a11c7898',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87a6cdda-347c-4088-be46-e577803738db',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'c7f99cd7-85bf-43b4-a870-fc5c49284850',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'label_x',
     '47.313999',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'afd87e2f-69a4-4102-ae0a-cbd1d1ba0df8',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '84d10d6f-cd5b-4344-9102-9469a19f194a',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'label_y',
     '29.413628',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c00e2327-a954-4ac3-b6c2-e1761d4ee32a',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '4c08e245-0a88-489b-9c61-b0b60407574f',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f9366239-4fab-4589-bdf2-1737153658a9',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '6ca76b59-7af3-4bec-a787-dd13e8159b13',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88cd0289-d00c-492e-b548-1e0af76d7967',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    'dc377e17-0928-41d1-a302-97a119274076',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3d25724-dceb-41fe-a101-5bced0caf763',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '6107ba62-9f48-434b-b065-298083dd811d',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6366c2ab-1d57-447e-a8ac-74c5785decb1',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '57fd60aa-b519-41e5-a39e-2aac36c6583f',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'population',
     '1794248',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c215ee4-6ebf-4397-a4a5-dde21c8ba7b7',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '862042a5-88b2-4ec4-ac9d-7977b9d2a7d7',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'gdp_md',
     '7926',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35e5fcc2-d226-432d-b60b-8e16449a067a',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '24e1bde8-619d-46b4-97c1-b66bef4b0e73',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c88d0b5-51e5-4b7b-85ff-d452a4daab89',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '34ed8eb3-b1ca-4860-baf8-50b7e91188cf',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca05a844-0870-43eb-a02e-a7c381b4ca52',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '8b7e9136-070f-4103-886e-3c7bea95e719',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'type',
     'Disputed',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8f972ff9-1a87-4c22-aa67-269438761229',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '4b71d22a-86e6-48f0-97e0-f01b4c8f45f7',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'label_x',
     '20.860719',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c113e26-392a-4608-8a9b-5cc8d7479862',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '4e185a48-a7d8-4c58-9555-a8fdad221474',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'label_y',
     '42.593587',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04d3be2a-162a-4924-841b-d45ed422fa30',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'fa817b4a-5f11-418f-8081-041fd9575d0b',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4fb98c5-6aee-4f2b-a5d2-db7cbe8ceb4a',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '86ad57e8-5dbb-4911-ae65-3c1f69b9b67a',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '744529c4-72d4-4006-b222-eca4c410ab8d',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '007411eb-5f17-4462-9822-356bfc392c1a',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'subregion',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'df3e2f84-fd38-43b9-bc70-a1cc362ff696',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'edcde053-da38-48e9-8b9e-64d381c3394d',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e7866ed-53ea-46c9-99cb-8dd0d26005ac',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '03c07162-e7b9-42ec-82d8-c7c2cc033efe',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'population',
     '117606',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4358921-f001-42b1-8034-fe031823395c',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'f07bea23-c459-4411-98ef-fe2a8417758d',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'gdp_md',
     '194',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '25465061-9f2a-40d8-aead-466300a3fe24',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'f4b08fc9-91b4-4038-aea9-c082ebd665ff',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e249825-55b1-4236-b464-0b7647a54851',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '2b44336d-0d94-46e3-af95-9eab050aa256',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2199ae2-4dbc-4b27-b4d9-0b8b0d44712a',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '9480b5fd-bcd4-4099-b1aa-de012bb441cf',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5acae85f-8256-4ef7-813a-71706b44997c',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '0a2032bc-cba0-4f71-87e8-9d072b37c658',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'label_x',
     '-157.384577',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd068ce9e-62d3-4f18-9712-37c8ddaf2d92',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'c14bb3da-31be-4a5e-91be-240ade68a009',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'label_y',
     '1.820437',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '16d91393-206d-4816-894e-7d387e516e89',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'c44ac566-0128-42d2-baaa-ab8a3d9b4e6e',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ac51b94-4491-483f-9d25-6220f70209a4',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '71e86e08-8fd5-4069-9e52-5f83d4090e60',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '514f7d77-05d0-4f4c-b130-220e7263c3a5',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '3df114f8-34db-4816-adb6-145411d49cb3',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87f96df7-3472-4932-8a99-1feea830eeea',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'b44efbfc-97a4-4068-8bf1-b0384bf66cba',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d488369-1646-4d87-9966-1f5829864e49',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '134a7c09-8f42-4d51-bbe0-832203953488',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'population',
     '52573973',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9380c253-cc31-4887-9c9a-6f8a3c9e2cc1',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'aea1b1ef-30c8-48e6-9ada-ab6a134fe234',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'gdp_md',
     '95503',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2c2a49ee-5272-4216-b974-61e12627ca5a',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '81699916-7794-4a74-baf2-d39331bb6d80',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd52f4cd6-5f60-4084-9836-a5af60cbd093',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'f708c893-0ced-43e5-a073-42bf185967a0',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40035f0b-a3cf-4133-b1f0-c41b06db9b81',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'ecdb6a27-f1c1-476d-a9f7-34c72c42feca',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '99282836-c4f2-40a7-9332-90707b9ef4f9',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '760aec9a-5912-4779-b527-4cdf7c89aa49',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'label_x',
     '37.907632',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6715988b-0df0-4f8f-831f-0f8db7ad46e4',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'f635f909-f89a-4225-a7ca-434473e74b9f',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'label_y',
     '0.549043',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6cf93c9-ee41-48ed-bde5-39996ef51512',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '04d148f4-0a4e-4b65-be99-52d6e21f5bd5',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b99c91c-8abd-4706-b9f2-2c72780032b9',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '598e8eb8-46e8-4190-9cb5-69b68c5fb955',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '544fe2fd-64ad-41c2-a226-3660405fadc8',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '04d1f2e4-c626-4b07-871e-ea60dd40a6e6',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'subregion',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dedc1e01-e023-4351-93be-5f8888948798',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'ba1ca8e2-3eb2-4f6e-93e4-8cc509f3b909',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ee39604-7d74-4103-ab64-94f03e936efa',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '3f95d8f5-16fd-463e-9865-0efd2965d358',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'population',
     '18513930',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21e76f93-cacc-4afc-b5e2-7b516532fb0f',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '5d70d918-05b6-47c3-858b-393e9fa79cdc',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'gdp_md',
     '181665',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '19398b5e-ad20-4e95-8327-a4f2d4be0693',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'fcb2ffb4-30df-4ba4-ba9b-5eb8d3161371',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2329ca16-d4e7-47fb-9839-e2737bb3e21c',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '41e634ef-c7d9-4c78-980f-63e4fd82469b',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8de4db35-d022-47a6-ae20-c7e142840749',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '6ae17d12-700f-472c-986f-4c36c886d88c',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'type',
     'Sovereignty',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b1736668-7d77-4a8a-bc2b-97f60aa8b9a3',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '58a83312-3fca-4537-9aff-d8b294b4f3f2',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'label_x',
     '68.685548',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b59b883-de82-4b78-a61e-07650b151c2f',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '6160bc6a-db00-4ead-b591-1a606a43e28d',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'label_y',
     '49.054149',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0764df5e-91df-4b30-bcc6-3dc9fdb2f502',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'ff610771-d49d-4543-9982-2baceef26e82',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a40270d-c5fd-461e-89c2-8b086c5c711a',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'dc7b6f63-599d-4391-bb31-766ded240efb',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86b27ace-2202-4231-b8c4-f4472cdafaca',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'f3d5f3b3-79ba-455c-94b1-6eac90febe00',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f2d9cf0-ddce-4487-b748-b2931239a586',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '3365a6b9-9b57-4af7-ac11-aa13429b1bf0',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '58d46ea5-3c70-455f-817c-ee9ef1249ce4',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '8038e22e-e1e4-41be-b3ee-9aab2a53c04b',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'population',
     '10101694',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06ca2ab8-4981-4b79-9ccf-28675e86082b',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'bf83c104-0ac6-4231-9f4a-e8ffd9fae0d1',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'gdp_md',
     '44502',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6dff8d0f-a52c-4251-8310-3457420f5a1f',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'cb0c040d-87c2-4ab3-8763-d937f106be7b',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd1f81773-2539-40ee-98cd-b8476ea30ce6',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '4359df68-f130-4b87-8a3b-d207c0c6b1b8',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a839594-d090-4432-b6bf-995e78a2c8d3',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '0967d61d-ce60-4ce3-b97f-469603937aa5',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '32137f0e-96f8-4536-8bfc-ef3644100348',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'e46e1050-fbdb-440e-b759-3148238c28a1',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'label_x',
     '36.375991',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dab5fd41-5bf9-45be-942d-09f0f00df3a2',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'b59901ab-4333-4c62-a650-117e485183b5',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'label_y',
     '30.805025',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af8415ef-ffce-489b-bd5a-493d069abdef',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '4243597e-a703-47ea-91bb-a4f42a0c6c42',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51aa0396-3ea8-4d9b-a4cc-5d2f668fa0f7',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '87268a1a-c822-4f94-ac79-91b38ad5b1a4',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '19d3e48a-fa11-4ce8-a9ea-69c6b55e6374',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '49b0ea72-9a57-45c8-a7e5-b46cd4a92137',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8583faf5-4f5b-4c2b-af2b-b4d0e875df1e',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'f093cc91-7bfe-4e0e-a28a-1799e97adcf6',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95da7d94-780f-460e-83f1-23ea0449c213',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '76d8995c-a064-4d55-bc49-20f4518a050d',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'population',
     '126264931',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b71a8cdf-e01d-4b29-a931-da2d8c1493a0',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'd6996aab-c98e-4206-a7c7-ceac0d874592',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'gdp_md',
     '5081769',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8ccaa2b-56af-4b36-95a4-aecb3efdc66b',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '69c7ee46-48e9-485a-af36-a6af51696900',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '870a0a6d-5414-4646-9fe8-895a741a222e',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '8ea489c5-3f74-4ff9-a4cb-d65ffef64d6e',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '846a41b9-98b2-4fbf-bf0e-90ccf0f90738',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '0f12b086-5af6-4caf-9325-b89e4ae54250',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '62ad1768-6bd6-41ad-92b2-693cc9b17815',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'cbbe9029-8c16-4708-b449-dc659307a591',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'label_x',
     '138.44217',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '790e00fe-fbfb-4fdb-bd09-d2f135b14746',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'eb3acb40-891d-48b9-ba46-d845316a2714',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'label_y',
     '36.142538',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b17e6fe-9cd2-434e-a5e4-5e39272dda5f',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '2dd62aa1-a01e-4b1f-a7f1-08d1eb278a78',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '075857a0-b86b-4323-b81a-353f36218f07',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '318c9223-fd15-4da1-95a4-d3cfc5acfeba',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd6f26715-b532-40dd-96eb-127fe04112a7',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'b87655bd-450f-4603-8ec0-661727655fee',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d8776e9-a29c-4602-9dfc-c603ee9b9bef',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '1f076585-b157-481b-bc09-5d2041a8c357',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3cd2c4a6-ddca-4fc5-801a-f1e9a76379ee',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '77f7ac8c-88a6-4f6d-afce-8717a86f8f0b',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'population',
     '2948279',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7916558a-2452-48cf-8e6d-9e3f1b635026',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'cc12632b-8f50-4f1c-a50d-ae3055ac2276',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'gdp_md',
     '16458',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6befcab5-dea9-4b1c-a9ec-5e7493102137',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '62111c3c-95d2-45a7-b5c0-31e801295de0',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '215647fa-f3a0-4de6-9ba0-415d5e4c6414',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '8f50192c-0d21-4d2a-9645-75459bb902f6',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '163bc18a-82fe-405b-8fd7-7c0dcf49de72',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '4bcc6508-eaae-45f6-90fb-02c46dea35f1',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87c3e3fb-8a6f-4fbc-bf16-69784f8e269e',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '40deb7ef-26cf-4307-908f-7503ba48811f',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'label_x',
     '-77.318767',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36225c8b-2d52-4a32-bcf8-9f44a9b896ab',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '6b055450-283b-4637-a3fc-53758cba7166',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'label_y',
     '18.137124',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c10a8816-0f66-4d3f-bd72-bc3f3b31e5a3',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '61829a63-a41e-4b23-9883-b8ad11acf946',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51569214-f16e-4c04-a76f-3921cd837680',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'b5bbc317-c5b9-4b39-8e73-ece4a3483660',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4429443-653a-4ac8-91be-8970390fd232',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '0ec9aaec-e950-48f3-a86f-44747b8e3e30',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '267d9580-6498-4661-bf4e-cc23b52357db',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '1ac82635-7d3f-44c3-bdbe-b04fec6a23ee',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fe6d737-d3f9-4742-855d-194b662db933',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '32fa7e21-face-4cd0-b3b1-f9b75c509d59',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'population',
     '60297396',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7c58b9c-e568-4ccb-a7e2-ac75e705ce24',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '9d427421-012d-4791-ad7e-82691a7a246a',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'gdp_md',
     '2003576',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39c20391-5d47-4c45-82fd-01bb7dbd6244',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'c343a73a-cf04-459c-9835-2072c9227bb4',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b0bb537-5135-4c76-ba28-284847970274',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '6e43c5ac-4b10-4d21-846b-97e469b3e4d5',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f273858b-941a-4097-b6b5-ed986dd3d6f7',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '2a2c8452-17da-41d4-9cbc-60ca06e04ecb',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aafc6121-cd14-4905-b870-cbb0679c46b7',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '31bc4844-545b-405f-92df-750744445bab',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'label_x',
     '11.076907',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '71d92b18-c293-40be-82dd-8704563ecbc7',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '91a8749b-acd7-4f9c-b4f4-78f047ea97c1',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'label_y',
     '44.732482',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04036543-846c-43b1-8dcb-2f3f4d612e7e',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '3f847bfd-2859-463f-bd1a-0c07ceb21356',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '87977167-5b97-4bc2-9459-259536894bbf',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '6db55e30-2aa2-4279-9c2d-a98ff58996dc',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd0ca82d-5a41-45e0-89ae-650e32c74f9f',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'e93f8f97-4ce0-40eb-b8f1-5dd7515f75c1',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfdb18b1-dfe0-4a96-a423-32ef9ac74d8d',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '864cd757-8c38-4e06-9000-aa4cb3d6bb43',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5247a5d5-b9bc-4a71-8f18-1befd0f65115',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'bf4a970a-209b-4e71-8c7e-bca58f84bf6c',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'population',
     '9053300',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '369928d1-1bf4-4751-89d5-ddd209277d1e',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'f64f83bc-02a7-49f7-b969-a2b102abdf28',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'gdp_md',
     '394652',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04b515c5-5a08-46c7-8324-db1632a5cf87',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'b08663e9-ecb6-4835-9426-616c7e0d2bd6',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39d261d5-0048-4eba-8db0-deeb9fc4d98c',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '9c0d200b-4dc4-445d-9661-80665a5b89ee',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a51b9c7b-1a33-4d90-9670-764b91b87b8d',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '7b24da19-7cb9-4f91-be7e-df33e6546d91',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'type',
     'Disputed',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a9a9ac5-e996-459d-ba6b-03b79c989bf0',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '261c7922-9a34-483d-a74d-310f92722dd5',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'label_x',
     '34.847915',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '279e1faa-13fc-4a95-93ea-c2d45a94739c',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '98698199-387c-4cf2-a5a9-ee6aee804a63',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'label_y',
     '30.911148',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82e55715-29b5-4719-9e72-700dfdc335e7',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '79f1e155-690f-487f-b6d4-6eb7b6d2598c',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '447a2803-d8c5-45d8-821a-604929610868',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '1f6c5c8e-36d6-400b-9df7-73886c0bffd7',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e26e38c-ded7-4e7a-bb54-a69209c5cc37',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'ff9edd98-0996-4d18-b786-764f58d9daf1',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab55efe1-11e1-4733-849c-38b569ed1f56',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '659bb9d0-de24-47bf-bbf2-364d30f6cbaf',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c69e356f-6894-48bf-a244-f16c06df8c26',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '347cfa36-7997-48f0-a448-fa5866f7470c',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'population',
     '4685306',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfbd3237-3663-4c84-a77a-895584c64e27',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '83057777-af1f-43aa-857c-1aacf208f69c',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'gdp_md',
     '16276',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8d806638-6331-4cb5-9bce-9b49cf791183',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '31176479-5b7a-4f43-b5aa-e487f666fabc',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea202f78-436e-419e-9831-c0367631b03a',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '772fc3d2-9058-4f7d-882d-5b6d0723eaf5',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cb6ec66c-bcdd-4966-88f5-e0888a6906c7',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'ef1bb134-f8dd-47b1-ab44-8e1dd7457c27',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'type',
     'Indeterminate',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e70fc1c-8f15-4da4-af10-a6fef71d149a',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '6ef4a2c9-a794-4b24-bb5f-6c7fde821e45',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'label_x',
     '35.291341',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f8826fb5-74f2-46da-a3bf-0b513103d393',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '41660970-37aa-40dc-83f0-214808f63ca7',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'label_y',
     '32.047431',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37a57283-28c9-4a6c-8435-2be9d7c4a744',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'ab1e53fd-41b7-4d02-92f7-273ecb28b0e3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af19c307-c018-4fbc-ae43-dfff462bffc8',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '89011bdd-5b62-4913-b63f-743316448efa',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94379c23-a443-4924-aba2-c4ccc3b5dfa5',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'b9dbbf1d-b079-49bc-a8bb-b780dd65a615',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e41c6047-a25b-4a9f-b799-91aa148fc176',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '329fd2ae-5583-4390-b749-51cf7103819c',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82cbfbc6-fba5-4a9d-85f3-271c81bec112',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '2f5fff6d-2c2e-48b2-8fbd-a25566ea84a0',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'population',
     '4941444',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd19aeecc-cd0e-4d71-bd8c-e2b97f5bf8d5',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '93424867-0cb8-471d-8e74-8085d41fbaca',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'gdp_md',
     '388698',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c5b2ab44-52af-4331-9099-f2520ae981a3',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '6533e29f-106d-43f9-a283-f736612b4d04',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9366dce1-0f84-4327-a371-bf90407fa0e7',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'daf92bb4-fb39-4b08-a546-4d5a823050a3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7629638e-b796-429d-80b4-156cbba55235',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'cd615ee4-db38-482b-b79d-967b762c3b73',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '92cf275a-59c6-42cd-b05d-b857b3bbe813',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'e331e25f-8d7e-4fd1-9eb0-be10ad8e5ba3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'label_x',
     '-7.798588',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e0534b0f-0186-4d2b-a28d-4a3fbd0fa769',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '0221a921-1498-42a1-af13-a8b706ea91b3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'label_y',
     '53.078726',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6bb3575-07a2-41dd-94ed-1f07e44d342d',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '61ab1a58-4eee-4ec1-a045-2673a11f3b5e',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43c5a3fa-c047-438e-8b91-915297f24346',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '58fdd155-70ae-43d2-932f-5001bde8527d',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af4b14d2-0c28-4a8c-a8a4-620e12301475',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '68366175-6011-498c-840b-68295b3b80b7',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8e9a894d-9204-49fd-ac50-6391aac006fb',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'cafb52c3-d729-4690-a2d0-c3a19dbf17fa',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e34fc49-0a06-4324-84cd-974653788fad',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'e2936949-c13c-45b2-b1dc-103cf13b1ccd',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'population',
     '39309783',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5119806-d60d-4ebb-ad0f-adedb0246037',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '7218b5f6-1234-4c03-b3df-71319987d350',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'gdp_md',
     '234094',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f2044961-98a5-433d-8aa0-b39e70ed727f',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '00fb682e-ead8-4018-9a88-8678fa60452f',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85a16a1a-702e-4fd7-ae15-f6dfc62c6839',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'ad055e4f-ab96-4951-a6e4-c0edaceebdfa',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '902123cc-e0c4-43d4-beca-2762ba8fa625',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '029b9d91-4880-4e97-b28f-edb32f25c145',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c326293-4068-4fc8-bb4b-e4b287f7d442',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'a8a64bc2-3b26-4d5e-991e-8e4e7a2d1dc4',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'label_x',
     '43.26181',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '483d4f7a-82f5-4ff3-be30-7f13731e3d27',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'fda41688-d4ca-46d0-b5d4-f44ee11ef7d9',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'label_y',
     '33.09403',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '050dff74-4157-4817-8782-39295201ce29',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'a9d54b11-ef09-44dd-9910-b69eb778ffa0',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '187b47a1-e551-4b0a-8e38-9866cabeec9e',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '7fcdd0f4-4ead-41aa-ad2e-3177582b1b38',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '65870534-e9f1-4157-a024-4cdf3ccd3e08',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '3dde5178-1dfb-4ffd-b3cb-2fddd41a86d3',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1b127d7-9363-4ea6-b6a6-7c81f3e6ec79',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '7480c325-db45-4cce-8bd6-da1746c7d5f8',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04ae02cd-2aaa-423f-9be4-32eb04db016b',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'fcf2e6a2-9209-4823-b298-7c5a31ae180d',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'population',
     '82913906',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69f45b1e-679e-45cd-a6e1-805eabacea3a',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '9c68040a-330f-4a70-806c-d93dc934a0ac',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'gdp_md',
     '453996',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17716634-cfcc-4690-b219-89fba4fb9d62',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '1116ce89-6358-4014-adb9-e9841cfdc8e9',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fbc425a-06ef-4c42-8902-8c5165181dd2',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'a5f27583-1b4f-42c3-aa0e-d61bc7ea6749',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd8540529-aca5-4419-8b2c-d9e15ecfc14b',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'a36bd527-c6fa-4172-bc9c-044338164344',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '71b8cbcc-2604-41ce-a703-983fa2865b95',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '15836f2d-09d3-4793-b806-8d863fc31286',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'label_x',
     '54.931495',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a6374e3-c607-4641-952b-f168c03cbb20',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '6b041574-c0f4-4c2a-a5c8-f39f1bfcead4',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'label_y',
     '32.166225',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91675d56-773d-49f2-a6d9-e3d59cc8b29a',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '2c39b5bc-cfb2-40a3-8eb2-d63b0780e5ce',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '705b589e-a9a2-4c4a-bf30-aac3d8af6091',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '9290f59e-80c3-40b5-ae41-437d0d04446a',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'faa34c12-540e-485f-b1bb-2fb594a4c34a',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '7ff45f4c-e188-4842-a66f-84c64b1e7fb2',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9d45adb-df28-4b27-bc46-629687bc6989',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '85e3e851-3ae0-439b-b1e8-ea72965b17a7',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ab8e191-51db-45f9-beac-1948e1aa02f5',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'e637ffd9-da16-448e-ab7a-91bf5b77fb69',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'population',
     '270625568',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0da1e471-fd79-4d4a-a17a-db180653e930',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '41b28890-9b45-44e4-981f-0e08b3f55864',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'gdp_md',
     '1119190',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3a19df66-ecd6-4b7f-8ad0-d8a244441cf5',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '9db3a1ab-46cb-45f2-836e-3256b87aa96d',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '38347149-a47a-4b6a-9faf-3adf1a4d5d24',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'cb570281-29ec-4b22-b14b-dcb9e1e495de',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '42c72951-c869-428e-9357-e041f55f8aeb',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '5b4b5e14-0b4b-4f09-8dae-6ae0f4f849d6',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6148f57f-55fc-42a6-a612-a8c08084deb0',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '546cfcc5-7816-40a5-880e-96721fd71f1f',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'label_x',
     '101.892949',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3196fdc0-c82b-4524-b7e3-342a8f119c0c',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'f5874095-e864-47fe-aa09-f87667a7fe4c',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'label_y',
     '-0.954404',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eaeabd63-c1ee-4e6c-9556-013423d3e3b7',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '6397791e-3d1a-4270-94f6-08a9d59a7249',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e6074395-6fff-4a0f-a51f-32c6d37363a6',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '7eba07bf-da14-46ce-b923-148237daa018',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c4caa21-4084-476c-ae42-ee96d3667860',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '2d52c169-fa34-406d-8f16-dcbb723589fe',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '546efca8-333a-4276-9c0c-d6db4c5c23a7',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '842ac4a6-6b4e-42bd-8542-5812740f5d89',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3b223f3b-89db-4e40-b4a4-18fd4b677e16',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'e6cc8447-4235-415c-82cd-dfc6a5774d84',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'population',
     '1366417754',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a43407f0-b95c-4bc9-a126-807a61473bce',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '1906ce5b-9d06-4ce6-b0b5-ded41a2867ab',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'gdp_md',
     '2868929',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b1f72421-0ae3-4528-bb87-564b8df86b84',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'fb35f6a2-ce7d-4c3d-9274-406dc88f6d6e',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5cd70cf-7b0d-4cf8-a14a-da705363de48',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'ae304d25-667d-4f84-91f1-24f3a534ffe7',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e759ec12-ea44-483c-87f9-1e6cda028c48',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '43b5cb20-b732-45c7-aed1-915883ccc942',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06578397-0937-4d91-9869-1d58ad68b4ca',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '235eb56c-a341-4850-b641-d0cd8d6e54fc',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'label_x',
     '79.358105',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3fc6ecf-2c5b-4268-bd2d-9dc71bdc7688',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'e50fd446-0e9f-4a63-b510-4e5d5dff899b',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'label_y',
     '22.686852',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4dc09275-f856-4307-bfac-bfe76d3618e3',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'd6f30554-df33-498e-9747-e6d2f6b7fe6d',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79342397-322a-4dff-ba65-fa49fb0a8271',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '77c94f46-e7d9-4d20-b1aa-deea59cd19c6',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd256f1b3-05d9-4e43-9c0f-06797c658610',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'f41341a9-e0d4-4ea7-8fbb-e3287e653e02',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b86cef4c-0167-470d-b2dd-cdd9444b5cd7',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '8379a0ee-8e0e-4b72-beaf-2f880b52b8df',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75500722-b505-4038-a1e7-7fa4e740753b',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'a146ce83-ba95-4bce-ab7d-0d71810d4ab7',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'population',
     '361313',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8abbf3d2-d331-4ec8-aa8c-89f92ad89c7c',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '442369d5-134a-4da7-ba99-df24bc80353e',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'gdp_md',
     '24188',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6ef4bf13-eda7-4c7e-8dbc-804cffe73cbd',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'b7e5a3b6-94c7-4856-9444-10c73c285826',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1dcd2e76-2b35-49c3-8fff-a417a0913fb2',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '39bc0497-0579-406b-9fcb-5ffbe6b3a8f1',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '374f4d02-d500-40b1-89e4-c65decce7c1d',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '3ab1a71f-ba86-4e96-ab26-bad3960625f6',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4719454d-d5ac-47bd-ac96-f80a57816e22',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '9ad341e1-04a1-4114-9721-ca7b76788597',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'label_x',
     '-18.673711',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46c6a57e-31dc-48f8-81a9-4a2281195198',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'a6df06e6-7c5a-4960-aba9-de289ab5a31c',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'label_y',
     '64.779286',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf31890f-f67b-4243-9fac-8f99fefbd3dd',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '57bda778-c88b-430b-8caf-3ab6c065b234',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '72be747b-0ec3-412a-911d-5b7b88d2bcc3',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'e72fcd7b-41ed-4255-a1fa-80ccf32b4845',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '279a78ae-5ef0-466f-8e5f-7370b8b9b00d',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '326c06ee-8d9e-4a15-b6c8-d2e6c308c962',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b48c0a2-42db-4425-a757-d038a96b2842',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '5c685e5a-96fa-4268-9e4c-7a848270475a',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f3105ea9-33ca-45a5-ad54-aba771904ea2',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '7f114480-95a0-4e33-b51b-59c50485eb92',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'population',
     '9769949',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab21f345-d411-4924-94ab-f63f8b292081',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '9c8ae025-1ef4-4480-bea9-35ad91828ebb',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'gdp_md',
     '163469',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbc03bd5-7566-468c-b7b9-c4dfd24e758a',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '9e8c4fb6-7c5f-408a-9d98-183fd945a950',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c53a56a-9df8-43a0-87ee-bb02143e43e4',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '04c79719-1c80-455f-8dd6-4614c3f6e29e',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '424c0873-d34b-4d1f-a692-7489be7f1bc3',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '19068032-73ea-4b40-bd7c-f5fedba6e804',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1ae60180-ec93-442e-acca-79bd31f5c491',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '086a0e48-d48c-49b8-ae8e-a370e11ebeaa',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'label_x',
     '19.447867',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8d18804-5e19-4266-b5a2-7bf1ed316071',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'ed7a5b38-7b6e-4bd5-9125-8143e589b763',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'label_y',
     '47.086841',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '581e2e93-4fbf-4379-af76-01262d0bc58b',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '6ba88f8d-cdce-4a3c-9ed1-fdd8edfef7b3',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43d37926-7302-4c3d-91e8-54593c72337d',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '6788eb34-100a-4d64-95b3-f435110524c0',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aef2fdad-1287-4b4d-9cf7-625efd99e653',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'c34735a6-95f9-47c0-8f3f-2dafb0131d93',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51a53afc-5ec0-4600-9eb9-9f3eff4e7b34',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '570b3898-fbc5-4daa-97c8-2807333f225a',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '80210613-8c8c-43e3-a33d-4f32aa54f690',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '381e95e7-bf38-427c-a2a4-9ed4a8c1885f',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'population',
     '9746117',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a992130d-0654-4f5b-bf29-ed464c1f8da4',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '569bce70-3acb-4b3f-b581-4e9ad5278944',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'gdp_md',
     '25095',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e4bb23b-3840-4c69-b713-516546fb9aad',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '0a6e591c-e8e0-4b8a-ad42-13fb5ffcda51',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5011e5b6-b247-43e6-a958-7dfef32b03eb',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '14cfd74b-5c49-4951-8ece-8c473ad22b20',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7e9a5e3-069a-4b34-8c27-d8280d927c84',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '045e116f-284c-4269-922c-2a6ec61af762',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '000bf47e-87f4-44dc-8a98-5dca65b6858c',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '4aa263ac-ee8f-4356-8e3e-64fb9553451e',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'label_x',
     '-86.887604',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bdcc493d-1908-4430-88b8-787044bc53fd',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'b979146a-0689-4b0f-86ab-c77ce778ee02',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'label_y',
     '14.794801',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '818aacfd-7c34-4384-a722-abe6f2bf715f',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '02a4514b-8265-4a8a-a085-e2d74c89f167',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da26bf88-c783-4a61-a0be-5beb5f1481ae',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '9bb8ebe4-9a0d-429e-a92a-31de476d7e39',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8d7a943a-d8a2-4113-9a16-6916e7094743',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '57a81b31-3b7c-4f4d-be80-b619b13659b8',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9c81e1d-fc91-412b-8ba3-b62c6f687953',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '61c6ac39-672b-4384-b59f-8879bc323d05',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '57e266ba-3d1d-4c78-8fcb-9e183100c327',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'aedf1f1f-fb3a-4130-8b9b-e5226651f5c4',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'population',
     '11263077',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e6c9d27f-c19a-44d4-a445-db3bdb0df222',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'a2b681c5-59f8-4060-a8ad-29b225f29d7f',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'gdp_md',
     '14332',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b054b9e-fdb9-424b-a8d2-2ea46a9c1c8e',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '93e7cde8-8308-4a00-b749-620777469d1e',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b522cc7-6bca-416a-88b3-8a98d3667ad4',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'd031fa45-fbc8-4ca9-aeb6-fc93e159fd00',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdf7540e-a605-4577-a6b3-018651a3d680',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '8ec461d2-2340-4db5-b630-87511d456fc1',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '404eb812-e899-45b1-bd75-188074af3e5d',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'ecb9aac2-0037-407c-b015-b01f0f1689fd',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'label_x',
     '-72.224051',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '997200a4-0db6-4d1c-98e2-18c1b42fbd10',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '7289bd2d-20d5-4ae3-94c1-339d73a4dd0a',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'label_y',
     '19.263784',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95b17e04-5d57-4771-adf2-15c0e0ec2740',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '0aaad75d-f3ef-4f6d-9f42-666fb91cb0a8',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e74fdc08-1060-4c9b-be17-37feadb12076',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '88c1f814-aff3-4807-b082-b92fcb2a3988',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85d31f05-8f86-4d8d-a042-3ee438773761',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'd89bb0d6-8490-491b-bb99-0f85200faaa9',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4092312e-f901-4012-8885-90de09f67162',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '6f1e339f-8f58-4a98-be96-a363f440787a',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7afbd718-4c15-4994-b972-3a5956020a92',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'a96b9fc5-da05-4bc2-a986-39ffe119e25e',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'population',
     '782766',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bc3f8ac-b050-4883-9f65-30f6eb3e4e70',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '5af2234d-1a57-4100-890d-4909cd0c2977',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'gdp_md',
     '5173',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b0175116-ffa7-4e7b-b375-362a53072ba1',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'fcbf7b96-fae0-4e8b-8a2c-46a0b53a2cdd',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a8326d18-d936-43ee-9c10-af274f9fe554',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '30310faf-8c41-4490-9dd2-12f107a18c65',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7fe55f8-2e05-4a7a-8214-9de03d11587d',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '2d9d29e5-f190-4df5-b4ee-6354476ab834',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35c57aa7-a4cc-4d98-933e-1a21e79ff704',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'df3b419c-3543-4cc2-b3da-110d064d988e',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'label_x',
     '-58.942643',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cda1f7be-738c-43f1-896f-5680bcc33a89',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '5d441f59-1d73-490a-9512-19d190650751',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'label_y',
     '5.124317',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31b3977a-036c-406a-a040-4c6267d58699',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'f7c47c55-2a39-4757-a1ab-e98355211eee',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2f0e2dd-8806-4a41-8fd3-d2be17caf06b',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '9e346dac-e3b3-409d-ab35-d09e47283ab6',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '58ade3ce-dabb-45f5-acd2-76eaa383ff76',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '16a4f04b-6715-4406-85c7-fa9ddef0bd8d',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6b274c8f-c2b4-4436-8b40-0eb691ec6668',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '5c804de4-8a14-458f-8cd1-2e5d66d17f25',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90cad872-6a8d-4be0-9295-e592920ec1b1',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'd0be739e-fd91-409c-8f11-d3e711b90c5f',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'population',
     '1920922',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef0c7e1d-ef5b-427b-a41e-81ab5174c7be',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '91ef2011-efe9-4031-b381-e409aace0a78',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'gdp_md',
     '1339',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef082921-eec6-473a-81eb-22e015267261',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'f4d39cba-6d5f-4c1d-b62f-bd11d641519e',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d0b1128-11bb-437e-9e90-a6d90afc5a7d',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'b830b4d0-9803-42a3-8aac-ee447527142c',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd4053171-4336-4b49-8848-5640f6b4a41c',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '4b580002-eb9b-43f8-a158-6a97e3bcd7f2',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8637c0f6-872c-4a23-bfd5-080d0e88dbea',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'f622e461-2dd9-4a5e-9133-83601b54a336',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'label_x',
     '-14.52413',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a82528c0-7d85-4bbe-a080-e246cd5575b8',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '2113b018-d061-4170-866c-4e9ea3dfeed7',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'label_y',
     '12.163712',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e5300c2e-8c8d-4a1a-b8a9-9dc0d34dd5bb',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'e0b956cf-e1a9-40f6-b601-da716763c53e',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8eee0f7-6941-43fd-a28b-a92625f9b500',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '2e8a45e3-0988-4f86-8ba0-9977cf4c1655',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2ac1d1d-838a-4166-b9d1-34e024caa11c',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '9d6ec2af-d705-447f-b828-6ea8b911ace4',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d49179b-4d9b-4684-9e56-b3f6e19ea2f0',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '59cf1874-a7d2-4fc0-b004-b2f251530407',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dbb769ff-d8ec-4c21-b999-882d563c5289',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '7cf7d359-1506-4089-a65a-68bc209c66ea',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'population',
     '12771246',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a955b75-f88b-4406-8a12-db5f2dcc2a68',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'cfaea2c1-eb27-4a96-ae97-71f3e9e1b74e',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'gdp_md',
     '12296',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c6c9903-ce54-48a3-a336-03098cbc3d63',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'd0b5235a-9a2b-48fd-a6ff-1fb9e0baeca3',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e37b899-25a2-4329-87c8-e44092854e2e',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '341a5af8-bfbb-47ab-bb53-7eaaf54529ea',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a399a5af-a3d1-44a5-9b72-3ecdb6233d76',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '69f0e946-dd05-489f-9579-3d622d341987',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'baf32fff-0e6a-475d-8a40-05b2a839b7d1',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '5e7a32ee-dccd-4d63-a3fd-4c539f2349ee',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'label_x',
     '-10.016402',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbcd4ff6-7320-40d2-9699-014aa473610a',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'ad1c0534-f208-45f7-8a74-1a358f4796bc',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'label_y',
     '10.618516',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6f0dd01-8c4e-4ae3-a532-ea905c6e4ac9',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '52bd9146-0b50-4ca3-b129-09ecb9693202',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3edfae10-f410-40ae-bf33-f2704cd3bf9e',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '33f84a59-2afa-4d3e-bda8-a65bcd9fa07e',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84f86d59-80a1-4649-9ff1-395f64f5384b',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '7d5df09e-4e5c-4e43-a5cb-aa57c11db191',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'caa4960a-3894-4336-9e54-1ad393697fb0',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'da2f2893-412c-4eb2-bca6-8a5286622ddf',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4de8c79e-0395-4af6-8777-83874008db62',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '7e344973-74c9-43bb-8cba-578192be4571',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'population',
     '16604026',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dba93c16-2f1c-408e-bf16-626643f9dfaa',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '9dcab336-e605-4dee-8156-1f1fec22411c',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'gdp_md',
     '76710',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a553d0b1-3686-4538-8eed-dbdf1a04241d',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '14b14243-3995-4a27-86d2-109d0f701430',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46e904fe-43fb-467a-9e30-07a4d5b25a6a',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '1484335c-7b24-48a0-9668-16f275fb714a',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a4ba7806-a892-46e0-9599-af9fe5edf4d9',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '7c9ac486-f0e5-4f20-bf32-9e43ab1d46cf',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40a30e32-54c6-420c-a364-dbc35ea96315',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'b9783823-eccb-4666-85a4-11cce878c37b',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'label_x',
     '-90.497134',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a7c31fb5-ae8f-428a-a1f4-bcd3208647eb',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'd61d5e11-2dba-4f71-b42d-ffc4e91b4d40',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'label_y',
     '14.982133',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23910603-169f-4161-ab06-b5e16e5aa6c1',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'e9cd5f5e-2519-4dcc-a42b-9eef1d5a4340',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0cf99156-1961-41ff-b459-3c36183c2db9',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'cae4ba4c-1745-4a9b-86a8-b3ae651b774f',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '186571fe-440e-4307-b743-1fc610f8f5df',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'eb02bb71-b348-4c4d-b15a-40dae1af0ce5',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'edbcb532-b07e-4259-a953-4ae0713ceb2d',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'c46f475e-34df-405a-b66d-2d2dfa499e20',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b6092a1d-6efa-4aeb-9f23-bce38d8f4af3',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '3469ad8a-3280-4632-bc34-9669dd346573',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'population',
     '112003',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '720afaa7-47c4-4575-98d7-d5ecbda0aca9',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '3ba18a87-467e-4ad3-b8b8-358a505253e1',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'gdp_md',
     '1210',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa19cded-7f3f-4d67-a191-002a333b6e93',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '68237f7e-66aa-4cb5-a9b3-f9cae90824db',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b2fc97e-6702-4bdf-a649-a000b41c5e72',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '591e690c-62f2-4e4e-865c-f9815f460c93',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e361f63f-564d-4f07-9fa2-f1dca5c7fcf0',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '7d75bebe-fceb-4d4b-9ab6-a3fc153b3f63',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'adbf4ef0-7579-4492-90ff-e066b1fa743e',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'f3700b19-4987-448c-b336-e6fa7eb2ad1b',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'label_x',
     '-61.680461',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e33dd538-a479-4f01-ad3a-89a794d8f066',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '06b67ee1-5097-41e2-b75f-776dd1e3611f',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'label_y',
     '12.113156',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '983f1bdf-4c80-420e-acd8-07c8c2c2f9a3',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'dc495174-477f-4b2b-a360-0c7728a5641e',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4403b0b6-c21b-4561-a11e-d565674f09c6',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '989f5b16-4616-456b-b54f-bcea8e5960d1',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3ae4ab8b-f50b-45a4-82fb-aae050c1dda1',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'fc679996-7271-4d69-a6d0-013f8391d26a',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27b605da-0366-4381-8df5-c8c1f3f1c9b6',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '05660bd9-49d9-4aaf-8462-66ef0d048f84',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '677f1c98-64f8-427b-8dae-eee9e2784985',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '2d6cca37-d1bf-4c3b-9b64-a734fde3606d',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'population',
     '10716322',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b82f1df4-4f8d-4996-ad85-de7b7ed52910',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'd8782903-eaba-495e-8201-6e671c1c6197',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'gdp_md',
     '209852',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1172bc35-e5eb-46bb-8eff-75875997168a',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'b65d9e4f-fed7-46b7-8cf7-ddb972a210dd',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b1aa349-24e6-4a78-b59f-4c961ccf2e6a',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '117ad6fe-d67a-40f3-a2c2-505bb15b439c',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1518aa6-5712-4f3b-8fdb-b5920314b010',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'ff82f2b6-6a8a-47c7-8032-7582dac99a3c',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '193cc7e0-4afa-493a-9ca0-d5d596eb7109',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '2ff93ef0-ca22-46f2-b38a-3802c5bca904',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'label_x',
     '21.72568',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '939a5ad9-b8dd-47ab-95ea-0449a8fc52c0',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '4c8061ad-4ff4-42af-9142-b4d98a44b728',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'label_y',
     '39.492763',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b6fe48b-3fcb-4e9b-914a-30fd48d12a64',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '294e88fc-e846-4524-ae24-0aa2eb165109',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d66a84f-5614-487c-bc30-3b3750157639',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'a51e0f1f-fc57-4c7f-9041-77247179ec05',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34892610-b370-4e80-b00e-f0e4d990efc6',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'f6c8522e-34ba-4d5e-ad92-424bed1b0e6a',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f821004-1b9d-4577-a855-51ebf06d5513',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'c9e75c35-d489-4602-9d75-4c0260f4c748',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6afedfcd-2458-4409-8edb-8e5fac602515',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '7bd3f9f4-8750-447d-a709-78d2f9b62548',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'population',
     '30417856',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28834e8c-c425-4e15-91e9-173e449668d8',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'e18d5806-dd3c-49b2-b5a9-3a2a26106f28',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'gdp_md',
     '66983',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fc640788-2d51-4a63-af3b-76515d6ce4b8',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '92b29d4d-6b03-49c7-ab28-724ea63ad620',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ebf44d83-a07a-4636-aea4-cfa994b1ac8e',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '4c1677c8-e9ad-41f1-867f-44d3d4bb5771',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f1c64df-bde4-489f-83fb-372c0df365e7',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'de7f591e-5a49-4352-a3a6-69d188ee5915',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1267eff4-d06a-44ee-9bee-889554e33d3b',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'fd7195fc-7c5a-461e-8ab7-6e1b725fb05c',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'label_x',
     '-1.036941',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '017cee4c-bebe-4dcb-8e6e-4d0e818bd4b4',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'e6c1b5ee-477b-4851-8840-8748e989b04b',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'label_y',
     '7.717639',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6f38f0c-c27a-42a6-9651-4fe9dd01a8dc',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'ad72daa2-6b4b-4543-afd3-416204d130ca',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '668721aa-98f5-4250-9120-28fdd73acbff',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '640495e5-7714-43e3-8fca-6dd0474c70e2',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eb476ad8-5fe7-4a54-be7a-efd8090eb5a2',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '4ab56dd7-b95d-4301-a060-f747e92cabf2',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9522594b-7bfe-42dd-af0a-e261e65768d5',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'cfb54b72-a4d8-4d53-8f38-1b083f99084a',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82f556a3-9035-4d5f-ab21-21a4f6f5b254',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '6e3f8da9-5c9e-43fd-9b66-80793669a601',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'population',
     '83132799',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e67d9f29-216c-4af9-a632-6ff1170c9393',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '703c4d7c-fc6b-406e-ba56-e95e4b0bf231',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'gdp_md',
     '3861123',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '969301fe-a851-4304-96bd-0aeca2033bf5',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '08d3efc7-fa95-4d90-8cc1-79a58c39fc94',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74a31e91-2cf0-45cd-89e4-bbc496ca18c8',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'c257c2e2-c62f-4ce2-91c1-5d37244ff9e9',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6167d364-ef76-4869-b164-42493b690456',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '7ad51ce0-a0ea-41ae-8a5a-a6d777faf27f',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47202a1f-ea49-456a-b69c-6fbfd1d3afc5',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'c018ee6b-9eaa-4a96-aed8-5b895f6f97c4',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'label_x',
     '9.678348',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c45c41bf-8178-4604-9fab-ccf6d0f005cd',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '501ff447-00a6-4258-8f89-8b052946621a',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'label_y',
     '50.961733',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a417e16b-7621-4fe4-98dd-0c7440752645',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '1ebd5181-6434-495a-8e1e-864a5445fec6',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05879d97-166a-490a-b610-d29e2ecf5c9e',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'c7a207b0-2075-4245-ad21-d46eb8d9802b',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc82ffae-279e-45a0-934c-ba6de6eafa73',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'a771f9e4-0a80-44fb-8a2d-c9f3c6eccbdd',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '162e5774-164a-49b8-9c0b-8d7ede324728',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '7e1c066d-1b90-4c4e-8f4e-2dc901573fe8',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79e0c3a3-4f91-4767-9515-ca1f98778f05',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '34f4a958-1587-4fa9-a72a-df8ef6e82ce3',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'population',
     '3720382',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '346b1155-5457-488d-bf88-56da02f1b580',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'd1dd8d15-4227-4ad5-ba1b-61c0d860b3cf',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'gdp_md',
     '17477',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1f4751f0-5f27-4c20-aae6-c63326de977f',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '714c70d4-4d21-4b43-a2fc-053ae5497ea7',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '78325d55-7ef6-43eb-a7e6-6b3e89abec95',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '0500aaca-692d-4d78-8887-86bb2384b55b',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e572c6e1-3aaf-493f-9792-6acf6bde8c06',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '3baa43d9-7c3a-4e0a-89bc-31da3e09fed6',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23dcfad4-7dd0-4242-a52c-ef0e678e9942',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '26945251-a3e1-4f05-a514-403a70f6591d',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'label_x',
     '43.735724',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a89af249-b686-4c3a-a8ad-f12311618fe7',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '6ba00e19-b2e0-41fc-94c7-7626ff6b107c',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'label_y',
     '41.870087',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '843f9d6a-cee2-44fe-8975-9bb038191299',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '853f0a5c-1ea5-4c5e-ab35-e05076e945cd',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d90e876-96d3-4be5-8033-bba4418e7292',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '1e29d144-ed33-47ae-9402-c549a71e0195',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98f93a71-23e8-4997-b908-89d2aa87a064',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'aeef6c84-6d5a-43b2-86c3-b8eb9618aa22',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b31c0aa1-71fd-4421-81db-19e596fcd0cf',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '2ceaa672-3e9b-4987-9bdf-68159cd742cf',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bd79654b-b964-4935-8bee-a7b4548bd49b',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'ebb7606d-aa30-438d-a236-f4db3cb8d92c',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'population',
     '2347706',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '574295bf-a3ee-4d1b-b102-167c5c175c45',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'c70f7906-fdac-4b03-b819-554ee07b84d4',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'gdp_md',
     '1826',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b131aa96-e15a-4f7d-9a35-9d0836ea2b81',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '300459d8-ffbd-4382-a86f-f48644527a1a',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb6f6e3d-a2d8-4759-a10e-755a7429f771',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'a549dd40-7327-4d21-94ee-9d0109429af0',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e0431e17-e86a-47cb-8662-f8fd5d017ba3',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '03231bf8-f6a4-474b-aca0-8c8a7b10f9d6',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4c318917-6bfc-44b4-8d60-280c6d45ad6c',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '0b9913c5-15cc-4c5d-b060-439967be28cb',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'label_x',
     '-14.998318',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be9d3044-98e7-4cf8-80ab-c47cbbaf5f1c',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'c3e21137-fab1-4271-9ba8-314a916a7fa5',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'label_y',
     '13.641721',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29b3048a-3909-47ab-a923-52c98afb421a',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '48a1f05d-c97d-452b-9c4d-43d6dc7cfab2',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5a01bbf-7afb-49ad-8543-a0dc3eb75b06',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'c9059b8a-23c5-41a7-89e9-188b57862a85',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27d0d305-4e1b-4a6c-879e-265fe13e3a6b',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '4d417f57-8785-4e56-813e-3d7680030b36',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '217ccf09-d6cf-49a8-8ec1-3c409786f691',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'cfbb607d-ddc7-44b1-ad22-00b6f5241268',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '26adfd4f-6b6d-437c-ab57-d574014c0d60',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'e1ef7353-e537-4a83-a017-22e578cfb225',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'population',
     '2172579',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b14305e4-aafb-4f74-9ffb-cfef6fdf224a',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '8c9ea5e4-1205-42ed-8942-8e8fd7ee73c0',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'gdp_md',
     '16874',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eda02513-4a1b-484f-a95d-21f50b9208c1',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '5ef279d1-6949-437d-810c-252e9ed38bc2',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ecfac0f2-bcfe-40cb-8730-9e17cb43f61f',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '6b8cedf1-ebcb-4e86-bbee-016ed3977ff8',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b85f050d-3f9f-4f3f-a51c-bb7c56654d31',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'c735a00d-3ee8-40cc-bd93-e29bf576869c',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1fe73b25-c7a9-4f47-8626-66e02b42bfd6',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'eacb1b95-6d5a-4e4b-8db1-3daeaf06bd18',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'label_x',
     '11.835939',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27420de2-c894-4494-8198-b464d1cfd7aa',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '80e15719-3ef0-436a-bc91-83bf957e33f3',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'label_y',
     '-0.437739',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b9a14b5-7a16-4817-9b48-e10e98921915',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'f8a9a579-d7c3-4f12-b822-a54d940f7cf7',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1a1bc696-6a78-484d-b95e-f34d83fa6975',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'fcbca68b-2e8b-4e3b-b153-2b75374c924f',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9fb80ac3-ff9f-4d2e-8f0d-2e9598b2393d',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '6ecd6832-b627-4b4f-a2d1-8993475d6862',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '846f963c-ca4c-4b4d-982c-dce059bf8974',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '716ac7bb-d374-4501-b457-6ce954ce66b6',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '132758ae-2127-4e80-bb94-8d34e2d1fb3a',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'c65ec4e3-5930-4fdf-a83b-e2a298c10f16',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'population',
     '67059887',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c26ba2d6-8ae3-49c9-8c36-fb2475bfa786',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '58013ec7-7912-4425-8347-425d6644076b',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'gdp_md',
     '2715518',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f5ec979-6ec9-407e-aa09-1e2ed6dcc2f9',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '32218425-5bc8-42e7-958b-27a0d05bd5df',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '33dd0b1d-3547-4500-9b28-c7eff760e06d',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '73cd10a2-93b7-448f-bb69-f62eb8667ae6',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74695cac-42ea-4639-98c0-68fd4455cc2d',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '0af6e94b-5405-475e-a78d-343b41e5bf9a',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e13e9c3a-740c-45b9-9175-ef1a83cee375',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'ac26881a-9e12-4ac4-9821-b46ef6c2313c',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'label_x',
     '2.552275',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21d296e9-3c78-4ec8-afaa-dfe826a1fa07',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'ff16245e-9120-4afc-8aa9-72d7e5435660',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'label_y',
     '46.696113',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31a7ec1c-0642-467d-a481-c7c158917951',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '1abb1dcf-7e92-4055-8de0-470335beff71',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5cb76760-5138-4955-a209-88125b846a43',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'fca18dd6-289d-417c-bbb0-a375af8f92a2',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27433052-5bbc-4860-a807-7b7d8702e15c',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '7cf40a79-2045-48fb-b3a4-479426edda6d',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'subregion',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c651d092-3042-449d-b6bc-e7a1cd6f61f2',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'e0d343dc-753e-4899-8d6e-c73e43798af3',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'region_wb',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6fcf05c4-3447-4c48-8a84-2d0edbb63261',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '49d064f0-bc30-4be0-abed-71985e4edb1b',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'population',
     '5997',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '593914a7-eb68-4386-ac8d-efda0533991d',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'a3c61182-4deb-46ae-b323-b7e5e7303df8',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'gdp_md',
     '215',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a709b5f3-5a85-4b09-b41f-d32c0f6b9e98',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'a0d8b1ff-44d7-4b8f-ba44-61794a413588',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e707910d-f277-4fc8-9768-2e18a3a7d86e',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '6fd7f161-5940-4154-aa05-676ba77bd74b',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e92393f1-47b1-44e8-8e86-4cca902041a1',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '735a691c-e5d3-498d-a6dc-c17aad47fd9e',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d9ac7c7-c74d-458f-b562-0cb67d1c0432',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '315c5e27-c328-447e-bd85-0967ada5d8d5',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'label_x',
     '-56.332352',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0afb304d-7c1a-4f84-949b-b3f20ec808d2',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '8ded4966-d55e-4fde-94ab-90f3c3a9cfea',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'label_y',
     '47.040344',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2800a532-7654-404c-89d4-b551db4ea8d6',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'ff5c40d1-c6d2-4d3e-8f27-dab195432333',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '16a6ce66-dee9-4150-9198-f3a79873d299',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '38fe6935-c85f-492f-9e8e-7b3b031d5e91',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b13e3b03-5eb6-4024-ae4c-167043dbb415',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '98ebc42b-5ee8-4720-a900-dcfcad2f9f66',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cac850db-350c-4a0b-a33b-1b0a67ce3c1f',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '7f5ecb3f-8d09-4d31-b894-f85f3046ffdc',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b0c5414f-5d3b-4a0e-8e5a-7bc308e66c7c',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '91f149d6-bea2-4dcf-8b8a-270258449d24',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'population',
     '11558',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e0945ef2-957b-4356-a99c-e2ae77e54289',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '2ea31a5e-28e6-4ee9-8eb1-8291c65c10ac',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'gdp_md',
     '60',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc68171d-9173-4ad8-b928-4d0e9ef78685',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'da56ce01-10f6-4ff1-8e6f-8ec4d0ea797c',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85f61a82-a46b-4717-83ce-09f8985533f0',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'e907d5f7-c298-4de0-bf4a-4686921c1c0d',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ccbd6c4e-f89a-4496-86aa-3790ef63f2c4',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '0888d604-a8b4-409e-a771-6185f8905df7',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c34e498-7a0c-4ed6-b9e2-c3ee626b1c8a',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '3660d3f0-144e-4cf4-980e-bcdc51a0df04',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'label_x',
     '-178.137436',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a9be31c-30f5-498b-bc60-90c2b3754abf',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'f1d0b21a-0717-43e5-91f5-4f40a46f3ab5',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'label_y',
     '-14.286415',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d492d5f-4f5b-4c13-80f0-5d6f4b01b0a6',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'e5e2c8f8-8e9f-4d48-a59d-1ea1d3a6f3b4',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8ead3fea-d3f2-440e-ac87-992b083cd5c7',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '54e444ad-eb73-4828-8d8d-66b78265425d',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b9d706f-4399-48b2-b8c8-7367b3d244a0',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'e52613af-7396-4671-acef-66c3a2dc1273',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3a792454-2b8b-4053-823b-2b9d46c4f6aa',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '7fe0c8c7-abd4-4084-bbfe-e8c0e89a0b8c',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '80d6b16b-1cd9-409a-8c9d-22f2bc3dce7d',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '283a0898-2180-4b11-8612-c6360abb061b',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'population',
     '38002',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ed70930e-8561-4137-a711-ece891a5012f',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'b571958e-ba01-4302-ba81-c0e334e13d1d',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'gdp_md',
     '562',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '69f51e91-fa81-485f-bc16-4ff62b65f6f9',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '8f799949-1321-45a8-aaf5-84aa1491082c',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f71462d9-3285-4461-950a-46596d2014f5',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '6613de60-c1a7-4ff5-b50a-7dc3c1951b8d',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cef56939-3f79-48a5-854f-17fd4d3fdf64',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'b4d794ef-06ed-44f2-9492-790ea15062ed',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f95fc626-bd9e-4650-b934-e74e3d1a867b',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '5460e206-7827-4b0d-ac4c-95146b63fc09',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'label_x',
     '-63.049399',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d5a6ca8-2f04-445b-8020-3492ee45bfd2',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'bc140e6f-72fd-4f8f-b278-17f36cfba3f9',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'label_y',
     '18.081302',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea84648c-ca80-4f59-abca-fe6360a569d3',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'ad613200-c9a2-435c-abcf-019df5a98372',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3606fbbf-644e-411d-8d7e-725427c10edd',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '5cf8ae9f-09e9-4dde-a7a4-64dc81d2e746',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea687efc-67bb-4186-b0b0-6e332a60c745',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '402a974d-3f31-4298-b8b3-fc0c3361713f',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37db76ca-4c42-4483-bdf5-489c5573ab94',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '3d949b03-ab3f-47fe-b2b4-00bbf6e09f84',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5821bd62-b256-4259-afcb-20a80b4a0e4a',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '094f6359-8069-44d6-9520-ff0d0612ba85',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'population',
     '9961',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c31853ff-51c7-4c3f-9fa7-25426c5bfc16',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '6a197fa6-b5a3-4f6e-b38f-eca8e6f57805',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'gdp_md',
     '255',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '615b9630-923e-4c75-a209-a757a2752316',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '80daf6d5-df08-45a7-aa18-90205db2901e',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '02ab53fc-c734-4a33-8912-07f1bdd5b265',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '81d0d857-aefb-426c-a7b9-27eec18374b2',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '357362f9-4042-4343-a0c9-b0ff9f686d87',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '69cb66c5-b0ac-49e4-bdb0-766c22c6a917',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cc6a1377-1328-4c66-af4b-03a31a07b21e',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '3e14c9ca-a6ac-447e-a5d8-8262e04965c8',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'label_x',
     '-62.833193',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1dbb8b9f-2f1b-4be9-b892-3190be81c75c',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'a8490c17-bf7b-4511-8f7b-6623266db68a',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'label_y',
     '17.901987',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '58ed9f57-2127-45dc-8da7-9f49a0c14d61',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '87c778ba-e521-43c4-b85c-1bf847f37ae0',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '89f2942a-7497-456c-933a-7c935cd03236',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'f1d9f52c-5737-4c36-bb9c-2735c8dfbe3b',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aadf02af-2a48-45e2-9b71-7d52e2e1c36a',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '4bbe28a5-84e7-4140-a526-61f8f1cbfdf0',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd533b9c0-eedd-4871-886d-db8f3f255cbe',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'f4d6474f-35fc-4b95-bfe5-81c36d63eb6c',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9d12264e-7380-4c7f-aa20-e517437db642',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '149a27f6-d1ce-402d-828e-af3ff5e0d06b',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'population',
     '279287',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '022330bf-e0b5-480c-9186-87d273f02440',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '0ec4c0a3-59bc-46ce-99b7-e155f6ebf64b',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'gdp_md',
     '5490',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b615c656-cf13-4299-9919-cfe68832708b',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '02c1333f-ed52-4f81-926c-8b4e564f1553',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52823e13-8cc4-4ca0-8ca7-175f07a327d5',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'ff2455e9-3ac8-4061-88ec-922322847605',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24162cc5-b00e-475a-858a-f3215d6506aa',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'ae44d29c-5697-4cc0-90cb-1b71184ef7a5',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bf8c0cfc-fdd9-4149-b8e0-edc37bf70237',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '480ad0b9-89d1-459b-b568-cc005cff5ef0',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'label_x',
     '-149.46157',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c4b99376-6922-40ea-9ad1-1e0cae9ad340',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'e76fd281-1b15-4a68-a153-67db03e034cb',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'label_y',
     '-17.628081',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a6852156-9bec-4683-93fe-1941e7df3b86',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '24c0f92f-39f2-46c0-989f-a6c7b209e6cb',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a4070e5-db1a-4676-8c22-09354aa22fe1',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '7d4ac1c3-109a-4e29-a10e-b66b99b17722',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85f7e877-06dc-4bfa-90b7-1a88c7fa3a60',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '4deb9a31-3335-4ff6-8766-b7cf9d1cd4bb',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'subregion',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '861f1342-699b-4ebd-8a16-ccdf8c99bfac',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '4e187b32-5815-45ae-96eb-6723fc03758c',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '60126527-1c01-4e70-bf6c-a802292a7690',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '777fc966-7131-484e-a48b-fbb5b6e36beb',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'population',
     '287800',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73e7173c-cfea-42ac-9145-a490bd11658b',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'f98612d1-8771-47a2-946d-9ed1f3173b2b',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'gdp_md',
     '10770',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7d5a4bc-c5f3-4713-a634-5fbb844e30b4',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'a0773406-6762-4338-b169-4ec4cecdc867',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f78191e1-dc4f-43f5-a080-4cdffb3ac931',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '182da5a1-7e62-4afb-9680-839c01a994b2',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe6e873d-a63c-4867-91b4-d8ca6059c9f2',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '3a9c1840-7ad0-49d7-bc23-6722c7c03cfb',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6611b31e-0800-4fcf-8055-8668001d4456',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '4ef74686-bcf9-4897-87ae-a7a09aa571ad',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'label_x',
     '165.084004',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dcefd46f-50af-48bd-a404-f26959806e6c',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '34945e30-2848-4571-9144-83f9661a056b',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'label_y',
     '-21.064697',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fbaeda6f-fea8-4868-a671-f524afe3e694',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '846a2ae3-409c-4ca4-ab47-60f858e85861',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '120243f3-2360-40a0-b1af-617571fae118',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'bffff688-5cae-473e-8e3c-3748d50b24f0',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5f86e21a-6b6c-426a-b9e3-fcdebfc191a5',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '73d92474-07f8-4e05-a03b-de70224c3a28',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5cbe86ab-5a91-425e-9309-38c4b8d2def6',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'a57fa110-5b7d-4ff0-a8c3-2c0b93414e60',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3580d434-bc3e-4c75-9d70-cbe300c1525c',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'a53d84b6-a8b1-4586-8bf8-f9866370e808',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'population',
     '140',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5165a97b-f3ea-4b0d-bbfb-6a1d5f72aa24',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '0a0cc3dc-6c20-49fd-bbcd-be44eafc2c81',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'gdp_md',
     '16',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '127341b4-ca16-4185-90bd-60889513b563',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '86a6d8b1-1d77-4061-8404-e59578d6c340',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2641c024-e7ec-46bd-87b4-a6ec659eeffe',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'ac3634aa-739e-480e-8a02-a88a1938c41f',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e15a7ec1-9b1b-43be-8bee-1781d00f1072',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '1f233c39-c217-4389-8003-b81f06ade6eb',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28ea0e9a-e36d-4aea-839c-fd4ce16e4cfa',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '69ee4c62-eb6e-4a47-89be-a90a4518f67f',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'label_x',
     '69.122136',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a367362b-edb9-421b-8717-78fd106909a5',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '7fcdd196-3bd8-4ca4-a1d1-a403615164a7',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'label_y',
     '-49.303721',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'db7935f3-085d-4231-b9b7-c6562ba027ac',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '63ea862d-c7cd-4b5d-aba4-e8ba649c5f77',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a505117-e9da-4abf-881e-52fb83509a1d',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'c188a933-672d-46b9-bb20-642c07887c91',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6b6f61a7-9a7b-4960-98e7-59d8e438c137',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'f1e9d1ea-c226-4044-b7e6-954ac8683789',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3981ec6e-86cf-4023-a1fa-963d26bce74c',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '7c36e365-425e-4249-8574-799441ae540c',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94970e28-f2f5-4d54-8d2f-876fe0d18d8c',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '4f64fab3-32c4-4d59-aab7-e1cad77dbff0',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'population',
     '29884',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06ae1157-3d0d-4c7a-92fe-7c88748ce3c3',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '15975845-d1e1-4a27-b73d-dba715994c66',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'gdp_md',
     '1563',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6416989-f2c8-4341-9fc4-c8de5b76a394',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '87eafa6a-2c0a-4c52-93fd-898d4b7bd27c',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '202bdd91-71a4-4982-bbfc-26948ed5ffef',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '777bca8d-dc6a-48e8-80d2-cdee1f296cda',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdcfada9-7103-40a5-ac27-f0e83edd15eb',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'd3cadf24-9940-4823-828b-1b2882aa1720',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a7ea2f5-317b-45b8-a033-14ba0132e47d',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '435e55ff-2f0e-459f-a7c8-5f70f21cbeb1',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'label_x',
     '19.869671',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c57cbc0f-b969-47d4-b33f-909e14f25773',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '2295a0a5-ed03-4d12-8b02-b5d60e343910',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'label_y',
     '60.156467',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1dd1fc32-4b0e-43ed-821c-d4befd62a79f',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'bfc61bf3-01f9-49d9-8251-9502ef8c6f9f',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96628b1c-0675-495c-a44c-685fc23ce61e',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'd65852a0-a551-4c06-925d-5274cf177fdf',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ce8d273d-100a-44b4-af3c-ad43082e63fe',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '5622aa8e-61e8-4a38-a0af-f3218cfe74d7',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e53af948-b0eb-4a23-867e-4edab8906874',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '4f614f17-dc53-4398-ab3f-ac1712f8ae64',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9114549c-3009-49a2-9b06-7dd0814edd38',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '0ca70dca-a5c5-4722-aed9-88bd55bad9e8',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'population',
     '5520314',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0735597e-566f-4047-a42a-62499c047568',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '6db61477-ac2e-4023-b582-6a0abea5394a',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'gdp_md',
     '269296',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96e3ae59-88f8-40d6-9389-819b5ebfa3bd',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'e097f4f6-c471-4ffd-b65d-113bf5bafbb5',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '59f669cd-7d33-4fe5-99b1-193fe2c09e07',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'f9f9d93e-4e7e-431b-adac-3b1272a8db41',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86e0a8b9-f2aa-4c9e-8054-b1b676955429',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'c008c081-c721-4848-88c8-b4d9f283c6a9',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aec578de-5b0f-4415-956e-6fa2605f87e6',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '4249e69d-7352-4abd-9ba6-5b35d40fd659',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'label_x',
     '27.276449',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd82c95c2-3127-4faf-ba4a-c295e07a17b5',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '53df042b-9659-4573-ad74-87d0babb918a',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'label_y',
     '63.252361',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8fdbe6e-73a1-465b-90c2-ddce26eafde3',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '1f4c416d-fac1-49f5-8275-29428f04ab06',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c23406c0-94ec-4f38-9ebf-3f6f22f19136',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'bc5bbfe6-dec5-4091-9a1c-21a71766881f',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd103441a-1954-4c65-94c8-f59d3d3397f0',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '5294ed0e-b635-411f-81a2-6c011c8c7be3',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'subregion',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e7b38108-0348-4402-a103-2bd4a7782cbf',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '997185d5-0d27-4f73-a60a-3f737d27f76f',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cad24c51-fc44-4fb7-a061-66534a3191d8',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'b4198699-bee0-4e79-86c8-a2c3e85d308c',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'population',
     '889953',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b9eed54-13d2-405f-9e9f-189c32eb7e22',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '326974de-4bc5-4555-a1cd-c4e0baf53de0',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'gdp_md',
     '5496',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4c7ba3b3-0df9-4333-b738-a5359bc67b07',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '06ea7b71-9bb3-4616-b654-edcff1eb303e',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3300dcb-f74c-4a6e-b538-bc5dd64e850b',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'b086b964-44e2-4082-b4db-14abe80c9292',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f3aa081-2597-4214-a545-cc2d76d55bb1',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'fa978948-00f1-4118-bf87-06d89312a7f9',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fd89235-d328-4f5c-aba3-3571d172fb3b',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '6e9d113d-1c86-4314-aaec-369ff20112e8',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'label_x',
     '177.975427',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b9ffa4b-9b7d-4327-a54a-1ce425bdd5a9',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'f061e026-428d-49a9-b6aa-777cd652580a',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'label_y',
     '-17.826099',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52651c52-443e-480f-b68c-35c62e23b490',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '1505f6d5-1628-45b5-a9d3-8aa701932d64',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b384def6-d560-445a-bdc8-00b6508fb57d',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'ae8fb058-79f1-4721-83d4-93c75744b73c',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7bc48cea-a9db-49a1-a8e7-d3ea086dee3e',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'f203df63-1591-41f7-bd07-661439fa5f72',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b6bd0bc-2bfb-4f0e-b88d-ef0031a6ab46',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'be9ded29-e014-40d5-b2be-8efc1abfa4fd',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a2c52307-06d2-4952-9006-10a6780f1b24',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'a677c2be-b192-46d2-adc9-2f33adcc1337',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'population',
     '112078730',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36525a42-e568-4093-83c7-3559792f6dcd',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '0e12aa6e-2a90-48c8-a1bf-4e3b8d08a050',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'gdp_md',
     '95912',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43023418-b22f-4659-8a1d-84c6ffa91255',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '37bc9cb4-9bf5-403c-8300-f7ef32608ecc',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63c29537-8684-4e71-b9b0-430cf45e792b',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '296f5d91-e50c-464f-9484-5787baa925ff',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd33e9c90-86ac-46e4-b44a-773bd270b567',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '653728fc-b001-49fe-a3a8-e7b1074259e3',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe200269-4705-4430-9c1c-1454b9ff55fc',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '2a5ae05f-7f80-41d6-9e0d-bb1e6c0cc874',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'label_x',
     '39.0886',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12fe1df7-011d-4d9f-a108-a23adde2b6a7',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'f31909b9-9424-4faf-a2ee-0a12261ef7cc',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'label_y',
     '8.032795',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12f56b20-d7a0-4a0e-a7a7-eebb483af46e',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '29615a0c-9ee6-4407-938f-344f33d24570',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2e5a594-1948-46a0-a44f-42ecbeb65b33',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '66f2d311-c739-4c79-a644-962d190eaebb',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '587fc998-493b-4567-ac91-22a4c2bfb64f',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'f7f6309f-0264-45ee-86c7-44b5a79d2b78',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '70624cd7-7cd7-47d5-8204-4129cde7b5aa',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '3c865058-b734-41cb-b583-ef07676bcaba',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e425065-4be7-41c8-812d-21c3360653a9',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '7d93176a-9712-4dcf-8140-18b3c6e3e003',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'population',
     '1326590',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '232b0cb4-dc81-419c-a104-8ba5a7e55bba',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '53ef1e94-8550-49a2-9ed4-2b0a84e7bf15',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'gdp_md',
     '31471',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe819dd5-b1d3-4517-a6ba-419bbed56ffd',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '5e3325e4-a913-4e5f-b6ae-69744eed7a26',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3e613a1-1361-45b3-9781-e737bbce9fb8',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'a595a3a3-fe53-4965-8bcb-cfc91c22c89c',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ac46cb82-3369-4053-bb13-6fadec8a72a4',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '4e569152-869a-4dec-a3ce-fc5509d0b795',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '459ea59d-ce22-4872-9378-853fbfc8cab6',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '06d071f8-04f2-416d-a9d6-b59c8fd482db',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'label_x',
     '25.867126',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8693dc0e-aac2-4014-b33d-8d54a0ef6031',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '29a9125b-02b6-4767-92fa-ab5833b4f403',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'label_y',
     '58.724865',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68e26da0-2ec1-43a1-85de-6e764a304a69',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'c30eebb7-79bb-47d2-80c6-e7db7d492ba9',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b03cbf59-4e8f-4758-8801-08fca113742a',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'de41c426-a5d5-4a4f-86c9-c2f255b984a6',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '440758c9-3773-410e-b833-a4be069b1141',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '7c0b5aac-b28b-4b38-9757-bdc385367961',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27703790-9e9d-45f0-8247-68faba3a6b3f',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'e99d732c-a9b8-44d9-bb3a-fc579ffe98ed',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a8f1943c-0fc8-4b30-8cf8-bca9dba1772f',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'e97d218c-b2bc-4cb4-8e96-d07961c672ae',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'population',
     '6081196',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a5a541fb-1e36-4d41-bfb7-9a110cbf58b7',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '5edad01a-e929-42ea-8ade-adaae6d7d52c',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'gdp_md',
     '2065',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f57552fb-0bbd-4f59-b32d-f73859ae35d1',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '57955092-b254-4be1-a3a8-5b450598291e',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6a0af2b-e086-4786-9d5f-ec8ba59b7fad',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '49248800-f389-4524-95d7-295e2c282bf3',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fb36318-99d7-4278-9f0c-eb9825abf1ef',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '5f621e11-4672-489f-85b1-6126b40834fc',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd50d103d-b105-432f-a60c-8b03446d5435',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'd76716b4-d7f7-4c89-adac-392108328553',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'label_x',
     '38.285566',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cab36ffd-5868-482c-9ea6-c6978a5bbb1b',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '07e535c8-a17a-4d67-9499-46db5c027e6b',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'label_y',
     '15.787401',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c54cbd8-21ff-43cb-a4b1-071f01906d8c',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'c9f5438c-f0c5-4cbd-aa1d-d731131ad83f',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '498da384-85c1-4bc2-855b-6d26b44413e8',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'f7ffc301-60b8-44cf-92f2-04ffc4a153ea',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d6d5d50-9552-4516-ab97-ab7195d592fb',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'a5b51a9e-c1a7-4ad9-83fe-a219a3194808',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '11eeb845-ee81-4df4-93a1-4f820e6a063f',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '262bd19f-8b83-40b1-9917-6a384aa4a538',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31fe6ed6-9cbd-47eb-a340-4820fbc72e0a',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '0babadad-ca9a-45a6-82b2-b156da212101',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'population',
     '1355986',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '14276c2b-6b47-44fe-8d67-f3ef04a339d9',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '2796f568-cf0d-485c-b99d-6a696e48641b',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'gdp_md',
     '11026',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5cb39da7-ebfc-4ef7-9a19-e9e44a0607b3',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'c67d4f03-6b80-4f32-bc39-66a61fc0fded',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5a41a1a-a0f3-4e35-8735-aa00096b456c',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'acd6637d-0666-4fd2-9930-0c433d29a56a',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bdc62e8-bfa5-405b-bc74-ce61014ceaba',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '6ecc7129-f2c1-4e5a-8788-d4b5ed14a26b',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d8ae4de-5260-444a-84c6-83932b474ee7',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'fe4a7fd7-4a6d-4fd7-9cfb-ae4fcd174a94',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'label_x',
     '8.9902',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6537afc0-61a9-44d9-833a-c1ecd07e8e0b',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'dd2e2c25-e087-446d-80ea-720505d87bba',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'label_y',
     '2.333',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7eba14bc-4962-4a48-943b-0399e3614b99',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '413b0168-0171-4cd7-98c7-ae8489793108',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cd1bfd3-bb3c-4bbb-ad7b-52011d0b07ea',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'bf54b897-f7bd-40c7-97f7-fd5ae4b195d6',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c0007af-70b0-4d92-87bd-db49d72cda2a',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '755b2fd3-c381-47e0-9b45-3fcc0825db85',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc7d1800-44bc-41c3-b777-9cc0c25b3d00',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '8f19e9aa-4beb-4e78-b3cd-609ee42146d7',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '50b44b74-3ebf-4438-8ea0-0ca082e09e6a',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '2bc35454-daf8-48ad-bbeb-bd111e0eb266',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'population',
     '6453553',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5cab50e5-f3df-48ea-8b3f-3abbc67bd505',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '21e62cc7-7abf-49ee-808c-e745c188df17',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'gdp_md',
     '27022',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a3ae6b3-c23d-416e-a754-2fab4cc072a8',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'fdd99401-caee-460e-9227-96d8b51bb2ec',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '463ce73d-3b84-46d4-b843-d13e1fd596b4',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '2aa3a849-5424-4cc0-90fe-4c6a3ef9f086',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1dd785e6-64af-444b-b4de-7c8af7b4828d',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'd349c359-3cfe-4a6f-b378-3474a979a00d',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9cf65edc-e723-454c-a6af-61501757c256',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '0f45b756-6c00-409b-b8e8-39785ad81ec1',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'label_x',
     '-88.890124',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd0a7f35-d474-4bf3-a343-1ce0d8936e26',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '3d915702-20e4-4719-a944-90c30491fe3c',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'label_y',
     '13.685371',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ebfb202-35cc-45ba-83c4-f4a3943f8691',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'b6455ff1-9a4e-4445-ba78-68b57f9684d1',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8fb6affd-8b6a-4269-b478-7bb90d18f399',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '96e43295-c8b7-497c-958b-1433574a3d92',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9713ff59-252f-471a-aaa1-9249d5ddf472',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'ddf54fad-ea65-4a4d-b425-bb4bd6d6e55e',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0d3367ef-a22e-47d9-8c9e-5e601e7ca00e',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'b75ad751-a474-4f91-93ac-169782610fbc',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18915cad-9f57-49fd-ad6f-ec0eaf554b69',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'efd59dfb-64c4-4630-b31d-b7be427fed4a',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'population',
     '100388073',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d300a8f-c011-463d-a181-71eb348da9a2',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'ebe81077-6ae2-4f31-a213-305042fa2a81',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'gdp_md',
     '303092',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34785ec4-1317-480b-916d-49e2193aa277',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'be4f1589-1374-45fb-9f92-6e2e07bad4ce',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae58ef5a-85e8-48e9-96ad-04a234edf75c',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'c5b57850-87c4-409d-9c9f-b30a7809c6f4',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '33bb614d-8247-4358-b009-24d3bc7183cc',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'a33f883f-8758-4209-8cb9-208cd67119f5',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cf22e72a-32eb-4ab5-a764-2406fe1282c2',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '4331f8f6-06db-4f8e-9017-d425dc781bf7',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'label_x',
     '29.445837',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2cc5b9b2-0187-4f3d-88c4-2a6b4761ad46',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '26430ac0-349e-4ac7-b0b5-17f4a0a04b0a',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'label_y',
     '26.186173',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17b5fb86-9154-4de7-b1e6-7f441d1d9117',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '38648042-255a-43fa-bb33-724513e134d4',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5202f3b9-b0f1-40cc-b99b-4d2d51fc41c2',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'cd9bf4f2-330d-4964-94ee-969c068dd7c3',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8928657d-cb43-4998-89c5-3cd84ce797f4',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'ac9b3b59-a740-4303-ba84-b52414c987a7',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2aad15a8-f22c-4e7a-b78c-b020215b34b3',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'f5b26870-ddad-4020-9345-b483450e096c',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34355436-4f49-4537-940e-bcfdf3c2f4db',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '32080cb7-a965-4ff1-984e-ca59dd26bbe2',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'population',
     '17373662',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e52e5202-ceed-486d-bec8-c5fdb9f13b24',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '9b18182d-6895-4baa-8c9b-86146452b335',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'gdp_md',
     '107435',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab9ba738-e237-434f-a53c-010515832265',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'a04ca330-d155-405d-906a-4b0dd3af1502',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bdab4414-2900-43bc-881d-1085541f4bdf',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '3d556573-bd05-48cb-a310-23ef6a2f36b4',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1ec8ab6e-9bd9-4a7c-b277-5da1bd968329',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'd518b67b-fa6d-416e-834b-fcd3b2190242',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '81d0362c-9eb8-4201-a969-21e8af96b262',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '95923932-a9f3-4ed3-8f7f-609a658b8b67',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'label_x',
     '-78.188375',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ce8e818-c165-4d1e-a7cb-226ddc57bc76',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '81c27344-088e-443c-ba7b-d53f428e5661',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'label_y',
     '-1.259076',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64729808-5b15-49ce-8c3c-0a6fda587383',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'f91d2fe5-3ab8-45b9-9744-a43790ed69d4',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e681eb5-4875-426f-8a75-31c3ae0c8850',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '2e482540-9288-4282-ab6a-7d3435319223',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3719dce6-6c83-47f6-a17f-114a016e0804',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'acfd8748-610c-4159-a9f9-d96a7c592e1d',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e3a059a-15c2-4f1f-9af3-7f8d73fdadb9',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '69f942e3-482a-404e-8f38-12aa9b758ded',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd22169c0-5315-488f-8c48-9b02b3f4c673',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'd028fc4f-ca08-4ca2-91fe-61dfe6e07c3f',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'population',
     '10738958',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d524b0d-4b17-4104-b542-708c4f85d091',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '4395e1f1-35ea-4f10-b91b-ac81383b7fa5',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'gdp_md',
     '88941',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3cd95de-e427-45c1-8972-15d1891fb879',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'eff8c85d-9696-47fe-b501-cfe2d0e52854',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3394e0e-6bfd-4fc4-9aeb-6337919361e1',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '7f9beb1d-f941-4860-a899-0199c23bb564',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eddeaa16-5c6b-4415-9a93-6c5e77c20c24',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '444a566e-e2d0-499c-a1f6-f91632602ae6',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f365c6ff-fffb-461c-9d0a-7ab2a99bedca',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '701e89a0-4ff0-46ba-8eb6-d87e97231c97',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'label_x',
     '-70.653998',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44e8c4d8-0f25-427c-a938-024b4b7e5890',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'e734184f-8bdb-413c-917a-25aa71ced7b1',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'label_y',
     '19.104137',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43b73671-1169-44b9-b3b9-b709ce5c375c',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '1ed8759f-6f76-4b32-980c-917260600f59',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ab771395-9f3e-4262-8828-1cea414cfe64',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '00001014-8161-4bf2-8820-baa5ad2fc157',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e2a7f70c-eee2-4de5-bd1c-8b47d884b4ab',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '490f4dac-4aa5-4aac-aba2-bb57608a7df5',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e500cc2f-6e19-46e3-808e-3b0095effa72',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '762df94e-10f0-4d3e-9b47-93b0c581683c',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '480d36fc-78d7-4dfa-8fd0-aaae65639611',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'ef212db2-bd2d-401d-8fc3-5e52ed7a1be3',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'population',
     '71808',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b67b8c4-0576-4069-8069-ccb10a823dd0',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'bf9c287f-d3d2-4bc5-a762-f18f6f362adc',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'gdp_md',
     '582',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c29daf0-667a-470c-a79f-39673115ba56',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '145ad4a9-0448-48a0-9160-dc766e8ac34f',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c053d0bb-0425-4efd-ba40-3dd34215f069',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'bec09209-7103-414f-b48c-525856586187',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98914c67-a877-4aaf-82ce-345d710b15b3',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '4be0d715-75fa-4b1e-aa4b-27e3116a0f7b',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a2fecdc-5815-45d6-bf8f-2afb8f19e67a',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'd6fc2ec4-4a53-47ef-aedf-ab20d486464a',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'label_x',
     '-61.344958',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7609ff92-a25c-4fc6-82c8-b451170d4a10',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'c90b3341-7ca2-43f8-9737-c1d7fa02ca72',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'label_y',
     '15.458829',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '725f033f-b2ab-47af-9cce-bde5391a1cf2',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '58ee60de-f80d-4d4f-83aa-b8e361415a9a',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6f8cbef1-ca6a-49e7-8864-5e7908258672',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'e2f3e2ea-291f-4179-8c38-df405d5a3691',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20181042-4f65-4dd2-af9e-7a25a2a42e30',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'a6a4fdbf-cde6-4e2e-80b4-f97281aff064',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbc8ef07-f900-4c58-84fe-c7aebd00a1a6',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '513de4c3-c18a-4118-8957-857a36d8ad00',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '981d13e2-1b32-450b-9d67-c666a44776db',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'a3ab894b-3d03-4857-8ad6-3a9bd5cc7320',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'population',
     '973560',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aca2f181-1f57-4160-be42-3fed9f5b7b8e',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '56f691c0-ac58-4750-badc-d56f308a9149',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'gdp_md',
     '3324',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6cc78b13-695e-447c-ac5b-1b69ccda4a9c',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'df2113ce-751c-4e9b-81f9-da3a27c17dd5',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1704d09-0a6f-49a3-9122-91c9d31bd839',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '2fcabf1d-85c3-42ef-b981-729fca7e9c2d',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a02640e-3aca-4be3-b25b-ff4cb4b0cbb5',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '342d3728-33e3-4f1d-a199-dbf6c7c8419e',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbb428e5-6539-4f93-a0ed-7822b7eff3a0',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'd9c91379-2004-4b81-9adb-8a2d3c9f2531',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'label_x',
     '42.498825',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb9e07a0-02ec-4413-937a-4796151d6beb',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '006f0f01-87d2-4cfb-a773-2d4a93991ecd',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'label_y',
     '11.976343',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3ab60be-cc7c-4436-bdc9-b1a7b5847a7a',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '8cc17988-e8fc-483a-be28-e83b80b0092f',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5f9aa22-0505-4ce7-b792-29fc25f7381f',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '16b4b9e7-5e37-47d0-aeda-4f6e5d3befc3',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5358cac5-7b16-4227-b888-5d1f2f0d8686',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '62670fb9-9116-4912-b285-b5c14f5f49d1',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'subregion',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e6ae85c-cd89-4e56-9fcc-4d759c93f2e8',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '4b2e4a44-806a-41e8-b88a-a16363c8ab30',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b7acb43c-6db6-4caa-bccb-1cc2d7c9cf61',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'e5908290-43ba-4aed-b8b8-e26f4954b9ad',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'population',
     '56225',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c04ce19c-a89a-4b8c-b69f-8bbd5a2159fc',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '787cdaff-a9a5-4857-8052-a6abe324a8c6',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'gdp_md',
     '3051',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd012b2de-b4cc-47d8-b0db-7390ce6639ef',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '2e2c4dd4-c2c7-4b1e-abb4-c4c65d977f57',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1f5e29aa-dbc7-42e3-bbc1-4bf35b03c860',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '75e6136f-e86a-4470-920a-b4410c9fb75a',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b232b525-f027-4164-81ea-3ee3fe159f2a',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '5177c25e-3bd8-44e3-9579-ddc110809e84',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '818779c7-71e3-46f4-88ac-3847392af0a3',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '14728953-d357-4ddb-b67d-cfbd5742cd0e',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'label_x',
     '-39.335251',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef94500f-bfb3-4a73-bfb3-9411f63b7fec',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '4e0948ee-ad51-4429-be56-38a8f3e8ee7e',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'label_y',
     '74.319387',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7901e3e3-832d-47c8-9bfb-8a3e31ea753a',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '125c7c6f-c863-4934-a87a-964dbe4739cb',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '76866261-b15a-4fff-b644-089aade2c8f6',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'b4cd4c9b-b941-463c-b9b3-0abd93f46a56',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e54e977-46ac-414e-b844-bfe1995fa1d1',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '5d663fe6-a91b-4558-bd67-a7ec28bea974',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88426d4b-aa28-4f6c-a475-7fbe463996ca',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'b5080afc-4297-43a8-a3a3-006a9ef06bf4',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f3915a4-e8cd-4fea-bc4e-847139ab422a',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'a0f37afd-6788-4e2c-bd3a-a725cc093a25',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'population',
     '48678',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2b608b9-3988-4104-ab65-98d404c7fd4c',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'f7cf60e4-4e59-4e67-af15-385bd1c84b90',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'gdp_md',
     '3116',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86970865-0d5a-4da5-9bc1-23a773a87760',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'cce51c7a-dc3f-46c6-b2fd-16794afd767b',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca94b58a-abc6-46e9-88e2-a665f63d8213',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '751edd7c-71b4-4f85-b6ee-14dd2746e7c0',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '391dd50a-ff11-4e34-bc48-0b6c012cbfb2',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '3df47d9d-ba47-4034-b9ca-c146357bb015',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0765e0f4-91e7-4cbe-acbc-39291e830abf',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '11f5e7c6-0d73-4936-be3a-4ce043b651d5',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'label_x',
     '-7.058429',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '677b5e0f-5825-4222-839e-e825d8d0abd8',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '327d1b50-aa98-4f8f-8851-fc50c9e8c933',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'label_y',
     '62.185604',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '12fc9c1f-682e-4de4-9ec4-753d423d0395',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'e1eb85e4-841d-46e3-8352-8e662b44a110',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30024aa7-2d22-4405-a5c4-8f48588a5dda',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '9ebac4f2-9de0-4257-a9c5-fce4ee27c910',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b9c3306-5343-40c0-ae7d-cb932e80a662',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '3fe9b5ea-d1f2-4f18-8460-9336871b6590',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'subregion',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bafce959-b1fe-4399-870a-e8e7ef0b8404',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'c37ceb2f-af96-4192-9390-36372f3d5845',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91040aaa-9a88-4979-94e8-1c9460343923',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '27fcc128-5d08-4a92-8d37-f6a06bf40358',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'population',
     '5818553',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24514a1b-279b-4eaa-832b-37630bff51a0',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '5cc1d645-ef89-4970-a424-c5e355087203',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'gdp_md',
     '350104',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b51aee35-37a4-4894-b5cd-dd8b77f06e33',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '4febf893-ebd6-40ae-b5da-7e19bdfea2cb',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '021a92ff-2202-4292-abba-8f2dbc2eae09',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '02031a70-21ce-4a7f-ad32-2ce5e61b8464',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '266567ce-7e22-435b-91b0-676b73f271f3',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '50ffacbb-8a50-4f66-826b-07e063954df9',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94d2edf9-3b5d-47a7-97ea-6866417d6d6a',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'd1edc746-98f5-44f2-8f89-492213040044',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'label_x',
     '9.018163',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0b9407f9-9cb1-4938-9da0-6710c0b8dcf2',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'afb06432-51b1-418e-a8ab-21712527f0de',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'label_y',
     '55.966965',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1859cdac-a554-479d-b5c2-cb90e1d0ec84',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '75d454c4-e900-4918-a92a-57d5442ebd63',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '39c09de1-88eb-4780-b537-8106e7a39fcb',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    'aadfac46-e886-4771-8dc7-362e30681358',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a946122-b11b-43a3-8e49-d71e85ebe517',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    'cd781476-e4f7-4831-95d3-bde23a81f5cb',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '303d4501-25f0-4323-9d45-5ba6578fa1f3',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '867d31de-1892-4025-9a99-e0eaf141a683',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd0824634-c3d1-4b99-bf2c-80d53b55eab8',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '9f1bc8f0-95be-4177-ab59-f0bdad5bedbd',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'population',
     '10669709',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73db0e99-65b4-4280-a2ca-a5a0bba26b7c',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '118112ea-381a-4a1d-aea0-9b32c88781be',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'gdp_md',
     '250680',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f812411-78d0-4047-8905-2b730749375e',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '5381d1e0-7ce4-4d0b-9ed9-42b16e5a015a',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b4b76501-af2b-47ac-bb8b-797ad63023d2',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '1dd01f58-24f0-4dbd-bd63-61da2a797b6d',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '809edc5d-f52a-413b-9d50-cb7f1a448948',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '8339b002-0083-46dd-aa29-7c65a6dc74e4',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3009f3a9-aedf-4c53-ba19-112d12cefef3',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '0d0a5be7-6a85-4a9a-b02b-9f8a85f96842',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'label_x',
     '15.377555',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51e03f19-b7af-4303-82d7-e271d3b657d4',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    'e68b853d-1e60-4dad-a1aa-a772683d2aac',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'label_y',
     '49.882364',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '493c6ece-5aff-46ad-affd-94cb16b127f7',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'fc2366fc-a6a9-4822-b21d-a6ec4ffadca4',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6ec64301-c27b-4a9e-8499-7420bd0d62d8',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '19aa2c7c-1d78-4ba9-ae2d-5d09e31963bd',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e4de3e3b-877f-4f61-bacd-bb9a3cc7faef',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '24f65f94-226b-4aca-befd-0b2eb3631675',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e3de2738-0b80-4548-acc5-d2647c5d5ff1',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '98fcfe90-018c-4f94-bd27-4a2999458990',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5663f2b8-b053-4098-b758-a3e1a01ea9d7',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'b2f288a5-3120-4c4e-88ac-3960d4be4aa6',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'population',
     '326000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '159b1e00-1fde-43b5-bfb2-ede245ea8efc',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '99a7f81b-cba8-4071-9b24-6596eaabdadc',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'gdp_md',
     '3600',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ce4afd6-84a1-4f26-a68f-fd5e3ccb3712',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '868d00e1-deab-494d-aa96-620a37809cd6',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a2b9351-244f-4530-adc4-c139ae89dda0',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '1e7d7c5b-4cf1-4cb2-83c8-99f52409cbb3',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '660e44d5-bd04-4ddf-b15c-184284df070e',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '9fdef3a3-fe1d-4275-b153-f1100f8c0295',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd850b0de-2bff-40ef-a449-5481a3b9fbb6',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '01fd0fb5-373c-4092-a37a-14c8f89e28d7',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'label_x',
     '33.692434',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '387087cb-e017-4a1e-ad36-f6ff61d933b9',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '36669771-f010-453a-8cdf-dbbd85a965fa',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'label_y',
     '35.216071',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '09ec762b-6ff3-4b65-91ac-ca701d0d7f82',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '1bd386d4-33de-4622-8572-3978f8006866',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2bde66be-c10c-4003-a592-1dd71bab27cc',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '1150aaa3-27b6-4a78-9a9a-f1af5127b27f',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7bf897cf-49e6-4418-8494-18a68650e7bb',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '9f8be16e-895a-4e43-8acf-1880b42d91fe',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f6c9da0b-0f20-4ff4-99ad-73a4e652dd18',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '47cd6b1a-f5d9-44e4-87d2-39d822ca80a9',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '332829f1-0937-469d-a39a-ed6168319411',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '5a603648-9be0-433d-ba2d-a3856c202fc8',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'population',
     '1198575',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0fb17ccd-2c0d-486c-992e-6201fb24ce58',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '091266c5-8364-4ef1-b54f-162fdc5ed5b5',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'gdp_md',
     '24948',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c08c0278-8984-4478-b07a-7a4a13f66ec3',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '5c89d893-12ff-4709-aebd-883632a97cdc',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1fc5e79-451c-4e15-b35b-34063536b3f0',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'c41cfeea-727f-4309-90bd-0864b99893db',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96d280b9-0f72-4fb8-a79f-e823c7a26b73',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '1cf44664-1a75-4961-9d48-c22dd377fc3a',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67ea7e9c-d0f6-4f89-9169-675ba909dbb8',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '09e45177-0f12-42f8-a0c8-e6871e4ab511',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'label_x',
     '33.084182',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34a2eb03-962e-4f06-a806-f565743d0ed9',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'd1645104-8ab9-4144-b508-0c9c08954763',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'label_y',
     '34.913329',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4362cdb3-85db-481d-aeb1-df2f1acf4883',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '1ad5eafa-eb2e-471b-991c-655bf1d0f0f0',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b3468df-0c56-4417-9cdb-ba7cf879058b',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'a910cd1c-fcca-41a7-8319-0d9d74c8a75f',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '823e0cb6-a168-4ab1-9e78-03f66b1a649c',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '85acdbb4-42e3-4a66-af1d-1e279f826aa4',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '70d09006-e69b-4d49-89bf-2c3f8133583f',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '7ab2173a-97b8-4f6c-be1b-e91b52e9e908',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f5608cb8-bc1b-40ff-ae81-48d5820960ff',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '40e1f8ce-06a9-498f-8385-a5b5ac49d126',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'population',
     '11333483',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1d169a0a-b58f-4720-b53c-e4c46957208d',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '6ecc785e-b998-4945-86a6-8f4782b05a78',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'gdp_md',
     '100023',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d88ef93-347f-411f-94bd-dec1408eeeec',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '68930448-aafc-4993-970e-47cf4817aa95',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '56d0300a-1fdb-42a1-82ad-ab0cbb2c7689',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'b0938b95-1df8-4d40-9209-f28c5f0e0d48',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c28310b-9559-498f-aed6-6aa534b1f052',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '0a74cd48-b53b-4d71-a3f2-ee5c0ee7e69c',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'type',
     'Sovereignty',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '614a5fcd-c64a-4ac3-96c3-699e930c2cb3',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'a3d1fa83-4d82-462d-960f-1617f9e32c0d',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'label_x',
     '-77.975855',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '59115191-7bd2-4d20-83b4-6913218e8bcd',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'df8f6529-8d6f-4c0e-b28f-20257ba239e0',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'label_y',
     '21.334024',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6af65c39-0a0e-4199-9f6c-762f7ee94fd3',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '11a7a76a-ee81-4621-90ab-cb2ab1204ac5',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29f9fd6e-943b-4b7f-90d8-b31262458d51',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '568bb80e-1934-424c-a11d-52cda8715c54',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82600641-731a-4cd1-a7b7-4996d65f1d67',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '524776d3-60f5-4ffc-b3fa-70d31519a24a',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '612aa64e-d4f9-46be-b122-c8212c6cb0d9',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '7595049b-d03b-4751-b52f-7d008e60d478',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '566edee7-7a94-4914-aeb2-211b835120b1',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '1de7f84a-405c-4c92-b0c3-37ac7b9a8dec',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'population',
     '4067500',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6cd7249c-c001-480c-8453-a5ec3e093135',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '0156a59d-432d-43fe-9f00-159078e24015',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'gdp_md',
     '60752',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ace3ede1-30cf-4b1e-b0a5-83c58ea155d6',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'd29a792a-c045-490c-8acb-e83dc615b475',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '62982157-8780-4333-a092-18442f5eda31',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '650754d6-930c-49f2-ae1c-dec379e11b52',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6e2eac5a-6ca0-494e-8244-2d88ef49ccc1',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '2690f1e4-78aa-40cf-9f9c-a43d1b832d78',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f409697f-00d7-4e87-b7e0-8e5fbbd18544',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '5a8b1305-3e44-42d7-a5e1-33cba07caf0a',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'label_x',
     '16.37241',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '222b3327-a764-4db4-a84d-4217fd2cf963',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '2940aa6a-2377-4a95-b3cc-7a20f9612eb5',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'label_y',
     '45.805799',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5dc5ec64-ccd1-46bb-bc61-a98f4f4f1a41',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'b12fefcc-91e3-42fe-b2fd-b9b24e3d271a',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8018dce5-5dcd-47dd-9dc3-4df3267dc75d',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '0ca84500-dce5-489c-8110-d077d0613945',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c8f8c54d-d84d-46dd-8dce-d76bbe061004',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'c3be6262-de1a-4d88-b5de-7e9bb440c3ef',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '80ddebf5-bb28-41bc-aa91-8c10e9fcf092',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'c2a2ef9c-0738-492e-95e6-3386d9b7b845',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5c94a1c9-5ca3-4234-874a-9e8ce395bcc6',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '59654e65-4088-4334-8867-3d2d784ed5fc',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'population',
     '25716544',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b2d77910-b377-44de-ad66-7321d2fb7884',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'e86afa08-e46b-42f1-8a5f-e46c223b11ab',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'gdp_md',
     '58539',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '048007de-3c09-45c4-8870-79f57a25238c',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'f802b95f-da36-4692-bdb7-6b82c1faec84',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9598dd7e-1ba3-4e76-b1ba-3ccb95dd75b7',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'fe9d597f-da44-4529-ac10-3ae559b81255',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b5f39ed-f28a-4d8c-9f43-9f9206e1efe9',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '941d7f41-ae48-4e4c-8125-f0da0230c844',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aefde87e-0ec4-4f26-a022-17380b71d225',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '77a04e6a-3996-4375-8c67-f2103408e58f',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'label_x',
     '-5.568618',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '48b194f6-df99-48a8-b9e7-ec000cf55fd3',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'a6003e6c-4065-4fad-a0f2-a77f914c337a',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'label_y',
     '7.49139',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6993dee2-c6b7-4fb5-906d-f1f65cb70c6a',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'a75c9f25-433a-4a39-9288-4cd211a9d8ef',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6e4fc7b8-3b48-4dbe-b099-ab39f2dba371',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '644bc7c1-3248-47ff-a683-bbc9f6c7a6d5',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '89750048-de37-4cd7-83ba-a765f1a591a1',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'd908e4af-6f39-4191-9181-cf8618e1b073',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d8fa5fd-5c91-406b-be07-b1b21d3fc056',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'e4a6ecb3-7836-4fee-9153-418d52419cf6',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23cdbabe-05ea-4b33-ba73-859eaf1bb27e',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'aa02b3b0-ac76-4778-ba23-dd44ab9bcf5b',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'population',
     '5047561',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be0a4610-23db-4dcf-a04c-7b38a3baee3d',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'c78b71c7-f404-46aa-a172-924b02820abd',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'gdp_md',
     '61801',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '524b4387-bff1-4eb9-bad0-a9f3ae8f10df',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'bf81acb6-a16c-4c17-98af-9c1085b6ee85',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be932f85-7736-489a-b7d9-71c39468892c',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'd7aa0feb-e992-4483-aa34-6e1ee95d588f',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f77978b9-8348-4ffa-8548-a8df4ef59ac5',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '896ab963-0fe4-4a9d-bd47-bf9a36c072ef',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6173f975-8fd9-4d92-9696-06b218ee6f4d',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '08ecc852-bb98-401f-b241-159a609b0853',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'label_x',
     '-84.077922',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '275bae68-572c-41aa-9ec5-4e7cc2768e50',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '1babd70d-d462-43c2-91c7-fba2bd9d29c2',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'label_y',
     '10.0651',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ff49d8a7-00f4-4f6b-8f1b-1e431e23903e',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '8e31f9e2-5760-471c-83f0-64fc5cbc856a',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00f9404c-f08a-47ec-9fee-5a5ab7b428d8',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'dd824e7b-2c19-4bd4-8e4d-f80d207b37b7',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd0b4d236-0a43-446e-8c17-82f5fb21939f',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '7ce051a1-24fe-4fcb-bacb-4f277483b016',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15cee57b-8945-4024-a331-28a799fefd30',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'c20ef7e5-081b-4d4c-8ce1-d707d6d4a5c2',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '79b53a10-5356-47bf-897b-4ca59120602d',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '6edf8221-f37b-4f20-86fa-c033e88a5d14',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'population',
     '86790567',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '35dbe789-c967-4672-89c7-839f3a11e54d',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '82c06523-d1a3-4917-83d4-2e47f64a8d58',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'gdp_md',
     '50400',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '83abd887-17dc-40ea-aa23-9fdc60461cf0',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '2b2d7073-f71e-4cf5-bf6d-8b18a3610721',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00ab8233-b262-40fd-bbc8-67460f09b7e5',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '52a1d350-4e6a-4cae-86e9-b3e9a1fced85',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6ef10387-1bbe-44cd-9ea5-5d93fa7660dd',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '6f072883-ed7f-48ab-9b29-0af1f61d1e7d',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'efcf0d89-cce1-4cad-b85e-d2eafab5ef67',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '87db6dc3-4d95-4865-8e09-1677b9316d05',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'label_x',
     '23.458829',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bdb0c2c0-75f9-4332-acc6-15632d8a2b7d',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '20f68a31-8045-445e-aa9a-84cf4d355c95',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'label_y',
     '-1.858167',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eaa0d45d-3df6-42aa-9579-85d42316c9a3',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'c2600d68-4746-4d67-b489-d653e5d32a62',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '816afc06-09cc-4672-8b8f-94e5f231ba06',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '9d7010a8-9974-4376-b288-517eefe11380',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3cdea3d-6542-47f7-8e86-d056832aabba',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '0befd768-e2f8-4f53-9577-525cd3cffaa6',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7ec52a26-eb3f-4d80-9ec3-da2a43594b9d',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'ccd049a1-ff17-4cbc-bc85-4ef2dc441b77',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44a2b81a-fa4b-4636-992f-f4675ff52f43',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '4d5e19a3-d5fc-4854-8911-36b6618f5e02',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'population',
     '5380508',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98bac1fe-0255-4f55-b4cd-ae6849cb461c',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '46d8d0a1-8d09-4953-9939-d01b698a587f',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'gdp_md',
     '12267',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cdea389-8aa1-463f-91d7-0cb41797bd31',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'eea830aa-365a-4c0d-a35f-e5ba9a039932',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '031cc4ae-865d-4a28-8439-f4be45169d36',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '3901b749-dade-454e-a7fd-1fbc0d17917e',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aa8b3392-d90d-4ff3-ae5e-241fa968aa93',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '44683606-8d1e-4112-8146-2ed8e952c1b9',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dac49da3-0921-437c-94c5-ecdcf1c00a16',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '6a112ed6-9cf9-4140-8198-e8741c6dfbed',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'label_x',
     '15.9005',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b7a1aec-5774-43e7-a2fb-e760610362f9',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'dd647ad5-4502-4d26-af62-59af94f3de47',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'label_y',
     '0.142331',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aecce430-f09f-4f0a-8a5c-b74dc713f566',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '59e8b60d-eea7-447c-9423-0b681e54e798',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21ca7536-fa3d-4d34-b207-bafbc03f08d5',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'fe45868c-e3bd-4d0e-9e50-9c7358c01a08',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'efdf75f6-c122-4a9f-bf7b-7dc09d1f55ca',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '1f8ae181-a723-4910-92c4-652141b66033',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bfe48874-20b9-4a82-b3f3-950df5a01b7b',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '743be3da-c2e7-421d-93ba-208ee1e1721a',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'af648cd3-317b-4072-8116-522dc5ba261c',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'a403d5de-396c-462c-8d16-53d2b4ff667b',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'population',
     '850886',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b764d288-5a77-4cd9-a9bd-f708a76fcdd9',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'dd3e4975-e58c-4749-a67c-1d0f4ececda9',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'gdp_md',
     '1165',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fb9c09d-749b-4cfd-ad3c-fcfd31011e30',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '3736cca6-a0cb-4618-8b91-ad6834bcf445',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd757254c-cabb-42e5-b24c-64ac6c8c8011',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '700fa319-481d-4019-ae27-e0c7400f7338',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '99175a91-775d-4919-bdf8-86fdc9e2f473',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'a3ac9d64-f0f8-451a-a41d-9f909143dc95',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9d3d3407-a4c2-478c-a6d1-23f3cd9d434b',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'd4d66f9d-983c-4fa7-b6a4-70b11891b51d',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'label_x',
     '43.318094',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c9eaf1e5-bb82-47a2-bc16-6e7f2227076b',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'aebf8bf0-2a96-47c2-ad2f-a12a5215518b',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'label_y',
     '-11.727683',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dce75916-96af-4921-a5fc-464d100f8736',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '8897c5dd-32f4-49b5-8e34-f713416dd1a4',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da55b9be-75aa-4b30-b48f-7b17bc851d2e',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'a398bb57-8a6d-4aff-a635-58efc67cac66',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68a86d6a-acf1-4ffa-aff3-b98575ffd585',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '1a8f2fca-38b0-4bc1-bd0e-ca6ca45dd82e',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6ef51c8d-f91c-4044-8c38-bada4a720228',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '27d96d45-199a-42fb-8e09-72a28682bdf5',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3cca487-dc3d-4ad6-8385-acecc6f1d044',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '895a01fc-fe21-4e4e-a40e-c74129ab505a',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'population',
     '50339443',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '198c03ef-31d8-4e57-a5a9-0bc5396b1d22',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '59c9bb8a-7982-4d3d-9fd7-d03869fd8e25',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'gdp_md',
     '323615',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da96adc0-222a-405b-9087-a3cbeb24749b',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '84f041e3-dd5a-4742-9e7e-f736f45dc60a',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03ed3ad7-3fcd-4e1e-a585-c940b1ac2005',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '79fcfb76-3f6a-4253-a333-a906d97bdb4c',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f45b2ef3-ac12-4295-b5f1-9fad2335ef62',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '3399cf21-3268-42be-b943-0d8f3e263891',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '758630cb-fae1-4c7e-8783-c0dd9fe4b9d0',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'd1a00c03-3541-4d4c-83bb-55ce625b482d',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'label_x',
     '-73.174347',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a969862-4704-493a-bb04-43f4cd6b2eaf',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '7cf6dbf7-507a-4718-8f3e-90dd083c4d97',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'label_y',
     '3.373111',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6df89e89-2a4b-4d95-8167-7f6a12ea4fc9',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '9f284aae-5e7e-4a41-a8b5-4290a6ae7505',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b46ab02a-5c99-4677-a7fb-1d19e35011c2',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'da7dd227-0076-4c98-a4ea-57ef68efff90',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cdb1317e-51d8-400c-bbf8-9579b5ef0bda',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '249ec30e-8787-4c3c-acaa-06d4beaf42a5',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f26072b7-0522-414d-a5b7-d197fab30b5e',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '0bb9cfdd-8fdf-4281-86db-e7b7cc7488c6',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5de6ecaf-96b7-4e86-8277-ba1610ebded4',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'cdfecd06-fce0-4311-8370-3bb9a90dda8f',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'population',
     '1397715000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c4e8416d-ace0-4cd0-9245-d32274106b58',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '1c554a3d-9e0c-4f11-993c-1f55bd0bc5b4',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'gdp_md',
     '14342903',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ff4ade01-043c-480f-943e-239d2a92be2e',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '6046733a-7529-4970-828d-06e90a8ba207',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24e32fd0-2783-49da-b502-c65c5a81db64',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '0a2d02e6-88a5-4ed0-8fc6-00f67abb7f23',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5f7d0e24-f8be-4d04-ade3-78b77e74caf7',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'b110a7aa-015b-4958-99d2-7ff81c3dffd5',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f91a024-4195-4e64-818a-4907f0f874e1',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '9102dc29-da5c-452d-a6af-60b9446be11c',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'label_x',
     '106.337289',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '750518d7-a3d4-44e7-b247-00ac5ab11c43',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '0f93bce7-9e04-4d05-ac26-13593d14c180',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'label_y',
     '32.498178',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84732bae-d029-4ae9-8129-6e1d14bd30eb',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'a3b02299-88ba-49a3-8366-66515465825d',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b0053c07-eff4-4ddf-9803-41fc3b818546',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '6791e63b-7c75-4db1-85a7-e696275ec467',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00feb607-30a9-49fa-954c-0afee50b4d87',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '03c83f3f-87ab-4d1d-b0e0-e4e2d3ef4e6e',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5220ce8a-744b-4516-80b8-2bca48de7f6b',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'acebc3a7-9f16-41ec-98e3-6e98c0e7c19e',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b76370d1-f392-4fdc-a365-eb39563da7a2',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '42921fa0-6a8a-4afd-a2e1-2e38eb80c221',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'population',
     '640445',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2d5b769-caec-42c1-bd95-f88f04c82563',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '111d076f-c2ff-48ba-9603-a8efd695a6ea',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'gdp_md',
     '53859',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f35b3eb9-24f9-4f91-84c4-d934504b6d2f',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'a45a1b42-d919-4b41-aebb-953e493ba97e',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd167520-4730-41ce-a0ef-3acfd5861c2d',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '8e9c1273-76aa-4925-9169-4d087c33dbc4',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f141d7ad-d9a3-49f6-b670-7001fe384aab',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '57d08308-42ef-44e3-8c48-aa5aad05ad92',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3aa83b51-9a2e-450d-a528-318180af27b2',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'b292f3af-aa58-4fdb-8cc3-010704880f0f',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'label_x',
     '113.556038',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91755a91-660f-429b-8a3a-81db0c40b157',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '5fd10410-e0c6-4be8-ac94-f727a64b3375',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'label_y',
     '22.129735',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '176f072f-db18-4bc1-a545-4bc3f43632ac',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'f16b9f15-6d51-4e0e-a0f4-b6ef8864ff6f',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef8b6034-3c19-48a6-8a43-9dc5f4b8a981',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '52d37ef3-30fd-4005-be7b-e269781e4f4a',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7e33a9f8-c2b7-4fd3-ace9-549b39897520',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '1ef5a7d7-b7b8-4a87-b848-a516d5a16dcb',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'subregion',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fbd48333-93ca-40e5-b496-64cd4fb1c800',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'ef0267ed-8f91-4a88-8882-f7afeb13cb63',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0142ca6b-b5c9-43fd-b369-5766b09c6656',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '1dc111df-106d-492a-9d54-b62d6775f313',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'population',
     '7507400',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '36774418-dba4-49cc-9a3e-34f42f3e0878',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '53bc85cb-b0c3-488e-8acd-0f17b0f7886d',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'gdp_md',
     '365711',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c1ccaac-cd95-4bca-85db-fefc4aadfeea',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '005dd57a-e26d-4732-a955-3eaa28e0b28f',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a78a1e92-059a-4271-b526-b6ef282769d4',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '6fbb350f-c606-434d-ba6f-a92453b3127f',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a5dd3b5-3484-4c74-9e89-7a8947875968',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '2c633eef-37bc-4c6f-800f-61b3e0f03644',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8aaf85aa-3945-4988-a192-5a18d5088411',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'c551aa09-3eb9-47ac-a59e-9705cc0df3e2',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'label_x',
     '114.097769',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c109fd2-0c11-41b9-a61b-a92b9d88ca13',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'd4041846-d060-4659-8976-c25a772e5ddf',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'label_y',
     '22.448829',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'db9b716a-9c35-4b2e-8163-f6a524c76403',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '6230acdd-c893-4937-9d14-829681034da3',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'babfdc7a-60ad-4ee5-81f0-95a8f91f73d0',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'e590bd79-8160-428b-abd3-01f0becfb3ad',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '796e4065-65ee-4160-b788-001ef1fe519a',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'b68f7326-0cce-40f1-b5f4-c781162c0fe5',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8044d059-889e-4c2b-b49b-c6c035564378',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'f4037784-cabe-4d98-b6b7-44b3f45a56da',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fbe0060b-c589-4c16-a029-2a29f91a0aa4',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'e362a5ae-14a5-4fae-bc42-7ee18529c17f',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'population',
     '18952038',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a0e7a880-e031-44de-b3a3-e51503b0587d',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '5cd7f860-4e5f-4c1c-a0f9-39eace685e3c',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'gdp_md',
     '282318',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a53eef43-cd01-4caf-a29a-7075a1b671bb',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '83240182-8609-48c4-acf2-96726168f8af',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44ec8ac6-1189-4366-9377-ff6cbea1d49e',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'b3d274c6-b82e-4e15-ac30-794aea58182c',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e238ec2-de18-4297-a8a1-02d2f06e2a41',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'b6fb42c7-e86b-49b9-b146-5422893dfbed',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90a16345-f65f-443e-ac1b-3a315fdcc400',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'c202409b-b435-4adc-9715-298967bc1fb4',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'label_x',
     '-72.318871',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '382941d2-6f90-4667-89dc-57972fef1f0f',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '39b6cb65-6482-4856-b304-3937d5a56067',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'label_y',
     '-38.151771',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aeb8af99-4578-4284-ad6d-d775de45ba54',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '8fe12149-6782-431c-818a-b1882647b35a',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3faa5aa-196b-42d1-8889-7369b477d933',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '082e5da0-996b-4ece-9a4d-b51a62b6a098',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d7c07dc-0ff1-4aa8-b047-7e9006df66c3',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'efbf49a5-7ba9-4112-8e70-64da225ea44e',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '181fbb1c-6d26-4e56-942f-1ca9f8578317',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '0be83fae-8ec0-4107-b073-664fbf8daee0',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1eb59101-f5eb-4146-866c-40a911579688',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '7f771dd3-de3a-4f4e-b518-28ec9fe582b1',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'population',
     '15946876',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9ade5b04-cc00-4f6b-9f3f-4c3ba16745fc',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '96d6e924-a1ad-48d4-8669-b82d4cbba948',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'gdp_md',
     '11314',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7ec73a3-dc5b-446c-9404-8bc7f6ae1d3c',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '218eacc8-4f12-4ce8-8406-98903002cafc',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c523756e-60f8-4480-ab92-bacd9afa5db8',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '00e59c9b-aece-4798-83a0-8a0862d4b456',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be7fc265-fa69-4e00-9e17-f9d80a064364',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'a1f0cdf8-3570-4521-b4a2-9ac28dcb8ba8',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cd3712d-987c-466f-b04b-5506ce91f97b',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '459c99f1-5481-4565-a7d4-ef7976068415',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'label_x',
     '18.645041',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f00425a2-366c-44a4-bc72-1c43aa94ab16',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '2e785748-1f79-42d2-a060-8a825dfca5c9',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'label_y',
     '15.142959',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2fe68470-722c-435c-a604-3d6a43ea557a',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '5e620f92-cf07-4c5f-991f-70f2877e4eb5',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29361ca7-dbdf-4aaa-abca-99194875a95a',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'e24e37ab-bb11-4243-8da2-89bf7fbd211a',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'caa277cf-8630-40d7-8994-a308162e6bef',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '98c340d6-6380-4537-9fb0-c604a3e34e26',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '971d773f-c9fa-4124-b840-19a0bb1588fe',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '03a3165c-e184-4cb2-854f-34dc6da8674a',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '929ef7d0-3d3a-4982-b988-99b1e34f70c7',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '265b2c7f-0a05-4889-82cf-841e649605f2',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'population',
     '4745185',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34cd65a3-f2c6-4029-946c-b105f0770886',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '55bd63e8-ac89-467c-948f-c3588b9ee48c',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'gdp_md',
     '2220',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c0c4a78b-cb2e-4e8a-aad7-2e3bb94d1a40',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'ae208a64-f818-4390-aee6-499854b9bd22',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b1aaa608-d879-460a-af61-747083ffe67c',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'c8e296bf-64b4-4515-882c-d283395e497c',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd9aa6ef5-af75-474d-9094-dda59993a144',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '4b3f497b-7054-4271-be5d-3abd9c37a3d3',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd3037d50-9e48-4503-95f4-64378baa3ad1',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '54831213-7d86-4676-a342-3491e28a1f29',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'label_x',
     '20.906897',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e11eb9f-9d6a-4760-a77f-b270032b84c0',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'd786ba38-0788-4ac6-8d35-c3b5dbab6ffa',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'label_y',
     '6.989681',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6c44eef4-45c3-4409-ae46-4943c49de598',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'e1608448-dc71-4f31-8c25-24bae5f338cd',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd888582f-5c41-4a95-ac7c-6358186e0e7e',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '842a1f5a-d572-43e1-b887-50097bbb26db',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd938437-f711-4936-a350-7e2e9d004f2e',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '7cb2d8a1-df48-4afc-be7f-7bda977d0922',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7df60741-1557-4fb8-a413-a212d1418176',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '7936b4ec-ea3e-4236-a370-0950be842b04',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a65b079b-9d6b-40fe-9600-36491a442fd1',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '5a2f6500-ea7a-42ae-b4d5-314506bd7cfb',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'population',
     '549935',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e555eca-b65a-4eeb-935c-781c8eeedfba',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '460114f0-2f78-4664-a2c9-c4d29d7a5a2d',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'gdp_md',
     '1981',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82be7a31-4590-41cb-a581-ee0cf43b9c8a',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'f6c5ef78-e801-4800-b443-f4bc71efe720',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00381b95-114e-4b4b-acb1-9034f749f434',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'bf6ec8c2-a85d-4e1a-a596-8430750cf57f',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '89ed0958-2be3-428e-a6d4-e88d0918f874',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '5d7027f5-9f32-47a5-ac55-c6d097b7feba',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '728642d2-c241-4cfd-9753-c6014cc02142',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '28df1acf-56d3-4cec-a14a-f8c00931c593',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'label_x',
     '-23.639434',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a554abe1-d86c-4dfd-a49b-a814df9f7f6d',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '4684ac81-b6f1-4034-9472-63dfd068eaa9',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'label_y',
     '15.074761',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b942b65-4bfd-42b6-9fb2-574ab232695f',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '375fb259-1264-433f-8635-05483df1ae66',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '90be1768-6beb-40ec-a66e-4d3c7693c821',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '518a5ed8-c8b9-468d-bbfc-b23c0cba50a8',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2900119-dcb8-4dfe-a403-15b4b5583167',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '5d7c6cd4-38c1-438e-8bf8-af9ddd35f3a6',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'subregion',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e10bce4-6599-42a5-a2b1-41c9f641c29a',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '92507adb-b83b-4c62-93c5-5ae9a3bcab94',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'region_wb',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd1a5d6f-0e74-4bb9-8d52-d871ac2e305f',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '2cc31137-eeb8-4699-bc85-f5e58fa2876a',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'population',
     '37589262',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '942fcd35-571f-49fa-b517-05fd3c6d3a1b',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '44b87f0a-c668-43da-8576-be38c4a7141d',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'gdp_md',
     '1736425',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '200ea4a4-2caf-456f-a0f0-261206f4e4ba',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'c7128d56-ac6b-4016-a9fb-5b6c330425d0',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'economy',
     '1. Developed region: G7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ea15ce21-e756-4bd8-a309-9ee7e41f3148',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '11acb0fd-487f-457f-b00f-e1e63cdb6ba9',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b7de1c88-72bb-46c5-90d8-2689747f0fab',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'd549a4c7-2ce4-4325-acd9-3854bc9bc3d0',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c0bd2f3-cd83-4b45-aa41-abef72399db9',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '724d1dbf-39ec-45e2-850d-5e18ee5e433b',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'label_x',
     '-101.9107',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '53c600e4-f395-4dcf-8203-e9cf8d645734',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '06474cb0-6ebe-432b-ad55-a495e9d09938',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'label_y',
     '60.324287',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1529a8bd-dad1-4ddd-9e50-2bfec022d004',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'de5b60ba-86c5-4b84-8cec-b6c5b20d5bd6',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '451275dd-5ee3-468b-9762-64bc3c2ec6f2',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '1f23421e-6cde-4327-95da-cbefae692d16',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7fade62b-d2ad-4d1a-a479-84a98e5df4e4',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '1d676ccd-15b0-45cf-b6d9-f0b74e0981fa',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd75a427a-3686-4bd8-b1cb-85bacad25c5f',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '3e855fdc-06cf-4dba-b2e3-470069dbea0b',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f810d7e1-590d-482b-8de1-f8d4d544a7c3',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '1ce2f56b-a69f-4826-8f66-e3dfde6703d2',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'population',
     '25876380',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b9d20855-53d5-4cac-9ed1-676f8f50b0c2',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'd5163089-6654-4915-9532-1b24953876bd',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'gdp_md',
     '39007',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6221bf68-1f7f-4e77-9304-7c89cf937fac',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '3622a67b-89d3-4aa3-a179-fd6e18533d36',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3fb729d-e737-4b0a-8b34-f8157ac8477c',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '57bd7787-2e13-4d71-b49e-fba7e184f9eb',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1a2d99ce-a7b6-46fc-8f87-c96199bdd9b5',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'ed8087e2-0441-4b45-b7a1-8af65bdd2f75',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '106adf4f-b064-4152-93a1-20471d650836',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '90028729-b749-400a-b012-6a5973455b38',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'label_x',
     '12.473488',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4fffdcd0-4185-455f-bc69-e3ec6a4ab893',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'c5d6ae6c-5c18-478f-87b8-ceb46a832595',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'label_y',
     '4.585041',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '82b517a8-7ee8-4f1a-af03-cb8e6dab32ae',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '04d8e6ce-7910-4871-a54b-cc465178092c',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b2c6be1-348f-4b01-90ca-455691279f8c',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'f8d89a89-1f44-45a9-949d-2541b8c666ee',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '38600f6b-fbbc-4d4f-af52-32aaa5259b6d',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '8c0b0a47-66f9-4387-8019-153e7e524751',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1daea7ba-1b2a-4638-8d5c-1bbb14f60522',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '9ddbf451-6942-4fc1-9ceb-214fc843b2ec',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b68f06cd-2fd7-4e5b-8e95-64dec98b35ef',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '565467fe-db9f-4b16-bcbc-2ea1af11d835',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'population',
     '16486542',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4863d008-03c5-435e-a928-0204ab0166cc',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '016ba699-6f52-4e45-9e19-face12312e09',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'gdp_md',
     '27089',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '73e81fe5-c744-4666-96d8-08ef78adcc29',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'd7fa85ae-984e-483c-bc08-c5c6615b00fa',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'da25117f-6dc7-4259-9ef0-970f72b9495e',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '7b4367c3-e94f-4289-b8ba-0e5943b8a6fb',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b41fbddf-55ca-43d0-b4e1-83461719b13a',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '38faf753-4231-4dc7-a1b9-3681d0821a08',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '53c224b4-a897-425e-97d2-7982ea8a8773',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'fb46de38-260d-4547-a316-faf19bcaa9e5',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'label_x',
     '104.50487',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6287a298-c581-44aa-852f-ece5e985d041',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '24b0f146-c8e7-4bd8-bc83-f5cdfd0670f8',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'label_y',
     '12.647584',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b9f1716-43ed-4b40-9b16-98f56fcfe37e',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'eb3d77f8-f7af-4f1d-b57b-ff7ecdf5a6c9',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '49c40fa5-45eb-407e-8155-02585a482bd0',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'cc34c40a-433e-4486-9da2-004d7193fc85',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4021bfd9-f3bb-4e7d-b83c-4386954bc1df',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'de5e96f9-a285-4e7d-9a17-0405e8b6683d',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b343dff2-71a2-4569-8d51-8467f06d690d',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'ce0b1a9b-771a-4081-b453-bef58cd2ddd7',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '18f498ef-cdb1-45c9-93b5-8ab5ee8d7cf0',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'f6d8dd6c-b0be-4d3d-9633-54bd46227203',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'population',
     '54045420',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88173428-a419-42cb-a763-c08c44a77962',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '21795ed7-9764-4bad-8d05-d0dc35e5db79',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'gdp_md',
     '76085',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2237de3c-3627-40d9-8df7-70e0c7da1cbe',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'd1cad86c-7f88-4460-a498-86d348c66e21',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68f03a96-5c60-42f3-8d06-cd5b01f3c577',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '45cad29a-52ec-4468-bc08-0ff2b556c8a9',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '874c39f3-33fb-477e-b704-1e01fdcc2ccd',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '8180692d-006e-4aa4-8474-6b5371247909',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a5b8978a-5d5b-41df-a5cb-d9c54e5e05c9',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'c4a5b554-9ef6-49dd-98e0-b892c95df5b4',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'label_x',
     '95.804497',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee507287-2a83-4624-a4b0-20c82970deb6',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '08c4a3a5-9cb6-43f1-a30e-986c998629ec',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'label_y',
     '21.573855',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8313848c-a47b-4c10-ba89-4d3b061af0b9',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '99f990db-304c-4cd9-bd93-1ad9a04de7f4',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dd72fe8b-8b5a-4ad0-90c6-90d28e0dd051',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '0895c763-ef49-4662-a5d6-5953621333c7',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c391c7cf-b007-485f-9715-d6dff879e374',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '73e492f1-ae5f-4238-b50f-b8bcf3c817d3',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'subregion',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9323c66a-f139-4271-a7f6-c065d63ccd7c',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '42047d18-28f1-4308-ae65-179f78320f54',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8fd709dc-a5e0-471d-9f02-dd00651a0b25',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '14bbff56-019c-4598-a241-1fbbcaa384b4',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'population',
     '11530580',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a87e86e3-aa8c-4c55-9cc0-6804b4fe4547',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'af32b932-b548-46a0-bfe0-c81fc36f01c4',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'gdp_md',
     '3012',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '946e5372-b52e-45ff-96af-0dfa6b963822',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'cfb93579-3414-4118-9188-6dc506d1c14d',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de6cc4bd-2504-484f-b54a-453217346a3b',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '5e78b031-12c2-4fba-88fe-fb143af9e9cf',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'de83f5a3-8db4-40a9-9bf8-86ce2959fe9a',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'ca254410-ea2d-4851-89f7-d722de9d1395',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8c5f7055-0c72-4223-9120-615a9ad6a186',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'b22816af-4c05-4993-a14c-1faf920ba07f',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'label_x',
     '29.917086',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a1d50bd8-e740-457a-82aa-6a63b5d5a720',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'd02ab6b9-2507-4d3d-8016-1712ba6435eb',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'label_y',
     '-3.332836',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a0a2e504-f06b-4936-9292-3916e76e97fd',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '85a77c61-f742-475f-9692-3d820766d189',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8cb9d132-24bc-444a-bbab-0cc94cf050c5',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '40ef1422-3402-4526-9eeb-7c7762e708d4',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '457e8b7b-5330-4b2e-9869-822e277e9add',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'b48929d9-9262-418f-a8de-ae2e0f88aba4',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '452be9c4-202e-41f3-886e-e29e5e502fd5',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '1b75a564-2e41-4271-9512-bc9b6b6e8c08',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9bd4c1ee-14e7-41e0-9dff-0cb5585c31d7',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'd07f7fd0-3f38-4d7b-b93d-496cb44d457b',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'population',
     '20321378',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'be7869eb-ad2f-4e67-89fc-f7a451cff840',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '3b629806-1038-4755-a6b6-1483173e5722',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'gdp_md',
     '15990',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '723e0da3-dda2-4c8f-bf50-bc4f412cb305',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '793bef7d-ae44-408f-8cf7-9b95990b03ad',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '74ac91fd-ef0f-42ba-b19b-f81ca1f086a8',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'ae28b712-23ba-4515-8baf-0fba5280c7d7',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d369414-8a8a-4028-bf9a-cb244ada0e54',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'aed6f1e7-d950-4fd3-99b6-50c708b4eb35',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '78ebf011-2dbc-4cda-98e5-21be3e18b0b7',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '9bacd165-8586-45b1-8535-db3c04893a5d',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'label_x',
     '-1.36388',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f84c60f1-edaa-4c3a-85f8-a4968435af3b',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '5cfc0a00-c11b-434f-ba31-43fd961d197a',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'label_y',
     '12.673048',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '270b29fc-52ff-4e3a-8704-af177d0f9665',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '9dc8af57-e9b0-4de0-b318-a4996b591ae4',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5807ad6b-2f5f-42d3-b3ce-66888a1581d8',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '1cab6a27-c302-4f69-89b8-0f24eceb9c34',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'effe2ef1-818c-4972-b0ff-00f109ae2993',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'c476e352-fc4c-4c62-a5c5-f27759ea85b7',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29373720-c7e1-4dc3-a11a-a500a258ccdf',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'fbf7a4cc-f6b9-4757-a32f-a51d5ec98814',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a549bf73-9dbe-4dc3-bab8-09ce50558ec1',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '95ccc726-9480-490a-b40a-de2aa9a6e8da',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'population',
     '6975761',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '84ba71b5-fa75-4450-acff-9d9e11d772ca',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '05b31452-a0e9-4515-85b8-f98f491d3565',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'gdp_md',
     '68558',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b905b403-2b49-468c-b0f9-268ebf1e5147',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'f3fc3b7c-09c6-4889-ad7f-35c57c786ba9',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '441232fb-51a9-41f4-a346-3ae1eff4bd3e',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'a81a0643-5b7d-430e-ada4-ef7a74926a97',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0bab9eaa-8ada-48ee-af3d-27f096f59a87',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'ac5c2e33-0699-4187-a615-a05439634fc8',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8ca67cd1-7e19-493e-a742-37dbb2ac9fb7',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'b568fb7a-8a13-4099-ac16-377da1719c5b',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'label_x',
     '25.15709',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9201f68c-9082-4f09-bea7-29a0bddb2acc',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '0f79c5c9-a479-4c43-8a0d-2b52ad7bf5ba',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'label_y',
     '42.508785',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8043d0ac-1870-488f-9001-d5468787ce8e',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'e6391e53-bb97-40fa-a59b-28be6e789e48',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '421a2521-1887-43f5-a3d3-4af74463ee97',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '06393341-01b1-4d8a-9bbb-d7f7c0fd309c',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1990d95f-bb41-449b-a21d-73497221a901',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '03131f67-6212-4ae5-a96b-75d6fb7dc5ab',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'subregion',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9c96adf2-f547-4d5f-bdb4-c4d1ebe0cc90',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'd3379978-fbed-46e6-a1cd-0bd26c74b771',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '031c493e-0763-4ff2-9ee9-9fa2fc144d8b',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'acbf4d3c-60c8-4cd4-91df-eb50a6390561',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'population',
     '433285',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cad9b508-5b3d-4303-9bc0-482c105613a0',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '4bb57ddc-d4e4-4ff4-b7ae-0b54fd8c3458',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'gdp_md',
     '13469',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7b521ad-7d94-425a-a05c-301c60a5d36e',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'ac12cdc2-e9a3-42a3-aae8-33253d26c981',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e71343e3-7329-4e5f-9a1b-399059ac9dff',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '27ad2987-2301-4f20-a422-784097ce47d1',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee7c9383-0e26-4545-82de-48e819796955',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'f62ed171-e23b-4cbb-9e35-5f76942c93c6',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c3733d1-145e-4852-97d1-75c8e1601531',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'b0fb4cd4-d065-439e-801a-51ab6b06698a',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'label_x',
     '114.551943',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34ce7439-2599-4d1e-8682-2e4d9c4395e2',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'b99302da-86bd-413f-9c32-54cd990a22f1',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'label_y',
     '4.448298',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e66b7f3-6870-4f28-b5f8-48196d32f0fc',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '3b3fa0a5-6f19-46ca-948a-8b5bfab24345',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '75c4e99e-dd77-44cd-9ae8-31e70489136f',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '634f5868-35bb-4352-ba03-41ffcd95f875',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e83dbc73-517a-4f3a-9dde-0e14d51891b6',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'b35e2f4b-6c5d-4bdd-9386-9f9ed63d707f',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '43d0b1a1-5e9e-442c-933f-d31621c5cea0',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '548f7797-5e61-4391-bec0-9647a64c0478',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '832a1da0-8061-4986-8075-eb0cbe06da4f',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '0f47b9bf-3de9-4a89-9d45-720ea1b49d61',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'population',
     '211049527',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c673a3ea-28c6-40be-b108-da36a8d1bac1',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'fdd5eaf1-0455-4e04-8330-b99da796dcfe',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'gdp_md',
     '1839758',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e53bf488-6c88-48f3-af29-edbef88b7023',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '0b696720-7bd7-4aec-9333-c42373bc14db',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1e2a580f-f3c8-45c4-9098-3b1b4fb90663',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'd0f3917f-46d8-40ab-945d-fcedcd228bba',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa1076bb-0be0-482a-ba07-f420cc8b645f',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '537908fd-13d0-4750-9646-d426941ef965',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6901b952-b86b-47f9-98a7-d7bd2e152738',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'a8afe65f-7db3-46d5-ad89-13fe0c391a6b',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'label_x',
     '-49.55945',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '290edf67-4d36-4fa5-b3fa-ed9809354b63',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'e906f4b6-4c57-4f2e-9ff6-5be258d33820',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'label_y',
     '-12.098687',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8411d3f1-4174-4118-a329-4a3a37d08d62',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '9295e7c4-547a-42b6-b802-9f46a537f166',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8782a12a-9cd4-4b24-99b3-da25df81624c',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'd4937de2-dce4-4aca-abae-4dc675fce96d',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0dc8e6f7-4bd5-4389-be3b-f1914dee0c28',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '434caf69-5ff9-461e-b14e-98daefecf3c1',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'subregion',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1120e90e-42d0-4173-b325-6efb918b3b7e',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '84095eae-7868-46cf-8490-d9013bd2db94',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '42424a17-ed17-46ad-9518-ddeb1e6435e9',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '5b61e51c-45ef-4b9c-a9d2-f03695c25d44',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'population',
     '2303697',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68946042-618b-4347-94af-3cc11381c1da',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '99af01b7-a480-4c4f-9a76-3d930ea81f83',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'gdp_md',
     '18340',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5ede827-3e61-470d-9e74-3e7ac34fb12a',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '5b0e67b5-572c-49f1-832c-7f1fb7bad1e2',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9a112b21-df3a-4b6b-8585-7568110262aa',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '2b63cf4a-6236-46d9-9a1c-54a93c0fc4dd',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfce1d04-e2de-4853-a90d-8d8978a520f5',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'c9bc4d08-35ec-4222-81ce-ccb46ffabe69',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '058ea153-f1a1-46f2-abee-ff47defdc2ae',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '861bce4f-788c-404a-9b2c-28b0b95d87de',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'label_x',
     '24.179216',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d3a3762-83f9-438a-a37e-40cd78e08381',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'e3ef6b36-ad4c-4c87-bb84-45a321e2b425',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'label_y',
     '-22.102634',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1fb18c28-724d-4e7f-878c-f666c4cc2f1d',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '0bcb80cb-48b6-4fa9-9185-25c0dc825f75',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '187b8db7-ec97-4584-a495-6bde75be11a6',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '77771952-6944-432c-b04e-b5ea1cbe1db5',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f653c0b4-81e6-475e-9e6f-310d752f9fcf',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'f899758e-7794-4f48-a026-c27280f7b83f',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2289a314-cbc3-4a5e-ad6d-b3603cbce977',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '7efe2181-42ac-4179-9f2c-a0880dc22bc0',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06a119c8-cbae-425f-814a-b35e316694a2',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '67a772cc-5d35-4898-a1ae-d6149e911abc',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'population',
     '3301000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01974450-dd45-47e9-a318-0b2026b24132',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '207c55b7-d468-4338-aabc-d47290d60c1d',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'gdp_md',
     '20164',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fd41dc52-366a-4b7c-b990-012907d854a1',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '44b30c5d-a887-46cb-853d-a9ae1c7d1f93',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '419751c9-6bcc-407f-a7c6-5a54b8411e9a',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '801d3906-a6a1-48a5-a3a2-91472b45aeb5',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '63afd9a0-3d47-429b-bb6c-14f954136df5',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '88832281-e333-4fea-887e-fe787d8c7e44',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '409e25d8-a195-46dd-bb62-57e12c6b589a',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '5b8ef96d-4405-49b4-abf8-90af265862b1',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'label_x',
     '18.06841',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b53727f7-1775-48c5-8733-b9c25a78f962',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '37f1ab8f-ec7d-4b75-856c-2d923138283f',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'label_y',
     '44.091051',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3f539427-2745-41f5-bfea-ee2ac2086e36',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '6e7e26fb-c81a-41f7-8c14-5ee28a125bc3',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4394ad94-bc00-4f87-8011-8f488e7dea26',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '30d2d5cd-99ae-41f9-80a0-ea63a6cf938a',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2309f08f-50c4-4819-a69a-fc5b591030bc',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '8867bb95-27c9-4681-8a48-6ced2d7732ab',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '481f00d2-f201-456e-b3d0-502d4db6ab2d',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '32b951d7-869d-4d47-b565-8b38826d8570',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ae0c6edf-ed06-49fb-80c6-08083ed848aa',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '7b8ecc44-4e10-4722-bdaf-1b89e4f8487e',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'population',
     '11513100',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '928acc85-284c-4715-b91a-1ef4847b385f',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '6f613ccf-e3f6-40a6-8435-905808ad41ac',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'gdp_md',
     '40895',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '973dd045-73a3-491f-8ca8-ad63a882bfc7',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'ecc1c403-12bc-42a6-850a-877e593131d7',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d34cdee-ca94-46de-9715-1af9d5305221',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'f75885e0-5d1c-4e0c-bd5f-41e342237eb8',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '984d30bc-efa0-4d5b-86fb-afc202aacc57',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '82a4aad7-8be0-4f51-8f7b-e2c2114dd395',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64b2e54f-125d-48f9-9a23-24682fb07713',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '2c72439c-6d0c-44ec-a997-6ce389a746cc',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'label_x',
     '-64.593433',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05cdb992-b002-4b46-8183-e59405cb79d3',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '77026fac-0061-487c-a098-4c12acc54fd4',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'label_y',
     '-16.666015',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ca688125-3187-4e94-815d-0a8705fb6f01',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'f06f4855-916e-48ba-8baf-90d0d5425e83',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ddd03112-4c64-4b54-8beb-e8c650cd5cce',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '1667dff9-76d5-44f2-9d32-d9c5d85c4a75',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f1f9ce98-ece4-4605-8bc3-817e283e6857',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '5891127e-76b4-497e-8e4d-c02d0c21063f',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e83b8ea-3d23-4b98-941b-5e4f3089ae29',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'eeb41344-2625-479d-bf21-f272eb46d21d',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5668de1e-9b2e-4353-8632-19689ba8fdfc',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '65a5015e-0d73-4d39-8327-5f9d987ebf13',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'population',
     '763092',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4a96d77a-686c-4e3d-91d5-a719c98690fb',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '707f9f17-371a-4f91-a976-85c5bc0d6978',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'gdp_md',
     '2530',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9243cfe6-a9e0-4394-94da-557ae958da13',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '26562141-8ead-4a25-be76-5919fcc1ac5e',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd05ce255-e05e-448a-976e-686bc30d931c',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'c6185a6e-f8c2-4bc9-a728-f9a39373f18d',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1392be46-962a-4ba8-90c5-c3c664e54aa3',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '70dc40d8-57bc-479d-8e21-5ddd6b9303c4',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '86ebe109-dbc7-4577-bdbf-ff2cded45e63',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '88ee94a6-a993-4caf-ba1e-63156e0016ed',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'label_x',
     '90.040294',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '639d74c5-9215-43b8-bdf9-591c334b0e9f',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '5fb61647-5fe5-475c-adde-5a006bc7a271',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'label_y',
     '27.536685',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '21505ce3-7643-4d3e-8b34-3d3c13e82937',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'bccfd52d-ec11-495c-a89a-0a4e0075d452',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd16c1eac-9af1-4ffa-afcb-82b267afd735',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '8ec87b51-9522-4333-ad7f-0ce273445538',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5dbeb43f-7d08-474b-a424-be9bcb92bde8',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'c4b1ba2e-af35-493c-a149-3323cc59eb33',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'subregion',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '493e9414-7a22-4717-b583-ef1ca2ee77dd',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'e6853fe9-c77f-4d6f-b7c0-03d80b3ceb68',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67d3d579-7c78-4e23-8827-9dea2d55642f',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'dad265ca-f401-4181-9d2f-f397d7a16166',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'population',
     '11801151',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eaa401b7-4cee-4687-be60-f6d564dfe09e',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '40a219bd-62ef-452d-87d6-617a7342af74',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'gdp_md',
     '14390',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2004ca54-9285-41c8-a7b5-bc5b0cce6539',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '87e736b6-3811-454d-a5ed-4476f7bf2aaf',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef90e8d2-9004-428f-b04e-c8b3418ef1a6',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '8b85feac-c695-4789-a74b-e41bbc8a710f',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b7e07da-23ee-4336-a750-78695d249767',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '914a488f-d4ed-4cfb-8e39-a490b6518778',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a7b8a30-825c-4c5e-a285-feb4956642a7',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '0473c4b5-87b8-494b-9bc4-c16ec73525ef',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'label_x',
     '2.352018',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '51446e61-178f-4ee2-9eed-912035f2ea93',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '4dbaaa18-1bcc-4587-ba01-2bfaf914d85a',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'label_y',
     '10.324775',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e43523e2-ded7-4ab4-a01d-ac2ae7d5da70',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'b5ec3771-5468-4f74-a4ad-6c8cdb89b7b9',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4ebad28c-4dc3-481b-b23b-c0e9a642fdb1',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'e1926819-b1cb-4e11-8ff0-e7e9fc45c644',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f36b4312-bee8-4cde-8bd9-48ec3b0a01d8',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'e6a7f5b4-3699-4781-bdfa-e852a49d7c9b',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'subregion',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fac4134c-66a0-4990-ae91-3b0670170aae',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '84a54938-d3f1-4fa9-9259-044aed32a8f9',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '032b0183-a2ca-4fee-9431-ea3474df8c27',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '0f0833ed-3783-46b4-a074-63b5f5961703',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'population',
     '390353',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1346857a-ac78-44b5-b27e-83ab78fd99f6',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '3a3ac19c-d9b7-47b5-a11e-36b76e54764a',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'gdp_md',
     '1879',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a839066d-abf1-44c1-bd8f-f7dce4f886b5',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '5031ec29-0c77-4734-8a8f-358ecb7c9d85',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9164f452-4799-4d54-84b9-83f4604bf699',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '7dbb7d84-22a1-4d32-a8f5-11c4a68d986d',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc4648a6-1cbd-4aa8-81a8-c6a459a9df55',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'a973c34e-1ada-4d8a-92f5-ce807a9ed7d7',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7122be3e-4c00-4351-8d74-69ecab3aef30',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '0d1f44f4-c2c7-46d2-8fbd-cfd67b9e4c97',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'label_x',
     '-88.712962',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bd5896a1-33f3-4bf3-86f4-d557dc5719fd',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '605a3ff8-3f8c-4dcb-b210-ac91f4da8d45',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'label_y',
     '17.202068',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4b800948-809b-4339-a915-38e7e9c3036a',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'f8473cfd-55d7-44cc-b669-5e0b949c4f7a',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd54a035b-8de7-47f9-a07c-d1483338eb7c',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '815974b4-4b5a-478f-8020-edde7cccc1e5',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe450d50-1e19-4902-9091-5774f9e78b64',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '74521057-1cf8-4403-b6a9-00c4600238b6',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b38b835-58d8-479c-9415-95c75f94ce0c',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '30df9f78-0f05-4cac-8bd9-ce032bd764a1',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a7f2ace3-a81f-4561-9ae0-b2a6bf515d9f',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '25d811e1-225f-486e-8d98-90133d05543e',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'population',
     '11484055',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b6b1b47-46fa-4fa3-b358-111604a3be16',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '3db5ca0b-aeaa-4d59-9912-f823633faab8',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'gdp_md',
     '533097',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6c1dce6b-9e44-4237-98ad-48307a4bcdf1',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '50150d82-fadb-46ca-8073-62c37cac06e7',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fd2758b9-dfd1-4015-bcd5-2c3939af134b',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '8639c5e1-9ca7-43b2-9273-6436717eecbb',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3d48bc13-633b-4798-9d1b-81f7facbe672',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '67a77cbd-e85c-45ce-bd91-cc2aee0a8f75',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '95f43c2b-5d28-4289-b76e-46c439444c9f',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '873ad06e-8405-45a6-85af-8ac501a53639',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'label_x',
     '4.800448',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ff7a555a-37fd-4079-b2b4-9205cf438b3c',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'ec7faa5a-e3d2-47c6-9d42-95b96cf212c7',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'label_y',
     '50.785392',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b97f39b6-2c04-4e6b-a27c-e2d2bd67092c',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'cf221cf5-d096-43af-8e63-f8fb2dfa0a5d',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '385b6e6c-18e7-49df-82dc-ff1e89995f2a',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '9d0a8bc8-bf3b-4d95-9925-86e16d736be9',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b1e9203-0a76-4b44-8043-069444c58574',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '2bcf3943-988c-4582-ac3a-56c76c1f7258',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'subregion',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '614061b3-fc11-414d-bfb7-662697eec39a',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'b17ab350-9229-4835-b946-5c3d6184eeb0',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3700259-e6a8-4d64-939d-207fbbd85b04',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '4568f2c5-0f04-4c4a-9ee1-e00971c63ae8',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'population',
     '9466856',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f460f2e-fea5-46a6-8ef8-ab53ad2e6760',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'e260883e-6a42-49c2-8db7-534e39e44564',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'gdp_md',
     '63080',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '562c59f4-8b79-4bd0-be96-cb9bccc36c1c',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '7245ea9b-ce09-4ffe-b36c-42d63b528bc9',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2b610083-b43e-43dc-9ad2-afb5e7b9d2a6',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'dbbdda0a-77b6-491c-af72-0d08c1f383b3',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2e9fac3-8d0a-4578-85c2-e72cc34c00c7',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '8ab5c8b5-a78b-4333-9a88-718d9598fa80',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '50b7ad12-cfb5-4e6b-b441-c89d5fe9efc6',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'cbaa54d0-800b-43b4-98fc-3afb721a8cd2',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'label_x',
     '28.417701',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b00b1615-ed21-4e05-9b91-c3133f0e5b04',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'bd189ddd-d579-4256-942b-b84fbb21af9e',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'label_y',
     '53.821888',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b77a31f8-097e-4837-a03b-da9defd60616',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '61180c0a-537d-49d1-850f-0d6c11e3618d',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3083909b-dea7-4405-98cb-40ef44e7a96c',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '4d266ab8-955f-4c4f-89a4-74a14975ff2c',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'adf59e3c-53fb-4cc7-9a7d-372eacad6ab7',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '4c7fb422-7b3c-4821-b275-5c52804aee1a',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ed38c7f-7a11-46b4-bed6-d41d109e4142',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '4d5d02f8-4647-4b19-8a57-221a2974182d',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b27c02b6-9922-4c68-b632-4de501cb8666',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'b37691be-4ab7-4685-b57e-e8cd39719fa0',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'population',
     '287025',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aebf6ea1-a69a-45a5-af3e-ad4dbcd1a774',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '62253078-7753-4a47-8d22-3f1fc18f1fe5',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'gdp_md',
     '5209',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7bc36b3e-c9f9-4254-bbfc-ca99d18eba5b',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '58809bfe-090f-4cee-b210-ab788358a0bc',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e8e9177-bf91-41da-a643-f2293d0321d4',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '988eea4c-29af-4647-a055-604f54688006',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '52872184-09e8-4c34-91a9-f997907780f8',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'd9f9127b-fd83-4aba-921c-29bb8276a683',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e1d32e3-397e-4341-918f-365c5442ee1a',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'c20d916a-08fb-47be-b5aa-13964e346e8a',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'label_x',
     '-59.568966',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '367c4af7-4322-4536-9e45-af6f87eea4d7',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'c7af4609-2c14-4a28-9037-74c87d697266',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'label_y',
     '13.163709',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7cc4d08-89fc-4840-90a5-853a3b1c6a5b',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '595a9e50-b6d7-429c-b946-e6c34bc5ae41',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '437306e7-6197-4d63-a72a-2638a55f1dda',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'e7553259-52cb-424b-8e48-137c43d63e6f',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '30c16df3-d867-4b4e-bf06-1fa803e28701',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'd4e0fd98-59be-4ea6-a295-c17e08102f9e',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dcc58c66-267b-40d8-b9d8-6d10022606b1',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '62fea831-8ec6-4177-9f21-9ee50cbd6aeb',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7b3868ae-fa9e-4dae-a41f-77903f025a78',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '444df405-73c4-4563-a623-a972895c2cf2',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'population',
     '163046161',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '979dffbd-eaaa-4484-9eaf-7f28b1cff762',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'b8a2dac3-72a4-43f7-b874-7fc24168c3c7',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'gdp_md',
     '302571',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbea2e7a-8b6d-467b-b225-eedfc0051a4c',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '9ae6cad7-b9b6-4f9d-adc5-3856d76a3ba5',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01b65f7a-ecaf-4163-8da7-eea7aab56239',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'd39c3e2b-08a9-4956-8528-32d700644b61',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cbdb6dca-edae-4e50-bc67-f148a4c7ca31',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'd33f23ad-cc74-4011-ab60-7ba48b67b632',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9b92603d-4ec5-4c30-adb4-804917c144c6',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '981b14da-d02b-4508-8a87-980cbd690e19',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'label_x',
     '89.684963',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2625c44-2d62-4649-8ebb-387ea4130d63',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'c7031d9a-1134-49b6-8b90-9a53db863c1c',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'label_y',
     '24.214956',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '522d742d-2ec8-480d-b247-227d20689410',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '6573ac67-4714-41e2-bdb1-7fde4e69672a',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0f569bc9-984b-4501-9994-50d1151ed8b6',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '506ecc07-c252-415e-9709-7d9191b412be',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c9330603-5707-43fc-90a8-f1403e15d7db',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'a77fd2ff-02b1-41b1-a270-373f21fc29cd',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2af733bd-bbbe-41fc-8044-42477827632d',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'ed280550-fe93-43c8-92fc-43f5270c5299',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40987afd-a04b-4ca0-bce5-a1333f4314af',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '0c9de648-a0dc-4ceb-aeef-8393224d481e',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'population',
     '1641172',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f69cf483-97dc-4b43-bda5-b9956d628993',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '1b50d2c6-b9ee-47ea-94b4-8c16fb65863e',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'gdp_md',
     '38574',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67ddb6bc-354d-438f-aa35-be0acc5fe2c9',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'c6dce1dc-b3a8-48ad-9dd1-8e1446438b7a',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06732831-6335-4033-9fc0-52a299d77919',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '4c9c43b8-574b-45ee-a277-48f7d8725807',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a4640f8-ff97-471d-8425-35574a54ec3d',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '88fc443a-6445-4069-8908-6a2a92136d9f',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f3687a9-bff7-4e37-b911-aea6af9ea283',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '00553ed5-1b99-4630-a7b9-3459b3274436',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'label_x',
     '50.554816',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '46abc3d5-c05b-4911-8572-08fbe03203dd',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'e10cfc47-20b1-4ac8-8d3b-4bb528f1642c',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'label_y',
     '26.055972',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e66e7a8a-3ffb-40d6-85ad-e97e8bc30a90',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '15c626ae-fea4-4e8c-b64a-79a3703c8ec0',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4761878f-0a92-402e-ba06-31c0b6d2eced',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'ef2c05f8-554f-4cc8-b11a-ea5215bf06b2',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fe043189-4945-47bf-9ed6-83d5a5a66337',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'c0ac039e-a26a-49d0-b9ee-9b7b1a05ea85',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7ea72ebf-9d8f-4ada-bf6d-c47092fb4445',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '26a5ee3b-5140-4c95-86cc-316516d75d4a',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7ed0962a-7414-477f-8d97-60242ddc044f',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'd2d88c43-416f-4b5c-b721-1c6717bb9fb3',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'population',
     '389482',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c1cf2367-e78b-4eef-87cd-23a58ce045c4',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '156a2e0b-1037-4d52-850d-bc11674fdda2',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'gdp_md',
     '13578',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4fb4013a-0c9d-4cde-9619-a39636999a7e',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '04275cb4-f32c-4b15-812b-fc813710a748',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '432fec9f-63a4-47a2-9d9d-73ac622a5a4c',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '43ef6d04-830c-4afd-9560-0feb29d56849',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e26b630f-c844-4a39-8cde-3fb7afcbc580',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '8936c079-c2e7-47f6-b050-dca6d8b367e2',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c37359a0-7147-433f-b64d-23b067ac614f',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '55e69891-dc36-4f64-95f1-708f9452b938',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'label_x',
     '-77.146688',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd1ae063f-4f24-4e05-8d6e-ac409c5c39e8',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'ddab5fc9-00ac-4e50-980a-cba58df39514',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'label_y',
     '26.401789',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dc3663d8-3ff7-473f-9714-20d0c8b20849',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '910f52b1-d917-44fe-b256-b129514e239e',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7f46dd0f-f331-4910-bb17-271bd3898011',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '32cd8a07-903a-4645-bd59-222ffda544d1',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b8e1e8f4-2115-4619-a19f-e6b844ac1530',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'ff628cab-c503-42cf-9470-195eee4e404b',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '40e27db9-7f26-4bb3-b70c-77519af7f830',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'f2b344bf-d1f9-4bf5-808a-c1639298de18',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dfe10b1d-29ab-4097-91ab-b9381f9f44f2',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '5e2bc697-4753-4ae8-a654-1718ce6a9e72',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'population',
     '10023318',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20f1a0c0-b229-4d37-a0ab-a2e336fa2751',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'dfa5e01d-141b-42d5-90c4-2c45727cd1c4',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'gdp_md',
     '48047',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '963642d2-02bb-475f-a46c-9886bef07552',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '8ef21f92-9f4d-467a-8251-b541d66181f9',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '774add22-6ba0-491f-8067-421b5dd5fe8b',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '664fbbb1-4cce-4187-a591-8e04849f52c7',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e69e8c0d-6c4b-45f7-ad18-7b5f241bd49d',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '05d6f62f-dc22-4739-a3d2-7236453a0c2e',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4298dc4b-1e92-4a00-a733-4cc12d1d5a12',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '7a5af859-e1b5-44e9-81be-12fb0f29fd53',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'label_x',
     '47.210994',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '678d1309-f84d-4c8d-b834-754f05ca8de1',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'e16807b0-9d41-4c39-a58f-073cf1c5a525',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'label_y',
     '40.402387',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6734cd90-c169-47af-9d2b-c4bd73da19e3',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'e674625b-bf52-4673-a53f-c883725b8ec9',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '65ae04a5-7328-4980-9c54-e3b91ca05488',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'eda84404-03a1-4ad8-ac54-a369e0523f00',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd22aa2f5-0446-4768-9561-57a79b7ca3f3',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'fe0df41e-4cd6-46ec-aa91-eca8a03111f0',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'subregion',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98170bc0-b391-4ba1-989a-292887dd1d98',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'd4db2544-8bcb-418f-baf1-0510a6de4503',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9096c863-7ab7-47a7-8d89-66610d6b7791',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'f16eb34e-dde3-4e55-8234-102716e1d6fb',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'population',
     '8877067',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '427cccc5-dd54-409d-bf2f-8cb5d712179f',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '53315282-276c-4f60-b76f-8277ae1561f5',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'gdp_md',
     '445075',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9e87c130-9e8d-4996-8acf-f76816ff312e',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '3146aedf-1fc1-480f-a2ed-c7938c45ff76',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c7d8a847-c7de-46aa-9f4c-da3bb502492b',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '885c5896-9e9e-4552-ace5-69ca0127826e',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5e14393d-fc1b-4796-ba9b-225b7fd0cdbf',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '854abef5-6bac-4a40-8f85-bf87fd035d5e',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85166cd4-c903-4717-adec-e5ccd9a80829',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '3ae2a202-1c6c-4c93-9f46-f69cc7cac091',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'label_x',
     '14.130515',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '34eed6b1-b6ca-4bb0-979b-051ecbfe2317',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '26ef4574-fbfa-4176-b487-306df915f2e5',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'label_y',
     '47.518859',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e6677f8a-3482-4e79-b4b4-7721f740f8f9',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'bfb23a48-5249-46e1-91eb-b8974993456d',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3ab647d-febf-40c4-8d64-85044234f00d',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '3a85920e-43e1-4a05-8d09-e3d9af6dd1ec',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6deeb276-8692-49a3-a338-35aa8ccee236',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '94469095-89f3-4ef6-866f-c16a459bd554',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'subregion',
     'Australia and New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27827a8e-f78d-409c-8e80-6ed4ec2e0f65',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'e7986f87-0540-499c-8214-fe7fc497a535',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6338c3de-dbe6-4dd4-9005-847385682f0f',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '1a671539-365d-4030-a222-4262c54b13aa',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'population',
     '25364307',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f035bcfb-9e94-4315-8bf8-d53121be919f',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'ffa85921-ab12-47f3-8757-60ab7451890d',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'gdp_md',
     '1396567',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef52924b-f03e-47e5-b85e-a0da1528024d',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '1c38ddfc-b87f-4c72-83bb-c4018d56a299',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bf575e1e-338a-47e7-a738-808a7086c4ea',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'e46c513d-89bc-42b6-9851-296c42655800',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'income_group',
     '1. High income: OECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '85c2f60e-0875-4f13-9dea-84db87e8a83f',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '40eac916-7e87-4970-8cec-b5bc08e14cb3',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5d18eaae-0392-4cf8-8bc0-ea3b312f3e77',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '60560aba-e678-4858-bef5-ba8a1852a5ed',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'label_x',
     '134.04972',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2be1f11c-4ac8-428f-8244-5299a258f0c5',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '5daca442-31f1-4682-aec3-f82f02135b1c',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'label_y',
     '-24.129522',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b033e19-df9f-4161-a27d-1f04791a3473',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '9b362822-c908-4eb3-82af-304183da55df',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'aca2293c-862f-4668-98f9-083181ee8d8e',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'dc581e8c-66f3-4b34-89c0-20acc180d614',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '16da5651-02ab-4cb6-b32a-cf149ac9c052',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'b7781792-908d-40d2-a2c3-fcd80fcc3fee',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4abd9ef2-f853-4de4-8c7f-bb866f6d3e88',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '196db83d-e503-4f31-8f8c-fc49765476d0',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e252c870-b637-4646-bf89-56ea28d47a62',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'e0e8515b-bc8b-4799-9018-2f4997f6eac1',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'population',
     '2387',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c5474b10-9f57-43ad-aada-b52943fafd3b',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'dfdf958e-287d-4a54-a752-0ef39b2cef5c',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'gdp_md',
     '35',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31a9be83-6e1c-485d-8838-8a054ff3f8b2',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '06a80d9b-c073-4afc-a77f-75a209d94372',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '945ace7b-9b6d-4edc-889e-77ac0a5fb7b8',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'c49098a4-3ada-4d4a-9f6d-0e519ee858c2',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'efa07889-7ce3-458a-8f21-fb1ee538001e',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'be054a93-2a0c-4d2b-8273-2369b5550dc4',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd069fdf0-e106-4562-9b85-e3a33dc22089',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'c6e97b17-de81-46a0-ae93-971d1a52fe41',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'label_x',
     '105.67259',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '517334b7-b216-4fe3-9c3e-b2d60bc7a195',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '05b14a09-1019-4938-8dff-148767e3b42b',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'label_y',
     '-10.490789',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '55045a7d-913b-471d-afff-5e9c06f9a709',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'fa388912-e60e-4f71-9438-be585a0af67a',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'continent',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9f855b9e-6080-46e9-b1ef-30abb1876150',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '515591a5-b343-4c1d-957b-9439ba5667f9',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '785cff2b-fca2-404d-ac16-b9f6289d3f2a',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'ef94479a-b070-45f4-9f7b-58408f94c333',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'dca546ac-f23d-49c5-b031-2ed6a1becd53',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'a9a973f8-a891-4a16-82c7-18f631b20aec',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '065f438e-7173-400e-8048-05ad862be7b4',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '78873cd5-db4f-4950-ac4a-78424453f3e9',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'population',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ba908fa1-86ea-44b0-a7f9-af9a2e9aae3b',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '4c4980d1-10d2-430b-8d1f-5f9729cfa050',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'gdp_md',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94fbfa4b-7e1a-4090-92fb-77abf6878996',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'd8f0f7be-ad93-4239-a16f-6310a3d39368',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b5862cb6-ccaa-409d-9934-9e4dc2615623',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '626a4363-62f0-44bc-ac20-ff95e964b7e0',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0a8ef7f0-a575-4a59-b810-83ce630d179c',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '2fcef0d7-36a8-4aa6-87ea-e37e0a9c115b',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f1f8deb4-f724-4c35-848e-6d0fe99a61ee',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '7514b497-3946-458c-bc2b-6e7e4f70384b',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'label_x',
     '73.50521',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '56b662ac-61ab-4d23-bb5b-e297e94da1e0',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '8773450b-f452-43a1-b098-0308f41c819f',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'label_y',
     '-53.103462',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6a64757a-44af-49a6-883f-d1874a83143f',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '4a3f76ae-7cca-4507-89ca-e8f4fa57d57e',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2ab7633-55d7-4570-a4d8-181c7349e1b3',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '784e9342-4474-409b-a799-f07467e02072',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9468993-9eda-4137-b24e-4ea18e2b2c2f',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'a53dcb3a-1d16-4897-921e-e5628be06e5d',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'subregion',
     'Australia and New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c5497bd3-650b-4c1c-9c97-7cc92282b5ff',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '20e19de4-8faf-449f-9fa7-9e99b7ae0ab7',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3e8955d5-b0c8-4da8-b9ba-d7a037a39935',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '1f70d6aa-1023-45cd-9fde-39961da4136f',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'population',
     '2169',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '91bbe519-ca14-4d96-af00-2a51ccaeace0',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '21c97dcb-a3bb-410d-80a0-1389a59f33bf',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'gdp_md',
     '32',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96182551-9a84-43a5-8376-4b9a23686b8a',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '767c7922-d26b-4b93-a541-d7c4b8e8fedb',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7a998de1-cb5a-472a-ac69-ae7e4267b8e1',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'd3e8561c-3a39-4a97-96e8-223843f53667',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd2d0944f-3d2b-494f-83fa-edf3d947d615',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '72aef49a-953f-4adc-8802-0f124aeb1c9a',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd008326e-38f3-4871-aeb0-a7add435114a',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '4c4b3f75-dd99-4955-bc3c-9f644b99ca53',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'label_x',
     '167.954531',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '68054177-83bb-4644-8c0b-088e287df940',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'f378f537-0961-4573-a9b5-19da3a367996',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'label_y',
     '-29.033042',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ef5e8e07-5639-4312-901f-91ec3654f360',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '30b4c467-b6db-4028-a517-503096e7c80c',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'def63dab-a836-493f-bbe5-8df6c0797f1b',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'da5e2178-b0a7-4a68-acbf-f64837e6d6ce',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '00317562-40e5-4bfe-b30a-1713d5455c45',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'c49dbe7b-2adb-4433-b769-bb85abe2ebcd',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'subregion',
     'Australia and New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7347fbba-d3b3-43a4-8b71-346ea96d0e66',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '964cc07d-c5bc-4cc2-8806-d52800749c5a',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8a28eefb-1235-4edc-93ef-cf27475463fc',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '5bbd15ba-0723-4832-a943-27bcde7aa3a8',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'population',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1c1c5680-37c4-46d9-b5f7-84bbe1dfe645',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '8eb83b3a-9736-4331-8d7c-6624c8007eed',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'gdp_md',
     '0',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '26de4e90-7e36-40e0-8be3-8c370575c090',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '63ce0156-05a0-4be1-8ff2-bd4656ad4fdf',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47d8d3dd-04ce-4041-9bf5-f0a922984b15',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '88799395-e2bf-469b-ad3e-ae26b873a55e',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f7bd11e8-51f1-4429-b400-afd75d39b34f',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'cca10ef2-7acc-4739-a93d-2e6244906a2a',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'type',
     'Dependency',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '803f553f-5a61-4760-909f-e82e8ff4524a',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'af71c628-6697-4df6-8853-1d83297bdd75',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'label_x',
     '123.586368',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '279a05cb-4b30-4713-bf9a-b505b2281ea4',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'a3ecc811-77c9-42b1-895a-21cd211acb1a',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'label_y',
     '-12.432571',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e1f1bf37-aa6f-41d3-a338-45107ae77020',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '1d15b413-3352-48c6-8a8b-cba7d8c99697',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b32fb8ac-a140-4bc5-ab75-ce222c9f8eb8',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '63da5c27-23f7-4507-8785-8aa81688633b',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '64b4d296-a564-4251-ba4c-8ab7db0fcf25',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'd6938e63-128b-4537-9d6e-89b48e67fd04',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'subregion',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '94c5ebb0-dfd3-4a0a-811e-36ceed95bc5f',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '25ffcbbb-d004-48bd-9b55-ac1edf2684c7',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a1200cd1-f057-41ea-8f21-db94a1c10329',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '2cfafb43-0a0c-4624-94db-bd8e2f0ddf65',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'population',
     '2957731',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd1b13556-0fa4-444b-9968-938c69f24d89',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '2bdf9a15-0cce-419b-a52c-5d33bdaef495',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'gdp_md',
     '13672',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4d753a97-7e2b-494b-a218-78a0535abca6',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'fae8aac5-c702-44a3-840b-313e4c738c10',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f4db5950-cb02-4652-89a4-33933b3970b1',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '9f7cac48-df32-42ba-b689-4a6f06deaa02',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44c99f34-d060-469f-af70-e07198d274af',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'cc003f00-bca5-4aad-9c35-4ff058f1047f',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '37aff636-abf8-4073-a60e-151877adee6c',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '1676d76d-d540-4e31-8c5c-7c2054acdb36',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'label_x',
     '44.800564',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '44808172-9da7-4b70-831b-22ae9b168f4e',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '0d9d68ec-4741-4c29-a9d0-e61787104348',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'label_y',
     '40.459077',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2ee392ff-7c0f-4e5c-a003-7838f51debae',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '6c80d425-8799-45f6-b075-d4905d96256c',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'continent',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5ee69eba-5434-4d52-99fc-74f2930f2236',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '19fc88bc-56a3-4424-885f-6847ddfa7d0d',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3fa2819d-38ef-4f09-a876-7d212f895da8',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '74a41642-16a6-4e39-93fa-6fcde2524108',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'subregion',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23e166b3-45bd-4079-9aa8-edb3d739cbcb',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '2c9fbbbd-90a6-4b28-8126-f8f6bd93cea8',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd756930e-c699-4668-88ca-760bd2b41ec1',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '08678119-9098-4b76-b9f2-857d48c1dc23',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'population',
     '44938712',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c21b6a13-d361-4b64-8773-4da862efd37d',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '5e6c585e-5071-41a2-ad0d-37adb898b5a6',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'gdp_md',
     '445445',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '04e973c3-38ca-4d41-8b6f-2bb8e77bc3bd',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'ab52f27c-a031-4544-908d-21f12854b5c3',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'economy',
     '5. Emerging region: G20',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a6d28977-0318-4262-b7d1-539b9b06e7fc',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '5b67620f-96ca-437f-ba55-b14e937ccc1d',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0978c31e-3072-4699-9903-bc46ffd6ab24',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '951811c0-a882-4796-b8ae-e237188948ed',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a41a5ea0-3e5f-4b00-a898-e26f36799d28',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '774fea19-f49a-4ee1-a8bf-e560b3499b67',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'label_x',
     '-64.173331',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4e642dcc-31f6-4b3c-97ed-48381470cf4e',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'f48a00ea-7498-4b05-9fa8-70359f752054',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'label_y',
     '-33.501159',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a8b57aa0-195a-4f0c-92e1-51d1490eac20',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'e69b100b-1ae6-4071-975b-e9081ed5124a',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '67e86f54-ff38-484d-a16c-8515e31c28ee',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '21bbfbcd-efb2-4440-af74-bbe17ff7490c',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0bd1f978-8bcd-4786-b1af-2dd7d8bf0bc6',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '251a3660-b5bb-4e3e-af79-dfdebecd25c9',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'ee53f178-2da5-4040-bcb4-9f0af3edbd1a',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '97cf8921-f553-45f9-b7de-9764b5b681bf',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '17a18154-c2e9-406d-985e-d67f839f3ef8',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '9cc22e7b-cd0c-4566-89ff-93de699e0473',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'population',
     '97118',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c6107bd0-7ee4-48be-85cb-143b8fd92921',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'ccd5cc16-bb9f-4432-b9df-62fdeb9f6409',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'gdp_md',
     '1661',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e70d995a-e5da-4322-8fc3-34b6fd2bbecd',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'a2b36d42-210e-4bc5-afdd-9f8c39cbc2d3',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c2bf7f69-9489-43b6-9b81-160d92491afb',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '2af22126-e1f2-4451-8ae0-da85e57c97ee',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd0c537e9-d018-4163-92e9-829bcae27b87',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '66049c6a-7c9a-4662-916b-a197ac9dfb95',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '942c7c3d-965e-46cf-98ff-7e071c951389',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '1aee24ba-7223-4ba8-8953-13e1a6328f2c',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'label_x',
     '-61.790612',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd97e2c6f-597b-48f6-894b-e167d54db005',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '4ea3c040-83c3-466d-b3b4-81214c57bb44',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'label_y',
     '17.352249',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '78e28091-99cc-465f-9f21-47ff95555f25',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'd037e0a4-5e65-4c33-85d2-7f544e2424cc',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4804ef54-3028-4f42-a2cd-1820eec7cb67',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '88a441ac-398e-4ef8-bf53-5d4fe78cba58',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '05a7bfcd-d333-46d4-ba1b-9255d4473d91',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'bd094cba-5b04-4a8d-9258-66967a65a9d1',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'subregion',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cffa4d62-ae08-4789-901e-bf8a15bc138b',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '0c951631-8f98-4bbd-a7f2-ea089d553f0c',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd7bc287d-ae7e-4ab2-965c-49e5e7651e1f',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '33078640-8597-43fc-b9b4-cdbd9bf759fe',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'population',
     '31825295',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '41936575-d305-4456-92fa-091a47661ad3',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'e390309a-9cbc-42e4-a9c4-68b8ade33da7',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'gdp_md',
     '88815',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2c957be6-7e16-46ef-8719-280c2f5c2e3d',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '3b82a8c4-d1a4-4e83-8ed5-65c8df538bb9',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cd9d49a1-19bd-4a0a-b826-755d2ccdd6ae',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '1896b046-5485-4df5-b569-8531a77e1801',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e9d0829f-c7a2-41e1-8d11-86e9fbdd6324',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'cf5cd2dd-fb20-4a54-8001-3bac66f7bf63',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2f029fa5-d68c-47cd-97e5-f95cb67101dc',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '58b3030d-6d20-48cc-8e8a-3067f81739ed',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'label_x',
     '17.984249',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a5a67f98-98df-4684-a372-f92b4c24fcc0',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'b1b59ce4-bedd-4334-8c61-801b057c3849',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'label_y',
     '-12.182762',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '3dd6f86c-df88-4f7d-9926-8d9775ae8137',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    'ce8b5696-eb7b-44cf-8b2c-ba8416e2a46f',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a93f603e-d7ae-45f4-b386-4beaf744675a',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '2dbb8469-101d-43d7-a454-8fb6505abdd3',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8d2b4ab6-e47c-40e4-983c-40b2d2db82cb',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    'cbabcada-2ca5-43ad-9aa5-b5292b5752e8',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2a97704b-f97a-45a7-97d8-819f76ed9fc0',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '4d003084-4f0e-44b9-9b69-5c2b8125f9d8',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd5c61017-1913-47f2-8585-4252f3aedaa4',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '35c42b16-d0b5-4e28-ab34-de244f22e75c',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'population',
     '77142',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d3b0d54-89d2-430c-9dae-f5274d7f7440',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '08a71a11-68d8-4fb4-ad06-c62c7773964a',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'gdp_md',
     '3154',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '9dcfa0d7-05ef-4c75-a193-0cf40fc28799',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    'adf2326d-d8c2-452e-8613-e3a1dda88893',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '647d81e9-a248-4598-9254-c20b79b25f0d',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '9181d062-9d23-498b-acf3-3706237b7642',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7518e964-e57a-4366-94c9-6194a1d157b7',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '587b0bac-e5e5-49e0-abbb-2e3318d3e785',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'e83e464d-edf7-46b5-b6c5-19615c219dc7',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '9302002f-b6bf-4344-af42-0fa9c73b25e0',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'label_x',
     '1.539409',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '989a8b1c-9eb2-423c-944a-73e4b3b636a2',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '855ccf32-8817-4250-b632-239961bb9d2c',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'label_y',
     '42.547643',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7454071c-1da3-46ef-a570-824a5c54bd14',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'd762dc2e-0c0a-4248-a2d4-0de8ce57c5ce',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'continent',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4eb8c194-3526-4ff3-8e46-71e4eaeb6064',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '56b4bc56-d118-4a7f-9c63-65cd4b1a2d73',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'region_un',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7c833def-fa77-41a1-be25-17a4857afb82',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '20fe86a8-72ef-4c08-b721-c51121912e89',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'subregion',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'daa097ec-b1b8-4849-b758-e19a94762561',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '98e72ec9-03cb-44d5-b270-d11416802faa',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'region_wb',
     'Middle East & North Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '48e79c4f-2852-4f1c-a2f5-24b8ca041376',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '8f1dcfed-e803-4695-ad22-87d0e5b9ac50',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'population',
     '43053054',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bb8d355d-201a-40e0-a7b3-e6342683d8d2',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '1a104cdc-9c94-46e1-a0aa-f99916b454af',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'gdp_md',
     '171091',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '372a038c-6407-4245-bcec-3366e05b0a6a',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'be81355d-7d46-4bb2-8d0f-8ae4925b9b95',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0e165f01-5fd0-47f4-86c6-4ddaa0480187',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'a751077b-5c89-4c69-95bc-9b29e3138b72',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '24d83142-25c3-42f4-8b17-97722042f543',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'ddc5d7b5-7137-4156-9437-11242b8829a0',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'eaff3b7a-2389-4270-9d59-7259d64a174e',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '991564c1-053e-4164-9d07-0293ad969da7',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'label_x',
     '2.808241',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b91c05ac-8a21-4228-a848-6d599f142496',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '8dc6231b-81be-4c2e-902d-de2557dc66a4',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'label_y',
     '27.397406',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '15279c30-130e-4ed8-a024-3df0c991cc4b',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '1c63e160-1b56-49e5-b36f-bc5c44f967e1',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'continent',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fa174776-c6aa-4854-ac0e-6ece18370f03',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '11b92450-1bcd-4bd4-b8a1-709cc019c5c5',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'region_un',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '22f82129-ce97-401d-a681-a4e706940ca4',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '4cb2aa65-fe28-49d9-ad61-24151600b027',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'subregion',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '96ef01be-5d0a-46a3-ae0f-2564363b5fc5',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '4503bf61-19f6-416d-8a65-e07a728a20f7',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'region_wb',
     'Europe & Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b637670f-e843-4645-a381-743f10c2fbf6',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'ee6ef442-bf1f-408c-a652-90759d4faebe',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'population',
     '2854191',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '27b60f93-ab6c-4cf3-a028-ebcf16bb2a5d',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'eab1af49-59ea-4a00-a98c-c02b6a26177d',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'gdp_md',
     '15279',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '61b45aee-277a-4035-9a5a-4ca302416a86',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'fa8a3c6a-0328-4d55-b430-254d1ceda6fe',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28ffbcd0-dfcc-4875-8abb-7ca46a60c7f6',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '55d5991e-634f-4edb-830a-9c56d6af4a55',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '06d6233e-88d6-4aed-9ed9-27e0f90a420e',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '68e91886-d2d9-43b3-9ec5-1df905f5b2c9',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b3febafd-2648-4637-9a41-900228db66c8',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'ca0796c9-8b9e-4a2d-aa47-73dac04c2d64',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'label_x',
     '20.11384',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd1382755-9d10-4d33-aa4c-70306a55d7d0',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'a27ec7b6-8e8a-45f5-a7ec-597cab93c9f1',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'label_y',
     '40.654855',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'abbf505e-c49b-45d2-ac60-27f662011c74',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'f2dd6628-a025-4a19-ac27-5cf0e5827365',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '03aa6a86-a782-4c56-aba4-5bad45706048',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '67bed320-ff89-4e88-a226-2dd3f60ea916',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '679bb79a-04e2-4430-8813-274d27f07f7e',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'df70043a-c66f-4c23-b88f-3a2029e98016',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4219e4de-2645-484d-8dc9-688ba929eb53',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '9fbabf92-d2bd-4267-88b9-96c0bb81fc7e',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '01b37616-e808-494a-8d6b-5708e464289e',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '750bbd5b-95d5-4a25-b1b9-1e3369c8ad76',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'population',
     '38041754',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47341faa-ac02-4bf1-8041-f93e875ac459',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '31e1f227-20f9-4736-a6d6-9598aec1a3f6',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'gdp_md',
     '19291',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '47cafd40-ad2c-4c70-abef-d0f203666421',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '292c2f6a-19dc-47f9-9dfa-f981d73fda9e',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '93afa1d5-418b-42de-a78c-8312636d4357',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '992b40e9-cba3-4889-ab85-fc31a9080156',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'income_group',
     '5. Low income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a76a5399-c4c7-4df3-abcf-a800bf05eea2',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '77fef37c-fcdc-4899-b5b0-57d29245a278',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '641d5d13-26c8-4c07-b727-8a1367e665a9',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '826cc33b-f855-40ec-b573-28276fdbc873',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'label_x',
     '66.496586',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5825524c-bb65-4903-aabe-b06f856f00d9',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '3f6bf5af-06e3-499c-90ca-056a7af9f39d',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'label_y',
     '34.164262',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '23ecaf62-6406-4868-aab0-fd956c1d81e4',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'f1e8ef4c-973a-423f-bf61-33dafd495166',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'continent',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '242d9854-4131-4905-9d61-6e7f82dfb5e5',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '8c8e1d0a-ccc0-4d28-959a-b3203f06f970',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'region_un',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'f686777c-6321-44e1-a401-ccd80d415437',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '731d9534-989a-4b18-b556-83323b5effab',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'subregion',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '11f38ead-4be2-48d0-b6f4-78cb0a0cad79',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'ef46245f-c658-42d8-ba4e-efcfae980f67',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'region_wb',
     'South Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '8b4f2c6f-36a3-4ae6-9ea4-5d86ae9b09de',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'ca4d72fa-066c-4a6a-a388-fb7f3eb82051',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'population',
     '6000',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '134c9425-328f-4cba-ae9a-82c0cdd2637b',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '1495c31b-bc1b-4d21-882c-438525a067f4',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'gdp_md',
     '15',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'caa9cf58-f315-4f38-9b5c-826eae2850a6',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '6c4f6ded-efe6-4ccb-a740-a19eae26209f',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b485f03c-b1bb-4f6b-8dc5-18baef5f166e',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '98b80fcf-3970-4e92-9f32-9293cce5a374',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'income_group',
     '4. Lower middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '848b6f50-d1e0-4d02-aec3-5175c81e84bd',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'e4105365-443e-4a47-bc54-4fa5b4bb696e',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'type',
     'Indeterminate',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '98de2b99-65f9-430f-915d-3648b1c1bbdc',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '6df03f92-9fd8-46f3-9894-5ce9d0800b54',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'label_x',
     '77.129553',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '047a2c57-bdef-4979-acd1-f688227084b6',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'ca0757f7-93b2-4695-890d-f69234676601',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'label_y',
     '35.340606',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'bf6dcc1c-32c8-42e8-b505-2350dc92969a',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '3e33a3db-6820-4abf-a3e1-33c8ef5c4fdb',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'continent',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a19e88e7-f876-4d5f-a2aa-d8ef6f7f30f9',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '1f38c410-16fe-4707-a641-d8f411edc383',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'region_un',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '20429576-e688-4255-b507-c7559141e8a6',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '71311750-ee08-43c7-bb79-ddabde6acf08',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'subregion',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'd08c6699-c93e-4b38-98f2-f5e59d2c5ba0',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '53577e38-e2f8-4a16-a2d0-ae4960b40b73',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'region_wb',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'c407161c-93be-4195-9195-3d37363fd988',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '3919efc8-4b42-43b6-a403-2602e00dba6f',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'population',
     '4490',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2d6ece78-a6b3-4520-a014-32b963fdb8ed',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '77ed284d-61b6-48ee-8854-20599195217e',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'gdp_md',
     '898',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1287d742-1125-4591-acc9-fea921c9d98c',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '1c9ae570-a616-4f01-88df-e17809caecae',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'db4958e4-2177-4b5b-aeac-e6919369373b',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '93b2c8f1-e8bd-423d-bc1c-060a22a897fb',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'db5f28dc-6797-4073-9e9b-951d9e5f6441',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '060a9075-dcbc-4bf4-a316-bee445208dcb',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'type',
     'Indeterminate',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '60bfbd94-2456-4858-878c-c7c7e2dce09c',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '7035f6cd-5058-4ee5-9b74-cda7b851e9ed',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'label_x',
     '35.885455',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '02d24b46-ee08-455a-a42f-94b6b630adfa',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '407e34c7-799b-4c7d-bd98-1e476fad44aa',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'label_y',
     '-79.843222',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5b06ef5c-860f-4b54-af44-3498b0805441',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '78d0f00e-a618-4427-b8d3-66fb1113cc19',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'continent',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2990f944-d27f-4d42-b258-1d3e4659132b',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '4e4f9606-3779-4b03-939d-0be6b73e0ff5',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'region_un',
     'Americas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'cfdeddd5-3b54-499a-9c38-0521d1c5028c',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    'c955510b-ce2b-44b9-9e42-348654158744',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'subregion',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '31ff4a85-86de-4118-9f07-4e986ff9a3b1',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '37b8cf2a-087c-47bf-8fb9-1e5404aba290',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bee5c87-257c-4f61-8e0b-a76455ce1859',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '8a0e1572-da0c-4e9f-bf48-fe7c3a08ee2c',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'population',
     '40733',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'fdf7dfe6-910d-402a-94b3-9891d3a9cce1',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '0895280a-0a8f-49d0-b630-47c475f3a540',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'gdp_md',
     '1185',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5bb359a7-63c4-4341-88c2-13dabdaf790d',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '8ccba513-021c-4c17-b7b4-4aec13115af3',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'economy',
     '6. Developing region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '4ec640d0-062a-468f-8aff-32592b95d617',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '4f7a1e5c-9495-4e22-949b-2266b19c4e8d',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'income_group',
     '2. High income: nonOECD',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '45d0874f-b94f-45d3-8075-c8ba11154d5b',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '30469244-2546-4fa8-83f7-ce2730d3b6dc',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'type',
     'Country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '6d6d96fe-3ef0-4b6a-ad6b-20dafe6bf813',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '38d8c052-80e4-450a-a6aa-17904cb47a63',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'label_x',
     '-63.070133',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '7fe330b9-e5af-43ce-baad-9a991b127730',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    'dfc534fc-8174-4471-b72b-918a9eb0f880',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'label_y',
     '18.04088',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a44f261-da76-4612-860f-ec3ed428b18a',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '4005c992-1113-400f-b4f7-9f412333c1af',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'continent',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '28a9556d-51b2-49a7-a17a-d6d8a8609cc8',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '45a17356-9348-47b4-a70f-3ff5f73dd431',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'region_un',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'a3c08527-1f0c-4263-adcd-cedb913a2404',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '32fdf2f9-33ac-49ef-8088-700a3a8d00ba',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'subregion',
     'Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b1251961-f298-4e71-a66e-9c69f310ec08',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '75c14bb6-4191-4584-8251-0fe73ece4433',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '1b683fbf-6f62-4cca-a920-c38c01cf37f6',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '378fef17-c14d-4470-8640-50255c67c4b2',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'population',
     '11646',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '29138c1b-7015-4f28-8793-cbb109c1df1e',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '411c98ab-3294-4dc8-9173-0f0be5c819d0',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'gdp_md',
     '47',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '2e76bc2c-62f4-4065-8d03-97110976e2f4',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'ec50acf8-7837-46e9-88f1-12811e197376',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'economy',
     '7. Least developed region',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '5a60d5ce-1f1a-42e8-aaff-7392039061a9',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'cde2adc5-7755-4cb4-a2a6-7cb30a2ef963',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'income_group',
     '3. Upper middle income',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    'b59303c3-ce2d-4745-8aac-1f6ac5bcae83',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '46fc8db7-a72d-4caa-9b87-36cd3af5eb41',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'type',
     'Sovereign country',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '0cfcb5b8-4b27-4cf7-b4f5-9b3081ac2085',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'c31ad2b6-f8c1-4280-a5ba-104f6acdc912',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'label_x',
     '179.209587',
     NOW()
-  );
-
-
-INSERT INTO
-  region_properties (id, region_id, key, value, created_at)
-VALUES
+  ),
   (
-    '88359c6e-8b68-4942-a518-5b9603ef322f',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'd8f5d039-0f5c-4c56-8cb7-4210974c444c',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'label_y',
     '-8.513717',
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;

@@ -13,46452 +13,19363 @@ INSERT INTO
   )
 VALUES
   (
-    '9ea561b2-e580-47de-b2c9-25101d16b011',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'fa95eee0-d298-4d12-beec-b02e314d44f2',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'natural_earth_admin',
     'ZWE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37bfabe4-dfbc-4d73-8d30-a9ffc0ccce6e',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '3609128f-f9f1-46b0-bb66-81b6bd108641',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f8a184d0-4c15-45d5-899f-053619df0166',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '30b792ca-0cda-4765-8c41-49a68c0e1430',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZWE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4dd590da-502d-49c7-9d5d-e8dab286fb1d',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'fc55d9c7-b6e5-415a-9f34-484541842af4',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'iso3166-1-numeric',
     '716',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b51ba8e8-fc9f-45e4-97f5-b14def6097a3',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'a96d31d8-98dd-4696-bb60-dd1014919191',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'un_a3',
     '716',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9315baf4-59d0-492c-b5b1-32b019b46405',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '6b08a68c-4839-4ef2-b0e7-bbb5c43eb3d9',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'world_bank_a2',
     'ZW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ddb0abac-a6e9-4023-9ff4-e2bcd6451518',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'cd762341-a184-40fe-8401-75ad7572c1a2',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'world_bank_a3',
     'ZWE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0f19de59-5121-4f1c-9709-3e543686aa38',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '718a6eb4-fdcf-4eeb-8375-d4168b3e25f0',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'natural_earth',
     'wikidata',
     'Q954',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '73bf3195-6f08-4fa8-aab6-e9d8f8b30f98',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '6665e357-9e1a-486a-814f-73129935c5af',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'natural_earth_admin',
     'ZMB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '030b268e-95a0-496e-a2b4-bff69ba4b66e',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '1bf6fbd9-7bd7-43a5-9146-cfb3e9362e0f',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8e950c7d-e26b-4b4d-9e8f-6acd77bbf808',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '35705252-4e4d-43a5-b066-a6f6fc0fc265',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZMB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f2da2184-9f76-48bb-85fc-6d6c0146c285',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '659556aa-4f02-4195-9f61-fe4689040cb8',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'iso3166-1-numeric',
     '894',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da72833e-dc13-4e42-9a46-fba62a8fc328',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '6b47ce41-08c7-4c2d-890d-523e1dd8f142',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'un_a3',
     '894',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a8a115e6-b191-4c6b-8576-e4ce64695633',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '821e61f2-a0e6-4f81-b43f-9d0e2d7f5fc2',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'world_bank_a2',
     'ZM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '876a9beb-80fd-4283-8359-20f62dc8de1f',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'c8cee37e-59e7-4840-bb04-5751b1c57ffd',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'world_bank_a3',
     'ZMB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '093d2c3e-e5e1-4c8a-a55e-8727bc64f70c',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'ff1a853a-9826-474d-9831-5ca53b9727f1',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'natural_earth',
     'wikidata',
     'Q953',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6198e660-5de8-435e-a91d-3371e697b5f6',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '5c9e9c90-f35f-4b23-90b8-21e89bcd8245',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'natural_earth_admin',
     'YEM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8fc27d5c-e43b-41f2-a602-54a9522d0b67',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '553ea4dc-72e9-4b76-8267-6dbb6ef7e0d8',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'iso3166-1-alpha2',
     'YE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4a5c02ea-1536-44d4-8764-39733339affd',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'c7e53c17-5be8-4e1d-a771-34c3b5d4efb0',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'iso3166-1-alpha3',
     'YEM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e34ca733-a09f-4dda-be66-767193a9a305',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'f51bd68c-ad6b-4d24-82bb-efab424f9e68',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'iso3166-1-numeric',
     '887',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'be184fbd-b289-4fec-85ea-a90e88876790',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '3e0365b9-07a6-4864-9160-b09062ac29a8',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'un_a3',
     '887',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a804c56-e6e0-4a2c-b586-48e8c6de9c57',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'b2532b8f-a32e-415c-8e8f-8e9dcf515848',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'world_bank_a2',
     'RY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '01f6bf40-a6a2-47ae-8684-8b6d213a36aa',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '3eda9d0a-74e8-4ca5-998f-fac64aa7d24d',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'world_bank_a3',
     'YEM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec929fa5-6554-481f-b4e1-3909d664f669',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'a3564777-7cc7-4ae9-a452-972daf329503',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'natural_earth',
     'wikidata',
     'Q805',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '099f13bc-843c-412a-bd69-e6e1832cc29b',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'c887b75e-326a-4994-a695-fcb726f172e1',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'natural_earth_admin',
     'VNM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4626cf48-28af-4251-9b10-314bdb748927',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'dbd8bef0-29d3-4f04-ae65-31cb7f13da3b',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'iso3166-1-alpha2',
     'VN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5381b787-3b30-424c-8795-0ce008e3e044',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'e07f2cab-30e2-4090-a3af-0529e03ffbbf',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'iso3166-1-alpha3',
     'VNM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da00d013-e223-4f4f-af68-b865f769d0f2',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '6d689699-1024-4153-a9d7-c23a0c8b6d0c',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'iso3166-1-numeric',
     '704',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '49a363aa-5a46-4c6a-9d64-b913e1b58a9f',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'c64070d1-18b0-43b4-9f05-aea4ed2b390a',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'un_a3',
     '704',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23dd8e5f-823d-40d6-8ecc-59aec60f7c6a',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '09b88136-5ebe-44d0-ae80-efff00210712',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'world_bank_a2',
     'VN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '139fd968-440a-4251-b871-6b9fbb42e8f7',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '10ca284d-537c-4dfd-8c45-bfda752f0f66',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'world_bank_a3',
     'VNM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '03609cb2-a397-4728-ac04-ce89cc3940dc',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '00b96abd-bc46-47f1-8555-be534b7abe87',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'natural_earth',
     'wikidata',
     'Q881',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e6ef1ba-83c1-48e1-9d9e-b5aa4b801e45',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '3fd9353d-b52f-4317-84c6-7f684b4f2f02',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'natural_earth_admin',
     'VEN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c73d8e04-4244-48eb-bdae-858b4ffbcecf',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '2f642d23-b511-4fb6-be23-290b6de50d26',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'iso3166-1-alpha2',
     'VE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f8876185-fbbf-4223-b42b-90f9eebd688c',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'c0312e7f-5c62-46cc-9e08-7284e3cd118a',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'iso3166-1-alpha3',
     'VEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '708e18f3-f1d5-421a-a2a9-b4ffe4ce0601',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '4270b7fa-11e0-4042-a9ad-ec33fa78a618',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'iso3166-1-numeric',
     '862',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '40304c7d-42ac-42f2-ae22-74739abe4164',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'ae69c742-007a-4683-97da-9cfc52c20353',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'un_a3',
     '862',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac648a97-a669-4f85-b94f-966dff6379b9',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '5d4e937b-9002-4b77-9943-25be445a29a4',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'world_bank_a2',
     'VE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e62839cf-1471-427e-adec-699b9a8628ba',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '28bde781-6822-4add-8435-ccfc7f33ef99',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'world_bank_a3',
     'VEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '01e830e0-d32d-49c7-9cce-8aa62975d127',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'eeae5a3e-d506-4c73-8fdd-c6279c1c28b2',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'natural_earth',
     'wikidata',
     'Q717',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9414b01b-b0c0-4493-b782-6a001089ced0',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'e9305c1a-2d3e-4d8a-aabc-20169726478b',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'natural_earth_admin',
     'VAT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd160b8fe-fc06-47d3-b3f0-b3b6c3c44157',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '6eb2b51b-35da-4442-b98d-ee4242d91cfe',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'iso3166-1-alpha2',
     'VA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cd083f8b-9a9b-4c37-bbc5-abb714d3f260',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '3259f98e-6cd4-4dc3-9d3a-59051d5882e8',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'iso3166-1-alpha3',
     'VAT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ba764fbc-402d-4046-a228-998ac45cd982',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '8a2219d1-8d5a-4010-8c1c-c3305a4a4b33',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'iso3166-1-numeric',
     '336',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1517c191-ffac-4a31-98f2-aea94f06bb5d',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '8894d8d3-daa6-438e-9a40-8a44ee0a2845',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'un_a3',
     '336',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e8a49e3-a960-46ad-8aa6-eba6b23ee098',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '826c787b-2a38-4f49-81d7-974b3e187184',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '435ed7aa-bd48-4c97-995e-810206c3b525',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '786e2386-92d6-42aa-a430-d42f163d2c80',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7e1c279a-4b1a-49ca-aabe-aa753fd68593',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '86f08bd7-70be-4eb9-bf32-3cbb9f48945c',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'natural_earth',
     'wikidata',
     'Q237',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0bd8583f-f938-45da-b694-7648837d01ad',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'ee34d1e0-0263-41be-9431-b32d416eacbf',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'natural_earth_admin',
     'VUT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e660fd9-1b87-4086-8812-dbae251896b1',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '49d07d75-1882-46e7-aa42-3612be2f7b88',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'iso3166-1-alpha2',
     'VU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c94c933-e5d7-4f65-a77e-53a2ef961f48',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'a6802c30-8a51-4386-a5ad-c5e396d22f4a',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'iso3166-1-alpha3',
     'VUT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3479437f-1f23-4cba-918c-dfcea86d47bc',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '96bdf8a8-4849-491a-9fa4-c64fbd0aebe7',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'iso3166-1-numeric',
     '548',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fe13afd5-e99d-4dec-9a85-8ed1695570da',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '2f744346-0945-45e7-ac02-b496f9aaa4c6',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'un_a3',
     '548',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87866a37-390f-4c3c-93bb-5264b70bb717',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'c30038b6-e83f-48e2-a4cc-f33f64feda84',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'world_bank_a2',
     'VU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a998d836-4ae6-4889-bd60-907384fd4637',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '07dd5743-e8b6-4f1a-ad17-c7b67543071c',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'world_bank_a3',
     'VUT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '73c4057f-4193-4694-896b-88c1eba4e95b',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '1dd49983-e4b9-425f-938d-53c0742b330a',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'natural_earth',
     'wikidata',
     'Q686',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15917ae1-6274-4f12-a1b2-318d8e04e1ca',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'd75b4dee-bfd4-4596-8939-d3d8e6b06238',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'natural_earth_admin',
     'UZB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8e7be994-4185-4031-9d74-27cf0f277e6f',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '2af631b8-210d-41b2-9111-daf17b753435',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'iso3166-1-alpha2',
     'UZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '34be296c-523d-40f9-8179-95ebaa63abbd',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'f9ac82ad-83e5-42ee-8c51-27798c8e99cb',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'iso3166-1-alpha3',
     'UZB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e746e2e8-7dba-4e38-93ae-3cbbd558422f',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'f9a213ca-2edb-418f-9689-44e1cf5365fa',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'iso3166-1-numeric',
     '860',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4c4b4919-2f70-4801-add7-cb78e5c4dc49',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'e237f103-3be4-446c-91f4-909bba60dc34',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'un_a3',
     '860',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a0b4420a-2447-490f-8e1d-f5876cf2f029',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '7ef82b96-2821-4166-8260-7e324d5ef317',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'world_bank_a2',
     'UZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '304b1bd7-5f72-4cf5-8b21-3d6243573eb7',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'd9413149-f86b-4127-acb3-3b684863ebd7',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'world_bank_a3',
     'UZB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9fd9608b-9c3b-45de-84f5-5a086775a5de',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    'f9e116f4-1523-4a01-aa05-c9a023e3cc36',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'natural_earth',
     'wikidata',
     'Q265',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e5b8ca8a-3ca6-4b4d-a0ce-ef9763a2b162',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'e1aad15d-6754-4615-9b77-7675b0c99f82',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'natural_earth_admin',
     'URY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5a9a149b-47ce-4650-a2cf-dbd3d076eb09',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'cfb6ec16-ae19-4080-8b3d-4867fdd37d64',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'iso3166-1-alpha2',
     'UY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e3d527f1-9ccf-4d68-8e6b-77379eee6aac',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'c001eca9-929e-4166-bdb1-3962ed150b62',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'iso3166-1-alpha3',
     'URY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '330a57e1-d151-416d-9275-2c4ab0ffd736',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '3ee1fe16-3bff-4712-9d37-3d2403b2bb13',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'iso3166-1-numeric',
     '858',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0dbe8b3c-29cd-430d-88d1-42cdb1fa3aef',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'a20c1852-7bcc-4c17-9147-462eaa6d521f',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'un_a3',
     '858',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d870b5b-4032-46cb-9c3c-37076edcc64c',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'adcb9af2-643f-4f8d-a89e-13bf7df2c05f',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'world_bank_a2',
     'UY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '962f392a-63a1-4b1a-98e8-e0818530e1ad',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '12ed1410-76e5-421b-84fa-043ea13371be',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'world_bank_a3',
     'URY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '342a81d5-3147-4973-8887-d266f897da08',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'c53e6df8-12d7-4058-b1fb-8ab9c7fb27cc',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'natural_earth',
     'wikidata',
     'Q77',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '62f9d6ba-c6c3-47bf-8a33-507b1cd7a412',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '8acdc297-f687-49a1-b8f3-4c6b68a37039',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'natural_earth_admin',
     'FSM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fb125f93-45fa-4558-af99-8ac6487535fa',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'b20d2fd4-e59c-464b-938e-4e5acc0b33a4',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'iso3166-1-alpha2',
     'FM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a691b5c-87fe-4566-8247-2788a5fbf301',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'e9613165-f2c5-4040-abea-6fa14feb6a30',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'iso3166-1-alpha3',
     'FSM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3da970cb-037c-4ef5-bf7d-5202954108ce',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'fc378cf7-62b1-456d-ab2d-fdb085cae6be',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'iso3166-1-numeric',
     '583',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e7b37375-3d3a-4fca-a993-21e1f8d5a4c0',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '70ca48f7-8f33-4b29-b146-5b19a758cfec',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'un_a3',
     '583',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c1b6fcb5-53f9-4ea8-a4e8-12861cbff406',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'ebca5bd8-b9b7-481a-a223-b49fe3626450',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'world_bank_a2',
     'FM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '13a51d2a-2347-4f03-a54c-c98b483bf796',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '3f133baa-a107-46af-8c11-d80690e2cee1',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'world_bank_a3',
     'FSM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d5f7cb2-b6a9-4689-a959-85261e395e9a',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'b7bdc299-a2f5-4209-9293-91e817f73ba3',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'natural_earth',
     'wikidata',
     'Q702',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2adccf03-1510-4438-ad4c-e3f11d2a7897',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '9e1a2300-bb5f-4c7b-9438-4d469d6d2df4',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'natural_earth_admin',
     'MHL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94495312-1e45-47a1-a396-a7de5d7f630c',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '9cee5541-f86d-431b-95d7-a3fe0281ecf8',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'iso3166-1-alpha2',
     'MH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b3c8a5ab-b96f-4b96-845a-05d3a9ab69a7',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '8d180eff-9658-4ded-a172-f65c10a1245e',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'iso3166-1-alpha3',
     'MHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e9058935-dd58-4fef-b0d0-c227accab087',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'fe7e0c0f-d4c0-4a9a-bcc9-e7d3333828d5',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'iso3166-1-numeric',
     '584',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d8a5250-6c8a-45b2-a63f-48b948590c80',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'd7a18bbb-21e3-4340-80dc-a7b4d3efe74c',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'un_a3',
     '584',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e1841379-a279-40c2-b1a3-9d6af73f3d81',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '10113434-65e2-481d-b3a7-e2b3c570e95c',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'world_bank_a2',
     'MH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6967c733-031a-46be-a77b-a0e9bddeacc8',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '15c5711a-7290-4170-b9ae-4127f8af8740',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'world_bank_a3',
     'MHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '44c581d3-83c8-45ca-9529-17d07863ec8d',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'c550358f-5d77-4a21-97ca-d17b86dcddc7',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'natural_earth',
     'wikidata',
     'Q709',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b52fc6ae-27af-4be1-b64a-6316b2a71c4d',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'fe723951-4989-4e7c-9225-4fc7343eeb3a',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'natural_earth_admin',
     'MNP',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0cfcba8-ae18-4b0b-a49c-a61fa2451270',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '14024a51-a5c0-4089-8ce3-4697771ea8ce',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'iso3166-1-alpha2',
     'MP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6170e0b-827d-43c8-a018-faf59fbaa65c',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'ea605f5c-25cb-4726-b02f-8a6ef849c8c3',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c85273c-c7ed-42bb-b5b8-4c5f7b5a9bd1',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'cb737cb7-9657-4a3f-8183-041d23cc594f',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'iso3166-1-numeric',
     '580',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd6842060-b599-4ad1-8a8d-00292aeafb02',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '40e66b7e-a794-4449-a41e-c6fc45492084',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'un_a3',
     '580',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd791c702-2b35-43c6-b829-1bb9cd43ebba',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '436abc1d-0b6f-456a-86ed-9cba7e1cc3ba',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'world_bank_a2',
     'MP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74845021-6381-4b30-bda2-f25121a44429',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '4735a04e-d57c-4135-a8db-b2a3f2712576',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'world_bank_a3',
     'MNP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bfe8648f-36aa-4300-b472-be135fa9d615',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '762a7ac5-f8d6-41cb-9058-05c3a6936997',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'natural_earth',
     'wikidata',
     'Q16644',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3cdbff79-b6bf-4438-b1d4-02e7dc0d26d1',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '3e90e417-20f6-49da-ba16-15d22c295699',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'natural_earth_admin',
     'VIR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c700075-8774-4d7f-a2c8-3a89b1b20ac7',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '00068073-4ced-4df0-8939-ae8b6af150aa',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'iso3166-1-alpha2',
     'VI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c819350-a481-488d-9a87-ee378462a2c0',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '70c4a504-d02c-4170-a73b-6644b83906d4',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'iso3166-1-alpha3',
     'VIR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e9ed35a-b4a6-4d1d-adb2-f96348d01b02',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '4109e660-b7d5-4597-ad4b-3313d7fd40c8',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'iso3166-1-numeric',
     '850',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1699da1e-5312-433b-93fe-215422ba720c',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'd0ab59c6-2e2d-4fd7-989c-60380b8d64f4',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'un_a3',
     '850',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0570b038-9b00-4802-8ed0-23f00b890c0b',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '374af696-ea34-42ab-85af-a5a22bb971dc',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'world_bank_a2',
     'VI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '586526b3-7906-4924-b74d-a1eb90efe0b8',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '3e3946c5-e05f-43d9-acb6-c08d49ff3279',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'world_bank_a3',
     'VIR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '96d7061c-aada-435b-b97c-46223f8baf4a',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'a9b10da7-9de2-42ef-ba9c-986ec83383c1',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'natural_earth',
     'wikidata',
     'Q11703',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a0a85581-9d2f-414c-9f72-74d322579abc',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '9572a381-e966-49d4-aeac-3796e77d3cd6',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'natural_earth_admin',
     'GUM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f4259338-55c9-4057-b5e5-821193ff7f00',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '7f4dcddc-2651-47c1-a3d0-18b59b5cf57c',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'iso3166-1-alpha2',
     'GU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dc26b035-9ce7-40c0-b13e-aa8712091a4f',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'd37dfcd4-e29b-4178-81b3-dd26b639bc24',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'iso3166-1-alpha3',
     'GUM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd8e6b7a0-40d2-4898-9509-cebdd2aa6086',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '9af3312b-04d0-4272-8fe5-ecdcc5108bed',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'iso3166-1-numeric',
     '316',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de872491-75e0-4982-8e5e-31b8e4e3e896',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'c744aff4-57c0-4c81-9dd1-38eb91f278bd',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'un_a3',
     '316',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c39dd232-3b1b-46f9-8add-fd2cd2a78e50',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '732bfc83-389e-4044-bb5a-ce0256f44692',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'world_bank_a2',
     'GU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75789866-766d-4c13-88ff-a4eda88f7457',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '0a79af9c-7352-46ce-aef6-4bba071157c8',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'world_bank_a3',
     'GUM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ceefa931-050d-437c-b2e1-206c6c5dfcd3',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '79279fe8-7ba1-44d1-a26a-ed398f266b2c',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'natural_earth',
     'wikidata',
     'Q16635',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c9101ce-1e47-415c-a480-c902db37b83a',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'df068ef4-0306-4bea-8b3c-1ea11ab9d5d9',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'natural_earth_admin',
     'ASM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9162af6a-51b2-4eb0-9998-d887b1bd1d36',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '5eda2992-6cb3-410c-a284-161b72e02d9a',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'iso3166-1-alpha2',
     'AS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e2ead2ee-56ff-4c05-ba58-b9030cb0bec8',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'b9269256-ab8a-4496-aa04-9b2b6034aeba',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'iso3166-1-alpha3',
     'ASM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9ab54599-00ea-449a-af20-5eadc235912e',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '3626775f-242f-4f1f-b54e-2bd658efcea5',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'iso3166-1-numeric',
     '016',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43748360-6a52-433c-96ea-df6cde91e356',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'c80b6ccc-c5ec-41f2-a5ae-0b1af9c7003a',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'un_a3',
     '016',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de7497b3-31b2-4e83-b2db-d7a74e2c2679',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '809a02ff-c6a2-40f2-bf55-8515afb5dbdc',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'world_bank_a2',
     'AS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1abf535a-d8a2-42b0-af6d-77675c77ac7e',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'd2dd0910-d0fc-46be-baa5-2185626d0a03',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'world_bank_a3',
     'ASM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '513d490b-9aae-4203-935b-703c671d586c',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '74313304-fcc5-4bcf-92a0-2c067fd28a6c',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'natural_earth',
     'wikidata',
     'Q16641',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cfa5cac9-cf02-4fe6-b10f-8f337024bf75',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '9afa5634-4736-40b3-a3df-3fcfe0c468c1',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'natural_earth_admin',
     'PRI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c96d8d09-295a-4464-86c9-3afda376625c',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '99b00c8d-181a-433d-beaa-0eb7c76e40c2',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'iso3166-1-alpha2',
     'PR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff53a582-e3f2-4075-9e80-8e8ce34aa783',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '4f99c303-2f59-4f1c-8be7-836827b1ad9d',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa15649a-107b-461f-bf72-845b6cd95637',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '302fa844-2999-425f-af7f-c316bc9fbd01',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'iso3166-1-numeric',
     '630',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c8132885-2f5f-4b13-a517-e615445f12f7',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '41685867-01da-4ad6-8885-0056c63f4eb6',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'un_a3',
     '630',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87752166-06f1-4d0c-aa6c-bb54edde78a0',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '00c42922-f8b0-4cbd-b930-e8714349bd71',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'world_bank_a2',
     'PR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08d5fba0-e1e0-4d7b-bd84-e71382d23f9d',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'bd20af98-a42f-4c5b-a454-1d127642735a',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'world_bank_a3',
     'PRI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a67472b-4b26-432a-965c-309ce155aed1',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '4f46ac05-2437-425e-88f8-401b4e36b67e',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'natural_earth',
     'wikidata',
     'Q1183',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '012403c0-ffb0-4eb6-9f66-34ef7ed7feba',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '29d3a9b3-c9d6-464a-98f8-f81ad513c9a3',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'natural_earth_admin',
     'USA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94f79de4-6dd5-47d1-b434-655b1d2423ed',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '0d645f8b-bd66-4972-9116-f0f03f745112',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'iso3166-1-alpha2',
     'US',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4d0aa802-4831-4711-a93b-d25c07d5333d',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '805edf48-330b-4c0f-b2d7-72899215f6fe',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'iso3166-1-alpha3',
     'USA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '725856c9-d9e9-4c9c-a0c3-b7da10b7873e',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'f559b4c5-8fd4-42ef-8907-77308cd80155',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'iso3166-1-numeric',
     '840',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dedc04cb-380e-4300-a89e-70d748a84a2f',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '3fb0a052-4fcd-4a3c-8ac3-e5464309a299',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'un_a3',
     '840',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14e07c65-a75e-4a77-a3d8-fc9587b28db7',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '95b556a8-f052-46f0-bff7-91c00ec49b66',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'world_bank_a2',
     'US',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a7902c07-cd7e-4552-b9ca-db34d8501f3c',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '4c9be9c7-671a-4ec6-8bce-b073ad11de41',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'world_bank_a3',
     'USA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c23ccdd3-82de-4dda-936f-0b4c2649598c',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '64885912-ed85-4a99-9624-8ee63cd9d810',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'natural_earth',
     'wikidata',
     'Q30',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '132b1702-3b9e-4817-ba3e-0c0a03cb4035',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '5cf1fd01-f6f2-425b-8dbe-bbe00781a6ac',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'natural_earth_admin',
     'SGS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a512ff9e-8328-41db-865a-7ba1ed3af747',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '4ec5ab35-9472-4f21-b7aa-3508a4015359',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'iso3166-1-alpha2',
     'GS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c1a1df18-439a-4ed2-85dd-e319cfd2d93c',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '9593acc2-6de2-4ec2-b799-fe4817805c1d',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'iso3166-1-alpha3',
     'SGS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8080dfb1-a803-47d3-b831-77982d41c2f8',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '356c6446-c2c0-461a-9058-06205c606d17',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'iso3166-1-numeric',
     '239',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72a6b43e-8701-458a-a4d8-6c12cf57ca80',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '69a34c60-2299-425d-a516-0e246783939f',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '59538af7-9fde-4ec6-8ac0-670154f7e42c',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '8b3ff251-489e-430a-97ee-a173de64fe12',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ed02b71-250a-4f2a-aa2d-38470077ae7c',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'bc07527e-5cd9-4ba7-91f8-080798b2f9a9',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f399e6a3-1e16-4d13-a3a9-26c20618218c',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '5d94e92e-e4f2-4729-b34f-222b39f51b98',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'natural_earth',
     'wikidata',
     'Q35086',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0f8fe021-6651-48f6-bacb-12edcc59504d',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '6429473f-b6d6-45bc-be5e-da8e0b9fdb93',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'natural_earth_admin',
     'IOT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e234cfaa-5dcd-4cce-ae4f-63febaac5424',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'c62676fb-971c-43ed-93d1-6cfe84dd2f1f',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'iso3166-1-alpha2',
     'IO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e6850f05-c288-4f80-a3c1-d03cae0a24d9',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '408c7f90-f835-4f02-8f37-4cb8ec5b48f3',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'iso3166-1-alpha3',
     'IOT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5cc92a1a-bee9-4604-b152-0d722a54fa8b',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'f085eb93-f1b3-46a5-8b2b-a26864a202ec',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'iso3166-1-numeric',
     '086',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '322385c4-7cb8-41a9-9a4f-43b4b117467d',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '002f2267-1207-451d-8a05-868b88e490f6',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '074281c5-b653-4617-8889-f24c33c10a61',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'ea0c1e4a-fb8a-4284-892e-6e7aecb866db',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d375cf2-1d4c-413d-be16-9c58fa9d633e',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '437dcef4-0fe9-40d8-bcab-432a7111e339',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd2669671-c6ad-4a50-95db-5477175ba4cf',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '22991f12-ca70-4e7c-96aa-1dffafddcdd0',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'natural_earth',
     'wikidata',
     'Q43448',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3bf14e50-bd70-4103-bd34-da61acae650e',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'b023e27a-2848-4c7c-ac16-49064d729923',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'natural_earth_admin',
     'SHN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a92997f0-2115-4039-85ac-b655bc4f7e8c',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'afb1f677-d654-4222-a595-6e084bd2aa33',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'iso3166-1-alpha2',
     'SH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b3ef37dd-ca8a-4ccb-8516-2429f1c25b54',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '8c7ef480-67ba-4145-a193-2ead00ab6de8',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'iso3166-1-alpha3',
     'SHN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58254782-6694-4b2b-bfd3-781c50992166',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '70923ae8-0dac-4944-b15c-d6d3913a8067',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'iso3166-1-numeric',
     '654',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b86680b-e6d3-48c5-a851-963f39f2fbfb',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '008c809d-4808-474f-a690-15b464171a9a',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'un_a3',
     '654',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '73bfc6a7-457c-4427-9654-a25787b1ddfe',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'e4479829-82aa-4b48-9d1c-4580ccf8dffd',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e96d7058-9092-4844-b185-6113a413e3e4',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '4b714ef0-8b47-4f97-bf17-222d5bf2e2cb',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '35d81466-6795-4df2-9602-818bbe58d2c9',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '0a40ec52-fad6-4912-bebb-c58699cff9d6',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'natural_earth',
     'wikidata',
     'Q34497',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c173c16c-dd00-4b59-9bf7-a31681635289',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '8b002e29-0757-4dfc-b822-5a904161fdd6',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'natural_earth_admin',
     'PCN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3171efcc-f1bb-46d4-8eba-49f03ae6d921',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'e57b93c7-082e-4faf-a006-5a20c9df998a',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'iso3166-1-alpha2',
     'PN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '609e599d-2c61-45b7-9d4c-d3973c71501d',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '5ba7f53d-eb2c-48e5-bf10-2387b4dd0fc8',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'iso3166-1-alpha3',
     'PCN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf1a5568-53f6-4ca7-9e9e-adf847b2b0ee',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '80bfa84e-7c64-4023-8a00-9b525fa756a9',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'iso3166-1-numeric',
     '612',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff3abe53-449e-43a3-b217-60ea661ea003',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    'ef69ed54-12a5-4dee-aaf0-0c1b1d85e876',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'un_a3',
     '612',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1b14f208-9536-48e4-b14e-09286a3786cf',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '1b673435-d36a-4abf-b3e8-16d9df7ac7b4',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87ded2c6-1be7-46d6-9568-456b5bde0902',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '299c068c-f1e4-40e4-85c7-bea8cebe675a',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2f051f82-d038-41ca-a646-c2b6b2810f3b',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '674c6903-d8f6-4c63-ba12-094ecb89616f',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'natural_earth',
     'wikidata',
     'Q35672',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '40d7a06f-3931-4f75-9f88-b2e1ce811ea2',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '2c4c9ce0-93f4-439e-ad0c-43f5196f8285',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'natural_earth_admin',
     'AIA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8f6ca47c-def9-4fc0-a1cd-8497b7c84a41',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'ccce2f32-630d-46f3-9b67-63e1d30f10a1',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'iso3166-1-alpha2',
     'AI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1e10ee97-d16f-4431-a6a8-9f45223f195f',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '056b2136-c5b7-40c7-a5b7-371c72e6554e',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'iso3166-1-alpha3',
     'AIA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '90068dda-f831-42d0-9fff-fb49a6ad786c',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '686e40da-9f41-41b5-bc3f-4637833275be',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'iso3166-1-numeric',
     '660',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c61a084a-6a97-4cdb-9403-59ae2bf65075',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'a223bfbd-f392-407c-8d5c-45010be614e7',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'un_a3',
     '660',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c17adec8-1abd-432c-b66d-a2e231880bf3',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'c95960c9-a2ee-47ca-afb3-4b70b60df737',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4790faec-a81f-4ef7-8f3d-586ddf98017c',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '7a9e65f4-f5fd-4a2f-9034-ca30cda71628',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '623eb301-9711-4f8c-8b10-19d1e7c05988',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'e5c82f2c-b675-4bc8-982d-ae9474d01620',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'natural_earth',
     'wikidata',
     'Q25228',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '22da466b-3428-452b-8dd3-f5bcd3986d13',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'aa0abcf2-9908-4c56-bd4f-78bd52d0bfc9',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'natural_earth_admin',
     'FLK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '04751603-a02b-432e-81a9-a9a700a6a781',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '5cee4731-cd8f-4043-ba15-42b85c3a312b',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'iso3166-1-alpha2',
     'FK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '64e7859f-766a-4818-b8a8-454afcc76c34',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '4dee517b-fa1f-4f4a-9b12-0a49502dc7ae',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'iso3166-1-alpha3',
     'FLK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9d7090c2-998c-4cd0-a151-10cd62eb66bf',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '45332d82-4cb9-4e22-b95f-ee0f7e657f04',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'iso3166-1-numeric',
     '238',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2f1e77c5-e32e-4ede-8bce-749691c7532e',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '06ec6f41-edfd-4bba-8d52-6f2b32f20fad',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'un_a3',
     '238',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec4cb8c5-1a1f-494e-96ff-77c7a78405aa',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'ca3def41-b74b-4431-bbe8-906996be6bc5',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac2cde3e-f3cf-4863-b690-e451e36fd3f1',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'b4f46b7c-5b6a-4106-809f-953bb1da4e7b',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2b580edb-f172-498f-87fa-74ef787e2188',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'dd4ab9ea-24b2-4872-b7cd-16f86f36acac',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'natural_earth',
     'wikidata',
     'Q9648',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d9e6c8a-c19f-44bb-af6e-4a63810e972f',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '7949c1b5-6133-41b6-ac30-3c21c0e577f2',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'natural_earth_admin',
     'CYM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0802a25-b934-4133-abcf-1154e8771066',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '5005eefc-cb82-4c4b-b5f7-7957107c9019',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'iso3166-1-alpha2',
     'KY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '407b65c2-0da1-4830-a5ac-309cbbda8db7',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '9485ca12-dc75-4e9e-9a26-f4c5e1ae39c5',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'iso3166-1-alpha3',
     'CYM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f41ff27d-4dff-421a-b8ab-c66dfb4369c6',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '7f65bac2-1ed6-4c3a-9cf7-ed889eed888a',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'iso3166-1-numeric',
     '136',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ab74844a-fabb-4454-ae66-2082c60f93ed',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '7312f8bb-a1c7-40a6-a6eb-b0cf336716dc',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'un_a3',
     '136',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d7bf4ba-1375-479c-b97e-b37780368b45',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'e5245779-587d-4725-822b-bc2a13dc4d45',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'world_bank_a2',
     'KY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '076ca4af-f159-4b7c-a37e-5d1492ae869c',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '03305e1d-5578-4d2e-b35d-c58c7a0bff24',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'world_bank_a3',
     'CYM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5508c4f8-b274-44a8-b5af-1ee6de6dd7f6',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '3d6a003e-da86-4fb0-a144-745f7d1533ad',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'natural_earth',
     'wikidata',
     'Q5785',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5112308a-282f-4f79-8faa-e94914976ddc',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'd5e7ed84-e4dc-4e7d-b5aa-c3a65d5101ce',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'natural_earth_admin',
     'BMU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e75ef14-61ab-4268-94b3-1f86bca13e73',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '5ea09ce1-ddd6-4510-9aaf-5cc272038bff',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'iso3166-1-alpha2',
     'BM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e606a7f8-2c95-445d-b30b-43ab51afc875',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'c1373b67-9915-4277-a50a-a42f0233e63d',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'iso3166-1-alpha3',
     'BMU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c79fe898-f469-4b7d-9d76-bf1a7a4a3968',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'd3b77f7a-1ec0-4a4d-a05c-33a3c11c4652',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'iso3166-1-numeric',
     '060',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e1e003b2-0000-4022-9bc6-0ed70f94d7ef',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '94e06934-c310-4124-b8f4-84ee18c62d1d',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'un_a3',
     '060',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '03cd82be-d099-4597-8047-6b112c8bcd0e',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'ed939b26-bf7e-42bf-a860-a6da1fcba3a3',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'world_bank_a2',
     'BM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '946f01bb-edf8-4352-983f-0e870f5dad48',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '62945ac5-d94a-4190-af8e-79709248af32',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'world_bank_a3',
     'BMU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7e811b58-ea57-4fc6-8742-caa637323d7d',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '85b749f5-802e-40d8-9303-de1a711402f1',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'natural_earth',
     'wikidata',
     'Q23635',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e4c8ac82-9108-4237-a725-cc8bf8145932',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '0ce60091-7aec-4cbf-bb96-f18ef5536055',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'natural_earth_admin',
     'VGB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ae1c6a3-0587-4da9-84f9-039afb240cf1',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'baf7df3c-18ce-4919-b719-a4b98d1ffc5b',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'iso3166-1-alpha2',
     'VG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a87fc67c-b46e-4f4d-9f94-5c27d4907d9d',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'baa2527f-05b3-434c-8c28-1008637491dd',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'iso3166-1-alpha3',
     'VGB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da72af34-6e83-47b9-a39c-a2ccac7af40b',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'a94e6790-29ee-4173-9588-25d225de3dca',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'iso3166-1-numeric',
     '092',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '714b9e94-6b9f-4847-bf63-d29e3bbe26e1',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '14ee7aa1-438e-474f-8b81-2116792ad5b5',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'un_a3',
     '092',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5be957f-0eff-4b54-abff-372502912515',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '4e1f537e-7aa0-4a65-8682-c6ffb22aaf77',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08553a08-f52a-4a3b-9779-9f390735311d',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '8c1733a2-05e4-49d5-ad74-cc94b00399ed',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c59aebf2-cff3-4312-b114-0f5680b6ed8a',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '12a55e8c-2873-457e-9331-1b7cfbd33c1e',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'natural_earth',
     'wikidata',
     'Q25305',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9f2d469d-4438-4dc6-b205-0094a8fd0e5c',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '22f45158-b841-4867-8418-ceca825a8d3a',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'natural_earth_admin',
     'TCA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1df209e2-bf64-48ad-abb5-7a7f40a6ffbd',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'eb3e4c45-8dfe-4839-ba6d-39efbcb2f57d',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'iso3166-1-alpha2',
     'TC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '00b36b2f-7d27-4d95-bcf5-d3e11a89f63e',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '64e26337-39a1-4e3a-9e20-97866ce9d676',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'iso3166-1-alpha3',
     'TCA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e935bd02-609d-44fc-8b06-7d70e8094606',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '38e12a7e-0037-428e-8fa5-d7cc79954d8f',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'iso3166-1-numeric',
     '796',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c2214708-7823-46f8-aec6-863cc64c2685',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '264129c7-489b-49af-bfd7-8e363b7c52ee',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'un_a3',
     '796',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '17b5a245-1b99-4fe6-9a91-f9346c5f3a43',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '568ad97d-8cb6-4426-9602-fdb867bbbbf3',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'world_bank_a2',
     'TC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac5994a1-e4f0-4e5d-88c9-4dfc9d9d6a50',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'ac87f0b0-0fa6-4f05-9524-3248d97be566',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'world_bank_a3',
     'TCA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5e5464b-6343-430a-a5d2-a5685e085daf',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'd518d9c4-ee99-484c-99eb-49aa3aceb5a7',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'natural_earth',
     'wikidata',
     'Q18221',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5a706834-0414-4dbd-b330-8d58a0456d22',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '7f000520-f14b-4108-b85f-34f626b647ad',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'natural_earth_admin',
     'MSR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7fe28a0e-049d-49ba-beda-413794869e4e',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '6b6b7988-0f55-4da6-93f3-af0029122d8a',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'iso3166-1-alpha2',
     'MS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '56307a2b-0d12-497f-9e84-5e2a85a2065b',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '094eb37c-984d-4d18-94ca-0f551f2ca083',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'iso3166-1-alpha3',
     'MSR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4095cbad-1022-4e7f-abed-4b2902da6d85',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'b5fa46f4-3685-4f00-abf3-534403dde926',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'iso3166-1-numeric',
     '500',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d1d573a-4c4b-4332-9a01-1a1666897699',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '7b1a5697-5501-4d48-9ea0-90aa6b227fcd',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'un_a3',
     '500',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3751fd9e-bbca-407e-b035-b683178f464b',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '72b48313-0160-4850-ba0d-2d9d1fded8b9',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bfe6803e-8a98-482f-a261-4ffb251db7fc',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'df9887a7-3407-454c-a853-cb3f5417608a',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '11d13b50-3922-4ce4-abee-1033c34010cd',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '4ace4b4a-57e8-4df7-b88f-39a8225522db',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'natural_earth',
     'wikidata',
     'Q13353',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a2c60885-ce75-454a-828e-2f88d1215858',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'bc2177c7-9f28-4419-b83c-fe8d33baa1b5',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'natural_earth_admin',
     'JEY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fcfe23f1-c533-4248-83e2-6534284c3036',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '564aaf55-f92b-42a8-bedc-d8ee0d84c761',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'iso3166-1-alpha2',
     'JE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1364bdf1-a810-4bc7-aeae-df24e1d804de',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'c6e2e00c-13a8-4d88-ab12-c01b21b677ed',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'iso3166-1-alpha3',
     'JEY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ee4677b-13f6-4e17-b552-8da93f047d81',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'acd47501-48d6-451e-b990-79a92e0e12c9',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'iso3166-1-numeric',
     '832',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'be6e6a8c-271a-44d6-b424-e95c74927f0e',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '7679b03e-c115-4e98-9ba6-2de674f5fa8d',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'un_a3',
     '832',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e849f83-8080-458e-a871-72137fd42f09',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'dbc4924f-b945-4a05-b5e9-6cbd0381bf10',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'world_bank_a2',
     'JG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '677e5341-ecb1-45b4-b9eb-96dc520586df',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '77fcb1db-3cc5-4ca8-ab0d-8eba3fd9a2dd',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'world_bank_a3',
     'CHI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '129fdb09-ab46-4611-9dcd-28eedf06d850',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '7457e48c-f2ef-4be1-a954-e4155005b800',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'natural_earth',
     'wikidata',
     'Q785',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f4199438-0bae-49c7-a9c1-11cf1d944aa1',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'd9b33401-bf3c-438f-af99-cd519efa6ee5',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'natural_earth_admin',
     'GGY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94f9926e-727c-4974-9f77-7496db448e4e',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'b145d679-773f-45ae-a9e1-7f8bb41b52c1',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'iso3166-1-alpha2',
     'GG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5fdf5e5d-6419-4ada-8500-7f0fc35eab34',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'c3cb6190-b80f-469b-b03d-fbf57378c80c',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'iso3166-1-alpha3',
     'GGY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd25d738a-5831-4a3f-92da-aaa06bf09073',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '49b50ca3-f257-4245-a143-ccdf0572e004',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'iso3166-1-numeric',
     '831',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77c527c2-b4f2-43ca-8c2c-e4d3c4635ac8',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'e799e4be-404a-4240-8348-8db332549203',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'un_a3',
     '831',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '425a7ead-582a-4518-9fac-40b01e5cfa58',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'ebc4321c-be75-4ffc-977e-059c0770a593',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'world_bank_a2',
     'JG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f6cc76ad-a2d2-4d08-a650-12547922fc33',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'd94e0f31-913e-4ce3-8a4e-3b3875a43c91',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'world_bank_a3',
     'CHI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '57ecd500-b78b-418b-8116-9bf73d8a6394',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'f3e7293c-9717-4b05-8fb8-5cc3409d5907',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'natural_earth',
     'wikidata',
     'Q25230',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de887be9-7fec-4db8-8ea9-56b63a513fc7',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '55f38ac3-2c42-4911-8fea-ca3914a75cc3',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'natural_earth_admin',
     'IMN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ba2bcf10-500f-44ac-a38b-eb464b108b59',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '4fb2fe2f-d3a5-4f80-819f-9c525dbc2512',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'iso3166-1-alpha2',
     'IM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '094efeb3-48a2-4b1d-ac52-7d73bf6854db',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '052e27a8-2e13-4998-b944-f68b72c7fd0a',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'iso3166-1-alpha3',
     'IMN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ce0cc254-bd94-45ea-9504-e94d0d77a1b0',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '67b2d47e-8afa-4316-ac0a-ce3d9644e581',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'iso3166-1-numeric',
     '833',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b0ad451-b4ed-458c-92d6-76367ee718e0',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'd0e7fd8f-0b5b-44ef-a0d7-a522c065d78a',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'un_a3',
     '833',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08cc9a92-e307-41c7-a19d-14b5135e0c50',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '308bb60f-7db7-4b48-a490-6c03adde2749',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'world_bank_a2',
     'IM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '060581e2-2804-4252-8b3f-913f5afdeec4',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'a233430f-935e-49e9-a5f0-8cbdd9e80fc4',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'world_bank_a3',
     'IMY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd98dc048-cb79-4ab5-9179-f340f7602bb4',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '0a4de72c-ea65-427a-8d3c-24e23bd81ae9',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'natural_earth',
     'wikidata',
     'Q9676',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b9ca799f-3cbe-4a5a-897a-3e0888ae305c',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'd79da613-0ab5-4350-b197-bc5dcdb3dc01',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'natural_earth_admin',
     'GBR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2d9db1bd-42b5-446d-8f29-51fa9abfa240',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '1026072b-4285-4697-bb6e-2d268a9c4938',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'iso3166-1-alpha2',
     'GB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c80ac0a5-9a06-421d-86cd-b8c200958062',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '361874e4-4929-4ff0-9c33-cd5acc7c2d36',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'iso3166-1-alpha3',
     'GBR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd28c30a7-798f-47b9-9970-236a152cc056',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'fb6f0540-0b32-4b1c-abc4-9ecb2751e522',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'iso3166-1-numeric',
     '826',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4de20133-3175-4bee-a676-c66f9a8509a5',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '57fd3206-1a00-4421-8d99-a4a67eca5d98',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'un_a3',
     '826',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6245b347-3d66-4d0e-b8e0-f481562e0d47',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'd0791a85-3ec7-457c-abc9-9d45dd9c15ff',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'world_bank_a2',
     'GB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '34be9abe-3731-436f-9fbe-6e79a14396b2',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '3aceb2f1-ba5b-4e72-a903-277e1cc271ee',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'world_bank_a3',
     'GBR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cdb9e72a-ee42-4e5e-bb1d-f1e8aea50e7b',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'eaeccd31-d37b-4b7f-8d82-fe632b059d3c',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'natural_earth',
     'wikidata',
     'Q145',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9fa02087-f41b-4fb2-a186-e48423eb3222',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '989c80db-d3cc-48c6-9955-29fe3b139edf',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'natural_earth_admin',
     'ARE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '81630b42-e66d-4513-8cb0-357d1c46854a',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'd2038cde-7f92-4c9d-b425-0a8d68e47c05',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'iso3166-1-alpha2',
     'AE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f8477a0a-95a6-4553-8181-761993db05ec',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '29a7ffda-0e10-4aa5-81c3-b1eac1aa0e25',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd7b08156-be90-40a3-9eca-c45146fea3ad',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'cb6f866f-6b48-4ce9-84c8-f8a656c65ddc',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'iso3166-1-numeric',
     '784',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '97634285-3fed-4989-b940-4ed64c625d15',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'acb7499b-cf52-4741-8348-38a501152de0',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'un_a3',
     '784',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e55d7b6-c8ed-4cef-8549-95c7f45641c1',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '652e40c8-0d2c-4dc0-862e-0f036e6b3d42',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'world_bank_a2',
     'AE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72233ada-1142-4808-b85a-6ba2239d546e',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '6122a594-4b7e-4137-a81d-f6f971873bcd',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'world_bank_a3',
     'ARE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '64152c64-a681-40f1-be4d-0cef8a5fbcdd',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'c7d9bf61-a7df-4377-89a4-e9caf45f1722',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'natural_earth',
     'wikidata',
     'Q878',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '064e03f0-560d-4e9c-a97a-a88694c33180',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'fef5b687-77cc-4c2f-8b04-81b2831aa870',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'natural_earth_admin',
     'UKR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f9584564-287e-4500-bb57-9556c06267e5',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '43be9058-43f8-4816-b7fa-d8d25d88c00f',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'iso3166-1-alpha2',
     'UA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2a2c7c77-1457-4c3f-a8f7-5b3da9905869',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '8cfb9243-9def-4a5c-944e-c52628ad6732',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'iso3166-1-alpha3',
     'UKR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ede5768-1251-4819-b05f-51eba7113cc3',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '615008ef-94c0-41c6-aadc-73a5af424cf2',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'iso3166-1-numeric',
     '804',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1cfae43f-a7e0-498f-8dcd-dda850501ef0',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '80cc2339-9bda-46dd-8c47-4533fba00266',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'un_a3',
     '804',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '422f151e-7686-42c5-b824-6736b4eef4d6',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'b14f5375-d695-4413-a502-575b747798c9',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'world_bank_a2',
     'UA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e2c7ff7-b312-45c1-851f-16da41eab470',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'f84e3842-c706-49c1-9797-7b80a9726b6d',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'world_bank_a3',
     'UKR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f86c5b26-769e-4ae7-a69e-8746a6a2989a',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '7bb362f7-d1fa-450c-8ee3-4f0aa01b9a38',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'natural_earth',
     'wikidata',
     'Q212',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '930cd51a-e44d-4e5b-9951-15abccf61480',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '6c71da72-631a-4f36-a6f3-ecaecc80ddac',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'natural_earth_admin',
     'UGA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a491c9ad-d7a0-455f-bc1a-e326af548ace',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'a54f7aff-470e-49e7-b4f0-8fd87da1d7aa',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'iso3166-1-alpha2',
     'UG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c6a54419-94bd-42b8-ad4e-f0e2d3fe95b3',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'd20742a7-7573-4ca6-ae49-c674c973f888',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'iso3166-1-alpha3',
     'UGA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '116fef33-5fae-4548-8dca-6dd687bc8d9f',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '5f817973-307a-454e-96bd-8f038f58a5a6',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'iso3166-1-numeric',
     '800',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0eed4d76-eb05-4952-98cc-8354a15b0a1e',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '5689762f-1f72-42f2-931e-3a85f44bcd0c',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'un_a3',
     '800',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6fddf8a2-fd54-44d4-b6aa-acf5730763ee',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '851e1640-3665-4e4a-874d-76ae2019be4d',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'world_bank_a2',
     'UG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0247b39-60a4-425a-9f63-c1ad7a2a0a74',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '8a53e084-5b04-4232-9e9c-dc5d02fdd5e5',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'world_bank_a3',
     'UGA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ba8d0530-3f34-48a5-9b8a-4cddfde056f0',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '35d01061-b4ef-4093-8cff-50f8c62fb24d',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'natural_earth',
     'wikidata',
     'Q1036',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'feb5e3f6-b833-4d5e-ac36-9d27998167ea',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '93134a85-c628-4148-8f67-9370f7b9c436',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'natural_earth_admin',
     'TKM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e6dcfc5b-5534-48d6-9aae-c4aeba422314',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'dcb980b1-eb9d-47fc-8bf6-8fdb2d0863ee',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'iso3166-1-alpha2',
     'TM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f1ab2419-a50a-433c-b837-51cc2e45cc21',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '1cf522de-8439-493d-abc6-51f26ae81298',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'iso3166-1-alpha3',
     'TKM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18e380ff-3afc-4663-af5b-e647621e2dd6',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '9970d1b7-9632-48a8-aa5a-b5a4057abe37',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'iso3166-1-numeric',
     '795',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b0ee6e8f-9140-49df-aa87-cd1d04d01e27',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'b7309b4d-e3da-461b-b5ef-f31b7d51e0af',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'un_a3',
     '795',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '078ef4b7-e4b9-40d1-9816-52f4a4f3d183',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'a8bb91ec-790e-4597-b743-8b11816a89c1',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'world_bank_a2',
     'TM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5bfebe7b-2c31-40a6-ad51-2ff7c57434b3',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '10a8dc70-7d7b-47c9-8bfd-a34c202e34c3',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'world_bank_a3',
     'TKM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5d17e279-fa64-4924-bef6-99c4de9d740d',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'fb6afd39-0b59-4640-81fe-42b00b622999',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'natural_earth',
     'wikidata',
     'Q874',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf6e52fe-a16b-41cd-8aee-eb784283982e',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '878bfa04-b381-482f-bb45-4205f8071c9f',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'natural_earth_admin',
     'TUR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '20cad921-f784-4c1d-9bbb-db376a0fdaf3',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'f5d66bde-40db-4f60-ae78-7cbdc8e1e6f8',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'iso3166-1-alpha2',
     'TR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2403cfa0-d3ab-4d63-88fa-edc9d9f54ac5',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'e197eedb-0cf2-4f7f-8db6-73bd810fe87a',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd507682e-a1c7-40a2-92d9-921f709ae96f',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'a99451c0-3a71-4020-ab90-40ddbd9c53ad',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'iso3166-1-numeric',
     '792',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '27e68a77-4039-4fe7-bc37-4b8527f20118',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '941d2963-f6a3-4e2b-ba82-d3d3ef50de8b',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'un_a3',
     '792',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5f3f9c4f-f761-47a9-b25c-85e66ba39cac',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '1aa65a23-3287-4d40-8a71-bf26a0f1a221',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'world_bank_a2',
     'TR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b06c775-8ee6-4f93-a369-383ce069d8f5',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '12c5b8a3-3497-4089-b9c4-2702d9d069b0',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'world_bank_a3',
     'TUR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b3fd1f7-455a-4254-b052-b3c81326cba4',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '0255abc5-56f4-4fc0-b1d0-1d15cc5c497e',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'natural_earth',
     'wikidata',
     'Q43',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a9527cf0-5a7c-461e-8ceb-61d28def6506',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'e4fdea03-5eae-45fb-8f9e-d0d0d74ac937',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'natural_earth_admin',
     'TUN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd20eab9e-22da-4e57-aaa8-282b4028aade',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '24e1066d-e752-43f6-b8c2-99cd502c555e',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'iso3166-1-alpha2',
     'TN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38628017-806d-4e9b-b122-d7e8ac21ea53',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '463cbda6-4a8c-4d95-8b35-b3992685e0d9',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad5b9cbf-c1ac-4fec-b0b4-f7312bc713a4',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'b420ddc6-a540-45e7-91e0-94d661807a4a',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'iso3166-1-numeric',
     '788',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08c24a1b-28fe-4efe-b266-5a91284dc483',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '3334ad84-f6f2-4e78-be66-a91a3910d3b9',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'un_a3',
     '788',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0115ef9c-af20-4f14-8467-3dd7353b0731',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'cc341aa4-d495-4c3e-9c2a-9c3a6554e0be',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'world_bank_a2',
     'TN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1098d1e2-8c6b-4ee4-85b0-96a1ded32128',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'a637950e-e337-430e-bb9f-858f36d16e65',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'world_bank_a3',
     'TUN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cb034c26-79c8-48cf-9bc9-e4c6381574b0',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '1bee188a-7bb1-40c5-978c-f1dc215c72c0',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'natural_earth',
     'wikidata',
     'Q948',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ababdaaf-be9a-4d49-b25f-d717b503b80b',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'c6a324be-2a62-448c-9c12-65d88a128114',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'natural_earth_admin',
     'TTO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43c3e3f7-0960-4f7d-be07-3c03a7d1dbdb',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '550cc7f5-7232-4ffb-bafe-6463f55ef7e9',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'iso3166-1-alpha2',
     'TT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eaca0e15-80d2-4098-9fe2-3c50e20f1c1c',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '1dd309ce-0ec1-4256-b64f-c31c4c49c397',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'iso3166-1-alpha3',
     'TTO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3c48a5fd-baa4-4533-8ad4-e37c994cc68f',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'c04392fb-080f-40c5-8494-80da56e3f86a',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'iso3166-1-numeric',
     '780',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b2b9b376-9672-442d-bc76-ecfe4619298b',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '4068296b-c54e-4093-a8d5-ad710b6b37ab',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'un_a3',
     '780',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fdafba51-2cba-45d9-9e32-f71032bb87ed',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'b9877fbe-c9a1-4a5e-acc6-a5dce141b275',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'world_bank_a2',
     'TT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2cc109c6-a06e-42da-8003-0da3896e584a',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'd978eb07-d3ca-4e82-90cc-d83925f83c76',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'world_bank_a3',
     'TTO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd7dbc26-beb0-4e9a-a47e-a3ee18212013',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'fe35d382-785c-4028-94f1-f85834ccb95e',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'natural_earth',
     'wikidata',
     'Q754',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3642853-1f57-4599-b1d7-93d1788bb0f5',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '62f3575c-b320-43cb-ae1f-a0188b6b0909',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'natural_earth_admin',
     'TON',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b89a9ae-df48-4772-9e15-ef73fb75bd1f',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '85177873-6b3b-4075-8b94-b40ae26ddbf6',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'iso3166-1-alpha2',
     'TO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '350780e0-2e22-42d5-bc20-57c459290607',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'fc709e5d-3e29-494d-b322-9e3c5dd9bf1e',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'iso3166-1-alpha3',
     'TON',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd09293b-5fa1-4a1c-b84d-8b0ee494f50e',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'fe81d6a9-ac2b-46a9-9e90-d762aacd4e9a',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'iso3166-1-numeric',
     '776',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '957dced0-0f69-4717-b556-9abc514afeea',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'bef89bd8-5166-4921-848a-225a4e7b4dc8',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'un_a3',
     '776',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1b6fcab4-02c9-460b-9dd2-30072b716203',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '94b9fc01-65c5-4748-8557-838cd6c0c346',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'world_bank_a2',
     'TO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec454a57-8d84-4e00-8c07-e26a623946b5',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '5bc473a5-c907-4f98-85ed-1898704af43d',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'world_bank_a3',
     'TON',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5864ba1-f2d8-434d-931e-8ebef0339435',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '72eea531-20ba-4945-a851-bd86a3669b90',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'natural_earth',
     'wikidata',
     'Q678',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '55b7a4e1-ded9-412b-bd69-4121a6cb5e5f',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '6ee310f5-5b95-41b7-87d6-b9b5b5d31458',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'natural_earth_admin',
     'TGO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bacb5888-a003-4825-b9c3-2dced7f0cfb1',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '51463d1d-c5d9-4780-bac1-6c96d47bdf4e',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'iso3166-1-alpha2',
     'TG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fdd77af5-efdd-4ee4-a32b-dda75fce3368',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'f38f0cc1-b31a-4b15-a0ce-181734c8b566',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'iso3166-1-alpha3',
     'TGO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d4213e1-247c-4d15-909c-359fddf71f67',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'ab8b74bd-05ab-4972-9812-5fc74d5709f8',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'iso3166-1-numeric',
     '768',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b06b8a8-358d-4df0-bf6c-ac3941f8ebde',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '1d732d18-0b53-4eb9-ab97-8245434b5a55',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'un_a3',
     '768',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e97244e0-20d1-40c0-9355-3cc1b62ac29c',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'c900bdfe-27fa-4073-818a-72fa18ee1f49',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'world_bank_a2',
     'TG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3da1fca5-1999-4fe2-a578-0d679dfe98dc',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '912e6d71-5fef-48f3-8843-eef9c7fe1a96',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'world_bank_a3',
     'TGO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f3e7c186-8bcf-4259-998a-60673fa67f2b',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '82959947-b786-4c24-b7f4-7b44e93a7326',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'natural_earth',
     'wikidata',
     'Q945',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '52b24003-3f2c-42ca-802e-cecb8dda02d3',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'ca4b8b2a-8edc-4672-a314-a2126367e6dc',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'natural_earth_admin',
     'TLS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f14d8955-614b-4db2-8ea3-b2a2c82b9cc3',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '0a92daec-6012-42e5-b27a-3656f117c19b',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'iso3166-1-alpha2',
     'TL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dbb063b5-8424-409d-882f-0f3c40637db7',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'a7c28061-5fbe-4c9a-8e63-726392f9fca5',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'iso3166-1-alpha3',
     'TLS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd332376a-06ec-4a1e-b930-f0562e8f8634',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '172e25b4-aa1a-4210-bfbd-a8ec5652c506',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'iso3166-1-numeric',
     '626',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3807338b-ea74-431b-ad56-38c9528ceb9d',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '31551fd0-de93-4a34-a244-19c8d064a69b',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'un_a3',
     '626',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '67a53456-83fe-4247-aafa-86554e68de78',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '1e00deae-60dc-4da4-b95b-0ebc710eeb58',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'world_bank_a2',
     'TP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7fff4e44-e097-4ccc-ba3f-2db3db459f02',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'dc4f68fa-c65b-4320-b06c-6a6c01032b38',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'world_bank_a3',
     'TMP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1a4c3e22-7b8f-4812-868d-47aeed6381dc',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '6fbba34f-0e9d-4178-bf43-fb885c900c14',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'natural_earth',
     'wikidata',
     'Q574',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '60c7de66-b4fd-476f-a428-cbf8606aec98',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'cd96344a-64ce-46ae-bf49-1239794d7744',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'natural_earth_admin',
     'THA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3a72bb1-80c3-40ef-bdb2-14869d3b45c3',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '3fbefc7f-8bb6-40d4-aa68-8f2b3ebeb097',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'iso3166-1-alpha2',
     'TH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa2fe5b3-0875-4140-bf18-ec10a90d2a1c',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'f4e5aff8-c0f5-444f-9a92-8f91098c932b',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'iso3166-1-alpha3',
     'THA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18dd5a5b-f4c2-4883-9970-0416d0f36fc4',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '38fd02bb-38c4-4276-8c4f-b8600936ea12',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'iso3166-1-numeric',
     '764',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c1b2dbdb-1a21-450a-b212-05fa4d306d47',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'b351b72b-93d9-4b6f-9435-49840a0135e6',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'un_a3',
     '764',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9b6c62e-a37f-4111-a680-12ad9a88bea8',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '122f4414-4dfd-4d77-9f41-e05846b34777',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'world_bank_a2',
     'TH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7f78ce1a-e384-4345-b178-3e96d2426f30',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '00fc7d30-1285-4973-bc8c-bc75d6fa3c29',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'world_bank_a3',
     'THA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e6597a58-e09f-4864-87a2-701704d2e0ad',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'c7737652-ca0a-4d85-a6e6-e07a4a464e4d',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'natural_earth',
     'wikidata',
     'Q869',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d2e1870-6b17-4aa0-968a-b4b18ff63ce4',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '0932d1e5-b61d-42f3-917f-5b5bbf0e92fe',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'natural_earth_admin',
     'TZA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '652b4d0d-6f4c-4863-b773-974026df8dc9',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '57670c3d-8b02-41e3-a89d-bcb3f67db634',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'iso3166-1-alpha2',
     'TZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '25ebc22e-3218-4ee3-b438-499c327d29ca',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'd13c21ed-df0a-4634-9dc6-9850b3ce2f3b',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'iso3166-1-alpha3',
     'TZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a77c1585-727b-46b2-8855-14e631c63634',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '96b62b98-c19b-408c-a894-3f685ca067c0',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'iso3166-1-numeric',
     '834',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e5c25720-f25c-4b28-b108-6709f266197c',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'd5d81fbf-b13b-410a-a158-4b5e48a13de3',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'un_a3',
     '834',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0e8a6a1d-2ce7-439e-ab21-a7bd0f1f7804',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'afa0da44-0d92-414c-ad8a-ac6b2253a684',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'world_bank_a2',
     'TZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '237e5226-feab-4b0b-bae4-36b8458a8d29',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '01373d66-7386-41ee-9935-af41ad935a55',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'world_bank_a3',
     'TZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec9e3e36-9fb0-4db2-bbe7-db130c4f645d',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '71971c02-e42e-4834-9c74-f54de3947d88',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'natural_earth',
     'wikidata',
     'Q924',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd82e7a6-6d3f-44b4-af17-8bf6bcb64992',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '1cf454b8-0f9c-44b6-9f1d-0660899a630d',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'natural_earth_admin',
     'TJK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e872196-c5e2-4e8e-be98-a3642ff11e68',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'bc7658f0-2c1d-4eab-91c2-f35953c792da',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'iso3166-1-alpha2',
     'TJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '48828c8a-dc96-40a2-aae9-0183ef5adead',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '002eb50d-4894-4f34-8fd0-4c1a99baa3d7',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'iso3166-1-alpha3',
     'TJK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a7081c9b-3051-4aec-ab5e-1890c1c9e491',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '3929cafd-96bf-4270-aae3-2ba23e9e532d',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'iso3166-1-numeric',
     '762',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61c42500-4167-47d0-bef9-1fd5e836a123',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'f34cf4b5-3b74-404b-87e3-05e16e2731e0',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'un_a3',
     '762',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c87d5078-d72c-4f1f-9328-ef92e6e791e3',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '2a0f791c-acfc-46a4-8c23-ca4aa072a55f',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'world_bank_a2',
     'TJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '83c80ae8-f761-42cd-8dd5-c5705381565f',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'fc6460c5-bf5c-43e3-a21a-b4cbdc3e78bd',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'world_bank_a3',
     'TJK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4f6bec91-803c-4c0e-90c2-9565a8458672',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '65bf1a61-b249-413a-a6bf-b267bd903c01',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'natural_earth',
     'wikidata',
     'Q863',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8a1f686-e392-4ba6-9dc9-e91956daa50f',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '17f63e78-9aeb-4883-b5c4-f291488751c4',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'natural_earth_admin',
     'TWN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '892e5c10-f75b-4e74-9153-f02a3a10b208',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '4ca66a1e-9538-4f2c-b3bc-770de3936d7e',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'iso3166-1-alpha2',
     'CN-TW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '84a762e9-32a6-4cb5-8f49-cf530b1b58dc',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '93a6b149-a9be-4d37-9b6a-24fc7bf24c56',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'iso3166-1-alpha3',
     'TWN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74493ed2-3453-4729-abe3-f28317e4a2be',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '611633a3-5f76-4be4-b92e-8ef26d09d49d',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'iso3166-1-numeric',
     '158',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ecd059e-2b5d-4655-a293-35aff28d14a3',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '6f925a9c-ea65-4f88-9483-066e93b41d80',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e164ddad-ac8e-4fd7-814c-0618544e1c50',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '8565104a-e337-4bf0-90b6-0705fac6f01d',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9989a092-eae8-4867-a60f-6cf52d56d8d1',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '72a7a2d8-8770-449e-99cb-3e8f31735612',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7adc1f4d-7ba1-4793-960b-e96795ebe116',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '128cf308-3d97-4f7e-8b56-7834c807f148',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'natural_earth',
     'wikidata',
     'Q865',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '656f0aa0-bfc3-41ed-a9b0-6192bb7c53af',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '0c6d1ea9-2800-4393-afa7-ab82aa0d0b6a',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'natural_earth_admin',
     'SYR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb379d2b-d983-4504-8419-6044b71aac44',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'b33b9432-c7f6-4e41-8640-a72270237cba',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'iso3166-1-alpha2',
     'SY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f1f91d82-2202-478a-bf80-cfa44334de2d',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'b2b71dac-7e3b-498c-9459-3a5742a4f9f7',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'iso3166-1-alpha3',
     'SYR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2818269c-db9c-48fc-ab21-5d479f393c63',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '4bb95bcf-532d-4b38-9197-45b2bae8a30c',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'iso3166-1-numeric',
     '760',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0288f658-3dbd-4fed-8c80-1812d75a909b',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'b59aec4a-a461-4588-98e6-563dcee4201d',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'un_a3',
     '760',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '02cff9a9-269d-4375-bc3d-92d9b1c2a7f2',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'f99cae60-04c9-411e-bd07-0b559207e1bc',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'world_bank_a2',
     'SY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b7b65ab0-c6ed-4ba5-81e0-93e34e053258',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '58f47396-f239-4b78-aa42-4d1ed959c02b',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'world_bank_a3',
     'SYR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'efb080b2-be19-4831-b0c3-9f4028cf2a6e',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '1c2166ef-d96d-4994-908d-d74c4c863497',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'natural_earth',
     'wikidata',
     'Q858',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1380653d-8cdd-4b3a-957b-ca7a36334838',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'd0cd393e-007f-4cb4-9deb-7958422c8818',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'natural_earth_admin',
     'CHE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b383543-3145-49f7-9f29-b4e65003453f',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'd0912b92-e5de-44f1-a721-81d7bb5399ce',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'iso3166-1-alpha2',
     'CH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1685af92-3bc9-4671-a95f-e6e009202305',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '28ea888c-f96c-47b0-a16f-1c67c81a772b',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e833e925-a6b8-4d4f-a2cd-ae4293d3acb8',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'f3bd3451-761e-41b9-bf16-bace3dac750b',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'iso3166-1-numeric',
     '756',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58cfd563-4b1f-4477-a29c-03ec4a3336bf',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '57421375-9e90-4d4a-a8f1-8f4523cab77b',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'un_a3',
     '756',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91b0540f-5806-4cda-89ba-019315ca964c',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '15e7c7ed-c161-40df-94db-1f919e4333a7',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'world_bank_a2',
     'CH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd6920b0-6d7b-4aa6-b74e-f87b9595cf23',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '6325f9a6-a1ca-4f01-9871-6074224c0568',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'world_bank_a3',
     'CHE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0ac51b53-f2c5-4654-8ae8-d105e1bfa4f6',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '714550e1-b27a-40e3-bba7-42d0601bfec7',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'natural_earth',
     'wikidata',
     'Q39',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b1da0e5b-3c8c-48c4-9201-706d375a3f6c',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '276b6dc0-3a40-4b1c-b53a-c4eab1516052',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'natural_earth_admin',
     'SWE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db835fab-58b8-439c-b6d3-bc96761f6206',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '7c37db5d-7986-403e-87d1-cccc12d4fa83',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'iso3166-1-alpha2',
     'SE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '83817399-5d31-4967-8586-207d8f2264a1',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'b3d9634e-7dcd-4b36-8804-4f26742825d8',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'iso3166-1-alpha3',
     'SWE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '06ab9297-6308-4781-a296-67a79f15bff3',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'c511074c-6c27-42d3-bab0-ce7f68ec87b2',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'iso3166-1-numeric',
     '752',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a0de360d-e829-4a90-ad95-ac3a205a4419',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'a57394db-36c5-4807-873b-f38acfb993be',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'un_a3',
     '752',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '505dbb47-d07b-497b-9fe2-bdc8d564e372',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'f57e454a-b9fd-4c35-b7ca-1da3cb5c4813',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'world_bank_a2',
     'SE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d6928b1-d6fb-442d-9c96-0d76c6e48eda',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '27847d27-19df-4e2f-af5d-cd00669a6d17',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'world_bank_a3',
     'SWE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a2deffe1-0d16-421f-8af6-3a41cb96d409',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '25d08c53-1b49-4b35-9b68-f20dc7a71b93',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'natural_earth',
     'wikidata',
     'Q34',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1dbc65ac-9ef0-4031-a19e-3fb9c90747e2',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '98c2b99f-8f69-4557-9dbc-301eedd09fe8',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'natural_earth_admin',
     'SWZ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb3d930a-40e7-45bb-ac1b-55c9c512a783',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'e9442914-42ac-4d5e-a79c-155ed2c8b96f',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'iso3166-1-alpha2',
     'SZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b271f41a-4d47-4f2e-a4c7-5f94c4aa24ca',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '30674345-6baa-45ce-b778-fe529d192d34',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'iso3166-1-alpha3',
     'SWZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2827710c-060a-4717-843c-a6b31b095d8b',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '48c7bc0f-c883-4c2c-bba4-f9307621c0f1',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'iso3166-1-numeric',
     '748',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '10749888-e14c-45ae-81aa-a8a87a0089d4',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '8203fecd-b926-40b2-911b-d354faa84a61',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'un_a3',
     '748',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a0e4b0e3-6588-4134-b0d6-07dafe582405',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'eb2af366-d411-4d16-b69e-2d8678700f57',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'world_bank_a2',
     'SZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd7526ab1-2045-438e-8a0a-eb798f894c67',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'bee521f5-73e5-49b9-85ef-87cc2fb03663',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'world_bank_a3',
     'SWZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '25355a63-24d6-4ce3-a086-d4b16eee18e4',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'afebd5ee-325b-4796-92a9-43e1edf79bbf',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'natural_earth',
     'wikidata',
     'Q1050',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9cc7b465-5cf6-4cbc-b3a4-ca70a7f182a7',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '0ced1a23-3215-459f-8f7a-544c0d732104',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'natural_earth_admin',
     'SUR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cdd1f1a8-8bc1-47fa-bd6f-fe1b738b564a',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '47b7cfbd-5421-4b2f-8cf7-b74e95ee2b4a',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'iso3166-1-alpha2',
     'SR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5ae39939-703c-4432-a65d-d06ccdc4cb71',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'f2160055-d25d-4211-83cd-836c6c6462ff',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'iso3166-1-alpha3',
     'SUR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ce0150a-c42c-49fe-918e-0254ad9fd19d',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '1e7f6aaa-2d70-445a-ba90-9350d3fc75db',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'iso3166-1-numeric',
     '740',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a06f2aa3-e474-44ad-b9e2-c6431e896904',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '900786ad-3cd1-4145-a8e0-c90d596292a3',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'un_a3',
     '740',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3483c829-ed60-4f83-b996-3f960350a647',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'b0768eea-7d80-47d8-aee0-e140f37bf2f8',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'world_bank_a2',
     'SR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bc156682-5eb9-41eb-a39b-5bc64509da98',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '214e0ce2-2137-45e0-8ac4-87551d0fc47b',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'world_bank_a3',
     'SUR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd6ab9fc-edec-42ce-af35-5ea22445d38d',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'f3b80290-e6d8-4218-9a14-73f58b30702c',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'natural_earth',
     'wikidata',
     'Q730',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '435f6e30-3719-431e-afc9-4fa17b470698',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '2a94b20d-6571-4d1c-ac24-d3a30a6887e0',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'natural_earth_admin',
     'SDS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd00d5b59-faf4-4ffb-ba30-93c4a7fcbdcd',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'a275866b-c64f-469d-8e37-199e28186672',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'iso3166-1-alpha2',
     'SS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '482fa3e2-9bb8-4dcf-82f3-030f4343f828',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '145d0f27-3b32-45d1-94c8-62b367ecf4d3',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'iso3166-1-alpha3',
     'SSD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac196bdb-21fb-4795-bc74-20f0c0590b11',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '0d306d61-676f-4649-b82e-5faaa0f459a0',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'iso3166-1-numeric',
     '728',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f301893c-03fd-4ff5-b5e0-03ed79fb4160',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'e8e36eaa-2374-4b58-8978-62a7108016e1',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'un_a3',
     '728',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c50b5206-93fc-4565-b2a0-6dc7aaa2118d',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'e6b9e015-be87-4516-ae5f-53b6b4e1907a',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'world_bank_a2',
     'SS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5da6c4f7-feeb-4811-ad5c-b295f64d490c',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'fa556bde-acf0-4639-bfb4-9b386aece806',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'world_bank_a3',
     'SSD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b0b809ef-e911-4b03-97e2-ada962ec6317',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '7d4c3317-265b-4c34-af7e-fae904fa1bfb',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'natural_earth',
     'wikidata',
     'Q958',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b311326-328a-47b4-b393-e70159cccc8e',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '04efb1ef-4104-4523-a076-2c6296448153',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'natural_earth_admin',
     'SDN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c4868173-7b3a-4e1b-833d-c7ab15b38a71',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '35e3a55e-ecbf-4390-b6e4-2b02e2fc279f',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'iso3166-1-alpha2',
     'SD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77f96af8-4958-43ed-b310-82b5b7acfe9d',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '40cc3457-a168-4d17-a808-e579a39b9180',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'iso3166-1-alpha3',
     'SDN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3684a529-3e70-4fba-9bb7-074169e169dc',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'fc164ac9-e2fc-4226-848f-d2616ff214b2',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'iso3166-1-numeric',
     '729',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38a1f5b3-2bf8-462c-af5e-df53f9609a57',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '264e986d-c80f-4ae1-bd9d-e2e38a57f4d9',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'un_a3',
     '729',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4fec067f-2c45-4056-82c2-38392d32a67a',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'eca7259a-0d48-4ffa-a9b3-51ffbceed9f8',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'world_bank_a2',
     'SD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4315af08-37ff-4c27-a03a-b06aa33e3cc4',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'a11745c0-4060-4480-ac33-2333e5f7f832',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'world_bank_a3',
     'SDN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '432fea89-8f31-4565-b723-a8d9c6f6539a',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '029bdb2f-7e59-480d-bab5-05679dd8c47c',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'natural_earth',
     'wikidata',
     'Q1049',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1a975307-db3c-4627-a607-f571958318c0',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '41fb7edb-a511-4280-85cc-8ee094659473',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'natural_earth_admin',
     'LKA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6dcfac53-b41e-4c35-8b0d-d79e6a9842e1',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'dda56b39-5d0b-41e5-9604-6934ce14eceb',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'iso3166-1-alpha2',
     'LK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b7cb6417-6759-4d89-8109-8a7d22cfbf52',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'c67e6099-6338-4a55-a4c4-b4e556cd4c89',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'iso3166-1-alpha3',
     'LKA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '471c3a60-d6c8-4090-96a5-3a846a32fee3',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '55a1c319-5e7d-4e4f-91c3-98fa814b1f1d',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'iso3166-1-numeric',
     '144',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '69bf13c6-6733-495b-90c5-9ec5e695cee6',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '587df85c-bc22-47b0-b719-f7460bd2fc0f',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'un_a3',
     '144',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f82bf069-5036-4fa6-9153-f8747ee9fee0',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '096ed610-688b-486b-b86b-964bd690fba5',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'world_bank_a2',
     'LK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '41461089-e2a9-4f9b-9f97-a20544a9e58a',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '1f8a3e73-ab23-4d10-b60e-5b49ae06b837',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'world_bank_a3',
     'LKA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2a81717d-a5b8-49e4-8228-5c0d018429be',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '692d2575-ae56-482f-91ce-2fcd0e0fde9c',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'natural_earth',
     'wikidata',
     'Q854',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '64eed24d-4bc7-4fe2-90cd-c5fce31981a3',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '67ae1fb6-97bb-4acd-88b3-93cacb830e94',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'natural_earth_admin',
     'ESP',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '03aea15d-759a-49a3-881d-860e91f07309',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'c60c6f36-e74e-4233-be88-e9bcab7f4c88',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'iso3166-1-alpha2',
     'ES',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5749e4c-4d6c-46d9-8e13-a487b7ffc88d',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '998552c4-03d8-41c6-b09b-9db35fbbe9dd',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'iso3166-1-alpha3',
     'ESP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '693004e8-69b5-41fe-9626-c3a12e50aa0c',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '49a167cb-e475-4969-a62d-16d057a4e3f1',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'iso3166-1-numeric',
     '724',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '139594be-8425-42ae-98ec-b3041f8d0bab',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'aa53aeb9-503a-4419-b77a-6dbc3b36f561',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'un_a3',
     '724',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd12a300d-103f-4a38-9a4c-a8dad92e23d2',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '9e7a659d-f00b-4edd-858a-31b41eb56e5f',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'world_bank_a2',
     'ES',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a1d62f5c-c0d5-4fa9-9332-c7c80b5ad75b',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'cba94ce0-ba03-4819-b960-e832465726ed',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'world_bank_a3',
     'ESP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd6be522a-cd50-4828-a14d-2593448c4503',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '100d5ede-c02c-4da4-b664-ee2af44cf678',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'natural_earth',
     'wikidata',
     'Q29',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '07023f22-d52b-431a-9bf7-8afddefe48a7',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '60c23f26-9256-45f4-8503-d271ab507587',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'natural_earth_admin',
     'KOR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b865346-ed88-41fc-9f54-64c8517a82f9',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'faea6941-880a-468e-8f4a-a97c123dc715',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'iso3166-1-alpha2',
     'KR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e0c6452c-ed81-43ef-863f-19eb793318cc',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'b864fc36-190f-4f4b-a8f2-fbf1108af30e',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'iso3166-1-alpha3',
     'KOR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aebd885d-6cc4-46c7-95cf-b8dc524da4ad',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '97af8af7-8545-4024-ab9a-cffa439f73ea',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'iso3166-1-numeric',
     '410',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '125a9926-b3ee-47d3-b83c-9d0c8d7b6093',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '6bb876b9-286f-4e9f-bb91-9917b05e8e0e',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'un_a3',
     '410',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a09b25c-6355-45b5-9454-145514a3d460',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '18043f28-32f8-4960-a4f8-1c0dea47f1ea',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'world_bank_a2',
     'KR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '32ddb745-f045-4f92-a647-271daed59c19',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '756f981b-ddab-40e3-9ee6-24f71c077836',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'world_bank_a3',
     'KOR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e950640c-34fc-47e0-a58b-558a937344b0',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'e882ee84-3fd4-4da8-86b2-5f454d57c4fe',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'natural_earth',
     'wikidata',
     'Q884',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ee66805e-23f3-4cc7-a884-cc02149e11a0',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'b3e85c11-f7d4-4117-a7e0-24d5718a2ff3',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'natural_earth_admin',
     'ZAF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '647572e0-8b68-4ab1-95c6-54adf7800d89',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'eaaad759-4b55-416c-bd62-11468aeb9a09',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cb0e3e8f-65c1-49e6-bc86-0c87eeef4c67',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'e2497431-d2e6-44f7-bfc5-b09aaae2ed4a',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '169aabdb-a022-4d5a-a7c0-ab53bd598419',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '7a9611c7-54e0-472d-9ea1-876195ce5aeb',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'iso3166-1-numeric',
     '710',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd18b566-9718-4d0f-9c36-545995bddfe4',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '833658dc-3863-411b-8d5d-d9bb4d04977b',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'un_a3',
     '710',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2b35a082-7af8-4afd-b323-ca28d8bbea71',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '1a02dac9-b87d-4cb8-ba1e-a9ed7448f2c9',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'world_bank_a2',
     'ZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a429e5d1-dcdb-47fe-9bba-adea5e19b62f',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'c49de930-00d5-4798-83af-8d6276e7b1e3',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'world_bank_a3',
     'ZAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ca5ca060-6c81-4f23-bdee-b565191fadd3',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'a9d4a717-d1e9-4c42-8916-593fa45c034d',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'natural_earth',
     'wikidata',
     'Q258',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '39a11b96-666b-44de-a4da-e74a68d8cf87',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'd06e11b2-dfe1-49aa-94ff-49ace89e74c5',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'natural_earth_admin',
     'SOM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac48cf7e-f37a-4b6b-9c1c-349fce68990b',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'b9e28f02-d35d-4d11-a28e-53b1424b2e8d',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'iso3166-1-alpha2',
     'SO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5920c080-d529-4504-9bbc-f59cc14cbc8e',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '8b3000f2-4cc1-41e0-aae0-21b61c105940',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'iso3166-1-alpha3',
     'SOM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7a98a14b-d09f-4a94-9953-3748660f4594',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '8b1fc516-1464-436c-a3c2-6457f34e3c65',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'iso3166-1-numeric',
     '706',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'adb79230-45ef-4e5b-a49d-1025bbb1173a',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '61f9ec9d-3ef9-4f3f-8acb-07c0f94c5d8d',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'un_a3',
     '706',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '812661c5-f7bc-44e0-ab12-f2d07b1c7bd0',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'f838b551-b437-4bc5-b3ee-04564ac19ea0',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'world_bank_a2',
     'SO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '81a51157-5ca9-4aba-a2c8-8931da04e899',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '15cce2b7-b44e-42a4-8090-ad69eb77034b',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'world_bank_a3',
     'SOM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd75af72f-7239-4363-9508-18e06d7df5b3',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '060aa66b-d396-4e16-84f0-c5c9aa9b432b',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'natural_earth',
     'wikidata',
     'Q1045',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '24a2f38a-367b-4261-9932-2ff9f1c4f3fe',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '82a229f6-3d16-44c0-912d-c4396bba57a2',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'natural_earth_admin',
     'SOL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3a2909ae-9043-42a2-a36d-e03062a68fb1',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '8c31189e-4282-4d89-a0e0-428454f8a244',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b890c40-5038-4902-8b00-d11e73cba4fc',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '3ed75915-e2f1-4a61-bf00-c66dbbe5a1d0',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '13f9b341-45da-40aa-86db-a4dd911646a7',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '3c38d033-d5c7-4062-b3b0-26e400ec0b62',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eaaf88e7-2b28-4646-83c7-fffc55bd7d95',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'baee5d9d-bfc9-498c-a4de-620db96d5cb6',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9d09186-dc14-4a8e-a869-4892d468a0f9',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '1bd6ff7c-f6a5-40df-8523-dc64a01d6d54',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd42bab1e-64f7-46f5-8272-a4f7993d4b69',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '388ce1de-7b50-46b8-b81e-9577b1485489',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5c975b23-b6b8-44ee-94d9-a88a489af975',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'e7210616-9979-4206-95f0-671e85afa305',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'natural_earth',
     'wikidata',
     'Q34754',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a148c032-9cf1-4284-9e15-43bc4343a254',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'b4320113-0bab-4ec3-a59f-6b20f8195e0b',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'natural_earth_admin',
     'SLB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b99bac2-2b95-419f-8c4c-9820ab01c4e7',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '8e9b1ca0-590f-43b0-86b5-5ff57dc2bc74',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'iso3166-1-alpha2',
     'SB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dc1bc465-a7f5-4fc4-9937-fd82abf4e8fc',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '965c0494-358e-4f19-8852-bea878aace88',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1e518edb-53d9-4b2a-9f9e-bbc4fb942da4',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '4ad0abf5-f6c7-4b14-b87c-ca0b39fd3805',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'iso3166-1-numeric',
     '090',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a145eb46-f66b-4cde-9573-f3481d421047',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '3c7afba6-9e74-4fd0-bb74-d2058350626f',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'un_a3',
     '090',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18063e4a-32f2-41cb-9c0e-f223daebae77',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '7c1233dc-df15-4da7-a62e-e443dcf46a54',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'world_bank_a2',
     'SB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c14b4fa1-686f-4f4e-bce8-b0731ebf4055',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '7de7d423-3f0a-4634-bc2e-3bd338ec4367',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'world_bank_a3',
     'SLB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3aa38121-6b68-4bd6-bbee-ee8640692e88',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'f1edcd65-d4f4-4038-9d25-db1097788711',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'natural_earth',
     'wikidata',
     'Q685',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b79c34ad-7240-4684-9078-0c4df284acb4',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '7976f79c-bb10-40ff-bf63-aa81cbae5174',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'natural_earth_admin',
     'SVK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c4e7021-be6e-4065-8568-feac74c149bb',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '2f54a49d-3b29-45ea-9765-4e4bae11fbe8',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'iso3166-1-alpha2',
     'SK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '582aec60-7657-4fa1-8176-73fa9bf7cd33',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '77d9d933-cd59-491a-80fa-13250a062fe5',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'iso3166-1-alpha3',
     'SVK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0b204aba-cefe-47b3-8e95-687a20bb246e',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'f18b4eb3-7269-4912-a690-9caa1d9b5377',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'iso3166-1-numeric',
     '703',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e8a71e20-cd31-4b0b-b56d-f9ffaf4f072c',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'e5c1a842-c5ef-4b07-a8a5-158c394a0257',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'un_a3',
     '703',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a1b01f14-db33-4d13-912e-c1144c569d62',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'cb1db2a0-58a2-4e40-baaa-ca4bee2357cd',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'world_bank_a2',
     'SK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '67cc2811-06c1-4145-87cb-cdc088ab5ba7',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '700ff650-82e6-425c-9cb6-e333c5c57cb6',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'world_bank_a3',
     'SVK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f90f68cf-6891-4d60-9cee-5ba555b88df7',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '40b9fc4e-802a-4504-ac92-d36863b426dd',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'natural_earth',
     'wikidata',
     'Q214',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91322996-ae42-4a85-b8cc-ae2b793d7cb5',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'ba792d98-d0d6-4494-8f9c-a7fa4937bf25',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'natural_earth_admin',
     'SVN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29ecae30-d36e-4ced-9aa5-e4ce2c843a22',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '84a3deb4-4aeb-457c-8c2e-ff6b0f5e0618',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'iso3166-1-alpha2',
     'SI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd683fc50-ccbe-44de-86f7-2061fffb7cc1',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '952b7757-a457-41db-841a-37f6f6b6b47b',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'iso3166-1-alpha3',
     'SVN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '135d6416-eaa8-4170-ace5-7bfb193b10ed',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'f2ee652c-a426-45cf-b363-9177df297cce',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'iso3166-1-numeric',
     '705',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e204b71f-c380-45c0-a444-12530e14aecd',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '11f39afc-14db-4f5d-9334-9d3ec4c160ed',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'un_a3',
     '705',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3be1962f-1ed3-47bd-8bcd-938a0133d150',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'c9726e6e-f558-4351-a135-9307bf75cd8f',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'world_bank_a2',
     'SI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '641620ee-c739-4063-bb48-4a666fa31614',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '66b87763-684b-4ece-aa5b-580abde2cee0',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'world_bank_a3',
     'SVN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e7a8768-af57-44dc-9fec-4c820459dbdb',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'bb25daf5-1823-4720-9f1e-7d219dbfea66',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'natural_earth',
     'wikidata',
     'Q215',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '655927db-85de-4cf0-a004-14fcb0276fb2',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'fe88013a-a10e-4a5e-b8d5-9a5ea3bb9931',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'natural_earth_admin',
     'SGP',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3fdb5eb6-6e0a-43a6-a3be-0db4d5a5008a',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '72fab063-3f40-4f50-b43b-0d5088e16b15',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'iso3166-1-alpha2',
     'SG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a7633eb2-f746-4677-8d2b-2bd7d903f814',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '5be13db8-a7a9-44c9-80b6-68c243b2defd',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'iso3166-1-alpha3',
     'SGP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4fe3956e-75de-4fc8-ba04-95edf21f5df3',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '0214c72a-7a3e-4a2a-a6a7-a497e3d5e997',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'iso3166-1-numeric',
     '702',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a8be0bc-b22e-4c86-8449-3ca58a663c46',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '6cc13282-efa3-44e9-824b-2b6358ef787c',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'un_a3',
     '702',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bfdad3fa-c0b1-4273-89d6-1f290e13123c',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '0b234e71-8204-4b61-8c3a-17a840ec6c46',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'world_bank_a2',
     'SG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e66539d9-d45d-46f9-95e1-57bc65828866',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '66dc5af3-1269-4265-8551-ca13dedb6abb',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'world_bank_a3',
     'SGP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2b352bb6-e393-4273-a602-ab0c32c725f1',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'd385b761-e8be-4343-a08e-5d7b02ab706c',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'natural_earth',
     'wikidata',
     'Q334',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1fcb702c-e994-4ddc-8bc8-a50c345dece2',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'f03855f7-feda-43be-8543-32bc948d0067',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'natural_earth_admin',
     'SLE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6f56452-8eaf-481f-9481-55410d7beefc',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '555862a6-aefd-4581-8eab-c1653843575c',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'iso3166-1-alpha2',
     'SL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1413cc84-4cd1-4d9c-b928-bbb1c39aab38',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'f1d1b5a3-b87d-492b-82f2-b5aae3cef4e3',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ef3ee301-9baa-47c3-9dba-2975f00a5945',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '58fef5b8-42ce-4876-8c87-587a10e92666',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'iso3166-1-numeric',
     '694',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '22cba878-38ab-4603-aa3c-0078358ac393',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'ab590b95-0c5f-4b80-8922-b14b659787a1',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'un_a3',
     '694',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '151d7a8d-1eea-49b9-b6d3-c7bedf7429f6',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'd95cdc80-63b1-4703-9666-b65d6c29ddf4',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'world_bank_a2',
     'SL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f5970844-72ff-4436-96e3-a113e3088dbb',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '604aaa3a-6e9a-4d05-b43d-3c55d694e98c',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'world_bank_a3',
     'SLE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f6172925-a700-4d6e-9fe9-faabe04a6be3',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '4143c6d5-dc23-4fe5-a2ca-432f53008864',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'natural_earth',
     'wikidata',
     'Q1044',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1bb284f4-eb77-4795-b297-167e67d34705',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '683d94c9-09b6-4840-880a-42338f03081a',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'natural_earth_admin',
     'SYC',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd2b574dc-134b-422d-b50b-5c16302fc002',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '7efb9b72-25b3-44a2-a0d7-93009d4691d0',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'iso3166-1-alpha2',
     'SC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ea0d1427-fae2-496a-aa5a-39b7432bfb8a',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'e5ee65d4-056c-432d-9ff1-5eaf6e47ea15',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'iso3166-1-alpha3',
     'SYC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3f67c8d6-8b03-4f1d-b327-b551f0510a49',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '08eebcb6-2982-4782-b2a9-bf8fbc8824bb',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'iso3166-1-numeric',
     '690',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3ed143c8-5b28-4dea-aef9-515c2971cf2c',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '21ceec36-87f3-490d-bfad-45286f31e036',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'un_a3',
     '690',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e1b942a-b895-424b-995d-bf352e5bde73',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '6e71be71-56c2-419b-b7bb-0fabe4a68bd8',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'world_bank_a2',
     'SC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad480661-8975-4c0c-a29f-cd99cc3ef4fc',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'ccd216dc-5e0b-4b54-ba6b-5ed238f9f8da',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'world_bank_a3',
     'SYC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c0a455a-30ee-4cdb-bdb7-b889fb3106c5',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'd1322773-68b9-48c5-877a-9416abba5417',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'natural_earth',
     'wikidata',
     'Q1042',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '80b4ee62-7f8b-485b-adbd-18200886856e',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '01b43c4e-8f02-4ebc-8334-5867e07187fa',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'natural_earth_admin',
     'SRB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '81aff468-823b-4145-9e87-849e0cc52e28',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'c2b25cd8-3b22-4d8f-9608-81f07628f363',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'iso3166-1-alpha2',
     'RS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '49a587d1-07c1-4562-97f2-7c8c9bcbf1cd',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'ecd920ac-b565-43f0-b674-a993be987170',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'iso3166-1-alpha3',
     'SRB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ec092aa-f942-439b-b821-93973b76f139',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'b740337f-62ae-4eab-ab96-a16f51f787bb',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'iso3166-1-numeric',
     '688',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7d04a30a-0e59-4cad-9327-e30fbaf71d75',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'e9efdf33-bf62-4f82-aa75-ccac640338d9',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'un_a3',
     '688',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd1d4fa18-c648-4005-9166-d54247993839',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '37c58676-4420-4a84-a5d5-2c6235e30088',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'world_bank_a2',
     'YF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1a19d33d-ec16-455a-ba09-b4baa0b38888',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '8469983e-9ee1-469a-bad7-81494a31acdc',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'world_bank_a3',
     'SRB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '562aaa49-c1bf-4961-bbb8-be7494ea96c5',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '2bf9f340-c198-4f9d-9a08-f27496b1f90b',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'natural_earth',
     'wikidata',
     'Q403',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2fa77806-0c50-4496-b75b-23d9aee6c7ad',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'c09d16c9-f57e-46c4-bcf0-16941b388634',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'natural_earth_admin',
     'SEN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bc259d5e-2063-483c-a091-952a0bc80cf2',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '3e4e2450-6eff-456d-a338-e0fe91accfba',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'iso3166-1-alpha2',
     'SN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d512cc1-08d5-47b8-8a93-4d67df3b10ad',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'c4f93a8d-0aba-4657-8bf4-4927fc442bd7',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'iso3166-1-alpha3',
     'SEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6410f533-8ce8-4f9f-85fe-a5e3bfe4bd17',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '745a5fef-8d5f-4496-9b22-6f2a6889087a',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'iso3166-1-numeric',
     '686',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b24ed01-5664-4e89-85d2-12cb1bcedb51',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '8e080a14-631d-4d4c-8a71-6fcd6f73c883',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'un_a3',
     '686',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '20a9ebe7-3851-400e-a6b6-1ac99e1ba6f0',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '2b5aa2df-7122-4847-9130-063519c9f944',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'world_bank_a2',
     'SN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5bda45db-5526-4f80-bea7-ed198c6112f3',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '7b799ccc-4cb4-4f6b-b372-264dbd360712',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'world_bank_a3',
     'SEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b443e1b3-60a5-487a-8ab7-2cbec2997062',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '5cd1be37-d66e-46a4-9203-a59d62833adc',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'natural_earth',
     'wikidata',
     'Q1041',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fcd11d81-5297-4b7b-80fb-bc12bdf6efac',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '765e0cbb-04b4-4286-8189-5526e0f3dfd6',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'natural_earth_admin',
     'SAU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '11bffa88-5abd-4c7d-9158-a7346eeea80b',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'ae71d351-d338-4575-bd45-3831bc149059',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'iso3166-1-alpha2',
     'SA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9726a7f7-f042-4f32-a040-906193926ee1',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '31da7826-1f71-442f-aeac-9e0251bd19e4',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'iso3166-1-alpha3',
     'SAU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e0811dc-50c3-41df-b57c-b92530f36351',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '76901406-b502-4dc5-947b-25934137e604',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'iso3166-1-numeric',
     '682',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3cd8346d-f9f3-43e7-8f80-34a3af29a7c2',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '514500ca-c12a-49c0-8ce1-9ddb48f5f2f7',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'un_a3',
     '682',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e95c29a-f6b7-4eef-b53d-b0a9ef68a2e2',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '1c1b38e9-a366-45c0-888d-8f5a826125f6',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'world_bank_a2',
     'SA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e9c45d09-9c5a-44a8-8c46-5f94a8b9fa56',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '383289e5-b9a5-47ac-89ed-83b851715f90',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'world_bank_a3',
     'SAU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '34e2a495-a980-44fb-9b1d-23242dd03e02',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '32799785-1616-46d4-9573-202689670222',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'natural_earth',
     'wikidata',
     'Q851',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '78a7ed79-3dd7-42ff-97d5-1a313af0a3da',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '6e10a407-29c4-46ca-a322-f50c66b6113c',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'natural_earth_admin',
     'STP',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72584df5-8772-4a5a-9fe3-93254e717ab5',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '4444a11d-0a1a-45c1-a3ee-5ff4a5732a4d',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'iso3166-1-alpha2',
     'ST',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e2a0ad02-aa78-40a6-b2c9-23621b74c3a6',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '687bf391-d153-449c-a3a9-cd545fd5d7ff',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'iso3166-1-alpha3',
     'STP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd77d4b2a-2292-423b-a69e-da8e3fa9e4a6',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'bba33ce2-fa05-4bcd-91ed-94a550232012',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'iso3166-1-numeric',
     '678',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '519f4b47-83a9-4d18-a51d-ed69b476bfdf',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '8ccf7762-12f3-44f0-bb46-7a3ae1079617',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'un_a3',
     '678',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'abd4a98a-cc28-41a5-97b7-1d29d4209370',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'ae83bf17-94ed-427f-aad4-6b5201ca8f1d',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'world_bank_a2',
     'ST',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4126cc11-f51a-48d6-be3a-601014933c60',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '50bb77f7-f0f2-4053-b8e7-914eb86a4cf9',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'world_bank_a3',
     'STP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a205e9a1-88c3-40a0-b7de-9dcb922b1adc',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '91add719-90db-467c-9a5c-140522ebc2d1',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'natural_earth',
     'wikidata',
     'Q1039',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '32e67049-5ceb-4de6-beb1-0d87af8835d8',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'da83d0e2-555b-4263-a083-63f1337e9b3d',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'natural_earth_admin',
     'SMR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a4a8f21d-1235-4052-98ea-971b378c2c7c',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '53961cd4-7b0c-4fe2-98fd-9a21c58a5313',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'iso3166-1-alpha2',
     'SM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '159df25c-f8e2-43df-a19d-e17f95b9cb5c',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '1beb62c1-b899-406a-8f48-349761999dd4',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'iso3166-1-alpha3',
     'SMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e22fc8ab-8cbe-494e-bdea-a676cf5d34c6',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '2aee71e5-b8d0-4526-b4c1-1628bcd6706d',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'iso3166-1-numeric',
     '674',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e1f8ec8b-ee60-478d-a106-ce36d630f524',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '936b8d79-0c15-4926-9d96-9b57dd622df8',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'un_a3',
     '674',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1295db02-5086-4c43-b65a-e1ea19c26300',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '40d7fc78-cec0-4d8e-b92f-2302d0d20aca',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'world_bank_a2',
     'SM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2a15ad98-6c64-494c-8ec1-e96469909376',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'd67e5ba9-8080-4dda-b873-a818e3f8a676',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'world_bank_a3',
     'SMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '206d4fc2-7fc4-42a0-b0df-40e29d5dc323',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '9410bc7f-ad11-4a6a-8b25-68962688e6c1',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'natural_earth',
     'wikidata',
     'Q238',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '69ea6280-2b2b-45cc-82fa-fec16c79d61a',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'c5077723-81a2-4b00-aaad-5eaa2a864a28',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'natural_earth_admin',
     'WSM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c4c4917-bbb2-4083-aa11-ba72fd69f843',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'a713c683-80bc-493e-9b2a-69a3e109e77d',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'iso3166-1-alpha2',
     'WS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '198d6513-78a2-4421-8b9a-1712161d0cf1',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '7fa06254-402f-48dd-b95e-50d5930e10bb',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'iso3166-1-alpha3',
     'WSM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '64123493-7cfe-4a15-b0f3-76d69ecbc9a1',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'dfeff9a2-ed1e-40be-be4e-b800bf79d65d',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'iso3166-1-numeric',
     '882',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd32cd52f-6cc6-4890-ac78-1da20376fc62',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'f05b211b-3ade-4d4b-9a86-1bff42c54db0',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'un_a3',
     '882',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '061cd9e3-f311-4fab-9d67-516e6246fdee',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '9506f719-8774-4546-92dc-1cd929ecb447',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'world_bank_a2',
     'WS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd841f324-0858-49f7-b5f9-328146c7882c',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '89b33a63-5bf3-4fb0-9c01-44778d53cb22',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'world_bank_a3',
     'WSM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '76666b1c-8087-48aa-9d32-2ee35323c86c',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '781064fe-04e5-4d8c-bdae-2283e75cf8e4',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'natural_earth',
     'wikidata',
     'Q683',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f9787f1d-32ba-48ec-a719-c1b10685de41',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '00668944-8715-448a-893e-e36f91d3f7cd',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'natural_earth_admin',
     'VCT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82e0af45-b342-4c44-8e87-4d3b496c6d8a',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '8df95645-472d-4f34-aab2-0d09a6847b8a',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'iso3166-1-alpha2',
     'VC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e64d50e4-ae82-4708-9e42-571e7fde9d3c',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '3e91b804-95ac-4d0e-94e9-f3a844c0b352',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'iso3166-1-alpha3',
     'VCT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd8f09d2f-066d-463b-9dc0-0bfc5236fe8b',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '198dafc9-6898-4ae7-bb9a-768ad68ca119',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'iso3166-1-numeric',
     '670',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e344b889-5f2c-4981-a32a-d6cc33280c67',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'a254013b-8ab8-4cf6-825f-21b00caad1ea',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'un_a3',
     '670',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b569ed97-dfbd-4415-b1a1-535640df6f4a',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'a2c792f3-9d28-44a7-9109-9612173015d0',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'world_bank_a2',
     'VC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e18ba02-9e11-49bb-a8ee-5af917e9842b',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '35702632-e852-4df7-81f6-b8e850f2e86d',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'world_bank_a3',
     'VCT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9740569b-1909-43e6-8fd1-808982ade12e',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '4e7ce933-52f0-4028-b1f4-020f8c0159dc',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'natural_earth',
     'wikidata',
     'Q757',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '52969572-aa08-4812-9b8f-6783c6c1558b',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '87c87203-ab12-4cfa-824f-ad7480cfaff5',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'natural_earth_admin',
     'LCA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff60910f-3298-4df9-bb84-50f493bcd776',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '974233ff-8040-4e36-9cae-0f44ab82ebfb',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'iso3166-1-alpha2',
     'LC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '06ccca4c-9828-46a1-9835-f45fc9e07f02',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '0251f53f-ceec-4922-8dae-54e2b77585a3',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'iso3166-1-alpha3',
     'LCA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8645ae7-260a-407d-a920-2a9718459a43',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'f4662205-eab7-49b2-a383-a78128ccc494',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'iso3166-1-numeric',
     '662',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7ae5b7fb-7d14-48ba-a861-d9227ee884c0',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'fd9e8127-551e-450f-8d9b-501cf2d20ee2',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'un_a3',
     '662',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0ad56eaf-b078-440b-b0b7-295178ad5526',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '2d4a68d9-a650-4b26-bfba-650e24ed5cdc',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'world_bank_a2',
     'LC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4995b7c2-5f86-43fd-a5f7-e39be66ff89e',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'f60ff292-afc9-4da4-bf76-a354651c76ff',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'world_bank_a3',
     'LCA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b97c8dfc-e11c-4f3a-8b3d-15a97454e2c2',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '77893a7a-bc9f-4655-be52-e30dd87c2fcb',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'natural_earth',
     'wikidata',
     'Q760',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e612195-3855-4298-bbf5-4d81bc032317',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'a69c3291-5e09-4dd1-a37c-b8b546fe417b',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'natural_earth_admin',
     'KNA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c6510fe0-8862-4c4d-981a-1a65ef5f99a9',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '19357f0b-c557-4056-8b3e-d85e90762479',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'iso3166-1-alpha2',
     'KN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f2a5b9d7-bb2e-4510-932b-a98f692462e6',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'd109ba4d-d97e-4b15-83a9-7ce3b7533816',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'iso3166-1-alpha3',
     'KNA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '46679bf3-05ee-4f9a-866b-17d422399186',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'd780221f-57a1-4f9d-9a23-d4e74147d941',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'iso3166-1-numeric',
     '659',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7d990570-4ad5-4475-83ff-3d79b57ce391',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '2362530d-1a89-4b14-9b37-ede5693bc807',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'un_a3',
     '659',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e92ffe1-110e-4cf6-9291-8e8df3f9cf1a',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '30f7d79a-f3e4-4bfa-92fe-2ec3d7d2ec9b',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'world_bank_a2',
     'KN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '13b34793-be03-45b1-b472-36b693dbc42e',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'fe2fcae1-cffa-4c9d-b2df-96a44d8683f8',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'world_bank_a3',
     'KNA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f9791cfb-9da3-4276-8b55-a837faed044d',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '4c760bfa-5b99-4e59-8a6c-796ea952980f',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'natural_earth',
     'wikidata',
     'Q763',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '144fda8e-d4b7-4526-972d-efeb9d75727a',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'e0195cac-f0ef-4e20-b45e-e895670fd213',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'natural_earth_admin',
     'RWA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2957b3e1-c42d-4077-97a0-1f884fa1135b',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'ddb79229-eb5f-4904-9db9-7faccd01a015',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'iso3166-1-alpha2',
     'RW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '35800961-6559-4916-96ee-a6524f8dc8c6',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '8b2ca34f-14ca-4287-86d7-f835e5c3e8e4',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'iso3166-1-alpha3',
     'RWA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '345ed046-7068-4397-b6f1-a66518922072',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'cb055783-c790-4bfe-9872-2bef62ac040c',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'iso3166-1-numeric',
     '646',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a792f663-0ce6-4631-ae0c-362e5b185af0',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '18fc0b98-b821-487a-b4e7-cb6ef7722df8',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'un_a3',
     '646',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd7230086-56f5-47a9-a36d-a223ce7b296a',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '97855a21-01e7-40bd-828d-9c5cb9be4ab5',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'world_bank_a2',
     'RW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7caf2b92-c5bb-4032-a3a6-d0abfeb05c1f',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '76f91668-c662-49e4-9649-ec7d50500255',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'world_bank_a3',
     'RWA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '95341714-840a-4339-afa3-bbc8c6dde0e5',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'd24f76f0-6a41-433f-844c-7091a5c6496c',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'natural_earth',
     'wikidata',
     'Q1037',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '54cbfcdc-f2f8-4fed-bcb5-f571552e00a8',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '1f6a0ed2-1c70-48f9-8398-694c85e9f0a7',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'natural_earth_admin',
     'RUS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5c72a8db-5c7a-48e9-92b9-b3106f969341',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '70fc6776-71b6-4ed2-82e5-e45cdcd77664',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'iso3166-1-alpha2',
     'RU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '537a452f-a537-4fe1-99c4-1f57fce81997',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'a3933281-24f0-406f-bf85-0495a81e91ef',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'iso3166-1-alpha3',
     'RUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '16bc8d84-1af2-4c72-b9b6-d01dd900a70f',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'a84004fd-de11-41af-bdc6-fb81406d324a',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'iso3166-1-numeric',
     '643',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b1c1c565-3118-4966-9128-44fb76a42033',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '1b84ba53-ce0b-4e17-a5a5-94adcce6a456',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'un_a3',
     '643',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9fa779bb-b34b-4fce-bb74-cffbb890656c',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'fc0e0b4e-525c-44e3-b4a0-be1a48e52237',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'world_bank_a2',
     'RU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4393fc74-15af-4f37-9a78-9ed41291456d',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '29448a61-be7f-43b9-bed5-80708097b793',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'world_bank_a3',
     'RUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ca263658-2974-44b0-afc1-b14ba89deffd',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '28318f39-70db-4cf0-ba9a-ef9693febb42',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'natural_earth',
     'wikidata',
     'Q159',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fc458473-4e09-4731-bc14-0cf1e59b6f6d',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '78372fd1-cfd9-465f-b9df-5e07f6df667f',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'natural_earth_admin',
     'ROU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74fea52c-3768-4e1e-bb2a-c921e2eb2da8',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'c11830eb-21ef-47d2-86e7-b57e479e3a40',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'iso3166-1-alpha2',
     'RO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'be81c407-0462-4edd-be11-719a63a7ba5f',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '88a43a4f-cec4-491d-86cd-2287b6a12c44',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'iso3166-1-alpha3',
     'ROU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '386146ab-9748-4697-8b43-5618c0eb7665',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'd581d79f-34b5-4f6f-8ac8-a842643da9dc',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'iso3166-1-numeric',
     '642',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '09f69b0d-ac52-41f9-aca0-39aad6a7e1b5',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '5ffcef14-68c8-4224-963a-395b554eb6e2',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'un_a3',
     '642',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c8de1b08-37c8-4897-98ca-a22f43a954c6',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'f4a6de20-fc4f-4c1a-bc0c-e170c8f96118',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'world_bank_a2',
     'RO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd78b781-1ad0-48c9-ab74-e7f000e1c849',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'd51c645d-219b-4b9e-a03c-000f2162385d',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'world_bank_a3',
     'ROM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b75c1e6-96fe-4908-adb5-3a7288afc425',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '99fb1a97-de34-4afb-b82c-201cdab2b251',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'natural_earth',
     'wikidata',
     'Q218',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e628fff3-03bf-4da2-9541-928879972c3c',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '0d75be65-5b2b-412c-8916-ffe493d42648',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'natural_earth_admin',
     'QAT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8bd2ef39-a75a-41d2-8923-de729400e62b',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'c7100f05-2a1a-46fc-82be-1ff2a53eaea9',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'iso3166-1-alpha2',
     'QA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3c28f924-3a99-4204-9826-092546c4e69e',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'fcd18a01-3ca1-457e-a8cd-80b632a6c827',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'iso3166-1-alpha3',
     'QAT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd6301fbb-6363-42f4-9f09-ec113c841bc9',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '110dd607-ae75-4959-aa32-bfbbba7bbde1',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'iso3166-1-numeric',
     '634',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2db7ce59-b23f-49fd-8149-7e2478b60b73',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '3b9fa6c2-624a-47eb-aa48-171a44051e90',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'un_a3',
     '634',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eafc583a-3bfd-46fa-84a4-a2aaf4676372',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '079c9d7c-ac0e-4bc6-bec2-4e610e6829d1',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'world_bank_a2',
     'QA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '12aced69-7f2f-4ee8-909f-bf77395cb84a',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'ff0383ec-26b5-4bda-8468-a3fdf07a3be8',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'world_bank_a3',
     'QAT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a06e0411-4eea-47d4-84ce-c50762343cfd',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'a1029f62-af10-4307-9778-e61a8df4063a',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'natural_earth',
     'wikidata',
     'Q846',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '595693d7-35a3-434b-9919-6b0e22ae67ad',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '1dd697cb-9021-435c-93eb-4b9fd1483e95',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'natural_earth_admin',
     'PRT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5bb44eff-e976-4db1-a941-720ad1658032',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '0bfd7040-3600-4179-8e7e-146ce5d4bc5b',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'iso3166-1-alpha2',
     'PT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '48e599db-30f3-44ef-a5a4-47471b9ffdb5',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'b1b80bb9-0f41-4705-8d7c-8a056bb5e3fe',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd628ef4-fb76-46a7-ae76-7bf1089f7488',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '099d7516-aa2d-4268-b965-7f35e2d24056',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'iso3166-1-numeric',
     '620',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '35ced1b1-4e24-4c38-8f1a-3626acb733be',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '2a10ed84-90a7-4173-bce0-d15c3620ca9a',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'un_a3',
     '620',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2fe21d46-1b9e-4b11-83eb-5fd86129e2c3',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'c69b107e-feea-4a98-95e9-5cca31766e57',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'world_bank_a2',
     'PT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd13e4208-38e2-4aff-b4e5-fcc3a57ad50d',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '7bde64f6-3d34-48da-b5b2-22e43b3c14b0',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'world_bank_a3',
     'PRT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3793400-6a4e-4e1b-87dd-2144de7542c9',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'a435dc18-d516-455c-93e0-e5517c34c284',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'natural_earth',
     'wikidata',
     'Q45',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cd7aeaa1-15b4-41ce-a0c9-8f4279237dd8',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'ebddfe80-dee6-49bf-a4a4-e4ae6861a7dc',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'natural_earth_admin',
     'POL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53788409-d247-47b3-a78a-056c89722b9e',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '85ab7b6c-1a84-4608-92a1-1021a474abfa',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'iso3166-1-alpha2',
     'PL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aec7b569-1327-401c-ab47-5932bbc9064d',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '1e4e1ac6-4ecf-4ca2-94d6-7756f67b99fa',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'iso3166-1-alpha3',
     'POL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8234ea90-e5f1-4eb9-8fe9-100e3c069e50',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '4e6229a0-43e1-4644-80d6-a071ea6a7fd8',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'iso3166-1-numeric',
     '616',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c710966-73c1-4aca-b7ee-2cf0c55ddc16',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'eb877334-ee75-496d-a132-799ce15308de',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'un_a3',
     '616',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cea2da45-32ed-4513-896c-1cab778497a8',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'ead6b0e5-56e7-457c-9fd5-c4142a3171a6',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'world_bank_a2',
     'PL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '128146e5-6e47-49ea-9af1-dd44d93c503b',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '1eedfa49-3208-42c7-8022-0a6eeebbb81d',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'world_bank_a3',
     'POL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b7703ec9-9b9f-4258-b3ef-0a4d471bc833',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'b68e987a-a1c1-4ffe-ae5f-6ce489c6798e',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'natural_earth',
     'wikidata',
     'Q36',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3a935001-e00c-411e-b305-f2e8f48e3e90',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '48169021-6185-4aa9-ba75-05140464fc4e',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'natural_earth_admin',
     'PHL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '538f45ba-c2e3-400d-bf25-ceddeeae2483',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '476fbcf7-f524-498c-b1a2-30a50a477105',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'iso3166-1-alpha2',
     'PH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a18a0a1e-a083-43b6-b50a-7257b2fb73ec',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '0c5d6a47-2af3-40d6-823a-2522411bf1fe',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'iso3166-1-alpha3',
     'PHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53274c81-e1e0-4913-a820-4d1d22866e21',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '934e8e19-c1d3-4f0d-9cba-00ec29296345',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'iso3166-1-numeric',
     '608',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb6cb4f9-af30-4164-bf5c-29ba597520d5',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'bb19969e-ee13-482e-a341-75cae5969239',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'un_a3',
     '608',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61957ce6-3529-4821-9137-42e7cd312871',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '1526afef-6b7b-47f6-8b0b-052c9d8484b2',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'world_bank_a2',
     'PH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de49f5dd-ef1a-4943-9b45-9c19244069a0',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '7b81bb8d-34f0-4dd0-b6b2-c70e6756569f',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'world_bank_a3',
     'PHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '97a8b363-4bd6-4ae6-a5df-18013f466cbe',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '3bd0f2d7-6c97-4f86-9e41-a534800d6f9b',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'natural_earth',
     'wikidata',
     'Q928',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ecaf918-7a01-4bd1-804e-644aacad8120',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'b0ab14cc-25d7-4866-819b-0bd39d065868',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'natural_earth_admin',
     'PER',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d55c38c-94a8-45cd-9d4d-076233f134e0',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '4b177740-af89-42e4-8523-5c3d589049b6',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'iso3166-1-alpha2',
     'PE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '824932a6-b33e-41ee-ae33-0450392358e3',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'eedc7ac6-077b-42a9-b87c-981cdcec030f',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'iso3166-1-alpha3',
     'PER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'deea8ae4-aee1-4ea7-ba0b-8e6347c5fa0e',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '3134a3f0-d866-4ff2-b29b-56ddbff2cadc',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'iso3166-1-numeric',
     '604',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9bd674b3-34b3-4a90-97f9-82865c4a5a05',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '493df939-c09c-40bc-aa88-34af38d31057',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'un_a3',
     '604',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d615307-0c0c-4570-b21b-e3cf552c092d',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '988b4b09-b78d-4fee-9515-aae0fbd3e266',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'world_bank_a2',
     'PE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e87ddbc-7019-4f59-a695-8253e09cc165',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'f016f3a9-53d9-473c-a06b-faa0f6e42fcb',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'world_bank_a3',
     'PER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2027bc40-6324-4b17-9c05-652a7299a7a1',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '01d1ebed-5f62-437e-96cb-e30f7c36a63f',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'natural_earth',
     'wikidata',
     'Q419',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ba5d45b-2fc2-4264-9716-1a9972fe2354',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '0113708d-ead4-4178-85a7-30d0d68bf9d9',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'natural_earth_admin',
     'PRY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd4db6378-edcf-42a4-aaac-df67ecc118ee',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '06860bee-de39-4ff2-9bf0-fc0ca58a79f4',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'iso3166-1-alpha2',
     'PY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '455bd1ec-f4fb-459b-845f-9dc3e5dac372',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '325053bd-0908-4bb7-972e-671d142330ac',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '40962fd1-d802-4410-87e1-6ce849535c68',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '5e64e025-08a6-4298-adc6-7ac509f3609a',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'iso3166-1-numeric',
     '600',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0f8bb4d0-66d6-4299-9d63-384556207e6c',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'e0c7a532-5fb0-4e8f-850f-784549210629',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'un_a3',
     '600',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8d29b1c-0d74-4f80-829d-beb1786d49d7',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'e348cf0d-9abe-4229-9853-1c47582fbde7',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'world_bank_a2',
     'PY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ab18de18-6f7f-44f5-b453-281e23758c52',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '42b9defc-c73c-4ca5-887b-045cf096b0ab',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'world_bank_a3',
     'PRY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '99174475-a64e-4cd4-b1e5-a28e3145f1e3',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'fdae7a75-d6b2-454c-8678-1bcf253ad159',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'natural_earth',
     'wikidata',
     'Q733',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8bcca577-4d2c-4a32-b539-f6f86be1f442',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'b54e20ee-63bc-477e-b068-749313dfc6d8',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'natural_earth_admin',
     'PNG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '518c07d3-1833-4987-8fa3-87daf0b1f61d',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '247b86ab-5d53-4444-bc65-48638a88ad9b',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'iso3166-1-alpha2',
     'PG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f8b6388d-627a-4f2a-86f9-1652a950b10f',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '650cebce-9176-47af-8352-8ea707b42c29',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'iso3166-1-alpha3',
     'PNG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5d8b120-0260-46b8-926f-3165f151a122',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '82b86a9f-b81f-4875-817b-9153f7bc6428',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'iso3166-1-numeric',
     '598',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b483c5ff-1000-4ed9-921c-8b1d79ba9626',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'a6c75a0b-ce8d-4585-baf7-31ec5d124b56',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'un_a3',
     '598',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '728527ec-ff98-4ae1-ae12-108f489187bc',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '3846a29f-deb5-4e16-914b-ec858df7e938',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'world_bank_a2',
     'PG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '881e11e4-fff6-4e2d-8265-f8a9654828e9',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'e9a8b822-7e9a-44de-896d-f982f763b830',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'world_bank_a3',
     'PNG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c6a92394-22ce-4d40-ad23-9908c4e1f9d0',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'ce748440-3885-4931-9f09-f030b397e315',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'natural_earth',
     'wikidata',
     'Q691',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '56417d30-6113-45cd-b903-5656ec60b69b',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '35facb7c-6d21-4c5b-a5d3-dfeafb7cfdc6',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'natural_earth_admin',
     'PAN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '616c94f9-99f1-4495-affb-817d900795d3',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '415bb3d6-e3a6-4a0d-93bf-f62713309896',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'iso3166-1-alpha2',
     'PA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd9cb5dd-01a2-4058-80c0-75d02026e07a',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'a4159f44-22a3-482d-879f-a5b35d65cef4',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'iso3166-1-alpha3',
     'PAN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fc2cc3a9-e213-4898-b639-e6151e086268',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '835d1d96-ceed-4dbd-94a5-01bbc3b5f4e7',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'iso3166-1-numeric',
     '591',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c2563210-3bb5-43c9-a65f-d792a863f093',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '82203659-f834-4f40-bcd3-95a008a599eb',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'un_a3',
     '591',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '19c2a665-d3fa-4dfa-9ec6-c6c07369e13c',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '7b4693bc-175d-4dcc-8a4a-fcfd33a49363',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'world_bank_a2',
     'PA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '27b1fbc6-bd20-4d20-a63f-74455d989be6',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'be10c8ad-9628-47f9-b108-077daa59ea2f',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'world_bank_a3',
     'PAN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37805fe7-023f-45d1-a8ab-30cbb3fffbfd',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '5c1cd912-9665-45e8-9aee-768190f22cb9',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'natural_earth',
     'wikidata',
     'Q804',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8377775-f284-44f7-a209-2946c1ad1428',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'c2380db4-92fd-4c1d-9b1a-d6cc4713fdd1',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'natural_earth_admin',
     'PLW',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fb8b1ade-4297-4833-8113-1613e14055f2',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '549365fb-cd51-4462-a0a6-196e9c155d10',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'iso3166-1-alpha2',
     'PW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d72fcc6-dce1-4b2b-a99c-2fff5d2efefd',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'a68e6c05-b981-4ad6-86e8-51ee6f7ed11d',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'iso3166-1-alpha3',
     'PLW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f5c03ffb-a6b5-4d9e-9ae8-cfa0ad223357',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '01c5bc82-a2b0-4724-9a30-76ffafae7d74',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'iso3166-1-numeric',
     '585',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e5dc2ce-9f3e-456b-8768-e5d88f8c646a',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'fa16b206-ab86-46c3-aff9-226a3357ba67',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'un_a3',
     '585',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c0434e1c-33be-45b2-8aeb-e7dd87d8395b',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'c4937c78-d40b-4303-8102-0979cb82d47a',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'world_bank_a2',
     'PW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c895bbf-9360-4379-b871-d7b7c06561b1',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '7b455d8c-5f0d-48e8-b2d2-fb707af6951f',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'world_bank_a3',
     'PLW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '30dc5806-d2a6-4c79-bc3a-a5f82c1e5279',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '33ded222-7478-42db-830e-168afd201e86',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'natural_earth',
     'wikidata',
     'Q695',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '93960691-356c-4dc3-8db1-f65edacac090',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '2398de5c-109f-49b0-8cf6-a68cdf6627e2',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'natural_earth_admin',
     'PAK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e4fb4832-0c34-4c08-80bc-681d5424fd48',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '5c54a76a-d128-4c41-9153-1bf5e7c7b5d5',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'iso3166-1-alpha2',
     'PK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '10e0762f-8ae6-49cd-8a78-55b674564230',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'ecedb916-2f9a-4f46-a116-28c67ced855d',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'iso3166-1-alpha3',
     'PAK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '368fe5e2-7acb-44d2-bc48-c3d7a8b0f91c',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '1ab79725-8e29-4aaf-a797-99f46f0ecfa0',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'iso3166-1-numeric',
     '586',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '05a533b0-b48a-4d53-bc18-7fc59d5631de',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '8b164a9a-8be2-4c0f-8e33-2527ae03458b',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'un_a3',
     '586',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3f1b4b33-b5f2-4397-9df9-278bf70b425e',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'beea3e08-ecb3-4ff9-9f9c-2a95d7ecc847',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'world_bank_a2',
     'PK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a689ca5-35a4-4b91-ad43-a5074be307d3',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'da1d1cd0-793b-4c44-8cd1-1762ee659c5e',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'world_bank_a3',
     'PAK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb70f759-4789-4824-bd76-a73b9b0fb2dd',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'df81d182-7551-45d0-9ef1-add734f3e582',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'natural_earth',
     'wikidata',
     'Q843',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '088c0652-f48b-43eb-a452-0d34f289fd74',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '796d6e3b-e6bf-4df2-9188-eb79c0f65718',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'natural_earth_admin',
     'OMN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5a8c6212-334e-4f3d-a310-54d813a08cad',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'd22c8f8c-6a9e-48ec-9917-e876080a5b63',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'iso3166-1-alpha2',
     'OM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58234ceb-57e2-4839-b8fa-94995e1f43f3',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'da4a8375-22ec-4e58-9f41-2311c759ebd4',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'iso3166-1-alpha3',
     'OMN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cd00d5d9-f7e1-43b4-a8ab-6c139229efd9',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '231c161b-d7ed-40bd-ad8c-6873154c87e1',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'iso3166-1-numeric',
     '512',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '137ccbb5-bcae-4dce-a6ca-dd761bc2da9e',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '19b73f6a-e180-4473-a6f8-2014e3512c89',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'un_a3',
     '512',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c4db6136-6295-4073-8f34-10c1db77cf62',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '3a749fc4-1a00-4f1c-967d-c86b939d9865',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'world_bank_a2',
     'OM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f409b1e9-5018-47e6-b2cf-8facc15792f2',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '98a835c4-6594-4f2b-800f-178c1fbf0928',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'world_bank_a3',
     'OMN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '46d4003d-f04a-4871-a21f-9ea16f6e7629',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '8880e873-737f-4b43-952e-ceba3296651e',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'natural_earth',
     'wikidata',
     'Q842',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dcc0e4cf-639b-46e6-9694-cc6c5e431afb',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'a16e168b-1b62-4b34-815a-1cfc3159f15c',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'natural_earth_admin',
     'NOR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '688c9933-9b11-42c1-9d00-9f65b52e326e',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'a46d94a4-8117-4af3-b418-7042c90fb886',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5b9c0b62-4312-409b-9148-9f819ff0aec1',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'abbf735c-3c53-4783-b595-ef0de61aecc2',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0b7ef4f9-5596-4f51-b3c6-9f2375f5c443',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'd0c520a4-72c7-4dbf-a13a-4ba2f89f5d71',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c2bd238-e76a-4d8c-8a3d-c8829edcd1d7',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '9db20cbc-deba-4b46-8450-494d2b6f6440',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'un_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b4b92c35-21ed-4162-bae4-c3a92f7c9a67',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '1cc37695-e41b-43e1-b2a5-fcc7d81da21b',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd6ce6bac-e0f7-4b1f-a8ec-17ddee5aaab8',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'a367dce8-b21f-456a-a62b-794868d7e629',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '92fe086b-f881-412f-bdb2-197df13a97db',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '33ed7136-8b87-473d-8ecf-032f5d9b52c4',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'natural_earth',
     'wikidata',
     'Q20',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c46ce586-17e7-4a66-824d-df9d21592206',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '38220f00-19de-488c-ae7c-3e0a03f48ea2',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'natural_earth_admin',
     'PRK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4240b856-72e2-435d-b869-ebbc1fb91195',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'fdb68913-45c8-4b7c-9f01-8e4cdc6d1af9',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'iso3166-1-alpha2',
     'KP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f9ef63fc-4897-463c-b83b-550406286224',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'f8811e35-0e14-43f4-a9e2-70cf4e80bfae',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a785fced-54cc-4ccc-b92a-22549c25ea2b',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '760ce218-07ab-4454-841e-d1a6b939b90d',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'iso3166-1-numeric',
     '408',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3617343-3a49-4cfc-b9fe-e0c855d8fbc7',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '1d5ee0ce-0276-4fc7-92d0-02e6169c3446',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'un_a3',
     '408',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '057a606f-527f-488d-a5e4-82d64a8201c3',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'a59cd146-eb24-4dae-b44d-4f74bbb47581',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'world_bank_a2',
     'KP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '62dc1dc1-fee7-4843-8c58-12c3486ea27a',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'b5f85abc-7f9a-4b9d-8f41-1bd3321c3d54',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'world_bank_a3',
     'PRK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7a939685-66fc-4ff4-9adc-4f5f854c9d93',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '841dd723-ee89-4e25-8519-5b6ae70ac805',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'natural_earth',
     'wikidata',
     'Q423',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b739f8a-3d3e-4b05-9701-afc95659d152',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'a1bb3bb8-961b-4a0d-9136-eaae29793c6e',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'natural_earth_admin',
     'NGA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '933c649a-cfa3-4cee-8e1e-3dd294c4abf5',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '3c46b6df-0363-427c-9d04-1d75bff6da44',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'iso3166-1-alpha2',
     'NG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '62d98ad8-fd8a-439f-986e-99822f2edb9a',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'c3216c78-67c9-4b4a-aa7f-6399d630d7fb',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'iso3166-1-alpha3',
     'NGA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2b29eb17-0474-4794-bacd-f75ad281256a',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '0768c227-c608-4177-a9ab-a528586dbded',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'iso3166-1-numeric',
     '566',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cb8cc07a-2296-40d9-bf4d-d6cf1fec9615',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'f3f8eb1e-6e88-4199-8fbc-39c2b446a3cd',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'un_a3',
     '566',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '28050fde-ae55-41dd-841d-adf92eeca7b5',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'bfa632b9-f592-4bd1-894d-790cad838b50',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'world_bank_a2',
     'NG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd2f7210b-b63c-4198-aab2-dc2efb845059',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '88521537-933c-4169-a7e3-bfa73f31b6ae',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'world_bank_a3',
     'NGA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '41865eed-eeea-4c00-97bb-43436b70e964',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '6b3b87d9-da65-443a-9907-38032164cbbc',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'natural_earth',
     'wikidata',
     'Q1033',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '19ee44a9-a0f1-4b19-96d1-b2eb8d062f60',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    'd2da0bdb-3d1d-4d38-8ed8-bd265380919a',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'natural_earth_admin',
     'NER',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '90ad54e7-f8de-40d9-be5f-3a56017b503a',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '70b03776-5be3-4c1d-b7de-e535cd561ec4',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'iso3166-1-alpha2',
     'NE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '847afc7c-7cae-4412-9026-61921a2bbc7f',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '7dda9ae3-cd91-4c61-bd29-439dd3e494e0',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'iso3166-1-alpha3',
     'NER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a8863a1c-46d1-4efd-8f6e-0b38ea9edaf1',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '0a101426-6c25-46aa-a8e2-ae8beaf8bac5',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'iso3166-1-numeric',
     '562',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f32108f3-1205-4e04-b0b5-b05627d95261',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '9ddef444-8305-4742-a73b-d9391e3aad97',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'un_a3',
     '562',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0eb94d93-fea3-4eef-9294-c62f4f84e917',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '580f7944-e584-4925-a191-fe8ca1527bf3',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'world_bank_a2',
     'NE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9eade5a7-76fc-4a69-8851-77f521ec8738',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '8d9e8099-887e-42c0-9e08-ddbdf1484881',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'world_bank_a3',
     'NER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '67004269-b6d5-4ab3-8423-d3aad65fce23',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '2dd9a189-0c3f-410d-80aa-25b2cc4f9f24',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'natural_earth',
     'wikidata',
     'Q1032',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '41402f33-6eee-406c-9421-d7308ee25e3f',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '5c1e9fda-76ac-4a68-901b-ece5dcc5e75d',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'natural_earth_admin',
     'NIC',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dba95630-67e1-4d5e-9c90-74992cced1c0',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'bf06325c-f63f-4f7d-aeae-f804cfe6004f',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'iso3166-1-alpha2',
     'NI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f7fcf9bc-e515-4319-91ce-bd45f26fd291',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'c0692bfd-f295-430a-bc4b-6f6ed10b12a8',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'iso3166-1-alpha3',
     'NIC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '086e84c4-bfc2-4d05-8b04-aeb15cd48102',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'e201a6d8-73a0-4a02-8c6f-b105745b5b0b',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'iso3166-1-numeric',
     '558',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9c263694-ea5e-4154-83ae-541e5590be6c',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '6dd17199-c656-469c-ba75-cae348e42044',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'un_a3',
     '558',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0360d804-deb5-4cc8-a4cf-21894099f5e4',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '6eea2fb9-671f-4132-848c-065779599050',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'world_bank_a2',
     'NI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4c78d776-9539-447a-9691-6c1d12f8c8ce',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '9f3c8f01-65f0-4e7d-9755-33623e440e58',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'world_bank_a3',
     'NIC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'efa7f78c-2d64-42af-8006-d404e256cbab',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'c96f4a91-2dbb-42a6-a500-5d8b511728c7',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'natural_earth',
     'wikidata',
     'Q811',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6e12face-f60f-41ed-93cd-c52b058b6953',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '106baa88-6c10-445f-99a5-95fc2aa49e79',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'natural_earth_admin',
     'NZL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a2ce1a1-e52e-4e93-bd06-6208c0c4ad72',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'f0d6ae8c-82bb-4063-86b9-c2f711ae18fa',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'iso3166-1-alpha2',
     'NZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2271109c-bba2-4be8-8369-cc0f03b0f895',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '1b8b8d8e-30e1-441e-9991-77bbef6281d5',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'iso3166-1-alpha3',
     'NZL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd176feb0-ce25-42a7-a504-4e5c4b6df600',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '7df3a2eb-49d4-485b-a531-b3b53aac8ae1',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'iso3166-1-numeric',
     '554',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2dc85b71-6828-46d5-be20-2913c190f3cd',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'f28659a3-0182-49b7-911a-f5db28b8b8fe',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'un_a3',
     '554',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c636381-8e1c-44d8-811e-f832c45ab315',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '936bae8f-c784-435c-ae77-33a5d3e51bbb',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'world_bank_a2',
     'NZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94e09092-b064-441c-b2b3-0795529621f7',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '4843b159-d09a-4829-8e2d-6146e86f7e38',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'world_bank_a3',
     'NZL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6548ca4e-88d1-49ed-bf5a-42dd7e8238f4',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'f61b3da5-b7cb-4f2a-87db-3cce3b6eb987',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'natural_earth',
     'wikidata',
     'Q664',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a548cc7e-c9cf-4431-b7b3-3644fc356d90',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '65471690-b11e-4b1d-bd3b-d82236281ba9',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'natural_earth_admin',
     'NIU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c519648-1161-42e7-ae84-271c78ea5f65',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '6486273e-2633-4dfe-ac0e-bfe41d832ff3',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'iso3166-1-alpha2',
     'NU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5f18c94-7574-4754-977c-7479253f1c81',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'ad666761-22e0-41be-aef5-d19950c8184e',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'iso3166-1-alpha3',
     'NIU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '85e0f1b5-b5de-4963-8bec-4a5566c11a71',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'cdcc97f3-df4c-4e01-ab0d-a91527d9da8c',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'iso3166-1-numeric',
     '570',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5e7fed91-2212-4975-a468-b996814ab141',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '1949769d-10f6-415c-991e-5e2eeba2dc0e',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'un_a3',
     '570',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6a2cd78e-add5-40d7-9689-bb5a7b2ec4b4',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'e180fcd2-ad93-47ea-9974-4f43cc03a226',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e579f018-d4ac-4843-ac51-ae06a32676c7',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '7b021fba-c311-4bc3-a83d-a6dbcc5ddfc1',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '02d3e12e-0a6f-4cfe-910e-0fd1d583f4a1',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '80dec019-5b7b-4db9-ae9e-f7052c6681f8',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'natural_earth',
     'wikidata',
     'Q34020',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1c3ab83e-86c0-4aca-97ec-a412cc4b0a41',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '7f6f9d7c-0cef-4571-bc16-9db38ab3f889',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'natural_earth_admin',
     'COK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '44076de6-b5f3-493e-8301-17a321bbb6bc',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '94167a8c-15d4-488a-b73d-162ef30df34f',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'iso3166-1-alpha2',
     'CK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aa8ee4c8-3148-42c4-88d3-0ee28716f4c5',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '31af3bc0-7bf2-4da8-9191-0fcde101e10b',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'iso3166-1-alpha3',
     'COK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74728508-7b5c-4a38-9313-a80015f82378',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'a7b0f4c6-054f-4e15-99b1-201d9426dfd7',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'iso3166-1-numeric',
     '184',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '79bb86d3-cd7a-4885-b287-fc62649a637d',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'da58ed61-903f-4d20-926d-2f372c118616',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'un_a3',
     '184',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '075188e7-d0f7-49be-8df9-da9dc828c2a4',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '39c8dcaf-1dd0-4f2a-8c6f-13db4ea0acda',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9cbb2e76-e6c0-4605-a24d-210929cd17a1',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '40f7a1cd-45a9-4c45-9d70-7829641e8519',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c7886857-cbca-4b39-abc3-70ce9059d10d',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'ef1ec25a-d928-4fdb-bab1-8ffb958f67b1',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'natural_earth',
     'wikidata',
     'Q26988',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '293b387a-6fc0-4d8a-b83d-2fe89d1f5198',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '5f4032c2-d16f-49be-b7ed-2b5e3a7f7eea',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'natural_earth_admin',
     'NLD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'becbf92c-855c-45da-98b9-3ce526f39b01',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'bbeeeb8b-8eab-48dd-9d7e-611466589c92',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'iso3166-1-alpha2',
     'NL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '25dfc289-cea9-4da3-b4cd-3aefa61919b9',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'eac9cc3f-92c7-4e8b-937d-1d8168be23ba',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'iso3166-1-alpha3',
     'NLD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c019024b-a475-414b-b7df-cbd3e23552e1',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '3fd48585-de61-4cc3-bb81-bcd8c31e67d1',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'iso3166-1-numeric',
     '528',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '96165461-5e48-49ef-8ab6-151812341fee',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'd457d596-a7e6-4e83-92f6-f49469f5dbbf',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'un_a3',
     '528',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cd422c07-f091-4806-94a4-9e5afab93fa1',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'be5507de-f2c7-4500-9957-9a38ce6f2a7a',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'world_bank_a2',
     'NL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91f4f2ea-2fc2-495c-b3cd-743a773ee12c',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '6501fbf4-9767-4d8c-8b5a-e702e5a3eca9',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'world_bank_a3',
     'NLD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1eecb1f5-7cb8-4f78-bf72-8037d8fd465a',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '6d2c742c-3d4c-43c6-a199-c67b1a16c0fb',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'natural_earth',
     'wikidata',
     'Q55',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0331fe1-0a4b-4dbc-acd9-e2e234b0811d',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '81950841-261e-4a0d-a0ba-3cc521724282',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'natural_earth_admin',
     'ABW',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ca7d632d-2ef2-4f71-a28a-b387cbfb76d2',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '5bc65968-df55-4c48-a448-f3422730c70a',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'iso3166-1-alpha2',
     'AW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dacc478e-88a0-49b8-93a4-4806ea204e52',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '9d807581-9e20-4bc5-8185-1c93311ee88d',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'iso3166-1-alpha3',
     'ABW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38d007b9-90d3-42a8-97b1-3354bd348d14',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '24569e22-af5c-4841-be63-2f6031bd458c',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'iso3166-1-numeric',
     '533',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f3434668-9b06-4646-b5a5-5d6b354669b7',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'bd41be61-f8c6-41d8-9a2f-bfdfdd4db63b',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'un_a3',
     '533',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5b8143df-cba7-47ea-9279-70c62da32650',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '3d67923a-1ddc-43e7-9767-1f4ec24329be',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'world_bank_a2',
     'AW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3eb9bd89-41b7-4ecd-9f8b-c3dd1727cf71',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '9c9c68fe-4588-4486-a9f6-7f20887b08e4',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'world_bank_a3',
     'ABW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '332ee783-bfe7-4e93-8647-950f645ee051',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'd35d9e0b-787e-405a-a398-8a201c067122',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'natural_earth',
     'wikidata',
     'Q21203',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '85f8f21b-c5fa-4e95-b97b-f8fe0720b899',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '918150a2-b1f5-4570-b814-fa7282dfc14f',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'natural_earth_admin',
     'CUW',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fbaee346-f9a4-45ed-92e2-071d5a898fce',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '67323c50-b4d8-4e6a-8cbd-745277dfbae2',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'iso3166-1-alpha2',
     'CW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '33fb2cd1-74da-4c6f-b187-38eac8b46404',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '4ab54aa4-0bcd-426c-8bc3-07beb9abb5ba',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'iso3166-1-alpha3',
     'CUW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9ae11079-bb2c-4eaf-866c-7f65abeb6ced',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'bce31b84-96fe-4b3a-acca-aed77a9d3c6c',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'iso3166-1-numeric',
     '531',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2fbb62b4-6554-4fe6-b68b-9443406be6f3',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '75c6fdfa-38f1-45b5-b599-f29e29ad625c',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'un_a3',
     '531',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2661be0e-4965-43b1-99fe-8334e1d5c6ae',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '889fb6b2-f1ec-4e9f-ba4d-f7bcf33cceef',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'world_bank_a2',
     'CW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1f8fc9af-187c-4393-9461-ae7166b76dc4',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'b11af57d-85f9-4bb9-89fb-576695dd3734',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'world_bank_a3',
     'CUW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a89d9bd-2560-494a-ba35-09e13e466a9a',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '83d37972-3e29-46f4-8b5b-4ec3c8f28d94',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'natural_earth',
     'wikidata',
     'Q25279',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fccd0fc2-7f88-439c-be81-0e7675ad41ea',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'a134be70-fdad-4e5b-b1fc-3b3b16661836',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'natural_earth_admin',
     'NPL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '910e66ae-402f-4e61-8c9a-7d6cc87fdc3f',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'a5ec2f39-ea97-43f5-834c-e914fd578bc4',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'iso3166-1-alpha2',
     'NP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3474821b-d140-40cd-8649-defc628de7dd',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '32efaf47-c1ef-46eb-81ed-092d738895f9',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'iso3166-1-alpha3',
     'NPL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e3246c74-bda6-495e-88a0-c9dfab4e7233',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '1f763d3f-2289-4ac0-93fd-e1984f5c9ef9',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'iso3166-1-numeric',
     '524',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ef9fae8-a449-48e6-abbd-0e4f8aeb1167',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'd6609565-3cc9-46a9-aad7-a4705afe27ae',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'un_a3',
     '524',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f9334b1f-9355-4920-91dd-e31a976cbf0d',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '4e8b90cd-be67-46d2-8e7e-704fc17e975d',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'world_bank_a2',
     'NP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '99307c3a-1a62-4481-8861-28ca1c5930ae',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '756250e1-4ffa-4cbf-82ea-d130c54ed188',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'world_bank_a3',
     'NPL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '06d1ead1-c6fa-460a-a97f-d747cda7bab4',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    'edd3c8e8-2592-4233-aa03-8200077a74bb',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'natural_earth',
     'wikidata',
     'Q837',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a9882021-a648-42e7-a483-40a37614cdc2',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '3ea2bc32-94e8-4828-9055-64d199184269',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'natural_earth_admin',
     'NRU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c824e287-30a5-4e8c-8863-981872109779',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'a1710faa-ce49-4e25-97b2-60bac15d97fa',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'iso3166-1-alpha2',
     'NR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd24420b-6435-469e-a62c-3bc329e9b194',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '0943c472-72fa-487c-ac07-9b54f58aff49',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'iso3166-1-alpha3',
     'NRU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd57511d-f7a9-409e-be9f-fe07e6a6937f',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'b320eff2-feeb-433d-9f67-19fed1dd946d',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'iso3166-1-numeric',
     '520',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1b1e24dc-a09f-4448-b369-7ab5175e023c',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'ee2971c4-4e29-42f0-993b-0129bdcdc574',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'un_a3',
     '520',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4bda5e9d-687d-4740-a5fb-6cd0d78c21e5',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '55df34d0-5f39-4650-ae3c-c1315a94daef',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23b420d0-51ae-41cc-ab95-e94826fc9f66',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '4c809124-f3cc-48b9-aa9a-f348db1b8331',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '85ec9d7e-42f5-450c-be7d-aa4d73ad7f93',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '22294a71-6fc5-4be1-957b-a848d1432db5',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'natural_earth',
     'wikidata',
     'Q697',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7cacf8b9-d15f-4245-9899-5fe57b17383e',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '79c85261-e360-465f-b72f-f0f4031073d4',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'natural_earth_admin',
     'NAM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82f43fcb-be9e-4c9d-8431-206f6bcdd995',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '532e0f37-4cd8-4c1d-8d25-1c65e0c638c1',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'iso3166-1-alpha2',
     'NA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72e820eb-df4f-4dcc-9ac0-dd6aed481dec',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'f650b9a9-9786-4edf-baf3-c7db773283ed',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'iso3166-1-alpha3',
     'NAM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '884d9e83-a8fe-408c-a913-019d6b20208a',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'da8ce3ca-9b7e-4dc0-a773-8ed147fc8f57',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'iso3166-1-numeric',
     '516',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '096a444d-06b6-478a-8ad3-1683247f304a',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '0deaebe7-ad84-4215-92c1-0818a004f126',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'un_a3',
     '516',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53dd9edf-7b9d-4088-8ac2-2dc9c9f4df79',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '77b8ee44-b1a1-420d-b390-93766379a84c',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'world_bank_a2',
     'NA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8df8cbea-4f78-4e17-8629-efd2e1ddf694',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'c0c640db-93eb-429d-8592-1df7d9e71ae0',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'world_bank_a3',
     'NAM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '04b2f545-d505-46a0-a91e-fcf8e2ef95db',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '19a54390-27bc-433a-b72e-71841951b954',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'natural_earth',
     'wikidata',
     'Q1030',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '97ec4e11-c23f-4bdf-8a07-f0e97f53efe8',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '40368ec8-0a8c-4499-abce-177436135e11',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'natural_earth_admin',
     'MOZ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3025c610-f6cb-411e-bbfd-0ad1d2e6fb60',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '4e20a021-da4a-44cb-ad90-aed0d2031cb6',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'iso3166-1-alpha2',
     'MZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43789993-006f-4325-8f42-f865d210af47',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'd6e235a7-a924-4b66-a63a-2de5c85ffd3c',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'iso3166-1-alpha3',
     'MOZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b0157fa5-f862-48b3-beb3-3f5b711a158a',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '437393df-ae0b-4527-94d2-ac1d33f3808d',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'iso3166-1-numeric',
     '508',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0612a2c8-e757-47fb-a156-5b528ba7e7ad',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    'cdf37ef0-51e7-4855-83db-14a705c82030',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'un_a3',
     '508',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa0f1fd4-b413-490d-9f97-17a40d7855f4',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '77679fa4-7205-47de-9f9e-384a73a8aa42',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'world_bank_a2',
     'MZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0b6bc1f5-4c98-4aa9-b300-ae75f2dcc73a',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '5d3bc01b-9976-4f4b-a715-b862569604a7',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'world_bank_a3',
     'MOZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '39b3f22b-20c2-4e7d-a119-e322f6e8336d',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '9a2f1744-96b8-4144-8c0f-152b9cac16bf',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'natural_earth',
     'wikidata',
     'Q1029',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c87fc4b-4849-4342-b520-beee46ab23a2',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '2399fe66-ec65-4011-bd74-cb2221440ca9',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'natural_earth_admin',
     'MAR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd6f359d-bada-4dec-8c6c-321a8a27f007',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '6ae7cfb4-42fd-47cc-b535-730187eb5c7c',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'iso3166-1-alpha2',
     'MA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6f7f08b-859a-4d8d-a77e-844c311abc9e',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '26e46f72-83be-4eb0-afd7-47b72b49ec15',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bf6b5fd7-53d5-47e0-aee0-2499eefaa250',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '04bb87dd-02ad-4a51-b33c-81245c5ded81',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'iso3166-1-numeric',
     '504',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '39ad107b-2580-47ea-999b-68d051cf4012',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '0c1832e7-aca2-43d1-af1e-4c6c79e4e2fb',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'un_a3',
     '504',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3499fb27-93e6-4c50-95ce-842515cd738a',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'd2755233-2c34-4bab-9c11-58af3380ee07',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'world_bank_a2',
     'MA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2aae9882-ac51-4b60-af61-6126b66ed425',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '6e52eaea-c4b3-46f8-b7b0-fe417a25bc7a',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'world_bank_a3',
     'MAR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6cb33b7a-fac9-45e2-b1b4-203c6f05c6ca',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '1df5267e-df37-4db6-a77e-b8f91d3907a9',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'natural_earth',
     'wikidata',
     'Q1028',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1af5ef4a-1ec7-4693-9965-71ff6290a740',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '9899300f-5e23-4fff-a9c5-53a733a65582',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'natural_earth_admin',
     'SAH',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd386c7a6-c66d-4213-83b7-3f056863ccf6',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'd1b55886-7e0d-44d9-a8d4-cdab3f973e35',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'iso3166-1-alpha2',
     'EH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '20d86fb9-c9d2-4185-8f1f-d41e5ee28848',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'b00ab5e0-02e1-4c87-b0a2-97fbed698a38',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'iso3166-1-alpha3',
     'ESH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9da94587-c559-4aa5-9fcb-bfa7998222e4',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '1bb51de2-e939-47f2-948e-33340e375cec',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'iso3166-1-numeric',
     '732',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '01217fc8-2287-4092-8817-6a095baafe85',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'f715d3ed-114e-4bf8-8e87-f5cd7f753d20',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'un_a3',
     '732',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '16ef4b52-de27-41f5-995d-891e171c7324',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    'd7500866-1932-4635-98ea-02b202157eb1',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '65e1646a-d492-4ff0-a9ed-8511fc9eb03c',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '7918e2b1-d55d-4765-a728-1e58ade88fb8',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bff655dd-45da-4080-b506-58363f347963',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '113cd50d-1ac7-4188-b35f-a2c4cb3f6661',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'natural_earth',
     'wikidata',
     'Q6250',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '342041b5-53f3-4435-941d-1815599aeb06',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'acee902b-fb99-4ac9-ab30-b18db1796e4d',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'natural_earth_admin',
     'MNE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4f4d2def-c26c-4761-8b8c-cd053938c394',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'fc40488e-82a7-4780-b320-d80e3c11615f',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'iso3166-1-alpha2',
     'ME',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '02589ea7-04eb-4f61-83dc-6bb6575e0ae1',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '178f41ef-46d1-43e8-b1ea-cf2f01fec5dd',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ea0daf8f-092d-43b1-ad41-0d64180dbdcc',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '6ba57550-263e-4c1d-9de5-b26b6be60b0a',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'iso3166-1-numeric',
     '499',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0015dafb-f79a-4f85-8856-8d910740cef5',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '45426c1d-5780-4018-95c5-afac0d1b7fb3',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'un_a3',
     '499',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6440be1a-ab14-49f1-bbcb-adae8b159c5d',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '6feace6c-11c6-4a34-afe0-fab82684209d',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'world_bank_a2',
     'ME',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '679a8e36-d3b9-461e-8fe2-748751dd15e4',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '392d6336-2dae-4172-8720-f4467609236a',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'world_bank_a3',
     'MNE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2aa47fcc-1475-41d8-a55e-dc08094b3375',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '68c25523-dcc6-4310-8bb7-81efaaea9511',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'natural_earth',
     'wikidata',
     'Q236',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '645c51f0-4058-4d0f-b6cd-14ade6078314',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'fdcd4c87-ea3a-4ace-8df8-d845f0196a73',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'natural_earth_admin',
     'MNG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a91fe80-17a7-4803-b91f-7639c0c9096b',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'e7be441a-d030-4c0f-9e51-9201bd65e0f0',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'iso3166-1-alpha2',
     'MN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a93af167-e424-4fd5-8bb9-886daea1659d',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '422a57bc-4883-4377-bd2b-4cc968159106',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a419030b-0423-4fd8-a19b-aa09c232b22a',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '2b1592d6-78c6-4f7e-af9f-f318e41d48ae',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'iso3166-1-numeric',
     '496',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f136c517-d71c-4cfe-82e5-cc7b79a2731e',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '1c534535-8b31-4076-9632-a4b2f88cd401',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'un_a3',
     '496',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '68fb5921-163a-435d-a8cf-8a4194c54fa8',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'f1901468-136b-446f-a829-37d050e1e8f7',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'world_bank_a2',
     'MN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd5c96dd-67a6-4a78-8eaf-c9eb9da8109c',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'b15669f7-43de-4bf1-bbd3-a977bf2e7de2',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'world_bank_a3',
     'MNG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd30f84ee-8a53-4ad0-8cd4-92f50ae85ffc',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'fa019f33-cbf1-4261-bfa9-b1c8647d8255',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'natural_earth',
     'wikidata',
     'Q711',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0db2f9b2-eea9-43e8-954c-ccb835afe8e0',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'c918435f-c9e6-493e-8a5f-cf8598039a42',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'natural_earth_admin',
     'MDA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '42cd94e8-b05c-437b-991d-b9c98a2d56f3',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'd971e016-1619-4c30-b4d8-6ed8b2821677',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'iso3166-1-alpha2',
     'MD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '28a20bbc-fc86-4a1d-a5f8-91395e3542bb',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '0bfc36d6-aa01-47ac-812f-d0540aa78dbe',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aaa6ca07-d3ee-4901-bad4-510675d86144',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '79a18a07-d59d-42c3-a44c-31ac16577ce8',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'iso3166-1-numeric',
     '498',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fca42e24-2d19-4355-89e6-3cd00e5aa31d',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '94b74577-44e2-42db-96ba-cd8c9c1c2e1a',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'un_a3',
     '498',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4f6c1442-e6e4-4c88-8419-48e83d050436',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'a493c7a2-2430-42f4-8871-1ca0df964bb4',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'world_bank_a2',
     'MD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23124356-d232-4bcb-b730-5a692f2ea996',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'be3bf4a2-95a9-4273-b7e3-216b619d9b82',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'world_bank_a3',
     'MDA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '849021b4-fde6-4244-a712-ffe4c4fd2e06',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'd9507630-38ba-4c9e-b47f-67196e12f8e6',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'natural_earth',
     'wikidata',
     'Q217',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '12db4b98-54e4-44e8-95a2-3bf04429acc3',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '2209f3b4-cb69-4031-b6f2-3927e834f7aa',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'natural_earth_admin',
     'MCO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '436f1ca6-f793-43c2-a14d-f44d673ae25d',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'df4394b3-0529-4ca6-9c3b-0589bfc507fc',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'iso3166-1-alpha2',
     'MC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8902d9f-5c36-484a-9fc8-370d6f815b3a',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '77745bad-4f1f-4441-ac28-d72d4f6fb79d',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'iso3166-1-alpha3',
     'MCO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd468636e-fbaf-4399-b5a3-962091a73314',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'd87386a8-1155-43f2-8bc5-bb1133f4ce1e',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'iso3166-1-numeric',
     '492',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '80cc9200-9f1a-4525-aa18-65a164af67aa',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '7fb4144c-6b9e-4b7d-a3c2-0487c28535e7',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'un_a3',
     '492',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53814be0-7a80-46df-a06d-d3a96537a751',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '02375aad-4e6e-416c-a217-87b1a7025423',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'world_bank_a2',
     'MC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e784e7ce-8663-487e-bab6-54bda975d92d',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'c69538b8-bd8f-47e5-9dab-b5ec355b15c6',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'world_bank_a3',
     'MCO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '70c4a6b8-e1b6-4c12-8f93-6e45e0b40f8c',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '9ac580d8-0f41-4ab7-abcf-28dad510e72b',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'natural_earth',
     'wikidata',
     'Q235',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f407fda2-eeec-45ae-bfab-95e5cae3afc4',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '3951e57e-ade2-4ceb-8c9c-a9eb4c09a98a',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'natural_earth_admin',
     'MEX',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad929d24-02ab-40ba-abb7-85ca877ce20d',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '511eb22a-a91a-40cd-97ca-4ed6e1d07020',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'iso3166-1-alpha2',
     'MX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd4d4d1a4-e2f1-43c0-ab06-d61569323f7b',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'd69f56b4-3a35-41ab-ba97-950c9af65ffc',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'iso3166-1-alpha3',
     'MEX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2afd3e33-eab2-4da2-9798-650d0552c6da',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '15d888e0-de85-4f0a-a435-b2647d04b069',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'iso3166-1-numeric',
     '484',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e25969eb-9549-4c87-a207-e1ab4a0ef732',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'b3432785-1002-4e21-b9aa-39b59a944edf',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'un_a3',
     '484',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '099cb0dc-b854-4475-9bb2-acaca55f00db',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'f265585b-b247-45bf-9bcc-0ec8df7a4956',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'world_bank_a2',
     'MX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '06c995a5-c01c-4b1f-aaf2-a7bf93e277a8',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'c71eabac-61d7-48aa-81e1-087f3fb88763',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'world_bank_a3',
     'MEX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '05b6ea1b-b309-4404-a4b0-18943f3b2f99',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '281394ed-d969-4c1d-81ac-dd8cea6839d3',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'natural_earth',
     'wikidata',
     'Q96',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '827c15ca-ad28-4685-9b49-db7ec4f804c5',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '748c984b-d537-4c3f-8a07-7c6c3e06546b',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'natural_earth_admin',
     'MUS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd521933d-428f-4431-9209-c6862a3e6536',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '69087457-f7d9-44dd-afd2-ce213366177b',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'iso3166-1-alpha2',
     'MU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '210c0708-5145-4154-a72c-804c085435a8',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '55d6c7f8-98cc-4da0-b71c-db45f4303699',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'iso3166-1-alpha3',
     'MUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3b56c76-87bb-4147-84ab-8b7adb59019f',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '7258b827-4985-4a13-829b-15eccd2bc231',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'iso3166-1-numeric',
     '480',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd202a9ba-cb77-44d2-b79a-b3ee401dc842',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '1854675a-aebe-4111-ba11-9262cde3aae1',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'un_a3',
     '480',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ab0210e3-5108-418a-877a-404211d5631c',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'caf5a851-dc24-422a-b4b7-ecc9fe3e7182',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'world_bank_a2',
     'MU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8066cfed-55bf-4433-a249-556dbaac0f26',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '33551a1d-8df1-4d72-9776-97774ae8f63d',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'world_bank_a3',
     'MUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '10f312a4-5cc1-4ffa-9267-f4a53a70ed55',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '04e019a0-132f-4f29-80b9-51e5cfae0592',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'natural_earth',
     'wikidata',
     'Q1027',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e58c4731-de56-4a0b-aa8d-74592c20678b',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'cedde99c-1b6e-43e5-ba2f-a1fe998138fd',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'natural_earth_admin',
     'MRT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '923d7c87-9b18-4a72-a0b2-54472224edc3',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'b42a72b1-60d4-4cb4-bc97-a92b7c8a6296',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'iso3166-1-alpha2',
     'MR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '381f1a93-0d0d-4bfc-9a80-29ccbdfada60',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'ca90bded-febf-4abb-9946-15a974d228ec',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'iso3166-1-alpha3',
     'MRT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aec34d5f-7a53-43d8-b435-95e81a15d995',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'cc73b664-c1cf-451f-a8b4-3edb1de2b2ef',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'iso3166-1-numeric',
     '478',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29db493d-da34-49d7-a5b7-3e1e3804193f',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'e7f1dbe8-4019-4dca-87f6-31741154934a',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'un_a3',
     '478',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '335324bb-9fab-4c9b-99a7-513c07a1ed74',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '4791735c-0d3b-44c9-881b-5ce6cb79a56d',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'world_bank_a2',
     'MR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75e2f7e7-c9bd-4f7a-8d23-0894678a942b',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '437d257d-16f2-4c3a-8c1d-b890075bf322',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'world_bank_a3',
     'MRT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b3657237-0678-4c78-bfeb-039bf32f25a8',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'bd68e4b0-fa19-4b9a-a4dc-5b0e5a9c05d2',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'natural_earth',
     'wikidata',
     'Q1025',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '232c91e7-68fb-4d49-890d-5d7bb3560240',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'beeac625-6e19-4652-910e-2117cb0b1e8a',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'natural_earth_admin',
     'MLT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5a0bb726-b8f8-4720-84ba-40a26001472a',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '124b8ce5-e0f8-4726-86cf-69f4a56f1ed3',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'iso3166-1-alpha2',
     'MT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf8bc240-f8cf-4dc7-8ec7-4b95c74d5394',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'b877c052-f71a-4913-bb44-573a7453fddc',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'iso3166-1-alpha3',
     'MLT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3bb4d07-0aa0-4237-b0b5-8cef4fa3b75b',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'adfe2980-d827-4f81-b2e1-79a875488f87',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'iso3166-1-numeric',
     '470',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c691cd88-a6df-4c36-9333-449869d567bc',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '284dcfa6-81a9-4bdb-8aef-a5881b7a176c',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'un_a3',
     '470',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db88a8dc-f9f9-41df-bf76-37147790a82c',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '0d4f097d-4f94-47f7-8352-57f279396010',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'world_bank_a2',
     'MT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77009432-88c7-42cf-91e2-04481f6db25e',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '801c80ba-9014-457b-accd-d64fd30198b1',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'world_bank_a3',
     'MLT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43e4b7f3-137d-4e60-a78e-a8c23995bd10',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'cce4b729-bd6f-44a7-9e1a-0aa849b183f8',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'natural_earth',
     'wikidata',
     'Q233',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '290dfd4a-a1f9-4851-8b14-82d1c35e9b27',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'b90f3c84-05fc-4409-b9bd-6b926a70248b',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'natural_earth_admin',
     'MLI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4aabbed9-5280-46da-8fda-ee5af78fe514',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'd6c6dfb6-50f3-4979-a8f9-d2fcd68d68b4',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'iso3166-1-alpha2',
     'ML',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e03fa6d6-bd73-4f10-a22c-e8c4963ccbf2',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '998287d4-596e-482c-be4b-22471ebebbae',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'iso3166-1-alpha3',
     'MLI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5cce87b7-b7db-4d43-8796-c3454abfccf9',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '6d29e631-b5c9-48a0-b586-cfe0d1ec62bf',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'iso3166-1-numeric',
     '466',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '33a88928-73e2-464e-9091-234c11c00801',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '3327936a-d3a4-416d-9129-8f7e088d26d0',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'un_a3',
     '466',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8c34bab5-0b65-438c-adec-aeef821bb2bc',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '9ca45fb2-12e6-4d51-a772-3990a9b2735a',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'world_bank_a2',
     'ML',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3a369800-ce87-4db5-b46e-091842c93cf6',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '07ea629c-4b6e-411e-b46d-1848ab3c1fab',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'world_bank_a3',
     'MLI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '54b9197a-5344-4821-b0d3-c7e89fa0b105',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'baed7a1a-b19e-457c-bfc2-fecf188a225b',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'natural_earth',
     'wikidata',
     'Q912',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1031e876-3f29-4a4c-84e7-eed15d124a7c',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '300bdc1b-43b7-456b-a818-cba32dbe044a',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'natural_earth_admin',
     'MDV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dbfc6261-e75f-4377-ae40-169b1cd2bfbb',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '765f9f9e-dec1-45a5-ae85-a51aa1f2546b',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'iso3166-1-alpha2',
     'MV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5e1566d9-a68e-4102-bcd3-64a0e4bf7169',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'e1ff3ea8-479a-4a30-a353-219494b9e2e1',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2a502326-80ff-4dda-922d-0cdc139a37f7',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'df6df20f-0a5e-4048-b292-b23e2dc41a74',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'iso3166-1-numeric',
     '462',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61d8254b-ccbe-4767-8dcf-d599aefa7d31',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '198abdbc-97cd-4d9f-8c70-fa287eea775d',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'un_a3',
     '462',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '56f00fa6-6777-4992-8beb-c4dca5181dc0',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '2f7fc717-6735-4eed-a283-530eca8bc8fc',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'world_bank_a2',
     'MV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fdcafbea-8048-49ba-aea8-70c62f5c36cd',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '1690e903-01a2-463f-8da5-4b7aed2ede53',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'world_bank_a3',
     'MDV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6fb115eb-0db2-4ac6-8133-3f8c59e17126',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'd54252b6-f1ba-447d-945a-933e08ba0912',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'natural_earth',
     'wikidata',
     'Q826',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9c35522e-ecc3-44aa-8a85-4e33d5ffa342',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '96852d30-b0bb-4bb0-bf8d-29e80a54d9b0',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'natural_earth_admin',
     'MYS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5e26733c-cc14-45ea-9c6e-9d7b6a8533f6',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '5daafec0-bce3-45f2-9561-106fa71ba1e5',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'iso3166-1-alpha2',
     'MY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd20f5f54-d03b-4a54-972b-c7e526e45f57',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '358dccaf-8eb5-4af8-a10b-8986c907beb0',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'iso3166-1-alpha3',
     'MYS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c914410-ecde-4abb-9fa8-66cf0326f004',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'c2a4713c-8b66-412a-8f63-74f780c75135',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'iso3166-1-numeric',
     '458',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '34ce40c1-0058-4f11-a755-0764ee7e0121',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '7970eb72-5721-4e42-b91b-aa543a1b32be',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'un_a3',
     '458',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cba0c70d-ec9c-4ba4-ae4c-f02da1a1fb01',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '5b7bf9d4-3fe4-41df-99ee-74fe8ab57892',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'world_bank_a2',
     'MY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '56da8a0c-8695-4aaa-a1cf-f8d209b22e73',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '6e49f3bb-028e-4aca-a559-fc88d0207c33',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'world_bank_a3',
     'MYS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1172834d-9fa3-429d-938f-ab660ca068fd',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '60bab963-f2da-4262-a330-4870a64ea548',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'natural_earth',
     'wikidata',
     'Q833',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2d441baa-480b-4333-a4b9-0de4be25619c',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'c520c65d-8a6c-498e-b7d2-11dd90c76d13',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'natural_earth_admin',
     'MWI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a48576c4-2698-4c68-b146-927aea3f3c57',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '2afe782a-a8ba-4ea2-9607-187ae110cb6e',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'iso3166-1-alpha2',
     'MW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f26e0b7d-d25a-48e6-a375-5fb42f38d87b',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '9e228c9a-9505-4cdc-8c7d-47f170668be9',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'iso3166-1-alpha3',
     'MWI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53c17ca3-dc00-46bd-9855-ba54dead334d',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '06aece8e-1eac-40ad-8018-69712324f167',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'iso3166-1-numeric',
     '454',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f1a1574d-01aa-4075-8a15-9a5ced65ab44',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'c8ed3902-6125-427d-986f-af1244bd5650',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'un_a3',
     '454',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9bb3f0b-0632-43c8-aad0-4866ea95e10c',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'b9e580e8-f9c8-46f9-b437-bbba26a4d98f',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'world_bank_a2',
     'MW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4765d53f-3c06-4d74-b0fe-c007e95d3cdd',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'a22cf248-f733-4c0b-865e-4375c1b937dd',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'world_bank_a3',
     'MWI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c72821d0-9081-4d3b-9d31-5bd46b45016e',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'cf6d90b6-2fef-4a7f-a4bc-ecab74fb8dd3',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'natural_earth',
     'wikidata',
     'Q1020',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd282c515-dabd-4582-8d6a-c32d7eb4a4bb',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'dc56cc3e-f0b2-48c3-bc96-a0f7c88eb3a1',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'natural_earth_admin',
     'MDG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8db75cc-84a7-4568-be22-f15507ac1c0d',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '7c34c9b4-d334-4d32-815e-f250e6a8cb9a',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'iso3166-1-alpha2',
     'MG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e230cb5a-2a79-4872-87aa-528cac28c08f',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '53c9c374-d4a9-416a-a2fd-4eeca6f68d7f',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38113e35-8a15-46d8-894f-4038f6f30b2f',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '39809645-582c-4ab1-906d-4f0361d0e23c',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'iso3166-1-numeric',
     '450',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bce2f404-1a0c-45aa-a818-db652eba22a9',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '0b81ddca-330d-4959-883d-ec07c9052a93',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'un_a3',
     '450',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8736eb4f-bf06-427f-afa6-101d5926e953',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '170af64d-ab0e-4d76-bfb6-de232073a905',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'world_bank_a2',
     'MG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bf591920-000b-4ddf-803d-0b41b972b382',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'af6fdc60-d284-479f-8e2e-5830571445c1',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'world_bank_a3',
     'MDG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd2ae36ea-bb82-4851-b8fd-32f6ab65a743',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '4d7a6388-bc3d-4285-819d-f46786d23ed1',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'natural_earth',
     'wikidata',
     'Q1019',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '96ebf4ce-b95a-47f1-a64c-e7c47c4216cc',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '6c18d096-83d5-4a15-bb4b-86904b49b89b',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'natural_earth_admin',
     'MKD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77073095-a5d9-4321-bb62-64e8299a721c',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '6bd1b573-2f10-4e93-8828-f5b032d5731d',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'iso3166-1-alpha2',
     'MK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c34a7c0-44d4-4411-9918-9721199f62d0',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '7a869d66-369d-4928-9149-024bd1369f4a',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'iso3166-1-alpha3',
     'MKD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14f2db6b-a7d5-4daa-a47b-562b4cf865b8',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'dfc61cdd-60e1-4f65-be95-3386bae0f2a0',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'iso3166-1-numeric',
     '807',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b9642ce-e0fe-44a1-b617-323bbbd01542',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'be3a5d03-b496-4587-9c86-7836f086ce12',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'un_a3',
     '807',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec1c2021-f14a-4ce1-aa42-dc5ef0a5a637',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'a16dbb02-a0dd-4319-b62f-ce555440ac0f',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'world_bank_a2',
     'MK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53baa23f-3627-45b1-be86-d3f0ba10f0ed',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'c9ea8076-b1f8-42e2-a705-23ab79a60eba',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'world_bank_a3',
     'MKD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f6c92846-4247-4a5c-9ae3-1e6294c671f3',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '4150cd23-f829-4251-8651-0765cc4fbbd0',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'natural_earth',
     'wikidata',
     'Q221',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ab283e5-eb92-48d5-82a1-40de4acc907a',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '000e96bd-6a76-4271-a1ee-af53a9c2b040',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'natural_earth_admin',
     'LUX',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0eca6a46-7e14-4ff9-8815-0e6f0aab98a8',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '139e0193-74e6-4290-9955-2cd78fc7baaf',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'iso3166-1-alpha2',
     'LU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e955896a-f76e-4dd5-b51f-d20bf16e73b8',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '5845f8a0-8036-406f-906d-4e5ab44d4544',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'iso3166-1-alpha3',
     'LUX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '80a7ab4a-daa3-48b6-a5d5-883c753a89dd',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'af3fe587-d251-4658-b891-39ba3d53bbd9',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'iso3166-1-numeric',
     '442',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5205d98f-1cd9-4f0a-94f4-4afdea95abcb',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'f99a6552-f0ea-4a32-8a4d-af227c93f346',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'un_a3',
     '442',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1bfc9f78-395d-432b-94b5-8de996b84428',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'd8c2c35a-29cb-4baa-a4b9-d87c52b266a0',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'world_bank_a2',
     'LU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cfa25d0e-9138-4837-9eaa-3f037171355a',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'cb1bc3f4-cbd9-4afa-8427-00b17c468ca2',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'world_bank_a3',
     'LUX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'af25e0ed-429a-48fe-a997-707cba718c26',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '63e5361c-3afa-4cc2-9a58-b1581811ef22',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'natural_earth',
     'wikidata',
     'Q32',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '083c2afd-a34d-42c4-a074-dc9aa448dac1',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'b1a0f250-de45-46f3-b6ff-fd30a25992ff',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'natural_earth_admin',
     'LTU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb17a5b7-26fa-4731-a52f-3fb5886122df',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '299e419a-4ef0-49de-b1fc-fa80bbd4b3b0',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'iso3166-1-alpha2',
     'LT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3250c6d8-15ca-41fc-b5f3-9dcc0b623d15',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '086c953b-c618-4d3d-bfe0-76f162099d9d',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'iso3166-1-alpha3',
     'LTU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14791c97-265a-4ab2-8280-feadcdbddbf5',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'fd79bf1c-0cd0-4eb3-b561-37998df26d08',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'iso3166-1-numeric',
     '440',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1b3ea60c-c7cd-4039-80ca-b4fccade38ca',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '57de9e39-6e95-4991-842d-f9cfa1f704e3',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'un_a3',
     '440',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '11bb8377-7dce-46a4-9015-2316a00e3f73',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '15bb6aa5-6349-4197-b2ab-1d12c34d8a6c',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'world_bank_a2',
     'LT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '88cfc43e-0210-4fb3-abd3-eefd582e3255',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '448d3b5a-1cec-41f5-ac9b-0a4968b089b3',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'world_bank_a3',
     'LTU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da272c51-6aad-4bed-b846-158e92f1bd49',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'bd9e9236-f533-4995-ad6c-5627c18190bb',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'natural_earth',
     'wikidata',
     'Q37',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '71845766-6993-4418-829d-bdbd45f1f11e',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '27638dd7-f1ab-421a-b4db-c2238f53d40b',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'natural_earth_admin',
     'LIE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0fd14723-9063-4f8e-bd20-d9088ccf67d3',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '2525b635-115b-445f-bdfe-fa7317bd0cbd',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'iso3166-1-alpha2',
     'LI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23d48e7c-74b2-4746-bbaa-cd9193a1cde6',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '103fc9c3-7886-4694-95bf-9b9415926dea',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'iso3166-1-alpha3',
     'LIE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '705191c3-4fa1-481f-806f-09295ca7b7e0',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '295579b5-ae89-49a3-b608-53ca992e65e9',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'iso3166-1-numeric',
     '438',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '581c50dd-a460-486b-86d8-216224dc60a5',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '82d078aa-8dbe-41b1-993e-2bad60e86f09',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'un_a3',
     '438',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '35f8a245-5351-456e-86f4-0f2afc01fc3b',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'c713f3bd-0a3c-4833-a90d-7c2a85f5ec7c',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'world_bank_a2',
     'LI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '40e5b53d-0b83-4aed-9859-b78295adb053',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '0e2ab728-ae70-4df5-bb04-71ac8b8d12f5',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'world_bank_a3',
     'LIE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aaa79f20-211c-4b57-9e29-00464ce1deb2',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'ba042c44-bf22-4f6a-af73-7d6bf38e44fb',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'natural_earth',
     'wikidata',
     'Q347',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '63310c15-ae45-4b27-91b9-e93be9120175',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '35ac8d65-ce45-44ca-9377-d571861003e7',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'natural_earth_admin',
     'LBY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f6adc9f8-5c59-4ae1-8899-fa348382ab4d',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '81f5bd02-4a42-4bb4-8bb1-de401d0e6dcf',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'iso3166-1-alpha2',
     'LY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '95e1cd47-cd82-4026-bd1c-1c11bd9fdd6c',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '4254b374-9812-4346-bb90-3d450194cc22',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'decc2c60-b0f6-42f9-a3b6-0dc6b3afcdf4',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'b7291c87-95b0-40d3-b597-41791d4cafaf',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'iso3166-1-numeric',
     '434',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd878b5b8-e5c0-4c70-8f18-56ccbe0f07b8',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '03b8cc00-d0b8-4884-a1da-d063bc8d73ef',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'un_a3',
     '434',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff75d6f4-831b-4144-a32c-38830c4428e8',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'ab2555ec-c345-4bc3-a9f7-c2eb9de8e4ad',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'world_bank_a2',
     'LY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aeece955-7f71-4cd2-9b34-f382206556fc',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '6ce1c8f4-6833-40c2-a7d2-35d92388824a',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'world_bank_a3',
     'LBY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '92f00771-a1f2-41e9-8403-efec05073ec4',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '0edf1c9d-eca2-4149-b791-42052b31ed36',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'natural_earth',
     'wikidata',
     'Q1016',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c240fbbf-55ae-47f1-a8f1-27ddc0be010d',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '44cb158d-a931-45dd-bc97-40962d6b1b81',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'natural_earth_admin',
     'LBR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0bf731d2-d9c7-4754-af59-e4abf6103fef',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '2eea0266-619b-4ca6-adbf-47d207611d6c',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'iso3166-1-alpha2',
     'LR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b0c0bc8-6113-4b99-a06e-d928862028ed',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'c059355d-8afc-4a98-87fe-36d17ebcdbf3',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15a3f7f5-6d25-4764-ad9a-db493e5e6e94',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'e828c22d-270c-4b0f-ba4e-83b46e3a7441',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'iso3166-1-numeric',
     '430',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '65977204-4f4f-4a13-b635-8dc0b056dff2',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '0d4d04dd-f064-4e99-9baf-137d96c32654',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'un_a3',
     '430',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a8eeb66f-6666-4191-b0f0-7d258a255e6e',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '862c9d2d-52f5-40f3-bde0-377b06995815',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'world_bank_a2',
     'LR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff05fc12-c7b6-4cae-b341-61ffcacbdda5',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '8ea8bca0-23b9-48af-80a8-8dbef59e70ca',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'world_bank_a3',
     'LBR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cb05aa1d-ef48-40f8-9231-b8ac87db9202',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '8bd16283-2192-4017-97a8-50223e915bdc',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'natural_earth',
     'wikidata',
     'Q1014',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0bd32034-6d80-4f07-baff-fdeb3c16e205',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '3068cc1d-f478-4a51-81db-5f7d41c533bd',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'natural_earth_admin',
     'LSO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18323e2b-7b75-492c-8480-4adbcc808661',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '620af6b5-a084-4458-b47e-18e9be121e57',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'iso3166-1-alpha2',
     'LS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '73c78bb2-362c-4bfa-86e4-09d5a26670e4',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'b1caabc1-b0b3-4f08-ad60-2fefe9060b15',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'iso3166-1-alpha3',
     'LSO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '32a223ef-0793-43b0-b022-f39b0df5f70f',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '515da265-8038-444a-8fd8-39795c8252aa',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'iso3166-1-numeric',
     '426',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c531259e-61cc-40e4-a633-4872b964b021',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'bc063651-8e3d-4a3a-9211-658b493dfd9a',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'un_a3',
     '426',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ecfbd23-36fa-467a-81ac-1de36f9c58b1',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '97dfd9e6-7f76-4199-8f34-56883859fbd5',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'world_bank_a2',
     'LS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9628d6ee-5a3f-4748-8b39-195b609c52ca',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'e0ce4f41-7004-48ef-9366-e74b5f1eb99d',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'world_bank_a3',
     'LSO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e5885b24-c12d-4eae-a7fa-91210f696de6',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '6a18c180-25ca-451a-9ebf-09041a0df2e2',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'natural_earth',
     'wikidata',
     'Q1013',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d01aad5-dadb-4475-9eb4-73e75c8adf30',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '514dcbf0-4a34-49d5-b311-b33b2d85a265',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'natural_earth_admin',
     'LBN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3b16360-69ac-4cc9-82d3-f7d608204722',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'cddce15a-9d4d-41c7-8094-57c67d46b41d',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'iso3166-1-alpha2',
     'LB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c08102c0-16e4-430e-8f2a-0daeed7f3627',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'c7690e69-a600-41b4-9760-637b539197f2',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '83c84f9d-5ced-49bd-92d4-7f57fa9f6e31',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '1dac63e7-c934-466d-8351-00416e147f87',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'iso3166-1-numeric',
     '422',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '332f95d1-3241-47d1-bd91-8e6bfeab890e',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'bc01d35e-bfb6-42e0-8849-48a0140e7c1b',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'un_a3',
     '422',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5681825f-fdbb-44fe-9e64-05bd8c5d9f55',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '82a411ae-1b16-48b8-b311-ef6fc4a67296',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'world_bank_a2',
     'LB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c189480-f928-4bc9-9de0-278b43bccd19',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '3008d5df-a085-4b0b-b9a4-f88f06ae1617',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'world_bank_a3',
     'LBN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e9aae04c-db9f-4cab-9124-c9f913b13761',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '12d60df2-bac8-4bc6-a9db-07576866791d',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'natural_earth',
     'wikidata',
     'Q822',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd58ab729-5747-4054-8920-f9eaefeaf619',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '93e5ca20-f68b-4807-a87f-ccaa86372b0c',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'natural_earth_admin',
     'LVA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6e1239fe-2e1a-4cf5-af08-5d8ee1e937b8',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    'adf45949-7c96-4297-b02b-65d140743913',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'iso3166-1-alpha2',
     'LV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3cb61725-3244-46ba-ba40-7a6408cddd85',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '10519a65-217d-4177-89a8-a7bf917675fa',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'iso3166-1-alpha3',
     'LVA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a52db50-9893-4ab1-8b0e-d5c493826603',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    'ff91c34a-8dea-46d9-83d7-ce3904cbbda7',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'iso3166-1-numeric',
     '428',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '07e41f82-e220-480d-a5eb-7ab22349d678',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '2e907109-cecd-4591-8ecb-b0ece173b951',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'un_a3',
     '428',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5077f96-5268-48f8-a3e8-3e1177f3f274',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '3a0547ea-e5cb-4955-a7a6-faa935a93889',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'world_bank_a2',
     'LV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da4d2246-d1af-44f4-9014-0d395a6d1f13',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '33714826-5248-4850-8158-74fd2a7a1e84',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'world_bank_a3',
     'LVA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43639d80-de40-435c-94f0-e9b45bbe7549',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    'd4ca2d85-38af-4f67-a9db-a754bfa6f73e',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'natural_earth',
     'wikidata',
     'Q211',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8be4f2e1-c69e-4c4e-978e-2ab507148c79',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '641b33ee-b49d-4b9f-bf98-b06729592dad',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'natural_earth_admin',
     'LAO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c29a3ea3-4a70-4ce8-ae68-cab7250a507e',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '2589b59b-e18c-46b7-91b9-15878bb5e24c',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'iso3166-1-alpha2',
     'LA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e55632a2-17d0-4edb-a60a-31189dbbc116',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '91659c74-f83b-49c2-9791-7ee1145eef52',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'iso3166-1-alpha3',
     'LAO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d351c0d-fe81-46a8-9d72-524e0b71c510',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '345b11b9-61d4-4068-85c6-7664549e2aee',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'iso3166-1-numeric',
     '418',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '157869df-189d-4dbc-91e9-dad4c3d70e89',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '2e391603-ecb3-4070-b510-3006f20006c5',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'un_a3',
     '418',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '806f8cc3-1f1d-4170-9f6a-a17ca617eee8',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '52802373-e665-4de7-875e-1a73f19106f4',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'world_bank_a2',
     'LA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9520817a-43cf-4bd8-9c9a-40bf83a05793',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '1265e8fd-2dcd-4fa4-8850-8ae1306c9460',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'world_bank_a3',
     'LAO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0431025e-2e2d-4331-911c-b47ca647fd03',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '7998f35a-46eb-486b-ac32-46048570860a',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'natural_earth',
     'wikidata',
     'Q819',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a2a40b3d-58a9-4cf6-9e5b-68ef76ba9949',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'ee7d8b93-35de-4eca-abb2-7f03ccba6b28',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'natural_earth_admin',
     'KGZ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5fb6784b-4a8c-4074-9e2e-d412dc6bae51',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '72bbadb5-b0e5-4147-9ed5-afaead1e6972',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'iso3166-1-alpha2',
     'KG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '39c9833f-e134-4cc0-af2b-7bef9c125ddd',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '43203f7e-3e79-464f-adbc-a57ecc9d70a9',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'iso3166-1-alpha3',
     'KGZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77f33582-9447-4b10-a819-92e4caa99626',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'af318ab0-e3d2-423d-a2dd-a79240ea2fd7',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'iso3166-1-numeric',
     '417',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cea2ea2e-44b2-47c0-9b2f-4d10c735d505',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '153899f1-0d12-4ac5-adc5-d69567ea9b13',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'un_a3',
     '417',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '96e0e326-dab7-49e3-a84d-8f0b75918ff7',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'c24e91c7-49bc-4a39-85e7-17c1c004b191',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'world_bank_a2',
     'KG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5066a076-a592-4e12-85ff-59c2454988b2',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'c8dc10a1-078b-44bc-9d31-1977bd87b969',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'world_bank_a3',
     'KGZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '628ec0a7-105e-4741-9cda-09eb3eeffbbe',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '1e6e5d69-0f2f-4dce-bf68-1328fd440990',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'natural_earth',
     'wikidata',
     'Q813',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '68eafa5a-2184-42f1-a410-db82c2bd27d7',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'fec4a507-2542-4941-9cc2-23660f725016',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'natural_earth_admin',
     'KWT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c56b885f-3cba-4e63-aa65-287b3838b7f5',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '73b21aa6-e156-4eb8-83da-56516a4da6fa',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'iso3166-1-alpha2',
     'KW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '885d13a7-109e-4cbd-a7db-a14d0d0f476e',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'a9f38c5c-d518-4243-be98-b08222fb6655',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'iso3166-1-alpha3',
     'KWT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a752d273-690b-4ec4-bc05-fa7a5da1d04c',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'ca14e254-de5a-46b0-801f-4c5c58dc6a55',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'iso3166-1-numeric',
     '414',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e991a3d0-85c2-4e4b-a070-634b1e34c5eb',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '3f65ab55-98f8-4799-bf74-a761173ef945',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'un_a3',
     '414',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '746ed3bf-4ea2-4b72-aba8-a2842f5b05d3',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'd1963c19-a5d0-4da7-8421-39588ebe5124',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'world_bank_a2',
     'KW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '813dca91-cf1e-4c5a-ba2b-75bbe80aca2e',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '8109a242-e228-446d-a528-b8d64ca1da75',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'world_bank_a3',
     'KWT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '65f7c54e-5695-49e2-8e75-ed32e670dec5',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '5a2a4fbd-caec-4d0b-b50f-de7b10725aa4',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'natural_earth',
     'wikidata',
     'Q817',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dacbc63a-d39a-425b-a565-ca5d5b6c21d5',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '2aa18aa1-53c4-475d-ab39-469927fcaa60',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'natural_earth_admin',
     'KOS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a56a1d8b-4fb1-4ee4-8619-26b50271814a',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '97ae5761-d795-478f-9ee6-c6b7281c8aec',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c17bf631-74d3-4940-a1fe-77491922bf14',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '249e0058-6c6b-41ea-a472-f1e0f09ed4fc',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14fad806-cc3e-4ee9-9f43-c50ed8d99128',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '15be34e9-97fe-4cc3-aaf6-d5f4b3709687',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c156f8e7-2d16-4755-9406-4fd504cf3ae7',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '5cfafa23-b225-4e29-abc4-be9332c064ea',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b4446cb1-bb04-4918-83c6-9a2973dd25ea',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '489e854a-022c-4d27-9330-35bf30411b41',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'world_bank_a2',
     'KV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '64a965b4-a3ba-455f-ab55-418bb82e56f1',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '949f2eba-ef0a-4e16-b205-df862742a9a3',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'world_bank_a3',
     'KSV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3770f151-e8f7-429b-b40f-af36f99a6330',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '632413bb-90ae-4f8b-a536-f96beda500cd',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'natural_earth',
     'wikidata',
     'Q1246',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '979cbb83-ed7e-4ea9-8702-554c5594cc81',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'a71eab32-0cdd-44b0-8a1e-58450d5baafd',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'natural_earth_admin',
     'KIR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87788b1b-ca7d-494b-a0b3-374c36bea4c7',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '85b3ab7d-a6c2-413d-a0b9-e456ba4f70da',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'iso3166-1-alpha2',
     'KI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '84859245-e1bd-43f4-a460-36a11e35bd67',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '11c8e6ef-7cdf-430c-b945-f4b8c8fbeba1',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'iso3166-1-alpha3',
     'KIR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd9fdb87-bf8b-44b6-b88f-2befd7c41cf1',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '6d90d675-52ae-44a3-afa6-c08abd11a11b',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'iso3166-1-numeric',
     '296',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8f9ae078-341f-4a76-ba99-ea5e02bc8e82',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '94f06c62-daa7-4795-8099-c7b288913980',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'un_a3',
     '296',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0e5120de-eb74-4f95-8be5-a469404b5bbe',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '38e03327-d73d-4092-931b-60779e76009f',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'world_bank_a2',
     'KI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a87a9187-c419-4100-bd85-ea4376fb3ac3',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'd15c75a3-a07c-4fb7-bcdf-1f0573365137',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'world_bank_a3',
     'KIR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6eaa06ea-8f86-4d3d-9e76-b726d5a84d52',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '76228f48-7a98-4463-99b9-d9dec566e101',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'natural_earth',
     'wikidata',
     'Q710',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ee1cab3-b3b8-4945-afa4-25ef5c413d20',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'd2f6e562-7b85-49f2-9545-564e7944b443',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'natural_earth_admin',
     'KEN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75af8422-62ad-4735-bb61-51342c019b5a',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'b1a60a43-f283-49e6-be8d-d8fa24d9101d',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'iso3166-1-alpha2',
     'KE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a16e00fb-0bca-43a3-98ad-e4d94782fd96',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'b92ff200-321e-4f54-bb33-180c32bae292',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'iso3166-1-alpha3',
     'KEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '486bb277-8621-4372-9622-d79fb9d6a3ed',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '40a1ad4d-2162-4e47-82cd-77e43fdc37a7',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'iso3166-1-numeric',
     '404',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb525013-8f3c-4bd7-b5e5-a7a0518cf635',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '7de42540-7930-474c-8659-cf3c302603a2',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'un_a3',
     '404',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5266c2c2-1d67-4293-a11c-4ca3a9f548a2',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'a02d7d79-0c2d-47d1-95d0-8be7b4cd80ac',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'world_bank_a2',
     'KE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e011da11-ddbc-40a0-88d8-8196abbb5094',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '2fe56a1b-dab8-444b-96af-d3f5499e23f6',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'world_bank_a3',
     'KEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5d5c5ad8-181f-43c8-8d60-75cd19c33bf4',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '696f5738-1dbb-4a7b-b74f-93e63e92d6d4',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'natural_earth',
     'wikidata',
     'Q114',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ed7accfa-2f7f-4ba9-8d6f-1ff7d0adf0ea',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '32e27906-0f40-4932-b54e-9d2f67b81afc',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'natural_earth_admin',
     'KAZ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7661e608-00a8-4463-9569-1cab1591f970',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'ff9554cc-db3a-4e65-b3de-0ee92fb3dcd6',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'iso3166-1-alpha2',
     'KZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37522d00-406d-40a6-876a-6d009dd1f5d9',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '6b0c0e9b-cf5b-4ca5-b52f-68c00a5f4c46',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'iso3166-1-alpha3',
     'KAZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ed14342-eea4-494e-a194-3c165c1cb9b4',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '2220ca9b-6e7d-4854-90c2-462de94b16ed',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'iso3166-1-numeric',
     '398',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f91861d8-56f8-4fa4-98c1-339ea584d59a',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '4d003f16-853b-479f-bacf-4c59058ef870',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'un_a3',
     '398',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b23a506b-a5ec-4508-a42e-5dac2ebdd860',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '897668a3-c76b-428b-b6de-1ce95cdadc9d',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'world_bank_a2',
     'KZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '26443a28-f995-42fa-9a1f-92ac7ce2b2bb',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'a31eae3b-e472-4bb9-b8ca-367a6733369e',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'world_bank_a3',
     'KAZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '454a6ac2-f487-4e6e-b420-9d67568a8075',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'e88434b2-1296-4d08-accb-b7b03f8cd758',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'natural_earth',
     'wikidata',
     'Q232',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b90ec51b-3ea7-4f1b-ad79-b5196786e88e',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '07447aff-a39b-495a-922a-6118bb77022b',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'natural_earth_admin',
     'JOR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a8162b2b-e8d3-4220-a6e7-f29dbbe37980',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'b3d7fb11-c647-4e98-909c-7be8c91cb12b',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'iso3166-1-alpha2',
     'JO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82bc8605-a21b-458d-90bb-31c49ca80618',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '2de84489-2032-40f6-a3ea-25fd8155c5aa',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'iso3166-1-alpha3',
     'JOR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f69d67ef-5ec1-4bb3-9d65-ef81f437f25b',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'c33b1e73-4fd0-4e8e-99e1-a246d1d6ad66',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'iso3166-1-numeric',
     '400',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15fadbaf-115f-4527-8e17-66f9061facf3',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'b1011f92-0924-4e43-90dd-204b5dc6c585',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'un_a3',
     '400',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '843de954-7409-4ed8-836d-50e398fdf62a',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '6a230b66-9016-4cb4-b0ed-f28c9738fae0',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'world_bank_a2',
     'JO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a789f297-91b6-4258-9ec4-b2cfdf38677f',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '7de5f95d-7012-472e-9a39-afa717c3b68d',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'world_bank_a3',
     'JOR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'afb33746-79d9-4d24-81da-e9e368f6d626',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'd7213944-2d36-4370-a9b9-4a8b99774879',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'natural_earth',
     'wikidata',
     'Q810',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1ac74446-9571-4ef1-b851-d524767ebc66',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '9b263d67-8af8-486f-a248-f6ef1d75d4ad',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'natural_earth_admin',
     'JPN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5b5e50ae-15dc-4127-b2e4-716b19b45887',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '7384b56b-04f1-4a63-bd16-dfb36f8edc36',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'iso3166-1-alpha2',
     'JP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb9eecda-d671-4d5e-b79c-0fb22d4549ba',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'fd386b04-ef9a-45f0-80bc-07920928d759',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'iso3166-1-alpha3',
     'JPN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b983cd8c-0e87-4a01-80df-6f9dfe733f79',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '3672e7b3-3055-4c0d-8d33-d564bfca93df',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'iso3166-1-numeric',
     '392',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a44fea2-eb96-4916-a8f9-31cf8e308d99',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'c232fef2-0ec9-478f-995e-e1b82b29969f',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'un_a3',
     '392',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac5cda93-b0be-42d9-b789-b26893a7e27b',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'bff2ae10-fa75-4821-9bca-3364eddae6a6',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'world_bank_a2',
     'JP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '342bdfc9-3a00-40f1-b62d-c15427a3b5c4',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '5289da9c-65ae-4f5e-a5d5-76bf1cd59fa2',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'world_bank_a3',
     'JPN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '511f7f0d-4808-4e36-96d2-0ebbc93b52a0',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'b2373b96-b16e-430f-85c7-8ac38850fbb5',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'natural_earth',
     'wikidata',
     'Q17',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c286cf04-95c3-4aa3-bfb4-fdb74bc3d156',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '11ef54a9-a748-4b19-96a7-d90e88352503',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'natural_earth_admin',
     'JAM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '76b543fe-646f-4735-835b-7ce328984d83',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '23d60b80-938c-4a66-8433-1363a050f325',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'iso3166-1-alpha2',
     'JM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd4af082a-c4b1-49b2-8ee6-fc3340c8f540',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'eed1da32-11b2-40e2-9f9c-6faf17ed0de1',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'iso3166-1-alpha3',
     'JAM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c45b5e09-1888-494d-90ac-acfd5c60747f',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'c82bdfed-1ba1-438e-a363-9c506f1aca8d',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'iso3166-1-numeric',
     '388',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '96563ce7-c92d-4731-91dc-26704371aa95',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '01c8e36c-2cea-4e7d-babc-5532cd7ccc21',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'un_a3',
     '388',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '713e66d0-8249-430c-b142-0a0ee769d2a2',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '466a214b-2ac6-4889-85d6-382873cdd946',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'world_bank_a2',
     'JM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb70f191-fe14-4d48-8b9b-5608898cb706',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '126e354f-b043-4c35-8cb1-adeef7662c89',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'world_bank_a3',
     'JAM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1966829c-8e90-4c2d-affd-a204dc55ade2',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '0755579f-13d1-40e5-86a3-de3892580b6c',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'natural_earth',
     'wikidata',
     'Q766',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c8f9bb43-c4f1-451f-944d-5e4d6a858e35',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '2d720b58-fd88-4179-8299-21d20596d355',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'natural_earth_admin',
     'ITA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6d34bc86-366d-421b-9f81-9fc194e3b476',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '00e1fa95-482e-481a-ad9c-35b27256a40a',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'iso3166-1-alpha2',
     'IT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bc83132f-c945-4904-a647-baab3f15cde4',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '4c2fa91e-b4f2-4ab9-9dec-5c9a7b8eddfa',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'iso3166-1-alpha3',
     'ITA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '232b532b-e403-4a85-a35b-76abddf920cc',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'e43c2981-57b6-45ee-891d-3bf972f67ed5',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'iso3166-1-numeric',
     '380',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '551d01fb-8478-4c7f-ad8e-a876f77d77f0',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '7021dc6e-2ed8-452e-8e75-fe131d7d2d3e',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'un_a3',
     '380',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7ecf98d4-1098-4351-bac7-2352db877e45',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'b6ee7e5f-97e5-494e-930e-7495dc1a62f5',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'world_bank_a2',
     'IT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd969943-6ce7-4765-9391-af7ca3683ff0',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '996dfbd5-337a-42a2-b80f-6d50d06df0ef',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'world_bank_a3',
     'ITA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '20570cd9-941b-4dbc-b247-9d4d428dd383',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '7b88bdc7-6411-4f15-8c27-013b2b864cb0',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'natural_earth',
     'wikidata',
     'Q38',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b940ef21-b26a-4d3e-8877-85b7e839e33b',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '3c7a5b52-2fd9-4bca-814d-31b65ac1803d',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'natural_earth_admin',
     'ISR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2995af24-8b24-4bba-bee7-1d310745f6e6',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '91640467-b26a-4bde-b500-4b8b03e9cca0',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'iso3166-1-alpha2',
     'IL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e005f7e-eacf-4c2b-80be-780f3d75e514',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'cbc2574e-6f27-42c2-9025-5c73baa904c4',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'iso3166-1-alpha3',
     'ISR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad05e826-9486-473d-bb87-5abe7c03405c',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '7c8cf7e5-d4da-4ed1-b616-bdcd30c8fc93',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'iso3166-1-numeric',
     '376',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '49ebbadb-b733-41f5-be5b-59f81175e693',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '35fc6716-efb8-4071-b95c-f330632e5590',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'un_a3',
     '376',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3c9f2495-0f7e-4fd8-8ff1-a1846cc8d66c',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '49869066-a8af-4338-aae7-14174608cb2b',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'world_bank_a2',
     'IL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '921c9762-97d0-4e12-99cf-338a83a190c6',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '0f31242c-c1d8-4468-81ca-61a18bec4aa6',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'world_bank_a3',
     'ISR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0e33ac10-e74c-4043-aa3c-513278b9025b',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'f07099ef-158b-4cfa-a2a0-9e493a2295b4',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'natural_earth',
     'wikidata',
     'Q801',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4aded223-9f4a-4524-92e5-b9f9baf75c21',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '147472db-fbfa-456f-a2cf-2c50c9d4fc69',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'natural_earth_admin',
     'PSX',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82807520-725b-4045-b43b-4fc3c10f96dd',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '3e82047f-bf09-420d-968e-08c610bc2c8a',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'iso3166-1-alpha2',
     'PS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1f1eed57-643c-43b2-b48c-f8f555cfd766',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'd90457d4-6a51-4ba7-97cb-d6c5f8c01e00',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'iso3166-1-alpha3',
     'PSE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '969643be-a2da-4a33-aa16-e0ce8541872b',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'a915a5a8-8b14-46cb-a2bd-30612b2016bc',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'iso3166-1-numeric',
     '275',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8c5efa4e-7261-4b50-9d61-5f89f9fa69a7',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'f25fb0ec-b81c-434f-bb31-893e2bb8215b',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'un_a3',
     '275',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4745a60a-eb52-412f-8209-54dcfddb5c35',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '301184c7-b7c6-440e-ae90-a65ba0971929',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'world_bank_a2',
     'GZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0131f71e-0785-4c6f-8c33-41c6af055b5b',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'e4edba3e-9cfc-44c1-9106-911be156e433',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'world_bank_a3',
     'WBG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '282241a5-efbb-42e5-8fc0-8dec6d438ab4',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '22963e64-0348-460f-b643-5e4b8fd83953',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'natural_earth',
     'wikidata',
     'Q23792',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a60ee94f-08e2-4f52-9ac9-4940fd1c4798',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '65bef78a-bddd-489d-8af6-066472ef580b',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'natural_earth_admin',
     'IRL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '107eca05-d887-4a0c-904f-e9a51f50bdf0',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '428a31fa-c0f8-430e-bb50-0dc839bdbe19',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'iso3166-1-alpha2',
     'IE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac6e4161-30a1-4d35-be61-2b55ed213a42',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'a44ac075-2b9a-43ac-b2bf-e600a53b23da',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '05adee29-d8b8-458f-b0b5-2869aa95f504',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '214a31e3-b359-4d31-93ed-6a5900055ebf',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'iso3166-1-numeric',
     '372',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eb871b31-dff9-46fd-911b-a6b32ea1f22f',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'bc2c8303-a5b8-4958-a726-88e397780634',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'un_a3',
     '372',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8b382daf-6d52-4305-b1f6-7545b0ef8c22',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '8a3f8a29-712a-4947-a55d-f7e3cc956f60',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'world_bank_a2',
     'IE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb8e4712-8905-4d42-89e3-4fd71e4ab2f5',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '0a13b96c-dbc5-4641-aecc-f37948b6ee9e',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'world_bank_a3',
     'IRL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9976466c-117d-43e3-9c09-ccbec1e386cc',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '0731ba80-dbf2-403d-941c-22815182073d',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'natural_earth',
     'wikidata',
     'Q27',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '56c14b3e-9920-4826-8165-66738dabfb55',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '5d7e85f5-c8a5-47a3-8205-66630286b75f',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'natural_earth_admin',
     'IRQ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '823672e2-b960-4e4d-a704-78973f39818b',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '3e329ea2-8f2f-4bdf-9754-37e2afc0e608',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'iso3166-1-alpha2',
     'IQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '945857f4-a6ec-44b2-93a5-ea97309f4254',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '9726a164-5d78-4e67-b054-1ecd0f0cefa2',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f0cfd91a-525c-417c-96b2-a790fdbd7a45',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '1873c1a8-63fc-4a10-896d-c3aabcea6bdc',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'iso3166-1-numeric',
     '368',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd4932c9-1d7f-4807-807e-da134d46b33d',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'caee28b5-8761-46fb-841b-6d0ab133ef4c',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'un_a3',
     '368',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0dc3d9e0-4ef8-446e-b773-08f6f024d693',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '55e20dff-7733-4b3f-b257-13c45e18d3e9',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'world_bank_a2',
     'IQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9ec4c2ff-7e67-44ef-9f85-9f037f96a15a',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'b6e5d7c7-6f7f-4397-8d7f-18fe96bebf51',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'world_bank_a3',
     'IRQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '560a046d-bedc-4dde-9015-525aca18495a',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'b091c4d2-ec30-4532-be8a-5eec5054f868',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'natural_earth',
     'wikidata',
     'Q796',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '547d495d-bae4-47b2-95f8-81907d2c3d48',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '9eb40f55-5c8b-4f9b-a743-b7c6675fb8c0',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'natural_earth_admin',
     'IRN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'be722910-9402-4b3a-8f31-5801fdd9754f',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '4310da9f-9ce5-444d-bc38-486064d987a6',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'iso3166-1-alpha2',
     'IR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf70fa2c-1745-4edf-835f-49db03883ec3',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '48657a5e-13be-4d2f-87fa-c94b47c072b6',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '648b42d9-389e-4a6a-98db-3c69e2a5a0ca',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '13176043-c046-489e-9e66-91a864488cd8',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'iso3166-1-numeric',
     '364',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '718a44d1-80fe-4aed-8257-3b7c177ca058',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'd7866062-91a0-4628-a5e4-c9c58a25f17d',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'un_a3',
     '364',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b74cfb45-058d-46af-a8fa-ffdb7af20fb0',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '8b8d8d35-4a59-463f-89ed-79d67739c2ba',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'world_bank_a2',
     'IR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb29974c-5033-4ecc-a3f0-1a84de714b94',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'a2bee8a2-330c-4ad2-b305-0d99689da936',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'world_bank_a3',
     'IRN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '22acd527-a8d8-4c8b-95f0-70b7f86e16c3',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '75e65188-dc36-4ed0-af14-af977d34ae12',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'natural_earth',
     'wikidata',
     'Q794',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a59e3e7c-197a-41b4-9317-2592e2556a2a',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '713f1de7-73b9-4dfe-ab3a-a8a05bb02928',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'natural_earth_admin',
     'IDN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '24c1bd41-cebb-43b6-ae01-559b5596982d',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'e32a311f-d881-4976-b8f9-73ef290f03d3',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'iso3166-1-alpha2',
     'ID',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7a3a935f-f7fd-4ab0-87f3-52bd278ec0e5',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '339b4526-cca4-4994-883f-985e94874d98',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'iso3166-1-alpha3',
     'IDN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aacc6c45-e48f-429e-a38f-ebd1699820a0',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'a187ce36-eba5-4b2a-b3ab-77e7695c42d3',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'iso3166-1-numeric',
     '360',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6a99d54a-4976-4ebd-8b0d-ffe42e17df4d',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '426ad793-7b47-414d-8150-2b114b838b85',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'un_a3',
     '360',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8aaf2f9-5db6-4868-b947-5226e1cd785a',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '775c419e-f84d-4b83-9e71-0ea7a708d96a',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'world_bank_a2',
     'ID',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c017898c-4cb5-413d-bfe2-3365186dd861',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'da7c6a1b-5b21-4e2e-9722-e689b0d5aa1c',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'world_bank_a3',
     'IDN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43807086-ae94-4adb-a893-48345934cbed',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '9993c434-76de-408e-b609-889eb58ec1f0',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'natural_earth',
     'wikidata',
     'Q252',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '659880b4-c1ea-47cd-aef2-910d9cb01f03',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '17eeb506-5d88-4b44-bbd6-88d7b2b59dcb',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'natural_earth_admin',
     'IND',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bc7bcbe0-a1e1-415d-bc16-1b66d9dae0e2',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'e2fc1844-f7fa-497b-a29a-d67f56b32869',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'iso3166-1-alpha2',
     'IN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '70632868-bc1c-403c-9e60-d6fbfcee52a9',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '06e54ed2-6fcc-492c-bbcf-89dbd6f3b5e0',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'iso3166-1-alpha3',
     'IND',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '297e0bf6-7a6e-4282-8e3b-70a0ddd33d52',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'e9bde911-816c-469d-8aaa-b5012e9e3253',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'iso3166-1-numeric',
     '356',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7def7532-f01f-40d9-924b-15864f122664',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '49a6f2af-568f-4931-bf84-a22278c90432',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'un_a3',
     '356',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1c12f876-fc8d-4cea-b754-81fe25ead647',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'bb2d7aea-dc6f-4305-b98e-6e46f4e4a67a',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'world_bank_a2',
     'IN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18b4e0af-b5e3-4794-9f45-9c8bba9acbaa',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '32cd7354-41b7-44e1-8e28-7109a0037b0d',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'world_bank_a3',
     'IND',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd8490a46-8768-4c76-87c4-172e33b8fa95',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '3987e4d8-424e-4a85-a058-966b198f0127',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'natural_earth',
     'wikidata',
     'Q668',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '80ef55ed-b4fd-4687-a190-fe5e05308de0',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '1b50b3f5-2529-4a51-80fb-16d676ff59c5',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'natural_earth_admin',
     'ISL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '54f861b8-ecdf-4ccb-8cac-bd9eabe90f83',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '6244e0ec-19d7-4bc4-9c55-e035e5d59aaa',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'iso3166-1-alpha2',
     'IS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8f7eae5d-4175-4fce-87d0-952a34450ad5',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '13f8208d-5ecc-4fb8-a164-db103741dc2a',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'iso3166-1-alpha3',
     'ISL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77e6239b-f1e8-4afa-bc79-bc871b15974f',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '94056e31-4279-4f97-a4d3-d62543e0b91f',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'iso3166-1-numeric',
     '352',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f49c3496-0abd-4dc9-a827-dce1ba1e636b',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'ff221b90-73a1-46e0-bbad-642a47677689',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'un_a3',
     '352',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58b8940f-4275-43f6-b5de-7b3f99ae4a92',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '5913ba84-9877-45db-a012-f832ac07fc17',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'world_bank_a2',
     'IS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de79f948-c168-4318-a627-775b2f1b1dea',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '5b9a3c9f-f5e4-4314-b3b4-ebb52bab26e0',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'world_bank_a3',
     'ISL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ee10b44-6dfb-42d8-8acc-15c3744a8f12',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '4220c511-f09b-4a0b-aa64-bbab912cc63d',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'natural_earth',
     'wikidata',
     'Q189',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fb875283-534b-4daa-bb51-4ee4348e8d2a',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '0efb65e1-c815-452b-afee-688882879883',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'natural_earth_admin',
     'HUN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0089d404-5780-4c64-8672-5aa1ee003e8a',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '72e87974-2f6c-4d07-9deb-129f3c0ac09a',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'iso3166-1-alpha2',
     'HU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aa54ee20-cad2-42cf-8ae9-9df74b9ec167',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'a797578d-2998-4ce7-89dc-872ea31d6a50',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'iso3166-1-alpha3',
     'HUN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd51cc079-5f41-4a28-a02d-69e1a6bf5ff8',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '167c9687-5fd8-4813-8479-6401c4639c93',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'iso3166-1-numeric',
     '348',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '16ec06c2-d922-42b4-8f1a-3a954d8ddcc7',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'ad9e0a2a-4a17-4b4f-8193-5c9e7d172b1f',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'un_a3',
     '348',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e946ef03-cd8c-486a-b62e-9e55f362a6bc',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '6b01f8ce-7c12-4923-8029-d8ffd25e0ecb',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'world_bank_a2',
     'HU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '59000f6e-b006-462c-be45-1318196f0c91',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '4b92432d-388a-4b16-b96e-e6a43cdb277a',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'world_bank_a3',
     'HUN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1bcef8fe-4d58-4297-b6b8-ee820313d0f1',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'efeffa25-04f9-49fb-9d21-9d64b299eafc',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'natural_earth',
     'wikidata',
     'Q28',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0ae22c2a-2d25-4738-a3f3-ee2d7b9a9907',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'ec0aca1c-d8b3-46e3-ada8-e1e9d7c34a3c',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'natural_earth_admin',
     'HND',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9eedc85f-da5f-4202-869a-d2ebc0aaaace',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'd8deff8a-62d4-488a-b5df-7df72cfc3fd5',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'iso3166-1-alpha2',
     'HN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4de30a51-a4c9-48e9-a4d0-41ea167970ea',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '0dc15d43-462a-4634-966b-1f5f70e20575',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'iso3166-1-alpha3',
     'HND',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '806a5c24-8009-4eec-99ca-8875934e8dc5',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'd60034c1-546b-4d53-86a4-b7f5c91591eb',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'iso3166-1-numeric',
     '340',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa912c77-4c70-4fd9-b344-3c3f77e0435a',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'c23338e2-74a1-46fb-b59f-248619f560bb',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'un_a3',
     '340',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b979ac63-544a-40d5-b72f-34127f588d64',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'de68a53b-cc1f-4f7c-a14c-75254c18cf02',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'world_bank_a2',
     'HN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75215d85-9784-4af3-8848-56cd8a7a342a',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'ed639ecb-da00-4135-bf57-143bbcc9d717',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'world_bank_a3',
     'HND',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d138881-0185-4ea8-b1b7-28333f1bbb30',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '50de2887-917f-4e8c-b675-8487c563f7d6',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'natural_earth',
     'wikidata',
     'Q783',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cbca58bb-3391-4313-b5af-b0e67b3d6280',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'e5d44a2f-7372-45a6-9de5-25714fd9be0a',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'natural_earth_admin',
     'HTI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9266570b-506f-43b4-9e93-8f313a8cb78f',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '599a391f-65e6-4530-a0ae-c4c36e817e88',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'iso3166-1-alpha2',
     'HT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1cfcaf6b-4b8b-46dd-905c-a4539a543b90',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '21a28269-fea0-4af3-b5a5-61e61b2d2b45',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'iso3166-1-alpha3',
     'HTI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b572883f-5bb0-44d8-8e67-65f44f3be04f',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '148a1405-8947-47a9-a1d3-a4cf4021af4b',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'iso3166-1-numeric',
     '332',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'adec4c38-36cc-42f1-86cb-985f88d980be',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '4a3a18b1-586d-4c5c-90fd-5f7bf509d41d',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'un_a3',
     '332',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91ac57af-1271-431e-83ad-512bad8259bc',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'a96566b7-7ade-40e7-bb3f-65ac3224c157',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'world_bank_a2',
     'HT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '894dedad-9610-461a-83d8-d3412d7db4c8',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '266b079b-025c-4866-8d8d-067866640fde',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'world_bank_a3',
     'HTI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9a82630-4e5c-4245-8c5a-dc032bc38dc1',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'af4a9ec9-128d-442a-8f14-72e3ead4b8cb',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'natural_earth',
     'wikidata',
     'Q790',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08b2fc6f-fe44-4f91-be55-8c5517a602be',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '7b527e57-c53a-4034-b0ac-4a5df04f77f7',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'natural_earth_admin',
     'GUY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '537ac889-8d2c-466e-a21a-ab79aca3a618',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'dddca3fb-3f11-4737-8517-6af0391300d5',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'iso3166-1-alpha2',
     'GY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '67f1d3ad-c146-4649-b71d-8b0ab155e9de',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'd7b71cbb-87ed-4f98-a0a1-03f0fe78537d',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'iso3166-1-alpha3',
     'GUY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '31807a43-052d-4fe9-9723-2b05ac18a2c4',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'c6fc69c8-0767-4093-b284-78b920ae2519',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'iso3166-1-numeric',
     '328',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b3dcd426-0951-40b0-b3c4-699fc78b7675',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'f50e0351-30e8-46bf-a912-ca5cb9435aeb',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'un_a3',
     '328',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c058e83-b6ba-490a-b101-b2b43509fe6a',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '1dc55c6a-1ec6-4c1d-a59a-0aeacc652c9e',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'world_bank_a2',
     'GY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '433fbd5a-317d-45b8-8050-937607ba3961',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'e9bd3a67-e2ed-4f91-88ae-04980362ca73',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'world_bank_a3',
     'GUY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '339d59d4-5403-4d6f-80ef-b7cc3441be19',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '5dc2fceb-e766-494a-bc87-c3056b345dc1',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'natural_earth',
     'wikidata',
     'Q734',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cfe08ddd-52ad-4511-9b6a-bf701edfdfcb',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '4b0c4ed5-07c5-4496-afc0-56ebce3f6b13',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'natural_earth_admin',
     'GNB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dfeb8c14-bd5d-4a10-8a4b-907da7805c51',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '0ffb34ae-5cc2-4f55-a8d3-cf10fe3dfb51',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'iso3166-1-alpha2',
     'GW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c29ca721-e098-4ed9-b6c6-bc85ceffd1af',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '273a4ac8-0125-460e-9138-0bdf5c6e660f',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'iso3166-1-alpha3',
     'GNB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f674d887-8760-4573-bf42-23bd39e04d64',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '8ddbceec-4772-4a3e-96ae-cd4f7cb492df',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'iso3166-1-numeric',
     '624',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e8e67db-4b40-45fc-a5c3-1fefdb224b24',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '339702df-0301-439e-9710-7fde43932533',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'un_a3',
     '624',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd4ba632c-ab55-4e03-8590-f1ed3255ed6f',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '4549f71d-4456-4afd-8d74-b06b526fd0e3',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'world_bank_a2',
     'GW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa0fd697-1bce-47be-bafc-30caec21102b',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '5e8e22ce-0ad7-4c3e-99db-1749beb26cc6',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'world_bank_a3',
     'GNB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c31c556-3471-495b-971d-143360056ad4',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '6dc0007a-8d68-4203-a3d1-14b4e74ead80',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'natural_earth',
     'wikidata',
     'Q1007',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9922cba5-dcaa-4dc6-a243-148492a996e4',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '6f8c4d4a-36bd-4859-ba43-c121125ce81c',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'natural_earth_admin',
     'GIN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14a245eb-d4c1-4b03-b9d7-8938ab955a3a',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'd479a1ca-f8b7-4e26-b278-ff9a52f81e82',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'iso3166-1-alpha2',
     'GN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3c8fe0a9-9359-41f8-add6-427b5d16d190',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'd053acb3-4ccc-44ac-8281-0dc5c792076e',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'iso3166-1-alpha3',
     'GIN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f298ae47-1695-4fa8-b0f5-793647d2959e',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'cca79066-941c-40c4-914a-c89bdbca99d3',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'iso3166-1-numeric',
     '324',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cff9cc15-1d09-43f0-a775-2b5b1acd4d76',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '47bb5ea0-73b0-42cd-84d5-5a6c06b8f341',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'un_a3',
     '324',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '67bb9502-d9e5-4b13-975f-647000771a71',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '88d9afa7-b52a-4797-8de4-53f21c180313',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'world_bank_a2',
     'GN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a9d7b8cd-8a33-4433-8295-f533317d9ad7',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'e0585d15-63bb-4400-a0a6-d9cecda65e33',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'world_bank_a3',
     'GIN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f379314c-0974-4175-88f4-6c844e6c8817',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '56799ee0-734b-4dc7-bd02-725e23aff747',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'natural_earth',
     'wikidata',
     'Q1006',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '50037764-88b2-4496-ad82-d6e8fabedd3c',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'a588c506-c135-4e0e-bc1f-f4434818d2bf',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'natural_earth_admin',
     'GTM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cfb7622e-0122-4d83-a7be-11f21c34f087',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '935673ec-49d8-4957-ad9d-de3bbc6dcdc1',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'iso3166-1-alpha2',
     'GT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e0b8173-a884-489e-8abb-f772addb1b76',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'e9a5c2ff-52a8-419e-b6fb-f26c78e5450a',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'iso3166-1-alpha3',
     'GTM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d0f71da-2865-490e-bd03-0d6510614268',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '2d6babf2-f982-48df-8ea1-bb9823c4ebac',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'iso3166-1-numeric',
     '320',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bf69de58-ef80-47b6-8e93-12d00b338954',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '97e344bb-d62e-4819-bc66-3a0c9204b42b',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'un_a3',
     '320',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58ccfd37-9e76-4a40-99fe-d2e9511a1ac4',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '8de0c9a5-6074-429e-9947-fae06e923782',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'world_bank_a2',
     'GT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '63c15542-c375-4756-ab89-b70a1c181281',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '9651fcb1-e3de-4bc7-8378-93aad975bc4d',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'world_bank_a3',
     'GTM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0aa1d4bc-057a-46b1-a750-b1c9e656fdee',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '0f462e2b-e38a-4a71-8ca7-8cbb5980327d',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'natural_earth',
     'wikidata',
     'Q774',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f5e32159-542b-44c0-886b-fe2a9cf6ffa6',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'ec2cb046-9137-4aad-9f82-a7b8b27c5507',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'natural_earth_admin',
     'GRD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '266e491f-8c8f-4567-ae54-56a565ae9369',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '7dc1a771-f7f9-426b-8342-aefd6fb01d0b',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'iso3166-1-alpha2',
     'GD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6f8ea161-5001-4995-a39b-d34f9406a48a',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '9835f560-5487-451e-b836-ef0ea625d9e4',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ce4e61fd-d699-4821-9dba-960aff85017e',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'f0eca24a-15b8-4e40-99a4-4b19cb188202',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'iso3166-1-numeric',
     '308',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ed02362-92fe-4adc-8740-a5c7619c4b55',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '7d32ff06-1d2c-496b-8711-55835379de88',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'un_a3',
     '308',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '486e6a05-84f8-4e13-bda8-add4f83dedb4',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '661d8801-c84b-4023-b1c7-91359880ef94',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'world_bank_a2',
     'GD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a81ff9e6-029f-47b8-b1d4-5561d63dda10',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'ead78ae7-d6c5-47b0-8957-5798d4aab9aa',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'world_bank_a3',
     'GRD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f5f1409a-cf8e-41f2-bf3a-3ba1720a35c8',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'a9cf3f6f-626f-431d-8ac2-bb9924d424d0',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'natural_earth',
     'wikidata',
     'Q769',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '862f872f-f0e9-450e-b8d6-cf1e4d6afc5e',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'fbee31c6-6304-45ad-8f75-c00fc022d0cf',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'natural_earth_admin',
     'GRC',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5087e9b-371d-4068-87a9-3d698c1d6973',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '4269bf95-cb4b-48b5-8fd0-707273b9b6c6',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'iso3166-1-alpha2',
     'GR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9cf8e9ab-2d99-4ac2-b310-f64e90c67158',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '7a138766-74a6-45ec-85cb-258d03bd777d',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da83f765-89e7-4c18-b885-327ab3c33470',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'a3418d9f-3acd-42e8-8804-0a4d7f81a219',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'iso3166-1-numeric',
     '300',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c263bb50-4301-4ab3-80ca-16454d0c92f0',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'caf11e10-d62f-49de-b487-fa77bb5d5c1d',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'un_a3',
     '300',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd569ee70-ff32-4805-bcf6-5cf67e65a06e',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'b1c777ee-352e-4dc8-be40-e3c48f25a8de',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'world_bank_a2',
     'GR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e6f56dfe-9b86-4042-b7b9-bd551c4eeec7',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'd1abc3a6-fed3-4731-a77b-bbb481d4a9b4',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'world_bank_a3',
     'GRC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5c5375a0-64e0-486e-9707-47d6748601de',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    'f853737b-ae54-42a4-9790-0c0d6e1c8cbb',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'natural_earth',
     'wikidata',
     'Q41',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '00d6a36a-757c-415b-ad25-7d2cb9dfa2f7',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'e7383280-6ac8-42e8-97ed-b1112a8f8b81',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'natural_earth_admin',
     'GHA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '30e91000-bc82-4539-a570-a5a76be7bab5',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '67c58446-8394-4cdf-90a1-c20ad5f76427',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'iso3166-1-alpha2',
     'GH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dcc8b466-0d2a-4674-8faf-aed4763abd9b',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'b765fff2-52b6-4177-b64f-9b683e42f4d0',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'iso3166-1-alpha3',
     'GHA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd3a927ea-e9a2-49ff-bb9a-cee1a113c143',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '3e105558-308c-400e-ba74-9c1bb0d48f5a',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'iso3166-1-numeric',
     '288',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aeb006b8-ff1c-4a16-93ed-991abad9b464',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '7e6359be-ba1e-456d-8b28-b5abe3a6cadf',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'un_a3',
     '288',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9b64bc23-ba13-4acd-bf2d-e9c7794e483a',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '1573c7c8-247d-477e-8e82-bd0cfaa6ed4e',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'world_bank_a2',
     'GH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5e6e58d-7798-4e0b-b1ad-19c13f114998',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '41eed106-fd79-483c-b765-bd29596366e8',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'world_bank_a3',
     'GHA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '317f8e1f-7e75-45d2-89b7-c9fa934fcf4d',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'c5ee90c4-ca67-485b-9374-7c58b3b9e4d4',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'natural_earth',
     'wikidata',
     'Q117',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '70f7cf40-9f62-4f51-aa60-5145e06ee957',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '1c2ea8b7-1542-46ac-942b-1050e931c281',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'natural_earth_admin',
     'DEU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1e4337b9-ea48-4b45-b33a-bb4cb38847b6',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '60d94147-ebb6-487a-a6b0-50c0c88ef327',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'iso3166-1-alpha2',
     'DE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd3725717-52d2-4379-a2a2-5ca4109f2420',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '614ca67f-ceba-46aa-98ae-d4db66508258',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'iso3166-1-alpha3',
     'DEU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '994d0235-3430-4b11-ad54-632edc43bc66',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'f7522e97-4010-4ae7-ae25-f22dd2b601a7',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'iso3166-1-numeric',
     '276',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '46e82ac6-244f-404f-96e1-a274df32d2cc',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '64dea58d-c984-4a59-a432-fdc4c44e0f80',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'un_a3',
     '276',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e142854-87d7-4a85-b9fa-c2317fa1ff8e',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'b2d4ba4e-6374-447f-ab6a-d21a5e489b5e',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'world_bank_a2',
     'DE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e8c5eb2a-0cc7-4c2c-912d-9a491c28c660',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '48fd4c97-9dd2-46ed-8092-bbd522720258',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'world_bank_a3',
     'DEU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd63f378f-ef39-4b89-8e55-4ff6f2970bbd',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'e46a4e94-d3f3-4bbf-ae0a-a7dc7f53f40d',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'natural_earth',
     'wikidata',
     'Q183',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c2006ce-d41c-4dbd-b81d-1616867f5da9',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '251fc976-b829-4a5a-9f2c-0e09cede6a60',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'natural_earth_admin',
     'GEO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e62b008f-1e72-4570-9030-ad7679717f9a',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'a8dc5ec2-5cf1-4cc8-a61a-9eb0dbc4c112',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'iso3166-1-alpha2',
     'GE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bae87780-6ffb-4eb7-b1c5-1d43813ca641',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '7bc7ba02-b553-4d58-8969-34ecba0206e7',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'iso3166-1-alpha3',
     'GEO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b9eb6394-8a89-404e-b0be-936c94c71891',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '7b633499-72f5-49f7-9a87-4b5db7fd4ef6',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'iso3166-1-numeric',
     '268',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1be10cb4-1fc9-464c-8b5f-d1238df80223',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'd4463989-695c-43ee-89f8-275dffe87f6c',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'un_a3',
     '268',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '489733a9-8d0c-476f-a96b-0de17a1c6345',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '6c3a164f-7a6b-4378-a7c5-7d3f260617d3',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'world_bank_a2',
     'GE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ae4fdf6a-da1c-4729-8d14-11e768aeda0f',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '26e6dc7c-eaf9-48cf-8277-bc20d1aa520a',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'world_bank_a3',
     'GEO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5008c72-e97c-49ec-a2cc-649b224999ff',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'b5e61be0-846d-472b-922a-9f74834f9de5',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'natural_earth',
     'wikidata',
     'Q230',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2d18bc42-3d36-4492-b88a-1719d2a8a96e',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '553c9cba-7ad3-4cc3-80ae-9ecc50c044de',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'natural_earth_admin',
     'GMB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b4fbb45-0924-4606-b093-3b8572219ee9',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '6214e2d1-db51-407b-a14a-94012b6f7c62',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'iso3166-1-alpha2',
     'GM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '146c98d2-e45e-43d5-974f-216ce16ce696',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'a4a62c6a-34b3-4173-a564-41d419383f18',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'iso3166-1-alpha3',
     'GMB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '21701fae-d0f2-4c86-877f-283eed37959c',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'd464218c-e016-423e-82f2-68f73fa2c14c',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'iso3166-1-numeric',
     '270',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38ea26c6-e467-42a6-acdd-19b1fd11db68',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'b34851b6-6501-45be-9c17-78327c99c291',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'un_a3',
     '270',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3fad2fd-7d96-4aff-8146-c584de245e16',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '6105e4bb-9d04-4ef4-bf9c-9e0e32e16441',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'world_bank_a2',
     'GM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9affd4bb-624a-41e6-ad49-526b7100c63a',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'df9f246b-bc77-458a-a97f-cc7c12defc5b',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'world_bank_a3',
     'GMB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3cf9e433-8585-4075-8bbf-84e303ee76ad',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '005017d5-0f9d-4262-bd9b-e843943645d4',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'natural_earth',
     'wikidata',
     'Q1005',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9c13fb0-84ec-4f78-a1b2-088b0a0da43f',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '83b90273-3d33-43d9-a742-6b8a4d365c00',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'natural_earth_admin',
     'GAB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a6100b50-3d59-4719-8537-2ae765238394',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'ac9c46c6-d47b-4b03-bf5f-34a00667eb58',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'iso3166-1-alpha2',
     'GA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8fdc7c16-d91c-4a3a-af96-8c11bdd91670',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '4f76ec98-be61-4100-8a01-a3647539e46e',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'iso3166-1-alpha3',
     'GAB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e013aff4-8fd8-4f18-a209-7e2cdedc2e16',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'cbf1eaa7-0527-45a6-8541-60d98c20fe0a',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'iso3166-1-numeric',
     '266',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7dca34b5-c8b1-4989-a146-160ec9d968f0',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '9dda9aaa-9086-4b1b-a688-14426233e9ee',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'un_a3',
     '266',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5670228-9840-4d19-a949-ff058600b338',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '93c796f9-7f70-40c4-b201-4c1a7273c65c',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'world_bank_a2',
     'GA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f2ae7df3-939d-487a-acda-e56f056625b9',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '2eda32f0-8d62-4fa1-852b-adcf7f4dc4be',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'world_bank_a3',
     'GAB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a00f5c68-43f7-4ffb-b874-64ca68ba6540',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '87c6b267-8a1d-4f37-ab88-e1dae8e82f22',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'natural_earth',
     'wikidata',
     'Q1000',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad371d6c-4ab0-48e7-adbe-06ad09296a5d',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'a8e67d24-b6ef-46a9-a453-2b304ff51c3d',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'natural_earth_admin',
     'FRA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b24324c-729c-40d3-9ce6-192739aedbe5',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'a237ae55-c035-4c45-8834-43d0755b3b33',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dcf3df05-9a85-4dfe-b116-9045f8c76363',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'bbc70b25-d151-4f66-884b-b3f9622e9398',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b961d3d6-6298-4aaf-9122-5c888a7f13e9',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '898b247f-e2df-4d20-bda6-2d48ef879732',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5818f6d6-9bfe-4717-824f-6e4381582a2e',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '2d295d6b-c78c-4293-b619-84c4dae9bd88',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'un_a3',
     '250',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '100e7706-7201-45e9-8c9b-9689229184e1',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '290a16dd-6692-415b-9654-2ac5ff69c3d0',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'world_bank_a2',
     'FR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ab911257-9fe1-4b0e-9898-7a5ea41d0f85',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '7486078a-0713-4a24-93c0-b7f93e3b3878',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'world_bank_a3',
     'FRA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c612e42-c4cc-4ed5-b1e0-895d51c4cfc8',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '86385247-0390-4099-b5a0-543b2158bc4d',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'natural_earth',
     'wikidata',
     'Q142',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a89dfa21-6646-4339-93d0-457bde23525c',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '9cb6ce61-2335-4690-93ba-2e7a9bf229b2',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'natural_earth_admin',
     'SPM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8b83d4b6-f736-47a4-961d-7c59c53dc069',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '83de6dde-26ae-4b6b-96e1-98c29e7de287',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'iso3166-1-alpha2',
     'PM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '20f27e96-5efb-4246-be6d-9ef0c3c5008a',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'ae855ac8-6cf8-4036-83e7-4b973b698c59',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'iso3166-1-alpha3',
     'SPM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ee002e27-c5bd-4a60-ae7c-24e691a8cbef',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '5be8374b-d593-428a-8822-903b1050bb04',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'iso3166-1-numeric',
     '666',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f6ddfea0-e90b-49ca-af71-167646202094',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'dd6f8e0b-0e37-427c-9e53-69fd236ff783',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'un_a3',
     '666',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e92d0c4-e2af-4f1d-98ec-1b284ee79b7e',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '2d1cb28b-a4fe-4cce-807f-f4cee3d6d19b',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a928dd5a-fc76-4a75-8fa7-86420e5ddddf',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '9f4dce13-b01a-40c3-bf1e-71d93974cc9c',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a317be53-6c98-4f88-8f93-a1e772907a4d',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '6c41aa65-12eb-4b25-85b8-155c54596426',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'natural_earth',
     'wikidata',
     'Q34617',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb2f3095-8f17-4bb9-8fa2-bee2f623e6e8',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '0e27ab61-f026-4e81-a147-3c8f644f1929',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'natural_earth_admin',
     'WLF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '13c335f4-991d-4e91-b249-2349ed270c1f',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '7bd229b4-5967-4ee7-b475-05303b872b2e',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'iso3166-1-alpha2',
     'WF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8492d9e-3f8f-4e02-b4e7-66b189bde7dc',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '1a6655f3-931e-495b-a44d-0a10b5e352fb',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'iso3166-1-alpha3',
     'WLF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5d102075-07f2-4684-9ad4-390cdfeb8a6b',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'ddccc489-b38d-453b-82f1-4fdfe3ceece4',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'iso3166-1-numeric',
     '876',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '78cb008e-b194-408f-915d-eb7f8ca08539',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '774431c7-c83f-4cdb-b673-9d5d7d3d0a81',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'un_a3',
     '876',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c51c41f1-961b-41f8-9f8c-5ad489323257',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'aa8161be-6209-468b-8490-d0a2e1ea8849',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '761e03ce-5563-4ca7-8058-ccb06dbbd7dd',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '642bf869-d39f-455b-8c7d-602bdca28225',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fa25502f-6f9e-4ed0-9100-184398b6c626',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '7cbf926a-bccb-4a77-8ad1-b68940254e2a',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'natural_earth',
     'wikidata',
     'Q35555',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1844b145-25ed-4260-b2c8-4ed02287eb7f',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '7d0bf758-f1ed-4779-88a4-8f6cf63bd847',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'natural_earth_admin',
     'MAF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ca1fc456-7e7e-43e1-871e-c43cb076eff9',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'f64eea64-0c36-4c7a-ba55-f9e0dac85c76',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'iso3166-1-alpha2',
     'MF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5072517-1710-4a00-b3e0-162e60435419',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '1d096de7-fd0e-418b-947d-38891eec3851',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3cb8599-2001-472f-bcf8-56862b0ffc62',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '2188f8c7-cdc7-4aec-ae6a-b32bd49be991',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'iso3166-1-numeric',
     '663',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d4dc158-3c0b-49b2-87e1-09760b627dc6',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '5d108c9a-16f1-4f4d-8a3d-b9a11b3c4de5',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'un_a3',
     '663',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f7e29745-fad0-4e8d-8943-792f116ffd84',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'ef5839e2-9c1d-47d6-87ec-6a7a5e0297c5',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'world_bank_a2',
     'MF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4aa07c8e-203a-4587-9555-6eccc125ff83',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '29c46e14-547d-4c9e-9350-58c86e85bb29',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'world_bank_a3',
     'MAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15c2fda6-09b8-4710-a5bb-05f890d245cb',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '714c042a-c909-48cf-82d0-2032e9425ea7',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'natural_earth',
     'wikidata',
     'Q126125',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '93261e2a-7435-4bc6-8c19-fb33d1775830',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '81ca201e-d7de-4aaf-aa0c-e3ad29f8f907',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'natural_earth_admin',
     'BLM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1e11e5de-8ee1-408a-a8ca-81a6ead61832',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'c8561bed-ef22-410c-a120-3afdbb4235e6',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'iso3166-1-alpha2',
     'BL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd3cc790c-5122-40e5-86ca-907eeb48b489',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'fdc67365-f3c0-47a3-84ed-4b964149e78b',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37aa22d8-4d87-4ebc-b789-24b701c4a03c',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'a6548e91-287d-4efb-b62e-09606bf2c1dd',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'iso3166-1-numeric',
     '652',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ffe773ac-7610-4bcf-99de-756a20a91fdf',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '70b23f46-81fc-4ae7-bdba-de6dc7aa974d',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'un_a3',
     '652',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '524ab42a-c4f5-4445-bf5f-79d0ccbcfaae',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '4fc2fa4d-716e-4afb-9985-418c86b3ecc2',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c07332f6-9cb9-4055-b23a-da57bceea08b',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'ef682a03-d9cd-4ebd-b40b-ab707148fb22',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd9587b2-c182-4db2-828e-41d522ad7299',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'ee87f3f2-01dd-47e7-a4f6-db8a510ccf44',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'natural_earth',
     'wikidata',
     'Q25362',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '03972020-114a-42e1-a727-0b9c3a9decdd',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '807316c6-0786-46b4-accb-930907104c73',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'natural_earth_admin',
     'PYF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a0f32d5b-ee99-4342-9617-213e981cff6a',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '5b3bac84-1de5-49c5-a029-9a44ae5cfde8',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'iso3166-1-alpha2',
     'PF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f84116a4-3672-46ad-82cb-f55516d53165',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'd7691a02-8590-4df9-8a30-6b14e6a57cda',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'iso3166-1-alpha3',
     'PYF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '914bfeb8-77af-4a3c-bbb8-2697b8aa6b37',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'bed3f2a1-bd57-4399-9fc8-0645b17f9e7d',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'iso3166-1-numeric',
     '258',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '120b1f09-1913-4fba-9aa4-97bcc7afd721',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '33d4423c-01c7-4ef9-a510-95b580e38010',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'un_a3',
     '258',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c6624260-a92c-476b-9ae4-7562918e886f',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '65dfa212-8a49-4605-ba00-6a0e2d5407ab',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'world_bank_a2',
     'PF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9ba91a0c-3d90-40c6-8923-c5f21c7f6ba5',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '6f75ace3-64b0-4d95-ba83-59c20729f0ea',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'world_bank_a3',
     'PYF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3778f55-5cf3-4de5-baec-b4d23710f94f',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'cdb06243-bee6-42ea-8fc7-7411ddadc96a',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'natural_earth',
     'wikidata',
     'Q30971',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6a9cf5f5-ac53-4ea8-9c7a-50d7f36d9625',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '284d33b9-9dfc-4a9e-aa73-cf6db42a2d8c',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'natural_earth_admin',
     'NCL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0fbc1cb3-f657-482b-8c19-f8cf6b312c7c',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'fe90111b-2a53-419a-b76a-3c0acf944096',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'iso3166-1-alpha2',
     'NC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5d21d56f-104d-4499-9458-7fe9731d3a22',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '41eefa2a-33bd-4c5b-97b0-cff430dd04cf',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'iso3166-1-alpha3',
     'NCL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c7333c7c-71e4-4d1f-bb10-573652f34b94',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '9e63cf21-88e5-4e00-8359-c9b3f09265d5',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'iso3166-1-numeric',
     '540',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '02e2e4b0-b906-46c3-946f-05de8e1ab540',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'a7bd5e5c-6a76-401a-a888-f17766b76570',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'un_a3',
     '540',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad85fca8-5500-4c6f-8a59-6817959eb7c3',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'e64155ca-4439-469e-a79c-a5257ff7854a',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'world_bank_a2',
     'NC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bed58744-24f8-476c-bbb7-31106a5c2056',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '0bbcbc0d-5828-44e0-a1a3-1da48823a7eb',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'world_bank_a3',
     'NCL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29e6db43-9027-4e7e-b87a-531d95a4dc81',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'ff65c33c-a234-4ec9-8231-15e0bb61436b',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'natural_earth',
     'wikidata',
     'Q33788',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a84a804a-6b11-4189-bf64-0f789bf59219',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'ceca8b8d-c2a3-4180-97b0-d1fdbae3b5ba',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'natural_earth_admin',
     'ATF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '100f049b-144a-482a-a671-ba2e204e8c25',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '3fb0a75e-0e6b-4c10-a061-409752e27559',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'iso3166-1-alpha2',
     'TF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '048affa4-0b51-46fc-9940-2d8ef4535145',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'f19fd084-8183-4740-9869-c63cfed0e315',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ba40f41-c012-424d-95db-1c63b8b98b77',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'b0947cef-d0d6-494e-aa8b-f15a9c7bdaa9',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'iso3166-1-numeric',
     '260',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5b4b1073-1402-4ac0-bdf4-9a5b09e960a0',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'e9417156-4d1b-4132-b391-08854152007b',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'un_a3',
     '260',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f3c72ef2-7520-49b8-8022-c5760fcc3ef1',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '16124498-5707-4a94-89b6-316a441d882c',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dee63a7d-2f9c-4073-99a0-390464855821',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'f275ce44-d65b-4c95-8270-3b103c818fd7',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7e64a66f-cb9b-44e7-bb6a-9ae7dbe89b95',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'c5ceafa3-9502-4669-b061-4f63ec641cf3',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'natural_earth',
     'wikidata',
     'Q129003',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aa2cc208-1ba6-47f0-bf0f-2f793167b506',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '0cb78518-5b9a-44f6-8e9e-d54e69b44c2d',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'natural_earth_admin',
     'ALD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e89af5c-eef3-431d-b314-77e07f852245',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'be1d34f4-73a6-4d5e-9986-4b92287b4c7f',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'iso3166-1-alpha2',
     'AX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ba0911a-eb6d-4766-a57f-05bcf8b5f3b0',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'de8271cb-ed4a-4ec1-8dad-9863dcfcbf98',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'iso3166-1-alpha3',
     'ALA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f60cb25f-863c-42a9-adc6-9caa41884b60',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '1720dd90-b5ae-479f-8e29-f0cc88ff6e1d',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'iso3166-1-numeric',
     '248',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '21ecf3dc-e44f-4243-a86a-6db0d1a2a75a',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '1827230d-dc50-41a9-ae35-55108e38b9d6',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'un_a3',
     '248',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2c6922d1-1e8d-4537-a429-02c15cd0669b',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '520f0dfa-035c-4be9-8b1a-02c2db47b7af',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '88bcf11e-a7b6-4727-8dd7-603fb69e6043',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'e4b3d9cc-ce81-492c-8071-e175714b1c16',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b353b482-f76f-49cb-9ae5-898d656fd4a6',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '1145fa75-5633-46ff-b093-766e465d83b3',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'natural_earth',
     'wikidata',
     'Q5689',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b7ea5074-a207-4819-bd81-c877fa776e74',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '88556e4a-8572-4da7-b627-55b36ceba2e4',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'natural_earth_admin',
     'FIN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '16f725c4-a4e4-4319-ad09-01195bfb16e0',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '5b8bc428-9786-4106-a2df-f87100eef205',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'iso3166-1-alpha2',
     'FI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '063c3573-a583-4626-aec9-4534bd1d13de',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'cd8982c9-0b15-43f3-ba15-64a521ebf96f',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'iso3166-1-alpha3',
     'FIN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e2c45b8-4889-4f66-b874-05e7c48bdc20',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'dc52d338-83c1-4e60-b3ad-4973e9e61fd1',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'iso3166-1-numeric',
     '246',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f1b4d432-2d2d-4a6c-aafc-2f850f19610f',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'e5b8b361-28a0-4fb9-8cea-90e0acbc1d25',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'un_a3',
     '246',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd6b3d471-5ee3-4780-810e-222f0f0b8dcd',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'f5db6471-cb4c-42d4-ac18-6b280c819e16',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'world_bank_a2',
     'FI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ea578dec-1774-4eb6-acbd-bfa5f0445296',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'd5b4ed48-8b66-48ad-91a0-5ecdc865a7c2',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'world_bank_a3',
     'FIN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7a6d521c-c15d-47e7-9362-c2b86b2ed0c8',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'd215d29e-d770-4423-8415-f451d6167410',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'natural_earth',
     'wikidata',
     'Q33',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db672840-70cb-489f-bcf7-c6c1edb30c73',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '79aa61f0-9759-4ef6-8983-6e746e147064',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'natural_earth_admin',
     'FJI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b64a0e8b-5b5e-4250-b260-f4d5fb5adb59',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '8269b038-e3b2-4d34-a07a-ab58f16ab667',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'iso3166-1-alpha2',
     'FJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75990cf6-25e3-4aad-a341-b3f3824b0c39',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '888d5186-f865-4ee6-9606-0cd77e6fd42b',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'iso3166-1-alpha3',
     'FJI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '964c84fc-d3cb-4a6f-b700-5d35d8094cf7',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '694b42e0-1e84-438a-a71a-6ec2f4b999d7',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'iso3166-1-numeric',
     '242',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '81530267-8289-493b-970b-fabc2b60fe03',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '3c07308d-be62-4a9a-a9c5-84a1bc156136',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'un_a3',
     '242',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1654472e-4b54-40c7-93d2-c70beccf8aca',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '63accfee-9e3e-4756-989d-44c1247578a2',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'world_bank_a2',
     'FJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '44c9b3c9-ee08-43e0-9f78-055c1e2d8b32',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '27cf580c-27b9-4afc-9f4d-14a19192386a',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'world_bank_a3',
     'FJI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5af0ba5-e983-4936-b5b4-f26fb3a79cdd',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '52f313e9-4845-4f79-9219-44e2f115e981',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'natural_earth',
     'wikidata',
     'Q712',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '946694cd-1c0c-4ab0-9924-01808269fcfd',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'e0ba0013-33e3-4214-a842-f5e304c41198',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'natural_earth_admin',
     'ETH',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fdb42a6a-cee5-401d-8eab-c2664426b87c',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '190dcbd7-3124-4e60-9a4b-4acabac71e18',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'iso3166-1-alpha2',
     'ET',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c0a4c23a-1e00-4b62-9cc7-c0b804484ed5',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'c9be4f0d-bc91-4a3a-9352-c4472ebe6681',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'iso3166-1-alpha3',
     'ETH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f1895375-9a18-44d2-939a-d2f7ca7d9d0a',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '568937ba-1d6d-4e0c-9e3e-b5ca83eed689',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'iso3166-1-numeric',
     '231',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '69f34fa7-3263-4466-aeb4-0f67200120af',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '0c1193c2-1ee2-43b7-b057-1dd79fd30052',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'un_a3',
     '231',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '75f19a78-3f95-4dda-a66c-9197319a5344',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'a3937f98-3f51-495e-9046-4d4037629bc3',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'world_bank_a2',
     'ET',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87fef788-aa88-4ee7-bc05-5da8883f2480',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '309982ec-0b34-4b44-9928-514d0101b1eb',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'world_bank_a3',
     'ETH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c9521fd7-5620-47ff-8c17-956d49ec668d',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '1c1ac3da-7612-4caf-a6ee-d7a6df7f6c33',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'natural_earth',
     'wikidata',
     'Q115',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a38e1be-2aa1-421a-ab09-8fa7735f6e0e',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '68176780-5629-42e3-903b-739a7c1e83fe',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'natural_earth_admin',
     'EST',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82ab36c2-e53a-4550-bdfe-8e830b02a1f9',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '90171378-ba17-4d46-b3cc-5adfae10c118',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'iso3166-1-alpha2',
     'EE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ecbf3c6a-16d4-4544-99d1-c8f51cbb6e36',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'c56de21e-b0ac-4925-926d-7904057f7473',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'iso3166-1-alpha3',
     'EST',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f28865fa-fb9a-4481-b794-106b25e3aea4',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '6fba6c9f-e1e9-4b50-af67-f78c90c5f42c',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'iso3166-1-numeric',
     '233',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7e9918ee-fe26-40f3-b6f3-c4faf5111a79',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '7f2d86c9-363c-4947-a942-d1c4cd16b9a3',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'un_a3',
     '233',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '98367dcf-587a-495a-96fb-966e80b66186',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '10cf1ad5-be45-4c8f-bc63-b62548499213',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'world_bank_a2',
     'EE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '92ce66b9-9e48-4674-8cbe-a3fa5f46f84a',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '3cd4e374-ab4e-4b19-8ad3-24e1878b1b77',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'world_bank_a3',
     'EST',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b0c458d5-24bf-4139-a996-4918797c218e',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '3178f6d8-cce2-4c2b-ba6f-28395583d101',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'natural_earth',
     'wikidata',
     'Q191',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6cf515a-316a-4084-8485-116575b49e06',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'd62fd911-3ac5-47e2-8ecf-4dbdf1e4864f',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'natural_earth_admin',
     'ERI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e0f8d096-eb77-4988-a394-3313cc6a80f7',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '97830957-e277-4a77-953b-090078d16d3a',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'iso3166-1-alpha2',
     'ER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c02a236-44b2-44af-82f3-48c4beecaad3',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '8fc808fe-a66e-4dba-8365-164498389ac5',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'iso3166-1-alpha3',
     'ERI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '69ad1970-294e-4c02-9717-c75ba7e54b98',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '1b091d57-13f0-4806-a466-0b29fe20c455',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'iso3166-1-numeric',
     '232',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9c8cc814-e29c-49f2-8e89-fa0e49810733',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'e2a5647e-6556-44e5-a14f-30b11d9d1f4d',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'un_a3',
     '232',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e98a97d9-2a37-4aa9-a78f-70141247d4ed',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '38e1249c-4f8b-4836-8a04-d5b9bb08b6bb',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'world_bank_a2',
     'ER',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4665d4e0-d97e-42ce-bb1d-7abfc8041fa1',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '1093320c-677b-4a43-9b56-d3451f55eb00',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'world_bank_a3',
     'ERI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '016cad34-c0bc-42e8-960a-e7748e4eae18',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '2ae8c979-a746-4177-a575-0ef80c62ae22',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'natural_earth',
     'wikidata',
     'Q986',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b32a03eb-72ee-4277-a749-45fa5bd5b1b2',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'c21472cb-c9ef-4ff1-9861-6f0225984794',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'natural_earth_admin',
     'GNQ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '54b4a0c7-fdc5-4a09-ba10-09c2a76856e0',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '74c5f903-2acf-4309-9f3c-cb7e63cc9e51',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'iso3166-1-alpha2',
     'GQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '09189f63-0893-4b6b-b7ec-b5eb7d5f2fe4',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'e429dfae-5a4a-4d32-ad18-0bf96bdf5ca2',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'iso3166-1-alpha3',
     'GNQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c2f6567e-5282-43ac-9a02-588eea22911f',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '2cae7902-ce12-4abd-862f-0b2f4739c539',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'iso3166-1-numeric',
     '226',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e08f800a-9687-44d9-b734-dfb67a56e502',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '80e829e5-d23f-4c3e-ae12-221896c0517c',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'un_a3',
     '226',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f7b82683-b2a0-4e20-bad6-ced22366f070',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '8e7ecb8b-cfae-4f2c-8552-e2f4d04b1b6d',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'world_bank_a2',
     'GQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b8702a3-452a-4130-ba65-37bf65e21b0b',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '9bc0d853-8bfa-4aa8-8e60-5c8aa24ea92b',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'world_bank_a3',
     'GNQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '580478ef-606c-4a97-83fb-cc1fb58037a6',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'fd563c6f-25f1-41b9-8144-49415fdf9e75',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'natural_earth',
     'wikidata',
     'Q983',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6d6e18a8-9c7c-4dd6-8a72-bd4fe0ec89a4',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'a6d989cf-3492-47a6-8085-f9c9f55d1371',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'natural_earth_admin',
     'SLV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a707c897-cc1c-4da7-9617-face23193912',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '51fe3cdf-6284-4e4b-9370-e13a51f585be',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'iso3166-1-alpha2',
     'SV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'babd8d2d-209d-4153-a59f-3dd763256dd8',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '52f50e29-ddf6-48e9-97ac-7b116af0e846',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9684486f-a19b-48d2-acb1-376d0f382829',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'b6671025-4818-493d-b7af-30ef99ac1990',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'iso3166-1-numeric',
     '222',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c1bb3e17-6598-49eb-8240-7b871f693ee7',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'f292a43d-02e1-4c5e-a581-0104b87150b5',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'un_a3',
     '222',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '30dfb776-bf62-42cd-8d78-c42025489e73',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'd7501fb4-acc7-4210-a9bb-597cf2e9226a',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'world_bank_a2',
     'SV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0b6a6daa-87ee-454b-b427-b77f03f418d0',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '3fce2623-6235-4a8c-a7a1-5e95740cfb2f',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'world_bank_a3',
     'SLV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9fa1750e-825f-45c5-9f90-9a70451ecf58',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '269390fe-5d6f-4cee-be9a-1137ddfbe82d',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'natural_earth',
     'wikidata',
     'Q792',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5612a4de-5f57-4077-aaf7-55065ac96f42',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '5dd3f0fe-c5c2-4d79-99e8-7aa14e8a2e5e',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'natural_earth_admin',
     'EGY',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '513007f5-b9d6-4c7f-bc68-788aaff73ea2',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'd86da736-0e77-4758-90d8-65e1e96df61c',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'iso3166-1-alpha2',
     'EG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '03c59ab1-11fa-46b7-b09f-42fa1e479c50',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '353c2159-8e20-4ff9-bafc-a4e361507a34',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'iso3166-1-alpha3',
     'EGY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61557926-2f51-4bb1-8a8c-d63630ca24d7',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'fa2d148b-0873-4942-a6e2-79aee055b8fa',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'iso3166-1-numeric',
     '818',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '266f81c6-85e7-4987-af66-47447253216c',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '8c57316f-25a2-4d23-9c1a-7d041acc1ecd',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'un_a3',
     '818',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5ad97daa-1b22-4b93-965a-f61b65fe9e21',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '0df1186f-4cf9-4f43-8501-949e7a778e3c',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'world_bank_a2',
     'EG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91149acf-1434-46d3-b62e-24c5fbb9b2e3',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '0cc664e6-a6c9-4dd7-8374-8157d4a7e4cc',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'world_bank_a3',
     'EGY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3d6a044f-6d54-442d-a09b-9e3d445e479f',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '6b1258b7-aa27-4163-81d4-565f70ba1904',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'natural_earth',
     'wikidata',
     'Q79',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3785ced0-6783-45f7-89dc-897fc75880f0',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '24caf0fc-4447-48ef-94ae-1b459da91b0a',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'natural_earth_admin',
     'ECU',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '04a6d769-a3c8-47f2-a690-538fb600427e',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'baeff8d6-47f0-439f-95fc-b8e811ed6c21',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'iso3166-1-alpha2',
     'EC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c85bf8a6-1e30-4f11-9ebf-c808f41faa8a',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '750fe9ae-ba4d-4b22-b547-320641ba692f',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'iso3166-1-alpha3',
     'ECU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b11e641-5a94-4a76-aaba-4ac5e49648c3',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '211d9b8a-e10a-4d78-b371-7e19957a1eb4',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'iso3166-1-numeric',
     '218',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9807e713-9b7a-411c-8661-e0f4af300034',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '656e990b-a738-495e-9ada-3cddf82b9d65',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'un_a3',
     '218',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aec0685a-1ce9-472b-9f0a-c4e716798d18',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '0c27cbfc-43d2-4fe6-842c-6e9b1b191c93',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'world_bank_a2',
     'EC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '48a5484d-46e1-4dad-8061-80e64fc7401f',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '5752cd70-ec93-4228-83b8-8728413a1b1b',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'world_bank_a3',
     'ECU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3266a1a1-44bd-4a7b-82f6-51f115dc38dd',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '5e82754b-7143-40f3-a419-14f54f6236e7',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'natural_earth',
     'wikidata',
     'Q736',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db1dc570-cae2-4379-8890-05c691be06c1',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '0f7c4d1a-9cf6-4364-892f-a4c615718c4f',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'natural_earth_admin',
     'DOM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6f298c5a-f720-45fb-926d-ee0e64ab87bb',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'cc698446-305e-4903-a5ce-48f0b69343bd',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'iso3166-1-alpha2',
     'DO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29c28225-e8fc-4208-8867-9fb8de60d0ab',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'e31344af-80f6-45ff-b1e5-41c5a280210d',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'iso3166-1-alpha3',
     'DOM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '86700415-5e10-44dc-9304-10d121e29944',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '05f9d1af-25af-4364-90d6-b4df1d33b015',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'iso3166-1-numeric',
     '214',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7c2281d4-cbfe-42e8-a4a1-b6f4b726c121',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '223a3c54-52bc-4d03-89c9-024413a762ca',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'un_a3',
     '214',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29b4036c-0cd7-4225-85ec-3919a24e12b6',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'e0e5c67b-a894-4979-aded-b47c7517930d',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'world_bank_a2',
     'DO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '88e17300-6a54-4a4b-8475-4072dd3765d2',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'c3af476f-3121-480c-a232-02646e2c9a8c',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'world_bank_a3',
     'DOM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0dfecd7c-8b43-4407-b8e6-eb0c7362b52a',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '8224c6c1-4d5c-4a75-b8f0-99f9354e5db1',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'natural_earth',
     'wikidata',
     'Q786',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15921ccc-c7df-4d2a-94d1-e0ffd72ebcb1',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '75f1a1ce-874b-4743-afcc-108ab7eb4285',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'natural_earth_admin',
     'DMA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac2ae9de-0b68-46c3-9ea9-852527238681',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'a9e735bf-6bae-473f-9097-ec2d5d7a90b8',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'iso3166-1-alpha2',
     'DM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5b2d4ca5-3a07-4f77-93e8-58d57b58a4b0',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '89806d34-be4b-49e8-a98a-27d6c19c0698',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'iso3166-1-alpha3',
     'DMA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c7c8f6ae-4654-4eed-8b63-3a0e7e5e4595',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'aa9c5e28-83b7-436d-a03b-e8817169f777',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'iso3166-1-numeric',
     '212',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c5037b7d-ed03-4566-b9bb-0491c79bfd10',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '56149bdd-430f-4ab3-8985-a03d76eefb2f',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'un_a3',
     '212',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a09cbfea-62ae-4874-8c5f-d376e697da5e',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'd6e338f0-532c-4b0d-8397-2b58594e8ce8',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'world_bank_a2',
     'DM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd4e4910-89a0-4f6d-b4de-a437fca224c5',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'd327f5e2-c139-43cd-90be-1bf915f3a739',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'world_bank_a3',
     'DMA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6dbaae25-1f97-4c88-ac1f-e8498c20c4d4',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '615b956b-f443-4be5-a76d-0cf6ce559f9e',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'natural_earth',
     'wikidata',
     'Q784',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5cc8aa71-204e-4f11-9241-8694ed50ce57',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '4f75b408-45bd-4c28-a548-855b7ecd0bac',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'natural_earth_admin',
     'DJI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1eeb9431-a300-49d2-8c82-d1e12e3c9ee7',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '49705ee9-8815-42d9-8272-2ff51a6083b9',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'iso3166-1-alpha2',
     'DJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8dc564d9-3b29-40db-a0d6-5e2e8b8c4569',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'cb83592a-82fe-460f-921e-d230a1cec6a3',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'iso3166-1-alpha3',
     'DJI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '08c391fd-a3ff-469d-bdcc-3763c75da40b',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '061c501f-6b7d-4d71-a5d8-92f3d0eb240f',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'iso3166-1-numeric',
     '262',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '284f9376-f8e1-496c-aad5-8fa561a983e3',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '2d388cca-abc7-4dd4-b60f-2e430ddad3d0',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'un_a3',
     '262',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f08caea4-e665-47a4-ac04-f6cd3a2e8606',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '4402d672-b3d1-4d6d-b0e4-39e6e6f2d896',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'world_bank_a2',
     'DJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '640682db-e768-4a54-9f47-750f12679983',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '6645782b-fcf4-4199-a9a7-8efefe3441cf',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'world_bank_a3',
     'DJI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ad6d88d9-16b9-42f2-8565-a68162f0c325',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '42bc3c30-aadd-4a24-aad2-3e124cf0989b',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'natural_earth',
     'wikidata',
     'Q977',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd46e5619-e3d0-490f-ac3f-1b62073e408d',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'd2553691-3adf-4ef8-9ef6-0051e50bb60d',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'natural_earth_admin',
     'GRL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1e040111-b83e-4f2d-adf8-ccdb86167948',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '85e0d85c-7970-4147-8ed4-258c4af3a0ed',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'iso3166-1-alpha2',
     'GL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8f9eb0a0-c995-4bf9-a75f-8c5a8d534cd8',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'a0cdf94c-4639-408b-b075-3bf3942775d8',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '97dfdac1-a08b-4838-81b3-4591077905a9',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '6c2aad70-9ed9-4b7b-abcc-8fab2fd9055d',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'iso3166-1-numeric',
     '304',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4e27880d-19a8-44a1-9f99-d1d413e7ae4b',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '41d68cb5-40db-4397-9c38-2fb8aafaedf5',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'un_a3',
     '304',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0b942c05-e372-47b6-8a22-806b553eee8a',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '3489c69d-b03d-4b83-baf6-a4c5089a40a6',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'world_bank_a2',
     'GL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dfc168cf-6456-4031-8acf-1705ca2fc018',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '35f1a726-af3a-4b59-9262-a477dc8893e7',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'world_bank_a3',
     'GRL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0897dead-2144-4547-84d5-a79f9c13929d',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '6b8d0bbf-1826-4898-bb5e-7e155210f129',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'natural_earth',
     'wikidata',
     'Q223',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9eaddf79-342f-4ea2-bdfa-b3ff3732e42a',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '55251f5d-1950-43ae-8b96-4840918374d7',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'natural_earth_admin',
     'FRO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '92ad49a4-d1e7-4b58-945d-373a83e6d0fd',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'cff38fd5-6934-42d2-a2e3-c83de40361a4',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'iso3166-1-alpha2',
     'FO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '456c4bb7-63c4-481f-a455-c7544e30c109',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '53c8bd6d-60f5-4781-8813-941b57d90264',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'iso3166-1-alpha3',
     'FRO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bbeb2834-a41d-4c92-8f23-382bd06f5fca',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '285c0ab9-a941-470c-8354-9617166cdbe6',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'iso3166-1-numeric',
     '234',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '77ab8f05-2528-4fb1-b3ac-d680971eac01',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '031b61f3-e515-4f29-b214-663111f525f8',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'un_a3',
     '234',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0cca0f67-a1f5-4cbc-a4c4-dde92d34d11e',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'e849fa56-9c5c-4c73-92c1-b6f96323100a',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'world_bank_a2',
     'FO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e1fe44e1-25ce-43ba-ad4d-7fdb8f642e33',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'e286eeb0-0761-4354-9e36-f511febe9cd3',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'world_bank_a3',
     'FRO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d507f04-4965-4673-8ed6-6eac69748e48',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'e3000cc4-f08c-4c96-9ba9-b65ab90ed715',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'natural_earth',
     'wikidata',
     'Q4628',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd293071a-f520-4917-8042-a9d12e687256',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '34e6b6e9-79ea-4460-9d4a-948683396059',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'natural_earth_admin',
     'DNK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '124df1a3-5a38-4d7b-ac0e-c029a2b104c4',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '7607f43e-2b88-4e77-8fa3-be8b9eae434f',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'iso3166-1-alpha2',
     'DK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a93bd849-9633-4502-a66a-a56ce25796af',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '055591c9-9c72-46b7-bd5e-0e5ae277f4ef',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'iso3166-1-alpha3',
     'DNK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '84905448-d748-4938-bb9f-662502767a89',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '05b23184-beca-4c66-ac19-81362e670d18',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'iso3166-1-numeric',
     '208',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5caf14c-0a54-40cf-9c37-d286f2b23746',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '9154f3f9-5e46-4a78-a33b-603dfa2b4519',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'un_a3',
     '208',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '17ff70a8-f344-4c5e-bf35-0e40ff7b65fe',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '9779a1be-7c58-4563-89ed-4df2f6ecff84',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'world_bank_a2',
     'DK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '92ee26f2-eaca-439c-8c68-1775fa9e1916',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'b5783a25-834e-4a32-8517-5acb3458e5e1',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'world_bank_a3',
     'DNK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5efeaa41-5667-474d-914d-877a057b9a7a',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '1dd205c9-70c4-42a0-9245-4f7a233a2f98',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'natural_earth',
     'wikidata',
     'Q35',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd4d20e5d-f65f-451f-99bc-40dcc125efae',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '24260ce5-8ce4-41c8-a3e2-308de1b6eeb9',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'natural_earth_admin',
     'CZE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd63a0c8-f138-4797-8169-e5572781eba6',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '12721ee6-592c-4691-b50b-8a5bd22f20fb',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'iso3166-1-alpha2',
     'CZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4d134594-90d7-427f-8243-3c632d499d6d',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '5d304c38-dfd7-4f64-805e-9d9fbf595797',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'iso3166-1-alpha3',
     'CZE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd23a4b11-188e-4e57-bc70-6dfc9c30f5c7',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '91871003-7771-4480-bc8c-df263f16bbfc',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'iso3166-1-numeric',
     '203',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c08d7712-ec75-46f2-a2fa-e387a0063124',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '79fe2381-7479-4e77-80df-17844e8ec9ae',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'un_a3',
     '203',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72d12c23-7f21-4f14-bf11-72e7268259f3',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '4daacf3d-7429-4599-a631-cf33d5fac31e',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'world_bank_a2',
     'CZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dd3b8a2f-e91c-4246-adab-2dfcf03de90e',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    'b165872e-2ad9-4a16-8623-f053acdf02fb',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'world_bank_a3',
     'CZE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e0514680-8067-4559-83b9-3d46485974c9',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '90a914e1-4acf-42e9-ba3c-9a65f846f1c2',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'natural_earth',
     'wikidata',
     'Q213',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ce097b0-7b6d-44c6-bc5b-9e17d8544db1',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'd76dd6ff-31bb-4c49-9d67-fc1026a1a3ee',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'natural_earth_admin',
     'CYN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fe98da80-4c31-4885-998a-e9d9a34b6e31',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'c9c56b8e-5bc7-437b-a8f9-f765f943e498',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8562fd3b-2c80-42d9-8a0d-2a29189ee926',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '8a29e67e-c1d6-4b3b-94e5-3cc976372055',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3dd7cd87-4431-4e28-8fa2-de3a97764b6d',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '48421aa8-759b-45dd-9d18-a76eceb1b4c4',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '141e5303-bd7e-487b-b4b4-0a4fdce14597',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '5eeca2a3-4c82-4e3d-9131-f9c803ff554e',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cd096fc0-a019-467b-89aa-728b61139fa1',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '67165090-0706-455c-a43c-627727c98a82',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '414ee96b-9e0a-4893-8ce1-3cb1eae986b7',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '478fc52b-cc31-4146-89f2-75c032079723',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '63daa845-5833-404e-aabe-22a544d5a833',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '36ad66aa-630f-4d38-bbd1-af690f5ae443',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'natural_earth',
     'wikidata',
     'Q23681',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '47d1e1a3-4d1d-4746-b532-2a049af6576c',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'b44f0bab-fe07-4900-a5de-e2c78f2cb237',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'natural_earth_admin',
     'CYP',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bcaf31cf-56a8-46c2-a567-b760f1ead2cf',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '4c135720-4356-44cf-b2ae-54bb2458bcd9',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'iso3166-1-alpha2',
     'CY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b8094698-408d-4200-a4b5-53429cc222ab',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'e20628f1-f816-457c-b947-4155aa9fefe8',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'iso3166-1-alpha3',
     'CYP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ba6fcbb-05da-4cda-87e9-451c430bd8d6',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'b1589490-f518-4fd3-af81-c19ce4b2bb58',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'iso3166-1-numeric',
     '196',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b48730c-7961-4288-ac71-d02110ae3b1e',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '9a952f12-dba1-40be-9c76-6472c1b1ce6b',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'un_a3',
     '196',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6b95b3e-9c80-41cf-a8d9-9b4de4447254',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '6b566ad7-c276-4df0-b91b-f4e44816a38b',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'world_bank_a2',
     'CY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '917972f0-a9af-49e7-9f40-f5af744bf2ca',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '7b35bdd2-a128-4f14-9062-bef3fec90209',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'world_bank_a3',
     'CYP',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3bc8821e-56f2-456e-b552-9746b281fe73',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '69b13567-9f45-4127-8908-37ab443ce5b1',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'natural_earth',
     'wikidata',
     'Q229',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '97aba42b-e5fa-440c-8dd2-734e7f3424c6',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'c5c05973-6195-4c11-a71a-db31444fa992',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'natural_earth_admin',
     'CUB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd7584f7a-0cad-43b1-a1f5-62348d512b4d',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'e9719f4b-dc33-4f76-9d3e-c646083acf3c',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'iso3166-1-alpha2',
     'CU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '31f39f94-93db-4eda-bcbe-db4e3de372ed',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '59db119b-5213-4c51-95b4-d6a3c75fcb12',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'iso3166-1-alpha3',
     'CUB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3923ff9e-4cbe-4d7f-bf2c-ad9df94af1c5',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'f0fc2eec-c5cf-4a38-90d7-b2c7c0217df0',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'iso3166-1-numeric',
     '192',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d6f3e1c-d9d5-4d26-adb8-f1ffca056373',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '245c8e52-409b-4f7b-804c-bc34df981b70',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'un_a3',
     '192',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b9dd17d8-7520-4549-a65d-d3ff490549d2',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '0039ca75-fa11-4ce1-bafd-d8277d16f0e2',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'world_bank_a2',
     'CU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0606332f-6a49-4b0f-ba03-f3771df88f41',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '26112329-56ac-4440-a2bd-36cbf584c3ee',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'world_bank_a3',
     'CUB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cc00c6a0-3b8c-4549-aa5f-ab177bb5f2c4',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'b80f2ace-eacb-406f-b33d-f284d806fd7a',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'natural_earth',
     'wikidata',
     'Q241',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9a7ec3b0-b4a1-4c99-90ce-f3b6e67c2af0',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '81f22391-d344-4353-bca7-328786e1a0e0',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'natural_earth_admin',
     'HRV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'adf257cb-bcea-4c2a-8e44-19faedf29619',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'd9b7b9c9-dde2-4580-bd26-89228ed97e1e',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'iso3166-1-alpha2',
     'HR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd871730b-8319-4f86-a71a-eaf79624e25d',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'a529208a-d1da-4a78-917b-1a526fbc4f09',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'iso3166-1-alpha3',
     'HRV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '58621848-bdf7-41ab-b3ea-cac0bfd91d80',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '26a7184f-b312-4855-86cf-9aa322945b1a',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'iso3166-1-numeric',
     '191',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3888d79c-28c8-43b6-8ae7-cb4743f1fef1',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '61d70e1f-ee0f-475c-b061-0489df4014db',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'un_a3',
     '191',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b3462ee5-ccea-4c04-8fd3-8c20f1296b43',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'e4be225e-0325-427b-8739-6afe6be4b1ef',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'world_bank_a2',
     'HR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8db1f7bc-a2cc-461a-bc4e-6f9467c30492',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'caa313f3-faa6-4caf-910f-93dcc24bd387',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'world_bank_a3',
     'HRV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bcba01e3-ac09-47b9-bb7f-e4fdeec132a8',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'ec448ddb-c2d2-42c4-a6c1-8722483081f3',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'natural_earth',
     'wikidata',
     'Q224',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '68d3f55b-40cd-4583-9829-312a30e3463f',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'a3a91969-5705-4e9a-ad43-41d74c1a5fd6',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'natural_earth_admin',
     'CIV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '097036c8-40c1-4cf8-aa70-c22dc9151054',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '74a6d2b0-23f2-480b-8a7b-7f5e8c0cd1de',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'iso3166-1-alpha2',
     'CI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9948eed8-353a-4e50-9df1-68551ca05e05',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'fa6cf275-1e1d-4ac2-a8a2-46f1b020c530',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'iso3166-1-alpha3',
     'CIV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5a4f0fe-b032-408a-b072-e6cf2ee8f41f',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '9216d53e-61b0-45cb-a616-2e63f328b40d',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'iso3166-1-numeric',
     '384',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e783c3cf-7fe6-44ad-8095-f8c531f67ad8',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '213a74d5-867b-4f49-b3d5-72c4533e4e8e',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'un_a3',
     '384',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd5ce092c-4f51-40bc-a9ef-bb3f7be77cb4',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'd0aeba96-e994-4ee3-8a98-56500136e420',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'world_bank_a2',
     'CI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c39f8951-1c09-4393-9d9e-e0f3760e0331',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '04eb2fef-cef0-40e8-ad4d-bd2f59fe29d9',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'world_bank_a3',
     'CIV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4ae4eacd-53bc-47ea-82d1-5c8a9e2cb840',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'f915dd0a-6e2a-4736-b32d-7172da97b192',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'natural_earth',
     'wikidata',
     'Q1008',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c706fad6-5196-4300-bafd-2065071270a9',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'a2fd76ba-f2a9-46af-beb9-fd61e4351565',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'natural_earth_admin',
     'CRI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ed3b3136-b30b-4d30-83ac-281adec2cdca',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '702ec98a-2645-48fc-abd4-a47c5a8f8826',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'iso3166-1-alpha2',
     'CR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7284e6ec-c242-48fa-88f1-e1809b802a4e',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'bf4ea682-1a02-4f2b-a461-d15a52bad407',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'iso3166-1-alpha3',
     'CRI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '802efb35-ebc9-4123-8555-2670b7ca2c9d',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'f1adcbbb-ce4f-4578-bb43-1b23be38d888',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'iso3166-1-numeric',
     '188',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '546e2c6a-1488-44cc-980b-2b9a482b39eb',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '466f1181-7837-491c-9bc1-c139fa718b9a',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'un_a3',
     '188',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c1569b0-27f4-4eae-8060-797c91f1a422',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '1200401f-224c-486c-ba04-593bdcabec95',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'world_bank_a2',
     'CR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9bb4931a-0305-4fb2-b7c6-5eda33c4ad60',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '47c53265-0496-4a7e-a913-dbfa5232320d',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'world_bank_a3',
     'CRI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a707db7d-7f2f-49a0-a283-65cf626bb40c',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'fad40fe1-55f9-4cd3-b638-d4221f7c6fa3',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'natural_earth',
     'wikidata',
     'Q800',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18db82f1-5b38-4158-b4f8-03128885555f',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '642b432a-87ca-4d10-8a60-b09dcd7316a4',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'natural_earth_admin',
     'COD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3dacab86-5e9f-44ab-8374-464a32ca83a2',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '34f8f189-e6cd-4a85-ac0f-9a3a5b1ad94d',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'iso3166-1-alpha2',
     'CD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd8b2a42-2790-4d2f-90b3-6ae3a605737b',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'd643988e-fceb-4fc0-adbb-fc4d3759eac5',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'iso3166-1-alpha3',
     'COD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aac3ca31-2abc-4261-a354-12642aa5dd6e',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'a7b345ed-75d8-4ae8-aae5-a367f57a9002',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'iso3166-1-numeric',
     '180',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6ae5fc7a-69da-4a8b-9c62-0bdc55389e4c',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '05d45103-e7c3-4819-a976-7b4621fc903c',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'un_a3',
     '180',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '708bcc31-2818-47cf-bbfe-66b0c91bdb3c',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '456626bf-4e42-4ee5-9214-1d2e6b209da2',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'world_bank_a2',
     'ZR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4dce6231-2ae7-4c54-9ef3-c387872e5d36',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'b9c34205-c9cc-4bd7-87f5-0a7e965b5187',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'world_bank_a3',
     'ZAR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3f991c4f-f07c-48db-9e61-7e76ac7a0c95',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'e7898c35-75fe-454b-a2ea-6ef516efe1fb',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'natural_earth',
     'wikidata',
     'Q974',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4c6eee07-4b26-4373-8986-efffc9512fb0',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '856b6641-99be-4820-b51a-c04246b6ba0a',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'natural_earth_admin',
     'COG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7012e722-8ead-4d6d-bc98-b47577bb4166',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '42e59008-0185-4cad-a084-45e36b6372a5',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'iso3166-1-alpha2',
     'CG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74c9cf59-f7b7-4c6d-a9a7-9a1e53bac703',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '20b36cfe-539e-4485-a5e1-ec56c49912e2',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'iso3166-1-alpha3',
     'COG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b680943d-9d8d-4801-b027-6b13fec42bc5',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '1da55063-8205-4358-bdf4-a53b66faf905',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'iso3166-1-numeric',
     '178',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2321de73-5e75-4b74-bfe7-9d5fe6a84f40',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '10a530f0-34a6-4430-971c-387d523724fc',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'un_a3',
     '178',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'eff4cb47-9a50-4469-a60e-d4bc02812045',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '0527164a-1bbc-485b-8023-388e9f2b3ba4',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'world_bank_a2',
     'CG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '34097fca-8467-41e3-9d25-10e651e0795d',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '91579e10-72d9-4872-8226-befcc5515aa3',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'world_bank_a3',
     'COG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61c42b4f-dc45-4f3e-bcaf-65ee26eb6192',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'ad81c17c-40b8-4108-8ad2-73a2cfd7afbb',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'natural_earth',
     'wikidata',
     'Q971',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b36821ce-2c00-4975-813c-bae4b8626be2',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '0084c4d6-00f5-47b5-b82a-eead4657ee1c',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'natural_earth_admin',
     'COM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd26ebf3-af2b-4e14-84c4-d417ce2899ca',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '50fd30df-4e26-492d-9db6-d26ee7e722df',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'iso3166-1-alpha2',
     'KM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fc3aa996-4669-429f-87e8-351305256df4',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '127a55df-655c-492e-a305-5b14896da3f7',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'iso3166-1-alpha3',
     'COM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cfa84b90-521f-4e84-bffa-c9567c0e6e60',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '399809c1-fa65-4770-9c2c-c5bdbb8945a3',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'iso3166-1-numeric',
     '174',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '486c8046-4086-4b9e-bfd8-6e708191374e',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'dfba93d7-60f4-447d-8bf0-348ae36ab959',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'un_a3',
     '174',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bafa10b8-161b-42c0-a8df-b1854de3ca1e',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '1a9b50dc-c940-43ec-9de6-79b08f330c86',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'world_bank_a2',
     'KM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c43e308e-1fb8-4cf0-b9b6-bac31197e045',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '76c15478-a5fc-4f1a-a469-81ca321f46c3',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'world_bank_a3',
     'COM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8917ffec-267a-4600-ad81-c4756ffa0331',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'bccfbe10-2d42-40dc-b4d0-e6c9ddcdb4e8',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'natural_earth',
     'wikidata',
     'Q970',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c3da0b42-c20e-46aa-9178-1770b235c49e',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'a63226df-f431-4668-bfbc-49ec0cd41310',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'natural_earth_admin',
     'COL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7d8f2df3-e2b7-4b8f-aac9-98a1fdc65c92',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '25914a3f-6d52-483d-a1ac-03bf7b3f2ac5',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'iso3166-1-alpha2',
     'CO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'af8153f4-3a6d-480a-8aae-42541b1cbf99',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '6f9caddc-86ee-4e48-868a-0ce4d09615ea',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'iso3166-1-alpha3',
     'COL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '161bd92c-7b0a-43f9-899c-d7d9df099485',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '3738cccd-d31a-4b91-94bf-03d9dc339268',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'iso3166-1-numeric',
     '170',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ae7b4a29-e2e5-47ee-8f4c-040025d5c7e8',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '97382adf-055d-49d1-abc9-a2cb1106afda',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'un_a3',
     '170',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5e6007cf-d572-4c1e-833f-4b292335ae11',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '20823f60-6c67-4f92-9f74-aba111c212f2',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'world_bank_a2',
     'CO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7d0698ab-db4c-4954-8511-194473a15d90',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '006e2527-51d5-462b-adb1-614b507f09af',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'world_bank_a3',
     'COL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '982a51b5-a3aa-4162-ada9-c487f4369b3f',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'b9095227-af55-41fd-9cce-f7adadd92458',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'natural_earth',
     'wikidata',
     'Q739',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14456a65-b516-4986-965e-d1b850c7e49e',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '85128806-c93c-41d6-8813-eb740132f598',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'natural_earth_admin',
     'CHN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9f0ac253-b225-4001-bb86-0a96b90dbb0b',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '4679fa31-7b7e-45e6-adce-e4f0ac97d756',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'iso3166-1-alpha2',
     'CN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87fa970f-6b73-4f57-b44e-b09e6edf9a96',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'a2f969d4-e7df-437b-b033-377bb7feb4eb',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fe8649f7-a075-4294-a398-a847aee9aa56',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '4e07b85f-ee38-4b95-bb8a-e4e4de87e4aa',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'iso3166-1-numeric',
     '156',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1faf1aed-5c3e-4c39-a70a-b265f9c9c39e',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '88fee297-f501-4a17-b830-83c55136556e',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'un_a3',
     '156',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82445128-8a57-4a62-b223-9b385ea80b0b',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'bba85c76-baab-4e32-bae7-95573d42ccdb',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'world_bank_a2',
     'CN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f5d2e9e8-d435-4bca-a713-4e4b14c7532f',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'e2fbab22-55fa-4d28-b9f4-d01f07ae4b62',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'world_bank_a3',
     'CHN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23fdf123-9df4-4666-a401-f28b8a408a10',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '32061cda-4012-4b05-ab68-68eb3d6c5b7c',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'natural_earth',
     'wikidata',
     'Q148',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '616e1703-90c7-4e65-93ed-965b20ee8da6',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'a46e34d2-8017-45b7-8294-ca5c8111196a',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'natural_earth_admin',
     'MAC',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e0f927b5-5582-4505-b53b-e5783d58f36d',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'a13b23a3-8659-43f8-891c-ba7cb9bc3a55',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'iso3166-1-alpha2',
     'MO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0cc4d51-3573-4e19-8a35-3b0c83ada4c0',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'd555421a-a755-4fb0-8eb4-deaa6e50edf3',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e1b22725-11a3-4647-bfbd-69f80acaf67d',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '0a8c0f4b-377e-43f2-97d5-4040afb6f8d6',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'iso3166-1-numeric',
     '446',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87f32079-1d07-48bf-9d4a-f89f3a3a348b',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'e3772425-cf64-4caa-a7eb-5b2b1d921a9e',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'un_a3',
     '446',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9c619431-42f3-4a0d-8051-ff28eeb14a99',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '5f4f2d1d-ce24-42a4-8ce7-e8930994fd77',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'world_bank_a2',
     'MO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '165f45f7-5818-4c9f-9325-ee58e65cb25e',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '5c8f8a8a-96d1-4bdf-a5af-613a0bccfe2c',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'world_bank_a3',
     'MAC',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a170d3f7-071c-433b-9f66-3a724640cd76',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'dbc1e4fb-b571-4341-8b3e-74db2581e53d',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'natural_earth',
     'wikidata',
     'Q14773',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd89a9b20-b7a1-44db-82da-2993b2f918f0',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '509cfaf0-de71-4ae5-b86a-141989cd6347',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'natural_earth_admin',
     'HKG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '901f4004-57ff-4995-92a6-c1d74d2229ec',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '03d4ed8e-5393-4726-9a63-98f1c5681bb1',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'iso3166-1-alpha2',
     'HK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1731c441-8fc6-4c6f-a36f-bd0e1586330e',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'ad9e6872-5c1c-497e-826d-d95009cad37b',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'iso3166-1-alpha3',
     'HKG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9d95b4c5-3cfd-49ab-85da-0398627ee7e8',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '215824c3-86b6-4c8f-b98a-ad5a57e6bf74',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'iso3166-1-numeric',
     '344',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '072b3157-e246-4fc7-aa54-291ad61fa957',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '3a7d0990-99e9-4c71-9017-5a316c3b86e5',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'un_a3',
     '344',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd1c7402a-e848-45a9-b598-add073002bba',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'bfc174ea-63e2-4202-8b49-431ba806ebe8',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'world_bank_a2',
     'HK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '53c00ae4-d96b-488d-b839-3aca8105c542',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'df390dfb-5b30-4e99-977c-601ef8b6b65c',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'world_bank_a3',
     'HKG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ccbd851-d127-4e96-8999-56a173d22ce8',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '8e02dce1-ae96-45a6-9dd0-a7c922324093',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'natural_earth',
     'wikidata',
     'Q8646',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '10dfc90d-88ad-4b84-9abb-421d1266b842',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'ef605046-3937-48ba-890d-dfc086f036e1',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'natural_earth_admin',
     'CHL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b03a6037-6a17-4dec-af33-f70eee7ea774',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '111f0317-0ef2-42f3-9521-bf7bd1310a19',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'iso3166-1-alpha2',
     'CL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8bf1fccd-e4e9-48e6-8df6-ca99de63cf8c',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '5e93c1d8-458c-4b23-8bc0-bac53fbeb64c',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '98f519dd-1761-48a3-a697-1005a7583750',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '377b2b64-3038-4ae2-ba1f-b94b9ffac540',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'iso3166-1-numeric',
     '152',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'aefee15e-2a0e-4844-8a2a-17fec9f83b56',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'b0ad167a-05c4-4986-af8c-672ffd50fe0f',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'un_a3',
     '152',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a59f510c-efef-4640-8beb-2feb04df15c7',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'd4adab08-9c53-4ae4-9295-012176c3497b',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'world_bank_a2',
     'CL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e49ffc60-38e7-4d5b-bc51-11f757f597e9',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '85728e53-83ca-44e5-b3ca-2aec3e64cc5c',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'world_bank_a3',
     'CHL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '68af9ffb-7268-42f1-9468-17ab98d9b46c',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'f316cfcf-6e9a-44ba-a0a0-c9770b3f1a67',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'natural_earth',
     'wikidata',
     'Q298',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '79b7be85-46b6-4562-af32-c78249af5994',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '2f7481dc-2df0-4a84-ac55-f427a1f2dd04',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'natural_earth_admin',
     'TCD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '71c40167-8dda-47c5-bda6-0b327f57b9e3',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '542836e5-803f-45a6-a9dd-2649f7e61483',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'iso3166-1-alpha2',
     'TD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '66f07055-a432-4b72-a467-83c042fb8e55',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'f83ee6d7-f0ba-4cbb-aa07-ccd0ecbe9ced',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'iso3166-1-alpha3',
     'TCD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'af9d9f66-da56-452a-a082-b5ab4cf953f8',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'f2c724a6-08fc-42d8-a11c-84c64a052585',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'iso3166-1-numeric',
     '148',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0589469b-63bc-4df1-9fef-73ced68708a3',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '040ff86c-0018-4e61-bb8b-119d30c44a60',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'un_a3',
     '148',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3909a226-e70e-4b3a-877a-89b6690fb36f',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '80b13fdf-8482-45a1-9c00-3771f6cd6476',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'world_bank_a2',
     'TD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9952c835-a139-44e0-a8e0-ce92b130c1cc',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'e5d58a0c-76bc-4ea7-a458-57a933d026dd',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'world_bank_a3',
     'TCD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec690eda-8cc2-4755-9649-5ead5216bc37',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '2e9a7973-4c30-4e7d-9798-5c1f88c1a960',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'natural_earth',
     'wikidata',
     'Q657',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c926cca-4715-4172-8835-c6b2316048e4',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '9dee75ff-29c1-4787-8cb9-63d719569ca6',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'natural_earth_admin',
     'CAF',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0191e40a-51d0-4033-8046-057dea7a98df',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '085fc511-8d91-44cb-98e6-48b8a8bc6029',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'iso3166-1-alpha2',
     'CF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e49ac511-6f05-4e33-a005-821c439a2433',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '3bdd4b2e-d2f2-436b-acf8-7a99261c7782',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'iso3166-1-alpha3',
     'CAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '50f43c82-4948-42a6-9ad2-39434210721c',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '26e37d13-fb73-4c48-8f0c-7198470aab34',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'iso3166-1-numeric',
     '140',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fb24b5ae-d31a-4bd2-ac8e-a7c3b6d7b622',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '84537217-6e63-4f18-92c5-5b84712883ac',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'un_a3',
     '140',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '39ea6070-7947-4cf9-b0fa-90d393c7fa0f',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'f9dd47f0-7405-4083-83ff-945a38f88e59',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'world_bank_a2',
     'CF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c9eaa44e-44dd-4417-9d66-4c1107e52ade',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '2978670a-5e5d-4709-9949-d23fbe1124c2',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'world_bank_a3',
     'CAF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd9e42d03-36fd-49d8-b6b9-c7c95b159a99',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '9a3a1c84-4839-42c6-a8e1-fa968db64ab6',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'natural_earth',
     'wikidata',
     'Q929',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37df07a3-965f-447b-9a1a-5b6d901275ef',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'fa8e848a-3d3f-4889-8e2d-70aafc70cf3a',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'natural_earth_admin',
     'CPV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ae7480c5-954f-4a54-a0c8-5ce9de98031e',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '02a23c16-9203-4e4e-b75a-1f4a20b9da4a',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'iso3166-1-alpha2',
     'CV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e5a7146e-1dc2-4fcb-8fee-9e66c71aa374',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '5b888fa7-613e-4905-a7b6-68f4449190d4',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'iso3166-1-alpha3',
     'CPV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '86831e49-6ad2-4ee1-ba82-5297356ef07e',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '84389e09-1ca7-4ded-8c34-827040f27965',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'iso3166-1-numeric',
     '132',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9bcf8679-cf01-47cd-aa98-77f2981bd809',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'ca299215-f9ec-4ca8-aeff-0ab3868ae7f3',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'un_a3',
     '132',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd2b7681-a4dc-4a59-baa0-eda302938624',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '3d586d8c-fae7-430c-a48c-d45e5f357b77',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'world_bank_a2',
     'CV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b172e97-5208-403b-9fa4-c3624b144c45',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'b09ccaf8-cb68-415c-9e88-1431699a0797',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'world_bank_a3',
     'CPV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b919d97d-36a3-4551-b021-1dbd825e6ec8',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'd6446b55-c87d-4110-b654-6f651d10b6ef',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'natural_earth',
     'wikidata',
     'Q1011',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b6911324-7ee6-4af5-a4d9-4b208b9bb879',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'efb71945-22f6-4417-b3e1-6bbf72b1b83f',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'natural_earth_admin',
     'CAN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd07b205b-1da4-40ef-a5e3-e496ec74632a',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'c2840cc1-b75d-4c37-83f9-fa958d2707b2',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'iso3166-1-alpha2',
     'CA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '62696f78-1dea-478e-b2de-1176ff5f2a53',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '856a9d5d-4d65-4a87-8b3b-6041c0afcf1e',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'iso3166-1-alpha3',
     'CAN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6fb73342-fa11-4f69-8fa7-2b399dd6b65f',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '2103f63c-58bf-4030-a8b2-caa78be38383',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'iso3166-1-numeric',
     '124',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a4ad74b2-cd02-412a-b2d9-775a458b8a31',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'b14b58d0-eb60-4c5f-abaa-ad61fa4eed0c',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'un_a3',
     '124',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '88f884a1-d0ba-463b-8a8f-a830dc0c2416',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '8fdb9d74-dacf-4e21-aa78-5a50f48346f4',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'world_bank_a2',
     'CA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '463e3bca-1dc9-4824-aec6-654b6bddc6c3',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'c06d6690-ae62-48b7-abc5-5293cb82b463',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'world_bank_a3',
     'CAN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'af7452d6-2f7a-481a-9258-c164320192a4',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'adf932cb-163d-4873-a237-6c135bea5efa',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'natural_earth',
     'wikidata',
     'Q16',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '36bdd301-b1e5-4e37-bcf6-394561498b4a',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'd39e4c62-e5db-42e7-b1ba-2de596153271',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'natural_earth_admin',
     'CMR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd7604f8a-f422-4664-b2f7-fce1ab94d1c5',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '7206d2ce-ab9c-42f4-b755-64ebaa0e403b',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'iso3166-1-alpha2',
     'CM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b0f7284-9f48-44ed-ab18-da1e5408c03a',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '79776e70-afb3-44aa-83a3-8d1628b10653',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'iso3166-1-alpha3',
     'CMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bd1a44d8-7bc3-4928-9e79-e92d9e998b89',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '1195aec4-1a50-44e9-a933-2946d0d63bb7',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'iso3166-1-numeric',
     '120',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bde133d6-1d90-4415-bd0e-d7bfe3981909',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'ca658594-7bfd-434d-9627-e7327168136e',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'un_a3',
     '120',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4287f9e1-6068-45ad-b376-c6c7bf66b55e',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'f57c3370-d05a-4186-8863-f07442ef4f92',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'world_bank_a2',
     'CM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3f6b1c71-bd62-4271-bc1c-f42e8ee06379',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'd6fb0661-b036-4b54-8045-ee356bd102a3',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'world_bank_a3',
     'CMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '60109580-575f-4481-9d4a-ca9f9726001a',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '79f2d0fd-d1a2-46aa-94aa-689d8d538d8e',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'natural_earth',
     'wikidata',
     'Q1009',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0e8856e5-1c4e-4f22-84d4-4539f2aece56',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '1aedc010-07d8-4433-87bb-7c4886570271',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'natural_earth_admin',
     'KHM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '284a8bf8-30ef-4c5c-a142-b22992d9de13',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'd823aa41-d07d-4bdb-8470-392deff27685',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'iso3166-1-alpha2',
     'KH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e63a3b72-a47a-42be-8d84-4ff649b2e85e',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'f8535d40-7bae-4a6b-80d4-b2fe3ae53362',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'iso3166-1-alpha3',
     'KHM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '65b9f6bf-6034-4395-9cc9-2faddfbdeb66',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '78574762-bb63-46c8-807f-d147dd1a3635',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'iso3166-1-numeric',
     '116',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'acd8857d-4d58-470a-8f67-dbd0cdaab273',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '99bde75a-752e-4fbf-830b-3909beab38d0',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'un_a3',
     '116',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '618a3ace-f2ce-4254-893f-342291dd9cf9',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '6edee035-1fde-4442-9f1b-f60ce0dc3769',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'world_bank_a2',
     'KH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0d7321e2-da23-4c12-aa9a-c9294fc2e269',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'a8ab70e7-21be-40a6-869b-cda090165afd',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'world_bank_a3',
     'KHM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '99af1791-67df-4df4-a7e8-a088af946a9c',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '3dbb1a67-e6d7-411c-b06a-ef1fdf311268',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'natural_earth',
     'wikidata',
     'Q424',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9dcee9ed-de04-4470-9915-1e04d3a6cf29',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'a304bbf8-9db7-4524-b21b-ce220e8cb8fc',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'natural_earth_admin',
     'MMR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '327c1bf7-6218-4f46-87c1-2358fa9391bc',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '3027ed7e-6e66-4b66-8462-c1ed89e8de89',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'iso3166-1-alpha2',
     'MM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '845d0ded-7146-497c-8c18-3cf3378adaa2',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'e820960e-7ec9-4673-9de0-22aedb936ec4',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'iso3166-1-alpha3',
     'MMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ecc211bc-5deb-4c16-a4f7-3ef822af86c1',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '71802060-83b3-466b-8778-3fa09f7f0543',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'iso3166-1-numeric',
     '104',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3b574a1c-f6d8-4120-877d-957e834f9d4e',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'e1f237b5-b9e9-4422-8af6-a0b8e988fbfa',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'un_a3',
     '104',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'daaf94e5-9281-4b4a-a35e-66b00344c142',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '914daff0-fbf9-484c-8790-5ce1ffea7e99',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'world_bank_a2',
     'MM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '21ae805f-2383-43e8-bfe7-56650453ac5f',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'ff1a4ea8-e93b-42eb-bb67-525e5965eb4d',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'world_bank_a3',
     'MMR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0345ae9e-55bf-4581-a404-99bd0c8e3f18',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '36b21cbc-78d3-4869-896e-b19152de467e',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'natural_earth',
     'wikidata',
     'Q836',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '278702e9-5c93-45eb-a506-a18466ce70b2',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'f9d5bbf7-cff2-4dd8-88bd-e21bd8439c8a',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'natural_earth_admin',
     'BDI',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6de2d2d6-41d9-41ae-86d5-14ff4ceed868',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '50f8b599-8c04-4379-9d0e-1ececac62582',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'iso3166-1-alpha2',
     'BI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'df3f46f1-d917-4c0a-902d-38c358ae05c5',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '9c72937e-1fce-4ab5-80bb-e7588f8fc63c',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'iso3166-1-alpha3',
     'BDI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '27930160-81f2-4da8-a543-070147fe941e',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'd74aa137-b1ef-4621-8ae9-59f296189dd9',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'iso3166-1-numeric',
     '108',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac9ec654-341f-4350-a6ab-1d68569aa5f1',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '7fea6e4f-3711-4c88-9298-d0d13a4527ac',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'un_a3',
     '108',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9864e77b-1285-408b-959d-978c843dc8fd',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '1fd8ab53-3bfe-48d4-90a2-15484b2c46ab',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'world_bank_a2',
     'BI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3a15a823-9867-447a-ac2c-c4dc212afb0a',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'b5d2e06a-4f0b-4cea-a321-091cf48dbe94',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'world_bank_a3',
     'BDI',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de1307b9-9135-44c2-9c5d-0a12d5d914bb',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'fd340ef3-4481-4df5-b122-8e4caad54948',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'natural_earth',
     'wikidata',
     'Q967',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac677fa2-8dc4-49d5-a55d-d5b9866ccdd4',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '36f8f6e7-8bbd-470e-b7f6-e5b0b51e7606',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'natural_earth_admin',
     'BFA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '40c95035-5e4d-409e-9ef4-39625c684044',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'e31858e8-8cac-4544-95f3-5f1b1bc59b7c',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'iso3166-1-alpha2',
     'BF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a301c9bf-8d65-4c58-9144-98c7e687fe7d',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '36bd12ec-bc87-4bf2-bfce-4c56980189f7',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'iso3166-1-alpha3',
     'BFA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd67ec36a-ec68-4789-bcfc-449c69e9e282',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'de59c634-13bb-46a6-8cbc-a27b3e82f2b0',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'iso3166-1-numeric',
     '854',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e19e7781-936c-47cc-8253-c98e54a96202',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'b128229e-3e8a-47d4-905c-520b2f570a74',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'un_a3',
     '854',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c72ad5a9-3716-47d7-8641-ea3f9313dcc8',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'bc9a662a-b673-416d-8bf0-cc2698043cb6',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'world_bank_a2',
     'BF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ce522ef9-1f2f-4d2e-b519-088c1628eb2d',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'b7452ee2-29c1-48fa-8ceb-e309e544d830',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'world_bank_a3',
     'BFA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2141205e-ca58-4254-b2cf-66001457f159',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'dd19f020-838f-44cc-9cc5-9df09a2b6535',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'natural_earth',
     'wikidata',
     'Q965',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a06f3d7-d3f1-41e2-b6ef-b46b0ecbe5a0',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'd5851329-b2ec-463f-80cf-0442a1dd6a17',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'natural_earth_admin',
     'BGR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '690d579a-73e3-42f5-85ed-456a527c1a14',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '229e0a75-b35d-472b-b263-0579d0e34182',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'iso3166-1-alpha2',
     'BG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9356baeb-2e97-43a1-bf2f-266ede0fa31c',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '33552ad8-fc77-4245-8a75-8889ef5ed730',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'iso3166-1-alpha3',
     'BGR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dadf3f32-551a-48b0-9417-1fdcfeb7f9ab',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '3821b6e9-c13c-4d3a-9ad7-f21ce24eeb35',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'iso3166-1-numeric',
     '100',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '218bc72a-d86f-4777-96e2-437edf3ed8a1',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '397a2a6c-195a-4245-8444-10a38f9e0af0',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'un_a3',
     '100',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dff96313-f0e1-4fce-8a23-297d49343201',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'bff6b12d-8b9b-407c-877d-2bbdbea2e1dd',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'world_bank_a2',
     'BG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18479edf-5970-47d6-9bd0-154e719e5387',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '986987e2-24b6-44e5-9b44-e25817f3834d',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'world_bank_a3',
     'BGR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8242cf17-9a3c-486f-bf49-347e0722f78b',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '4df7717a-1b70-4ac6-82f4-c0be8362c04a',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'natural_earth',
     'wikidata',
     'Q219',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '26497b87-1af7-4093-836f-d05bb387e3e1',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '8c084cc7-6b98-44b1-9742-7393f7fd41b2',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'natural_earth_admin',
     'BRN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '70fae7ed-f09b-455e-b569-b47020f8250f',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '8a96e735-36f9-4910-ae62-f728fb49b633',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'iso3166-1-alpha2',
     'BN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1af7e6e6-4cad-4456-acf3-eb9eed8cb1a4',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'fa54c25d-a196-432b-abe2-35ab0e357168',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7a0e19ff-c584-4d54-8197-26d528d60b03',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '5fc560cb-af69-4d7f-8c9f-aefcd744cc02',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'iso3166-1-numeric',
     '096',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7f38cd20-5077-42b4-b6bc-62f0d8884450',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '8e211b6c-0b6b-4c44-b231-1b11f984f7b0',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'un_a3',
     '096',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5aae12ff-5bdc-4324-a3f8-fbe7a7b79861',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '6a81b791-48a5-4f58-bcd9-246d0a4b89fe',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'world_bank_a2',
     'BN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87ec6697-aeee-4136-9536-eb1a409220eb',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'e5c49e58-5a74-4f5e-9fd1-20c94e011e92',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'world_bank_a3',
     'BRN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a352eae6-4b59-4d2d-9bec-b623068262dd',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'd1136934-7b45-4c84-8902-e3c84849af45',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'natural_earth',
     'wikidata',
     'Q921',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '28b16d18-30f0-49fc-a2aa-d60a5fb9f369',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '4fad79f7-e4d2-44e5-849f-0d6a628dbe9a',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'natural_earth_admin',
     'BRA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c601f9a-affd-473d-94d7-687bc4034fc2',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '4781e18a-06f2-4f92-9f4e-08c7760ba317',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'iso3166-1-alpha2',
     'BR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd94d65d4-49ca-4b43-b698-1a0c92c5a664',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '1bafc8f9-5fa6-4f3a-8226-457e967543f4',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9049b642-277e-4a9b-aafe-875ecd27d614',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '384b12cb-e172-4b89-bd4c-0b6e8f7ea8b1',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'iso3166-1-numeric',
     '076',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '66b6a24f-5bf4-4f7a-82dc-b4e1a27eb813',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '3d4edbba-a354-4331-8d5a-540d15963c57',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'un_a3',
     '076',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '687a8e30-b776-4d22-98b7-af286ff2a976',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '348d4467-6d57-4d90-a18c-f8a350e1fa91',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'world_bank_a2',
     'BR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f89c1663-d219-4ae5-b1c6-ee46358b6990',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'a4055271-4112-431b-83bb-6f34d528424d',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'world_bank_a3',
     'BRA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cb2cb258-2698-4819-b11b-c1c84efa3cf3',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '5843dd69-cfa9-4999-a2cb-be1502dc8eb2',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'natural_earth',
     'wikidata',
     'Q155',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2dbf231d-058f-4ecb-8f17-96b2ece5fff7',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'b258316b-7cba-4c7f-b98d-92f6aaf65656',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'natural_earth_admin',
     'BWA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5f211cd-cce0-4326-8126-b45c6cb7cc69',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'ca24d692-0e82-4a17-9663-a8c663d69186',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'iso3166-1-alpha2',
     'BW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82268ca1-cf89-4521-9260-d332fe998916',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '6310909b-a8df-48cc-8d71-fd3f6e817a03',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'iso3166-1-alpha3',
     'BWA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bf429c87-440e-4ee5-a650-27057ec66fa7',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '19fc0649-2c09-4112-ab1b-5fb950cfa08e',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'iso3166-1-numeric',
     '072',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e87725a-6274-49ff-8895-329502230224',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '2a0aac77-0b1a-488a-b29c-06f8d6f250f2',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'un_a3',
     '072',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'af6aa57a-cdce-417c-aa5c-2630e5b76695',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'c7019be7-e30e-44a2-9a5d-31e6cbc095d2',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'world_bank_a2',
     'BW',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4f2fa8ec-859e-40d4-869c-af5605d7e3e8',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '65b0d84d-c436-4d8b-bfbb-3e18d77208e2',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'world_bank_a3',
     'BWA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1c224412-a1ac-4090-955e-0cf2f96b9247',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'cea84057-e403-4f8f-b56d-09aac734d5cf',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'natural_earth',
     'wikidata',
     'Q963',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7b2d4ba2-72bc-400f-bdb1-801527d3db3e',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'dfbd11ec-ea48-4afe-8613-2b445fb00ca0',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'natural_earth_admin',
     'BIH',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94ab8bcf-0452-44a1-9969-85a11e285446',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '1bd768e9-9aa1-4b05-92b8-7e6947e015c5',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'iso3166-1-alpha2',
     'BA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '988c43be-1855-4630-bcdf-1c895dc13e30',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'b8d8384b-8d09-47bc-b861-ff4eb4608e96',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'iso3166-1-alpha3',
     'BIH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dab88c5c-c6d5-475f-9ea7-47fa37c61481',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '9fa21b00-1b87-4f7d-8136-1940a02183c6',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'iso3166-1-numeric',
     '070',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3530b9ec-707c-4ac2-97a0-0641c45f427b',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '1d1cdc04-d241-438f-a7f8-569af48e5adc',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'un_a3',
     '070',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '42dea33c-320c-435a-8b7e-44fea96cb302',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'e6f04ea7-bb9c-47b0-aad5-dd9f98d0e8a9',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'world_bank_a2',
     'BA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '87321176-50f7-4be5-8c89-8d7f5506a583',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '1bd6c25e-78be-42d2-85b5-1fce20e8c392',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'world_bank_a3',
     'BIH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dc4748f6-12ef-492d-801f-a210ab7d3b3a',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'f5f53c71-1397-4785-8890-d7aedf5682f8',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'natural_earth',
     'wikidata',
     'Q225',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '14239b39-49f0-4cdd-8cd2-863ea05fa49d',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '1c68e282-7912-4860-ac60-fc4c52d021b8',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'natural_earth_admin',
     'BOL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a2bae331-1b4a-49b0-8368-2f5175dbd134',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'a6a746d3-1c4d-424e-8e82-b03c56a36824',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'iso3166-1-alpha2',
     'BO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ef56404a-8805-43d8-9459-3582e3e3f893',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'bda7aa3a-5657-4bd2-a977-e3216aa45506',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'iso3166-1-alpha3',
     'BOL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5a856b66-d214-4639-a916-bf9a9c77b9ee',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'd471e453-0db2-4a5b-a554-f81f9027bcf1',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'iso3166-1-numeric',
     '068',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '74d8d465-ba71-4cd5-906a-d656d20f102f',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '5ef6527b-4dc7-430e-ae63-163d5c3d9668',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'un_a3',
     '068',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7ebed85e-030e-476e-82d3-69bd6fa0f324',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '29eb0401-b5f1-4b7f-80a1-949fa438c6ca',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'world_bank_a2',
     'BO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23cabc64-29d4-4188-86ca-96b40ea7e9ec',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '0090d97c-e97f-4836-98e0-77aec86160f2',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'world_bank_a3',
     'BOL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0894fd74-9145-43a2-b443-8b5e297188ca',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '0ed8c5f0-110e-4a22-a326-b82cd169e305',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'natural_earth',
     'wikidata',
     'Q750',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c31768a7-6279-4a62-b30b-395ca7a73f7f',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '717c37e4-4d51-491f-ae73-7fc1960311d0',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'natural_earth_admin',
     'BTN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '07d83a49-fa0e-495b-8a88-4c277ffc84e0',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'a03519e6-a063-4b8d-9058-fe42db08b3eb',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'iso3166-1-alpha2',
     'BT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '827d0837-f950-4e52-8d76-542bb8ce5fb5',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '3f8f010f-96a4-45c1-b05e-fb22433c7a76',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'iso3166-1-alpha3',
     'BTN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db7bf526-e430-4b4a-97c5-ab766b8e2395',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'fc1310b4-2010-426e-9dbe-b5af2b24dfbf',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'iso3166-1-numeric',
     '064',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ff53e600-e06c-47c2-9086-07d62ac12176',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'fc39cf7b-8f61-461d-a91f-939f7204c556',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'un_a3',
     '064',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3721dc7d-8b57-4877-8b6b-d59abad705fb',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '159389a4-b37d-4e1e-a9cb-19b5d6c8a699',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'world_bank_a2',
     'BT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '819e7448-7bbb-41ec-a2c7-e0af0d718fa5',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'd6947253-3b82-46ce-a438-d70dff075c35',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'world_bank_a3',
     'BTN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fe5260cd-7840-48b3-b13e-34ffedb05324',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'b0c098af-479c-4bc3-bc48-0886610f59f3',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'natural_earth',
     'wikidata',
     'Q917',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '229a7a0a-7d30-4858-bd2f-2213c0d0d088',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'd4beb2b1-e8de-4342-9abf-478dab64f293',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'natural_earth_admin',
     'BEN',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '567f6c19-72ac-411e-b7fa-313d75e77b4c',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '018a4b37-0b16-4627-a116-5847c8f6f2a5',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'iso3166-1-alpha2',
     'BJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '055b1ff1-1fb6-451d-86d1-62458fb14759',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'd99c79c2-fa1a-4de6-8793-3afaae57f8fb',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'iso3166-1-alpha3',
     'BEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9006f8df-a969-4032-aa1e-8ac6d9d306b0',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'b16fea36-b1db-4408-acce-0c96d99c26ac',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'iso3166-1-numeric',
     '204',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ece1bcbd-9fe0-47b5-9e61-58a7309b3d6c',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'dc7601e6-bd20-4887-9fd5-16d6e79d3722',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'un_a3',
     '204',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ef83cc4f-ae2d-4634-a1f9-b4a869ffc830',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '92cfa643-b2c6-4364-a94a-6a174ee007cd',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'world_bank_a2',
     'BJ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd95e2b27-1789-4443-b071-2208e86c271e',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '6ead373d-f3ef-4a55-b552-607d10d8cd63',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'world_bank_a3',
     'BEN',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fd0ad79f-ee7b-4e32-9dab-8755a1b86437',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'c320033f-c571-41ff-b7d0-f260253cd68d',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'natural_earth',
     'wikidata',
     'Q962',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b9c23659-4184-4b0f-88d1-4df7a6100701',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'f4666a56-a086-44c2-bb63-8720a8dd16a3',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'natural_earth_admin',
     'BLZ',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf1a0732-1edf-4b42-9966-e7a9bd538b4b',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'bc7c6449-cdb4-4338-a728-1824ed96148f',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'iso3166-1-alpha2',
     'BZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3e5a23d1-6295-4659-950a-ede5da6cd12e',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'e982e9da-08c0-4007-9b57-3316c22a2f86',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4b2732b2-6e1f-4280-a9ee-284dfc3ed1ab',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'aaa83929-eee7-4d4f-b409-792dc9b5ad64',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'iso3166-1-numeric',
     '084',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b2ddc164-1db5-4920-8813-5633e901454b',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'f6e11364-cc0b-465c-af4b-c923e3c69153',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'un_a3',
     '084',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '010ee03a-0168-4460-9440-5b50575eac27',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '0767ee29-dceb-436b-a8b4-84fd6a85caa7',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'world_bank_a2',
     'BZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '11695fa6-7235-4557-836a-8a3c51a6e640',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '40db2370-63fe-49b4-a103-3158ff4e6184',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'world_bank_a3',
     'BLZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8cc3f4b7-dd00-472d-ac72-3a405c422cbf',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '43b4bb62-4a11-45e2-8cac-049fa966b4c4',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'natural_earth',
     'wikidata',
     'Q242',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd05ff575-c24c-4662-8bef-407eaf4331e0',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '70b2ace1-888b-4850-9d2c-e3e4bd35ed70',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'natural_earth_admin',
     'BEL',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bbf63d10-02d3-4a83-acba-715ed0793891',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '6b08d767-1e3d-4f81-9716-7b04c50cfc0e',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'iso3166-1-alpha2',
     'BE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f506cee8-613a-4058-8708-41b385003fbf',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '9a1cfa82-616b-4f91-9b49-6c354c94848a',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'iso3166-1-alpha3',
     'BEL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'da54eb9d-0d3e-467b-bf11-fed1567113d9',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '5bd2670d-de49-4564-a8b8-ec6dd883a1b9',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'iso3166-1-numeric',
     '056',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '122c1bf6-0472-49e3-a32d-22c6487724bb',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'a3b5fd71-c8bc-4f43-ade3-48f8488758db',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'un_a3',
     '056',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'db5bbd08-a49f-4dee-99ec-44b572ff8f05',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '4430b3c1-657c-4b78-b076-158be8f93f4d',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'world_bank_a2',
     'BE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd5ccb968-0887-4549-a857-76d8b698579f',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '9aa81ed1-a1b4-4afe-9800-995e1a4b636b',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'world_bank_a3',
     'BEL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dcf1d630-ce9e-4656-80a0-33a8d4f9eca2',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'db0c83bc-0243-45a9-8f74-5545e004625b',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'natural_earth',
     'wikidata',
     'Q31',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a42ae8a7-d063-413e-a3b7-bd3701fbb6b7',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '55adfb76-5851-441a-9dbd-1f3fe2a81006',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'natural_earth_admin',
     'BLR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '25b09e01-a0d2-4bae-b4b4-8cddc670ea32',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'b5c9d6ac-4265-4d3b-bda4-1cf716aa1615',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'iso3166-1-alpha2',
     'BY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'df7002a5-ef65-4ef1-997c-f3091482f2a4',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '182d2710-19aa-4fed-a51a-8c96484f13e6',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6bbbac67-f1e2-4b46-a6c3-d7558610e033',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '9bef6f79-78e2-4011-94c8-63185474ee1e',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'iso3166-1-numeric',
     '112',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c39b9bc5-4c5b-4d64-9316-8196ec116657',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '412a0499-7bc5-4720-a9f1-8f44a3979add',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'un_a3',
     '112',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1c8c97fa-bc82-4eb6-8299-4a9c6516764c',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'e31bfe98-d44b-48f3-bd2c-37df2f6d21fd',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'world_bank_a2',
     'BY',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8933f0af-94f2-451f-83b1-ade049c10790',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'e708e27d-6de6-4639-b59d-f72b1cf60f0e',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'world_bank_a3',
     'BLR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6fcd3757-9918-49f6-9fe9-c8e3f172d72e',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '4491e60a-1086-4b4e-b7a7-885f3b0cde08',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'natural_earth',
     'wikidata',
     'Q184',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a92d4db9-a09d-4ccb-98ac-a889d19359ad',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '2851b4e7-c6e3-4d48-819e-f60ff4cbc902',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'natural_earth_admin',
     'BRB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4a593835-452a-4fa1-97a1-c5227e903cd4',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'e0ab0aba-0d42-499d-a152-78e076ab2280',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'iso3166-1-alpha2',
     'BB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a88f4134-dfc0-497d-9582-91491c1cb2ac',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'fca16bc9-a4e6-4733-8cab-23aaec9d7a1f',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4dc8277b-b38c-4ae9-9f0a-9b874629f079',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '0f8d6dfa-de3e-4552-ba17-aa30eb9254db',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'iso3166-1-numeric',
     '052',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '28b9ff50-dcdd-442c-a8b0-1b64706783bb',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'c7cbc0d2-809f-43ec-a8f0-000e6382168a',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'un_a3',
     '052',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1dd25e90-a757-45b2-8c12-f75031aeff5e',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'c5609231-b119-4bb7-88a2-aba90b155031',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'world_bank_a2',
     'BB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0e104135-b9a7-4e39-9462-c627011bd793',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '4421bff8-a9ed-47f3-aa5a-a1abb1c4f0b5',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'world_bank_a3',
     'BRB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4a183747-17af-4670-87ff-512b5e5cb230',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    'cb5d0dd9-44f0-4391-8009-9b596cb8e3aa',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'natural_earth',
     'wikidata',
     'Q244',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2e39896d-27cf-466e-ac46-a2ead676b681',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '52a2f3be-4a61-42ba-9baa-98eb4aeb125d',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'natural_earth_admin',
     'BGD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a16b44ff-c146-4f11-9284-1bdddbff410b',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '1f570a35-349f-42bc-abb5-be076650123f',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'iso3166-1-alpha2',
     'BD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8195018b-5c1e-455e-9134-50a2f95bb9d7',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '183e69a3-d170-425e-8410-9d9e452792b4',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'iso3166-1-alpha3',
     'BGD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7f2d114e-844b-4dd0-aaca-7eeaff6dc825',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '9155fc93-720c-4f27-b58b-c570c97e163a',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'iso3166-1-numeric',
     '050',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'cf6c2367-2e73-4356-a448-11a0d6db3d3f',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'cd1169a4-cd4a-40de-b3d9-18b9aa5ecd0d',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'un_a3',
     '050',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'be047e9b-f32b-45b1-a83a-7e6fbfae937c',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'ef9a21ad-de37-4a96-b3d4-a8d10b3c5994',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'world_bank_a2',
     'BD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4d443dec-9cf4-4f47-ba16-5824f1f38ba5',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'e2683a0d-b6bc-4765-a514-f1861edfadff',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'world_bank_a3',
     'BGD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ea6102f1-bd76-4ca8-9acf-68f861fa7781',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '0b95317c-7a71-4b34-8097-a795c737614b',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'natural_earth',
     'wikidata',
     'Q902',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec05af03-cbdb-4048-8830-bbeaff2d7b17',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'd2078534-2880-451b-95e6-65b167c17b8c',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'natural_earth_admin',
     'BHR',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e6a349ec-289b-4f25-8054-aa5961baa75a',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '5427fc2b-493f-468a-9800-0523c3b49820',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'iso3166-1-alpha2',
     'BH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '275873d0-94b6-4a2f-a716-3906bc7438da',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '0f262aeb-a290-4c8d-a4fb-ea8597916f2e',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'iso3166-1-alpha3',
     'BHR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '68c37670-5622-49ea-b027-48a9288832b2',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'c7753353-9b7f-4324-b18d-c86c6aa4d6cf',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'iso3166-1-numeric',
     '048',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fbbfb007-7767-44a1-8893-88c86c645029',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '7560b30e-7f7d-4138-9c29-e21d90f78b40',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'un_a3',
     '048',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '91179ae7-f344-43b2-8c57-189dfe5c5c41',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '2bd9a4c1-54f8-48df-be6c-98e0aeba128a',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'world_bank_a2',
     'BH',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd8261a62-95d7-47fd-863f-9f760cae7236',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '1c7243d7-2ad8-47f0-a224-ba002ef26842',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'world_bank_a3',
     'BHR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94efd4cf-c486-4590-bf46-0457e05530a3',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'ac675de6-14f7-40e5-b36c-f8b903b6f646',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'natural_earth',
     'wikidata',
     'Q398',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '12929cef-29ca-40bb-a72b-0bd7846d2426',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '112909d1-a482-43f0-94b7-bfd5827ff436',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'natural_earth_admin',
     'BHS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b655f76a-e3b4-4343-bfbc-5914cc7005e4',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'f810ac63-7f86-422c-a5a5-b8e2115da591',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'iso3166-1-alpha2',
     'BS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fb09f1c0-accd-43e0-8457-fcb5bac24712',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'aba6cafa-ef19-49a3-ba62-a44ebdb51973',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'iso3166-1-alpha3',
     'BHS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2f53f7f8-df1b-492a-bfc6-0b0461d98879',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '51b88904-18e2-4cba-b414-5ed64f23c090',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'iso3166-1-numeric',
     '044',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7d345494-b550-483f-8429-4e0f3dac48cc',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'bd364a11-88e0-4212-8770-a631cab2af56',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'un_a3',
     '044',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2ada244a-44fd-40a2-a389-cc5ea1138818',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '3257a12c-9c1d-45c3-9705-1cc28cf5b866',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'world_bank_a2',
     'BS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1d5651a6-cd87-4deb-af5b-c8b78f1377b7',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'aada47d1-b980-40f3-80a2-e5580d979c08',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'world_bank_a3',
     'BHS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ba746938-b425-466c-9be8-5073e78471af',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '62a33523-10cc-4009-af29-ae11669829ec',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'natural_earth',
     'wikidata',
     'Q778',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '76576321-c58b-433f-a42d-3d21e8657608',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '8da94321-a200-43eb-82bf-4448fc7acce7',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'natural_earth_admin',
     'AZE',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b481857b-55d9-4593-ab9a-3b13b372dbd9',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '5f7e8c56-b99d-4a6b-acfa-84390dcc6005',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'iso3166-1-alpha2',
     'AZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '148531c8-a5d1-4ecd-8ca9-3c761667c5bd',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '8c6d34ea-af10-49d4-857d-5fd0675f9157',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'iso3166-1-alpha3',
     'AZE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8a53dc9e-5e51-439b-afa0-122f066f03f3',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '58e13f2d-0cd3-4685-903f-7391e1439dfd',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'iso3166-1-numeric',
     '031',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e8431b9e-3a3b-4c6c-99fa-6d09227fb6ce',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '98c00c49-d350-4997-ae65-35612c5f63ce',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'un_a3',
     '031',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c9e69b3c-6563-4b38-b09b-8815de980e24',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '6d9f9af9-ea82-4191-a5ad-370435130401',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'world_bank_a2',
     'AZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '35b70067-e64f-4772-8557-95bdd2333d29',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '89dbc4c9-610f-49ce-8772-e8ba360de1f0',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'world_bank_a3',
     'AZE',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3aa14ed3-1dbc-41d8-bb1b-74d41d0f9044',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '5288086d-023a-4f19-b390-aeb7c80069ed',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'natural_earth',
     'wikidata',
     'Q227',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '45ff9e10-d7fd-40a2-adb0-34948347055e',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '5e548971-246d-4070-b475-f642b68818bc',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'natural_earth_admin',
     'AUT',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5f1ed3cf-4ec6-48ef-b14b-c39e3543ed9e',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '8337afb5-9f8e-48c9-a09a-c8fa805435aa',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'iso3166-1-alpha2',
     'AT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'baf067a1-4346-4c0e-8a7f-19898a77d557',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'e8461de7-4fa1-4bca-8c3f-02acb6cc6b24',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'iso3166-1-alpha3',
     'AUT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ec5b7a31-4182-45a5-810d-8baa54dc37f5',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '2b3ad2ab-e905-4700-8aaf-5c2e00e41383',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'iso3166-1-numeric',
     '040',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a8864a0d-68a1-4761-a4a0-bc9c0beb1ef7',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '5f1513d1-ec09-4f68-aa6d-84b26cecb41c',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'un_a3',
     '040',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c96e2f13-ea3c-48dc-ad5f-a91916608e82',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'db475e86-ad14-435e-8f68-aa2ccf37e2be',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'world_bank_a2',
     'AT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bf2e0e2a-479f-4c6b-90f5-d34b60f43d1c',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '69ca6fd9-db46-4623-8045-7ea432b37893',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'world_bank_a3',
     'AUT',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '922c215e-8ea6-46f7-bcce-beed26f25ff5',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '15a56555-188a-4637-93dc-c656c78d83d9',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'natural_earth',
     'wikidata',
     'Q40',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '82a148c4-85ca-4c62-a8e7-6b3a195b8d2a',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'db614d37-58a0-476c-ae87-517bed2a0974',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'natural_earth_admin',
     'AUS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd36f4184-f1e7-4efb-a252-51b54792d4df',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'a68ba24e-1093-4a79-b4af-5de394825856',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'iso3166-1-alpha2',
     'AU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'becac737-078a-4529-8162-6cd255f4b1da',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '939b234a-49a1-4ef4-8aaf-600fa5fcd416',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'iso3166-1-alpha3',
     'AUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6e21149c-bca3-4001-bf11-f01c9947d775',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'db89095c-3ed5-4939-be2c-aa8fb2622b52',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'iso3166-1-numeric',
     '036',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd5cc9303-c11e-4afe-a8d8-fd6205ed30c0',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '7cdac61d-1ea1-491f-8033-5e93e1acd0bf',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'un_a3',
     '036',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '244d5fdf-992c-4071-8674-771c56e8e38a',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '119861ab-6def-45b7-919a-6023de1cfd18',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'world_bank_a2',
     'AU',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8c64e529-83bd-4fbc-bfb0-7d3e157cb948',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '7c68f171-d97f-4687-8c64-2a9fbdbb7ec8',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'world_bank_a3',
     'AUS',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6098fd7e-654e-4bbd-b4d3-2e80817783b3',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '7eb217c6-8597-4f6c-b833-b93ec3af3623',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'natural_earth',
     'wikidata',
     'Q408',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ffea0b3b-8f78-46ff-a3f5-6c35db2a549b',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '96db9748-8c3b-42ba-ab93-66fa81434c19',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'natural_earth_admin',
     'IOA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8593ec4f-714f-48cd-b685-6cbfc77c7553',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '4fb777c9-b6c8-4f18-84a2-528bb392aa54',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '84aba3bf-6a2b-49c0-8de4-e3b345c7e0de',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '9669c5f4-d750-40ae-b039-3e2428b5333e',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5dd248b8-c8bf-4f68-ad97-e7428b7e13d3',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '2ee41b21-8604-4dbe-92a5-b42e91d3d94e',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '41f2d6e1-0bca-4b1d-aa8e-41d48dd2c9a5',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '3649aff4-963e-4e21-be31-5e42a58340a6',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd0c265cb-34be-430a-ba56-13dcc2589339',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'e7afe583-f082-4703-ac73-6d51e335d2f4',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6c05d720-fa44-4bf8-919d-6f6a40bb8676',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'f9988a70-6b8f-45f7-bc3c-f599f42c37d1',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '55bd41ea-8d8d-47e4-b041-6145a75c22b5',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'e053b71d-9bce-47d9-b3bf-591b65c35273',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'natural_earth',
     'wikidata',
     'Q4824275',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de02fe96-62e6-4d40-a86d-4eae6eb000e6',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'f05a90ee-9633-4036-a07c-e43b1ccf3a63',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'natural_earth_admin',
     'HMD',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0c452483-5b5a-4fb5-a99d-44372df689e4',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'e2ada161-9ac7-4697-a65e-789162f0d106',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'iso3166-1-alpha2',
     'HM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '885562c1-b93d-409f-a1c3-6d5dcdd8b29c',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '6d1acdda-d4ad-4ce4-80b5-4f7bfa789a6e',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'iso3166-1-alpha3',
     'HMD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a3935a36-2beb-46e9-b504-05f0e5b48a44',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '82f94d50-8cff-492d-a614-6c8ad272c3c2',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'iso3166-1-numeric',
     '334',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '07705067-51c8-45c9-b595-367a6d56f0f3',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '609db563-09e9-4e98-96a3-8250322c8c5e',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4eacd082-9b98-47ad-8631-f7bb950bf868',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '962bc18a-b188-4050-adf3-438880e7a7ff',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8c7f70fe-a5db-4f9c-8592-d3d3adb22475',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'cbaee24e-133f-4d53-ad2e-8d1a5152e703',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e3e7aa41-44dd-4988-8e91-a7e80aa65e85',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '47e70421-a9c1-4474-9fea-fd2819e0810b',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'natural_earth',
     'wikidata',
     'Q131198',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b08cfbd3-e3ff-48e0-a414-8c8d9edacea3',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'e4784da0-1249-49fe-a9aa-3dc1436a0500',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'natural_earth_admin',
     'NFK',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5bb6a1fb-ad6d-4cc1-a59a-4a782a8870bb',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '34486dbe-5c19-4966-b440-5475c8d83475',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'iso3166-1-alpha2',
     'NF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2a9aa4cd-a488-4789-a92f-f32d489884ff',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'da503bfb-6eb9-4fe4-bef8-454fe8814ca3',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'iso3166-1-alpha3',
     'NFK',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a4f9ec6a-f50a-4eec-97b9-a13acf5a25bc',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'e43e2639-94a8-412e-9e71-7f841616d13e',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'iso3166-1-numeric',
     '574',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '442e57c5-006f-4db4-a633-20f7d3073183',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '99dff7c6-b954-4d80-a039-9062780dd7ba',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'un_a3',
     '574',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '120d07e2-8d80-48b0-bd32-59513fdd09a1',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'a6761a41-0cf9-4ec8-b2d0-fb3aea5d2fcd',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4cdaa858-06be-45b8-b9a5-9598a2f3eca5',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'de751162-6eba-4364-9a57-8fcc0a35e505',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dfca8694-0415-4201-b248-a0a4dae613fb',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '84cceb27-ee81-4def-9a82-16eb0a5b3bc7',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'natural_earth',
     'wikidata',
     'Q31057',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ea840545-a520-4f16-8708-9838772ffc38',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'b9851121-0e01-4db6-9a33-5e1d5d9b0003',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'natural_earth_admin',
     'ATC',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7fc33994-0969-47f1-9c3e-fb6e88496db3',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '2dff6131-cad7-4879-9027-ce2f0e40ec70',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b5727286-4b7c-4990-9369-667ea3b3242b',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'c00e149f-dbd1-4652-b038-981990a61791',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '54e40298-2ff6-41f9-a692-fd221c514c7a',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '7bef85f0-696e-4baa-afbe-19025ff29456',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'iso3166-1-numeric',
     '036',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '83f51941-c74a-4506-8f5b-797fff00c461',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'f785ee9a-40e4-460b-8592-524466f08cf7',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a5153659-7e77-4edc-a957-37c6f24ec782',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'ad891294-db3d-4b08-9c60-1a7bb12f76c2',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c660a89c-5b25-47de-a35d-9469def87149',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '1bbbaafa-791a-4442-927d-f4d6c2599c64',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fc79aa70-add9-4a11-9e39-af6d544d3fb1',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '5dc593f6-fb9f-4120-9085-dde16628db46',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'natural_earth',
     'wikidata',
     'Q133888',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '29e4fadf-7272-4982-9fe6-cc0db77c0b9a',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '7c82f49a-2dc2-4683-9ad4-8c0933762797',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'natural_earth_admin',
     'ARM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '78898ca0-08a9-418b-9a90-d338ea812624',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '60588890-9661-486c-a42c-47e304c8f4e7',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'iso3166-1-alpha2',
     'AM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '576c45ed-ebee-4cbd-8df3-12a6e77716a8',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'a8aa2aac-688e-43d5-b1e7-3f838abf70db',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '07f22884-b575-4e34-9c53-76aababf7af3',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '7b59cea6-2d9c-46d3-9652-a0b08dfa2c59',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'iso3166-1-numeric',
     '051',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8ef07c7e-c14a-4ac0-bb5d-1d73b060e347',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '356572e8-9903-4649-8657-c5eda16b3ac9',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'un_a3',
     '051',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9153ae23-66b9-446e-a9c4-b2ee3dd37a0f',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'd83cbb1d-f9d9-428f-9e99-38f034f8fde0',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'world_bank_a2',
     'AM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '37a8d9b4-6aef-4021-8bf8-14564f263d04',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'ae9a0aa4-fa38-49d9-97d7-a6619959c5df',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'world_bank_a3',
     'ARM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e945066c-618e-43bd-9d13-169ba3a50747',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '9da10854-cf37-4d02-bbac-5fd7ad755415',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'natural_earth',
     'wikidata',
     'Q399',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f0dd2eec-c526-4aa0-8009-ce50b48a8ddc',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '728ad66a-bce5-4388-8e62-1d801fb71efc',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'natural_earth_admin',
     'ARG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '38bef96f-39f4-4fbd-98be-3f00712fad81',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '580fcefb-09d9-4b37-bc56-f681f0245272',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'iso3166-1-alpha2',
     'AR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3588dc43-6762-4b17-b583-efcbbd172f55',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'cda9fba9-4109-403c-b7d1-8800468a9237',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9e920071-3eb5-44ba-adda-e789714213c5',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '7c93ac01-6495-48f9-81aa-161519f6dcc6',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'iso3166-1-numeric',
     '032',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '43c96b22-c1f5-4376-a4dd-7ce41d49e5a9',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'ff62fa8a-6196-490e-a10b-86d6920202c2',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'un_a3',
     '032',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c00aa857-8ee5-42f6-9573-9a05201bb007',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '5e9f5d99-a3f7-499a-a605-696974817f80',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'world_bank_a2',
     'AR',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ddf2188b-7dc5-421a-a71b-be0cc8018afd',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '13954e83-ccc0-4532-9110-a63fb07ec4de',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'world_bank_a3',
     'ARG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '7feea7e9-31d6-482b-b663-cf82f98e3cca',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '841f799b-5291-4dca-bac0-3f4e3d5d7190',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'natural_earth',
     'wikidata',
     'Q414',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a1e25010-967f-48a6-bb16-64a7c685fa92',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '6f4bfa6e-771d-4985-83ec-b75ce1ceb588',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'natural_earth_admin',
     'ATG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '5d232b6e-8436-4257-a06f-7d8a9b2a2b29',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'e233d296-9ac9-4113-872f-4e3cd2f53391',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'iso3166-1-alpha2',
     'AG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '6b2cf111-dce5-4c7b-bec4-40d4cc31e6c4',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '7659a66a-29a6-4ce3-8fac-4519e07409f9',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8f6f8759-1c23-4bc6-a2e2-68e3311e8610',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'f94cbb30-60c6-40c8-baa7-24111ea723d4',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'iso3166-1-numeric',
     '028',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b1f5779c-1275-45e9-a99c-cee29f6103a3',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '8d52ed2a-ad9a-4dc1-9ce4-1b772ba11aea',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'un_a3',
     '028',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '32b45734-291e-49ad-8448-d22f25fd6d61',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'b4ece76d-154e-4b31-a02e-54549c71ea6d',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'world_bank_a2',
     'AG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8da68ff8-a2da-49c5-9e1d-158826ca59c9',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'ed4ffcdc-fda7-4e0e-a952-308c6bd03fd4',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'world_bank_a3',
     'ATG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '473543b4-31fd-4d22-8940-860adeebcc40',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '36d67017-1d0f-4518-b9f3-84bc9e6b3daf',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'natural_earth',
     'wikidata',
     'Q781',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'de16fe47-90c4-4a01-b99b-c873fb6317cd',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'b9698f4f-60ee-4d2a-abd2-1d6ff155fe39',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'natural_earth_admin',
     'AGO',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2af12528-41b4-4d48-b351-471be563c820',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '928371e9-a94c-496a-a06a-044eab123e75',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'iso3166-1-alpha2',
     'AO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '555e7fa6-b057-4280-870b-b41f1cf9907c',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'c2c075b6-6e27-44c6-b909-8b6b071dd3c8',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'iso3166-1-alpha3',
     'AGO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3318b9fa-6fc4-48d7-bf3a-dfe2bd3011f3',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'b066df2e-c292-4de2-a3df-2a2c81527b6b',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'iso3166-1-numeric',
     '024',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '10fdf14a-1493-41d8-b45b-fc2ba26d899a',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '53025a60-c01a-40ed-837d-ec3b92be8773',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'un_a3',
     '024',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ebcbc8d9-76b7-46b0-8815-d238a4d47fef',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'faae49bf-2482-4473-b05f-622e2a2c1f22',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'world_bank_a2',
     'AO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1ae569bc-a4e7-4a5f-b046-516496ea2b1d',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '0b0fb08c-64be-4ec3-be06-0b6e73bf50b8',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'world_bank_a3',
     'AGO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e2ad37f7-acc8-4d9c-b79f-fbdb1501c841',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '0073efd5-de2f-44e7-ab71-784b8ef80302',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'natural_earth',
     'wikidata',
     'Q916',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ae2450c2-1ed4-4952-9b5c-c622479336ae',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '86ff87c3-21e5-4e5a-a460-58fe9a48a742',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'natural_earth_admin',
     'AND',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd8d647ba-5756-418b-9af1-f8ae487aa016',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '1975592f-5949-40e6-97cd-5580ef63a8e6',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'iso3166-1-alpha2',
     'AD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4472b98c-2f46-4c95-a003-43733918843b',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '5c0d9c41-4550-4989-aed0-659dcac898c2',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'iso3166-1-alpha3',
     'AND',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ee431f4b-31c7-4ecb-b460-215eafe7cc28',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '47dd229f-c5fa-47b2-98f4-b6bdc3d703b6',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'iso3166-1-numeric',
     '020',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd17979ef-9500-4000-8ebc-a1019d7fc1dd',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '8afe5e5f-77e1-474e-a5b4-390d953e8142',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'un_a3',
     '020',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18162295-5bb8-4bf0-b5fb-0af45687f465',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '3f9b4aba-e1d1-4d49-9855-20d030ca1697',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'world_bank_a2',
     'AD',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'dc4f8e13-f169-452b-bb1a-e8a8894ef0f3',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '082bd996-806b-4a14-833a-8f5c62131803',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'world_bank_a3',
     'ADO',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f2d8513f-0b6b-43cd-8bcf-2f1a41fcc738',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '78714f37-9a80-490a-8b90-a72fef32b3e3',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'natural_earth',
     'wikidata',
     'Q228',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c1de0e34-9f79-4013-bc13-1f44e16c3914',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '818d194c-b9c8-4f7a-a0fb-c95d1d76fb9b',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'natural_earth_admin',
     'DZA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '62fd2cdf-5037-4426-ad51-a9bab28ea4b8',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '373d8ad4-a308-41ce-9cfb-2fc69ec0dacc',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'iso3166-1-alpha2',
     'DZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61259e5c-e940-4b3a-961a-0c195ac6f302',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'b7aeee33-b02d-480a-9b8f-1d8ea1261bdd',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'iso3166-1-alpha3',
     'DZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b7822960-3614-420e-b686-18bb01e96f03',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '73dfb8e3-d97b-4f7e-8add-9c0579b66f36',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'iso3166-1-numeric',
     '012',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'caa6b28d-35c4-4843-ba61-b18564a6e339',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '4e4eb784-6ddc-4173-a70c-21f84ac8cfee',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'un_a3',
     '012',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '054dff2d-d2f2-4682-8cb4-122040d00043',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '78f03af6-8500-42ee-995f-9d46a0799757',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'world_bank_a2',
     'DZ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c04fcc8d-a048-436f-b0c2-cbea79215eab',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '75fbabe7-230f-4608-9aa2-9ce0c9ec1ea7',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'world_bank_a3',
     'DZA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ac0109f2-455a-44cd-816c-a3017ebb7573',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '8712ab15-510c-472c-ad39-00cc5dbd9275',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'natural_earth',
     'wikidata',
     'Q262',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3806c27f-c0f8-47a5-ad5c-7580413548f3',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '457d2be8-1cf4-43aa-b672-eef7053c5f38',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'natural_earth_admin',
     'ALB',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'abb38ed1-b5ce-466d-80f7-91ef89f7b23c',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'd9861fd1-bed5-4aaf-8235-e2ecd7e89900',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'iso3166-1-alpha2',
     'AL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb5f408a-9d0c-4672-ba31-d87632fc8275',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '4e411508-48ac-4d42-850e-b79421c4f1af',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'iso3166-1-alpha3',
     'ALB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2719f4e2-1e06-40d6-9017-69171e42bbfe',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '923bfc8a-2aa9-4a26-920a-d668380a4d33',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'iso3166-1-numeric',
     '008',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'bb1e7b35-6c64-4102-a279-557433c6e6b5',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'ef730f0d-a3b6-4180-92e2-b57c3fd2d100',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'un_a3',
     '008',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e81c3be7-42d1-4a8b-8beb-81432e4ffe55',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '6f003371-3a85-4f5b-b842-2e354a491d4e',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'world_bank_a2',
     'AL',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4f49b045-dacf-4960-b3a9-04e1844fe1e3',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '86eb6715-3851-4b62-8439-3692ff758bf7',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'world_bank_a3',
     'ALB',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '391c94a3-1b3e-4d94-ae0f-46c2896e447d',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '7fba20ec-59db-46ec-8b17-4f63e4e1de3b',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'natural_earth',
     'wikidata',
     'Q222',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '15745a42-f34d-4e1b-8141-ed8200a15908',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'b32d7814-3f01-4aa7-b4a4-9e504f1ef610',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'natural_earth_admin',
     'AFG',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c41aca8c-1c25-4f99-9580-58617f232404',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'f14104ab-331d-4d8d-bed6-d6940cf1aa65',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'iso3166-1-alpha2',
     'AF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '86acd277-ee9a-49d7-a7fe-d39929c70332',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '64a05df2-0003-49c8-947f-152c6aa48b4e',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'iso3166-1-alpha3',
     'AFG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '272ade0a-1293-4076-a107-5dbd06ec3542',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '6bb99dac-9eb8-4b07-8077-b490338eab13',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'iso3166-1-numeric',
     '004',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8d8316a8-324a-45d2-afc1-838eac2788cc',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '33e1d4d1-2509-400d-96a1-b0f2c6966748',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'un_a3',
     '004',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '95636bda-471d-4854-8f30-ebdb6c3d0e24',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '3b998e89-3254-4ca1-8434-bda5259eacfe',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'world_bank_a2',
     'AF',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '72265baf-0f43-470f-b68f-50d2fa0238a1',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '149271f1-e844-4c3c-9c72-48cca1561782',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'world_bank_a3',
     'AFG',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94e6e684-a23a-44ae-8254-ca4b30e7534d',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '47b99daf-08ec-4cc2-9274-65e924ec70c3',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'natural_earth',
     'wikidata',
     'Q889',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ebf8b5aa-cd15-4e09-acc1-9c11ce839ceb',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'd779a43d-fbdf-4768-9503-948680cad53e',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'natural_earth_admin',
     'KAS',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '083ea064-02ee-4220-8986-4471b1b951bb',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '021cc8dd-a6f8-4deb-8b95-deeb7fd0b29e',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '2af3c762-b3dc-4dd8-b75c-2308d137221f',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '19e8d7f8-6d54-4cdf-a7c9-301c178bca7e',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '28fa0a3e-1cd8-4b5d-956c-9c8a25861cf4',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '6d484edf-4388-48ae-8c33-dddd088decfa',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '1f48343f-ae47-4204-bfae-6a64a98604cf',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'af191f4e-162a-4c2b-9a6e-8d0d25404222',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'un_a3',
     '-099',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '04e5d15e-144b-45f6-bd3f-1515b3067558',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '78097074-abc3-4509-b3b1-e80fc7c234ff',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'c7a00624-bf5b-459b-afbf-7e67a6a67561',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '71bbcd33-b5e4-48c0-8fdb-fb04d3aa6285',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'a2da555d-2643-4197-b3f8-a80d031a8bd9',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '8e406072-253f-4790-ad08-f7bc2ffa7a31',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'natural_earth',
     'wikidata',
     'Q333946',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '444b106a-5fe8-4ac1-a471-6a0e749339b3',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'dd8f1e5a-2c33-4e13-87ec-ad71f224d0ff',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'natural_earth_admin',
     'ATA',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'f8e11349-e3cd-4a5a-aeba-e4912979ccbe',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '3a6848ba-7bc3-4a43-a0ea-81f3ebd2a28c',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'iso3166-1-alpha2',
     'AQ',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'baa61373-fc11-433a-ac10-0e2436429a0e',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '4d9e27c2-bf09-47c1-85c4-46889e884641',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATA',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'd3637120-dbd3-41c3-9ea8-680288e7ae4c',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '9ecf50ab-1873-4b13-a271-8807acbc9710',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'iso3166-1-numeric',
     '010',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '94233384-54a4-4824-aadc-6ace03f1ceaa',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '6b495c2a-8521-48f1-ad7f-0e6bb3c85e2d',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'un_a3',
     '010',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b805f15b-ef86-4e97-8294-9f62e699dfcb',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'a7d8e77a-7f19-4716-ade8-afff15c58275',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'world_bank_a2',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '313dbf34-016d-4011-91cf-70eadd9558a8',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '301c2e55-a81a-4008-8bee-04c05cc94ba1',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'world_bank_a3',
     '-99',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'ede765e0-65ee-47d0-81ce-0692cc76d920',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'c1823c88-73c1-4021-b44e-f8753b920499',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'natural_earth',
     'wikidata',
     'Q51',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '8def100a-9f8a-485c-86ca-44f1203e541f',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '16456953-5410-4b12-ba86-0725c4b6b7ed',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'natural_earth_admin',
     'SXM',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '617cef77-cbbb-4911-81b9-f54d137fc75a',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '3102a622-ce1e-4b4f-8039-8a004da10824',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'iso3166-1-alpha2',
     'SX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '23e26ccd-4346-4640-a360-e555bf4d0ffe',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    'f425689a-87e1-4caf-a22f-4053139c09cc',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'iso3166-1-alpha3',
     'SXM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '074772af-3ff3-4354-b94e-00708e8929c1',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '6c107c17-82a9-40ea-a123-ba1a5c6a3d9b',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'iso3166-1-numeric',
     '534',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '4d830746-cbf4-4c8b-b155-4d5fda2bb774',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '8058f368-9243-4d48-b6bb-a3bdac758f41',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'un_a3',
     '534',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '18033dec-3ec5-478b-93cb-bb6ea5249dac',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '1d15898b-2369-4aab-a3b4-03d65ef29e47',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'world_bank_a2',
     'SX',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '647d82e7-dd30-4ac3-8fc2-5fb99eb1b93d',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '5ea676c5-3983-4e1d-83be-bc9088a3583d',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'world_bank_a3',
     'SXM',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'b1e55b31-f828-4d06-a616-12aa52e16fc3',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '218068a6-7ae8-4af2-a013-5b9f2af066b0',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'natural_earth',
     'wikidata',
     'Q26273',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'fecae1e1-0dfe-458e-b280-bf2817704d21',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '0bd9c3a5-b468-4621-8443-4f22926628ac',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'natural_earth_admin',
     'TUV',
     'v5.1.1',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '9abac008-f381-420f-863b-9fbbd15d1a3e',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'a1f769bd-c1dc-4e9a-a7f2-6dadf41c25dc',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'iso3166-1-alpha2',
     'TV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '3fb85a5f-fd36-48e2-b87d-59bc63caadc7',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'da4022ff-4ecc-45ac-b95d-c5a0fb556a77',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    'e2511c5a-2800-4ca0-b63e-3e5b9671ce39',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    'cfb7bd20-47ff-4e8e-8795-e69aa01482c3',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'iso3166-1-numeric',
     '798',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '618518c7-5f60-4be6-9e7d-9f6a3b859bf5',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '43678640-a360-4ea9-90de-7d1caab0a514',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'un_a3',
     '798',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '61f18443-ceca-4e51-b175-12adc0a39eb5',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '71517dcd-86ba-4488-89cb-06b90887fba3',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'world_bank_a2',
     'TV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '620d7bb2-c2a8-43de-a281-8fa137c5a263',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '1b2df1db-bda8-4928-beea-d4e716cf0d17',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'world_bank_a3',
     'TUV',
     '2023',
     TRUE,
     NOW()
-  );
-
-
-INSERT INTO
-  region_sources (
-    id,
-    region_id,
-    source,
-    external_id_type,
-    external_id,
-    version,
-    is_external,
-    created_at
-  )
-VALUES
+  ),
   (
-    '0a9907d7-aefb-4bf7-96c2-8b9bc18d5875',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '84503053-da94-4ee6-9b19-953bc99b38af',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'natural_earth',
     'wikidata',
     'Q672',
     '2023',
     TRUE,
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;

@@ -4,22635 +4,12351 @@ INSERT INTO
   region_aliases (id, region_id, alias_name, created_at)
 VALUES
   (
-    'e0fd2c00-50bf-43bf-bc8b-c946a5de4532',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '850d48d8-2c72-427d-8aa9-3a17f3d97ea4',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Zimbabwe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c9c0297-b5ff-44cd-b4e0-c2af3ef333c5',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'a8dd8285-26f2-42a9-a498-0a87cecb4b5f',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Republic of Zimbabwe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70059d63-1307-4a6b-a335-59d2c382f5ee',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'f4105d9d-3456-4b29-af07-16bfcc893572',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Zimb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dfe0edae-2427-46f1-bf11-62882868b816',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '9fa4fdba-fbbe-4689-b23c-b653dce23bf8',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Ø²ÙŠÙ…Ø¨Ø§Ø¨ÙˆÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7611c173-e057-431f-8142-3eab133bf05d',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '38f35ba8-5c05-43e9-8010-72d16f95c7bd',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Simbabwe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7c1cd65-5416-4d08-a5ee-dc13276c80d5',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '3bcb8628-1930-49dd-94b3-bc6c5e7a398c',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Zimbabue',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9a0d7b13-84d1-45d5-876b-d0f24a307474',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '7210a9ec-a952-4202-9fde-f6608345a6b6',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'æ´¥å·´å¸ƒéŸ¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '397dc462-35b3-4b5f-9a3c-7159683a587d',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    'c6ba6593-3d90-48ce-bd42-7c9e49adde0d',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'Ð—Ð¸Ð¼Ð±Ð°Ð±Ð²Ðµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b2665f80-1420-4791-b150-f27fc359227b',
-    'ea60c69c-1136-4618-ae40-12e5bfe9ab8e',
+    '3fd1d15b-37d2-4f6d-8d79-0c0ff9976097',
+    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
     'ZimbÃ¡bue',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd41f48a5-452c-41f9-98aa-0fa7e4f10249',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'd481be5c-04df-4fe1-829e-5d7d0fbb7555',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Zambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f0d2d50a-b806-4650-b382-970f15bc84df',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '56e8ee45-fbb1-4626-ab7a-b065d6847a2c',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Republic of Zambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ae8da81b-267f-4ccc-b280-5adc1a1636a8',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'fe1f89b9-5728-4d4d-9595-f90c73b19aa4',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Ø²Ø§Ù…Ø¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '47019cdd-2d2f-4da1-b0c2-3c8a241931d7',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    'c5bc8517-5beb-41f0-8509-715e5cd379c9',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Sambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21b8df2f-cd92-4420-9774-5268e7da7993',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '088eb0ef-ffd0-44f6-9f61-d534db0431bd',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Zambie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c1fb182-4130-409c-ae26-d2d9ca446801',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '783e148e-c0e6-4e6e-ba0a-7b69181ee2d7',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'èµžæ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9a9c1ee6-03d8-49e3-8670-92c221b8ca3c',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '46cc2d58-898b-42e2-ae37-60317f47095e',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'Ð—Ð°Ð¼Ð±Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '34df57d9-961e-4381-9201-3439580fbd35',
-    'ef150562-b38a-4198-b976-e095bace37b1',
+    '04ab84cf-3341-4142-98e2-84eed9828af9',
+    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
     'ZÃ¢mbia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd550f6fb-3766-497b-ac42-363e652f8172',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '523abb14-f7ec-49b1-8396-1c154027c5ba',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Yemen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9eedc41e-ea90-46a9-ae4d-e8575e03f637',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '9a1eb6dc-e3cb-4fe2-9ace-fb26b0a6e561',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Republic of Yemen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b4c458c6-2497-42d8-95a3-80e83ff09eab',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '24a1fa1c-71da-4341-8e2a-e3dcec677cac',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Yem.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27bb8c69-729d-4373-9c8a-7faacf69900d',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '5ee5f69f-60c2-4bd4-919c-7e40c8da2cd7',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Ø§Ù„ÙŠÙ…Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3094969d-4419-4b67-b78b-dfa07b67c7e5',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'edfebb36-5af0-4076-88c4-7700833ec4ef',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Jemen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c1e26eb-be7b-4d12-8593-55122d63bb89',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'ac33d4b7-6d4a-478c-a680-efa929e639d2',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'YÃ©men',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf125f95-36e4-443d-8e0d-6a96b9ed62f8',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '66bbceea-2d95-4f68-b5b0-834dde81cbd1',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'ä¹Ÿé—¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e4b60900-beef-4713-ab0b-5ca0f15ef17d',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    '4c073690-c87b-4a6c-b514-3cbbbaf4a50b',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'Ð™ÐµÐ¼ÐµÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50a275ef-c6e9-4bec-ade1-85e5ac8bb4a7',
-    'b63ae486-f804-47df-b1c7-951cd7b93ddf',
+    'ae40bbcc-ca4e-4f0c-ad00-ae670bc985fa',
+    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
     'IÃ©men',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f823fc4-21d8-462f-9d31-07773a619a59',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '50a9f0f6-5f7b-4a4c-a910-ee88264baad6',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'Vietnam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '029749b4-4be6-4257-9303-6a5be32e038d',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'ba8bfb19-6c64-40c9-a428-1d72136692b0',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'Socialist Republic of Vietnam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '66156dd3-5de8-48cf-bd38-fac3d4a6808b',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    '8a6fdcde-9cf0-4d25-be65-cc1451342f50',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'Viet.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a52d08ab-09f1-46e3-a79d-f46dc4de5c33',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'e294e612-0464-4651-90b8-3b1cfc8a0ab7',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'ÙÙŠØªÙ†Ø§Ù…',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '946e7a06-a046-4913-8881-0dd2a3cb22a4',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'e6feb47d-2c4d-4a03-8f31-37659550e100',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'ViÃªt Nam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a57b5809-6ae0-478a-8c5d-34f18bd03ef3',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'e35e6a24-54ba-402d-ab17-35812aa9a1cb',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'è¶Šå—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e7a2bc6-6310-4d52-9359-f1c6c83d17ff',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'c74f2c21-61f5-4e57-9d76-6a4b7c555f52',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'Ð’ÑŒÐµÑ‚Ð½Ð°Ð¼',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70e798e5-41fe-44cf-b403-a054cc56ebc1',
-    'd6e0e6fc-9fa5-47fe-bcaf-4302cb4a1224',
+    'd5fa25c6-81d3-441a-878d-67d65c7d6935',
+    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
     'Vietname',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dcf54192-70cc-4b39-a68a-53705a508fb9',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '04f0f676-18d1-4b63-8db3-d572d1c650bf',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'Venezuela',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '360821da-e3ff-488a-83d1-4e16c1a164ac',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '079987a2-7d6d-4552-8bed-3ff1103ca2c6',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'Bolivarian Republic of Venezuela',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '197b1ba5-fcc1-480e-935e-f9648b46fa1d',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'fa762551-f958-4b51-a295-9c748d883f10',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'RepÃºblica Bolivariana de Venezuela',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e239fce7-6285-4cd9-a49d-f861ba84b00f',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '7fd11612-d306-4a1a-82a9-ac0e3e7a670c',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'Ven.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00782711-ddc4-4a75-8567-26f267eb6e36',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'fdca63f5-cc71-4082-9a87-56373b081a56',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'ÙÙ†Ø²ÙˆÙŠÙ„Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4314d337-be58-45bc-adfb-6f85e901a363',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    'd77139f2-c3ce-4947-b6b4-a7466427d9e4',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'å§”å†…ç‘žæ‹‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1010893e-4cb1-4170-8db8-8bb96cd8b7f0',
-    '471f7484-c730-4d36-920f-a0f1e5d346c0',
+    '22bce85b-3b6b-4080-8a3f-e591d05d985e',
+    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
     'Ð’ÐµÐ½ÐµÑÑƒÑÐ»Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ae113f1a-32f4-4013-98df-e5227222b12c',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '14f1d366-0872-424d-b76c-11ca7a40356e',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Vatican',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61dcc75d-c683-40a4-b774-689d0ad9f932',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '9ef965e8-f5d8-4f35-9c0e-a4d2092c07f6',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'State of the Vatican City',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ef2ae58a-89fa-44c5-af84-d24e0fad3156',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'bb784a15-e252-41c7-874a-5450a27f5f1b',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Vat.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5df9f806-af19-40fb-ab04-c962f3a69907',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'b222ee99-b6d1-4ba8-94f7-8ee1bf8217da',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Ø§Ù„ÙØ§ØªÙŠÙƒØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d457c0d-7efb-4159-8e38-b502397606f7',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'ce409b36-6d2e-4239-80c6-65ccf9c0db22',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Vatikanstadt',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '94bb73a5-2c17-4771-a214-7d0d80430292',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '5b87b0a3-ff82-4884-99d7-e5fabd62ac34',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Ciudad del Vaticano',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1be20ba8-3aed-4472-8088-55a9f818b628',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '2f994049-4667-4426-a01c-0c52d8449f09',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'CitÃ© du Vatican',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b0485a3-d8a1-4278-a24e-3c1723fd802d',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    '24fad5ee-cf66-4e3a-b81f-bbf8d3bcc71d',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'æ¢µè’‚å†ˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '79372b5c-fb28-4733-abd3-eb67b832015c',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'a02613bc-c084-44c7-9434-9fb4fce17881',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Ð’Ð°Ñ‚Ð¸ÐºÐ°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c3a941c-da01-424e-ada7-6fc07c08b8e9',
-    'ba42cd2c-e224-45b2-b3a3-66cd0acf9619',
+    'b962c3bf-a337-44da-89a3-e22e7a593be8',
+    '2407d161-8f50-4582-98f9-d1e3ea1585df',
     'Vaticano',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8d6fb48-f1e2-4217-bd5e-0b28a159500e',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '04fd71ee-3563-4adf-9543-0a8255c23d1e',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'Vanuatu',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0d8ff158-0b41-45bd-9949-39ce51f482cc',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '34a56881-17f8-42ad-9b2e-3e8d27b598e0',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'Republic of Vanuatu',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'daf88fd1-a045-40dc-a6b9-bf6cc2f4f82d',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '46358247-ef8f-4db4-a153-8171e843fe91',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'Van.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1aafb1c1-e0f9-43d2-b044-623fbda61dc5',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    'fe10e06a-4280-4b76-ae43-83dd0342311c',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'ÙØ§Ù†ÙˆØ§ØªÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b6b74434-ea85-474f-ab7f-7f69c5ceff1a',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '3d48b65b-3f8c-46ad-8456-f4b15a191325',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'ç“¦åŠªé˜¿å›¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '152aaecb-31da-4bb3-b773-69a4b842a677',
-    'd096d5a1-683b-4ea3-97ce-7d80f1ef4a77',
+    '236934d5-e46d-481b-b991-13a77e4ab47b',
+    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
     'Ð’Ð°Ð½ÑƒÐ°Ñ‚Ñƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8fdea254-d0a0-4ddb-a5fb-40502788d0a0',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '24331812-d953-456f-bc28-20a0bce6ed98',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Uzbekistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9032ca10-77e3-4cbe-b7f0-762dcdb1ef4e',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '033a4730-6334-4b08-8b5b-4163176f500d',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Republic of Uzbekistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '549b98ee-7a49-42a1-9bb0-2443c2e1b8cd',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '02d6a23b-1aa2-4165-b627-51ebb3819038',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Uzb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cce610fe-acd0-4669-af10-e8fa1037b4a9',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '29e9898f-b09f-4ee5-9b56-6645b5cb77b5',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Ø£ÙˆØ²Ø¨ÙƒØ³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7086b71a-4889-41d1-b6a9-bbcb567e34d9',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '2a74aadb-7da3-4284-a29b-f0f052b89256',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Usbekistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '54428ef1-bf0f-40d1-8296-2de614c6b736',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '82dc7a02-7161-4dca-aa4e-72472ad6f0ea',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'UzbekistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '087d9fcf-3d39-48b4-ab57-b8091b330650',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '56b95f52-a37c-45b1-b922-236af9bb1773',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'OuzbÃ©kistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8dfaa034-6090-4461-91c7-af0670889069',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '61966278-659f-48cd-a568-4a284ddef89f',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'ä¹Œå…¹åˆ«å…‹æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5082e580-baa9-4ff4-99b8-5485fe578ee5',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '6042c0ae-f0d5-4476-94e1-ae58ce2cddba',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'Ð£Ð·Ð±ÐµÐºÐ¸ÑÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bbf43bf0-5f1d-47f5-a640-9ae110d405d5',
-    '0f3b6b1f-4a61-4e6d-a85c-12939fcb300a',
+    '9cf89d00-508d-44b4-805a-eb708a15c168',
+    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
     'UzbequistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e208571d-52d6-4a39-924a-6ebf99746bd5',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '625aa1ae-780a-4432-9cc2-010fe2030aed',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Uruguay',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7422a9ae-4b49-4c0a-b079-2ce27b92b131',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'a6f67015-2fc6-4d4f-ac1a-f4b016c2e3e0',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Oriental Republic of Uruguay',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cd6dc4c-f582-4cef-ae7e-b33813672a7e',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '87a701ed-1108-413b-803d-bfdec9f35364',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Ury.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f900528b-e94c-407a-9fa3-361c7f779a29',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'd60555f6-fe20-42ed-91f0-bd9c607c066f',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Ø§Ù„Ø£ÙˆØ±ÙˆØºÙˆØ§ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '000e478b-800a-4c37-afa0-5c0e06782de2',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '962d5509-ecf8-4594-8467-06b0880fe6bb',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'ä¹Œæ‹‰åœ­',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2d9079d7-1666-45cb-981d-fc503a3205ad',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    '9d652def-aead-4546-b93b-044d06012cda',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Ð£Ñ€ÑƒÐ³Ð²Ð°Ð¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0bbd909b-2a6a-4e92-9ac5-b576318d0d74',
-    'ad832cc8-9f90-4b51-a155-7b056a25ec5a',
+    'd071f4df-3e16-4440-872c-e26e9812dbf8',
+    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
     'Uruguai',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c3dfb6ee-8c6a-42f7-9742-524ed4bb4b91',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '9e65c420-1084-4d6d-b082-0c12c2689d2a',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ee1bbe7-a72a-4388-8289-a640aba7240c',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '949b5180-d2cf-4639-8281-e987e56cac34',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'Federated States of Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1609f8c-a56a-4ec9-9ca8-5788e95ae2fe',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '7b9b7a61-a50b-4e4b-975c-0e6befd8aa20',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'F.S.M.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3178f87f-40c4-4068-95d9-dd5d761fc179',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '2b28f68a-9efa-433d-94c0-33c353ed3fcf',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'ÙˆÙ„Ø§ÙŠØ§Øª Ù…ÙŠÙƒØ±ÙˆÙ†ÙŠØ³ÙŠØ§ Ø§Ù„Ù…ØªØ­Ø¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0b67f5f9-c9e6-4918-91f0-21e6705be0ee',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '388a2678-2f98-4edb-8588-7187d1f6e16c',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'FÃ¶derierte Staaten von Mikronesien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50e2285a-0c76-491c-814a-3e75cffff73d',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'fde2fc5e-3b00-44fe-85c4-603fb5f494c0',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'Estados Federados de Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '76c5e298-ac2b-48c9-a1ca-7a9adfb531fd',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'e2e27c33-6aa0-412a-bd68-8ea4afc98e67',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'Ã‰tats fÃ©dÃ©rÃ©s de MicronÃ©sie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '77d86c98-0cc3-4dc2-b7a4-de88821ad117',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '56fc597d-ed3e-4751-be97-5041fca3ffdc',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'å¯†å…‹ç½—å°¼è¥¿äºšè”é‚¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f526b284-4805-4b96-b9c8-264dd4095944',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    '11fda293-4b94-4058-b9e8-be806e2d85a9',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'ÐœÐ¸ÐºÑ€Ð¾Ð½ÐµÐ·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5433328-0a90-41c2-a6f2-e390e77787df',
-    'a42f472c-45d1-4be7-9113-e048676b1df2',
+    'e4ccd22a-36d3-4ce8-a5a0-18949ecda07f',
+    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
     'MicronÃ©sia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b1695ead-3320-4441-9932-3d2b265b6144',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '861b7f88-c5dc-4d82-9945-5f5144535c5b',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Marshall Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '90a1d7d6-7ab7-4a82-a577-cb4756128688',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '5e8d1f0a-b5a9-4283-97dc-d15249e29867',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Marshall Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad469fb5-66ae-44f8-a466-cc23050b9edc',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'f8ebd53c-59c5-43f4-a077-baf6f515ef82',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Republic of the Marshall Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01b81b84-b506-4e96-9c01-db7d969cf570',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '0600f41c-7a1f-444e-8677-84d2df01d253',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'M. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9248dd71-8f2a-46cf-9f5f-c300f1bc09e9',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'e0245a03-eb9c-48d8-ae07-06636916ed6b',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Ø¬Ø²Ø± Ù…Ø§Ø±Ø´Ø§Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9efa314e-e12d-46a9-8f77-4690b204c73a',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'd5206ad3-6662-4ea7-81f9-c337cd613dec',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Marshallinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be80b77d-d85b-46ab-a94c-47812ea39898',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'ff7706ae-eafb-4e07-a2f9-3e3291018ed7',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Islas Marshall',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70e1b16f-38d6-4989-8cb6-e4d927f006c3',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '1a05492a-f0bd-4bba-9019-c1e981144352',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'ÃŽles Marshall',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1b4cb268-8617-46a0-920f-10cc4da895a5',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    '3b80642c-95d2-478a-b4a7-5e3925a54e47',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'é©¬ç»å°”ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c11ec425-ff8b-4798-adea-2c80ecb19f1e',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'db1d1b7f-87a0-4f20-a85b-1c76210d91b1',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'ÐœÐ°Ñ€ÑˆÐ°Ð»Ð»Ð¾Ð²Ñ‹ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9fbc73ef-9099-42d1-8102-c838c950f0ff',
-    '3f8a8a73-5418-4549-b86c-a6bfb187f4b5',
+    'aa7494c5-5581-4553-ba5a-6ead1272f846',
+    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
     'Ilhas Marshall',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f5203dc-1b48-4c4a-8726-b0f9bb87b4c7',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '48290bc4-e0e4-428f-b860-3b73ef8b81ee',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'N. Mariana Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd1802c20-772d-4987-89e8-3b0f89fe3fb7',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '51506c8e-c538-4c1d-b9ed-925217dfabc0',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Northern Mariana Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c9ee1287-b3da-4faf-a440-c4a5190ebd50',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '653c4aa6-0a9d-4d1d-8f14-30ae2552158e',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Commonwealth of the Northern Mariana Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8a3d6d9-8d30-4be7-a3bd-ff30210f843f',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '3f91c8d4-c501-46f6-8bde-75cda859aaec',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b8110c07-3747-4497-8f58-5450421b26b6',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'e463f774-0c0d-4b73-a0b9-1e9bbedef899',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'N.M.I.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d09ad81-6434-42a3-909a-f4ebc093fa8c',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '39ff4747-281a-4f2a-a84a-2085339eaea4',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Ø¬Ø²Ø± Ù…Ø§Ø±ÙŠØ§Ù†Ø§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f13fa829-1ba4-42f5-838c-3be2c1e800b7',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'a5b333f6-ed4b-4221-b87b-1d33c2e92420',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'NÃ¶rdliche Marianen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '58963286-51b2-4121-bc81-7a38745fde0b',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '7208b80a-0bda-46d1-ad70-922ba169dd83',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Islas Marianas del Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f0c00189-c5e2-4987-a58d-9026498fb230',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '00e0aa22-ddf4-4dcd-a284-9d4703c3e8e8',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Ã®les Mariannes du Nord',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fbaf94d8-8a81-455a-b5eb-f769ca12d611',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '5274d073-3061-42bd-854e-ef1603f89cba',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'åŒ—é©¬é‡Œäºšçº³ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac2e6eaa-d44b-4d4e-a710-351c41622782',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    '0e37f5aa-0dc2-4426-967b-cad809678b0a',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Ð¡ÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ ÐœÐ°Ñ€Ð¸Ð°Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78c997a7-a3ea-42da-8441-11f83f39e3ae',
-    '4def3e0e-dcd2-419f-a6a4-3a2350f26a95',
+    'dae525e0-4b1f-4c03-b377-51e75dc07c84',
+    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
     'Ilhas Marianas do Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6a26381d-d180-4ed6-9306-98642e2579c6',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '60804854-fbf6-43e0-bcbc-b1b64a77439f',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'U.S. Virgin Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8b916e23-3e49-4d54-8e61-ef394fb63a99',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'fd7c01bb-a4bd-455b-a353-165c184f0cbc',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'United States Virgin Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e66fe606-37e4-4d19-a9c9-58c852375b24',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '5cfbab56-f381-4390-8f6f-46373d5c3fc1',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Virgin Islands of the United States',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '931d0971-0d6c-4937-95b2-2f0b614e449c',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '43725af7-f2ce-4c9b-95ca-95e8fbe1733b',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10eec2c8-220f-4b5d-93cc-35b34dd7120b',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'fd0feba8-0320-453c-911a-07a04b0f09f1',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'V.I. (U.S.)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a346c9f0-0a6a-427a-bc61-59b6d023d2fe',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '5412b24d-db59-446e-a999-a3ae1b043c94',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Ø¬Ø²Ø± Ø§Ù„Ø¹Ø°Ø±Ø§Ø¡ Ø§Ù„Ø£Ù…Ø±ÙŠÙƒÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8842f11-dbf6-4d3c-814b-48ecbf9fea7a',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '01b4ddea-a894-4b3f-aa9b-358b56c8d3d2',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Amerikanische Jungferninseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7147cb64-3f86-4011-b1f8-8bc40198165f',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '4b328866-6c49-45d1-ba9e-41ab490a8360',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Islas VÃ­rgenes de los Estados Unidos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b049790d-3452-42c7-b78e-dd3b5ee50eab',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '050f41b4-cd27-4786-a218-29fbad4eb565',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Ã®les Vierges des Ã‰tats-Unis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac6ecb24-52ad-439e-9349-82806cafbfd7',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'd1f6abcf-574f-433c-ac7d-6eab73b28859',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'ç¾Žå±žç»´å°”äº¬ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '18ad09f7-a7b3-4454-a24f-b882c8bf6e53',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    'ada0a10a-9fb3-40f8-9686-33936c7efb8e',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'ÐÐ¼ÐµÑ€Ð¸ÐºÐ°Ð½ÑÐºÐ¸Ðµ Ð’Ð¸Ñ€Ð³Ð¸Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9387e861-36a8-41ec-ad96-282f048dcd5e',
-    '465c0a87-4e51-4ca6-bbc3-b99c8065940b',
+    '9ce92a26-fa53-4bed-b69d-02be8582ea9f',
+    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
     'Ilhas Virgens Americanas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '73615f08-6e2a-44ec-8bed-ab4e0d7fb0ee',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '9e2e031c-025f-4daf-826d-1cb140c161c2',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'Guam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21f691a6-a762-4019-873c-2f48f4d84a83',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '2485b48f-2b3a-4d4c-85ad-e4fdd2a50663',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'Territory of Guam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f3b751d6-581d-494d-8a3e-8ed3e7485d31',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '58b44945-cec2-4248-821f-6106b7225962',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3653c701-82b1-4441-a796-675b12b34307',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '64ed1708-78c6-4e6d-b1b4-fe7c827af29b',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'ØºÙˆØ§Ù…',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '44e684c0-c3c3-4232-b6fd-c54bba4e0869',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    'd4291e6c-e9f8-4b0d-8c99-620a881ddb3a',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'å…³å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f7e24ead-e55d-4936-9474-bba77589dac0',
-    '0c9fd871-74a9-4ce4-ad5c-c82275d4a0c4',
+    '815e81e8-46fe-4b88-8494-d14a8f699f17',
+    'c4a36483-6442-43ee-94ce-14dce96afddb',
     'Ð“ÑƒÐ°Ð¼',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '083ad884-12a2-4c58-8010-bf42a687f70b',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'daf9883b-0b0f-41af-8676-7e6f1937a154',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'American Samoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b620f207-9b2f-421f-87a5-dc8689c07036',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'ffc3bf19-c8c2-4b71-b8ff-bb06e4a2e3f3',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be99e83c-aa92-418b-9c4a-f2ffe61baa4a',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '55fa63df-e7f1-4b96-bb2e-34bce2422c54',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Am. Samoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '027ccc8f-b350-47d3-971f-7556bcedd6e5',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'ccc33a6e-0ee2-4d52-a4f2-d8ac2b4bf6b8',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Ø³Ø§Ù…ÙˆØ§ Ø§Ù„Ø£Ù…Ø±ÙŠÙƒÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b1416bd8-a5bd-4b23-8368-c662e02ab994',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '994b5174-de12-4951-9e94-869a2fded855',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Amerikanisch-Samoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '987ccf88-4a63-4190-b2bf-5b2e5bd9a180',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '9fc4fd68-8971-4e11-a6bb-fe5577ff189e',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Samoa Estadounidense',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd4ef5be4-697f-41bb-88e9-2d72d67ad72f',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    '236c885b-9dac-42fc-a675-16d899cddf55',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Samoa amÃ©ricaines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '22fb75cc-4173-43b0-8815-adc90b9996b5',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'a6355bfd-8ad6-4409-aea7-0d87877ae0e0',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'ç¾Žå±žè¨æ‘©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '639fe004-651c-4c98-881f-edce4c2cb7c4',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'd8d7312c-94a9-400f-8831-3114d6c9d63c',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'ÐÐ¼ÐµÑ€Ð¸ÐºÐ°Ð½ÑÐºÐ¾Ðµ Ð¡Ð°Ð¼Ð¾Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f017ba4b-3fff-495f-a456-2e9f6ba8f60c',
-    '98b6a517-fefb-407c-9c06-8211efeb3727',
+    'e4888df6-13de-4ce8-b207-280d90783668',
+    'b0fbe676-4801-42c2-807e-f9d97496fc89',
     'Samoa Americana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '494c7532-9c7e-43ad-b946-f363ede5d3da',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'dad110f7-8fc9-4002-b275-cd64c871076f',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'Puerto Rico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2dd37f2-1505-4e90-8a83-7d0ff1ff948d',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'a0d12411-e73c-4e22-9661-74892cf6a2a1',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'Commonwealth of Puerto Rico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e67ee5ae-b31e-4052-b871-6a23efb8a074',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '4161ec4c-b6b5-42a2-a44c-4eb4455027c3',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c15a0ed-1c3d-413d-b0ee-9e402ca72267',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'd111a53b-ae99-450c-adfb-e050607fb5e7',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'P.R.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af09475f-4fee-4678-8450-a48dfbd636aa',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    'a10dd6fe-488d-4d14-b6bf-396f46117696',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'Ø¨ÙˆØ±ØªÙˆØ±ÙŠÙƒÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3afd9a3b-55e4-44c3-b4c0-09dac73eb8fd',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '9ef685ad-e56d-4557-acba-c910d558bd15',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'Porto Rico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0e2a00ed-817f-480a-a659-67346a59905c',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '9cae870d-6ffe-4abc-afea-5787bfcebb75',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'æ³¢å¤šé»Žå„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'de7d8786-866b-40ad-ace2-836581d488ea',
-    'aaca12b3-7306-4e62-9f66-66b085e96a72',
+    '2bd00824-100e-41e0-8e35-7d7de2930450',
+    '404323cd-b307-4962-aace-e6259747bc43',
     'ÐŸÑƒÑÑ€Ñ‚Ð¾-Ð Ð¸ÐºÐ¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9b492281-8718-41e4-927e-0c08061a8930',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '3969f098-1220-48cc-9b07-246031ea08d2',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'United States of America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f900a27-b6d3-424c-b4b3-6792b008bb2a',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '96ef42fa-0d71-4779-933f-383d8fe0a576',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'United States',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b84f3b8c-fcb2-4d7f-89eb-3a4310e3d8c5',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'd42d010f-9f61-4e7d-bc04-a6d04dab825b',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'U.S.A.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a84bba1f-0782-45f5-a873-bfee076030c5',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '6e9b31d9-9cd7-403b-9b06-6474216680a8',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd2a4c339-77a4-4089-8d64-86d6eefbe9f2',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'aa76794f-01fc-4086-a17f-51230deb47c2',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'Vereinigte Staaten',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8af70b27-e27d-4acd-9f59-2b4431abffa2',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    'c16b5f6b-8c95-4beb-8c66-46f27e30190d',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'Estados Unidos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dff3530c-ea12-4cf1-999d-adcb3726447f',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '253443f8-4cd7-4b47-ac07-5033a7929f0e',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'Ã‰tats-Unis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8ce6813c-eff1-4d25-b593-42b45389cf05',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '979375cc-d0b6-4e63-a9b2-0bdb6f188e50',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'ç¾Žå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2882a3b4-0c0e-4bc4-9d87-04b4e8209676',
-    '37dbcd01-532c-48b6-b616-180e0bbbea58',
+    '52d13b45-2908-4855-b3b7-93809a38cb4d',
+    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
     'Ð¡Ð¨Ð',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7da35d1e-7ca7-4a47-9987-cd79e825932e',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '6ae38183-6e8a-4834-9473-a44ddda74c90',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'S. Geo. and the Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbe550f7-5147-471a-a247-a2dafb192955',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'e50f541d-8bc8-421a-af8c-31b3516c43bf',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'South Georgia and the Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e0f9b94-a46f-4bf3-b509-6b18ad5a65f7',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '77bb5797-4e98-4daa-b6f1-74937f621a3a',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c163faf-6d54-4ad7-b680-4d1315904f9e',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '2dbe6ff6-13ea-438a-a16e-9561dca73cd2',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'S.G. & Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '91247e0e-0ac7-41c7-bf27-7f73fec7150f',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'eeb5adc1-e79c-4438-b4c4-fce2608833ed',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'Ø¬ÙˆØ±Ø¬ÙŠØ§ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ© ÙˆØ¬Ø²Ø± Ø³Ø§Ù†Ø¯ÙˆÙŠØªØ´ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b763de7-f79c-40de-8dc1-09efc7eacd34',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '9c20b178-167a-4875-aeac-554a8e66424b',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'SÃ¼dgeorgien und die SÃ¼dlichen Sandwichinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '71546087-569b-48fa-8fdc-53f147ae8468',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'b7656d88-4dd1-4fb9-94b4-1b028d4b8c8c',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'Islas Georgias del Sur y Sandwich del Sur',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92d0c3aa-6fc4-4c8e-8778-d308ccfc4c24',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '0280d0f9-3e30-4cec-9212-7b8620645262',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'GÃ©orgie du Sud-et-les ÃŽles Sandwich du Sud',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd7b4c3d0-c062-4709-8d44-a9aea9cf75b2',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    'c1164727-e2af-474f-8703-32ee4c87103d',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'å—ä¹”æ²»äºšå’Œå—æ¡‘å¨å¥‡ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '648fc928-1e5f-431a-b023-1ceadf3f1bda',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '3ee5a681-578f-45dc-ab7d-06138c6e7270',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'Ð®Ð¶Ð½Ð°Ñ Ð“ÐµÐ¾Ñ€Ð³Ð¸Ñ Ð¸ Ð®Ð¶Ð½Ñ‹Ðµ Ð¡Ð°Ð½Ð´Ð²Ð¸Ñ‡ÐµÐ²Ñ‹ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '31020959-98ea-43fe-ae37-85c479644724',
-    '7b6efef2-c654-4f5e-bb6c-61511b22c11d',
+    '5ab270fa-1b76-4cef-a24a-c39524aa911b',
+    '45eae273-2790-4b36-bafd-62932a838d26',
     'Ilhas GeÃ³rgia do Sul e Sandwich do Sul',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad148175-b8d8-425a-bd0d-22c99d5f88d3',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '1d07e43c-19ef-4301-b43c-a7a997b06433',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Br. Indian Ocean Ter.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a305f2e6-0d81-48cc-9dc1-f52d06067c80',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'a865d428-ec5f-4db5-924f-e59e28ddcbe9',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'British Indian Ocean Territory',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbd221fb-d8f5-4677-b8a2-850d3a4db1b3',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '5b7f92f1-efb6-41d5-8def-cb35a5223a49',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f368944d-ef0b-41e9-a74a-73403a21b8df',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'dfe30595-eb4d-45e3-ab0f-d3e57fa6fcfa',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'I.O.T.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4dcf3668-1fb7-4a58-ad8b-05de1df7d10b',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '1645e52b-5b7f-4aaf-b51d-8da1388b1a2a',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Ø¥Ù‚Ù„ÙŠÙ… Ø§Ù„Ù…Ø­ÙŠØ· Ø§Ù„Ù‡Ù†Ø¯ÙŠ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0c45b460-0a8b-4da8-8d52-0471d3d12ef0',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '332d615a-c8e1-42a8-9f8e-4937d6442378',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Britisches Territorium im Indischen Ozean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf6a5257-172b-4e79-adb5-99fcf00358a8',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'bc87548d-f64b-4e68-b58e-8d98e6216d14',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Territorio BritÃ¡nico del OcÃ©ano Ãndico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fa1f4c53-6474-490c-896e-504f00c86814',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'e3bd55c3-a0d0-4f44-bca8-6a1574c30735',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Territoire britannique de lâ€™ocÃ©an Indien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ee521a41-fbb0-443c-b9c5-bf8e3c032c50',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    'ca2d44d0-7734-46a5-8f4d-6eb040c4d054',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'è‹±å±žå°åº¦æ´‹é¢†åœ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '760ea847-0220-4849-b8d5-d7369e279959',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '6c7c2c92-9350-4e3f-8424-a29b70185797',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'Ð‘Ñ€Ð¸Ñ‚Ð°Ð½ÑÐºÐ°Ñ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ñ Ð² Ð˜Ð½Ð´Ð¸Ð¹ÑÐºÐ¾Ð¼ Ð¾ÐºÐµÐ°Ð½Ðµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c46fd23-ac58-4361-aaa0-b0136cb2b428',
-    '5999db54-ef76-4204-b8de-9907b805d0ba',
+    '8f040270-8fa0-4248-a5a0-682cf7eaa554',
+    '0a470504-207a-4339-a29f-ed808955a6cf',
     'TerritÃ³rio BritÃ¢nico do Oceano Ãndico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0786a2cc-1407-4fe1-b340-78f5ca826c7c',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '8c67663c-49e7-4fde-91c9-e544aa37ed95',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'Saint Helena',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1216284e-5e8b-470d-a32f-d94d3eb7d46a',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'de907f57-7c58-40f3-b9b2-97f0338916e6',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6000104c-2651-463f-91cc-8bbd988de2cb',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '053eb7b5-3c66-4e27-8650-63abdfb6c760',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'St.H.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6db127d3-83b7-45a3-83ac-9cbe643b5dac',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '75e42014-5d45-4467-86fe-e198691c9b7f',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'Ø³Ø§Ù†Øª Ù‡ÙŠÙ„ÙŠÙ†Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4562e76-1b26-4f4f-833a-77cfb4e0df74',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '4ae30560-a463-47f7-9770-b8c9357789bb',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'St. Helena',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a81cea2b-8098-492d-90f2-22e469ec9b92',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '053ee2b4-6380-4c65-920f-c149d13f6eb7',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'Isla Santa Elena',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '171992c1-06dc-4b0b-8eb0-24151f6363c5',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '6537ee68-1d69-45dd-b45f-d9799592f8e9',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'Sainte-HÃ©lÃ¨ne',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '95efa2db-7f74-4831-98a4-02d669890257',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    'bbf0c52c-8f0f-473b-adc5-795f68a5c541',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'åœ£èµ«å‹’æ‹¿',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b99dae8-522e-4146-bbfe-a2df9bad9803',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '3ce88f5e-2336-4979-be1c-d6ac4d213ca8',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'ÐžÑÑ‚Ñ€Ð¾Ð² Ð¡Ð²ÑÑ‚Ð¾Ð¹ Ð•Ð»ÐµÐ½Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '95060287-f1c4-4b37-8f8d-d7a92f334223',
-    'cfdfbd28-ef02-4a4f-9535-71cc8780322f',
+    '6cf9a72b-c5b5-4d41-8402-663c8898f06b',
+    '8d81b431-39f5-4827-9c1a-9c57635b1485',
     'Santa Helena',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bc86ffd9-308f-4d25-9c70-4ff2d9eda736',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '1a36e421-728b-4ef0-ab05-3a26f13211b8',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Pitcairn Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ec38dc2-e043-4e12-b48b-b1347da4499b',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '913ed309-d798-43c0-b532-597b256e3e5a',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Pitcairn Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f4843d32-67fe-4a4f-ad35-2c3c81187717',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '826b9d80-a4a0-4a1a-8586-fac2f9cfffe6',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Pitcairn, Henderson, Ducie and Oeno Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '075764db-17a2-4b95-ac9b-e7ac9b3bc412',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '56a66228-4b6d-4e0f-a0d6-edc113de2867',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2462fc02-16bb-4794-9d8f-031e1ba634c2',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '2c5a60c4-7a39-42f6-90fe-570224dc05b7',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Pit. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b6aa6b3c-d4cd-4984-b4b9-54fb0cf45887',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '62b96122-1655-4462-b996-ccddebaed0ae',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Ø¬Ø²Ø± Ø¨ÙŠØªÙƒÙŠØ±Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c143f34c-253e-41df-9e8c-22e48d239d1b',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '439ca3fd-9b4d-4a05-b6d4-33b5b7eb6adf',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Pitcairninseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e00e6ef0-4938-4258-a9c5-d78e02fa7ed2',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '20709705-19bf-4d73-bbbe-1b57ad35900b',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Islas Pitcairn',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '06f90203-d9e2-486b-ba05-569c3bb06a53',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '54aefb93-d9c0-40a2-a0e4-f3bb468dd029',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Iles Pitcairn',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '679bf78f-ce0f-4b6b-9a7e-f73612c4fcfa',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '471724dd-676d-4d26-9af5-e29bd6430a9c',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'çš®ç‰¹å‡¯æ©ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f5046027-fe1c-4f45-a654-3eaf6186708f',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '84a6f82a-c40f-4a5b-9469-e1aed83ed761',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐŸÐ¸Ñ‚ÐºÑÑ€Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbff1b9e-c117-419e-a592-976fdabf5cdb',
-    'c1ddf163-b840-462d-a651-fd14bf4473d8',
+    '59c8caee-cb81-45ce-9b03-9c7778565578',
+    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
     'Ilhas Pitcairn',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '476a2bee-cfa4-4d13-aec4-4b31f861809f',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '2d959b1f-83e9-43f4-9c98-eea037ce3304',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'Anguilla',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7fe77b39-971d-4c76-832e-570c8bb45147',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    'b55b5409-61c1-493a-933f-788546d1dfb2',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aaf2d8b1-2a30-4754-ad48-6d77eb8ffa53',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '25eef2c4-31ef-4b6c-9d6e-669c23c569ea',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'Ang.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '717f5fca-a142-4be1-9449-30dd45b1a3ef',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '70444d06-cb52-4a21-b735-c7516e7eb530',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'Ø£Ù†ØºÙˆÙŠÙ„Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a1bc9e73-46c6-4daa-99db-b07c4ad48087',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '07f35d9a-3849-4d9a-b5be-ae36d871ba9a',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'Anguila',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '34bd9597-2308-41bb-aada-7eac8e37be3b',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '0576b2f3-85be-41af-bcf1-66a319232c89',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'å®‰åœ­æ‹‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '86717c73-fbc1-45c9-b051-4e663fd5416f',
-    'be2aecc2-a26f-49fc-b32b-7b050fad1092',
+    '8f2b85f3-da29-4c50-af2b-ca4cdadf553c',
+    '8711f5fc-7228-494b-a364-1f45796ba504',
     'ÐÐ½Ð³Ð¸Ð»ÑŒÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac1c7cb6-31b2-47b7-8013-71cd5e4db3fd',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '5bf3645f-90b3-4bbc-8165-62f7c19d4f65',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Falkland Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd73182e-d59b-46f0-b377-474bce4fc0fc',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    'ab95f71a-ad4e-47e5-85ee-0c1618261dfe',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Falkland Islands / Malvinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5bd3f45f-d083-464e-b4d4-bbaafe29b630',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '1a4cb507-2c24-4ca4-ae30-cff06d332c0d',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Falkland Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5a7ede88-08dc-4538-a2a6-f92a8740c094',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '82562c2f-8f47-41c7-afed-08d755991444',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21f3b6c4-9768-4683-96bb-d64e9eae0660',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '83362e9e-844c-450f-8964-bbadcc018982',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Flk. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24693ab4-ac36-422c-95f0-00a7102b9c3b',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '21135b8d-0057-4ec1-a73b-cf77f66609bd',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Ø¬Ø²Ø± ÙÙˆÙƒÙ„Ø§Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3c164afa-f458-4c36-af84-e4d497cddacb',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '9cac4071-bd38-4f32-9331-38ff1f550c04',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Falklandinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27fb75ca-b959-4e19-a2cb-6aac47e6943f',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '511df1e5-bbb8-4174-bab0-565f101e0d10',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Islas Malvinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '345cf5e3-29c6-423f-8f30-ee9268d0cb4b',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '63c3975e-bcb6-4ed2-b666-a57b3fe52432',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Ã®les Malouines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '803a211d-4c31-4635-84d4-f82278d948bc',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '20487a1d-9be0-49c4-80d4-ce919762a15a',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'ç¦å…‹å…°ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c286b159-93b7-4fe2-91d8-11542b8be448',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '4c5ee718-f2c7-40ac-9f38-8ed6986dc653',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Ð¤Ð¾Ð»ÐºÐ»ÐµÐ½Ð´ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84d2267a-00af-4895-9fbd-8b3eec87ca9c',
-    '2a985659-5b6a-4840-b904-4301a3d91911',
+    '96216343-9634-443f-8d76-a94bec1ac75a',
+    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
     'Ilhas Malvinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec8f96d9-cc02-4a68-96cc-f8eeb0a4a20a',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '6f1a2745-ab59-4443-9ad8-f5c4a021e6cf',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Cayman Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9eba0f66-67b4-4756-8cbe-966e9b2fe75b',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '65bc0209-60ab-46cd-809d-ee9ff621b646',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Cayman Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6fba6038-6013-4c81-9127-f7813d8e496b',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '30404dd6-1bf9-4101-8f9e-c95092ee8f78',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e65b0576-bc9c-4aa3-80b1-59411a504929',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '3b047448-2db3-407e-beea-229f22adb756',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Cym. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '097349ad-4e89-4862-a1bc-cf7c1e8a269d',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '9cc6bb3d-14e6-4af5-a94f-abc4adcf4044',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Ø¬Ø²Ø± ÙƒØ§ÙŠÙ…Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24158253-9057-413f-b4d3-6ffe4bcbdcd0',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'dd608379-c238-483f-b0d4-97582ef66d69',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Islas CaimÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ea7611b0-a6a1-42b9-9c81-f707096ceda3',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '9e709174-cf1a-4c0b-9d52-8649651f333b',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Ã®les CaÃ¯mans',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ffc42ea9-47a2-4aba-bc47-93e7cd97541d',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'a9ee2c41-82b1-4fa7-b553-17a0a1e3fa47',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'å¼€æ›¼ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '23d4b2aa-1790-47b4-95f2-3897a456db45',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    'a8f826ad-614b-43b0-acf5-6bbbac5797d0',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð° ÐšÐ°Ð¹Ð¼Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3989148d-7408-471d-b644-aa0ddef93c1a',
-    'b304e93f-ec56-44b8-a04f-9dbc64ca3bd1',
+    '9a6d51fb-0915-442c-9f66-eb5bdbd7447a',
+    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
     'Ilhas CaimÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6f5e096-6bfe-4c13-81e3-acc7eba23ec2',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '3294fb40-eb81-4f54-8e40-281739cdd4f8',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Bermuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '03002e49-7ef1-4604-bbb7-a87ef0ff3122',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'd0d1934d-ca4e-4af9-acc5-6c52950915e1',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'The Bermudas or Somers Isles',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '34471d19-cb65-43c5-aed5-04a78a56eec5',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '0582727c-57ae-4011-8aa2-dd7c90803b2e',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4005172-2cfa-4744-9739-a16eb7b0d87e',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '4fb835b7-12c3-46f2-9a79-20ca8d691470',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Berm.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1c2cfdb9-11d0-4e86-8fa0-7fc76819f7f4',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '10845b0c-0f8d-4b6f-b80e-9d35b014072d',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Ø¨Ø±Ù…ÙˆØ¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '267d28c2-997b-4ebc-9928-4c3221c2ef24',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '305926ba-926f-481c-abf9-eeeb35857ab9',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Bermudas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10db750e-fa2c-43b6-b02f-2715e601eea3',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '8f2d6a89-e5ba-40a4-8094-83d53baa0a0c',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Bermudes',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cbefbdca-12d1-4c24-87ca-6fe79ce99e4c',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    'fc06e344-3efe-4952-a70a-ebafa222d9f4',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'ç™¾æ…•å¤§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '18edc02b-aab6-41f0-92f8-26b43ddff1ba',
-    '1725d4ca-4c57-4234-bf8d-31bde367477a',
+    '78fe4d56-ffd7-4619-bd98-236b633ce25a',
+    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
     'Ð‘ÐµÑ€Ð¼ÑƒÐ´ÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '18fb2c65-4cf0-4012-99fb-3058ee918ee8',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'be9fcfe4-a18c-4a7d-bb39-fd37acf06d33',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'British Virgin Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c5d65ab-4cf2-4ca4-b28b-f09286893851',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'c383b0aa-3da0-4c5b-93a5-f94051289d6d',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'British Virgin Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2225341-ea08-4fa1-838f-629de1388dbc',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'ed4fca51-b4b2-435e-9c35-4355335445a8',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7452cc04-3c10-42a7-8fdc-7e24ee11deaf',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '45a4f925-eb17-4b0f-b437-6295dd74cc84',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'V.I. (Br.)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '845ebdbc-8584-4874-9301-affce032b1d7',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'c5c63d91-b4d0-4849-acfa-1f0ed6e9317d',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Ø¬Ø²Ø± Ø§Ù„Ø¹Ø°Ø±Ø§Ø¡ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cf4e7fe7-4f4b-44ad-ab2d-748afa26b7ef',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    'd04963f1-9ebc-4c3d-84ff-7be7ff0198d9',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Britische Jungferninseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8d21465d-9724-4ef1-ac01-8f0536a08470',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '2045aaeb-edb2-4105-847c-eba1c70dd656',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Islas VÃ­rgenes BritÃ¡nicas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f13055a-a918-4273-a709-6373006d2d56',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '1c451d4d-837e-417f-9d8c-acde48d3bb16',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Ã®les Vierges britanniques',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c94e8387-92e3-4fc8-a61b-891e8974b0bb',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '2f87d177-c620-4af2-9c42-16154affece5',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'è‹±å±žç»´å°”äº¬ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'eee2cf91-f67a-4926-8fbb-0e1f6a81b3c8',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '4514ba7e-0724-4c20-809b-e8bb65f65887',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Ð‘Ñ€Ð¸Ñ‚Ð°Ð½ÑÐºÐ¸Ðµ Ð’Ð¸Ñ€Ð³Ð¸Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '497dbee7-f1c2-4cd4-bddb-cd99f03d9507',
-    '4d1d5b5d-9320-4d20-8115-15cc012b9800',
+    '6b2afccf-4466-4f7f-a770-cfd643882619',
+    '98de6477-b098-4729-aa45-87c853854b9d',
     'Ilhas Virgens BritÃ¢nicas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'afd200dc-d8b4-45b8-a9c8-71d1cf755aa9',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'a4c81cb9-1abe-4d2a-9d1c-940b60455e0c',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Turks and Caicos Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9aca1291-b932-4884-9d71-b51db4189457',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'ff737a02-17e2-492e-a5f5-1b531b8b496c',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Turks and Caicos Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '431259b9-68e9-421d-a3fb-b64dcc259512',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '62aa6df9-3869-464d-8772-e53b7d09b568',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fc7560c0-b8e3-4916-ba2b-67fdf3c79457',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    'c00b33d2-32fa-4a3d-a9f7-1096a2625ccb',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'T.C. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b74971a7-c51d-4711-9d3d-567c0f07fa10',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '05da9715-76ad-4b4a-9d64-f6570fef91e8',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Ø¬Ø²Ø± ØªÙˆØ±ÙƒØ³ ÙˆÙƒØ§ÙŠÙƒÙˆØ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af5804b3-009a-4390-8f8a-6f266a301489',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '6d072df0-b3a2-46f1-89b3-13178ae36586',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Turks- und Caicosinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a01964df-40b1-4a65-85a8-e759b03a2153',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '6a2274f5-0561-455e-8a82-51827168fbff',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Islas Turcas y Caicos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '19c66e31-b3c8-4aee-ba97-4fce8144165d',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '569e2e01-a783-4b74-bcc6-7523df8ffcd7',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Ã®les Turques-et-CaÃ¯ques',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f8532e1a-d728-4c82-9e2c-c9d2c61703d2',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '321ddf19-2fec-4b58-af4a-63355fde685d',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'ç‰¹å…‹æ–¯å’Œå‡¯ç§‘æ–¯ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '72a06e90-8427-4016-a7e1-3672115ff776',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '14451072-ed1f-4b99-a6a6-a26fa29da3fb',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Ð¢Ñ‘Ñ€ÐºÑ Ð¸ ÐšÐ°Ð¹ÐºÐ¾Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'eaa489eb-763b-46e3-9c8f-1930e47de811',
-    'f18bb2c6-331b-41e3-90a7-3e1a7257a624',
+    '638cdfaa-d26d-481a-9468-1296e9922f66',
+    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
     'Turks e Caicos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b38ac00d-2a08-4138-ae70-cbfa17543125',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'de21af2d-431d-417f-82a0-6146b3df773a',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'Montserrat',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3fd45a5d-b995-4f98-b015-7e9c8276255f',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'c787bc93-38a0-4322-aef3-fbf5948637e6',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '13b5c2b3-d787-4f5e-b89d-74e4719629e5',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '14ef25ef-8f1e-45f3-9feb-594c30ea27e7',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'Monts.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '20dd5cd3-4c02-4c79-8ea0-309cadf1aa03',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    '54b4d773-44bf-43e8-9bbd-e7b838a9f168',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'Ù…ÙˆÙ†ØªØ³Ø±Ø§Øª',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f1a834de-82f0-4d58-b2cf-3d5cbfb5ba96',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'eb35e622-e56f-4ef5-a105-c070910debbb',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'è’™ç‰¹å¡žæ‹‰ç‰¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78a5c900-c7c5-4968-aa6d-508742b4973a',
-    '469a08a6-3bf5-48f2-bb6e-d02dedda51ae',
+    'c900bfec-4b61-484d-b3ec-8c9168f031f6',
+    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
     'ÐœÐ¾Ð½Ñ‚ÑÐµÑ€Ñ€Ð°Ñ‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f76aa123-e22b-4387-83ce-7b54a8044d51',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'b2174a0c-7af2-4e3c-9c20-807cfc014a1b',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'Jersey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad4d2861-8162-475d-8baf-705c737bf26a',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'dc8a0285-57c7-4637-8cd8-b3e1e1362341',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'Bailiwick of Jersey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '194b1b71-f883-4a89-82c9-bad33f378582',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '2a9dd817-5d43-47d7-8ffc-91b0805d1631',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd3028358-bd2e-4f64-9ed8-b217796c610b',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'dcdda3d7-f362-4e6d-9fe0-cdcd93daa297',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'Jey.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '449094cb-f407-4211-92e6-4bbe3c1bb64b',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '83a0e565-6f3e-4903-aa76-28fef58a54f3',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'Ø¬ÙŠØ±Ø²ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cc500c9-49b9-4d69-99e8-261049d1ddcc',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    'ee8bd984-5535-41b0-bee9-341be066f341',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'æ³½è¥¿',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c0f7104a-857c-4c9c-9afb-7956798d30dc',
-    '485761c6-9b1c-42f4-814b-ae7c83aafb2b',
+    '4d395686-3a01-4b18-92db-4eb539b45de2',
+    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
     'Ð”Ð¶ÐµÑ€ÑÐ¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f4219cfc-45bc-45cd-8e96-dad83c4bcdf8',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '3959642f-b113-4d84-bd18-86d0b8967f6d',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'Guernsey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b53441ea-5f22-497b-bd1c-d315f14b5e97',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '751e5f7d-4388-4b87-9d74-e135bc250c65',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'Bailiwick of Guernsey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ea9564b4-df71-4459-a554-e05e7b508be0',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'b375b440-cc2e-405c-95ee-0e7357cc5836',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf82043b-ea82-49fe-a9b2-a28d3ac7bb81',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '14f691a3-d7f6-49b2-830c-1c8a9d4e9582',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'Guern.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92564440-8dc7-4da9-93e3-5a2c59878ec7',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'bc42ba18-4873-46ce-978a-83142c1e188c',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'ØºÙŠØ±Ù†Ø²ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4211eaa8-a6d1-4162-823f-d26fc1b74f7e',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '99e6b244-a034-40de-8ba1-df69f435bfc3',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'Guernesey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ef6dddc-c5c4-45d8-a8d8-63ffce2f5214',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    '6cd9f6a6-3d94-45e1-91cb-f908c4ee44d1',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'æ ¹è¥¿',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f04b5fe-9aa3-43a5-9e00-738f1613155d',
-    '8137b438-ad9e-49fd-899d-a32fa5747ee6',
+    'db4425d0-ee0c-4e7b-a8ca-bb9d4fcca54c',
+    '2dab19a1-e878-429d-a659-05d7889041a6',
     'Ð“ÐµÑ€Ð½ÑÐ¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d28b846-7284-4672-9536-b1207929ea93',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'df7279eb-9100-4562-af56-7c0b2758b338',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Isle of Man',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84747880-c1b4-4d40-8e36-77ccc1ff2982',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'fe7f15fe-2f7c-45ee-a29f-020a40a8c882',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '538dc4a4-d3ea-4e21-a1ce-2a2c5ccbbe6d',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '4c9ff1f6-d340-450f-b69e-b0d5e94ad12a',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'IoMan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ce1a28c-4ae0-4198-a2bb-b5857033ef22',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '6675aa98-cfb9-444a-bf03-4b74e6cf5b35',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Ø¬Ø²ÙŠØ±Ø© Ù…Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b43d0de-7548-4f70-8c49-874f62ef323a',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'f4ce2e50-30b8-43d3-afad-aa748d429116',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Isla de Man',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6c2abf85-a9e1-436a-a129-603f68cf8470',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '49cbbdfb-730b-4424-9021-cb49220ecb43',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Ã®le de Man',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dee43803-ccdf-49d2-9c9e-e148c82bf5e9',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '7cb5c463-18c7-4949-b5c8-28bdb704d5d6',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'é©¬æ©å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd8af6d2-6865-498e-bcab-c9acca7555cb',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    'b3bfd221-b487-43bb-bec4-9765b59d899e',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Ð¾ÑÑ‚Ñ€Ð¾Ð² ÐœÑÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '248c3f25-3b5c-41cd-ab21-e23d18ebc697',
-    'ff01187d-43c2-42b1-b4d6-03067eb68b90',
+    '909f0a36-9fcb-4f4e-94ea-03b87a3b7409',
+    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
     'Ilha de Man',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '93f7b143-f7c1-4480-8af4-a11bb5cfa210',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'c7a510cb-3732-432a-bd07-e8e91ee4def0',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'United Kingdom',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '89beff4c-00b7-44ed-bf9c-96672c3f763f',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'bdb7fcac-1eab-400e-b010-4daa26fdbbd2',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'United Kingdom of Great Britain and Northern Ireland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67b93047-4f3c-4509-864d-1b3e3cb34a1a',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '36500024-82fc-474b-ba69-f62df60fe716',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'U.K.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4285a0a9-637d-438a-b6c5-bed5d78f0a1b',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '57278653-2479-42e3-994f-a4b692cd2b22',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'Ø§Ù„Ù…Ù…Ù„ÙƒØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f94b7542-85e2-4f9a-8903-212832bc2cc4',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '35c4fbf0-d4e9-4450-bbb3-77005f7af8eb',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'Vereinigtes KÃ¶nigreich',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '428a444f-55f8-4c4d-a280-e4fa9751e2e0',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'cfac1e1a-ccb9-4f83-a97e-1fb93cf5f2ab',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'Reino Unido',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b0686dc6-3a39-400c-a4ff-55f4236d535c',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    'b6e87a9b-c712-4fbf-a2af-06216f862194',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'Royaume-Uni',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '62ecc55a-e494-4f04-a1e3-1c74e5a0a062',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '1a49ec58-0725-496d-bf02-3f459aa48983',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'è‹±å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3936f707-4e5c-476f-a1ef-bdbb5b350e82',
-    '2e89d857-6a58-4541-bada-14ead28ed554',
+    '5bfdaf07-38fe-4a49-8b63-f05706544dcd',
+    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
     'Ð’ÐµÐ»Ð¸ÐºÐ¾Ð±Ñ€Ð¸Ñ‚Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8ff5a7bd-6916-41b8-b145-254e36920a7e',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'c99877be-1b6f-4011-81f7-d715f5a98cbf',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'United Arab Emirates',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e7aa7b4-623b-4cc9-82a9-5dca53ff701f',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'db2d6050-1149-41d5-a89d-99aff069c869',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'U.A.E.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b33f8028-1253-44b8-ab73-d42d70469992',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '9acd0d14-a72d-4a9d-82b2-61d7d881ce7f',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ace1144-9e05-47d6-b176-dafea9ff5057',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'c54c7997-3754-4cf3-856a-2eef8a2a033a',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'Vereinigte Arabische Emirate',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '15ca1799-03a7-42aa-b446-ebc3dddef58e',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '0cf0033c-c0ed-4355-8fa8-07bc2ddb2888',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'Emiratos Ãrabes Unidos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fb05d294-1b92-4f2c-a233-3a5b3ffd5503',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'bf540bd2-f739-4e6b-8e59-ccfdc721401d',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'Ã‰mirats arabes unis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af69b416-e989-4544-acb8-1435051a78ee',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'ff87189d-7674-4bca-85ec-d2ef3d8e1110',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'é˜¿æ‹‰ä¼¯è”åˆé…‹é•¿å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '54629104-93f1-4262-ba39-8b9d13317265',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    'a17abb05-2ae3-4afb-a6c1-900cbec65c79',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'ÐžÐ±ÑŠÐµÐ´Ð¸Ð½Ñ‘Ð½Ð½Ñ‹Ðµ ÐÑ€Ð°Ð±ÑÐºÐ¸Ðµ Ð­Ð¼Ð¸Ñ€Ð°Ñ‚Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5110cec4-d490-48cb-8117-9ecf27b6f0ff',
-    'b43d9f1e-a3a6-4737-9e2f-f835ece7455c',
+    '5647813a-3eb1-44fc-9287-67de94548edd',
+    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
     'Emirados Ãrabes Unidos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2cf55828-c299-4560-a19a-5da226683fe9',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'edfe0626-44c0-43bf-b319-7e1513ad0bfd',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'Ukraine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e2b8a93-3f35-4e2e-8525-11f2c0d6f8a5',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'c0e1b140-4b78-4d91-a56c-5c61568fda01',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'Ukr.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f988e3d1-7847-4451-8b6e-e3a26d35a96a',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'c3702c10-e8c1-42b5-b1c3-48be3acca49a',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'Ø£ÙˆÙƒØ±Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e7c00cee-b34b-45df-a489-7e64ba25db67',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '15ac243e-a7cf-431e-a70e-1309c628db73',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'Ucrania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1d6637f-c2f7-481d-993c-4cba9795d3c7',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'a64da718-8e86-498b-8ac7-64599faf43fc',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'ä¹Œå…‹å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8b7aae33-21b7-448f-b6f5-8dff175817cf',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    '56276d27-a213-42c2-b776-80d3209ccfa8',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'Ð£ÐºÑ€Ð°Ð¸Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff624da1-750f-4ecb-9034-e23d5a17ec35',
-    '14a0623f-0bac-40e0-8a1f-7e95f726563e',
+    'c4a66c0f-83a0-432d-9ff4-c92e1a81d27f',
+    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
     'UcrÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b8311d8-d35d-407c-99ac-498e9aabc8bc',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '87b12bc5-1df9-450b-a85b-3ae5f9d08019',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Uganda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7a86103f-e459-48e1-b5d5-9689781c66c7',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '398d4f68-d8f0-4499-a3a9-9f2286e30215',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Republic of Uganda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad6e40ab-5d79-4ae9-8812-a5b15c83bc52',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'f3f73481-5dda-4e1b-81cc-476e54a64846',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Uga.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aaf5257b-af80-48c8-b336-888dec35330e',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '170cae51-37bc-4280-ae40-303bdc0f8223',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Ø£ÙˆØºÙ†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe87a1d5-b778-4776-adfc-02b562d55741',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'd808aa48-d1f5-417a-80f6-1a22f0797b67',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Ouganda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dc9648ef-1c05-4004-bfa7-dbd29a687bcc',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    '5eeff06f-ce5c-4101-9e6b-c2d3a33b5755',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'ä¹Œå¹²è¾¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a219b7ce-5ebb-4ed0-951b-dc3ee3e2a20e',
-    '46748046-2c5e-4352-95a3-73b0766cfcdf',
+    'bd869946-e195-4356-be8e-cc941a3cd65f',
+    '31805f0e-4614-4546-ab49-b52d1328ab1f',
     'Ð£Ð³Ð°Ð½Ð´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3323570a-6393-4de3-b24e-0f1b426716cf',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'f3f45fea-bf91-40a4-841e-919500116ed6',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'Turkmenistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8bd32e21-02c4-43b9-9dd0-a0f8cb178009',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'ee9728b3-ef42-4238-b3e8-d45c049f7de9',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'Turkm.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e4710a15-028c-4c22-871d-c3564cede2ca',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '5f68461c-af32-4417-8c39-4e1f8ce250a5',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'ØªØ±ÙƒÙ…Ø§Ù†Ø³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c40a4ef1-6cb2-4dae-b033-831aeb52cccf',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '8623f30a-6370-43ea-a774-94e30f5a9f5f',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'TurkmenistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d44f59b-a7d9-402c-8f2c-cbc33526dda6',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '83474394-53af-457f-971e-c254761f3a01',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'TurkmÃ©nistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1f2c129e-08b4-4671-a736-dbf7cf53b7b9',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '65e5426b-c5fd-4fa5-aa5c-b171b3da040a',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'åœŸåº“æ›¼æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fa761129-c02c-4ef3-bf69-5aca51f95004',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    'a260035c-7f58-443d-a8ed-f1449dd512cb',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'Ð¢ÑƒÑ€ÐºÐ¼ÐµÐ½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '253ce303-9709-4840-ab1d-e4835854b75a',
-    'fed24581-31b1-41d2-a3ce-d445084acea8',
+    '1fe971da-d270-46b4-8648-010bff1a0179',
+    'e910851d-0d70-4487-a3c7-767d6b930515',
     'TurquemenistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7bfa8dfc-4377-4e1d-be13-dd1f2fc22ee8',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '531643c6-7813-408b-8c4a-76b1eb9c5b00',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Turkey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cee9d429-d503-47ab-85f1-145683149177',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '584aa5b9-757b-4400-af20-53c89763dbba',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Republic of Turkey',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f1701da8-7478-46af-b927-60d6c6f61484',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '76b9bd8b-815c-43ed-913e-364a40796994',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Tur.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98bedde9-b434-4136-8246-3e65c985c91d',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'e6abfd6a-21b9-42ff-a50d-67b059093c6c',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'ØªØ±ÙƒÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a453c138-cda4-42ff-a3cd-84d243f34b89',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '309fccbe-8b71-4006-9036-213d98fc45bf',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'TÃ¼rkei',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1773a547-d5ed-4de2-a097-1799aab9f47c',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'b860c39e-0980-4002-bc8b-7f9689c2044c',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'TurquÃ­a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2df7e237-e117-4e62-b94c-51c4755927f7',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'de303268-f84f-49b4-9b63-3ba7651e79f6',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Turquie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c602798f-511d-499e-bc13-3331d468a0cd',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'eef34e4c-680d-47d7-8924-affe86a7d422',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'åœŸè€³å…¶',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '241758c0-0ec8-4ae6-b20b-662ba830f399',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    '7d94b788-4741-43d2-a9d0-a5614a104b13',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Ð¢ÑƒÑ€Ñ†Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ed8231d-3cbe-41e4-ac1e-b6ea589c99db',
-    'e6236608-69d1-4add-9811-fbcbb0188c80',
+    'fe3c28ef-56f7-4aba-b9a6-7cac054124e5',
+    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
     'Turquia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8eba2b21-e7a8-4253-aece-4a2527141e6c',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '736e0d4a-b95e-49d3-9021-b1dce448407e',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Tunisia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd163853-5598-4145-a564-a2cc8de4d698',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'c334b1b7-d446-4755-b3b9-53cd8c6cb30d',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Republic of Tunisia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bccc608d-ea85-4380-9cfc-44a1c53f2f40',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '6a8a2ffe-993d-47ae-9737-6c6d07c71883',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Tun.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b88e3a3d-62f1-432c-b8e3-2c58a0fdf517',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '6a704071-c3bb-4e4f-877c-dfb277b69c93',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'ØªÙˆÙ†Ø³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6659010-40fc-4eec-97de-845d400f5566',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'd93edfb0-8d38-4633-a2d6-a5da2acb2379',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Tunesien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a69dd2d1-9cf4-413c-a8ea-629922fa3249',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    'fafc62ca-5a9e-4156-b2f5-b7d60df2ac27',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'TÃºnez',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fbb8d70c-6162-405c-9675-c03cb8996a8a',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '0e2ade87-c0e6-462f-aeed-a64bb53b97a1',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Tunisie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1a7c0526-ab74-4709-9569-09b499804b3c',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '25e5af4f-7ac6-40c9-948e-afee818050e2',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'çªå°¼æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9bfa318c-c195-462e-9980-32158cdf06a2',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '6b2a8211-40b3-4e33-b6ac-9dbb4b465e59',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'Ð¢ÑƒÐ½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'deffec04-b2b2-4ff2-b50a-d31b635b9a4f',
-    'f4f47e95-426f-4f78-a8f3-30a9862e7292',
+    '59f196e1-b41a-4704-8a42-0e93318dabda',
+    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
     'TunÃ­sia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a0f965cc-a299-4270-a2f2-2f21138a978d',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '4d5a8840-9681-4a8e-be93-b9772b939e04',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Trinidad and Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c2fbcc0-383e-4682-8db6-10367e608b4f',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'deb76f11-8bff-40a7-9d8a-20c44243c37d',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Republic of Trinidad and Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca8bb884-4ffb-40ef-ac21-3b51ace19334',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'e05413e1-7223-4002-9987-b13867821162',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Tr.T.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80a92354-1926-4637-bb87-8ca3d6d76af5',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'd4a35d46-6f6e-4c7c-93af-449dabf12d82',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'ØªØ±ÙŠÙ†ÙŠØ¯Ø§Ø¯ ÙˆØªÙˆØ¨Ø§ØºÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'daa8d87f-9254-4281-b907-ad44e63090f9',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'bf5d1299-5cc6-431f-9563-6afa821e5d42',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Trinidad und Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'defbfd76-7e92-447e-a21a-b41f1f4db4fb',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '0c02ddda-852f-4f4a-826e-ebe6ba13e2dd',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Trinidad y Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b3b7eb06-1214-4cef-8a3f-aac85e20fc96',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'f74ac8bd-5751-4ab6-85c7-7990703b7f64',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'TrinitÃ©-et-Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd1aec646-4457-4d7b-8d60-9e0f261a2727',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    '4e4c8622-6463-4cce-98d1-d019ee5b864b',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'ç‰¹ç«‹å°¼è¾¾å’Œå¤šå·´å“¥',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a6e0e2ff-fe7a-4d29-a6cd-de46eceff80e',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'cdc6a888-ef35-4041-900c-94dfb2720f64',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Ð¢Ñ€Ð¸Ð½Ð¸Ð´Ð°Ð´ Ð¸ Ð¢Ð¾Ð±Ð°Ð³Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1f4b74d0-c0c0-4f43-9f5a-39c32e460bc1',
-    '9eaec937-544e-45c0-b057-a2390652d646',
+    'd4410f26-7518-4088-be21-0409175f69c8',
+    '7be9350f-df1e-473d-bc68-74ea63294a94',
     'Trinidad e Tobago',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e9bead5f-68c8-4142-b792-c9d5e567e42d',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'b78522e8-406f-438f-9a90-73afb7c268a5',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'Tonga',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65b826cb-3cf9-4a8a-8e63-fd8205be560f',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '720f0479-c3c0-404d-9b75-ca80c2f817a1',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'Kingdom of Tonga',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '284480e6-69a8-425b-929a-3dae9145770b',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '0b2afb4b-347e-4c94-9644-b668b5595c0f',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'Tongo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '968dfffb-7102-4f7a-9cbb-387e0bf7ef2a',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '2190d9df-2ab9-4e31-b1fd-9e9439a9adee',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'ØªÙˆÙ†ØºØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'afefd877-f4c8-4bf2-bc0d-a32ddeb2dc1b',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    '83f105d9-0d78-4138-b59b-f88b7047832f',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'æ±¤åŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c744f341-8213-44e1-bf5e-6e9c71f36d27',
-    '9ad6ab4f-c53f-45ef-94d2-2a30268deca4',
+    'b24fd961-fece-4e00-ad9d-774b7a2c10c7',
+    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
     'Ð¢Ð¾Ð½Ð³Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b14d9bb-8404-42cd-82fd-d6e2a247ef6c',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'c917fa70-fb55-4802-bfce-f0da6c783e34',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'Togo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '15be289a-5d14-4b43-a9cf-900f429b274e',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '739c2c2b-674b-4305-814c-f620df916d5d',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'Togolese Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe9fdfea-0e36-41b7-a3c9-e0ef4d77a8ea',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'f1eba810-e2ec-4de5-9932-1b1ada6db11f',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'RÃ©publique Togolaise',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f06ddeb9-4875-4bb1-bc1e-b89e479828a0',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '809bf080-0784-4d93-8d61-d40cf77cf2be',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'ØªÙˆØºÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9b4c05f-fda1-4fae-aeed-fc9b81868991',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    '39304d67-dd0a-4676-93ec-2860c894de6d',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'å¤šå“¥',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '69b3ef8e-b5b7-4e90-bbc5-14b0481c39c9',
-    '2957b8ca-7171-444a-ae8d-4de76df16b32',
+    'fa25b202-40ed-41b7-94ad-09445d90b4b3',
+    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
     'Ð¢Ð¾Ð³Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fd9f582a-c487-4581-b4a3-f22f8f597855',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '7b01b5c7-edfa-4348-947b-2cae7a08c163',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'Timor-Leste',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6770761-ab4d-4a59-867c-8998bf9a0555',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'd067701e-798c-4d60-9105-6686cec44cd3',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'Democratic Republic of Timor-Leste',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '43b8ffac-1859-49bc-aee8-f852aea0eff4',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'c42cd4e2-73fc-4be8-b825-2aec7fc1eff7',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'East Timor',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '44823d45-7a99-450b-9852-d1e02c292354',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'a05bca29-3601-4b74-afd3-60debbb7c9b0',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'T.L.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '985146b5-e6db-4069-ad9b-8853c3311156',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '8eb6c938-c63b-4934-87f5-ca903e108000',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'ØªÙŠÙ…ÙˆØ± Ø§Ù„Ø´Ø±Ù‚ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f150e9be-f779-40b2-95aa-01b55f81c4e8',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'b234535b-a234-4a48-8860-e28056be719b',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'Osttimor',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a7aef60d-5710-45b3-98cd-a3666f9fc485',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '6f8ebd49-954e-4df6-8ac0-eaabf00d9869',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'Timor Oriental',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b447ee75-05a0-45fd-9e05-4912fe698f65',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    'a21d8c50-224f-42d0-acef-8b7c85cfc02c',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'ä¸œå¸æ±¶',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0cff8930-c740-4d71-abdb-aa3aea559db8',
-    'a17b7d5e-83c3-4278-b4a2-12c3ec2031a3',
+    '41e4bfbc-1447-4be3-8a59-6a42c1e404cd',
+    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
     'Ð’Ð¾ÑÑ‚Ð¾Ñ‡Ð½Ñ‹Ð¹ Ð¢Ð¸Ð¼Ð¾Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '876d94f0-102a-4c1a-8710-3463b26821de',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'de84cdc1-802d-41f8-9965-ce7bf2a3d136',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'Thailand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c57c68c3-8139-44fb-a386-924217025bd1',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'fed3abc4-62f3-486b-810f-4eb380bae8a8',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'Kingdom of Thailand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27062dc9-a695-422b-bbcc-a843775d600e',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'a0851a7c-2b18-4d92-bbb2-e27005a0ac7d',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'Thai.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '605eedd0-d5d0-4975-96af-414d8920a14d',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '7531ba7a-98bd-402b-884a-c5c8ebf61c00',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'ØªØ§ÙŠÙ„Ø§Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9391f3f5-8eb4-420c-9894-98ac652c0539',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '4b492156-c856-415a-840d-cc124e7a9174',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'Tailandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd2b8c9f-0b3f-45d8-8f18-467cfd12307e',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '1e57fa62-8d24-4317-9f3a-9463dc51aedf',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'ThaÃ¯lande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10b035ee-4b66-48d9-91bf-0fdc65385732',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'd1309963-44d7-48f9-add8-e2ffa6c8ad56',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'æ³°å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cf9a595b-6e81-4440-90ad-f7351eaa1cbb',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    'df4a4062-4a9f-4f72-b7db-4094177820d5',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'Ð¢Ð°Ð¸Ð»Ð°Ð½Ð´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4baf0205-23c7-403a-9364-b25fe7e354a6',
-    'f170a079-6570-4eca-8a21-7e17fde36f58',
+    '13de624e-30e7-4098-831b-c59fc24d225b',
+    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
     'TailÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cb4cfd79-a5fe-46b9-9993-f6a1e0615517',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '2ad69e72-f8d7-46a0-8c78-db5d99d8f9d8',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'Tanzania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '518c39ec-bb8c-4607-bec8-75afd9445163',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '72dc90e8-0569-44ac-bbc7-63e7a977b503',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'United Republic of Tanzania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f65f74d5-24c3-43a8-b700-370c809cd599',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '35e5c08f-7f50-464d-a039-a710d40e91a5',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'Tanz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '93bcbcd1-0c85-460e-a11d-04664575b4c9',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '9db252aa-4d8b-4a4b-b41d-1a45f679fa6f',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'ØªÙ†Ø²Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b0d9443c-1d9f-463e-b1b4-c45ec2a8a0e0',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'aa7bffcf-a3cd-4a07-8dae-d387a724c716',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'Tansania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '638d62f9-3d31-4efc-9d4a-66cea72c558e',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '82751fcd-53c5-4bb5-8722-d13d1d32d8bf',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'Tanzanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e14ac8d-39b0-48a9-ab2d-75d10a81db19',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'dd1e9fff-50ad-4032-8418-c0dabcb9ce83',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'å¦æ¡‘å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0228bb8f-bcad-404c-9bc0-65b8220eea45',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    '038c9dcb-6a01-4075-b351-fa8208874361',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'Ð¢Ð°Ð½Ð·Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9981c3b-7090-422e-bd61-ab70c17660cf',
-    'e3c28021-68fd-4791-a20a-84e2f029542d',
+    'cdb05549-8ae6-43c1-87b9-f6451b775270',
+    'baa348c7-3246-4def-899c-8f1970d99457',
     'TanzÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '69761ff4-c8cf-44d4-9942-c85125938e55',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'a69a055c-de23-4a26-b8e0-91eb5167bb6f',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Tajikistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a9a9963c-3eb6-4e00-9b07-84dde5c1deaa',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '2c1de6d1-b73f-432e-9b7d-723607b06be6',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Republic of Tajikistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd2992fd-52f7-4ded-9bd9-4b5ae5907704',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'a988ccaa-642b-4d0b-a664-f9f5609b1d65',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Tjk.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '03fcfbb8-fd44-4412-9421-99a7f34c2199',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '675e93aa-b55e-4844-af58-2a0742eed27a',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Ø·Ø§Ø¬ÙŠÙƒØ³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e202c143-c146-4e9f-b944-b25835b89129',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'aa265171-22d8-4011-a996-74aac5a69937',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Tadschikistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '79c8cef6-cf69-41f5-addb-61d5e20a0aef',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'd3d881d5-100c-432e-a8b6-f42c3ce45c2e',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'TayikistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f35f6698-0a84-4421-be52-5ae8fd337f4f',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '92d666d2-5d0b-4f6e-8e29-520b991a5844',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Tadjikistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e6ec854-acf0-46e8-8972-76e5c9c8ce47',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'a3adc03a-8f6f-4804-b901-d22e5884a97a',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'å¡”å‰å…‹æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f744906-6fbb-43c8-a5a2-3be87cbe5202',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    'ca62b6af-c203-4f8f-8bbf-3572d571d211',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'Ð¢Ð°Ð´Ð¶Ð¸ÐºÐ¸ÑÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8c5ba26d-3104-4da7-9bf2-91f4ccb4f733',
-    'bc187fe0-4f45-449d-915d-7f70f16587a4',
+    '23694908-df5d-4a79-b5ab-31749cd4ef94',
+    '79277dfc-0019-44d9-90b9-984c08fa026b',
     'TajiquistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd92b0d47-ebb5-4423-9a92-3944fab7938c',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    'f210297e-61e5-499b-9db9-6163fadd7d1f',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'Taiwan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6623261d-6ddc-45e3-8d81-3418802f6825',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '2d88dd40-3a68-4954-a32a-7d3c47ab6d26',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'ØªØ§ÙŠÙˆØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b5bf8e88-4e53-48c1-aef5-bcf53282331f',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '73bc3ded-4c54-4356-8bb5-0fa3ad181ecd',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'Republik China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'de04724a-e9a3-4b62-b6e8-11152a6ad268',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '42b472bf-cd47-40af-8710-cde5097a5710',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'RepÃºblica de China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0c892cb4-0bf3-4433-8c8c-82b01fa47068',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    'fa75cf17-7ef4-4ea8-8a86-78065250fc60',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'TaÃ¯wan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4b0dc902-e600-43e2-89cf-5edc2854aabb',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '24342eaf-a8df-4684-9d58-d7decd7f3364',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'ä¸­åŽæ°‘å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65b34df6-6bc7-4537-b62d-c5f76dc9ed7b',
-    'c4e96aa8-4b11-4a8d-8872-1a21bd7ecd05',
+    '1197a1d1-aad9-47e1-a0db-65097781c142',
+    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
     'Ð¢Ð°Ð¹Ð²Ð°Ð½ÑŒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f2d7b500-ab09-4bbc-b437-bd35e2469081',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'fdda505b-f3eb-45f3-9dfc-6f911347c619',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Syria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3140762c-e676-4cd8-9e10-91e8c9c0e4b1',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'e6efa237-5153-464e-acf9-4aae1c42a0de',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Syrian Arab Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f28a17b-0fc9-4a0e-9475-7f6e0058fe84',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '65133943-ad47-40b2-ad7d-eb857728cdb3',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Ø³ÙˆØ±ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0a0e6dd6-d4ef-4aca-886c-0f65c1ecddf8',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'aa78d661-316c-4629-955b-475a1053a8bf',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Syrien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0b49d568-98a0-4805-b483-857982853670',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '8fc4111c-28df-44e1-92dd-91962f6cafb4',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Siria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ace9292-4e12-4070-9468-d8b81bdeb67f',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    'a48bb419-b8aa-41e5-a37f-1425662cbfc7',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Syrie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab0b0ee5-c340-4481-9981-2596d9e14b2c',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '12021328-aa51-4492-ad2a-952aa06eddaf',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'å™åˆ©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '03aae624-3717-4604-97b2-1e1933001d85',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '415960d5-a7f9-46cc-b91f-50b29ffa5bd8',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'Ð¡Ð¸Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b9a0db52-0cc8-4b13-b1d9-2a89c0f4054c',
-    'd740b05c-4e8e-4f54-825b-623a65244a14',
+    '94beaca2-64b9-4bcb-b632-a28b4e800b13',
+    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
     'SÃ­ria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'df212b33-8e96-4120-8e8b-c7182edabc48',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '9ed1b36b-b481-47af-ae40-904b91fdfa99',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Switzerland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9981c6c6-9a5f-41d1-b909-3c449128ea43',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'b8f4eeac-8a7d-47de-ba52-cb6358d5aef8',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Swiss Confederation',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd74703c3-80d0-4c95-aa8f-29edc5245c7c',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '146dc3fe-6dd3-4c35-8866-af04b7afa39b',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Switz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2eb94973-5a65-4c47-8c21-ef751183dff3',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'f05844ea-3db0-402f-915a-e590e95ca51a',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Ø³ÙˆÙŠØ³Ø±Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b0408713-78d6-475e-a495-4ec264f73c0e',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '6a1bff5a-c7ed-4c25-94a8-506c1b0c2b2c',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Schweiz',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aab7a2ed-d0df-49d2-8ec5-fb8f5a63a8a6',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '5fbc1eed-2f28-41bc-bf19-0aaaee1d7591',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Suiza',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c7a89124-0db4-4d32-a560-670b30973fd9',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'd8516330-f74a-43fb-acdc-a900301d76fe',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Suisse',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbafedc2-dcf5-4645-9669-c5d8e105b2a5',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'ff43dc74-a12a-4151-a7e2-461a7aeba20b',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'ç‘žå£«',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac91b32f-32f6-4b47-806e-daecc8a99f1a',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    'ccb4d5f4-aa85-4689-b9cb-fc89e922ea45',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'Ð¨Ð²ÐµÐ¹Ñ†Ð°Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbc1be9c-94ff-468a-bbf3-893349e2c130',
-    '819770d8-61da-4df9-9b2d-27a16f2594f1',
+    '5b154351-2c1d-4c6e-b87a-95f185afd4cc',
+    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
     'SuÃ­Ã§a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6511e5ae-0eef-472f-b81a-2a7272c16ba9',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '4af7143f-ded8-4357-a350-e8c3fe633585',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Sweden',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '62012f2e-7bcf-4030-82d6-ee56c4b33dcf',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '43f4487f-aa0d-4ccf-af27-3811caa02118',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Kingdom of Sweden',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5542bbc9-2858-4338-9c55-e3ea0ccfb12a',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '404e7e0d-ffe5-473d-ad25-14ef95f87638',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Swe.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68ecd0c4-3f94-41b9-acbc-b5c8e1e76120',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '6de3d87e-d16b-4706-b608-82efcb1ef880',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Ø§Ù„Ø³ÙˆÙŠØ¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ab58b1c-67a0-46bf-bcb6-f2abcc98c6ae',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'fc566e49-aa95-4730-931e-83942e4a0ba9',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Schweden',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3c23404c-7599-47f9-aeb0-599e92c44ede',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    'a5e3f592-c876-41d7-ad7a-9363dfffb350',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Suecia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1f70f366-2a84-43a0-8175-939835936912',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '4d00a1f5-5263-4e1f-83b7-c799bc023b85',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'SuÃ¨de',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '190c0c6f-b885-435b-9d58-d85bcc39f519',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '85417eab-1188-46fc-9da4-e440ae5c6755',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'ç‘žå…¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bcbb63d9-7b6a-4a38-9801-46a7a3ae3bb9',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '7a5a82ab-2b0d-4650-add1-5f1e12751049',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'Ð¨Ð²ÐµÑ†Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '91e6f09d-2209-47a0-8835-5be47ab3208e',
-    'c3839ab9-1f97-4f89-9912-12d33c254fd0',
+    '6dcf37fb-7919-4404-be66-61d8b4b71a0f',
+    'd38b027e-1056-4e73-bfc8-3049b74748e9',
     'SuÃ©cia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9799468-3298-49a1-908c-03d8f9515c0f',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '7d77ffec-2ac3-4caa-8bcf-13ba3b5e631e',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'eSwatini',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '866e975a-1af1-4a7d-9804-ed886b8161fa',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '5af2f14f-ed48-4d00-8da9-3e9bc499059f',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'Kingdom of eSwatini',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'feb60a62-9fb8-4eed-bd00-32c3dac866dc',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'fecb08ff-ea6d-426d-bf04-18e8523654ef',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'eSw.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9b97b5d2-340b-4b8f-99a8-571c8cd441a2',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    'f0c92ee9-040d-4361-ab58-7355b3239b41',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'Ø¥Ø³ÙˆØ§ØªÙŠÙ†ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1248734a-f4c2-4d4e-8af2-94caa7514dd8',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '9e765c33-aeb7-462e-8db3-6d6798a773e8',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'Suazilandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '89d75a1c-20c4-4477-aa39-7babdd072b63',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '82f2754f-cb47-4255-bb8e-282576fe7caf',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'æ–¯å¨å£«å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e7ec31e8-2548-46a5-9688-6c3fadea661e',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '0d965801-611a-4460-a63e-d2e3794c9e5f',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'Ð­ÑÐ²Ð°Ñ‚Ð¸Ð½Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26566990-ebe4-4402-85e6-7db486ce43b1',
-    '375dd90e-c584-4162-8d0a-0c7463338a55',
+    '8b095af0-6b41-4047-a5da-e110bc0e61fc',
+    'a4737793-f60e-4f0d-a564-d6c4577312c5',
     'EssuatÃ­ni',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dcfbb62c-8f7f-41d1-9860-c8dbc99617f1',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '852a42b8-e4ed-4cff-aceb-0fb2e9aa129a',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Suriname',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '41ad3ce6-fae2-4827-98c8-9c41cfb3c73e',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '14bfbeb1-b16c-461a-96f8-52ce4589d4c9',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Republic of Suriname',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '806ce760-1abc-4265-b1d2-58fe1fded7e9',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'c8586332-f16f-44b4-becc-b628f911a263',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Sur.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6ca4c37-f0b6-4f60-aa34-ffdf82610a47',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '6249b419-31fe-4a99-83c8-0018d898b62f',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Ø³ÙˆØ±ÙŠÙ†Ø§Ù…',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fde8f27e-c612-4498-b403-1f61e5391828',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    'fa3649ad-9f4b-4870-88c6-c44670beb1da',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Surinam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cabedaa6-8f2f-4cc9-9f14-bbcf05e156b0',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '51061ba1-94e7-4cc9-b2b3-a72c8e43dfb8',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'è‹é‡Œå—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33a9b955-23c6-4e0f-b478-ba55c4b38bf3',
-    '8b238aef-617e-48db-8bf2-f6e3ae78f07c',
+    '89319fef-790a-454b-af91-298f62d137e6',
+    'e6dbaf22-6036-4817-836b-f3c249995746',
     'Ð¡ÑƒÑ€Ð¸Ð½Ð°Ð¼',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84a42a19-360b-494a-98c4-f7a15b7a4109',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '3f00c7db-1d31-4790-95b3-01cfd33e6129',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'S. Sudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d141c75-85f7-4d31-853e-a831baeb7b88',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '491b3fd3-eebe-4f44-97ad-31d823701784',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'South Sudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '88c9a0f7-47e3-4fbc-b92a-ee5ece614285',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '237be8ee-b378-4b89-99bc-5f3435358b16',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'Republic of South Sudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e76f707a-5476-4489-8f47-03d8894110e8',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '3315bf10-c114-4ad9-9593-b7844be52658',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'S. Sud.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8c31d1cb-ff2e-445e-ba04-44f5345f6753',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '98cc954d-81d1-43a6-b06d-f5660f924134',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'Ø¬Ù†ÙˆØ¨ Ø§Ù„Ø³ÙˆØ¯Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '662a383d-1e3d-4e06-aca7-debbb18e41df',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'eacd1647-93b3-4f04-8508-97c53d54f758',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'SÃ¼dsudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1669fb46-123d-4f0f-9d77-cd475fce6fc4',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '3ddeedfc-2d77-4ac1-990a-921a751a4e2b',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'SudÃ¡n del Sur',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf0be080-8dea-4fe8-b94d-c1d1f30ae3f4',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    '5ea2208b-9416-4466-a997-9068261442f4',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'Soudan du Sud',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '59671a7d-2936-4e79-a195-a7dda81272dc',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'f745fd8b-17b7-46d0-b0f8-66610b149f5c',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'å—è‹ä¸¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '52a7599c-af56-4502-b9ee-d02f411d7b21',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'b4708b34-49a0-444c-bcf0-309eed6852a9',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'Ð®Ð¶Ð½Ñ‹Ð¹ Ð¡ÑƒÐ´Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '79ef97e4-4002-4c75-933d-48d6ac931d57',
-    '97a8afb9-f32d-4599-a7d8-64a2458fbe46',
+    'f1cd2c96-82fd-4a4b-8252-f213db3af8d0',
+    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
     'SudÃ£o do Sul',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3048167b-e347-4f72-9b5b-17fd6af3056a',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'b3e5dd39-1f6c-475d-973b-9925428a5f74',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'Sudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e55022bf-3199-41fb-930a-214f9f3ede85',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '8c6a5030-9e71-4705-bfa2-94fe81924071',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'Republic of the Sudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c12a6793-e73f-4ebb-824d-9da068c80d0d',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '34b75593-117d-4894-ad95-1195754bfac7',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'Ø§Ù„Ø³ÙˆØ¯Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f8466008-772e-4d35-97a9-924b29237ef4',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    'cd360dec-b06f-48ce-96ca-f0e52e92d32f',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'SudÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d23b2de-f5c8-472a-a599-798036f9726d',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '915962d1-9b64-4be1-818b-5d9065fbd9de',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'Soudan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '30d096b2-b71c-4ca7-8b9f-eb098b7c2ab4',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '860a3376-acec-4f8c-b2ca-88c3ccb100b7',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'è‹ä¸¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd2b06aa9-e187-4249-9b42-827d67c1fecb',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '034faed7-dc12-4b2b-bd3e-5d04b599feef',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'Ð¡ÑƒÐ´Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '693be11c-b97c-4e8f-88a1-9b1f870244f2',
-    '04d89534-cd62-4c4c-9c71-51fb381686e0',
+    '25397e98-9e12-4b72-9025-80cf2ec334c1',
+    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
     'SudÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4651ddc1-3d18-425b-8311-d07c1c02b8e7',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    '6c16af91-5833-49e6-ae7c-ec07c8b25100',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'Sri Lanka',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '861140fc-05ef-43bd-adbe-9d07abddb759',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'e211a0b6-f7f3-48c0-9608-e853d8b59964',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'Democratic Socialist Republic of Sri Lanka',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '42d12f7c-3b75-4bfb-9ec6-5b9b6876a38c',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'c4e4f008-e30c-4fff-83b4-44c6e641bd47',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'Sri L.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1182bb4d-b658-460e-ac29-7f84cb7d0229',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'dd09b721-1b41-47d0-bf71-72e461333c37',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'Ø³Ø±ÙŠÙ„Ø§Ù†ÙƒØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e6cd823-dbbe-4406-8bd6-55e2e46d4779',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'dcd7c2ee-1342-464c-8656-06df5ce09f55',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'æ–¯é‡Œå…°å¡',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '070b98e9-ecb3-4682-bd57-4748242b0b8a',
-    '3b3f9c36-6c15-4b8d-adf9-2b069e9946e5',
+    'b7ab2e05-1311-4d53-89fd-e7c5b6c51332',
+    '1abe0119-b52a-474f-865a-5589f889f2fc',
     'Ð¨Ñ€Ð¸-Ð›Ð°Ð½ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca60a98c-8457-40ca-8b14-2f4acc7f2f47',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '337cb520-8716-411b-992b-8b93d0c2d71b',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Spain',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9466fc7f-7de0-46c3-bdc8-0a9be2202e57',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '0b763c3c-90c4-429a-b3cc-fb7b41fdcc28',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Kingdom of Spain',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '478d7f99-a5c2-46f4-8166-bda2f912c759',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '89266693-699d-4d5b-9a6f-cf2a4105b85a',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Sp.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3726355c-075c-443c-be77-4fd1544bee7e',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'ab727a66-b35a-4121-ac91-a6c45fde9390',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Ø¥Ø³Ø¨Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '298e9c28-9066-4a3b-a550-f1659392d322',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'a0cf2579-47a3-40b5-b7f5-8b616a9a4ca1',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Spanien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e74c15a-5412-453d-89ef-e01a76e3ae43',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '4da9bbfb-ede6-4c40-8f29-3e15a4efbbee',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'EspaÃ±a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e1a0f49b-d247-4ded-8f44-0c62d4b81471',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '0acae9d2-09ca-4cd3-89bb-b6e7a118443d',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Espagne',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '473ea939-d79e-4c3d-b236-b301e9fd0185',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '2ed209b7-7b96-4dac-b08d-90f6996a84d7',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'è¥¿ç­ç‰™',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b2e45045-658d-48a0-8175-b77801d8c461',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    '872575c5-c5ec-4ba9-ba7b-7f22a206ad97',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Ð˜ÑÐ¿Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8d80d315-f807-4373-a4fb-7c3c5de653ca',
-    'eb7ef7f9-adba-4914-9334-de5b1801dcb8',
+    'b94039bf-34f3-4093-9567-80d7bacb1f9b',
+    'b6f10666-e906-4c29-8c47-858b9ee93211',
     'Espanha',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f20a06c8-b92e-475f-b35b-fb218d2f4aac',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '5b5c6a19-df19-4afe-9c40-8f1221d055b0',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'South Korea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca026023-c5f1-4847-aabc-fe51cd41c4f7',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'f75b3cac-9b11-449c-85c1-9658feb9e63f',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'Republic of Korea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f80db89f-ebf9-44ea-bc61-6245f34bdaae',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '28b7ad27-0db2-4af8-bd1f-240974cc7a51',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'S.K.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67f10f8c-ef6f-4b9a-a335-31df1ddcadea',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '1a49ffbb-bb98-49f8-8427-1ca1c7c63ebb',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'ÙƒÙˆØ±ÙŠØ§ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0fe32721-a330-45d7-afa5-114b033554de',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'ae2a3a86-36db-430a-8cb8-54dd9e5489cb',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'SÃ¼dkorea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5840164-b8b3-420d-af3e-7e1afdb9aff1',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '2730241c-87ae-4452-bb8c-dc471e9e0a29',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'Corea del Sur',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f942a607-cc0f-4e2f-bbb9-39b6c32f05ea',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'e2e5027b-6b60-4b02-b434-d3fda5ba68b3',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'CorÃ©e du Sud',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '02a904fe-9d96-4aa0-a4cd-12229757c200',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '3104ee4f-0b6e-493b-aa31-067eadaaeee0',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'å¤§éŸ©æ°‘å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6dea0454-e360-42a0-af7a-9204a24a3663',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    'fa9f5cef-b0cf-4fac-bb0a-6d4128413707',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ñ€ÐµÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4c54790f-00f5-4f00-bcd5-f669ac4cc0ef',
-    '1020cde7-e4a2-4687-9301-248e19867bc7',
+    '3db68c40-df0f-4893-9874-2ef936fb45cd',
+    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
     'Coreia do Sul',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a783f705-dff8-4089-bf51-83ed43c392b6',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '17e9f5f7-d16f-46e9-823d-cb6d94e97903',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'South Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1fd6210c-d9ae-4f36-867b-e3a4c45305e8',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '8cd006ad-612a-49f9-929f-1d5683554299',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'Republic of South Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '63ebe252-3168-47a6-b697-36c0c51259ff',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'bb5ce115-c871-4540-8eac-c8425ecab10e',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'S.Af.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e425788-e9d2-436f-9972-c7ab10541485',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'df464b9a-2381-44d7-98e9-7510ae2df99c',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'Ø¬Ù†ÙˆØ¨ Ø£ÙØ±ÙŠÙ‚ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd3801ce8-d7e2-4e4c-921b-abc7f43da4d2',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'a0bcea50-d48a-49cd-b4aa-95b5070fa8a6',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'SÃ¼dafrika',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61a353e9-a256-4921-8b1c-5d57ea509e04',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    'c56824f9-5e63-440f-a529-cd3078c51639',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'SudÃ¡frica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f671b5b-6494-47e9-976d-597d674e9699',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '8e469b0a-f484-4ed2-ba29-7e37174a78cb',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'Afrique du Sud',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2fc79d7e-b987-4d5e-8ca5-e36c4fda4bb7',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '8a766a0b-9e4c-4d8a-aa40-98c6f864e00f',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'å—éž',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe358a49-7068-46ec-9046-5b72347edd29',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '4b2b137d-8957-451b-8a69-e1731a4ebc62',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'Ð®ÐÐ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b166a9cc-8c80-45e7-a02b-d7a38ee48f71',
-    '058c0b0a-402f-460f-ad7d-3bbaf3cb2416',
+    '699c7ddf-f399-4b1b-baf0-0ae8a7b04a2d',
+    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
     'Ãfrica do Sul',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4a4d82af-f57b-4817-abff-bc4b8cb74e32',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '368f5aa4-ee7e-4862-9755-cd28c47cff9c',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Somalia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd796464-7612-46a7-9513-0d8b84be3528',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '7a30e267-d421-4820-a36f-e0f88c271197',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Federal Republic of Somalia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '66d14a0c-778b-4c2e-8b94-2d732c522fb7',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'ad212512-57ca-4500-9ca8-ceb21cdb530b',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Som.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9a819163-51cc-4ca2-a810-433883bc6b5f',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '9e43df15-2b88-473a-b684-db6457c2ce3b',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Ø§Ù„ØµÙˆÙ…Ø§Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08a5312b-2d83-4946-aa47-cf4d4c36ba83',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '78ab3a3f-2137-42e5-819d-eda473833a53',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Somalie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '76e7eb1b-92da-4e80-a155-02fcd3115981',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    'a8a506a8-9365-4945-8d67-ba8585dddd64',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'ç´¢é©¬é‡Œ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12cc5886-652f-4d66-bb73-2f2e83ba84f7',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '2677762c-f044-414e-9df8-7b7fffe6bc39',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'Ð¡Ð¾Ð¼Ð°Ð»Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff83ae66-55e9-4748-bec8-856984fafa82',
-    'cc4453af-0ad6-4f0e-bd14-be038451c3f7',
+    '44330e38-2eee-41df-b26f-d635ad2982ae',
+    '90fa7ff1-1e25-4448-9225-3744fef252fb',
     'SomÃ¡lia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8ba24313-b517-4d3e-bc04-92de78efa4b0',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'd644e5dc-d575-4c4e-bbee-441307bae596',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'Somaliland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01039b6e-d823-4158-a3d2-348e16a38537',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '63a29e88-cfb6-426d-8203-c78ed409a4d2',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'Republic of Somaliland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4c2135cd-bc1b-407d-a567-01ab8cfa9c9f',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'db7d5a06-9333-492c-a121-f395df39e012',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'Solnd.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c00757e6-c69a-49a8-8b6b-0047d0be6baf',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '9bf621f3-664f-4c0e-b63f-852c7793b13e',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'ØµÙˆÙ…Ø§Ù„ÙŠÙ„Ø§Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f4bbfd3-07b5-4e1f-8f12-6cad8b4ce6bc',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'ae6f8a7a-2e04-4df4-9f01-c891c821bffd',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'Somalilandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1c46a3f8-927c-4431-a423-961f7569b5ce',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '9a10c825-4ca6-4267-bb05-385c295df9d1',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'ç´¢é©¬é‡Œå…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a026f1d4-c903-49b8-a4e6-dbf299b7b035',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    'bf606505-c4bb-4b4b-9f7c-0caa3ddd005f',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'Ð¡Ð¾Ð¼Ð°Ð»Ð¸Ð»ÐµÐ½Ð´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6c826ceb-65c0-42fe-b246-fe77d23dee6e',
-    '31fb5435-6c43-45f3-b16a-e9d97e82c4f2',
+    '9d00b046-c134-4330-951d-9fbb82159bf4',
+    '16e80210-a436-49c8-85c8-beebc0505021',
     'SomalilÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '72accf90-611f-4915-8437-64508d338686',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'de7af622-3b4a-462f-8359-389d7615155c',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Solomon Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '993c4f97-0fee-494c-8266-246449aa2544',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '58dac662-26d7-4855-8ddc-64949611701e',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Solomon Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e4f108de-3d07-4799-989a-8bf7ce90ce06',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '172fa60c-7475-4c08-8195-e6efe3987215',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'S. Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '35fcc8fd-97f0-42c5-9149-ea3961b373c3',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '124ca804-df34-4102-a43a-cadbd405cb74',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Ø¬Ø²Ø± Ø³Ù„ÙŠÙ…Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '129182d6-a40b-4495-941b-4f4d7992882a',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '6cd82c9b-6456-4e7d-a9d0-9822ce626492',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Salomonen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '607a751e-6a06-4fa1-aeb9-ee87d1145139',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'f9fc7fc7-206c-4b2f-b59c-73e4b7546ad2',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Islas SalomÃ³n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '255a2bc0-4c3f-4289-832f-0f56e3ca4c0c',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    '0b9382f1-8616-418c-aae2-900cf88b820a',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'ÃŽles Salomon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '94edbb6e-0a1a-47a7-9471-5b298c41013d',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'c55ef9e7-0cad-4988-a06d-5c80dff86364',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'æ‰€ç½—é—¨ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dac2a1c7-4e04-42b6-af88-207a16401bfb',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'ba79903c-efab-4549-9467-e0c952b59c88',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Ð¡Ð¾Ð»Ð¾Ð¼Ð¾Ð½Ð¾Ð²Ñ‹ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '86f3b189-9e6a-43eb-a7be-69fbe385b4bc',
-    '2011404e-5c3a-475d-b609-64587ed0fc5b',
+    'f37d09d5-b83b-4bb9-91c5-f84b95a6ff0c',
+    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
     'Ilhas SalomÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24743c92-931e-4ae9-8f2f-8fe231703f15',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '59aec6ca-d282-4332-afc2-06ddedcf0cbe',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Slovakia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '59bc4cd2-d8aa-47f8-8d4e-847466468e1a',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'ce40b90a-29ee-4dac-b515-490e0e7c256d',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Slovak Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8720b755-bd95-4d14-b56f-879ee99a985f',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '1a53089b-d8f9-4464-80db-f7a4cfafef97',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Svk.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5c413d4-034c-409d-96a2-b8c201d71a7d',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'fc545a66-9bc0-4a31-b863-593beacb2c4d',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Ø³Ù„ÙˆÙØ§ÙƒÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '52b3ee65-1b75-4606-a166-1280edafb6e3',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    'ac255dec-2016-4e9c-86d9-36af7663c32f',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Slowakei',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '438379d8-48c2-4eae-80c9-3f0df8ae2e9f',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '4e36fae3-c9d1-46cb-8241-3198ac99388e',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Eslovaquia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4d91be0-3d54-4290-a3e3-1f7ef53c1240',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '3f2cda41-1437-42ea-b6e0-40ff4cf098fd',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Slovaquie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8f1921ff-cf99-4313-a369-f76b65041b32',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '43a569dc-2640-47c8-a02e-afa901628d61',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'æ–¯æ´›ä¼å…‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '99ba5b44-7409-423d-90fa-8a4c31ebefa1',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '67ebb991-abab-4eba-a055-3a2c18d720a6',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'Ð¡Ð»Ð¾Ð²Ð°ÐºÐ¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2215bc42-5941-4f4a-a469-4336beed836d',
-    '63e66dd6-63a3-41fc-a234-f29930e09598',
+    '4dbf81cf-5026-42f0-a68c-6521927ad33b',
+    '88852e82-ec33-49ba-b477-6a3e17d1777a',
     'EslovÃ¡quia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5f9f1c33-153c-4c64-a656-cbf63ba735dc',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'cfe28211-b157-42ee-9113-3839a78ece69',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Slovenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a7933a4d-78a3-486c-babf-55cf42d8fddf',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '5d4ee047-b8c8-4689-a61c-c0a3698c80bc',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Republic of Slovenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5bef34f6-2c43-469b-996a-5a7754ca679d',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '0a9092ba-c5d2-47a7-bca3-68e692d7c6aa',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Slo.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '82aedbd6-2637-4eee-8600-cee72f406291',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    'e9e28b31-3235-466a-a879-deeab9f6bdf0',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Ø³Ù„ÙˆÙÙŠÙ†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '43734543-2406-42be-bd2a-f694d76e6841',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '9bd74b80-037f-466e-8a59-6becfa70398b',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Slowenien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '174c4465-13a1-48b7-9afb-939041c3ab3a',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '421bf07a-035a-4abc-a26f-0572636a6bf8',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Eslovenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd426cd71-0e0c-4f54-a091-d163ee93d2c3',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '5de79fd6-6767-44b4-a42c-ea620c2ddb9b',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'SlovÃ©nie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '44a588ad-cdf8-412a-98b8-c96bd796717a',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '6e013c18-1d41-412b-8034-e7b77a33769c',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'æ–¯æ´›æ–‡å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01bc00ec-f29b-48af-8cf9-1439e1643c3c',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '5b129dc0-f860-4426-8966-270a80aa8c7e',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'Ð¡Ð»Ð¾Ð²ÐµÐ½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5bed8bbb-f1a9-48f2-9956-d2766b0724b2',
-    '2198cb12-430e-430b-8f51-7c4098a0dda0',
+    '712f17f5-3022-4b31-b93d-dc81998e62df',
+    'f9b940de-2e43-4111-85a1-7094042c52a2',
     'EslovÃ©nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3350e6b6-f9c4-4010-b65c-4e38c1c5ab20',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'ba3bc137-2f48-4eda-952e-8a3a982c8548',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Singapore',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cf4cfb25-c567-4c07-b07d-e9ac5e773f68',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '6294fa30-9a2a-4331-b851-eade9b575e2d',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Republic of Singapore',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9152c377-77d6-474a-9641-78353d29b270',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '610026b4-4ed4-4c6f-9749-e2d2e5973966',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Sing.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '25664f32-f9f5-4c3a-af0e-de0306f3029b',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'df196e49-e540-4b44-ae4c-af625f3c4d13',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Ø³Ù†ØºØ§ÙÙˆØ±Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2c82c9f-9532-43b5-a885-2ccbe8ec0f6f',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'c57f8f86-7da9-4f98-a86c-3953ce66c87b',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Singapur',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2736785b-f228-4277-b081-6d15064a6a4e',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '1e6c607e-2ce0-41ca-9154-a325ed50a168',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Singapour',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4faa13d6-2c87-4065-aa25-3d89a63f2037',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '14be068e-39f1-44ca-9e2e-608298fbd27b',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'æ–°åŠ å¡',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8befab50-3b52-4c53-9161-18788c516080',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    'c3354dac-66e7-4eee-8559-ba5db6dd4008',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Ð¡Ð¸Ð½Ð³Ð°Ð¿ÑƒÑ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c22b9ecf-5a7d-42bc-8e44-a127c4b8d0e6',
-    'd5d56134-7fc8-453a-b4c4-0c2ab3044840',
+    '630afa82-c17a-4aa2-bd03-7fa022203542',
+    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
     'Singapura',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2cdbc81-d5dd-474c-9eef-819aad57f7bd',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '8ae2fd1e-e434-47f6-81e4-91fb28b3906d',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Sierra Leone',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fad76ccd-6ec8-4b0e-ab59-2104b34fe3df',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '868bf6cf-807b-4706-8448-bbfb490d992c',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Republic of Sierra Leone',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '383355a3-ac76-448f-bd3e-3e0c1371d359',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'dd04a4ca-2ea6-485d-8ab9-33e95bee24fb',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'S.L.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68c46618-175b-4c62-b8d1-0b430574768b',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '42a0c622-a59d-4fea-ac70-af6c5fab4599',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Ø³ÙŠØ±Ø§Ù„ÙŠÙˆÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '07ad5519-664e-4bfb-b3e7-f03016eac3b8',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '933d62a6-9d81-4766-85b7-fc4fca15dbb2',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Sierra Leona',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b076227-4c2b-412c-bb4c-d5372c910dfe',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '6316c008-9364-4a76-a789-116348a6a6fb',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'å¡žæ‹‰åˆ©æ˜‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '753a65a4-e5ea-4652-8bef-ca9c8d74d1cb',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    'bf3e8799-f198-4bd8-83a0-e45954463dea',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Ð¡ÑŒÐµÑ€Ñ€Ð°-Ð›ÐµÐ¾Ð½Ðµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab20dc6d-88ab-4360-be29-2c75a3793b8f',
-    'dbd48898-aadc-42a1-acd0-73eb248af7ab',
+    '929797f2-5534-4aa2-b426-0509a3fdb4e0',
+    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
     'Serra Leoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e68e37a9-bada-4402-b978-280b75ed0ab8',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '28fea611-025b-4576-8cab-df20edef2470',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Seychelles',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '86193184-85ea-4d12-9a6d-a4688e66faa4',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'dd324beb-8272-421e-8c13-25a5b294095c',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Republic of Seychelles',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7c36ccb-185a-4196-a028-f53cda99d2fd',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '1c9d7b89-7307-43b2-b143-c4a4b899fdc8',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Syc.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '28b0c7f1-a7f9-4b03-8df3-138c1a757f1f',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '55c945a5-90ba-4902-81cd-4a1eb1e9ce12',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Ø³ÙŠØ´Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f9920cc2-6dfb-4baa-8ab1-f0ca3df39535',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    'af44a313-fb02-473b-bbe1-9b3c49ee2936',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Seychellen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe23dd52-ddb3-4f6b-b31a-7fe9a138e5cf',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '52a2534a-1e32-4421-a8fe-4fe1c1568531',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'å¡žèˆŒå°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08c95519-1958-43e7-8e4f-d2d22712b714',
-    '9a2be224-a3c2-4cc2-818e-c3ce1ec9e5f1',
+    '874d6443-2a22-48ee-a866-cc7d6d670c3e',
+    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
     'Ð¡ÐµÐ¹ÑˆÐµÐ»ÑŒÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '53e8992b-98f8-4a12-8191-f0db96808360',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '0ce0e67f-d33b-47d3-83e3-d66f27118b8c',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Serbia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e3716ee-6282-4fdc-80ad-4dc2a9fa9a78',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'f43771b9-a8ec-4d36-a488-09b6828f023d',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Republic of Serbia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26ca865e-c01f-4a2d-8559-c993d455e540',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '18b7c002-5e7b-4737-840c-31f17b7fc5f7',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Serb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7057a768-a2c1-46f8-ac30-7f3b24474880',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '791a4c3d-b32e-4787-88d8-59ea52d264fb',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'ØµØ±Ø¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50f3bf55-cae6-4038-99db-0ec3a7ea3b44',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '73a5a604-f3ff-42fc-8202-5371104d6ebb',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Serbien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd74b1a50-0028-48b3-81ce-3f2d46faa280',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    'f12f1783-51b6-4897-a2b1-1d79d51b25a8',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Serbie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dae00398-e8cf-4894-90a5-5750fbeaa595',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '508dfc76-31a9-4f7a-a0ca-2a0014851657',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'å¡žå°”ç»´äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65da2986-d91b-42a5-a2e7-5372898d7d1f',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '937caf53-e1a1-41f2-b526-7560e657e827',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'Ð¡ÐµÑ€Ð±Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b12af0f5-c567-45ff-afe0-7206fda18def',
-    '054f9e80-dcf9-4f85-90a8-0794b44e3721',
+    '8e6d6a44-68e9-414a-8aec-6b31d7e10133',
+    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
     'SÃ©rvia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '314833f4-f620-4db4-b454-95082a35084b',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '9350ae2a-8d72-48aa-aa24-31d0c597d326',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'Senegal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3abbe67f-7b93-43e9-b260-5093970333a2',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '503ed205-da3e-43ca-bcf6-4ccbdb016828',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'Republic of Senegal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a8b7c86-302f-4234-b2f3-8ec66e822871',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '5a733237-748b-4b2d-bb94-1ad7a3300dd8',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'Sen.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e19cad6-ac03-4d89-8e9e-1b3059bc615f',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'c1999f6b-86b0-4ea0-99ee-63fa02ede97f',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'Ø§Ù„Ø³Ù†ØºØ§Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'affa87f0-f7ad-45b1-b478-0b65a413359c',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '400da282-4aac-41ed-a02c-792f0f218028',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'SÃ©nÃ©gal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0640602f-94af-4f62-ab54-c4bee6b87d89',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    'ffab0173-c576-49cf-9522-76d01bc6bd13',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'å¡žå†…åŠ å°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f03354a4-830a-43d5-b64a-fe6e1131f6d4',
-    '77318c5a-7832-4402-9ffa-6e1a1ac5d06b',
+    '362c2227-7fcd-4b4f-b3d1-65f30dc26f0f',
+    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
     'Ð¡ÐµÐ½ÐµÐ³Ð°Ð»',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8cdc3e00-e2ce-4918-ba26-ce83548e1f7a',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'd94477d2-3fe3-4978-8be0-006e38720a81',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Saudi Arabia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f45aa5d3-fb55-4362-b9ce-4d0615bc713c',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '703a990a-0435-4c16-85cb-62b0ab5be603',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Kingdom of Saudi Arabia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'efe99af5-3aaa-4aea-a4ac-33038a5869f5',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '63e8792b-ec06-40db-9853-b03481436633',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Saud.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '194d2d9d-4504-41bf-9e5f-410e26716218',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '67694657-ef96-453c-8606-a9dd51a8b0c1',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f21b5178-8abe-4e4d-b5bb-f665b858f7c4',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '403fb235-f55f-4e3d-8e1c-85b28b25bada',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Saudi-Arabien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cda96c16-d215-4f63-bf82-af6c08858955',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '491ce26c-517c-4caa-82d1-732df5c4d14a',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Arabia Saudita',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84813094-937d-4b84-9b15-2b071de7880f',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'd406989e-83b2-47d2-96e6-86660f41d4e4',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Arabie saoudite',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '411ced6c-41d6-4e35-8b5b-17358d8e9d07',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'aacfaa76-0fb8-4089-88f0-320fc031625a',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'æ²™ç‰¹é˜¿æ‹‰ä¼¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '995f3232-d6f9-4331-9b79-6955d82d3a4a',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    '07a7b965-ce84-4527-bbb1-bc15a9198a93',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'Ð¡Ð°ÑƒÐ´Ð¾Ð²ÑÐºÐ°Ñ ÐÑ€Ð°Ð²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e7c1bc3-5963-4d3c-b078-4b790c0f312e',
-    '438c0c2d-6b2c-40e8-8d99-6015d049bff3',
+    'ef876421-59e5-4ba0-8bb0-8d32889f2411',
+    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
     'ArÃ¡bia Saudita',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2620a81d-2e1c-4fc0-89fa-6f80fc52ea41',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '1056747e-6334-4b67-850e-d3d5016b2984',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'SÃ£o TomÃ© and Principe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b65c94e4-b491-487a-962b-90d21e1d2309',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'c1cdcb42-fb27-45da-8b48-514009545a64',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'Democratic Republic of SÃ£o TomÃ© and Principe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6b57d455-b831-4372-a93b-79a8345888aa',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'd5145d33-b91b-46dd-a5b1-7e97bf33230a',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'S.T.P.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f9d22dd-ea89-40f1-bf4b-749d4669774e',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'be97ead7-42ee-49f2-a94b-dad5563c1c98',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'Ø³Ø§Ùˆ ØªÙˆÙ…ÙŠ ÙˆØ¨Ø±ÙŠÙ†Ø³ÙŠØ¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7cf4d8fa-6ad3-4ba5-bf62-a185e7dd26b4',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'b0406a0c-16b8-42f6-9070-368a062282da',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'SÃ£o TomÃ© und PrÃ­ncipe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5c1aaf7-7ea2-4b1e-afeb-4192583bd6af',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '99b49477-85f3-4968-a3cc-0c1f56e2cf27',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'Santo TomÃ© y PrÃ­ncipe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2447d398-fb5e-4217-9a51-52909d9f07b7',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '7f601a1f-4b08-42bc-babf-a7914b47c632',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'Sao TomÃ©-et-Principe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c676796a-22a0-44ab-bb2c-6e35e3adeccd',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'e6cb74cd-85fa-4fdd-8513-ff0f26c9505c',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'åœ£å¤šç¾Žå’Œæ™®æž—è¥¿æ¯”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cdfbea23-a2c0-41f6-98cd-adf8adedddfa',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    'a1be87d6-4c1e-4cc1-b088-964cf054fa5d',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'Ð¡Ð°Ð½-Ð¢Ð¾Ð¼Ðµ Ð¸ ÐŸÑ€Ð¸Ð½ÑÐ¸Ð¿Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd22d3c39-a5d5-4070-8905-1f7182a5940c',
-    '042af8ab-814a-4f08-b645-b954161cb337',
+    '6e90949c-30ff-4072-92c2-73e046c2cf10',
+    '91183ee4-8085-4e2d-8939-53d7966611ac',
     'SÃ£o TomÃ© e PrÃ­ncipe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '49938de3-e0f9-4276-ae7e-7109ae69adfc',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '7cde9b47-1577-449a-82c7-75b93a7a0cce',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'San Marino',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '922d4a3a-6995-43e8-996c-680bf4e6119b',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '259e0e35-f05f-448b-ad81-30c7c09f210b',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'Republic of San Marino',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'feafde58-d65d-40c3-baba-e50a51016fd1',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'a0b2a184-7fc7-47b4-88af-950e9554a3c6',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'S.M.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ef1f659e-ca2c-4814-ba88-182d57f075da',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '4ef5a227-a68d-46cc-864d-0212fb91cbae',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'Ø³Ø§Ù† Ù…Ø§Ø±ÙŠÙ†Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cde124c9-a960-4b23-8b02-231c70389dc2',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '8799d7e7-10d8-45a1-8b7b-fc18fbaf159d',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'Saint-Marin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7415d31-d4ef-46b4-8157-bbee0482091c',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    '2732d468-abe7-420e-9a4a-51284b63e57a',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'åœ£é©¬åŠ›è¯º',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97575948-4c93-4bca-93a2-a32be1eb6d49',
-    '190e7da0-b719-48e2-92ee-73df703139d9',
+    'ce7a2f3f-dbea-43e6-b03f-66a9b39d8e83',
+    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
     'Ð¡Ð°Ð½-ÐœÐ°Ñ€Ð¸Ð½Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '784daa11-89f3-4557-a8a0-be3a95c5f0ad',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '7a7611c7-39b4-422e-9302-7d2e556cdbda',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'Samoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '57632546-cad8-4396-b9ce-eb91aea8d317',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'c8f905c1-9a12-498e-aaf9-5565e5358e4c',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'Independent State of Samoa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f6dbb1c7-5bf4-474d-bb26-156ef9da1cc3',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    'f15dd37a-acd6-46e2-9fbd-173b4c56e90d',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'Ø³Ø§Ù…ÙˆØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e894b228-840e-4f42-975b-eb7f4617741a',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '1ec03742-50f1-46e0-8a03-9df735b81cf4',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'è¨æ‘©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b6b11ac7-71f4-4a18-a5a8-0efbd3ced16f',
-    'd8edc016-16b7-4ee9-acfc-a44a57a46abe',
+    '9296ec13-cdfe-456a-85b6-81ee19150351',
+    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
     'Ð¡Ð°Ð¼Ð¾Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fe2f549-f101-4c46-8af9-8c2e67f9fbb9',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'd82e366e-4aa9-4aa7-bc43-45c7cc5f56c6',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'St. Vin. and Gren.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8be44aed-38ca-4df6-a274-60fe9d34cf94',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '5b06b428-7250-4eae-98e8-f084612cb064',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'Saint Vincent and the Grenadines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ceed7ac-3891-49b6-82ca-1ef89ffac672',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '472c9e45-6fdb-46ac-b09a-9570cf923917',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'St.V.G.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ecbaa40-01ae-423c-a96c-54d3f9907fe2',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'df1e03e3-62fe-4c27-b47f-8a77fd12aee3',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'Ø³Ø§Ù†Øª ÙÙŠÙ†Ø³Ù†Øª ÙˆØ§Ù„ØºØ±ÙŠÙ†Ø§Ø¯ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '07d91b1d-e787-4652-b792-ad10109ea4d2',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'dcf05e65-0c86-4b03-aad7-70cddcf8e736',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'St. Vincent und die Grenadinen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e20df4f-ad5a-4391-b345-5e0cf60ca6ab',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '62eb1864-59d6-4018-a616-9e3006881efc',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'San Vicente y las Granadinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2192665b-bbe4-441e-9122-597749aa0ec1',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '858fc8a4-039f-443b-8f1b-4d6aa9748e7a',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'Saint-Vincent-et-les-Grenadines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68075008-5029-461b-b3c5-8f1db2c0b75f',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    '184d16dc-3e0e-49b3-9bcb-4139ccaff003',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'åœ£æ–‡æ£®ç‰¹å’Œæ ¼æž—çº³ä¸æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f4d3e65f-73d0-4d4f-8113-dd9d40b94cbd',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'a3a7a879-413b-4643-95fe-4711da772007',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'Ð¡ÐµÐ½Ñ‚-Ð’Ð¸Ð½ÑÐµÐ½Ñ‚ Ð¸ Ð“Ñ€ÐµÐ½Ð°Ð´Ð¸Ð½Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bfc84e90-6394-46b7-aa7b-551049bfb45f',
-    '487a82eb-4a09-4cec-831f-1292d16ba32c',
+    'a808be17-c9d7-472a-8083-5ef07ad05f4f',
+    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
     'SÃ£o Vicente e Granadinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b0d5de9f-2651-4877-8aeb-3f3061d69ff7',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'dc3d7c45-ad3d-4aba-95d3-cdaf709c2bfa',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Saint Lucia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9ecbbfbe-47ac-49f9-93da-e29510508d25',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'aa16e520-d3d3-40d7-a4b1-238b250a64ce',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'S.L.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ccd7b9d-daec-45d0-b232-8319140b6dfb',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '0910cf83-4065-4b49-b320-bc58ccef0f2b',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Ø³Ø§Ù†Øª Ù„ÙˆØ³ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8bfda09-c3f2-4ad5-951d-a27752ac05ec',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '4481a335-d987-4e61-b879-fd514fe772ff',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'St. Lucia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a0db04bc-840a-408d-ab76-fad6802d4b90',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    'b370958f-bda0-4180-a5cb-244626b8b211',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Santa LucÃ­a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7bf3eeef-20f3-4a85-b062-995a82cb75ea',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '829d2227-c2a5-430c-8c3b-f46c0cfbbc2d',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Sainte-Lucie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f54be91-2361-4885-b019-f3f1c75b7c92',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '5ea07b6d-cfea-4bd9-8db5-fa6314d2edc9',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'åœ£å¢è¥¿äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe370e91-a3f2-49c8-af7a-245c66b46a22',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '6c0e8aa9-31a4-4b07-b8b8-8895a6cccade',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Ð¡ÐµÐ½Ñ‚-Ð›ÑŽÑÐ¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fac722a-f540-4f49-af25-fa14a03780d0',
-    'b622d129-e5aa-49e3-be15-bb822875dcd3',
+    '61112d95-36cc-4324-bf0c-dc8845bb0492',
+    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
     'Santa LÃºcia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'deee2a6b-37cc-414c-a9e8-306171e5647d',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '93275c2d-e7d6-48bc-bde2-f97803f5ee4e',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'St. Kitts and Nevis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12ca0b3c-0312-4d56-91d0-fba18c9eca83',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'd3f7640a-99e1-459c-9673-44d2ceb27bde',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'Saint Kitts and Nevis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7a86db71-287f-4f11-92e5-58b84c67bcf2',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '4e016e2e-e5b2-4b08-80a0-cf0c0bb41dff',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'Federation of Saint Kitts and Nevis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5513420f-ff4e-4ab9-9bb1-a456d056f885',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '66df873b-0276-4b71-8291-0e834658b0ff',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'St.K.N.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9dfa84a4-50fe-464d-8809-ab543bbc21df',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '169daa94-284e-4b2c-a354-6773aa2ebfd9',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'Ø³Ø§Ù†Øª ÙƒÙŠØªØ³ ÙˆÙ†ÙŠÙÙŠØ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2a355345-ca69-4be0-9ed7-7da5e8d4ca66',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '823547ee-43e2-4d98-97d2-f7f2eda02fa8',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'St. Kitts und Nevis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08cefab2-76f5-45e9-bb06-53965192637a',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'f6bd23e9-aeda-4b54-ad23-285da934c2c9',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'San CristÃ³bal y Nieves',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '587883e4-8064-424b-a30f-41cf56d612e9',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    'c83d3a30-90b0-48d5-ad32-c27d81395de0',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'Saint-Christophe-et-NiÃ©vÃ¨s',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '875e195b-f895-483c-90a4-c9355af6bcab',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '6d9b1836-a27f-41e1-ba06-63a0420b7762',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'åœ£åŸºèŒ¨å’Œå°¼ç»´æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '790a2d80-eb47-4aa5-9f65-daf027bc93e6',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '5ac6c719-66b2-441d-b98c-91e2d824c340',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'Ð¡ÐµÐ½Ñ‚-ÐšÐ¸Ñ‚Ñ Ð¸ ÐÐµÐ²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc22fe27-c4f3-4cf4-bf92-ca44390c6018',
-    '11d656e0-72dd-4e15-b698-e69a9209a96b',
+    '5c02ad63-fa44-4df7-bd29-4d5d9f71b822',
+    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
     'SÃ£o CristÃ³vÃ£o e Nevis',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9727657d-5636-415c-909f-d3ed102e5645',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '879936ec-7147-4975-b597-88895da7d178',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Rwanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98b981ea-5cda-451d-ab34-8df7b0c4134d',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '84885f6b-d7be-42fe-a0c1-3cb58478fd15',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Republic of Rwanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97e34ab5-2aec-411e-9d55-be56a374489f',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'e54143cc-41f5-4708-a768-717f04887594',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Rwa.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e8e49f3-4c6e-448f-ae51-5b4aaf464054',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '13eed4eb-5b82-4b72-9aff-0b5cc6998bf6',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Ø±ÙˆØ§Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8eb237d6-9548-40a3-8b40-83aa72e531b9',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '1e86f822-8d75-4ef7-8d82-29b1230f88e9',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Ruanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '061f3e45-7287-4e7e-9176-4b20fda27aed',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    'e191fb85-761b-4d2e-971e-231b3380c48f',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'å¢æ—ºè¾¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca45285b-3d4b-419d-aa6e-3f35f9829cf9',
-    '0857cb35-cd1a-451f-8fc9-eba7e1e59aa1',
+    '6584fc1d-c60e-4cba-a4df-4018fd1cc08a',
+    'f6b416da-988a-43f2-8642-78f650ec76cd',
     'Ð ÑƒÐ°Ð½Ð´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '83ee7363-3292-4f04-8a5d-cec1e705cb86',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'b311c755-e3e7-442c-9595-3bff45a4ec13',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Russia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd29ac8d-a8cf-4b01-99db-a74291a95eb4',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'a9519239-9f45-4723-9765-5e7713515eb2',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Russian Federation',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf0a0169-63dd-4fa0-b9a0-89b2371293ee',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '890b3a28-941b-4abf-9c99-a12b8e825116',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Rus.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '310036c7-d00e-44bc-982d-c19583997b6c',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '5f6e4a9c-de60-4b34-b54f-af67322823c8',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Ø±ÙˆØ³ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6053b7f-4742-44e5-b0ff-9c7da15363a8',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '87d3dc8a-9b98-46a5-b29a-8a661a2de999',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Russland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '104f20e1-8382-470f-ab0a-e1806fd2d26c',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'a790388b-db44-4757-8a3b-31633c818462',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Rusia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9110a48d-cf48-46f1-bfd9-6953bda25255',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '04de7098-491d-41d0-a0ae-f896a2aa13b2',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Russie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4da37160-ffe2-48fe-b899-e1bfc2e07d74',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'bea4227f-24a9-45fc-bc1d-2e83409d79e9',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'ä¿„ç½—æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f3b399d-6aae-4dd6-bbd6-d5bab1e8d706',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    '89093b5e-a08f-4033-a4cb-56679513434a',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'Ð Ð¾ÑÑÐ¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8b4b582b-f16b-475c-94c2-304abef5a0cc',
-    '3095f966-c73e-46af-b9f3-9e1ee9a04c88',
+    'e2fdcb88-369e-48a2-a41e-66bccbe1ed1f',
+    '0a9dd995-5337-45af-92f9-d25b43725e92',
     'RÃºssia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '434836f8-193c-4693-981a-13e6bdd721da',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '0ecbe022-a931-405e-8799-3bc72ff4e92d',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Romania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '25c8fc9d-f938-4596-97fd-3a2c4fffde11',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '90eda54c-3e41-418c-bf12-ec38fd1f4511',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Rom.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '800a138c-288f-4d6d-88d8-1949cb4a80b1',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '46c0efaf-77f5-4dbb-bdee-a6fcd80d57f3',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Ø±ÙˆÙ…Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bab769c0-546e-4aa4-9145-f746737b4875',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'e92736cd-0fc4-4868-b4cc-aaf56608b406',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'RumÃ¤nien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f31a0124-7795-4d67-bce6-d4a073a4108a',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    '2f62fdd3-61f2-41a6-8037-7087718bc96a',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Rumania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '56688262-5311-48c6-bc74-79b219f53e15',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'ab76dee6-790c-46db-a051-0711146fb558',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Roumanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b3a26890-ca0f-4445-aa73-1698fd0e7002',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'fe5e2214-34d3-4a81-8d59-43dd9cca1764',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'ç½—é©¬å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5b7e814-e26f-43a2-ba2c-b7b9bdd18dbd',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'c4ef6831-8d33-48d6-afda-ddad4beff957',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'Ð ÑƒÐ¼Ñ‹Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd88817db-e354-4f35-88f7-9ee9c855644c',
-    '7f00858d-218d-499d-b916-e9a2b1faac3c',
+    'b3a82512-8b07-415e-b0d1-757138c407ab',
+    'b1314f10-4e27-4434-87ff-54e320e587b0',
     'RomÃ©nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '092eea74-99aa-4942-8e95-c185cb73f901',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '864b8132-c3c3-4c6b-b66e-cf1e2d56b316',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'Qatar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fca91ff2-1e28-453e-b1a2-461ba32a5fc6',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'c7b57c2c-a938-4ce0-b973-bbbbfe955896',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'State of Qatar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bc40efeb-01a4-4173-9e81-8152054dc101',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'baaff9a7-9189-4f31-8400-454a31e2d182',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'Ù‚Ø·Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d7b979b-276b-4755-86a7-1efa1716bf5d',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'e2304abb-13bf-4f00-82ab-a8a30a98568d',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'Katar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '29a5705e-c34a-4927-8fc4-dba05cec76d1',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'a2f90b14-cf58-42f3-8804-0d8766055b18',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'Catar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd31fef11-1769-47c4-b5d3-aa1304bb24e0',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    'a04fb34c-8fe0-4c1e-8e0e-f353dc421ad7',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'å¡å¡”å°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd8588242-f7ef-4b14-b077-304510402b9b',
-    '6dbee899-2ef2-4947-9754-1f5ab45c4f05',
+    '10b4617e-90c0-4a31-86d6-fb71c23b377a',
+    '25b80a57-b96e-4864-99e1-9cba27934c1b',
     'ÐšÐ°Ñ‚Ð°Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '89b5987a-c6c6-4efa-95b1-77971ea9c479',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    'f3f52936-e157-4798-83cb-54b4c173c7df',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'Portugal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c7b31abe-212f-43e3-9008-7137c14a1e53',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '31a0979e-93b7-44f1-aa3f-deda9a263573',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'Portuguese Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0030c974-7414-49c7-b254-40943a3f89c5',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '2c5790dd-ab33-46b1-a5e5-46fd19fd4a94',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'Port.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '11f078fc-d740-4c32-ad36-381dd763d476',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '777baaaa-8dfd-437c-b327-1b288349368d',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'Ø§Ù„Ø¨Ø±ØªØºØ§Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e2788f7-e140-43f9-b09d-bb8cf961a353',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '58646a3a-024a-4e58-abf3-783397bbd322',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'è‘¡è„ç‰™',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0a619a16-1a08-4240-bc95-3613567e73b6',
-    '87ccd647-1732-41d5-b2ff-ef3e8a7be3ac',
+    '643c3c18-f089-4791-837b-fc09b6117852',
+    'f07f11d3-f36a-4077-8132-96fb6959f304',
     'ÐŸÐ¾Ñ€Ñ‚ÑƒÐ³Ð°Ð»Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd4fb740f-52d0-43dd-b7a6-2073b7349cfa',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '33daa94d-2043-488c-9564-482a76063b28',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Poland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '11eca91f-354a-4fa9-ba00-79e6493aa6ae',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'b358e310-25ea-4dac-80b1-43b1e7f27ee4',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Republic of Poland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3154232f-ec57-429b-ab41-4b7f9f7f2f22',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '35e44825-e3e4-478d-bd36-4fec42600046',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Pol.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3ea91f52-10e8-4693-8c33-fb61be8fb2bd',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '5247b0a6-0a05-479f-b8f8-2bdf0c928582',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Ø¨ÙˆÙ„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9640a233-4af5-4ad3-8e2a-0e2c5c4300fb',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '0ed5d27c-a6cc-4052-a195-69a4fd67c9cc',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Polen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3087899f-eb95-441b-8823-78786baff4d7',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'ab44b1a8-da75-4f08-82ab-6d50e04a6ce6',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Polonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '58852636-12b8-4af9-8a5e-e4a38b06d365',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '876c1e63-ae26-438a-9de2-5fddc7cbcaec',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'Pologne',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd465349-2f44-493e-8666-adb9b41aac10',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '4f908bf3-437c-4fb4-80e7-36fdcf334e12',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'æ³¢å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '69520cba-1bd9-4e9c-9d87-b8a7b6e59051',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    'cad41900-a920-4c7a-a535-10a324d188a0',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'ÐŸÐ¾Ð»ÑŒÑˆÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f1b4e5c-c592-446a-ba1a-4d88abae0924',
-    '6fa329cd-33cd-4ab3-8911-870480ac0580',
+    '1a2e01b1-826b-471a-aa21-69a44c141236',
+    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
     'PolÃ³nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '38ec4480-afaa-490d-b8cd-9ab75dff5a80',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '97d0ca5b-fe2f-4881-aa08-4c2878a5f5d3',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Philippines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a12e4c0c-c04e-4d11-abbc-da518be11a80',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'd1436b61-11f5-4fe6-8dd1-8794b020323d',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Republic of the Philippines',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b4d38d1-c0c1-4e7e-89eb-62d86a471fe6',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'a0bc50da-c126-4d3b-8552-752e338b4976',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Phil.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a067cbae-e09e-4720-9ec4-c2b195eaf483',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '1b031a14-64e7-439d-ad24-17df6713b5f2',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Ø§Ù„ÙÙ„Ø¨ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e7ce985-e5a0-4bd1-a8ed-ee54181deef9',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'a144c263-c229-44da-8307-9be5ce04b377',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Philippinen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4c69ab2d-3bfd-4281-b470-5815ddc29ed9',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '0bb8aadb-ada2-4a27-902c-2ccfc32fea2f',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Filipinas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad730663-ffb6-4b48-a2d2-2ea781abcdc6',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    'dea27f80-d6e8-4c1f-89f1-93658d2b9a49',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'è²å¾‹å®¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5abd534f-5214-4aeb-b126-5fc72e5e687a',
-    'c877230b-dcfa-4dea-a325-70a5a9bd6907',
+    '7e730372-ee57-4e14-acf9-c7fbba12aece',
+    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
     'Ð¤Ð¸Ð»Ð¸Ð¿Ð¿Ð¸Ð½Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e95a78e3-b9aa-4250-8717-26dee8444572',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'd4a567cf-5bd4-4f63-86f2-1be1735df50e',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'Peru',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f06b4e86-ce68-42b2-8425-4d6dd694a744',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '4cdcb312-2bb8-4aa9-bc37-26e456529fdc',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'Republic of Peru',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f0117d2b-20a2-4322-92e0-37345976c3a6',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '5c1adf3d-809f-43a5-9164-b624ea4e5f1f',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'Ø¨ÙŠØ±Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e9ef608-bac5-4f83-9850-cae2712133e0',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'd55121f9-a731-4a7b-a9a7-df3a54148be5',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'PerÃº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d1db03d-2af5-42aa-9091-00d4796cba14',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    'c6436ada-09e8-4bc9-af27-39021606c528',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'PÃ©rou',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e4dc4bf-6517-48de-97ec-a4cf68489fca',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '50dc5e37-0711-4205-9900-87806f3e166a',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'ç§˜é²',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e163942d-4070-4da3-af87-019ea59e136c',
-    'c8ca3b9e-8bec-4a4c-8aa1-e2958ef517fe',
+    '8ebd8d01-6681-45d5-ab16-67a64e927ff7',
+    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
     'ÐŸÐµÑ€Ñƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b5b323ec-fdde-4b14-ae8f-7e9badf3b315',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'a6624584-14e0-4f9f-afd0-8377b49bb036',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'Paraguay',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5971fed9-5fa4-4230-8b95-f18c106a149f',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'f13ef61d-a806-4937-83c2-33373eaf44d9',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'Republic of Paraguay',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ed282f78-69ab-4871-9f9a-6d1edd2ed28c',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'dff968e5-7dee-4345-bb50-7ae51027f365',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'Para.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f17cdfc-4d6c-45cc-a4f5-692bb328afab',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '1245824b-519c-4d48-96f7-389f18094b5b',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'Ø¨Ø§Ø±Ø§ØºÙˆØ§ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '64579b23-5b00-4b50-ae7b-f13ce4ee0584',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'f9c47646-6cec-48a6-af72-79075b4ea0eb',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'å·´æ‹‰åœ­',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '363d2bce-35bd-4af8-abd8-25b59ad6a88c',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    'cf22a8d3-8ad1-4463-834a-0b8b155ee96e',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'ÐŸÐ°Ñ€Ð°Ð³Ð²Ð°Ð¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0d6dd350-3329-449b-9a90-1ab3f910ab51',
-    '612e31b7-73b3-4cdb-88ce-acefef003baa',
+    '69fe9fa2-5e58-46d7-91ec-13620ec9ae22',
+    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
     'Paraguai',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1176da23-2119-4f1f-b7fa-d68d9b8c7921',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '266bff19-5338-4b7f-8cbe-3a7180ea9dd9',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Papua New Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ddddcbbf-42e0-4732-953d-b34cc7128934',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'b590d923-151b-4bd3-b0bf-60f452ecd4a8',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Independent State of Papua New Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b5ba9538-db8e-421e-a8f8-4d94c10d7acf',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '45921944-4551-4776-bbb9-7891859e4ac2',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'P.N.G.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd2da44d2-60b8-4173-890a-fa8e4470ef8b',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '555b4bf2-45bd-405e-8f08-b64c6f3ca91d',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Ø¨Ø§Ø¨ÙˆØ§ ØºÙŠÙ†ÙŠØ§ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af6514a3-05d5-4219-a0e9-f8ee9cc6988c',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '4d1bff7f-6b78-42b6-b1f8-673ebbf5a00e',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Papua-Neuguinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d4148c7-6e67-482a-aae5-dc95a370ccc3',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'ea843e50-d981-44fc-b2fe-ba0913a96df2',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'PapÃºa Nueva Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b43763ac-df33-443c-ac47-e24a18dd4283',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    'e90bb5c9-9061-4710-8ddd-1df2a2739838',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Papouasie-Nouvelle-GuinÃ©e',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6eb1566-5b52-45a6-af75-9c34823c802d',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '16d70601-b25d-49b2-aa07-202d4be2cbcc',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'å·´å¸ƒäºšæ–°å‡ å†…äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ac59316-4f9b-4602-9ec7-99e326a4420a',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '132ab965-2016-41bd-8cbe-4d88bbe30a56',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'ÐŸÐ°Ð¿ÑƒÐ° â€” ÐÐ¾Ð²Ð°Ñ Ð“Ð²Ð¸Ð½ÐµÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '72560eec-a075-42a3-bf9b-5621566da9c4',
-    'd18f0871-6193-495c-96d3-b0b399ba5608',
+    '9b2133b9-f251-4b02-9526-273deef99b30',
+    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
     'Papua-Nova GuinÃ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c265cd5-426c-40e0-a203-b4416753e19b',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '053c9f87-ab18-4e42-aaf0-b8d3185acd8d',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'Panama',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd94f0564-35f5-44d6-a1e2-8e0ad9539a2f',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'ef2e6fd0-083f-404f-a662-ed7a624f48df',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'Republic of Panama',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aeff757c-7705-4b96-9363-9f0c07787028',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '9ca8873f-4c04-4c06-b8ca-4847187ff992',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'Pan.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '899282b9-cf42-434c-a040-4ed8a3e010f1',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '34684616-6568-4d4a-8d0e-7db8f55ea7de',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'Ø¨Ù†Ù…Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0ace247e-80a4-4a66-b023-edea5d7a5ed9',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '50391719-e7cf-48d6-987d-dbe9c7e76d6d',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'PanamÃ¡',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b25a5b8d-247d-4103-925a-a735f32ceb46',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    '9a424b47-87cc-45ea-8309-ffb7d059f74a',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'å·´æ‹¿é©¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ed17729-c4c9-475d-b6f9-b9f5b14a9903',
-    '58ac920a-6f08-4ca4-ad42-4de914b0060f',
+    'b28a1e66-a43d-4aca-8026-8c1bead3e142',
+    '1bf2cf9f-7896-46ca-b158-629e269ee763',
     'ÐŸÐ°Ð½Ð°Ð¼Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b8fc306f-a660-4f69-a53f-314bfa0a42fc',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'b5e5f4c1-9e7e-40d6-ba45-ee3afd1d60f3',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'Palau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c788de70-57e9-427d-8961-3c27817e47ad',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'c495a006-7875-4704-aab9-cb0f7b7062e2',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'Republic of Palau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '37c7bc35-9343-484b-90f9-e2b25884d620',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '24676a3e-81b1-42ae-91a2-6411694eb37d',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'Ø¨Ø§Ù„Ø§Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ad4b27c-8459-45d1-8a05-f05fe51ca224',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '38cca29f-61e0-42d8-9a6b-bb27756007c4',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'Palaos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec1aec6c-cf2d-45c5-902a-775d086b3c85',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    '9002d0ff-222c-4c6e-ba5c-ca9c5b8555e4',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'å¸•åŠ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5772c70e-a5b4-40b4-a256-aa20e94ff476',
-    '062adf3f-11d5-41b2-b706-c8606dd2b086',
+    'd513d232-6fde-4b13-8fd8-9f21ce945a78',
+    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
     'ÐŸÐ°Ð»Ð°Ñƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4b5971cf-778f-4621-a712-a9131d99b3bf',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '1011566e-b750-4683-94a5-ae241e7e75ab',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'Pakistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e1fe2bbf-eaa6-4444-bcb5-5fc2ab6b943d',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '6eac5947-6956-4f01-ab60-b23c0273cb47',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'Islamic Republic of Pakistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '51dd195f-e18a-4178-9860-efc57982438a',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'fb5ec2c3-6a4d-4d7c-9b15-28523152348a',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'Pak.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'df03f40b-fe59-4cf2-ad1d-fdede54d4297',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '739b14bb-3d1a-42fd-ba82-b64b45bf628a',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'Ø¨Ø§ÙƒØ³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00633cf3-51a5-446c-83ec-afff39587dbc',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '237cb27e-237f-4f21-b31a-62b1be41ba06',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'PakistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '611ded04-f659-4cd6-82dc-d106e27a59f6',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'd57a866d-a234-4a82-98ac-fb801fdc2d27',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'å·´åŸºæ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'adae2324-60a1-4e21-80ad-f49bd475be18',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    '0d90092d-49bb-4120-bc7d-95f14537e49b',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'ÐŸÐ°ÐºÐ¸ÑÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ada7aa4-c1c2-465a-8352-ca66f58af2c8',
-    '168a3ea3-3e69-4edc-b710-36355c012b62',
+    'bb339651-5a96-49c1-a632-c28f477df52f',
+    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
     'PaquistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27a147d1-c912-46cb-a5e0-f14c22982860',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'c6716070-1fac-4af6-b716-c709cef6a14f',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'Oman',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '394962c3-8839-4e90-b4c3-efa8a91a2315',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'a380c999-3004-4b38-bf78-115cb31b23fb',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'Sultanate of Oman',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '47d439a7-5be6-443c-ab83-65f697cc0a14',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'df023d7b-7ae8-47e3-973e-1ccee430c211',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'Ø³Ù„Ø·Ù†Ø© Ø¹Ù…Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50abee49-721f-4a38-a1a3-7ce4fd2e0189',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'fa6c9be0-e50f-484f-b4c4-2e86219e0d74',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'OmÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '37611646-2e8f-43fb-8957-e1ee2d7e809f',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '78aff8a4-85b3-4fec-b404-8307e43b2cd7',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'é˜¿æ›¼',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f4521efc-aed3-4b39-8444-1ee1cccf8946',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    'beb73def-7467-448e-8e81-0162139d1982',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'ÐžÐ¼Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd7915001-738e-4c4a-ae26-0c7ec7fb2ec5',
-    '12d756f2-55d1-47b5-a498-9796023e7bac',
+    '3b9d8599-a2a5-4683-8932-cf86da218e8a',
+    '93ff2c6e-012f-4672-a853-c287ea62351d',
     'OmÃ£',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f0123d6-735d-470a-88c7-9883825818e9',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '6ebe8a2c-d092-4cc9-a50b-587778c3cf71',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Norway',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10349ac0-cc71-42c4-84b2-fad015f612d9',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '43c0e749-54f8-4c45-ba5a-68b27cd75377',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Kingdom of Norway',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '363ad9bf-a9aa-46e7-9212-ef73934cdb1a',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '8acf1952-b387-4691-a212-106d55df7243',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Nor.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b2b7af94-5d7b-409a-b9b4-0b9b5569f0ac',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '15c36cbd-7e9e-4149-b80b-db4113130216',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Ø§Ù„Ù†Ø±ÙˆÙŠØ¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '03174f82-0418-4797-800e-0dde61c64832',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '3597f61e-a10f-40d9-bc22-4f6d19ef5b55',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Norwegen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21cb227e-1bab-472b-b3f7-f99fd0d19f7e',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'b22136f7-e616-4ec8-975c-06a78d032392',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'Noruega',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8c9e77f4-ce45-46be-a278-3b1caed1073c',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'eeb8414c-8b4f-4f0e-bdbe-352253b3491f',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'NorvÃ¨ge',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ae4e06fb-37d2-451b-8931-4a076c713f48',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    'ebd701da-a7b2-417b-887c-f9aa6c896c65',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'æŒªå¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ffae2a29-a43c-4a2a-b381-cab79ed1206a',
-    '900cd40f-6d72-4661-aa4d-0ce856ee328d',
+    '28b1bee5-4a81-42ce-8114-ba3ae424b554',
+    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
     'ÐÐ¾Ñ€Ð²ÐµÐ³Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa885a92-4d12-42cc-9723-34b43b206163',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'b10fe397-667b-4109-99db-23f98319daee',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'North Korea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6873029a-2455-4af5-9bfa-f7827534060e',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'd740cee6-ba59-4281-a267-33c8081af44e',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'Dem. Rep. Korea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e7c2c2fd-b33d-4a6d-b24d-6a85f45b10b8',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '5e3927c7-5e7a-4dd8-b704-45f1a41ea739',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'Democratic People''s Republic of Korea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a611f186-8f96-4872-8af4-9b5f037aeb68',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '7ade39ce-840c-4261-aae4-c701529f26e8',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'N.K.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a747a1a2-12cd-4d21-a24c-5bc8f58fbe64',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '9d120046-aac1-4a5a-8e1a-db5b3711a5b4',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'ÙƒÙˆØ±ÙŠØ§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08432cea-7c5a-49ae-b45f-200598277590',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'd660787f-390f-4b0a-807e-22a5e16232bf',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'Nordkorea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '87fd5193-3e3d-4510-94a2-1d85524e794a',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'fbed62a8-1a17-40ab-8e02-c382664815cc',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'Corea del Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4d627f57-3d3b-4ada-82cd-491e0fdfaa19',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    '9daf19a0-59ba-4050-83ab-0a00253d752f',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'CorÃ©e du Nord',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dca94ecf-7035-43a5-a48c-f359e417cf34',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'b2446ce7-5d6b-434d-a121-785ece67542e',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'æœé²œæ°‘ä¸»ä¸»ä¹‰äººæ°‘å…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0335ee24-4787-411b-8236-8c91102d6903',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'b295dd83-0c91-443b-a382-f6af4e380dba',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'ÐšÐÐ”Ð',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3542215a-5039-4408-857c-4d544d8f9d7b',
-    'd96844ea-296f-4f03-b064-5d3681c81e16',
+    'c1a95b57-4a76-49b6-9a23-81a3d02deba8',
+    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
     'Coreia do Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4c32410-01af-4eb0-bc2e-1c725752c072',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '9770959a-ab1a-4d99-b0c7-ae314c680e0a',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'Nigeria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d1c4cc9-48d4-489f-9fb5-94e4f422d704',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '91a40f58-f022-4592-af5f-eca1198b16a0',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'Federal Republic of Nigeria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d7e8959-d5dc-4648-837f-d5caf017e18b',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'a41da74b-f2f6-402c-8471-e0a12fb8c45a',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'Ù†ÙŠØ¬ÙŠØ±ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2465366-e190-4edf-8e9c-90fe2895537d',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'ebf0d6e4-9e7e-457f-84a5-d9509830e14d',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'å°¼æ—¥åˆ©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f2b4fc1-08d4-4666-8442-185a3043c782',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    'ab0b0afd-e152-4788-bfe5-90a66af40e82',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'ÐÐ¸Ð³ÐµÑ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8877a970-5255-42f2-8400-5b9a93a78679',
-    '2f993dcc-0fa8-4454-8877-29d98e0b5d49',
+    '777f0453-28d4-44d2-98d3-b639ad8d7bb8',
+    '65895b06-ed6b-44ce-b89f-31402d7dd972',
     'NigÃ©ria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12e332c7-e0b3-46bf-b6a3-410a052b35dd',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '6fdf1146-97cd-4935-a621-6a33a53f7614',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'Niger',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d3ad960-e023-40d2-a605-1fa434398c03',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '88e835c0-6aeb-4c8c-80e5-1046268049a2',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'Republic of Niger',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2268cc1-3a9e-46cc-93f0-f0b4ad5c7265',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '43e51ae3-c676-4344-8181-e4bc2ffe5d2d',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'Ø§Ù„Ù†ÙŠØ¬Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8f007dc8-d89d-4fa0-acad-34a42daffb1c',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    'a6234d1f-de26-44c6-a042-c2c114391bf7',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'NÃ­ger',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aea3fdc6-8c08-4a9a-b516-3b62b0d4e40d',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    '952033b2-1ca5-45d9-bfd2-53adf81f39eb',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'å°¼æ—¥å°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '252390bd-a926-4c82-88bf-e163f3e6aaa0',
-    '08595f53-9d03-43ea-8a1e-e487cb71a88f',
+    'c58d3ea0-f2a0-45ae-a53a-db254c15d45c',
+    'e1186571-87d3-402d-9354-9b2d9889cffe',
     'ÐÐ¸Ð³ÐµÑ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e660f161-50fa-4339-8306-15b5a7a71959',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'f0cdea00-67ed-4107-9c14-d6fb6e059adc',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'Nicaragua',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5c1b90e-74a6-4ff4-b034-7b0e881f2886',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '301620a8-e435-48d4-8e9f-9ec5ac14b80e',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'Republic of Nicaragua',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a042f605-10bc-410d-8850-376a260238bc',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    'e17c8865-7822-4685-a8b6-dd6c16667768',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'Nic.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be26a9a1-fa90-41d8-9bdb-7894cb81dca0',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '278355d7-ed61-41e1-ba7c-a5c15835be98',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'Ù†ÙŠÙƒØ§Ø±Ø§ØºÙˆØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9cf7b259-acdb-4a82-9578-84c0cbfbda8f',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '9f72bd3e-f330-4956-990c-fd53837f0efd',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'å°¼åŠ æ‹‰ç“œ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af5c4e51-3d16-4dc0-b17a-76521ed4f95b',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '6d8e4491-8fe8-4a76-a3d9-dbc223fa868d',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'ÐÐ¸ÐºÐ°Ñ€Ð°Ð³ÑƒÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '73213687-0731-4ef2-9a11-06c27d95cdca',
-    '10138f4d-2a9b-4102-b235-a12affa24f6a',
+    '545aaf86-3fab-4ea4-8ecf-d01d8a4ec9f4',
+    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
     'NicarÃ¡gua',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'db4e55fe-a033-4578-91ff-27a32d05aa07',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '7596d1d0-7e25-4ded-bb4b-ca570514ad52',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c4101071-85ba-4429-8299-43b5de8c3ded',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'bbbf1bf0-3d64-40a1-b9c4-0b917c0cba86',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'N.Z.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5968c2e9-8682-40a4-a8d3-b2d4392f7bad',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '74506fc5-d1fb-4b9e-b967-cbc42712a4f3',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'Ù†ÙŠÙˆØ²ÙŠÙ„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1f44b316-fd85-4120-a448-94bd49d5a41e',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '6661f183-2086-46da-84f5-9f245d29452c',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'Neuseeland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c72f5f7-ce48-4ab9-9622-a9cf7d7473a9',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '5754ba11-c3a5-4b56-95f6-63721934d25a',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'Nueva Zelanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '56517891-ff2a-47b7-ab40-aebb20e0e93c',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '76a55915-8137-4722-b744-e868b011e8b7',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'Nouvelle-ZÃ©lande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '341889e4-e266-4299-8c89-4bad40284f4b',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    'c4d6631d-c37d-4e94-9d03-f70a4a7a5694',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'æ–°è¥¿å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '986de785-c971-4290-b0fe-fe187902a772',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '80c5fdc8-67e6-46c2-a3e0-e07585fa859a',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'ÐÐ¾Ð²Ð°Ñ Ð—ÐµÐ»Ð°Ð½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '408e42df-0f57-49fc-a082-ac9ca2daf0e9',
-    'db5502a7-4bd9-4da4-b83d-a53749f9fd54',
+    '75dc06f4-50b2-4f29-84e1-34e1386f8044',
+    'aa726639-9abc-4fa1-a568-784153ffe485',
     'Nova ZelÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd38432e4-9553-431d-8c11-71a07f889c4b',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'f88d7173-5c5a-45c6-8cdf-7c747d7fa0a7',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'Niue',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '75affe7c-4d19-4324-8f83-8cf2f00e5a37',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '7f6f145b-ec4b-4312-b1ce-946e92590b72',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a32c35f2-b47f-427c-a5d0-0e04cdaa7d5a',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'aeddf161-f05a-41a7-9e91-689595cb113b',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'Ù†ÙŠÙŠÙˆÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd50fdc2-73e8-41cf-a756-d62838e04d5e',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    '97018383-9071-478b-b7f2-2190f00bcea2',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'çº½åŸƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '36c06ddb-7c52-4d45-972f-a7bdf76afd5f',
-    'ff867645-b7e3-4459-9fec-cb1980fb0c0b',
+    'aa6b80d7-f39e-4032-9ccd-ece6ed62da34',
+    '861651de-d9de-4499-b432-fbe02b2dd074',
     'ÐÐ¸ÑƒÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '215a5874-ee57-4814-8fe0-fd67f34e4eeb',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'a7d08632-ec84-408b-b40b-ee088fb6d17b',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Cook Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c485f945-3ab2-4d6e-88ad-e2e6beecea34',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '5529a423-27c1-4d0c-bf6c-e8679e94f60c',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Cook Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'babac8ff-5083-4072-bfc3-b167cd5e0cdf',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'af06da80-4a6f-4823-9c9b-7b56feb6a3ae',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '844c0fee-f601-4605-87c5-7d5c74b809c9',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '7bd8c21e-b868-4cf4-b0b5-77a79e4f761e',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Ø¬Ø²Ø± ÙƒÙˆÙƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f946d1e6-3763-4899-9fdc-e58e299c0b88',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '1100e8ac-408c-4108-ba16-a4ffc0f36014',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Cookinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f7ede0c8-8311-43e8-adc1-1a1cc6178543',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '5b951e74-57f6-4c0b-9be4-14c10fa25843',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Islas Cook',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fd2cca8d-0d07-4cc5-8880-28a0c13b1cbc',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'b0b1dff5-0ec2-4e7c-9d98-c54aa9fdda46',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'ÃŽles Cook',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61ee5d8b-2152-4178-90ea-5a920c65131e',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'c51aa2e3-ae79-41df-9484-bb0dee0a0204',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'åº“å…‹ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff288edf-500a-44ae-a086-b485e3307255',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    'ebdeace6-4f0e-4c4d-b2e3-ce645a723733',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐšÑƒÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7069cb80-22bd-410f-ac83-4a6fd92937bb',
-    'c9770e09-c837-40c0-aa64-7f1781051599',
+    '53537363-1f9a-42b5-9ccd-2ca36b3d2434',
+    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
     'Ilhas Cook',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2dc79983-e75b-4304-8286-789102511e9d',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '9b0d464d-848f-4778-b1d2-74f3af0252b7',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Netherlands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'eeeda168-0d85-46dc-835a-4c64d485bf56',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '1ef4f02f-11a5-4584-87f6-c727476cd59f',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Kingdom of the Netherlands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26ab785e-de69-44b2-9f97-bea107fd8ed9',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'a3f4e6ec-9fa1-4541-976c-5ee3c53b8930',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Neth.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1c68bec5-6f68-4414-a516-733d759b2ece',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '1e3d226f-d9f1-438e-b394-a7a81161832c',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Ù‡ÙˆÙ„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b57843fd-f9db-40c2-b53b-cbc057831090',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '395408a4-c907-463f-bc71-e923ecc35610',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Niederlande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ede2185c-07e3-40a6-ae44-c2f1061fa998',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '8a92a91a-f8a3-4e0d-bb5c-50ec46d19501',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'PaÃ­ses Bajos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61907452-0a6c-4a28-b962-37ff4327a727',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    '69d17d53-764f-4278-85ba-3d3de5f02e16',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'Pays-Bas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ce8bf4b5-fcb2-44fc-9257-0bea1130c8c9',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'e859d686-3c17-48f3-b8c0-9f15c7492fac',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'è·å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98c167ad-9f3e-406f-8e79-62ee49e514dd',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'ee12b175-5044-469e-9373-552518e7a9f9',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'ÐÐ¸Ð´ÐµÑ€Ð»Ð°Ð½Ð´Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '249ac42c-f307-4827-9883-1c920d05902a',
-    '1e7f56cf-648d-4d16-b962-c2615c150d0d',
+    'abbad652-6f79-43af-9440-bdcc47293a77',
+    '74ffa911-da58-471f-a734-1d8b73cd9907',
     'PaÃ­ses Baixos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33a15c84-9077-4151-b45e-445195308b97',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    'a8d488a8-805b-4eec-9218-a837ee977c33',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'Aruba',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '544f9d54-5255-4931-bd1f-884b2a0abdb6',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '8b4005c2-4090-44ec-aef3-3a62842387e7',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'Netherlands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '41aecbba-b847-493b-91cb-1cfd378e758e',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '72ba4bc6-e65e-4733-824a-888cbbe50c42',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'Ø£Ø±ÙˆØ¨Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98c990e9-61e4-451a-b1c9-7c017a5f4799',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '71ac6d7b-b4a0-4d32-adf6-07ab235613a0',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'é˜¿é²å·´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a257ce7-6eeb-47fd-b1c5-be5e4f58c7e3',
-    'ad4f6c37-ff65-42ba-99b4-6e4d5ecbfdbe',
+    '1b7503d9-b879-48f2-b813-f5fe9087fb93',
+    '843f6d46-0901-4eb0-b250-f6183a874d3b',
     'ÐÑ€ÑƒÐ±Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '716e6220-9cd7-40c7-9f82-696f5934de6b',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '27940825-ef47-4417-8c96-75a175374b50',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'CuraÃ§ao',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '118aee5e-76b7-46aa-a86d-f7c44f9d575d',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'dbb88c13-5728-45bf-be2b-0edbf60658c2',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'Netherlands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6613c17-5d43-4b24-af22-88e7c5f6a3aa',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'c3092efc-ebaf-4905-a1af-887536c46437',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'Cur.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fbbdffeb-1fba-4109-af74-4d9677d48cd3',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'd1e3a3d2-539c-448b-a427-265dcbf8a32c',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'ÙƒÙˆØ±Ø§Ø³Ø§Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd235403c-9309-417a-8abf-dd3ef6640605',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '7edb067d-cea0-4d30-a2f0-d2932af8876a',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'Curazao',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5f7385ac-3a42-467f-988f-c3b2632ae3a8',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    '6a830482-c765-4330-a448-45cb75b9a5b6',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'åº“æ‹‰ç´¢',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fd541cb0-44f4-4659-a1f5-19e24ce4ac52',
-    'b779aea7-af14-4386-ba5e-d97409ad161e',
+    'b6e69a28-1e15-48d4-a6e7-2778e826b3f7',
+    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
     'ÐšÑŽÑ€Ð°ÑÐ°Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '481b8ac1-65d9-4fe1-8da4-a528f67e33ab',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '5d968f4f-f0cc-4a22-b707-f5bdfd1c521a',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'Nepal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd9ca6c5-3d93-4acf-a565-5464db64c3d4',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '1d6ca955-25ac-48bd-b54b-8b914a42d687',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'Ù†ÙŠØ¨Ø§Ù„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b5d1bdcd-fb21-4ce0-a39c-f1c28442085d',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '6071afed-bc96-409f-895e-4fb8a245d890',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'NÃ©pal',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc5ccbab-6fe3-49df-be9f-9539122f5b17',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '398fa91a-3687-44a0-9d42-b63d491ec1cb',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'å°¼æ³Šå°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8ee8f11d-5d3e-4164-ad90-1d59641f73dd',
-    '6a2f60b7-c438-41c1-8eff-b55226da2607',
+    '61b4235a-d8b6-49f4-ab0b-f30d75dd53af',
+    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
     'ÐÐµÐ¿Ð°Ð»',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '14edbc7b-badf-401a-9e3f-784418f8691a',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '5e6063f1-95bd-44ea-93ed-faba62d3b246',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'Nauru',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ea0fba7-d57a-4370-8077-c2ca36bf40e6',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'fc3e79e1-0589-465d-a516-72edcc85843c',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'Republic of Nauru',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f8b22c60-1b98-4109-928f-dd5d513d8332',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    'aae0002d-c0a6-4560-ba5a-3b337a282062',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'Ù†Ø§ÙˆØ±Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c244fe3e-1d80-41de-96c4-d40cd444a097',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '696a34c2-6a17-4907-afd2-eb071ea1d09a',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'ç‘™é²',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '173bca2b-ab29-4c68-ba0a-029f3783054c',
-    '997cde1b-5ea8-4425-8a49-d5fd4aabde81',
+    '6a8d49a4-7643-48e0-9be7-b22bc909647a',
+    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
     'ÐÐ°ÑƒÑ€Ñƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f547a43e-6771-493c-ba47-d34e803bb5cf',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '399b7859-c5c5-45bc-ad9a-6dc6e0c6dbaf',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'Namibia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '19475a4f-e8b7-4e52-a2a0-f00806011712',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '00c0e514-528a-499d-a410-c9f427111dfd',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'Republic of Namibia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7773381f-fc9d-49a1-8420-8d427d61cb83',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '37448339-f8a0-47be-8023-6ebf7e6235f0',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'Nam.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '515cf9aa-6389-42b7-8f76-f1d60feffe22',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '3d0c8f22-5951-4324-8fa0-b7757c4a58c7',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'Ù†Ø§Ù…ÙŠØ¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0a0dbbc2-0371-458b-8206-92ee0b8f20b7',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    'c659857c-f326-4988-8605-7bde2efa8055',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'Namibie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8cf3ed65-995e-4d1d-8fc4-3c67e3987f71',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '07ab4c6c-8211-4d07-a7a9-ac0543264e6b',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'çº³ç±³æ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7a91787f-dfb9-494b-a9a6-946e64c79a69',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '4054866d-58ed-4fec-a356-ce0a80c4c31f',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'ÐÐ°Ð¼Ð¸Ð±Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2f418d5-6924-4f20-a751-101f623fb054',
-    '912bcfe9-5bd1-4b3f-9fc4-a213b6d72954',
+    '7c98f624-eeae-411b-a5ea-c6845ce51f5b',
+    '2fd722dc-3f81-4564-9c48-725042615b22',
     'NamÃ­bia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92da4a81-82d9-4d83-a331-fcdb951b0219',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '62ead009-6c9a-41a0-9119-b056fb20f097',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'Mozambique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1e50b74-bf03-4024-b844-69ba0d9cf126',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '39b29d38-beca-4bbb-a9f6-abf0f1f3bd30',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'Republic of Mozambique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf552f5a-c95c-4deb-9f83-166f432e4a60',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '3e8d6438-dbf3-436a-ac39-ac5821714503',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'Moz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7f34a09-a325-430e-933c-dd68c75caeb0',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '46cb6e3f-a57e-4525-a59a-bc7409568e60',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'Ù…ÙˆØ²Ù…Ø¨ÙŠÙ‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98e98e38-6a32-494a-9dcd-433fc4ebf2db',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '3e7f9f92-0f77-4caf-be66-568903ff9071',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'Mosambik',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aeaa11b4-b220-4a68-b6e1-7f8e16b277a5',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '4f0388f8-53b7-4958-bcd4-bfc284d149a8',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'èŽ«æ¡‘æ¯”å…‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '34396a34-7db3-4a38-9e70-bd93a815bb33',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '7fde7d6e-f03b-4f87-b032-6f4ed5e4fc65',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'ÐœÐ¾Ð·Ð°Ð¼Ð±Ð¸Ðº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd8c86477-d882-4961-b5c7-ffd587f71226',
-    '424e3720-d60a-4fc3-9025-6094a5dce460',
+    '4cc6e55c-c9a9-429e-b6f1-98eebb7484c1',
+    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
     'MoÃ§ambique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f6e94a2-3ecf-4b83-b91f-ecb53248bd84',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'b296af08-c21f-44be-982c-9f22e28dfcd5',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Morocco',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8c4be5c9-4be1-4ccc-a145-25bb5a936f42',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '4b190cfe-feb6-485f-b5df-c4f82bc3f74d',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Kingdom of Morocco',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a18c226d-e246-4760-881e-142c86bdb9f9',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'c085ff7b-55df-4da0-a1e1-e1eb73ebebde',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Mor.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd274152-8c3d-40e0-b6d3-e35dac2eb3b6',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '5bd9481e-3b2f-4d4c-bf33-1021450eda34',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Ø§Ù„Ù…ØºØ±Ø¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e73dd7b-040e-4a60-8eb8-73996bb68f67',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'df92f1fb-7055-4a5e-ab7c-37008a51027c',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Marokko',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa7757d6-9572-4905-9196-b77fdc448119',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '6bff74b4-4178-410e-8af4-90142573a1c4',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Marruecos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '048c02ab-7f09-4c61-88c4-defb017c12cd',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '620f05d6-34f9-4538-876d-0e575b479d81',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Maroc',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b130be06-8f65-44d8-9fc7-97f025db978c',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    'a88bb376-a264-4afc-b077-7b6defb47ea5',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'æ‘©æ´›å“¥',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd4a08320-8e85-4231-b86c-c58e0b626104',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '12683981-f4c7-4b7c-aa85-32bdc8504367',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'ÐœÐ°Ñ€Ð¾ÐºÐºÐ¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c29e8488-db3b-4117-bc7b-220979becc3c',
-    'd4d28f44-13e7-4ba4-922d-1ae0ef191d02',
+    '20403c17-1fc8-440c-84d1-1a24d2d072a0',
+    'dd838161-11cf-4538-bd4c-420ac27c562f',
     'Marrocos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '89656dd7-fc2e-47e8-901a-fb395406e95e',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '4f9e4dea-3994-482b-94b9-000734265339',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'W. Sahara',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ce47b40-2999-4a1c-98a9-47ca550f07e8',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '197b2d63-ce9f-4d92-8040-cc2e82c84f50',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Western Sahara',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '95cc1206-9b8d-4430-8b58-16c4893da0f1',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '183ce139-a064-410f-a39b-278d34ed9253',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Sahrawi Arab Democratic Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '82e762ef-6f30-4b52-8207-4e8411c8b9ed',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '4d416a5c-7e2b-4808-b409-d16ef3c8048c',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'W. Sah.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7e17be6-4140-4d3b-b885-85f2f3a2facd',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '72e600bd-3469-4633-92b8-97c789b4f8b6',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Ø§Ù„ØµØ­Ø±Ø§Ø¡ Ø§Ù„ØºØ±Ø¨ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b18725b9-2c19-42ab-85c0-55b0baa03d81',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '861fcd9e-983d-4951-922d-61b61a9e5061',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Westsahara',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a537997-3678-4e43-8b34-54d984ffe7d5',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '24463ff5-d71e-461d-91ae-31196c0f91d6',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Sahara Occidental',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7cff5443-b936-4d25-bbfc-961edb8a804b',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '79886d17-7397-4bef-b964-555d133e2365',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'è¥¿æ’’å“ˆæ‹‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b23bc6db-fe1f-4c41-be95-0433e982f627',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '7112af0c-5255-4cd3-9271-7e43e9ee36a7',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Ð—Ð°Ð¿Ð°Ð´Ð½Ð°Ñ Ð¡Ð°Ñ…Ð°Ñ€Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7466b309-0f62-472c-ab23-561b89bd9e33',
-    '55b6733d-dc8e-4382-95e2-6c75a447eea9',
+    '037e0225-cd4b-427f-aa1e-a7570ba2d7c1',
+    '844f29fd-d35d-43a6-89ff-3a165ba33757',
     'Sara Ocidental',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d4bfb47-db54-4cfd-acef-483b6ae91c3f',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '3886fffe-15e4-4881-a4e4-f2aa09489e5a',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'Montenegro',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5806106-3d69-48ea-b752-ce53e6beebbb',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '13593293-20d2-4812-9e20-bfd4ade1bb85',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'Mont.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f47c24d4-59a0-4708-b167-528028c6a4a0',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '8693f7eb-7540-43ce-9968-392c77182e0d',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'Ø§Ù„Ø¬Ø¨Ù„ Ø§Ù„Ø£Ø³ÙˆØ¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1b230cf5-1ece-40ed-8f61-e95c3cecfbf0',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '66fad77a-32e4-4abd-8e3a-4684b1262c2e',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'MontÃ©nÃ©gro',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'df99393e-a897-462b-b1a3-153798357943',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    '8706217b-7654-4380-91b9-0e9e73dc7ca4',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'é»‘å±±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4db20496-7de0-4d3c-9455-4a04b4503e6d',
-    'ef9e511f-8123-46cb-80bd-8ca9ef00f461',
+    'ed1440c9-a6f0-4d75-93dd-ccc43bdc76b5',
+    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
     'Ð§ÐµÑ€Ð½Ð¾Ð³Ð¾Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fb651473-ea91-4fa4-af73-ad21c36ecaca',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '9d0cf144-1a71-4fe8-9fae-a0ef3f16bb93',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'Mongolia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '353f3ad5-7ae4-4988-ad3a-ec7f8f30d17d',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'b4a6cd18-d47d-49e0-b894-67af50ce657a',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'Mong.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '424b3095-5af0-4a4f-a254-f747dd81399b',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'd18f129f-75db-49b0-bc8d-7a6bcb13415b',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'Ù…Ù†ØºÙˆÙ„ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5287aeb3-6b4b-44df-946c-5590d48c768e',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '0dd8779e-fd2c-4b4c-b541-948f341df277',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'Mongolei',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6299f583-5d79-44d4-9035-14ad290ff89b',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '3190cf53-8f69-4f30-85f7-5c2b5dcda49d',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'Mongolie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f45a414f-f200-4d91-802d-e79b7674b98a',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    '52e39ce7-16af-4d9f-99cd-9190e62e9cf8',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'è’™å¤å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bb72bcab-7047-4a47-824d-16b6697debb7',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'fed7931b-2f92-4dd2-8adb-1c87ab2183da',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'ÐœÐ¾Ð½Ð³Ð¾Ð»Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd69b530c-d976-4ae6-ad63-0890933f6381',
-    '03d2074f-e7f5-42db-a58a-27aee056d6ce',
+    'c4041395-fd4e-489c-bc25-f499bb9e9e15',
+    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
     'MongÃ³lia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '49483a89-13b2-4e63-b6c1-be7f520ea52d',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '22b75203-f0dc-445f-b9d2-23535e19b923',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Moldova',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '647ce57a-4d18-4518-97b1-13a4026ebd43',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '3ce667ff-1c70-4122-bb78-7073a651b654',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Republic of Moldova',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3396af72-e516-4147-9c72-81b54aa88e8b',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'eb5c3b3b-3ae7-41cd-8e66-df555dd2ed5b',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Mda.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ef792700-31a6-444a-b58e-9724bc4a551d',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'b2b595b0-a67c-40b9-9f92-cf717fd823f6',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Ù…ÙˆÙ„Ø¯ÙˆÙØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e77a483f-0b37-4d93-a4c9-f365ff2871ae',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'cc3781a2-7cd9-4eb2-92a1-9e565195b8f1',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Republik Moldau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6ffbbe5-9c33-4ad1-938b-c494b3cf6dea',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '9f8dd30d-6537-4a3f-9eb6-f3e3143deb49',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Moldavia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9e332ec-09b0-4b49-b266-e6e98b5428f5',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'b314d8df-3941-44e8-8b9f-1473df646b21',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'Moldavie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '321acd02-84c9-41e8-92e7-1c726105538c',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '145d7999-3d0f-4624-867a-e04e61a42cfa',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'æ‘©å°”å¤šç“¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '140ff6da-fd2d-48ac-b994-97cdb9aedf5a',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    'dbe7de2b-f2de-4965-8a68-823e91a6f7e6',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'ÐœÐ¾Ð»Ð´Ð°Ð²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d13cb41-d0e3-4b41-a9ed-4d84f9b727cb',
-    '00d55a21-efea-4af0-88ed-4d9855f1ee89',
+    '90f2c980-6c94-4b2f-83c3-0ccb11319f4a',
+    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
     'MoldÃ¡via',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '15dcacb1-5ac4-41db-a0a1-69a2c7f86b94',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'e020e36f-c2fc-4250-b0d2-a3191cccaab6',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'Monaco',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e1e2eec-12eb-47f6-a52e-4facc24843d9',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '9634ffc7-6afb-4cf0-897b-f5c94aab99ac',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'Principality of Monaco',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26fe0860-574d-4c64-a213-1c44db5d1c65',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '55cd7ced-a97c-4b49-aa59-f81c0310029d',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'Mco.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e419b36-01ae-4df4-8e75-210bbbf15052',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '0830250e-37d0-4b58-9b1b-c1a4ade643a7',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'Ù…ÙˆÙ†Ø§ÙƒÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e78241cc-2d0a-4d8c-a943-881fdb18d03b',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    '5b5454a3-684e-4930-8aad-4812479fe4a1',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'MÃ³naco',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a02210dc-5bc4-42aa-9650-efbcc00ccf23',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'bb2ac5e0-a37d-479a-95f0-d05520b33c38',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'æ‘©çº³å“¥',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7fcafb2f-85df-41b9-8639-e99e1a7dec15',
-    '08ac02b3-bf00-427c-9343-c59b97e073d2',
+    'ae635aa8-7da0-49cd-82ed-fa4448f1bbc0',
+    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
     'ÐœÐ¾Ð½Ð°ÐºÐ¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a5dd5122-387a-42f8-8c8e-31002b65a555',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'f55e3ee6-2771-4497-8218-2e0b03a63486',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'Mexico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '692194b3-ef4b-4637-a611-c3f75fec0d40',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'f92f79af-457e-4a70-a10b-616303324567',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'United Mexican States',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ced4a44c-cb62-41e6-9a15-247e4f02befb',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '76d7559a-5ba7-47b3-9d6c-723c408ed551',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'Mex.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '174db714-054f-44c0-8ddd-c1d15cca4e64',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'cffbebba-ea49-4ef9-84f0-53959e50d1c9',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'Ø§Ù„Ù…ÙƒØ³ÙŠÙƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '59632d25-a59f-4b88-8d58-7bfde18844c8',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '2cf06775-ada9-4679-bd38-005b2d4344af',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'Mexiko',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ed60a94e-84be-488e-b5b5-715f7393438b',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '0539804b-bafb-4e99-bd9e-4ab32f654b1b',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'MÃ©xico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0760843f-257a-4581-9d65-f5843a28a0d5',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '4ed1d94c-f83a-4282-90ab-2523581043ca',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'Mexique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd06f3040-b857-45bf-a60d-1628e4afc268',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    'b2653424-01d8-4ec1-aead-10c118a6af3d',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'å¢¨è¥¿å“¥',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '247a14e2-3581-400f-9b10-89d08e9daa55',
-    '6576053f-8a89-4044-a54e-71c54318fe3c',
+    '3292e911-38ae-440f-8442-cf9e6b417654',
+    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
     'ÐœÐµÐºÑÐ¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '79f3ea1b-dbe2-4831-b4a5-e7c4b941f8d4',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '9a068971-40b2-4387-a533-f9674702e7f6',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Mauritius',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d99762f-ff84-4955-9188-457ddc7bd201',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '5b67f72c-d533-4a9c-a1cf-6d41e433b8b5',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Republic of Mauritius',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec649891-448d-4930-952f-4a07a50555b0',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '59fcff3a-57b4-4187-9ea1-c938cc3dcf4e',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Mus.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7fb6cdef-2c56-4ec8-b2bb-061d7ab8d0ce',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '8cf87514-4e8f-4383-aa33-5c98a508cd3f',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Ù…ÙˆØ±ÙŠØ´ÙŠÙˆØ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd6bc115-cbdd-4be9-8bfb-9e619e8cfa3b',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '1c32436d-1ea3-43f4-9dc1-71a0391ea363',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Mauricio',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '596abaf8-5ddf-4b0e-bfd7-64a2786f1e4b',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '568c5f39-0142-4015-be01-e87c22a00d31',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'Maurice',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '64bbc359-35c3-49c1-a523-2dd4e26929c3',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    '767cfd6b-4c6a-442d-8298-cf65a2fdd324',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'æ¯›é‡Œæ±‚æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'accd25b3-87f2-4cd1-8492-2267de64394b',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'c3660ae9-57a9-412b-bcf1-86ff886b9ec6',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'ÐœÐ°Ð²Ñ€Ð¸ÐºÐ¸Ð¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97a8b354-dfc0-4266-91cf-8356abfcbe7f',
-    'c85ed008-cbd3-43cf-96de-be93d048d182',
+    'bb4d5ee9-c3e8-4603-b590-41e39ea0271b',
+    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
     'MaurÃ­cia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd0390fbf-6c97-45e2-8ebb-f3341bdeff97',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '29c26581-c7e2-42a8-a265-724a1344039b',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Mauritania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd7c111a2-d752-440a-b955-33d3b78af1c5',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '033b21a5-66bb-4c6f-b10d-a11fcebbd108',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Islamic Republic of Mauritania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6584a6fd-9bd4-47ed-93c0-064f498f8ca7',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'e0d0c7ec-3874-4b3f-b951-737adc6e2925',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Mrt.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e00d5e9d-fa54-4ffe-9cdf-de2a358558a4',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'b6d5206d-78d4-436d-853a-fd785a6be686',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Ù…ÙˆØ±ÙŠØªØ§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e34a9a25-7feb-4c9d-aff2-89b45e23a3f3',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '00f31dc3-063c-40b3-bb3a-cbda57c3ba0d',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Mauretanien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dcc2d926-4255-4ff7-a8d4-19596bcc7745',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    'e03e2fe4-33d1-4794-b664-0a4807c9f9f8',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'Mauritanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '766608d8-f21e-4ff2-b268-cb276ec1a5e7',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '20d82288-da76-431c-a565-97f53a69c041',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'æ¯›é‡Œå¡”å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f744cf3d-8dbe-4c2c-b265-a03cfb5ea9fd',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '69c9609e-bf24-482e-b01b-8465462a3e60',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'ÐœÐ°Ð²Ñ€Ð¸Ñ‚Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e665374e-6452-4ba7-9d92-256699c58822',
-    '222c44da-805f-489d-9894-5fe48d0b6953',
+    '4250535c-e4bf-420a-852b-9cf5e90909f5',
+    'c5ba276a-a598-42af-8311-aa0d0872086a',
     'MauritÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65e9b9fc-de2b-439a-bfaf-6c76355f6713',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '416d5b74-9b39-4001-8b82-50ff51a5b437',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'Malta',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e9b0603-817b-483e-b6f1-bdf47fcff81b',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '0bfa48cd-0531-4bac-a765-f5b16f371a9c',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'Republic of Malta',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e21be347-5f52-49a9-9c67-0e0aafae7a0f',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '0a7f56e0-3d02-4613-a768-69992b992849',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'Ù…Ø§Ù„Ø·Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '13839525-e93b-49ec-8e79-1cec3902eb27',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '4a429d5f-4a68-4cf8-931f-742b0ebbda77',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'Malte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c962ce60-378b-4a7d-9acd-e4869477b235',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    'd3f4c700-06b3-43f4-9add-d8ecc84d7f2d',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'é©¬è€³ä»–',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5b839c38-6fff-44d2-b1f1-74022f683dc0',
-    '02de08f9-6fd0-4f71-a1ff-42059e3f454b',
+    '252e8b41-e104-4622-9e75-13e4482118d2',
+    '0611b394-1a5e-4b07-93f3-c696217288c5',
     'ÐœÐ°Ð»ÑŒÑ‚Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a3a9c497-e127-452d-b60c-f79fe2cdc847',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '1041d305-b2c5-4e92-83e8-091b7997f636',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'Mali',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad7f68ba-a344-409e-8fd9-fe00d6d2bcec',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '7c4a7b9e-dadb-442f-8a46-71379b380ae5',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'Republic of Mali',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f75c7adf-291c-4b79-aa0e-394233f1352d',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    'f3773a89-b6b9-420c-b492-5441f6c12f66',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'Ù…Ø§Ù„ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1df89690-29b5-42d1-9cac-fbfc86d16d94',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '30d6332e-ad75-46b5-9d61-a4ba17d85b5c',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'MalÃ­',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8f5a6b3-17ad-471a-a3c5-ff19c23a100d',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '870b5299-08f5-4e03-911b-20c983568ab1',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'é©¬é‡Œ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '13d7ad79-9276-4eac-8fc7-926aeb4a8f9b',
-    '20d5a64d-23e3-43e1-b481-45db541ee6ae',
+    '3d48833e-7175-4736-90eb-ad21112dcb4e',
+    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
     'ÐœÐ°Ð»Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd8eae9d-9adc-4588-b1f7-a537ba51badb',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '2f1983d0-2ff2-4bae-a36c-aa79aa7738a6',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Maldives',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68cd50e5-19c8-4690-a4ef-93ec80071dbe',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'c718e610-40f4-46f9-a1d1-e4bffca2eb23',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Republic of Maldives',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4b113833-5625-4b44-a54d-fbb32af803ef',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '9a1c0008-d059-4e7d-8e38-28f8791f59b9',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Mald.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '72d2d4ee-a9cf-49cb-96c5-18bb6619b7d3',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '509fd4ba-108a-4e9a-afcb-4f997699bc9a',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Ø§Ù„Ù…Ø§Ù„Ø¯ÙŠÙ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c7f1bbbd-6ec8-4306-9c99-3aa8cc37f8dd',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '3bbe2760-c2e7-4c00-b1fa-2fc2175f60fd',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Malediven',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '22294a02-33ef-43a4-a2b1-d6396d4c4cfe',
-    '99678227-0705-464b-96d3-686846bb100e',
+    '21f9ec08-5f7e-4a58-96b3-6cd621abcc2d',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'Maldivas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '15f39c42-f055-4006-a542-075081320f8e',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'ea416db9-a4a9-421f-96f8-c075eff32f92',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'é©¬å°”ä»£å¤«',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd606326f-3caf-4302-802d-509ae9061afe',
-    '99678227-0705-464b-96d3-686846bb100e',
+    'a6acf3d4-f5d4-46c4-aeec-0f703466751e',
+    '9659f99b-7de9-4786-8c7d-91ea69296554',
     'ÐœÐ°Ð»ÑŒÐ´Ð¸Ð²Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3653b171-3282-4cef-b6f2-45b11109a47b',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '93f3a1e6-3b7f-4ad2-bd4c-121097d157df',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'Malaysia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c212d0d3-dd7c-4c84-bd67-183135cf3ff2',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '4a42d983-95c5-4848-b5f9-e05dcb76c4cd',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'Malay.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b791b6f7-35f0-4feb-9af7-3c40c3d67808',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '7bea150e-2649-49ff-956d-ce57d99a6ec0',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'Ù…Ø§Ù„ÙŠØ²ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '69523eb1-7cc5-4e0b-be5e-092f95b2142d',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '4d519290-64b5-4955-b699-26182926ae75',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'Malasia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5820e2e3-3394-40a7-b098-6d41da50f6e9',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'e401230c-de1c-4374-862f-1f19828ba771',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'Malaisie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e43dc446-d59f-4b09-9e0f-0dcebd3ac48e',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'd866a462-3a49-4a1b-aacb-e9295a2992df',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'é©¬æ¥è¥¿äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ac7db7f-787b-4f56-819a-7ef549258550',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    'd0d4e82a-0e1b-4dd9-8c10-a6a1b5795f5f',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'ÐœÐ°Ð»Ð°Ð¹Ð·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0b1ec411-edf2-45cb-b83d-c5d8e2e86afc',
-    '868ee8d2-4c9f-4f59-b967-6a45ab74faf6',
+    '518ea9f7-9469-457b-b218-4cb2e24696c9',
+    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
     'MalÃ¡sia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00849300-3dad-42f5-9baa-949979efe247',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '3df70daf-fb2e-4c8f-aab9-2013dfac1973',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'Malawi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ea212be0-3def-4d64-93bf-d7de51022c76',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '6d28ad22-55ef-43ef-8caa-312aa38e2305',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'Republic of Malawi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '49c9c4be-821a-4be2-92ff-d127d5a226ba',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '2de94230-16d4-4ead-8f4d-08b2bd99a250',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'Mal.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fc32a56c-9303-41b4-8d14-41e0d8cc071c',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'da18a201-a081-4b11-b3d2-620b0bb90b32',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'Ù…Ø§Ù„Ø§ÙˆÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fada65bc-1921-40f8-b612-cfbc21357ef8',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '5c047900-f5b4-45b4-a4d1-39dc18161e7f',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'Malaui',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5fb7ac51-8c96-4d9c-9592-059c13a57430',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    'a24b1a7d-5271-4657-bcfb-1910d0ec0a27',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'é©¬æ‹‰ç»´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4c0a130-52d5-4a18-8592-8dab2e2bce53',
-    '4c839947-763e-4654-adfc-c706b03c5563',
+    '7c427a38-c254-4041-bef7-7cf45b30eae5',
+    '7982f82e-dccb-4e78-adb2-774c7869adf1',
     'ÐœÐ°Ð»Ð°Ð²Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'da4e32c2-d119-4ec5-8352-b6628616f62b',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '37b550f4-0062-4b44-a178-2eb1eb08553c',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'Madagascar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '16558a2e-0310-49ed-adf3-d8d1be784f9a',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    'c968adfc-ed36-4852-a1a0-f794cf6d987d',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'Republic of Madagascar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '79cff9c5-ad18-4b0e-8179-6c9a00c25017',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '653de9fe-9397-4b2e-af0e-dcba0a21471c',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'Mad.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e5c89b7-9de4-48b3-9f80-c66dc30a894c',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '14ab883f-9fbf-4dd1-8e24-7dcdef367cde',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'Ù…Ø¯ØºØ´Ù‚Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a33d0f75-4d8c-4872-9d62-741700762a49',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '776257d5-052d-4e15-a560-09a7ce167541',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'Madagaskar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd84e649c-7f9f-4a7b-aeb8-d59ef250d733',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '0f4e3c0b-ff5a-486f-b301-e4b4a0040382',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'é©¬è¾¾åŠ æ–¯åŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7132b031-3f86-43ff-80c2-970b52290b6b',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '1ef91790-7a28-4b60-8d49-c58a1a3448a1',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'ÐœÐ°Ð´Ð°Ð³Ð°ÑÐºÐ°Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f3f5ca9-3940-4ad2-9ff7-d45f8395a3ad',
-    'f70644bf-4b87-46c2-a8a2-bf29c26fc59f',
+    '98b84d82-e3c5-40b4-8930-d1e6376e7fed',
+    'c33ce059-e519-4314-b01f-09b9be77040e',
     'MadagÃ¡scar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '37317bb6-1579-46a6-af83-662238572145',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'e7d9683c-6b90-414d-91c9-15655fc364be',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'North Macedonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0c32dce5-d32b-441d-9fae-aab432673e57',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'ec97bf78-0604-45ab-9c03-2aadb1403377',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'Republic of North Macedonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12f444d1-b13e-4f30-b76c-2df90257d958',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'dd8d55b6-028b-4f15-8dc5-3cee3930f363',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'N. Mac.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '146eea98-3a17-4d8f-8499-fd896c361b7e',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    'da79df34-539c-4089-b537-5fecb3170762',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'Ù…Ù‚Ø¯ÙˆÙ†ÙŠØ§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5225433-f4b1-4071-9e23-8c2f4b3afb3a',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '1d39b9d5-65d3-49e3-920b-565ebcd35258',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'Nordmazedonien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5fcbf3be-6984-4315-a382-7cb654c3367a',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '10187612-2594-45d7-acd7-43a606530bab',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'Macedonia del Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '95b47d03-a1c8-4c11-ad2c-5237b64ea6a2',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '1d52ae4d-05fb-4946-b1f6-0ccd18dee45b',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'MacÃ©doine du Nord',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c87e9745-ddea-40e0-9602-f9e246fc0369',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '173f1dfd-45c0-4df0-86d0-75761ea29643',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'åŒ—é©¬å…¶é¡¿',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b8989bf9-1f71-498a-a78e-b005d9059226',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '0065ecc7-1e93-4d20-9072-a72d6afdb080',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'Ð¡ÐµÐ²ÐµÑ€Ð½Ð°Ñ ÐœÐ°ÐºÐµÐ´Ð¾Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'daeded18-9917-4798-9268-c35926672ba6',
-    '9b576835-9395-42ab-950e-0784a4838648',
+    '457a854f-2821-4d61-805f-129e2c6d5e49',
+    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
     'MacedÃ³nia do Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '39d8317d-7d8b-4dae-9e48-ff73040e5ba0',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'f4787895-225b-4a7c-84c3-823ad5320cc5',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Luxembourg',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d847aaa-3bdc-4e5a-8229-c6d4ce6d55ff',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '7d82f715-c963-4981-9a9b-9440e8fa86c4',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Grand Duchy of Luxembourg',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cfee8690-19d7-489e-a1cd-9d638b4a1a7e',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'ec2196a7-c653-4822-8fcd-64f35ed510d7',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Lux.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3fe03075-94a1-4f66-8710-eef1869c14e1',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '6f3d54d1-d83b-413b-9c46-616f6ee2ebe0',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Ù„ÙˆÙƒØ³Ù…Ø¨ÙˆØ±Øº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad2256b9-7c73-4a39-9f08-f86bb87993b0',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    'a0dd65c1-3e5e-4f2a-92c5-17277d04ff15',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Luxemburg',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b9e14639-a864-490a-b7eb-939c693f21d4',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '940997b9-d0e6-4a73-954f-3b1a035c3007',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Luxemburgo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f1d0aae5-0aeb-4d87-bafe-ff47cf10f188',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '5253d8f8-41a7-46f7-8c80-bb8cd38fed41',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'å¢æ£®å ¡',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f68d69f0-dfe1-43a6-a85d-00b283d8d051',
-    'a5ed2bc9-a5e2-4293-89bf-b083353da014',
+    '83dcd3af-1ee4-418a-969d-6d534a0e0098',
+    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
     'Ð›ÑŽÐºÑÐµÐ¼Ð±ÑƒÑ€Ð³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5be3de87-c95e-4f68-a7f2-22d4c46d0561',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '0bf227ae-d635-403a-b363-3a89f104aa31',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Lithuania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '076dc9b1-9c3f-463c-ae66-3caa32a51d6f',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '21e2d5c1-7b6c-471f-9ee6-28c76bbbc3e7',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Republic of Lithuania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e0cd4f79-81cd-4079-b749-87553fc765b5',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'f884ef51-7cde-41c5-acd0-ee2c6ba65722',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Lith.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '98754fce-5f71-472f-abda-43b123044f8f',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '062c5cd5-800c-416c-9edd-8fe7159efdf7',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Ù„ÙŠØªÙˆØ§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92c6872b-1c8b-455a-bed2-a0c3de5bf1f3',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'b871eda5-e09b-4e6c-bce5-5fadd008f8b6',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Litauen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac7f3a1e-a779-4080-9824-e633617f9595',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'cb210a14-463d-4e61-b97f-d8ee2fc023c8',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Lituania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '730e3a64-e6ed-4183-b944-89d84c12f266',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'f8063d92-ab8e-4471-82c8-cec9573ec2a5',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Lituanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be582ef8-08d4-4e47-ace0-6ed93e5b515a',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    'c760591d-0ac7-4439-aa70-153d4dd30bf8',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'ç«‹é™¶å®›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '99c529be-d2f2-4bb5-a284-ddcec66eae2a',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '0311074c-37b7-4661-b33d-7afb5c760206',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'Ð›Ð¸Ñ‚Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8300179b-cbe4-4424-b200-7b432ec8333b',
-    'db2c5ee6-8939-407a-9d12-c9069077b0e5',
+    '3e8a5663-9633-4f9b-8760-debadcbf22ea',
+    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
     'LituÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e1d8d566-bab3-48b3-ac83-0f30a82c8742',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'cd88b235-02be-4aca-8883-1e509a32bbca',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'Liechtenstein',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2dc38f62-c2d0-4896-99d4-676759f762fd',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '766f4867-5442-4be7-b7bd-cf00b1b93423',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'Principality of Liechtenstein',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e0a09d2-c71c-448f-a9f8-f83d58bff789',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '2bf8163d-de70-4877-8814-93af37c58d98',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'Liech.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f1f4318e-db15-427b-9eb0-1e6a091cfb3c',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '5adbd79e-6e9f-447b-aef3-c1ca518e47c8',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'Ù„ÙŠØ®ØªÙ†Ø´ØªØ§ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7542a954-25ed-4148-8c39-86410e0d0634',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    '9233fcd6-f295-450d-9479-3a4fb55c563d',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'åˆ—æ”¯æ•¦å£«ç™»',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6b2c94b1-e5d9-401a-95eb-35f3e4e4a717',
-    '599b3365-980b-4f16-9a32-f1e03359a432',
+    'cb5b158e-0747-4656-ad54-568a2dc64967',
+    'ff398ee8-d967-4522-94be-d21a411daa93',
     'Ð›Ð¸Ñ…Ñ‚ÐµÐ½ÑˆÑ‚ÐµÐ¹Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'daec9c84-a5f3-426e-aa7f-6b421f5b9860',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '7bcd77a0-8ee0-4209-b078-fdfcc2f539f8',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Libya',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4b1e62e6-168f-4ae6-86bd-f45869b5716d',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '9657905e-7c6c-4206-8a1a-753e3a3ccd37',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Ù„ÙŠØ¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6fbd93e0-3d1e-46c6-89f6-a0e75710d488',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '49ff4e3d-6aee-4adb-a358-d7dda3db0041',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Libyen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '38838237-8929-487a-970f-835b4d16af23',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '17ce5310-1887-4b29-9124-d74ffa6834f2',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Libia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e3c23f8d-0cef-483a-8d71-c2d526c19cc2',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '44b41930-dc7c-4045-becb-c0c4386757a7',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Libye',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd24b7b65-8a9d-45b9-8a2f-326e69862356',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '599a0918-0ece-45e0-b3c5-529a0955a35e',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'åˆ©æ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd081fb56-cf02-4892-b17a-ee0cfa7126d3',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    'f67785e1-1b67-482e-8268-a89bf01c0460',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'Ð›Ð¸Ð²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f2f272a-95c7-4bc2-aa5e-9f54c03709c8',
-    '5ea5bb94-0b96-484e-97fb-bc8ffb2b72dc',
+    '1e1ad89a-e123-49be-be00-0c7b90215c95',
+    '6b09e50a-05a3-475c-83f3-175fca91a546',
     'LÃ­bia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bcd9eabd-ae7e-42b3-a3b0-73034b79008b',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    'ae0cc24b-8904-4498-9a9d-ee1a6171210d',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'Liberia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e16daa3d-2859-461f-b1b1-5273e4e52bef',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '4c70b890-db16-46ab-9ca5-fa02cb8b89f2',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'Republic of Liberia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8a2129d8-e1e3-4f33-ad2f-13d6837b4990',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '5723ba26-0224-4c5d-8740-977685941ec6',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'Ù„ÙŠØ¨ÙŠØ±ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4076d090-045c-44ba-953a-8533edaafefa',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '7c5c934c-1aff-402a-9a57-bdb620b1f975',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'åˆ©æ¯”é‡Œäºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e7678f71-3f39-483f-b164-242bbffe378b',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '6bbb04f9-ff75-4dca-9aba-7b28104acd04',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'Ð›Ð¸Ð±ÐµÑ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '66acdf47-4b6b-40c0-bd51-a58166811e4b',
-    'b59cd56e-d3af-40ee-852f-afbd87b62e85',
+    '7e2f834b-2006-48d2-8ca7-80f0c4a2125b',
+    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
     'LibÃ©ria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1deb3a62-951b-4a3c-8fce-b6a6d9fbf6f8',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '600c35ca-a33c-4a41-a0d3-27fc1819b637',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Lesotho',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '36328535-31d5-417f-b309-32801bdf8873',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '5e91d5d6-8e19-46b3-bf81-572dd0e3ad42',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Kingdom of Lesotho',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b913093e-5385-4d1e-829e-4908af23b147',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '4668c224-0385-4796-95aa-90198806f14d',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Les.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec98b41f-40d3-4cea-a0b3-4a9ab1c61765',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'feb48f7a-f549-4cb4-a494-3e60f3bf1e18',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Ù„ÙŠØ³ÙˆØªÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5dc12eb5-fdb1-4a35-9da7-2223db3309f7',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'b0a35c45-d68c-4418-a350-20fbbca94e37',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Lesoto',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b761c2f9-f35d-4b4e-8c22-b63052a2ff16',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    'a24831e0-de6a-4ef3-be1b-bc0a75e531b8',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'èŽ±ç´¢æ‰˜',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4da3bda3-71b8-4e0f-8b6e-f2dde09eca83',
-    '0e0f36c4-1633-46e8-8258-178ac105b4d8',
+    '34a95603-412f-4e2d-bf60-981908037c81',
+    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
     'Ð›ÐµÑÐ¾Ñ‚Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5b53a402-ae04-4523-ae43-0d5db79557cc',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'fa2fb845-d65f-45b1-8f9c-3fccac888f59',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Lebanon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a7a4861b-f841-4b57-824e-aafe3a26063e',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '284c708d-afb2-40b7-8cb8-4635ed62e5f8',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Lebanese Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3396a8c1-1b21-4ad7-9985-3c1489b38f6b',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '32d316b7-2c5f-4cc7-9bea-b9f6ca5fa938',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Leb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd27fa22-0292-4052-8671-bc8808bd3945',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '8e54b312-cf76-4c2b-8f0a-8bca8dbae062',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Ù„Ø¨Ù†Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c3247f77-3463-4bb1-bb7c-bfb2083ac652',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '3a9109ad-e15f-4d7a-98f8-81db8fe28edf',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Libanon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af817d39-1fbd-405c-ba49-f7b2fbc01a4e',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    'a09f1634-fa19-4121-8ee8-b073498658b1',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'LÃ­bano',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6a1533a-0faa-4b5e-bee7-146b34e35cdc',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '4bf1de19-2a12-4f68-b37e-e1b257a9b117',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Liban',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fe3b7bd4-1f9f-4935-b7e4-1aaf712b8f84',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '7697597e-c8c5-4a06-a9fc-29b49fcf1d7a',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'é»Žå·´å«©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '29741b36-5b05-456a-99a4-4ad60469a35f',
-    'c51fdb05-a505-4352-bd39-a1cd57452cd6',
+    '965f5322-43e5-4d01-9840-ed743affb932',
+    '29429221-c6ad-4512-976e-e206200f8d07',
     'Ð›Ð¸Ð²Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8af417b8-8382-40e2-b2cc-a55b385f13c8',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '6a1a5ab9-9e24-4a1c-9fc0-4b1a1d4f1c3b',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Latvia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2d6d4e8c-233b-4066-b5b5-1ef4fc461ce7',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '4d9fee20-a5d0-4073-b06c-b35e125a18a8',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Republic of Latvia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70fb81f3-7787-4d6e-ae7a-ec7dcc68691f',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '89d8f335-5d8e-43f3-92ea-47ea16fe22d6',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Lat.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6416da77-863a-4099-8e6f-99d14349027c',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    'e630f558-0956-40cb-8b92-2fa6a496e11a',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Ù„Ø§ØªÙÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c71e6c23-6f86-4ad9-a61c-9d7001a35d2e',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '61f42ee5-04e7-4250-b1b2-9e13ca71af72',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Lettland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ab83f82-c81d-47d0-b1ef-4afa7c1db2e8',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '670df7bf-f238-44bc-986b-56868e6ed253',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Letonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0810812e-7f15-46dc-9f1c-1c52706ac554',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '81728cae-025e-4356-971f-938554ffd542',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Lettonie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '799c4cc2-2957-4574-991f-95440b8a2173',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '91179505-3f9e-4f0a-b5dc-42099daee274',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'æ‹‰è„±ç»´äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78c1e891-0e7a-40b6-affa-5e72f3a03015',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '9a1f38e5-bb27-475a-b82c-34b6e23cafe1',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'Ð›Ð°Ñ‚Ð²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1eb50390-08e7-4fcd-93e5-646c6307d8bd',
-    '196b8b74-3541-47cc-b3de-e42e25e9360d',
+    '95baa044-1628-40d5-9e71-4271df90d8da',
+    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
     'LetÃ³nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f6563e5-1f30-4c0e-ac6d-062468fdf409',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '6236bdad-f4a3-41fc-a471-c1b6eb91dee4',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'Laos',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2462d41f-e45f-4fef-81ec-0cb6d427ce66',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '75ff9efe-8033-4661-bc91-f6537416e807',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'Lao PDR',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b04e96bc-e30b-4de0-aab2-7da363ab654d',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '68a80d65-cde2-4475-8249-aaeb4370e525',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'Lao People''s Democratic Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cac6df87-a164-4cab-9758-df1ac72fea5a',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '5b2e519a-41b0-48e8-96ef-3790a5ef231e',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'Ù„Ø§ÙˆØ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9bb38d31-e54d-460f-b93e-224f4f0f484b',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    '91975601-8951-41ef-8f59-237cbbfe7cb7',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'è€æŒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '77b9325b-ad89-481a-af7e-2bdb2f2f5a63',
-    '56c06a55-fa9c-438b-ba7a-09aa8885e3f5',
+    'f845753d-fedf-46c6-976b-f766849b387c',
+    '23419940-4f2f-4194-858b-2e645e3278d2',
     'Ð›Ð°Ð¾Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f365ff25-2a31-4f53-a924-75d4793f6109',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'f8367f98-5bdb-44fe-9a48-dff04f81e18f',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Kyrgyzstan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7bab1b17-8e19-449d-a423-fec9a6b842ed',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'e80c7176-ec2c-449d-b9f8-5eb6c1b8d8f5',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Kyrgyz Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '048f0765-df54-4191-bf37-ab8f241dba18',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'e0c9536f-ffcc-40c0-9ce8-4a859ff1f71b',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Kgz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5cbd0084-d799-4756-9615-2a40a5ca5497',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '38b7083e-a30a-41b3-a61f-dc001a32e58e',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Ù‚ÙŠØ±ØºÙŠØ²Ø³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a60bb554-8d19-4fdd-9a04-d18e8d6bffe0',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '9963dc55-b25f-4e72-bdbe-8c79295a7636',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Kirgisistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd1307cad-29e8-49ed-806f-0b639f80d376',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '4b29b28e-c29b-4f5e-aefc-9f11ec369211',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'KirguistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '287e0899-d7e9-451d-af60-3a8e7faf5574',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '9dd27419-1d17-4ad5-bd4c-5609fc926d18',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'Kirghizistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '86a3b7c6-a886-4863-a401-491c327bb95b',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    'ecca3c3b-989e-4912-8283-fdde52c44672',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'å‰å°”å‰æ–¯æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca9a33b0-7fca-4418-b01c-2b2b8e4a3f9f',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '4fc36f15-19ce-433c-91b6-43b983e3d750',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'ÐšÐ¸Ñ€Ð³Ð¸Ð·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f770179-4e52-421b-8131-e14088826d1d',
-    '27fe8350-4efc-41b7-acc5-e2e7528e4c90',
+    '96194a49-0fa3-43d6-8d0d-3198d04ff310',
+    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
     'QuirguistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e8207cd-539b-4f98-a4de-c0dcf31c0d77',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '2dc9d552-982e-454a-b331-0bf0f932a16d',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'Kuwait',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7768831f-2818-4c5c-bb85-0d1d663b58e1',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '7c39aecf-d7e2-4d9c-9bc0-9c320920866c',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'State of Kuwait',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7c96e43b-a909-429f-844f-81ae0283fd38',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'c846e76e-17c9-4eee-9f2f-7296868aa428',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'Kwt.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '160c2d4f-0e85-476f-85ce-ae67708c74fa',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '0eafe5e8-1d77-4770-81df-265bc21cb0cd',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'Ø§Ù„ÙƒÙˆÙŠØª',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '124f49a2-984d-4173-95b8-fca08b3905ee',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    '69d678fb-14ab-4adf-9b45-3699348758d7',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'KoweÃ¯t',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd13889d0-feda-4c67-9597-92ab809c6f88',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'fc672db9-ca8b-4307-805a-fc5b677ddcd5',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'ç§‘å¨ç‰¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '46790018-7a29-40f6-8ee9-c83a7807ed27',
-    '118d36b4-8898-4188-9f8d-6ddfe7b150dc',
+    'bb394ba9-265c-4905-a965-027a17f8554e',
+    'cb30938b-9713-430d-9538-55279abb0a86',
     'ÐšÑƒÐ²ÐµÐ¹Ñ‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4844a791-a64c-47be-9f58-0a0b6d91d8e8',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    'd55f574d-1ca9-4699-a07b-c2355c1dedf6',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'Kosovo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2a1a8fc-1a97-4fa3-b9a8-8db222a10e88',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '5aee31a8-0a1f-45a4-a76a-5280169b6d1d',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'Republic of Kosovo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c82e785-5a97-4739-967b-15b063a3efb0',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    'ec12580d-c5db-4039-8c2f-aa29900b0cc5',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'Kos.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b37ee5ef-8c94-44f9-9a1b-6bbcfdcc172b',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    '4939d85c-ae3b-4542-87df-b434a143c8d1',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'ÙƒÙˆØ³ÙˆÙÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dc71e171-9073-4ec8-95e4-ce2eddc66857',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    'dcf43ff3-5175-4b23-a0f5-003c287d196c',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'ç§‘ç´¢æ²ƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01ec39ee-0850-4625-8eaa-d4269b57df6a',
-    '58220c54-0688-472c-b5f7-02b5d426ca58',
+    'e7b717b5-db18-4afb-9629-efc1eb6e0eb5',
+    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
     'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾ÑÐ¾Ð²Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '149f3d4d-5e10-4979-a538-aa7895b23ef3',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'f210abb3-1d56-4ab3-ae67-0d82be33a148',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'Kiribati',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '59a1a915-5fb5-45b7-b050-327756162d82',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '373b688d-c853-40d0-9496-7bdc1f05a7f4',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'Republic of Kiribati',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'df9426e5-5d9e-4d35-af8b-6b6cc9d1b9b9',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'd7676b94-ca83-4273-8005-0f72cbcb1d6f',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'Kir.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33838a4f-675b-473e-926e-e604a0f95e76',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '351c289c-16c6-4046-89d0-313fecfe35c5',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'ÙƒÙŠØ±ÙŠØ¨Ø§ØªÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7c16df63-d8cc-45d8-8220-567e370a49bb',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    '3ed15586-b19f-4000-8327-072f102da469',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'åŸºé‡Œå·´æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b175672d-19e9-4af1-bd61-600bb54f9829',
-    'ea5407dd-306c-40aa-8438-c63d2bdc70b9',
+    'e6092823-b396-4c59-97a7-b8e81e026419',
+    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
     'ÐšÐ¸Ñ€Ð¸Ð±Ð°Ñ‚Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a434c9fb-1463-4d9f-b47c-46bf4f88b2a1',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    'e1640094-4014-43e1-983e-5adde9549d9e',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'Kenya',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f3d8f05-6bd9-4269-bcb7-3b46da1ac3e0',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '1d0c922e-6a03-4884-92b9-3ac01cdfb223',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'Republic of Kenya',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fa7a9711-cb86-4f49-a16d-e96c11b311b7',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '05307735-e3a8-4c72-a441-20d7dbc2ae7a',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'Ken.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78877bec-1d1f-4d58-8863-a12c03a707f3',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '7ba542c1-619b-4238-bc3c-24b82279bc18',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'ÙƒÙŠÙ†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f51cf113-a69b-4474-9cf0-8dc8ab7d0fe2',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '92c4072a-ac7d-4ee2-83d9-8c0a4ea15804',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'Kenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fe9df80-facc-4f79-b487-6e2cf0b373e0',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '3656385b-47bf-46c8-9cb2-30084f3cef0b',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'è‚¯å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '17a66826-ef8a-4b16-9368-96cc272e12d9',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '81a4cd76-dd8f-47a2-a344-92ea7fcc1881',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'ÐšÐµÐ½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a6373b83-eabb-409f-8efd-4235179ce569',
-    'f33645db-fc42-4cf7-a48d-785183ae76c1',
+    '3303a1f2-283c-4dfc-b076-43edee4f5d1f',
+    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
     'QuÃ©nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6c63a591-873b-400d-a247-c356f9f83f74',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '85ed92d7-656f-4ca6-b570-8c10d25cfcd5',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'Kazakhstan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9283e5a5-cc47-4874-8b38-349168877dcb',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'c4d17d96-1345-4e0d-b890-c623bf36845b',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'Republic of Kazakhstan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec437e35-6acc-441f-b5e1-c49f52bb3137',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '93e08449-0a30-4976-8440-b2da11e38569',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'Kaz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b06d118-9865-4613-bc33-afe43deccab8',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'b79f7a24-6aad-4760-b6e6-24444e71e91f',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'ÙƒØ§Ø²Ø§Ø®Ø³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84fc3494-30db-48a1-8890-27c46bcd68dd',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '037ec04c-fbb4-4dbe-be08-f0d8d7b7c650',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'Kasachstan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '81e1437a-ee38-4766-aa89-176165084a7b',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'a8223c70-15f4-45cf-9fd2-7d12e57e866b',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'KazajistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ec6222c-5d1c-4944-88b0-6533435f25e9',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '43c9545a-3bbf-4384-9de6-d294c81f3664',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'å“ˆè¨å…‹æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '69bc0cd0-cc73-4c04-8b23-0ec9625c770a',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    '75c09ef9-8002-45bf-b7af-468750a8801e',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8f18f7fa-2492-4e1d-a149-79021c764e45',
-    '29174852-3f89-4849-a384-7e1d20fd22f3',
+    'fc0a3e2d-86a7-4758-b7af-9e792c563bf0',
+    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
     'CazaquistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2b2c9943-d002-467b-83bd-9f4274a48ba9',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'de9610f2-62e6-4bc1-9e62-a9ebfc344e18',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Jordan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f73eb52-a6b0-4993-b0aa-180de7ddb215',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '21ec9902-bf7f-4dab-a31b-d426cc56f979',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Hashemite Kingdom of Jordan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa417e65-7fcf-443e-b51d-1f9d62cafdd5',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'd25bf00b-ca11-403f-946b-023fc05f0dbf',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Jord.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6ef777dc-7c5f-413b-a767-aeb4ff054a5c',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'b673ac6a-22d3-452d-ace2-7719cd2f770f',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Ø§Ù„Ø£Ø±Ø¯Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '90028275-7b2f-4e05-b809-9036f5a9e7dc',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    'bee4509f-52f0-4b72-bee8-d69bd723d5c4',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Jordanien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cdbe8c8c-34ec-4fa1-aa3f-8cb9e757baad',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '6941eb9c-3701-4c2d-98dd-3235e0be1b17',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Jordania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd97d54ad-47aa-4214-b130-7da9d69b4f39',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '59b5a623-6b22-4c4b-868f-35fd49fd69fd',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Jordanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5b7fea55-7977-417d-aa3a-2bbc3e3514b8',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '52e3fd38-5ddf-4a6f-a54f-35ad0307b437',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'çº¦æ—¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '83a10166-a66a-4f4f-99d5-88837fc08eaf',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '1b616c08-4da3-4d5b-b063-5d2277b57cc7',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'Ð˜Ð¾Ñ€Ð´Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '510c68dd-f856-4620-bd95-064e125b7f13',
-    'c03ab89c-c9f5-465b-9e4d-51483137ab6a',
+    '82d3f678-4b57-4ca8-af2f-00b7b2ca8fac',
+    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
     'JordÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '37e19536-bcb8-43e4-9a68-a1db1ee47ad4',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'c2cecfc6-6a63-4d20-8701-137001343852',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'Japan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21390c10-77c5-4e6c-83ad-5730c3c029ec',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'fe8be743-1311-432b-b40b-364487ebcbdb',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'Ø§Ù„ÙŠØ§Ø¨Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d956ffd-4c77-4aff-aaa5-7f270ab4f202',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '74b70a35-5f99-4ad9-b6ff-7af06a2bb179',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'JapÃ³n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a3918d4e-3727-4e95-9f9d-0a0436ecf6c1',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '81489535-ccbf-4cba-bddc-efbca750fe3e',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'Japon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1242383-2edb-4051-b538-9efac6725a6c',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'a1fbf00c-3ad0-4c58-af83-ecac7a4acbf3',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'æ—¥æœ¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1a9fd370-bd97-4c50-915b-7c0aa0a7feef',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    '2149da02-ce79-4ec0-8c11-7270125a3673',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'Ð¯Ð¿Ð¾Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ba382c47-93ba-4321-8067-bfa51449a31a',
-    '5471f972-4358-4b1f-a660-ab54062e4c0d',
+    'e851f2a3-0774-48e3-b65d-6333fd2fe27d',
+    '66be26e1-896e-4b99-953c-f7e77f2e2174',
     'JapÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa35d7c9-b046-4591-925a-43aea6009a9c',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'cf2afb34-d835-492a-a00f-21df8026e5b8',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'Jamaica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4cdfb74f-f267-47ce-bedc-8170247be669',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'cc724473-4c20-4577-b6cd-e16ce1475fb8',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'Jam.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '847b322d-7966-4b7e-87c8-386f15d6cef4',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '16b06ae4-d897-4496-9c91-cc3b22360b1f',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'Ø¬Ø§Ù…Ø§ÙŠÙƒØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70ab0be1-3ad5-4a64-bb2c-037181ef72db',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'c8541ecd-c512-4c04-b731-37865c833b98',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'Jamaika',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be702a64-5ff7-4846-9b11-58e3a273baff',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '60f4a90a-1abf-42a7-81de-49c464b42d99',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'JamaÃ¯que',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8225d728-e893-45e4-9499-e7151aa9148e',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    '469506af-1021-4205-b7d7-7b2a1d18ee9a',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'ç‰™ä¹°åŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f568460c-6d6a-45f2-bf7f-2787e81b4d72',
-    'c35f34de-1bf4-4a7d-bd54-7b94f5e41819',
+    'c39ded74-f511-4b24-a029-5b656754a3d4',
+    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
     'Ð¯Ð¼Ð°Ð¹ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a61450ef-7616-4124-914b-4c88aafef28a',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '6bb7b77c-e490-42d5-aa13-3ad4378c3f2f',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Italy',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6107f2c0-5f91-4cff-a25b-1da5a0b4fdad',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '6f633357-a908-418b-8ed2-d658e7431d63',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Italian Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2f21c7c9-32b8-42eb-a5aa-132e6be2ed2b',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'afaaf7d1-6435-465c-acb6-13564d506ba8',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Ø¥ÙŠØ·Ø§Ù„ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f6b0fc8-c8e4-4c4b-8762-8854be2ef9eb',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'd93b060a-10c9-4334-ac5b-dde5e2585b1a',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Italien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ecb36542-7a38-4b49-925f-fdb95ea28440',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '57afbf12-0d56-469c-887a-8f6d8583758b',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Italia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bb1fa061-d957-4565-9e29-3d5a8a88ade7',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '663fe16e-66f5-4373-a4e4-64cb5d214140',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Italie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '541d034e-be7e-490e-b28b-0f71ca34ed3c',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    'a63a8f46-1b91-4d08-b9ae-8619a4168586',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'æ„å¤§åˆ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d1f9f58-e7e9-4673-825f-1e54b756c65e',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '12b5960a-8035-4d84-8b8a-5c6e7db87160',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'Ð˜Ñ‚Ð°Ð»Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c315e60a-e838-41b9-834d-bd98c26dd8a1',
-    '7f468b61-66de-4e07-af46-085e07ee7512',
+    '15bb847c-e2ec-453f-8cb4-64cfc73a8123',
+    '1f52cc5a-0993-4f54-ba12-8715450208aa',
     'ItÃ¡lia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '62b5d757-adf7-41cd-a088-dd35b54c4d4e',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'c2bb24f8-cad6-4252-b4c4-e684bfb9a8fe',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'Israel',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '36d719a0-62b3-4b37-a77b-31a7a5f852d3',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'a259e34b-bdc4-4807-80f8-2a47593f7596',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'State of Israel',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1735cb0d-5fd4-42dd-a3eb-1ec840f99405',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '3d74da53-c163-4aa3-a3c3-1e9a13a4719a',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'Isr.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9cb5fe12-d284-4c1c-bfd3-7e0dbb06cbe8',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    'a2d28ce5-be4e-458b-a5d2-58b2fab9293e',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'Ø¥Ø³Ø±Ø§Ø¦ÙŠÙ„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3be18fd2-e197-4815-9c53-357ae3e89578',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '721bced3-7778-441b-881f-6bad742e0c42',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'IsraÃ«l',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '81fe9df5-abfa-44c5-b3de-7d312d24bd71',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '1218d017-b6bc-45a3-8419-6ca23bd6f7c3',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'ä»¥è‰²åˆ—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '75b6247d-40ed-4036-bd2d-df92ae55cca4',
-    '282b41f2-b081-45db-8216-303a8082e2db',
+    '838b3da2-6070-431d-a2e6-02c6bb8a9c9a',
+    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
     'Ð˜Ð·Ñ€Ð°Ð¸Ð»ÑŒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cf5a2d0-59da-4258-aae2-9b13f419e850',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '8e30b190-e87e-40ef-bafa-d7ae6d214ace',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'Palestine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b5e46a5-b89e-449f-9c48-5a5d9822a805',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '8cfe428f-dc3c-4486-b9a6-1ac996f80002',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'West Bank and Gaza',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '77bd6f53-55fc-4cf4-a655-7bb11f53a861',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '20a1a456-fa20-45af-8507-ce18ab2b7033',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'Israel',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ae897d4d-4214-49f1-984a-e56c761ec604',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '1f68777a-20ae-4f56-a7df-ea0001148f94',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'Pal.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2399ebc1-199c-4a70-a7d9-a5448f693a48',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '355466d0-adf9-43a5-9853-3e5a81a1e69e',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'ÙÙ„Ø³Ø·ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0d563e13-68b6-44ab-806d-26c1be7bb3ea',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '96ca3658-ad7c-4917-82ba-439536ac92ac',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'PalÃ¤stina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6ca963f6-a713-42ae-ad61-5e4e514731d3',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '58ac3b2a-09d7-4780-8a66-94d765cf697c',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'Palestina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b1c87f28-2374-4db3-9a91-468841e640e1',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    '0595f2fe-1f25-4ae4-98a1-2e1ec91add3c',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'å·´å‹’æ–¯å¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c4cc9c5-455a-4550-a5b7-ea1fc2a4721b',
-    'e1caaf54-183e-4633-a83d-3ce08867d936',
+    'd73bc91c-cc06-4371-abf1-bfd3f51c8db7',
+    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
     'ÐŸÐ°Ð»ÐµÑÑ‚Ð¸Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd82fdaf3-040f-48fc-a024-8aea274703e2',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '4ff824f9-8e19-4c40-8114-3257a3beb7a1',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Ireland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c50e0928-a2d9-42c2-996b-6391b77efa24',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'cb7372b1-26ca-4287-a74d-cf30b40ed0e3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Ire.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '41377dce-b721-45a2-99be-297fb16fb8d3',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '589fe14e-f305-4f1d-8d6e-6339df9815f2',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø£ÙŠØ±Ù„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '74ccae74-c0b3-4bc5-8599-bbf2a4e33817',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '886828b4-eeff-422e-b3f4-5bcead9cd13d',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Irland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f644065c-7c41-4313-9679-3d8beec826c7',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '9a3415d5-b417-47da-a09b-c9c0e4ae2fe3',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Irlanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26cd1491-dd31-433c-9da1-83c64af1e290',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '36cf6d4c-2db8-4d07-bbf7-d9677b314980',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Irlande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26884108-2673-4156-a941-2eda5213cfa8',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '43e6f963-d25e-4c6f-afc7-02901e52d930',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'çˆ±å°”å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33446559-8c97-4017-b586-a6ba27371980',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    'c81f1635-50bb-44a6-aa8f-f7e6d001f00f',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'Ð˜Ñ€Ð»Ð°Ð½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '889a3cf0-a298-4949-9687-a9e2c02e858e',
-    '57121741-7fc4-4de0-ade5-73732b3108b8',
+    '14128db5-6fc8-4928-b551-939ea4c241a8',
+    'df56ece6-fc42-4e00-a189-93d58e9849ad',
     'RepÃºblica da Irlanda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26a224a9-dfa7-46a1-9dee-2af36b00e183',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '0578c8c8-aac6-4120-b75c-35690fa86d01',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Iraq',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a2eb8df2-13e5-4613-94a2-e5bc938a330b',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    'dd87d3f1-39f2-40df-b19e-ae3fda481b20',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Republic of Iraq',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ffccca5-5cfe-48a2-842f-c4c5931bc8e2',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '0d108198-be87-4a64-8762-6e70b207c5c5',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Ø§Ù„Ø¹Ø±Ø§Ù‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1be7eae4-938e-4351-98fb-bcaf84b90c07',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '3f86d242-9684-40d6-ac10-69b234239f5e',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Irak',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0e4ff1a8-0a39-49df-9fdb-d3ae38a5e9b8',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '533eae46-254c-465d-bbbe-78088ade06a4',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'ä¼Šæ‹‰å…‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0009558a-ea8a-4c13-8d04-4376fbee3acd',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '4cdb6d69-9e8d-4bfe-885a-3bf5e1d2b44b',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Ð˜Ñ€Ð°Ðº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f1622ad-5e3a-4232-8f4b-b4cc1f610262',
-    '608df761-157c-4542-9613-9cd61641d34f',
+    '576040cc-c72a-4909-9816-43f3d89fe8c3',
+    '1d7d3579-8168-42b9-a23c-da818ed32c61',
     'Iraque',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff0b0d7b-e24a-4d9a-8628-a0951f30e377',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'c055eb1c-f69d-46e1-82a0-b84786dc6352',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'Iran',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a509489c-fb6b-40f3-bdf4-1fa81bb9e8c1',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '29374237-8140-44b7-9a49-9da48a6cd00a',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'Islamic Republic of Iran',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c9b155e8-af62-45d5-8bc0-dae0c91dbc79',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '28ff07ea-768b-4437-b556-e009232738ef',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'Ø¥ÙŠØ±Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3230a01b-77bf-40f6-9ac4-4fc5df9e0cf6',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '136c6ec1-3821-4ed0-bc5b-0ca6a600c3d4',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'IrÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '853067cf-6f02-4ab0-abda-087d1b596419',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '8291b4cc-b3b9-42c0-a5d3-00c886e619a7',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'ä¼Šæœ—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '74d4dd8b-2198-4beb-a4f8-d415ebe3453f',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    'cd370ea6-5852-42dc-964a-596ddab8f595',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'Ð˜Ñ€Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6139cb15-e10f-4c82-97d8-2e7a7add4c94',
-    '442b7c6d-79b4-4d0a-b4a5-f767b7871608',
+    '94d3d7a7-0f5f-4da9-89c1-1f4681b83d4a',
+    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
     'IrÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd7cbc37f-9211-4fb6-a1c6-a3658b63afc1',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '2f074d5c-fb4e-4e16-9ab5-99e001b6aa7d',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Indonesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6e27c0a-577a-425c-a78a-b5fba4be7b70',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '64174855-2e75-4201-bdb2-2e4693c936b7',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Republic of Indonesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c9a4a123-ccfc-4497-8286-26160683533b',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '1c8f8e15-26bb-4e39-910d-6f3f74bb2024',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Indo.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '248c4d07-c538-4ef6-aa73-9356e55d7364',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'cd59e5a3-c232-4af5-bee1-b285e5dbdc7b',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Ø¥Ù†Ø¯ÙˆÙ†ÙŠØ³ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c4cda81-618d-499c-98ee-f77e93e407b6',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'f9d59fc0-4b10-4bf4-8567-87d3e4596b42',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Indonesien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '02236e32-75c1-4d6f-a3ef-56629cc2a287',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '138183ff-8d8e-44d9-8841-0252c0af660f',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'IndonÃ©sie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '85473ed1-32c4-4e82-9e5f-9ab6de0781c8',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '3d197fb8-7728-405a-99da-cd5292efc5d8',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'å°åº¦å°¼è¥¿äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2a897556-aae6-4efd-917c-8c44ebb45f59',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    '5a2133cb-bc31-4493-9393-9dbd4f30ccd6',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'Ð˜Ð½Ð´Ð¾Ð½ÐµÐ·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b81910ee-9afc-4793-ac6a-6ab36ad5aee0',
-    '75a2092c-db9a-43e6-bdb5-a62f84b2b7f3',
+    'ebf6c426-c3f8-487a-a711-d8414fcef84a',
+    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
     'IndonÃ©sia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '35ad0b79-1495-423e-bf78-3a57f1c61933',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '9deaa82a-0e8d-4e3c-a1c8-61a1d524d984',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'India',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f14d226c-721a-4375-b92d-d0233c1b23e5',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '70d61fe7-9da0-4cdd-b125-12d99bbc788e',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Republic of India',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a9c46a89-53b9-454d-822a-f91514fac0e8',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '0a45ee26-b244-4910-937b-f7bdb7f4a072',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Ø§Ù„Ù‡Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4da975e9-3d8e-474a-9a9e-1c08e43977ad',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '297dab97-eac3-4ae8-a0db-cee7aa0f6ea8',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Indien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3ee36e36-be95-4e69-8a16-53d7eab48c92',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    '1f1bce3b-845f-4e06-9763-c3c70bc6a188',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Inde',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c4fc2647-55a1-4092-8776-b5c141456e16',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'f8668490-1ed4-4e9d-946e-aed0b3d192bc',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'å°åº¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '63a71dbc-f8dd-455a-87e0-12e36face26c',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'c40e7a30-c2d0-45ef-91f9-6b0f1cafc78d',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Ð˜Ð½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '57551c54-4ba7-4a96-866c-dac53d6ad073',
-    '1571e521-af6f-4db6-b932-7fad4784d02e',
+    'edeea20b-3f05-409e-91e5-ecb4437c1997',
+    '047ea4e5-4081-4752-97df-76118889e7e3',
     'Ãndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e0338930-764f-4d5a-8512-ba54ce385382',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'f28c9954-4e48-48d5-adbc-595d609ce371',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Iceland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'db4e3605-983e-4fdd-a7f3-cdbdb96c726b',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '331510d8-cf58-4a0c-98ed-f7e0db070f91',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Republic of Iceland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '32da0d6b-0efc-4c55-b216-2abb4b4facc6',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'e2844f08-5ef4-4004-adc2-df3b90f7bc79',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Ø¢ÙŠØ³Ù„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '76c36554-00c2-4900-8c9b-84dd809cf55e',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'e38d3fb2-cd01-429e-a6bc-2c4a424fe2ec',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Island',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '835274bb-fe45-4a40-a9df-e36852493d2c',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '1b4662da-b5a5-4a06-bb95-f56ae6dc0be2',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Islandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a5bad57-ede2-4ca3-9ec5-f9cd9787d0f1',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '07e29131-4661-48d0-a43d-1ebc97a2d24a',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Islande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ee4ef784-cae9-4395-a237-c1a48ef50b00',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    '145f73c8-3b2f-4a64-9a7e-571770544533',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'å†°å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af04a708-2266-4975-aaad-d65d5a4d22ec',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'b5ead773-3722-4559-b1bf-8ab6b69c7743',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'Ð˜ÑÐ»Ð°Ð½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8e29268-4651-447b-a184-2faca20946a5',
-    'c6a18276-e762-45f2-9ac1-185e7154e202',
+    'fc11fde4-9983-468c-8d7a-aa16822ac278',
+    'a12d5743-de14-4488-82d1-dbf9741304ed',
     'IslÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ec16ed02-1a65-4766-9242-f1bc68b701b1',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '2a66d81d-4f15-4d84-813b-3ccfbb806c0a',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Hungary',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '590a8e3e-1cdb-41cd-aed2-612499955d77',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '3f2a86d4-ecd0-430e-90d3-48fddcde2235',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Republic of Hungary',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cbdf8640-3aa9-410e-9d9a-e847b9a31d28',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '6e1daeef-8aa2-46ef-bc39-acf933438e9a',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Hun.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a80741fa-a477-4683-bbf3-86b65d58c752',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '005fee73-0a76-45bd-8353-ea78f99eaf73',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Ø§Ù„Ù…Ø¬Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '28e1bb75-bff6-447d-a6d4-ed2aa57e24e5',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '03a5fecf-2e2e-4f56-96c8-fe60d50ded21',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Ungarn',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '18f42c45-bf76-4ec1-aa01-1790a5b8c062',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '27b8c0af-7f11-44d7-9521-5b1256143c5c',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'HungrÃ­a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e7eb031-992a-41e9-9c0c-51af110d3465',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '77197427-4186-40df-9c73-1b0329478057',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Hongrie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c62e58df-1238-49c5-974a-737f4727f6d9',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '5e153d01-38f2-44b5-bef6-41c1550c28a6',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'åŒˆç‰™åˆ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fd34ce0e-1daa-4957-a9c4-5e2aa6a9f4e9',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    'c3588eea-2c17-4052-a81e-f227040ce118',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Ð’ÐµÐ½Ð³Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd29a35c2-0bec-43c0-9686-e65c31735df2',
-    'd5afd05d-3704-440e-a94b-18e5f1d33bad',
+    '83afa4b6-d409-4922-be4e-24ec2236acb0',
+    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
     'Hungria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a55bf74a-8f33-4ab7-abd1-183470200050',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '476c48f8-b289-4d24-9d81-6671d50c423a',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'Honduras',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c75147ca-84ba-4ebd-a509-9a8e27f732d9',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'bf4cf5e4-c470-4050-90cf-67b3ebded73e',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'Republic of Honduras',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5b75947-8717-42ff-960a-454bad1d8c0b',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '92d5f823-949f-49ea-9588-5040527910f9',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'Hond.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd6c48e77-e55c-42af-a02d-c8e69f58c07c',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'd1653b28-5ca6-4202-9b28-84e07db60baa',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'Ù‡Ù†Ø¯ÙˆØ±Ø§Ø³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b1d3a5f-9271-49ff-a51f-aa92d540a27c',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    '59407f3a-2e47-4c84-8fa1-1e2354c82156',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'æ´ªéƒ½æ‹‰æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '478e3a51-51ee-4e4c-a1ee-760abc77485f',
-    'ffd22c37-0e5f-49b6-92bd-847090471af3',
+    'b7ce761f-cbca-4e2e-b586-95a1423ce037',
+    'c43c7612-dd13-4cf1-8458-6694c82aa951',
     'Ð“Ð¾Ð½Ð´ÑƒÑ€Ð°Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2a85fbfe-8f27-4b1b-870d-0b863fd5eabc',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'fa78a3dd-9e9a-45cb-a85c-e731519833c6',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'Haiti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f652cf7f-c78e-4ef4-a449-069a8338f3b1',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    'c61a3f96-6564-4937-8fd9-e39759e6e772',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'Republic of Haiti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '30f487c3-03e4-4710-adff-5132c43bf235',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '26d452ce-9e93-4767-958e-75946b2f161f',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'Ù‡Ø§ÙŠØªÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dfa285e4-9de6-46ec-bbc1-12007f108aae',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '9d703297-25c4-4f10-b412-32fb507b70c4',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'HaitÃ­',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e24f32ec-5aa5-49e3-a089-8008761bfab6',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '9ae54cee-0ffb-4ac1-968d-e19a00adf54b',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'HaÃ¯ti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fd936734-c236-40ef-81e3-2957d157c1b8',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '7e9e550f-e135-401f-9ce4-7da18e72fe2e',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'æµ·åœ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8157c06c-2d40-4bfd-a932-fd79a91600b9',
-    '4186f739-e685-495f-b1bb-2748798f98bd',
+    '54b45aeb-a6c2-47e7-bff9-6ecb13dcc989',
+    'a87be68d-c59a-4063-94d4-c60680613b2c',
     'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð“Ð°Ð¸Ñ‚Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ed0823e-0440-41bf-95b7-2df31d235546',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'fb5c1976-8b38-4b6c-a2d5-b03cf03eb885',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'Guyana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '19cb9430-94a9-44a1-9189-c31ce575577b',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '58ca493e-f92b-470a-804a-cbcdb3fecfd2',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'Co-operative Republic of Guyana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01878acd-6005-4279-81d9-276c62fab193',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '3298423b-4872-4d40-a18f-e73f9eab1f59',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'Guy.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c817c8d0-01f0-4fa9-875e-87a2f642eaf1',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'c173e34a-c91f-4f26-9184-88ae5c66c469',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'ØºÙŠØ§Ù†Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4d88f567-aa59-4169-b3cc-50163b2b4655',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'd1a41eaf-8a6a-4c14-b6ba-4e54b52adcb2',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'åœ­äºšé‚£',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e377e185-1b97-4372-8384-5233a9569406',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    'ecd1098f-5a89-4a23-9df1-8b816c303557',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'Ð“Ð°Ð¹Ð°Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f96a760a-063d-459a-b97f-c2c3156076e9',
-    'a8ceb848-c874-4fff-879c-c30e8389280e',
+    '71b399a6-c372-4a0d-8cb5-7ce7b3117428',
+    '15b93aee-d997-405b-962d-eb6b5822efae',
     'Guiana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '31e9c157-c811-41bc-8013-1df32cc8c86b',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '56303a77-6736-4e46-aefd-adf04427a1ac',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'Guinea-Bissau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5acc140-fea8-46df-a1b6-9a57b21e1a86',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '4d663e26-38f5-4b67-9248-b13a482f50a1',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'Republic of Guinea-Bissau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9b7fc136-d63f-4bbb-85ed-952b60c70bcb',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '6c2cbdc8-5c78-47b8-8eaa-ae096f67572d',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'GnB.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a89c66a4-5647-49a8-ab91-ac1770dafec1',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '1c8795d2-a356-4a9b-8edb-01fece4d7a67',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'ØºÙŠÙ†ÙŠØ§ Ø¨ÙŠØ³Ø§Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff495fcc-bea4-45ab-97a7-eb937112b9d1',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '8e3687dc-7bb4-4fa4-a4a5-35a8e21ce0a3',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'Guinea-BisÃ¡u',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a97e8f6c-b273-465f-b774-ad70cd0fce07',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '6fb40c15-19f1-4c5d-af5b-1178d0efbe15',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'GuinÃ©e-Bissau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e69d784-6bda-406c-90b4-722564231f98',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '2e3b7a68-bd9e-483f-8ac9-277d255301cd',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'å‡ å†…äºšæ¯”ç»',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'befeef26-e889-4b00-a6e5-082feb9d2cd0',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    'fcea76ab-53bd-4781-8cf0-fe75256414e6',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'Ð“Ð²Ð¸Ð½ÐµÑ-Ð‘Ð¸ÑÐ°Ñƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd110b13c-f244-43ed-8fbc-f4c5b458f8b2',
-    '596f5f59-fd58-436c-8cc0-2ab65d294344',
+    '7fd71d1d-fbf5-48f0-8cae-999811116516',
+    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
     'GuinÃ©-Bissau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2f9c8adb-964a-4844-999f-409ef565af87',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'f25033a5-2488-4624-83ab-608bb71d7c8c',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd116624-b243-444e-a55f-6ed074c9f0ae',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '84e4ae44-ee19-4127-b0b9-270fd41b1179',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'Republic of Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9eaa216d-b82d-4705-9745-b69fd927c7e4',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '08b776ce-a3a7-4881-98a5-03d4aac6114b',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'Gin.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7977a461-7b86-4c0d-ac50-094951c3cb67',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'b3cc8dce-401c-4a57-bce6-ebd312c9863e',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'ØºÙŠÙ†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6261a401-feb5-4eb0-bf9d-04ae8f3815a6',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '371e0e41-ac65-4d8e-a69b-d33033baf8cd',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'GuinÃ©e',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f586ac9f-e4e7-4252-8c18-9b5f3d2258c7',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'b04d6bd8-5407-4a25-809d-8bb0786c5dba',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'å‡ å†…äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '107b8b75-a204-4328-8305-60259d87177c',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    '2e46b101-fefa-4180-b227-de57aee39184',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'Ð“Ð²Ð¸Ð½ÐµÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a83fb215-3c19-4ce5-b3fa-e41a38336406',
-    'e79ca6d2-5966-4515-b36f-e217fa5a934a',
+    'fec2aa58-06b8-4d81-a9a7-accc29b379ae',
+    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
     'GuinÃ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '596f315b-ed91-4e0a-b335-dafed19b08d4',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '1ee29d69-6b4f-45f1-b7c7-0964c675dd8b',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'Guatemala',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4157d1cc-13d5-42a2-afc8-c35c604a1021',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '266ff444-1d8f-4347-8668-41331c1b4dd0',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'Republic of Guatemala',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '18021a5e-edc4-48e2-acbf-16eb57fa4854',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'd38b471a-41e7-4865-9215-254cefa92501',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'Guat.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9819607d-5e25-4ddd-89b5-b05fe0e72edf',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '6b06a752-da93-4e76-a783-2b4c79d2ca26',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'ØºÙˆØ§ØªÙŠÙ…Ø§Ù„Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b89139d3-cf17-47c6-ba5c-40934d0f5c77',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    'f77f0eb7-5ebd-45e8-93f1-96c0deff0e5e',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'å±åœ°é©¬æ‹‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d927364-21fa-461a-bca3-62962b569f35',
-    '6ad30ccc-762f-40fb-902e-ad2fc057d311',
+    '3a230747-aa50-406e-b591-89b7d4e83a09',
+    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
     'Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c9071a11-05a6-4d06-aad1-dc2819a6958d',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'af714b32-5717-49cb-b8ec-61c995c5a42f',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'Grenada',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c81eee7c-e3df-42b7-8e11-8096e6f89b1f',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '1ab0e955-fe2d-41f2-8352-a5e8fdce096b',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'Gren.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '341134e0-943e-4626-abf9-b6d70c2d0f16',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '56b75f3a-a236-4e7b-96b5-bf0ae795bd4a',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'ØºØ±ÙŠÙ†Ø§Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80b508a5-e4c9-49ad-a3da-8decd9a374ca',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'bacfe302-8c1e-4426-93d0-6e248418c3eb',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'Granada',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3df359d7-b0c9-4472-b5ab-bbf8521919fd',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'e10c2b24-b4cf-426f-a845-e5f843e9b009',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'Grenade',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ed470b0-731f-434e-9b2a-977f8d591913',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    'ac4ef27a-43d9-4604-ab58-ee6f10030102',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'æ ¼æž—çº³è¾¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5aaf745c-8c96-406f-b404-a43a396e3b9c',
-    'dc826cca-26dc-4936-8c0b-f1723f014ea2',
+    '65246d22-3a8f-49ff-9ba0-b0a65a48b789',
+    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
     'Ð“Ñ€ÐµÐ½Ð°Ð´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '73ac186a-4eb8-4ca2-b7b4-c433c623be4c',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '344910c8-c9c1-40f9-b1b3-176cc4a2c0a8',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Greece',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '971fbf95-e1a9-45c1-8bca-7890d61c3118',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '421ddca3-dbf5-40bc-aca0-040cf1080201',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Hellenic Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '60cfe611-3ef0-4f23-a6d0-1c9a1ff26b11',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '45607665-0b7b-434a-915c-1392c0dcbced',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Ø§Ù„ÙŠÙˆÙ†Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '748ccc8c-f960-437f-a16a-39353e2d599a',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '698eab22-5165-466d-bbbf-37eac2525f99',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Griechenland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fcfa5bdf-f60b-492c-8c83-026a370a4bd9',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '9d000213-5ad7-4023-98ec-d1684993917a',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Grecia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5226fe7-5cb6-4454-82ac-d9c08dc2c650',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '0a0a07e3-2749-4402-bb51-d0366b2203fa',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'GrÃ¨ce',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cb195484-d7ee-4779-93ff-20af62d3016e',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '54d49bde-8496-4667-a6bc-8ec8623ae8db',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'å¸Œè…Š',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '45a3acaf-3dd7-4d1b-81ee-5b2f0967309b',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '7cb783c9-2573-4022-a279-6b894cee3f4a',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'Ð“Ñ€ÐµÑ†Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '23db4959-7c96-41af-9a6d-ab18a333af6d',
-    '91262d46-fda2-44ad-8d8b-8baf7c3ea318',
+    '4ac0b26b-6560-4438-b91d-6572e6b84396',
+    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
     'GrÃ©cia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4d60905-4e4c-464a-ac76-04e255fd2a65',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'd94dbd5d-d9b9-4f46-be95-d9ebfe4e4f15',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'Ghana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65a32061-043a-4019-be15-cff7aa5d9055',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    'fb7e6c02-29e5-4215-99ce-611538ed5b01',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'Republic of Ghana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cb75127f-58ee-45b6-b42e-06bbfdd49fb1',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '576bb44f-82a7-4c27-acec-4bfdbd94c55b',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'ØºØ§Ù†Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6f9c571f-f437-4af7-9302-bbcfc7077b58',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '35543c87-e1c3-4f7c-9f59-24d2f548f80a',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'åŠ çº³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3574d251-43e7-4a4d-9edd-2441de16ab5d',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '5b9b5644-e242-4e0d-a810-4bb72b7db233',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'Ð“Ð°Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0a569fb5-7288-4432-aeac-41f6c1665cd8',
-    '29d0c8af-9173-43c9-8632-5fb7349b4f27',
+    '6525651f-07a9-49b7-8cc6-7c031812d68f',
+    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
     'Gana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08edd754-ef90-43d0-8ea9-0b10d1ffab3c',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '1337a1f3-92c9-4604-b739-0e6a5993cd7a',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Germany',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '71c07f6a-1467-4ebf-ac52-793ca6715df8',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'bf36240b-4ee7-4a54-8266-135cca6a613b',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Federal Republic of Germany',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '123f7da5-e91b-49d3-9532-80ece5b94b1c',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'c9ae82f3-a3e8-4f28-ad51-222da8d9f525',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Ger.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '41e4ba49-8430-4f01-9fa4-da72c91ca452',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '1275409c-7282-44eb-9b90-8dbb60fa6cf1',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Ø£Ù„Ù…Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e606fa9e-fd58-4b02-a895-428f18fc51fe',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '2bb6980b-a421-4299-bc65-98ded74528dd',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Deutschland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd1dabdc1-6638-488f-bd47-c6495ab5d849',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'cd330e8a-e97e-4015-bc30-e8fa9bc7019c',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Alemania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0498a60d-f5d1-493a-84f4-ad56ed5061cc',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    '37e93e23-e9ca-4fcf-9ab3-33bc8fe32737',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Allemagne',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e644e89a-906d-48b6-bd0b-89a998b77f04',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'cc98cb94-56a4-4dff-b8bf-83d6ca3ce272',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'å¾·å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2daca0e-9916-4d26-92b0-45c458775ad6',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'd151d4c0-9f16-4a3e-b491-c1b81df7e474',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Ð“ÐµÑ€Ð¼Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ec552da-1d77-42c0-8a12-24466e2ca2d1',
-    '8d6c198e-193b-479a-bd8f-f0c458d905ca',
+    'effd9b66-d297-4502-8c46-cf0098714d9b',
+    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
     'Alemanha',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97485417-e1c9-4793-ad01-0917dd8c8ab9',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '39fdca3e-555b-4566-8561-e9a60527a85e',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'Georgia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '57bc9481-7be7-4efb-902b-a1ecdda51717',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '6bd350ca-b9eb-4d0f-b41e-79ab0cf87978',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'Geo.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'eeaedc79-c7d4-46f1-9704-9d3feef6fb39',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'aa58afd6-a20f-47d4-8bad-f04d78044c94',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'Ø¬ÙˆØ±Ø¬ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'edb3617c-6746-4be9-a6cd-4961330bc9f6',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '89bbbfc6-b67e-4fd5-bc41-4634e65a218e',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'Georgien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4db7d302-c733-4468-ad88-5a139e035ccd',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'ff0cf7c5-97e7-483b-b2e2-906b49085f7e',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'GÃ©orgie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5df31050-d06f-467e-ad02-034801a3a299',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '0414b2dd-60f2-42bb-82eb-80a95e257faf',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'æ ¼é²å‰äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab524bbd-dd98-4ae3-9e28-fa4768cdf883',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    '2be77035-0d7e-45b7-8542-d3fe6f11ce90',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'Ð“Ñ€ÑƒÐ·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '549b7f4a-28a2-4ba1-bdcc-400b7a7576e4',
-    'eeec6175-9c08-4404-9512-cd8e9404b260',
+    'd3539af9-39a9-4b89-9644-6a91aac5b43c',
+    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
     'GeÃ³rgia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6ddf4975-1a62-43b6-8f51-6fccf969efad',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '9d196c7f-ae04-475f-af3b-2def54004aa0',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'Gambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'deba9965-7e65-4218-b2d3-f7ba2deb87d9',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '83526372-6c61-4a77-8e7c-963a7180fd04',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'The Gambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2fcc4c1-0272-4aa8-8cdc-8be3dc9d46c5',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '3fe0b0fb-edc0-47ac-a51c-a9d6b0ee4d90',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'Republic of the Gambia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '308585cc-18a2-4054-837a-807080809f42',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'a42e9003-e7d6-4234-a9e4-e613dac6f754',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'ØºØ§Ù…Ø¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a1241e5b-fabf-4f56-a837-4c145b6115e1',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '498cf0ad-299c-4934-95fe-0c0ac32d6112',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'Gambie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26920cc9-c6ce-44d1-bc9c-02c3b6e3c1d1',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'd0b7ec4b-5668-4944-b881-169425e8bc69',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'å†ˆæ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8130799e-e87b-4c18-9ae2-62ec2d1dc240',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    '6e7183c8-f35e-4bb5-ba55-fd0f2fe8cbea',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'Ð“Ð°Ð¼Ð±Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4dddf9c9-0ab4-42bb-b614-0fa56d710336',
-    'f9c39de0-62f1-486f-b4ff-f30b91bc7497',
+    'b79868ea-3e55-40d6-a687-bf4dd67f2e8e',
+    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
     'GÃ¢mbia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5916f580-a36b-4181-be4e-f9917c784b5e',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '254a149d-37db-4149-9717-d38f0168ba28',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'Gabon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9d83d53-a4b9-4e9a-b363-1be4dcf436ff',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'd90877a4-e9f7-4603-b2e3-715d50cbd0fa',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'Gabonese Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1be7c754-7ad5-4cc4-86d5-95d72eb6316a',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '1e8da550-d974-424e-abe3-cb25287eecf1',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'Ø§Ù„ØºØ§Ø¨ÙˆÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa723077-befd-42ba-a62e-d1fc9219be3d',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '9522924d-078d-443e-9421-63c6ae5719bb',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'Gabun',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d40d332-8175-4fcf-b5b0-acca2135da39',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    'bbb379d2-348a-406c-b0af-f59b6b7f066c',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'GabÃ³n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8750ef2d-931a-428c-aee4-0945dcfe00c3',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '8e580f0b-06c0-4b83-9089-e6c7f21ee10e',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'åŠ è“¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7163847d-73e9-4863-afaa-6c3dc8d7a302',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '8b09c75f-dea5-4e67-b058-f5f66846d6be',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'Ð“Ð°Ð±Ð¾Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d3de4a2-523d-4246-ab82-a074632c02d9',
-    '4f6e0070-4b5e-443a-a7f5-de645ce4dc60',
+    '5083b0fb-5e37-42de-9ae0-ad74977ad137',
+    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
     'GabÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab939976-e7c2-4ade-aedd-d36232b2d4eb',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '87a45150-c006-44ae-8164-222a9fe0ed85',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '16e569d0-3e21-4782-8b1e-129f182399a8',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'e57300eb-7993-456c-90ab-6f293e2e30a0',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'French Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '857aeab5-b403-4adc-9c3b-dc6cbf8ef851',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'feddc321-9b11-46ab-869b-a325e499a3b4',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'Fr.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e534862-6dcd-4736-8185-e7709852df05',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '303c4bb7-e5bc-45e2-b98d-31cdd6d253ad',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'ÙØ±Ù†Ø³Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '243167c0-7217-49ca-b330-45820f2d55af',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '52e32b5c-37cf-4737-b7be-875addb5bed2',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'Frankreich',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '88e46b34-16a9-493c-844b-7e1be3c06999',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '1b8f0bcf-b95b-4f78-953c-896af533596f',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'Francia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '997841c7-ac51-4ec4-8388-03be8fcd2db5',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '6a7fa241-79a8-487d-b822-25f7dd559c5b',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'æ³•å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d697d8d-24d0-4adc-b788-d3d9e36805b5',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    '307e518e-ac88-41c3-a70d-5a19295ed88a',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c7a4fabc-f9ce-48b7-a061-112fb2b3107a',
-    '640220f5-5a24-4a62-a352-6d364d05d7af',
+    'e2f44285-bc8e-41f1-9747-c19952058ea5',
+    '91632709-9746-43b0-ada9-582a010c4046',
     'FranÃ§a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '986b12c8-efaf-4b5e-a128-73dfd1239b08',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '4d9eb5cf-a7a3-4aa3-a8c8-05765b0be9d6',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'St. Pierre and Miquelon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '55f6dc35-91e0-4460-8407-587ce1467c88',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '907da387-391f-44b7-910c-975bf687a332',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Saint Pierre and Miquelon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6a2f1826-be4a-48dc-93c4-78bf7110fdb6',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'cd62aaaa-011a-4cfb-a3cc-9f944c4c3dfc',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e1e183f-69e6-4b88-ae55-16218ed1772d',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '172a9a86-1daa-4480-9d27-111ef99807c7',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'St. P.M.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61fd79cb-e362-4eac-8a2c-f7c04b5758be',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '9ff964e3-9187-49fd-b893-aa5da2ce13ef',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Ø³Ø§Ù† Ø¨ÙŠÙŠØ± ÙˆÙ…ÙŠÙƒÙ„ÙˆÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd392cdb8-c989-4744-b65a-de5432fd640f',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'db4c1ab3-74df-4e7d-abb0-a9291c5ad84a',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Saint-Pierre und Miquelon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '85a0a879-f61a-4917-9f66-9e272872f926',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '2269500c-fc90-4e5b-822e-31853a24f611',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'San Pedro y MiquelÃ³n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f8cb9647-5c46-41f7-934c-333311fecce4',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '3192bd7b-ce2b-479c-b6a7-0b077edb584e',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Saint-Pierre-et-Miquelon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd412c7c-c212-4c2e-8462-cacabb4f4216',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    '2873adb5-4d1e-42e6-ab5f-f28081e1753c',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'åœ£çš®åŸƒå°”å’Œå¯†å…‹éš†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0c2023ef-2efc-4dcb-a2b6-2162b6d42e8e',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'b0f8e414-381a-4787-9e34-1287d22a2a80',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Ð¡ÐµÐ½-ÐŸÑŒÐµÑ€ Ð¸ ÐœÐ¸ÐºÐµÐ»Ð¾Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9224ab96-c37e-4a7b-bf22-ae9c0b5a5ed0',
-    'a8ade175-3a61-44f1-a056-f93d87c467ed',
+    'ea420a81-46ac-48bd-807d-3436075018f0',
+    'a4f89c50-c845-41c7-ad67-a462853c3022',
     'Saint-Pierre e Miquelon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '966a1fb4-638e-4589-ae3d-372417a29cbc',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'd621298c-62d5-42c3-9222-9097e5f79ea9',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis and Futuna Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '671e3cc2-32df-413b-b5fc-823efbddf032',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '3c1d1de4-f1ab-43db-b90b-4726ca80600e',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis and Futuna Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5bcc293c-a220-484d-8091-1500a401dc2a',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '5da1a683-62cb-4c6e-b862-ad195e3e7860',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis and Futuna',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a6764bda-a411-425a-8a3f-f8b1de689c36',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'cf5d8d61-ecbf-4a28-806b-c6eeeb185aaa',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84709c83-297a-4c33-83ed-2ae061051a42',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '1440b3d1-6cf3-427f-a6f3-beb58ee74f03',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wlf.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2f621407-8653-4d25-85dd-19c6a60d9d46',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'bacdbdf9-da09-4e37-afe7-ebd8abae6ca8',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'ÙˆØ§Ù„ÙŠØ³ ÙˆÙÙˆØªÙˆÙ†Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'da9da836-9ec7-4d3b-9266-95a92e8e6fbc',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '13357363-6d2e-47d8-9519-0cac0979e75c',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis und Futuna',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1585a334-50e5-4674-8e05-ecde1e6b627c',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '89e60a1d-fac1-4869-a5d6-f72af010b646',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis y Futuna',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8934c75d-17cf-4efa-94b4-b819f921c3b1',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    'eb32ddfb-cf3a-44ac-ab66-914a3b4588a3',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis-et-Futuna',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1a2337d7-2694-4692-93f5-228d293695e7',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '2514af25-e497-4467-9756-984eb827316e',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'ç“¦åˆ©æ–¯å’Œå¯Œå›¾çº³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '04578d58-01a4-46f2-b896-3f1c29e64926',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '540173fe-9dd2-4638-9636-abc6d2ce624e',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Ð£Ð¾Ð»Ð»Ð¸Ñ Ð¸ Ð¤ÑƒÑ‚ÑƒÐ½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '29bb4459-0d09-464e-a2bc-e0d04c9ef49e',
-    '0aa471aa-f359-41e2-9456-e5921d2555e2',
+    '1b8236fd-049b-4b62-bfb2-81664413e099',
+    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
     'Wallis e Futuna',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d2426e1-0111-4841-a116-a563978b1080',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '0bcf9ce6-4d20-42a6-9495-27f7b9835b78',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'St-Martin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3c5adbcc-def1-4430-989c-3ae806495871',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '65779460-b5ba-4dd8-b9db-5fb8e2da60c2',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'Saint-Martin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be0f51f3-bcb4-479b-a669-63e660151d7f',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '9c7dab7e-c079-491d-a057-ed7f90f05af0',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'Saint-Martin (French part)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b7e0a011-05c5-4eab-a21a-c72da318bffe',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '9a087e31-3fe1-4ed2-a140-1c40ad04d452',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'Saint Martin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '128c7139-5149-49dd-8501-cceaf2c80080',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    'babab982-0f66-411e-a171-933f31371f3c',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8e2ee25b-5175-43e3-85c4-c88d55138771',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '0977858b-d264-468c-923b-4ddc40d1b626',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'St. M.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fad39cf-2f59-48cd-a830-5aede5ea7cb8',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '77dfb893-39f3-48af-8fde-df370016c34c',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'ØªØ¬Ù…Ø¹ Ø³Ø§Ù† Ù…Ø§Ø±ØªÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5936f572-1c34-40c4-a75e-772c009f92cf',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '8e9b757f-9078-46e2-8c5f-5aa0c98ac432',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'San MartÃ­n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ab5cdee-994d-4f32-88a3-44d98630e281',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '69eee537-2034-4281-9035-ea644fdfd64b',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'æ³•å±žåœ£é©¬ä¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6fa5cd60-a1c3-4d19-9462-702c293ddb5b',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '274e7e0a-4588-4c61-b2bc-864fc18036ea',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'Ð¡ÐµÐ½-ÐœÐ°Ñ€Ñ‚ÐµÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c7a6fa5-f702-45df-8822-278443e7c1fc',
-    '44aded8d-04d8-438e-ab2f-0a927496f3c3',
+    '7764ec00-0248-4df9-b86e-c0a82eb9b290',
+    '4863e793-83ba-4546-a770-6d04c5c97516',
     'SÃ£o Martinho',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bbadf566-746c-46f7-a246-23f070ddd7d9',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'c5ba0c01-84db-47a9-99c4-9015c13b0a21',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'St-BarthÃ©lemy',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca9bfeeb-d389-48a3-a46e-28a8fae85d18',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'f18c467d-405e-454d-a3b8-db1ce3bba03f',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'Saint-BarthÃ©lemy',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '306d5752-f0e5-4eac-8c0e-f0756f62c7a0',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '20ae265a-2e16-4b2c-b373-6b47f47fbfd9',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'Saint Barthelemy',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9dcaf66-267a-4c10-8031-5ba84d0a90e4',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '7ccdf911-3802-4f44-8226-17233a1c4731',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f349de1c-a69b-4e49-9161-c59edd2422c6',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '65b746e8-c7ed-43cd-bb63-05d6679a476f',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'St. B.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cd712f60-3a3d-4183-bc35-5817f57f5040',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '5f477e3b-664a-48f1-858e-0bb477367904',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'Ø³Ø§Ù† Ø¨Ø§Ø±ØªÙŠÙ„Ù…ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b964688-f3d7-43aa-b374-d15d5149d8ea',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'd99961bd-4fb5-4580-abdd-25337d05a0c7',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'San BartolomÃ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '589a6b84-365f-4bd4-af4f-88f009beff5e',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    '349abbec-593f-457d-8780-a0834300c692',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'åœ£å·´æ³°å‹’ç±³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'eb09da09-9a12-4230-b0e1-e97d2dfde4f7',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'bbd1f4e7-8f8d-4527-b701-46f20d504102',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'Ð¡ÐµÐ½-Ð‘Ð°Ñ€Ñ‚ÐµÐ»ÐµÐ¼Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'da6d8243-5805-4766-8f94-b0fd0f8d283a',
-    '548122f6-01cf-4a55-8cbe-7f4aab6d79b8',
+    'a0809cab-2e0d-4fec-833a-3b038c5ca5cd',
+    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
     'Coletividade de SÃ£o Bartolomeu',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0ff5a176-9220-4a40-80f2-420f984ca755',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '25654026-abdb-489b-a1a6-7c78aa215af0',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'Fr. Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67992956-fd73-4bdd-8122-fe26c776f2b8',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '3d391747-050a-4870-bccd-ca78356e5502',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'French Polynesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e944b2e9-ef08-49e5-9914-de0d0cf0519d',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '1ccd6c96-273d-4411-8ae5-ca60931ed563',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6fe796bc-dbd2-4877-9bbe-63cb1f2ffe5c',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '6abe3f89-3f92-41d0-b507-0342800d7d0d',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'Fr. Poly.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f470dee-4018-4911-aec7-eef3282cb811',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '728109af-3a77-4566-b4fb-56a4740c12b7',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'Ø¨ÙˆÙ„ÙŠÙ†Ø²ÙŠØ§ Ø§Ù„ÙØ±Ù†Ø³ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4a69b5aa-1fb6-416f-9314-dc7f7ffb94ec',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '840ba649-ce94-42b3-ae55-8820f30942bc',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'FranzÃ¶sisch-Polynesien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ee543d4-6f5c-49d2-8c62-75a9395bdb1f',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '6cbb375d-2b2e-43ae-ade5-86dacab97260',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'Polinesia Francesa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '96dd073d-eb94-478b-a41a-64284123269d',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '35518c3e-46f3-43b4-8114-8f548f42dbbf',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'PolynÃ©sie franÃ§aise',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '831670ef-847b-413f-a1a7-c069934d4f81',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    'ae909b45-795a-41fe-b60e-ce43e919fe64',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'æ³•å±žæ³¢åˆ©å°¼è¥¿äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '88c05a06-cd7f-4dbf-bdcd-f7299d5e1c98',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '80c35621-8088-4eeb-a060-a81748e0e7a0',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'Ð¤Ñ€Ð°Ð½Ñ†ÑƒÐ·ÑÐºÐ°Ñ ÐŸÐ¾Ð»Ð¸Ð½ÐµÐ·Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3812d986-4479-4cfa-8164-77b3809031bd',
-    '83c8cf96-eb4b-4085-989b-92ad2571cef6',
+    '37c141e3-5117-4b8a-9b17-1ca449f7db38',
+    '79becc9c-7e60-4914-8509-e3fd1704cff6',
     'PolinÃ©sia Francesa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7db92104-7a3b-4d57-8c38-09eb5de56215',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '5ac25227-7dc1-4cfb-9393-a6316188ec53',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'New Caledonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80c4f0f7-54a3-42c4-854e-12c55ffc0c66',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '86d947e4-db0d-4a34-98f4-73d04692a42b',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'Nouvelle-CalÃ©donie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c2f9e6e-8f9f-40f8-9cd7-2a8a1bd333bb',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '42326e6d-7e60-4439-b3b4-351e8298274f',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68d4d6cf-e8d6-4f1e-b7a2-73299ead59cd',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '41b6c23c-b4ab-40f0-b75b-efee79d03b6e',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'New C.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '778fa479-1ac0-4c2e-bbb6-13da7c958062',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '2b95592b-5210-4e6e-8967-a893646195da',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'ÙƒØ§Ù„ÙŠØ¯ÙˆÙ†ÙŠØ§ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fb47b7e5-3237-490d-a886-077f3f77b3f1',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '1fada26e-7797-44fa-a203-7f0bcc3f3347',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'Neukaledonien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10983ec9-62d9-4440-8c4a-69252619cb9d',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'dec6f454-2f0c-466c-899f-b70a3121e738',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'Nueva Caledonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '47954200-c27b-4dad-bba5-8f373fee3add',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '8ac8ddd7-f69d-4683-9e1c-a4bc6f3ce31b',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'æ–°å–€é‡Œå¤šå°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92e91bc6-318f-4030-8964-f13c79e06624',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    '8f34930c-d1e8-4f6c-b659-7d698c87b763',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'ÐÐ¾Ð²Ð°Ñ ÐšÐ°Ð»ÐµÐ´Ð¾Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b88149e1-58e1-4a8a-9662-f0db58722578',
-    '948c6e7c-72a2-48a5-82da-043f480a49e9',
+    'eba03896-7b16-4902-a366-3de0debe03a9',
+    '2910bf80-420f-471f-affe-dd0e68687c02',
     'Nova CaledÃ³nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c3969fc0-e81e-4cc6-8b38-24ee8a94d8dd',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '69d95a14-6040-46b4-a583-4d96abf1d74c',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Fr. S. Antarctic Lands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'faa1a468-a181-4971-9102-ddd70659ca4b',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'af515c8a-9139-467c-a4b0-ac2087c0b21f',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'French Southern and Antarctic Lands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08d0c561-498a-4f80-b9ff-356e897937a4',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '003033a6-2e05-471f-88fa-6f08eebb0aa6',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Territory of the French Southern and Antarctic Lands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3248ea06-9f41-4f3e-90c7-c9dbb60e6085',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'af630954-d9cb-4e7d-ae3d-440cccbd2d70',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'France',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1a8e68c7-3bd0-495e-b1df-b87493fe9280',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'f911e22d-b27a-4253-9e9a-0f1f75aafdfb',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Fr. S.A.L.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd8351d12-2dac-4810-9f73-5b3cab5ffb49',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '1b784d9a-5513-4e8b-8ef4-d66dd33f8394',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Ø£Ø±Ø§Ø¶ ÙØ±Ù†Ø³ÙŠØ© Ø¬Ù†ÙˆØ¨ÙŠØ© ÙˆØ£Ù†ØªØ§Ø±ØªÙŠÙƒÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f00c982b-157b-4e05-a7b0-1a5f213a9f92',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '4dfa730e-8b09-40e2-aa57-c9f0ca68f3ce',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'FranzÃ¶sische SÃ¼d- und Antarktisgebiete',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c21d2fa3-7f65-4123-8af4-d8b2f53cfcef',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '546663d6-4deb-45bb-b7f0-973469af4ebb',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Tierras Australes y AntÃ¡rticas Francesas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'edc581d0-e4d2-4df9-be83-cf8f310d1393',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    'c326ebe7-ba9e-4216-8788-66d1e984b1ad',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Terres australes et antarctiques franÃ§aises',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1941f528-f308-4d00-9886-e1b71b7d838c',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '8eb8b2fd-058d-452e-acf0-8cda713ae9d3',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'æ³•å±žå—éƒ¨å’Œå—æžé¢†åœ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2fdbbef3-d6c4-4b1b-bece-7c5bbe034602',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '80d1fa16-c95c-4529-80b9-5f9c2120e500',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Ð¤Ñ€Ð°Ð½Ñ†ÑƒÐ·ÑÐºÐ¸Ðµ Ð®Ð¶Ð½Ñ‹Ðµ Ð¸ ÐÐ½Ñ‚Ð°Ñ€ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d36e924-b5d5-4d09-9bec-b64982260f24',
-    '4cd01671-8e42-4a89-a491-6c206035ca62',
+    '327458e3-e544-40ef-b4b5-c469762ebd50',
+    '46588e12-4c82-4026-8190-362cae0e06ea',
     'Terras Austrais e AntÃ¡rticas Francesas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9cbfa596-2a95-40d5-92ec-ef7bf75af159',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'c04221e7-ee86-4773-be2e-90704f132616',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'Ã…land',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e083feab-9f7f-4000-a75c-57898a1b95e6',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '82cbd5fa-1f5e-45ba-9d71-0fd64f6f40c1',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'Ã…land Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ca90527-29b9-4b1e-acc2-3a094e97259a',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    'f81d3877-046c-4e4e-a520-f9ba49d4fce6',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'Aland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c178c62-edaa-4ee3-a1ae-0d3c30842ab2',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '6ec4d4bd-74a2-4ff8-8dba-32e965eef6b3',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'Finland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8830eacc-e3a5-48a8-9384-3b614be8e4ad',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '7165e195-cfeb-4eeb-a8c9-881e7807d3b8',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'Ø¬Ø²Ø± Ø£ÙˆÙ„Ø§Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '187fe5d3-36b7-48e9-929c-e20633a364ff',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '4727e93e-0cb8-4a3b-9f34-e855a412755c',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'å¥¥å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6270376b-842a-40e8-9696-6ea10d308e21',
-    '24396f28-1cd8-4020-8203-8e37a348aa27',
+    '220b0037-904c-46c9-ac31-4e3d94ce6600',
+    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
     'ÐÐ»Ð°Ð½Ð´ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e9b69513-e36b-4292-a6f6-a2b9c1eb9e97',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'e3aa1689-b22d-47bc-8187-6a1fed12a070',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Finland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e367b29-cf6f-4932-bb0d-440443aca86b',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '6d496a31-dbf0-445b-89af-54b42f7bcb8d',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Republic of Finland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '499a371d-22c4-4089-8251-6b78097f87cb',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'd02b8540-990d-452c-87c8-cddbb2458879',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Fin.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e0013f4-ca96-4e92-9bf9-130adb56c18b',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '38c0a524-e932-4b74-a746-122cc1d45bb1',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'ÙÙ†Ù„Ù†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c5853abc-880d-4762-a2b8-7cf28194c2c1',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '2cd9c5d8-bd9c-41e4-a0b8-11d630e1e435',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Finnland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b02c9569-fe0c-4457-a84e-428fa03e4325',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '2a61a544-04ec-43ca-9888-f3815ead246a',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Finlandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1834b398-b245-4892-b94d-1deab394b62f',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'bfed5eb7-b3ca-45d7-b7a6-8551c28dfe8c',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Finlande',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a4961d9-9496-48f8-870d-3f39707b1a43',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'e8028350-780d-451e-a16c-e60529ef3239',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'èŠ¬å…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b89951a-75a1-4823-9962-2f7d5202fed7',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    '819dac53-f661-4bb4-8d56-bd1a54d3d321',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1a70cae1-c031-4844-8c94-f92172c58f24',
-    'aa370d5b-4bff-41d9-ab66-2d38882c78f1',
+    'fba38467-54a4-4cb4-a4ec-d8dcaf433463',
+    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
     'FinlÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f7f9167d-822b-4742-ba1e-73e4541a1b71',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '152ab701-33fa-4019-b395-0298357717bb',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Fiji',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e4159e56-3bcd-4019-8270-7d3630e7d5e6',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '93832562-bd8f-49d9-a41c-6c3f043de7d5',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Republic of Fiji',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8a510770-c905-46ab-b0ae-3c5dc3ae0d14',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    'aaf6f480-dbbb-44fc-8dad-4d1814539fdd',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'ÙÙŠØ¬ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd0f0074d-8b7e-4329-9707-755c9f836ef7',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '940612f7-ed1d-46cc-a224-f69edb9f95dd',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Fidschi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4fbceda-90fb-423a-9ef7-3cc2a37d34fa',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '39cbbda7-1093-4cc8-93a2-45bf888963cb',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Fiyi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aad6d0b5-0239-48ae-8e57-ae70dcd6a139',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '77f66bdc-b881-438f-a4a8-7474928ba9c9',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Fidji',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6757d31e-21db-4a1f-a51c-56a795d43ac6',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '55b2317c-8a0a-47e1-89b2-1dfee2109263',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'æ–æµŽ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4236b845-0c9d-4e17-9244-26e3cf2bd368',
-    '211f8231-a059-4c90-af36-1d33c21042aa',
+    '65347b88-1cf6-43d3-8090-d842a7f5bb5e',
+    '7e063ebf-32f7-48bf-b381-095a0e189b19',
     'Ð¤Ð¸Ð´Ð¶Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0a35465d-3e1c-44c6-b8a3-2787abab9751',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'dca63c62-1cb3-4b81-b5e9-c30d06a4e8bc',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Ethiopia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e76df125-feca-4d25-9b67-d66fcfc767d6',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '0c434b0d-a72c-4133-91d6-2e1f1f8399da',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Federal Democratic Republic of Ethiopia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e3ce0507-d9e3-4608-82cc-2955d2fbee80',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '7c8cc586-d150-4669-9bf5-d25770336ffd',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Eth.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '71e59981-f50b-4245-a712-63e0aa02d8ec',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '51bac894-18ff-4702-81e7-1e479e239d5d',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Ø¥Ø«ÙŠÙˆØ¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67d313ad-3d74-4ce8-a913-b5b11e3a7b1d',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'dfd27c1b-f9ee-4812-999e-5bc3a0a2ba2c',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Ã„thiopien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f87caf8e-cc15-42e5-8e06-2b3a7c880930',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    'ab56d3b6-7979-4c1d-a099-c725ea84430e',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'EtiopÃ­a',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e618ee1b-b817-405a-a40c-ca97dd3cc70a',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '11d6044a-dab3-4209-94e3-055dffb5f729',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Ã‰thiopie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '94d8a902-aacc-4da9-800d-9b3bdd1b2cc0',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '36b389a8-163b-439b-b7dd-1cd96d9d859c',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'åŸƒå¡žä¿„æ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '02eea762-361a-4adc-82ba-a50ec2c10b11',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '8d8e4704-f07c-4e4d-a033-5174a495ad11',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'Ð­Ñ„Ð¸Ð¾Ð¿Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e6b914d-b319-47c4-91e2-de49ec788e26',
-    '2866176e-2298-4b5e-a5a5-d7c12baa4f33',
+    '54b4c421-1cd7-4157-9838-f04bd3e0f27f',
+    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
     'EtiÃ³pia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '58e33b0c-4339-4966-94b4-972581452949',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'f1fc606e-4932-484d-b802-a3759a618799',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Estonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8fc4cbe6-21b5-4c28-a3a2-fe15569d42d4',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'c4cbcca9-d042-43d1-986b-b9ea972fc342',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Republic of Estonia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '510b0180-169f-42f6-9171-adeb0c7f7da1',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '0e751a18-38bd-4fd5-ac49-a04f8fb1868f',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Est.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e41fc580-8285-443c-9791-d2387d736975',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'ee1d2e5b-d30b-4e11-b47e-eeac3f769803',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Ø¥Ø³ØªÙˆÙ†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4245baf8-9d4d-499f-b778-6265653e6861',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '53da05c3-eada-47ab-96ca-8e6c483bee70',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Estland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e81ac51-b07d-4262-82e0-6ae1cbf036b3',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '506f3a59-9323-497f-8a0a-de9c2591d295',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Estonie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0b20da5f-f1bd-46f0-9b5c-508be827b778',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    '316d0b60-f77f-4beb-a41f-c170d85bafb7',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'çˆ±æ²™å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ca137fab-b86e-4928-a2e9-37e2403dc11d',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'abbe9522-8034-4076-b6aa-b1fee9304072',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'Ð­ÑÑ‚Ð¾Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2da90458-6f79-4d80-80c0-596d46a20034',
-    'acb8c8a2-ee1d-4a8d-bb99-8420fb33cc25',
+    'db0c1de1-c108-46ee-ab9d-948be20d90c3',
+    'd19eeb13-b09a-4369-8a99-969ac1bae090',
     'EstÃ³nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a811a618-2d42-455b-abaa-f6bc2073dfbc',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '12904f0e-a2c5-4182-868a-4fab4511ae0c',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Eritrea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a87d9258-2c2a-43ba-ac32-44a2d37e6b67',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'f37e916f-99ce-4b10-a816-fc8d71e70c8a',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'State of Eritrea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24f46b32-eef4-496e-b0d5-2f21e9a79d66',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'bad8d4f5-8370-4b59-8993-5a321844d9ea',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Erit.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6efa642b-efa4-44be-8dc7-55e7eea07359',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '927058c1-0114-4d38-8dd5-b5655227a349',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Ø¥Ø±ÙŠØªØ±ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ca29558-45ce-44b8-9c20-09c392c71d71',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'db0cb8e8-bfce-44e7-bc1d-45d2d543ad26',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Ã‰rythrÃ©e',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00f28aa2-2050-4049-b8af-655ad17a8738',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '469ca227-2f71-4290-b8e6-7ab81fb2b22d',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'åŽ„ç«‹ç‰¹é‡Œäºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e595af51-27f1-4193-b2ae-d816844dc450',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    '7a9f3a9a-9217-41a3-bd7a-b56004cc47ae',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Ð­Ñ€Ð¸Ñ‚Ñ€ÐµÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fc5ac52-e57f-4b8d-a684-5e7381bfbe77',
-    '0b5d38ff-64ca-4bdc-a8ad-8a529e4a64de',
+    'db9331ab-1f9f-4d61-a540-d6f21ffb2661',
+    'b7684993-d718-427c-bb99-2fa6296d420d',
     'Eritreia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '44ef470a-4245-4665-8eb9-5a4f27cd9b00',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '37482e6e-cf61-46e7-8a62-3d940c536c1c',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Eq. Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '311b7957-f0a9-4208-bf84-7f4c2da9d877',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '292eae94-67d3-420b-829c-afa2fb4a83a9',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Equatorial Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e1d19ee8-50f2-4d7e-8100-331a89dd9648',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '009b2e6f-8a89-4475-a366-a6fe3b3f62e6',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Republic of Equatorial Guinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '74d69635-dc94-4882-8d03-a9bb03f49a45',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '5e5057c0-6c66-46d9-a4fa-14809ceb5d34',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Eq. G.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '818b92ec-ade1-43fd-9a05-a3fbdab208eb',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '3b06b687-9342-48ce-944b-cf1222b8ccf6',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'ØºÙŠÙ†ÙŠØ§ Ø§Ù„Ø§Ø³ØªÙˆØ§Ø¦ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2d8d3bd-520a-44f0-b504-9d1aa78d4dc2',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '81fd5e62-9727-4a14-ab51-336bf2e00545',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Ã„quatorialguinea',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97b39ad8-20c8-46e8-9b44-bb35c00416a3',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '70196444-2d6b-40a4-a86d-1cde7016ac52',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Guinea Ecuatorial',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a391d936-0471-46ed-90cf-2a255bde7392',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '3c668480-28cb-40b7-8d94-e3546e498fa3',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'GuinÃ©e Ã©quatoriale',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8d52df7e-6fa3-497b-92da-ef5c750cdf84',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '6c174d6a-7eaa-4b0e-9a95-8f29bcf7f017',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'èµ¤é“å‡ å†…äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aa4d994f-71d1-490a-bba7-72c23e03bb98',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    '5968520e-ac2e-4da7-81e6-9e00b01ba2e4',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'Ð­ÐºÐ²Ð°Ñ‚Ð¾Ñ€Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ Ð“Ð²Ð¸Ð½ÐµÑ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '108d284c-b9b2-4190-873e-e5c5c982b6e4',
-    'ac8f0c9a-a6e8-4f0f-a244-21a4d570e830',
+    'bc7dc622-fa04-496b-9865-3ba6f2f6ee63',
+    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
     'GuinÃ© Equatorial',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78239d3a-a6b6-4219-9f07-d4c5a2acb5de',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'e5b2e2dc-55f2-4367-9770-3283188a0653',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'El Salvador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '799b6cbb-54c5-481e-9a8f-5ae9ef569815',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'a737fa51-6e4e-4f3b-8b96-d6c022403d90',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'Republic of El Salvador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd46229c6-6b7f-470d-9be9-67ad0369c243',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '1be6a5f5-5643-4dda-ae3e-18b71d99de89',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'El. S.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ae8aa83-d6b8-4b75-9844-863240dfe6d5',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '02867e27-738d-4452-a0cb-68bdf7b9ec01',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'Ø§Ù„Ø³Ù„ÙØ§Ø¯ÙˆØ±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '935731e8-794d-4e66-9afa-7ed63c4bacf3',
-    'e129430d-596b-4699-979e-ac624791db80',
+    'ca4a44e3-500d-44e1-a787-0895dbf24569',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'Salvador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9a24d69a-b9c1-4001-b3f4-b3ee6fc9f290',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '41971f12-a646-40cf-9aae-c96569e0a953',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'è¨å°”ç“¦å¤š',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8465c7a-0b07-45b0-9e9d-964a952b5260',
-    'e129430d-596b-4699-979e-ac624791db80',
+    '00f3d234-d60b-4e1c-8de2-0a419b1dd66b',
+    '452dc9d0-115d-4485-a475-6479dacac042',
     'Ð¡Ð°Ð»ÑŒÐ²Ð°Ð´Ð¾Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27aa082a-ac7b-425f-8e1b-68861d7a2013',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'b0c2c376-c4b6-48d8-89c1-5c8dd9b82dd2',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Egypt',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6107ab7-f3ce-4a32-8b36-dda0aff832a6',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '65a4474d-26a2-4286-92f1-f009644fca9b',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Arab Republic of Egypt',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '095aba77-842e-4ca5-9283-a4ba5e232480',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'cbedd95a-9307-4c03-9ca6-a8502089e91b',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Ù…ØµØ±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'adad525f-c962-4f23-adb8-f73dec3d1c41',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '536729f3-bc00-4c3a-842f-dd612083a340',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Ã„gypten',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0533f74c-0d5a-473f-92b3-d3b159d474ab',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '81c6d6c2-b8d5-4e30-9bb1-78921eab1344',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Egipto',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '07470457-81e6-49d4-8ec3-00498f591bbb',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'ffdc9b66-d831-4440-b6bd-a833e12e5a65',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Ã‰gypte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4351887a-5857-4ed8-967d-0e2c0fb94926',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    '8c634401-e318-472c-a374-0e2ac53cc412',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'åŸƒåŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7227d912-7237-48d9-88d1-e63e85bd8465',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'ffe9b5a8-7be0-4b5d-9c0d-c6bda6e88c22',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Ð•Ð³Ð¸Ð¿ÐµÑ‚',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7eaead54-4256-4825-a69d-8624a975ba68',
-    'ef462fe4-501b-4ead-aac9-e802a95766ce',
+    'ca611fb1-78d6-486d-bfd9-0bb5c4714a2c',
+    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
     'Egito',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7188f687-9242-48b1-8b5e-281604cef6ea',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '1ffe427e-c337-466e-b9f6-e4148206383d',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Ecuador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '45c1aaf1-2171-445a-a253-5df39cdade88',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '6add0777-b827-4374-ba18-b31447c02f4f',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Republic of Ecuador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b6758d6-7f7a-4f73-9580-9ef6811b3afd',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '5db189d9-88c9-46dd-83db-a0774e0319d8',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Ecu.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b54543a8-01d5-40f9-87f9-f105707a29c7',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    'ed423af5-fe9a-47a7-97f1-a623bd045c35',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Ø§Ù„Ø¥ÙƒÙˆØ§Ø¯ÙˆØ±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd8b6aae7-d7b7-4656-86a4-0b18a8034872',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '29908701-5768-4717-81c1-c050b9a73bd1',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Ã‰quateur',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '94ed2f1f-9671-45aa-95f2-c45a40c50ed8',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '2d43af17-cc2a-4d91-b7a9-db0817d07692',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'åŽ„ç“œå¤šå°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3ddbe1dd-a6e5-4079-853f-f54473414eb8',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '80dbcd30-db5f-4beb-9a8a-186d3ddb484e',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Ð­ÐºÐ²Ð°Ð´Ð¾Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '83543110-8108-422f-aac0-33bda8836d4c',
-    '07e23b48-c07a-4ddc-a155-3c0b365a2c6b',
+    '2082c378-7eb1-4817-979e-54edae659eec',
+    'f75eef91-40e5-43e1-9e66-17cf2753f622',
     'Equador',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3547e30c-3096-4feb-909f-be544bfca1a0',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '4e951f10-d32d-4ce2-81c7-542bd1735ce5',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Dominican Rep.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '899d90df-f165-4ea9-9c49-8be0660e1a69',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'c0c81108-15e6-4ea1-8b00-94f162e1b7d1',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Dominican Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ea683bd-9df6-47a4-aaca-319e5229ffac',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'c1990ef0-a1af-4022-874c-e31684f3bfa9',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Dom. Rep.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dcf2d673-c64b-4814-a50c-2dbd2c64c3c9',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '47c6acde-5b6c-4cef-8a31-ca5349d45f08',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„Ø¯ÙˆÙ…ÙŠÙ†ÙŠÙƒØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4b6a7347-b18c-4339-8beb-7bbd48288bbd',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'c5e0b656-63c6-4a73-9534-2426f9a045b5',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Dominikanische Republik',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '28732bc2-9179-48a3-8361-d9dea8d9bdde',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'b7026e6d-291b-4959-b3b8-631d1a99fb9c',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'RepÃºblica Dominicana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd4216210-6433-42ca-8837-1ba5a8114ab3',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '52db1e33-bf69-4235-b1e6-a43ae519432b',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'RÃ©publique dominicaine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7de411f5-8ba2-400e-8492-74cb8dde5a5e',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    '2eb2b2b4-8e56-4761-b024-7efdddd6659f',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'å¤šç±³å°¼åŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd86754b-9a44-4c9d-be9d-0f278ea77819',
-    'caccd3ed-0f75-465b-928f-115f5c1dc172',
+    'f54f52de-77be-4765-b920-94834df826b9',
+    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
     'Ð”Ð¾Ð¼Ð¸Ð½Ð¸ÐºÐ°Ð½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ea5cacd3-4196-4dc3-a63e-62dde25e283b',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'b6e605e0-75c8-4342-a67c-9f20d62751d4',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'Dominica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'de891468-0794-419f-b820-16f50611a983',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '38af17b2-30ec-45d9-b473-257bc1521b8b',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'Commonwealth of Dominica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e3f68d3-683f-4a32-ae62-ba705020988d',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '2597cc9e-07d7-4fbe-a2a5-148f73bcbcac',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'D''inca',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1f25ca4-9633-4ed1-8cea-395154329e36',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'ff339d31-1902-432d-97dd-d5d1b6b1ab07',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'Ø¯ÙˆÙ…ÙŠÙ†ÙŠÙƒØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '34f88922-eace-4568-901b-6ee8a4f18871',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    'c8abed3e-5022-4c1b-bf7f-fc0ef0b200c3',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'Dominique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70af847e-62f8-4439-b5c1-9ab9df9158f5',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '524ad74b-45d9-4608-bc81-ddb17d2a2970',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'å¤šç±³å°¼å…‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8a7c6bbe-5eef-4fe5-8c60-cdb1ad6dc0ea',
-    'b20934f4-798b-4aac-b742-f770644f0e30',
+    '7f4135c5-ef08-419c-b835-254526e1f321',
+    '328ef587-d640-4141-b992-8950c4a3df23',
     'Ð”Ð¾Ð¼Ð¸Ð½Ð¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '176ff3e4-b760-4b70-a913-bfb200b2acb6',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '63f4959c-2f8c-4ab2-8a70-ac2cda12e856',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Djibouti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50c9e3f5-ffd3-4ee1-95f5-93458dc460e9',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '6e8318b5-8065-4082-9184-8390a47b8b11',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Republic of Djibouti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b6e47b31-18c4-45d4-a916-2b6ea3f3849f',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '6674c29b-8c1d-4820-b0eb-acfdd4480db5',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Dji.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9872b497-cf17-4374-b6b8-03ba717d4517',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '3715a79f-c634-4692-b945-729b01566c92',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Ø¬ÙŠØ¨ÙˆØªÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4383a414-e1f7-46b8-a515-5b780c1ebe15',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    '1e29f673-1862-4c85-8259-c7f1c8cd3b78',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Dschibuti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c3ed0872-cf94-41e8-8698-b1bdf7252cb7',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'f09b5cc1-d7ea-4225-aa02-109a7a29d56d',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Yibuti',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6a4a93d5-9f88-4166-9338-53dcfbda4df9',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'dd499715-97f6-4b6e-84e8-b36f81462728',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'å‰å¸ƒæ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '16216aba-8212-4205-81ce-624cc7fe49ee',
-    'c1cf082f-4b21-456c-8953-f0587ddfe223',
+    'ea177b41-cbbe-4230-b578-585a72e8790f',
+    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
     'Ð”Ð¶Ð¸Ð±ÑƒÑ‚Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9743d8ba-e016-4d64-bb52-4310b4792119',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '3e0bc231-720b-4494-9d3e-19840b4586bd',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Greenland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '209e1fa4-90f5-4ef2-842d-8232a80b2afa',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '811947fe-9110-41d7-b9e3-866faa1cb69d',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Denmark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a1d4e41d-cc9d-45cd-874d-f28d687698e0',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '96037fd1-f891-4946-94d5-f2ca65084a69',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Grlnd.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af41342e-cc72-4770-bec8-632c7f19a8b0',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'c2b63a56-be90-4607-80d1-226fc7615be1',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Ø¬Ø±ÙŠÙ†Ù„Ø§Ù†Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0cc60a70-fdef-42cd-b941-6141b57dead6',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '96f6676b-a83f-46e4-8c68-9b0efd759610',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'GrÃ¶nland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c367478-7cc1-493f-a413-b173b3372fe8',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'f4f09eeb-ebbf-43d8-9a28-d50c393635c4',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Groenlandia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0ae556fa-b541-4a16-ad7c-a35cbf6edbbe',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '00596a36-c243-4603-93b3-a8d1051df34f',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Groenland',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c233eb79-ac2b-4537-bec1-e303f27028e8',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '5ef90dcd-2ca0-4062-9986-7a873b9371a7',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'æ ¼é™µå…°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3bb0e334-3bc9-4d8b-9a72-6f59b6b67e44',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    'e5f089bb-4d71-4d80-b689-8725510687ee',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'Ð“Ñ€ÐµÐ½Ð»Ð°Ð½Ð´Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '43333aa6-4c9d-48d7-9087-96565e0f68f4',
-    '82c64047-7389-416d-9682-0e8af079752b',
+    '34cfb00d-6ccd-4298-9420-762b3b4e9e13',
+    '09188e28-313b-4183-b459-a3c32f0e272c',
     'GroenlÃ¢ndia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f922cf6a-bd48-4db5-a0ad-58c4c1bcf9cd',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '1c4f279f-3afd-4b3c-83e3-568386bb51c0',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Faeroe Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'da5676de-3053-4c33-b348-966abb6c72ab',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '0109c639-ac0d-4402-9e16-fee244c1e579',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Faeroe Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ea93265-b4b9-4796-84cd-32fecd5d6603',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '04f2ca53-8fcd-4d42-b2ca-3d32c31d28c0',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'FÃ¸royar Is. (Faeroe Is.)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fbf69712-0621-49c7-a27c-5cd2aa102324',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'c8b41161-0df5-48ff-8a9c-3b792207fb10',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Faroe Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bfe4c83f-64a9-49d2-a5c0-03d660a2ce9f',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'd042a0d6-ae60-4b67-a8fe-0c8621d5fd6e',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Denmark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a0ea37d4-027e-413e-a7c9-180b1db40d64',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '016b72fd-fc1e-4c2b-b6a0-6a0e24de7c45',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Ø¬Ø²Ø± ÙØ§Ø±Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ba1ce09c-2442-4480-97bc-364ec2e2566f',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '42767d93-40f3-48d2-b6e2-0e355e82803a',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'FÃ¤rÃ¶er',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d49c40d-9e4e-4c94-a344-101e64a6b8c9',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    'f38b6689-b006-4780-8c8a-ed8d4fcc0c90',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Islas Feroe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d809eaa-54ff-496e-b449-bfae9cd36aad',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '469b0c74-f329-44d1-a5d4-39191399b396',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Ã®les FÃ©roÃ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '90a9e566-4b21-44fd-850b-35d2788aea44',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '003d07e1-cfac-4770-b9e4-90d2accb8766',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'æ³•ç½—ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '447c77d9-830b-4b7e-922a-d958341443a4',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '94cbc26e-410e-4277-b784-35f64b14e62c',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Ð¤Ð°Ñ€ÐµÑ€ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'be59216c-161d-4ffc-a561-7256e2361986',
-    'a8f38866-2f7c-463a-b4f4-519762b2c0f7',
+    '72da475b-edc9-4c30-abb5-1c152d597d9b',
+    'de52c916-b19b-41a2-9f6a-4c3034f90815',
     'Ilhas Feroe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e527cec-687d-4d95-be96-47a0024068a0',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'e4cfada3-8a9c-4b44-bd94-b391d58dc99a',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Denmark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c2c1f5a-e07d-4afb-82f3-a637b1ee1b65',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '9c968736-123c-4f68-ae41-5dc349ada94e',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Kingdom of Denmark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '52d333a7-4171-4134-b6ba-032188e4f2b5',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'dd4bbbf3-2cf8-42e4-ad27-ab35d31c87e8',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Den.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd1040de8-0a71-45a8-9a3e-2730d7d14193',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '98dd3b34-a43c-4f6c-805f-afe478e19fb0',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Ø§Ù„Ø¯Ù†Ù…Ø§Ø±Ùƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c30b5264-7160-47c3-85d3-a2eb4203e60c',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'e70ca1c3-b02b-4c2d-b35f-9bef84cb049d',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'DÃ¤nemark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0e727b66-cfcc-4caf-9d17-0f1d55c0c0f7',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'c818eba6-e82d-4224-98c2-01eb844e07e8',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Dinamarca',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '428ec67d-e987-464f-8f29-c4463741fb1b',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    '9e38f4e6-5edc-43d7-8c41-fdb786911ad5',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Danemark',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4428a5d-c596-44f8-aad1-0211af4d2f00',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'e3f60b03-ef04-4b2c-992a-f8a6a7b310a1',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'ä¸¹éº¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '55cf9816-a669-4472-b07c-817f9a577a84',
-    'b4ee8ae5-5c1f-464c-a974-7ff83f4431f8',
+    'd3259d20-c7af-4666-b31b-5163d649c616',
+    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
     'Ð”Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e20d2e67-c73d-405f-aff1-23c4ff6a2b07',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '408006ca-98bd-416b-9077-ece714085bb9',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Czechia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e1f7e324-6766-4700-8a65-82a4c1a416fb',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '7672faf2-b5e5-4d05-88a6-826cd063ee4b',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Czech Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '41172e94-a170-49a4-a0c6-84b2e1e31167',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '289099bf-d8f9-4010-8b7e-f3a46e2a5e69',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'la RÃ©publique tchÃ¨que',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '946c73fe-192b-4a4c-81e2-58bdb109d84f',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '4b80498b-4627-429e-bc84-776e23445f14',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Cz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '05695c42-4bb3-45c5-b426-83535dcd3290',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '8ceca508-c5d9-4ab8-857b-8effe4cb83cd',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Ø§Ù„ØªØ´ÙŠÙƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '38c0d1fb-d44b-4812-b016-8b91483a8110',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    'dafbcba8-1b0d-4ed2-9b41-e61ba784e3aa',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Tschechien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c0578621-5b32-4173-8c8e-b529091c4c23',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '6b0e9a79-ab10-475d-91a1-151e183c7c21',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'RepÃºblica Checa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd93a63f8-c0c8-418a-aa06-0e3c4b5dbcab',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '44739579-4e57-4ed2-adeb-7563393320d1',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'TchÃ©quie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '43d1559b-0a8a-44d9-9a78-c1ee15ca6b83',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '8a0621c4-a4a1-4d8c-93d3-828727999b90',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'æ·å…‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a8da5ff1-8de9-4e87-aadd-63bb70432bfe',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '91c00b5c-1de6-465d-970d-3e6bfbbeaa95',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'Ð§ÐµÑ…Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cd705a9-5ee4-47c0-84b1-36eb5c22e619',
-    '983c3b3d-00f0-4ae0-bafe-4a6c5641fd9d',
+    '53dd0bb8-a952-4397-816c-dea6c1f16d3e',
+    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
     'ChÃ©quia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '874f39a0-c2d6-4b4e-aab5-3e1eca6787c5',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '41eb8a8a-d9db-4042-b1ed-19a8ae57eb4e',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'N. Cyprus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c57fcdff-4709-46f7-9182-4a2135cc56e3',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'a51e1c5f-02d1-4e1b-80da-7e4518731d4e',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'Northern Cyprus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6473dbf3-0808-45e7-bb65-a335afa5b0c6',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'bf0e348e-03e0-4c2c-9e55-7541fbc0ee9d',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'Turkish Republic of Northern Cyprus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7efc2185-c3d6-478a-b2ae-1b7acec52135',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '9791498f-142c-41eb-920e-0783c5dbed87',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'N. Cy.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '540843e9-0ab5-4a57-8bd3-d57433be8653',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '4eb43d58-74ec-44a7-bdcc-b3b75c337c2d',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'Ù‚Ø¨Ø±Øµ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c6992c69-4faa-4e2a-82c8-74fee00c5e7c',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '8c3fe2e9-1644-428c-b59d-f0f7f0b0a20f',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'TÃ¼rkische Republik Nordzypern',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5eab223c-f953-437f-8d1c-ffebcaa05a9c',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'a8ddcaf3-4277-4058-b443-14ecc6558520',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'RepÃºblica Turca del Norte de Chipre',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97cc009c-fbab-4e3f-9b87-aaa02b27b9a2',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '24255b42-823d-4f87-98bb-dd71046220cc',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'Chypre du Nord',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84642e60-646b-4618-8399-79d7659c4444',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '59f33356-0a19-42db-b422-8c6739942a5c',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'åŒ—å¡žæµ¦è·¯æ–¯åœŸè€³å…¶å…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c05ed58a-7a87-4219-8748-2074276374d7',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    '0886635e-4424-4c3e-a397-f9acd0df1798',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'Ð¢ÑƒÑ€ÐµÑ†ÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¡ÐµÐ²ÐµÑ€Ð½Ð¾Ð³Ð¾ ÐšÐ¸Ð¿Ñ€Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd3e0be0a-789a-4978-a930-3853fb47d1a8',
-    '4e6c5733-40e6-48d5-9df6-e42d7d2c47df',
+    'cb5a155f-602a-4a7b-b4d4-ebd55e4ff4b8',
+    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
     'RepÃºblica Turca do Chipre do Norte',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d5f2f8a-6542-4dc7-8dc2-d87ad82a1686',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '75620413-59b7-438b-9107-52e1539b2691',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Cyprus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f1b8c397-ec8d-41b1-9608-654d9af32caa',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '5851593a-ada8-46f0-a44f-876602025fb9',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Republic of Cyprus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '07c32ca1-b345-40a5-8d6e-efab073c19fa',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '18afd581-2f77-473d-8481-0c69a4f55a96',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Cyp.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ddb0d06f-e917-4c99-9213-bcc58b29f1dc',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'aa5c6c32-48db-4301-be27-d186d6544d3f',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Ù‚Ø¨Ø±Øµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ed155205-aac0-4e85-b741-ecc0bc6aba74',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '04432acb-9dce-46f5-bedd-79b009c6be52',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Republik Zypern',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '26a0f737-c4f8-44ff-8ce0-a033a334f405',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'e0eb742c-f93f-4a92-b64f-265bb1ef0f3e',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Chipre',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c89babc0-e032-453c-9816-d04bac6740a9',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'ef1e70fe-0c36-4c9b-96b3-8109ad9a32eb',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'Chypre',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f20b9c62-67f8-40e7-9153-fc20ab579aed',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    'bbcabd84-0c5f-404f-9b2f-b60eec414e6d',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'å¡žæµ¦è·¯æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c4588384-0e27-4b70-8164-a55707a07fe6',
-    '4952803b-3269-4667-b307-1f2b1248fe61',
+    '88273fde-a648-47dd-93a0-4ea5a8ac27fc',
+    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
     'ÐšÐ¸Ð¿Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f13b781-ec34-405c-b38a-3f9873d86e97',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'b6cbf6b7-11d3-49de-8a77-1da867629361',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'Cuba',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '682e6e3f-d14e-47a1-887c-47599ad6aa05',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'ef8152b9-fc83-485e-aea0-b2cb9938a270',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'Republic of Cuba',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2b301325-0f31-40d0-8f65-568a8d517db4',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '050cd8e5-f427-4161-806e-3731fdccda9e',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'ÙƒÙˆØ¨Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1756f522-6337-4e74-9b82-c5e3e89fbd4f',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'a671d095-e3ab-45a6-9dc2-ae3de7670af6',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'Kuba',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '513a7ff0-cf20-4ec5-b0c1-47d7a72dbee9',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    '6df74223-5497-4559-986c-512f6f5c2cdf',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'å¤å·´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '336c83e2-7329-4a81-bde8-9b870e5eb7b3',
-    '2d63d28d-cf07-4744-aa1b-cc269abadfd0',
+    'df479e7a-24a2-4ca4-83ce-168db8cde7e2',
+    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
     'ÐšÑƒÐ±Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'acb7f29e-0a7e-4db4-9b9f-ee2caa38c140',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'ad4fe632-88a0-4ac8-8f86-ccce6ac3a804',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Croatia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '66ec9ea5-daa4-41c8-86e1-1f45cb6d577f',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '5f2747a3-9981-45de-a7e4-15b830c9cbe6',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Republic of Croatia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6a9be23a-e9c5-41d3-a765-6e196bc924bd',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '779a8103-9acb-4e3e-be7d-286023672ac8',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Cro.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6bcb3e3a-87a5-439e-b20d-42f908c38c78',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '77e0d36b-cf4f-4fc0-8a12-085ae05d23c7',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'ÙƒØ±ÙˆØ§ØªÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3806a689-66fe-4da6-adf3-2dee85f5d3e2',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '71d34d42-68cc-4dff-a108-2e22344095bc',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Kroatien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '096e2a47-4683-47f7-a9f9-a5dd3d640b29',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'ce07d7d7-f211-4bd6-8986-e5d12f858737',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Croacia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '462a39a9-be09-4613-baae-1df8c03a3362',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'fd3ed32a-e29a-44e2-8ab2-a4025e80011a',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Croatie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'db3752fa-4b15-4996-981b-5d85f5019947',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    'faef095b-0184-4707-9e5d-615ddea941b7',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'å…‹ç½—åœ°äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a429a903-dadc-430e-a870-c04214ab2f36',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '54e83291-a964-47cf-a72f-beaecff0e431',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'Ð¥Ð¾Ñ€Ð²Ð°Ñ‚Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ef3e7039-7bde-4eda-b052-8234681ef5c9',
-    '584f5dfa-8331-4a5e-9e61-4c19df05ea6f',
+    '6ff40a64-5490-42cd-bc13-99178a3383f9',
+    '8938246f-488f-4dae-8a08-0942525de05a',
     'CroÃ¡cia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd13c766e-e3d2-48e6-b046-bfadf3cb654f',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'edb2edd6-b1e8-4f29-a98c-5304bcc6ec0a',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'CÃ´te d''Ivoire',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7b7259e4-cb6c-4c1b-b2f2-dd76bbb79da8',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '840366a8-cd27-4cfa-a7cb-ac5dfdfb3262',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Republic of Ivory Coast',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2f552675-0583-444b-9019-681ec73e0e64',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'dde67804-5cdc-432e-98d3-6533ae939c60',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Republic of Cote D''Ivoire',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '48726255-a7f9-47ab-9381-71f88c5562f1',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'f15899c6-3a56-4455-a2c9-00b143e44f00',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Ivory Coast',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc18cad8-f7e4-405e-99a5-8ec372ab5a0f',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    'f067175f-2921-41b0-8071-17d5a4953540',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'I.C.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c7c01c7a-7361-4449-b1f9-b37f4e386a0a',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '9cb31c60-6873-43fe-af4c-7e733359ec34',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Ø³Ø§Ø­Ù„ Ø§Ù„Ø¹Ø§Ø¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'beb9f938-80fd-4546-8e10-8e4927941eb2',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '8b33b545-a2ca-4289-95e3-7eedc9871736',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'ElfenbeinkÃ¼ste',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5a934028-9eac-4484-a071-8bb9a48a64c7',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '8e319fc2-89e3-42cd-ac23-95c78ca0e867',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Costa de Marfil',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c971203d-53c9-45b3-9f6a-f062c2a50bdb',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '6bc6adf0-f081-44a8-ad89-2ee1d3013b20',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'ç§‘ç‰¹è¿ªç“¦',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '889db154-fbbb-4b2b-81d8-dc3d08bc630a',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '7714bbe7-ce6e-47a7-8c09-fafcf84ba7b1',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'ÐšÐ¾Ñ‚-Ð´â€™Ð˜Ð²ÑƒÐ°Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '82828bad-87d0-4cff-b698-4b8ce59a780b',
-    '30e01406-725d-418c-b8c9-336389ea828f',
+    '0d46d18c-a449-498d-ab68-b3b52342f1d7',
+    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
     'Costa do Marfim',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a93e3dfa-908e-4139-bddc-04c664f11bf1',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '29ea609e-f8cd-4f5e-b053-672b45e1a3d0',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'Costa Rica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '95f940b4-9359-446e-9697-86789b69f077',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '75211eba-079b-44f0-aff0-709b54ebb08f',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'Republic of Costa Rica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '260f0ba8-fb6d-489c-8fbf-2022d57f9dd6',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '995b0fe7-3b9c-4dd1-8e36-6a798057dcf6',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'C.R.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e51624e-a485-499a-ae90-c744ad8057a8',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '0fbf6757-43e7-491f-a649-947fd6a3f2a0',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'ÙƒÙˆØ³ØªØ§Ø±ÙŠÙƒØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1bf0712a-c991-4027-917b-b5da3afcc21d',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    '53dca958-74c9-4848-af64-d12b2adbdd57',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'å“¥æ–¯è¾¾é»ŽåŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3b5f863d-360d-4e12-b02b-3552de0d338a',
-    '9dc02e06-dbd7-4f64-9101-d38c442b7c38',
+    'edbe1405-5a4b-46a5-8b8a-f9934f8dac9b',
+    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
     'ÐšÐ¾ÑÑ‚Ð°-Ð Ð¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6198a47e-f215-41a2-84db-83ec4f831a49',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '1a66fc86-4231-4f4c-97ae-9077fedf1a5d',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'Dem. Rep. Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'db7efdfe-edc0-47a2-a90c-b06ed0771954',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'ca037a3a-4bb7-4856-81e9-2c672e6c6d7e',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'Democratic Republic of the Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab80dc41-c613-4485-87b8-03e700e401f1',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '3f7d3d55-3cdf-4ac9-9661-a74dfabd83d4',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'D.R.C.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8f2988ea-4c7e-4e37-9f47-4ff0d7391be1',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '34bafdbb-aa43-415e-ab36-3b1d69d0d463',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„ÙƒÙˆÙ†ØºÙˆ Ø§Ù„Ø¯ÙŠÙ…Ù‚Ø±Ø§Ø·ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d956ee7-c730-44cc-842d-b4697e725d04',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '476806c7-d7d6-4213-8d85-dfcdcae42d02',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'Demokratische Republik Kongo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10170a7f-bc90-4a1b-8b68-6f196ba58fe2',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '183986da-b267-4df5-a7f6-bc0283542292',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'RepÃºblica DemocrÃ¡tica del Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12d513e4-56ee-4d8e-8860-7e2fcab411c0',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    'a3dbb732-5ef6-4dd4-8387-0a22ffd770fd',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'RÃ©publique dÃ©mocratique du Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '54a320e3-b4f5-4423-8840-5ec0a7cfffed',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '44c16ceb-76f1-4ed5-9240-7b99a609e1e6',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'åˆšæžœæ°‘ä¸»å…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67130f9a-3519-4027-aba3-f2366952f285',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '2a148a57-2559-4029-9e3d-d92a78be1e62',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'Ð”ÐµÐ¼Ð¾ÐºÑ€Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ð½Ð³Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ebc748d2-a16d-46a5-9515-831d7d3ac4d0',
-    'b130b480-f8ef-4d34-9e98-3a9ad10ad5b5',
+    '505016ae-dcd8-4df0-af7e-46fcce205595',
+    'fa682643-3084-46d8-995a-9ace550c498f',
     'RepÃºblica DemocrÃ¡tica do Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f782264b-63ac-4998-8c3f-77b4a5c39fbe',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '7332c52b-b2a0-433b-adb7-b4ac4585d605',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '570f2da7-60ab-4e44-9f37-ada03fc0cc9f',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '33aeae9f-4b4b-4f98-8744-bb816c11a524',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Republic of the Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6398c033-e582-4aa6-ba79-6dac22220f37',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'fd196bf5-7379-4ba7-82fa-ccde4b8b6a9e',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Rep. Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6078a7d8-d37a-480f-9382-aeecba9cf735',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '3f127b2a-a872-42c4-a9fa-d44a999d22a1',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„ÙƒÙˆÙ†ØºÙˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2ede2f3b-0dbb-408f-8391-f83ab1ab1313',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '71d08bc8-c3ed-429c-a0e3-cc1834eb392b',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Republik Kongo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7d145725-aef5-43a1-9772-98c599994263',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'ea03df88-e4c6-43a6-a4e9-379f357d7367',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'RepÃºblica del Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e9ca4a3b-a440-4900-98b3-e589bdbe2d5f',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '6ebe6d3d-6fbc-4e01-960d-f537eaa2f8c0',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'RÃ©publique du Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '47dab865-ab39-4122-b87b-bdd66b02ed5f',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    'ddab1b22-f39f-4d9a-8172-262d6cabace1',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'åˆšæžœå…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ba851881-8aeb-489c-87c8-0161dde37270',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '5eb09f46-e721-4445-ac3d-9f766443160e',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ð½Ð³Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08656109-c174-42a9-a3a6-048d5ded2749',
-    '1f48aa7b-74e5-471d-80bf-89233fdb83d2',
+    '90642191-713a-47cc-ac2a-60f3112a7304',
+    '6de76f56-3ba9-4c75-b370-9336ada19593',
     'RepÃºblica do Congo',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '11e211e5-a411-4f61-96e4-dc50a41a5324',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'b95e409e-3852-46b5-919d-11af044c651d',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Comoros',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50b402c1-a2b1-47b5-84e5-fe28aed3d9ec',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '6221abdb-19b9-44f3-8a50-65f45a35a98a',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Union of the Comoros',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78494b2d-e881-40f8-9df7-138015f5386e',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '6efc8f73-82dc-4597-82fc-4450acd79c3e',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Com.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '514407b0-e62b-4887-8675-e77d5209b05b',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '9426f1ac-1294-427f-a219-85a91275a647',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Ø¬Ø²Ø± Ø§Ù„Ù‚Ù…Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8173f019-c6eb-4b8a-9cd9-26e1dd14cb99',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'fa81f0a7-05cb-4c50-8ad9-9f948887f232',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Komoren',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e72cb3b-9d12-4ccb-a755-bb2410da9abd',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '476148a6-5aee-4a3b-86a2-5f821a1eed93',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Comoras',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00952cef-11dc-410d-bffc-e22672485b89',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    '7f9c8971-82d8-4d59-ac6a-504999613c5b',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'Comores',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c87796f8-2286-4af1-95f6-7c96cc0e9203',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'e722a9fb-f06a-4c13-b71a-dcf10f84cc7b',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'ç§‘æ‘©ç½—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '30ceee4a-7fa9-4ba7-8550-600e95252c11',
-    '1739a1fb-855e-45fa-957f-43d39b51c797',
+    'e26fae39-21af-42b1-b5f0-ece2c0b7b191',
+    '0fcabe0e-a811-49f7-be55-3780970dafe4',
     'ÐšÐ¾Ð¼Ð¾Ñ€Ñ‹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a7d2eb15-fdf3-402c-8e03-0c84e813e4f2',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '755b29aa-3ce1-499c-b21a-fc9fda8a1686',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'Colombia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '581b36fa-391c-4c5a-8c6a-5442f424c5ca',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'b538317c-0034-4e6d-814f-0a48a9971f58',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'Republic of Colombia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e8f60d4-7839-4c3b-9b75-b3ccc2251e24',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '3436bea8-7c44-4af8-9c17-c358e97b02ad',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'Col.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f6aad397-c2ff-4ecd-83a7-131c8e211f37',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '20c973ce-d9bb-42ea-8722-dd470f53acbd',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ddf4d3f-ef3f-4792-9da8-60574ed3fd3b',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '2c43f0a7-29fc-4d71-9ac0-8a5bb2914469',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'Kolumbien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd4138189-462f-428b-a398-a502a20d532c',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '5d9a79e7-7f30-42a3-ac27-a949826056b2',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'Colombie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af6b826c-03b4-419d-a5c3-557d259ba638',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'daea4152-d4fb-418a-8eb3-b1623ab7ba3f',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'å“¥ä¼¦æ¯”äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '68d76942-e527-41d3-908e-45de73666a0f',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    'c64fd494-7239-485e-8606-5a09956d5c2b',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'ÐšÐ¾Ð»ÑƒÐ¼Ð±Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd963e70-bdd7-4da3-8a97-7d5a9758719d',
-    'cf31b0c7-f968-43e7-ab83-ab12df777a41',
+    '8f28647e-3f12-4183-9a86-e230614b2d18',
+    '0c08b402-4401-4463-97bd-69718382014a',
     'ColÃ´mbia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8dbcb75b-6f39-4c7f-8c59-a28854ddc9a7',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'be0fd530-aa9f-4882-880e-08510c7f4bbf',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c590ab1c-fd04-4bfa-8145-e027fb8b2697',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'e13f145b-430d-44b7-90cb-5f2daad85793',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'People''s Republic of China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78cf5a76-572e-462a-bd25-43ebc9b16798',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '832f09c2-e2cd-4d2b-81fd-145cb959cd48',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'Ø§Ù„ØµÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d18aff7-dd61-443f-9465-4a5ec104af5a',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'fb4dd3a7-6e6c-4d27-a7f9-9231e0fdbde8',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'Volksrepublik China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7558c6d8-f0d1-4ffd-be80-184262843c52',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    '340d82fa-5737-4f07-97d4-ca628f6d53ec',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'RÃ©publique populaire de Chine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a267e6a-02db-4f44-97bf-09bb96275ec7',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'e9642b08-7fad-48d3-9f37-98e7a1ee55f9',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'ä¸­åŽäººæ°‘å…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '76187c20-47b1-4ab9-9f2e-2be6f3d44bc2',
-    '469996f4-4d7a-41f1-ab14-2c12e6befdc4',
+    'b7f160d1-e947-4ad5-bd58-d7287b3f0728',
+    'bb55e489-498a-445e-ac97-4bb089c11c64',
     'ÐšÐ¸Ñ‚Ð°Ð¹ÑÐºÐ°Ñ ÐÐ°Ñ€Ð¾Ð´Ð½Ð°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c5c2c9e3-5296-4256-8a9f-6291b190dcb6',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '1d6c14a1-53de-417a-ab83-7344628ddc3e',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Macao',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1af8ab0e-e225-4461-802f-0e3684904de7',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'ed11c004-a5d5-476f-8ddb-bfa00efa678a',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Macao Special Administrative Region, PRC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '00733125-4320-47f2-a36a-3e1c392ce871',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'de9a3377-826e-4f0a-ab88-498e85e482cd',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Macao S.A.R',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ad5ad133-3f2a-4881-bccc-419efff6bb39',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'f3d02f5d-cfd5-4572-8b0f-27f236e0a6f8',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dfde1591-46b7-4b91-ae38-23a612b42482',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '395a9bb9-8f33-4734-b3b8-29f8f4fb79c1',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Mac.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4c5635b4-a6a4-4737-b16f-3f2a7eded419',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'c8eb2711-c5bf-4326-8876-d91414f6e34f',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Ù…Ø§ÙƒØ§Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a4262999-5419-40a7-9693-be60a1a5f044',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '3d562a29-2e04-46ad-a48f-7c4433f5db86',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'Macau',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e8bac4bc-186a-46b3-815e-bd351b1f840c',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    '4bc2b7b9-07ff-4358-a2e1-fc69daf1f4bb',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'æ¾³é—¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2b7109a7-01b0-4071-945b-669ae7757ef4',
-    'f35b935f-e35c-4431-b8d8-7acfd05e5bdd',
+    'fed62584-38fc-4428-a2c6-c3a434cc3ca0',
+    '84f540ec-97d9-4615-8462-179b57a332ad',
     'ÐœÐ°ÐºÐ°Ð¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '53dae0e7-89e2-4c3a-ad2c-6dedf7331da3',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '84c5a89c-e4cd-4ab5-85f1-269eb7ed638e',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Hong Kong',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '72bc13ed-4bfa-49c6-916e-d30018aff12f',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '915c06dc-8f50-41c1-8611-b93f9825e77b',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Hong Kong Special Administrative Region, PRC',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '10634329-dd4b-4a84-b01c-dda3ca45453c',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'a2d36cf4-e8b3-43b0-9cff-c286bf3c5daa',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Hong Kong S.A.R.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3e75c688-b05d-4d28-bb42-6c7be3d3763c',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'c553eaef-2865-497a-86d1-6af1429f7027',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'China',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1bf3f41a-7906-4b47-8641-e384079297e8',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'bb24da44-655b-40b0-b5fe-14204455db50',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'H.K.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '934f29e5-7f91-4073-8d73-b291f0e43716',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '2c47e9b3-1b7a-471c-bf72-c0ad4e9117f6',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Ù‡ÙˆÙ†Øº ÙƒÙˆÙ†Øº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '15ae57c7-1a92-4b9a-941d-f27bab542f00',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    '1561533a-be37-4a12-9391-190907832cbc',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Hongkong',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd56ddcf2-2a2f-4a79-a7e7-c2603daa7125',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'b70149e9-3efa-4140-a59b-bd65de54cea1',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'é¦™æ¸¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '53290de9-23a2-4eb4-b152-a51c80c9a5dd',
-    '6171b45a-adc3-4df2-af01-9ed16df6f3ee',
+    'bb4ee43a-641d-4ee1-ac56-19f3357e2345',
+    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
     'Ð“Ð¾Ð½ÐºÐ¾Ð½Ð³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fdfa5a31-94d0-45f4-bb4f-284b6b450216',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'b2d4ccd2-27f8-4958-bfcb-beaa84125a90',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'Chile',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a54786c5-3d04-40ec-bf73-737634889e1a',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '8a1aadb3-ba74-4d47-9469-f4657d74e46d',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'Republic of Chile',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'aff71cdc-18d2-4c74-8961-2e63b5bbc8c4',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '4257314b-1207-4119-b329-56ee6aa58d5d',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'ØªØ´ÙŠÙ„ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '625c3563-e973-43a7-86b6-7c9a1be18010',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'e23dd74e-4e3f-41e9-9e74-3d63028a3d3e',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'Chili',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '722f3f58-67c0-414b-ab69-4fe3f367367d',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    'c5a80428-96e1-4b55-9dc6-166a9b3b71a1',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'æ™ºåˆ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d6f33c2-f931-49e7-acea-4cc9832903c9',
-    '5fc602d6-c3e7-4da1-9f66-54ba67d62fe6',
+    '977ca3d0-61ea-4020-98d8-f0becefb4fa4',
+    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
     'Ð§Ð¸Ð»Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '74fd24d7-6831-4e7b-b028-3db658992fd1',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '19167381-aa54-4dd0-b66a-3046bea5710b',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Chad',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2248936c-9794-47df-983e-e06b08afe354',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '6d4c1284-d0e5-4397-8d90-eee04a45796f',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Republic of Chad',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7169ee06-a78c-49ef-a25c-b65cddda785f',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'c4d43d52-95aa-45a8-bedd-93fbdde7a5c4',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'ØªØ´Ø§Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1494389b-3b0c-417b-9357-b03127a72df5',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '955b401e-fce4-4a24-bbf8-7f020a668294',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Tschad',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'beee3bfe-b82a-43c0-bb54-bc59d15a0653',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'ad98aa8a-99e2-4070-9266-a064fa3ef120',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Tchad',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8397c37f-a033-4610-ae6a-d7b12b8ba9c4',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '59ab909a-341c-4147-9da9-c6c663bb9996',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'ä¹å¾—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e369fde3-eeb7-4ea6-9ec0-00e4b7dd0a1f',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    '94c8baf6-e0bb-49b1-904a-2c3631c82bdc',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Ð§Ð°Ð´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1130201c-d825-4bbe-b9ff-4913335e4a31',
-    'bb6cd869-bc26-4f04-b742-6e8264295a50',
+    'c96bb137-7353-46f2-ba11-b7f60173b371',
+    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
     'Chade',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '870c9276-bffe-469e-b8db-4c1b2b1f01ca',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '74d252d8-3b6d-4833-b91c-00e5cfd60e0e',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'Central African Rep.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9e3b47b8-dfd2-419b-8212-07ed4d1394ea',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '0f4e270a-6746-433d-bf77-2884d1616f07',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'Central African Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f219530-4a0c-456d-92ca-b35c945ee946',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'e60770ca-8948-4e7e-a076-084839bdf8f0',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'C.A.R.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e86df308-a810-4995-bd30-2d390f7c90fd',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '1b61c6bc-0781-4d8f-807f-589694150ed2',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø£ÙØ±ÙŠÙ‚ÙŠØ§ Ø§Ù„ÙˆØ³Ø·Ù‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b14fa54f-95cf-404a-8ff3-0986d9e76e08',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'a8b5ef79-ac68-4e89-becd-ecc2fcf017cc',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'Zentralafrikanische Republik',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e709d64d-dfee-4027-a200-a6f3d753af24',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '88c6db10-22e7-47f1-a78c-df2b776e795c',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'RepÃºblica Centroafricana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '48216021-911d-4420-87f5-4707a220915d',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    '4303057a-f192-4554-bea3-1d8e7a23f9c3',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'RÃ©publique centrafricaine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd9f61e43-00ea-4706-aa02-b221c23cf1e7',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'ee549468-ca5c-452e-b83d-69e359b2b1c8',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'ä¸­éžå…±å’Œå›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '821d7926-fcbf-4ae4-bd32-d42474449dad',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'df0e46a4-ef80-4c5b-891c-edff569a5da5',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'Ð¦ÐµÐ½Ñ‚Ñ€Ð°Ð»ÑŒÐ½Ð¾Ð°Ñ„Ñ€Ð¸ÐºÐ°Ð½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '73235de3-3863-406f-9710-062b31e4a366',
-    'f6c243de-dc8a-4c77-a987-aaa4b677d209',
+    'd6afb561-260b-4d87-91b7-b40181138ffa',
+    '085fae16-0a95-4a48-9b8a-8856e82066fd',
     'RepÃºblica Centro-Africana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '799436dd-5514-4562-bb65-8639d5ff8088',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '836e7711-d272-44d1-ae6e-8e846a7db884',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'Cabo Verde',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6208fe6b-b396-42cf-8926-d0e6029f5572',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '9b164ef5-905f-410d-a6d9-4e307fc429e0',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'Republic of Cabo Verde',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9931c197-d2d8-4e74-a654-e2ec83392a9a',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'a21161b8-764e-4b5e-8ff4-78160b79db30',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'C.Vd.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9979c75c-ef69-4535-bc96-409a06a9d92a',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '15b01847-c40d-4216-896a-eb9d9977b879',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'Ø§Ù„Ø±Ø£Ø³ Ø§Ù„Ø£Ø®Ø¶Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e2476242-59f9-4d57-b644-d2d82ec0d04a',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    'be495ffc-7f60-46d6-a3fc-fbe412b6831c',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'Kap Verde',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c0784543-ab6e-40e8-a714-95fff8184a97',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '8d41a6ce-840b-40f4-be75-5efbb769bc52',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'Cap-Vert',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '78b2c30a-5c64-4206-a2a2-d95feee30bda',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '48e9ee82-d1f6-4978-884d-aae966b885e3',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'ä½›å¾—è§’',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd5952acd-b543-4dfb-8ee2-c6be8cfd62f3',
-    '95359e34-24db-4d98-981f-df0c19413ed0',
+    '79702e55-db3a-475b-9b07-0e1d23c109e2',
+    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
     'ÐšÐ°Ð±Ð¾-Ð’ÐµÑ€Ð´Ðµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '172e55ab-7a34-414f-b537-809149854cb7',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    'a3c7557d-3f7e-4ac4-b546-e37e0da1f522',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'Canada',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2749c779-2426-481b-83ce-c2a64258495e',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '847e0b1a-cd46-4d02-b4a8-2f3b270fdad3',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'Can.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '46a47d36-3c33-40c8-a2b6-c9d0733d8253',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '5546af24-d05e-4183-b60a-a874982306d4',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'ÙƒÙ†Ø¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b3255d97-b703-4444-90bf-a79762e70b72',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '9d239de4-4650-405e-9125-d135dda5a63f',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'Kanada',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ee6649a4-86dc-447e-b453-61f70680bfd0',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '3d9a3216-f3f8-41ba-9f4c-d9fbf46b4c88',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'CanadÃ¡',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '61abaaac-8d62-44b0-9433-9db6fea20238',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '48a25cf6-7a6c-461e-b837-ba9028400e74',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'åŠ æ‹¿å¤§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '954f3e23-1b11-44dc-8425-1b55983ec158',
-    'ed3df07d-aab2-41fb-9142-8073c05e9269',
+    '49636e7d-50e4-4016-b3c1-de2f576c3431',
+    '85174608-ecc4-4fcf-8356-af8cb7d35108',
     'ÐšÐ°Ð½Ð°Ð´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd89a376a-2e84-4ee5-928e-b4990e054250',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '5a0d74a3-27b7-4e6d-b21b-eab35209e98a',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Cameroon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '82d0428f-f242-4f15-a025-f612a146b2c1',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '77069ef8-9587-409a-9684-ba3ab27e6a35',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Republic of Cameroon',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3322c4d0-b842-4b9e-bcf7-c93407a2461a',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'fd544020-ac44-4044-8994-225897885ff2',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Cam.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd2962d88-8268-4ba3-ac58-40ab640e0f51',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '33f763d5-a4ba-4116-80ca-9fd668df2df4',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Ø§Ù„ÙƒØ§Ù…ÙŠØ±ÙˆÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b19393f2-2591-40b0-b27f-4a76ca4bc7ec',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '7d614319-82b1-4fd8-8176-264c4ed43c31',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Kamerun',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b8451243-14bf-4ccd-aaee-b9473ba04021',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '0b63c002-5fce-4167-ada4-38d17f1de241',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'CamerÃºn',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '40ca717c-545f-4fb9-80f1-959f3aa1339e',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '59d4f7da-91a4-47db-8d7c-0ea3589887e6',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'Cameroun',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e5afd231-b9e8-4258-ba25-1c24461a0b44',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'dd0a2e2f-83c4-4901-9d33-f86961fb1667',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'å–€éº¦éš†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '23617cb7-ca0f-4d10-8b52-59f0bffc02da',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    'ca361749-9327-407e-a9bd-b6d4addacada',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'ÐšÐ°Ð¼ÐµÑ€ÑƒÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ecb54a40-5892-4db2-b63c-ef5695a96c7f',
-    '1640afa9-8312-4902-ad48-a6a4a5f9d6c0',
+    '0fe89de9-0000-408a-9e7c-f81316ed1691',
+    'ea71a127-43d2-4564-8f80-86d32996c599',
     'CamarÃµes',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1830c5fe-a30b-4414-b0c8-84d08bb33acb',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'a02f7cb5-2c15-460a-a004-d4d79186a3dc',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Cambodia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7863c797-616d-459e-8c56-ce654be6c981',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '2fb00f68-8efc-4b9b-92ad-48dec066ffee',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Kingdom of Cambodia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e6fc6ead-acdd-44d4-8e39-4101acf88813',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '35a2dbb8-a93e-4ea8-9374-7b9165b71bf8',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Camb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8edc2c87-dbd2-480a-aa98-934b19c2997d',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'dfbdba1c-9efd-4e8b-86a3-439291cab40d',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'ÙƒÙ…Ø¨ÙˆØ¯ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '96afc954-d120-4fc0-8fc2-d558c2d12fd6',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'c7a4d84c-7d1b-4bd6-8f58-fcd982ec9db3',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Kambodscha',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'adb5b8d4-fb60-4698-8f9c-625dcd06f556',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'b33a493e-0c9f-4f8c-be0a-b937e13201a7',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Camboya',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6b8d2f01-a355-42e9-97c5-05b5887e77ae',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    'f0b9ce0b-ba86-4414-84c6-f471d9988fdc',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Cambodge',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70121034-f37f-41bb-9af4-74948c574251',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '10187bcb-d990-4579-a86b-604d877a0d66',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'æŸ¬åŸ”å¯¨',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ce457153-7bc1-49bc-9542-990746db3e91',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '8ad885c9-6aae-4b5f-a75b-03177405a72b',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'ÐšÐ°Ð¼Ð±Ð¾Ð´Ð¶Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fca0a2e5-b7dd-4e68-85d8-b31f25613bc5',
-    'ffb62f36-0ae8-4f57-9196-0a7f7d4aa0b2',
+    '1f578240-fa8e-4ec9-84d8-1d54798b9402',
+    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
     'Camboja',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b14237eb-dcfd-49a6-90ab-4e0e77ff2014',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'eb7fb19f-2e2f-4f99-966a-a973a14a1075',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Myanmar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9dcfc176-28fb-4f95-96d4-5d5332eed529',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '8f0d2aa8-db69-4ba3-be59-0d01f0e535bb',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Republic of the Union of Myanmar',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c6daee7-60e3-4f23-9317-8c5a2a00ab6f',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '87f94772-90bf-4412-b779-b24700f99d0c',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Myan.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2c4edb9a-a8cd-4e18-bebc-0bf4c5474936',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '242b6c62-ab77-4b6f-9df8-4895e17aa6eb',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Ù…ÙŠØ§Ù†Ù…Ø§Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'baa48a69-cee1-4f9c-964c-05c2fbb2a1b7',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'd9547f77-c752-4c97-9eff-c4989b9a5f09',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Birmania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '502666b4-7357-408a-9694-8c4dd0d84a96',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'a25686b1-a40f-43e0-ba20-1d4e83f46665',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'Birmanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a18632e-20ae-4087-9a1c-cad062f87d5d',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    'c352eb32-6bef-4f0d-8c88-3cf42db961c5',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'ç¼…ç”¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '27eafb32-bdce-4316-b963-ff2abd214b12',
-    'b86db69c-b7ff-45d5-b2b8-b04c585f2fc7',
+    '5a55119a-ed53-4a30-80ce-41107e3b809b',
+    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
     'ÐœÑŒÑÐ½Ð¼Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c34b7f26-b4b7-47ff-96bc-3f8785869124',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '923d3a90-c5ab-42ab-b6ba-db7627eb965e',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'Burundi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7158b79f-e6a5-4818-92dd-918e2a5967d0',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '40b67132-6eee-4a1a-9c95-ca71147c1cb0',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'Republic of Burundi',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8924ea14-c6c6-4376-9b52-a3390df71d76',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    '43c3df0f-f680-40a4-baa3-bfd00c15ea31',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'Bur.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e404ce6c-6c6e-4b6b-8f0c-aa7df24b98c8',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'ee391daa-5eb2-4175-9880-b54975b6a9ef',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'Ø¨ÙˆØ±ÙˆÙ†Ø¯ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'afcec580-4cd2-45f7-9aba-3d6a51fbb9c0',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'e4f47204-62f3-487c-9067-843225d38c34',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'å¸ƒéš†è¿ª',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '25b3adbd-f06d-4e0f-b588-9e6f71abcaf4',
-    '475e6835-5e39-4d60-be44-b9c19026fb7f',
+    'a30474e6-f350-42c9-83e8-af361495eb54',
+    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
     'Ð‘ÑƒÑ€ÑƒÐ½Ð´Ð¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd33b0ebb-0653-4671-990a-cf76367e2f94',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '9566867d-bccc-4f14-a426-2ce67312af92',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'Burkina Faso',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4ab63e3d-75f0-405b-b21f-67623be52e4d',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '28756367-0076-4fcd-abd6-b20cd3ee290a',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'B.F.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '311744de-c4f6-49c8-8fec-2e0d78d07c6e',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'f6780c93-af19-48ba-9ea6-be02ffcb8797',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'Ø¨ÙˆØ±ÙƒÙŠÙ†Ø§ ÙØ§Ø³Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '792a2439-e139-4b21-9d09-9b399aca022a',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    'eccf3045-0793-441a-9fec-b1fb335c1316',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'å¸ƒåŸºçº³æ³•ç´¢',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b61b5f0a-1d12-4b70-b1a5-21db5f82c597',
-    '6928afe8-4517-489a-89f8-31d4daedd346',
+    '828fb8ed-965a-484d-92d8-31bab84a56b3',
+    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
     'Ð‘ÑƒÑ€ÐºÐ¸Ð½Ð°-Ð¤Ð°ÑÐ¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6b14ee95-614b-4670-b13e-b86f3b52ce0f',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '0d72520f-8bb2-43df-8759-ac18e2ba92af',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Bulgaria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '912701ff-d533-4ada-9a39-07fa202b72e6',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'b6baff98-469a-47e1-afe0-52501402a1ab',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Republic of Bulgaria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd63da268-6b8b-4a2e-8a8a-4be2e6d83be3',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '71c1a025-8768-48b5-845f-f1228401a4df',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Bulg.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '39dcda32-5977-4c10-b9a3-7a1c61255071',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '46fc55bf-d7d5-44bf-9bfb-4398479651ba',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Ø¨Ù„ØºØ§Ø±ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4201e1f2-2c06-4dd8-a772-54ad4a1ed24c',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '31f8c82d-4142-4ca5-994c-4237f487facc',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Bulgarien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '181cef2f-ddf7-49c5-b33c-c685cd3ca318',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '48138a45-d853-4203-a363-9206f2559a78',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Bulgarie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6ad86836-7688-46d1-9456-53f9d77aae9e',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'a94ac10c-59a8-4959-81a2-ac5e927cb11a',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'ä¿åŠ åˆ©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '535744aa-f070-4d0a-8854-66ba868cd08f',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    'c9556dcc-0070-4152-afe0-1b58423b0b59',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'Ð‘Ð¾Ð»Ð³Ð°Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6c181ec7-28b4-4d8f-ad50-45ef74c016c7',
-    'c29435cb-55c0-48e3-aa17-825634721a08',
+    '0a693ec1-7a1a-44b8-932f-88941b29fdd2',
+    '59492f7c-0f28-4332-b6a1-72a194e94f50',
     'BulgÃ¡ria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ee50cba5-4376-4be0-8ab5-459ffeeee85d',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '24594603-a806-451f-a9b1-28f5ff2912cd',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'Brunei',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0bb71c63-83ba-427f-a4fa-a08ea3cf3451',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '05c009e8-3d8a-48e0-a2f0-eeb80114d69b',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'Brunei Darussalam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bc0af9d8-034f-44fa-9c7c-c8e43c4bc09e',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '1bd43c7d-bf94-4a14-ac81-2ac88889a168',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'Negara Brunei Darussalam',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '704ee207-cb88-4fab-b76d-5e2ae9f2e8cd',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    '093b5936-0ac2-4373-b73d-3dab01a1c4d8',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'Ø¨Ø±ÙˆÙ†Ø§ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0e4a408c-7cb7-42e7-bbb4-9cb486ca43d0',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'ca68e5bd-7c97-4a76-9d5b-dc9a5355aa5b',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'BrunÃ©i',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7dfbb226-48ca-41cb-be6e-08c5bb658c56',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'bd05a14f-fcb7-4e84-b228-483a611aa759',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'æ–‡èŽ±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '12d8f34b-986d-483a-9fac-549f308c9ee2',
-    '816eb8d4-ddd7-4926-8ca5-8e6fdd8a31c1',
+    'd3469727-2f85-4feb-9957-9b9056551b55',
+    'ea2da9c9-8ac8-4051-9254-82334be24903',
     'Ð‘Ñ€ÑƒÐ½ÐµÐ¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc4b48a0-6fe9-49fb-88e8-0df5e52e91f3',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '69dc2e97-c422-46a8-b148-6763f08de0e2',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Brazil',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd662db47-f410-45a7-aabf-2933aef302e2',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'db560542-f53c-4313-9212-a0b3947c1d78',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Federative Republic of Brazil',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '598c47f7-595b-40b3-85f3-987a1dd89a7e',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    '584c0606-febc-4951-98d1-8fce59a8594a',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '70936b72-a912-4158-a15e-158916f8287f',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'e909608e-75ba-4a59-8d97-21906358952e',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Brasilien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b29d53f4-4d3f-413f-95c7-54009f46266c',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'cf75cb1a-2853-430f-934d-46bb58d27488',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Brasil',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84b171d6-5d21-4227-8061-c95479d5c4f8',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'f943eb38-b4de-425a-a52a-9fe1ec8c13e8',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'BrÃ©sil',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '457f4579-3da3-4abf-9115-320533d9968b',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'ccda26fd-6f28-4087-a592-157ca036fa87',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'å·´è¥¿',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '93065b45-c3b9-4f55-a220-140fb3d7f1f6',
-    '8195907a-d060-4319-bb95-a28ba497bd6b',
+    'a45fc145-86f1-4510-abb9-ba1f373d93e2',
+    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
     'Ð‘Ñ€Ð°Ð·Ð¸Ð»Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0980f433-5479-4da2-bfd6-4abeb8b94930',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '1b789ed1-dbdb-4dd7-a513-1648da913ad4',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Botswana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4dd9fa08-52c7-44bf-9ad1-e9460d7c2e1d',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'b6221450-24b8-4216-ae96-a8b72e70fa6e',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Republic of Botswana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f541d24b-6509-4a0e-987d-6048c1affd81',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'b7c541ec-e8fa-4e7d-a151-f36c93fa6a68',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Bwa.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f51c4e7a-65fb-4a5c-a75d-21564d6df53b',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'b6841049-18af-4c27-94c9-5bf3fc1f375b',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Ø¨ÙˆØªØ³ÙˆØ§Ù†Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c62040a9-960b-45e0-86e9-8457af8e7f38',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'b1cb3695-587a-401c-8525-1befc8312162',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Botsuana',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c5f8b094-1386-4af4-9140-e03a642acd20',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    'd3e562f0-df58-406f-b25e-6e4914afeb64',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'åšèŒ¨ç“¦çº³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '43ad3498-ce2c-4c1a-a99f-39d41c82e58e',
-    'd564bcd9-e6fe-469c-9981-167d5d8da9c6',
+    '826194d8-e8ab-48c9-aa1c-b12c32c0bd53',
+    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
     'Ð‘Ð¾Ñ‚ÑÐ²Ð°Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e83f74a-32d3-4437-ba7f-9ca5e31a25fb',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '2d9ed512-4d51-40df-9f5b-3717d5f1ec25',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Bosnia and Herz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24d405d9-aa82-42c8-b635-83907f377dfd',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '54d20243-2ec0-4f51-8eaa-fc250d89ced2',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Bosnia and Herzegovina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e9b43803-311c-4b1e-9e82-a039f66e61be',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '0ef6ea9f-4b06-44ac-9be1-de1fbb4b11e4',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'B.H.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4e696427-77fd-4337-9580-e83363416dd8',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'f50fb58c-4f81-4497-a42d-13d27135da16',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Ø§Ù„Ø¨ÙˆØ³Ù†Ø© ÙˆØ§Ù„Ù‡Ø±Ø³Ùƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5e17420d-6a2d-42f3-ac76-a1d8f290f19a',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '513e21d1-832d-4609-9b9e-bf268b6f516b',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Bosnien und Herzegowina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '56a34d55-d0fb-46c1-ac18-2227f4ea1923',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '0c4ef3af-2947-472a-a13a-211a0708ab9a',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Bosnia y Herzegovina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '84a9d6b2-86e1-4de8-9848-38b55157226f',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '70abc0b9-1a90-4396-870b-389475df7f71',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Bosnie-HerzÃ©govine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '648320eb-df4a-4b76-9591-af38a9e3bc7c',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    'e5dbc0bd-ba91-40ab-87ff-bed0ff953f47',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'æ³¢æ–¯å°¼äºšå’Œé»‘å¡žå“¥ç»´é‚£',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a705dd06-ab58-4574-a762-443834551530',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '17bf0714-3f86-46a7-9cc4-9566c572ffca',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'Ð‘Ð¾ÑÐ½Ð¸Ñ Ð¸ Ð“ÐµÑ€Ñ†ÐµÐ³Ð¾Ð²Ð¸Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0088129f-5561-416f-b740-2ac898e59b93',
-    '83db2998-bd3f-4e22-8a03-aa8963f6a6fa',
+    '2a551017-141b-482e-b4f9-78749d21de38',
+    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
     'BÃ³snia e Herzegovina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'edbc20cb-5d36-4bbc-b7ad-0e2db3e902e5',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '7e2bdad4-127a-49bc-8a0f-34b86cc27c4b',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Bolivia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0f4edf9d-2f97-407f-b759-d18f7d67c19a',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '347b0c8d-71ae-480c-89b1-555797e43836',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Plurinational State of Bolivia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6c4b4775-c33e-4dd8-84b8-9f41764eb080',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '5870729c-d5de-4211-85f6-d7b39672eaa4',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Ø¨ÙˆÙ„ÙŠÙÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a49a281c-bfeb-4e31-871a-745bc8d5078d',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '7263d8b1-4d04-4167-bef2-0790f2a7c5ed',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Bolivien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c335263-be8e-48aa-8bc9-4358d5659025',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '933345a5-3dbd-4f67-961e-e2b785f90fc1',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Bolivie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '94afccb2-20ae-4ff1-b794-9dbc49b6273f',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '0608405c-59dc-4e73-9904-f28a05d41b4a',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'çŽ»åˆ©ç»´äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ed4f9f6-9852-44f9-ab7c-8d5c01415138',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    '60a1ccf6-39fe-44f2-9589-50331afc4d91',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'Ð‘Ð¾Ð»Ð¸Ð²Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b6beebda-2928-4931-a888-f47a40cb52e0',
-    '47fc94cc-4152-4636-84c7-b66e243d472b',
+    'a7abfb84-030c-4091-82a4-1a9fbc5cfa86',
+    '56c2ea1c-0061-4abd-893e-16024b3fa899',
     'BolÃ­via',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b88361dd-abf6-4966-a9ad-8202ec2cd4d7',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'b24acdb5-5b16-4e4e-8ded-a25e18ed243d',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'Bhutan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2dfb8a29-e8e9-4069-89aa-4b50cd009c64',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'c0c12c96-a4c4-4776-b89e-0c3561d45ce4',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'Kingdom of Bhutan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2cf86a53-aa46-496f-88b1-2ef2d418343f',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '458d5f5f-ad46-4d01-aa6d-5e0a33145120',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'Ø¨ÙˆØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b1c3d9b0-b1ec-40eb-9cd2-a7aceda572ae',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '735e083e-f205-44be-a577-1362b1dfd60c',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'ButÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50bdcebd-59d8-414b-8eda-72f0ec749693',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'c824f0cd-e926-43f0-b864-e49e805e5e3b',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'Bhoutan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3a98bf30-28a9-45e8-b699-cb4fc160b5ea',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '8447a5fc-504c-41c2-8d5e-3423e667f563',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'ä¸ä¸¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '93e48493-bd06-4cd8-9fae-b2d03eb6ff43',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    'c4235667-5f5a-462b-b78e-820433e15d4e',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'Ð‘ÑƒÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bffa7646-0d89-4d2e-81b5-d317341f95b4',
-    '3efa301c-5418-449b-8e26-1168846cbc26',
+    '1192eeb6-35c6-4eaa-8b75-363bec602d00',
+    '514aab08-eb42-436a-b81d-76a703bf6d25',
     'ButÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '496e1040-8ff0-4023-b5ef-5672a2472a02',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'f53ad20b-cb5f-41c6-8e94-065970f40064',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'Benin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7112573b-609c-404d-9d4f-c79e294a3b27',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '645c111a-0595-4563-b1c7-04b223dc85b2',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'Republic of Benin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ec1ed29-8e7e-4417-8bcb-9a68ad6e0637',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '79f48b79-87a5-4d3f-a209-efd54182ccde',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'Ø¨Ù†ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1f834b21-906b-4e01-ab67-93cb63677679',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'da3153a9-7ed7-4566-a8ee-78bda103deb6',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'BenÃ­n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc8090b4-ceaf-470b-8db8-ed0f7fe13699',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '90c03a2a-5091-49f5-b9de-2607753fbc4a',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'BÃ©nin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a977c4c0-dcd9-4618-a5ab-9ff3885ea2ca',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    '5b626d2b-ab17-4729-aa85-d8a5e6c440f5',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'è´å®',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '894bf7a2-9cbf-4434-a141-d5d3f9b5baa3',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'dd1d1aca-f3b8-4db1-ac24-ed4549070687',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'Ð‘ÐµÐ½Ð¸Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f8c6a2c-a43e-4b00-8114-4163d1c07192',
-    '73d40ca9-30ba-48e0-a2c0-31f9d0f5629c',
+    'ef514e16-fc72-4ce3-b47a-6a273b93a8bf',
+    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
     'Benim',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '777152a0-5de4-47d1-9038-66ce9049c04e',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '19ee8763-41b5-4338-9360-e483858ab700',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'Belize',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3f9bbe63-a0c2-46b4-a897-59c41fc8de35',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'cf650ff0-a4ba-4509-8abd-1ed9d366cb4d',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'Ø¨Ù„ÙŠØ²',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a5bdf5eb-74a4-4f20-bf1c-111167e5c032',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '11be16ed-c28b-423c-94fe-a263b01548ea',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'Belice',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '784f4306-1712-408c-b562-e49bb4acdfb9',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    'be484fd5-281e-4663-adcb-87b1940f6080',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'ä¼¯åˆ©å…¹',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '428cf91f-0a8b-433a-a7a3-2a081c36f814',
-    'ac9c8562-cfe4-438a-9e8c-dd45cc5e32f3',
+    '3d9ce68a-ad1c-4d3a-bf85-3eeaada76580',
+    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
     'Ð‘ÐµÐ»Ð¸Ð·',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '520a70a9-5da1-443e-9093-adf086ffb291',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'b0177463-7936-4901-8481-4cd09434919a',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Belgium',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3d51d367-8224-417f-9aba-53129bc7aa27',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '5613747c-2334-413b-a00a-a73bbb6cfbf1',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Kingdom of Belgium',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c1861157-14b7-4b0b-b74f-57fe253a8769',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'e0d7a9dc-49d7-490a-81f2-e698aca53948',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Belg.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3df63153-f621-435a-9f34-b1b748ec2d90',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'd1535e0d-f577-4438-a134-166363e531d3',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Ø¨Ù„Ø¬ÙŠÙƒØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fa9614f4-d6f1-4a77-a74e-d252b8413148',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '37035601-2448-4aea-9857-3288a5a1d5ae',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Belgien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f660fdf-ea12-4de1-b21b-320d66eb19ee',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    'c3f8cc6c-e21f-4eb7-9f39-6fc72a03992e',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'BÃ©lgica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd19942a9-12d6-4e0e-862b-689d26dee912',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '79471e1d-1bce-4aa9-979b-d33a2b1829ec',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Belgique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2bbb4d36-2d71-4609-b6cb-a67b1d4a9196',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '45bbd2a3-c9bb-4a7f-9368-73164189aecf',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'æ¯”åˆ©æ—¶',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9dcf1d88-ac31-4f3f-96e6-2611462faaa5',
-    '58a75dfb-c7d7-4b75-9af3-3c40d2682a7d',
+    '3ddaf409-a610-481f-bcb9-61f0c3b102c8',
+    '42cb3897-f497-460e-b805-c9cbc889ae6b',
     'Ð‘ÐµÐ»ÑŒÐ³Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f59248c3-ea66-48b4-8787-d5f41289553d',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '4fe5deaf-2481-4aea-aabd-a1e6e5b0532e',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Belarus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dcd28d4e-8b1a-41a4-b643-8a7b370a9b74',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '30a22d32-e9aa-43eb-bb10-742f83bce2e5',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Republic of Belarus',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '21c34739-732d-4164-82d1-e42915f455aa',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '4cfc2a96-bf95-42df-aea7-55d2b1524756',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Bela.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9b24b15c-4106-4156-8511-12feface9a3a',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '647f4cc3-dc78-40f6-98a5-137bb71107f0',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Ø¨ÙŠÙ„Ø§Ø±ÙˆØ³ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '708fac2e-7f79-4864-bb54-6df8f92cf914',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'c1b66926-d2e6-48b2-a587-4c2f151e9dcf',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Bielorrusia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '20bee73b-0334-49ec-83eb-fa041caabdf7',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'f997594e-c2f7-4423-bfba-2ecd6588c03c',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'BiÃ©lorussie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5200a620-e206-42d1-8f98-7116df431378',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    '38082418-35ee-4c83-9035-0d71081430ad',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'ç™½ä¿„ç½—æ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d28611e-5cf2-4ccf-a740-38baf0687bc5',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'b5dc5aed-9747-407a-9398-da6703b8fd91',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÑÐ¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '09252fa5-14d5-4232-a490-60471cdeafb6',
-    '3ffe1611-243b-47e3-a0bd-87efd993ee43',
+    'c724709c-d291-4d65-a244-a00e3a06c064',
+    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
     'BielorrÃºssia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5fc74437-9556-4daa-9a8e-58038e41cb9a',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '4bb79a4b-698c-401d-80d8-40203b2221a2',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'Barbados',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0d18ceb7-b82b-48cf-a10c-647138cbd180',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '6c6d4447-f771-48c7-88fb-3bd3e9127719',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'Barb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b9689d1f-ab5c-4233-bd44-b3167491090b',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '6e0cd2b5-69d3-4018-9b59-c984147efa3a',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'Ø¨Ø§Ø±Ø¨Ø§Ø¯ÙˆØ³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '972f3af1-a5b6-414b-995c-ce0a118a0b44',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '2cb8798e-bf7d-4658-9921-6bdb5b7bfdfd',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'Barbade',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4de96575-6faa-4114-b9e7-c0dfd7fd7b4b',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '8793517c-a6c1-4199-ae76-827de6fb9173',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'å·´å·´å¤šæ–¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '07a7b76e-149e-4cf8-ab33-c38177f81ed3',
-    'cc318f1e-ce28-4f77-abb2-6f243b41d89d',
+    '7e437fc0-5158-4ba9-a822-0cf06456b5ac',
+    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
     'Ð‘Ð°Ñ€Ð±Ð°Ð´Ð¾Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0b701847-f2ae-43fe-8b49-033cb07c8480',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '8009c5b5-5cc8-48f5-9d6b-ae26eb7cc932',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'Bangladesh',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a92c6ae1-4a11-4066-b825-398793acc7fc',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'b8007eb5-71d1-4def-a07e-b1fc783954df',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'People''s Republic of Bangladesh',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e468a9a-0943-4a38-aedb-6b8a71609d1c',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '177608d8-8ea1-4264-8791-1cddbfc8f750',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'Bang.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fc1e7006-be38-43ed-baa7-634acf2e670b',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'abf69eea-9869-43a9-9d98-d8e26366e97c',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'Ø¨Ù†ØºÙ„Ø§Ø¯ÙŠØ´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f16ac8a7-dca4-4ab2-8719-b65638f37be7',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '272af840-76a2-4e34-b698-4f9531dde292',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'Bangladesch',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d5b6f08-a0c6-41c4-9024-d3842aa44854',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '3b6a3967-4261-4efe-83f4-8433164a0a1c',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'BangladÃ©s',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c8f2f585-3137-4b80-b313-3c457cb43f8b',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    '99f9201c-2b42-40b0-a959-abbad78706b7',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'å­ŸåŠ æ‹‰å›½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '30ac1504-ed32-42ac-9b35-e60d73955a15',
-    '5bc4c9ea-6889-4789-a47a-183a2372b613',
+    'a3e38209-b142-4a9a-997b-b4bce9d4c2cd',
+    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
     'Ð‘Ð°Ð½Ð³Ð»Ð°Ð´ÐµÑˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ec4f618-b810-4a7b-9b4b-88e44b676678',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'b6b08419-08e3-44a6-8bb7-22f21365668b',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Bahrain',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7ba5359a-2c26-42a4-8653-9854b7a910fd',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'a58c5479-05ff-44a1-85d0-dca7a70ee138',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Kingdom of Bahrain',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '710c093a-d759-42b3-a279-1194fbdbe72d',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'f379d43c-8df2-4fd4-9267-785a5ed477eb',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Bahr.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e22d9be5-d606-4e09-85bb-0b662f3bd01b',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'a565f0f3-395c-4fe4-9c0f-4d4b79ce5e21',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Ø§Ù„Ø¨Ø­Ø±ÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7f0b42f0-ba23-4c7f-aa4b-3d44bf9b03eb',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '72e89285-133b-492c-ae6d-c67a3cae25b4',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'BarÃ©in',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e22c8359-9d49-4f13-ba2e-ebc7537e01cf',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'f10f8e43-fca3-4b07-aa5b-82f3d520d575',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'BahreÃ¯n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3abebdcd-7934-468f-a89b-9411a4745a89',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '61038ad2-0dcd-45db-9629-03d1254d5b10',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'å·´æž—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '01a39187-cdab-4696-b6cc-9a8b97c38cac',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    'b2b105ce-d61f-48d1-a93b-242e39ef5b14',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Ð‘Ð°Ñ…Ñ€ÐµÐ¹Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dd682416-a814-499b-b049-a0936e6023c8',
-    '8367ccf9-2325-4c22-9e06-beb4c3296f65',
+    '8725e6d0-a588-4faf-af4b-57b36ea6b530',
+    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
     'Bahrein',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '40229cfd-f405-4236-9fbe-783097c344ca',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'e949b16f-810e-4ffa-96b5-64e2e01c73e1',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'Bahamas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e59de23-a7ce-454d-a20c-6bf340ddcef4',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'c1e52b86-a4c2-4b14-ae05-05c6385f5624',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'Commonwealth of the Bahamas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3841ae55-17c0-424f-bdaf-1f5a1ed7e29c',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '8c412dbf-cb8d-4f01-8862-2076b8fbb9ba',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'The Bahamas',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cc59da06-890e-47d1-9dff-cd53f329efef',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '4457b0bc-ea9e-4a43-a288-4559c3ad1119',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'Bhs.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b000201b-c2c4-463e-a131-4a3a8e9f23ec',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'c1726839-fab7-4521-87ba-29e15fdb21ba',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'Ø¨Ø§Ù‡Ø§Ù…Ø§Ø³',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9c58c1e7-c808-48dc-8619-b782895acb67',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    'ad926e79-477e-4947-976b-839321d67ff0',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'å·´å“ˆé©¬',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '92f785a3-37b4-4dc1-81c1-d89a8b0512cb',
-    '46119391-d865-45ac-b658-1e4684e69c69',
+    '6456f1d5-ee11-41a9-9159-1b5ee6b35325',
+    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
     'Ð‘Ð°Ð³Ð°Ð¼ÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c86e70c3-c8f2-4dfe-96b5-afdfe614bca5',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '76d02ce1-9177-4a84-a2d2-87c153128d8c',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'Azerbaijan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4478fe53-6e88-4bf0-bf8c-f3177df987c7',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'b523cb79-395f-47d0-81e5-22464ceb743f',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'Republic of Azerbaijan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ae250341-2ba8-4993-b66f-e07bfe61b70e',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '303a8440-4e61-4700-baf2-f9a5a9b360f7',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'Aze.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d28149e-bb65-459c-8a1f-b23f49e7d3a1',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'a88915ca-b939-4b43-8388-bcf16f924cb4',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'Ø£Ø°Ø±Ø¨ÙŠØ¬Ø§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f4f65397-b88b-4295-b13a-b900e445ef8c',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'df091eae-31ef-4b8e-8291-57a792096259',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'Aserbaidschan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9a869cc4-b708-4b8d-bcee-8d19a88d72e2',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '1f2162ba-11b5-46ec-ac88-9a831a5b1277',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'AzerbaiyÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c8f8f1d7-d7ef-4789-acd2-045cf8dd3c36',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'a0d20799-d6cb-4383-951d-1893169bcc7b',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'AzerbaÃ¯djan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '049f965c-0a96-4c66-b55e-d72d7bef83f2',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '69701c58-90f7-421e-9c73-82462f1d95c0',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'é˜¿å¡žæ‹œç–†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c8d413b5-2b83-42a6-bd2b-48eff8f0c453',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    '6c4f31f1-32ef-490e-8534-9a2af2a09ea8',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'ÐÐ·ÐµÑ€Ð±Ð°Ð¹Ð´Ð¶Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4f018354-6334-4d6e-9b62-a9c3c08cd609',
-    '2332ee1d-880f-4118-9399-a7a6a207b608',
+    'fc6d3360-68a4-4745-bd47-28a271fa9aed',
+    '3afdcac1-da21-4388-8590-b4447a8c6961',
     'AzerbaijÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c93fedb-daf0-40b9-935b-a76d9b34708f',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'cabb8097-c74c-41fe-b085-63563d1df52a',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Austria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '63adf9bf-aea3-4152-8ebd-c87c17460c28',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '7831d3af-7fa4-442e-bfa0-8fcaa234855f',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Republic of Austria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '67b5fe8f-e8fb-4a40-923c-09b06676daa0',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'a7b4fefb-3e16-456d-b752-d9b8b6d86203',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Aust.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b8a346fa-aa36-4c94-a0ea-1cc19b9b14f0',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'e4eb935c-3878-4a38-a167-af7167b24c0e',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Ø§Ù„Ù†Ù…Ø³Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d5c6883-b81b-4c2b-9910-c3730046be1a',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '7385932c-a795-4d6e-ad37-bfe586dbc68e',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Ã–sterreich',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '62593438-2021-4fc6-b0cf-df30f8011765',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '0804d129-fe83-4eaf-98bc-a25a4b3f4bae',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Autriche',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fab22eaf-6106-4abe-ab40-9a01ff592b32',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    'a42a11cd-ca63-4f66-a5f5-3e0b6b3e7006',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'å¥¥åœ°åˆ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b3833604-a874-4300-864d-1712c89f28c5',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '3128d9f6-3e59-49e8-b370-fbb96fdabde9',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'ÐÐ²ÑÑ‚Ñ€Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80743cbf-d9af-419f-8b13-c1a0bfc47730',
-    '6698a56e-8149-44f5-8089-e7eb1cb495c0',
+    '274a48fe-640e-44e7-a687-1fca65f1fd88',
+    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
     'Ãustria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '479a0962-053a-4504-893a-32b81d0ae075',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '00b60fcf-acd7-46ca-a06d-872b6bdd3e63',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd91d4092-8f7b-4663-b0db-7043fe86fabb',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '51b6393d-733f-4ee3-b7d9-33c064fc92ef',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Commonwealth of Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5073e85c-7e62-4fc5-97cb-351a48759a4b',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '1a827cab-cb73-436c-aee8-111eab3957c2',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Auz.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '589fae3b-a064-4953-a604-3d5f8aae3800',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '7b9032fb-8255-4a49-999c-a2aff5bdbb70',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Ø£Ø³ØªØ±Ø§Ù„ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '593b3b76-48f2-4036-b9fa-ce0717a49310',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '76ac18b7-1f37-46fd-8981-5c4ab2a795ea',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Australien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dc9c2710-c79f-442d-bbb7-f5a49a109ae6',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'b253a4bf-489e-401b-b5eb-1500587ec76c',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'Australie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f6b70077-6908-43af-95d5-e2c85f0536fb',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '43b8a509-9fc0-498f-bd27-24c005acac5d',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'æ¾³å¤§åˆ©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5ce33e83-be0c-4eda-ba15-f2fd57a0dd14',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    'c85636c6-7310-4d3e-8a92-04057196ca55',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8c913d5e-1b1b-4fce-bd6c-426dd10c0aab',
-    '4ec92f7e-640f-48f7-8d53-7c0f779dc4b3',
+    '4c847729-4ffe-4576-9ed2-2f6307c84954',
+    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
     'AustrÃ¡lia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '20f1ee10-135c-49b7-af12-da0a701ae8ce',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '3169d1ee-143f-4baf-8356-fae6b60fca51',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Indian Ocean Ter.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd90739d8-e2fa-4f34-89e2-82e5f77141ac',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '1e360a6e-d5f7-4371-bad4-da16e82053a3',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Indian Ocean Territories',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '87a64fdb-cc9a-4906-8516-e8f22905a891',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '1652db03-4771-4c55-ae9b-a935254ddca3',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2f5664b-99c4-4389-8f26-8dea57f9e66c',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '18b5e7c4-536e-4d1c-a76b-8d80ed20f77e',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Ind. Oc. Ter.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f5097a16-b3ae-49db-a501-2068e0923abf',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '2a847924-962f-4dd9-b5a5-7397e7165d02',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Ø£Ù‚Ø§Ù„ÙŠÙ… Ø§Ù„Ù…Ø­ÙŠØ· Ø§Ù„Ù‡Ù†Ø¯ÙŠ Ø§Ù„Ø£Ø³ØªØ±Ø§Ù„ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4d6fcd8a-e671-42ca-9cd2-3b3e122343c8',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '5604e31d-84a2-4bd3-b9b5-e0e3e45ba956',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Australische Territorien im Indischen Ozean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e79d75b6-36c9-411e-a9b0-8f65260bbf3a',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '549b51f7-7129-4254-aaa6-457a41b9e006',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Territorios Australianos del OcÃ©ano Ãndico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bc7b7792-2c2a-4ebd-9d60-dc1b083fdf13',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'a041ac43-0a6d-4019-af8c-d2e58215ff52',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'Territoires extÃ©rieurs australiens de l''OcÃ©an Indien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '22594b0d-7d5e-40ee-aa76-cd5b5f78ca86',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'c715f0fc-b28c-4d01-a8ec-c7734391987d',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'æ¾³å±¬å°åº¦æ´‹é ˜åœ°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dba3df14-8747-4eac-ac61-c1b0fa16181c',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    'd468d338-a63f-43df-b5b5-543893935356',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ð¹ÑÐºÐ¸Ðµ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸ Ð² Ð˜Ð½Ð´Ð¸Ð¹ÑÐºÐ¾Ð¼ Ð¾ÐºÐµÐ°Ð½Ðµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd7d53f94-4aba-4517-adf7-31f0afeab865',
-    'e35fef6b-92a2-446e-a272-60cbb4e89f0d',
+    '062b2fa2-0693-401b-a2b1-09e457a3d5d5',
+    '378c299a-86b9-4651-8aa6-1c6715cbd545',
     'TerritÃ³rios australianos do Oceano Ãndico',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '88e89951-2e61-4c98-a8aa-42abac9d9ba3',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '6a58b0cb-9af0-484a-96d0-5d5d8455dd9c',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Heard I. and McDonald Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e3346faa-b4a2-4ce0-8b56-4cad11228084',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '2176b721-facc-41b6-8e69-9efabea0a53d',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Heard I. and McDonald Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '861fd1a4-4f14-457e-a67d-d9099b25b8b8',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '89432959-105b-4a84-a0d9-ec3dd221f00d',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Territory of Heard Island and McDonald Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'de7bf782-65c2-4f58-8cbf-22f2400a2a8a',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '791f01c2-494d-4a41-a0ef-187802366ff5',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Heard Island and McDonald Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '499c437c-c642-4d64-a91a-9cd8e0f63d08',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '8154258f-7894-4958-8793-c737f5ff0381',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '29036240-65a6-4451-8161-6846e486fa7b',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'bff4a40e-70ad-4515-a633-729827758036',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'H.M.Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '052e7cb0-7ba0-42b5-88fc-1673a6020b35',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '545ebd29-106f-4709-8775-c7d65ef31dcb',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Ø¬Ø²ÙŠØ±Ø© Ù‡ÙŠØ±Ø¯ ÙˆØ¬Ø²Ø± Ù…Ø§ÙƒØ¯ÙˆÙ†Ø§Ù„Ø¯',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0c32e8a1-9125-482b-8645-c9c61fe0e162',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'fb9d167f-6a2b-4231-972c-29e0849e94b2',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Heard und McDonaldinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ac9e78b2-d21f-4421-84f8-309756206ca7',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'e4ec5f87-5fba-440b-949f-93477b7d7bde',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Islas Heard y McDonald',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4a4b9e08-be63-4bb0-b186-a597c0087da1',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '90a2cccf-8b6d-4a1f-84c2-bb71db71b895',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Ã®les Heard-et-MacDonald',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6802392e-0021-4ae8-a98e-d4c2eb64ed9d',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'fd48df95-4aa5-490e-9da5-4d1d0f7d43ea',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'èµ«å¾·å²›å’Œéº¦å…‹å”çº³ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5bcac78d-e345-4820-b555-3e5874df9a1c',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    'a63436a5-3576-4ca2-94c3-54e09d89a6ef',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'ÐžÑÑ‚Ñ€Ð¾Ð² Ð¥ÐµÑ€Ð´ Ð¸ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð° ÐœÐ°ÐºÐ´Ð¾Ð½Ð°Ð»ÑŒÐ´',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5c814ccb-330c-40ed-ac27-e004fdfa7ed0',
-    '66163fb7-4c3b-4d77-821d-7cd2642500a9',
+    '85cfdb76-e2ae-49ce-98fc-e2c5b8c2420d',
+    '83162acb-f63c-4728-81f6-ac983b102559',
     'Ilha Heard e Ilhas McDonald',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '51c6655b-aea9-48c3-bed4-c1eace66e5ec',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'd0ff1d14-cb97-4676-92fe-e9508bc0d22a',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Norfolk Island',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '86e74490-f171-417c-aa66-ba0aa97233b5',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'f9cd346e-fec0-41fa-9b36-3c0c1f5c5872',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Territory of Norfolk Island',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a891ce89-1ddb-45f3-9af2-e0c672735243',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '5ae329cd-c909-4693-8b4f-e6b045832ba0',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7dc1e579-20e1-49f0-8f51-1e1817b1b374',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'bbfbcc38-7ee6-47fa-a619-b6874680ffbc',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Nfk. I.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ae0ca32-9e58-40c0-8ea6-17ae0cf19446',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'a0cbbfeb-129c-42bc-8a79-f5cc47f9d5fb',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Ø¬Ø²ÙŠØ±Ø© Ù†ÙˆØ±ÙÙˆÙ„Ùƒ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '49de9e93-d750-4457-b4ed-578b9a93365d',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'f3baf3b9-c78d-475d-b9a8-3b3bf24b83d5',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Norfolkinsel',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '76a5ff75-349a-46af-9251-87ca6a18a139',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '26bba2c8-8c7b-43a0-8148-856866a3a39b',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Isla Norfolk',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'edc89302-c2e4-4099-94f8-6d992a61f259',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '4a32d4b5-b6cc-425c-99da-283a884d6d92',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'ÃŽle Norfolk',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9f62ccd4-37ac-46be-99ad-d090005992a8',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    '06731593-a9b2-4dfe-9fc1-9df058b69d14',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'è¯ºç¦å…‹å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '148e3b75-14aa-4c0d-887e-6ad25f7c8132',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'ff9b3c00-855f-45cd-b9d2-6dfacd6ab2aa',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'ÐÐ¾Ñ€Ñ„Ð¾Ð»Ðº',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4fe49e50-3b8c-4df4-b4c8-3adf0baf695c',
-    '6715b523-469d-435f-8fa4-c4ddfc282a63',
+    'b37c1a6c-fda8-4305-9911-b437b1e46c01',
+    '202642bc-478f-4f5f-a550-af8f90f2ea65',
     'Ilha Norfolk',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a649e7d1-dcd9-4dcc-a3b1-4aa9ea8cd5e5',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'b4d3465e-d22c-474f-a5b4-e435d51de89c',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Ashmore and Cartier Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e83f069-f9b6-48a6-90df-90da3894e0a0',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '914d3358-6d56-4d92-9c7a-1b74b40e7633',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Ashmore and Cartier Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '825373b3-571b-4ca4-92ae-c939430a88fd',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '2867ad51-e283-416c-80bc-68f40103c266',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Territory of Ashmore and Cartier Islands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '65e43826-de16-4dda-93af-949f1d40724f',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '2cde4ebf-8030-4aa1-9d95-371fd117b7ad',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Australia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '372fd2a5-e90d-4a31-8d51-99cdf7b74562',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '5c194ae8-e816-4efd-9d63-cc1e3e1ef4fb',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'A.C.Is.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2761751b-ccc0-4be6-837c-6f710e1acd8b',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '348e364e-a718-4973-b74b-bd704cb59961',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Ø¬Ø²Ø± Ø£Ø´Ù…ÙˆØ± ÙˆÙƒØ§Ø±ØªÙŠÙŠØ±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2fb2b6b1-4963-4609-b97a-51e3f149a854',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'd1b4b5b8-21bf-428d-b3cd-77e680611541',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Ashmore- und Cartierinseln',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '24fcbd4c-37ef-4671-8857-57f580d0d9ae',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '5e63018b-04fc-40d1-967e-8b1128c53d60',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Islas Ashmore y Cartier',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33091a47-986a-40b0-9654-b58dcd6dd096',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '4ab88136-26ae-4935-b3da-39d679915058',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'ÃŽles Ashmore-et-Cartier',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '39987fcb-494c-4211-8d7f-028cdbcba2ab',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    'ead7d993-622a-47e6-b96e-f3840e06700c',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'é˜¿ä»€èŽ«å°”å’Œå¡æ·ç¾¤å²›',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fc8757d9-aed7-4858-b9c4-2b9d8dabb9e9',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '270ce424-acbb-4a57-9710-bdeb8d4946bc',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐÑˆÐ¼Ð¾Ñ€ Ð¸ ÐšÐ°Ñ€Ñ‚ÑŒÐµ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b4a69a59-4c41-408d-8a1b-454714e31bff',
-    '2774db0a-c3b8-4fc7-ab13-826cc3719c3f',
+    '1720dcea-1b0f-4e23-8623-11ffeedce753',
+    '815430ee-c38d-4127-8f33-731e161d3bd0',
     'Ilhas Ashmore e Cartier',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c0f24dc7-fab0-4e58-96db-2e8a7eae65b6',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '6d81410e-f992-444b-8cde-f3330ae33cba',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'Armenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1237a443-9928-4a5a-9ada-f572ac7b2ecb',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '07f46d42-7aec-4ad8-be29-8b6f4e9732ca',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'Republic of Armenia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b168f6be-f1a9-4110-b565-c62ef4fa344a',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'f6517afd-21f1-4c6e-a5de-c7b36b279d0c',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'Arm.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'cb92dcb2-cb75-4386-a1f9-4a025f922f87',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '5e3a09c5-76b0-4f94-afb3-4c9da1d06304',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'Ø£Ø±Ù…ÙŠÙ†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7fa5a400-d795-450b-ab39-b02d23865827',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '1457847e-7e85-460e-b4d8-936933993f7c',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'Armenien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6e810371-b6c3-45f5-bffd-75981640dd15',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '9c63ddbb-49c5-48a7-b4a9-801e088c4ec9',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'ArmÃ©nie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cc97a08-21d8-4283-8334-dd1a61abfac9',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    '2f8a63dc-725a-42c1-943a-86fa37680708',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'äºšç¾Žå°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e4af541-b504-43ff-9c2c-f9f250e2e30f',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'cf24a1a5-c596-4f03-a613-248f1ea30efe',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'ÐÑ€Ð¼ÐµÐ½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd60fc506-08f3-47e0-b86f-e5debaa7e1f0',
-    '630f81d4-6148-4b2f-b6b5-c767b59c9256',
+    'e5d5dfdd-8ecf-45e7-98c5-e73e46121305',
+    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
     'ArmÃ©nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e89c18f8-6bd7-45b7-8d35-4711a5524f13',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'e21c952e-2022-4e9d-bd46-e8aeeaa0f185',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Argentina',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '929e311b-2b35-45ef-b9c7-407cffe8a361',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '44d31a24-d5c5-4d0f-94cf-7be336f9aa48',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Argentine Republic',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '999594a2-eced-4a57-8724-2baa082478db',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '51475084-5126-480c-8727-a6df57e3dbf2',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Arg.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e2f18490-be14-429f-9ed7-edc175edcf33',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '2bfac38e-29af-4fef-b5fb-9b5a0f7e6ed7',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Ø§Ù„Ø£Ø±Ø¬Ù†ØªÙŠÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1ecc2cc8-d616-45eb-9125-683dff32bb53',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '7d613804-4c3f-49d7-a924-f27b27a5037e',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Argentinien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1e107d27-d77d-4445-9076-abc58db0d6b7',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '27eac234-44fb-4bc6-b971-79ce81aa87ad',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'Argentine',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '50e19dc5-d44d-4c28-a359-776ad11574e9',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    'e22dc20e-393d-4279-957e-797d5d74cfc9',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'é˜¿æ ¹å»·',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6cb0a630-f83a-42d2-9724-8a55af43d954',
-    '74dc1bc7-37f9-4300-b9ad-e66200bd4d07',
+    '48cd1255-19dc-4b70-9032-e0ff799f7833',
+    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
     'ÐÑ€Ð³ÐµÐ½Ñ‚Ð¸Ð½Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5fe6505c-ed0a-44c1-b3ea-61e71659e084',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'c08754a1-73ca-4c21-b4a2-c92afd2bcdda',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Antigua and Barb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '90654cd4-b25f-45b2-9a56-a17a1257b0e4',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'f2026b4d-c27c-4920-9c27-d66daa7424bb',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Antigua and Barbuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '105607f2-1972-4510-8e6c-699345011f15',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '0f3b145c-eb1a-4d3d-91ee-21b2fb78dcfd',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Ant.B.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '97c883c5-ad3c-4cef-86ff-84df09bebeee',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'dee6acbc-6c4a-44fb-87ed-72a46a58ad12',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Ø£Ù†ØªÙŠØºÙˆØ§ ÙˆØ¨Ø§Ø±Ø¨ÙˆØ¯Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '272cd816-a5b8-4234-9758-6eb80d02a4e4',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '070fd339-4577-48b1-952c-106c521f1247',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Antigua und Barbuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ff59f7b7-99ac-4985-ab91-425577d975eb',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '464aae0b-dd27-4d28-b394-c2dd63a28fb3',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Antigua y Barbuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '48ca4626-4418-49ff-9cd4-1266d054dd9e',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '7f540eda-f283-4095-8946-c86c88c52d6c',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'Antigua-et-Barbuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dbe3ecb5-76c7-4548-9c91-45ce45bf3c5c',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    '9319aca5-a091-489e-9d47-80eef867c776',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'å®‰æç“œå’Œå·´å¸ƒè¾¾',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd855a03f-d33c-4b38-9496-1b2c727a1bfc',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'ae8fa999-4f0f-4c91-a4e4-54815fc96575',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'ÐÐ½Ñ‚Ð¸Ð³ÑƒÐ° Ð¸ Ð‘Ð°Ñ€Ð±ÑƒÐ´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '33ea8d9d-f74a-43c3-bc9d-eb74e26121ad',
-    '38d5dd73-c56e-40cf-a49c-f853848d5a04',
+    'ca9503f3-69cc-49ba-b697-abc5d839cca9',
+    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
     'AntÃ­gua e Barbuda',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5b7b1f53-c600-462d-b912-bab121a961f8',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'de74b8d6-ede7-444a-9c77-cccbd490dda3',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'Angola',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c8c5dd94-88cb-4379-9d85-be6a988fd5ef',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'a48e8cd0-be44-4ff2-b958-9d8042e547a4',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'People''s Republic of Angola',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'df71e2d4-e80e-444e-8914-cddb96c9e738',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '95f3dd2d-9d3b-4ff3-be90-ea0dda3596e3',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'Ang.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5fd82c67-4699-4f0f-8b78-9b162a70b2d4',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '504d391d-a559-43b3-bfa1-28c51326a2d1',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'Ø£Ù†ØºÙˆÙ„Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '25316d8b-20e8-4849-884e-315407236f3c',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    'a874718d-7684-42ae-9704-15aaa015ecf9',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'å®‰å“¥æ‹‰',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'beaa0982-ea7c-4a11-8f70-3c9f493a202e',
-    '6fb6ee18-c6df-497d-a2b1-3a84476b647d',
+    '70ee2f87-5d80-4593-a0fd-1d738d34dbf9',
+    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
     'ÐÐ½Ð³Ð¾Ð»Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '59e47c67-7c8d-43a4-9af3-58521745d96c',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '6ced5f69-8f6f-416e-94c3-dc0f4d8067fa',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'Andorra',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9736ce59-53d0-443f-b67f-9ff235b10341',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    'bb1dfc3d-aecb-4b47-801b-44103b1b46d8',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'Principality of Andorra',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b668af32-a293-4c98-b5af-df4040794953',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '253224a5-1847-4134-a028-efc7acead729',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'And.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3501a838-f9ab-4495-927a-8cca13dfb47a',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '7da2593a-4c92-431d-a42a-04a6ad3694e4',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'Ø£Ù†Ø¯ÙˆØ±Ø§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f6d3b4a6-ba84-49a3-8343-2cdd26658218',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '5157c47a-4717-4d7a-a54c-7a0f0d5d7d41',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'Andorre',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '17318900-c19f-437c-9f32-9aeb81554f8e',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    '24cd9405-72e7-4ef5-8770-4ad32f02609c',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'å®‰é“å°”',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'db80d981-3759-40fd-91a1-c2929f9cffc4',
-    'caf02d78-1dc0-4107-be90-57a618767c97',
+    'a399cb0a-d3e1-4e3c-8e44-9e571c0e9442',
+    '4d8709f2-5346-4dd7-846e-f2a74547277a',
     'ÐÐ½Ð´Ð¾Ñ€Ñ€Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e8f79e10-f416-458e-a509-b4c36baf67a1',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '019184fb-9779-4686-82f5-dd30339b0f5d',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'Algeria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '74478e5e-8404-43d9-80b8-06f56a10cb12',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'eb042768-9496-45e7-9158-7cc5731d3c58',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'People''s Democratic Republic of Algeria',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c3068e6a-bad6-47d9-a46b-030f0127dcbc',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    'b214092c-673a-4251-926b-af563882d157',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'Alg.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'af6ac852-84c0-4c5e-b46b-bb15b55b3852',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '960896cc-6751-4516-9a5d-a05418cdf97d',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1db06547-0293-4e32-aea3-4a2be1b68bc4',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '07855e82-9dda-44ce-bc52-0526b990506c',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'Algerien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e190bd37-2c60-4d4e-bee1-92f0b2bd6634',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '7b012482-55b9-4900-a1b3-bf8504bdbaf9',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'Argelia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bd10df9d-d066-4408-9766-55226d359f43',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '180392ad-351a-425b-bb07-fe9039d66021',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'AlgÃ©rie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '37c3cecc-b09c-4b4d-9254-2c00137e8e29',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '07ba5a31-edb2-417e-a35e-938e4b09a86e',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'é˜¿å°”åŠåˆ©äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '232bbe27-1640-4ec5-873d-083bfd5cb940',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '7cd4dd9d-ecf7-42a0-9fab-d657b5ac8508',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'ÐÐ»Ð¶Ð¸Ñ€',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '470a1e38-dfdf-4e85-bb61-82f729154df3',
-    '494120aa-fa7d-4857-b35a-148d0f44f021',
+    '275c4956-733b-4c6c-a0ce-eb4b734f0b9b',
+    '9c12c7b4-7146-4f65-bc96-24015c939d92',
     'ArgÃ©lia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0d74d203-e412-4f0b-a2d0-acaab369fae5',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '2841d11a-0a23-44f1-8131-83719e4205bd',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Albania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '30727cba-760e-4540-9d45-b9d7ac3e2add',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '2372dcae-e085-4608-b572-2192f2019f33',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Republic of Albania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9bb0ceee-ea62-4f9e-89a0-4743dc7dccb9',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'babe1685-6527-45be-af9e-41494bd7e4e2',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Alb.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '83688e22-08b1-443b-9e36-8dabb121ae73',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '34a11c25-676c-4145-847f-6d8381067010',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Ø£Ù„Ø¨Ø§Ù†ÙŠØ§',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c2f72809-288d-4a46-ac40-6834b6515486',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '5e2bf114-4737-4d3f-aef1-00a091705529',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Albanien',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0026b83f-6849-4623-ac98-b8afbd788963',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'ee0e58a0-2084-4d02-ada7-36f74b8f3956',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'Albanie',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d828012-b4f6-4ef1-93bc-91dc4e7202e9',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '2d16842a-d593-4fcc-959f-c3e1d7372cff',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'é˜¿å°”å·´å°¼äºš',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '25c94566-8ac4-4e2c-8c53-5324f510ba97',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    'cb7cbb54-af7e-42ce-a0ba-212fb1434cfc',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'ÐÐ»Ð±Ð°Ð½Ð¸Ñ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9b883cd2-b9ce-4e64-a0a9-c5bf6ce675a2',
-    '8c491ab5-c919-41be-98f0-9b1793214617',
+    '33f09560-be48-4a25-bc71-0686fd584929',
+    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
     'AlbÃ¢nia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e22f31d6-bcd9-4549-b564-f87adf947982',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'e6f2c0e0-e411-4c5b-9f09-f4e2a6160a83',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'Afghanistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08be5dc1-d16c-4766-9751-8d0f319696ce',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '5b03207d-3565-48f3-9fc9-85d079632230',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'Islamic State of Afghanistan',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '54c385e0-da4b-44dd-8be7-46a24ac98298',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '9cbad7d3-5e9b-497e-9ddf-902940c2e380',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'Afg.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a9ab79d9-0e2d-4f67-b134-bcb0bc5c8cd1',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'c2441377-bce1-479b-8941-afd6448b56bf',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'Ø£ÙØºØ§Ù†Ø³ØªØ§Ù†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4dab8ef7-0be1-4112-ab49-583b06059eb5',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'b47772aa-10fb-402c-a7e2-7e0fd0f79a90',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'AfganistÃ¡n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '371700b7-8d32-4116-bc02-bf9058826b41',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'bebdd3f2-3701-4b14-b406-a9f2943a209d',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'é˜¿å¯Œæ±—',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '89308f1b-adcb-46c7-93af-cd8527b01939',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    '67b3fbc4-318b-43b2-9edc-9f3385f7e651',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'ÐÑ„Ð³Ð°Ð½Ð¸ÑÑ‚Ð°Ð½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '819ab74b-ed22-48e7-8d38-816fa1789599',
-    'b839ed40-8fbf-4c69-bd25-9863792d579e',
+    'ab6c8542-3029-4dbe-bc32-e17a303febfd',
+    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
     'AfeganistÃ£o',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1b7b0a9c-3035-4780-a7b7-9c19f31552c4',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '8c3b46d8-3879-4708-98f5-62ee4bfcc304',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Siachen Glacier',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '397b96b7-647a-442f-9551-d7e0a8588752',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '10cea4b0-1ed9-4bef-857f-483393ea4c47',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Kashmir',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1cca5308-ee5b-4667-985b-d02c43317cd9',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '0ade2ece-2f68-4adc-8aa5-1e5aa0f73451',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Siachen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bf8da610-eb37-4b23-8578-d55c4eba36de',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '75d6a7c7-1a4d-452f-93bb-c3e2ffbac70e',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Ù†Ù‡Ø± Ø³ÙŠØ§ØªØ´Ù† Ø§Ù„Ø¬Ù„ÙŠØ¯ÙŠ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c59ba695-7313-4a1c-bf1d-8377bc97bfad',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'ee8b29b9-3791-4784-9c60-7743a008fbbe',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Siachen-Gletscher',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '8677d402-55a9-4c95-bed8-2af35fac424c',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'f585a851-429f-422f-a3e1-b0d593b3d95f',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Glaciar de Siachen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fa667d80-31dc-4ddf-8771-3e93d1165617',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'b57d69c3-715e-47d6-9f2d-034adc21952d',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'glacier de Siachen',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5a4d421c-a921-4f87-b980-94e948ad978e',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    'd4a3a7e0-668f-48f7-a817-46b48ea7a417',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'é”¡äºšç´å†°å·',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6fa77b04-c623-4ffa-8d16-4b648d99b192',
-    '767f3c30-c8e5-41be-9023-5ada5d268c61',
+    '51b9d106-e4f2-45d8-a34a-275dae28e71c',
+    '952c8664-00f9-4fe0-ab3e-563d65370778',
     'Ð¡Ð¸Ð°Ñ‡ÐµÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e8c81ed7-66a8-4dbc-873c-9bdca4b29a4e',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '24ff6b00-5a94-43b3-b7df-fb77cf7c4ec7',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '11c211a3-c16a-4d91-bd07-1d2dc8106fc3',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'a45190c5-7955-43ca-a763-64d258a2e329',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'Ant.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0aacb5e4-6a87-49b1-a4c8-ccf6368577d7',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '6631be89-a9bd-49c1-94ff-ef668f1fd203',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'Ø§Ù„Ù‚Ø§Ø±Ø© Ø§Ù„Ù‚Ø·Ø¨ÙŠØ© Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '4cce650f-7e60-41e2-bb29-b614619194af',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '21be00c8-8efa-4da0-b857-bad3732d6005',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'Antarktika',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b3d3f0dd-795d-4b0d-bc39-18778238ec46',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '39542b73-9463-4cc6-ae25-a52f5c8156de',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'AntÃ¡rtida',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ef631abc-433b-44ca-891d-8120892fdb4c',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'e937f511-ece3-4e03-828e-2df12f71df32',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'Antarctique',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'e15372c9-a5f1-409a-a93a-21e467644c25',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    '2c12b0ce-a317-4cea-aca7-c4b405e8aa61',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'å—æžæ´²',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1d48131c-ac29-4f9e-8b92-06b08ebcdf23',
-    '78241680-c3e4-48f9-83fc-9feedfdcf9ea',
+    'c546112c-b1f7-497f-b222-16eda30d0f24',
+    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
     'ÐÐ½Ñ‚Ð°Ñ€ÐºÑ‚Ð¸Ð´Ð°',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6276e6b9-4e9c-485a-986e-3c44926fa851',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '86f4d734-96d4-4754-9c4a-eb34a0b43ec3',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Sint Maarten',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ed54b57c-0878-4d12-82a4-a6636f0ca3db',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '56ad2c82-891a-49f6-8603-ac2daffe703c',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Sint Maarten (Dutch part)',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80850763-978c-4b3f-87e5-d0443e05d911',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '0e84e851-dee2-440f-a460-3727b1ecab0d',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Netherlands',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b4884a7c-fe48-42e8-bd47-cae71beaeba9',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    'c3e9f0c0-52a3-4a24-aff1-80a5e9492a3d',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'St. M.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'fb553c1f-cdbf-4d80-b9b5-da1b6a59a3e3',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '23fd11a2-104b-402a-9884-fe4ccd7e7881',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Ø³ÙŠÙ†Øª Ù…Ø§Ø±ØªÙ†',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '035e7b23-aa1d-4476-af01-87417c83a785',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    'a0588204-7338-4732-8542-3f8b8ede6286',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'San MartÃ­n',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '001aae42-fd0e-42ab-994e-d73a957c0c77',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '832e4190-a5b0-4bba-9fe1-739d83650e1a',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Saint-Martin',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2799c8ee-2bc7-43e9-9b70-f1834cd2006f',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '3e11bd98-5dad-4fd8-bbe5-c1b1a71dfa2d',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'è·å±žåœ£é©¬ä¸',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '9d90df9f-9dbb-4198-b7a1-d06005415794',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '9956e0c4-551a-4933-8a7c-ee7abd8e215e',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'Ð¡Ð¸Ð½Ñ‚-ÐœÐ°Ñ€Ñ‚ÐµÐ½',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '697f7b98-dbb4-4583-9a61-8d1622e5ee29',
-    'bc05e43b-fef3-425a-b4a0-526191490a05',
+    '292e617e-f161-4142-be74-c80c9a609d96',
+    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
     'SÃ£o Martinho',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '1b121e77-348b-4229-b6d5-4ca422b046f4',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '518aeb35-bb8e-40ed-a7cf-bd256e873588',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'Tuvalu',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2d4b83ca-8585-45c7-91bb-22e46aa7ba4a',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '3809ae18-86af-49d9-9a01-ebfb619cbd57',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'Tuv.',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a1c7a6c5-56e4-4a44-ab2f-cee8e4790100',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '751d5886-e51b-4cc2-8d60-1ff99a001106',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'ØªÙˆÙØ§Ù„Ùˆ',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bcb394b7-f738-42e5-8e85-6de16ffc0203',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '7b4c41ae-8289-40bb-89fe-9c8dcc1e246e',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'å›¾ç“¦å¢',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d517fa7-0536-4ac1-9caf-c1d4b3512c9d',
-    '5763a1b4-7495-48d8-a65f-4ab61e2f44af',
+    '05574c93-094c-4b59-9aeb-d9915309abbf',
+    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
     'Ð¢ÑƒÐ²Ð°Ð»Ñƒ',
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;

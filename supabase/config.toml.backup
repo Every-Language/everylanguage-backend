@@ -338,3 +338,21 @@ entrypoint = "./functions/upload-image/index.ts"
 # For example, if you want to serve static HTML pages in your function:
 # static_files = [ "./functions/upload-image/*.html" ]
 
+# Environment-specific configurations
+[remotes.development]
+project_id = "env(SUPABASE_DEV_PROJECT_REF)"
+
+[remotes.development.auth]
+site_url = "https://dev.everylanguage.com"
+
+[remotes.development.auth.email.smtp]
+enabled = true
+
+[remotes.production]
+project_id = "env(SUPABASE_PROD_PROJECT_REF)"
+
+[remotes.production.auth]
+site_url = "https://everylanguage.com"
+
+[remotes.production.auth.email.smtp]
+enabled = true

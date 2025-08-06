@@ -117,27 +117,61 @@ function generateHierarchySQL() {
   let sql = '-- Regions Hierarchy Seed Data\n';
   sql += '-- Generated from Natural Earth data\n\n';
 
-  // Insert continents
-  sql += '-- Insert continents\n';
+  // Insert continents using bulk INSERT
+  if (continents.length > 0) {
+    sql += '-- Insert continents\n';
+    sql +=
+      'INSERT INTO regions (id, name, level, parent_id, created_at) VALUES\n';
+    const continentValues = continents.map(
+      continent =>
+        `  ('${continent.id}', '${escapeSqlString(continent.name)}', '${continent.level}', NULL, NOW())`
+    );
+    sql += continentValues.join(',\n');
+    sql += '\nON CONFLICT (id) DO NOTHING;\n\n';
+  }
+
+  // Insert world regions using bulk INSERT
+  if (worldRegions.length > 0) {
+    sql += '-- Insert world regions\n';
+    sql +=
+      'INSERT INTO regions (id, name, level, parent_id, created_at) VALUES\n';
+    const regionValues = worldRegions.map(
+      region =>
+        `  ('${region.id}', '${escapeSqlString(region.name)}', '${region.level}', '${region.parent_id}', NOW())`
+    );
+    sql += regionValues.join(',\n');
+    sql += '\nON CONFLICT (id) DO NOTHING;\n\n';
+  }
+
+  // Insert aliases for continents and world regions using bulk INSERT
+  const allAliases = [];
   for (const continent of continents) {
-    sql += `INSERT INTO regions (id, name, level, parent_id, created_at) VALUES ('${continent.id}', '${escapeSqlString(continent.name)}', '${continent.level}', NULL, NOW());\n`;
-  }
-
-  sql += '\n-- Insert world regions\n';
-  for (const region of worldRegions) {
-    sql += `INSERT INTO regions (id, name, level, parent_id, created_at) VALUES ('${region.id}', '${escapeSqlString(region.name)}', '${region.level}', '${region.parent_id}', NOW());\n`;
-  }
-
-  sql +=
-    '\n-- Insert aliases for continents and world regions (for fuzzy search)\n';
-  for (const continent of continents) {
-    sql += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${continent.id}', '${escapeSqlString(continent.name)}', NOW());\n`;
+    allAliases.push({
+      id: generateId(),
+      region_id: continent.id,
+      alias_name: continent.name,
+    });
   }
   for (const region of worldRegions) {
-    sql += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${region.id}', '${escapeSqlString(region.name)}', NOW());\n`;
+    allAliases.push({
+      id: generateId(),
+      region_id: region.id,
+      alias_name: region.name,
+    });
   }
 
-  sql += '\n';
+  if (allAliases.length > 0) {
+    sql +=
+      '-- Insert aliases for continents and world regions (for fuzzy search)\n';
+    sql +=
+      'INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES\n';
+    const aliasValues = allAliases.map(
+      alias =>
+        `  ('${alias.id}', '${alias.region_id}', '${escapeSqlString(alias.alias_name)}', NOW())`
+    );
+    sql += aliasValues.join(',\n');
+    sql += '\nON CONFLICT (id) DO NOTHING;\n\n';
+  }
 
   console.log(
     `Generated SQL for ${continents.length} continents and ${worldRegions.length} world regions`
@@ -163,6 +197,12 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
   let propertiesSQL = '-- Region Properties Seed Data\n';
   propertiesSQL += '-- Generated from Natural Earth data\n\n';
 
+  // Collect all data first for bulk operations
+  const countries = [];
+  const sources = [];
+  const aliases = [];
+  const properties = [];
+
   let result = await source.read();
   let count = 0;
 
@@ -180,14 +220,14 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
     count++;
 
     // Determine parent (prefer world region over continent)
-    let parentId = 'NULL';
+    let parentId = null;
     const subregion = props.SUBREGION ? props.SUBREGION.trim() : null;
     const continent = props.CONTINENT ? props.CONTINENT.trim() : null;
 
     if (subregion && parentMap[subregion]) {
-      parentId = `'${parentMap[subregion]}'`;
+      parentId = parentMap[subregion];
     } else if (continent && parentMap[continent]) {
-      parentId = `'${parentMap[continent]}'`;
+      parentId = parentMap[continent];
     }
 
     // Convert Polygon to MultiPolygon if needed
@@ -205,12 +245,15 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
       ? `ST_GeomFromGeoJSON('${JSON.stringify(boundaryGeometry).replace(/'/g, "''")}')`
       : 'NULL';
 
-    countriesSQL += `INSERT INTO regions (id, name, level, parent_id, boundary, created_at) VALUES ('${regionId}', '${escapeSqlString(cleanName)}', 'country', ${parentId}, ${geometrySQL}, NOW());\n`;
+    countries.push({
+      id: regionId,
+      name: cleanName,
+      parent_id: parentId,
+      geometry_sql: geometrySQL,
+    });
 
     // Create multiple source entries
-    // source = where the dataset came from (natural_earth)
-    // external_id_type = what type of external ID this is
-    const sources = [
+    const countrySources = [
       {
         source: 'natural_earth',
         external_id_type: 'natural_earth_admin',
@@ -261,15 +304,22 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
       },
     ];
 
-    sources.forEach(src => {
+    countrySources.forEach(src => {
       const cleanExternalId = cleanText(src.external_id);
       if (cleanExternalId) {
-        sourcesSQL += `INSERT INTO region_sources (id, region_id, source, external_id_type, external_id, version, is_external, created_at) VALUES ('${generateId()}', '${regionId}', '${escapeSqlString(src.source)}', '${escapeSqlString(src.external_id_type)}', '${escapeSqlString(cleanExternalId)}', '${escapeSqlString(src.version)}', true, NOW());\n`;
+        sources.push({
+          id: generateId(),
+          region_id: regionId,
+          source: src.source,
+          external_id_type: src.external_id_type,
+          external_id: cleanExternalId,
+          version: src.version,
+        });
       }
     });
 
     // Create aliases for alternative names (including the main name for fuzzy search)
-    const aliases = [
+    const countryAliases = [
       cleanName, // Add the main name as an alias for fuzzy search
       props.NAME_LONG,
       props.FORMAL_EN,
@@ -289,16 +339,20 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
     // Use a Set to track already-added aliases to avoid duplicates
     const addedAliases = new Set();
 
-    aliases.forEach(alias => {
+    countryAliases.forEach(alias => {
       const cleanAlias = cleanText(alias);
       if (cleanAlias && !addedAliases.has(cleanAlias.toLowerCase())) {
         addedAliases.add(cleanAlias.toLowerCase());
-        aliasesSQL += `INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES ('${generateId()}', '${regionId}', '${escapeSqlString(cleanAlias)}', NOW());\n`;
+        aliases.push({
+          id: generateId(),
+          region_id: regionId,
+          alias_name: cleanAlias,
+        });
       }
     });
 
     // Create properties
-    const properties = [
+    const countryProperties = [
       { key: 'continent', value: props.CONTINENT },
       { key: 'region_un', value: props.REGION_UN },
       { key: 'subregion', value: props.SUBREGION },
@@ -312,14 +366,64 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
       { key: 'label_y', value: props.LABEL_Y?.toString() || '' },
     ];
 
-    properties.forEach(prop => {
+    countryProperties.forEach(prop => {
       const cleanValue = cleanText(prop.value);
       if (cleanValue) {
-        propertiesSQL += `INSERT INTO region_properties (id, region_id, key, value, created_at) VALUES ('${generateId()}', '${regionId}', '${escapeSqlString(prop.key)}', '${escapeSqlString(cleanValue)}', NOW());\n`;
+        properties.push({
+          id: generateId(),
+          region_id: regionId,
+          key: prop.key,
+          value: cleanValue,
+        });
       }
     });
 
     result = await source.read();
+  }
+
+  // Generate bulk INSERT statements
+  if (countries.length > 0) {
+    countriesSQL +=
+      'INSERT INTO regions (id, name, level, parent_id, boundary, created_at) VALUES\n';
+    const countryValues = countries.map(country => {
+      const parentIdSQL = country.parent_id ? `'${country.parent_id}'` : 'NULL';
+      return `  ('${country.id}', '${escapeSqlString(country.name)}', 'country', ${parentIdSQL}, ${country.geometry_sql}, NOW())`;
+    });
+    countriesSQL += countryValues.join(',\n');
+    countriesSQL += '\nON CONFLICT (id) DO NOTHING;\n';
+  }
+
+  if (sources.length > 0) {
+    sourcesSQL +=
+      'INSERT INTO region_sources (id, region_id, source, external_id_type, external_id, version, is_external, created_at) VALUES\n';
+    const sourceValues = sources.map(
+      source =>
+        `  ('${source.id}', '${source.region_id}', '${escapeSqlString(source.source)}', '${escapeSqlString(source.external_id_type)}', '${escapeSqlString(source.external_id)}', '${escapeSqlString(source.version)}', true, NOW())`
+    );
+    sourcesSQL += sourceValues.join(',\n');
+    sourcesSQL += '\nON CONFLICT (id) DO NOTHING;\n';
+  }
+
+  if (aliases.length > 0) {
+    aliasesSQL +=
+      'INSERT INTO region_aliases (id, region_id, alias_name, created_at) VALUES\n';
+    const aliasValues = aliases.map(
+      alias =>
+        `  ('${alias.id}', '${alias.region_id}', '${escapeSqlString(alias.alias_name)}', NOW())`
+    );
+    aliasesSQL += aliasValues.join(',\n');
+    aliasesSQL += '\nON CONFLICT (id) DO NOTHING;\n';
+  }
+
+  if (properties.length > 0) {
+    propertiesSQL +=
+      'INSERT INTO region_properties (id, region_id, key, value, created_at) VALUES\n';
+    const propertyValues = properties.map(
+      property =>
+        `  ('${property.id}', '${property.region_id}', '${escapeSqlString(property.key)}', '${escapeSqlString(property.value)}', NOW())`
+    );
+    propertiesSQL += propertyValues.join(',\n');
+    propertiesSQL += '\nON CONFLICT (id) DO NOTHING;\n';
   }
 
   console.log(`Generated SQL for ${count} countries`);
