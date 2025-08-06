@@ -7,7 +7,7 @@ This guide explains how to implement language and region fuzzy search functional
 The system provides PostgreSQL functions for fuzzy text matching:
 
 - `search_language_aliases` - Search for languages and dialects
-- `search_language_aliases_with_versions` - Search for languages filtered by content availability
+- `search_language_aliases_with_versions` - Search for languages filtered by content availability (includes actual version details)
 - `search_region_aliases` - Search for regions, countries, and locations
 
 All functions use PostgreSQL's trigram similarity matching and return ranked results with configurable similarity thresholds.
@@ -75,7 +75,7 @@ const { data, error } = await supabase.rpc('search_language_aliases', {
 
 ### Purpose
 
-Searches language entities filtered by content availability (audio versions, text versions, or both). This is ideal for finding languages that have specific types of content available.
+Searches language entities filtered by content availability (audio versions, text versions, or both). **This function returns complete version details including actual audio and text version information**, making it perfect for building version selection UIs.
 
 ### Input Parameters
 
@@ -114,6 +114,31 @@ Returns a table with the following columns:
 
 - `audio_version_count` (INTEGER) - Number of audio versions available for this language
 - `text_version_count` (INTEGER) - Number of text versions available for this language
+- `audio_versions` (JSONB) - **Array of complete audio version details**
+- `text_versions` (JSONB) - **Array of complete text version details**
+
+#### Audio Version Objects
+
+Each audio version object contains:
+
+- `id` (UUID) - Audio version ID
+- `name` (TEXT) - Version name (e.g., "OMT", "NIV", "ESV")
+- `bible_version_id` (TEXT) - Bible structure reference
+- `project_id` (UUID) - Associated project ID (nullable)
+- `created_at` (TIMESTAMP) - Creation timestamp
+- `created_by` (UUID) - Creator user ID (nullable)
+
+#### Text Version Objects
+
+Each text version object contains:
+
+- `id` (UUID) - Text version ID
+- `name` (TEXT) - Version name (e.g., "NIV", "ESV", "NLT")
+- `bible_version_id` (TEXT) - Bible structure reference
+- `project_id` (UUID) - Associated project ID (nullable)
+- `text_version_source` (TEXT) - Source type ("official_translation", "ai_transcription", "user_submitted")
+- `created_at` (TIMESTAMP) - Creation timestamp
+- `created_by` (UUID) - Creator user ID (nullable)
 
 #### Optional Region Data
 
@@ -183,6 +208,87 @@ const { data, error } = await supabase.rpc(
     max_results: 20,
   }
 );
+```
+
+#### TypeScript Usage Example
+
+```typescript
+// Define types for version details
+interface AudioVersion {
+  id: string;
+  name: string;
+  bible_version_id: string;
+  project_id: string | null;
+  created_at: string;
+  created_by: string | null;
+}
+
+interface TextVersion {
+  id: string;
+  name: string;
+  bible_version_id: string;
+  project_id: string | null;
+  text_version_source:
+    | 'official_translation'
+    | 'ai_transcription'
+    | 'user_submitted';
+  created_at: string;
+  created_by: string | null;
+}
+
+interface LanguageSearchResult {
+  similarity_threshold_used: number;
+  alias_id: string;
+  alias_name: string;
+  alias_similarity_score: number;
+  entity_id: string;
+  entity_name: string;
+  entity_level: string;
+  entity_parent_id: string | null;
+  audio_version_count: number;
+  text_version_count: number;
+  audio_versions: AudioVersion[];
+  text_versions: TextVersion[];
+  regions: any[] | null;
+}
+
+// Search function
+const searchLanguagesWithVersions = async (
+  query: string,
+  filterType: 'audio_only' | 'text_only' | 'both_required' | 'either' = 'either'
+): Promise<LanguageSearchResult[]> => {
+  const { data, error } = await supabaseClient.rpc(
+    'search_language_aliases_with_versions',
+    {
+      search_query: query,
+      filter_type: filterType,
+      max_results: 30,
+      min_similarity: 0.1,
+      include_regions: false,
+    }
+  );
+
+  if (error) {
+    console.error('Search error:', error);
+    throw error;
+  }
+
+  return data || [];
+};
+
+// Usage - build version picker UI
+const handleLanguageSearch = async (searchTerm: string) => {
+  const results = await searchLanguagesWithVersions(searchTerm, 'audio_only');
+
+  results.forEach(language => {
+    console.log(
+      `${language.entity_name} has ${language.audio_version_count} audio versions:`
+    );
+    language.audio_versions.forEach(version => {
+      console.log(`  - ${version.name} (${version.bible_version_id})`);
+    });
+  });
+};
 ```
 
 ## Function: search_region_aliases
@@ -264,7 +370,7 @@ The actual threshold used is returned in `similarity_threshold_used`.
 - Results are ordered by similarity score (highest first)
 - Default `max_results` is 30 for mobile optimization
 - Setting `include_regions`/`include_languages` to false improves performance
-- The version-filtered search is optimized with efficient JOIN operations
+- **The version-filtered search is optimized with efficient JOIN operations and returns complete version details in a single query**
 
 ### Choosing the Right Function
 
@@ -272,17 +378,19 @@ The actual threshold used is returned in `similarity_threshold_used`.
 
 - You want to search all languages regardless of content availability
 - You need a simple, fast search without content filtering
+- You don't need version details
 
 **Use `search_language_aliases_with_versions`** when:
 
 - You need to filter languages by content availability
 - Building audio-only or text-only features
-- You want to know content counts for each language
+- **You want complete version details for immediate UI rendering**
+- **Building version selection interfaces**
 - You need to ensure languages have specific types of content
 
 ### Data Format Examples
 
-#### Language Search Response (with versions)
+#### Enhanced Language Search Response (with version details)
 
 ```json
 [
@@ -295,8 +403,55 @@ The actual threshold used is returned in `similarity_threshold_used`.
     "entity_name": "English",
     "entity_level": "language",
     "entity_parent_id": null,
-    "audio_version_count": 3,
-    "text_version_count": 5,
+    "audio_version_count": 2,
+    "text_version_count": 3,
+    "audio_versions": [
+      {
+        "id": "audio-uuid-1",
+        "name": "OMT",
+        "bible_version_id": "protestant",
+        "project_id": "project-uuid-1",
+        "created_at": "2024-01-15T10:30:00Z",
+        "created_by": "user-uuid-1"
+      },
+      {
+        "id": "audio-uuid-2",
+        "name": "ESV",
+        "bible_version_id": "protestant",
+        "project_id": null,
+        "created_at": "2024-02-20T14:15:00Z",
+        "created_by": "user-uuid-2"
+      }
+    ],
+    "text_versions": [
+      {
+        "id": "text-uuid-1",
+        "name": "NIV",
+        "bible_version_id": "protestant",
+        "project_id": null,
+        "text_version_source": "official_translation",
+        "created_at": "2024-01-10T09:00:00Z",
+        "created_by": "user-uuid-1"
+      },
+      {
+        "id": "text-uuid-2",
+        "name": "ESV",
+        "bible_version_id": "protestant",
+        "project_id": null,
+        "text_version_source": "official_translation",
+        "created_at": "2024-01-12T11:30:00Z",
+        "created_by": "user-uuid-1"
+      },
+      {
+        "id": "text-uuid-3",
+        "name": "NLT",
+        "bible_version_id": "protestant",
+        "project_id": "project-uuid-2",
+        "text_version_source": "ai_transcription",
+        "created_at": "2024-03-01T16:45:00Z",
+        "created_by": "user-uuid-3"
+      }
+    ],
     "regions": [
       {
         "region_id": "uuid-here",
@@ -310,7 +465,7 @@ The actual threshold used is returned in `similarity_threshold_used`.
 ]
 ```
 
-#### Language Search Response (original function)
+#### Original Language Search Response (without version details)
 
 ```json
 [
@@ -371,3 +526,63 @@ All functions will return empty result sets (not errors) when:
 - Invalid parameters provided
 
 Always check the `error` property in your Supabase response for connection or permission issues.
+
+## Common Troubleshooting
+
+### Function Not Found
+
+If you get "function does not exist" errors, ensure your migrations are applied:
+
+```bash
+supabase db reset
+```
+
+### Column Ambiguity Errors
+
+The functions have been fixed to avoid column reference ambiguity. If you still encounter issues, ensure you're using the latest migration (20250806024519).
+
+### Empty Results
+
+Empty results are normal when:
+
+- Your database has no test data
+- The search query doesn't match any language/region names
+- The similarity threshold is too high for short queries
+
+### Performance Issues
+
+For better performance:
+
+- Use more specific search queries (3+ characters)
+- Set `include_regions`/`include_languages` to `false` when not needed
+- Use appropriate `max_results` limits (default 30 is usually good)
+
+### Working with Version Details
+
+**Benefits of the enhanced function:**
+
+- **Single query** gets language + complete version information
+- **Perfect for version picker UIs** - no additional queries needed
+- **Efficient data transfer** - only includes languages with requested content types
+- **Rich metadata** - includes creation info, source types, project associations
+
+**UI Implementation Tips:**
+
+```typescript
+// Build version selection dropdowns
+const buildVersionPicker = (result: LanguageSearchResult) => {
+  return {
+    language: result.entity_name,
+    audioOptions: result.audio_versions.map(av => ({
+      id: av.id,
+      label: `${av.name} (${av.bible_version_id})`,
+      source: av.project_id ? 'custom' : 'official',
+    })),
+    textOptions: result.text_versions.map(tv => ({
+      id: tv.id,
+      label: `${tv.name} (${tv.text_version_source})`,
+      isOfficial: tv.text_version_source === 'official_translation',
+    })),
+  };
+};
+```
