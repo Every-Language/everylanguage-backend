@@ -35,8 +35,7 @@ jobs:
       - name: Deploy configuration to Development
         run: |
           echo "📝 Deploying configuration changes to development environment..."
-          # The config.toml will be automatically applied during the link and push commands
-          # Environment-specific settings are handled by the [remotes.development] section
+          supabase config push --project-ref ${{ secrets.SUPABASE_DEV_PROJECT_REF }}
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
