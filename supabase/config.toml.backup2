@@ -206,15 +206,29 @@ template = "Your Every Language verification code is {{ .Code }}. Valid for 5 mi
 max_frequency = "60s"
 
 # Use pre-defined map of phone number to OTP for testing.
-[auth.sms.test_otp]
-4152127777 = "123456"
+# [auth.sms.test_otp]
+# 4152127777 = "123456"
 
-# Configure Twilio Verify for SMS authentication
-[auth.sms.twilio_verify]
-enabled = true  # Twilio Verify is configured and ready
-account_sid = "env(TWILIO_ACCOUNT_SID)"
-auth_token = "env(TWILIO_AUTH_TOKEN)"
-message_service_sid = "env(TWILIO_VERIFY_SERVICE_SID)"
+# Configure logged in session timeouts.
+# [auth.sessions]
+# Force log out after the specified duration.
+# timebox = "24h"
+# Force log out if the user has been inactive longer than the specified duration.
+# inactivity_timeout = "8h"
+
+# This hook runs before a token is issued and allows you to add additional claims based on the authentication method used.
+# [auth.hook.custom_access_token]
+# enabled = true
+# uri = "pg-functions://<database>/<schema>/<hook_name>"
+
+# Configure one of the supported SMS providers: `twilio`, `twilio_verify`, `messagebird`, `textlocal`, `vonage`.
+[auth.sms.twilio]
+enabled = false
+account_sid = ""
+message_service_sid = ""
+# DO NOT commit your Twilio auth token to git. Use environment variable substitution instead:
+auth_token = "env(SUPABASE_AUTH_SMS_TWILIO_AUTH_TOKEN)"
+
 # Multi-factor-authentication is available to Supabase Pro plan.
 [auth.mfa]
 # Control how many MFA factors can be enrolled at once per user.
