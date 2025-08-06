@@ -204,8 +204,6 @@ enable_confirmations = true
 template = "Your Every Language verification code is {{ .Code }}. Valid for 5 minutes."
 # Controls the minimum amount of time that must pass before sending another sms otp.
 max_frequency = "60s"
-# Users will need to confirm their phone number before signing in
-enable_confirmations = true
 
 # Use pre-defined map of phone number to OTP for testing.
 [auth.sms.test_otp]
