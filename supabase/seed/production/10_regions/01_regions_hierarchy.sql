@@ -5,84 +5,55 @@ INSERT INTO
   regions (id, name, level, parent_id, created_at)
 VALUES
   (
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     'Africa',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '6108b536-b8ec-4129-b291-6bb6b0ae5340',
+    '3eb65d9f-7476-4c8a-8708-d283dbfdbef8',
     'North America',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '0bb5e7f6-e735-429b-93d3-8f25d3de3f8a',
+    '27c9f1cf-5e56-4956-bda4-518145846aa8',
     'South America',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     'Asia',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     'Europe',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     'Oceania',
     'continent',
     NULL,
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '0f965532-dfbc-4734-bdf1-1d682e73552b',
+    'aa3eeb58-c3f2-4b70-b1f0-da745139f1d6',
     'Antarctica',
     'continent',
     NULL,
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;
 
 
 -- Insert world regions
@@ -90,264 +61,160 @@ INSERT INTO
   regions (id, name, level, parent_id, created_at)
 VALUES
   (
-    'b663da17-2e4f-4200-81ad-d472fb782211',
+    'c8296f1b-3965-46cc-a17a-166d660cbac8',
     'Eastern Africa',
     'world_region',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '8e2cb39b-461f-4ce3-b899-cdcb8738b766',
+    'affccec7-e514-4388-85a7-201fa2726c38',
     'Middle Africa',
     'world_region',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'ba437f69-f1c8-4a1e-9fae-3ee020e40255',
+    '9055a0f6-7529-4259-aa79-37a2f6ce57fa',
     'Northern Africa',
     'world_region',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '003c5a88-c08c-4e9d-92d3-4575a34b6e04',
+    '55e17c46-a55c-4cfd-a93a-061c5f3c454d',
     'Southern Africa',
     'world_region',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'd758b148-64b2-49af-95ca-92cd8007e7f9',
+    '6cfc1cca-5946-41e6-832b-4da4a9d50139',
     'Western Africa',
     'world_region',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'b8e1c8be-1319-4776-9d3f-20206a13fd48',
+    '7acd80f1-667b-40d1-b5c5-bc9d69a5f2fd',
     'Northern America',
     'world_region',
-    '6108b536-b8ec-4129-b291-6bb6b0ae5340',
+    '3eb65d9f-7476-4c8a-8708-d283dbfdbef8',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '39ac018b-4bac-4ade-ada9-4812c114df65',
+    'f1105e5e-93cf-47cb-9b01-e2a01da9336d',
     'Caribbean',
     'world_region',
-    '6108b536-b8ec-4129-b291-6bb6b0ae5340',
+    '3eb65d9f-7476-4c8a-8708-d283dbfdbef8',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'e7696761-d436-4caf-95ff-48ca1818421c',
+    '3501917b-9be6-4ac2-9bad-b9ee1d203236',
     'Central America',
     'world_region',
-    '6108b536-b8ec-4129-b291-6bb6b0ae5340',
+    '3eb65d9f-7476-4c8a-8708-d283dbfdbef8',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'd6635ced-f3d9-4f7e-8bfb-f4ef9c6a08ba',
+    '17cc94ab-c2cf-48a6-aee8-be041f3b241f',
     'South America',
     'world_region',
-    '0bb5e7f6-e735-429b-93d3-8f25d3de3f8a',
+    '27c9f1cf-5e56-4956-bda4-518145846aa8',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'b2ac40c4-8066-40e6-a97b-90316b4836c9',
+    '7db08212-7620-475c-a134-23f1e522ced6',
     'Central Asia',
     'world_region',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '7670f98c-546f-483f-b303-90122ff7e2ea',
+    'a1a52735-8d07-451e-b240-34501dbe5ba0',
     'Eastern Asia',
     'world_region',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '3dc850d8-1390-48a9-b043-7a48fccff172',
+    '5a2dcbd5-9436-4fb0-b61f-622b48f003a7',
     'South-Eastern Asia',
     'world_region',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '5de86d8a-a8fb-45bf-8f95-0dcf4e0148f6',
+    'f3fbc4b8-69bc-4d51-ad33-6f4e57cc8ff9',
     'Southern Asia',
     'world_region',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '0b1d2019-f2f4-427e-8f7b-92c692be187b',
+    'c74ba494-5eb2-4775-b99a-33f99d6e1e4f',
     'Western Asia',
     'world_region',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '8a5a8a8c-6b06-4593-8d1f-3bb04d757b58',
+    'aacd5da3-5256-4435-8e5b-582624de6062',
     'Eastern Europe',
     'world_region',
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '11826553-8367-4db1-a5c8-0cd0eaf22910',
+    'b3d5dd93-2b7c-4f24-9daa-b741f67e7b55',
     'Northern Europe',
     'world_region',
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'e5e09c05-2381-4e28-9e06-92fb8d1c5872',
+    'd22d0a26-937e-46ab-b378-1e85cc7cbd9f',
     'Southern Europe',
     'world_region',
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '96e49e40-4e92-402c-947f-22885ba1ecf6',
+    '19d28ea8-c9c8-45d0-87e3-f8e2945dff95',
     'Western Europe',
     'world_region',
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '91cced43-ff31-4ee7-841b-3ffd1733ced8',
+    '32845143-cc0a-47f6-b6dc-b6b8754dc0c5',
     'Australia and New Zealand',
     'world_region',
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    'dace5f12-f1e6-442a-a30b-6abd52bdf10b',
+    'ee7db8ca-9bb9-4f44-a223-c8538054b961',
     'Melanesia',
     'world_region',
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '013a1791-1cca-4928-ae01-ae9b50baba85',
+    'e8ace01d-109e-40e7-bd6f-d3e09204e660',
     'Micronesia',
     'world_region',
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     NOW()
-  );
-
-
-INSERT INTO
-  regions (id, name, level, parent_id, created_at)
-VALUES
+  ),
   (
-    '98de4b29-74c8-436d-9ca9-bb4ad4700bb0',
+    '6ac791f2-842a-4de9-9f29-8d6894da9492',
     'Polynesia',
     'world_region',
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;
 
 
 -- Insert aliases for continents and world regions (for fuzzy search)
@@ -355,316 +222,177 @@ INSERT INTO
   region_aliases (id, region_id, alias_name, created_at)
 VALUES
   (
-    '34017e0b-dfcb-4b82-9138-6b63841cc30a',
-    '4f91a123-612f-4db0-8290-bde21ca62fc0',
+    '0f998fc1-658a-4ad1-8e30-19be878fd072',
+    '8e0f6ace-94de-4fb7-b9bf-d61bd6ca5e13',
     'Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f782a604-de92-4fa8-89f5-5f0007cd80a5',
-    '6108b536-b8ec-4129-b291-6bb6b0ae5340',
+    '64fac8aa-39fd-48b4-96b9-eec14f92ec3a',
+    '3eb65d9f-7476-4c8a-8708-d283dbfdbef8',
     'North America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '3db1ced4-397c-449f-bc58-86c547c9812f',
-    '0bb5e7f6-e735-429b-93d3-8f25d3de3f8a',
+    '9f5069e5-cf39-4b3b-9938-16faf0d6d08f',
+    '27c9f1cf-5e56-4956-bda4-518145846aa8',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '7e6d437e-9a01-4011-8dc0-8b27cca609d9',
-    'f6c39656-459f-4995-8c06-1789a4fe7cd2',
+    '5c291536-89ba-4cea-9785-21a8108f7828',
+    'a9e0a55e-d8e1-409d-814f-491b76140a3b',
     'Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '80d35065-cc73-4a50-8d1a-f130480900ee',
-    '56fcd862-dff0-47c9-84eb-9b3bd46de092',
+    'e35d0be8-08eb-4239-ae83-bdc8094019b9',
+    '64632dba-d616-4c44-a965-6de2f0ed5e1d',
     'Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd392726a-d402-4c07-9689-53a65492adcb',
-    '62239dfd-f342-4c3e-add9-4e2ac26b2bfd',
+    '89c6a5a3-e11e-4d94-842c-9946c1055f4e',
+    '19a302ce-df34-46d1-83db-e92fa2e36186',
     'Oceania',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'ab6a23ef-fa43-44d7-a783-976d75a9c801',
-    '0f965532-dfbc-4734-bdf1-1d682e73552b',
+    '144a6ea4-4301-4ab4-a5c6-8a61fb9c2924',
+    'aa3eeb58-c3f2-4b70-b1f0-da745139f1d6',
     'Antarctica',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd87fef67-5fa2-44e4-9635-03793bc2f983',
-    'b663da17-2e4f-4200-81ad-d472fb782211',
+    'e30d5f1e-7ad7-4adf-a072-a532292819ce',
+    'c8296f1b-3965-46cc-a17a-166d660cbac8',
     'Eastern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f0e16ad7-8a5b-484e-a243-473c9c8e1914',
-    '8e2cb39b-461f-4ce3-b899-cdcb8738b766',
+    'c21a4774-5121-4b9d-8d46-f7380cb523a2',
+    'affccec7-e514-4388-85a7-201fa2726c38',
     'Middle Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f3e3bc44-479d-43ab-b947-c1251a0e7dd7',
-    'ba437f69-f1c8-4a1e-9fae-3ee020e40255',
+    '2b7fd7dd-dd66-4c00-a558-bb28ed886fe2',
+    '9055a0f6-7529-4259-aa79-37a2f6ce57fa',
     'Northern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '85c5506d-1bca-4bdb-a951-f3b33516a49e',
-    '003c5a88-c08c-4e9d-92d3-4575a34b6e04',
+    'facde586-d616-45a4-87de-466f62f186bc',
+    '55e17c46-a55c-4cfd-a93a-061c5f3c454d',
     'Southern Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'dda8263a-94d0-4ae4-b330-93ee89756c5f',
-    'd758b148-64b2-49af-95ca-92cd8007e7f9',
+    '1d9596a5-8b97-4045-856b-75c53d6c130d',
+    '6cfc1cca-5946-41e6-832b-4da4a9d50139',
     'Western Africa',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '0be52fc9-0a74-446e-b2d0-6f284010b5ef',
-    'b8e1c8be-1319-4776-9d3f-20206a13fd48',
+    '9363abb0-7fa2-45cb-a6ab-566260ba6d1d',
+    '7acd80f1-667b-40d1-b5c5-bc9d69a5f2fd',
     'Northern America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b4a72835-86bd-4c71-ad05-147ceee6a47b',
-    '39ac018b-4bac-4ade-ada9-4812c114df65',
+    'c395fdb4-b55f-4a4a-85aa-7037e2e60698',
+    'f1105e5e-93cf-47cb-9b01-e2a01da9336d',
     'Caribbean',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '5d3c3930-ed05-40d3-a5ee-21c50bd50aef',
-    'e7696761-d436-4caf-95ff-48ca1818421c',
+    '7b78b8fc-91d7-471e-933a-c3c933d3fc42',
+    '3501917b-9be6-4ac2-9bad-b9ee1d203236',
     'Central America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'b57b9f40-365b-4167-b2b5-3bd289c7383c',
-    'd6635ced-f3d9-4f7e-8bfb-f4ef9c6a08ba',
+    'b2e3cb53-fff5-48a3-bef4-9a3724116e08',
+    '17cc94ab-c2cf-48a6-aee8-be041f3b241f',
     'South America',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'bbdb1f6d-a4e2-417a-a93d-229927df5836',
-    'b2ac40c4-8066-40e6-a97b-90316b4836c9',
+    '25fd8826-63a8-47f7-acca-fba238d229be',
+    '7db08212-7620-475c-a134-23f1e522ced6',
     'Central Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '930e737e-f5ee-46c0-a167-a92af069a022',
-    '7670f98c-546f-483f-b303-90122ff7e2ea',
+    '9f41a989-c6c1-46f1-a560-aada13364250',
+    'a1a52735-8d07-451e-b240-34501dbe5ba0',
     'Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'f9fa5ca5-bc41-44d0-a9ad-bd726b3e25b8',
-    '3dc850d8-1390-48a9-b043-7a48fccff172',
+    '98897e3d-8ece-4b13-a03b-7b2fb996d21d',
+    '5a2dcbd5-9436-4fb0-b61f-622b48f003a7',
     'South-Eastern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'a7bfdefc-1c67-4f87-bd80-6bb0d6dbadab',
-    '5de86d8a-a8fb-45bf-8f95-0dcf4e0148f6',
+    'd3d1e62e-1cd6-4145-8dd9-9ee7ec64de1f',
+    'f3fbc4b8-69bc-4d51-ad33-6f4e57cc8ff9',
     'Southern Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '32e7f5e5-cb9a-450d-8bf7-7807f61d168b',
-    '0b1d2019-f2f4-427e-8f7b-92c692be187b',
+    '7b95f40f-e4fd-4f32-9d9d-a444bfb91e63',
+    'c74ba494-5eb2-4775-b99a-33f99d6e1e4f',
     'Western Asia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '2e20648f-49d4-443f-a266-84629427a1a9',
-    '8a5a8a8c-6b06-4593-8d1f-3bb04d757b58',
+    '11686c04-a11b-43bd-9fe8-2fd16f4d4b61',
+    'aacd5da3-5256-4435-8e5b-582624de6062',
     'Eastern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'd683391b-9f4f-47ea-861b-dfd92d115d72',
-    '11826553-8367-4db1-a5c8-0cd0eaf22910',
+    '70e4bc1f-4372-4625-9e15-eca5a0a2b5f9',
+    'b3d5dd93-2b7c-4f24-9daa-b741f67e7b55',
     'Northern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '17b18344-621c-46c2-8872-d04ede9893a2',
-    'e5e09c05-2381-4e28-9e06-92fb8d1c5872',
+    'e15aa8cf-85d6-419c-a673-41891a380d29',
+    'd22d0a26-937e-46ab-b378-1e85cc7cbd9f',
     'Southern Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '401771d8-0d43-4b58-88b4-905d3de74f77',
-    '96e49e40-4e92-402c-947f-22885ba1ecf6',
+    '4c3efdff-e29a-4cbe-8d3b-f35784fc065b',
+    '19d28ea8-c9c8-45d0-87e3-f8e2945dff95',
     'Western Europe',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '36c49aaf-b42b-47dd-abeb-b446937f5f0e',
-    '91cced43-ff31-4ee7-841b-3ffd1733ced8',
+    '66dc5c82-6204-4479-a290-abd70229a4bf',
+    '32845143-cc0a-47f6-b6dc-b6b8754dc0c5',
     'Australia and New Zealand',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '6d428fc2-301a-4dff-9c23-882dedaa428a',
-    'dace5f12-f1e6-442a-a30b-6abd52bdf10b',
+    '9e622270-1127-4a72-9e63-4ba7725b19a1',
+    'ee7db8ca-9bb9-4f44-a223-c8538054b961',
     'Melanesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    'c60bad1a-55f2-440b-b37d-17d0e2eebe91',
-    '013a1791-1cca-4928-ae01-ae9b50baba85',
+    '2c6106af-9a5a-4719-a996-6b3b9a9debab',
+    'e8ace01d-109e-40e7-bd6f-d3e09204e660',
     'Micronesia',
     NOW()
-  );
-
-
-INSERT INTO
-  region_aliases (id, region_id, alias_name, created_at)
-VALUES
+  ),
   (
-    '08ea3477-0fae-46d4-aec5-c3a1840ddc63',
-    '98de4b29-74c8-436d-9ca9-bb4ad4700bb0',
+    '37eb31c9-0bf9-42f2-9ead-a58a5a09f35b',
+    '6ac791f2-842a-4de9-9f29-8d6894da9492',
     'Polynesia',
     NOW()
-  );
+  )
+ON CONFLICT (id) DO NOTHING;
