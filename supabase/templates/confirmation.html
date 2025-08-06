@@ -1,166 +1,183 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Confirm Your Every Language Account</title>
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-            background-color: #f8fafc;
-            line-height: 1.6;
-            color: #1a202c;
-        }
+      body {
+        margin: 0;
+        padding: 0;
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial,
+          sans-serif;
+        background-color: #f8f7f5;
+        line-height: 1.6;
+        color: #282927;
+      }
+      .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+      .header {
+        background: linear-gradient(135deg, #b8a888 0%, #9d8c6b 100%);
+        padding: 40px 30px;
+        text-align: center;
+      }
+      .logo {
+        color: #ffffff;
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .tagline {
+        color: #f0ede6;
+        font-size: 16px;
+        margin: 0;
+      }
+      .content {
+        padding: 40px 30px;
+      }
+      .title {
+        color: #282927;
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      .message {
+        color: #5c5142;
+        font-size: 16px;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+      .cta-button {
+        display: inline-block;
+        background: linear-gradient(135deg, #ad915a 0%, #8a7347 100%);
+        color: #ffffff;
+        padding: 16px 32px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s;
+      }
+      .cta-button:hover {
+        transform: translateY(-2px);
+      }
+      .cta-container {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .otp-section {
+        background-color: #ebe5d9;
+        border: 2px dashed #d1c4a8;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .otp-code {
+        font-size: 24px;
+        font-weight: bold;
+        color: #ad915a;
+        letter-spacing: 4px;
+        font-family: 'Courier New', monospace;
+      }
+      .footer {
+        background-color: #ebe5d9;
+        padding: 30px;
+        text-align: center;
+        border-top: 1px solid #d1c4a8;
+      }
+      .footer-text {
+        color: #7d6e52;
+        font-size: 14px;
+        margin: 0;
+      }
+      .security-note {
+        background-color: #fdf9e8;
+        border-left: 4px solid #edc94a;
+        padding: 15px;
+        margin: 20px 0;
+        font-size: 14px;
+        color: #6b5937;
+      }
+      .footer-text a {
+        color: #2f7a8f;
+        text-decoration: none;
+      }
+      .footer-text a:hover {
+        text-decoration: underline;
+      }
+      @media (max-width: 600px) {
         .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #ffffff;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          margin: 0;
+          box-shadow: none;
         }
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 40px 30px;
-            text-align: center;
-        }
-        .logo {
-            color: #ffffff;
-            font-size: 32px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .tagline {
-            color: #e2e8f0;
-            font-size: 16px;
-            margin: 0;
-        }
-        .content {
-            padding: 40px 30px;
+        .header,
+        .content,
+        .footer {
+          padding: 20px;
         }
         .title {
-            color: #2d3748;
-            font-size: 24px;
-            font-weight: 600;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .message {
-            color: #4a5568;
-            font-size: 16px;
-            margin-bottom: 30px;
-            text-align: center;
+          font-size: 20px;
         }
         .cta-button {
-            display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #ffffff;
-            padding: 16px 32px;
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 600;
-            font-size: 16px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s;
+          display: block;
+          width: 100%;
+          box-sizing: border-box;
         }
-        .cta-button:hover {
-            transform: translateY(-2px);
-        }
-        .cta-container {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .otp-section {
-            background-color: #f7fafc;
-            border: 2px dashed #cbd5e0;
-            border-radius: 8px;
-            padding: 20px;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .otp-code {
-            font-size: 24px;
-            font-weight: bold;
-            color: #667eea;
-            letter-spacing: 4px;
-            font-family: 'Courier New', monospace;
-        }
-        .footer {
-            background-color: #f7fafc;
-            padding: 30px;
-            text-align: center;
-            border-top: 1px solid #e2e8f0;
-        }
-        .footer-text {
-            color: #718096;
-            font-size: 14px;
-            margin: 0;
-        }
-        .security-note {
-            background-color: #fef5e7;
-            border-left: 4px solid #f6ad55;
-            padding: 15px;
-            margin: 20px 0;
-            font-size: 14px;
-            color: #744210;
-        }
-        @media (max-width: 600px) {
-            .container {
-                margin: 0;
-                box-shadow: none;
-            }
-            .header, .content, .footer {
-                padding: 20px;
-            }
-            .title {
-                font-size: 20px;
-            }
-            .cta-button {
-                display: block;
-                width: 100%;
-                box-sizing: border-box;
-            }
-        }
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <div class="header">
-            <div class="logo">Every Language</div>
-            <p class="tagline">Breaking down language barriers worldwide</p>
+      <div class="header">
+        <div class="logo">Every Language</div>
+        <p class="tagline">Breaking down language barriers worldwide</p>
+      </div>
+
+      <div class="content">
+        <h1 class="title">Welcome to Every Language!</h1>
+        <p class="message">
+          Thank you for signing up! Please confirm your email address to get
+          started with your account.
+        </p>
+
+        <div class="cta-container">
+          <a href="{{ .ConfirmationURL }}" class="cta-button">
+            Confirm Your Account
+          </a>
         </div>
-        
-        <div class="content">
-            <h1 class="title">Welcome to Every Language!</h1>
-            <p class="message">
-                Thank you for signing up! Please confirm your email address to get started with your account.
-            </p>
-            
-            <div class="cta-container">
-                <a href="{{ .ConfirmationURL }}" class="cta-button">
-                    Confirm Your Account
-                </a>
-            </div>
-            
-            <div class="otp-section">
-                <p style="margin: 0 0 10px 0; color: #4a5568; font-size: 14px;">
-                    Or enter this verification code:
-                </p>
-                <div class="otp-code">{{ .Token }}</div>
-            </div>
-            
-            <div class="security-note">
-                <strong>Security Note:</strong> If you didn't create an account with Every Language, please ignore this email. This link will expire in 1 hour for your security.
-            </div>
+
+        <div class="otp-section">
+          <p style="margin: 0 0 10px 0; color: #5c5142; font-size: 14px">
+            Or enter this verification code:
+          </p>
+          <div class="otp-code">{{ .Token }}</div>
         </div>
-        
-        <div class="footer">
-            <p class="footer-text">
-                Every Language - Empowering global communication<br>
-                If you have any questions, contact us at support@everylanguage.com
-            </p>
+
+        <div class="security-note">
+          <strong>Security Note:</strong> If you didn't create an account with
+          Every Language, please ignore this email. This link will expire in 1
+          hour for your security.
         </div>
+      </div>
+
+      <div class="footer">
+        <p class="footer-text">
+          Every Language - Empowering global communication<br />
+          If you have any questions, contact us at
+          <a href="mailto:support@everylanguage.com"
+            >support@everylanguage.com</a
+          >
+        </p>
+      </div>
     </div>
-</body>
-</html> 
+  </body>
+</html>
