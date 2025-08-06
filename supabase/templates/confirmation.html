@@ -9,9 +9,9 @@
             margin: 0;
             padding: 0;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-            background-color: #f8fafc;
+            background-color: #f8f7f5;
             line-height: 1.6;
-            color: #1a202c;
+            color: #282927;
         }
         .container {
             max-width: 600px;
@@ -20,7 +20,7 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #b8a888 0%, #9d8c6b 100%);
             padding: 40px 30px;
             text-align: center;
         }
@@ -31,7 +31,7 @@
             margin-bottom: 10px;
         }
         .tagline {
-            color: #e2e8f0;
+            color: #f0ede6;
             font-size: 16px;
             margin: 0;
         }
@@ -39,21 +39,21 @@
             padding: 40px 30px;
         }
         .title {
-            color: #2d3748;
+            color: #282927;
             font-size: 24px;
             font-weight: 600;
             margin-bottom: 20px;
             text-align: center;
         }
         .message {
-            color: #4a5568;
+            color: #5c5142;
             font-size: 16px;
             margin-bottom: 30px;
             text-align: center;
         }
         .cta-button {
             display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #ad915a 0%, #8a7347 100%);
             color: #ffffff;
             padding: 16px 32px;
             text-decoration: none;
@@ -72,8 +72,8 @@
             margin-bottom: 30px;
         }
         .otp-section {
-            background-color: #f7fafc;
-            border: 2px dashed #cbd5e0;
+            background-color: #ebe5d9;
+            border: 2px dashed #d1c4a8;
             border-radius: 8px;
             padding: 20px;
             text-align: center;
@@ -82,28 +82,35 @@
         .otp-code {
             font-size: 24px;
             font-weight: bold;
-            color: #667eea;
+            color: #ad915a;
             letter-spacing: 4px;
             font-family: 'Courier New', monospace;
         }
         .footer {
-            background-color: #f7fafc;
+            background-color: #ebe5d9;
             padding: 30px;
             text-align: center;
-            border-top: 1px solid #e2e8f0;
+            border-top: 1px solid #d1c4a8;
         }
         .footer-text {
-            color: #718096;
+            color: #7d6e52;
             font-size: 14px;
             margin: 0;
         }
         .security-note {
-            background-color: #fef5e7;
-            border-left: 4px solid #f6ad55;
+            background-color: #fdf9e8;
+            border-left: 4px solid #edc94a;
             padding: 15px;
             margin: 20px 0;
             font-size: 14px;
-            color: #744210;
+            color: #6b5937;
+        }
+        .footer-text a {
+            color: #2f7a8f;
+            text-decoration: none;
+        }
+        .footer-text a:hover {
+            text-decoration: underline;
         }
         @media (max-width: 600px) {
             .container {
@@ -144,7 +151,7 @@
             </div>
             
             <div class="otp-section">
-                <p style="margin: 0 0 10px 0; color: #4a5568; font-size: 14px;">
+                <p style="margin: 0 0 10px 0; color: #5c5142; font-size: 14px;">
                     Or enter this verification code:
                 </p>
                 <div class="otp-code">{{ .Token }}</div>
@@ -158,7 +165,7 @@
         <div class="footer">
             <p class="footer-text">
                 Every Language - Empowering global communication<br>
-                If you have any questions, contact us at support@everylanguage.com
+                If you have any questions, contact us at <a href="mailto:support@everylanguage.com">support@everylanguage.com</a>
             </p>
         </div>
     </div>
