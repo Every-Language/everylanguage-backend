@@ -186,16 +186,100 @@ END $$;
 
 
 -- ============================================================================
--- STEP 3: Update existing records to use auth_uid as their primary ID
+-- STEP 3: Temporarily drop foreign key constraints to allow ID updates
+-- ============================================================================
+-- Temporarily drop foreign key constraints that prevent ID updates
+ALTER TABLE public.user_roles
+DROP CONSTRAINT if EXISTS user_roles_user_id_fkey;
+
+
+ALTER TABLE public.user_saved_versions
+DROP CONSTRAINT if EXISTS user_saved_versions_user_id_fkey;
+
+
+ALTER TABLE public.user_saved_versions
+DROP CONSTRAINT if EXISTS user_saved_versions_anon_user_id_fkey;
+
+
+ALTER TABLE public.user_bookmark_folders
+DROP CONSTRAINT if EXISTS user_bookmark_folders_user_id_fkey;
+
+
+ALTER TABLE public.user_bookmark_folders
+DROP CONSTRAINT if EXISTS user_bookmark_folders_anon_user_id_fkey;
+
+
+ALTER TABLE public.user_bookmarks
+DROP CONSTRAINT if EXISTS user_bookmarks_user_id_fkey;
+
+
+ALTER TABLE public.user_bookmarks
+DROP CONSTRAINT if EXISTS user_bookmarks_anon_user_id_fkey;
+
+
+ALTER TABLE public.user_playlist_groups
+DROP CONSTRAINT if EXISTS user_playlist_groups_user_id_fkey;
+
+
+ALTER TABLE public.user_playlist_groups
+DROP CONSTRAINT if EXISTS user_playlist_groups_anon_user_id_fkey;
+
+
+ALTER TABLE public.user_playlists
+DROP CONSTRAINT if EXISTS user_playlists_user_id_fkey;
+
+
+ALTER TABLE public.user_playlists
+DROP CONSTRAINT if EXISTS user_playlists_anon_user_id_fkey;
+
+
+ALTER TABLE public.user_saved_image_sets
+DROP CONSTRAINT if EXISTS user_saved_image_sets_user_id_fkey;
+
+
+ALTER TABLE public.user_saved_image_sets
+DROP CONSTRAINT if EXISTS user_saved_image_sets_anon_user_id_fkey;
+
+
+ALTER TABLE public.text_versions
+DROP CONSTRAINT if EXISTS text_versions_created_by_fkey;
+
+
+ALTER TABLE public.verse_texts
+DROP CONSTRAINT if EXISTS verse_texts_created_by_fkey;
+
+
+ALTER TABLE public.media_files
+DROP CONSTRAINT if EXISTS media_files_created_by_fkey;
+
+
+ALTER TABLE public.passages
+DROP CONSTRAINT if EXISTS passages_created_by_fkey;
+
+
+ALTER TABLE public.images
+DROP CONSTRAINT if EXISTS images_created_by_fkey;
+
+
+ALTER TABLE public.image_sets
+DROP CONSTRAINT if EXISTS image_sets_created_by_fkey;
+
+
+ALTER TABLE public.user_custom_texts
+DROP CONSTRAINT if EXISTS user_custom_texts_created_by_fkey;
+
+
+-- ============================================================================
+-- STEP 4: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
 -- We need to update all foreign key references when changing primary keys
 -- to avoid constraint violations
--- Create a temporary function to update user IDs and all their references
+-- Create a simplified function to update user IDs (constraints are dropped)
 CREATE OR REPLACE FUNCTION update_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
 BEGIN
-    -- Update all tables that reference public.users.id
-    -- Only update if the new_id exists in auth.users to avoid foreign key violations
+    -- Only update if the new_id exists in auth.users
     IF EXISTS (SELECT 1 FROM auth.users WHERE id = new_id) THEN
+        -- Update dependent tables first
         UPDATE public.user_roles SET user_id = new_id WHERE user_id = old_id;
         UPDATE public.user_saved_versions SET user_id = new_id WHERE user_id = old_id;
         UPDATE public.user_bookmark_folders SET user_id = new_id WHERE user_id = old_id;
@@ -203,6 +287,15 @@ BEGIN
         UPDATE public.user_playlist_groups SET user_id = new_id WHERE user_id = old_id;
         UPDATE public.user_playlists SET user_id = new_id WHERE user_id = old_id;
         UPDATE public.user_saved_image_sets SET user_id = new_id WHERE user_id = old_id;
+        
+        -- Update created_by columns
+        UPDATE public.text_versions SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.verse_texts SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.media_files SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.passages SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.images SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.image_sets SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.user_custom_texts SET created_by = new_id WHERE created_by = old_id;
         
         -- Finally update the users table itself
         UPDATE public.users SET id = new_id WHERE id = old_id;
@@ -213,12 +306,12 @@ END;
 $$ language plpgsql;
 
 
--- Create a temporary function to update anon user IDs and all their references  
+-- Create a simplified function to update anon user IDs (constraints are dropped) 
 CREATE OR REPLACE FUNCTION update_anon_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
 BEGIN
-    -- Update all tables that reference users_anon.id
-    -- Only update if the new_id exists in auth.users to avoid foreign key violations
+    -- Only update if the new_id exists in auth.users
     IF EXISTS (SELECT 1 FROM auth.users WHERE id = new_id) THEN
+        -- Update dependent tables first
         UPDATE public.user_saved_versions SET anon_user_id = new_id WHERE anon_user_id = old_id;
         UPDATE public.user_bookmark_folders SET anon_user_id = new_id WHERE anon_user_id = old_id;
         UPDATE public.user_bookmarks SET anon_user_id = new_id WHERE anon_user_id = old_id;
@@ -341,7 +434,7 @@ WHERE
 
 
 -- ============================================================================
--- STEP 5: Add foreign key constraints using the id columns directly (keeping auth_uid for compatibility)
+-- STEP 5: Re-add all foreign key constraints using the id columns directly
 -- ============================================================================
 -- Add foreign key constraint from public.users.id to auth.users.id
 ALTER TABLE public.users
@@ -351,6 +444,87 @@ ADD CONSTRAINT users_id_fkey FOREIGN key (id) REFERENCES auth.users (id) ON DELE
 -- Add foreign key constraint from users_anon.id to auth.users.id  
 ALTER TABLE public.users_anon
 ADD CONSTRAINT users_anon_id_fkey FOREIGN key (id) REFERENCES auth.users (id) ON DELETE CASCADE;
+
+
+-- Re-add all the foreign key constraints we dropped earlier
+ALTER TABLE public.user_roles
+ADD CONSTRAINT user_roles_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_saved_versions
+ADD CONSTRAINT user_saved_versions_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_saved_versions
+ADD CONSTRAINT user_saved_versions_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_bookmark_folders
+ADD CONSTRAINT user_bookmark_folders_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_bookmark_folders
+ADD CONSTRAINT user_bookmark_folders_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_bookmarks
+ADD CONSTRAINT user_bookmarks_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_bookmarks
+ADD CONSTRAINT user_bookmarks_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_playlist_groups
+ADD CONSTRAINT user_playlist_groups_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_playlist_groups
+ADD CONSTRAINT user_playlist_groups_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_playlists
+ADD CONSTRAINT user_playlists_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_playlists
+ADD CONSTRAINT user_playlists_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_saved_image_sets
+ADD CONSTRAINT user_saved_image_sets_user_id_fkey FOREIGN key (user_id) REFERENCES public.users (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.user_saved_image_sets
+ADD CONSTRAINT user_saved_image_sets_anon_user_id_fkey FOREIGN key (anon_user_id) REFERENCES public.users_anon (id) ON DELETE CASCADE;
+
+
+ALTER TABLE public.text_versions
+ADD CONSTRAINT text_versions_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.verse_texts
+ADD CONSTRAINT verse_texts_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.media_files
+ADD CONSTRAINT media_files_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.passages
+ADD CONSTRAINT passages_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.images
+ADD CONSTRAINT images_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.image_sets
+ADD CONSTRAINT image_sets_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.user_custom_texts
+ADD CONSTRAINT user_custom_texts_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
 
 
 -- ============================================================================
