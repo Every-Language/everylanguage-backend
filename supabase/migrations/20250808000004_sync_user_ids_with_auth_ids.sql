@@ -269,6 +269,10 @@ ALTER TABLE public.user_custom_texts
 DROP CONSTRAINT if EXISTS user_custom_texts_created_by_fkey;
 
 
+ALTER TABLE public.media_files_verses
+DROP CONSTRAINT if EXISTS media_files_verses_created_by_fkey;
+
+
 -- ============================================================================
 -- STEP 4: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
@@ -296,6 +300,7 @@ BEGIN
         UPDATE public.images SET created_by = new_id WHERE created_by = old_id;
         UPDATE public.image_sets SET created_by = new_id WHERE created_by = old_id;
         UPDATE public.user_custom_texts SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.media_files_verses SET created_by = new_id WHERE created_by = old_id;
         
         -- Finally update the users table itself
         UPDATE public.users SET id = new_id WHERE id = old_id;
@@ -525,6 +530,10 @@ ADD CONSTRAINT image_sets_created_by_fkey FOREIGN key (created_by) REFERENCES pu
 
 ALTER TABLE public.user_custom_texts
 ADD CONSTRAINT user_custom_texts_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.media_files_verses
+ADD CONSTRAINT media_files_verses_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
 
 
 -- ============================================================================
