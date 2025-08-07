@@ -5,22 +5,78 @@
 -- ============================================================================
 -- STEP 2: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
+-- We need to update all foreign key references when changing primary keys
+-- to avoid constraint violations
+-- Create a temporary function to update user IDs and all their references
+CREATE OR REPLACE FUNCTION update_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
+BEGIN
+    -- Update all tables that reference public.users.id
+    UPDATE public.user_roles SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_saved_versions SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_bookmark_folders SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_bookmarks SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_playlist_groups SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_playlists SET user_id = new_id WHERE user_id = old_id;
+    UPDATE public.user_saved_image_sets SET user_id = new_id WHERE user_id = old_id;
+    
+    -- Finally update the users table itself
+    UPDATE public.users SET id = new_id WHERE id = old_id;
+END;
+$$ language plpgsql;
+
+
+-- Create a temporary function to update anon user IDs and all their references  
+CREATE OR REPLACE FUNCTION update_anon_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
+BEGIN
+    -- Update all tables that reference users_anon.id
+    UPDATE public.user_saved_versions SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    UPDATE public.user_bookmark_folders SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    UPDATE public.user_bookmarks SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    UPDATE public.user_playlist_groups SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    UPDATE public.user_playlists SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    UPDATE public.user_saved_image_sets SET anon_user_id = new_id WHERE anon_user_id = old_id;
+    
+    -- Finally update the users_anon table itself
+    UPDATE public.users_anon SET id = new_id WHERE id = old_id;
+END;
+$$ language plpgsql;
+
+
 -- Update existing public.users records to use auth_uid as their id
-UPDATE public.users
-SET
-  id = auth_uid
-WHERE
-  id != auth_uid
-  AND auth_uid IS NOT NULL;
+DO $$
+DECLARE
+    user_record RECORD;
+BEGIN
+    FOR user_record IN 
+        SELECT id, auth_uid 
+        FROM public.users 
+        WHERE id != auth_uid AND auth_uid IS NOT NULL
+    LOOP
+        PERFORM update_user_id_cascade(user_record.id, user_record.auth_uid);
+    END LOOP;
+END $$;
 
 
 -- Update existing users_anon records to use auth_uid as their id
-UPDATE public.users_anon
-SET
-  id = auth_uid
-WHERE
-  id != auth_uid
-  AND auth_uid IS NOT NULL;
+DO $$
+DECLARE
+    anon_user_record RECORD;
+BEGIN
+    FOR anon_user_record IN 
+        SELECT id, auth_uid 
+        FROM public.users_anon 
+        WHERE id != auth_uid AND auth_uid IS NOT NULL
+    LOOP
+        PERFORM update_anon_user_id_cascade(anon_user_record.id, anon_user_record.auth_uid);
+    END LOOP;
+END $$;
+
+
+-- Drop the temporary functions
+DROP FUNCTION if EXISTS update_user_id_cascade (UUID, UUID);
+
+
+DROP FUNCTION if EXISTS update_anon_user_id_cascade (UUID, UUID);
 
 
 -- ============================================================================
