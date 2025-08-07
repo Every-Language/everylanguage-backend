@@ -273,6 +273,71 @@ ALTER TABLE public.media_files_verses
 DROP CONSTRAINT if EXISTS media_files_verses_created_by_fkey;
 
 
+ALTER TABLE public.projects
+DROP CONSTRAINT if EXISTS projects_created_by_fkey;
+
+
+-- Add all missing created_by constraint drops
+ALTER TABLE public.audio_versions
+DROP CONSTRAINT if EXISTS audio_versions_created_by_fkey;
+
+
+ALTER TABLE public.language_entity_sources
+DROP CONSTRAINT if EXISTS language_entity_sources_created_by_fkey;
+
+
+ALTER TABLE public.media_files_tags
+DROP CONSTRAINT if EXISTS media_files_tags_created_by_fkey;
+
+
+ALTER TABLE public.media_files_targets
+DROP CONSTRAINT if EXISTS media_files_targets_created_by_fkey;
+
+
+ALTER TABLE public.playlist_items
+DROP CONSTRAINT if EXISTS playlist_items_created_by_fkey;
+
+
+ALTER TABLE public.playlists
+DROP CONSTRAINT if EXISTS playlists_created_by_fkey;
+
+
+ALTER TABLE public.region_sources
+DROP CONSTRAINT if EXISTS region_sources_created_by_fkey;
+
+
+ALTER TABLE public.segments
+DROP CONSTRAINT if EXISTS segments_created_by_fkey;
+
+
+ALTER TABLE public.segments_targets
+DROP CONSTRAINT if EXISTS segments_targets_created_by_fkey;
+
+
+ALTER TABLE public.sequences
+DROP CONSTRAINT if EXISTS sequences_created_by_fkey;
+
+
+ALTER TABLE public.sequences_segments
+DROP CONSTRAINT if EXISTS sequences_segments_created_by_fkey;
+
+
+ALTER TABLE public.sequences_tags
+DROP CONSTRAINT if EXISTS sequences_tags_created_by_fkey;
+
+
+ALTER TABLE public.sequences_targets
+DROP CONSTRAINT if EXISTS sequences_targets_created_by_fkey;
+
+
+ALTER TABLE public.tags
+DROP CONSTRAINT if EXISTS tags_created_by_fkey;
+
+
+ALTER TABLE public.verse_feedback
+DROP CONSTRAINT if EXISTS verse_feedback_created_by_fkey;
+
+
 -- ============================================================================
 -- STEP 4: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
@@ -301,6 +366,24 @@ BEGIN
         UPDATE public.image_sets SET created_by = new_id WHERE created_by = old_id;
         UPDATE public.user_custom_texts SET created_by = new_id WHERE created_by = old_id;
         UPDATE public.media_files_verses SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.projects SET created_by = new_id WHERE created_by = old_id;
+        
+        -- Update all missing created_by tables
+        UPDATE public.audio_versions SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.language_entity_sources SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.media_files_tags SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.media_files_targets SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.playlist_items SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.playlists SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.region_sources SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.segments SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.segments_targets SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.sequences SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.sequences_segments SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.sequences_tags SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.sequences_targets SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.tags SET created_by = new_id WHERE created_by = old_id;
+        UPDATE public.verse_feedback SET created_by = new_id WHERE created_by = old_id;
         
         -- Finally update the users table itself
         UPDATE public.users SET id = new_id WHERE id = old_id;
@@ -534,6 +617,71 @@ ADD CONSTRAINT user_custom_texts_created_by_fkey FOREIGN key (created_by) REFERE
 
 ALTER TABLE public.media_files_verses
 ADD CONSTRAINT media_files_verses_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.projects
+ADD CONSTRAINT projects_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+-- Re-add all missing created_by constraints
+ALTER TABLE public.audio_versions
+ADD CONSTRAINT audio_versions_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.language_entity_sources
+ADD CONSTRAINT language_entity_sources_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.media_files_tags
+ADD CONSTRAINT media_files_tags_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.media_files_targets
+ADD CONSTRAINT media_files_targets_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.playlist_items
+ADD CONSTRAINT playlist_items_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.playlists
+ADD CONSTRAINT playlists_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.region_sources
+ADD CONSTRAINT region_sources_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.segments
+ADD CONSTRAINT segments_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.segments_targets
+ADD CONSTRAINT segments_targets_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.sequences
+ADD CONSTRAINT sequences_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.sequences_segments
+ADD CONSTRAINT sequences_segments_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.sequences_tags
+ADD CONSTRAINT sequences_tags_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.sequences_targets
+ADD CONSTRAINT sequences_targets_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.tags
+ADD CONSTRAINT tags_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
+
+
+ALTER TABLE public.verse_feedback
+ADD CONSTRAINT verse_feedback_created_by_fkey FOREIGN key (created_by) REFERENCES public.users (id) ON DELETE SET NULL;
 
 
 -- ============================================================================
