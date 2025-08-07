@@ -3,7 +3,153 @@
 -- and the corresponding public.users.id or users_anon.id, eliminating the auth_uid column
 -- ============================================================================
 -- ============================================================================
--- STEP 2: Update existing records to use auth_uid as their primary ID
+-- STEP 2: Clean up orphaned data before migration
+-- ============================================================================
+-- Remove orphaned records that reference non-existent users to avoid foreign key issues
+DELETE FROM public.user_roles
+WHERE
+  user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_saved_versions
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_saved_versions
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+DELETE FROM public.user_bookmark_folders
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_bookmark_folders
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+DELETE FROM public.user_bookmarks
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_bookmarks
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+DELETE FROM public.user_playlist_groups
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_playlist_groups
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+DELETE FROM public.user_playlists
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_playlists
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+DELETE FROM public.user_saved_image_sets
+WHERE
+  user_id IS NOT NULL
+  AND user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+DELETE FROM public.user_saved_image_sets
+WHERE
+  anon_user_id IS NOT NULL
+  AND anon_user_id NOT IN (
+    SELECT
+      id
+    FROM
+      public.users_anon
+  );
+
+
+-- ============================================================================
+-- STEP 3: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
 -- We need to update all foreign key references when changing primary keys
 -- to avoid constraint violations
@@ -11,16 +157,21 @@
 CREATE OR REPLACE FUNCTION update_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
 BEGIN
     -- Update all tables that reference public.users.id
-    UPDATE public.user_roles SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_saved_versions SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_bookmark_folders SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_bookmarks SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_playlist_groups SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_playlists SET user_id = new_id WHERE user_id = old_id;
-    UPDATE public.user_saved_image_sets SET user_id = new_id WHERE user_id = old_id;
-    
-    -- Finally update the users table itself
-    UPDATE public.users SET id = new_id WHERE id = old_id;
+    -- Only update if the new_id exists in auth.users to avoid foreign key violations
+    IF EXISTS (SELECT 1 FROM auth.users WHERE id = new_id) THEN
+        UPDATE public.user_roles SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_saved_versions SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_bookmark_folders SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_bookmarks SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_playlist_groups SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_playlists SET user_id = new_id WHERE user_id = old_id;
+        UPDATE public.user_saved_image_sets SET user_id = new_id WHERE user_id = old_id;
+        
+        -- Finally update the users table itself
+        UPDATE public.users SET id = new_id WHERE id = old_id;
+    ELSE
+        RAISE WARNING 'Skipping user ID update for % -> % because target ID does not exist in auth.users', old_id, new_id;
+    END IF;
 END;
 $$ language plpgsql;
 
@@ -29,15 +180,20 @@ $$ language plpgsql;
 CREATE OR REPLACE FUNCTION update_anon_user_id_cascade (old_id UUID, new_id UUID) returns void AS $$
 BEGIN
     -- Update all tables that reference users_anon.id
-    UPDATE public.user_saved_versions SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    UPDATE public.user_bookmark_folders SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    UPDATE public.user_bookmarks SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    UPDATE public.user_playlist_groups SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    UPDATE public.user_playlists SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    UPDATE public.user_saved_image_sets SET anon_user_id = new_id WHERE anon_user_id = old_id;
-    
-    -- Finally update the users_anon table itself
-    UPDATE public.users_anon SET id = new_id WHERE id = old_id;
+    -- Only update if the new_id exists in auth.users to avoid foreign key violations
+    IF EXISTS (SELECT 1 FROM auth.users WHERE id = new_id) THEN
+        UPDATE public.user_saved_versions SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        UPDATE public.user_bookmark_folders SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        UPDATE public.user_bookmarks SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        UPDATE public.user_playlist_groups SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        UPDATE public.user_playlists SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        UPDATE public.user_saved_image_sets SET anon_user_id = new_id WHERE anon_user_id = old_id;
+        
+        -- Finally update the users_anon table itself
+        UPDATE public.users_anon SET id = new_id WHERE id = old_id;
+    ELSE
+        RAISE WARNING 'Skipping anon user ID update for % -> % because target ID does not exist in auth.users', old_id, new_id;
+    END IF;
 END;
 $$ language plpgsql;
 
@@ -80,7 +236,7 @@ DROP FUNCTION if EXISTS update_anon_user_id_cascade (UUID, UUID);
 
 
 -- ============================================================================
--- STEP 3: Clean up any orphaned records (optional safety check)
+-- STEP 4: Clean up any orphaned records (optional safety check)
 -- ============================================================================
 -- Remove any records where auth_uid doesn't exist in auth.users
 DELETE FROM public.users
@@ -106,7 +262,7 @@ WHERE
 
 
 -- ============================================================================
--- STEP 4: Add foreign key constraints using the id columns directly (keeping auth_uid for compatibility)
+-- STEP 5: Add foreign key constraints using the id columns directly (keeping auth_uid for compatibility)
 -- ============================================================================
 -- Add foreign key constraint from public.users.id to auth.users.id
 ALTER TABLE public.users
@@ -119,7 +275,7 @@ ADD CONSTRAINT users_anon_id_fkey FOREIGN key (id) REFERENCES auth.users (id) ON
 
 
 -- ============================================================================
--- STEP 5: Update the trigger function to set both id and auth_uid to the same value
+-- STEP 6: Update the trigger function to set both id and auth_uid to the same value
 -- ============================================================================
 -- Update the trigger function to set both id and auth_uid to auth.users.id for backwards compatibility
 CREATE OR REPLACE FUNCTION public.handle_new_auth_user () returns trigger AS $$
