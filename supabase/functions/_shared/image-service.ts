@@ -1,4 +1,4 @@
-import { getPublicUserId } from './user-service.ts';
+import { getPublicUserIdFast } from './user-service.ts';
 
 export interface ImageData {
   remotePath: string;
@@ -79,10 +79,10 @@ export class ImageService {
 
   /**
    * Get authenticated user from auth UID
-   * @deprecated Use getPublicUserId from user-service.ts instead
+   * @deprecated Use getPublicUserIdFast from user-service.ts instead
    */
   async getAuthenticatedUser(authUid?: string) {
-    return await getPublicUserId(this.supabaseClient, authUid);
+    return getPublicUserIdFast(authUid);
   }
 
   /**
@@ -170,7 +170,7 @@ export class ImageService {
   async deleteImage(imageId: string, authUid?: string) {
     // First verify ownership
     if (authUid) {
-      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      const userId = getPublicUserIdFast(authUid);
       if (userId) {
         const { data: image } = await this.supabaseClient
           .from('images')
@@ -204,7 +204,7 @@ export class ImageService {
   ) {
     // First verify ownership
     if (authUid) {
-      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      const userId = getPublicUserIdFast(authUid);
       if (userId) {
         const { data: imageSet } = await this.supabaseClient
           .from('image_sets')
@@ -241,7 +241,7 @@ export class ImageService {
   async deleteImageSet(setId: string, authUid?: string) {
     // First verify ownership
     if (authUid) {
-      const userId = await getPublicUserId(this.supabaseClient, authUid);
+      const userId = getPublicUserIdFast(authUid);
       if (userId) {
         const { data: imageSet } = await this.supabaseClient
           .from('image_sets')
@@ -249,8 +249,10 @@ export class ImageService {
           .eq('id', setId)
           .single();
 
-        if (imageSet?.created_by !== userId) {
-          throw new Error('Not authorized to delete this image set');
+        if (imageSet && imageSet.created_by !== userId) {
+          throw new Error(
+            'Permission denied: You can only delete your own image sets'
+          );
         }
       }
     }
@@ -277,10 +279,97 @@ export class ImageService {
   }
 
   /**
+   * Duplicate an image set (for versioning)
+   */
+  async duplicateImageSet(
+    originalSetId: string,
+    newName: string,
+    authUid?: string
+  ) {
+    // First verify read access to original
+    if (authUid) {
+      const userId = getPublicUserIdFast(authUid);
+      if (userId) {
+        const { data: originalSet } = await this.supabaseClient
+          .from('image_sets')
+          .select('*')
+          .eq('id', originalSetId)
+          .single();
+
+        if (!originalSet) {
+          throw new Error('Original image set not found');
+        }
+
+        // Create new set
+        const newSet = await this.createImageSet({
+          name: newName,
+          remotePath: originalSet.remote_path,
+          createdBy: userId,
+        });
+
+        // Duplicate all images in the set
+        const { data: images } = await this.supabaseClient
+          .from('images')
+          .select('*')
+          .eq('set_id', originalSetId);
+
+        if (images && images.length > 0) {
+          for (const image of images) {
+            await this.createImage({
+              remotePath: image.remote_path,
+              targetType: image.target_type,
+              targetId: image.target_id,
+              setId: newSet.id,
+              createdBy: userId,
+              fileSize: image.file_size,
+            });
+          }
+        }
+
+        return newSet;
+      }
+    }
+
+    throw new Error('Authentication required for duplicating image sets');
+  }
+
+  /**
+   * Restore a soft-deleted image set
+   */
+  async restoreImageSet(setId: string, authUid?: string) {
+    // First verify ownership
+    if (authUid) {
+      const userId = getPublicUserIdFast(authUid);
+      if (userId) {
+        const { data: imageSet } = await this.supabaseClient
+          .from('image_sets')
+          .select('created_by')
+          .eq('id', setId)
+          .single();
+
+        if (imageSet && imageSet.created_by !== userId) {
+          throw new Error(
+            'Permission denied: You can only restore your own image sets'
+          );
+        }
+      }
+    }
+
+    const { error } = await this.supabaseClient
+      .from('image_sets')
+      .update({ deleted_at: null })
+      .eq('id', setId);
+
+    if (error) {
+      throw new Error(`Failed to restore image set: ${error.message}`);
+    }
+  }
+
+  /**
    * Check if user owns image set
    */
   async userOwnsImageSet(setId: string, authUid: string): Promise<boolean> {
-    const userId = await getPublicUserId(this.supabaseClient, authUid);
+    const userId = getPublicUserIdFast(authUid);
     if (!userId) return false;
 
     const { data } = await this.supabaseClient
@@ -296,7 +385,7 @@ export class ImageService {
    * Check if user owns image
    */
   async userOwnsImage(imageId: string, authUid: string): Promise<boolean> {
-    const userId = await getPublicUserId(this.supabaseClient, authUid);
+    const userId = getPublicUserIdFast(authUid);
     if (!userId) return false;
 
     const { data } = await this.supabaseClient

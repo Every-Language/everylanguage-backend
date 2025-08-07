@@ -6,7 +6,7 @@ import {
   parseAndValidateBibleChapterRequest,
 } from '../_shared/bible-chapter-validation.ts';
 import type { BibleChapterUploadRequest } from '../_shared/bible-chapter-validation.ts';
-import { getPublicUserId } from '../_shared/user-service.ts';
+import { getPublicUserIdFast } from '../_shared/user-service.ts';
 import {
   createBibleChapterMediaFile,
   getNextVersionForChapter,
@@ -52,12 +52,13 @@ Deno.serve(async (req: Request) => {
     }
 
     // Get the public user ID for database operations
-    const publicUserId = await getPublicUserId(supabaseClient, user.id);
+    // Optimization: Since public.users.id now equals auth.users.id, use fast getter
+    const publicUserId = getPublicUserIdFast(user.id);
     if (!publicUserId) {
       return new Response(
         JSON.stringify({
           success: false,
-          error: 'User not found in public users table',
+          error: 'Invalid user ID',
         }),
         {
           status: 400,

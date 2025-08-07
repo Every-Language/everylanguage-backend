@@ -1,6 +1,6 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
 import { corsHeaders } from './request-parser.ts';
-import { getPublicUserId } from './user-service.ts';
+import { getPublicUserIdFast } from './user-service.ts';
 
 export interface AuthenticatedContext {
   supabaseClient: any;
@@ -17,6 +17,7 @@ export interface AuthError {
 /**
  * Authentication middleware for Edge Functions
  * Handles CORS, user authentication, and public user ID retrieval
+ * Optimized: Uses fast user ID getter since auth.users.id now equals public.users.id
  */
 export async function authenticateRequest(
   req: Request
@@ -48,12 +49,14 @@ export async function authenticateRequest(
       };
     }
 
-    // Get the public user ID for database operations
-    const publicUserId = await getPublicUserId(supabaseClient, user.id);
+    // Optimization: Since public.users.id now equals auth.users.id,
+    // we can use the fast getter without database validation
+    // The auth check above already confirms the user is valid
+    const publicUserId = getPublicUserIdFast(user.id);
     if (!publicUserId) {
       return {
         status: 400,
-        error: 'User not found in public users table',
+        error: 'Invalid user ID',
       };
     }
 
