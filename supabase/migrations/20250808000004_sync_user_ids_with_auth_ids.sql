@@ -148,6 +148,43 @@ WHERE
   );
 
 
+-- Additional cleanup for any other tables that might reference users
+DELETE FROM public.user_custom_texts
+WHERE
+  created_by IS NOT NULL
+  AND created_by NOT IN (
+    SELECT
+      id
+    FROM
+      public.users
+  );
+
+
+-- Log cleanup results and show examples
+DO $$
+DECLARE
+    cleanup_count INTEGER;
+    example_record RECORD;
+BEGIN
+    -- Check remaining orphaned records after cleanup
+    SELECT COUNT(*) INTO cleanup_count FROM public.user_roles WHERE user_id NOT IN (SELECT id FROM public.users);
+    RAISE NOTICE 'Remaining orphaned user_roles records after cleanup: %', cleanup_count;
+    
+    -- Show some examples of the data we're trying to update
+    SELECT COUNT(*) INTO cleanup_count FROM public.users WHERE id != auth_uid AND auth_uid IS NOT NULL;
+    RAISE NOTICE 'Total users needing ID sync: %', cleanup_count;
+    
+    FOR example_record IN 
+        SELECT id, auth_uid
+        FROM public.users 
+        WHERE id != auth_uid AND auth_uid IS NOT NULL
+        LIMIT 3
+    LOOP
+        RAISE NOTICE 'Example user update: % -> %', example_record.id, example_record.auth_uid;
+    END LOOP;
+END $$;
+
+
 -- ============================================================================
 -- STEP 3: Update existing records to use auth_uid as their primary ID
 -- ============================================================================
@@ -202,14 +239,35 @@ $$ language plpgsql;
 DO $$
 DECLARE
     user_record RECORD;
+    affected_count INTEGER := 0;
+    error_count INTEGER := 0;
 BEGIN
+    -- Log how many records we plan to update
+    SELECT COUNT(*) INTO affected_count
+    FROM public.users 
+    WHERE id != auth_uid AND auth_uid IS NOT NULL;
+    
+    RAISE NOTICE 'Planning to update % user records to sync IDs with auth_uid', affected_count;
+    
     FOR user_record IN 
         SELECT id, auth_uid 
         FROM public.users 
         WHERE id != auth_uid AND auth_uid IS NOT NULL
     LOOP
-        PERFORM update_user_id_cascade(user_record.id, user_record.auth_uid);
+        BEGIN
+            PERFORM update_user_id_cascade(user_record.id, user_record.auth_uid);
+            RAISE NOTICE 'Successfully updated user % -> %', user_record.id, user_record.auth_uid;
+        EXCEPTION 
+            WHEN foreign_key_violation THEN
+                error_count := error_count + 1;
+                RAISE WARNING 'Foreign key violation updating user % -> %: %', user_record.id, user_record.auth_uid, SQLERRM;
+            WHEN OTHERS THEN
+                error_count := error_count + 1;
+                RAISE WARNING 'Error updating user % -> %: %', user_record.id, user_record.auth_uid, SQLERRM;
+        END;
     END LOOP;
+    
+    RAISE NOTICE 'User ID update completed. Errors: %', error_count;
 END $$;
 
 
@@ -217,14 +275,35 @@ END $$;
 DO $$
 DECLARE
     anon_user_record RECORD;
+    affected_count INTEGER := 0;
+    error_count INTEGER := 0;
 BEGIN
+    -- Log how many records we plan to update
+    SELECT COUNT(*) INTO affected_count
+    FROM public.users_anon 
+    WHERE id != auth_uid AND auth_uid IS NOT NULL;
+    
+    RAISE NOTICE 'Planning to update % anon user records to sync IDs with auth_uid', affected_count;
+    
     FOR anon_user_record IN 
         SELECT id, auth_uid 
         FROM public.users_anon 
         WHERE id != auth_uid AND auth_uid IS NOT NULL
     LOOP
-        PERFORM update_anon_user_id_cascade(anon_user_record.id, anon_user_record.auth_uid);
+        BEGIN
+            PERFORM update_anon_user_id_cascade(anon_user_record.id, anon_user_record.auth_uid);
+            RAISE NOTICE 'Successfully updated anon user % -> %', anon_user_record.id, anon_user_record.auth_uid;
+        EXCEPTION 
+            WHEN foreign_key_violation THEN
+                error_count := error_count + 1;
+                RAISE WARNING 'Foreign key violation updating anon user % -> %: %', anon_user_record.id, anon_user_record.auth_uid, SQLERRM;
+            WHEN OTHERS THEN
+                error_count := error_count + 1;
+                RAISE WARNING 'Error updating anon user % -> %: %', anon_user_record.id, anon_user_record.auth_uid, SQLERRM;
+        END;
     END LOOP;
+    
+    RAISE NOTICE 'Anon user ID update completed. Errors: %', error_count;
 END $$;
 
 
