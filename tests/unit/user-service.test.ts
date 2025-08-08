@@ -22,21 +22,20 @@ describe('UserService', () => {
 
   describe('getPublicUserId', () => {
     it('should return public user ID when auth user ID is found', async () => {
-      const mockPublicUserId = 'public-user-123';
+      const mockAuthUserId = 'auth-user-123';
+      // After migration, public.users.id equals auth.users.id
       mockSupabaseClient.single.mockResolvedValue({
-        data: { id: mockPublicUserId },
+        data: { id: mockAuthUserId },
         error: null,
       });
 
-      const result = await userService.getPublicUserId('auth-user-123');
+      const result = await userService.getPublicUserId(mockAuthUserId);
 
-      expect(result).toBe(mockPublicUserId);
+      expect(result).toBe(mockAuthUserId);
       expect(mockSupabaseClient.from).toHaveBeenCalledWith('users');
       expect(mockSupabaseClient.select).toHaveBeenCalledWith('id');
-      expect(mockSupabaseClient.eq).toHaveBeenCalledWith(
-        'auth_uid',
-        'auth-user-123'
-      );
+      // Now queries by id directly instead of auth_uid
+      expect(mockSupabaseClient.eq).toHaveBeenCalledWith('id', mockAuthUserId);
     });
 
     it('should return null when auth user ID is not provided', async () => {
@@ -74,9 +73,9 @@ describe('UserService', () => {
 
   describe('getPublicUser', () => {
     it('should return full public user record when found', async () => {
+      const mockAuthUserId = 'auth-user-123';
       const mockPublicUser = {
-        id: 'public-user-123',
-        auth_uid: 'auth-user-123',
+        id: mockAuthUserId, // After migration, id equals the auth user id
         email: 'test@example.com',
         first_name: 'John',
         last_name: 'Doe',
@@ -89,15 +88,13 @@ describe('UserService', () => {
         error: null,
       });
 
-      const result = await userService.getPublicUser('auth-user-123');
+      const result = await userService.getPublicUser(mockAuthUserId);
 
       expect(result).toEqual(mockPublicUser);
       expect(mockSupabaseClient.from).toHaveBeenCalledWith('users');
       expect(mockSupabaseClient.select).toHaveBeenCalledWith('*');
-      expect(mockSupabaseClient.eq).toHaveBeenCalledWith(
-        'auth_uid',
-        'auth-user-123'
-      );
+      // Now queries by id directly instead of auth_uid
+      expect(mockSupabaseClient.eq).toHaveBeenCalledWith('id', mockAuthUserId);
     });
 
     it('should return null when auth user ID is not provided', async () => {
@@ -118,9 +115,9 @@ describe('UserService', () => {
 
   describe('ensurePublicUser', () => {
     it('should return existing user if found', async () => {
+      const authUserId = 'auth-user-123';
       const existingUser = {
-        id: 'public-user-123',
-        auth_uid: 'auth-user-123',
+        id: authUserId, // Same ID as auth user after migration
         email: 'test@example.com',
       };
 
@@ -130,7 +127,7 @@ describe('UserService', () => {
       });
 
       const result = await userService.ensurePublicUser({
-        id: 'auth-user-123',
+        id: authUserId,
         email: 'test@example.com',
       });
 
@@ -139,9 +136,9 @@ describe('UserService', () => {
     });
 
     it('should create new user if not found', async () => {
+      const authUserId = 'auth-user-123';
       const newUser = {
-        id: 'public-user-123',
-        auth_uid: 'auth-user-123',
+        id: authUserId, // Same ID as auth user after migration
         email: 'test@example.com',
       };
 
@@ -158,21 +155,22 @@ describe('UserService', () => {
         });
 
       const result = await userService.ensurePublicUser({
-        id: 'auth-user-123',
+        id: authUserId,
         email: 'test@example.com',
       });
 
       expect(result).toEqual(newUser);
+      // Now inserts with id directly instead of auth_uid
       expect(mockSupabaseClient.insert).toHaveBeenCalledWith({
-        auth_uid: 'auth-user-123',
+        id: authUserId,
         email: 'test@example.com',
       });
     });
 
     it('should handle missing email by using empty string', async () => {
+      const authUserId = 'auth-user-123';
       const newUser = {
-        id: 'public-user-123',
-        auth_uid: 'auth-user-123',
+        id: authUserId,
         email: '',
       };
 
@@ -187,12 +185,13 @@ describe('UserService', () => {
         });
 
       const result = await userService.ensurePublicUser({
-        id: 'auth-user-123',
+        id: authUserId,
       });
 
       expect(result).toEqual(newUser);
+      // Now inserts with id directly instead of auth_uid
       expect(mockSupabaseClient.insert).toHaveBeenCalledWith({
-        auth_uid: 'auth-user-123',
+        id: authUserId,
         email: '',
       });
     });
@@ -233,21 +232,19 @@ describe('getPublicUserId standalone function', () => {
   });
 
   it('should return public user ID when found', async () => {
-    const mockPublicUserId = 'public-user-123';
+    const mockAuthUserId = 'auth-user-123';
     mockSupabaseClient.single.mockResolvedValue({
-      data: { id: mockPublicUserId },
+      data: { id: mockAuthUserId },
       error: null,
     });
 
-    const result = await getPublicUserId(mockSupabaseClient, 'auth-user-123');
+    const result = await getPublicUserId(mockSupabaseClient, mockAuthUserId);
 
-    expect(result).toBe(mockPublicUserId);
+    expect(result).toBe(mockAuthUserId);
     expect(mockSupabaseClient.from).toHaveBeenCalledWith('users');
     expect(mockSupabaseClient.select).toHaveBeenCalledWith('id');
-    expect(mockSupabaseClient.eq).toHaveBeenCalledWith(
-      'auth_uid',
-      'auth-user-123'
-    );
+    // Now queries by id directly instead of auth_uid
+    expect(mockSupabaseClient.eq).toHaveBeenCalledWith('id', mockAuthUserId);
   });
 
   it('should return null when auth user ID is not provided', async () => {
@@ -266,5 +263,16 @@ describe('getPublicUserId standalone function', () => {
       'non-existent-auth-user'
     );
     expect(result).toBeNull();
+  });
+
+  it('should return auth user ID directly when validation is disabled', async () => {
+    const authUserId = 'auth-user-123';
+
+    // Test the optimization feature
+    const result = await getPublicUserId(mockSupabaseClient, authUserId, false);
+
+    expect(result).toBe(authUserId);
+    // Should not make any database calls when validation is disabled
+    expect(mockSupabaseClient.from).not.toHaveBeenCalled();
   });
 });
