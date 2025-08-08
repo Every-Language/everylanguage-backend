@@ -1,3 +1,4 @@
+
 export type Json =
   | string
   | number
@@ -7,6 +8,11 @@ export type Json =
   | Json[]
 
 export type Database = {
+  // Allows to automatically instanciate createClient with right options
+  // instead of createClient<Database, { PostgrestVersion: 'XX' }>(URL, KEY)
+  __InternalSupabase: {
+    PostgrestVersion: "12.2.3 (519615d)"
+  }
   graphql_public: {
     Tables: {
       [_ in never]: never
@@ -17,10 +23,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          extensions?: Json
-          variables?: Json
-          query?: string
           operationName?: string
+          query?: string
+          variables?: Json
+          extensions?: Json
         }
         Returns: Json
       }
@@ -36,7 +42,6 @@ export type Database = {
     Tables: {
       app_downloads: {
         Row: {
-          anon_user_id: string | null
           app_version: string
           created_at: string | null
           device_id: string
@@ -47,9 +52,9 @@ export type Database = {
           os_version: string | null
           platform: Database["public"]["Enums"]["platform_type"]
           source_share_id: string | null
+          user_id: string | null
         }
         Insert: {
-          anon_user_id?: string | null
           app_version: string
           created_at?: string | null
           device_id: string
@@ -60,9 +65,9 @@ export type Database = {
           os_version?: string | null
           platform: Database["public"]["Enums"]["platform_type"]
           source_share_id?: string | null
+          user_id?: string | null
         }
         Update: {
-          anon_user_id?: string | null
           app_version?: string
           created_at?: string | null
           device_id?: string
@@ -73,20 +78,21 @@ export type Database = {
           os_version?: string | null
           platform?: Database["public"]["Enums"]["platform_type"]
           source_share_id?: string | null
+          user_id?: string | null
         }
         Relationships: [
-          {
-            foreignKeyName: "app_downloads_anon_user_id_fkey"
-            columns: ["anon_user_id"]
-            isOneToOne: false
-            referencedRelation: "users_anon"
-            referencedColumns: ["id"]
-          },
           {
             foreignKeyName: "app_downloads_source_share_id_fkey"
             columns: ["source_share_id"]
             isOneToOne: false
             referencedRelation: "shares"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "app_downloads_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
         ]
@@ -308,6 +314,7 @@ export type Database = {
           listened_at: string | null
           location: unknown | null
           session_id: string
+          user_id: string | null
         }
         Insert: {
           chapter_id: string
@@ -319,6 +326,7 @@ export type Database = {
           listened_at?: string | null
           location?: unknown | null
           session_id: string
+          user_id?: string | null
         }
         Update: {
           chapter_id?: string
@@ -330,6 +338,7 @@ export type Database = {
           listened_at?: string | null
           location?: unknown | null
           session_id?: string
+          user_id?: string | null
         }
         Relationships: [
           {
@@ -351,6 +360,13 @@ export type Database = {
             columns: ["session_id"]
             isOneToOne: false
             referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "chapter_listens_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
         ]
@@ -752,7 +768,6 @@ export type Database = {
       }
       media_file_listens: {
         Row: {
-          anon_user_id: string
           connectivity: Database["public"]["Enums"]["connectivity_type"] | null
           created_at: string | null
           device_id: string
@@ -764,9 +779,9 @@ export type Database = {
           media_file_id: string
           position_seconds: number
           session_id: string
+          user_id: string
         }
         Insert: {
-          anon_user_id: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
           device_id: string
@@ -778,9 +793,9 @@ export type Database = {
           media_file_id: string
           position_seconds: number
           session_id: string
+          user_id: string
         }
         Update: {
-          anon_user_id?: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
           device_id?: string
@@ -792,15 +807,9 @@ export type Database = {
           media_file_id?: string
           position_seconds?: number
           session_id?: string
+          user_id?: string
         }
         Relationships: [
-          {
-            foreignKeyName: "media_file_listens_anon_user_id_fkey"
-            columns: ["anon_user_id"]
-            isOneToOne: false
-            referencedRelation: "users_anon"
-            referencedColumns: ["id"]
-          },
           {
             foreignKeyName: "media_file_listens_language_entity_id_fkey"
             columns: ["language_entity_id"]
@@ -820,6 +829,13 @@ export type Database = {
             columns: ["session_id"]
             isOneToOne: false
             referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_file_listens_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
         ]
@@ -1035,6 +1051,7 @@ export type Database = {
           created_at: string | null
           created_by: string | null
           deleted_at: string | null
+          denormalized_audio_version_id: string | null
           duration_seconds: number
           id: string
           media_file_id: string
@@ -1046,6 +1063,7 @@ export type Database = {
           created_at?: string | null
           created_by?: string | null
           deleted_at?: string | null
+          denormalized_audio_version_id?: string | null
           duration_seconds: number
           id?: string
           media_file_id: string
@@ -1057,6 +1075,7 @@ export type Database = {
           created_at?: string | null
           created_by?: string | null
           deleted_at?: string | null
+          denormalized_audio_version_id?: string | null
           duration_seconds?: number
           id?: string
           media_file_id?: string
@@ -1070,6 +1089,13 @@ export type Database = {
             columns: ["created_by"]
             isOneToOne: false
             referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_denormalized_audio_version_id_fkey"
+            columns: ["denormalized_audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "audio_versions"
             referencedColumns: ["id"]
           },
           {
@@ -1929,7 +1955,6 @@ export type Database = {
       }
       sessions: {
         Row: {
-          anon_user_id: string
           app_version: string
           connectivity: Database["public"]["Enums"]["connectivity_type"] | null
           created_at: string | null
@@ -1941,9 +1966,9 @@ export type Database = {
           os_version: string | null
           platform: Database["public"]["Enums"]["platform_type"]
           started_at: string | null
+          user_id: string
         }
         Insert: {
-          anon_user_id: string
           app_version: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
@@ -1955,9 +1980,9 @@ export type Database = {
           os_version?: string | null
           platform: Database["public"]["Enums"]["platform_type"]
           started_at?: string | null
+          user_id: string
         }
         Update: {
-          anon_user_id?: string
           app_version?: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
@@ -1969,13 +1994,14 @@ export type Database = {
           os_version?: string | null
           platform?: Database["public"]["Enums"]["platform_type"]
           started_at?: string | null
+          user_id?: string
         }
         Relationships: [
           {
-            foreignKeyName: "sessions_anon_user_id_fkey"
-            columns: ["anon_user_id"]
+            foreignKeyName: "sessions_user_id_fkey"
+            columns: ["user_id"]
             isOneToOne: false
-            referencedRelation: "users_anon"
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
         ]
@@ -1988,10 +2014,10 @@ export type Database = {
           language_entity_id: string
           location: unknown | null
           opened_at: string | null
-          opened_by_anon_user_id: string | null
           origin_share_id: string | null
           session_id: string | null
           share_id: string
+          user_id: string | null
         }
         Insert: {
           created_at?: string | null
@@ -2000,10 +2026,10 @@ export type Database = {
           language_entity_id: string
           location?: unknown | null
           opened_at?: string | null
-          opened_by_anon_user_id?: string | null
           origin_share_id?: string | null
           session_id?: string | null
           share_id: string
+          user_id?: string | null
         }
         Update: {
           created_at?: string | null
@@ -2012,10 +2038,10 @@ export type Database = {
           language_entity_id?: string
           location?: unknown | null
           opened_at?: string | null
-          opened_by_anon_user_id?: string | null
           origin_share_id?: string | null
           session_id?: string | null
           share_id?: string
+          user_id?: string | null
         }
         Relationships: [
           {
@@ -2023,13 +2049,6 @@ export type Database = {
             columns: ["language_entity_id"]
             isOneToOne: false
             referencedRelation: "language_entities"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "share_opens_opened_by_anon_user_id_fkey"
-            columns: ["opened_by_anon_user_id"]
-            isOneToOne: false
-            referencedRelation: "users_anon"
             referencedColumns: ["id"]
           },
           {
@@ -2053,11 +2072,17 @@ export type Database = {
             referencedRelation: "shares"
             referencedColumns: ["id"]
           },
+          {
+            foreignKeyName: "share_opens_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
         ]
       }
       shares: {
         Row: {
-          anon_user_id: string
           created_at: string | null
           device_id: string
           id: string
@@ -2068,9 +2093,9 @@ export type Database = {
           share_entity_id: string
           share_entity_type: Database["public"]["Enums"]["share_entity_type"]
           shared_at: string | null
+          user_id: string
         }
         Insert: {
-          anon_user_id: string
           created_at?: string | null
           device_id: string
           id?: string
@@ -2081,9 +2106,9 @@ export type Database = {
           share_entity_id: string
           share_entity_type: Database["public"]["Enums"]["share_entity_type"]
           shared_at?: string | null
+          user_id: string
         }
         Update: {
-          anon_user_id?: string
           created_at?: string | null
           device_id?: string
           id?: string
@@ -2094,15 +2119,9 @@ export type Database = {
           share_entity_id?: string
           share_entity_type?: Database["public"]["Enums"]["share_entity_type"]
           shared_at?: string | null
+          user_id?: string
         }
         Relationships: [
-          {
-            foreignKeyName: "shares_anon_user_id_fkey"
-            columns: ["anon_user_id"]
-            isOneToOne: false
-            referencedRelation: "users_anon"
-            referencedColumns: ["id"]
-          },
           {
             foreignKeyName: "shares_language_entity_id_fkey"
             columns: ["language_entity_id"]
@@ -2122,6 +2141,13 @@ export type Database = {
             columns: ["session_id"]
             isOneToOne: false
             referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "shares_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
         ]
@@ -2428,6 +2454,55 @@ export type Database = {
             foreignKeyName: "user_contributions_reviewed_by_fkey"
             columns: ["reviewed_by"]
             isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      user_current_selections: {
+        Row: {
+          created_at: string
+          id: string
+          selected_audio_version: string | null
+          selected_text_version: string | null
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          selected_audio_version?: string | null
+          selected_text_version?: string | null
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          selected_audio_version?: string | null
+          selected_text_version?: string | null
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "user_current_selections_selected_audio_version_fkey"
+            columns: ["selected_audio_version"]
+            isOneToOne: false
+            referencedRelation: "audio_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_text_version_fkey"
+            columns: ["selected_text_version"]
+            isOneToOne: false
+            referencedRelation: "text_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: true
             referencedRelation: "users"
             referencedColumns: ["id"]
           },
@@ -2782,6 +2857,7 @@ export type Database = {
           email: string | null
           first_name: string | null
           id: string
+          is_anonymous: boolean
           last_name: string | null
           phone_number: string | null
           updated_at: string | null
@@ -2791,6 +2867,7 @@ export type Database = {
           email?: string | null
           first_name?: string | null
           id?: string
+          is_anonymous?: boolean
           last_name?: string | null
           phone_number?: string | null
           updated_at?: string | null
@@ -2800,43 +2877,12 @@ export type Database = {
           email?: string | null
           first_name?: string | null
           id?: string
+          is_anonymous?: boolean
           last_name?: string | null
           phone_number?: string | null
           updated_at?: string | null
         }
         Relationships: []
-      }
-      users_anon: {
-        Row: {
-          created_at: string | null
-          device_id: string | null
-          id: string
-          updated_at: string | null
-          user_id: string | null
-        }
-        Insert: {
-          created_at?: string | null
-          device_id?: string | null
-          id?: string
-          updated_at?: string | null
-          user_id?: string | null
-        }
-        Update: {
-          created_at?: string | null
-          device_id?: string | null
-          id?: string
-          updated_at?: string | null
-          user_id?: string | null
-        }
-        Relationships: [
-          {
-            foreignKeyName: "users_anon_user_id_fkey"
-            columns: ["user_id"]
-            isOneToOne: false
-            referencedRelation: "users"
-            referencedColumns: ["id"]
-          },
-        ]
       }
       verse_feedback: {
         Row: {
@@ -2911,7 +2957,6 @@ export type Database = {
       }
       verse_listens: {
         Row: {
-          anon_user_id: string
           connectivity: Database["public"]["Enums"]["connectivity_type"] | null
           created_at: string | null
           device_id: string
@@ -2920,10 +2965,10 @@ export type Database = {
           listened_at: string | null
           location: unknown | null
           session_id: string
+          user_id: string
           verse_id: string
         }
         Insert: {
-          anon_user_id: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
           device_id: string
@@ -2932,10 +2977,10 @@ export type Database = {
           listened_at?: string | null
           location?: unknown | null
           session_id: string
+          user_id: string
           verse_id: string
         }
         Update: {
-          anon_user_id?: string
           connectivity?: Database["public"]["Enums"]["connectivity_type"] | null
           created_at?: string | null
           device_id?: string
@@ -2944,16 +2989,10 @@ export type Database = {
           listened_at?: string | null
           location?: unknown | null
           session_id?: string
+          user_id?: string
           verse_id?: string
         }
         Relationships: [
-          {
-            foreignKeyName: "verse_listens_anon_user_id_fkey"
-            columns: ["anon_user_id"]
-            isOneToOne: false
-            referencedRelation: "users_anon"
-            referencedColumns: ["id"]
-          },
           {
             foreignKeyName: "verse_listens_language_entity_id_fkey"
             columns: ["language_entity_id"]
@@ -2966,6 +3005,13 @@ export type Database = {
             columns: ["session_id"]
             isOneToOne: false
             referencedRelation: "sessions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_listens_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "users"
             referencedColumns: ["id"]
           },
           {
@@ -3117,14 +3163,63 @@ export type Database = {
         }
         Relationships: []
       }
+      passages_with_playlist_id: {
+        Row: {
+          book_id: string | null
+          created_at: string | null
+          created_by: string | null
+          end_verse_id: string | null
+          id: string | null
+          playlist_id: string | null
+          start_verse_id: string | null
+          updated_at: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "passages_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "books"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_created_by_fkey"
+            columns: ["created_by"]
+            isOneToOne: false
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_end_verse_id_fkey"
+            columns: ["end_verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_start_verse_id_fkey"
+            columns: ["start_verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "playlist_items_playlist_id_fkey"
+            columns: ["playlist_id"]
+            isOneToOne: false
+            referencedRelation: "playlists"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Functions: {
       _postgis_deprecate: {
-        Args: { version: string; oldname: string; newname: string }
+        Args: { oldname: string; newname: string; version: string }
         Returns: undefined
       }
       _postgis_index_extent: {
-        Args: { col: string; tbl: unknown }
+        Args: { tbl: unknown; col: string }
         Returns: unknown
       }
       _postgis_pgsql_version: {
@@ -3136,7 +3231,7 @@ export type Database = {
         Returns: string
       }
       _postgis_selectivity: {
-        Args: { geom: unknown; tbl: unknown; att_name: string; mode?: string }
+        Args: { tbl: unknown; att_name: string; geom: unknown; mode?: string }
         Returns: number
       }
       _st_3dintersects: {
@@ -3152,7 +3247,7 @@ export type Database = {
         Returns: boolean
       }
       _st_containsproperly: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       _st_coveredby: {
@@ -3163,7 +3258,7 @@ export type Database = {
       }
       _st_covers: {
         Args:
-          | { geog2: unknown; geog1: unknown }
+          | { geog1: unknown; geog2: unknown }
           | { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
@@ -3217,15 +3312,15 @@ export type Database = {
         Returns: number
       }
       _st_touches: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       _st_voronoi: {
         Args: {
-          return_polygons?: boolean
           g1: unknown
           clip?: unknown
           tolerance?: number
+          return_polygons?: boolean
         }
         Returns: unknown
       }
@@ -3240,28 +3335,28 @@ export type Database = {
       addgeometrycolumn: {
         Args:
           | {
-              new_srid: number
-              column_name: string
-              table_name: string
-              use_typmod?: boolean
-              new_dim: number
-              new_type: string
-            }
-          | {
-              new_type: string
-              use_typmod?: boolean
-              new_dim: number
-              schema_name: string
-              table_name: string
-              column_name: string
-              new_srid: number
-            }
-          | {
-              table_name: string
               catalog_name: string
               schema_name: string
+              table_name: string
               column_name: string
               new_srid_in: number
+              new_type: string
+              new_dim: number
+              use_typmod?: boolean
+            }
+          | {
+              schema_name: string
+              table_name: string
+              column_name: string
+              new_srid: number
+              new_type: string
+              new_dim: number
+              use_typmod?: boolean
+            }
+          | {
+              table_name: string
+              column_name: string
+              new_srid: number
               new_type: string
               new_dim: number
               use_typmod?: boolean
@@ -3319,20 +3414,20 @@ export type Database = {
       dropgeometrycolumn: {
         Args:
           | {
-              column_name: string
-              schema_name: string
               catalog_name: string
+              schema_name: string
               table_name: string
+              column_name: string
             }
-          | { column_name: string; table_name: string; schema_name: string }
+          | { schema_name: string; table_name: string; column_name: string }
           | { table_name: string; column_name: string }
         Returns: string
       }
       dropgeometrytable: {
         Args:
-          | { schema_name: string; catalog_name: string; table_name: string }
+          | { catalog_name: string; schema_name: string; table_name: string }
+          | { schema_name: string; table_name: string }
           | { table_name: string }
-          | { table_name: string; schema_name: string }
         Returns: string
       }
       enablelongtransactions: {
@@ -3392,7 +3487,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_above: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_analyze: {
@@ -3404,7 +3499,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_cmp: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: number
       }
       geometry_contained_3d: {
@@ -3420,7 +3515,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_distance_box: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: number
       }
       geometry_distance_centroid: {
@@ -3432,7 +3527,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_ge: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_gist_compress_2d: {
@@ -3484,15 +3579,15 @@ export type Database = {
         Returns: unknown
       }
       geometry_overabove: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overbelow: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overlaps: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overlaps_3d: {
@@ -3500,7 +3595,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_overleft: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overright: {
@@ -3512,7 +3607,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_right: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_same: {
@@ -3552,7 +3647,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_within: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometrytype: {
@@ -3719,9 +3814,9 @@ export type Database = {
       }
       populate_geometry_columns: {
         Args:
+          | { tbl_oid: unknown; use_typmod?: boolean }
           | { use_typmod?: boolean }
-          | { use_typmod?: boolean; tbl_oid: unknown }
-        Returns: string
+        Returns: number
       }
       postgis_addbbox: {
         Args: { "": unknown }
@@ -3894,8 +3989,8 @@ export type Database = {
           regions: Json
           audio_version_count: number
           text_version_count: number
-          text_versions: Json
           audio_versions: Json
+          text_versions: Json
         }[]
       }
       search_region_aliases: {
@@ -3954,7 +4049,7 @@ export type Database = {
         Returns: number
       }
       st_3dlongestline: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_3dmakebox: {
@@ -3970,7 +4065,7 @@ export type Database = {
         Returns: number
       }
       st_3dshortestline: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_addpoint: {
@@ -3979,8 +4074,8 @@ export type Database = {
       }
       st_angle: {
         Args:
-          | { line2: unknown; line1: unknown }
-          | { pt3: unknown; pt2: unknown; pt1: unknown; pt4?: unknown }
+          | { line1: unknown; line2: unknown }
+          | { pt1: unknown; pt2: unknown; pt3: unknown; pt4?: unknown }
         Returns: number
       }
       st_area: {
@@ -4064,7 +4159,7 @@ export type Database = {
         Returns: string
       }
       st_aslatlontext: {
-        Args: { tmpl?: string; geom: unknown }
+        Args: { geom: unknown; tmpl?: string }
         Returns: string
       }
       st_asmarc21: {
@@ -4095,32 +4190,32 @@ export type Database = {
       st_astwkb: {
         Args:
           | {
-              ids: number[]
-              prec_m?: number
-              with_boxes?: boolean
-              prec_z?: number
-              prec?: number
               geom: unknown[]
+              ids: number[]
+              prec?: number
+              prec_z?: number
+              prec_m?: number
               with_sizes?: boolean
+              with_boxes?: boolean
             }
           | {
-              prec_m?: number
               geom: unknown
               prec?: number
               prec_z?: number
+              prec_m?: number
               with_sizes?: boolean
               with_boxes?: boolean
             }
         Returns: string
       }
       st_asx3d: {
-        Args: { maxdecimaldigits?: number; options?: number; geom: unknown }
+        Args: { geom: unknown; maxdecimaldigits?: number; options?: number }
         Returns: string
       }
       st_azimuth: {
         Args:
           | { geog1: unknown; geog2: unknown }
-          | { geom2: unknown; geom1: unknown }
+          | { geom1: unknown; geom2: unknown }
         Returns: number
       }
       st_boundary: {
@@ -4128,13 +4223,13 @@ export type Database = {
         Returns: unknown
       }
       st_boundingdiagonal: {
-        Args: { fits?: boolean; geom: unknown }
+        Args: { geom: unknown; fits?: boolean }
         Returns: unknown
       }
       st_buffer: {
         Args:
-          | { geom: unknown; quadsegs: number; radius: number }
           | { geom: unknown; radius: number; options?: string }
+          | { geom: unknown; radius: number; quadsegs: number }
         Returns: unknown
       }
       st_buildarea: {
@@ -4162,7 +4257,7 @@ export type Database = {
         Returns: unknown[]
       }
       st_collect: {
-        Args: { "": unknown[] } | { geom2: unknown; geom1: unknown }
+        Args: { "": unknown[] } | { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_collectionextract: {
@@ -4210,19 +4305,19 @@ export type Database = {
         Returns: boolean
       }
       st_crosses: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       st_curvetoline: {
-        Args: { toltype?: number; geom: unknown; tol?: number; flags?: number }
+        Args: { geom: unknown; tol?: number; toltype?: number; flags?: number }
         Returns: unknown
       }
       st_delaunaytriangles: {
-        Args: { flags?: number; g1: unknown; tolerance?: number }
+        Args: { g1: unknown; tolerance?: number; flags?: number }
         Returns: unknown
       }
       st_difference: {
-        Args: { gridsize?: number; geom1: unknown; geom2: unknown }
+        Args: { geom1: unknown; geom2: unknown; gridsize?: number }
         Returns: unknown
       }
       st_dimension: {
@@ -4242,7 +4337,7 @@ export type Database = {
       st_distancesphere: {
         Args:
           | { geom1: unknown; geom2: unknown }
-          | { radius: number; geom1: unknown; geom2: unknown }
+          | { geom1: unknown; geom2: unknown; radius: number }
         Returns: number
       }
       st_distancespheroid: {
@@ -4283,13 +4378,13 @@ export type Database = {
         Returns: unknown
       }
       st_equals: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       st_expand: {
         Args:
-          | { box: unknown; dy: number; dx: number }
-          | { dz?: number; dy: number; dx: number; box: unknown }
+          | { box: unknown; dx: number; dy: number }
+          | { box: unknown; dx: number; dy: number; dz?: number }
           | { geom: unknown; dx: number; dy: number; dz?: number; dm?: number }
         Returns: unknown
       }
@@ -4306,7 +4401,7 @@ export type Database = {
         Returns: unknown
       }
       st_force3d: {
-        Args: { zvalue?: number; geom: unknown }
+        Args: { geom: unknown; zvalue?: number }
         Returns: unknown
       }
       st_force3dm: {
@@ -4314,11 +4409,11 @@ export type Database = {
         Returns: unknown
       }
       st_force3dz: {
-        Args: { zvalue?: number; geom: unknown }
+        Args: { geom: unknown; zvalue?: number }
         Returns: unknown
       }
       st_force4d: {
-        Args: { zvalue?: number; geom: unknown; mvalue?: number }
+        Args: { geom: unknown; zvalue?: number; mvalue?: number }
         Returns: unknown
       }
       st_forcecollection: {
@@ -4347,8 +4442,8 @@ export type Database = {
       }
       st_generatepoints: {
         Args:
-          | { npoints: number; area: unknown }
-          | { seed: number; area: unknown; npoints: number }
+          | { area: unknown; npoints: number }
+          | { area: unknown; npoints: number; seed: number }
         Returns: unknown
       }
       st_geogfromtext: {
@@ -4443,7 +4538,7 @@ export type Database = {
         Returns: number
       }
       st_hexagon: {
-        Args: { cell_i: number; origin?: unknown; size: number; cell_j: number }
+        Args: { size: number; cell_i: number; cell_j: number; origin?: unknown }
         Returns: unknown
       }
       st_hexagongrid: {
@@ -4451,7 +4546,7 @@ export type Database = {
         Returns: Record<string, unknown>[]
       }
       st_interpolatepoint: {
-        Args: { point: unknown; line: unknown }
+        Args: { line: unknown; point: unknown }
         Returns: number
       }
       st_intersection: {
@@ -4497,7 +4592,7 @@ export type Database = {
         Returns: boolean
       }
       st_isvaliddetail: {
-        Args: { flags?: number; geom: unknown }
+        Args: { geom: unknown; flags?: number }
         Returns: Database["public"]["CompositeTypes"]["valid_detail"]
       }
       st_isvalidreason: {
@@ -4520,7 +4615,7 @@ export type Database = {
         Returns: number
       }
       st_letters: {
-        Args: { font?: Json; letters: string }
+        Args: { letters: string; font?: Json }
         Returns: unknown
       }
       st_linecrossingdirection: {
@@ -4544,7 +4639,7 @@ export type Database = {
         Returns: unknown
       }
       st_linelocatepoint: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: number
       }
       st_linemerge: {
@@ -4560,20 +4655,20 @@ export type Database = {
         Returns: unknown
       }
       st_locatealong: {
-        Args: { leftrightoffset?: number; geometry: unknown; measure: number }
+        Args: { geometry: unknown; measure: number; leftrightoffset?: number }
         Returns: unknown
       }
       st_locatebetween: {
         Args: {
-          frommeasure: number
           geometry: unknown
+          frommeasure: number
           tomeasure: number
           leftrightoffset?: number
         }
         Returns: unknown
       }
       st_locatebetweenelevations: {
-        Args: { toelevation: number; geometry: unknown; fromelevation: number }
+        Args: { geometry: unknown; fromelevation: number; toelevation: number }
         Returns: unknown
       }
       st_longestline: {
@@ -4585,11 +4680,11 @@ export type Database = {
         Returns: number
       }
       st_makebox2d: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_makeline: {
-        Args: { "": unknown[] } | { geom2: unknown; geom1: unknown }
+        Args: { "": unknown[] } | { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_makepolygon: {
@@ -4613,7 +4708,7 @@ export type Database = {
         Returns: number
       }
       st_minimumboundingcircle: {
-        Args: { segs_per_quarter?: number; inputgeom: unknown }
+        Args: { inputgeom: unknown; segs_per_quarter?: number }
         Returns: unknown
       }
       st_minimumboundingradius: {
@@ -4721,11 +4816,11 @@ export type Database = {
         Returns: number
       }
       st_offsetcurve: {
-        Args: { params?: string; line: unknown; distance: number }
+        Args: { line: unknown; distance: number; params?: string }
         Returns: unknown
       }
       st_orderingequals: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       st_orientedenvelope: {
@@ -4733,7 +4828,7 @@ export type Database = {
         Returns: unknown
       }
       st_overlaps: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       st_perimeter: {
@@ -4754,10 +4849,10 @@ export type Database = {
       }
       st_pointm: {
         Args: {
-          ycoordinate: number
-          srid?: number
           xcoordinate: number
+          ycoordinate: number
           mcoordinate: number
+          srid?: number
         }
         Returns: unknown
       }
@@ -4771,20 +4866,20 @@ export type Database = {
       }
       st_pointz: {
         Args: {
-          ycoordinate: number
-          srid?: number
           xcoordinate: number
+          ycoordinate: number
           zcoordinate: number
+          srid?: number
         }
         Returns: unknown
       }
       st_pointzm: {
         Args: {
-          srid?: number
-          zcoordinate: number
-          mcoordinate: number
           xcoordinate: number
           ycoordinate: number
+          zcoordinate: number
+          mcoordinate: number
+          srid?: number
         }
         Returns: unknown
       }
@@ -4843,7 +4938,7 @@ export type Database = {
         Returns: unknown
       }
       st_setsrid: {
-        Args: { geog: unknown; srid: number } | { srid: number; geom: unknown }
+        Args: { geog: unknown; srid: number } | { geom: unknown; srid: number }
         Returns: unknown
       }
       st_sharedpaths: {
@@ -4867,11 +4962,11 @@ export type Database = {
         Returns: unknown
       }
       st_square: {
-        Args: { cell_i: number; origin?: unknown; size: number; cell_j: number }
+        Args: { size: number; cell_i: number; cell_j: number; origin?: unknown }
         Returns: unknown
       }
       st_squaregrid: {
-        Args: { bounds: unknown; size: number }
+        Args: { size: number; bounds: unknown }
         Returns: Record<string, unknown>[]
       }
       st_srid: {
@@ -4883,7 +4978,7 @@ export type Database = {
         Returns: unknown
       }
       st_subdivide: {
-        Args: { maxvertices?: number; gridsize?: number; geom: unknown }
+        Args: { geom: unknown; maxvertices?: number; gridsize?: number }
         Returns: unknown[]
       }
       st_summary: {
@@ -4895,11 +4990,11 @@ export type Database = {
         Returns: unknown
       }
       st_symdifference: {
-        Args: { geom1: unknown; gridsize?: number; geom2: unknown }
+        Args: { geom1: unknown; geom2: unknown; gridsize?: number }
         Returns: unknown
       }
       st_symmetricdifference: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_tileenvelope: {
@@ -4918,9 +5013,9 @@ export type Database = {
       }
       st_transform: {
         Args:
+          | { geom: unknown; from_proj: string; to_proj: string }
           | { geom: unknown; from_proj: string; to_srid: number }
-          | { to_proj: string; geom: unknown }
-          | { to_proj: string; geom: unknown; from_proj: string }
+          | { geom: unknown; to_proj: string }
         Returns: unknown
       }
       st_triangulatepolygon: {
@@ -4931,19 +5026,19 @@ export type Database = {
         Args:
           | { "": unknown[] }
           | { geom1: unknown; geom2: unknown }
-          | { gridsize: number; geom1: unknown; geom2: unknown }
+          | { geom1: unknown; geom2: unknown; gridsize: number }
         Returns: unknown
       }
       st_voronoilines: {
-        Args: { extend_to?: unknown; g1: unknown; tolerance?: number }
+        Args: { g1: unknown; tolerance?: number; extend_to?: unknown }
         Returns: unknown
       }
       st_voronoipolygons: {
-        Args: { tolerance?: number; g1: unknown; extend_to?: unknown }
+        Args: { g1: unknown; tolerance?: number; extend_to?: unknown }
         Returns: unknown
       }
       st_within: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       st_wkbtosql: {
@@ -5008,18 +5103,18 @@ export type Database = {
       }
       updategeometrysrid: {
         Args: {
+          catalogn_name: string
           schema_name: string
+          table_name: string
           column_name: string
           new_srid_in: number
-          table_name: string
-          catalogn_name: string
         }
         Returns: string
       }
       validate_verse_range: {
         Args:
-          | { end_verse_uuid: string; start_verse_uuid: string }
           | { start_verse_text_id: string; end_verse_text_id: string }
+          | { start_verse_uuid: string; end_verse_uuid: string }
         Returns: boolean
       }
     }
@@ -5080,21 +5175,25 @@ export type Database = {
   }
 }
 
-type DefaultSchema = Database[Extract<keyof Database, "public">]
+type DatabaseWithoutInternals = Omit<Database, "__InternalSupabase">
+
+type DefaultSchema = DatabaseWithoutInternals[Extract<keyof Database, "public">]
 
 export type Tables<
   DefaultSchemaTableNameOrOptions extends
     | keyof (DefaultSchema["Tables"] & DefaultSchema["Views"])
-    | { schema: keyof Database },
+    | { schema: keyof DatabaseWithoutInternals },
   TableName extends DefaultSchemaTableNameOrOptions extends {
-    schema: keyof Database
+    schema: keyof DatabaseWithoutInternals
   }
-    ? keyof (Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"] &
-        Database[DefaultSchemaTableNameOrOptions["schema"]]["Views"])
+    ? keyof (DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"] &
+        DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Views"])
     : never = never,
-> = DefaultSchemaTableNameOrOptions extends { schema: keyof Database }
-  ? (Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"] &
-      Database[DefaultSchemaTableNameOrOptions["schema"]]["Views"])[TableName] extends {
+> = DefaultSchemaTableNameOrOptions extends {
+  schema: keyof DatabaseWithoutInternals
+}
+  ? (DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"] &
+      DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Views"])[TableName] extends {
       Row: infer R
     }
     ? R
@@ -5112,14 +5211,16 @@ export type Tables<
 export type TablesInsert<
   DefaultSchemaTableNameOrOptions extends
     | keyof DefaultSchema["Tables"]
-    | { schema: keyof Database },
+    | { schema: keyof DatabaseWithoutInternals },
   TableName extends DefaultSchemaTableNameOrOptions extends {
-    schema: keyof Database
+    schema: keyof DatabaseWithoutInternals
   }
-    ? keyof Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"]
+    ? keyof DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"]
     : never = never,
-> = DefaultSchemaTableNameOrOptions extends { schema: keyof Database }
-  ? Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"][TableName] extends {
+> = DefaultSchemaTableNameOrOptions extends {
+  schema: keyof DatabaseWithoutInternals
+}
+  ? DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"][TableName] extends {
       Insert: infer I
     }
     ? I
@@ -5135,14 +5236,16 @@ export type TablesInsert<
 export type TablesUpdate<
   DefaultSchemaTableNameOrOptions extends
     | keyof DefaultSchema["Tables"]
-    | { schema: keyof Database },
+    | { schema: keyof DatabaseWithoutInternals },
   TableName extends DefaultSchemaTableNameOrOptions extends {
-    schema: keyof Database
+    schema: keyof DatabaseWithoutInternals
   }
-    ? keyof Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"]
+    ? keyof DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"]
     : never = never,
-> = DefaultSchemaTableNameOrOptions extends { schema: keyof Database }
-  ? Database[DefaultSchemaTableNameOrOptions["schema"]]["Tables"][TableName] extends {
+> = DefaultSchemaTableNameOrOptions extends {
+  schema: keyof DatabaseWithoutInternals
+}
+  ? DatabaseWithoutInternals[DefaultSchemaTableNameOrOptions["schema"]]["Tables"][TableName] extends {
       Update: infer U
     }
     ? U
@@ -5158,14 +5261,16 @@ export type TablesUpdate<
 export type Enums<
   DefaultSchemaEnumNameOrOptions extends
     | keyof DefaultSchema["Enums"]
-    | { schema: keyof Database },
+    | { schema: keyof DatabaseWithoutInternals },
   EnumName extends DefaultSchemaEnumNameOrOptions extends {
-    schema: keyof Database
+    schema: keyof DatabaseWithoutInternals
   }
-    ? keyof Database[DefaultSchemaEnumNameOrOptions["schema"]]["Enums"]
+    ? keyof DatabaseWithoutInternals[DefaultSchemaEnumNameOrOptions["schema"]]["Enums"]
     : never = never,
-> = DefaultSchemaEnumNameOrOptions extends { schema: keyof Database }
-  ? Database[DefaultSchemaEnumNameOrOptions["schema"]]["Enums"][EnumName]
+> = DefaultSchemaEnumNameOrOptions extends {
+  schema: keyof DatabaseWithoutInternals
+}
+  ? DatabaseWithoutInternals[DefaultSchemaEnumNameOrOptions["schema"]]["Enums"][EnumName]
   : DefaultSchemaEnumNameOrOptions extends keyof DefaultSchema["Enums"]
     ? DefaultSchema["Enums"][DefaultSchemaEnumNameOrOptions]
     : never
@@ -5173,14 +5278,16 @@ export type Enums<
 export type CompositeTypes<
   PublicCompositeTypeNameOrOptions extends
     | keyof DefaultSchema["CompositeTypes"]
-    | { schema: keyof Database },
+    | { schema: keyof DatabaseWithoutInternals },
   CompositeTypeName extends PublicCompositeTypeNameOrOptions extends {
-    schema: keyof Database
+    schema: keyof DatabaseWithoutInternals
   }
-    ? keyof Database[PublicCompositeTypeNameOrOptions["schema"]]["CompositeTypes"]
+    ? keyof DatabaseWithoutInternals[PublicCompositeTypeNameOrOptions["schema"]]["CompositeTypes"]
     : never = never,
-> = PublicCompositeTypeNameOrOptions extends { schema: keyof Database }
-  ? Database[PublicCompositeTypeNameOrOptions["schema"]]["CompositeTypes"][CompositeTypeName]
+> = PublicCompositeTypeNameOrOptions extends {
+  schema: keyof DatabaseWithoutInternals
+}
+  ? DatabaseWithoutInternals[PublicCompositeTypeNameOrOptions["schema"]]["CompositeTypes"][CompositeTypeName]
   : PublicCompositeTypeNameOrOptions extends keyof DefaultSchema["CompositeTypes"]
     ? DefaultSchema["CompositeTypes"][PublicCompositeTypeNameOrOptions]
     : never
@@ -5239,4 +5346,3 @@ export const Constants = {
     },
   },
 } as const
-
