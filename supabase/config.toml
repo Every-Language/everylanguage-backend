@@ -324,3 +324,14 @@ entrypoint = "./functions/upload-image/index.ts"
 # For example, if you want to serve static HTML pages in your function:
 # static_files = [ "./functions/upload-image/*.html" ]
 
+
+[remotes.production]
+project_id = "env(SUPABASE_PROD_PROJECT_REF)"
+
+[remotes.production.auth]
+site_url = "https://projects.everylanguage.com"
+additional_redirect_urls = ["https://projects.everylanguage.com", "https://everylanguage.com"]
+
+[remotes.production.auth.email.smtp]
+enabled = true
+
