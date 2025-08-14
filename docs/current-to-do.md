@@ -13,3 +13,7 @@ migrate to terraform for IaC
 add sequence_id to media files
 
 implement railway backgroudn worker for package tracking
+
+new schema for playlists
+
+remove user_version_selections

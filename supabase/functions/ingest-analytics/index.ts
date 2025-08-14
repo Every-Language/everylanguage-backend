@@ -19,14 +19,7 @@ import {
 } from '../_shared/response-utils.ts';
 
 // Allowed analytics tables for ingestion
-const ANALYTICS_TABLES = new Set<string>([
-  'sessions',
-  'app_downloads',
-  'media_file_listens',
-  'verse_listens',
-  'shares',
-  'share_opens',
-]);
+const ANALYTICS_TABLES = new Set<string>(['sessions', 'app_downloads']);
 
 type CrudOp = {
   id: string;

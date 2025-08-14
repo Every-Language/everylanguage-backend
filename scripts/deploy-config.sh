@@ -44,30 +44,9 @@ if [ ! -z "$RESEND_API_KEY" ]; then
     echo "✅ Substituted RESEND_API_KEY"
 fi
 
-# Optionally enable SMTP (set ENABLE_SMTP=true in the environment)
-if [ "$ENABLE_SMTP" = "true" ]; then
-    sed -i.bak 's|enabled = false  # Set to true in production|enabled = true|g' "$TEMP_CONFIG"
-    echo "✅ Enabled SMTP (via ENABLE_SMTP=true)"
-else
-    echo "ℹ️  SMTP setting left as-is (ENABLE_SMTP not true)"
-fi
-
-# Override site_url if provided (prevents localhost leaking to prod)
-if [ ! -z "$SUPABASE_SITE_URL" ]; then
-    # Replace entire site_url line
-    sed -i.bak "s|^site_url = \".*\"|site_url = \"$SUPABASE_SITE_URL\"|" "$TEMP_CONFIG"
-    echo "✅ Set site_url to $SUPABASE_SITE_URL"
-fi
-
-# Override additional_redirect_urls if provided
-# Provide as a JSON-ish TOML array string, e.g.:
-#   export SUPABASE_ADDITIONAL_REDIRECT_URLS='["https://projects.everylanguage.com","https://app2.example.com"]'
-if [ ! -z "$SUPABASE_ADDITIONAL_REDIRECT_URLS" ]; then
-    # Replace entire additional_redirect_urls line (expects a single-line array)
-    # Note: no quotes around variable on purpose to preserve brackets and quotes
-    sed -i.bak "s|^additional_redirect_urls = \[.*\]|additional_redirect_urls = $SUPABASE_ADDITIONAL_REDIRECT_URLS|" "$TEMP_CONFIG"
-    echo "✅ Set additional_redirect_urls to $SUPABASE_ADDITIONAL_REDIRECT_URLS"
-fi
+# Enable SMTP in production
+sed -i.bak 's|enabled = false  # Set to true in production|enabled = true|g' "$TEMP_CONFIG"
+echo "✅ Enabled SMTP for production"
 
 # Copy the processed config to the supabase directory temporarily
 cp "$TEMP_CONFIG" supabase/config.toml
