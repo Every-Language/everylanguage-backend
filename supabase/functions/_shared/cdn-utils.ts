@@ -22,10 +22,17 @@ export async function createSignedCdnUrl(
   secret: string,
   expiresInSeconds: number
 ): Promise<string> {
+  if (!baseUrl) throw new Error('CDN base URL is not configured');
+  // Auto-prefix scheme if missing
+  const normalizedBase = /^(https?:)?\/\//i.test(baseUrl)
+    ? baseUrl
+    : `https://${baseUrl}`;
   const exp = Math.floor(Date.now() / 1000) + Math.max(1, expiresInSeconds);
   const payload = `${objectKey}|${exp}`;
   const token = await hmacSha256Hex(secret, payload);
-  const url = new URL(baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`);
+  const url = new URL(
+    normalizedBase.endsWith('/') ? normalizedBase : `${normalizedBase}/`
+  );
   url.pathname = `${url.pathname}${objectKey}`.replace(/\/+/, '/');
   url.searchParams.set('exp', String(exp));
   url.searchParams.set('token', token);
