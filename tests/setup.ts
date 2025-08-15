@@ -108,7 +108,25 @@ if (!global.crypto) {
     subtle: {
       digest: jest
         .fn()
-        .mockImplementation(() => Promise.resolve(new ArrayBuffer(20))),
+        .mockImplementation(() => Promise.resolve(new ArrayBuffer(32))), // SHA-256 hash size
+      importKey: jest.fn().mockImplementation(() =>
+        Promise.resolve({
+          type: 'secret',
+          extractable: false,
+          algorithm: { name: 'HMAC', hash: 'SHA-256' },
+          usages: ['sign'],
+        })
+      ),
+      sign: jest.fn().mockImplementation(() => {
+        // Return a mock signature as ArrayBuffer (32 bytes for HMAC-SHA256)
+        const mockSignature = new ArrayBuffer(32);
+        const view = new Uint8Array(mockSignature);
+        // Fill with some deterministic mock data for consistent test results
+        for (let i = 0; i < 32; i++) {
+          view[i] = i % 256;
+        }
+        return Promise.resolve(mockSignature);
+      }),
     },
   } as any;
 }
