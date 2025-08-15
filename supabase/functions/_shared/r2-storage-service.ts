@@ -15,7 +15,7 @@ export class R2StorageService {
     this.bucketName = Deno.env.get('R2_BUCKET_NAME') ?? '';
     const customEndpoint = Deno.env.get('R2_S3_ENDPOINT');
     this.endpoint =
-      customEndpoint || `https://${this.accountId}.r2.cloudflarestorage.com`;
+      customEndpoint ?? `https://${this.accountId}.r2.cloudflarestorage.com`;
 
     if (
       !this.accountId ||
