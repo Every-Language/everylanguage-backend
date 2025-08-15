@@ -76,30 +76,11 @@ Deno.serve(async (req: Request) => {
     };
     const errors: Record<string, string> = {};
 
-    // Helper to resolve object_key
-    const getKey = (
-      remotePath: string | null,
-      objectKey: string | null
-    ): string | null => {
-      if (objectKey && objectKey.length > 0) return objectKey;
-      if (remotePath && remotePath.length > 0) {
-        try {
-          const u = new URL(remotePath);
-          const parts = u.pathname.split('/');
-          return parts[parts.length - 1] || null;
-        } catch {
-          const idx = remotePath.lastIndexOf('/');
-          return idx >= 0 ? remotePath.substring(idx + 1) : remotePath;
-        }
-      }
-      return null;
-    };
-
     // Media files
     if (mediaFileIds.length > 0) {
       const { data, error } = await supabase
         .from('media_files')
-        .select('id, object_key, remote_path')
+        .select('id, object_key')
         .in('id', mediaFileIds);
       if (error) {
         return new Response(
@@ -112,7 +93,7 @@ Deno.serve(async (req: Request) => {
       }
       const media: Record<string, string> = {};
       for (const row of data ?? []) {
-        const key = getKey(row.remote_path, row.object_key);
+        const key = row.object_key;
         if (!key) {
           errors[row.id] = 'Missing object key';
           continue;
@@ -148,7 +129,7 @@ Deno.serve(async (req: Request) => {
     if (imageIds.length > 0) {
       const { data, error } = await supabase
         .from('images')
-        .select('id, object_key, remote_path')
+        .select('id, object_key')
         .in('id', imageIds);
       if (error) {
         return new Response(
@@ -161,7 +142,7 @@ Deno.serve(async (req: Request) => {
       }
       const images: Record<string, string> = {};
       for (const row of data ?? []) {
-        const key = getKey(row.remote_path, row.object_key);
+        const key = row.object_key;
         if (!key) {
           errors[row.id] = 'Missing object key';
           continue;

@@ -20,8 +20,6 @@ interface UrlInfo {
   id: string;
   objectKey: string;
   uploadUrl: string;
-  remotePath: string;
-  contentType?: string;
   expiresIn: number;
 }
 
@@ -121,7 +119,6 @@ Deno.serve(async (req: Request) => {
             objectKey,
             expiresInSeconds
           );
-          const remotePath = r2.getObjectUrl(objectKey);
           // Persist object_key and provider for future fetches
           await supabase
             .from('media_files')
@@ -131,7 +128,6 @@ Deno.serve(async (req: Request) => {
             id: row.id,
             objectKey,
             uploadUrl,
-            remotePath,
             expiresIn: expiresInSeconds,
           });
         } catch (e) {
@@ -161,7 +157,6 @@ Deno.serve(async (req: Request) => {
             objectKey,
             expiresInSeconds
           );
-          const remotePath = r2.getObjectUrl(objectKey);
           await supabase
             .from('images')
             .update({ object_key: objectKey, storage_provider: 'r2' })
@@ -170,7 +165,6 @@ Deno.serve(async (req: Request) => {
             id: row.id,
             objectKey,
             uploadUrl,
-            remotePath,
             expiresIn: expiresInSeconds,
           });
         } catch (e) {
