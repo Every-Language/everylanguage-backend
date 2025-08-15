@@ -41,6 +41,7 @@
     "supabase/.temp",
     "supabase/.branches",
     "supabase/functions",
+    "cloudflare/worker/src/**/*",
     "tests/unit/bible-package-builder.test.ts",
     "tests/unit/bible-package-splitter.test.ts",
     "tests/integration/multi-package-system.test.ts",

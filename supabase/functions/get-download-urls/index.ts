@@ -1,5 +1,5 @@
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
-import { R2StorageService } from '../_shared/r2-storage-service.ts';
+import { createSignedCdnUrl } from '../_shared/cdn-utils.ts';
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
@@ -98,7 +98,6 @@ Deno.serve(async (req: Request) => {
       Deno.env.get('STORAGE_PROVIDER') ?? 'b2'
     ).toLowerCase();
     const b2Service = storageProvider === 'b2' ? new B2StorageService() : null;
-    const r2Service = storageProvider === 'r2' ? new R2StorageService() : null;
     const urls: Record<string, string> = {};
     const errors: Record<string, string> = {};
     const failedFiles: string[] = [];
@@ -111,16 +110,27 @@ Deno.serve(async (req: Request) => {
     const urlPromises = filePaths.map(async filePath => {
       const fileName = filePath.split('/').pop() ?? filePath;
       try {
-        const signedUrl =
-          storageProvider === 'b2'
-            ? await (b2Service as B2StorageService).generateDownloadUrl(
-                fileName,
-                expirationHours * 3600
-              )
-            : await (r2Service as R2StorageService).getPresignedGetUrl(
-                fileName,
-                expirationHours * 3600
-              );
+        let signedUrl: string;
+        if (storageProvider === 'b2') {
+          signedUrl = await (b2Service as B2StorageService).generateDownloadUrl(
+            fileName,
+            expirationHours * 3600
+          );
+        } else {
+          const base = Deno.env.get('CDN_BASE_URL') ?? '';
+          const secret = Deno.env.get('CDN_SIGNING_SECRET') ?? '';
+          signedUrl = await createSignedCdnUrl(
+            base,
+            fileName,
+            secret,
+            expirationHours * 3600
+          );
+          if ((Deno.env.get('ENV') ?? '').toLowerCase() === 'dev') {
+            const u = new URL(signedUrl);
+            u.searchParams.set('env', 'dev');
+            signedUrl = u.toString();
+          }
+        }
         urls[filePath] = signedUrl;
         console.log(`✅ Generated URL for: ${fileName}`);
       } catch (error) {

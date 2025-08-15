@@ -112,11 +112,11 @@ async function testSingleFileUploadUrls(accessToken) {
 
       // Verify response structure
       const uploadUrl = result.data.urls[0];
-      if (!uploadUrl.uploadUrl.includes('b2_upload_file')) {
-        log('WARNING', 'Upload URL does not contain expected B2 endpoint');
+      if (!uploadUrl.uploadUrl.includes('.r2.cloudflarestorage.com')) {
+        log('WARNING', 'Upload URL does not contain expected R2 endpoint');
       }
-      if (!uploadUrl.remotePath.includes('backblazeb2.com')) {
-        log('WARNING', 'Remote path does not contain expected B2 domain');
+      if (!uploadUrl.remotePath.includes('.r2.cloudflarestorage.com')) {
+        log('WARNING', 'Remote path does not contain expected R2 domain');
       }
 
       return result;
@@ -194,8 +194,12 @@ async function testMultipleFilesUploadUrls(accessToken) {
         log('DEBUG', `File ${index + 1}:`, {
           fileName: uploadUrl.fileName,
           contentType: uploadUrl.contentType,
-          hasValidUploadUrl: uploadUrl.uploadUrl.includes('b2_upload_file'),
-          hasValidRemotePath: uploadUrl.remotePath.includes('backblazeb2.com'),
+          hasValidUploadUrl: uploadUrl.uploadUrl.includes(
+            '.r2.cloudflarestorage.com'
+          ),
+          hasValidRemotePath: uploadUrl.remotePath.includes(
+            '.r2.cloudflarestorage.com'
+          ),
           timestampedFileName: uploadUrl.b2FileName,
         });
       });

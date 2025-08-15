@@ -40,16 +40,29 @@ jobs:
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Deploy Edge Functions to production supabase project (if any exist)
+      - name: Deploy Edge Functions to production (only existing)
         run: |
-          if [ -d "supabase/functions" ] && [ "$(ls -A supabase/functions)" ]; then
-            echo "Deploying Edge Functions to production supabase project..."
-            supabase functions deploy --no-verify-jwt
+          set -e
+          if [ -d "supabase/functions" ]; then
+            echo "Discovering edge function directories..."
+            FUNCTIONS=$(find supabase/functions -maxdepth 1 -mindepth 1 -type d -exec test -f "{}/index.ts" ';' -print | xargs -I{} basename {} | tr '\n' ' ')
+            if [ -n "$FUNCTIONS" ]; then
+              echo "Deploying: $FUNCTIONS"
+              supabase functions deploy $FUNCTIONS --no-verify-jwt
+            else
+              echo "No Edge Functions with index.ts to deploy"
+            fi
           else
-            echo "No Edge Functions to deploy"
+            echo "supabase/functions directory not found"
           fi
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+
+      - name: Setup Node.js 20 for Worker
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
 
       - name: Deploy Cloudflare Worker to Production
         if: ${{ env.STORAGE_PROVIDER == 'r2' || true }}
