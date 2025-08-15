@@ -5,6 +5,8 @@ import {
 } from '../_shared/auth-middleware.ts';
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
 import { B2Utils } from '../_shared/b2-utils.ts';
+import { R2StorageService } from '../_shared/r2-storage-service.ts';
+import { StorageUtils } from '../_shared/storage-utils.ts';
 
 interface UploadUrlRequest {
   files: Array<{
@@ -165,7 +167,11 @@ Deno.serve(async (req: Request) => {
       `🔗 Generating upload URLs for ${files.length} files (batch: ${batchId})`
     );
 
-    const b2Service = new B2StorageService();
+    const storageProvider = (
+      Deno.env.get('STORAGE_PROVIDER') ?? 'b2'
+    ).toLowerCase();
+    const b2Service = storageProvider === 'b2' ? new B2StorageService() : null;
+    const r2Service = storageProvider === 'r2' ? new R2StorageService() : null;
     const uploadUrls: UploadUrlInfo[] = [];
 
     // Determine number of upload URLs to generate
@@ -177,9 +183,16 @@ Deno.serve(async (req: Request) => {
     );
 
     // Generate upload URLs (can be reused across multiple files)
-    const urlGenerationPromises = Array.from({ length: numUploadUrls }, () =>
-      generateUploadUrl(b2Service, publicUserId, batchId)
-    );
+    const urlGenerationPromises =
+      storageProvider === 'b2'
+        ? Array.from({ length: numUploadUrls }, () =>
+            generateB2UploadUrl(
+              b2Service as B2StorageService,
+              publicUserId,
+              batchId
+            )
+          )
+        : [];
 
     const uploadUrlResponses = await Promise.allSettled(urlGenerationPromises);
 
@@ -213,27 +226,49 @@ Deno.serve(async (req: Request) => {
     );
 
     // Map each file to an upload URL (round-robin distribution)
-    files.forEach((file, index) => {
-      const urlIndex = index % validUrlResponses.length;
-      const { uploadUrl, authorizationToken } =
-        validUrlResponses[urlIndex].value;
+    if (storageProvider === 'b2') {
+      files.forEach((file, index) => {
+        const urlIndex = index % validUrlResponses.length;
+        const { uploadUrl, authorizationToken } =
+          validUrlResponses[urlIndex].value;
 
-      // Generate the B2 filename that will be used
-      const b2FileName = B2Utils.generateUniqueFileName(file.fileName);
+        const b2FileName = B2Utils.generateUniqueFileName(file.fileName);
+        const remotePath = (b2Service as B2StorageService).getPublicDownloadUrl(
+          b2FileName
+        );
 
-      // Generate the remote path for database storage
-      const remotePath = b2Service.getPublicDownloadUrl(b2FileName);
-
-      uploadUrls.push({
-        fileName: file.fileName,
-        b2FileName,
-        remotePath,
-        uploadUrl,
-        authorizationToken,
-        contentType: file.contentType,
-        expiresIn: UPLOAD_URL_VALID_HOURS * 3600,
+        uploadUrls.push({
+          fileName: file.fileName,
+          b2FileName,
+          remotePath,
+          uploadUrl,
+          authorizationToken,
+          contentType: file.contentType,
+          expiresIn: UPLOAD_URL_VALID_HOURS * 3600,
+        });
       });
-    });
+    } else {
+      // R2: generate presigned PUT URLs per file directly
+      for (const file of files) {
+        const objectKey = StorageUtils.generateUniqueFileName(file.fileName);
+        const unsignedUrl = (r2Service as R2StorageService).getObjectUrl(
+          objectKey
+        );
+        const uploadUrl = await (
+          r2Service as R2StorageService
+        ).getPresignedPutUrl(objectKey, UPLOAD_URL_VALID_HOURS * 3600);
+
+        uploadUrls.push({
+          fileName: file.fileName,
+          b2FileName: objectKey, // keep field name for backward compatibility
+          remotePath: unsignedUrl, // full remote path for DB storage (temporary until schema switch)
+          uploadUrl,
+          authorizationToken: '', // not used for R2 presigned URLs
+          contentType: file.contentType,
+          expiresIn: UPLOAD_URL_VALID_HOURS * 3600,
+        });
+      }
+    }
 
     const response: UploadUrlResponse = {
       success: true,
@@ -278,7 +313,7 @@ Deno.serve(async (req: Request) => {
 /**
  * Generate a single upload URL with metadata
  */
-async function generateUploadUrl(
+async function generateB2UploadUrl(
   b2Service: B2StorageService,
   _publicUserId: string,
   _batchId: string

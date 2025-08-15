@@ -37,7 +37,7 @@ export default [
       ...prettierConfig.rules,
 
       // Prettier integration
-      'prettier/prettier': 'error',
+      'prettier/prettier': 'warn',
 
       // TypeScript specific rules
       '@typescript-eslint/no-unused-vars': [

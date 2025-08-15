@@ -1,4 +1,5 @@
 import { B2StorageService } from '../_shared/b2-storage-service.ts';
+import { R2StorageService } from '../_shared/r2-storage-service.ts';
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
@@ -93,7 +94,11 @@ Deno.serve(async (req: Request) => {
       );
     }
 
-    const b2Service = new B2StorageService();
+    const storageProvider = (
+      Deno.env.get('STORAGE_PROVIDER') ?? 'b2'
+    ).toLowerCase();
+    const b2Service = storageProvider === 'b2' ? new B2StorageService() : null;
+    const r2Service = storageProvider === 'r2' ? new R2StorageService() : null;
     const urls: Record<string, string> = {};
     const errors: Record<string, string> = {};
     const failedFiles: string[] = [];
@@ -106,10 +111,16 @@ Deno.serve(async (req: Request) => {
     const urlPromises = filePaths.map(async filePath => {
       const fileName = filePath.split('/').pop() ?? filePath;
       try {
-        const signedUrl = await b2Service.generateDownloadUrl(
-          fileName,
-          expirationHours * 3600
-        );
+        const signedUrl =
+          storageProvider === 'b2'
+            ? await (b2Service as B2StorageService).generateDownloadUrl(
+                fileName,
+                expirationHours * 3600
+              )
+            : await (r2Service as R2StorageService).getPresignedGetUrl(
+                fileName,
+                expirationHours * 3600
+              );
         urls[filePath] = signedUrl;
         console.log(`✅ Generated URL for: ${fileName}`);
       } catch (error) {
