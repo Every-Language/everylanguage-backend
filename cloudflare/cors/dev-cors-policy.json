@@ -3,7 +3,7 @@
     {
       "ID": "dev-web-access",
       "AllowedHeaders": ["*"],
-      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE"],
+      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE", "OPTIONS"],
       "AllowedOrigins": [
         "http://localhost:3000",
         "http://localhost:5173",
