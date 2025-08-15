@@ -66,7 +66,32 @@ jobs:
         env:
           SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
 
-      - name: Setup Node.js 20 for Worker
+      - name: Setup AWS CLI for R2 CORS Management
+        if: ${{ env.DEPLOY_CORS == 'true' || github.event_name == 'workflow_dispatch' }}
+        run: |
+          # Install AWS CLI if not present
+          if ! command -v aws &> /dev/null; then
+            curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+            unzip awscliv2.zip
+            sudo ./aws/install
+          fi
+          
+      - name: Deploy R2 CORS Policies (Safe - No Bucket Changes)
+        if: ${{ env.DEPLOY_CORS == 'true' || github.event_name == 'workflow_dispatch' }}
+        run: |
+          echo "🔧 Configuring CORS for development buckets..."
+          echo "⚠️  This ONLY updates CORS policies, never creates/deletes buckets"
+          
+          # Apply CORS for development environment
+          cd cloudflare/cors
+          chmod +x apply-cors.sh
+          ./apply-cors.sh dev
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID_DEV }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY_DEV }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Setup Node.js 20 for Worker  
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -88,5 +113,7 @@ jobs:
           echo "✅ Database migrations deployed to development project successfully"
           echo "⚙️  Configuration changes from config.toml applied automatically"
           echo "📧 Email templates and SMTP settings updated"
+          echo "☁️  R2 CORS policies updated (buckets managed separately)"
+          echo "🚀 Cloudflare Worker deployed with R2 bucket access"
           echo "🔄 Dev types must be published manually"
           echo "🚀 Development environment updated"

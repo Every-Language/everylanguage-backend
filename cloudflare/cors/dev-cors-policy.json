@@ -1,0 +1,32 @@
+{
+  "CORSRules": [
+    {
+      "ID": "dev-web-access",
+      "AllowedHeaders": ["*"],
+      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE"],
+      "AllowedOrigins": [
+        "http://localhost:3000",
+        "http://localhost:5173",
+        "http://127.0.0.1:3000",
+        "http://127.0.0.1:5173",
+        "https://dev.everylanguage.com"
+      ],
+      "ExposeHeaders": [
+        "ETag",
+        "x-amz-version-id",
+        "x-amz-server-side-encryption",
+        "Content-Range",
+        "Accept-Ranges"
+      ],
+      "MaxAgeSeconds": 3600
+    },
+    {
+      "ID": "dev-range-requests",
+      "AllowedHeaders": ["Range", "Content-Type", "Authorization"],
+      "AllowedMethods": ["GET", "HEAD"],
+      "AllowedOrigins": ["*"],
+      "ExposeHeaders": ["Content-Range", "Accept-Ranges"],
+      "MaxAgeSeconds": 86400
+    }
+  ]
+}

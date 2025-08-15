@@ -1,0 +1,30 @@
+{
+  "CORSRules": [
+    {
+      "ID": "prod-web-access",
+      "AllowedHeaders": ["*"],
+      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE"],
+      "AllowedOrigins": [
+        "https://projects.everylanguage.com",
+        "https://app.everylanguage.com",
+        "https://everylanguage.com"
+      ],
+      "ExposeHeaders": [
+        "ETag",
+        "x-amz-version-id",
+        "x-amz-server-side-encryption",
+        "Content-Range",
+        "Accept-Ranges"
+      ],
+      "MaxAgeSeconds": 3600
+    },
+    {
+      "ID": "prod-range-requests",
+      "AllowedHeaders": ["Range", "Content-Type", "Authorization"],
+      "AllowedMethods": ["GET", "HEAD"],
+      "AllowedOrigins": ["https://*"],
+      "ExposeHeaders": ["Content-Range", "Accept-Ranges"],
+      "MaxAgeSeconds": 86400
+    }
+  ]
+}
