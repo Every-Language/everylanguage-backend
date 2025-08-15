@@ -77,7 +77,8 @@ jobs:
         run: |
           cd cloudflare/worker
           npm ci || true
-          npx wrangler deploy --var CDN_SIGNING_SECRET:${{ secrets.CDN_SIGNING_SECRET_DEV }}
+          echo "${{ secrets.CDN_SIGNING_SECRET }}" | npx wrangler secret put CDN_SIGNING_SECRET
+          npx wrangler deploy
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN_WORKERS }}

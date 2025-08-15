@@ -28,60 +28,95 @@ async function hmacSha256Hex(secret: string, data: string): Promise<string> {
 }
 
 async function handleRequest(request: Request, env: Env): Promise<Response> {
-  const url = new URL(request.url);
-  const objectKey = url.pathname.replace(/^\//, '');
-  const exp = parseInt(url.searchParams.get('exp') || '0', 10);
-  const token = url.searchParams.get('token') || '';
-  const envParam = url.searchParams.get('env') || 'prod';
-
-  if (!objectKey) {
-    return new Response('Not Found', { status: 404 });
+  // Handle CORS preflight requests
+  if (request.method === 'OPTIONS') {
+    return new Response(null, {
+      status: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, HEAD, OPTIONS',
+        'Access-Control-Allow-Headers': 'Range, Content-Type',
+        'Access-Control-Max-Age': '86400',
+      },
+    });
   }
 
-  if (!exp || !token) {
-    return new Response('Unauthorized', { status: 401 });
+  try {
+    const url = new URL(request.url);
+    const objectKey = url.pathname.replace(/^\//, '');
+    const exp = parseInt(url.searchParams.get('exp') || '0', 10);
+    const token = url.searchParams.get('token') || '';
+    const envParam = url.searchParams.get('env') || 'prod';
+
+    if (!objectKey) {
+      return new Response('Not Found', { status: 404 });
+    }
+
+    if (!exp || !token) {
+      return new Response('Unauthorized', { status: 401 });
+    }
+
+    // Expiration check
+    const nowSec = Math.floor(Date.now() / 1000);
+    if (exp <= nowSec) {
+      return new Response('Link expired', { status: 401 });
+    }
+
+    // Verify HMAC token
+    const payload = `${objectKey}|${exp}`;
+    const expected = await hmacSha256Hex(env.CDN_SIGNING_SECRET, payload);
+    if (expected !== token) {
+      return new Response('Unauthorized', { status: 401 });
+    }
+
+    // Choose bucket based on env param
+    const bucket = envParam === 'dev' ? env.R2_MEDIA_DEV : env.R2_MEDIA_PROD;
+
+    // Handle Range requests
+    const rangeHeader = request.headers.get('range');
+    let object;
+
+    if (rangeHeader) {
+      // For range requests, use R2's range support
+      const rangeHeaders = new Headers();
+      rangeHeaders.set('Range', rangeHeader);
+      object = await bucket.get(objectKey, { range: rangeHeaders });
+    } else {
+      // Normal request
+      object = await bucket.get(objectKey);
+    }
+
+    if (!object) {
+      return new Response('Not Found', { status: 404 });
+    }
+
+    // Build response headers
+    const headers = new Headers();
+    object.writeHttpMetadata(headers);
+    headers.set('Accept-Ranges', 'bytes');
+    headers.set('Cache-Control', 'public, max-age=86400');
+    headers.set('Access-Control-Allow-Origin', '*');
+    headers.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
+    headers.set('Access-Control-Allow-Headers', 'Range');
+
+    // Return appropriate status code
+    const status = rangeHeader ? 206 : 200;
+
+    return new Response(object.body, {
+      status,
+      headers,
+    });
+  } catch (error) {
+    console.error('Worker error:', error);
+    const errorMessage =
+      error instanceof Error ? error.message : 'Unknown error';
+    return new Response(`Internal Server Error: ${errorMessage}`, {
+      status: 500,
+      headers: {
+        'Content-Type': 'text/plain',
+      },
+    });
   }
-
-  // Expiration check
-  const nowSec = Math.floor(Date.now() / 1000);
-  if (exp <= nowSec) {
-    return new Response('Link expired', { status: 401 });
-  }
-
-  // Verify HMAC token
-  const payload = `${objectKey}|${exp}`;
-  const expected = await hmacSha256Hex(env.CDN_SIGNING_SECRET, payload);
-  if (expected !== token) {
-    return new Response('Unauthorized', { status: 401 });
-  }
-
-  // Choose bucket based on env param
-  const bucket = envParam === 'dev' ? env.R2_MEDIA_DEV : env.R2_MEDIA_PROD;
-
-  // Support Range requests
-  const rangeHeader = request.headers.get('range') || undefined;
-  const range = rangeHeader ? { range: rangeHeader } : undefined;
-
-  const object = await bucket.get(objectKey, range ? { range } : undefined);
-  if (!object) {
-    return new Response('Not Found', { status: 404 });
-  }
-
-  // Build response with headers
-  const headers = new Headers();
-  // Copy object headers
-  object.writeHttpMetadata(headers);
-  headers.set('Content-Length', object.size.toString());
-  headers.set('Accept-Ranges', 'bytes');
-  headers.set('Cache-Control', 'public, max-age=86400');
-  headers.set('Cross-Origin-Resource-Policy', 'cross-origin');
-  headers.set('Access-Control-Allow-Origin', '*');
-
-  // Range support (Worker R2 automatically sets Content-Range when range used)
-  return new Response(object.body, {
-    status: range ? 206 : 200,
-    headers,
-  });
 }
 
 export default {

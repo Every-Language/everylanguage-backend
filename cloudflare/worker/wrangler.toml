@@ -6,8 +6,7 @@ routes = [
   { pattern = "cdn.everylanguage.com/*", zone_id = "a26273709cc2529fca150f35c7b99827" }
 ]
 
-[vars]
-CDN_SIGNING_SECRET = ""
+# CDN_SIGNING_SECRET is set as a Worker secret via GitHub Actions or manually
 
 [[r2_buckets]]
 binding = "R2_MEDIA_DEV"

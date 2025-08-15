@@ -69,6 +69,7 @@ export async function presignUrl(
 
   const urlObj = new URL(options.url);
   const method = options.method.toUpperCase();
+
   const now = new Date();
   const amzDate = `${now
     .toISOString()

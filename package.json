@@ -66,6 +66,7 @@
   "license": "ISC",
   "description": "Supabase backend for EL audio translation platform",
   "dependencies": {
+    "@cloudflare/workers-types": "^4.20250813.0",
     "@typescript-eslint/eslint-plugin": "^8.34.1",
     "@typescript-eslint/parser": "^8.34.1",
     "backblaze-b2": "^1.7.1",
