@@ -76,6 +76,20 @@ export AWS_ACCESS_KEY_ID="$R2_ACCESS_KEY_ID"
 export AWS_SECRET_ACCESS_KEY="$R2_SECRET_ACCESS_KEY"
 export AWS_DEFAULT_REGION="auto"
 
+echo -e "${YELLOW}🔍 Testing bucket access permissions...${NC}"
+
+# Test basic bucket access first
+echo -e "${YELLOW}🧪 Testing bucket list access...${NC}"
+if aws s3api head-bucket \
+    --bucket "$BUCKET_NAME" \
+    --endpoint-url "https://$CLOUDFLARE_ACCOUNT_ID.r2.cloudflarestorage.com" \
+    --region auto 2>/dev/null; then
+    echo -e "${GREEN}✅ Bucket access confirmed${NC}"
+else
+    echo -e "${RED}❌ Basic bucket access failed - check credentials and bucket name${NC}"
+    exit 1
+fi
+
 echo -e "${YELLOW}🔍 Checking current bucket CORS configuration...${NC}"
 if aws s3api get-bucket-cors \
     --bucket "$BUCKET_NAME" \
@@ -83,7 +97,7 @@ if aws s3api get-bucket-cors \
     --region auto 2>/dev/null; then
     echo -e "${YELLOW}📋 Current CORS configuration found${NC}"
 else
-    echo -e "${YELLOW}📋 No existing CORS configuration${NC}"
+    echo -e "${YELLOW}📋 No existing CORS configuration (this is normal for new buckets)${NC}"
 fi
 
 echo -e "${YELLOW}🚀 Applying CORS configuration...${NC}"
