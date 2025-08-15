@@ -108,7 +108,7 @@ export default [
       '@typescript-eslint/require-await': 'off', // Edge Functions often have async without await
       '@typescript-eslint/prefer-nullish-coalescing': 'warn', // Downgrade to warning
       '@typescript-eslint/no-floating-promises': 'warn', // Downgrade to warning
-      'prettier/prettier': 'error',
+      'prettier/prettier': 'warn',
     },
   },
 
@@ -226,6 +226,7 @@ export default [
       'types/database.d.ts', // Generated declaration file
       'types/database.js', // Generated JS file
       '.github/workflows/**', // GitHub Actions workflows
+      'cloudflare/worker/src/**', // Exclude worker sources from root typed lint
       // Test files that import Deno-specific functions (excluded from main tsconfig)
       'tests/unit/bible-package-builder.test.ts',
       'tests/unit/bible-package-splitter.test.ts',

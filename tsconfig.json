@@ -33,7 +33,8 @@
     "tests/**/*",
     "src/**/*",
     "supabase/tests/setup.ts",
-    "supabase/tests/env.setup.js"
+    "supabase/tests/env.setup.js",
+    "cloudflare/worker/src/**/*"
   ],
   "exclude": [
     "node_modules",
