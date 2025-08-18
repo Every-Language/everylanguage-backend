@@ -89,19 +89,34 @@ jobs:
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-      - name: Setup Node.js 20 for Worker  
+      - name: Setup Node.js 20 for Workers  
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: Deploy Cloudflare Worker to Development
-        if: ${{ env.STORAGE_PROVIDER == 'r2' || true }}
+      - name: Deploy Cloudflare Workers to Development
         run: |
-          cd cloudflare/worker
-          npm ci || true
-          echo "${{ secrets.CDN_SIGNING_SECRET }}" | npx wrangler secret put CDN_SIGNING_SECRET
-          npx wrangler deploy
+          set -euo pipefail
+          echo "🔍 Discovering Cloudflare workers..."
+          WRANGLER_DIRS=$(git ls-files 'cloudflare/*/wrangler.toml' | xargs -n1 dirname | sort -u)
+          if [ -z "${WRANGLER_DIRS}" ]; then
+            echo "No workers found (no wrangler.toml files). Skipping."
+            exit 0
+          fi
+
+          for dir in ${WRANGLER_DIRS}; do
+            echo "🚀 Deploying worker in $dir"
+            pushd "$dir" >/dev/null
+            if [ -f package.json ]; then
+              npm ci
+            fi
+            if [ -n "${{ secrets.CDN_SIGNING_SECRET }}" ]; then
+              echo "${{ secrets.CDN_SIGNING_SECRET }}" | npx wrangler secret put CDN_SIGNING_SECRET || true
+            fi
+            npx wrangler deploy
+            popd >/dev/null
+          done
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN_WORKERS }}
