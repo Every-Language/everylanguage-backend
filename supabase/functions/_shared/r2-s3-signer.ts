@@ -81,7 +81,7 @@ export async function presignUrl(
   const credential = `${config.accessKeyId}/${dateStamp}/${region}/${service}/aws4_request`;
   const query = urlObj.searchParams;
   query.set('X-Amz-Algorithm', 'AWS4-HMAC-SHA256');
-  query.set('X-Amz-Credential', encodeURIComponent(credential));
+  query.set('X-Amz-Credential', credential);
   query.set('X-Amz-Date', amzDate);
   query.set('X-Amz-Expires', String(options.expiresInSeconds));
   query.set('X-Amz-SignedHeaders', 'host');

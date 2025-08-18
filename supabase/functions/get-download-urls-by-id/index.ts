@@ -1,14 +1,11 @@
 import 'jsr:@supabase/functions-js/edge-runtime.d.ts';
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
-import { B2StorageService } from '../_shared/b2-storage-service.ts';
 import { createSignedCdnUrl } from '../_shared/cdn-utils.ts';
-
-const corsHeaders = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Headers':
-    'authorization, x-client-info, apikey, content-type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS',
-};
+import {
+  createSuccessResponse,
+  createErrorResponse,
+  createCorsResponse,
+} from '../_shared/response-utils.ts';
 
 interface RequestBody {
   mediaFileIds?: string[];
@@ -26,14 +23,11 @@ interface BatchUrlResult {
 
 Deno.serve(async (req: Request) => {
   if (req.method === 'OPTIONS') {
-    return new Response('ok', { headers: corsHeaders });
+    return createCorsResponse();
   }
 
   if (req.method !== 'POST') {
-    return new Response(JSON.stringify({ error: 'Method not allowed' }), {
-      status: 405,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createErrorResponse('Method not allowed', 405);
   }
 
   try {
@@ -41,29 +35,15 @@ Deno.serve(async (req: Request) => {
     try {
       body = await req.json();
     } catch {
-      return new Response(
-        JSON.stringify({ error: 'Invalid JSON in request body' }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
+      return createErrorResponse('Invalid JSON in request body', 400);
     }
 
     const { mediaFileIds = [], imageIds = [], expirationHours = 24 } = body;
     if (mediaFileIds.length === 0 && imageIds.length === 0) {
-      return new Response(
-        JSON.stringify({ error: 'Provide mediaFileIds and/or imageIds' }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
+      return createErrorResponse('Provide mediaFileIds and/or imageIds', 400);
     }
 
-    const storageProvider = (
-      Deno.env.get('STORAGE_PROVIDER') ?? 'b2'
-    ).toLowerCase();
+    // R2-only storage provider
     const supabase = createClient(
       Deno.env.get('SUPABASE_URL') ?? '',
       Deno.env.get('SUPABASE_SERVICE_ROLE_KEY') ?? ''
@@ -83,12 +63,9 @@ Deno.serve(async (req: Request) => {
         .select('id, object_key')
         .in('id', mediaFileIds);
       if (error) {
-        return new Response(
-          JSON.stringify({ error: `DB error (media_files): ${error.message}` }),
-          {
-            status: 500,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
+        return createErrorResponse(
+          `DB error (media_files): ${error.message}`,
+          500
         );
       }
       const media: Record<string, string> = {};
@@ -99,25 +76,20 @@ Deno.serve(async (req: Request) => {
           continue;
         }
         try {
-          if (storageProvider === 'b2') {
-            const b2 = new B2StorageService();
-            media[row.id] = await b2.generateDownloadUrl(key, expiresInSeconds);
-          } else {
-            const base = Deno.env.get('CDN_BASE_URL') ?? '';
-            const secret = Deno.env.get('CDN_SIGNING_SECRET') ?? '';
-            let url = await createSignedCdnUrl(
-              base,
-              key,
-              secret,
-              expiresInSeconds
-            );
-            if ((Deno.env.get('ENV') ?? '').toLowerCase() === 'dev') {
-              const u = new URL(url);
-              u.searchParams.set('env', 'dev');
-              url = u.toString();
-            }
-            media[row.id] = url;
+          const base = Deno.env.get('CDN_BASE_URL') ?? '';
+          const secret = Deno.env.get('CDN_SIGNING_SECRET') ?? '';
+          let url = await createSignedCdnUrl(
+            base,
+            key,
+            secret,
+            expiresInSeconds
+          );
+          if ((Deno.env.get('ENV') ?? '').toLowerCase() === 'dev') {
+            const u = new URL(url);
+            u.searchParams.set('env', 'dev');
+            url = u.toString();
           }
+          media[row.id] = url;
         } catch (e) {
           errors[row.id] = (e as Error).message;
         }
@@ -132,13 +104,7 @@ Deno.serve(async (req: Request) => {
         .select('id, object_key')
         .in('id', imageIds);
       if (error) {
-        return new Response(
-          JSON.stringify({ error: `DB error (images): ${error.message}` }),
-          {
-            status: 500,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
+        return createErrorResponse(`DB error (images): ${error.message}`, 500);
       }
       const images: Record<string, string> = {};
       for (const row of data ?? []) {
@@ -148,28 +114,20 @@ Deno.serve(async (req: Request) => {
           continue;
         }
         try {
-          if (storageProvider === 'b2') {
-            const b2 = new B2StorageService();
-            images[row.id] = await b2.generateDownloadUrl(
-              key,
-              expiresInSeconds
-            );
-          } else {
-            const base = Deno.env.get('CDN_BASE_URL') ?? '';
-            const secret = Deno.env.get('CDN_SIGNING_SECRET') ?? '';
-            let url = await createSignedCdnUrl(
-              base,
-              key,
-              secret,
-              expiresInSeconds
-            );
-            if ((Deno.env.get('ENV') ?? '').toLowerCase() === 'dev') {
-              const u = new URL(url);
-              u.searchParams.set('env', 'dev');
-              url = u.toString();
-            }
-            images[row.id] = url;
+          const base = Deno.env.get('CDN_BASE_URL') ?? '';
+          const secret = Deno.env.get('CDN_SIGNING_SECRET') ?? '';
+          let url = await createSignedCdnUrl(
+            base,
+            key,
+            secret,
+            expiresInSeconds
+          );
+          if ((Deno.env.get('ENV') ?? '').toLowerCase() === 'dev') {
+            const u = new URL(url);
+            u.searchParams.set('env', 'dev');
+            url = u.toString();
           }
+          images[row.id] = url;
         } catch (e) {
           errors[row.id] = (e as Error).message;
         }
@@ -183,14 +141,8 @@ Deno.serve(async (req: Request) => {
       result.errors = errors;
     }
 
-    return new Response(JSON.stringify(result), {
-      status: 200,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createSuccessResponse(result);
   } catch (error) {
-    return new Response(JSON.stringify({ error: (error as Error).message }), {
-      status: 500,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createErrorResponse((error as Error).message, 500);
   }
 });

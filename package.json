@@ -81,7 +81,8 @@
     "prettier": "^3.5.3",
     "shapefile": "^0.6.6",
     "sql-formatter": "^15.6.5",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "wa-sqlite": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",

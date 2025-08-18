@@ -75,4 +75,24 @@ export class R2StorageService {
       }
     );
   }
+
+  /**
+   * Download a file from R2 bucket (replacement for B2 downloadFileFromPrivateBucket)
+   */
+  async downloadFile(objectKey: string): Promise<Uint8Array> {
+    // For now, use presigned GET URL for downloading
+    const downloadUrl = await this.getPresignedGetUrl(objectKey, 3600); // 1 hour expiry
+
+    const response = await fetch(downloadUrl, {
+      method: 'GET',
+    });
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to download file ${objectKey}: ${response.status} ${response.statusText}`
+      );
+    }
+
+    return new Uint8Array(await response.arrayBuffer());
+  }
 }
