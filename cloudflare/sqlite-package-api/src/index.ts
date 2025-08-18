@@ -2,12 +2,8 @@ import { createDb } from '../../package-api/src/db';
 import { R2MultipartWriter } from '../../package-api/src/r2-multipart-writer';
 import { createMemoryDb } from './sqlite-builder';
 
-export interface Env {
-  R2_MEDIA_DEV: R2Bucket;
-  R2_MEDIA_PROD: R2Bucket;
-  PG_DEV: Hyperdrive;
-  PG_PROD: Hyperdrive;
-}
+// Classic worker: bindings exposed on globalThis
+type Env = any;
 
 function ok(
   body: unknown,
@@ -205,7 +201,10 @@ async function handleTextSqlite(req: Request, env: Env): Promise<Response> {
   );
 
   // Stream zip via multipart upload
-  const bucket = project === 'dev' ? env.R2_MEDIA_DEV : env.R2_MEDIA_PROD;
+  const bucket =
+    project === 'dev'
+      ? (globalThis as any).R2_MEDIA_DEV
+      : (globalThis as any).R2_MEDIA_PROD;
   const key = `packages/sqlite/text/${body.textVersionId}.zip`;
   const upload = await bucket.createMultipartUpload(key, {
     httpMetadata: { contentType: 'application/zip' },
@@ -249,7 +248,10 @@ async function handleDownload(
   project: 'dev' | 'prod',
   textVersionId: string
 ): Promise<Response> {
-  const bucket = project === 'dev' ? env.R2_MEDIA_DEV : env.R2_MEDIA_PROD;
+  const bucket =
+    project === 'dev'
+      ? (globalThis as any).R2_MEDIA_DEV
+      : (globalThis as any).R2_MEDIA_PROD;
   const key = `packages/sqlite/text/${textVersionId}.zip`;
   const obj = await bucket.get(key);
   if (!obj) return err('Not found', 404);
@@ -271,6 +273,19 @@ async function router(req: Request, env: Env): Promise<Response> {
     });
   const url = new URL(req.url);
   const path = url.pathname.replace(/^\/+/, '').replace(/^api\//, '');
+  if (req.method === 'GET' && path === 'v1/sqlite/health') {
+    try {
+      const mem = await createMemoryDb({});
+      await mem.api.exec(mem.db, 'select 1');
+      const buf = await mem.export();
+      await mem.close();
+      return ok({ success: true, size: buf.byteLength }, 200, {
+        'Content-Type': 'application/json',
+      });
+    } catch (e) {
+      return err(e instanceof Error ? e.message : String(e), 500);
+    }
+  }
   if (req.method === 'POST' && path === 'v1/sqlite/text')
     return handleTextSqlite(req, env);
   if (
@@ -284,9 +299,10 @@ async function router(req: Request, env: Env): Promise<Response> {
   return err('Not found', 404);
 }
 
-export default {
-  fetch: (req: Request, env: Env) =>
-    router(req, env).catch(e =>
+self.addEventListener('fetch', (event: FetchEvent) => {
+  event.respondWith(
+    router(event.request, globalThis as any as Env).catch(e =>
       err(e instanceof Error ? e.message : String(e), 500)
-    ),
-};
+    )
+  );
+});

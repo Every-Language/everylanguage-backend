@@ -23,12 +23,6 @@ function isIsoDateString(value: string): boolean {
   return !Number.isNaN(d.getTime());
 }
 
-function isUuid(value: string): boolean {
-  return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[ab89][0-9a-f]{3}-[0-9a-f]{12}$/i.test(
-    value
-  );
-}
-
 Deno.serve(async (req: Request): Promise<Response> => {
   if (req.method === 'OPTIONS') {
     return createCorsResponse();
@@ -63,11 +57,6 @@ Deno.serve(async (req: Request): Promise<Response> => {
         '`session_id` is required and must be a non-empty string.'
       );
     }
-    if (!isUuid(body.session_id)) {
-      return createValidationErrorResponse(
-        '`session_id` must be a valid UUID.'
-      );
-    }
     if (typeof body.ended_at !== 'string' || !isIsoDateString(body.ended_at)) {
       return createValidationErrorResponse(
         '`ended_at` must be a valid ISO timestamp string.'
@@ -85,67 +74,54 @@ Deno.serve(async (req: Request): Promise<Response> => {
     }
 
     const sessionId = body.session_id;
-    const endedAtInputIso = new Date(body.ended_at).toISOString();
-    const startedAtIso = body.started_at
+    const endedAt = new Date(body.ended_at).toISOString();
+    const startedAt = body.started_at
       ? new Date(body.started_at).toISOString()
       : undefined;
 
-    // Clamp to server-now to avoid future-ended values
-    const clampedEndedAtIso = new Date(
-      Math.min(Date.parse(endedAtInputIso), Date.now())
-    ).toISOString();
-
-    // Single-statement conditional update to avoid read→write race
-    // Update only when (ended_at is null OR ended_at < clampedEndedAt)
-    // AND (started_at is null OR started_at <= clampedEndedAt)
-    const endedAtEnc = encodeURIComponent(clampedEndedAtIso);
-    const startedOkExpr = `or(started_at.is.null,started_at.lte.${endedAtEnc})`;
-    const orExpr = `and(ended_at.is.null,${startedOkExpr}),and(ended_at.lt.${endedAtEnc},${startedOkExpr})`;
-
-    const { data: updatedRows, error: conditionalUpdateError } =
-      await supabaseClient
-        .from('sessions')
-        .update({ ended_at: clampedEndedAtIso })
-        .eq('id', sessionId)
-        .eq('user_id', publicUserId)
-        .or(orExpr)
-        .select('id');
-
-    if (conditionalUpdateError) {
-      return createErrorResponse(
-        'Database error',
-        500,
-        conditionalUpdateError.message
-      );
-    }
-
-    if (Array.isArray(updatedRows) && updatedRows.length > 0) {
-      return createSuccessResponse({ status: 'ok', updated: true });
-    }
-
-    // No row changed. Determine if the session exists to decide upsert vs idempotent ok
+    // Fetch existing session to determine existence and current ended_at
     const { data: existing, error: fetchError } = await supabaseClient
       .from('sessions')
-      .select('id')
+      .select('id, ended_at')
       .eq('id', sessionId)
       .eq('user_id', publicUserId)
       .maybeSingle();
 
     if (fetchError) {
+      // Database error reading the session
       return createErrorResponse('Database error', 500, fetchError.message);
     }
 
     if (existing) {
-      // Exists but not updated: either ended_at already >= provided, or started_at guard prevented change
-      return createSuccessResponse({ status: 'ok', updated: false });
+      // If existing.ended_at is null or earlier than new endedAt, update; else no-op
+      const shouldUpdate =
+        !existing.ended_at ||
+        new Date(existing.ended_at).getTime() < new Date(endedAt).getTime();
+      if (shouldUpdate) {
+        const { error: updateError } = await supabaseClient
+          .from('sessions')
+          .update({ ended_at: endedAt })
+          .eq('id', sessionId)
+          .eq('user_id', publicUserId);
+
+        if (updateError) {
+          return createErrorResponse(
+            'Database error',
+            500,
+            updateError.message
+          );
+        }
+      }
+
+      return createSuccessResponse({ status: 'ok' });
     }
 
     // If not found: Option A (preferred) — upsert if we have started_at
-    if (startedAtIso) {
-      // Ensure ended_at >= started_at & not future
-      const finalEndedAtIso = new Date(
-        Math.max(Date.parse(clampedEndedAtIso), Date.parse(startedAtIso))
-      ).toISOString();
+    if (!existing && startedAt) {
+      // Ensure ended_at >= started_at
+      const endTs = new Date(endedAt).getTime();
+      const startTs = new Date(startedAt).getTime();
+      const finalEndedAt = new Date(Math.max(endTs, startTs)).toISOString();
 
       const { error: upsertError } = await supabaseClient
         .from('sessions')
@@ -153,8 +129,8 @@ Deno.serve(async (req: Request): Promise<Response> => {
           {
             id: sessionId,
             user_id: publicUserId,
-            started_at: startedAtIso,
-            ended_at: finalEndedAtIso,
+            started_at: startedAt,
+            ended_at: finalEndedAt,
           },
           { onConflict: 'id' }
         );
@@ -167,10 +143,10 @@ Deno.serve(async (req: Request): Promise<Response> => {
         );
       }
 
-      return createSuccessResponse({ status: 'ok', updated: true });
+      return createSuccessResponse({ status: 'ok' });
     }
 
-    // Not found and no started_at provided
+    // If not found and no started_at to upsert with, respond with soft failure so client can retry later
     return createErrorResponse(
       'Session not found for this user. Retry later or include `started_at` to allow upsert.',
       404

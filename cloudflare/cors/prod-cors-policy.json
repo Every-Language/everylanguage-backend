@@ -3,7 +3,7 @@
     {
       "ID": "prod-web-access",
       "AllowedHeaders": ["*"],
-      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE", "OPTIONS"],
+      "AllowedMethods": ["GET", "HEAD", "PUT", "POST", "DELETE"],
       "AllowedOrigins": [
         "https://projects.everylanguage.com",
         "https://app.everylanguage.com",
