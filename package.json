@@ -66,6 +66,7 @@
   "license": "ISC",
   "description": "Supabase backend for EL audio translation platform",
   "dependencies": {
+    "@cloudflare/workers-types": "^4.20250813.0",
     "@typescript-eslint/eslint-plugin": "^8.34.1",
     "@typescript-eslint/parser": "^8.34.1",
     "backblaze-b2": "^1.7.1",
@@ -80,7 +81,8 @@
     "prettier": "^3.5.3",
     "shapefile": "^0.6.6",
     "sql-formatter": "^15.6.5",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "wa-sqlite": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",

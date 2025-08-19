@@ -1,6 +1,5 @@
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2.45.0';
-import { corsHeaders } from './request-parser.ts';
-import { getPublicUserIdFast } from './user-service.ts';
+import { corsHeaders } from './response-utils.ts';
 
 export interface AuthenticatedContext {
   supabaseClient: any;
@@ -52,7 +51,7 @@ export async function authenticateRequest(
     // Optimization: Since public.users.id now equals auth.users.id,
     // we can use the fast getter without database validation
     // The auth check above already confirms the user is valid
-    const publicUserId = getPublicUserIdFast(user.id);
+    const publicUserId = user.id;
     if (!publicUserId) {
       return {
         status: 400,

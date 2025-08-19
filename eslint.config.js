@@ -226,7 +226,10 @@ export default [
       'types/database.d.ts', // Generated declaration file
       'types/database.js', // Generated JS file
       '.github/workflows/**', // GitHub Actions workflows
-      'cloudflare/worker/src/**', // Exclude worker sources from root typed lint
+      'cloudflare/worker/src/**', // Exclude old worker path
+      'cloudflare/cdn-worker/src/**',
+      'cloudflare/package-api/src/**',
+      'cloudflare/sqlite-package-api/src/**',
       // Test files that import Deno-specific functions (excluded from main tsconfig)
       'tests/unit/bible-package-builder.test.ts',
       'tests/unit/bible-package-splitter.test.ts',

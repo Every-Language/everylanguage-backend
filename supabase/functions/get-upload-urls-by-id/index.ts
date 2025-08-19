@@ -2,13 +2,11 @@ import 'jsr:@supabase/functions-js/edge-runtime.d.ts';
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2';
 import { R2StorageService } from '../_shared/r2-storage-service.ts';
 import { StorageUtils } from '../_shared/storage-utils.ts';
-
-const corsHeaders = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Headers':
-    'authorization, x-client-info, apikey, content-type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS',
-};
+import {
+  createSuccessResponse,
+  createErrorResponse,
+  createCorsResponse,
+} from '../_shared/response-utils.ts';
 
 interface RequestBody {
   mediaFileIds?: string[];
@@ -32,13 +30,10 @@ interface BatchUploadUrlsResult {
 
 Deno.serve(async (req: Request) => {
   if (req.method === 'OPTIONS') {
-    return new Response('ok', { headers: corsHeaders });
+    return createCorsResponse();
   }
   if (req.method !== 'POST') {
-    return new Response(JSON.stringify({ error: 'Method not allowed' }), {
-      status: 405,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createErrorResponse('Method not allowed', 405);
   }
 
   try {
@@ -46,38 +41,15 @@ Deno.serve(async (req: Request) => {
     try {
       body = await req.json();
     } catch {
-      return new Response(JSON.stringify({ error: 'Invalid JSON' }), {
-        status: 400,
-        headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-      });
+      return createErrorResponse('Invalid JSON', 400);
     }
 
     const { mediaFileIds = [], imageIds = [], expirationHours = 24 } = body;
     if (mediaFileIds.length === 0 && imageIds.length === 0) {
-      return new Response(
-        JSON.stringify({ error: 'Provide mediaFileIds and/or imageIds' }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
+      return createErrorResponse('Provide mediaFileIds and/or imageIds', 400);
     }
 
-    const storageProvider = (
-      Deno.env.get('STORAGE_PROVIDER') ?? 'b2'
-    ).toLowerCase();
-    if (storageProvider !== 'r2') {
-      return new Response(
-        JSON.stringify({
-          error: 'Upload-by-id supported only for R2 presigned upload',
-        }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-        }
-      );
-    }
-
+    // R2-only storage - no provider switching needed
     const supabase = createClient(
       Deno.env.get('SUPABASE_URL') ?? '',
       Deno.env.get('SUPABASE_SERVICE_ROLE_KEY') ?? ''
@@ -104,13 +76,7 @@ Deno.serve(async (req: Request) => {
         .select('id, object_key')
         .in('id', mediaFileIds);
       if (error) {
-        return new Response(
-          JSON.stringify({ error: `DB error: ${error.message}` }),
-          {
-            status: 500,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
+        return createErrorResponse(`DB error: ${error.message}`, 500);
       }
       for (const row of data ?? []) {
         try {
@@ -142,13 +108,7 @@ Deno.serve(async (req: Request) => {
         .select('id, object_key')
         .in('id', imageIds);
       if (error) {
-        return new Response(
-          JSON.stringify({ error: `DB error: ${error.message}` }),
-          {
-            status: 500,
-            headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-          }
-        );
+        return createErrorResponse(`DB error: ${error.message}`, 500);
       }
       for (const row of data ?? []) {
         try {
@@ -180,14 +140,8 @@ Deno.serve(async (req: Request) => {
     if (images.length > 0) response.images = images;
     if (!response.success) response.errors = errors;
 
-    return new Response(JSON.stringify(response), {
-      status: 200,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createSuccessResponse(response);
   } catch (error) {
-    return new Response(JSON.stringify({ error: (error as Error).message }), {
-      status: 500,
-      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-    });
+    return createErrorResponse((error as Error).message, 500);
   }
 });
