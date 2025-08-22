@@ -12,6 +12,7 @@ interface RequestBody {
   mediaFileIds?: string[];
   imageIds?: string[];
   expirationHours?: number;
+  originalFilenames?: Record<string, string>; // Map of ID -> original filename for new uploads
 }
 
 interface UrlInfo {
@@ -26,6 +27,13 @@ interface BatchUploadUrlsResult {
   media?: UrlInfo[];
   images?: UrlInfo[];
   errors?: Record<string, string>;
+}
+
+interface UpdateData {
+  object_key: string;
+  storage_provider: string;
+  original_filename?: string;
+  file_type?: string | null;
 }
 
 Deno.serve(async (req: Request) => {
@@ -44,7 +52,12 @@ Deno.serve(async (req: Request) => {
       return createErrorResponse('Invalid JSON', 400);
     }
 
-    const { mediaFileIds = [], imageIds = [], expirationHours = 24 } = body;
+    const {
+      mediaFileIds = [],
+      imageIds = [],
+      expirationHours = 24,
+      originalFilenames = {},
+    } = body;
     if (mediaFileIds.length === 0 && imageIds.length === 0) {
       return createErrorResponse('Provide mediaFileIds and/or imageIds', 400);
     }
@@ -64,32 +77,66 @@ Deno.serve(async (req: Request) => {
     // Helper to allocate object key (existing or new)
     const ensureKey = (
       existing: string | null,
-      proposedName: string
-    ): string =>
-      existing && existing.length > 0
-        ? existing
-        : StorageUtils.generateUniqueFileName(proposedName);
+      id: string,
+      dbOriginalFilename: string | null | undefined,
+      folder: 'media' | 'images'
+    ): string => {
+      if (existing && existing.length > 0) {
+        return existing;
+      }
+
+      // Use filename from request mapping, fall back to DB value
+      const originalFilename = originalFilenames[id] ?? dbOriginalFilename;
+
+      // Generate clean object key with UUID and folder structure
+      return StorageUtils.generateCleanObjectKey(
+        originalFilename || undefined,
+        folder
+      );
+    };
 
     if (mediaFileIds.length > 0) {
       const { data, error } = await supabase
         .from('media_files')
-        .select('id, object_key')
+        .select('id, object_key, original_filename, file_type')
         .in('id', mediaFileIds);
       if (error) {
         return createErrorResponse(`DB error: ${error.message}`, 500);
       }
       for (const row of data ?? []) {
         try {
-          const objectKey = ensureKey(row.object_key, `${row.id}.bin`);
+          // Use existing object_key if available, otherwise generate new one
+          const objectKey = ensureKey(
+            row.object_key,
+            row.id,
+            row.original_filename,
+            'media'
+          );
           const uploadUrl = await r2.getPresignedPutUrl(
             objectKey,
             expiresInSeconds
           );
-          // Persist object_key and provider for future fetches
+
+          // Prepare update data - only update what's needed
+          const updateData: UpdateData = {
+            object_key: objectKey,
+            storage_provider: 'r2',
+          };
+
+          // If we have new original_filename from request mapping, use it
+          const requestFilename = originalFilenames[row.id];
+          if (requestFilename && !row.original_filename) {
+            updateData.original_filename = requestFilename;
+            updateData.file_type =
+              StorageUtils.extractFileExtension(requestFilename);
+          }
+
+          // Persist object_key, provider, and metadata for future fetches
           await supabase
             .from('media_files')
-            .update({ object_key: objectKey, storage_provider: 'r2' })
+            .update(updateData)
             .eq('id', row.id);
+
           media.push({
             id: row.id,
             objectKey,
@@ -105,22 +152,42 @@ Deno.serve(async (req: Request) => {
     if (imageIds.length > 0) {
       const { data, error } = await supabase
         .from('images')
-        .select('id, object_key')
+        .select('id, object_key, original_filename, file_type')
         .in('id', imageIds);
       if (error) {
         return createErrorResponse(`DB error: ${error.message}`, 500);
       }
       for (const row of data ?? []) {
         try {
-          const objectKey = ensureKey(row.object_key, `${row.id}.bin`);
+          // Use existing object_key if available, otherwise generate new one
+          const objectKey = ensureKey(
+            row.object_key,
+            row.id,
+            row.original_filename,
+            'images'
+          );
           const uploadUrl = await r2.getPresignedPutUrl(
             objectKey,
             expiresInSeconds
           );
-          await supabase
-            .from('images')
-            .update({ object_key: objectKey, storage_provider: 'r2' })
-            .eq('id', row.id);
+
+          // Prepare update data - only update what's needed
+          const updateData: UpdateData = {
+            object_key: objectKey,
+            storage_provider: 'r2',
+          };
+
+          // If we have new original_filename from request mapping, use it
+          const requestFilename = originalFilenames[row.id];
+          if (requestFilename && !row.original_filename) {
+            updateData.original_filename = requestFilename;
+            updateData.file_type =
+              StorageUtils.extractFileExtension(requestFilename);
+          }
+
+          // Persist object_key, provider, and metadata for future fetches
+          await supabase.from('images').update(updateData).eq('id', row.id);
+
           images.push({
             id: row.id,
             objectKey,

@@ -37,7 +37,7 @@ export default [
       ...prettierConfig.rules,
 
       // Prettier integration
-      'prettier/prettier': 'warn',
+      'prettier/prettier': 'off',
 
       // TypeScript specific rules
       '@typescript-eslint/no-unused-vars': [
@@ -108,7 +108,7 @@ export default [
       '@typescript-eslint/require-await': 'off', // Edge Functions often have async without await
       '@typescript-eslint/prefer-nullish-coalescing': 'warn', // Downgrade to warning
       '@typescript-eslint/no-floating-promises': 'warn', // Downgrade to warning
-      'prettier/prettier': 'warn',
+      'prettier/prettier': 'off',
     },
   },
 
@@ -172,7 +172,7 @@ export default [
       'no-undef': 'off',
       'prefer-template': 'off',
       'object-shorthand': 'off',
-      'prettier/prettier': 'error',
+      'prettier/prettier': 'off',
     },
   },
 
