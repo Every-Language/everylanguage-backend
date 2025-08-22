@@ -74,15 +74,16 @@ async function handleRequest(request: Request, env: Env): Promise<Response> {
 
     // Handle Range requests
     const rangeHeader = request.headers.get('range');
+    const isHeadRequest = request.method === 'HEAD';
     let object;
 
-    if (rangeHeader) {
+    if (rangeHeader && !isHeadRequest) {
       // For range requests, use R2's range support
       const rangeHeaders = new Headers();
       rangeHeaders.set('Range', rangeHeader);
       object = await bucket.get(objectKey, { range: rangeHeaders });
     } else {
-      // Normal request
+      // Normal request or HEAD request
       object = await bucket.get(objectKey);
     }
 
@@ -99,10 +100,18 @@ async function handleRequest(request: Request, env: Env): Promise<Response> {
     headers.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
     headers.set('Access-Control-Allow-Headers', 'Range');
 
-    // Return appropriate status code
-    const status = rangeHeader ? 206 : 200;
+    // Ensure Content-Length is set for HEAD requests and full GET requests
+    if (isHeadRequest || !rangeHeader) {
+      headers.set('Content-Length', object.size.toString());
+    }
 
-    return new Response(object.body, {
+    // Return appropriate status code
+    const status = rangeHeader && !isHeadRequest ? 206 : 200;
+
+    // HEAD requests should not include body
+    const responseBody = isHeadRequest ? null : object.body;
+
+    return new Response(responseBody, {
       status,
       headers,
     });
