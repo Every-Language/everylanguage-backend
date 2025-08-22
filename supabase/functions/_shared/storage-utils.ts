@@ -12,6 +12,67 @@ export class StorageUtils {
       .replace(/[\t\n\r]/g, '_');
   }
 
+  /**
+   * Generate clean object key with UUID and proper folder structure
+   * @param originalFilename - Original filename to extract extension from
+   * @param folder - Storage folder ('media' or 'images')
+   * @returns Clean object key in format: folder/uuid.extension
+   */
+  static generateCleanObjectKey(
+    originalFilename?: string,
+    folder: 'media' | 'images' = 'media'
+  ): string {
+    const uuid = crypto.randomUUID();
+
+    if (originalFilename) {
+      const extension = this.extractFileExtension(originalFilename);
+      return extension ? `${folder}/${uuid}.${extension}` : `${folder}/${uuid}`;
+    }
+
+    return `${folder}/${uuid}`;
+  }
+
+  /**
+   * Extract file extension from filename
+   * @param filename - Filename to extract extension from
+   * @returns File extension (without dot) or null if none found
+   */
+  static extractFileExtension(filename: string): string | null {
+    const match = filename.match(/\.([^.]+)$/);
+    return match ? match[1].toLowerCase() : null;
+  }
+
+  /**
+   * Extract original filename and file type from legacy object key format
+   * Handles format: timestamp-originalfilename.extension
+   * @param objectKey - Legacy object key to parse
+   * @returns Object with originalFilename and fileType
+   */
+  static parseLegacyObjectKey(objectKey: string): {
+    originalFilename: string | null;
+    fileType: string | null;
+  } {
+    if (!objectKey) {
+      return { originalFilename: null, fileType: null };
+    }
+
+    // Check if it matches the legacy timestamp-filename.extension format
+    const legacyMatch = objectKey.match(/^\d+-(.+)$/);
+    if (legacyMatch) {
+      const originalFilename = legacyMatch[1];
+      const fileType = this.extractFileExtension(originalFilename);
+      return { originalFilename, fileType };
+    }
+
+    // If not legacy format, treat whole string as filename
+    const fileType = this.extractFileExtension(objectKey);
+    return { originalFilename: objectKey, fileType };
+  }
+
+  /**
+   * @deprecated Use generateCleanObjectKey instead
+   * Legacy method for backward compatibility
+   */
   static generateUniqueFileName(originalName: string): string {
     const timestamp = Date.now();
     const sanitizedName = this.sanitizeFileName(originalName);
