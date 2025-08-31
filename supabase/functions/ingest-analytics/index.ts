@@ -103,7 +103,7 @@ type GeoResult = {
 
 // Required fields validation schemas
 const REQUIRED_FIELDS = {
-  sessions: ['user_id', 'device_id', 'platform', 'app_version'],
+  sessions: ['user_id', 'platform', 'app_version'],
   app_downloads: ['user_id', 'device_id', 'platform', 'app_version'],
 } as const;
 
