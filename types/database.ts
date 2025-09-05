@@ -3209,11 +3209,11 @@ export type Database = {
       }
     }
     Functions: {
-      _postgis_deprecate: {
+      __deprecate: {
         Args: { newname: string; version: string; oldname: string }
         Returns: undefined
       }
-      _postgis_index_extent: {
+      __index_extent: {
         Args: { col: string; tbl: unknown }
         Returns: unknown
       }
@@ -3225,7 +3225,7 @@ export type Database = {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      _postgis_selectivity: {
+      __selectivity: {
         Args: { att_name: string; tbl: unknown; geom: unknown; mode?: string }
         Returns: number
       }
@@ -3813,39 +3813,39 @@ export type Database = {
           | { use_typmod?: boolean; tbl_oid: unknown }
         Returns: string
       }
-      postgis_addbbox: {
+      _addbbox: {
         Args: { "": unknown }
         Returns: unknown
       }
-      postgis_constraint_dims: {
+      _constraint_dims: {
         Args: { geomschema: string; geomcolumn: string; geomtable: string }
         Returns: number
       }
-      postgis_constraint_srid: {
+      _constraint_srid: {
         Args: { geomtable: string; geomschema: string; geomcolumn: string }
         Returns: number
       }
-      postgis_constraint_type: {
+      _constraint_type: {
         Args: { geomschema: string; geomtable: string; geomcolumn: string }
         Returns: string
       }
-      postgis_dropbbox: {
+      _dropbbox: {
         Args: { "": unknown }
         Returns: unknown
       }
-      postgis_extensions_upgrade: {
+      _extensions_upgrade: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      postgis_full_version: {
+      _full_version: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      postgis_geos_noop: {
+      _geos_noop: {
         Args: { "": unknown }
         Returns: unknown
       }
-      postgis_geos_version: {
+      _geos_version: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
