@@ -1,12 +1,13 @@
-build out mapping dashboard
-
-implement cdn
+cron job for refreshing materialized views
+In Supabase dashboard → Edge Functions → Add Schedule:
+Name: refresh-progress-cron
+Function: refresh-progress
+Schedule: choose interval (e.g., every 15 minutes) or CRON _/15 _ \* \* \*
+Auth: allow anon or secure with a secret header if desired
 
 migrate to using user roles for access rather than simple created_by
 
 allow community checking of verse texts too
-
-optimise indexes for powersync
 
 migrate to terraform for IaC
 
