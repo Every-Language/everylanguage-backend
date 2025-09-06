@@ -12,7 +12,7 @@ interface RequestBody {
   mediaFileIds?: string[];
   imageIds?: string[];
   expirationHours?: number;
-  originalFilenames?: Record<string, string>; // Map of ID -> original filename for new uploads
+  originalFilenames?: Record<string, string>;
 }
 
 interface UrlInfo {

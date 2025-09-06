@@ -395,3 +395,110 @@ Always check the `error` property in your Supabase response for connection or pe
 - `district` - District/county level
 - `town` - Town/city level
 - `village` - Village level
+
+## Manual SQL Testing
+
+You can validate hierarchy behavior directly in SQL (useful for local testing and debugging).
+
+### Language hierarchy (ad-hoc SQL around a specific entity)
+
+Run this to fetch self, ancestors, descendants, and siblings without calling the function (works in Supabase SQL editor or psql):
+
+```sql
+WITH RECURSIVE
+cfg AS (
+  SELECT
+    '00542823-58a1-4251-ae62-f208dd1296b2'::uuid AS entity_id, -- Arabic (example)
+    6::int AS generations_up,
+    6::int AS generations_down
+),
+self_row AS (
+  SELECT le.id, le.name, le.level::text AS level, le.parent_id
+  FROM language_entities le, cfg
+  WHERE le.id = cfg.entity_id AND le.deleted_at IS NULL
+),
+up AS (
+  SELECT p.id, p.name, p.level::text AS level, p.parent_id, -1 AS distance
+  FROM language_entities p JOIN self_row s ON p.id = s.parent_id
+  WHERE p.deleted_at IS NULL
+UNION ALL
+  SELECT p2.id, p2.name, p2.level::text, p2.parent_id, u.distance - 1
+  FROM language_entities p2 JOIN up u ON p2.id = u.parent_id JOIN cfg ON TRUE
+  WHERE p2.deleted_at IS NULL AND abs(u.distance) < cfg.generations_up
+),
+down AS (
+  SELECT c.id, c.name, c.level::text AS level, c.parent_id, 1 AS distance
+  FROM language_entities c JOIN self_row s ON c.parent_id = s.id
+  WHERE c.deleted_at IS NULL
+UNION ALL
+  SELECT c2.id, c2.name, c2.level::text, c2.parent_id, d.distance + 1
+  FROM language_entities c2 JOIN down d ON c2.parent_id = d.id JOIN cfg ON TRUE
+  WHERE c2.deleted_at IS NULL AND d.distance < cfg.generations_down
+),
+siblings AS (
+  SELECT sib.id, sib.name, sib.level::text AS level, sib.parent_id, 0 AS distance
+  FROM language_entities sib JOIN self_row s ON sib.parent_id = s.parent_id
+  WHERE sib.id <> s.id AND sib.deleted_at IS NULL AND s.parent_id IS NOT NULL
+)
+SELECT s.id AS hierarchy_entity_id,
+       s.name AS hierarchy_entity_name,
+       s.level AS hierarchy_entity_level,
+       s.parent_id AS hierarchy_parent_id,
+       'self'::text AS relationship_type,
+       0 AS generation_distance
+FROM self_row s
+UNION ALL
+SELECT u.id, u.name, u.level, u.parent_id, 'ancestor', u.distance FROM up u
+UNION ALL
+SELECT d.id, d.name, d.level, d.parent_id, 'descendant', d.distance FROM down d
+UNION ALL
+SELECT b.id, b.name, b.level, b.parent_id, 'sibling', b.distance FROM siblings b
+ORDER BY relationship_type, generation_distance, hierarchy_entity_name;
+```
+
+Quick helpers:
+
+- **Counts by relationship**
+
+```sql
+WITH RECURSIVE ...
+-- same CTEs as above through siblings, then
+, combined AS (
+  SELECT s.id, s.name, s.level, s.parent_id, 'self'::text AS relationship_type, 0 AS generation_distance FROM self_row s
+  UNION ALL SELECT u.id, u.name, u.level, u.parent_id, 'ancestor', u.distance FROM up u
+  UNION ALL SELECT d.id, d.name, d.level, d.parent_id, 'descendant', d.distance FROM down d
+  UNION ALL SELECT b.id, b.name, b.level, b.parent_id, 'sibling', b.distance FROM siblings b
+)
+SELECT relationship_type, COUNT(*)
+FROM combined
+GROUP BY relationship_type
+ORDER BY relationship_type;
+```
+
+- **Direct children (descendants at distance 1)**
+
+```sql
+WITH RECURSIVE ...
+-- same CTEs as above through combined
+SELECT *
+FROM combined
+WHERE relationship_type = 'descendant' AND generation_distance = 1
+ORDER BY name
+LIMIT 200;
+```
+
+- **Path (root → ... → entity)**
+
+```sql
+WITH RECURSIVE up AS (
+  SELECT le.id, le.name, le.parent_id, 0 AS depth
+  FROM language_entities le
+  WHERE le.id = '00542823-58a1-4251-ae62-f208dd1296b2'::uuid AND le.deleted_at IS NULL
+UNION ALL
+  SELECT p.id, p.name, p.parent_id, up.depth - 1
+  FROM language_entities p JOIN up ON p.id = up.parent_id
+  WHERE p.deleted_at IS NULL
+)
+SELECT string_agg(name, ' > ' ORDER BY depth) AS path
+FROM up;
+```

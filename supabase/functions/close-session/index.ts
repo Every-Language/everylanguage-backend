@@ -79,6 +79,52 @@ Deno.serve(async (req: Request): Promise<Response> => {
       ? new Date(body.started_at).toISOString()
       : undefined;
 
+    // Pre-step: close any open sessions for this user by setting ended_at to max(request.ended_at, session.started_at)
+    const { data: openSessions, error: openFetchError } = await supabaseClient
+      .from('sessions')
+      .select('id, started_at')
+      .eq('user_id', publicUserId)
+      .is('ended_at', null);
+
+    if (openFetchError) {
+      return createErrorResponse('Database error', 500, openFetchError.message);
+    }
+
+    if (openSessions && openSessions.length > 0) {
+      const requestEndedAtMs = new Date(endedAt).getTime();
+      const updateResults = await Promise.all(
+        openSessions.map(
+          async (s: { id: string; started_at: string | null }) => {
+            const sessionStartedAtMs = s.started_at
+              ? new Date(s.started_at).getTime()
+              : undefined;
+            const finalEndedAt = sessionStartedAtMs
+              ? new Date(
+                  Math.max(requestEndedAtMs, sessionStartedAtMs)
+                ).toISOString()
+              : endedAt;
+
+            const { error } = await supabaseClient
+              .from('sessions')
+              .update({ ended_at: finalEndedAt })
+              .eq('id', s.id)
+              .eq('user_id', publicUserId);
+
+            return { id: s.id, error };
+          }
+        )
+      );
+
+      const failed = updateResults.find(r => r.error);
+      if (failed?.error) {
+        return createErrorResponse(
+          'Database error',
+          500,
+          failed?.error?.message ?? 'Unknown error'
+        );
+      }
+    }
+
     // Fetch existing session to determine existence and current ended_at
     const { data: existing, error: fetchError } = await supabaseClient
       .from('sessions')

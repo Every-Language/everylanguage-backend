@@ -103,7 +103,7 @@ type GeoResult = {
 
 // Required fields validation schemas
 const REQUIRED_FIELDS = {
-  sessions: ['user_id', 'device_id', 'platform', 'app_version'],
+  sessions: ['user_id', 'platform', 'app_version'],
   app_downloads: ['user_id', 'device_id', 'platform', 'app_version'],
 } as const;
 
@@ -348,6 +348,57 @@ function toGeoJsonPoint(lon: number, lat: number) {
   } as const;
 }
 
+// Minimal client types to avoid `any` while supporting our usage
+type PostgrestErrorLike = { message: string } | null;
+type PostgrestResponseLike<T> = { data: T[] | null; error: PostgrestErrorLike };
+type PostgrestFilterLike<T> = {
+  select: (columns: string) => PostgrestFilterLike<T>;
+  eq: (column: string, value: string) => PostgrestFilterLike<T>;
+  order: (
+    column: string,
+    options: { ascending: boolean; nullsFirst?: boolean; foreignTable?: string }
+  ) => PostgrestFilterLike<T>;
+  limit: (n: number) => Promise<PostgrestResponseLike<T>>;
+};
+type SupabaseClientLike = {
+  from: <T = unknown>(table: string) => PostgrestFilterLike<T>;
+};
+
+// Fetch latest app_downloads.id for a user (ordered by downloaded_at desc, fallback to id desc)
+async function fetchLatestAppDownloadId(
+  supabaseClient: SupabaseClientLike,
+  userId: string
+): Promise<string | null> {
+  try {
+    const { data, error } = await supabaseClient
+      .from<{ id: string; downloaded_at: string | null }>('app_downloads')
+      .select('id, downloaded_at')
+      .eq('user_id', userId)
+      .order('downloaded_at', { ascending: false, nullsFirst: false })
+      .limit(1);
+
+    if (!error && Array.isArray(data) && data.length > 0 && data[0]?.id) {
+      return data[0].id;
+    }
+
+    // Fallback if downloaded_at is null for all rows
+    const { data: data2, error: error2 } = await supabaseClient
+      .from<{ id: string }>('app_downloads')
+      .select('id')
+      .eq('user_id', userId)
+      .order('id', { ascending: false })
+      .limit(1);
+
+    if (!error2 && Array.isArray(data2) && data2.length > 0 && data2[0]?.id) {
+      return data2[0].id;
+    }
+
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 // Normalize op name (supports enum numeric values if client sends UpdateType)
 function normalizeOp(
   op: string | number
@@ -483,6 +534,7 @@ Deno.serve(async (req: Request): Promise<Response> => {
     // Extract client IP once per batch
     const clientIp = extractClientIp(req);
     let cachedGeo: GeoResult | null = null;
+    let cachedLatestAppDownloadId: string | null | undefined = undefined;
 
     // Process ops sequentially to keep things simple and deterministic for idempotency
     const results: OperationResult[] = [];
@@ -554,6 +606,35 @@ Deno.serve(async (req: Request): Promise<Response> => {
 
         // Ensure user_id is set to the authenticated user (critical for RLS)
         record.user_id = publicUserId;
+
+        // If sessions.app_download_id is missing, backfill with latest app_download for this user
+        if (table === 'sessions') {
+          const hasAppDownloadId =
+            typeof record.app_download_id === 'string'
+              ? record.app_download_id.trim() !== ''
+              : record.app_download_id != null;
+          if (!hasAppDownloadId) {
+            cachedLatestAppDownloadId ??= await fetchLatestAppDownloadId(
+              supabaseClient,
+              publicUserId
+            );
+            if (cachedLatestAppDownloadId) {
+              record.app_download_id = cachedLatestAppDownloadId;
+              structuredLog('info', 'App download ID backfilled for session', {
+                ...opLog,
+                appDownloadId: cachedLatestAppDownloadId,
+              });
+            } else {
+              structuredLog(
+                'info',
+                'No app_download found to backfill for session',
+                {
+                  ...opLog,
+                }
+              );
+            }
+          }
+        }
 
         // If location missing and we have an IP, try to geolocate
         const hasLocation = record.location != null;
