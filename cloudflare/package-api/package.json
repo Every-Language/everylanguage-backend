@@ -16,7 +16,7 @@
     "jszip": "^3.10.1",
     "postgres": "^3.4.7",
     "sql.js": "^1.13.0",
-    "wrangler": "^4.30.0"
+    "wrangler": "^4.34.0"
   },
   "devDependencies": {
     "@types/sql.js": "^1.4.9"
