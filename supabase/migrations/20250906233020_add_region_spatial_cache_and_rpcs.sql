@@ -36,6 +36,7 @@ CREATE OR REPLACE FUNCTION public.refresh_region_spatial_cache (p_region_id UUID
 SET
   search_path = public AS $$
 DECLARE
+
   raw geometry(Geometry, 4326);
   g geometry(MULTIPOLYGON, 4326);
   pt geometry(POINT, 4326);
