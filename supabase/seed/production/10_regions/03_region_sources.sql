@@ -13,8 +13,8 @@ INSERT INTO
   )
 VALUES
   (
-    'fa95eee0-d298-4d12-beec-b02e314d44f2',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '3492691a-1e4e-45b9-92be-31869d78e7d6',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'natural_earth_admin',
     'ZWE',
@@ -23,8 +23,8 @@ VALUES
     NOW()
   ),
   (
-    '3609128f-f9f1-46b0-bb66-81b6bd108641',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'd7ce287b-05a1-48d0-90e1-d613b93219aa',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZW',
@@ -33,8 +33,8 @@ VALUES
     NOW()
   ),
   (
-    '30b792ca-0cda-4765-8c41-49a68c0e1430',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'cfe05668-02ca-4069-8879-615722484ff7',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZWE',
@@ -43,8 +43,8 @@ VALUES
     NOW()
   ),
   (
-    'fc55d9c7-b6e5-415a-9f34-484541842af4',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'b05d1df6-82d6-408b-a80c-f607fd868708',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'iso3166-1-numeric',
     '716',
@@ -53,8 +53,8 @@ VALUES
     NOW()
   ),
   (
-    'a96d31d8-98dd-4696-bb60-dd1014919191',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '8139de78-7d5a-4a47-b3a3-c400c904375e',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'un_a3',
     '716',
@@ -63,8 +63,8 @@ VALUES
     NOW()
   ),
   (
-    '6b08a68c-4839-4ef2-b0e7-bbb5c43eb3d9',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'b4dab7c6-ef1c-41dd-8681-8f22f3ccc686',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'world_bank_a2',
     'ZW',
@@ -73,8 +73,8 @@ VALUES
     NOW()
   ),
   (
-    'cd762341-a184-40fe-8401-75ad7572c1a2',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'db9d5a8f-3d3f-4f80-8d94-205cc66b0139',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'world_bank_a3',
     'ZWE',
@@ -83,8 +83,8 @@ VALUES
     NOW()
   ),
   (
-    '718a6eb4-fdcf-4eeb-8375-d4168b3e25f0',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '1d259e1f-06b0-4928-ace6-5e9752cd8002',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'natural_earth',
     'wikidata',
     'Q954',
@@ -93,8 +93,8 @@ VALUES
     NOW()
   ),
   (
-    '6665e357-9e1a-486a-814f-73129935c5af',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'ff21e768-8ef2-4394-a097-d1bee1845018',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'natural_earth_admin',
     'ZMB',
@@ -103,8 +103,8 @@ VALUES
     NOW()
   ),
   (
-    '1bf6fbd9-7bd7-43a5-9146-cfb3e9362e0f',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '69d3df7a-85a2-4272-b0f9-bef585504b85',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZM',
@@ -113,8 +113,8 @@ VALUES
     NOW()
   ),
   (
-    '35705252-4e4d-43a5-b066-a6f6fc0fc265',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '525bd6c3-4a41-4e41-9aa6-539841797e28',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZMB',
@@ -123,8 +123,8 @@ VALUES
     NOW()
   ),
   (
-    '659556aa-4f02-4195-9f61-fe4689040cb8',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '1a04fad6-d51d-4c29-a193-7ac4e6f416ca',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'iso3166-1-numeric',
     '894',
@@ -133,8 +133,8 @@ VALUES
     NOW()
   ),
   (
-    '6b47ce41-08c7-4c2d-890d-523e1dd8f142',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'aebae0ce-aad2-403e-a9fe-1bb33cf3e504',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'un_a3',
     '894',
@@ -143,8 +143,8 @@ VALUES
     NOW()
   ),
   (
-    '821e61f2-a0e6-4f81-b43f-9d0e2d7f5fc2',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '0abc1426-c5c3-4c20-a0a2-9a113020f661',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'world_bank_a2',
     'ZM',
@@ -153,8 +153,8 @@ VALUES
     NOW()
   ),
   (
-    'c8cee37e-59e7-4840-bb04-5751b1c57ffd',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '256bc060-6383-4169-927f-b1d97cbb0b89',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'world_bank_a3',
     'ZMB',
@@ -163,8 +163,8 @@ VALUES
     NOW()
   ),
   (
-    'ff1a853a-9826-474d-9831-5ca53b9727f1',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'e4b840cc-074a-43ab-bd4f-632d80b0f246',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'natural_earth',
     'wikidata',
     'Q953',
@@ -173,8 +173,8 @@ VALUES
     NOW()
   ),
   (
-    '5c9e9c90-f35f-4b23-90b8-21e89bcd8245',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'ef735af0-f014-4a8b-8196-a96a8375470d',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'natural_earth_admin',
     'YEM',
@@ -183,8 +183,8 @@ VALUES
     NOW()
   ),
   (
-    '553ea4dc-72e9-4b76-8267-6dbb6ef7e0d8',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '6fdf92cd-2522-4533-a8e9-b3033f37f455',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'iso3166-1-alpha2',
     'YE',
@@ -193,8 +193,8 @@ VALUES
     NOW()
   ),
   (
-    'c7e53c17-5be8-4e1d-a771-34c3b5d4efb0',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '607614c6-42a8-4c4e-a322-fc134577af82',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'iso3166-1-alpha3',
     'YEM',
@@ -203,8 +203,8 @@ VALUES
     NOW()
   ),
   (
-    'f51bd68c-ad6b-4d24-82bb-efab424f9e68',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '0fafaa76-8d38-43c3-9296-253ab97f36ff',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'iso3166-1-numeric',
     '887',
@@ -213,8 +213,8 @@ VALUES
     NOW()
   ),
   (
-    '3e0365b9-07a6-4864-9160-b09062ac29a8',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '46edb8ed-4db6-49d6-b226-5c7f1b20eef5',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'un_a3',
     '887',
@@ -223,8 +223,8 @@ VALUES
     NOW()
   ),
   (
-    'b2532b8f-a32e-415c-8e8f-8e9dcf515848',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '358e71fe-c346-42fb-87bd-9697f4126515',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'world_bank_a2',
     'RY',
@@ -233,8 +233,8 @@ VALUES
     NOW()
   ),
   (
-    '3eda9d0a-74e8-4ca5-998f-fac64aa7d24d',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'cf9428bd-3d17-489e-a6d4-9faec0be3de5',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'world_bank_a3',
     'YEM',
@@ -243,8 +243,8 @@ VALUES
     NOW()
   ),
   (
-    'a3564777-7cc7-4ae9-a452-972daf329503',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'dbbe793e-c818-411d-ba73-176b6dae6779',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'natural_earth',
     'wikidata',
     'Q805',
@@ -253,8 +253,8 @@ VALUES
     NOW()
   ),
   (
-    'c887b75e-326a-4994-a695-fcb726f172e1',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '10a7c41b-24c3-4dbb-a552-25f6a9ecff46',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'natural_earth_admin',
     'VNM',
@@ -263,8 +263,8 @@ VALUES
     NOW()
   ),
   (
-    'dbd8bef0-29d3-4f04-ae65-31cb7f13da3b',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'cb39396d-6d75-4ed8-8e51-52fcb88408c8',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'iso3166-1-alpha2',
     'VN',
@@ -273,8 +273,8 @@ VALUES
     NOW()
   ),
   (
-    'e07f2cab-30e2-4090-a3af-0529e03ffbbf',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '832f124d-93d1-4988-89ee-439ea2f34995',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'iso3166-1-alpha3',
     'VNM',
@@ -283,8 +283,8 @@ VALUES
     NOW()
   ),
   (
-    '6d689699-1024-4153-a9d7-c23a0c8b6d0c',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '6e200433-e962-45cd-95a4-dc7feb9742be',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'iso3166-1-numeric',
     '704',
@@ -293,8 +293,8 @@ VALUES
     NOW()
   ),
   (
-    'c64070d1-18b0-43b4-9f05-aea4ed2b390a',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '07841d37-2524-400b-9990-db105c847dd2',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'un_a3',
     '704',
@@ -303,8 +303,8 @@ VALUES
     NOW()
   ),
   (
-    '09b88136-5ebe-44d0-ae80-efff00210712',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '23dba2c1-12f0-4b01-b797-07753de00706',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'world_bank_a2',
     'VN',
@@ -313,8 +313,8 @@ VALUES
     NOW()
   ),
   (
-    '10ca284d-537c-4dfd-8c45-bfda752f0f66',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '497cb917-840d-4814-98f0-42dfed43e8a8',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'world_bank_a3',
     'VNM',
@@ -323,8 +323,8 @@ VALUES
     NOW()
   ),
   (
-    '00b96abd-bc46-47f1-8555-be534b7abe87',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'b019fe20-eb92-4c57-a896-28189df1c03e',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'natural_earth',
     'wikidata',
     'Q881',
@@ -333,8 +333,8 @@ VALUES
     NOW()
   ),
   (
-    '3fd9353d-b52f-4317-84c6-7f684b4f2f02',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '9344ac0a-e233-4db4-bd02-e094942bceb4',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'natural_earth_admin',
     'VEN',
@@ -343,8 +343,8 @@ VALUES
     NOW()
   ),
   (
-    '2f642d23-b511-4fb6-be23-290b6de50d26',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '7c01430f-778a-41a4-96a7-6226ac07e965',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'iso3166-1-alpha2',
     'VE',
@@ -353,8 +353,8 @@ VALUES
     NOW()
   ),
   (
-    'c0312e7f-5c62-46cc-9e08-7284e3cd118a',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '04c7ffa6-59a6-40e8-96d3-757965943f39',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'iso3166-1-alpha3',
     'VEN',
@@ -363,8 +363,8 @@ VALUES
     NOW()
   ),
   (
-    '4270b7fa-11e0-4042-a9ad-ec33fa78a618',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'bd00b850-179b-4c69-bb3d-fbe279ab78e6',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'iso3166-1-numeric',
     '862',
@@ -373,8 +373,8 @@ VALUES
     NOW()
   ),
   (
-    'ae69c742-007a-4683-97da-9cfc52c20353',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'e88b7b76-6edc-4c06-9e10-520fa4517324',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'un_a3',
     '862',
@@ -383,8 +383,8 @@ VALUES
     NOW()
   ),
   (
-    '5d4e937b-9002-4b77-9943-25be445a29a4',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '9c9ee093-54dc-4e2c-b056-779b945610fe',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'world_bank_a2',
     'VE',
@@ -393,8 +393,8 @@ VALUES
     NOW()
   ),
   (
-    '28bde781-6822-4add-8435-ccfc7f33ef99',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '7efaa20d-1096-4805-9758-ce1b7432008d',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'world_bank_a3',
     'VEN',
@@ -403,8 +403,8 @@ VALUES
     NOW()
   ),
   (
-    'eeae5a3e-d506-4c73-8fdd-c6279c1c28b2',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'c14e0077-bd2e-4ffc-acfd-aa938f4b3fcb',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'natural_earth',
     'wikidata',
     'Q717',
@@ -413,8 +413,8 @@ VALUES
     NOW()
   ),
   (
-    'e9305c1a-2d3e-4d8a-aabc-20169726478b',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '7b8f6fee-5d95-47f2-8488-fb7dd0eb6000',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'natural_earth_admin',
     'VAT',
@@ -423,8 +423,8 @@ VALUES
     NOW()
   ),
   (
-    '6eb2b51b-35da-4442-b98d-ee4242d91cfe',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'eecae71a-1bbe-406e-805c-3ff1200b9c8c',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'iso3166-1-alpha2',
     'VA',
@@ -433,8 +433,8 @@ VALUES
     NOW()
   ),
   (
-    '3259f98e-6cd4-4dc3-9d3a-59051d5882e8',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'f8a27bd2-0ff2-464d-8e8a-095b62b00590',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'iso3166-1-alpha3',
     'VAT',
@@ -443,8 +443,8 @@ VALUES
     NOW()
   ),
   (
-    '8a2219d1-8d5a-4010-8c1c-c3305a4a4b33',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'bf727104-9f00-42cf-8d51-f667bc70e446',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'iso3166-1-numeric',
     '336',
@@ -453,8 +453,8 @@ VALUES
     NOW()
   ),
   (
-    '8894d8d3-daa6-438e-9a40-8a44ee0a2845',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '870b61d2-54d8-4e5d-ad7d-3885bcce3030',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'un_a3',
     '336',
@@ -463,8 +463,8 @@ VALUES
     NOW()
   ),
   (
-    '826c787b-2a38-4f49-81d7-974b3e187184',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '6253927c-3484-444c-a885-6522885b09e5',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -473,8 +473,8 @@ VALUES
     NOW()
   ),
   (
-    '786e2386-92d6-42aa-a430-d42f163d2c80',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '2dfbc3a6-0bab-4303-94d0-8025b79d7e76',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -483,8 +483,8 @@ VALUES
     NOW()
   ),
   (
-    '86f08bd7-70be-4eb9-bf32-3cbb9f48945c',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '96c080a0-274e-47ae-931d-1526804e63dc',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'natural_earth',
     'wikidata',
     'Q237',
@@ -493,8 +493,8 @@ VALUES
     NOW()
   ),
   (
-    'ee34d1e0-0263-41be-9431-b32d416eacbf',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'e28da7a8-4e03-4b7e-9aad-0538e17f47bf',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'natural_earth_admin',
     'VUT',
@@ -503,8 +503,8 @@ VALUES
     NOW()
   ),
   (
-    '49d07d75-1882-46e7-aa42-3612be2f7b88',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '33ac7cda-8e65-4c71-95ad-2688a6bc59b1',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'iso3166-1-alpha2',
     'VU',
@@ -513,8 +513,8 @@ VALUES
     NOW()
   ),
   (
-    'a6802c30-8a51-4386-a5ad-c5e396d22f4a',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '559072ac-056c-40aa-bf89-f9e2d34671e0',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'iso3166-1-alpha3',
     'VUT',
@@ -523,8 +523,8 @@ VALUES
     NOW()
   ),
   (
-    '96bdf8a8-4849-491a-9fa4-c64fbd0aebe7',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'ac704a59-f774-4206-b842-4880d59d869c',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'iso3166-1-numeric',
     '548',
@@ -533,8 +533,8 @@ VALUES
     NOW()
   ),
   (
-    '2f744346-0945-45e7-ac02-b496f9aaa4c6',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '2262624b-c74f-431e-9f2b-98100c010794',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'un_a3',
     '548',
@@ -543,8 +543,8 @@ VALUES
     NOW()
   ),
   (
-    'c30038b6-e83f-48e2-a4cc-f33f64feda84',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '1855babf-046b-4276-a23b-ae31fcc94ed7',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'world_bank_a2',
     'VU',
@@ -553,8 +553,8 @@ VALUES
     NOW()
   ),
   (
-    '07dd5743-e8b6-4f1a-ad17-c7b67543071c',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '5db087ab-d3e5-47e7-9a1a-8d72e9317a1a',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'world_bank_a3',
     'VUT',
@@ -563,8 +563,8 @@ VALUES
     NOW()
   ),
   (
-    '1dd49983-e4b9-425f-938d-53c0742b330a',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '78096a96-0a42-40c6-af16-255092550590',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'natural_earth',
     'wikidata',
     'Q686',
@@ -573,8 +573,8 @@ VALUES
     NOW()
   ),
   (
-    'd75b4dee-bfd4-4596-8939-d3d8e6b06238',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'b5e25bf2-a0ab-4a7c-965d-2b8274abb155',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'natural_earth_admin',
     'UZB',
@@ -583,8 +583,8 @@ VALUES
     NOW()
   ),
   (
-    '2af631b8-210d-41b2-9111-daf17b753435',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '1bca180d-39bb-46df-b35f-d57617a50b3e',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'iso3166-1-alpha2',
     'UZ',
@@ -593,8 +593,8 @@ VALUES
     NOW()
   ),
   (
-    'f9ac82ad-83e5-42ee-8c51-27798c8e99cb',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '0b656254-0f82-41cd-84ed-48d3db6505f5',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'iso3166-1-alpha3',
     'UZB',
@@ -603,8 +603,8 @@ VALUES
     NOW()
   ),
   (
-    'f9a213ca-2edb-418f-9689-44e1cf5365fa',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'bec4de3c-bb0a-41a8-a205-277b18c5cbb1',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'iso3166-1-numeric',
     '860',
@@ -613,8 +613,8 @@ VALUES
     NOW()
   ),
   (
-    'e237f103-3be4-446c-91f4-909bba60dc34',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'fa801a1c-7bce-4eaf-8a64-2be568e107e1',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'un_a3',
     '860',
@@ -623,8 +623,8 @@ VALUES
     NOW()
   ),
   (
-    '7ef82b96-2821-4166-8260-7e324d5ef317',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'aeaf5d3d-5630-4066-b67c-afaee2ffb80a',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'world_bank_a2',
     'UZ',
@@ -633,8 +633,8 @@ VALUES
     NOW()
   ),
   (
-    'd9413149-f86b-4127-acb3-3b684863ebd7',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '7f7dc97c-410e-4479-b500-939d96c2f275',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'world_bank_a3',
     'UZB',
@@ -643,8 +643,8 @@ VALUES
     NOW()
   ),
   (
-    'f9e116f4-1523-4a01-aa05-c9a023e3cc36',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '107879d7-163d-4d08-9335-631f35429ae6',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'natural_earth',
     'wikidata',
     'Q265',
@@ -653,8 +653,8 @@ VALUES
     NOW()
   ),
   (
-    'e1aad15d-6754-4615-9b77-7675b0c99f82',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'a1fd4759-b4ed-447f-a477-721f2d705062',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'natural_earth_admin',
     'URY',
@@ -663,8 +663,8 @@ VALUES
     NOW()
   ),
   (
-    'cfb6ec16-ae19-4080-8b3d-4867fdd37d64',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'e6cac7d6-365b-4a4a-8a1d-6ad815a4057d',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'iso3166-1-alpha2',
     'UY',
@@ -673,8 +673,8 @@ VALUES
     NOW()
   ),
   (
-    'c001eca9-929e-4166-bdb1-3962ed150b62',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'd178c158-69c9-4ddf-9669-850930e522b0',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'iso3166-1-alpha3',
     'URY',
@@ -683,8 +683,8 @@ VALUES
     NOW()
   ),
   (
-    '3ee1fe16-3bff-4712-9d37-3d2403b2bb13',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'c4443e11-9be9-4f12-b11c-a52666f67de3',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'iso3166-1-numeric',
     '858',
@@ -693,8 +693,8 @@ VALUES
     NOW()
   ),
   (
-    'a20c1852-7bcc-4c17-9147-462eaa6d521f',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'fd531318-12d8-401b-ba78-ddb4f8d3144d',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'un_a3',
     '858',
@@ -703,8 +703,8 @@ VALUES
     NOW()
   ),
   (
-    'adcb9af2-643f-4f8d-a89e-13bf7df2c05f',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'e7d81815-e9cb-4c4c-8e4b-0beb661a727c',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'world_bank_a2',
     'UY',
@@ -713,8 +713,8 @@ VALUES
     NOW()
   ),
   (
-    '12ed1410-76e5-421b-84fa-043ea13371be',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '7b6d72a5-2167-457b-8725-c98bfdf59e42',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'world_bank_a3',
     'URY',
@@ -723,8 +723,8 @@ VALUES
     NOW()
   ),
   (
-    'c53e6df8-12d7-4058-b1fb-8ab9c7fb27cc',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '390a1866-1e2c-40a1-a2f8-0fe28005091a',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'natural_earth',
     'wikidata',
     'Q77',
@@ -733,8 +733,8 @@ VALUES
     NOW()
   ),
   (
-    '8acdc297-f687-49a1-b8f3-4c6b68a37039',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '541f7e4a-d8eb-4562-bee4-d14fdfe06cf7',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'natural_earth_admin',
     'FSM',
@@ -743,8 +743,8 @@ VALUES
     NOW()
   ),
   (
-    'b20d2fd4-e59c-464b-938e-4e5acc0b33a4',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'ac4bb437-e576-4ae5-bfba-11ba9be724b2',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'iso3166-1-alpha2',
     'FM',
@@ -753,8 +753,8 @@ VALUES
     NOW()
   ),
   (
-    'e9613165-f2c5-4040-abea-6fa14feb6a30',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '28bd2ca1-71e2-4777-a19c-4c3061ff593d',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'iso3166-1-alpha3',
     'FSM',
@@ -763,8 +763,8 @@ VALUES
     NOW()
   ),
   (
-    'fc378cf7-62b1-456d-ab2d-fdb085cae6be',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '8007c113-7a2a-47f9-a25b-f2437a6ed017',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'iso3166-1-numeric',
     '583',
@@ -773,8 +773,8 @@ VALUES
     NOW()
   ),
   (
-    '70ca48f7-8f33-4b29-b146-5b19a758cfec',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'ee128dc7-bd7e-4965-ba75-28fde912a5f5',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'un_a3',
     '583',
@@ -783,8 +783,8 @@ VALUES
     NOW()
   ),
   (
-    'ebca5bd8-b9b7-481a-a223-b49fe3626450',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '66ed4262-6764-4ce5-a30f-a35d958e5345',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'world_bank_a2',
     'FM',
@@ -793,8 +793,8 @@ VALUES
     NOW()
   ),
   (
-    '3f133baa-a107-46af-8c11-d80690e2cee1',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '6329e6a8-15f8-4508-883d-b4e943212b2c',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'world_bank_a3',
     'FSM',
@@ -803,8 +803,8 @@ VALUES
     NOW()
   ),
   (
-    'b7bdc299-a2f5-4209-9293-91e817f73ba3',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '3f075d0a-46d8-490b-90a6-fa428c87d9a2',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'natural_earth',
     'wikidata',
     'Q702',
@@ -813,8 +813,8 @@ VALUES
     NOW()
   ),
   (
-    '9e1a2300-bb5f-4c7b-9438-4d469d6d2df4',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '0037c5a3-7c56-4efc-9eff-2fb688725ba3',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'natural_earth_admin',
     'MHL',
@@ -823,8 +823,8 @@ VALUES
     NOW()
   ),
   (
-    '9cee5541-f86d-431b-95d7-a3fe0281ecf8',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '11f0c12c-fe6a-49ba-bb27-febea8829ca5',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'iso3166-1-alpha2',
     'MH',
@@ -833,8 +833,8 @@ VALUES
     NOW()
   ),
   (
-    '8d180eff-9658-4ded-a172-f65c10a1245e',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '377d1481-979e-45d3-b31e-829472ced2ca',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'iso3166-1-alpha3',
     'MHL',
@@ -843,8 +843,8 @@ VALUES
     NOW()
   ),
   (
-    'fe7e0c0f-d4c0-4a9a-bcc9-e7d3333828d5',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'da2d073b-3994-44ed-a151-e6dd13e4056d',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'iso3166-1-numeric',
     '584',
@@ -853,8 +853,8 @@ VALUES
     NOW()
   ),
   (
-    'd7a18bbb-21e3-4340-80dc-a7b4d3efe74c',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'ed086bd4-dc88-4a98-a1dc-aa63f4b7a0d5',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'un_a3',
     '584',
@@ -863,8 +863,8 @@ VALUES
     NOW()
   ),
   (
-    '10113434-65e2-481d-b3a7-e2b3c570e95c',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '79067a2e-0b94-4658-8cfd-a532fc120ba3',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'world_bank_a2',
     'MH',
@@ -873,8 +873,8 @@ VALUES
     NOW()
   ),
   (
-    '15c5711a-7290-4170-b9ae-4127f8af8740',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '268ba056-042d-44a9-bba6-08c600cb8d0d',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'world_bank_a3',
     'MHL',
@@ -883,8 +883,8 @@ VALUES
     NOW()
   ),
   (
-    'c550358f-5d77-4a21-97ca-d17b86dcddc7',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'ad941f20-94ea-4d12-a30e-35eb55fe524e',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'natural_earth',
     'wikidata',
     'Q709',
@@ -893,8 +893,8 @@ VALUES
     NOW()
   ),
   (
-    'fe723951-4989-4e7c-9225-4fc7343eeb3a',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'f4768e52-1156-482e-a305-f0d5f683119e',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'natural_earth_admin',
     'MNP',
@@ -903,8 +903,8 @@ VALUES
     NOW()
   ),
   (
-    '14024a51-a5c0-4089-8ce3-4697771ea8ce',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'e697cbc3-240b-4e06-88ac-6969c724c07f',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'iso3166-1-alpha2',
     'MP',
@@ -913,8 +913,8 @@ VALUES
     NOW()
   ),
   (
-    'ea605f5c-25cb-4726-b02f-8a6ef849c8c3',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '1c4d32e1-8869-4c43-8029-7ad33f115c7b',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNP',
@@ -923,8 +923,8 @@ VALUES
     NOW()
   ),
   (
-    'cb737cb7-9657-4a3f-8183-041d23cc594f',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'f6ec1bea-3619-4f01-96db-2e8e344b652f',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'iso3166-1-numeric',
     '580',
@@ -933,8 +933,8 @@ VALUES
     NOW()
   ),
   (
-    '40e66b7e-a794-4449-a41e-c6fc45492084',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'c87e463c-6f46-4340-9064-85cec9ac2a5c',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'un_a3',
     '580',
@@ -943,8 +943,8 @@ VALUES
     NOW()
   ),
   (
-    '436abc1d-0b6f-456a-86ed-9cba7e1cc3ba',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'a674b0e9-e101-40ef-b1e6-cec80b93cd5c',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'world_bank_a2',
     'MP',
@@ -953,8 +953,8 @@ VALUES
     NOW()
   ),
   (
-    '4735a04e-d57c-4135-a8db-b2a3f2712576',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'c5d52fc4-02a1-48e3-85a9-bcf2b708377e',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'world_bank_a3',
     'MNP',
@@ -963,8 +963,8 @@ VALUES
     NOW()
   ),
   (
-    '762a7ac5-f8d6-41cb-9058-05c3a6936997',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '33d7a78c-d0c1-40f6-8a7a-93dd3fb1d393',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'natural_earth',
     'wikidata',
     'Q16644',
@@ -973,8 +973,8 @@ VALUES
     NOW()
   ),
   (
-    '3e90e417-20f6-49da-ba16-15d22c295699',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'fc664889-2a6d-4dd0-8809-416e595c778d',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'natural_earth_admin',
     'VIR',
@@ -983,8 +983,8 @@ VALUES
     NOW()
   ),
   (
-    '00068073-4ced-4df0-8939-ae8b6af150aa',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'b8af9848-6dc4-4765-9d9c-008903240cf9',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'iso3166-1-alpha2',
     'VI',
@@ -993,8 +993,8 @@ VALUES
     NOW()
   ),
   (
-    '70c4a504-d02c-4170-a73b-6644b83906d4',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '91225640-a79b-4676-974a-566011d232ca',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'iso3166-1-alpha3',
     'VIR',
@@ -1003,8 +1003,8 @@ VALUES
     NOW()
   ),
   (
-    '4109e660-b7d5-4597-ad4b-3313d7fd40c8',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'dbf2c212-4610-4fce-bd06-9b571d36e77b',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'iso3166-1-numeric',
     '850',
@@ -1013,8 +1013,8 @@ VALUES
     NOW()
   ),
   (
-    'd0ab59c6-2e2d-4fd7-989c-60380b8d64f4',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '53cfa264-32c3-40b2-98bb-9d94a605da8f',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'un_a3',
     '850',
@@ -1023,8 +1023,8 @@ VALUES
     NOW()
   ),
   (
-    '374af696-ea34-42ab-85af-a5a22bb971dc',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '2091dfc4-971d-4499-b3aa-b619c27235c7',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'world_bank_a2',
     'VI',
@@ -1033,8 +1033,8 @@ VALUES
     NOW()
   ),
   (
-    '3e3946c5-e05f-43d9-acb6-c08d49ff3279',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '63b95db6-c8b6-4904-8e5c-cd785064f875',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'world_bank_a3',
     'VIR',
@@ -1043,8 +1043,8 @@ VALUES
     NOW()
   ),
   (
-    'a9b10da7-9de2-42ef-ba9c-986ec83383c1',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '03f1f650-244f-4fc2-b604-01419250e497',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'natural_earth',
     'wikidata',
     'Q11703',
@@ -1053,8 +1053,8 @@ VALUES
     NOW()
   ),
   (
-    '9572a381-e966-49d4-aeac-3796e77d3cd6',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'b345b7b2-2786-455f-9a65-85220a3c6c53',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'natural_earth_admin',
     'GUM',
@@ -1063,8 +1063,8 @@ VALUES
     NOW()
   ),
   (
-    '7f4dcddc-2651-47c1-a3d0-18b59b5cf57c',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'b7faae8a-2393-4049-a451-ff3b4c6460fe',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'iso3166-1-alpha2',
     'GU',
@@ -1073,8 +1073,8 @@ VALUES
     NOW()
   ),
   (
-    'd37dfcd4-e29b-4178-81b3-dd26b639bc24',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'c9a5a2f6-4493-4996-8a7a-37064834487b',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'iso3166-1-alpha3',
     'GUM',
@@ -1083,8 +1083,8 @@ VALUES
     NOW()
   ),
   (
-    '9af3312b-04d0-4272-8fe5-ecdcc5108bed',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '08412f96-d2aa-47f5-af31-5a00fef946ed',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'iso3166-1-numeric',
     '316',
@@ -1093,8 +1093,8 @@ VALUES
     NOW()
   ),
   (
-    'c744aff4-57c0-4c81-9dd1-38eb91f278bd',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'ad12bdf8-f1f9-4b9d-8b40-df865c0b22dd',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'un_a3',
     '316',
@@ -1103,8 +1103,8 @@ VALUES
     NOW()
   ),
   (
-    '732bfc83-389e-4044-bb5a-ce0256f44692',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '98df10c0-9925-41d4-a2b8-89c6fca4a110',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'world_bank_a2',
     'GU',
@@ -1113,8 +1113,8 @@ VALUES
     NOW()
   ),
   (
-    '0a79af9c-7352-46ce-aef6-4bba071157c8',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '0a1b34b1-a3bf-49d4-9c1c-d21da2117515',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'world_bank_a3',
     'GUM',
@@ -1123,8 +1123,8 @@ VALUES
     NOW()
   ),
   (
-    '79279fe8-7ba1-44d1-a26a-ed398f266b2c',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'c00e5f75-ed70-4a6a-8989-1b1a1273d331',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'natural_earth',
     'wikidata',
     'Q16635',
@@ -1133,8 +1133,8 @@ VALUES
     NOW()
   ),
   (
-    'df068ef4-0306-4bea-8b3c-1ea11ab9d5d9',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '889e4105-b17b-4e69-84e5-22d8a3d9b9e8',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'natural_earth_admin',
     'ASM',
@@ -1143,8 +1143,8 @@ VALUES
     NOW()
   ),
   (
-    '5eda2992-6cb3-410c-a284-161b72e02d9a',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'e832a5df-9560-407c-a913-aa66c1d11617',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'iso3166-1-alpha2',
     'AS',
@@ -1153,8 +1153,8 @@ VALUES
     NOW()
   ),
   (
-    'b9269256-ab8a-4496-aa04-9b2b6034aeba',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'ae0c7fdd-733d-4cfa-ab78-2d63c92fd4f7',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'iso3166-1-alpha3',
     'ASM',
@@ -1163,8 +1163,8 @@ VALUES
     NOW()
   ),
   (
-    '3626775f-242f-4f1f-b54e-2bd658efcea5',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'e9643270-6a07-4f7a-bcb6-45794945138e',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'iso3166-1-numeric',
     '016',
@@ -1173,8 +1173,8 @@ VALUES
     NOW()
   ),
   (
-    'c80b6ccc-c5ec-41f2-a5ae-0b1af9c7003a',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '4ba7b06d-fa3e-439c-9250-d6177baa18cc',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'un_a3',
     '016',
@@ -1183,8 +1183,8 @@ VALUES
     NOW()
   ),
   (
-    '809a02ff-c6a2-40f2-bf55-8515afb5dbdc',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '99f8b4c7-a62a-4d56-a6f5-7bb1211923af',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'world_bank_a2',
     'AS',
@@ -1193,8 +1193,8 @@ VALUES
     NOW()
   ),
   (
-    'd2dd0910-d0fc-46be-baa5-2185626d0a03',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '1e54ff62-c264-43f9-8a44-2d3532d92451',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'world_bank_a3',
     'ASM',
@@ -1203,8 +1203,8 @@ VALUES
     NOW()
   ),
   (
-    '74313304-fcc5-4bcf-92a0-2c067fd28a6c',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '60d24731-4c89-409b-b6d3-0fa09fcd5131',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'natural_earth',
     'wikidata',
     'Q16641',
@@ -1213,8 +1213,8 @@ VALUES
     NOW()
   ),
   (
-    '9afa5634-4736-40b3-a3df-3fcfe0c468c1',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'daa60dda-f326-48d4-b658-f062634ad285',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'natural_earth_admin',
     'PRI',
@@ -1223,8 +1223,8 @@ VALUES
     NOW()
   ),
   (
-    '99b00c8d-181a-433d-beaa-0eb7c76e40c2',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '0946497a-75cf-4064-a5eb-749fbd60d5a3',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'iso3166-1-alpha2',
     'PR',
@@ -1233,8 +1233,8 @@ VALUES
     NOW()
   ),
   (
-    '4f99c303-2f59-4f1c-8be7-836827b1ad9d',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'c0e45416-d1f3-420b-bba4-acfe9ca929dc',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRI',
@@ -1243,8 +1243,8 @@ VALUES
     NOW()
   ),
   (
-    '302fa844-2999-425f-af7f-c316bc9fbd01',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '19fee15c-590e-4467-8018-b593051c327d',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'iso3166-1-numeric',
     '630',
@@ -1253,8 +1253,8 @@ VALUES
     NOW()
   ),
   (
-    '41685867-01da-4ad6-8885-0056c63f4eb6',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '49c57755-3e27-4a1c-a890-547af89e3cd0',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'un_a3',
     '630',
@@ -1263,8 +1263,8 @@ VALUES
     NOW()
   ),
   (
-    '00c42922-f8b0-4cbd-b930-e8714349bd71',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '75b879d0-e829-464e-a39c-47d5964937ca',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'world_bank_a2',
     'PR',
@@ -1273,8 +1273,8 @@ VALUES
     NOW()
   ),
   (
-    'bd20af98-a42f-4c5b-a454-1d127642735a',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'a89a53a3-4922-4e07-8cd2-a6dee2cf0eb6',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'world_bank_a3',
     'PRI',
@@ -1283,8 +1283,8 @@ VALUES
     NOW()
   ),
   (
-    '4f46ac05-2437-425e-88f8-401b4e36b67e',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'f48e2992-3894-47cb-b6c6-230166f4b551',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'natural_earth',
     'wikidata',
     'Q1183',
@@ -1293,8 +1293,8 @@ VALUES
     NOW()
   ),
   (
-    '29d3a9b3-c9d6-464a-98f8-f81ad513c9a3',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '2234b68d-0f23-495a-98e5-50c53d7da53c',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'natural_earth_admin',
     'USA',
@@ -1303,8 +1303,8 @@ VALUES
     NOW()
   ),
   (
-    '0d645f8b-bd66-4972-9116-f0f03f745112',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '40f0712e-2bce-4ebd-933c-7b91194b3bf0',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'iso3166-1-alpha2',
     'US',
@@ -1313,8 +1313,8 @@ VALUES
     NOW()
   ),
   (
-    '805edf48-330b-4c0f-b2d7-72899215f6fe',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '5349e32a-9f96-4233-a764-020ab5812f8e',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'iso3166-1-alpha3',
     'USA',
@@ -1323,8 +1323,8 @@ VALUES
     NOW()
   ),
   (
-    'f559b4c5-8fd4-42ef-8907-77308cd80155',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '66b59e09-673a-4c8d-ba04-32089861ff09',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'iso3166-1-numeric',
     '840',
@@ -1333,8 +1333,8 @@ VALUES
     NOW()
   ),
   (
-    '3fb0a052-4fcd-4a3c-8ac3-e5464309a299',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'c04c899e-84fd-4cf0-ba40-1f15dfc15d95',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'un_a3',
     '840',
@@ -1343,8 +1343,8 @@ VALUES
     NOW()
   ),
   (
-    '95b556a8-f052-46f0-bff7-91c00ec49b66',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'c5c7800c-7e95-4d46-a65d-91832f45e130',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'world_bank_a2',
     'US',
@@ -1353,8 +1353,8 @@ VALUES
     NOW()
   ),
   (
-    '4c9be9c7-671a-4ec6-8bce-b073ad11de41',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '9d997cc2-2e25-4f05-be3c-943a43033069',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'world_bank_a3',
     'USA',
@@ -1363,8 +1363,8 @@ VALUES
     NOW()
   ),
   (
-    '64885912-ed85-4a99-9624-8ee63cd9d810',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '42e1bbbe-92da-4576-9dce-ce8ba3e9182c',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'natural_earth',
     'wikidata',
     'Q30',
@@ -1373,8 +1373,8 @@ VALUES
     NOW()
   ),
   (
-    '5cf1fd01-f6f2-425b-8dbe-bbe00781a6ac',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '4f819927-cef9-4588-83fa-290ed208f6ec',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'natural_earth_admin',
     'SGS',
@@ -1383,8 +1383,8 @@ VALUES
     NOW()
   ),
   (
-    '4ec5ab35-9472-4f21-b7aa-3508a4015359',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '9da9ee32-619e-4d52-85bb-501444c19531',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'iso3166-1-alpha2',
     'GS',
@@ -1393,8 +1393,8 @@ VALUES
     NOW()
   ),
   (
-    '9593acc2-6de2-4ec2-b799-fe4817805c1d',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'c1c7fc65-722d-4ce8-95e2-4593a545579b',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'iso3166-1-alpha3',
     'SGS',
@@ -1403,8 +1403,8 @@ VALUES
     NOW()
   ),
   (
-    '356c6446-c2c0-461a-9058-06205c606d17',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '884ed9c2-1188-4fe0-b1f6-e0b24e8a7cca',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'iso3166-1-numeric',
     '239',
@@ -1413,8 +1413,8 @@ VALUES
     NOW()
   ),
   (
-    '69a34c60-2299-425d-a516-0e246783939f',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '40291b7d-bb1c-47dd-8c20-61a5e09cfc58',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'un_a3',
     '-099',
@@ -1423,8 +1423,8 @@ VALUES
     NOW()
   ),
   (
-    '8b3ff251-489e-430a-97ee-a173de64fe12',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '86f238fc-ee39-48b4-9f51-69da96d57d99',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1433,8 +1433,8 @@ VALUES
     NOW()
   ),
   (
-    'bc07527e-5cd9-4ba7-91f8-080798b2f9a9',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '58a5551a-2ebb-47dd-97f4-fa38976fd30b',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1443,8 +1443,8 @@ VALUES
     NOW()
   ),
   (
-    '5d94e92e-e4f2-4729-b34f-222b39f51b98',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'da2ccf07-a913-4667-bd60-f6e046c45b2a',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'natural_earth',
     'wikidata',
     'Q35086',
@@ -1453,8 +1453,8 @@ VALUES
     NOW()
   ),
   (
-    '6429473f-b6d6-45bc-be5e-da8e0b9fdb93',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '7ab29fb3-9ba9-445e-bee9-253641778cf2',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'natural_earth_admin',
     'IOT',
@@ -1463,8 +1463,8 @@ VALUES
     NOW()
   ),
   (
-    'c62676fb-971c-43ed-93d1-6cfe84dd2f1f',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '68727ce0-40e1-43d1-b9a6-6c239a43a563',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'iso3166-1-alpha2',
     'IO',
@@ -1473,8 +1473,8 @@ VALUES
     NOW()
   ),
   (
-    '408c7f90-f835-4f02-8f37-4cb8ec5b48f3',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '14f55716-6bff-48c2-a0f7-f5474fed4f7b',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'iso3166-1-alpha3',
     'IOT',
@@ -1483,8 +1483,8 @@ VALUES
     NOW()
   ),
   (
-    'f085eb93-f1b3-46a5-8b2b-a26864a202ec',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'ecba2c76-f79d-4ced-ad70-d89300bab8cd',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'iso3166-1-numeric',
     '086',
@@ -1493,8 +1493,8 @@ VALUES
     NOW()
   ),
   (
-    '002f2267-1207-451d-8a05-868b88e490f6',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'e8389cf4-2cb5-491d-81c4-04ba3adcc37c',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'un_a3',
     '-099',
@@ -1503,8 +1503,8 @@ VALUES
     NOW()
   ),
   (
-    'ea0c1e4a-fb8a-4284-892e-6e7aecb866db',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '47f60543-3e52-4a1c-96dc-6396b3db8f32',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1513,8 +1513,8 @@ VALUES
     NOW()
   ),
   (
-    '437dcef4-0fe9-40d8-bcab-432a7111e339',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '1cb51668-47d2-4f19-819d-2914775e61bd',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1523,8 +1523,8 @@ VALUES
     NOW()
   ),
   (
-    '22991f12-ca70-4e7c-96aa-1dffafddcdd0',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'edd20f05-98c9-4d4d-8ed3-629b37c913bd',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'natural_earth',
     'wikidata',
     'Q43448',
@@ -1533,8 +1533,8 @@ VALUES
     NOW()
   ),
   (
-    'b023e27a-2848-4c7c-ac16-49064d729923',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '813e2751-6622-4db8-9562-2f4974d7d4b2',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'natural_earth_admin',
     'SHN',
@@ -1543,8 +1543,8 @@ VALUES
     NOW()
   ),
   (
-    'afb1f677-d654-4222-a595-6e084bd2aa33',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '0d648782-9421-4ff1-b1ca-745ce5413a6e',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'iso3166-1-alpha2',
     'SH',
@@ -1553,8 +1553,8 @@ VALUES
     NOW()
   ),
   (
-    '8c7ef480-67ba-4145-a193-2ead00ab6de8',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '36a7676b-1ab9-44e5-8b83-47b317f40207',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'iso3166-1-alpha3',
     'SHN',
@@ -1563,8 +1563,8 @@ VALUES
     NOW()
   ),
   (
-    '70923ae8-0dac-4944-b15c-d6d3913a8067',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '99cb1b08-5fa6-45e4-92f4-def798862914',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'iso3166-1-numeric',
     '654',
@@ -1573,8 +1573,8 @@ VALUES
     NOW()
   ),
   (
-    '008c809d-4808-474f-a690-15b464171a9a',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '3e6e67a7-d341-4141-b7c2-46f1d68b692b',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'un_a3',
     '654',
@@ -1583,8 +1583,8 @@ VALUES
     NOW()
   ),
   (
-    'e4479829-82aa-4b48-9d1c-4580ccf8dffd',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'cb3939cc-d983-4437-ab5d-f50462fd1d99',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1593,8 +1593,8 @@ VALUES
     NOW()
   ),
   (
-    '4b714ef0-8b47-4f97-bf17-222d5bf2e2cb',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'ddf7a1d1-c713-4a08-9b1e-74640656a070',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1603,8 +1603,8 @@ VALUES
     NOW()
   ),
   (
-    '0a40ec52-fad6-4912-bebb-c58699cff9d6',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '863e6cd7-aac8-4829-8815-aa38ced70acf',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'natural_earth',
     'wikidata',
     'Q34497',
@@ -1613,8 +1613,8 @@ VALUES
     NOW()
   ),
   (
-    '8b002e29-0757-4dfc-b822-5a904161fdd6',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '5396c4a8-ae06-4d72-97ce-d1ae4e16195c',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'natural_earth_admin',
     'PCN',
@@ -1623,8 +1623,8 @@ VALUES
     NOW()
   ),
   (
-    'e57b93c7-082e-4faf-a006-5a20c9df998a',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'f0eff0f5-b3de-4ebc-8d64-f81381bd7772',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'iso3166-1-alpha2',
     'PN',
@@ -1633,8 +1633,8 @@ VALUES
     NOW()
   ),
   (
-    '5ba7f53d-eb2c-48e5-bf10-2387b4dd0fc8',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '236cef04-38a8-469f-acdb-fd7e59a4c4e2',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'iso3166-1-alpha3',
     'PCN',
@@ -1643,8 +1643,8 @@ VALUES
     NOW()
   ),
   (
-    '80bfa84e-7c64-4023-8a00-9b525fa756a9',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'd38d8533-7d40-47b0-a2ab-4b3211e98c00',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'iso3166-1-numeric',
     '612',
@@ -1653,8 +1653,8 @@ VALUES
     NOW()
   ),
   (
-    'ef69ed54-12a5-4dee-aaf0-0c1b1d85e876',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'daa7f997-cd41-4036-b8c6-39a9b72c5042',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'un_a3',
     '612',
@@ -1663,8 +1663,8 @@ VALUES
     NOW()
   ),
   (
-    '1b673435-d36a-4abf-b3e8-16d9df7ac7b4',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'faf4dbd1-1d60-45c1-bec0-f676f8642aea',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1673,8 +1673,8 @@ VALUES
     NOW()
   ),
   (
-    '299c068c-f1e4-40e4-85c7-bea8cebe675a',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'f8525df3-7db8-4003-a243-5715fcea0622',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1683,8 +1683,8 @@ VALUES
     NOW()
   ),
   (
-    '674c6903-d8f6-4c63-ba12-094ecb89616f',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '10a6e6d8-98dd-4d9e-9b9e-84eac8d1d7b9',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'natural_earth',
     'wikidata',
     'Q35672',
@@ -1693,8 +1693,8 @@ VALUES
     NOW()
   ),
   (
-    '2c4c9ce0-93f4-439e-ad0c-43f5196f8285',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '17fc97fa-687f-417f-b912-77279075a109',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'natural_earth_admin',
     'AIA',
@@ -1703,8 +1703,8 @@ VALUES
     NOW()
   ),
   (
-    'ccce2f32-630d-46f3-9b67-63e1d30f10a1',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '324a69f4-ae35-4faa-97cb-061a20cf01fa',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'iso3166-1-alpha2',
     'AI',
@@ -1713,8 +1713,8 @@ VALUES
     NOW()
   ),
   (
-    '056b2136-c5b7-40c7-a5b7-371c72e6554e',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '62fba197-3d12-444f-94ff-0c44048b186e',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'iso3166-1-alpha3',
     'AIA',
@@ -1723,8 +1723,8 @@ VALUES
     NOW()
   ),
   (
-    '686e40da-9f41-41b5-bc3f-4637833275be',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'f40efbe8-58c4-46db-91bd-6d97dc8cd843',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'iso3166-1-numeric',
     '660',
@@ -1733,8 +1733,8 @@ VALUES
     NOW()
   ),
   (
-    'a223bfbd-f392-407c-8d5c-45010be614e7',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '032e171f-80a4-4bfe-a177-7233d1098238',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'un_a3',
     '660',
@@ -1743,8 +1743,8 @@ VALUES
     NOW()
   ),
   (
-    'c95960c9-a2ee-47ca-afb3-4b70b60df737',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'eda09a7c-65e1-439e-a1cb-be3c5f55c9b6',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1753,8 +1753,8 @@ VALUES
     NOW()
   ),
   (
-    '7a9e65f4-f5fd-4a2f-9034-ca30cda71628',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '964dd409-3089-41a4-85bb-abc4b5c60f06',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1763,8 +1763,8 @@ VALUES
     NOW()
   ),
   (
-    'e5c82f2c-b675-4bc8-982d-ae9474d01620',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '8171b800-0075-4ea0-9bc9-cc0632bb3ea8',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'natural_earth',
     'wikidata',
     'Q25228',
@@ -1773,8 +1773,8 @@ VALUES
     NOW()
   ),
   (
-    'aa0abcf2-9908-4c56-bd4f-78bd52d0bfc9',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '0c934505-b8b7-4598-8c1f-2606ed1ff67b',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'natural_earth_admin',
     'FLK',
@@ -1783,8 +1783,8 @@ VALUES
     NOW()
   ),
   (
-    '5cee4731-cd8f-4043-ba15-42b85c3a312b',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'a6e9c173-e749-46ad-9c94-2f8bf5be707d',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'iso3166-1-alpha2',
     'FK',
@@ -1793,8 +1793,8 @@ VALUES
     NOW()
   ),
   (
-    '4dee517b-fa1f-4f4a-9b12-0a49502dc7ae',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'ea134a20-6d4d-4f83-8cd1-59a2af7d49b1',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'iso3166-1-alpha3',
     'FLK',
@@ -1803,8 +1803,8 @@ VALUES
     NOW()
   ),
   (
-    '45332d82-4cb9-4e22-b95f-ee0f7e657f04',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '747c05b7-b93b-46bd-96bb-58a62bb01391',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'iso3166-1-numeric',
     '238',
@@ -1813,8 +1813,8 @@ VALUES
     NOW()
   ),
   (
-    '06ec6f41-edfd-4bba-8d52-6f2b32f20fad',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'e02672d4-8bf8-4b9f-a959-2cdad7b82445',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'un_a3',
     '238',
@@ -1823,8 +1823,8 @@ VALUES
     NOW()
   ),
   (
-    'ca3def41-b74b-4431-bbe8-906996be6bc5',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '20d74d2d-b1f9-4926-b6bb-c3191c31b5e0',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -1833,8 +1833,8 @@ VALUES
     NOW()
   ),
   (
-    'b4f46b7c-5b6a-4106-809f-953bb1da4e7b',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'd877a65f-b5f0-4924-9581-c134a1567d48',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -1843,8 +1843,8 @@ VALUES
     NOW()
   ),
   (
-    'dd4ab9ea-24b2-4872-b7cd-16f86f36acac',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '27e16870-b601-4e6d-afa4-c8696a1a3d69',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'natural_earth',
     'wikidata',
     'Q9648',
@@ -1853,8 +1853,8 @@ VALUES
     NOW()
   ),
   (
-    '7949c1b5-6133-41b6-ac30-3c21c0e577f2',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '892f8568-a871-4b11-ba49-8f68d11900d4',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'natural_earth_admin',
     'CYM',
@@ -1863,8 +1863,8 @@ VALUES
     NOW()
   ),
   (
-    '5005eefc-cb82-4c4b-b5f7-7957107c9019',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '813e8ace-c998-4ee6-98fa-290fe8f223fe',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'iso3166-1-alpha2',
     'KY',
@@ -1873,8 +1873,8 @@ VALUES
     NOW()
   ),
   (
-    '9485ca12-dc75-4e9e-9a26-f4c5e1ae39c5',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'ab3f9277-747b-44e9-b35c-913cefcda475',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'iso3166-1-alpha3',
     'CYM',
@@ -1883,8 +1883,8 @@ VALUES
     NOW()
   ),
   (
-    '7f65bac2-1ed6-4c3a-9cf7-ed889eed888a',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'abd2df36-b47e-4875-84b7-59c60d891f18',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'iso3166-1-numeric',
     '136',
@@ -1893,8 +1893,8 @@ VALUES
     NOW()
   ),
   (
-    '7312f8bb-a1c7-40a6-a6eb-b0cf336716dc',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '348b7a38-4b50-4caa-941d-fcda2d225227',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'un_a3',
     '136',
@@ -1903,8 +1903,8 @@ VALUES
     NOW()
   ),
   (
-    'e5245779-587d-4725-822b-bc2a13dc4d45',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'f59f2910-2c38-4fd2-b714-074ce81c4dbd',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'world_bank_a2',
     'KY',
@@ -1913,8 +1913,8 @@ VALUES
     NOW()
   ),
   (
-    '03305e1d-5578-4d2e-b35d-c58c7a0bff24',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '29ad33ee-ce0b-43ef-b1f8-e442aa7f0865',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'world_bank_a3',
     'CYM',
@@ -1923,8 +1923,8 @@ VALUES
     NOW()
   ),
   (
-    '3d6a003e-da86-4fb0-a144-745f7d1533ad',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '2efd2316-27fc-4524-9ed3-7e5a5bd9d8fc',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'natural_earth',
     'wikidata',
     'Q5785',
@@ -1933,8 +1933,8 @@ VALUES
     NOW()
   ),
   (
-    'd5e7ed84-e4dc-4e7d-b5aa-c3a65d5101ce',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '80dcf85d-dbae-4eab-9336-f85b7e174023',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'natural_earth_admin',
     'BMU',
@@ -1943,8 +1943,8 @@ VALUES
     NOW()
   ),
   (
-    '5ea09ce1-ddd6-4510-9aaf-5cc272038bff',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'f8156356-80b9-437a-b441-e367c670fe20',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'iso3166-1-alpha2',
     'BM',
@@ -1953,8 +1953,8 @@ VALUES
     NOW()
   ),
   (
-    'c1373b67-9915-4277-a50a-a42f0233e63d',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '331bc569-6a66-4061-b897-97bc516a894c',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'iso3166-1-alpha3',
     'BMU',
@@ -1963,8 +1963,8 @@ VALUES
     NOW()
   ),
   (
-    'd3b77f7a-1ec0-4a4d-a05c-33a3c11c4652',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'e9b9e9d8-fac2-45ba-a04f-4e2dcb5b7e67',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'iso3166-1-numeric',
     '060',
@@ -1973,8 +1973,8 @@ VALUES
     NOW()
   ),
   (
-    '94e06934-c310-4124-b8f4-84ee18c62d1d',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '21d27903-f5d7-4ae0-91ed-3253c9cb4113',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'un_a3',
     '060',
@@ -1983,8 +1983,8 @@ VALUES
     NOW()
   ),
   (
-    'ed939b26-bf7e-42bf-a860-a6da1fcba3a3',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '12901991-d607-412c-9f87-02a262142ace',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'world_bank_a2',
     'BM',
@@ -1993,8 +1993,8 @@ VALUES
     NOW()
   ),
   (
-    '62945ac5-d94a-4190-af8e-79709248af32',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '68b5e417-d4fa-4c77-9fdc-b38c83fc0808',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'world_bank_a3',
     'BMU',
@@ -2003,8 +2003,8 @@ VALUES
     NOW()
   ),
   (
-    '85b749f5-802e-40d8-9303-de1a711402f1',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '16f8e554-b1b2-497c-a948-308252e7428d',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'natural_earth',
     'wikidata',
     'Q23635',
@@ -2013,8 +2013,8 @@ VALUES
     NOW()
   ),
   (
-    '0ce60091-7aec-4cbf-bb96-f18ef5536055',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '1ff822e4-9b98-4bec-80a3-9a449bdbb90e',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'natural_earth_admin',
     'VGB',
@@ -2023,8 +2023,8 @@ VALUES
     NOW()
   ),
   (
-    'baf7df3c-18ce-4919-b719-a4b98d1ffc5b',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '57f8fddb-b388-4622-91a6-8bc633f1c379',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'iso3166-1-alpha2',
     'VG',
@@ -2033,8 +2033,8 @@ VALUES
     NOW()
   ),
   (
-    'baa2527f-05b3-434c-8c28-1008637491dd',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '31a95477-db05-4019-bfa5-7d076092a5ea',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'iso3166-1-alpha3',
     'VGB',
@@ -2043,8 +2043,8 @@ VALUES
     NOW()
   ),
   (
-    'a94e6790-29ee-4173-9588-25d225de3dca',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '1648c445-c370-424c-8894-5874285e9bd9',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'iso3166-1-numeric',
     '092',
@@ -2053,8 +2053,8 @@ VALUES
     NOW()
   ),
   (
-    '14ee7aa1-438e-474f-8b81-2116792ad5b5',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '42d32218-af59-4160-b308-6bcbeaf0ffc8',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'un_a3',
     '092',
@@ -2063,8 +2063,8 @@ VALUES
     NOW()
   ),
   (
-    '4e1f537e-7aa0-4a65-8682-c6ffb22aaf77',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '6d42a671-3b87-4d7b-a21c-60a0034cb40e',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -2073,8 +2073,8 @@ VALUES
     NOW()
   ),
   (
-    '8c1733a2-05e4-49d5-ad74-cc94b00399ed',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '331630a7-43a0-4d3d-9f9e-e3b031bb8782',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -2083,8 +2083,8 @@ VALUES
     NOW()
   ),
   (
-    '12a55e8c-2873-457e-9331-1b7cfbd33c1e',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'ce5c654a-d083-4333-ac37-a4dc9362c3a2',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'natural_earth',
     'wikidata',
     'Q25305',
@@ -2093,8 +2093,8 @@ VALUES
     NOW()
   ),
   (
-    '22f45158-b841-4867-8418-ceca825a8d3a',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '730d6bb0-7364-49d7-8ca1-3ee658bce954',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'natural_earth_admin',
     'TCA',
@@ -2103,8 +2103,8 @@ VALUES
     NOW()
   ),
   (
-    'eb3e4c45-8dfe-4839-ba6d-39efbcb2f57d',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'be73f0b1-5dd2-4445-8860-c9a81dd3d0e8',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'iso3166-1-alpha2',
     'TC',
@@ -2113,8 +2113,8 @@ VALUES
     NOW()
   ),
   (
-    '64e26337-39a1-4e3a-9e20-97866ce9d676',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '174aa320-6d21-4ba0-b968-8fbf74a939ef',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'iso3166-1-alpha3',
     'TCA',
@@ -2123,8 +2123,8 @@ VALUES
     NOW()
   ),
   (
-    '38e12a7e-0037-428e-8fa5-d7cc79954d8f',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'ca755992-0833-4a23-8c20-6c43dd21c6ec',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'iso3166-1-numeric',
     '796',
@@ -2133,8 +2133,8 @@ VALUES
     NOW()
   ),
   (
-    '264129c7-489b-49af-bfd7-8e363b7c52ee',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'fb1e076c-a50e-4e81-9058-f41cbd70d596',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'un_a3',
     '796',
@@ -2143,8 +2143,8 @@ VALUES
     NOW()
   ),
   (
-    '568ad97d-8cb6-4426-9602-fdb867bbbbf3',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '46315ab1-d983-439c-bdf5-6b47c86b553f',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'world_bank_a2',
     'TC',
@@ -2153,8 +2153,8 @@ VALUES
     NOW()
   ),
   (
-    'ac87f0b0-0fa6-4f05-9524-3248d97be566',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '026f1632-7da6-46ee-bdc6-5983e5dfd72f',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'world_bank_a3',
     'TCA',
@@ -2163,8 +2163,8 @@ VALUES
     NOW()
   ),
   (
-    'd518d9c4-ee99-484c-99eb-49aa3aceb5a7',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'badc6a31-a331-402d-a3c2-29dd88964c39',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'natural_earth',
     'wikidata',
     'Q18221',
@@ -2173,8 +2173,8 @@ VALUES
     NOW()
   ),
   (
-    '7f000520-f14b-4108-b85f-34f626b647ad',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '2677cc32-7174-4a29-8cc4-10b786de2464',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'natural_earth_admin',
     'MSR',
@@ -2183,8 +2183,8 @@ VALUES
     NOW()
   ),
   (
-    '6b6b7988-0f55-4da6-93f3-af0029122d8a',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '4da37553-021c-41f1-88b3-e5ba1948038c',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'iso3166-1-alpha2',
     'MS',
@@ -2193,8 +2193,8 @@ VALUES
     NOW()
   ),
   (
-    '094eb37c-984d-4d18-94ca-0f551f2ca083',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '29b01d41-f20a-44cc-abb1-25b1646c033e',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'iso3166-1-alpha3',
     'MSR',
@@ -2203,8 +2203,8 @@ VALUES
     NOW()
   ),
   (
-    'b5fa46f4-3685-4f00-abf3-534403dde926',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'da4c5f9a-581e-4044-aa0f-63c8a327548c',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'iso3166-1-numeric',
     '500',
@@ -2213,8 +2213,8 @@ VALUES
     NOW()
   ),
   (
-    '7b1a5697-5501-4d48-9ea0-90aa6b227fcd',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'c954d5c3-6bcb-4c16-8de6-4b36f58137ef',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'un_a3',
     '500',
@@ -2223,8 +2223,8 @@ VALUES
     NOW()
   ),
   (
-    '72b48313-0160-4850-ba0d-2d9d1fded8b9',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '163e6f9f-f337-469f-a8c7-a6a041d6b9b2',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -2233,8 +2233,8 @@ VALUES
     NOW()
   ),
   (
-    'df9887a7-3407-454c-a853-cb3f5417608a',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '828222e0-e4ab-4ab6-aae4-79771a4a0ed2',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -2243,8 +2243,8 @@ VALUES
     NOW()
   ),
   (
-    '4ace4b4a-57e8-4df7-b88f-39a8225522db',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '62edfde9-4dfc-4938-afb6-ec949d6967ee',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'natural_earth',
     'wikidata',
     'Q13353',
@@ -2253,8 +2253,8 @@ VALUES
     NOW()
   ),
   (
-    'bc2177c7-9f28-4419-b83c-fe8d33baa1b5',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '1f6b49cb-d575-4b5b-b153-204751c4f098',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'natural_earth_admin',
     'JEY',
@@ -2263,8 +2263,8 @@ VALUES
     NOW()
   ),
   (
-    '564aaf55-f92b-42a8-bedc-d8ee0d84c761',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '4025f562-e6e8-45d8-bec9-ca892bd46abe',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'iso3166-1-alpha2',
     'JE',
@@ -2273,8 +2273,8 @@ VALUES
     NOW()
   ),
   (
-    'c6e2e00c-13a8-4d88-ab12-c01b21b677ed',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '2729e3fd-15f9-47c8-83a8-1e8d80408e9a',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'iso3166-1-alpha3',
     'JEY',
@@ -2283,8 +2283,8 @@ VALUES
     NOW()
   ),
   (
-    'acd47501-48d6-451e-b990-79a92e0e12c9',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '1f665aa8-5859-4c30-b455-d428b66a62e6',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'iso3166-1-numeric',
     '832',
@@ -2293,8 +2293,8 @@ VALUES
     NOW()
   ),
   (
-    '7679b03e-c115-4e98-9ba6-2de674f5fa8d',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '3c1f1bbf-741c-4486-b93b-a71ac4eb2e8a',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'un_a3',
     '832',
@@ -2303,8 +2303,8 @@ VALUES
     NOW()
   ),
   (
-    'dbc4924f-b945-4a05-b5e9-6cbd0381bf10',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '80095942-e406-4c8f-90df-f2b8d1c595c6',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'world_bank_a2',
     'JG',
@@ -2313,8 +2313,8 @@ VALUES
     NOW()
   ),
   (
-    '77fcb1db-3cc5-4ca8-ab0d-8eba3fd9a2dd',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '29d7eab9-6171-4511-80d1-8f67e185478d',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'world_bank_a3',
     'CHI',
@@ -2323,8 +2323,8 @@ VALUES
     NOW()
   ),
   (
-    '7457e48c-f2ef-4be1-a954-e4155005b800',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'b534e2de-97c4-4f4d-b7bb-1fc5f9800359',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'natural_earth',
     'wikidata',
     'Q785',
@@ -2333,8 +2333,8 @@ VALUES
     NOW()
   ),
   (
-    'd9b33401-bf3c-438f-af99-cd519efa6ee5',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'bf94f896-e530-449f-a83c-e51440c9a289',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'natural_earth_admin',
     'GGY',
@@ -2343,8 +2343,8 @@ VALUES
     NOW()
   ),
   (
-    'b145d679-773f-45ae-a9e1-7f8bb41b52c1',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'e2df6d6a-6a5d-474d-a624-0a35c84b118d',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'iso3166-1-alpha2',
     'GG',
@@ -2353,8 +2353,8 @@ VALUES
     NOW()
   ),
   (
-    'c3cb6190-b80f-469b-b03d-fbf57378c80c',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'bd426419-8899-4b40-ac58-507903759f6c',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'iso3166-1-alpha3',
     'GGY',
@@ -2363,8 +2363,8 @@ VALUES
     NOW()
   ),
   (
-    '49b50ca3-f257-4245-a143-ccdf0572e004',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'fe1bd26e-3fb8-455d-a7d5-d36560704948',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'iso3166-1-numeric',
     '831',
@@ -2373,8 +2373,8 @@ VALUES
     NOW()
   ),
   (
-    'e799e4be-404a-4240-8348-8db332549203',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'b8ddcce3-27ce-4866-8d41-81513868238c',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'un_a3',
     '831',
@@ -2383,8 +2383,8 @@ VALUES
     NOW()
   ),
   (
-    'ebc4321c-be75-4ffc-977e-059c0770a593',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '23db2dc9-9ddd-41dc-b7c5-a36c69dbd26a',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'world_bank_a2',
     'JG',
@@ -2393,8 +2393,8 @@ VALUES
     NOW()
   ),
   (
-    'd94e0f31-913e-4ce3-8a4e-3b3875a43c91',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'b8b0504f-b1ed-47f5-a00a-5c861a49f2a5',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'world_bank_a3',
     'CHI',
@@ -2403,8 +2403,8 @@ VALUES
     NOW()
   ),
   (
-    'f3e7293c-9717-4b05-8fb8-5cc3409d5907',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'eb6f8173-84e8-4afe-ba9b-ff23cb8af753',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'natural_earth',
     'wikidata',
     'Q25230',
@@ -2413,8 +2413,8 @@ VALUES
     NOW()
   ),
   (
-    '55f38ac3-2c42-4911-8fea-ca3914a75cc3',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '21e1a3d8-2096-432c-aaf7-d17d609534f5',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'natural_earth_admin',
     'IMN',
@@ -2423,8 +2423,8 @@ VALUES
     NOW()
   ),
   (
-    '4fb2fe2f-d3a5-4f80-819f-9c525dbc2512',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '7697f8c4-7216-40ad-a55f-223c3f5af298',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'iso3166-1-alpha2',
     'IM',
@@ -2433,8 +2433,8 @@ VALUES
     NOW()
   ),
   (
-    '052e27a8-2e13-4998-b944-f68b72c7fd0a',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '424402bd-abe3-4485-b37a-65587bdcc62b',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'iso3166-1-alpha3',
     'IMN',
@@ -2443,8 +2443,8 @@ VALUES
     NOW()
   ),
   (
-    '67b2d47e-8afa-4316-ac0a-ce3d9644e581',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '8f92cab4-2bbb-4058-8fbe-36f55090c002',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'iso3166-1-numeric',
     '833',
@@ -2453,8 +2453,8 @@ VALUES
     NOW()
   ),
   (
-    'd0e7fd8f-0b5b-44ef-a0d7-a522c065d78a',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    'a63cf2c4-2b48-4d48-938c-1094234f418a',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'un_a3',
     '833',
@@ -2463,8 +2463,8 @@ VALUES
     NOW()
   ),
   (
-    '308bb60f-7db7-4b48-a490-6c03adde2749',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '908728fa-bb25-4db9-92a7-82ee095a4d8a',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'world_bank_a2',
     'IM',
@@ -2473,8 +2473,8 @@ VALUES
     NOW()
   ),
   (
-    'a233430f-935e-49e9-a5f0-8cbdd9e80fc4',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '2a430c19-0202-4b2f-a2bd-3e7daef5c8cb',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'world_bank_a3',
     'IMY',
@@ -2483,8 +2483,8 @@ VALUES
     NOW()
   ),
   (
-    '0a4de72c-ea65-427a-8d3c-24e23bd81ae9',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    'ea8f4003-f85b-4f26-bd6d-e42b26554036',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'natural_earth',
     'wikidata',
     'Q9676',
@@ -2493,8 +2493,8 @@ VALUES
     NOW()
   ),
   (
-    'd79da613-0ab5-4350-b197-bc5dcdb3dc01',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '1a4ae163-cc2f-402f-92cb-e495a6c2a829',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'natural_earth_admin',
     'GBR',
@@ -2503,8 +2503,8 @@ VALUES
     NOW()
   ),
   (
-    '1026072b-4285-4697-bb6e-2d268a9c4938',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '956a9255-fa64-4b6e-96da-683235a696bc',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'iso3166-1-alpha2',
     'GB',
@@ -2513,8 +2513,8 @@ VALUES
     NOW()
   ),
   (
-    '361874e4-4929-4ff0-9c33-cd5acc7c2d36',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '765158f9-4fb2-4eea-bc75-d371d311b29c',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'iso3166-1-alpha3',
     'GBR',
@@ -2523,8 +2523,8 @@ VALUES
     NOW()
   ),
   (
-    'fb6f0540-0b32-4b1c-abc4-9ecb2751e522',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '3dbba55c-b262-415d-9f9d-39e55c1f4556',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'iso3166-1-numeric',
     '826',
@@ -2533,8 +2533,8 @@ VALUES
     NOW()
   ),
   (
-    '57fd3206-1a00-4421-8d99-a4a67eca5d98',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'b2e2188d-ad92-47fe-9560-3d85a90fc76c',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'un_a3',
     '826',
@@ -2543,8 +2543,8 @@ VALUES
     NOW()
   ),
   (
-    'd0791a85-3ec7-457c-abc9-9d45dd9c15ff',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '299c7757-33a4-4782-8de8-95f9f447c01a',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'world_bank_a2',
     'GB',
@@ -2553,8 +2553,8 @@ VALUES
     NOW()
   ),
   (
-    '3aceb2f1-ba5b-4e72-a903-277e1cc271ee',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'c2a44d2f-b032-4678-9db8-c28cd335b9e3',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'world_bank_a3',
     'GBR',
@@ -2563,8 +2563,8 @@ VALUES
     NOW()
   ),
   (
-    'eaeccd31-d37b-4b7f-8d82-fe632b059d3c',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '0c02032a-756c-4e0d-93cb-f22b0bd8ce5f',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'natural_earth',
     'wikidata',
     'Q145',
@@ -2573,8 +2573,8 @@ VALUES
     NOW()
   ),
   (
-    '989c80db-d3cc-48c6-9955-29fe3b139edf',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '3f8a0e27-ac90-4688-b027-4e261caa0b5c',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'natural_earth_admin',
     'ARE',
@@ -2583,8 +2583,8 @@ VALUES
     NOW()
   ),
   (
-    'd2038cde-7f92-4c9d-b425-0a8d68e47c05',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '58403f19-dce2-4b07-b8ec-66eb7289e7e1',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'iso3166-1-alpha2',
     'AE',
@@ -2593,8 +2593,8 @@ VALUES
     NOW()
   ),
   (
-    '29a7ffda-0e10-4aa5-81c3-b1eac1aa0e25',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'c77f17d7-a5f5-497f-949c-babdb805a316',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARE',
@@ -2603,8 +2603,8 @@ VALUES
     NOW()
   ),
   (
-    'cb6f866f-6b48-4ce9-84c8-f8a656c65ddc',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '146a141a-b188-45a2-85a6-bb92d15d06d5',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'iso3166-1-numeric',
     '784',
@@ -2613,8 +2613,8 @@ VALUES
     NOW()
   ),
   (
-    'acb7499b-cf52-4741-8348-38a501152de0',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'e17a3f92-3a74-4a6b-931b-9a8841ea9ab7',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'un_a3',
     '784',
@@ -2623,8 +2623,8 @@ VALUES
     NOW()
   ),
   (
-    '652e40c8-0d2c-4dc0-862e-0f036e6b3d42',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'addea347-bc70-4a85-9116-110920d8f12f',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'world_bank_a2',
     'AE',
@@ -2633,8 +2633,8 @@ VALUES
     NOW()
   ),
   (
-    '6122a594-4b7e-4137-a81d-f6f971873bcd',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '3d2119f6-6191-41ee-992c-85cde4fba72a',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'world_bank_a3',
     'ARE',
@@ -2643,8 +2643,8 @@ VALUES
     NOW()
   ),
   (
-    'c7d9bf61-a7df-4377-89a4-e9caf45f1722',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'c8409dad-3507-431f-b51f-82ca464e392f',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'natural_earth',
     'wikidata',
     'Q878',
@@ -2653,8 +2653,8 @@ VALUES
     NOW()
   ),
   (
-    'fef5b687-77cc-4c2f-8b04-81b2831aa870',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '99c4d415-b2e3-41ff-8625-9ee90a0a5ae1',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'natural_earth_admin',
     'UKR',
@@ -2663,8 +2663,8 @@ VALUES
     NOW()
   ),
   (
-    '43be9058-43f8-4816-b7fa-d8d25d88c00f',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '7576c100-d3ee-4ce8-86dd-d16618b95a65',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'iso3166-1-alpha2',
     'UA',
@@ -2673,8 +2673,8 @@ VALUES
     NOW()
   ),
   (
-    '8cfb9243-9def-4a5c-944e-c52628ad6732',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '2953e3ea-3166-481f-8c6b-a0476ce59851',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'iso3166-1-alpha3',
     'UKR',
@@ -2683,8 +2683,8 @@ VALUES
     NOW()
   ),
   (
-    '615008ef-94c0-41c6-aadc-73a5af424cf2',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'c4a7bfb9-ef31-4dfa-9382-4914a42d2419',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'iso3166-1-numeric',
     '804',
@@ -2693,8 +2693,8 @@ VALUES
     NOW()
   ),
   (
-    '80cc2339-9bda-46dd-8c47-4533fba00266',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'f0716a83-0f27-46ee-9f2e-36b78ff129f2',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'un_a3',
     '804',
@@ -2703,8 +2703,8 @@ VALUES
     NOW()
   ),
   (
-    'b14f5375-d695-4413-a502-575b747798c9',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'bb10b012-1e87-4132-9198-3a51637753f0',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'world_bank_a2',
     'UA',
@@ -2713,8 +2713,8 @@ VALUES
     NOW()
   ),
   (
-    'f84e3842-c706-49c1-9797-7b80a9726b6d',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'a476bd05-3d20-49fe-bfbd-b6ee266c90e5',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'world_bank_a3',
     'UKR',
@@ -2723,8 +2723,8 @@ VALUES
     NOW()
   ),
   (
-    '7bb362f7-d1fa-450c-8ee3-4f0aa01b9a38',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '4c0ab28c-4376-4359-8ea7-5f25ee42cde3',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'natural_earth',
     'wikidata',
     'Q212',
@@ -2733,8 +2733,8 @@ VALUES
     NOW()
   ),
   (
-    '6c71da72-631a-4f36-a6f3-ecaecc80ddac',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '181e7b7f-c2df-481c-b87c-28d742e2b632',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'natural_earth_admin',
     'UGA',
@@ -2743,8 +2743,8 @@ VALUES
     NOW()
   ),
   (
-    'a54f7aff-470e-49e7-b4f0-8fd87da1d7aa',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '5f0b9185-b4ce-4091-856d-af848ecef08f',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'iso3166-1-alpha2',
     'UG',
@@ -2753,8 +2753,8 @@ VALUES
     NOW()
   ),
   (
-    'd20742a7-7573-4ca6-ae49-c674c973f888',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '08161a8a-f7b9-48a3-9865-9f8bc41931a8',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'iso3166-1-alpha3',
     'UGA',
@@ -2763,8 +2763,8 @@ VALUES
     NOW()
   ),
   (
-    '5f817973-307a-454e-96bd-8f038f58a5a6',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'fb2529b0-5527-4d95-863e-19856d0f0973',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'iso3166-1-numeric',
     '800',
@@ -2773,8 +2773,8 @@ VALUES
     NOW()
   ),
   (
-    '5689762f-1f72-42f2-931e-3a85f44bcd0c',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'd12ac9d7-d2c1-4dc0-95c8-6818c3022652',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'un_a3',
     '800',
@@ -2783,8 +2783,8 @@ VALUES
     NOW()
   ),
   (
-    '851e1640-3665-4e4a-874d-76ae2019be4d',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'd2182c71-17f5-42df-a3fb-b0fa7d0a30a6',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'world_bank_a2',
     'UG',
@@ -2793,8 +2793,8 @@ VALUES
     NOW()
   ),
   (
-    '8a53e084-5b04-4232-9e9c-dc5d02fdd5e5',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '6ce9b3d5-6458-460b-b282-aabf3dec3b5a',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'world_bank_a3',
     'UGA',
@@ -2803,8 +2803,8 @@ VALUES
     NOW()
   ),
   (
-    '35d01061-b4ef-4093-8cff-50f8c62fb24d',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '16266c56-6c30-4040-937f-fc6331d32687',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'natural_earth',
     'wikidata',
     'Q1036',
@@ -2813,8 +2813,8 @@ VALUES
     NOW()
   ),
   (
-    '93134a85-c628-4148-8f67-9370f7b9c436',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'd7e22efa-0c23-4e48-8148-c9189dab40c6',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'natural_earth_admin',
     'TKM',
@@ -2823,8 +2823,8 @@ VALUES
     NOW()
   ),
   (
-    'dcb980b1-eb9d-47fc-8bf6-8fdb2d0863ee',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '73257d10-670f-448b-8571-42a080154f24',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'iso3166-1-alpha2',
     'TM',
@@ -2833,8 +2833,8 @@ VALUES
     NOW()
   ),
   (
-    '1cf522de-8439-493d-abc6-51f26ae81298',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '429aa3af-1163-4d70-91b0-7bd26ff886c4',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'iso3166-1-alpha3',
     'TKM',
@@ -2843,8 +2843,8 @@ VALUES
     NOW()
   ),
   (
-    '9970d1b7-9632-48a8-aa5a-b5a4057abe37',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '020b577c-ed72-47a1-91ba-229038bf62c4',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'iso3166-1-numeric',
     '795',
@@ -2853,8 +2853,8 @@ VALUES
     NOW()
   ),
   (
-    'b7309b4d-e3da-461b-b5ef-f31b7d51e0af',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '8355f800-5d47-462d-a8b7-65bc089a5acf',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'un_a3',
     '795',
@@ -2863,8 +2863,8 @@ VALUES
     NOW()
   ),
   (
-    'a8bb91ec-790e-4597-b743-8b11816a89c1',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'c1e9628f-f71e-4128-a49b-92b92c6d0fb6',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'world_bank_a2',
     'TM',
@@ -2873,8 +2873,8 @@ VALUES
     NOW()
   ),
   (
-    '10a8dc70-7d7b-47c9-8bfd-a34c202e34c3',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '4e43300f-7537-4fd0-a293-1aa86d6821a7',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'world_bank_a3',
     'TKM',
@@ -2883,8 +2883,8 @@ VALUES
     NOW()
   ),
   (
-    'fb6afd39-0b59-4640-81fe-42b00b622999',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '0cdf4744-c88c-4495-adc8-12798c51c32d',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'natural_earth',
     'wikidata',
     'Q874',
@@ -2893,8 +2893,8 @@ VALUES
     NOW()
   ),
   (
-    '878bfa04-b381-482f-bb45-4205f8071c9f',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '815a56ff-bcad-43c3-a222-9152b2a13eb6',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'natural_earth_admin',
     'TUR',
@@ -2903,8 +2903,8 @@ VALUES
     NOW()
   ),
   (
-    'f5d66bde-40db-4f60-ae78-7cbdc8e1e6f8',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '5dd85e75-207f-4fa5-a9d2-3107967e1f51',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'iso3166-1-alpha2',
     'TR',
@@ -2913,8 +2913,8 @@ VALUES
     NOW()
   ),
   (
-    'e197eedb-0cf2-4f7f-8db6-73bd810fe87a',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '9c60dc1d-8e82-446d-b215-060dbba6edcd',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUR',
@@ -2923,8 +2923,8 @@ VALUES
     NOW()
   ),
   (
-    'a99451c0-3a71-4020-ab90-40ddbd9c53ad',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '9fa4738b-fc22-4ae8-8813-513bef2996c3',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'iso3166-1-numeric',
     '792',
@@ -2933,8 +2933,8 @@ VALUES
     NOW()
   ),
   (
-    '941d2963-f6a3-4e2b-ba82-d3d3ef50de8b',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '4e8d5ed3-d72f-4141-994f-e136a4591cb5',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'un_a3',
     '792',
@@ -2943,8 +2943,8 @@ VALUES
     NOW()
   ),
   (
-    '1aa65a23-3287-4d40-8a71-bf26a0f1a221',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'dbf8d0e6-1a4b-4ebc-a51f-00d6163a899d',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'world_bank_a2',
     'TR',
@@ -2953,8 +2953,8 @@ VALUES
     NOW()
   ),
   (
-    '12c5b8a3-3497-4089-b9c4-2702d9d069b0',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '2c99b157-b470-4360-b0fe-d3931422692f',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'world_bank_a3',
     'TUR',
@@ -2963,8 +2963,8 @@ VALUES
     NOW()
   ),
   (
-    '0255abc5-56f4-4fc0-b1d0-1d15cc5c497e',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '7ffda6bf-4ffa-424c-8392-97fccb86f6b7',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'natural_earth',
     'wikidata',
     'Q43',
@@ -2973,8 +2973,8 @@ VALUES
     NOW()
   ),
   (
-    'e4fdea03-5eae-45fb-8f9e-d0d0d74ac937',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '2fb6478d-f1a3-4159-9b9c-00b27c6845c4',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'natural_earth_admin',
     'TUN',
@@ -2983,8 +2983,8 @@ VALUES
     NOW()
   ),
   (
-    '24e1066d-e752-43f6-b8c2-99cd502c555e',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '390b6f21-1da5-4d92-a653-ade33916ab75',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'iso3166-1-alpha2',
     'TN',
@@ -2993,8 +2993,8 @@ VALUES
     NOW()
   ),
   (
-    '463cbda6-4a8c-4d95-8b35-b3992685e0d9',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '5db45853-e5dd-4b6a-95f3-4ec8d9789561',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUN',
@@ -3003,8 +3003,8 @@ VALUES
     NOW()
   ),
   (
-    'b420ddc6-a540-45e7-91e0-94d661807a4a',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'e75ab52c-df24-4fe7-bc0f-22d59e38e66f',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'iso3166-1-numeric',
     '788',
@@ -3013,8 +3013,8 @@ VALUES
     NOW()
   ),
   (
-    '3334ad84-f6f2-4e78-be66-a91a3910d3b9',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '7d59364d-d1c8-4d1b-8169-1bb10d9738c3',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'un_a3',
     '788',
@@ -3023,8 +3023,8 @@ VALUES
     NOW()
   ),
   (
-    'cc341aa4-d495-4c3e-9c2a-9c3a6554e0be',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '86aafd76-3ac4-40c9-b980-e403d2a246d6',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'world_bank_a2',
     'TN',
@@ -3033,8 +3033,8 @@ VALUES
     NOW()
   ),
   (
-    'a637950e-e337-430e-bb9f-858f36d16e65',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '9eb00252-a855-4dca-baf2-a903ce05b358',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'world_bank_a3',
     'TUN',
@@ -3043,8 +3043,8 @@ VALUES
     NOW()
   ),
   (
-    '1bee188a-7bb1-40c5-978c-f1dc215c72c0',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'bd80a2f8-2b95-4ad9-a8c6-44e9df6237a6',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'natural_earth',
     'wikidata',
     'Q948',
@@ -3053,8 +3053,8 @@ VALUES
     NOW()
   ),
   (
-    'c6a324be-2a62-448c-9c12-65d88a128114',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'a8e94f9f-6d2a-4868-8780-d14b3e2c6ab6',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'natural_earth_admin',
     'TTO',
@@ -3063,8 +3063,8 @@ VALUES
     NOW()
   ),
   (
-    '550cc7f5-7232-4ffb-bafe-6463f55ef7e9',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '486b3d7d-5b5c-4525-b658-e9ca45ca3134',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'iso3166-1-alpha2',
     'TT',
@@ -3073,8 +3073,8 @@ VALUES
     NOW()
   ),
   (
-    '1dd309ce-0ec1-4256-b64f-c31c4c49c397',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '627ebe3b-12db-4fa0-8288-bd8390edcda2',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'iso3166-1-alpha3',
     'TTO',
@@ -3083,8 +3083,8 @@ VALUES
     NOW()
   ),
   (
-    'c04392fb-080f-40c5-8494-80da56e3f86a',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '808877fb-510e-4e3f-adf0-236fe493aebd',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'iso3166-1-numeric',
     '780',
@@ -3093,8 +3093,8 @@ VALUES
     NOW()
   ),
   (
-    '4068296b-c54e-4093-a8d5-ad710b6b37ab',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '0e20f201-f211-4498-8b64-9d88851731f0',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'un_a3',
     '780',
@@ -3103,8 +3103,8 @@ VALUES
     NOW()
   ),
   (
-    'b9877fbe-c9a1-4a5e-acc6-a5dce141b275',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '85a1f26b-e56e-4702-8795-d4d91f37d106',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'world_bank_a2',
     'TT',
@@ -3113,8 +3113,8 @@ VALUES
     NOW()
   ),
   (
-    'd978eb07-d3ca-4e82-90cc-d83925f83c76',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '56b1cd73-2dce-4425-8653-770d24cb4a64',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'world_bank_a3',
     'TTO',
@@ -3123,8 +3123,8 @@ VALUES
     NOW()
   ),
   (
-    'fe35d382-785c-4028-94f1-f85834ccb95e',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '83453c65-9274-4ea0-9577-b401db581c55',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'natural_earth',
     'wikidata',
     'Q754',
@@ -3133,8 +3133,8 @@ VALUES
     NOW()
   ),
   (
-    '62f3575c-b320-43cb-ae1f-a0188b6b0909',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '8aa8acb5-8f79-445e-8c99-377eede3b84f',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'natural_earth_admin',
     'TON',
@@ -3143,8 +3143,8 @@ VALUES
     NOW()
   ),
   (
-    '85177873-6b3b-4075-8b94-b40ae26ddbf6',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'dd4a0033-e9b1-4e7a-820f-e35ee0f44a47',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'iso3166-1-alpha2',
     'TO',
@@ -3153,8 +3153,8 @@ VALUES
     NOW()
   ),
   (
-    'fc709e5d-3e29-494d-b322-9e3c5dd9bf1e',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '629f7502-ff51-400e-95c0-bf9708188dcf',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'iso3166-1-alpha3',
     'TON',
@@ -3163,8 +3163,8 @@ VALUES
     NOW()
   ),
   (
-    'fe81d6a9-ac2b-46a9-9e90-d762aacd4e9a',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '31379f2a-7dc6-4a4f-9111-1b224eb22188',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'iso3166-1-numeric',
     '776',
@@ -3173,8 +3173,8 @@ VALUES
     NOW()
   ),
   (
-    'bef89bd8-5166-4921-848a-225a4e7b4dc8',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'ea747d81-f9bc-45dd-8c1f-acfba0c1331d',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'un_a3',
     '776',
@@ -3183,8 +3183,8 @@ VALUES
     NOW()
   ),
   (
-    '94b9fc01-65c5-4748-8557-838cd6c0c346',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '48da64bc-7c02-4f89-b19e-582e8ab1c994',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'world_bank_a2',
     'TO',
@@ -3193,8 +3193,8 @@ VALUES
     NOW()
   ),
   (
-    '5bc473a5-c907-4f98-85ed-1898704af43d',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'a5c40be3-e586-4d96-aaba-cd6f4df0a09e',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'world_bank_a3',
     'TON',
@@ -3203,8 +3203,8 @@ VALUES
     NOW()
   ),
   (
-    '72eea531-20ba-4945-a851-bd86a3669b90',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'd0d0f8fb-d1e6-4d1e-99cf-f2110a0e61f9',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'natural_earth',
     'wikidata',
     'Q678',
@@ -3213,8 +3213,8 @@ VALUES
     NOW()
   ),
   (
-    '6ee310f5-5b95-41b7-87d6-b9b5b5d31458',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    'bab95004-0180-4743-b6ab-7f76d09b16a9',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'natural_earth_admin',
     'TGO',
@@ -3223,8 +3223,8 @@ VALUES
     NOW()
   ),
   (
-    '51463d1d-c5d9-4780-bac1-6c96d47bdf4e',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '2c653c09-85ce-4e4b-a60d-646b9fb464fd',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'iso3166-1-alpha2',
     'TG',
@@ -3233,8 +3233,8 @@ VALUES
     NOW()
   ),
   (
-    'f38f0cc1-b31a-4b15-a0ce-181734c8b566',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '61817e4d-533b-4660-a6a8-11054e5f4aa4',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'iso3166-1-alpha3',
     'TGO',
@@ -3243,8 +3243,8 @@ VALUES
     NOW()
   ),
   (
-    'ab8b74bd-05ab-4972-9812-5fc74d5709f8',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '49231ce4-361f-4d96-8e78-0155d2820192',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'iso3166-1-numeric',
     '768',
@@ -3253,8 +3253,8 @@ VALUES
     NOW()
   ),
   (
-    '1d732d18-0b53-4eb9-ab97-8245434b5a55',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '209fe81f-cf33-4e8c-a516-69c329f0f53c',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'un_a3',
     '768',
@@ -3263,8 +3263,8 @@ VALUES
     NOW()
   ),
   (
-    'c900bdfe-27fa-4073-818a-72fa18ee1f49',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '12df9eb0-c3f6-41b4-9b61-b9906301da41',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'world_bank_a2',
     'TG',
@@ -3273,8 +3273,8 @@ VALUES
     NOW()
   ),
   (
-    '912e6d71-5fef-48f3-8843-eef9c7fe1a96',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    'b23572d0-eadb-40fb-b4f3-5fba02054b6b',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'world_bank_a3',
     'TGO',
@@ -3283,8 +3283,8 @@ VALUES
     NOW()
   ),
   (
-    '82959947-b786-4c24-b7f4-7b44e93a7326',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '11a149da-9078-46f4-b739-72f437b59aa5',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'natural_earth',
     'wikidata',
     'Q945',
@@ -3293,8 +3293,8 @@ VALUES
     NOW()
   ),
   (
-    'ca4b8b2a-8edc-4672-a314-a2126367e6dc',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    'e5c90cad-4b6f-4416-aa8f-484ea61d4c7b',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'natural_earth_admin',
     'TLS',
@@ -3303,8 +3303,8 @@ VALUES
     NOW()
   ),
   (
-    '0a92daec-6012-42e5-b27a-3656f117c19b',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '6bd119cd-6bdc-4e74-aaa9-16fc6cab5ef6',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'iso3166-1-alpha2',
     'TL',
@@ -3313,8 +3313,8 @@ VALUES
     NOW()
   ),
   (
-    'a7c28061-5fbe-4c9a-8e63-726392f9fca5',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '5b4177e2-26d9-40b7-a025-f35d54d94d9d',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'iso3166-1-alpha3',
     'TLS',
@@ -3323,8 +3323,8 @@ VALUES
     NOW()
   ),
   (
-    '172e25b4-aa1a-4210-bfbd-a8ec5652c506',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '61dcbfa5-d5aa-44e0-b3ba-4f60e037f97c',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'iso3166-1-numeric',
     '626',
@@ -3333,8 +3333,8 @@ VALUES
     NOW()
   ),
   (
-    '31551fd0-de93-4a34-a244-19c8d064a69b',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '3d31aa07-3653-4fa6-b196-3694c2fe336e',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'un_a3',
     '626',
@@ -3343,8 +3343,8 @@ VALUES
     NOW()
   ),
   (
-    '1e00deae-60dc-4da4-b95b-0ebc710eeb58',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '4444273a-785c-4a59-aff9-aad97c2adba8',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'world_bank_a2',
     'TP',
@@ -3353,8 +3353,8 @@ VALUES
     NOW()
   ),
   (
-    'dc4f68fa-c65b-4320-b06c-6a6c01032b38',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '70bdb186-8bc4-41ae-b736-3803cbfc1497',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'world_bank_a3',
     'TMP',
@@ -3363,8 +3363,8 @@ VALUES
     NOW()
   ),
   (
-    '6fbba34f-0e9d-4178-bf43-fb885c900c14',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '414d3a03-023b-43ae-91ad-6d759fac2805',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'natural_earth',
     'wikidata',
     'Q574',
@@ -3373,8 +3373,8 @@ VALUES
     NOW()
   ),
   (
-    'cd96344a-64ce-46ae-bf49-1239794d7744',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'f51de002-e610-4435-847e-31cf0ae2e0f8',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'natural_earth_admin',
     'THA',
@@ -3383,8 +3383,8 @@ VALUES
     NOW()
   ),
   (
-    '3fbefc7f-8bb6-40d4-aa68-8f2b3ebeb097',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '38f9780f-7133-4017-8920-588b9b896175',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'iso3166-1-alpha2',
     'TH',
@@ -3393,8 +3393,8 @@ VALUES
     NOW()
   ),
   (
-    'f4e5aff8-c0f5-444f-9a92-8f91098c932b',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'aaee445c-7c37-4010-a94d-47aa608d8b0d',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'iso3166-1-alpha3',
     'THA',
@@ -3403,8 +3403,8 @@ VALUES
     NOW()
   ),
   (
-    '38fd02bb-38c4-4276-8c4f-b8600936ea12',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '896db530-d7a0-4103-93e2-c05b5547f284',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'iso3166-1-numeric',
     '764',
@@ -3413,8 +3413,8 @@ VALUES
     NOW()
   ),
   (
-    'b351b72b-93d9-4b6f-9435-49840a0135e6',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'fb753fa6-579e-416a-8646-173bbc42dd4d',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'un_a3',
     '764',
@@ -3423,8 +3423,8 @@ VALUES
     NOW()
   ),
   (
-    '122f4414-4dfd-4d77-9f41-e05846b34777',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'ae3d298d-9f54-489e-a89e-e081a9bd6083',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'world_bank_a2',
     'TH',
@@ -3433,8 +3433,8 @@ VALUES
     NOW()
   ),
   (
-    '00fc7d30-1285-4973-bc8c-bc75d6fa3c29',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'eea281e3-0386-4370-844f-69cbf04c5046',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'world_bank_a3',
     'THA',
@@ -3443,8 +3443,8 @@ VALUES
     NOW()
   ),
   (
-    'c7737652-ca0a-4d85-a6e6-e07a4a464e4d',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '6f45d0b6-191a-4c85-b5ee-23eb7e4653ca',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'natural_earth',
     'wikidata',
     'Q869',
@@ -3453,8 +3453,8 @@ VALUES
     NOW()
   ),
   (
-    '0932d1e5-b61d-42f3-917f-5b5bbf0e92fe',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '087de242-b473-4bba-b87f-1c9d4717cdff',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'natural_earth_admin',
     'TZA',
@@ -3463,8 +3463,8 @@ VALUES
     NOW()
   ),
   (
-    '57670c3d-8b02-41e3-a89d-bcb3f67db634',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '200199d9-ae50-4433-ad81-f487f45f5b2b',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'iso3166-1-alpha2',
     'TZ',
@@ -3473,8 +3473,8 @@ VALUES
     NOW()
   ),
   (
-    'd13c21ed-df0a-4634-9dc6-9850b3ce2f3b',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '023b5854-3c08-45e0-9f9c-1edc54974066',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'iso3166-1-alpha3',
     'TZA',
@@ -3483,8 +3483,8 @@ VALUES
     NOW()
   ),
   (
-    '96b62b98-c19b-408c-a894-3f685ca067c0',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'e491e25e-ff89-4a46-ab04-7ada8d76517b',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'iso3166-1-numeric',
     '834',
@@ -3493,8 +3493,8 @@ VALUES
     NOW()
   ),
   (
-    'd5d81fbf-b13b-410a-a158-4b5e48a13de3',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '6b5c32c5-c60b-4420-b96e-28af6d3a7753',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'un_a3',
     '834',
@@ -3503,8 +3503,8 @@ VALUES
     NOW()
   ),
   (
-    'afa0da44-0d92-414c-ad8a-ac6b2253a684',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'e17bcb60-414a-4f1f-8452-b85da27c2507',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'world_bank_a2',
     'TZ',
@@ -3513,8 +3513,8 @@ VALUES
     NOW()
   ),
   (
-    '01373d66-7386-41ee-9935-af41ad935a55',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '178e1f47-9cdb-4bc2-a809-069e430317bc',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'world_bank_a3',
     'TZA',
@@ -3523,8 +3523,8 @@ VALUES
     NOW()
   ),
   (
-    '71971c02-e42e-4834-9c74-f54de3947d88',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'f18a099f-d199-463d-a70f-d404c192b70c',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'natural_earth',
     'wikidata',
     'Q924',
@@ -3533,8 +3533,8 @@ VALUES
     NOW()
   ),
   (
-    '1cf454b8-0f9c-44b6-9f1d-0660899a630d',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'a9d9edf6-017e-4f4d-9143-14bf2fab67f0',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'natural_earth_admin',
     'TJK',
@@ -3543,8 +3543,8 @@ VALUES
     NOW()
   ),
   (
-    'bc7658f0-2c1d-4eab-91c2-f35953c792da',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '8de3a84f-0781-4628-88af-c9b252589c11',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'iso3166-1-alpha2',
     'TJ',
@@ -3553,8 +3553,8 @@ VALUES
     NOW()
   ),
   (
-    '002eb50d-4894-4f34-8fd0-4c1a99baa3d7',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'dd976b4b-da05-438a-9e76-908848ebe16d',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'iso3166-1-alpha3',
     'TJK',
@@ -3563,8 +3563,8 @@ VALUES
     NOW()
   ),
   (
-    '3929cafd-96bf-4270-aae3-2ba23e9e532d',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '7d46ceaa-4f5d-4928-a38e-3afa4958dad0',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'iso3166-1-numeric',
     '762',
@@ -3573,8 +3573,8 @@ VALUES
     NOW()
   ),
   (
-    'f34cf4b5-3b74-404b-87e3-05e16e2731e0',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '4cfbf737-0d5a-4f7a-b7b5-8fe5615785ea',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'un_a3',
     '762',
@@ -3583,8 +3583,8 @@ VALUES
     NOW()
   ),
   (
-    '2a0f791c-acfc-46a4-8c23-ca4aa072a55f',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '58b0f789-7da8-42eb-9bac-8bdb6bd6f502',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'world_bank_a2',
     'TJ',
@@ -3593,8 +3593,8 @@ VALUES
     NOW()
   ),
   (
-    'fc6460c5-bf5c-43e3-a21a-b4cbdc3e78bd',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '9cb365f8-3759-4517-bdac-f8da42e2bbad',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'world_bank_a3',
     'TJK',
@@ -3603,8 +3603,8 @@ VALUES
     NOW()
   ),
   (
-    '65bf1a61-b249-413a-a6bf-b267bd903c01',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'fe9bf49b-5013-4000-93b0-f18e4f5b45cc',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'natural_earth',
     'wikidata',
     'Q863',
@@ -3613,8 +3613,8 @@ VALUES
     NOW()
   ),
   (
-    '17f63e78-9aeb-4883-b5c4-f291488751c4',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'a58daad7-6705-4edd-94e9-2c5e1410b71f',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'natural_earth_admin',
     'TWN',
@@ -3623,8 +3623,8 @@ VALUES
     NOW()
   ),
   (
-    '4ca66a1e-9538-4f2c-b3bc-770de3936d7e',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '209c33f0-ea85-43d8-b679-c9beae91f33b',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'iso3166-1-alpha2',
     'CN-TW',
@@ -3633,8 +3633,8 @@ VALUES
     NOW()
   ),
   (
-    '93a6b149-a9be-4d37-9b6a-24fc7bf24c56',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '84d02d53-f062-4bb5-9e6b-e99643ca2204',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'iso3166-1-alpha3',
     'TWN',
@@ -3643,8 +3643,8 @@ VALUES
     NOW()
   ),
   (
-    '611633a3-5f76-4be4-b92e-8ef26d09d49d',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'b5abe6c9-3780-42fb-b928-85640aedda72',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'iso3166-1-numeric',
     '158',
@@ -3653,8 +3653,8 @@ VALUES
     NOW()
   ),
   (
-    '6f925a9c-ea65-4f88-9483-066e93b41d80',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'aa749076-731b-49ee-963e-74ca83aa46a6',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'un_a3',
     '-099',
@@ -3663,8 +3663,8 @@ VALUES
     NOW()
   ),
   (
-    '8565104a-e337-4bf0-90b6-0705fac6f01d',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '28aed688-bcf5-4646-b88e-9fc49d2bc30c',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -3673,8 +3673,8 @@ VALUES
     NOW()
   ),
   (
-    '72a7a2d8-8770-449e-99cb-3e8f31735612',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '7dec4cce-e261-466e-9524-05c06d95643a',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -3683,8 +3683,8 @@ VALUES
     NOW()
   ),
   (
-    '128cf308-3d97-4f7e-8b56-7834c807f148',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'dc007e34-3e32-4bf5-aa91-1a10c1f1e214',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'natural_earth',
     'wikidata',
     'Q865',
@@ -3693,8 +3693,8 @@ VALUES
     NOW()
   ),
   (
-    '0c6d1ea9-2800-4393-afa7-ab82aa0d0b6a',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '5a375338-f6fa-46ab-b940-153a8ff4e028',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'natural_earth_admin',
     'SYR',
@@ -3703,8 +3703,8 @@ VALUES
     NOW()
   ),
   (
-    'b33b9432-c7f6-4e41-8640-a72270237cba',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '8139621b-6091-41e3-8391-4aec4abf59c9',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'iso3166-1-alpha2',
     'SY',
@@ -3713,8 +3713,8 @@ VALUES
     NOW()
   ),
   (
-    'b2b71dac-7e3b-498c-9459-3a5742a4f9f7',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '6d0f1aa0-d481-4454-bb0a-57d6ab5ab191',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'iso3166-1-alpha3',
     'SYR',
@@ -3723,8 +3723,8 @@ VALUES
     NOW()
   ),
   (
-    '4bb95bcf-532d-4b38-9197-45b2bae8a30c',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '4d70f510-52b3-4a64-9dd1-331b688ec178',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'iso3166-1-numeric',
     '760',
@@ -3733,8 +3733,8 @@ VALUES
     NOW()
   ),
   (
-    'b59aec4a-a461-4588-98e6-563dcee4201d',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'e8a01970-e125-40f3-8a42-7598f553c39c',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'un_a3',
     '760',
@@ -3743,8 +3743,8 @@ VALUES
     NOW()
   ),
   (
-    'f99cae60-04c9-411e-bd07-0b559207e1bc',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '6c4dfa54-3780-43b7-aa00-5af035088c85',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'world_bank_a2',
     'SY',
@@ -3753,8 +3753,8 @@ VALUES
     NOW()
   ),
   (
-    '58f47396-f239-4b78-aa42-4d1ed959c02b',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '3d4e37b9-59a8-4291-ab6f-282a6a627f50',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'world_bank_a3',
     'SYR',
@@ -3763,8 +3763,8 @@ VALUES
     NOW()
   ),
   (
-    '1c2166ef-d96d-4994-908d-d74c4c863497',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'cd69a333-090d-43f5-a5ca-2db454fc5428',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'natural_earth',
     'wikidata',
     'Q858',
@@ -3773,8 +3773,8 @@ VALUES
     NOW()
   ),
   (
-    'd0cd393e-007f-4cb4-9deb-7958422c8818',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'e244ab4e-a5d6-4b83-bc65-7bdcc9c686b1',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'natural_earth_admin',
     'CHE',
@@ -3783,8 +3783,8 @@ VALUES
     NOW()
   ),
   (
-    'd0912b92-e5de-44f1-a721-81d7bb5399ce',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '50b41e79-c9a0-4706-a461-cf7428a55ac5',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'iso3166-1-alpha2',
     'CH',
@@ -3793,8 +3793,8 @@ VALUES
     NOW()
   ),
   (
-    '28ea888c-f96c-47b0-a16f-1c67c81a772b',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '2434271a-ed84-4170-9598-b73a8aa00845',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHE',
@@ -3803,8 +3803,8 @@ VALUES
     NOW()
   ),
   (
-    'f3bd3451-761e-41b9-bf16-bace3dac750b',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '032b44c1-333b-4136-a1b4-b85c78800b06',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'iso3166-1-numeric',
     '756',
@@ -3813,8 +3813,8 @@ VALUES
     NOW()
   ),
   (
-    '57421375-9e90-4d4a-a8f1-8f4523cab77b',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '999a42e9-1deb-4fd2-9dfa-832331e83205',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'un_a3',
     '756',
@@ -3823,8 +3823,8 @@ VALUES
     NOW()
   ),
   (
-    '15e7c7ed-c161-40df-94db-1f919e4333a7',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'eae8ca9a-7094-40cc-8f26-91e8a279c73a',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'world_bank_a2',
     'CH',
@@ -3833,8 +3833,8 @@ VALUES
     NOW()
   ),
   (
-    '6325f9a6-a1ca-4f01-9871-6074224c0568',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '41b1a19a-8c07-44db-a6a8-8b1781600467',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'world_bank_a3',
     'CHE',
@@ -3843,8 +3843,8 @@ VALUES
     NOW()
   ),
   (
-    '714550e1-b27a-40e3-bba7-42d0601bfec7',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '6c687b17-ff3c-4ccc-abeb-f2e061f89a46',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'natural_earth',
     'wikidata',
     'Q39',
@@ -3853,8 +3853,8 @@ VALUES
     NOW()
   ),
   (
-    '276b6dc0-3a40-4b1c-b53a-c4eab1516052',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'a955ebce-a824-41ea-a586-cb14024d92e9',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'natural_earth_admin',
     'SWE',
@@ -3863,8 +3863,8 @@ VALUES
     NOW()
   ),
   (
-    '7c37db5d-7986-403e-87d1-cccc12d4fa83',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'b366ccdf-b878-4ca4-a7f3-90f9a4900dbe',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'iso3166-1-alpha2',
     'SE',
@@ -3873,8 +3873,8 @@ VALUES
     NOW()
   ),
   (
-    'b3d9634e-7dcd-4b36-8804-4f26742825d8',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '8781ebcf-6b41-4f2e-8c0f-ce1d62a644af',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'iso3166-1-alpha3',
     'SWE',
@@ -3883,8 +3883,8 @@ VALUES
     NOW()
   ),
   (
-    'c511074c-6c27-42d3-bab0-ce7f68ec87b2',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'be5bf5e8-9935-4b51-ac0c-fc3bd57fdc07',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'iso3166-1-numeric',
     '752',
@@ -3893,8 +3893,8 @@ VALUES
     NOW()
   ),
   (
-    'a57394db-36c5-4807-873b-f38acfb993be',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'f5b950d1-b896-423b-ae9c-40b80655b5dd',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'un_a3',
     '752',
@@ -3903,8 +3903,8 @@ VALUES
     NOW()
   ),
   (
-    'f57e454a-b9fd-4c35-b7ca-1da3cb5c4813',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '1578549e-76bd-47d8-9524-560e626d5665',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'world_bank_a2',
     'SE',
@@ -3913,8 +3913,8 @@ VALUES
     NOW()
   ),
   (
-    '27847d27-19df-4e2f-af5d-cd00669a6d17',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '672374bc-0c8f-4811-a2bb-a2234355e5cb',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'world_bank_a3',
     'SWE',
@@ -3923,8 +3923,8 @@ VALUES
     NOW()
   ),
   (
-    '25d08c53-1b49-4b35-9b68-f20dc7a71b93',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'f8b1ffe6-7132-41cc-912f-1c7e0a2eee4a',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'natural_earth',
     'wikidata',
     'Q34',
@@ -3933,8 +3933,8 @@ VALUES
     NOW()
   ),
   (
-    '98c2b99f-8f69-4557-9dbc-301eedd09fe8',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '4fe056b0-5770-412d-8885-f5409a755708',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'natural_earth_admin',
     'SWZ',
@@ -3943,8 +3943,8 @@ VALUES
     NOW()
   ),
   (
-    'e9442914-42ac-4d5e-a79c-155ed2c8b96f',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'ea9f7111-f221-4dc1-aae9-744cb63bc284',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'iso3166-1-alpha2',
     'SZ',
@@ -3953,8 +3953,8 @@ VALUES
     NOW()
   ),
   (
-    '30674345-6baa-45ce-b778-fe529d192d34',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '317ea571-f4b4-4a55-898c-fa00808c1612',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'iso3166-1-alpha3',
     'SWZ',
@@ -3963,8 +3963,8 @@ VALUES
     NOW()
   ),
   (
-    '48c7bc0f-c883-4c2c-bba4-f9307621c0f1',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'ecb94d2a-727a-417e-b62c-a6a80718fbea',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'iso3166-1-numeric',
     '748',
@@ -3973,8 +3973,8 @@ VALUES
     NOW()
   ),
   (
-    '8203fecd-b926-40b2-911b-d354faa84a61',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'e29dd0dc-4188-46f2-8e99-1bdd15c29bfd',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'un_a3',
     '748',
@@ -3983,8 +3983,8 @@ VALUES
     NOW()
   ),
   (
-    'eb2af366-d411-4d16-b69e-2d8678700f57',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '733f68fc-fe74-4540-992d-dccfb9bbdbd4',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'world_bank_a2',
     'SZ',
@@ -3993,8 +3993,8 @@ VALUES
     NOW()
   ),
   (
-    'bee521f5-73e5-49b9-85ef-87cc2fb03663',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '9ae8d6a1-a86b-442b-9b38-830ce857f15a',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'world_bank_a3',
     'SWZ',
@@ -4003,8 +4003,8 @@ VALUES
     NOW()
   ),
   (
-    'afebd5ee-325b-4796-92a9-43e1edf79bbf',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'cdfe3ab3-3e9c-4234-b2f9-bdf795f6e65a',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'natural_earth',
     'wikidata',
     'Q1050',
@@ -4013,8 +4013,8 @@ VALUES
     NOW()
   ),
   (
-    '0ced1a23-3215-459f-8f7a-544c0d732104',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'f01567e9-df37-41d7-a247-88b4661a898b',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'natural_earth_admin',
     'SUR',
@@ -4023,8 +4023,8 @@ VALUES
     NOW()
   ),
   (
-    '47b7cfbd-5421-4b2f-8cf7-b74e95ee2b4a',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '392cfc4d-45c2-41e1-9d78-875d98867ca8',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'iso3166-1-alpha2',
     'SR',
@@ -4033,8 +4033,8 @@ VALUES
     NOW()
   ),
   (
-    'f2160055-d25d-4211-83cd-836c6c6462ff',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '03d29f54-c12e-45e0-868a-cb951904bca1',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'iso3166-1-alpha3',
     'SUR',
@@ -4043,8 +4043,8 @@ VALUES
     NOW()
   ),
   (
-    '1e7f6aaa-2d70-445a-ba90-9350d3fc75db',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '0ed1569c-f764-45b1-b8c1-bace4a4e0ac2',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'iso3166-1-numeric',
     '740',
@@ -4053,8 +4053,8 @@ VALUES
     NOW()
   ),
   (
-    '900786ad-3cd1-4145-a8e0-c90d596292a3',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '7f5918d2-22f8-4076-ae59-19c7c4d990c2',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'un_a3',
     '740',
@@ -4063,8 +4063,8 @@ VALUES
     NOW()
   ),
   (
-    'b0768eea-7d80-47d8-aee0-e140f37bf2f8',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'a94975b9-e043-48ea-bbaa-d41ed388f191',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'world_bank_a2',
     'SR',
@@ -4073,8 +4073,8 @@ VALUES
     NOW()
   ),
   (
-    '214e0ce2-2137-45e0-8ac4-87551d0fc47b',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '6d841a14-d7cd-4fbb-a0e0-8871eea1574d',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'world_bank_a3',
     'SUR',
@@ -4083,8 +4083,8 @@ VALUES
     NOW()
   ),
   (
-    'f3b80290-e6d8-4218-9a14-73f58b30702c',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '09293be2-ad4a-4f4b-8c09-6d64caf19c49',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'natural_earth',
     'wikidata',
     'Q730',
@@ -4093,8 +4093,8 @@ VALUES
     NOW()
   ),
   (
-    '2a94b20d-6571-4d1c-ac24-d3a30a6887e0',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'e451a287-6a43-4c1c-8e7b-d66cce3c0e25',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'natural_earth_admin',
     'SDS',
@@ -4103,8 +4103,8 @@ VALUES
     NOW()
   ),
   (
-    'a275866b-c64f-469d-8e37-199e28186672',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '705fbe25-f76b-46fb-a03e-afa5ae593b04',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'iso3166-1-alpha2',
     'SS',
@@ -4113,8 +4113,8 @@ VALUES
     NOW()
   ),
   (
-    '145d0f27-3b32-45d1-94c8-62b367ecf4d3',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'b376c1ff-58f0-4138-af97-7c92166a95d8',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'iso3166-1-alpha3',
     'SSD',
@@ -4123,8 +4123,8 @@ VALUES
     NOW()
   ),
   (
-    '0d306d61-676f-4649-b82e-5faaa0f459a0',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'cbe1599e-c4a3-4c7e-aee9-00b5f643be33',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'iso3166-1-numeric',
     '728',
@@ -4133,8 +4133,8 @@ VALUES
     NOW()
   ),
   (
-    'e8e36eaa-2374-4b58-8978-62a7108016e1',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '825b6b17-e033-4f9c-98fc-ba00a2487859',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'un_a3',
     '728',
@@ -4143,8 +4143,8 @@ VALUES
     NOW()
   ),
   (
-    'e6b9e015-be87-4516-ae5f-53b6b4e1907a',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '897c104a-239b-4428-8d45-e324cfc68e0e',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'world_bank_a2',
     'SS',
@@ -4153,8 +4153,8 @@ VALUES
     NOW()
   ),
   (
-    'fa556bde-acf0-4639-bfb4-9b386aece806',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'df11dd4d-9a91-46ce-b5f8-c262db9e9de6',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'world_bank_a3',
     'SSD',
@@ -4163,8 +4163,8 @@ VALUES
     NOW()
   ),
   (
-    '7d4c3317-265b-4c34-af7e-fae904fa1bfb',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '9b1e802a-74e8-405b-a4bd-accfcb377502',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'natural_earth',
     'wikidata',
     'Q958',
@@ -4173,8 +4173,8 @@ VALUES
     NOW()
   ),
   (
-    '04efb1ef-4104-4523-a076-2c6296448153',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '3a037d51-8558-41cc-8328-cd9283dc360d',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'natural_earth_admin',
     'SDN',
@@ -4183,8 +4183,8 @@ VALUES
     NOW()
   ),
   (
-    '35e3a55e-ecbf-4390-b6e4-2b02e2fc279f',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '33331169-a542-4ecd-a55e-cc86e19acbba',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'iso3166-1-alpha2',
     'SD',
@@ -4193,8 +4193,8 @@ VALUES
     NOW()
   ),
   (
-    '40cc3457-a168-4d17-a808-e579a39b9180',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '5b332a30-3546-4325-a315-e7b4e0f3e804',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'iso3166-1-alpha3',
     'SDN',
@@ -4203,8 +4203,8 @@ VALUES
     NOW()
   ),
   (
-    'fc164ac9-e2fc-4226-848f-d2616ff214b2',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '7b4f5117-7bc0-490f-83ca-638411c7f55e',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'iso3166-1-numeric',
     '729',
@@ -4213,8 +4213,8 @@ VALUES
     NOW()
   ),
   (
-    '264e986d-c80f-4ae1-bd9d-e2e38a57f4d9',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '93315232-46de-4053-a1a0-c274e420c161',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'un_a3',
     '729',
@@ -4223,8 +4223,8 @@ VALUES
     NOW()
   ),
   (
-    'eca7259a-0d48-4ffa-a9b3-51ffbceed9f8',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '80cad171-c6f6-400a-8e17-6b2cfcf06744',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'world_bank_a2',
     'SD',
@@ -4233,8 +4233,8 @@ VALUES
     NOW()
   ),
   (
-    'a11745c0-4060-4480-ac33-2333e5f7f832',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '9461f9fc-b313-44ec-935c-95355749fe26',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'world_bank_a3',
     'SDN',
@@ -4243,8 +4243,8 @@ VALUES
     NOW()
   ),
   (
-    '029bdb2f-7e59-480d-bab5-05679dd8c47c',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '26436318-c93e-4a66-b092-526e867a8b96',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'natural_earth',
     'wikidata',
     'Q1049',
@@ -4253,8 +4253,8 @@ VALUES
     NOW()
   ),
   (
-    '41fb7edb-a511-4280-85cc-8ee094659473',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'e5606f30-b573-4bb1-a682-acd8f329bdc1',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'natural_earth_admin',
     'LKA',
@@ -4263,8 +4263,8 @@ VALUES
     NOW()
   ),
   (
-    'dda56b39-5d0b-41e5-9604-6934ce14eceb',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'e51ee8a6-f767-4834-9f72-7bb0ef4cf83a',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'iso3166-1-alpha2',
     'LK',
@@ -4273,8 +4273,8 @@ VALUES
     NOW()
   ),
   (
-    'c67e6099-6338-4a55-a4c4-b4e556cd4c89',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '21358381-44d1-4845-85d9-374130c580ac',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'iso3166-1-alpha3',
     'LKA',
@@ -4283,8 +4283,8 @@ VALUES
     NOW()
   ),
   (
-    '55a1c319-5e7d-4e4f-91c3-98fa814b1f1d',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '6d4c135f-829a-490d-8bb9-609db857db8c',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'iso3166-1-numeric',
     '144',
@@ -4293,8 +4293,8 @@ VALUES
     NOW()
   ),
   (
-    '587df85c-bc22-47b0-b719-f7460bd2fc0f',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'aec50779-7390-49ce-9d03-e036786310e4',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'un_a3',
     '144',
@@ -4303,8 +4303,8 @@ VALUES
     NOW()
   ),
   (
-    '096ed610-688b-486b-b86b-964bd690fba5',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '544a93f2-d636-41c9-a990-10d5a05b5cef',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'world_bank_a2',
     'LK',
@@ -4313,8 +4313,8 @@ VALUES
     NOW()
   ),
   (
-    '1f8a3e73-ab23-4d10-b60e-5b49ae06b837',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'dff9dd1c-da90-4767-adf7-b9863a7681e3',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'world_bank_a3',
     'LKA',
@@ -4323,8 +4323,8 @@ VALUES
     NOW()
   ),
   (
-    '692d2575-ae56-482f-91ce-2fcd0e0fde9c',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '5149df5e-3e7b-40f4-91ca-4b28a7c71865',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'natural_earth',
     'wikidata',
     'Q854',
@@ -4333,8 +4333,8 @@ VALUES
     NOW()
   ),
   (
-    '67ae1fb6-97bb-4acd-88b3-93cacb830e94',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'bae5ae91-c04d-409e-a28c-c1cc92cd33e5',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'natural_earth_admin',
     'ESP',
@@ -4343,8 +4343,8 @@ VALUES
     NOW()
   ),
   (
-    'c60c6f36-e74e-4233-be88-e9bcab7f4c88',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '89297806-1970-422e-acfe-a8dbd7d7affb',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'iso3166-1-alpha2',
     'ES',
@@ -4353,8 +4353,8 @@ VALUES
     NOW()
   ),
   (
-    '998552c4-03d8-41c6-b09b-9db35fbbe9dd',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '83e9abcb-7d01-4556-aafa-c1be8032e9e4',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'iso3166-1-alpha3',
     'ESP',
@@ -4363,8 +4363,8 @@ VALUES
     NOW()
   ),
   (
-    '49a167cb-e475-4969-a62d-16d057a4e3f1',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '99ab514d-4d86-4d9f-ae3a-c7af4a75b510',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'iso3166-1-numeric',
     '724',
@@ -4373,8 +4373,8 @@ VALUES
     NOW()
   ),
   (
-    'aa53aeb9-503a-4419-b77a-6dbc3b36f561',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '0c13b97a-0ef2-4960-88e6-472177094c9d',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'un_a3',
     '724',
@@ -4383,8 +4383,8 @@ VALUES
     NOW()
   ),
   (
-    '9e7a659d-f00b-4edd-858a-31b41eb56e5f',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '7bed7fa8-b35c-4ea0-a046-c497e88fd84a',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'world_bank_a2',
     'ES',
@@ -4393,8 +4393,8 @@ VALUES
     NOW()
   ),
   (
-    'cba94ce0-ba03-4819-b960-e832465726ed',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'ba2cf633-8137-4f22-872d-6976b44ec8df',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'world_bank_a3',
     'ESP',
@@ -4403,8 +4403,8 @@ VALUES
     NOW()
   ),
   (
-    '100d5ede-c02c-4da4-b664-ee2af44cf678',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'e7cfab79-86c9-4385-8dc1-a4c82e33f1f0',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'natural_earth',
     'wikidata',
     'Q29',
@@ -4413,8 +4413,8 @@ VALUES
     NOW()
   ),
   (
-    '60c23f26-9256-45f4-8503-d271ab507587',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '23c16713-b324-44cc-a4ad-07a57a4ce4f8',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'natural_earth_admin',
     'KOR',
@@ -4423,8 +4423,8 @@ VALUES
     NOW()
   ),
   (
-    'faea6941-880a-468e-8f4a-a97c123dc715',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'c86a2b71-606f-423a-9906-ad723c4b93c5',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'iso3166-1-alpha2',
     'KR',
@@ -4433,8 +4433,8 @@ VALUES
     NOW()
   ),
   (
-    'b864fc36-190f-4f4b-a8f2-fbf1108af30e',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'd3ae04da-a7b4-48de-81f9-f67064a9db78',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'iso3166-1-alpha3',
     'KOR',
@@ -4443,8 +4443,8 @@ VALUES
     NOW()
   ),
   (
-    '97af8af7-8545-4024-ab9a-cffa439f73ea',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'bb50d278-ab76-4232-8927-1639b71bc2d7',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'iso3166-1-numeric',
     '410',
@@ -4453,8 +4453,8 @@ VALUES
     NOW()
   ),
   (
-    '6bb876b9-286f-4e9f-bb91-9917b05e8e0e',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'e079b6b5-110d-424d-9683-ca4c84d25b51',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'un_a3',
     '410',
@@ -4463,8 +4463,8 @@ VALUES
     NOW()
   ),
   (
-    '18043f28-32f8-4960-a4f8-1c0dea47f1ea',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '2e45518e-d5be-4277-a88c-eae3f043b4c4',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'world_bank_a2',
     'KR',
@@ -4473,8 +4473,8 @@ VALUES
     NOW()
   ),
   (
-    '756f981b-ddab-40e3-9ee6-24f71c077836',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '9d53b569-1cb4-487e-8d64-d86c51534a45',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'world_bank_a3',
     'KOR',
@@ -4483,8 +4483,8 @@ VALUES
     NOW()
   ),
   (
-    'e882ee84-3fd4-4da8-86b2-5f454d57c4fe',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '488f4105-8642-4ed9-bfb0-580a704e859f',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'natural_earth',
     'wikidata',
     'Q884',
@@ -4493,8 +4493,8 @@ VALUES
     NOW()
   ),
   (
-    'b3e85c11-f7d4-4117-a7e0-24d5718a2ff3',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '0ce17139-bcad-462c-a361-fea4ba9a8509',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'natural_earth_admin',
     'ZAF',
@@ -4503,8 +4503,8 @@ VALUES
     NOW()
   ),
   (
-    'eaaad759-4b55-416c-bd62-11468aeb9a09',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'b05895d2-ea2a-444c-b3e7-34391e47a4e6',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'iso3166-1-alpha2',
     'ZA',
@@ -4513,8 +4513,8 @@ VALUES
     NOW()
   ),
   (
-    'e2497431-d2e6-44f7-bfc5-b09aaae2ed4a',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'f930a3ac-568b-4e93-8b3b-a3a74ba0e7be',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'iso3166-1-alpha3',
     'ZAF',
@@ -4523,8 +4523,8 @@ VALUES
     NOW()
   ),
   (
-    '7a9611c7-54e0-472d-9ea1-876195ce5aeb',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'fafdd621-5abc-410b-95f7-cd37f9af46a5',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'iso3166-1-numeric',
     '710',
@@ -4533,8 +4533,8 @@ VALUES
     NOW()
   ),
   (
-    '833658dc-3863-411b-8d5d-d9bb4d04977b',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '7d8e5438-79f6-4605-ae2c-2a71e2b4066e',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'un_a3',
     '710',
@@ -4543,8 +4543,8 @@ VALUES
     NOW()
   ),
   (
-    '1a02dac9-b87d-4cb8-ba1e-a9ed7448f2c9',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '2c50a4f6-6521-4ed1-8b56-7e44bab6d71f',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'world_bank_a2',
     'ZA',
@@ -4553,8 +4553,8 @@ VALUES
     NOW()
   ),
   (
-    'c49de930-00d5-4798-83af-8d6276e7b1e3',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '59afe21e-7418-4848-84c8-f296788f1e55',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'world_bank_a3',
     'ZAF',
@@ -4563,8 +4563,8 @@ VALUES
     NOW()
   ),
   (
-    'a9d4a717-d1e9-4c42-8916-593fa45c034d',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '82619b9e-3dab-4c76-a7a4-954e9019a5c0',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'natural_earth',
     'wikidata',
     'Q258',
@@ -4573,8 +4573,8 @@ VALUES
     NOW()
   ),
   (
-    'd06e11b2-dfe1-49aa-94ff-49ace89e74c5',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '25fde687-7bd9-4d8d-ac6d-be0eb688cf3f',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'natural_earth_admin',
     'SOM',
@@ -4583,8 +4583,8 @@ VALUES
     NOW()
   ),
   (
-    'b9e28f02-d35d-4d11-a28e-53b1424b2e8d',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '644e2942-4c63-4fa6-8f2c-3d194db06ab7',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'iso3166-1-alpha2',
     'SO',
@@ -4593,8 +4593,8 @@ VALUES
     NOW()
   ),
   (
-    '8b3000f2-4cc1-41e0-aae0-21b61c105940',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '3fd856f9-3432-4a06-be32-8b80d7c9f1c9',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'iso3166-1-alpha3',
     'SOM',
@@ -4603,8 +4603,8 @@ VALUES
     NOW()
   ),
   (
-    '8b1fc516-1464-436c-a3c2-6457f34e3c65',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '1721cabd-30a8-4ffd-b750-f7200a88d298',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'iso3166-1-numeric',
     '706',
@@ -4613,8 +4613,8 @@ VALUES
     NOW()
   ),
   (
-    '61f9ec9d-3ef9-4f3f-8acb-07c0f94c5d8d',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '61c0a4f3-2120-49fd-a6f8-812a3576ef59',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'un_a3',
     '706',
@@ -4623,8 +4623,8 @@ VALUES
     NOW()
   ),
   (
-    'f838b551-b437-4bc5-b3ee-04564ac19ea0',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '04255662-f01f-4d41-b6be-ac97c34c31ab',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'world_bank_a2',
     'SO',
@@ -4633,8 +4633,8 @@ VALUES
     NOW()
   ),
   (
-    '15cce2b7-b44e-42a4-8090-ad69eb77034b',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '35959cc3-be0c-4d43-bd2a-98919c1d55b9',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'world_bank_a3',
     'SOM',
@@ -4643,8 +4643,8 @@ VALUES
     NOW()
   ),
   (
-    '060aa66b-d396-4e16-84f0-c5c9aa9b432b',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '4f2634b1-8ab1-44a9-9ab0-9e5f996a3c47',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'natural_earth',
     'wikidata',
     'Q1045',
@@ -4653,8 +4653,8 @@ VALUES
     NOW()
   ),
   (
-    '82a229f6-3d16-44c0-912d-c4396bba57a2',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'ffe34c73-c932-421f-be4b-d6e7f7c03e88',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'natural_earth_admin',
     'SOL',
@@ -4663,8 +4663,8 @@ VALUES
     NOW()
   ),
   (
-    '8c31189e-4282-4d89-a0e0-428454f8a244',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '7b86e913-3a0f-4734-88e1-3903d9bbd911',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -4673,8 +4673,8 @@ VALUES
     NOW()
   ),
   (
-    '3ed75915-e2f1-4a61-bf00-c66dbbe5a1d0',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'a8cb14d1-7bb5-4757-8cac-e6b4acba96cb',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -4683,8 +4683,8 @@ VALUES
     NOW()
   ),
   (
-    '3c38d033-d5c7-4062-b3b0-26e400ec0b62',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'efd727c3-1143-4543-9ce9-888e03fb07dd',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -4693,8 +4693,8 @@ VALUES
     NOW()
   ),
   (
-    'baee5d9d-bfc9-498c-a4de-620db96d5cb6',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '5fda2c6b-f7be-4926-b582-d7e5dcfd5f8f',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'un_a3',
     '-099',
@@ -4703,8 +4703,8 @@ VALUES
     NOW()
   ),
   (
-    '1bd6ff7c-f6a5-40df-8523-dc64a01d6d54',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '0f910535-d41d-401a-9eb0-45728f3b316a',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -4713,8 +4713,8 @@ VALUES
     NOW()
   ),
   (
-    '388ce1de-7b50-46b8-b81e-9577b1485489',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '7bfef517-62c5-431d-925c-c607b86304c7',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -4723,8 +4723,8 @@ VALUES
     NOW()
   ),
   (
-    'e7210616-9979-4206-95f0-671e85afa305',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'f158e3a3-091a-4bb8-9004-933239fe5431',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'natural_earth',
     'wikidata',
     'Q34754',
@@ -4733,8 +4733,8 @@ VALUES
     NOW()
   ),
   (
-    'b4320113-0bab-4ec3-a59f-6b20f8195e0b',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '70eb421d-435e-4458-81ea-03b3e31052de',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'natural_earth_admin',
     'SLB',
@@ -4743,8 +4743,8 @@ VALUES
     NOW()
   ),
   (
-    '8e9b1ca0-590f-43b0-86b5-5ff57dc2bc74',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '1669d1c0-e9b7-4225-81a1-57fbe5027946',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'iso3166-1-alpha2',
     'SB',
@@ -4753,8 +4753,8 @@ VALUES
     NOW()
   ),
   (
-    '965c0494-358e-4f19-8852-bea878aace88',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'b69d8fa7-a483-457a-9a33-5a34444a4803',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLB',
@@ -4763,8 +4763,8 @@ VALUES
     NOW()
   ),
   (
-    '4ad0abf5-f6c7-4b14-b87c-ca0b39fd3805',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '713d7a4f-1add-4be4-a584-8450e673cd21',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'iso3166-1-numeric',
     '090',
@@ -4773,8 +4773,8 @@ VALUES
     NOW()
   ),
   (
-    '3c7afba6-9e74-4fd0-bb74-d2058350626f',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '3f76f34a-0045-4b61-b8a7-30fe19c6a468',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'un_a3',
     '090',
@@ -4783,8 +4783,8 @@ VALUES
     NOW()
   ),
   (
-    '7c1233dc-df15-4da7-a62e-e443dcf46a54',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '7fbe054a-b9d0-4806-b000-dc54f8cd0e76',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'world_bank_a2',
     'SB',
@@ -4793,8 +4793,8 @@ VALUES
     NOW()
   ),
   (
-    '7de7d423-3f0a-4634-bc2e-3bd338ec4367',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '0f4054e7-7fc9-44b6-a590-c735968f9c90',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'world_bank_a3',
     'SLB',
@@ -4803,8 +4803,8 @@ VALUES
     NOW()
   ),
   (
-    'f1edcd65-d4f4-4038-9d25-db1097788711',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '09e2f5df-03e6-4df4-a43a-a640b962c0fd',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'natural_earth',
     'wikidata',
     'Q685',
@@ -4813,8 +4813,8 @@ VALUES
     NOW()
   ),
   (
-    '7976f79c-bb10-40ff-bf63-aa81cbae5174',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '1306083b-555f-4364-9171-03d61c229924',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'natural_earth_admin',
     'SVK',
@@ -4823,8 +4823,8 @@ VALUES
     NOW()
   ),
   (
-    '2f54a49d-3b29-45ea-9765-4e4bae11fbe8',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '0b1c56a2-85bf-4dc8-a2b4-ac680671c3ff',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'iso3166-1-alpha2',
     'SK',
@@ -4833,8 +4833,8 @@ VALUES
     NOW()
   ),
   (
-    '77d9d933-cd59-491a-80fa-13250a062fe5',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'dc9b0777-bbdb-4cc2-9571-c9041680d9b1',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'iso3166-1-alpha3',
     'SVK',
@@ -4843,8 +4843,8 @@ VALUES
     NOW()
   ),
   (
-    'f18b4eb3-7269-4912-a690-9caa1d9b5377',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '0863c4a5-46ef-4e1e-b76b-3c4cae64aa05',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'iso3166-1-numeric',
     '703',
@@ -4853,8 +4853,8 @@ VALUES
     NOW()
   ),
   (
-    'e5c1a842-c5ef-4b07-a8a5-158c394a0257',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '3ba5a16a-5e06-448e-8335-ec4bf6e58c76',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'un_a3',
     '703',
@@ -4863,8 +4863,8 @@ VALUES
     NOW()
   ),
   (
-    'cb1db2a0-58a2-4e40-baaa-ca4bee2357cd',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '05ac7d9c-12bd-436e-8f98-78cc30a1ad04',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'world_bank_a2',
     'SK',
@@ -4873,8 +4873,8 @@ VALUES
     NOW()
   ),
   (
-    '700ff650-82e6-425c-9cb6-e333c5c57cb6',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'b8ff0091-4da0-4e7f-90be-4d3fad6dd163',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'world_bank_a3',
     'SVK',
@@ -4883,8 +4883,8 @@ VALUES
     NOW()
   ),
   (
-    '40b9fc4e-802a-4504-ac92-d36863b426dd',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '0e43fc9c-a319-4a7c-92e8-29494cdc0241',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'natural_earth',
     'wikidata',
     'Q214',
@@ -4893,8 +4893,8 @@ VALUES
     NOW()
   ),
   (
-    'ba792d98-d0d6-4494-8f9c-a7fa4937bf25',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '8b26e74f-d5ec-404f-b721-13498fd643f7',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'natural_earth_admin',
     'SVN',
@@ -4903,8 +4903,8 @@ VALUES
     NOW()
   ),
   (
-    '84a3deb4-4aeb-457c-8c2e-ff6b0f5e0618',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '5c03d0d5-29e0-4eae-998b-5cf861da29f3',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'iso3166-1-alpha2',
     'SI',
@@ -4913,8 +4913,8 @@ VALUES
     NOW()
   ),
   (
-    '952b7757-a457-41db-841a-37f6f6b6b47b',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'aba9041f-621d-4222-ac60-973e6a7a1e7c',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'iso3166-1-alpha3',
     'SVN',
@@ -4923,8 +4923,8 @@ VALUES
     NOW()
   ),
   (
-    'f2ee652c-a426-45cf-b363-9177df297cce',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '589e321f-2770-41c4-8459-de6fabcf39ee',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'iso3166-1-numeric',
     '705',
@@ -4933,8 +4933,8 @@ VALUES
     NOW()
   ),
   (
-    '11f39afc-14db-4f5d-9334-9d3ec4c160ed',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'e0f07912-89b3-420c-9429-1fe47cad74f4',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'un_a3',
     '705',
@@ -4943,8 +4943,8 @@ VALUES
     NOW()
   ),
   (
-    'c9726e6e-f558-4351-a135-9307bf75cd8f',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '545b71b8-8756-4225-9659-68b2a2f319a2',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'world_bank_a2',
     'SI',
@@ -4953,8 +4953,8 @@ VALUES
     NOW()
   ),
   (
-    '66b87763-684b-4ece-aa5b-580abde2cee0',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '3050107c-6c94-4725-bee4-60fb3098433f',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'world_bank_a3',
     'SVN',
@@ -4963,8 +4963,8 @@ VALUES
     NOW()
   ),
   (
-    'bb25daf5-1823-4720-9f1e-7d219dbfea66',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'a75f7ad2-7d76-449a-9c80-41193f4fe3c7',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'natural_earth',
     'wikidata',
     'Q215',
@@ -4973,8 +4973,8 @@ VALUES
     NOW()
   ),
   (
-    'fe88013a-a10e-4a5e-b8d5-9a5ea3bb9931',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '6d34a7fe-6903-4679-8ad3-c96350a5496f',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'natural_earth_admin',
     'SGP',
@@ -4983,8 +4983,8 @@ VALUES
     NOW()
   ),
   (
-    '72fab063-3f40-4f50-b43b-0d5088e16b15',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '220de60b-0694-4343-94bb-d2692eca04cd',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'iso3166-1-alpha2',
     'SG',
@@ -4993,8 +4993,8 @@ VALUES
     NOW()
   ),
   (
-    '5be13db8-a7a9-44c9-80b6-68c243b2defd',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '4802dc19-759a-4c19-99d6-39939e9fa9a1',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'iso3166-1-alpha3',
     'SGP',
@@ -5003,8 +5003,8 @@ VALUES
     NOW()
   ),
   (
-    '0214c72a-7a3e-4a2a-a6a7-a497e3d5e997',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '4276c414-8b18-4350-9a46-3753fbd03233',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'iso3166-1-numeric',
     '702',
@@ -5013,8 +5013,8 @@ VALUES
     NOW()
   ),
   (
-    '6cc13282-efa3-44e9-824b-2b6358ef787c',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'ae7c6604-6a51-461c-b39b-ac6f0ae335d5',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'un_a3',
     '702',
@@ -5023,8 +5023,8 @@ VALUES
     NOW()
   ),
   (
-    '0b234e71-8204-4b61-8c3a-17a840ec6c46',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'cd0cd802-b7a8-4bbe-aba6-574c07c5e6a2',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'world_bank_a2',
     'SG',
@@ -5033,8 +5033,8 @@ VALUES
     NOW()
   ),
   (
-    '66dc5af3-1269-4265-8551-ca13dedb6abb',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'b085dc10-962a-4f30-a082-5d5bb5853c9d',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'world_bank_a3',
     'SGP',
@@ -5043,8 +5043,8 @@ VALUES
     NOW()
   ),
   (
-    'd385b761-e8be-4343-a08e-5d7b02ab706c',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'd7db008f-e9eb-4ba4-a62c-0002dc1e4635',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'natural_earth',
     'wikidata',
     'Q334',
@@ -5053,8 +5053,8 @@ VALUES
     NOW()
   ),
   (
-    'f03855f7-feda-43be-8543-32bc948d0067',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '4c183a2b-9e13-433a-a1ae-fbfce0e4ad61',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'natural_earth_admin',
     'SLE',
@@ -5063,8 +5063,8 @@ VALUES
     NOW()
   ),
   (
-    '555862a6-aefd-4581-8eab-c1653843575c',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'd20fe093-0bdd-43b8-801a-7559f8cd8ab7',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'iso3166-1-alpha2',
     'SL',
@@ -5073,8 +5073,8 @@ VALUES
     NOW()
   ),
   (
-    'f1d1b5a3-b87d-492b-82f2-b5aae3cef4e3',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'abed4435-e636-460d-8b0e-da7b8c233fa5',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLE',
@@ -5083,8 +5083,8 @@ VALUES
     NOW()
   ),
   (
-    '58fef5b8-42ce-4876-8c87-587a10e92666',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'eaf295cf-36d2-43bc-bede-49aa35229fd4',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'iso3166-1-numeric',
     '694',
@@ -5093,8 +5093,8 @@ VALUES
     NOW()
   ),
   (
-    'ab590b95-0c5f-4b80-8922-b14b659787a1',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'f04b3cce-c247-4056-af09-a08348e7208d',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'un_a3',
     '694',
@@ -5103,8 +5103,8 @@ VALUES
     NOW()
   ),
   (
-    'd95cdc80-63b1-4703-9666-b65d6c29ddf4',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'c30c6341-d5df-4a35-8272-26c99c6d9c8e',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'world_bank_a2',
     'SL',
@@ -5113,8 +5113,8 @@ VALUES
     NOW()
   ),
   (
-    '604aaa3a-6e9a-4d05-b43d-3c55d694e98c',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '04e1aeb1-6378-4829-a701-d1995b511a3d',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'world_bank_a3',
     'SLE',
@@ -5123,8 +5123,8 @@ VALUES
     NOW()
   ),
   (
-    '4143c6d5-dc23-4fe5-a2ca-432f53008864',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '082898f0-bbb4-4a94-a259-43ad603b28d7',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'natural_earth',
     'wikidata',
     'Q1044',
@@ -5133,8 +5133,8 @@ VALUES
     NOW()
   ),
   (
-    '683d94c9-09b6-4840-880a-42338f03081a',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '8a465b1e-7981-459f-ada7-1404bd390cf8',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'natural_earth_admin',
     'SYC',
@@ -5143,8 +5143,8 @@ VALUES
     NOW()
   ),
   (
-    '7efb9b72-25b3-44a2-a0d7-93009d4691d0',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '6725ecc5-c3ed-4053-8836-3e94f50db757',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'iso3166-1-alpha2',
     'SC',
@@ -5153,8 +5153,8 @@ VALUES
     NOW()
   ),
   (
-    'e5ee65d4-056c-432d-9ff1-5eaf6e47ea15',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'c6e39498-3a0f-4766-a314-4796b29e56d8',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'iso3166-1-alpha3',
     'SYC',
@@ -5163,8 +5163,8 @@ VALUES
     NOW()
   ),
   (
-    '08eebcb6-2982-4782-b2a9-bf8fbc8824bb',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '3f5932f5-1d33-421d-80a5-5d7932fd0429',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'iso3166-1-numeric',
     '690',
@@ -5173,8 +5173,8 @@ VALUES
     NOW()
   ),
   (
-    '21ceec36-87f3-490d-bfad-45286f31e036',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '2cc3252a-accd-4002-8774-e908a24da932',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'un_a3',
     '690',
@@ -5183,8 +5183,8 @@ VALUES
     NOW()
   ),
   (
-    '6e71be71-56c2-419b-b7bb-0fabe4a68bd8',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '7632221f-8bed-4aa0-9d27-37caebb42927',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'world_bank_a2',
     'SC',
@@ -5193,8 +5193,8 @@ VALUES
     NOW()
   ),
   (
-    'ccd216dc-5e0b-4b54-ba6b-5ed238f9f8da',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '0912d496-fdc4-432f-b5d6-53c69302abd9',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'world_bank_a3',
     'SYC',
@@ -5203,8 +5203,8 @@ VALUES
     NOW()
   ),
   (
-    'd1322773-68b9-48c5-877a-9416abba5417',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'e942eb0c-42fb-4b17-87b6-4657e93f75c2',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'natural_earth',
     'wikidata',
     'Q1042',
@@ -5213,8 +5213,8 @@ VALUES
     NOW()
   ),
   (
-    '01b43c4e-8f02-4ebc-8334-5867e07187fa',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '621bbcbc-d834-4713-99ba-9dbf4bfce803',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'natural_earth_admin',
     'SRB',
@@ -5223,8 +5223,8 @@ VALUES
     NOW()
   ),
   (
-    'c2b25cd8-3b22-4d8f-9608-81f07628f363',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'f52f14e3-9fc8-471e-9f8f-1676158e8af2',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'iso3166-1-alpha2',
     'RS',
@@ -5233,8 +5233,8 @@ VALUES
     NOW()
   ),
   (
-    'ecd920ac-b565-43f0-b674-a993be987170',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'fbcd009b-ac57-401b-97d0-73915c76c6c8',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'iso3166-1-alpha3',
     'SRB',
@@ -5243,8 +5243,8 @@ VALUES
     NOW()
   ),
   (
-    'b740337f-62ae-4eab-ab96-a16f51f787bb',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'c7e00729-3757-4b6f-8c95-68c94e47aef6',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'iso3166-1-numeric',
     '688',
@@ -5253,8 +5253,8 @@ VALUES
     NOW()
   ),
   (
-    'e9efdf33-bf62-4f82-aa75-ccac640338d9',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '90fa6c19-acd7-4c76-aabd-ae41ef8ca045',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'un_a3',
     '688',
@@ -5263,8 +5263,8 @@ VALUES
     NOW()
   ),
   (
-    '37c58676-4420-4a84-a5d5-2c6235e30088',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'b2c4d00d-88d3-457a-aee7-1a9b54b6fb1c',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'world_bank_a2',
     'YF',
@@ -5273,8 +5273,8 @@ VALUES
     NOW()
   ),
   (
-    '8469983e-9ee1-469a-bad7-81494a31acdc',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'd60e3e2f-66db-401a-9339-f1ce721acb80',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'world_bank_a3',
     'SRB',
@@ -5283,8 +5283,8 @@ VALUES
     NOW()
   ),
   (
-    '2bf9f340-c198-4f9d-9a08-f27496b1f90b',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'dec7b1dc-b59b-45d3-90d6-cf73f45f5998',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'natural_earth',
     'wikidata',
     'Q403',
@@ -5293,8 +5293,8 @@ VALUES
     NOW()
   ),
   (
-    'c09d16c9-f57e-46c4-bcf0-16941b388634',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'a96238ca-aa27-4df0-8a82-e4a173630807',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'natural_earth_admin',
     'SEN',
@@ -5303,8 +5303,8 @@ VALUES
     NOW()
   ),
   (
-    '3e4e2450-6eff-456d-a338-e0fe91accfba',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '5297ddaf-6615-42a8-86a5-650c89a57f6d',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'iso3166-1-alpha2',
     'SN',
@@ -5313,8 +5313,8 @@ VALUES
     NOW()
   ),
   (
-    'c4f93a8d-0aba-4657-8bf4-4927fc442bd7',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '55f52f12-ae48-4773-9db1-c2679e6e7ffd',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'iso3166-1-alpha3',
     'SEN',
@@ -5323,8 +5323,8 @@ VALUES
     NOW()
   ),
   (
-    '745a5fef-8d5f-4496-9b22-6f2a6889087a',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '7205d872-a215-49cc-8a53-8844f222d762',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'iso3166-1-numeric',
     '686',
@@ -5333,8 +5333,8 @@ VALUES
     NOW()
   ),
   (
-    '8e080a14-631d-4d4c-8a71-6fcd6f73c883',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '58d23c66-6c9f-4129-8374-0060a2aa4a85',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'un_a3',
     '686',
@@ -5343,8 +5343,8 @@ VALUES
     NOW()
   ),
   (
-    '2b5aa2df-7122-4847-9130-063519c9f944',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'b634b0c7-6f1e-4b5c-bedb-5be3766a67ec',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'world_bank_a2',
     'SN',
@@ -5353,8 +5353,8 @@ VALUES
     NOW()
   ),
   (
-    '7b799ccc-4cb4-4f6b-b372-264dbd360712',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'fef8a37f-c685-4b21-ab10-e016306df3b9',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'world_bank_a3',
     'SEN',
@@ -5363,8 +5363,8 @@ VALUES
     NOW()
   ),
   (
-    '5cd1be37-d66e-46a4-9203-a59d62833adc',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '3ee24267-0cc1-4dfb-a4cc-a9f8a076007c',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'natural_earth',
     'wikidata',
     'Q1041',
@@ -5373,8 +5373,8 @@ VALUES
     NOW()
   ),
   (
-    '765e0cbb-04b4-4286-8189-5526e0f3dfd6',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '09f827f3-33af-44f1-905f-d2fd07edee0b',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'natural_earth_admin',
     'SAU',
@@ -5383,8 +5383,8 @@ VALUES
     NOW()
   ),
   (
-    'ae71d351-d338-4575-bd45-3831bc149059',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '64a87ab6-410f-425f-a46f-273def4e7713',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'iso3166-1-alpha2',
     'SA',
@@ -5393,8 +5393,8 @@ VALUES
     NOW()
   ),
   (
-    '31da7826-1f71-442f-aeac-9e0251bd19e4',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '5b48d626-2a5d-483e-8d59-5670e1d2401a',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'iso3166-1-alpha3',
     'SAU',
@@ -5403,8 +5403,8 @@ VALUES
     NOW()
   ),
   (
-    '76901406-b502-4dc5-947b-25934137e604',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '6d680906-6b59-4eac-9716-529b4a44abba',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'iso3166-1-numeric',
     '682',
@@ -5413,8 +5413,8 @@ VALUES
     NOW()
   ),
   (
-    '514500ca-c12a-49c0-8ce1-9ddb48f5f2f7',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '26fbe615-93bc-41ac-b632-636fb9e88a40',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'un_a3',
     '682',
@@ -5423,8 +5423,8 @@ VALUES
     NOW()
   ),
   (
-    '1c1b38e9-a366-45c0-888d-8f5a826125f6',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '77ab728f-783b-4390-904b-de4e1d87b1bc',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'world_bank_a2',
     'SA',
@@ -5433,8 +5433,8 @@ VALUES
     NOW()
   ),
   (
-    '383289e5-b9a5-47ac-89ed-83b851715f90',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '00ae2e1f-492a-4c97-ae35-4cfcd6a3851c',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'world_bank_a3',
     'SAU',
@@ -5443,8 +5443,8 @@ VALUES
     NOW()
   ),
   (
-    '32799785-1616-46d4-9573-202689670222',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '42f6fed5-6c51-4c37-b91a-75997db274bb',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'natural_earth',
     'wikidata',
     'Q851',
@@ -5453,8 +5453,8 @@ VALUES
     NOW()
   ),
   (
-    '6e10a407-29c4-46ca-a322-f50c66b6113c',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'ee76ae22-c3c8-49a2-b09d-065bc35e2d6c',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'natural_earth_admin',
     'STP',
@@ -5463,8 +5463,8 @@ VALUES
     NOW()
   ),
   (
-    '4444a11d-0a1a-45c1-a3ee-5ff4a5732a4d',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'bd6ebcae-844b-48f9-8e98-ff4dc2a77717',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'iso3166-1-alpha2',
     'ST',
@@ -5473,8 +5473,8 @@ VALUES
     NOW()
   ),
   (
-    '687bf391-d153-449c-a3a9-cd545fd5d7ff',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '0dd81596-17ca-4ca9-925e-051999365f1d',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'iso3166-1-alpha3',
     'STP',
@@ -5483,8 +5483,8 @@ VALUES
     NOW()
   ),
   (
-    'bba33ce2-fa05-4bcd-91ed-94a550232012',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '40b2383d-04d1-4550-9360-1dca513704b5',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'iso3166-1-numeric',
     '678',
@@ -5493,8 +5493,8 @@ VALUES
     NOW()
   ),
   (
-    '8ccf7762-12f3-44f0-bb46-7a3ae1079617',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '1c0e4cef-d5dd-465d-bbdc-7c0764400cd9',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'un_a3',
     '678',
@@ -5503,8 +5503,8 @@ VALUES
     NOW()
   ),
   (
-    'ae83bf17-94ed-427f-aad4-6b5201ca8f1d',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'c7e2d22a-fdca-40cf-b7a3-fad1cd85b9a7',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'world_bank_a2',
     'ST',
@@ -5513,8 +5513,8 @@ VALUES
     NOW()
   ),
   (
-    '50bb77f7-f0f2-4053-b8e7-914eb86a4cf9',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '6b4183b5-41b3-4b45-8d01-9981bc2b161b',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'world_bank_a3',
     'STP',
@@ -5523,8 +5523,8 @@ VALUES
     NOW()
   ),
   (
-    '91add719-90db-467c-9a5c-140522ebc2d1',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '2875a2f9-b0b4-4521-84df-ca5a3f03fb20',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'natural_earth',
     'wikidata',
     'Q1039',
@@ -5533,8 +5533,8 @@ VALUES
     NOW()
   ),
   (
-    'da83d0e2-555b-4263-a083-63f1337e9b3d',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '0581da7d-6e45-4073-bb6b-1d584dc41250',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'natural_earth_admin',
     'SMR',
@@ -5543,8 +5543,8 @@ VALUES
     NOW()
   ),
   (
-    '53961cd4-7b0c-4fe2-98fd-9a21c58a5313',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'ae241cea-bc8c-4987-a0e9-8ac787082001',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'iso3166-1-alpha2',
     'SM',
@@ -5553,8 +5553,8 @@ VALUES
     NOW()
   ),
   (
-    '1beb62c1-b899-406a-8f48-349761999dd4',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'e096183a-1b00-4eae-aaca-47af5abb8709',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'iso3166-1-alpha3',
     'SMR',
@@ -5563,8 +5563,8 @@ VALUES
     NOW()
   ),
   (
-    '2aee71e5-b8d0-4526-b4c1-1628bcd6706d',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '984f2e30-0a3c-4ddc-9c51-9917e2127232',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'iso3166-1-numeric',
     '674',
@@ -5573,8 +5573,8 @@ VALUES
     NOW()
   ),
   (
-    '936b8d79-0c15-4926-9d96-9b57dd622df8',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '6fd7d646-2f81-4065-8642-7d92c78b5f3a',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'un_a3',
     '674',
@@ -5583,8 +5583,8 @@ VALUES
     NOW()
   ),
   (
-    '40d7fc78-cec0-4d8e-b92f-2302d0d20aca',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '2ddc23bd-c00d-46d1-8b56-902b9b2fe39d',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'world_bank_a2',
     'SM',
@@ -5593,8 +5593,8 @@ VALUES
     NOW()
   ),
   (
-    'd67e5ba9-8080-4dda-b873-a818e3f8a676',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'e0d8a155-798f-4f1e-87fb-238dc79de89b',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'world_bank_a3',
     'SMR',
@@ -5603,8 +5603,8 @@ VALUES
     NOW()
   ),
   (
-    '9410bc7f-ad11-4a6a-8b25-68962688e6c1',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '83e5fe9a-d7ed-4cb0-bda9-a9c68b6ba381',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'natural_earth',
     'wikidata',
     'Q238',
@@ -5613,8 +5613,8 @@ VALUES
     NOW()
   ),
   (
-    'c5077723-81a2-4b00-aaad-5eaa2a864a28',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '6340ca1f-470e-4020-ba0e-fff01fdbe749',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'natural_earth_admin',
     'WSM',
@@ -5623,8 +5623,8 @@ VALUES
     NOW()
   ),
   (
-    'a713c683-80bc-493e-9b2a-69a3e109e77d',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'cedf0e5b-c96b-40c0-bf55-384bbd304c77',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'iso3166-1-alpha2',
     'WS',
@@ -5633,8 +5633,8 @@ VALUES
     NOW()
   ),
   (
-    '7fa06254-402f-48dd-b95e-50d5930e10bb',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '85617b5b-ae65-422e-ac7c-7e7dfec95762',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'iso3166-1-alpha3',
     'WSM',
@@ -5643,8 +5643,8 @@ VALUES
     NOW()
   ),
   (
-    'dfeff9a2-ed1e-40be-be4e-b800bf79d65d',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '8ec9d05c-e881-405d-abac-186f933a3a64',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'iso3166-1-numeric',
     '882',
@@ -5653,8 +5653,8 @@ VALUES
     NOW()
   ),
   (
-    'f05b211b-3ade-4d4b-9a86-1bff42c54db0',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '2fdc72af-561b-4b07-a254-fb60e0aef89e',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'un_a3',
     '882',
@@ -5663,8 +5663,8 @@ VALUES
     NOW()
   ),
   (
-    '9506f719-8774-4546-92dc-1cd929ecb447',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'a51e1378-1ae4-43fe-b5ef-6f396abfa373',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'world_bank_a2',
     'WS',
@@ -5673,8 +5673,8 @@ VALUES
     NOW()
   ),
   (
-    '89b33a63-5bf3-4fb0-9c01-44778d53cb22',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '0fcaa3e4-6290-4a24-a706-225eac8e9e16',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'world_bank_a3',
     'WSM',
@@ -5683,8 +5683,8 @@ VALUES
     NOW()
   ),
   (
-    '781064fe-04e5-4d8c-bdae-2283e75cf8e4',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '6f79b5e6-3e92-46d4-b9f2-3440602cb07c',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'natural_earth',
     'wikidata',
     'Q683',
@@ -5693,8 +5693,8 @@ VALUES
     NOW()
   ),
   (
-    '00668944-8715-448a-893e-e36f91d3f7cd',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '791fb069-a6f6-45ee-a874-ec20c23fb47d',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'natural_earth_admin',
     'VCT',
@@ -5703,8 +5703,8 @@ VALUES
     NOW()
   ),
   (
-    '8df95645-472d-4f34-aab2-0d09a6847b8a',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '487bbdb2-7496-49da-b66d-b5a5813d99fa',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'iso3166-1-alpha2',
     'VC',
@@ -5713,8 +5713,8 @@ VALUES
     NOW()
   ),
   (
-    '3e91b804-95ac-4d0e-94e9-f3a844c0b352',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '52567f23-42c8-402c-8a77-811efa52e137',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'iso3166-1-alpha3',
     'VCT',
@@ -5723,8 +5723,8 @@ VALUES
     NOW()
   ),
   (
-    '198dafc9-6898-4ae7-bb9a-768ad68ca119',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '97ab0e08-93c2-4e0f-b6c4-4afeae94cb15',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'iso3166-1-numeric',
     '670',
@@ -5733,8 +5733,8 @@ VALUES
     NOW()
   ),
   (
-    'a254013b-8ab8-4cf6-825f-21b00caad1ea',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '88faace0-a026-4620-ad5b-a378520ca41d',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'un_a3',
     '670',
@@ -5743,8 +5743,8 @@ VALUES
     NOW()
   ),
   (
-    'a2c792f3-9d28-44a7-9109-9612173015d0',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'c9ee6af6-291a-461d-b55a-e9ac250663a7',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'world_bank_a2',
     'VC',
@@ -5753,8 +5753,8 @@ VALUES
     NOW()
   ),
   (
-    '35702632-e852-4df7-81f6-b8e850f2e86d',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '690fcb83-1bb9-4ffb-85eb-bcdf67db722f',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'world_bank_a3',
     'VCT',
@@ -5763,8 +5763,8 @@ VALUES
     NOW()
   ),
   (
-    '4e7ce933-52f0-4028-b1f4-020f8c0159dc',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '8710cf16-ad39-4d5e-9a0f-6e81d25fa7f8',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'natural_earth',
     'wikidata',
     'Q757',
@@ -5773,8 +5773,8 @@ VALUES
     NOW()
   ),
   (
-    '87c87203-ab12-4cfa-824f-ad7480cfaff5',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '7006c6f0-6284-41a0-a5da-02154677a89a',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'natural_earth_admin',
     'LCA',
@@ -5783,8 +5783,8 @@ VALUES
     NOW()
   ),
   (
-    '974233ff-8040-4e36-9cae-0f44ab82ebfb',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'cbb23f6b-d5b4-4399-9c88-158fbb0dc1c9',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'iso3166-1-alpha2',
     'LC',
@@ -5793,8 +5793,8 @@ VALUES
     NOW()
   ),
   (
-    '0251f53f-ceec-4922-8dae-54e2b77585a3',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'd71536d8-2822-4f9a-98c4-4520f418d998',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'iso3166-1-alpha3',
     'LCA',
@@ -5803,8 +5803,8 @@ VALUES
     NOW()
   ),
   (
-    'f4662205-eab7-49b2-a383-a78128ccc494',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'd11dd794-45b7-4f70-90fe-6e938f9cccfa',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'iso3166-1-numeric',
     '662',
@@ -5813,8 +5813,8 @@ VALUES
     NOW()
   ),
   (
-    'fd9e8127-551e-450f-8d9b-501cf2d20ee2',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '9ddc3440-fffc-4d4b-9734-4033cfb6ca60',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'un_a3',
     '662',
@@ -5823,8 +5823,8 @@ VALUES
     NOW()
   ),
   (
-    '2d4a68d9-a650-4b26-bfba-650e24ed5cdc',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'ecc080e9-339d-4e28-9917-9447d91db757',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'world_bank_a2',
     'LC',
@@ -5833,8 +5833,8 @@ VALUES
     NOW()
   ),
   (
-    'f60ff292-afc9-4da4-bf76-a354651c76ff',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '8cb52391-c03f-4992-8900-3c705739b47d',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'world_bank_a3',
     'LCA',
@@ -5843,8 +5843,8 @@ VALUES
     NOW()
   ),
   (
-    '77893a7a-bc9f-4655-be52-e30dd87c2fcb',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'c9bc5f6e-a81a-4241-9298-05629d1ebd63',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'natural_earth',
     'wikidata',
     'Q760',
@@ -5853,8 +5853,8 @@ VALUES
     NOW()
   ),
   (
-    'a69c3291-5e09-4dd1-a37c-b8b546fe417b',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'd6ffd533-e99c-402a-8e71-a858a87e4ee0',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'natural_earth_admin',
     'KNA',
@@ -5863,8 +5863,8 @@ VALUES
     NOW()
   ),
   (
-    '19357f0b-c557-4056-8b3e-d85e90762479',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '297ced90-4539-471a-a385-7a3f142b8a87',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'iso3166-1-alpha2',
     'KN',
@@ -5873,8 +5873,8 @@ VALUES
     NOW()
   ),
   (
-    'd109ba4d-d97e-4b15-83a9-7ce3b7533816',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '9d516430-dc19-467b-9d53-7ebab4187e7e',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'iso3166-1-alpha3',
     'KNA',
@@ -5883,8 +5883,8 @@ VALUES
     NOW()
   ),
   (
-    'd780221f-57a1-4f9d-9a23-d4e74147d941',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '33f4c54e-3926-4cbf-b597-934ef8ea5387',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'iso3166-1-numeric',
     '659',
@@ -5893,8 +5893,8 @@ VALUES
     NOW()
   ),
   (
-    '2362530d-1a89-4b14-9b37-ede5693bc807',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'aa7f30ef-4989-459b-8b1a-4acde2fd10c9',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'un_a3',
     '659',
@@ -5903,8 +5903,8 @@ VALUES
     NOW()
   ),
   (
-    '30f7d79a-f3e4-4bfa-92fe-2ec3d7d2ec9b',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'c1d123ff-16c9-430e-a80f-ddf417cda5db',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'world_bank_a2',
     'KN',
@@ -5913,8 +5913,8 @@ VALUES
     NOW()
   ),
   (
-    'fe2fcae1-cffa-4c9d-b2df-96a44d8683f8',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '628b3c26-f05a-4088-bc27-2343a26e7efe',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'world_bank_a3',
     'KNA',
@@ -5923,8 +5923,8 @@ VALUES
     NOW()
   ),
   (
-    '4c760bfa-5b99-4e59-8a6c-796ea952980f',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'e1c486b3-f285-47e3-bf14-1d0d72b6a85b',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'natural_earth',
     'wikidata',
     'Q763',
@@ -5933,8 +5933,8 @@ VALUES
     NOW()
   ),
   (
-    'e0195cac-f0ef-4e20-b45e-e895670fd213',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '28ddaf1f-f1fd-4787-9a81-96605fc529f2',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'natural_earth_admin',
     'RWA',
@@ -5943,8 +5943,8 @@ VALUES
     NOW()
   ),
   (
-    'ddb79229-eb5f-4904-9db9-7faccd01a015',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '4ae24b80-1561-4647-b9da-ba7fa57f83a3',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'iso3166-1-alpha2',
     'RW',
@@ -5953,8 +5953,8 @@ VALUES
     NOW()
   ),
   (
-    '8b2ca34f-14ca-4287-86d7-f835e5c3e8e4',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '4fcc6501-cee7-4c53-b5af-1dc426087a60',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'iso3166-1-alpha3',
     'RWA',
@@ -5963,8 +5963,8 @@ VALUES
     NOW()
   ),
   (
-    'cb055783-c790-4bfe-9872-2bef62ac040c',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'dd55bdaa-1b82-406a-9656-f646e584927e',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'iso3166-1-numeric',
     '646',
@@ -5973,8 +5973,8 @@ VALUES
     NOW()
   ),
   (
-    '18fc0b98-b821-487a-b4e7-cb6ef7722df8',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '3bd61266-713b-4b1e-b04b-cff7d3853c85',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'un_a3',
     '646',
@@ -5983,8 +5983,8 @@ VALUES
     NOW()
   ),
   (
-    '97855a21-01e7-40bd-828d-9c5cb9be4ab5',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'ca430ce3-ec9b-4cf7-9f8d-91b39e8a9525',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'world_bank_a2',
     'RW',
@@ -5993,8 +5993,8 @@ VALUES
     NOW()
   ),
   (
-    '76f91668-c662-49e4-9649-ec7d50500255',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'd0ee7a66-313d-43f9-8daf-26d0d1438aed',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'world_bank_a3',
     'RWA',
@@ -6003,8 +6003,8 @@ VALUES
     NOW()
   ),
   (
-    'd24f76f0-6a41-433f-844c-7091a5c6496c',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '202a6e51-3a0a-43cb-b273-923dfab99242',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'natural_earth',
     'wikidata',
     'Q1037',
@@ -6013,8 +6013,8 @@ VALUES
     NOW()
   ),
   (
-    '1f6a0ed2-1c70-48f9-8398-694c85e9f0a7',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '41b65ec8-8e7e-49d4-8e39-ed075be6eef4',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'natural_earth_admin',
     'RUS',
@@ -6023,8 +6023,8 @@ VALUES
     NOW()
   ),
   (
-    '70fc6776-71b6-4ed2-82e5-e45cdcd77664',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'd1c8a5d2-e9e3-471a-86a2-53505c896e47',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'iso3166-1-alpha2',
     'RU',
@@ -6033,8 +6033,8 @@ VALUES
     NOW()
   ),
   (
-    'a3933281-24f0-406f-bf85-0495a81e91ef',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'c35d6fc1-c868-4f3e-b7d2-b8314362e0dc',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'iso3166-1-alpha3',
     'RUS',
@@ -6043,8 +6043,8 @@ VALUES
     NOW()
   ),
   (
-    'a84004fd-de11-41af-bdc6-fb81406d324a',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '0067f404-cb85-4719-a766-d2e9cdc3433f',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'iso3166-1-numeric',
     '643',
@@ -6053,8 +6053,8 @@ VALUES
     NOW()
   ),
   (
-    '1b84ba53-ce0b-4e17-a5a5-94adcce6a456',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '9fbe9cc8-bc98-440b-91bf-f743b0d427e9',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'un_a3',
     '643',
@@ -6063,8 +6063,8 @@ VALUES
     NOW()
   ),
   (
-    'fc0e0b4e-525c-44e3-b4a0-be1a48e52237',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '4817e696-adc2-4c41-8080-febdbd58a0bd',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'world_bank_a2',
     'RU',
@@ -6073,8 +6073,8 @@ VALUES
     NOW()
   ),
   (
-    '29448a61-be7f-43b9-bed5-80708097b793',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '82cf8623-372d-4324-92b6-805a3540e29b',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'world_bank_a3',
     'RUS',
@@ -6083,8 +6083,8 @@ VALUES
     NOW()
   ),
   (
-    '28318f39-70db-4cf0-ba9a-ef9693febb42',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '7463c564-c8de-4c8a-9cdb-06da94a34913',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'natural_earth',
     'wikidata',
     'Q159',
@@ -6093,8 +6093,8 @@ VALUES
     NOW()
   ),
   (
-    '78372fd1-cfd9-465f-b9df-5e07f6df667f',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '957662bd-7517-469a-a1eb-8bcb84e19cda',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'natural_earth_admin',
     'ROU',
@@ -6103,8 +6103,8 @@ VALUES
     NOW()
   ),
   (
-    'c11830eb-21ef-47d2-86e7-b57e479e3a40',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '4b780df1-3e49-4dcf-8ca8-4f4ec8b7b1bb',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'iso3166-1-alpha2',
     'RO',
@@ -6113,8 +6113,8 @@ VALUES
     NOW()
   ),
   (
-    '88a43a4f-cec4-491d-86cd-2287b6a12c44',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'bccf5ef0-4b6a-4af2-b589-f0b2391eb31a',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'iso3166-1-alpha3',
     'ROU',
@@ -6123,8 +6123,8 @@ VALUES
     NOW()
   ),
   (
-    'd581d79f-34b5-4f6f-8ac8-a842643da9dc',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '299859e8-90f9-4373-b910-19a0b54e43a7',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'iso3166-1-numeric',
     '642',
@@ -6133,8 +6133,8 @@ VALUES
     NOW()
   ),
   (
-    '5ffcef14-68c8-4224-963a-395b554eb6e2',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '45efda19-3599-4435-94cf-3d71a6a26141',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'un_a3',
     '642',
@@ -6143,8 +6143,8 @@ VALUES
     NOW()
   ),
   (
-    'f4a6de20-fc4f-4c1a-bc0c-e170c8f96118',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '6ee414c7-a44c-4a86-99d1-7f513370e423',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'world_bank_a2',
     'RO',
@@ -6153,8 +6153,8 @@ VALUES
     NOW()
   ),
   (
-    'd51c645d-219b-4b9e-a03c-000f2162385d',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'daa8a9d1-f97b-4f39-8f3e-39bbf096c3b3',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'world_bank_a3',
     'ROM',
@@ -6163,8 +6163,8 @@ VALUES
     NOW()
   ),
   (
-    '99fb1a97-de34-4afb-b82c-201cdab2b251',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '672be683-3e58-4981-a7ec-cb51f13fe60d',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'natural_earth',
     'wikidata',
     'Q218',
@@ -6173,8 +6173,8 @@ VALUES
     NOW()
   ),
   (
-    '0d75be65-5b2b-412c-8916-ffe493d42648',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '3dbb2e87-dca9-4c5f-b172-5752a253107b',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'natural_earth_admin',
     'QAT',
@@ -6183,8 +6183,8 @@ VALUES
     NOW()
   ),
   (
-    'c7100f05-2a1a-46fc-82be-1ff2a53eaea9',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '4172876f-3b77-4208-aef3-dba007f86064',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'iso3166-1-alpha2',
     'QA',
@@ -6193,8 +6193,8 @@ VALUES
     NOW()
   ),
   (
-    'fcd18a01-3ca1-457e-a8cd-80b632a6c827',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '30362853-3e38-428d-bd1d-15ee2f600f4a',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'iso3166-1-alpha3',
     'QAT',
@@ -6203,8 +6203,8 @@ VALUES
     NOW()
   ),
   (
-    '110dd607-ae75-4959-aa32-bfbbba7bbde1',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '64254710-78f0-41ba-bd5a-ff60c9e05b50',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'iso3166-1-numeric',
     '634',
@@ -6213,8 +6213,8 @@ VALUES
     NOW()
   ),
   (
-    '3b9fa6c2-624a-47eb-aa48-171a44051e90',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '1c896a28-ca18-408d-a0a8-a09bbc53f863',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'un_a3',
     '634',
@@ -6223,8 +6223,8 @@ VALUES
     NOW()
   ),
   (
-    '079c9d7c-ac0e-4bc6-bec2-4e610e6829d1',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'a9776dd1-94df-4123-8fc4-6c5e79568f37',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'world_bank_a2',
     'QA',
@@ -6233,8 +6233,8 @@ VALUES
     NOW()
   ),
   (
-    'ff0383ec-26b5-4bda-8468-a3fdf07a3be8',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'b4bb71cd-0118-4751-bb71-a423b9da9588',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'world_bank_a3',
     'QAT',
@@ -6243,8 +6243,8 @@ VALUES
     NOW()
   ),
   (
-    'a1029f62-af10-4307-9778-e61a8df4063a',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'e13df377-f719-42f0-bab3-b7a83637e7ff',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'natural_earth',
     'wikidata',
     'Q846',
@@ -6253,8 +6253,8 @@ VALUES
     NOW()
   ),
   (
-    '1dd697cb-9021-435c-93eb-4b9fd1483e95',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'a1ad9622-ccf6-44f3-b1ec-798d87c1bb75',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'natural_earth_admin',
     'PRT',
@@ -6263,8 +6263,8 @@ VALUES
     NOW()
   ),
   (
-    '0bfd7040-3600-4179-8e7e-146ce5d4bc5b',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'fae94269-1d54-4837-9fbf-a85eb38c95ba',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'iso3166-1-alpha2',
     'PT',
@@ -6273,8 +6273,8 @@ VALUES
     NOW()
   ),
   (
-    'b1b80bb9-0f41-4705-8d7c-8a056bb5e3fe',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'a2419f93-5ed4-436d-b919-0ab1fca880ac',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRT',
@@ -6283,8 +6283,8 @@ VALUES
     NOW()
   ),
   (
-    '099d7516-aa2d-4268-b965-7f35e2d24056',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '75b2eb04-7382-4034-9ac0-67aefe28d6e6',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'iso3166-1-numeric',
     '620',
@@ -6293,8 +6293,8 @@ VALUES
     NOW()
   ),
   (
-    '2a10ed84-90a7-4173-bce0-d15c3620ca9a',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '48e02be4-7b20-44a0-852a-12f8b8536e0a',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'un_a3',
     '620',
@@ -6303,8 +6303,8 @@ VALUES
     NOW()
   ),
   (
-    'c69b107e-feea-4a98-95e9-5cca31766e57',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'a2463723-5f2d-4827-9815-553abe923339',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'world_bank_a2',
     'PT',
@@ -6313,8 +6313,8 @@ VALUES
     NOW()
   ),
   (
-    '7bde64f6-3d34-48da-b5b2-22e43b3c14b0',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'd05fe57f-e341-4807-bf93-24b41f641607',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'world_bank_a3',
     'PRT',
@@ -6323,8 +6323,8 @@ VALUES
     NOW()
   ),
   (
-    'a435dc18-d516-455c-93e0-e5517c34c284',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '9618a8f7-6921-4db5-a9ae-77df62938bbf',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'natural_earth',
     'wikidata',
     'Q45',
@@ -6333,8 +6333,8 @@ VALUES
     NOW()
   ),
   (
-    'ebddfe80-dee6-49bf-a4a4-e4ae6861a7dc',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '69bebebe-a006-4617-a7eb-55a15b74b042',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'natural_earth_admin',
     'POL',
@@ -6343,8 +6343,8 @@ VALUES
     NOW()
   ),
   (
-    '85ab7b6c-1a84-4608-92a1-1021a474abfa',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '5a1be405-11a4-4762-8882-d292478f4177',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'iso3166-1-alpha2',
     'PL',
@@ -6353,8 +6353,8 @@ VALUES
     NOW()
   ),
   (
-    '1e4e1ac6-4ecf-4ca2-94d6-7756f67b99fa',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '6d771593-ccc3-4b4c-aec8-d3231d9b6f9f',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'iso3166-1-alpha3',
     'POL',
@@ -6363,8 +6363,8 @@ VALUES
     NOW()
   ),
   (
-    '4e6229a0-43e1-4644-80d6-a071ea6a7fd8',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'e9eb7dd0-a1c9-43cf-b528-4eef707e4735',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'iso3166-1-numeric',
     '616',
@@ -6373,8 +6373,8 @@ VALUES
     NOW()
   ),
   (
-    'eb877334-ee75-496d-a132-799ce15308de',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '5c5e2eba-eba5-4e7a-9ad4-060f6b3b97b9',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'un_a3',
     '616',
@@ -6383,8 +6383,8 @@ VALUES
     NOW()
   ),
   (
-    'ead6b0e5-56e7-457c-9fd5-c4142a3171a6',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'fb9d65e9-7cc6-4ad1-8d9e-1f8ca3256fe1',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'world_bank_a2',
     'PL',
@@ -6393,8 +6393,8 @@ VALUES
     NOW()
   ),
   (
-    '1eedfa49-3208-42c7-8022-0a6eeebbb81d',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'fe2d8c89-401a-4bfe-bcd5-d78e72dda6f1',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'world_bank_a3',
     'POL',
@@ -6403,8 +6403,8 @@ VALUES
     NOW()
   ),
   (
-    'b68e987a-a1c1-4ffe-ae5f-6ce489c6798e',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '2bc0284b-1ced-456c-a0d8-09e17a128a9a',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'natural_earth',
     'wikidata',
     'Q36',
@@ -6413,8 +6413,8 @@ VALUES
     NOW()
   ),
   (
-    '48169021-6185-4aa9-ba75-05140464fc4e',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '8d10310b-607e-40ec-b10b-8c0bcd628f8c',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'natural_earth_admin',
     'PHL',
@@ -6423,8 +6423,8 @@ VALUES
     NOW()
   ),
   (
-    '476fbcf7-f524-498c-b1a2-30a50a477105',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'cac4e9b4-0aef-48d4-b920-cc5fb071429e',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'iso3166-1-alpha2',
     'PH',
@@ -6433,8 +6433,8 @@ VALUES
     NOW()
   ),
   (
-    '0c5d6a47-2af3-40d6-823a-2522411bf1fe',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '211414f6-9b63-4cce-a964-9bb4e1b91c97',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'iso3166-1-alpha3',
     'PHL',
@@ -6443,8 +6443,8 @@ VALUES
     NOW()
   ),
   (
-    '934e8e19-c1d3-4f0d-9cba-00ec29296345',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '84120945-037a-4cf0-ae98-b989408a3db9',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'iso3166-1-numeric',
     '608',
@@ -6453,8 +6453,8 @@ VALUES
     NOW()
   ),
   (
-    'bb19969e-ee13-482e-a341-75cae5969239',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '934d6ea6-10af-4b89-ab12-156f882ad80c',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'un_a3',
     '608',
@@ -6463,8 +6463,8 @@ VALUES
     NOW()
   ),
   (
-    '1526afef-6b7b-47f6-8b0b-052c9d8484b2',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '4800ca18-5f5b-495d-95df-13503a80808c',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'world_bank_a2',
     'PH',
@@ -6473,8 +6473,8 @@ VALUES
     NOW()
   ),
   (
-    '7b81bb8d-34f0-4dd0-b6b2-c70e6756569f',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '22fa51b6-fb8a-4418-87bd-421d40f432af',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'world_bank_a3',
     'PHL',
@@ -6483,8 +6483,8 @@ VALUES
     NOW()
   ),
   (
-    '3bd0f2d7-6c97-4f86-9e41-a534800d6f9b',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'e3746993-7630-4742-999e-22b3966d0772',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'natural_earth',
     'wikidata',
     'Q928',
@@ -6493,8 +6493,8 @@ VALUES
     NOW()
   ),
   (
-    'b0ab14cc-25d7-4866-819b-0bd39d065868',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'abb734a8-d0a9-4af1-b469-f0e3756a6e96',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'natural_earth_admin',
     'PER',
@@ -6503,8 +6503,8 @@ VALUES
     NOW()
   ),
   (
-    '4b177740-af89-42e4-8523-5c3d589049b6',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '47e08b71-9aaa-40a9-96c8-ea176b973cf1',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'iso3166-1-alpha2',
     'PE',
@@ -6513,8 +6513,8 @@ VALUES
     NOW()
   ),
   (
-    'eedc7ac6-077b-42a9-b87c-981cdcec030f',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '2e1a326f-8e8a-4531-8e11-d079d4a66f5c',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'iso3166-1-alpha3',
     'PER',
@@ -6523,8 +6523,8 @@ VALUES
     NOW()
   ),
   (
-    '3134a3f0-d866-4ff2-b29b-56ddbff2cadc',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'ad9ef1e6-4dc4-4de4-b3c4-339a3deefeb4',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'iso3166-1-numeric',
     '604',
@@ -6533,8 +6533,8 @@ VALUES
     NOW()
   ),
   (
-    '493df939-c09c-40bc-aa88-34af38d31057',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '022f8d90-f424-448d-b4b5-4339443672bc',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'un_a3',
     '604',
@@ -6543,8 +6543,8 @@ VALUES
     NOW()
   ),
   (
-    '988b4b09-b78d-4fee-9515-aae0fbd3e266',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '368aef0b-8f66-4988-ab56-0c8224a71ca1',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'world_bank_a2',
     'PE',
@@ -6553,8 +6553,8 @@ VALUES
     NOW()
   ),
   (
-    'f016f3a9-53d9-473c-a06b-faa0f6e42fcb',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '81949f1e-a9e4-4291-accf-32cb92b5fb2d',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'world_bank_a3',
     'PER',
@@ -6563,8 +6563,8 @@ VALUES
     NOW()
   ),
   (
-    '01d1ebed-5f62-437e-96cb-e30f7c36a63f',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '98233d4a-4d97-42bc-8896-1f8231970e99',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'natural_earth',
     'wikidata',
     'Q419',
@@ -6573,8 +6573,8 @@ VALUES
     NOW()
   ),
   (
-    '0113708d-ead4-4178-85a7-30d0d68bf9d9',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '0f90a067-6144-4a41-8f78-ba78730bf54c',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'natural_earth_admin',
     'PRY',
@@ -6583,8 +6583,8 @@ VALUES
     NOW()
   ),
   (
-    '06860bee-de39-4ff2-9bf0-fc0ca58a79f4',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '0de41a20-d444-4a74-82fd-5cafe696dc8d',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'iso3166-1-alpha2',
     'PY',
@@ -6593,8 +6593,8 @@ VALUES
     NOW()
   ),
   (
-    '325053bd-0908-4bb7-972e-671d142330ac',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'f00ace49-8fe9-47e0-83ec-29f1af707fda',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRY',
@@ -6603,8 +6603,8 @@ VALUES
     NOW()
   ),
   (
-    '5e64e025-08a6-4298-adc6-7ac509f3609a',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '453ccdc1-5b2b-4e71-8f5f-a1bb9a70b56d',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'iso3166-1-numeric',
     '600',
@@ -6613,8 +6613,8 @@ VALUES
     NOW()
   ),
   (
-    'e0c7a532-5fb0-4e8f-850f-784549210629',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '0436a70b-a149-4ca8-82e1-cbece13ca4e3',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'un_a3',
     '600',
@@ -6623,8 +6623,8 @@ VALUES
     NOW()
   ),
   (
-    'e348cf0d-9abe-4229-9853-1c47582fbde7',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '8aa0e0f4-0c09-4088-b18a-2fd3737c2922',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'world_bank_a2',
     'PY',
@@ -6633,8 +6633,8 @@ VALUES
     NOW()
   ),
   (
-    '42b9defc-c73c-4ca5-887b-045cf096b0ab',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '923f4c93-4b10-4ec4-bcc7-eb70d993a988',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'world_bank_a3',
     'PRY',
@@ -6643,8 +6643,8 @@ VALUES
     NOW()
   ),
   (
-    'fdae7a75-d6b2-454c-8678-1bcf253ad159',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '51f485c9-ed04-4fea-b739-2122c6723a98',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'natural_earth',
     'wikidata',
     'Q733',
@@ -6653,8 +6653,8 @@ VALUES
     NOW()
   ),
   (
-    'b54e20ee-63bc-477e-b068-749313dfc6d8',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '73ff42b1-1ee4-4d40-9c90-e506f6a2fdfe',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'natural_earth_admin',
     'PNG',
@@ -6663,8 +6663,8 @@ VALUES
     NOW()
   ),
   (
-    '247b86ab-5d53-4444-bc65-48638a88ad9b',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '406cc314-ea26-4243-a435-165dbffe6c4c',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'iso3166-1-alpha2',
     'PG',
@@ -6673,8 +6673,8 @@ VALUES
     NOW()
   ),
   (
-    '650cebce-9176-47af-8352-8ea707b42c29',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '9791b92a-a50b-4928-bb1e-bebdad0f373e',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'iso3166-1-alpha3',
     'PNG',
@@ -6683,8 +6683,8 @@ VALUES
     NOW()
   ),
   (
-    '82b86a9f-b81f-4875-817b-9153f7bc6428',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '05c24c6a-079f-403f-84a3-0bc8b00ace65',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'iso3166-1-numeric',
     '598',
@@ -6693,8 +6693,8 @@ VALUES
     NOW()
   ),
   (
-    'a6c75a0b-ce8d-4585-baf7-31ec5d124b56',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'e177f735-26df-4699-a6d7-3355a34d4a49',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'un_a3',
     '598',
@@ -6703,8 +6703,8 @@ VALUES
     NOW()
   ),
   (
-    '3846a29f-deb5-4e16-914b-ec858df7e938',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '9ebcba44-c804-4db9-8fcf-6f46fe09c896',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'world_bank_a2',
     'PG',
@@ -6713,8 +6713,8 @@ VALUES
     NOW()
   ),
   (
-    'e9a8b822-7e9a-44de-896d-f982f763b830',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '7b6bfaaf-e41f-4ad5-931a-5cc5fcd480c5',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'world_bank_a3',
     'PNG',
@@ -6723,8 +6723,8 @@ VALUES
     NOW()
   ),
   (
-    'ce748440-3885-4931-9f09-f030b397e315',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'b4f91058-dd46-41ff-8322-e95a931261a7',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'natural_earth',
     'wikidata',
     'Q691',
@@ -6733,8 +6733,8 @@ VALUES
     NOW()
   ),
   (
-    '35facb7c-6d21-4c5b-a5d3-dfeafb7cfdc6',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '0873b52a-5506-4ba3-b0ea-a2dd786ccf59',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'natural_earth_admin',
     'PAN',
@@ -6743,8 +6743,8 @@ VALUES
     NOW()
   ),
   (
-    '415bb3d6-e3a6-4a0d-93bf-f62713309896',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '014c272a-64ac-47b9-9bb4-243bb0d17bab',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'iso3166-1-alpha2',
     'PA',
@@ -6753,8 +6753,8 @@ VALUES
     NOW()
   ),
   (
-    'a4159f44-22a3-482d-879f-a5b35d65cef4',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '372feaa5-00b8-459c-af0e-15631890586d',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'iso3166-1-alpha3',
     'PAN',
@@ -6763,8 +6763,8 @@ VALUES
     NOW()
   ),
   (
-    '835d1d96-ceed-4dbd-94a5-01bbc3b5f4e7',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'c9550e4c-7714-4c2d-bcd1-fe5b5e43a6c4',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'iso3166-1-numeric',
     '591',
@@ -6773,8 +6773,8 @@ VALUES
     NOW()
   ),
   (
-    '82203659-f834-4f40-bcd3-95a008a599eb',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'a7c0cb56-5ffd-4499-af9e-05f128bebd4f',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'un_a3',
     '591',
@@ -6783,8 +6783,8 @@ VALUES
     NOW()
   ),
   (
-    '7b4693bc-175d-4dcc-8a4a-fcfd33a49363',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '9c324491-6cf4-4d52-8ae6-45055927d72a',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'world_bank_a2',
     'PA',
@@ -6793,8 +6793,8 @@ VALUES
     NOW()
   ),
   (
-    'be10c8ad-9628-47f9-b108-077daa59ea2f',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '1d49fead-f6e2-47d8-9d6b-36f377105f65',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'world_bank_a3',
     'PAN',
@@ -6803,8 +6803,8 @@ VALUES
     NOW()
   ),
   (
-    '5c1cd912-9665-45e8-9aee-768190f22cb9',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '50c62312-f333-4125-97fd-fe4931a39f7b',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'natural_earth',
     'wikidata',
     'Q804',
@@ -6813,8 +6813,8 @@ VALUES
     NOW()
   ),
   (
-    'c2380db4-92fd-4c1d-9b1a-d6cc4713fdd1',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'f144d455-5f62-488e-8c2f-578f098e268a',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'natural_earth_admin',
     'PLW',
@@ -6823,8 +6823,8 @@ VALUES
     NOW()
   ),
   (
-    '549365fb-cd51-4462-a0a6-196e9c155d10',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '39728683-e4c6-452e-95d4-b1b931663476',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'iso3166-1-alpha2',
     'PW',
@@ -6833,8 +6833,8 @@ VALUES
     NOW()
   ),
   (
-    'a68e6c05-b981-4ad6-86e8-51ee6f7ed11d',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '8dcb6ac9-ab4b-4273-8c6d-bafe870a7f10',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'iso3166-1-alpha3',
     'PLW',
@@ -6843,8 +6843,8 @@ VALUES
     NOW()
   ),
   (
-    '01c5bc82-a2b0-4724-9a30-76ffafae7d74',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'd9669ba3-ad37-48e1-94d8-c949e9271d99',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'iso3166-1-numeric',
     '585',
@@ -6853,8 +6853,8 @@ VALUES
     NOW()
   ),
   (
-    'fa16b206-ab86-46c3-aff9-226a3357ba67',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '7f047a6f-46b8-4344-9327-d2bb91b07739',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'un_a3',
     '585',
@@ -6863,8 +6863,8 @@ VALUES
     NOW()
   ),
   (
-    'c4937c78-d40b-4303-8102-0979cb82d47a',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '4641ee4e-0a98-432f-a6c7-f39b70a79c59',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'world_bank_a2',
     'PW',
@@ -6873,8 +6873,8 @@ VALUES
     NOW()
   ),
   (
-    '7b455d8c-5f0d-48e8-b2d2-fb707af6951f',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'f2be1cc8-16e1-47f3-81d4-441f9b59f917',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'world_bank_a3',
     'PLW',
@@ -6883,8 +6883,8 @@ VALUES
     NOW()
   ),
   (
-    '33ded222-7478-42db-830e-168afd201e86',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'be14afb2-8985-4fda-81c0-3444a10ade2a',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'natural_earth',
     'wikidata',
     'Q695',
@@ -6893,8 +6893,8 @@ VALUES
     NOW()
   ),
   (
-    '2398de5c-109f-49b0-8cf6-a68cdf6627e2',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'dc97618c-a3e2-4bfb-8eb1-ae09e0f60547',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'natural_earth_admin',
     'PAK',
@@ -6903,8 +6903,8 @@ VALUES
     NOW()
   ),
   (
-    '5c54a76a-d128-4c41-9153-1bf5e7c7b5d5',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '0f56740c-e9fa-4668-ba8f-4eadecedf9fb',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'iso3166-1-alpha2',
     'PK',
@@ -6913,8 +6913,8 @@ VALUES
     NOW()
   ),
   (
-    'ecedb916-2f9a-4f46-a116-28c67ced855d',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '98e8b924-ad08-43b1-b510-214dfbb9e341',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'iso3166-1-alpha3',
     'PAK',
@@ -6923,8 +6923,8 @@ VALUES
     NOW()
   ),
   (
-    '1ab79725-8e29-4aaf-a797-99f46f0ecfa0',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '588ddd2c-7028-459c-abdc-161d79229cfe',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'iso3166-1-numeric',
     '586',
@@ -6933,8 +6933,8 @@ VALUES
     NOW()
   ),
   (
-    '8b164a9a-8be2-4c0f-8e33-2527ae03458b',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '74e947a8-4f63-43c2-a6b5-a1c275c8e9d9',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'un_a3',
     '586',
@@ -6943,8 +6943,8 @@ VALUES
     NOW()
   ),
   (
-    'beea3e08-ecb3-4ff9-9f9c-2a95d7ecc847',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'b54a7f27-d40a-407d-91c4-60aa1fc6569c',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'world_bank_a2',
     'PK',
@@ -6953,8 +6953,8 @@ VALUES
     NOW()
   ),
   (
-    'da1d1cd0-793b-4c44-8cd1-1762ee659c5e',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'fe9d9084-83d1-4680-84da-b5b423e38cd9',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'world_bank_a3',
     'PAK',
@@ -6963,8 +6963,8 @@ VALUES
     NOW()
   ),
   (
-    'df81d182-7551-45d0-9ef1-add734f3e582',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'e587cad6-49a6-4923-aec0-0b062111151e',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'natural_earth',
     'wikidata',
     'Q843',
@@ -6973,8 +6973,8 @@ VALUES
     NOW()
   ),
   (
-    '796d6e3b-e6bf-4df2-9188-eb79c0f65718',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '94cb137a-a11c-49a1-81e4-acccfc4e1dd5',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'natural_earth_admin',
     'OMN',
@@ -6983,8 +6983,8 @@ VALUES
     NOW()
   ),
   (
-    'd22c8f8c-6a9e-48ec-9917-e876080a5b63',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '326b0f08-2d75-4825-8b84-c01346d1d655',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'iso3166-1-alpha2',
     'OM',
@@ -6993,8 +6993,8 @@ VALUES
     NOW()
   ),
   (
-    'da4a8375-22ec-4e58-9f41-2311c759ebd4',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '497be5d6-ce91-4cfd-9536-c88de1d742c5',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'iso3166-1-alpha3',
     'OMN',
@@ -7003,8 +7003,8 @@ VALUES
     NOW()
   ),
   (
-    '231c161b-d7ed-40bd-ad8c-6873154c87e1',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'ebd0d140-6966-4fa1-8dec-5e781bb28e6a',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'iso3166-1-numeric',
     '512',
@@ -7013,8 +7013,8 @@ VALUES
     NOW()
   ),
   (
-    '19b73f6a-e180-4473-a6f8-2014e3512c89',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'e62ac5c0-6268-4ad5-9979-771cc630c7f9',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'un_a3',
     '512',
@@ -7023,8 +7023,8 @@ VALUES
     NOW()
   ),
   (
-    '3a749fc4-1a00-4f1c-967d-c86b939d9865',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'dc2dea47-7fd2-4d88-985a-12d68e113695',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'world_bank_a2',
     'OM',
@@ -7033,8 +7033,8 @@ VALUES
     NOW()
   ),
   (
-    '98a835c4-6594-4f2b-800f-178c1fbf0928',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'b503c0fb-646f-429b-b098-4efd05647b6d',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'world_bank_a3',
     'OMN',
@@ -7043,8 +7043,8 @@ VALUES
     NOW()
   ),
   (
-    '8880e873-737f-4b43-952e-ceba3296651e',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'aedf6024-e887-449f-8e94-38dee66c1b4e',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'natural_earth',
     'wikidata',
     'Q842',
@@ -7053,8 +7053,8 @@ VALUES
     NOW()
   ),
   (
-    'a16e168b-1b62-4b34-815a-1cfc3159f15c',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '56f4b457-1fac-4c1d-b9b2-7c5637ea8371',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'natural_earth_admin',
     'NOR',
@@ -7063,8 +7063,8 @@ VALUES
     NOW()
   ),
   (
-    'a46d94a4-8117-4af3-b418-7042c90fb886',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '0047a5a4-a281-477f-9c23-5c6041207e53',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -7073,8 +7073,8 @@ VALUES
     NOW()
   ),
   (
-    'abbf735c-3c53-4783-b595-ef0de61aecc2',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'eb5c712c-24b8-42ea-92b2-cf3384659a42',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -7083,8 +7083,8 @@ VALUES
     NOW()
   ),
   (
-    'd0c520a4-72c7-4dbf-a13a-4ba2f89f5d71',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '2b09a27e-f007-4e03-928e-70efc37ca845',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -7093,8 +7093,8 @@ VALUES
     NOW()
   ),
   (
-    '9db20cbc-deba-4b46-8450-494d2b6f6440',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '9ce0596b-7aaf-4eb2-be32-315994b1d8ef',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'un_a3',
     '-99',
@@ -7103,8 +7103,8 @@ VALUES
     NOW()
   ),
   (
-    '1cc37695-e41b-43e1-b2a5-fcc7d81da21b',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '8de378f4-19f8-4ffa-9138-cd244d10abf7',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -7113,8 +7113,8 @@ VALUES
     NOW()
   ),
   (
-    'a367dce8-b21f-456a-a62b-794868d7e629',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'dcb2e37c-d3f9-4aa2-b46c-42259e7676a3',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -7123,8 +7123,8 @@ VALUES
     NOW()
   ),
   (
-    '33ed7136-8b87-473d-8ecf-032f5d9b52c4',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '669c50c7-d29f-4005-8217-ef81a31937dd',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'natural_earth',
     'wikidata',
     'Q20',
@@ -7133,8 +7133,8 @@ VALUES
     NOW()
   ),
   (
-    '38220f00-19de-488c-ae7c-3e0a03f48ea2',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'd3630442-40e7-44a5-8e42-12c13742d762',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'natural_earth_admin',
     'PRK',
@@ -7143,8 +7143,8 @@ VALUES
     NOW()
   ),
   (
-    'fdb68913-45c8-4b7c-9f01-8e4cdc6d1af9',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '5f8a72d6-2313-4cbf-9d00-1f1d7532f549',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'iso3166-1-alpha2',
     'KP',
@@ -7153,8 +7153,8 @@ VALUES
     NOW()
   ),
   (
-    'f8811e35-0e14-43f4-a9e2-70cf4e80bfae',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'efd2a6ea-5016-48cd-a474-23dad1a931ca',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'iso3166-1-alpha3',
     'PRK',
@@ -7163,8 +7163,8 @@ VALUES
     NOW()
   ),
   (
-    '760ce218-07ab-4454-841e-d1a6b939b90d',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '23beb796-aba2-4884-94fb-17c37f41f173',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'iso3166-1-numeric',
     '408',
@@ -7173,8 +7173,8 @@ VALUES
     NOW()
   ),
   (
-    '1d5ee0ce-0276-4fc7-92d0-02e6169c3446',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '92e5b97c-b53d-4e9d-8e81-0ad8ff4e7185',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'un_a3',
     '408',
@@ -7183,8 +7183,8 @@ VALUES
     NOW()
   ),
   (
-    'a59cd146-eb24-4dae-b44d-4f74bbb47581',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'ded463fa-9b74-4160-a777-650dfe5251ca',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'world_bank_a2',
     'KP',
@@ -7193,8 +7193,8 @@ VALUES
     NOW()
   ),
   (
-    'b5f85abc-7f9a-4b9d-8f41-1bd3321c3d54',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'b39a70ef-0ebb-4f7c-93ce-655c75bb6264',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'world_bank_a3',
     'PRK',
@@ -7203,8 +7203,8 @@ VALUES
     NOW()
   ),
   (
-    '841dd723-ee89-4e25-8519-5b6ae70ac805',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'b9f81306-770f-45a5-9164-e3f2f048465d',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'natural_earth',
     'wikidata',
     'Q423',
@@ -7213,8 +7213,8 @@ VALUES
     NOW()
   ),
   (
-    'a1bb3bb8-961b-4a0d-9136-eaae29793c6e',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '3a0284fa-3b78-479b-bff4-d6231a8ebec9',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'natural_earth_admin',
     'NGA',
@@ -7223,8 +7223,8 @@ VALUES
     NOW()
   ),
   (
-    '3c46b6df-0363-427c-9d04-1d75bff6da44',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'a3c4df00-273d-4c67-9bb4-b15506ceb160',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'iso3166-1-alpha2',
     'NG',
@@ -7233,8 +7233,8 @@ VALUES
     NOW()
   ),
   (
-    'c3216c78-67c9-4b4a-aa7f-6399d630d7fb',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'c0f0d1dc-bacd-4fd4-be3e-d23a5fdd69ec',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'iso3166-1-alpha3',
     'NGA',
@@ -7243,8 +7243,8 @@ VALUES
     NOW()
   ),
   (
-    '0768c227-c608-4177-a9ab-a528586dbded',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'b0b1d7b0-95dd-4ab1-bfa1-b426db0d7fe5',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'iso3166-1-numeric',
     '566',
@@ -7253,8 +7253,8 @@ VALUES
     NOW()
   ),
   (
-    'f3f8eb1e-6e88-4199-8fbc-39c2b446a3cd',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '5dc423ac-d79a-4c81-8b7a-f1d308c9c982',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'un_a3',
     '566',
@@ -7263,8 +7263,8 @@ VALUES
     NOW()
   ),
   (
-    'bfa632b9-f592-4bd1-894d-790cad838b50',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'fe4a58e3-903c-4ebe-86a6-cb94eac7483b',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'world_bank_a2',
     'NG',
@@ -7273,8 +7273,8 @@ VALUES
     NOW()
   ),
   (
-    '88521537-933c-4169-a7e3-bfa73f31b6ae',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'a7e6265c-1219-41c0-b0a6-670e719fd727',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'world_bank_a3',
     'NGA',
@@ -7283,8 +7283,8 @@ VALUES
     NOW()
   ),
   (
-    '6b3b87d9-da65-443a-9907-38032164cbbc',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'aba613f2-a199-47c5-865a-7ec5bfd8878d',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'natural_earth',
     'wikidata',
     'Q1033',
@@ -7293,8 +7293,8 @@ VALUES
     NOW()
   ),
   (
-    'd2da0bdb-3d1d-4d38-8ed8-bd265380919a',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '63c6587e-ffc9-4269-baec-46865e819811',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'natural_earth_admin',
     'NER',
@@ -7303,8 +7303,8 @@ VALUES
     NOW()
   ),
   (
-    '70b03776-5be3-4c1d-b7de-e535cd561ec4',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '41855a68-56f7-4865-9a5c-e0cc2d762df2',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'iso3166-1-alpha2',
     'NE',
@@ -7313,8 +7313,8 @@ VALUES
     NOW()
   ),
   (
-    '7dda9ae3-cd91-4c61-bd29-439dd3e494e0',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'd6ca4834-b431-43c8-93ea-8533ed3ad2bc',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'iso3166-1-alpha3',
     'NER',
@@ -7323,8 +7323,8 @@ VALUES
     NOW()
   ),
   (
-    '0a101426-6c25-46aa-a8e2-ae8beaf8bac5',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '36747694-20e5-408a-8c34-4019d9676313',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'iso3166-1-numeric',
     '562',
@@ -7333,8 +7333,8 @@ VALUES
     NOW()
   ),
   (
-    '9ddef444-8305-4742-a73b-d9391e3aad97',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '4e884a78-e215-436b-9a8c-168234e569b8',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'un_a3',
     '562',
@@ -7343,8 +7343,8 @@ VALUES
     NOW()
   ),
   (
-    '580f7944-e584-4925-a191-fe8ca1527bf3',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'aff83799-e82d-4244-b3b1-d562e0524eaa',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'world_bank_a2',
     'NE',
@@ -7353,8 +7353,8 @@ VALUES
     NOW()
   ),
   (
-    '8d9e8099-887e-42c0-9e08-ddbdf1484881',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '80e745cf-a18e-4433-ba50-6ed9be6da642',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'world_bank_a3',
     'NER',
@@ -7363,8 +7363,8 @@ VALUES
     NOW()
   ),
   (
-    '2dd9a189-0c3f-410d-80aa-25b2cc4f9f24',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '6fb7918e-9e2b-4854-8c57-90ef751d38f5',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'natural_earth',
     'wikidata',
     'Q1032',
@@ -7373,8 +7373,8 @@ VALUES
     NOW()
   ),
   (
-    '5c1e9fda-76ac-4a68-901b-ece5dcc5e75d',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '9062d7c3-a87f-4e28-97fe-6f2ac7acd948',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'natural_earth_admin',
     'NIC',
@@ -7383,8 +7383,8 @@ VALUES
     NOW()
   ),
   (
-    'bf06325c-f63f-4f7d-aeae-f804cfe6004f',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '32df9d54-0136-4d64-b924-b21e80893336',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'iso3166-1-alpha2',
     'NI',
@@ -7393,8 +7393,8 @@ VALUES
     NOW()
   ),
   (
-    'c0692bfd-f295-430a-bc4b-6f6ed10b12a8',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '4eb73424-6699-44db-982c-43e3b9896a8d',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'iso3166-1-alpha3',
     'NIC',
@@ -7403,8 +7403,8 @@ VALUES
     NOW()
   ),
   (
-    'e201a6d8-73a0-4a02-8c6f-b105745b5b0b',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '3b342b76-1426-4264-b57b-5a22e7e16a67',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'iso3166-1-numeric',
     '558',
@@ -7413,8 +7413,8 @@ VALUES
     NOW()
   ),
   (
-    '6dd17199-c656-469c-ba75-cae348e42044',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'dd5135d1-19d2-45c8-bad0-8817cae4db01',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'un_a3',
     '558',
@@ -7423,8 +7423,8 @@ VALUES
     NOW()
   ),
   (
-    '6eea2fb9-671f-4132-848c-065779599050',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '056370e6-7703-4a06-9b34-1208de715393',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'world_bank_a2',
     'NI',
@@ -7433,8 +7433,8 @@ VALUES
     NOW()
   ),
   (
-    '9f3c8f01-65f0-4e7d-9755-33623e440e58',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'e56307a9-71e1-48d1-9c11-35ed197d8079',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'world_bank_a3',
     'NIC',
@@ -7443,8 +7443,8 @@ VALUES
     NOW()
   ),
   (
-    'c96f4a91-2dbb-42a6-a500-5d8b511728c7',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'd9e54801-b72d-491d-8692-0b530fec83fa',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'natural_earth',
     'wikidata',
     'Q811',
@@ -7453,8 +7453,8 @@ VALUES
     NOW()
   ),
   (
-    '106baa88-6c10-445f-99a5-95fc2aa49e79',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'b6569fdb-97f3-4bfb-842e-ed1dbadf9431',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'natural_earth_admin',
     'NZL',
@@ -7463,8 +7463,8 @@ VALUES
     NOW()
   ),
   (
-    'f0d6ae8c-82bb-4063-86b9-c2f711ae18fa',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '502e1f50-0afc-4e4f-943f-fbe9e7c2ee84',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'iso3166-1-alpha2',
     'NZ',
@@ -7473,8 +7473,8 @@ VALUES
     NOW()
   ),
   (
-    '1b8b8d8e-30e1-441e-9991-77bbef6281d5',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'f5225ff8-311f-4aa0-aec5-c86ba2fd01f2',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'iso3166-1-alpha3',
     'NZL',
@@ -7483,8 +7483,8 @@ VALUES
     NOW()
   ),
   (
-    '7df3a2eb-49d4-485b-a531-b3b53aac8ae1',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '6bddacd2-0dfb-41e2-989b-6f37dc7e90c8',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'iso3166-1-numeric',
     '554',
@@ -7493,8 +7493,8 @@ VALUES
     NOW()
   ),
   (
-    'f28659a3-0182-49b7-911a-f5db28b8b8fe',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '73825816-c44d-4a8c-8db4-ff5a9dc93be7',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'un_a3',
     '554',
@@ -7503,8 +7503,8 @@ VALUES
     NOW()
   ),
   (
-    '936bae8f-c784-435c-ae77-33a5d3e51bbb',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '6f8d09c6-fb88-4fdc-87ad-56009f240da1',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'world_bank_a2',
     'NZ',
@@ -7513,8 +7513,8 @@ VALUES
     NOW()
   ),
   (
-    '4843b159-d09a-4829-8e2d-6146e86f7e38',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '8fb1fefd-1e1f-4a45-a11b-869dc42f3cdc',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'world_bank_a3',
     'NZL',
@@ -7523,8 +7523,8 @@ VALUES
     NOW()
   ),
   (
-    'f61b3da5-b7cb-4f2a-87db-3cce3b6eb987',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '13b60b4c-2b24-4e77-aa94-5eb1d83a9a5a',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'natural_earth',
     'wikidata',
     'Q664',
@@ -7533,8 +7533,8 @@ VALUES
     NOW()
   ),
   (
-    '65471690-b11e-4b1d-bd3b-d82236281ba9',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '3f0c7f63-ba55-4fab-afdd-2eed4063ed58',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'natural_earth_admin',
     'NIU',
@@ -7543,8 +7543,8 @@ VALUES
     NOW()
   ),
   (
-    '6486273e-2633-4dfe-ac0e-bfe41d832ff3',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '7b4f7db0-d5e2-4f3b-81cb-39fdb77c2193',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'iso3166-1-alpha2',
     'NU',
@@ -7553,8 +7553,8 @@ VALUES
     NOW()
   ),
   (
-    'ad666761-22e0-41be-aef5-d19950c8184e',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '5f056f05-2727-4d40-aafd-43684790dd78',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'iso3166-1-alpha3',
     'NIU',
@@ -7563,8 +7563,8 @@ VALUES
     NOW()
   ),
   (
-    'cdcc97f3-df4c-4e01-ab0d-a91527d9da8c',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'e2a4d238-154f-410a-a046-bab59b931169',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'iso3166-1-numeric',
     '570',
@@ -7573,8 +7573,8 @@ VALUES
     NOW()
   ),
   (
-    '1949769d-10f6-415c-991e-5e2eeba2dc0e',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '1d099e2d-ba05-42d2-b870-5286ebc95277',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'un_a3',
     '570',
@@ -7583,8 +7583,8 @@ VALUES
     NOW()
   ),
   (
-    'e180fcd2-ad93-47ea-9974-4f43cc03a226',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '5fbf71b2-5d9a-446c-ba4f-8c0e6f0a0624',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -7593,8 +7593,8 @@ VALUES
     NOW()
   ),
   (
-    '7b021fba-c311-4bc3-a83d-a6dbcc5ddfc1',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '6627bd4b-c7c9-4523-8456-80974ceeffba',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -7603,8 +7603,8 @@ VALUES
     NOW()
   ),
   (
-    '80dec019-5b7b-4db9-ae9e-f7052c6681f8',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'fbeb5ee5-0482-4842-b2e3-cb72423b0082',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'natural_earth',
     'wikidata',
     'Q34020',
@@ -7613,8 +7613,8 @@ VALUES
     NOW()
   ),
   (
-    '7f6f9d7c-0cef-4571-bc16-9db38ab3f889',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'ddb9ca5b-ad16-474f-9293-d4a784df33b5',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'natural_earth_admin',
     'COK',
@@ -7623,8 +7623,8 @@ VALUES
     NOW()
   ),
   (
-    '94167a8c-15d4-488a-b73d-162ef30df34f',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'fa5187ac-0aaf-402b-a1b3-6788687f2bad',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'iso3166-1-alpha2',
     'CK',
@@ -7633,8 +7633,8 @@ VALUES
     NOW()
   ),
   (
-    '31af3bc0-7bf2-4da8-9191-0fcde101e10b',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '5005dedc-d6b7-43f2-af5f-768402977ef6',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'iso3166-1-alpha3',
     'COK',
@@ -7643,8 +7643,8 @@ VALUES
     NOW()
   ),
   (
-    'a7b0f4c6-054f-4e15-99b1-201d9426dfd7',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'd8899af3-4968-4d34-8380-c4f12f6cc9e8',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'iso3166-1-numeric',
     '184',
@@ -7653,8 +7653,8 @@ VALUES
     NOW()
   ),
   (
-    'da58ed61-903f-4d20-926d-2f372c118616',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '73eadea2-161b-45d0-be23-daf4e9b92c16',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'un_a3',
     '184',
@@ -7663,8 +7663,8 @@ VALUES
     NOW()
   ),
   (
-    '39c8dcaf-1dd0-4f2a-8c6f-13db4ea0acda',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'f0172352-82ac-4148-8be5-6f0fd05aba3b',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -7673,8 +7673,8 @@ VALUES
     NOW()
   ),
   (
-    '40f7a1cd-45a9-4c45-9d70-7829641e8519',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '2535f14c-bc60-4c3f-93c0-f21203784783',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -7683,8 +7683,8 @@ VALUES
     NOW()
   ),
   (
-    'ef1ec25a-d928-4fdb-bab1-8ffb958f67b1',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '348b7611-4e4b-4c4c-9053-899100aee2b0',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'natural_earth',
     'wikidata',
     'Q26988',
@@ -7693,8 +7693,8 @@ VALUES
     NOW()
   ),
   (
-    '5f4032c2-d16f-49be-b7ed-2b5e3a7f7eea',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'b5254aec-e5a5-4fe6-a379-9efc902d3c25',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'natural_earth_admin',
     'NLD',
@@ -7703,8 +7703,8 @@ VALUES
     NOW()
   ),
   (
-    'bbeeeb8b-8eab-48dd-9d7e-611466589c92',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'b39ee211-d1f2-4c4c-9602-8a9bde9a758f',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'iso3166-1-alpha2',
     'NL',
@@ -7713,8 +7713,8 @@ VALUES
     NOW()
   ),
   (
-    'eac9cc3f-92c7-4e8b-937d-1d8168be23ba',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'd93d0cda-1d2b-4740-9adf-fe13834f9d57',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'iso3166-1-alpha3',
     'NLD',
@@ -7723,8 +7723,8 @@ VALUES
     NOW()
   ),
   (
-    '3fd48585-de61-4cc3-bb81-bcd8c31e67d1',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '55635a58-2f99-4606-a165-07fa5e8899bf',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'iso3166-1-numeric',
     '528',
@@ -7733,8 +7733,8 @@ VALUES
     NOW()
   ),
   (
-    'd457d596-a7e6-4e83-92f6-f49469f5dbbf',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '6d969648-e67b-48c9-9bdb-77b3b5c99b7c',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'un_a3',
     '528',
@@ -7743,8 +7743,8 @@ VALUES
     NOW()
   ),
   (
-    'be5507de-f2c7-4500-9957-9a38ce6f2a7a',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '062eba53-feb3-43f3-bf48-569d45820c49',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'world_bank_a2',
     'NL',
@@ -7753,8 +7753,8 @@ VALUES
     NOW()
   ),
   (
-    '6501fbf4-9767-4d8c-8b5a-e702e5a3eca9',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '4c4abe3e-4d71-476f-a6ad-294ae45e97c3',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'world_bank_a3',
     'NLD',
@@ -7763,8 +7763,8 @@ VALUES
     NOW()
   ),
   (
-    '6d2c742c-3d4c-43c6-a199-c67b1a16c0fb',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'c0aed928-baf6-41e4-a575-f8988e311922',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'natural_earth',
     'wikidata',
     'Q55',
@@ -7773,8 +7773,8 @@ VALUES
     NOW()
   ),
   (
-    '81950841-261e-4a0d-a0ba-3cc521724282',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '226b5b1b-b7aa-47e8-a52a-1b12473cdcf4',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'natural_earth_admin',
     'ABW',
@@ -7783,8 +7783,8 @@ VALUES
     NOW()
   ),
   (
-    '5bc65968-df55-4c48-a448-f3422730c70a',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '6fbbb82e-6434-4eb0-b88d-e94ec57421f1',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'iso3166-1-alpha2',
     'AW',
@@ -7793,8 +7793,8 @@ VALUES
     NOW()
   ),
   (
-    '9d807581-9e20-4bc5-8185-1c93311ee88d',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'b7b4bc20-204f-4316-ad14-3ebab902b9fc',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'iso3166-1-alpha3',
     'ABW',
@@ -7803,8 +7803,8 @@ VALUES
     NOW()
   ),
   (
-    '24569e22-af5c-4841-be63-2f6031bd458c',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '3da105b3-165f-4663-a735-f887549f738e',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'iso3166-1-numeric',
     '533',
@@ -7813,8 +7813,8 @@ VALUES
     NOW()
   ),
   (
-    'bd41be61-f8c6-41d8-9a2f-bfdfdd4db63b',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '322bd323-114f-4f22-8ef9-020470d6555e',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'un_a3',
     '533',
@@ -7823,8 +7823,8 @@ VALUES
     NOW()
   ),
   (
-    '3d67923a-1ddc-43e7-9767-1f4ec24329be',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '7896d28d-496d-40cf-8314-f64b0dbc2ae9',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'world_bank_a2',
     'AW',
@@ -7833,8 +7833,8 @@ VALUES
     NOW()
   ),
   (
-    '9c9c68fe-4588-4486-a9f6-7f20887b08e4',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'd09261a2-90b2-4ff9-81ba-330bbf2f82e4',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'world_bank_a3',
     'ABW',
@@ -7843,8 +7843,8 @@ VALUES
     NOW()
   ),
   (
-    'd35d9e0b-787e-405a-a398-8a201c067122',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '555e6a29-c735-478a-8884-2543afacb6a2',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'natural_earth',
     'wikidata',
     'Q21203',
@@ -7853,8 +7853,8 @@ VALUES
     NOW()
   ),
   (
-    '918150a2-b1f5-4570-b814-fa7282dfc14f',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '68f7918f-484d-4587-abbb-a19796c6fb74',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'natural_earth_admin',
     'CUW',
@@ -7863,8 +7863,8 @@ VALUES
     NOW()
   ),
   (
-    '67323c50-b4d8-4e6a-8cbd-745277dfbae2',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '3dbbb236-d3a1-4a0d-9546-21d1b29cad6e',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'iso3166-1-alpha2',
     'CW',
@@ -7873,8 +7873,8 @@ VALUES
     NOW()
   ),
   (
-    '4ab54aa4-0bcd-426c-8bc3-07beb9abb5ba',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '2e641037-e69d-40ac-8a63-9c83a04516ba',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'iso3166-1-alpha3',
     'CUW',
@@ -7883,8 +7883,8 @@ VALUES
     NOW()
   ),
   (
-    'bce31b84-96fe-4b3a-acca-aed77a9d3c6c',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '73bbf2af-06df-472f-9e15-0dff091b55d1',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'iso3166-1-numeric',
     '531',
@@ -7893,8 +7893,8 @@ VALUES
     NOW()
   ),
   (
-    '75c6fdfa-38f1-45b5-b599-f29e29ad625c',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '4a0d4e42-ee3a-47de-bd12-fcf829059689',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'un_a3',
     '531',
@@ -7903,8 +7903,8 @@ VALUES
     NOW()
   ),
   (
-    '889fb6b2-f1ec-4e9f-ba4d-f7bcf33cceef',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'f81052d1-0b0a-43fc-b652-b029c47d47ca',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'world_bank_a2',
     'CW',
@@ -7913,8 +7913,8 @@ VALUES
     NOW()
   ),
   (
-    'b11af57d-85f9-4bb9-89fb-576695dd3734',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '3b22ced6-1a41-4c9e-9c8e-d50d41708fce',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'world_bank_a3',
     'CUW',
@@ -7923,8 +7923,8 @@ VALUES
     NOW()
   ),
   (
-    '83d37972-3e29-46f4-8b5b-4ec3c8f28d94',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'a67530c9-8737-406d-9588-5a5ba6e7d7c0',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'natural_earth',
     'wikidata',
     'Q25279',
@@ -7933,8 +7933,8 @@ VALUES
     NOW()
   ),
   (
-    'a134be70-fdad-4e5b-b1fc-3b3b16661836',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '1ea5e269-6791-4660-ac1e-18d308cd825a',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'natural_earth_admin',
     'NPL',
@@ -7943,8 +7943,8 @@ VALUES
     NOW()
   ),
   (
-    'a5ec2f39-ea97-43f5-834c-e914fd578bc4',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'a3d143e2-007f-4774-adb1-f50b4302378f',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'iso3166-1-alpha2',
     'NP',
@@ -7953,8 +7953,8 @@ VALUES
     NOW()
   ),
   (
-    '32efaf47-c1ef-46eb-81ed-092d738895f9',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'da28a2e6-1080-4ae3-aa1f-9f3b3d66cca8',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'iso3166-1-alpha3',
     'NPL',
@@ -7963,8 +7963,8 @@ VALUES
     NOW()
   ),
   (
-    '1f763d3f-2289-4ac0-93fd-e1984f5c9ef9',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'ffb3d5cb-7960-4c1c-a802-eccb7ecf4fbb',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'iso3166-1-numeric',
     '524',
@@ -7973,8 +7973,8 @@ VALUES
     NOW()
   ),
   (
-    'd6609565-3cc9-46a9-aad7-a4705afe27ae',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '52a3b2c1-0be1-4ebb-a709-7e7d9c94ea56',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'un_a3',
     '524',
@@ -7983,8 +7983,8 @@ VALUES
     NOW()
   ),
   (
-    '4e8b90cd-be67-46d2-8e7e-704fc17e975d',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'fb87f0fa-0a1f-4dd2-937b-9fd4e9f21865',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'world_bank_a2',
     'NP',
@@ -7993,8 +7993,8 @@ VALUES
     NOW()
   ),
   (
-    '756250e1-4ffa-4cbf-82ea-d130c54ed188',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '11224c0a-038b-4fca-a197-9a549d2361c4',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'world_bank_a3',
     'NPL',
@@ -8003,8 +8003,8 @@ VALUES
     NOW()
   ),
   (
-    'edd3c8e8-2592-4233-aa03-8200077a74bb',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '399277ff-b4d2-4e15-bea9-db8d692160e4',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'natural_earth',
     'wikidata',
     'Q837',
@@ -8013,8 +8013,8 @@ VALUES
     NOW()
   ),
   (
-    '3ea2bc32-94e8-4828-9055-64d199184269',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '70156978-d037-4ea4-b02d-1a099ec1307e',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'natural_earth_admin',
     'NRU',
@@ -8023,8 +8023,8 @@ VALUES
     NOW()
   ),
   (
-    'a1710faa-ce49-4e25-97b2-60bac15d97fa',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '023b0815-95d1-4630-8f3e-6acf1c10c524',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'iso3166-1-alpha2',
     'NR',
@@ -8033,8 +8033,8 @@ VALUES
     NOW()
   ),
   (
-    '0943c472-72fa-487c-ac07-9b54f58aff49',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'a7deb805-4e7b-4896-91ef-591384dbb951',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'iso3166-1-alpha3',
     'NRU',
@@ -8043,8 +8043,8 @@ VALUES
     NOW()
   ),
   (
-    'b320eff2-feeb-433d-9f67-19fed1dd946d',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '0c0d3d1d-a11f-4e15-84ce-8f50ac147b6d',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'iso3166-1-numeric',
     '520',
@@ -8053,8 +8053,8 @@ VALUES
     NOW()
   ),
   (
-    'ee2971c4-4e29-42f0-993b-0129bdcdc574',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '91554e7e-f148-4b11-9aa9-9bae554e11be',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'un_a3',
     '520',
@@ -8063,8 +8063,8 @@ VALUES
     NOW()
   ),
   (
-    '55df34d0-5f39-4650-ae3c-c1315a94daef',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'fdef3f63-5b80-4537-aff7-7f9e821be65c',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -8073,8 +8073,8 @@ VALUES
     NOW()
   ),
   (
-    '4c809124-f3cc-48b9-aa9a-f348db1b8331',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '169966f6-3158-4518-8824-e64a326e0988',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -8083,8 +8083,8 @@ VALUES
     NOW()
   ),
   (
-    '22294a71-6fc5-4be1-957b-a848d1432db5',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '330ce765-70d4-4132-946e-5d1b3af03dae',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'natural_earth',
     'wikidata',
     'Q697',
@@ -8093,8 +8093,8 @@ VALUES
     NOW()
   ),
   (
-    '79c85261-e360-465f-b72f-f0f4031073d4',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '620fa878-87a3-4380-a977-23147d081d19',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'natural_earth_admin',
     'NAM',
@@ -8103,8 +8103,8 @@ VALUES
     NOW()
   ),
   (
-    '532e0f37-4cd8-4c1d-8d25-1c65e0c638c1',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '51c45dfc-2add-414b-8be9-3dc473cbc84e',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'iso3166-1-alpha2',
     'NA',
@@ -8113,8 +8113,8 @@ VALUES
     NOW()
   ),
   (
-    'f650b9a9-9786-4edf-baf3-c7db773283ed',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '4c7c5192-c555-42a3-8600-cfcebb21db54',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'iso3166-1-alpha3',
     'NAM',
@@ -8123,8 +8123,8 @@ VALUES
     NOW()
   ),
   (
-    'da8ce3ca-9b7e-4dc0-a773-8ed147fc8f57',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'e84612d5-f07f-4ccb-9ad9-c9deb556ba40',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'iso3166-1-numeric',
     '516',
@@ -8133,8 +8133,8 @@ VALUES
     NOW()
   ),
   (
-    '0deaebe7-ad84-4215-92c1-0818a004f126',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '3f9f6308-2d6b-4b18-8ce0-95f78186d45c',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'un_a3',
     '516',
@@ -8143,8 +8143,8 @@ VALUES
     NOW()
   ),
   (
-    '77b8ee44-b1a1-420d-b390-93766379a84c',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'a36131bd-3c10-474e-b469-f2df8edf3a95',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'world_bank_a2',
     'NA',
@@ -8153,8 +8153,8 @@ VALUES
     NOW()
   ),
   (
-    'c0c640db-93eb-429d-8592-1df7d9e71ae0',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '587ccc69-f7b1-48e7-9903-7d4a3cbbd791',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'world_bank_a3',
     'NAM',
@@ -8163,8 +8163,8 @@ VALUES
     NOW()
   ),
   (
-    '19a54390-27bc-433a-b72e-71841951b954',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '664b892f-64d4-4665-a058-92670b84ea06',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'natural_earth',
     'wikidata',
     'Q1030',
@@ -8173,8 +8173,8 @@ VALUES
     NOW()
   ),
   (
-    '40368ec8-0a8c-4499-abce-177436135e11',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '92265f38-147b-4ecd-b51b-390e56c5875f',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'natural_earth_admin',
     'MOZ',
@@ -8183,8 +8183,8 @@ VALUES
     NOW()
   ),
   (
-    '4e20a021-da4a-44cb-ad90-aed0d2031cb6',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '1f060ea5-98b6-4349-8b7b-e2b633934d50',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'iso3166-1-alpha2',
     'MZ',
@@ -8193,8 +8193,8 @@ VALUES
     NOW()
   ),
   (
-    'd6e235a7-a924-4b66-a63a-2de5c85ffd3c',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'fa2df730-4cb2-4e5f-a685-b95ea4295085',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'iso3166-1-alpha3',
     'MOZ',
@@ -8203,8 +8203,8 @@ VALUES
     NOW()
   ),
   (
-    '437393df-ae0b-4527-94d2-ac1d33f3808d',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'd7837002-3f1e-41a0-9148-20c74322c985',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'iso3166-1-numeric',
     '508',
@@ -8213,8 +8213,8 @@ VALUES
     NOW()
   ),
   (
-    'cdf37ef0-51e7-4855-83db-14a705c82030',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '4d0704da-4243-4879-b99f-56c055a9b745',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'un_a3',
     '508',
@@ -8223,8 +8223,8 @@ VALUES
     NOW()
   ),
   (
-    '77679fa4-7205-47de-9f9e-384a73a8aa42',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '13915468-c7d7-48e8-8179-4f9753fae4e0',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'world_bank_a2',
     'MZ',
@@ -8233,8 +8233,8 @@ VALUES
     NOW()
   ),
   (
-    '5d3bc01b-9976-4f4b-a715-b862569604a7',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'c01ec12f-d8c7-465b-aff0-5126c88e2445',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'world_bank_a3',
     'MOZ',
@@ -8243,8 +8243,8 @@ VALUES
     NOW()
   ),
   (
-    '9a2f1744-96b8-4144-8c0f-152b9cac16bf',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'e3b09b0b-90d8-418e-b1f9-676ccfedea9f',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'natural_earth',
     'wikidata',
     'Q1029',
@@ -8253,8 +8253,8 @@ VALUES
     NOW()
   ),
   (
-    '2399fe66-ec65-4011-bd74-cb2221440ca9',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '40089360-1241-4eb2-9fc6-be3bdc98d347',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'natural_earth_admin',
     'MAR',
@@ -8263,8 +8263,8 @@ VALUES
     NOW()
   ),
   (
-    '6ae7cfb4-42fd-47cc-b535-730187eb5c7c',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'e850eb0d-e063-46c5-b00e-ef803f1fb5dc',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'iso3166-1-alpha2',
     'MA',
@@ -8273,8 +8273,8 @@ VALUES
     NOW()
   ),
   (
-    '26e46f72-83be-4eb0-afd7-47b72b49ec15',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'cde198ee-527f-451c-b6b3-a4c816dbefd5',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAR',
@@ -8283,8 +8283,8 @@ VALUES
     NOW()
   ),
   (
-    '04bb87dd-02ad-4a51-b33c-81245c5ded81',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '42d4abe2-872f-4b99-b39d-fd8ea5fd18d0',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'iso3166-1-numeric',
     '504',
@@ -8293,8 +8293,8 @@ VALUES
     NOW()
   ),
   (
-    '0c1832e7-aca2-43d1-af1e-4c6c79e4e2fb',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '4095c7e5-75ea-4430-8545-07c3fb20e4e9',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'un_a3',
     '504',
@@ -8303,8 +8303,8 @@ VALUES
     NOW()
   ),
   (
-    'd2755233-2c34-4bab-9c11-58af3380ee07',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'ab72fe91-45ea-41ad-8e96-f3ed58a8c849',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'world_bank_a2',
     'MA',
@@ -8313,8 +8313,8 @@ VALUES
     NOW()
   ),
   (
-    '6e52eaea-c4b3-46f8-b7b0-fe417a25bc7a',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '090b4f9f-8cf5-4b46-87ad-791786811eaa',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'world_bank_a3',
     'MAR',
@@ -8323,8 +8323,8 @@ VALUES
     NOW()
   ),
   (
-    '1df5267e-df37-4db6-a77e-b8f91d3907a9',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'df8e64ba-6765-443d-9c31-b3bac2152753',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'natural_earth',
     'wikidata',
     'Q1028',
@@ -8333,8 +8333,8 @@ VALUES
     NOW()
   ),
   (
-    '9899300f-5e23-4fff-a9c5-53a733a65582',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '506b666e-d7c2-4291-ba5a-87b45bed873d',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'natural_earth_admin',
     'SAH',
@@ -8343,8 +8343,8 @@ VALUES
     NOW()
   ),
   (
-    'd1b55886-7e0d-44d9-a8d4-cdab3f973e35',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '6e8a76d4-4350-4338-85b8-317f9038a8c9',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'iso3166-1-alpha2',
     'EH',
@@ -8353,8 +8353,8 @@ VALUES
     NOW()
   ),
   (
-    'b00ab5e0-02e1-4c87-b0a2-97fbed698a38',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '11e0452d-7fd4-4470-beb8-c3c00277c90a',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'iso3166-1-alpha3',
     'ESH',
@@ -8363,8 +8363,8 @@ VALUES
     NOW()
   ),
   (
-    '1bb51de2-e939-47f2-948e-33340e375cec',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'c8297b83-1379-47a8-ad3c-6033a1c7a74a',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'iso3166-1-numeric',
     '732',
@@ -8373,8 +8373,8 @@ VALUES
     NOW()
   ),
   (
-    'f715d3ed-114e-4bf8-8e87-f5cd7f753d20',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'afd36347-52d4-4426-9d93-05991719730e',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'un_a3',
     '732',
@@ -8383,8 +8383,8 @@ VALUES
     NOW()
   ),
   (
-    'd7500866-1932-4635-98ea-02b202157eb1',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'dda44990-3b69-4a78-80b0-98ea29b7d258',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -8393,8 +8393,8 @@ VALUES
     NOW()
   ),
   (
-    '7918e2b1-d55d-4765-a728-1e58ade88fb8',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '387a9bb3-b9ea-4706-9376-d4baf771382d',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -8403,8 +8403,8 @@ VALUES
     NOW()
   ),
   (
-    '113cd50d-1ac7-4188-b35f-a2c4cb3f6661',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '6ed96ed8-0b4f-45fe-85c3-365439e64ac5',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'natural_earth',
     'wikidata',
     'Q6250',
@@ -8413,8 +8413,8 @@ VALUES
     NOW()
   ),
   (
-    'acee902b-fb99-4ac9-ab30-b18db1796e4d',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '5669b8c1-e3d3-4255-9c23-2ea823b87f55',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'natural_earth_admin',
     'MNE',
@@ -8423,8 +8423,8 @@ VALUES
     NOW()
   ),
   (
-    'fc40488e-82a7-4780-b320-d80e3c11615f',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '1f0b893f-512d-4585-9881-27f2c3a3d20e',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'iso3166-1-alpha2',
     'ME',
@@ -8433,8 +8433,8 @@ VALUES
     NOW()
   ),
   (
-    '178f41ef-46d1-43e8-b1ea-cf2f01fec5dd',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'e707f728-5937-485f-94a7-0bdd8994c182',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNE',
@@ -8443,8 +8443,8 @@ VALUES
     NOW()
   ),
   (
-    '6ba57550-263e-4c1d-9de5-b26b6be60b0a',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '06c1a5a4-fce7-4b4b-a6a0-7cc75cc949f5',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'iso3166-1-numeric',
     '499',
@@ -8453,8 +8453,8 @@ VALUES
     NOW()
   ),
   (
-    '45426c1d-5780-4018-95c5-afac0d1b7fb3',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '3ea70435-add9-40fb-8442-df89b2f3383a',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'un_a3',
     '499',
@@ -8463,8 +8463,8 @@ VALUES
     NOW()
   ),
   (
-    '6feace6c-11c6-4a34-afe0-fab82684209d',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'a8d11eb2-aaac-4151-80b6-ab03ee50fdc9',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'world_bank_a2',
     'ME',
@@ -8473,8 +8473,8 @@ VALUES
     NOW()
   ),
   (
-    '392d6336-2dae-4172-8720-f4467609236a',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '6c16510c-89e7-4dc1-8bbe-01f3ac7eb756',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'world_bank_a3',
     'MNE',
@@ -8483,8 +8483,8 @@ VALUES
     NOW()
   ),
   (
-    '68c25523-dcc6-4310-8bb7-81efaaea9511',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'ed48a456-00cc-4e23-a19d-78ffebb06376',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'natural_earth',
     'wikidata',
     'Q236',
@@ -8493,8 +8493,8 @@ VALUES
     NOW()
   ),
   (
-    'fdcd4c87-ea3a-4ace-8df8-d845f0196a73',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'e5762b75-ff0b-4cf4-9c7d-d50d10fb962f',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'natural_earth_admin',
     'MNG',
@@ -8503,8 +8503,8 @@ VALUES
     NOW()
   ),
   (
-    'e7be441a-d030-4c0f-9e51-9201bd65e0f0',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '719bd541-ba6c-4e40-8d20-dd243240e0f4',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'iso3166-1-alpha2',
     'MN',
@@ -8513,8 +8513,8 @@ VALUES
     NOW()
   ),
   (
-    '422a57bc-4883-4377-bd2b-4cc968159106',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'afd5b989-3856-453f-9b17-2a18a4720ea3',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'iso3166-1-alpha3',
     'MNG',
@@ -8523,8 +8523,8 @@ VALUES
     NOW()
   ),
   (
-    '2b1592d6-78c6-4f7e-af9f-f318e41d48ae',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '5a1172bf-13c2-4325-83fb-413ccbbbeee2',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'iso3166-1-numeric',
     '496',
@@ -8533,8 +8533,8 @@ VALUES
     NOW()
   ),
   (
-    '1c534535-8b31-4076-9632-a4b2f88cd401',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'f99395e1-33fc-484f-90d5-21df0856d0ce',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'un_a3',
     '496',
@@ -8543,8 +8543,8 @@ VALUES
     NOW()
   ),
   (
-    'f1901468-136b-446f-a829-37d050e1e8f7',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '80ea2d28-4663-479d-b748-23bf35d9f66f',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'world_bank_a2',
     'MN',
@@ -8553,8 +8553,8 @@ VALUES
     NOW()
   ),
   (
-    'b15669f7-43de-4bf1-bbd3-a977bf2e7de2',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '00c7c9bc-9588-40e0-9d22-952276d07f6f',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'world_bank_a3',
     'MNG',
@@ -8563,8 +8563,8 @@ VALUES
     NOW()
   ),
   (
-    'fa019f33-cbf1-4261-bfa9-b1c8647d8255',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '9d8dad7f-8640-4445-aa32-39133a34fe4f',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'natural_earth',
     'wikidata',
     'Q711',
@@ -8573,8 +8573,8 @@ VALUES
     NOW()
   ),
   (
-    'c918435f-c9e6-493e-8a5f-cf8598039a42',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '46f52212-18c9-44a0-aea3-804c73b291a8',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'natural_earth_admin',
     'MDA',
@@ -8583,8 +8583,8 @@ VALUES
     NOW()
   ),
   (
-    'd971e016-1619-4c30-b4d8-6ed8b2821677',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '994d597c-df3b-4983-9ab0-2e16d8d0ab2a',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'iso3166-1-alpha2',
     'MD',
@@ -8593,8 +8593,8 @@ VALUES
     NOW()
   ),
   (
-    '0bfc36d6-aa01-47ac-812f-d0540aa78dbe',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '5e67c66c-81b9-4759-aef9-c23b5f1a24c6',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDA',
@@ -8603,8 +8603,8 @@ VALUES
     NOW()
   ),
   (
-    '79a18a07-d59d-42c3-a44c-31ac16577ce8',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'e759f6eb-2499-4f96-a194-ba0c58fcef43',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'iso3166-1-numeric',
     '498',
@@ -8613,8 +8613,8 @@ VALUES
     NOW()
   ),
   (
-    '94b74577-44e2-42db-96ba-cd8c9c1c2e1a',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'f4c23a8d-a5e6-4c32-890f-3b1732d9e4b2',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'un_a3',
     '498',
@@ -8623,8 +8623,8 @@ VALUES
     NOW()
   ),
   (
-    'a493c7a2-2430-42f4-8871-1ca0df964bb4',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'b725441e-cc9a-485c-a5f4-e3597422e3bd',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'world_bank_a2',
     'MD',
@@ -8633,8 +8633,8 @@ VALUES
     NOW()
   ),
   (
-    'be3bf4a2-95a9-4273-b7e3-216b619d9b82',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '3f4e9643-d646-45e0-bd6c-7f36188c29b4',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'world_bank_a3',
     'MDA',
@@ -8643,8 +8643,8 @@ VALUES
     NOW()
   ),
   (
-    'd9507630-38ba-4c9e-b47f-67196e12f8e6',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '65e68b4b-7d7e-4e2d-8663-8ba7348621e8',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'natural_earth',
     'wikidata',
     'Q217',
@@ -8653,8 +8653,8 @@ VALUES
     NOW()
   ),
   (
-    '2209f3b4-cb69-4031-b6f2-3927e834f7aa',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'e05d1ca8-027b-461c-b70e-c6822c6d3227',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'natural_earth_admin',
     'MCO',
@@ -8663,8 +8663,8 @@ VALUES
     NOW()
   ),
   (
-    'df4394b3-0529-4ca6-9c3b-0589bfc507fc',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '3941a406-6da7-4610-b87e-ec1ca9cd3411',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'iso3166-1-alpha2',
     'MC',
@@ -8673,8 +8673,8 @@ VALUES
     NOW()
   ),
   (
-    '77745bad-4f1f-4441-ac28-d72d4f6fb79d',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '5f1a1f6e-d0d1-4bdc-b057-880e596a20bd',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'iso3166-1-alpha3',
     'MCO',
@@ -8683,8 +8683,8 @@ VALUES
     NOW()
   ),
   (
-    'd87386a8-1155-43f2-8bc5-bb1133f4ce1e',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'de23b6e8-500c-43cb-b9c1-7d79bbde69f7',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'iso3166-1-numeric',
     '492',
@@ -8693,8 +8693,8 @@ VALUES
     NOW()
   ),
   (
-    '7fb4144c-6b9e-4b7d-a3c2-0487c28535e7',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '0ce070c3-dd33-49e0-b856-bb40cf079c98',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'un_a3',
     '492',
@@ -8703,8 +8703,8 @@ VALUES
     NOW()
   ),
   (
-    '02375aad-4e6e-416c-a217-87b1a7025423',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '0502b6b7-645e-4396-9005-622bca414042',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'world_bank_a2',
     'MC',
@@ -8713,8 +8713,8 @@ VALUES
     NOW()
   ),
   (
-    'c69538b8-bd8f-47e5-9dab-b5ec355b15c6',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'a810e84f-36ef-45ea-adee-bae985181203',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'world_bank_a3',
     'MCO',
@@ -8723,8 +8723,8 @@ VALUES
     NOW()
   ),
   (
-    '9ac580d8-0f41-4ab7-abcf-28dad510e72b',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'c5fcc787-4c08-4d5a-a04c-bf568eb31c33',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'natural_earth',
     'wikidata',
     'Q235',
@@ -8733,8 +8733,8 @@ VALUES
     NOW()
   ),
   (
-    '3951e57e-ade2-4ceb-8c9c-a9eb4c09a98a',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'e0523601-5b9a-46c4-ae66-8000974598e8',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'natural_earth_admin',
     'MEX',
@@ -8743,8 +8743,8 @@ VALUES
     NOW()
   ),
   (
-    '511eb22a-a91a-40cd-97ca-4ed6e1d07020',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '6e8dd726-d46a-4ab5-b2d7-8c5d81ceeb5c',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'iso3166-1-alpha2',
     'MX',
@@ -8753,8 +8753,8 @@ VALUES
     NOW()
   ),
   (
-    'd69f56b4-3a35-41ab-ba97-950c9af65ffc',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '31aaf73c-fddd-4b38-acb6-fd1a1df78a8a',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'iso3166-1-alpha3',
     'MEX',
@@ -8763,8 +8763,8 @@ VALUES
     NOW()
   ),
   (
-    '15d888e0-de85-4f0a-a435-b2647d04b069',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '3a6fd2a1-edd6-41a5-a7c8-084a6098631f',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'iso3166-1-numeric',
     '484',
@@ -8773,8 +8773,8 @@ VALUES
     NOW()
   ),
   (
-    'b3432785-1002-4e21-b9aa-39b59a944edf',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '8f554df8-e49c-4983-b3ce-fa43dde48797',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'un_a3',
     '484',
@@ -8783,8 +8783,8 @@ VALUES
     NOW()
   ),
   (
-    'f265585b-b247-45bf-9bcc-0ec8df7a4956',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '3e2eedbf-6f1d-479b-b8c5-5119ee2ad9ff',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'world_bank_a2',
     'MX',
@@ -8793,8 +8793,8 @@ VALUES
     NOW()
   ),
   (
-    'c71eabac-61d7-48aa-81e1-087f3fb88763',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'da9be030-92f7-470d-9de6-d91a11b4919a',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'world_bank_a3',
     'MEX',
@@ -8803,8 +8803,8 @@ VALUES
     NOW()
   ),
   (
-    '281394ed-d969-4c1d-81ac-dd8cea6839d3',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '2b1ff760-846d-422a-9ae5-5638a0a93de1',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'natural_earth',
     'wikidata',
     'Q96',
@@ -8813,8 +8813,8 @@ VALUES
     NOW()
   ),
   (
-    '748c984b-d537-4c3f-8a07-7c6c3e06546b',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'a143cf6b-cb72-42fd-b260-04d96c01b058',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'natural_earth_admin',
     'MUS',
@@ -8823,8 +8823,8 @@ VALUES
     NOW()
   ),
   (
-    '69087457-f7d9-44dd-afd2-ce213366177b',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '1b5be5d1-4805-466f-8001-3965f4c13c36',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'iso3166-1-alpha2',
     'MU',
@@ -8833,8 +8833,8 @@ VALUES
     NOW()
   ),
   (
-    '55d6c7f8-98cc-4da0-b71c-db45f4303699',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'cc34eecd-7455-48f5-b260-8c68e09dacb3',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'iso3166-1-alpha3',
     'MUS',
@@ -8843,8 +8843,8 @@ VALUES
     NOW()
   ),
   (
-    '7258b827-4985-4a13-829b-15eccd2bc231',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'f2cb7a5c-1dc7-4a34-bcaf-f664edc8aaa4',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'iso3166-1-numeric',
     '480',
@@ -8853,8 +8853,8 @@ VALUES
     NOW()
   ),
   (
-    '1854675a-aebe-4111-ba11-9262cde3aae1',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '60efc1d9-087f-41a2-a25c-92d03abb7f16',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'un_a3',
     '480',
@@ -8863,8 +8863,8 @@ VALUES
     NOW()
   ),
   (
-    'caf5a851-dc24-422a-b4b7-ecc9fe3e7182',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'def21d78-0857-4f5f-ab92-8537e8949fe2',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'world_bank_a2',
     'MU',
@@ -8873,8 +8873,8 @@ VALUES
     NOW()
   ),
   (
-    '33551a1d-8df1-4d72-9776-97774ae8f63d',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '942a62b7-0401-4486-a4b6-070f32b7beda',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'world_bank_a3',
     'MUS',
@@ -8883,8 +8883,8 @@ VALUES
     NOW()
   ),
   (
-    '04e019a0-132f-4f29-80b9-51e5cfae0592',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '2c3b703b-5151-47c2-921a-15ae3b99430c',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'natural_earth',
     'wikidata',
     'Q1027',
@@ -8893,8 +8893,8 @@ VALUES
     NOW()
   ),
   (
-    'cedde99c-1b6e-43e5-ba2f-a1fe998138fd',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '88d4d47c-cf10-4fb7-adbd-e6a70b44936c',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'natural_earth_admin',
     'MRT',
@@ -8903,8 +8903,8 @@ VALUES
     NOW()
   ),
   (
-    'b42a72b1-60d4-4cb4-bc97-a92b7c8a6296',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '6cdf99ea-a6a0-4401-8b4f-4d414ea668e8',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'iso3166-1-alpha2',
     'MR',
@@ -8913,8 +8913,8 @@ VALUES
     NOW()
   ),
   (
-    'ca90bded-febf-4abb-9946-15a974d228ec',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '2f390f52-6067-4f1c-9ecb-474830c5a406',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'iso3166-1-alpha3',
     'MRT',
@@ -8923,8 +8923,8 @@ VALUES
     NOW()
   ),
   (
-    'cc73b664-c1cf-451f-a8b4-3edb1de2b2ef',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    'aa85f396-f4c0-4b27-b352-bd4f9d7cae00',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'iso3166-1-numeric',
     '478',
@@ -8933,8 +8933,8 @@ VALUES
     NOW()
   ),
   (
-    'e7f1dbe8-4019-4dca-87f6-31741154934a',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '7cba3491-2daf-4c68-9e8f-e67cbd055304',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'un_a3',
     '478',
@@ -8943,8 +8943,8 @@ VALUES
     NOW()
   ),
   (
-    '4791735c-0d3b-44c9-881b-5ce6cb79a56d',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '0dffddad-349a-4a79-ba83-6165f1ddc0b1',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'world_bank_a2',
     'MR',
@@ -8953,8 +8953,8 @@ VALUES
     NOW()
   ),
   (
-    '437d257d-16f2-4c3a-8c1d-b890075bf322',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '89a81a79-0422-4315-a7b9-5b767cd8ad71',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'world_bank_a3',
     'MRT',
@@ -8963,8 +8963,8 @@ VALUES
     NOW()
   ),
   (
-    'bd68e4b0-fa19-4b9a-a4dc-5b0e5a9c05d2',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    'ff025b16-9e75-4fd0-9af7-744ea352e48d',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'natural_earth',
     'wikidata',
     'Q1025',
@@ -8973,8 +8973,8 @@ VALUES
     NOW()
   ),
   (
-    'beeac625-6e19-4652-910e-2117cb0b1e8a',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'd16a72fc-a4e0-4763-b7d1-1fb502fc8c0c',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'natural_earth_admin',
     'MLT',
@@ -8983,8 +8983,8 @@ VALUES
     NOW()
   ),
   (
-    '124b8ce5-e0f8-4726-86cf-69f4a56f1ed3',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '0a601db9-ffa9-4227-ba3e-9c38ea8845dc',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'iso3166-1-alpha2',
     'MT',
@@ -8993,8 +8993,8 @@ VALUES
     NOW()
   ),
   (
-    'b877c052-f71a-4913-bb44-573a7453fddc',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'e141faf5-d1bf-4bee-addb-5373fd8c580b',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'iso3166-1-alpha3',
     'MLT',
@@ -9003,8 +9003,8 @@ VALUES
     NOW()
   ),
   (
-    'adfe2980-d827-4f81-b2e1-79a875488f87',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '7bb0a00c-7767-43e6-9658-c70ee3f625d9',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'iso3166-1-numeric',
     '470',
@@ -9013,8 +9013,8 @@ VALUES
     NOW()
   ),
   (
-    '284dcfa6-81a9-4bdb-8aef-a5881b7a176c',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '134eda08-4986-4d6e-a668-b0eedced168f',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'un_a3',
     '470',
@@ -9023,8 +9023,8 @@ VALUES
     NOW()
   ),
   (
-    '0d4f097d-4f94-47f7-8352-57f279396010',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'cf5cc16d-37a9-4282-b4dd-1312d2cdfd56',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'world_bank_a2',
     'MT',
@@ -9033,8 +9033,8 @@ VALUES
     NOW()
   ),
   (
-    '801c80ba-9014-457b-accd-d64fd30198b1',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'dbbd4ede-82ee-443b-a30e-153a4e4d1c9d',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'world_bank_a3',
     'MLT',
@@ -9043,8 +9043,8 @@ VALUES
     NOW()
   ),
   (
-    'cce4b729-bd6f-44a7-9e1a-0aa849b183f8',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '14d046b7-2a7e-4aaa-b36a-dfffb43b4d4e',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'natural_earth',
     'wikidata',
     'Q233',
@@ -9053,8 +9053,8 @@ VALUES
     NOW()
   ),
   (
-    'b90f3c84-05fc-4409-b9bd-6b926a70248b',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'b967018a-0910-4ff3-936e-2d4e874ce6e6',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'natural_earth_admin',
     'MLI',
@@ -9063,8 +9063,8 @@ VALUES
     NOW()
   ),
   (
-    'd6c6dfb6-50f3-4979-a8f9-d2fcd68d68b4',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '7749a782-bf9f-408c-9385-caf235986525',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'iso3166-1-alpha2',
     'ML',
@@ -9073,8 +9073,8 @@ VALUES
     NOW()
   ),
   (
-    '998287d4-596e-482c-be4b-22471ebebbae',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'd1ab8e3d-6019-4192-9ffa-f39b28f3f651',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'iso3166-1-alpha3',
     'MLI',
@@ -9083,8 +9083,8 @@ VALUES
     NOW()
   ),
   (
-    '6d29e631-b5c9-48a0-b586-cfe0d1ec62bf',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '69b500bb-8667-4b39-becd-e76bbe579792',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'iso3166-1-numeric',
     '466',
@@ -9093,8 +9093,8 @@ VALUES
     NOW()
   ),
   (
-    '3327936a-d3a4-416d-9129-8f7e088d26d0',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '6d9b5c0a-7258-429a-a9fb-ab5791c15ea6',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'un_a3',
     '466',
@@ -9103,8 +9103,8 @@ VALUES
     NOW()
   ),
   (
-    '9ca45fb2-12e6-4d51-a772-3990a9b2735a',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '3f791f90-2dda-4954-bbd2-de71ea25a7bb',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'world_bank_a2',
     'ML',
@@ -9113,8 +9113,8 @@ VALUES
     NOW()
   ),
   (
-    '07ea629c-4b6e-411e-b46d-1848ab3c1fab',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '47248507-313c-4ed5-bed7-36aa8226033b',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'world_bank_a3',
     'MLI',
@@ -9123,8 +9123,8 @@ VALUES
     NOW()
   ),
   (
-    'baed7a1a-b19e-457c-bfc2-fecf188a225b',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'dcad0841-7d9f-47cb-9b8c-8073a5a25b26',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'natural_earth',
     'wikidata',
     'Q912',
@@ -9133,8 +9133,8 @@ VALUES
     NOW()
   ),
   (
-    '300bdc1b-43b7-456b-a818-cba32dbe044a',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '12ebe971-dfc0-47b7-b90b-addbd11769d8',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'natural_earth_admin',
     'MDV',
@@ -9143,8 +9143,8 @@ VALUES
     NOW()
   ),
   (
-    '765f9f9e-dec1-45a5-ae85-a51aa1f2546b',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'dbaa253a-aa3f-4094-a530-1113328d40e6',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'iso3166-1-alpha2',
     'MV',
@@ -9153,8 +9153,8 @@ VALUES
     NOW()
   ),
   (
-    'e1ff3ea8-479a-4a30-a353-219494b9e2e1',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '0f458c1e-f492-4fc0-92db-eedeae7e9b48',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDV',
@@ -9163,8 +9163,8 @@ VALUES
     NOW()
   ),
   (
-    'df6df20f-0a5e-4048-b292-b23e2dc41a74',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '2f59ad99-e8b6-465c-bc3e-af6255b01f56',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'iso3166-1-numeric',
     '462',
@@ -9173,8 +9173,8 @@ VALUES
     NOW()
   ),
   (
-    '198abdbc-97cd-4d9f-8c70-fa287eea775d',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '34ba3f85-e0ae-43da-a471-2bcedaf2f988',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'un_a3',
     '462',
@@ -9183,8 +9183,8 @@ VALUES
     NOW()
   ),
   (
-    '2f7fc717-6735-4eed-a283-530eca8bc8fc',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'f30b89fa-c9af-4be5-b608-dcec84decaa8',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'world_bank_a2',
     'MV',
@@ -9193,8 +9193,8 @@ VALUES
     NOW()
   ),
   (
-    '1690e903-01a2-463f-8da5-4b7aed2ede53',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'f8253d37-5334-4cbb-a59b-c9fb226a7dc2',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'world_bank_a3',
     'MDV',
@@ -9203,8 +9203,8 @@ VALUES
     NOW()
   ),
   (
-    'd54252b6-f1ba-447d-945a-933e08ba0912',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'fe7e6064-5450-4d07-8dcd-697040b8bbd0',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'natural_earth',
     'wikidata',
     'Q826',
@@ -9213,8 +9213,8 @@ VALUES
     NOW()
   ),
   (
-    '96852d30-b0bb-4bb0-bf8d-29e80a54d9b0',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '91fad9f7-0ee6-412b-8ee4-f742bcd5a57c',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'natural_earth_admin',
     'MYS',
@@ -9223,8 +9223,8 @@ VALUES
     NOW()
   ),
   (
-    '5daafec0-bce3-45f2-9561-106fa71ba1e5',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '18073ecd-72fb-4aa1-b84a-e74b225daa07',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'iso3166-1-alpha2',
     'MY',
@@ -9233,8 +9233,8 @@ VALUES
     NOW()
   ),
   (
-    '358dccaf-8eb5-4af8-a10b-8986c907beb0',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'f40ca955-7c92-4422-b448-8be9fd5589ad',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'iso3166-1-alpha3',
     'MYS',
@@ -9243,8 +9243,8 @@ VALUES
     NOW()
   ),
   (
-    'c2a4713c-8b66-412a-8f63-74f780c75135',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '2a31cea9-0752-4e96-9ab0-8c016f3e69e0',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'iso3166-1-numeric',
     '458',
@@ -9253,8 +9253,8 @@ VALUES
     NOW()
   ),
   (
-    '7970eb72-5721-4e42-b91b-aa543a1b32be',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'e4e36eb9-fc27-4367-97c6-a398a13bde92',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'un_a3',
     '458',
@@ -9263,8 +9263,8 @@ VALUES
     NOW()
   ),
   (
-    '5b7bf9d4-3fe4-41df-99ee-74fe8ab57892',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '815d8d1c-1c22-439a-890f-1558bdddc851',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'world_bank_a2',
     'MY',
@@ -9273,8 +9273,8 @@ VALUES
     NOW()
   ),
   (
-    '6e49f3bb-028e-4aca-a559-fc88d0207c33',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '432c7123-692c-4f23-ae29-6ed9ae1d7166',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'world_bank_a3',
     'MYS',
@@ -9283,8 +9283,8 @@ VALUES
     NOW()
   ),
   (
-    '60bab963-f2da-4262-a330-4870a64ea548',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '59aaadc5-1be3-49ad-9db0-7b0c9bf78227',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'natural_earth',
     'wikidata',
     'Q833',
@@ -9293,8 +9293,8 @@ VALUES
     NOW()
   ),
   (
-    'c520c65d-8a6c-498e-b7d2-11dd90c76d13',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'e9cccdab-8136-4fa2-851f-f2197d678f22',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'natural_earth_admin',
     'MWI',
@@ -9303,8 +9303,8 @@ VALUES
     NOW()
   ),
   (
-    '2afe782a-a8ba-4ea2-9607-187ae110cb6e',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '4ee314ae-eaad-4851-9b32-7b2f7b0d2e39',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'iso3166-1-alpha2',
     'MW',
@@ -9313,8 +9313,8 @@ VALUES
     NOW()
   ),
   (
-    '9e228c9a-9505-4cdc-8c7d-47f170668be9',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '14ccdcc8-c2ba-4406-aa1e-70c11861d3f7',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'iso3166-1-alpha3',
     'MWI',
@@ -9323,8 +9323,8 @@ VALUES
     NOW()
   ),
   (
-    '06aece8e-1eac-40ad-8018-69712324f167',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '478a2f31-7d49-4b44-b7d1-7ae9245f45fb',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'iso3166-1-numeric',
     '454',
@@ -9333,8 +9333,8 @@ VALUES
     NOW()
   ),
   (
-    'c8ed3902-6125-427d-986f-af1244bd5650',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '6318a2cd-69c5-4c4d-85b3-7ce1aa23b223',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'un_a3',
     '454',
@@ -9343,8 +9343,8 @@ VALUES
     NOW()
   ),
   (
-    'b9e580e8-f9c8-46f9-b437-bbba26a4d98f',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'e1ef2f28-469f-488c-ad2c-20a1fafd1e87',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'world_bank_a2',
     'MW',
@@ -9353,8 +9353,8 @@ VALUES
     NOW()
   ),
   (
-    'a22cf248-f733-4c0b-865e-4375c1b937dd',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '8fa7208a-15a2-4457-8a3c-b1b44e5ce7c4',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'world_bank_a3',
     'MWI',
@@ -9363,8 +9363,8 @@ VALUES
     NOW()
   ),
   (
-    'cf6d90b6-2fef-4a7f-a4bc-ecab74fb8dd3',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'd2ee4301-6b24-4db0-a3da-69e4a91332fe',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'natural_earth',
     'wikidata',
     'Q1020',
@@ -9373,8 +9373,8 @@ VALUES
     NOW()
   ),
   (
-    'dc56cc3e-f0b2-48c3-bc96-a0f7c88eb3a1',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '041b1341-45ff-4518-985d-949f5c21ac97',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'natural_earth_admin',
     'MDG',
@@ -9383,8 +9383,8 @@ VALUES
     NOW()
   ),
   (
-    '7c34c9b4-d334-4d32-815e-f250e6a8cb9a',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '891ae814-a907-4ae1-b61e-4e4c27a7b210',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'iso3166-1-alpha2',
     'MG',
@@ -9393,8 +9393,8 @@ VALUES
     NOW()
   ),
   (
-    '53c9c374-d4a9-416a-a2fd-4eeca6f68d7f',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '41a41cf9-1690-4455-b865-a5e6c759fc14',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'iso3166-1-alpha3',
     'MDG',
@@ -9403,8 +9403,8 @@ VALUES
     NOW()
   ),
   (
-    '39809645-582c-4ab1-906d-4f0361d0e23c',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '96e9b426-2720-40d0-826f-2f70751267f8',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'iso3166-1-numeric',
     '450',
@@ -9413,8 +9413,8 @@ VALUES
     NOW()
   ),
   (
-    '0b81ddca-330d-4959-883d-ec07c9052a93',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '7423685d-7cf5-471d-bc69-2f24d0f9aaae',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'un_a3',
     '450',
@@ -9423,8 +9423,8 @@ VALUES
     NOW()
   ),
   (
-    '170af64d-ab0e-4d76-bfb6-de232073a905',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'f2f1af9a-c4f1-4bd0-a431-9a273f389ca0',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'world_bank_a2',
     'MG',
@@ -9433,8 +9433,8 @@ VALUES
     NOW()
   ),
   (
-    'af6fdc60-d284-479f-8e2e-5830571445c1',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '352229ae-c014-4da2-ac22-057ab84fc994',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'world_bank_a3',
     'MDG',
@@ -9443,8 +9443,8 @@ VALUES
     NOW()
   ),
   (
-    '4d7a6388-bc3d-4285-819d-f46786d23ed1',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'f168b98e-5371-4547-8015-397171515c9b',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'natural_earth',
     'wikidata',
     'Q1019',
@@ -9453,8 +9453,8 @@ VALUES
     NOW()
   ),
   (
-    '6c18d096-83d5-4a15-bb4b-86904b49b89b',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '752db19d-463a-462e-8330-5c123362ade4',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'natural_earth_admin',
     'MKD',
@@ -9463,8 +9463,8 @@ VALUES
     NOW()
   ),
   (
-    '6bd1b573-2f10-4e93-8828-f5b032d5731d',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '5dd1fde2-8417-4ede-86c0-f9e4b2696a13',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'iso3166-1-alpha2',
     'MK',
@@ -9473,8 +9473,8 @@ VALUES
     NOW()
   ),
   (
-    '7a869d66-369d-4928-9149-024bd1369f4a',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '437dc3df-d0c4-4dbb-b814-77776b92b3cb',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'iso3166-1-alpha3',
     'MKD',
@@ -9483,8 +9483,8 @@ VALUES
     NOW()
   ),
   (
-    'dfc61cdd-60e1-4f65-be95-3386bae0f2a0',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '3072ec4e-6fba-4a93-8d10-0ae3f825794e',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'iso3166-1-numeric',
     '807',
@@ -9493,8 +9493,8 @@ VALUES
     NOW()
   ),
   (
-    'be3a5d03-b496-4587-9c86-7836f086ce12',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '2051df32-8cee-4577-8aae-6df7dea03664',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'un_a3',
     '807',
@@ -9503,8 +9503,8 @@ VALUES
     NOW()
   ),
   (
-    'a16dbb02-a0dd-4319-b62f-ce555440ac0f',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'f613e241-708b-461b-8440-6719f37a606e',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'world_bank_a2',
     'MK',
@@ -9513,8 +9513,8 @@ VALUES
     NOW()
   ),
   (
-    'c9ea8076-b1f8-42e2-a705-23ab79a60eba',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '4ca0df0e-8b2c-48f3-8344-8413990a7f98',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'world_bank_a3',
     'MKD',
@@ -9523,8 +9523,8 @@ VALUES
     NOW()
   ),
   (
-    '4150cd23-f829-4251-8651-0765cc4fbbd0',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '25e9fd61-d173-4d55-a515-39ccd2a44741',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'natural_earth',
     'wikidata',
     'Q221',
@@ -9533,8 +9533,8 @@ VALUES
     NOW()
   ),
   (
-    '000e96bd-6a76-4271-a1ee-af53a9c2b040',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '631ccea3-aa05-41da-83fe-625a4a99fab4',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'natural_earth_admin',
     'LUX',
@@ -9543,8 +9543,8 @@ VALUES
     NOW()
   ),
   (
-    '139e0193-74e6-4290-9955-2cd78fc7baaf',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'f5f84762-aebb-4743-b729-55bd15035fbc',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'iso3166-1-alpha2',
     'LU',
@@ -9553,8 +9553,8 @@ VALUES
     NOW()
   ),
   (
-    '5845f8a0-8036-406f-906d-4e5ab44d4544',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '8c394a54-d07a-4d67-9b8b-9faa1d25cba0',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'iso3166-1-alpha3',
     'LUX',
@@ -9563,8 +9563,8 @@ VALUES
     NOW()
   ),
   (
-    'af3fe587-d251-4658-b891-39ba3d53bbd9',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '416409f1-9f75-426e-a005-69f10b92b01f',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'iso3166-1-numeric',
     '442',
@@ -9573,8 +9573,8 @@ VALUES
     NOW()
   ),
   (
-    'f99a6552-f0ea-4a32-8a4d-af227c93f346',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '3e240de5-b2c2-4a60-929d-6e54969cbd27',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'un_a3',
     '442',
@@ -9583,8 +9583,8 @@ VALUES
     NOW()
   ),
   (
-    'd8c2c35a-29cb-4baa-a4b9-d87c52b266a0',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '63fc16a6-d3fa-40db-9d83-f66a48c30a3f',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'world_bank_a2',
     'LU',
@@ -9593,8 +9593,8 @@ VALUES
     NOW()
   ),
   (
-    'cb1bc3f4-cbd9-4afa-8427-00b17c468ca2',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '0b1d4d00-d606-4717-aa12-cc6503b37b27',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'world_bank_a3',
     'LUX',
@@ -9603,8 +9603,8 @@ VALUES
     NOW()
   ),
   (
-    '63e5361c-3afa-4cc2-9a58-b1581811ef22',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '662f2898-e391-4ade-9fe0-c4477e3b915b',
+    'c6745687-a436-492f-8e48-200a98440445',
     'natural_earth',
     'wikidata',
     'Q32',
@@ -9613,8 +9613,8 @@ VALUES
     NOW()
   ),
   (
-    'b1a0f250-de45-46f3-b6ff-fd30a25992ff',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '997534b9-7cb0-4958-8099-55bbab018726',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'natural_earth_admin',
     'LTU',
@@ -9623,8 +9623,8 @@ VALUES
     NOW()
   ),
   (
-    '299e419a-4ef0-49de-b1fc-fa80bbd4b3b0',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '23282a7a-6f88-4c46-9a94-c727b02a1abb',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'iso3166-1-alpha2',
     'LT',
@@ -9633,8 +9633,8 @@ VALUES
     NOW()
   ),
   (
-    '086c953b-c618-4d3d-bfe0-76f162099d9d',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    'b62b76d3-243d-45a0-afc9-b7440cb2dd23',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'iso3166-1-alpha3',
     'LTU',
@@ -9643,8 +9643,8 @@ VALUES
     NOW()
   ),
   (
-    'fd79bf1c-0cd0-4eb3-b561-37998df26d08',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '13599a5b-7818-4061-944d-7b7b1e6bd412',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'iso3166-1-numeric',
     '440',
@@ -9653,8 +9653,8 @@ VALUES
     NOW()
   ),
   (
-    '57de9e39-6e95-4991-842d-f9cfa1f704e3',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '8dd4dedc-02fe-4acf-b676-97f8a22f6dd1',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'un_a3',
     '440',
@@ -9663,8 +9663,8 @@ VALUES
     NOW()
   ),
   (
-    '15bb6aa5-6349-4197-b2ab-1d12c34d8a6c',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '43a2b19d-0e8c-4b31-adcf-289ceb38e893',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'world_bank_a2',
     'LT',
@@ -9673,8 +9673,8 @@ VALUES
     NOW()
   ),
   (
-    '448d3b5a-1cec-41f5-ac9b-0a4968b089b3',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '5fa1f623-64b6-438f-92ff-854bf29be353',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'world_bank_a3',
     'LTU',
@@ -9683,8 +9683,8 @@ VALUES
     NOW()
   ),
   (
-    'bd9e9236-f533-4995-ad6c-5627c18190bb',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '26efab5d-2a76-4f86-bc2a-16e8c7bf8b00',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'natural_earth',
     'wikidata',
     'Q37',
@@ -9693,8 +9693,8 @@ VALUES
     NOW()
   ),
   (
-    '27638dd7-f1ab-421a-b4db-c2238f53d40b',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '282e6d15-0405-4cf0-9a5a-1c9b0f4bf47d',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'natural_earth_admin',
     'LIE',
@@ -9703,8 +9703,8 @@ VALUES
     NOW()
   ),
   (
-    '2525b635-115b-445f-bdfe-fa7317bd0cbd',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    'b2c7b500-14fd-4b06-879c-7daa0139f5a5',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'iso3166-1-alpha2',
     'LI',
@@ -9713,8 +9713,8 @@ VALUES
     NOW()
   ),
   (
-    '103fc9c3-7886-4694-95bf-9b9415926dea',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '707464c7-d5b3-4973-bd57-1724ef7a261d',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'iso3166-1-alpha3',
     'LIE',
@@ -9723,8 +9723,8 @@ VALUES
     NOW()
   ),
   (
-    '295579b5-ae89-49a3-b608-53ca992e65e9',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '58429744-1f9a-43fb-bdbc-f69b12915830',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'iso3166-1-numeric',
     '438',
@@ -9733,8 +9733,8 @@ VALUES
     NOW()
   ),
   (
-    '82d078aa-8dbe-41b1-993e-2bad60e86f09',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    'eeb9c595-95fe-4f64-b5b3-440bbf94941c',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'un_a3',
     '438',
@@ -9743,8 +9743,8 @@ VALUES
     NOW()
   ),
   (
-    'c713f3bd-0a3c-4833-a90d-7c2a85f5ec7c',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '84927961-9c77-4e2f-b0e3-0e85371abdaa',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'world_bank_a2',
     'LI',
@@ -9753,8 +9753,8 @@ VALUES
     NOW()
   ),
   (
-    '0e2ab728-ae70-4df5-bb04-71ac8b8d12f5',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '4369cb25-299a-4d4e-a63b-b5628285445b',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'world_bank_a3',
     'LIE',
@@ -9763,8 +9763,8 @@ VALUES
     NOW()
   ),
   (
-    'ba042c44-bf22-4f6a-af73-7d6bf38e44fb',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '940778c0-0393-49ab-83e2-2d9c62c17026',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'natural_earth',
     'wikidata',
     'Q347',
@@ -9773,8 +9773,8 @@ VALUES
     NOW()
   ),
   (
-    '35ac8d65-ce45-44ca-9377-d571861003e7',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '6b7f52c1-4e7a-457a-bc9d-cc98ec45c859',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'natural_earth_admin',
     'LBY',
@@ -9783,8 +9783,8 @@ VALUES
     NOW()
   ),
   (
-    '81f5bd02-4a42-4bb4-8bb1-de401d0e6dcf',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'd27c7cc7-4488-498c-9228-019c24294157',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'iso3166-1-alpha2',
     'LY',
@@ -9793,8 +9793,8 @@ VALUES
     NOW()
   ),
   (
-    '4254b374-9812-4346-bb90-3d450194cc22',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '6edaf766-968e-4732-ae59-e47aa7406c99',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBY',
@@ -9803,8 +9803,8 @@ VALUES
     NOW()
   ),
   (
-    'b7291c87-95b0-40d3-b597-41791d4cafaf',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '27c09555-70f7-4f0e-b131-427f8b2f5e72',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'iso3166-1-numeric',
     '434',
@@ -9813,8 +9813,8 @@ VALUES
     NOW()
   ),
   (
-    '03b8cc00-d0b8-4884-a1da-d063bc8d73ef',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '9b8634e5-ef8d-4185-a104-e0cf202fb7c5',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'un_a3',
     '434',
@@ -9823,8 +9823,8 @@ VALUES
     NOW()
   ),
   (
-    'ab2555ec-c345-4bc3-a9f7-c2eb9de8e4ad',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'ad06303f-0f97-45bd-841c-cf68269ea368',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'world_bank_a2',
     'LY',
@@ -9833,8 +9833,8 @@ VALUES
     NOW()
   ),
   (
-    '6ce1c8f4-6833-40c2-a7d2-35d92388824a',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'ba3091f3-0240-497b-95d7-f866b0273f6f',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'world_bank_a3',
     'LBY',
@@ -9843,8 +9843,8 @@ VALUES
     NOW()
   ),
   (
-    '0edf1c9d-eca2-4149-b791-42052b31ed36',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'bb1cf5aa-22f9-48c6-8e1b-3e5815d61f4d',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'natural_earth',
     'wikidata',
     'Q1016',
@@ -9853,8 +9853,8 @@ VALUES
     NOW()
   ),
   (
-    '44cb158d-a931-45dd-bc97-40962d6b1b81',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'ab944957-da14-45b3-a3ad-471c1423172f',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'natural_earth_admin',
     'LBR',
@@ -9863,8 +9863,8 @@ VALUES
     NOW()
   ),
   (
-    '2eea0266-619b-4ca6-adbf-47d207611d6c',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'eb1edf82-11e9-440b-a2c9-eda30ea90def',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'iso3166-1-alpha2',
     'LR',
@@ -9873,8 +9873,8 @@ VALUES
     NOW()
   ),
   (
-    'c059355d-8afc-4a98-87fe-36d17ebcdbf3',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '1bdcf4b0-88c3-4631-88ea-028e6e73014e',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBR',
@@ -9883,8 +9883,8 @@ VALUES
     NOW()
   ),
   (
-    'e828c22d-270c-4b0f-ba4e-83b46e3a7441',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '6209f197-3034-4c80-8589-cae3e1d706fd',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'iso3166-1-numeric',
     '430',
@@ -9893,8 +9893,8 @@ VALUES
     NOW()
   ),
   (
-    '0d4d04dd-f064-4e99-9baf-137d96c32654',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '19c53763-26f7-4961-b2dc-45aaa85e7fd0',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'un_a3',
     '430',
@@ -9903,8 +9903,8 @@ VALUES
     NOW()
   ),
   (
-    '862c9d2d-52f5-40f3-bde0-377b06995815',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '7f94d4e8-0875-4906-ae41-7d03cc910872',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'world_bank_a2',
     'LR',
@@ -9913,8 +9913,8 @@ VALUES
     NOW()
   ),
   (
-    '8ea8bca0-23b9-48af-80a8-8dbef59e70ca',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'a605ff46-a7b2-4e2e-929b-8af11838fdbc',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'world_bank_a3',
     'LBR',
@@ -9923,8 +9923,8 @@ VALUES
     NOW()
   ),
   (
-    '8bd16283-2192-4017-97a8-50223e915bdc',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '471a429d-e67f-4058-9aa8-d6d35bee0e43',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'natural_earth',
     'wikidata',
     'Q1014',
@@ -9933,8 +9933,8 @@ VALUES
     NOW()
   ),
   (
-    '3068cc1d-f478-4a51-81db-5f7d41c533bd',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '797bbcfa-153e-4bf4-872c-004eb9008339',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'natural_earth_admin',
     'LSO',
@@ -9943,8 +9943,8 @@ VALUES
     NOW()
   ),
   (
-    '620af6b5-a084-4458-b47e-18e9be121e57',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'e96d966e-118f-45a4-b4bc-048c8b645931',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'iso3166-1-alpha2',
     'LS',
@@ -9953,8 +9953,8 @@ VALUES
     NOW()
   ),
   (
-    'b1caabc1-b0b3-4f08-ad60-2fefe9060b15',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '9eaa7a2c-3f44-4861-85f7-5ca23945de1a',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'iso3166-1-alpha3',
     'LSO',
@@ -9963,8 +9963,8 @@ VALUES
     NOW()
   ),
   (
-    '515da265-8038-444a-8fd8-39795c8252aa',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'f4785415-3233-427d-bae3-641a070ac1f4',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'iso3166-1-numeric',
     '426',
@@ -9973,8 +9973,8 @@ VALUES
     NOW()
   ),
   (
-    'bc063651-8e3d-4a3a-9211-658b493dfd9a',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '2e6a2609-a864-473f-ae42-72f00eac189e',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'un_a3',
     '426',
@@ -9983,8 +9983,8 @@ VALUES
     NOW()
   ),
   (
-    '97dfd9e6-7f76-4199-8f34-56883859fbd5',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '70207ed2-d832-40f2-a06d-2d0e9840ea63',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'world_bank_a2',
     'LS',
@@ -9993,8 +9993,8 @@ VALUES
     NOW()
   ),
   (
-    'e0ce4f41-7004-48ef-9366-e74b5f1eb99d',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '55911d51-5edc-4150-ba80-c96e82fa66f0',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'world_bank_a3',
     'LSO',
@@ -10003,8 +10003,8 @@ VALUES
     NOW()
   ),
   (
-    '6a18c180-25ca-451a-9ebf-09041a0df2e2',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '3cc92048-2b50-474b-971f-c04a797dc063',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'natural_earth',
     'wikidata',
     'Q1013',
@@ -10013,8 +10013,8 @@ VALUES
     NOW()
   ),
   (
-    '514dcbf0-4a34-49d5-b311-b33b2d85a265',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '29b12480-e8c9-4924-8cf1-b545c7391536',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'natural_earth_admin',
     'LBN',
@@ -10023,8 +10023,8 @@ VALUES
     NOW()
   ),
   (
-    'cddce15a-9d4d-41c7-8094-57c67d46b41d',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'f1d6d221-6072-4e78-a420-84445f255e5f',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'iso3166-1-alpha2',
     'LB',
@@ -10033,8 +10033,8 @@ VALUES
     NOW()
   ),
   (
-    'c7690e69-a600-41b4-9760-637b539197f2',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '34b1f7ba-2629-46f3-89b9-8eee9c35c0ef',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'iso3166-1-alpha3',
     'LBN',
@@ -10043,8 +10043,8 @@ VALUES
     NOW()
   ),
   (
-    '1dac63e7-c934-466d-8351-00416e147f87',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'f02e0cac-cc18-41d5-9f2a-69bd151a3049',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'iso3166-1-numeric',
     '422',
@@ -10053,8 +10053,8 @@ VALUES
     NOW()
   ),
   (
-    'bc01d35e-bfb6-42e0-8849-48a0140e7c1b',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '6a75c919-cede-47ac-866c-993382c93fa2',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'un_a3',
     '422',
@@ -10063,8 +10063,8 @@ VALUES
     NOW()
   ),
   (
-    '82a411ae-1b16-48b8-b311-ef6fc4a67296',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'ce6991ae-634c-4d63-8e57-a6f36de922b8',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'world_bank_a2',
     'LB',
@@ -10073,8 +10073,8 @@ VALUES
     NOW()
   ),
   (
-    '3008d5df-a085-4b0b-b9a4-f88f06ae1617',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '459f32bb-e280-460c-b43f-f8efd712b5da',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'world_bank_a3',
     'LBN',
@@ -10083,8 +10083,8 @@ VALUES
     NOW()
   ),
   (
-    '12d60df2-bac8-4bc6-a9db-07576866791d',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'c9d581c9-9775-47b6-b9ff-8444ca1fe36b',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'natural_earth',
     'wikidata',
     'Q822',
@@ -10093,8 +10093,8 @@ VALUES
     NOW()
   ),
   (
-    '93e5ca20-f68b-4807-a87f-ccaa86372b0c',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '9d31bcd3-b550-4e82-a266-99c733a75eda',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'natural_earth_admin',
     'LVA',
@@ -10103,8 +10103,8 @@ VALUES
     NOW()
   ),
   (
-    'adf45949-7c96-4297-b02b-65d140743913',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '88036bd5-29a3-4196-9341-1b21b737f74c',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'iso3166-1-alpha2',
     'LV',
@@ -10113,8 +10113,8 @@ VALUES
     NOW()
   ),
   (
-    '10519a65-217d-4177-89a8-a7bf917675fa',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '30346220-9460-4721-8153-93106f98d47e',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'iso3166-1-alpha3',
     'LVA',
@@ -10123,8 +10123,8 @@ VALUES
     NOW()
   ),
   (
-    'ff91c34a-8dea-46d9-83d7-ce3904cbbda7',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '75f7679e-d5f6-42e2-b2bf-81d14527e088',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'iso3166-1-numeric',
     '428',
@@ -10133,8 +10133,8 @@ VALUES
     NOW()
   ),
   (
-    '2e907109-cecd-4591-8ecb-b0ece173b951',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'e5a1f240-8228-41f8-a1d8-7d92b984fa6f',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'un_a3',
     '428',
@@ -10143,8 +10143,8 @@ VALUES
     NOW()
   ),
   (
-    '3a0547ea-e5cb-4955-a7a6-faa935a93889',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '337cbeb5-fc51-4c9f-9e32-3901ad5e7e4a',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'world_bank_a2',
     'LV',
@@ -10153,8 +10153,8 @@ VALUES
     NOW()
   ),
   (
-    '33714826-5248-4850-8158-74fd2a7a1e84',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '6534bb61-3b70-470c-b414-623278879132',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'world_bank_a3',
     'LVA',
@@ -10163,8 +10163,8 @@ VALUES
     NOW()
   ),
   (
-    'd4ca2d85-38af-4f67-a9db-a754bfa6f73e',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'c29421a8-cef2-4acc-bbf3-fc602a1adca8',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'natural_earth',
     'wikidata',
     'Q211',
@@ -10173,8 +10173,8 @@ VALUES
     NOW()
   ),
   (
-    '641b33ee-b49d-4b9f-bf98-b06729592dad',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '4a040432-71dd-4703-9443-d44711db7986',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'natural_earth_admin',
     'LAO',
@@ -10183,8 +10183,8 @@ VALUES
     NOW()
   ),
   (
-    '2589b59b-e18c-46b7-91b9-15878bb5e24c',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '6125a675-36e5-427b-8821-9a1a2225fb99',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'iso3166-1-alpha2',
     'LA',
@@ -10193,8 +10193,8 @@ VALUES
     NOW()
   ),
   (
-    '91659c74-f83b-49c2-9791-7ee1145eef52',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '561ba7a7-96fc-42af-b40e-7804cd960d89',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'iso3166-1-alpha3',
     'LAO',
@@ -10203,8 +10203,8 @@ VALUES
     NOW()
   ),
   (
-    '345b11b9-61d4-4068-85c6-7664549e2aee',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '0a80a2f7-08f7-42a7-86a2-862b63b16fe1',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'iso3166-1-numeric',
     '418',
@@ -10213,8 +10213,8 @@ VALUES
     NOW()
   ),
   (
-    '2e391603-ecb3-4070-b510-3006f20006c5',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'e186d459-fb75-4dba-9f1d-1bf62f4eb57a',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'un_a3',
     '418',
@@ -10223,8 +10223,8 @@ VALUES
     NOW()
   ),
   (
-    '52802373-e665-4de7-875e-1a73f19106f4',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'b0cf9878-db7b-496a-8dad-fdf1755aae3b',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'world_bank_a2',
     'LA',
@@ -10233,8 +10233,8 @@ VALUES
     NOW()
   ),
   (
-    '1265e8fd-2dcd-4fa4-8850-8ae1306c9460',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'af17ada9-0d48-4947-b17a-204416445ce1',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'world_bank_a3',
     'LAO',
@@ -10243,8 +10243,8 @@ VALUES
     NOW()
   ),
   (
-    '7998f35a-46eb-486b-ac32-46048570860a',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '4c8dea17-0640-48cb-a137-17229b687af4',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'natural_earth',
     'wikidata',
     'Q819',
@@ -10253,8 +10253,8 @@ VALUES
     NOW()
   ),
   (
-    'ee7d8b93-35de-4eca-abb2-7f03ccba6b28',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '9bbfb09e-3e27-41c7-92ba-b102624f5ed2',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'natural_earth_admin',
     'KGZ',
@@ -10263,8 +10263,8 @@ VALUES
     NOW()
   ),
   (
-    '72bbadb5-b0e5-4147-9ed5-afaead1e6972',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '6419568f-13fe-4bd4-911b-775e31d3929e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'iso3166-1-alpha2',
     'KG',
@@ -10273,8 +10273,8 @@ VALUES
     NOW()
   ),
   (
-    '43203f7e-3e79-464f-adbc-a57ecc9d70a9',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'd9973c37-2b2f-434b-a74c-6d749fdb689e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'iso3166-1-alpha3',
     'KGZ',
@@ -10283,8 +10283,8 @@ VALUES
     NOW()
   ),
   (
-    'af318ab0-e3d2-423d-a2dd-a79240ea2fd7',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '812b9397-7b2b-40e8-ab72-486ea385815d',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'iso3166-1-numeric',
     '417',
@@ -10293,8 +10293,8 @@ VALUES
     NOW()
   ),
   (
-    '153899f1-0d12-4ac5-adc5-d69567ea9b13',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '1eee146f-dea7-4470-96e6-fb2bfec42d8e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'un_a3',
     '417',
@@ -10303,8 +10303,8 @@ VALUES
     NOW()
   ),
   (
-    'c24e91c7-49bc-4a39-85e7-17c1c004b191',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '68de31a1-fe97-454c-9b3e-d85124377ce7',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'world_bank_a2',
     'KG',
@@ -10313,8 +10313,8 @@ VALUES
     NOW()
   ),
   (
-    'c8dc10a1-078b-44bc-9d31-1977bd87b969',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'af55ea7b-11dd-469d-8061-a1352c632ff4',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'world_bank_a3',
     'KGZ',
@@ -10323,8 +10323,8 @@ VALUES
     NOW()
   ),
   (
-    '1e6e5d69-0f2f-4dce-bf68-1328fd440990',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'e9ec8220-a073-41b3-99d2-e7b0df78b459',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'natural_earth',
     'wikidata',
     'Q813',
@@ -10333,8 +10333,8 @@ VALUES
     NOW()
   ),
   (
-    'fec4a507-2542-4941-9cc2-23660f725016',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '63c3318f-7327-4c18-af53-d2a0417281a5',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'natural_earth_admin',
     'KWT',
@@ -10343,8 +10343,8 @@ VALUES
     NOW()
   ),
   (
-    '73b21aa6-e156-4eb8-83da-56516a4da6fa',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '1d4550dd-5cce-40f0-93f8-d3175e17f0bd',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'iso3166-1-alpha2',
     'KW',
@@ -10353,8 +10353,8 @@ VALUES
     NOW()
   ),
   (
-    'a9f38c5c-d518-4243-be98-b08222fb6655',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '9c8c6bf3-e04e-4a0f-8a5b-391404fd58bb',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'iso3166-1-alpha3',
     'KWT',
@@ -10363,8 +10363,8 @@ VALUES
     NOW()
   ),
   (
-    'ca14e254-de5a-46b0-801f-4c5c58dc6a55',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '67cc1823-8665-422f-ab11-47ba0578afb9',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'iso3166-1-numeric',
     '414',
@@ -10373,8 +10373,8 @@ VALUES
     NOW()
   ),
   (
-    '3f65ab55-98f8-4799-bf74-a761173ef945',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '8dd30b26-093d-49d2-b767-f80cd0b9e1e6',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'un_a3',
     '414',
@@ -10383,8 +10383,8 @@ VALUES
     NOW()
   ),
   (
-    'd1963c19-a5d0-4da7-8421-39588ebe5124',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'c1d7dbc2-ad22-4186-927f-2260aa0eaaed',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'world_bank_a2',
     'KW',
@@ -10393,8 +10393,8 @@ VALUES
     NOW()
   ),
   (
-    '8109a242-e228-446d-a528-b8d64ca1da75',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'eff37603-928b-4ed4-afeb-17997e3c3f40',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'world_bank_a3',
     'KWT',
@@ -10403,8 +10403,8 @@ VALUES
     NOW()
   ),
   (
-    '5a2a4fbd-caec-4d0b-b50f-de7b10725aa4',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'f2d77b1c-c686-4d64-b082-172624bc5f06',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'natural_earth',
     'wikidata',
     'Q817',
@@ -10413,8 +10413,8 @@ VALUES
     NOW()
   ),
   (
-    '2aa18aa1-53c4-475d-ab39-469927fcaa60',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'bddf474f-d8d2-4d3b-a75c-c2bae878b856',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'natural_earth_admin',
     'KOS',
@@ -10423,8 +10423,8 @@ VALUES
     NOW()
   ),
   (
-    '97ae5761-d795-478f-9ee6-c6b7281c8aec',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'eb038905-8499-4aed-ab57-43bdde27f59a',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -10433,8 +10433,8 @@ VALUES
     NOW()
   ),
   (
-    '249e0058-6c6b-41ea-a472-f1e0f09ed4fc',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '2315fa50-1b6f-4bc1-bbe8-765769e42429',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -10443,8 +10443,8 @@ VALUES
     NOW()
   ),
   (
-    '15be34e9-97fe-4cc3-aaf6-d5f4b3709687',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '891e2302-3c04-4c3d-8e04-df39830a696f',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -10453,8 +10453,8 @@ VALUES
     NOW()
   ),
   (
-    '5cfafa23-b225-4e29-abc4-be9332c064ea',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'c9d70286-356a-4c4e-8842-524603b6b646',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'un_a3',
     '-099',
@@ -10463,8 +10463,8 @@ VALUES
     NOW()
   ),
   (
-    '489e854a-022c-4d27-9330-35bf30411b41',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '82c72c92-8faa-4131-84ac-a5d59f231936',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'world_bank_a2',
     'KV',
@@ -10473,8 +10473,8 @@ VALUES
     NOW()
   ),
   (
-    '949f2eba-ef0a-4e16-b205-df862742a9a3',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '0c7bae99-6eb1-4ece-9458-e77ce2d65b3f',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'world_bank_a3',
     'KSV',
@@ -10483,8 +10483,8 @@ VALUES
     NOW()
   ),
   (
-    '632413bb-90ae-4f8b-a536-f96beda500cd',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '8572f8f7-b4b7-4aa0-95e7-712e6cdfc34b',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'natural_earth',
     'wikidata',
     'Q1246',
@@ -10493,8 +10493,8 @@ VALUES
     NOW()
   ),
   (
-    'a71eab32-0cdd-44b0-8a1e-58450d5baafd',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '02a2c756-8cc7-424e-abc4-a9251cf9859b',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'natural_earth_admin',
     'KIR',
@@ -10503,8 +10503,8 @@ VALUES
     NOW()
   ),
   (
-    '85b3ab7d-a6c2-413d-a0b9-e456ba4f70da',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '394f208a-2531-4b7a-8a5e-68146b6056a9',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'iso3166-1-alpha2',
     'KI',
@@ -10513,8 +10513,8 @@ VALUES
     NOW()
   ),
   (
-    '11c8e6ef-7cdf-430c-b945-f4b8c8fbeba1',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'ab86af27-8c42-4510-afa1-254eb061ea7e',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'iso3166-1-alpha3',
     'KIR',
@@ -10523,8 +10523,8 @@ VALUES
     NOW()
   ),
   (
-    '6d90d675-52ae-44a3-afa6-c08abd11a11b',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '727bd627-5626-4db5-8f19-aba085c6ac1e',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'iso3166-1-numeric',
     '296',
@@ -10533,8 +10533,8 @@ VALUES
     NOW()
   ),
   (
-    '94f06c62-daa7-4795-8099-c7b288913980',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'a8997a20-de44-4fdd-a4ce-5e8791fe8803',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'un_a3',
     '296',
@@ -10543,8 +10543,8 @@ VALUES
     NOW()
   ),
   (
-    '38e03327-d73d-4092-931b-60779e76009f',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'f4decbfa-169a-4591-9847-6046397ca30f',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'world_bank_a2',
     'KI',
@@ -10553,8 +10553,8 @@ VALUES
     NOW()
   ),
   (
-    'd15c75a3-a07c-4fb7-bcdf-1f0573365137',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '122b5b13-021b-4b09-81af-07f1dcbfb655',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'world_bank_a3',
     'KIR',
@@ -10563,8 +10563,8 @@ VALUES
     NOW()
   ),
   (
-    '76228f48-7a98-4463-99b9-d9dec566e101',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '5f8e5142-68f1-44d7-be21-d2cc9b9c9bdc',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'natural_earth',
     'wikidata',
     'Q710',
@@ -10573,8 +10573,8 @@ VALUES
     NOW()
   ),
   (
-    'd2f6e562-7b85-49f2-9545-564e7944b443',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'fb52aa47-d689-4454-97c1-249ced199c79',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'natural_earth_admin',
     'KEN',
@@ -10583,8 +10583,8 @@ VALUES
     NOW()
   ),
   (
-    'b1a60a43-f283-49e6-be8d-d8fa24d9101d',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '7e9260a8-038a-4f96-87e2-5433a42083fe',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'iso3166-1-alpha2',
     'KE',
@@ -10593,8 +10593,8 @@ VALUES
     NOW()
   ),
   (
-    'b92ff200-321e-4f54-bb33-180c32bae292',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'fc8b4618-6c20-4ad1-9dcc-ff6d2e850939',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'iso3166-1-alpha3',
     'KEN',
@@ -10603,8 +10603,8 @@ VALUES
     NOW()
   ),
   (
-    '40a1ad4d-2162-4e47-82cd-77e43fdc37a7',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '64184847-054a-4078-883e-42cb99552f6c',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'iso3166-1-numeric',
     '404',
@@ -10613,8 +10613,8 @@ VALUES
     NOW()
   ),
   (
-    '7de42540-7930-474c-8659-cf3c302603a2',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '639fbe5d-2bbf-42de-95b3-1d8310884450',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'un_a3',
     '404',
@@ -10623,8 +10623,8 @@ VALUES
     NOW()
   ),
   (
-    'a02d7d79-0c2d-47d1-95d0-8be7b4cd80ac',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'a5ae4bca-dc41-4d46-9f94-68e58eb5fd82',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'world_bank_a2',
     'KE',
@@ -10633,8 +10633,8 @@ VALUES
     NOW()
   ),
   (
-    '2fe56a1b-dab8-444b-96af-d3f5499e23f6',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'c340165d-a798-45fd-9a89-7ee72fabc8c4',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'world_bank_a3',
     'KEN',
@@ -10643,8 +10643,8 @@ VALUES
     NOW()
   ),
   (
-    '696f5738-1dbb-4a7b-b74f-93e63e92d6d4',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '73f86552-43b6-4766-a771-35511832bd69',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'natural_earth',
     'wikidata',
     'Q114',
@@ -10653,8 +10653,8 @@ VALUES
     NOW()
   ),
   (
-    '32e27906-0f40-4932-b54e-9d2f67b81afc',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'b5ed0e13-3b97-4815-87eb-5c73acbb64e3',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'natural_earth_admin',
     'KAZ',
@@ -10663,8 +10663,8 @@ VALUES
     NOW()
   ),
   (
-    'ff9554cc-db3a-4e65-b3de-0ee92fb3dcd6',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'f929e5d0-e8d9-4b26-b49e-2978faae12e0',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'iso3166-1-alpha2',
     'KZ',
@@ -10673,8 +10673,8 @@ VALUES
     NOW()
   ),
   (
-    '6b0c0e9b-cf5b-4ca5-b52f-68c00a5f4c46',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '993a18ce-f16e-469e-9a26-63b6517bb85d',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'iso3166-1-alpha3',
     'KAZ',
@@ -10683,8 +10683,8 @@ VALUES
     NOW()
   ),
   (
-    '2220ca9b-6e7d-4854-90c2-462de94b16ed',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'ded4cf2a-e545-41c5-93f2-bf7177966026',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'iso3166-1-numeric',
     '398',
@@ -10693,8 +10693,8 @@ VALUES
     NOW()
   ),
   (
-    '4d003f16-853b-479f-bacf-4c59058ef870',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '1653e313-444a-431e-bd09-bf08f970cd86',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'un_a3',
     '398',
@@ -10703,8 +10703,8 @@ VALUES
     NOW()
   ),
   (
-    '897668a3-c76b-428b-b6de-1ce95cdadc9d',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '027ce9f9-3d81-4343-999b-431d05f68200',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'world_bank_a2',
     'KZ',
@@ -10713,8 +10713,8 @@ VALUES
     NOW()
   ),
   (
-    'a31eae3b-e472-4bb9-b8ca-367a6733369e',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '50a0349a-be3d-4ce9-8155-8502022c332d',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'world_bank_a3',
     'KAZ',
@@ -10723,8 +10723,8 @@ VALUES
     NOW()
   ),
   (
-    'e88434b2-1296-4d08-accb-b7b03f8cd758',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'c5171c64-a692-420d-b9e5-13826731edf9',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'natural_earth',
     'wikidata',
     'Q232',
@@ -10733,8 +10733,8 @@ VALUES
     NOW()
   ),
   (
-    '07447aff-a39b-495a-922a-6118bb77022b',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '910487e1-3c95-4a3b-b651-8ed0bc3d11a1',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'natural_earth_admin',
     'JOR',
@@ -10743,8 +10743,8 @@ VALUES
     NOW()
   ),
   (
-    'b3d7fb11-c647-4e98-909c-7be8c91cb12b',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '0658617f-9136-4d9c-9116-86bb8eb0c389',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'iso3166-1-alpha2',
     'JO',
@@ -10753,8 +10753,8 @@ VALUES
     NOW()
   ),
   (
-    '2de84489-2032-40f6-a3ea-25fd8155c5aa',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '1a6578fe-43f9-4393-8efc-f1167e613fe1',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'iso3166-1-alpha3',
     'JOR',
@@ -10763,8 +10763,8 @@ VALUES
     NOW()
   ),
   (
-    'c33b1e73-4fd0-4e8e-99e1-a246d1d6ad66',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '32b0c0e5-be9a-4a05-89b2-c8ec889a0390',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'iso3166-1-numeric',
     '400',
@@ -10773,8 +10773,8 @@ VALUES
     NOW()
   ),
   (
-    'b1011f92-0924-4e43-90dd-204b5dc6c585',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'a981c848-0c9d-4281-8b1d-50af178afd95',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'un_a3',
     '400',
@@ -10783,8 +10783,8 @@ VALUES
     NOW()
   ),
   (
-    '6a230b66-9016-4cb4-b0ed-f28c9738fae0',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'd481c679-13f2-4faa-b740-3dabeaeca97a',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'world_bank_a2',
     'JO',
@@ -10793,8 +10793,8 @@ VALUES
     NOW()
   ),
   (
-    '7de5f95d-7012-472e-9a39-afa717c3b68d',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '8bc151bd-389d-419e-a2de-9c1f7508fa6f',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'world_bank_a3',
     'JOR',
@@ -10803,8 +10803,8 @@ VALUES
     NOW()
   ),
   (
-    'd7213944-2d36-4370-a9b9-4a8b99774879',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'a4db5dc4-0736-4414-a048-e17687f925af',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'natural_earth',
     'wikidata',
     'Q810',
@@ -10813,8 +10813,8 @@ VALUES
     NOW()
   ),
   (
-    '9b263d67-8af8-486f-a248-f6ef1d75d4ad',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '189ca551-feea-4154-813c-63aed395a414',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'natural_earth_admin',
     'JPN',
@@ -10823,8 +10823,8 @@ VALUES
     NOW()
   ),
   (
-    '7384b56b-04f1-4a63-bd16-dfb36f8edc36',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '7ef07418-f545-40e0-826f-5cd348623316',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'iso3166-1-alpha2',
     'JP',
@@ -10833,8 +10833,8 @@ VALUES
     NOW()
   ),
   (
-    'fd386b04-ef9a-45f0-80bc-07920928d759',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '4525942e-0896-4f49-8d65-1ef90f5c5569',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'iso3166-1-alpha3',
     'JPN',
@@ -10843,8 +10843,8 @@ VALUES
     NOW()
   ),
   (
-    '3672e7b3-3055-4c0d-8d33-d564bfca93df',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'f299a3a9-2e77-40cf-9aa6-304892336c7d',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'iso3166-1-numeric',
     '392',
@@ -10853,8 +10853,8 @@ VALUES
     NOW()
   ),
   (
-    'c232fef2-0ec9-478f-995e-e1b82b29969f',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '566ecf4e-4e46-4f50-854e-eae33e53037a',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'un_a3',
     '392',
@@ -10863,8 +10863,8 @@ VALUES
     NOW()
   ),
   (
-    'bff2ae10-fa75-4821-9bca-3364eddae6a6',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '1bbeb692-7dd1-4b26-983b-24b0119677c5',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'world_bank_a2',
     'JP',
@@ -10873,8 +10873,8 @@ VALUES
     NOW()
   ),
   (
-    '5289da9c-65ae-4f5e-a5d5-76bf1cd59fa2',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '94d493c6-83b3-4895-918b-86af2a1561ed',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'world_bank_a3',
     'JPN',
@@ -10883,8 +10883,8 @@ VALUES
     NOW()
   ),
   (
-    'b2373b96-b16e-430f-85c7-8ac38850fbb5',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '87e5bcee-f679-4963-8ef2-3becfffd9ff2',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'natural_earth',
     'wikidata',
     'Q17',
@@ -10893,8 +10893,8 @@ VALUES
     NOW()
   ),
   (
-    '11ef54a9-a748-4b19-96a7-d90e88352503',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '615e4dea-5afd-435e-9f62-a0556fc8b9b7',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'natural_earth_admin',
     'JAM',
@@ -10903,8 +10903,8 @@ VALUES
     NOW()
   ),
   (
-    '23d60b80-938c-4a66-8433-1363a050f325',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '417ec6b5-6bd8-41d8-80e1-93ec33943d7e',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'iso3166-1-alpha2',
     'JM',
@@ -10913,8 +10913,8 @@ VALUES
     NOW()
   ),
   (
-    'eed1da32-11b2-40e2-9f9c-6faf17ed0de1',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '0d7a3989-35b2-4af4-8d5a-237cdf05f606',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'iso3166-1-alpha3',
     'JAM',
@@ -10923,8 +10923,8 @@ VALUES
     NOW()
   ),
   (
-    'c82bdfed-1ba1-438e-a363-9c506f1aca8d',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'cd35b6aa-e74c-4758-afb0-e7093d63a5fe',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'iso3166-1-numeric',
     '388',
@@ -10933,8 +10933,8 @@ VALUES
     NOW()
   ),
   (
-    '01c8e36c-2cea-4e7d-babc-5532cd7ccc21',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '622ba786-0ae1-4122-a3cd-dc8e107ce278',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'un_a3',
     '388',
@@ -10943,8 +10943,8 @@ VALUES
     NOW()
   ),
   (
-    '466a214b-2ac6-4889-85d6-382873cdd946',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'ce6abfee-dbf2-49af-a120-814bea99240a',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'world_bank_a2',
     'JM',
@@ -10953,8 +10953,8 @@ VALUES
     NOW()
   ),
   (
-    '126e354f-b043-4c35-8cb1-adeef7662c89',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '29d17b35-7c4f-4a75-a88d-1c2dd635ed96',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'world_bank_a3',
     'JAM',
@@ -10963,8 +10963,8 @@ VALUES
     NOW()
   ),
   (
-    '0755579f-13d1-40e5-86a3-de3892580b6c',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'a1a10da6-80f0-439f-b39f-3a435e31b360',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'natural_earth',
     'wikidata',
     'Q766',
@@ -10973,8 +10973,8 @@ VALUES
     NOW()
   ),
   (
-    '2d720b58-fd88-4179-8299-21d20596d355',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '1e47ec7f-ed8d-413e-82f1-d20ac20ddb5b',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'natural_earth_admin',
     'ITA',
@@ -10983,8 +10983,8 @@ VALUES
     NOW()
   ),
   (
-    '00e1fa95-482e-481a-ad9c-35b27256a40a',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'a3fdc663-dbb4-48b4-9bc9-ef2f02f36959',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'iso3166-1-alpha2',
     'IT',
@@ -10993,8 +10993,8 @@ VALUES
     NOW()
   ),
   (
-    '4c2fa91e-b4f2-4ab9-9dec-5c9a7b8eddfa',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'c9454def-dcf9-46a1-9987-59c8419b0c8c',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'iso3166-1-alpha3',
     'ITA',
@@ -11003,8 +11003,8 @@ VALUES
     NOW()
   ),
   (
-    'e43c2981-57b6-45ee-891d-3bf972f67ed5',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'bf46989d-f952-4aec-9ff7-9bb1ec448e1a',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'iso3166-1-numeric',
     '380',
@@ -11013,8 +11013,8 @@ VALUES
     NOW()
   ),
   (
-    '7021dc6e-2ed8-452e-8e75-fe131d7d2d3e',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '76b60c4c-bd0e-4f57-b065-aac0d459b984',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'un_a3',
     '380',
@@ -11023,8 +11023,8 @@ VALUES
     NOW()
   ),
   (
-    'b6ee7e5f-97e5-494e-930e-7495dc1a62f5',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '6086f379-8ce8-4c5f-93ee-a14aea98d441',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'world_bank_a2',
     'IT',
@@ -11033,8 +11033,8 @@ VALUES
     NOW()
   ),
   (
-    '996dfbd5-337a-42a2-b80f-6d50d06df0ef',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '68a7f5cd-c156-409e-b956-579c5f78c7d9',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'world_bank_a3',
     'ITA',
@@ -11043,8 +11043,8 @@ VALUES
     NOW()
   ),
   (
-    '7b88bdc7-6411-4f15-8c27-013b2b864cb0',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '7cf876ec-39a5-44e0-a1f5-7b5fbcff629c',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'natural_earth',
     'wikidata',
     'Q38',
@@ -11053,8 +11053,8 @@ VALUES
     NOW()
   ),
   (
-    '3c7a5b52-2fd9-4bca-814d-31b65ac1803d',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '31c09fb0-438a-4a46-9e81-d840b3c4a04e',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'natural_earth_admin',
     'ISR',
@@ -11063,8 +11063,8 @@ VALUES
     NOW()
   ),
   (
-    '91640467-b26a-4bde-b500-4b8b03e9cca0',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'b9e2dc0d-44fe-4a5c-a797-26c22cb9f7a2',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'iso3166-1-alpha2',
     'IL',
@@ -11073,8 +11073,8 @@ VALUES
     NOW()
   ),
   (
-    'cbc2574e-6f27-42c2-9025-5c73baa904c4',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'a588f46b-9c27-4fb8-b0c3-34719a8408dc',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'iso3166-1-alpha3',
     'ISR',
@@ -11083,8 +11083,8 @@ VALUES
     NOW()
   ),
   (
-    '7c8cf7e5-d4da-4ed1-b616-bdcd30c8fc93',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'aff2e6dd-97d2-494a-ab6f-d7de89378279',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'iso3166-1-numeric',
     '376',
@@ -11093,8 +11093,8 @@ VALUES
     NOW()
   ),
   (
-    '35fc6716-efb8-4071-b95c-f330632e5590',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '578c9b2f-08d6-4091-bc8e-2fb03309ea54',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'un_a3',
     '376',
@@ -11103,8 +11103,8 @@ VALUES
     NOW()
   ),
   (
-    '49869066-a8af-4338-aae7-14174608cb2b',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'feed4cd3-01a0-45ba-9393-7a739a6349fd',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'world_bank_a2',
     'IL',
@@ -11113,8 +11113,8 @@ VALUES
     NOW()
   ),
   (
-    '0f31242c-c1d8-4468-81ca-61a18bec4aa6',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '5e55138d-fa74-494f-8b2c-e1117435b137',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'world_bank_a3',
     'ISR',
@@ -11123,8 +11123,8 @@ VALUES
     NOW()
   ),
   (
-    'f07099ef-158b-4cfa-a2a0-9e493a2295b4',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'ae2e96c3-3396-417c-a4b7-912e04ffdcf8',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'natural_earth',
     'wikidata',
     'Q801',
@@ -11133,8 +11133,8 @@ VALUES
     NOW()
   ),
   (
-    '147472db-fbfa-456f-a2cf-2c50c9d4fc69',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'a41317d0-9f3c-4ea1-b9c7-25ce53a1b7f3',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'natural_earth_admin',
     'PSX',
@@ -11143,8 +11143,8 @@ VALUES
     NOW()
   ),
   (
-    '3e82047f-bf09-420d-968e-08c610bc2c8a',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '8ff13ddc-640e-4722-af80-38f65fc5fdab',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'iso3166-1-alpha2',
     'PS',
@@ -11153,8 +11153,8 @@ VALUES
     NOW()
   ),
   (
-    'd90457d4-6a51-4ba7-97cb-d6c5f8c01e00',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '41a733a2-ce88-4403-81c5-7bace84fe627',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'iso3166-1-alpha3',
     'PSE',
@@ -11163,8 +11163,8 @@ VALUES
     NOW()
   ),
   (
-    'a915a5a8-8b14-46cb-a2bd-30612b2016bc',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '63607b8a-453e-4936-be62-68832765a8f8',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'iso3166-1-numeric',
     '275',
@@ -11173,8 +11173,8 @@ VALUES
     NOW()
   ),
   (
-    'f25fb0ec-b81c-434f-bb31-893e2bb8215b',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '7d94df7b-e9f3-4c60-9ff1-e839b3e84fbf',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'un_a3',
     '275',
@@ -11183,8 +11183,8 @@ VALUES
     NOW()
   ),
   (
-    '301184c7-b7c6-440e-ae90-a65ba0971929',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '4eba77a1-2349-47ea-9e9b-ad3b2912e2f7',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'world_bank_a2',
     'GZ',
@@ -11193,8 +11193,8 @@ VALUES
     NOW()
   ),
   (
-    'e4edba3e-9cfc-44c1-9106-911be156e433',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'ca17a260-4c47-4fc3-bc1d-c6b802844524',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'world_bank_a3',
     'WBG',
@@ -11203,8 +11203,8 @@ VALUES
     NOW()
   ),
   (
-    '22963e64-0348-460f-b643-5e4b8fd83953',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '6452e383-f54b-4037-957d-893c05b648cb',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'natural_earth',
     'wikidata',
     'Q23792',
@@ -11213,8 +11213,8 @@ VALUES
     NOW()
   ),
   (
-    '65bef78a-bddd-489d-8af6-066472ef580b',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '96db25f2-a004-4d9a-b50a-2d972f779042',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'natural_earth_admin',
     'IRL',
@@ -11223,8 +11223,8 @@ VALUES
     NOW()
   ),
   (
-    '428a31fa-c0f8-430e-bb50-0dc839bdbe19',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '6b2c9a1d-db5a-455d-b56a-5cde938228ee',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'iso3166-1-alpha2',
     'IE',
@@ -11233,8 +11233,8 @@ VALUES
     NOW()
   ),
   (
-    'a44ac075-2b9a-43ac-b2bf-e600a53b23da',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '15df8c05-00f4-4979-a311-38ce45ff829a',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRL',
@@ -11243,8 +11243,8 @@ VALUES
     NOW()
   ),
   (
-    '214a31e3-b359-4d31-93ed-6a5900055ebf',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '1d41c9da-9035-4225-929e-5fa153cedfc2',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'iso3166-1-numeric',
     '372',
@@ -11253,8 +11253,8 @@ VALUES
     NOW()
   ),
   (
-    'bc2c8303-a5b8-4958-a726-88e397780634',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '75c7ae9c-39f4-4f53-a120-8153fec7fc36',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'un_a3',
     '372',
@@ -11263,8 +11263,8 @@ VALUES
     NOW()
   ),
   (
-    '8a3f8a29-712a-4947-a55d-f7e3cc956f60',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '94b9769f-5d19-4877-b029-817550861ec4',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'world_bank_a2',
     'IE',
@@ -11273,8 +11273,8 @@ VALUES
     NOW()
   ),
   (
-    '0a13b96c-dbc5-4641-aecc-f37948b6ee9e',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '94f9a71d-2514-4f84-860f-17bfb463aaa3',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'world_bank_a3',
     'IRL',
@@ -11283,8 +11283,8 @@ VALUES
     NOW()
   ),
   (
-    '0731ba80-dbf2-403d-941c-22815182073d',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'a9ce5cff-0b62-4fac-ba2f-9f20ecf86ce8',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'natural_earth',
     'wikidata',
     'Q27',
@@ -11293,8 +11293,8 @@ VALUES
     NOW()
   ),
   (
-    '5d7e85f5-c8a5-47a3-8205-66630286b75f',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '6066d295-b690-4f15-9c06-849c0759c3a3',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'natural_earth_admin',
     'IRQ',
@@ -11303,8 +11303,8 @@ VALUES
     NOW()
   ),
   (
-    '3e329ea2-8f2f-4bdf-9754-37e2afc0e608',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '4134f1b0-ab58-43a9-b1c4-8dc96857156c',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'iso3166-1-alpha2',
     'IQ',
@@ -11313,8 +11313,8 @@ VALUES
     NOW()
   ),
   (
-    '9726a164-5d78-4e67-b054-1ecd0f0cefa2',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'fdcfc756-144d-4521-8579-2f2785ab5633',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRQ',
@@ -11323,8 +11323,8 @@ VALUES
     NOW()
   ),
   (
-    '1873c1a8-63fc-4a10-896d-c3aabcea6bdc',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'dbc66822-dc9e-418f-a18b-7a88d9b57223',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'iso3166-1-numeric',
     '368',
@@ -11333,8 +11333,8 @@ VALUES
     NOW()
   ),
   (
-    'caee28b5-8761-46fb-841b-6d0ab133ef4c',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '9838419a-686f-47be-b525-2ea4a4c81a70',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'un_a3',
     '368',
@@ -11343,8 +11343,8 @@ VALUES
     NOW()
   ),
   (
-    '55e20dff-7733-4b3f-b257-13c45e18d3e9',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '873210ef-f8bd-4889-9173-547c9c0a4f90',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'world_bank_a2',
     'IQ',
@@ -11353,8 +11353,8 @@ VALUES
     NOW()
   ),
   (
-    'b6e5d7c7-6f7f-4397-8d7f-18fe96bebf51',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '9e30d253-eab3-4509-8c4b-8d76810eac0d',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'world_bank_a3',
     'IRQ',
@@ -11363,8 +11363,8 @@ VALUES
     NOW()
   ),
   (
-    'b091c4d2-ec30-4532-be8a-5eec5054f868',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '9cf5e8bf-14c7-4fbd-830e-6ec75679dd59',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'natural_earth',
     'wikidata',
     'Q796',
@@ -11373,8 +11373,8 @@ VALUES
     NOW()
   ),
   (
-    '9eb40f55-5c8b-4f9b-a743-b7c6675fb8c0',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '268d6067-826b-4b58-b990-19e3a3c6129d',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'natural_earth_admin',
     'IRN',
@@ -11383,8 +11383,8 @@ VALUES
     NOW()
   ),
   (
-    '4310da9f-9ce5-444d-bc38-486064d987a6',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'f6b27def-ef6e-45f3-9511-f689349768c2',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'iso3166-1-alpha2',
     'IR',
@@ -11393,8 +11393,8 @@ VALUES
     NOW()
   ),
   (
-    '48657a5e-13be-4d2f-87fa-c94b47c072b6',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '1abece04-72a4-4233-9e78-d00ce9b9f87d',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'iso3166-1-alpha3',
     'IRN',
@@ -11403,8 +11403,8 @@ VALUES
     NOW()
   ),
   (
-    '13176043-c046-489e-9e66-91a864488cd8',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '71e860f0-c8bc-469c-a7e4-37f2e42ebfcc',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'iso3166-1-numeric',
     '364',
@@ -11413,8 +11413,8 @@ VALUES
     NOW()
   ),
   (
-    'd7866062-91a0-4628-a5e4-c9c58a25f17d',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '70ec4682-c4e3-423a-933a-bb2567bf596b',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'un_a3',
     '364',
@@ -11423,8 +11423,8 @@ VALUES
     NOW()
   ),
   (
-    '8b8d8d35-4a59-463f-89ed-79d67739c2ba',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '89a94e16-baf8-44ab-8d63-81baf2b0b4bf',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'world_bank_a2',
     'IR',
@@ -11433,8 +11433,8 @@ VALUES
     NOW()
   ),
   (
-    'a2bee8a2-330c-4ad2-b305-0d99689da936',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'ed897a40-e938-4960-aea5-4161701816aa',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'world_bank_a3',
     'IRN',
@@ -11443,8 +11443,8 @@ VALUES
     NOW()
   ),
   (
-    '75e65188-dc36-4ed0-af14-af977d34ae12',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '9580d271-52d3-46d2-8e14-4cd1cf0522b2',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'natural_earth',
     'wikidata',
     'Q794',
@@ -11453,8 +11453,8 @@ VALUES
     NOW()
   ),
   (
-    '713f1de7-73b9-4dfe-ab3a-a8a05bb02928',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '05474af1-678f-42a1-a004-d6d5eb9bbd7e',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'natural_earth_admin',
     'IDN',
@@ -11463,8 +11463,8 @@ VALUES
     NOW()
   ),
   (
-    'e32a311f-d881-4976-b8f9-73ef290f03d3',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'ef02a08c-a890-48c9-a3e4-5ca59e555483',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'iso3166-1-alpha2',
     'ID',
@@ -11473,8 +11473,8 @@ VALUES
     NOW()
   ),
   (
-    '339b4526-cca4-4994-883f-985e94874d98',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '13028686-5c7b-44af-a2ce-21567b99a62d',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'iso3166-1-alpha3',
     'IDN',
@@ -11483,8 +11483,8 @@ VALUES
     NOW()
   ),
   (
-    'a187ce36-eba5-4b2a-b3ab-77e7695c42d3',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'a425f56f-2adf-44be-8a65-7fc932f3a761',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'iso3166-1-numeric',
     '360',
@@ -11493,8 +11493,8 @@ VALUES
     NOW()
   ),
   (
-    '426ad793-7b47-414d-8150-2b114b838b85',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'f9bd9e28-58f3-4353-990d-4001f6e2b0c0',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'un_a3',
     '360',
@@ -11503,8 +11503,8 @@ VALUES
     NOW()
   ),
   (
-    '775c419e-f84d-4b83-9e71-0ea7a708d96a',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '6d919cf3-09cf-4780-b89e-bd577bf478c9',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'world_bank_a2',
     'ID',
@@ -11513,8 +11513,8 @@ VALUES
     NOW()
   ),
   (
-    'da7c6a1b-5b21-4e2e-9722-e689b0d5aa1c',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '47b8adf5-29ea-443c-8e83-bc55444677af',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'world_bank_a3',
     'IDN',
@@ -11523,8 +11523,8 @@ VALUES
     NOW()
   ),
   (
-    '9993c434-76de-408e-b609-889eb58ec1f0',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '6f6ea3f5-e6c4-48aa-823b-20af13b23f84',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'natural_earth',
     'wikidata',
     'Q252',
@@ -11533,8 +11533,8 @@ VALUES
     NOW()
   ),
   (
-    '17eeb506-5d88-4b44-bbd6-88d7b2b59dcb',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'e0cf01ac-88e2-4787-af9e-1019865061da',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'natural_earth_admin',
     'IND',
@@ -11543,8 +11543,8 @@ VALUES
     NOW()
   ),
   (
-    'e2fc1844-f7fa-497b-a29a-d67f56b32869',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'c8d84064-c17e-46b6-8d38-0fc7c3a5e7b0',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'iso3166-1-alpha2',
     'IN',
@@ -11553,8 +11553,8 @@ VALUES
     NOW()
   ),
   (
-    '06e54ed2-6fcc-492c-bbcf-89dbd6f3b5e0',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '2261489e-f4de-4bb9-92ea-9649bd5e20c9',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'iso3166-1-alpha3',
     'IND',
@@ -11563,8 +11563,8 @@ VALUES
     NOW()
   ),
   (
-    'e9bde911-816c-469d-8aaa-b5012e9e3253',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '98eff9d6-a46c-4556-8e3e-df8368a353ea',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'iso3166-1-numeric',
     '356',
@@ -11573,8 +11573,8 @@ VALUES
     NOW()
   ),
   (
-    '49a6f2af-568f-4931-bf84-a22278c90432',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'b33c80b9-31d1-4c58-adec-48368abf1e77',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'un_a3',
     '356',
@@ -11583,8 +11583,8 @@ VALUES
     NOW()
   ),
   (
-    'bb2d7aea-dc6f-4305-b98e-6e46f4e4a67a',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'a10621cf-ea96-4643-859b-76c70da76e3a',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'world_bank_a2',
     'IN',
@@ -11593,8 +11593,8 @@ VALUES
     NOW()
   ),
   (
-    '32cd7354-41b7-44e1-8e28-7109a0037b0d',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'ffb0e351-fb58-44d1-8593-e4343b21817e',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'world_bank_a3',
     'IND',
@@ -11603,8 +11603,8 @@ VALUES
     NOW()
   ),
   (
-    '3987e4d8-424e-4a85-a058-966b198f0127',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '8dfac5bf-0b6e-4a80-85ea-4181d1c25a38',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'natural_earth',
     'wikidata',
     'Q668',
@@ -11613,8 +11613,8 @@ VALUES
     NOW()
   ),
   (
-    '1b50b3f5-2529-4a51-80fb-16d676ff59c5',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '509872b2-57c4-46fc-8f04-cbddead4db3f',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'natural_earth_admin',
     'ISL',
@@ -11623,8 +11623,8 @@ VALUES
     NOW()
   ),
   (
-    '6244e0ec-19d7-4bc4-9c55-e035e5d59aaa',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '53ec5aaf-8bab-4da8-ace4-869841029dd7',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'iso3166-1-alpha2',
     'IS',
@@ -11633,8 +11633,8 @@ VALUES
     NOW()
   ),
   (
-    '13f8208d-5ecc-4fb8-a164-db103741dc2a',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'efa1eeb9-5223-4a7e-b611-d527b623a31a',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'iso3166-1-alpha3',
     'ISL',
@@ -11643,8 +11643,8 @@ VALUES
     NOW()
   ),
   (
-    '94056e31-4279-4f97-a4d3-d62543e0b91f',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '37afc01e-8728-46b8-81e6-373f5ca1be9c',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'iso3166-1-numeric',
     '352',
@@ -11653,8 +11653,8 @@ VALUES
     NOW()
   ),
   (
-    'ff221b90-73a1-46e0-bbad-642a47677689',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '057f302a-8e21-462f-aeab-3eff6f4d11b0',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'un_a3',
     '352',
@@ -11663,8 +11663,8 @@ VALUES
     NOW()
   ),
   (
-    '5913ba84-9877-45db-a012-f832ac07fc17',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '1073e23e-6304-4734-85d0-64d560441b57',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'world_bank_a2',
     'IS',
@@ -11673,8 +11673,8 @@ VALUES
     NOW()
   ),
   (
-    '5b9a3c9f-f5e4-4314-b3b4-ebb52bab26e0',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '80c3a539-a849-4e48-bd34-8f3fbd628466',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'world_bank_a3',
     'ISL',
@@ -11683,8 +11683,8 @@ VALUES
     NOW()
   ),
   (
-    '4220c511-f09b-4a0b-aa64-bbab912cc63d',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '7419818d-4d3b-4d60-ace1-9266f1e270da',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'natural_earth',
     'wikidata',
     'Q189',
@@ -11693,8 +11693,8 @@ VALUES
     NOW()
   ),
   (
-    '0efb65e1-c815-452b-afee-688882879883',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'fb368af1-5926-4094-baf3-17a754d3246a',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'natural_earth_admin',
     'HUN',
@@ -11703,8 +11703,8 @@ VALUES
     NOW()
   ),
   (
-    '72e87974-2f6c-4d07-9deb-129f3c0ac09a',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '1a3644ef-bafb-48e2-baee-d5ed4937a318',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'iso3166-1-alpha2',
     'HU',
@@ -11713,8 +11713,8 @@ VALUES
     NOW()
   ),
   (
-    'a797578d-2998-4ce7-89dc-872ea31d6a50',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '834f66fe-5495-4c37-b59b-20812b1e97e4',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'iso3166-1-alpha3',
     'HUN',
@@ -11723,8 +11723,8 @@ VALUES
     NOW()
   ),
   (
-    '167c9687-5fd8-4813-8479-6401c4639c93',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '3f0e0c4b-9b45-4995-9931-331792dcaefd',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'iso3166-1-numeric',
     '348',
@@ -11733,8 +11733,8 @@ VALUES
     NOW()
   ),
   (
-    'ad9e0a2a-4a17-4b4f-8193-5c9e7d172b1f',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '269b4b8d-d4db-407b-88df-7340aa9634df',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'un_a3',
     '348',
@@ -11743,8 +11743,8 @@ VALUES
     NOW()
   ),
   (
-    '6b01f8ce-7c12-4923-8029-d8ffd25e0ecb',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '8d1e92d5-5716-456a-8ab3-1a9493de6c8d',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'world_bank_a2',
     'HU',
@@ -11753,8 +11753,8 @@ VALUES
     NOW()
   ),
   (
-    '4b92432d-388a-4b16-b96e-e6a43cdb277a',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'b2da030e-63e9-4af2-91ea-aa39b5cdd437',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'world_bank_a3',
     'HUN',
@@ -11763,8 +11763,8 @@ VALUES
     NOW()
   ),
   (
-    'efeffa25-04f9-49fb-9d21-9d64b299eafc',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'dfe1f7d6-b9b8-4373-9da9-d532960c1742',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'natural_earth',
     'wikidata',
     'Q28',
@@ -11773,8 +11773,8 @@ VALUES
     NOW()
   ),
   (
-    'ec0aca1c-d8b3-46e3-ada8-e1e9d7c34a3c',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'f3a02e4e-fddc-479c-9dfb-2778433962e9',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'natural_earth_admin',
     'HND',
@@ -11783,8 +11783,8 @@ VALUES
     NOW()
   ),
   (
-    'd8deff8a-62d4-488a-b5df-7df72cfc3fd5',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '75c06f04-2aa2-4b39-9088-5fa50859d9ed',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'iso3166-1-alpha2',
     'HN',
@@ -11793,8 +11793,8 @@ VALUES
     NOW()
   ),
   (
-    '0dc15d43-462a-4634-966b-1f5f70e20575',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '33fd7a3f-b3d3-4a8b-8b55-d62307d916ed',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'iso3166-1-alpha3',
     'HND',
@@ -11803,8 +11803,8 @@ VALUES
     NOW()
   ),
   (
-    'd60034c1-546b-4d53-86a4-b7f5c91591eb',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '3fc86f3f-a4f2-4aad-8a83-1ee3b26e8dee',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'iso3166-1-numeric',
     '340',
@@ -11813,8 +11813,8 @@ VALUES
     NOW()
   ),
   (
-    'c23338e2-74a1-46fb-b59f-248619f560bb',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '2aaf5e51-1ab5-427a-8037-79879b57fea5',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'un_a3',
     '340',
@@ -11823,8 +11823,8 @@ VALUES
     NOW()
   ),
   (
-    'de68a53b-cc1f-4f7c-a14c-75254c18cf02',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'a48952d1-319d-4afd-a1d1-6ef9bb008efb',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'world_bank_a2',
     'HN',
@@ -11833,8 +11833,8 @@ VALUES
     NOW()
   ),
   (
-    'ed639ecb-da00-4135-bf57-143bbcc9d717',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'cfa81094-f5cb-4a8b-b41c-f7b67460ba3b',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'world_bank_a3',
     'HND',
@@ -11843,8 +11843,8 @@ VALUES
     NOW()
   ),
   (
-    '50de2887-917f-4e8c-b675-8487c563f7d6',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '394bc401-34ef-4081-8d28-7ff80130f3ff',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'natural_earth',
     'wikidata',
     'Q783',
@@ -11853,8 +11853,8 @@ VALUES
     NOW()
   ),
   (
-    'e5d44a2f-7372-45a6-9de5-25714fd9be0a',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'c2e21522-d54e-4a7f-9112-234bc06802ae',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'natural_earth_admin',
     'HTI',
@@ -11863,8 +11863,8 @@ VALUES
     NOW()
   ),
   (
-    '599a391f-65e6-4530-a0ae-c4c36e817e88',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '20e4e629-3501-4165-b602-bf216b40676c',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'iso3166-1-alpha2',
     'HT',
@@ -11873,8 +11873,8 @@ VALUES
     NOW()
   ),
   (
-    '21a28269-fea0-4af3-b5a5-61e61b2d2b45',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'bf36f516-fcd4-45fb-a73d-f1b011dd0557',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'iso3166-1-alpha3',
     'HTI',
@@ -11883,8 +11883,8 @@ VALUES
     NOW()
   ),
   (
-    '148a1405-8947-47a9-a1d3-a4cf4021af4b',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '1f36598b-020c-443c-bcc0-bfb594845692',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'iso3166-1-numeric',
     '332',
@@ -11893,8 +11893,8 @@ VALUES
     NOW()
   ),
   (
-    '4a3a18b1-586d-4c5c-90fd-5f7bf509d41d',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'bea6643e-afc7-4bb6-b8bb-308edfb6c977',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'un_a3',
     '332',
@@ -11903,8 +11903,8 @@ VALUES
     NOW()
   ),
   (
-    'a96566b7-7ade-40e7-bb3f-65ac3224c157',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '60f69003-cc0e-45a5-a5ab-88b94f4ffb7c',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'world_bank_a2',
     'HT',
@@ -11913,8 +11913,8 @@ VALUES
     NOW()
   ),
   (
-    '266b079b-025c-4866-8d8d-067866640fde',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'a9e64b05-9886-4663-9b46-e8e0916a9a26',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'world_bank_a3',
     'HTI',
@@ -11923,8 +11923,8 @@ VALUES
     NOW()
   ),
   (
-    'af4a9ec9-128d-442a-8f14-72e3ead4b8cb',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '46cee49c-af3a-4bbe-b6fd-9fda0114ff6d',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'natural_earth',
     'wikidata',
     'Q790',
@@ -11933,8 +11933,8 @@ VALUES
     NOW()
   ),
   (
-    '7b527e57-c53a-4034-b0ac-4a5df04f77f7',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '5261a97a-056c-44b1-9912-f11569e4dfb4',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'natural_earth_admin',
     'GUY',
@@ -11943,8 +11943,8 @@ VALUES
     NOW()
   ),
   (
-    'dddca3fb-3f11-4737-8517-6af0391300d5',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'c139f8dc-05d5-4ba6-9435-9de72ecb66cf',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'iso3166-1-alpha2',
     'GY',
@@ -11953,8 +11953,8 @@ VALUES
     NOW()
   ),
   (
-    'd7b71cbb-87ed-4f98-a0a1-03f0fe78537d',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '37947976-31ca-49af-bbf1-bf507d28ca19',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'iso3166-1-alpha3',
     'GUY',
@@ -11963,8 +11963,8 @@ VALUES
     NOW()
   ),
   (
-    'c6fc69c8-0767-4093-b284-78b920ae2519',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '5968bc5a-0f6c-40c0-8576-7e0bff900101',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'iso3166-1-numeric',
     '328',
@@ -11973,8 +11973,8 @@ VALUES
     NOW()
   ),
   (
-    'f50e0351-30e8-46bf-a912-ca5cb9435aeb',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'c99d7add-4a8e-471f-9fbb-cd32c193a158',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'un_a3',
     '328',
@@ -11983,8 +11983,8 @@ VALUES
     NOW()
   ),
   (
-    '1dc55c6a-1ec6-4c1d-a59a-0aeacc652c9e',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '5bf28377-1cb2-406f-961f-b183fdd40002',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'world_bank_a2',
     'GY',
@@ -11993,8 +11993,8 @@ VALUES
     NOW()
   ),
   (
-    'e9bd3a67-e2ed-4f91-88ae-04980362ca73',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '1f9512ea-bf7a-4e60-b55d-e2154ad12b96',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'world_bank_a3',
     'GUY',
@@ -12003,8 +12003,8 @@ VALUES
     NOW()
   ),
   (
-    '5dc2fceb-e766-494a-bc87-c3056b345dc1',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '9d55485b-089e-4a10-a899-e513ccf4adc0',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'natural_earth',
     'wikidata',
     'Q734',
@@ -12013,8 +12013,8 @@ VALUES
     NOW()
   ),
   (
-    '4b0c4ed5-07c5-4496-afc0-56ebce3f6b13',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'ecf53722-e643-4c86-9d97-d70c875d2f8d',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'natural_earth_admin',
     'GNB',
@@ -12023,8 +12023,8 @@ VALUES
     NOW()
   ),
   (
-    '0ffb34ae-5cc2-4f55-a8d3-cf10fe3dfb51',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'dc3a6377-828d-4ddc-956b-f65906ed1126',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'iso3166-1-alpha2',
     'GW',
@@ -12033,8 +12033,8 @@ VALUES
     NOW()
   ),
   (
-    '273a4ac8-0125-460e-9138-0bdf5c6e660f',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'ae4777d3-be87-4290-b573-88d32e3fcefb',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'iso3166-1-alpha3',
     'GNB',
@@ -12043,8 +12043,8 @@ VALUES
     NOW()
   ),
   (
-    '8ddbceec-4772-4a3e-96ae-cd4f7cb492df',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '761e3f38-3814-4073-9905-48ec295cb64a',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'iso3166-1-numeric',
     '624',
@@ -12053,8 +12053,8 @@ VALUES
     NOW()
   ),
   (
-    '339702df-0301-439e-9710-7fde43932533',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '59b0fbb1-7fdc-4b32-8ac1-df4c94b84e4d',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'un_a3',
     '624',
@@ -12063,8 +12063,8 @@ VALUES
     NOW()
   ),
   (
-    '4549f71d-4456-4afd-8d74-b06b526fd0e3',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '1d399f28-d4a9-445f-bbb1-f3699ef03474',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'world_bank_a2',
     'GW',
@@ -12073,8 +12073,8 @@ VALUES
     NOW()
   ),
   (
-    '5e8e22ce-0ad7-4c3e-99db-1749beb26cc6',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '52482c88-9a00-4438-a5ac-f8426371a983',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'world_bank_a3',
     'GNB',
@@ -12083,8 +12083,8 @@ VALUES
     NOW()
   ),
   (
-    '6dc0007a-8d68-4203-a3d1-14b4e74ead80',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '3615a332-ef11-497d-b498-376625cd6cc0',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'natural_earth',
     'wikidata',
     'Q1007',
@@ -12093,8 +12093,8 @@ VALUES
     NOW()
   ),
   (
-    '6f8c4d4a-36bd-4859-ba43-c121125ce81c',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'ea1d0a3c-0c25-4a2a-857d-b54b6b94af10',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'natural_earth_admin',
     'GIN',
@@ -12103,8 +12103,8 @@ VALUES
     NOW()
   ),
   (
-    'd479a1ca-f8b7-4e26-b278-ff9a52f81e82',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '1046aff1-d9d6-4da1-8ac8-1a05cb55844f',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'iso3166-1-alpha2',
     'GN',
@@ -12113,8 +12113,8 @@ VALUES
     NOW()
   ),
   (
-    'd053acb3-4ccc-44ac-8281-0dc5c792076e',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'b4c985b5-a92c-41fa-84e1-8a4f571cf882',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'iso3166-1-alpha3',
     'GIN',
@@ -12123,8 +12123,8 @@ VALUES
     NOW()
   ),
   (
-    'cca79066-941c-40c4-914a-c89bdbca99d3',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'bcf583f9-1e42-4cc5-99ca-79b212a680a4',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'iso3166-1-numeric',
     '324',
@@ -12133,8 +12133,8 @@ VALUES
     NOW()
   ),
   (
-    '47bb5ea0-73b0-42cd-84d5-5a6c06b8f341',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '1d74a592-9e43-4246-9513-48196af22e4f',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'un_a3',
     '324',
@@ -12143,8 +12143,8 @@ VALUES
     NOW()
   ),
   (
-    '88d9afa7-b52a-4797-8de4-53f21c180313',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '6b71ce06-0ea2-44a8-a839-d5cfa08f072e',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'world_bank_a2',
     'GN',
@@ -12153,8 +12153,8 @@ VALUES
     NOW()
   ),
   (
-    'e0585d15-63bb-4400-a0a6-d9cecda65e33',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '364238ab-544e-4c83-9391-b57b30bddb1b',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'world_bank_a3',
     'GIN',
@@ -12163,8 +12163,8 @@ VALUES
     NOW()
   ),
   (
-    '56799ee0-734b-4dc7-bd02-725e23aff747',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '943981fd-3cda-4838-be11-4176985653b3',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'natural_earth',
     'wikidata',
     'Q1006',
@@ -12173,8 +12173,8 @@ VALUES
     NOW()
   ),
   (
-    'a588c506-c135-4e0e-bc1f-f4434818d2bf',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'af4623b0-5746-4d64-ad93-b8b40f7d5eb6',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'natural_earth_admin',
     'GTM',
@@ -12183,8 +12183,8 @@ VALUES
     NOW()
   ),
   (
-    '935673ec-49d8-4957-ad9d-de3bbc6dcdc1',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '2bcb0de0-1344-4bad-a152-9c6ad06fde46',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'iso3166-1-alpha2',
     'GT',
@@ -12193,8 +12193,8 @@ VALUES
     NOW()
   ),
   (
-    'e9a5c2ff-52a8-419e-b6fb-f26c78e5450a',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '9e767fb6-c2df-4c36-861c-5e7d79a725ed',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'iso3166-1-alpha3',
     'GTM',
@@ -12203,8 +12203,8 @@ VALUES
     NOW()
   ),
   (
-    '2d6babf2-f982-48df-8ea1-bb9823c4ebac',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '019479a1-9546-4122-9990-cb59e114ea83',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'iso3166-1-numeric',
     '320',
@@ -12213,8 +12213,8 @@ VALUES
     NOW()
   ),
   (
-    '97e344bb-d62e-4819-bc66-3a0c9204b42b',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '0a8419fe-f16b-4412-b01c-8e9a02fcb780',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'un_a3',
     '320',
@@ -12223,8 +12223,8 @@ VALUES
     NOW()
   ),
   (
-    '8de0c9a5-6074-429e-9947-fae06e923782',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'fcfd109b-d614-42cb-8935-cdd81be02850',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'world_bank_a2',
     'GT',
@@ -12233,8 +12233,8 @@ VALUES
     NOW()
   ),
   (
-    '9651fcb1-e3de-4bc7-8378-93aad975bc4d',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'c4a66f69-0ff2-448e-b2cf-27575ce7dd97',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'world_bank_a3',
     'GTM',
@@ -12243,8 +12243,8 @@ VALUES
     NOW()
   ),
   (
-    '0f462e2b-e38a-4a71-8ca7-8cbb5980327d',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '8c4900da-4ade-484e-89db-fcab110de635',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'natural_earth',
     'wikidata',
     'Q774',
@@ -12253,8 +12253,8 @@ VALUES
     NOW()
   ),
   (
-    'ec2cb046-9137-4aad-9f82-a7b8b27c5507',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '8f720530-4b6a-494b-8412-7ef1f12aa29d',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'natural_earth_admin',
     'GRD',
@@ -12263,8 +12263,8 @@ VALUES
     NOW()
   ),
   (
-    '7dc1a771-f7f9-426b-8342-aefd6fb01d0b',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '598fd206-8305-4f40-bc16-3a7e9775f6a9',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'iso3166-1-alpha2',
     'GD',
@@ -12273,8 +12273,8 @@ VALUES
     NOW()
   ),
   (
-    '9835f560-5487-451e-b836-ef0ea625d9e4',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '048fe143-4b61-4b63-99b4-e80574f5cccf',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRD',
@@ -12283,8 +12283,8 @@ VALUES
     NOW()
   ),
   (
-    'f0eca24a-15b8-4e40-99a4-4b19cb188202',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '93888cc9-32bf-4c77-a268-5bfb201230fe',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'iso3166-1-numeric',
     '308',
@@ -12293,8 +12293,8 @@ VALUES
     NOW()
   ),
   (
-    '7d32ff06-1d2c-496b-8711-55835379de88',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'fc02ff49-dc0f-41d2-b219-e338f711cf4c',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'un_a3',
     '308',
@@ -12303,8 +12303,8 @@ VALUES
     NOW()
   ),
   (
-    '661d8801-c84b-4023-b1c7-91359880ef94',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '14e71001-b946-4f66-9dfd-750cc08632c4',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'world_bank_a2',
     'GD',
@@ -12313,8 +12313,8 @@ VALUES
     NOW()
   ),
   (
-    'ead78ae7-d6c5-47b0-8957-5798d4aab9aa',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'fc568b1f-a265-4483-abbf-542268530447',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'world_bank_a3',
     'GRD',
@@ -12323,8 +12323,8 @@ VALUES
     NOW()
   ),
   (
-    'a9cf3f6f-626f-431d-8ac2-bb9924d424d0',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '28139edb-6500-4553-8105-6955536b701f',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'natural_earth',
     'wikidata',
     'Q769',
@@ -12333,8 +12333,8 @@ VALUES
     NOW()
   ),
   (
-    'fbee31c6-6304-45ad-8f75-c00fc022d0cf',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'ee8c1d95-2c5b-49c7-bdd7-cf27101ef6f7',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'natural_earth_admin',
     'GRC',
@@ -12343,8 +12343,8 @@ VALUES
     NOW()
   ),
   (
-    '4269bf95-cb4b-48b5-8fd0-707273b9b6c6',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '83a27d43-843d-4d36-b6b7-86d9683ec83e',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'iso3166-1-alpha2',
     'GR',
@@ -12353,8 +12353,8 @@ VALUES
     NOW()
   ),
   (
-    '7a138766-74a6-45ec-85cb-258d03bd777d',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '97216afd-79a2-4195-81ef-aad054d1046d',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRC',
@@ -12363,8 +12363,8 @@ VALUES
     NOW()
   ),
   (
-    'a3418d9f-3acd-42e8-8804-0a4d7f81a219',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'a1f56941-bbd4-40bb-9290-d99599c89c14',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'iso3166-1-numeric',
     '300',
@@ -12373,8 +12373,8 @@ VALUES
     NOW()
   ),
   (
-    'caf11e10-d62f-49de-b487-fa77bb5d5c1d',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '11f71a63-a668-4e0f-b031-c95551ab519a',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'un_a3',
     '300',
@@ -12383,8 +12383,8 @@ VALUES
     NOW()
   ),
   (
-    'b1c777ee-352e-4dc8-be40-e3c48f25a8de',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'fd0e0d26-2f2f-4cd7-b122-2d29b29618c4',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'world_bank_a2',
     'GR',
@@ -12393,8 +12393,8 @@ VALUES
     NOW()
   ),
   (
-    'd1abc3a6-fed3-4731-a77b-bbb481d4a9b4',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '72888da4-875f-402f-b63d-3b41382ae487',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'world_bank_a3',
     'GRC',
@@ -12403,8 +12403,8 @@ VALUES
     NOW()
   ),
   (
-    'f853737b-ae54-42a4-9790-0c0d6e1c8cbb',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '53ccad4b-d096-4d9a-b3a9-6e874a12381f',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'natural_earth',
     'wikidata',
     'Q41',
@@ -12413,8 +12413,8 @@ VALUES
     NOW()
   ),
   (
-    'e7383280-6ac8-42e8-97ed-b1112a8f8b81',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '98db03d8-d854-4bec-a41a-c60f36582f4a',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'natural_earth_admin',
     'GHA',
@@ -12423,8 +12423,8 @@ VALUES
     NOW()
   ),
   (
-    '67c58446-8394-4cdf-90a1-c20ad5f76427',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '91fb53d4-dc7a-47c8-87fa-ca64f210494f',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'iso3166-1-alpha2',
     'GH',
@@ -12433,8 +12433,8 @@ VALUES
     NOW()
   ),
   (
-    'b765fff2-52b6-4177-b64f-9b683e42f4d0',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '8a1154b0-df5d-4486-8a8a-d06b0b269c9b',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'iso3166-1-alpha3',
     'GHA',
@@ -12443,8 +12443,8 @@ VALUES
     NOW()
   ),
   (
-    '3e105558-308c-400e-ba74-9c1bb0d48f5a',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '6913b531-f284-4b9d-8cd5-ea3b866a9562',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'iso3166-1-numeric',
     '288',
@@ -12453,8 +12453,8 @@ VALUES
     NOW()
   ),
   (
-    '7e6359be-ba1e-456d-8b28-b5abe3a6cadf',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '1219dcba-c2d8-4f49-883f-3182616e4b06',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'un_a3',
     '288',
@@ -12463,8 +12463,8 @@ VALUES
     NOW()
   ),
   (
-    '1573c7c8-247d-477e-8e82-bd0cfaa6ed4e',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '3ae6b34f-3e16-4065-96ae-382510b64829',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'world_bank_a2',
     'GH',
@@ -12473,8 +12473,8 @@ VALUES
     NOW()
   ),
   (
-    '41eed106-fd79-483c-b765-bd29596366e8',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '51a992f2-7dad-490e-8238-1e3b9c05d397',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'world_bank_a3',
     'GHA',
@@ -12483,8 +12483,8 @@ VALUES
     NOW()
   ),
   (
-    'c5ee90c4-ca67-485b-9374-7c58b3b9e4d4',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '3f091232-6249-44bf-a970-efa829f6c70f',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'natural_earth',
     'wikidata',
     'Q117',
@@ -12493,8 +12493,8 @@ VALUES
     NOW()
   ),
   (
-    '1c2ea8b7-1542-46ac-942b-1050e931c281',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'fe2e8ea0-26d9-4d3b-83c3-98b22ad510b4',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'natural_earth_admin',
     'DEU',
@@ -12503,8 +12503,8 @@ VALUES
     NOW()
   ),
   (
-    '60d94147-ebb6-487a-a6b0-50c0c88ef327',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'dd0eeee8-2fb5-4fca-b676-f4f6e2c54544',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'iso3166-1-alpha2',
     'DE',
@@ -12513,8 +12513,8 @@ VALUES
     NOW()
   ),
   (
-    '614ca67f-ceba-46aa-98ae-d4db66508258',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '8906b44a-94c6-4f08-b4e4-7cde55137cde',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'iso3166-1-alpha3',
     'DEU',
@@ -12523,8 +12523,8 @@ VALUES
     NOW()
   ),
   (
-    'f7522e97-4010-4ae7-ae25-f22dd2b601a7',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '6ab4a27a-012f-4550-8754-a49f1d82cfe2',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'iso3166-1-numeric',
     '276',
@@ -12533,8 +12533,8 @@ VALUES
     NOW()
   ),
   (
-    '64dea58d-c984-4a59-a432-fdc4c44e0f80',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '9f9ad852-d0e8-4c9a-94c8-4d497b9a92fe',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'un_a3',
     '276',
@@ -12543,8 +12543,8 @@ VALUES
     NOW()
   ),
   (
-    'b2d4ba4e-6374-447f-ab6a-d21a5e489b5e',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '005cdc31-e5b6-45b7-88ae-6c929b6f0a24',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'world_bank_a2',
     'DE',
@@ -12553,8 +12553,8 @@ VALUES
     NOW()
   ),
   (
-    '48fd4c97-9dd2-46ed-8092-bbd522720258',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '23d6bb17-31a8-4adc-b012-83313badb7bb',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'world_bank_a3',
     'DEU',
@@ -12563,8 +12563,8 @@ VALUES
     NOW()
   ),
   (
-    'e46a4e94-d3f3-4bbf-ae0a-a7dc7f53f40d',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '98b8fa7e-c6df-4054-8cd0-469b1db1fe63',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'natural_earth',
     'wikidata',
     'Q183',
@@ -12573,8 +12573,8 @@ VALUES
     NOW()
   ),
   (
-    '251fc976-b829-4a5a-9f2c-0e09cede6a60',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '18d7d27c-5766-426c-a9eb-1a22d534645a',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'natural_earth_admin',
     'GEO',
@@ -12583,8 +12583,8 @@ VALUES
     NOW()
   ),
   (
-    'a8dc5ec2-5cf1-4cc8-a61a-9eb0dbc4c112',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'c12ef745-0422-41ed-9f0e-c880f17f56aa',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'iso3166-1-alpha2',
     'GE',
@@ -12593,8 +12593,8 @@ VALUES
     NOW()
   ),
   (
-    '7bc7ba02-b553-4d58-8969-34ecba0206e7',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'c42d7c47-c7ad-4ffa-a4aa-fbd92b334d70',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'iso3166-1-alpha3',
     'GEO',
@@ -12603,8 +12603,8 @@ VALUES
     NOW()
   ),
   (
-    '7b633499-72f5-49f7-9a87-4b5db7fd4ef6',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'f848b4a8-596f-479e-9582-290a40aebda4',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'iso3166-1-numeric',
     '268',
@@ -12613,8 +12613,8 @@ VALUES
     NOW()
   ),
   (
-    'd4463989-695c-43ee-89f8-275dffe87f6c',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'b5064833-3b28-408f-80c7-655b7464bd09',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'un_a3',
     '268',
@@ -12623,8 +12623,8 @@ VALUES
     NOW()
   ),
   (
-    '6c3a164f-7a6b-4378-a7c5-7d3f260617d3',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '5c716d4b-8c08-4619-bfe0-8e918eedc46c',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'world_bank_a2',
     'GE',
@@ -12633,8 +12633,8 @@ VALUES
     NOW()
   ),
   (
-    '26e6dc7c-eaf9-48cf-8277-bc20d1aa520a',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '8ac62cab-12d9-4750-b740-a06da79fa19f',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'world_bank_a3',
     'GEO',
@@ -12643,8 +12643,8 @@ VALUES
     NOW()
   ),
   (
-    'b5e61be0-846d-472b-922a-9f74834f9de5',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '42e562bf-31aa-4f45-8bac-2d07fb93111c',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'natural_earth',
     'wikidata',
     'Q230',
@@ -12653,8 +12653,8 @@ VALUES
     NOW()
   ),
   (
-    '553c9cba-7ad3-4cc3-80ae-9ecc50c044de',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'e3102ae5-2b23-45e9-9abb-151c76ae2e59',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'natural_earth_admin',
     'GMB',
@@ -12663,8 +12663,8 @@ VALUES
     NOW()
   ),
   (
-    '6214e2d1-db51-407b-a14a-94012b6f7c62',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '79dfc77a-57b0-4674-a90a-06de7a078d17',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'iso3166-1-alpha2',
     'GM',
@@ -12673,8 +12673,8 @@ VALUES
     NOW()
   ),
   (
-    'a4a62c6a-34b3-4173-a564-41d419383f18',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '2ba894a6-7834-4c92-9bbf-88c80f7c0bd1',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'iso3166-1-alpha3',
     'GMB',
@@ -12683,8 +12683,8 @@ VALUES
     NOW()
   ),
   (
-    'd464218c-e016-423e-82f2-68f73fa2c14c',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '8fe3276c-147a-49a5-8018-6eb59798ba26',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'iso3166-1-numeric',
     '270',
@@ -12693,8 +12693,8 @@ VALUES
     NOW()
   ),
   (
-    'b34851b6-6501-45be-9c17-78327c99c291',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '3ac0e8bf-a75d-4ac5-80fc-eb6e7b1fb092',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'un_a3',
     '270',
@@ -12703,8 +12703,8 @@ VALUES
     NOW()
   ),
   (
-    '6105e4bb-9d04-4ef4-bf9c-9e0e32e16441',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'f45772c5-de03-4626-ada3-6f88cab75cf6',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'world_bank_a2',
     'GM',
@@ -12713,8 +12713,8 @@ VALUES
     NOW()
   ),
   (
-    'df9f246b-bc77-458a-a97f-cc7c12defc5b',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '8c9bbd7d-170c-4907-9ab7-165d2b6e0218',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'world_bank_a3',
     'GMB',
@@ -12723,8 +12723,8 @@ VALUES
     NOW()
   ),
   (
-    '005017d5-0f9d-4262-bd9b-e843943645d4',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'ccb84d0a-7ccf-41ef-8640-a1e20ff68763',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'natural_earth',
     'wikidata',
     'Q1005',
@@ -12733,8 +12733,8 @@ VALUES
     NOW()
   ),
   (
-    '83b90273-3d33-43d9-a742-6b8a4d365c00',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'dd4e28b6-13e5-49e9-a297-0ef081402096',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'natural_earth_admin',
     'GAB',
@@ -12743,8 +12743,8 @@ VALUES
     NOW()
   ),
   (
-    'ac9c46c6-d47b-4b03-bf5f-34a00667eb58',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '1df18e41-0f91-4dce-9d3f-0a1386b76ad8',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'iso3166-1-alpha2',
     'GA',
@@ -12753,8 +12753,8 @@ VALUES
     NOW()
   ),
   (
-    '4f76ec98-be61-4100-8a01-a3647539e46e',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '782a302b-58a3-4063-bcbb-5aaa608eadc4',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'iso3166-1-alpha3',
     'GAB',
@@ -12763,8 +12763,8 @@ VALUES
     NOW()
   ),
   (
-    'cbf1eaa7-0527-45a6-8541-60d98c20fe0a',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '5aef3a31-3e66-4552-8998-aedc3c076a78',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'iso3166-1-numeric',
     '266',
@@ -12773,8 +12773,8 @@ VALUES
     NOW()
   ),
   (
-    '9dda9aaa-9086-4b1b-a688-14426233e9ee',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '07f5ecd4-d8b8-44f2-8380-969dac702543',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'un_a3',
     '266',
@@ -12783,8 +12783,8 @@ VALUES
     NOW()
   ),
   (
-    '93c796f9-7f70-40c4-b201-4c1a7273c65c',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '2b347e50-37fd-4c84-85c9-37fd2c7308c6',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'world_bank_a2',
     'GA',
@@ -12793,8 +12793,8 @@ VALUES
     NOW()
   ),
   (
-    '2eda32f0-8d62-4fa1-852b-adcf7f4dc4be',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '6a17b5bc-1947-41e1-b158-245a51f81651',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'world_bank_a3',
     'GAB',
@@ -12803,8 +12803,8 @@ VALUES
     NOW()
   ),
   (
-    '87c6b267-8a1d-4f37-ab88-e1dae8e82f22',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'b2c5bdc9-05b9-4e4c-ac39-e5f192d62234',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'natural_earth',
     'wikidata',
     'Q1000',
@@ -12813,8 +12813,8 @@ VALUES
     NOW()
   ),
   (
-    'a8e67d24-b6ef-46a9-a453-2b304ff51c3d',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'b17a9871-d412-4d24-8b52-9fd2ae95aa4e',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'natural_earth_admin',
     'FRA',
@@ -12823,8 +12823,8 @@ VALUES
     NOW()
   ),
   (
-    'a237ae55-c035-4c45-8834-43d0755b3b33',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '8cceb9a0-3aae-42a0-ad22-b958f07b9982',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -12833,8 +12833,8 @@ VALUES
     NOW()
   ),
   (
-    'bbc70b25-d151-4f66-884b-b3f9622e9398',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'edb1c202-8676-4729-ba29-62fe8930b53f',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -12843,8 +12843,8 @@ VALUES
     NOW()
   ),
   (
-    '898b247f-e2df-4d20-bda6-2d48ef879732',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '2b6b72c3-87b1-4901-b2cb-444547c168f3',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -12853,8 +12853,8 @@ VALUES
     NOW()
   ),
   (
-    '2d295d6b-c78c-4293-b619-84c4dae9bd88',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'b5122173-d603-4b23-a240-25d203c30631',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'un_a3',
     '250',
@@ -12863,8 +12863,8 @@ VALUES
     NOW()
   ),
   (
-    '290a16dd-6692-415b-9654-2ac5ff69c3d0',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'd364d078-f9b3-407b-bb87-0d0a3d9e2d96',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'world_bank_a2',
     'FR',
@@ -12873,8 +12873,8 @@ VALUES
     NOW()
   ),
   (
-    '7486078a-0713-4a24-93c0-b7f93e3b3878',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'b0953223-2fcb-4ae4-834e-7129a194c1d3',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'world_bank_a3',
     'FRA',
@@ -12883,8 +12883,8 @@ VALUES
     NOW()
   ),
   (
-    '86385247-0390-4099-b5a0-543b2158bc4d',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '73446bf8-d0a3-4e99-9740-f8ac7069eef1',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'natural_earth',
     'wikidata',
     'Q142',
@@ -12893,8 +12893,8 @@ VALUES
     NOW()
   ),
   (
-    '9cb6ce61-2335-4690-93ba-2e7a9bf229b2',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '4857af1f-a66e-463a-ae61-eb9a5fa80797',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'natural_earth_admin',
     'SPM',
@@ -12903,8 +12903,8 @@ VALUES
     NOW()
   ),
   (
-    '83de6dde-26ae-4b6b-96e1-98c29e7de287',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'ccbacc93-774f-43de-81fd-b5e74ab5a15a',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'iso3166-1-alpha2',
     'PM',
@@ -12913,8 +12913,8 @@ VALUES
     NOW()
   ),
   (
-    'ae855ac8-6cf8-4036-83e7-4b973b698c59',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '7c68a00d-86f3-4492-905d-a1b1d491efd1',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'iso3166-1-alpha3',
     'SPM',
@@ -12923,8 +12923,8 @@ VALUES
     NOW()
   ),
   (
-    '5be8374b-d593-428a-8822-903b1050bb04',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '41b73622-95e0-4fd7-9f1e-9141d96eccfd',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'iso3166-1-numeric',
     '666',
@@ -12933,8 +12933,8 @@ VALUES
     NOW()
   ),
   (
-    'dd6f8e0b-0e37-427c-9e53-69fd236ff783',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'b78944be-a0fc-48f4-a9ee-b93290124921',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'un_a3',
     '666',
@@ -12943,8 +12943,8 @@ VALUES
     NOW()
   ),
   (
-    '2d1cb28b-a4fe-4cce-807f-f4cee3d6d19b',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '6a133410-9869-47a7-b02d-ac98adea6338',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -12953,8 +12953,8 @@ VALUES
     NOW()
   ),
   (
-    '9f4dce13-b01a-40c3-bf1e-71d93974cc9c',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'ffb4945f-569c-4985-bcd4-15d9f30cc7a6',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -12963,8 +12963,8 @@ VALUES
     NOW()
   ),
   (
-    '6c41aa65-12eb-4b25-85b8-155c54596426',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '6b18b475-0f50-4a62-9702-81604a3f598f',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'natural_earth',
     'wikidata',
     'Q34617',
@@ -12973,8 +12973,8 @@ VALUES
     NOW()
   ),
   (
-    '0e27ab61-f026-4e81-a147-3c8f644f1929',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'c4e5647d-b707-4f8b-9515-93d395896dd0',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'natural_earth_admin',
     'WLF',
@@ -12983,8 +12983,8 @@ VALUES
     NOW()
   ),
   (
-    '7bd229b4-5967-4ee7-b475-05303b872b2e',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '400c90ef-3900-4f7e-a0f8-3533f30e53e8',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'iso3166-1-alpha2',
     'WF',
@@ -12993,8 +12993,8 @@ VALUES
     NOW()
   ),
   (
-    '1a6655f3-931e-495b-a44d-0a10b5e352fb',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '3f9ead1c-770b-4230-bf3c-076899a3a493',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'iso3166-1-alpha3',
     'WLF',
@@ -13003,8 +13003,8 @@ VALUES
     NOW()
   ),
   (
-    'ddccc489-b38d-453b-82f1-4fdfe3ceece4',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '3862ed91-4223-459e-aa59-3694de059598',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'iso3166-1-numeric',
     '876',
@@ -13013,8 +13013,8 @@ VALUES
     NOW()
   ),
   (
-    '774431c7-c83f-4cdb-b673-9d5d7d3d0a81',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '644446fa-aa77-437b-b854-51dd3b76b26a',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'un_a3',
     '876',
@@ -13023,8 +13023,8 @@ VALUES
     NOW()
   ),
   (
-    'aa8161be-6209-468b-8490-d0a2e1ea8849',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'c45860fd-4a59-45bc-b226-73df5ae8560e',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -13033,8 +13033,8 @@ VALUES
     NOW()
   ),
   (
-    '642bf869-d39f-455b-8c7d-602bdca28225',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '939120b1-b7af-4ea3-abff-88db9c6b04db',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -13043,8 +13043,8 @@ VALUES
     NOW()
   ),
   (
-    '7cbf926a-bccb-4a77-8ad1-b68940254e2a',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '14132ae7-07a4-4c4d-abbf-fe9289a18812',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'natural_earth',
     'wikidata',
     'Q35555',
@@ -13053,8 +13053,8 @@ VALUES
     NOW()
   ),
   (
-    '7d0bf758-f1ed-4779-88a4-8f6cf63bd847',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '8c7954ec-5602-468f-a585-2c38c1e2d1ca',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'natural_earth_admin',
     'MAF',
@@ -13063,8 +13063,8 @@ VALUES
     NOW()
   ),
   (
-    'f64eea64-0c36-4c7a-ba55-f9e0dac85c76',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'd2ab3403-6b3a-4b34-87a7-463c735f6582',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'iso3166-1-alpha2',
     'MF',
@@ -13073,8 +13073,8 @@ VALUES
     NOW()
   ),
   (
-    '1d096de7-fd0e-418b-947d-38891eec3851',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '20729d42-81bf-4a27-8d6e-ae3b4c6ff4e8',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAF',
@@ -13083,8 +13083,8 @@ VALUES
     NOW()
   ),
   (
-    '2188f8c7-cdc7-4aec-ae6a-b32bd49be991',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '425e77df-e1c8-4617-a848-36fe25786aab',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'iso3166-1-numeric',
     '663',
@@ -13093,8 +13093,8 @@ VALUES
     NOW()
   ),
   (
-    '5d108c9a-16f1-4f4d-8a3d-b9a11b3c4de5',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '1f7ecfe0-a130-41c9-9738-3fac0fc74c1d',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'un_a3',
     '663',
@@ -13103,8 +13103,8 @@ VALUES
     NOW()
   ),
   (
-    'ef5839e2-9c1d-47d6-87ec-6a7a5e0297c5',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '54429552-7cea-4731-b7e0-2f99d9c565a9',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'world_bank_a2',
     'MF',
@@ -13113,8 +13113,8 @@ VALUES
     NOW()
   ),
   (
-    '29c46e14-547d-4c9e-9350-58c86e85bb29',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '16bc0c8c-c430-439c-b8db-a1f631a7ba77',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'world_bank_a3',
     'MAF',
@@ -13123,8 +13123,8 @@ VALUES
     NOW()
   ),
   (
-    '714c042a-c909-48cf-82d0-2032e9425ea7',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '544444e9-165e-49a0-9ed8-51bcc5bcc658',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'natural_earth',
     'wikidata',
     'Q126125',
@@ -13133,8 +13133,8 @@ VALUES
     NOW()
   ),
   (
-    '81ca201e-d7de-4aaf-aa0c-e3ad29f8f907',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '9ff0da73-d6bb-43db-b525-d59cd3aed349',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'natural_earth_admin',
     'BLM',
@@ -13143,8 +13143,8 @@ VALUES
     NOW()
   ),
   (
-    'c8561bed-ef22-410c-a120-3afdbb4235e6',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '1c6310dc-54ea-4bc1-9ecd-f9651fe79ed4',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'iso3166-1-alpha2',
     'BL',
@@ -13153,8 +13153,8 @@ VALUES
     NOW()
   ),
   (
-    'fdc67365-f3c0-47a3-84ed-4b964149e78b',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'f87efc1a-e79a-4faa-ab86-ffda8f2ff0ed',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLM',
@@ -13163,8 +13163,8 @@ VALUES
     NOW()
   ),
   (
-    'a6548e91-287d-4efb-b62e-09606bf2c1dd',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'c61aebd3-f452-4743-a696-50c1ccf8b4cc',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'iso3166-1-numeric',
     '652',
@@ -13173,8 +13173,8 @@ VALUES
     NOW()
   ),
   (
-    '70b23f46-81fc-4ae7-bdba-de6dc7aa974d',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'dd9b26e5-c94f-49ff-9493-35d53f411d84',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'un_a3',
     '652',
@@ -13183,8 +13183,8 @@ VALUES
     NOW()
   ),
   (
-    '4fc2fa4d-716e-4afb-9985-418c86b3ecc2',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'f95368b1-6895-4278-8641-30d367d99de5',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -13193,8 +13193,8 @@ VALUES
     NOW()
   ),
   (
-    'ef682a03-d9cd-4ebd-b40b-ab707148fb22',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '535eefe8-db46-421e-933c-ace63ce1f104',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -13203,8 +13203,8 @@ VALUES
     NOW()
   ),
   (
-    'ee87f3f2-01dd-47e7-a4f6-db8a510ccf44',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '5a41fcbb-109e-4de4-8e67-10123a1b2cda',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'natural_earth',
     'wikidata',
     'Q25362',
@@ -13213,8 +13213,8 @@ VALUES
     NOW()
   ),
   (
-    '807316c6-0786-46b4-accb-930907104c73',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '7e9ecea4-c16b-435f-97d5-a1c8b596c872',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'natural_earth_admin',
     'PYF',
@@ -13223,8 +13223,8 @@ VALUES
     NOW()
   ),
   (
-    '5b3bac84-1de5-49c5-a029-9a44ae5cfde8',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'c7555a4b-7ff9-460a-8462-919170ae4812',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'iso3166-1-alpha2',
     'PF',
@@ -13233,8 +13233,8 @@ VALUES
     NOW()
   ),
   (
-    'd7691a02-8590-4df9-8a30-6b14e6a57cda',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '6a6fce1b-bb20-4c74-b6f5-bcd2308232d9',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'iso3166-1-alpha3',
     'PYF',
@@ -13243,8 +13243,8 @@ VALUES
     NOW()
   ),
   (
-    'bed3f2a1-bd57-4399-9fc8-0645b17f9e7d',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'da6d74ca-f926-4bec-b95a-c1bd0020088a',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'iso3166-1-numeric',
     '258',
@@ -13253,8 +13253,8 @@ VALUES
     NOW()
   ),
   (
-    '33d4423c-01c7-4ef9-a510-95b580e38010',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'dc3e92b4-0464-4071-9480-91ad0d915d1e',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'un_a3',
     '258',
@@ -13263,8 +13263,8 @@ VALUES
     NOW()
   ),
   (
-    '65dfa212-8a49-4605-ba00-6a0e2d5407ab',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'b6778ada-45b0-423d-b82d-a2a4a89317aa',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'world_bank_a2',
     'PF',
@@ -13273,8 +13273,8 @@ VALUES
     NOW()
   ),
   (
-    '6f75ace3-64b0-4d95-ba83-59c20729f0ea',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '9cc46dbd-2b8f-4199-bf6f-098bd4293f63',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'world_bank_a3',
     'PYF',
@@ -13283,8 +13283,8 @@ VALUES
     NOW()
   ),
   (
-    'cdb06243-bee6-42ea-8fc7-7411ddadc96a',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'f8ba6dcb-5ce1-48fa-a3d6-3c8bea8ed053',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'natural_earth',
     'wikidata',
     'Q30971',
@@ -13293,8 +13293,8 @@ VALUES
     NOW()
   ),
   (
-    '284d33b9-9dfc-4a9e-aa73-cf6db42a2d8c',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '165f8eef-ac3a-4f0d-886a-b602ed3a45a3',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'natural_earth_admin',
     'NCL',
@@ -13303,8 +13303,8 @@ VALUES
     NOW()
   ),
   (
-    'fe90111b-2a53-419a-b76a-3c0acf944096',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '38d3e710-f47c-4c1c-ba46-415280aa4e97',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'iso3166-1-alpha2',
     'NC',
@@ -13313,8 +13313,8 @@ VALUES
     NOW()
   ),
   (
-    '41eefa2a-33bd-4c5b-97b0-cff430dd04cf',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'eb26191d-b011-4106-823e-90f317addac7',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'iso3166-1-alpha3',
     'NCL',
@@ -13323,8 +13323,8 @@ VALUES
     NOW()
   ),
   (
-    '9e63cf21-88e5-4e00-8359-c9b3f09265d5',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '93a1ef11-35f7-4357-9ca5-f26ca8fc5d59',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'iso3166-1-numeric',
     '540',
@@ -13333,8 +13333,8 @@ VALUES
     NOW()
   ),
   (
-    'a7bd5e5c-6a76-401a-a888-f17766b76570',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '7175d349-3b92-4bff-b13a-b0437882ef0e',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'un_a3',
     '540',
@@ -13343,8 +13343,8 @@ VALUES
     NOW()
   ),
   (
-    'e64155ca-4439-469e-a79c-a5257ff7854a',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '48628eda-f58d-4c51-bcda-138a1948e3b5',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'world_bank_a2',
     'NC',
@@ -13353,8 +13353,8 @@ VALUES
     NOW()
   ),
   (
-    '0bbcbc0d-5828-44e0-a1a3-1da48823a7eb',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '2441d666-a4d5-4aed-9d14-2f9bd81b370f',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'world_bank_a3',
     'NCL',
@@ -13363,8 +13363,8 @@ VALUES
     NOW()
   ),
   (
-    'ff65c33c-a234-4ec9-8231-15e0bb61436b',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '316f1f89-2b94-40df-85fb-483cbfc05ac8',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'natural_earth',
     'wikidata',
     'Q33788',
@@ -13373,8 +13373,8 @@ VALUES
     NOW()
   ),
   (
-    'ceca8b8d-c2a3-4180-97b0-d1fdbae3b5ba',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'dbb69486-75c5-49c1-a34d-bb808b5878a9',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'natural_earth_admin',
     'ATF',
@@ -13383,8 +13383,8 @@ VALUES
     NOW()
   ),
   (
-    '3fb0a75e-0e6b-4c10-a061-409752e27559',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'abcc06b3-fdfa-457f-a85b-3de359952f85',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'iso3166-1-alpha2',
     'TF',
@@ -13393,8 +13393,8 @@ VALUES
     NOW()
   ),
   (
-    'f19fd084-8183-4740-9869-c63cfed0e315',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '838a561f-fc16-4911-8558-dc76280df4a4',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATF',
@@ -13403,8 +13403,8 @@ VALUES
     NOW()
   ),
   (
-    'b0947cef-d0d6-494e-aa8b-f15a9c7bdaa9',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '99ae6d7e-8c57-4ecd-b7cb-d20155852f0b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'iso3166-1-numeric',
     '260',
@@ -13413,8 +13413,8 @@ VALUES
     NOW()
   ),
   (
-    'e9417156-4d1b-4132-b391-08854152007b',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '16ae2538-7d84-4113-b2a2-c1ae9a543e44',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'un_a3',
     '260',
@@ -13423,8 +13423,8 @@ VALUES
     NOW()
   ),
   (
-    '16124498-5707-4a94-89b6-316a441d882c',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'eb1d13d4-3f26-463c-8e74-c1e3beb995a7',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -13433,8 +13433,8 @@ VALUES
     NOW()
   ),
   (
-    'f275ce44-d65b-4c95-8270-3b103c818fd7',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '69cc7f7c-6bdc-435f-9e19-0d2859286231',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -13443,8 +13443,8 @@ VALUES
     NOW()
   ),
   (
-    'c5ceafa3-9502-4669-b061-4f63ec641cf3',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'a3828814-ea0a-4f8c-8b70-b60a4be38d75',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'natural_earth',
     'wikidata',
     'Q129003',
@@ -13453,8 +13453,8 @@ VALUES
     NOW()
   ),
   (
-    '0cb78518-5b9a-44f6-8e9e-d54e69b44c2d',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '7d98f270-f282-479d-8990-f6dde94311a9',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'natural_earth_admin',
     'ALD',
@@ -13463,8 +13463,8 @@ VALUES
     NOW()
   ),
   (
-    'be1d34f4-73a6-4d5e-9986-4b92287b4c7f',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'ac7f44b4-224b-42a7-babe-544bce2d6085',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'iso3166-1-alpha2',
     'AX',
@@ -13473,8 +13473,8 @@ VALUES
     NOW()
   ),
   (
-    'de8271cb-ed4a-4ec1-8dad-9863dcfcbf98',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '44bd5605-f2cb-4e52-8e8f-bf35d21e304f',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'iso3166-1-alpha3',
     'ALA',
@@ -13483,8 +13483,8 @@ VALUES
     NOW()
   ),
   (
-    '1720dd90-b5ae-479f-8e29-f0cc88ff6e1d',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '848863d7-748d-4b1f-86c4-102207b8a0f6',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'iso3166-1-numeric',
     '248',
@@ -13493,8 +13493,8 @@ VALUES
     NOW()
   ),
   (
-    '1827230d-dc50-41a9-ae35-55108e38b9d6',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'e5275066-5f71-473b-a78e-75f743274e13',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'un_a3',
     '248',
@@ -13503,8 +13503,8 @@ VALUES
     NOW()
   ),
   (
-    '520f0dfa-035c-4be9-8b1a-02c2db47b7af',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '3f4e15e7-4651-4b72-815e-5fa84ae6e3b7',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -13513,8 +13513,8 @@ VALUES
     NOW()
   ),
   (
-    'e4b3d9cc-ce81-492c-8071-e175714b1c16',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '89a27fe6-8d7b-42f5-92d1-8c6f9c15229b',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -13523,8 +13523,8 @@ VALUES
     NOW()
   ),
   (
-    '1145fa75-5633-46ff-b093-766e465d83b3',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '46c2ad1c-c56a-4777-a9af-758549fdf2a1',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'natural_earth',
     'wikidata',
     'Q5689',
@@ -13533,8 +13533,8 @@ VALUES
     NOW()
   ),
   (
-    '88556e4a-8572-4da7-b627-55b36ceba2e4',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'eebe1c64-722d-44a5-b12b-338b615229ba',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'natural_earth_admin',
     'FIN',
@@ -13543,8 +13543,8 @@ VALUES
     NOW()
   ),
   (
-    '5b8bc428-9786-4106-a2df-f87100eef205',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '3977f4fc-cd57-486f-a967-df893f89cc8a',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'iso3166-1-alpha2',
     'FI',
@@ -13553,8 +13553,8 @@ VALUES
     NOW()
   ),
   (
-    'cd8982c9-0b15-43f3-ba15-64a521ebf96f',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'd9f120ca-e7b0-4bdf-a359-99b2fbb36b19',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'iso3166-1-alpha3',
     'FIN',
@@ -13563,8 +13563,8 @@ VALUES
     NOW()
   ),
   (
-    'dc52d338-83c1-4e60-b3ad-4973e9e61fd1',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '4b9cfe1b-e9fd-413c-aea8-431b06107b04',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'iso3166-1-numeric',
     '246',
@@ -13573,8 +13573,8 @@ VALUES
     NOW()
   ),
   (
-    'e5b8b361-28a0-4fb9-8cea-90e0acbc1d25',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '9d3ceb83-f2f2-4810-a649-609671363ab8',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'un_a3',
     '246',
@@ -13583,8 +13583,8 @@ VALUES
     NOW()
   ),
   (
-    'f5db6471-cb4c-42d4-ac18-6b280c819e16',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '3ddeade1-153d-4e38-8a0f-fcd099232dd8',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'world_bank_a2',
     'FI',
@@ -13593,8 +13593,8 @@ VALUES
     NOW()
   ),
   (
-    'd5b4ed48-8b66-48ad-91a0-5ecdc865a7c2',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'c6da2502-4655-4d9e-8860-f8c4a450330d',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'world_bank_a3',
     'FIN',
@@ -13603,8 +13603,8 @@ VALUES
     NOW()
   ),
   (
-    'd215d29e-d770-4423-8415-f451d6167410',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '16e9ffee-b8c7-4572-bcb6-b0f805582dfd',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'natural_earth',
     'wikidata',
     'Q33',
@@ -13613,8 +13613,8 @@ VALUES
     NOW()
   ),
   (
-    '79aa61f0-9759-4ef6-8983-6e746e147064',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '2f680908-98c9-4cba-8e5f-ac93ca01a325',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'natural_earth_admin',
     'FJI',
@@ -13623,8 +13623,8 @@ VALUES
     NOW()
   ),
   (
-    '8269b038-e3b2-4d34-a07a-ab58f16ab667',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '9f7a6f24-183e-414d-9781-98f3ae799c7f',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'iso3166-1-alpha2',
     'FJ',
@@ -13633,8 +13633,8 @@ VALUES
     NOW()
   ),
   (
-    '888d5186-f865-4ee6-9606-0cd77e6fd42b',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '3b98a6b6-788a-41a7-91d2-6fc5fe996336',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'iso3166-1-alpha3',
     'FJI',
@@ -13643,8 +13643,8 @@ VALUES
     NOW()
   ),
   (
-    '694b42e0-1e84-438a-a71a-6ec2f4b999d7',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '4f319988-26ec-4f3f-82dd-9766a30fc184',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'iso3166-1-numeric',
     '242',
@@ -13653,8 +13653,8 @@ VALUES
     NOW()
   ),
   (
-    '3c07308d-be62-4a9a-a9c5-84a1bc156136',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '77c22629-04f2-4510-9f7f-0764189d9e79',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'un_a3',
     '242',
@@ -13663,8 +13663,8 @@ VALUES
     NOW()
   ),
   (
-    '63accfee-9e3e-4756-989d-44c1247578a2',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '21866d98-2883-44a4-b29a-91d54d27cac3',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'world_bank_a2',
     'FJ',
@@ -13673,8 +13673,8 @@ VALUES
     NOW()
   ),
   (
-    '27cf580c-27b9-4afc-9f4d-14a19192386a',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '1bfe4df9-4dd6-429f-b130-f12ffabd84c5',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'world_bank_a3',
     'FJI',
@@ -13683,8 +13683,8 @@ VALUES
     NOW()
   ),
   (
-    '52f313e9-4845-4f79-9219-44e2f115e981',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'df97a569-fb0e-47ba-a173-8e6f0975f0b9',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'natural_earth',
     'wikidata',
     'Q712',
@@ -13693,8 +13693,8 @@ VALUES
     NOW()
   ),
   (
-    'e0ba0013-33e3-4214-a842-f5e304c41198',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '2216a9ed-2974-4109-b6ab-8b1ae19c8c6c',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'natural_earth_admin',
     'ETH',
@@ -13703,8 +13703,8 @@ VALUES
     NOW()
   ),
   (
-    '190dcbd7-3124-4e60-9a4b-4acabac71e18',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'fa4b83aa-f626-4e5a-ab10-67628706c8ea',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'iso3166-1-alpha2',
     'ET',
@@ -13713,8 +13713,8 @@ VALUES
     NOW()
   ),
   (
-    'c9be4f0d-bc91-4a3a-9352-c4472ebe6681',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '13fc50eb-c7ef-45bd-9109-7cee7a1ed75b',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'iso3166-1-alpha3',
     'ETH',
@@ -13723,8 +13723,8 @@ VALUES
     NOW()
   ),
   (
-    '568937ba-1d6d-4e0c-9e3e-b5ca83eed689',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '8dc53594-5996-4217-b27b-6b1b831ceff6',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'iso3166-1-numeric',
     '231',
@@ -13733,8 +13733,8 @@ VALUES
     NOW()
   ),
   (
-    '0c1193c2-1ee2-43b7-b057-1dd79fd30052',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'a35c59e3-7e0e-4370-b0bc-cf119ac90bff',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'un_a3',
     '231',
@@ -13743,8 +13743,8 @@ VALUES
     NOW()
   ),
   (
-    'a3937f98-3f51-495e-9046-4d4037629bc3',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '03c5b359-44ae-4a7e-8a50-1a116456a981',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'world_bank_a2',
     'ET',
@@ -13753,8 +13753,8 @@ VALUES
     NOW()
   ),
   (
-    '309982ec-0b34-4b44-9928-514d0101b1eb',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '8f815fff-436d-4a56-ac43-183793bbf66b',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'world_bank_a3',
     'ETH',
@@ -13763,8 +13763,8 @@ VALUES
     NOW()
   ),
   (
-    '1c1ac3da-7612-4caf-a6ee-d7a6df7f6c33',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '57539b4b-0fbe-422b-91f9-577b82ff0ec5',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'natural_earth',
     'wikidata',
     'Q115',
@@ -13773,8 +13773,8 @@ VALUES
     NOW()
   ),
   (
-    '68176780-5629-42e3-903b-739a7c1e83fe',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'cd27d1b6-96b9-4caf-92fc-5c80ecda7a77',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'natural_earth_admin',
     'EST',
@@ -13783,8 +13783,8 @@ VALUES
     NOW()
   ),
   (
-    '90171378-ba17-4d46-b3cc-5adfae10c118',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'fae610e0-3b48-4c2e-9c4a-19d2986b773e',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'iso3166-1-alpha2',
     'EE',
@@ -13793,8 +13793,8 @@ VALUES
     NOW()
   ),
   (
-    'c56de21e-b0ac-4925-926d-7904057f7473',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'fc1e92b5-a3b5-4b47-b33c-7a094f168d81',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'iso3166-1-alpha3',
     'EST',
@@ -13803,8 +13803,8 @@ VALUES
     NOW()
   ),
   (
-    '6fba6c9f-e1e9-4b50-af67-f78c90c5f42c',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'aeff8455-db95-4bb2-9a7b-4b551825068e',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'iso3166-1-numeric',
     '233',
@@ -13813,8 +13813,8 @@ VALUES
     NOW()
   ),
   (
-    '7f2d86c9-363c-4947-a942-d1c4cd16b9a3',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'b2a5253d-45c3-46a0-b9f6-816c14f869ef',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'un_a3',
     '233',
@@ -13823,8 +13823,8 @@ VALUES
     NOW()
   ),
   (
-    '10cf1ad5-be45-4c8f-bc63-b62548499213',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'c86d61d9-94e2-405a-a097-2464078fe7e4',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'world_bank_a2',
     'EE',
@@ -13833,8 +13833,8 @@ VALUES
     NOW()
   ),
   (
-    '3cd4e374-ab4e-4b19-8ad3-24e1878b1b77',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'aaec2264-6dfd-403f-bd2b-2ca62486e780',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'world_bank_a3',
     'EST',
@@ -13843,8 +13843,8 @@ VALUES
     NOW()
   ),
   (
-    '3178f6d8-cce2-4c2b-ba6f-28395583d101',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '151dc3bf-4e76-401e-be49-e15d531608ce',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'natural_earth',
     'wikidata',
     'Q191',
@@ -13853,8 +13853,8 @@ VALUES
     NOW()
   ),
   (
-    'd62fd911-3ac5-47e2-8ecf-4dbdf1e4864f',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'ff5ae6b3-8363-43b5-882a-0f6c6ce05ac9',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'natural_earth_admin',
     'ERI',
@@ -13863,8 +13863,8 @@ VALUES
     NOW()
   ),
   (
-    '97830957-e277-4a77-953b-090078d16d3a',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '96c20b31-58b9-49c9-a36a-c5310f500100',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'iso3166-1-alpha2',
     'ER',
@@ -13873,8 +13873,8 @@ VALUES
     NOW()
   ),
   (
-    '8fc808fe-a66e-4dba-8365-164498389ac5',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'd618150b-3ba9-475a-bcc8-909b277746e0',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'iso3166-1-alpha3',
     'ERI',
@@ -13883,8 +13883,8 @@ VALUES
     NOW()
   ),
   (
-    '1b091d57-13f0-4806-a466-0b29fe20c455',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'a505ac0c-e26a-48dc-980d-1cc72fc79182',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'iso3166-1-numeric',
     '232',
@@ -13893,8 +13893,8 @@ VALUES
     NOW()
   ),
   (
-    'e2a5647e-6556-44e5-a14f-30b11d9d1f4d',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '9dccbe68-f273-4cdd-9ecb-e88fedd0a4ed',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'un_a3',
     '232',
@@ -13903,8 +13903,8 @@ VALUES
     NOW()
   ),
   (
-    '38e1249c-4f8b-4836-8a04-d5b9bb08b6bb',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '7c1dce8a-420a-4ed8-819b-4c3b5ebdaf52',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'world_bank_a2',
     'ER',
@@ -13913,8 +13913,8 @@ VALUES
     NOW()
   ),
   (
-    '1093320c-677b-4a43-9b56-d3451f55eb00',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'e2bfb314-5a15-41e0-8a71-32e9d9921876',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'world_bank_a3',
     'ERI',
@@ -13923,8 +13923,8 @@ VALUES
     NOW()
   ),
   (
-    '2ae8c979-a746-4177-a575-0ef80c62ae22',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '39cc6e7f-b363-4bc3-9e64-31afeebe9de6',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'natural_earth',
     'wikidata',
     'Q986',
@@ -13933,8 +13933,8 @@ VALUES
     NOW()
   ),
   (
-    'c21472cb-c9ef-4ff1-9861-6f0225984794',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '6e77a824-cab4-4051-a884-37a09eb56bc1',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'natural_earth_admin',
     'GNQ',
@@ -13943,8 +13943,8 @@ VALUES
     NOW()
   ),
   (
-    '74c5f903-2acf-4309-9f3c-cb7e63cc9e51',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'd7b3324f-3025-44ad-a6a9-feb665f520ef',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'iso3166-1-alpha2',
     'GQ',
@@ -13953,8 +13953,8 @@ VALUES
     NOW()
   ),
   (
-    'e429dfae-5a4a-4d32-ad18-0bf96bdf5ca2',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '12defe45-b23f-4afc-b43d-76042b715577',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'iso3166-1-alpha3',
     'GNQ',
@@ -13963,8 +13963,8 @@ VALUES
     NOW()
   ),
   (
-    '2cae7902-ce12-4abd-862f-0b2f4739c539',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '98273930-bea8-4bdb-afbc-cb9998375cea',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'iso3166-1-numeric',
     '226',
@@ -13973,8 +13973,8 @@ VALUES
     NOW()
   ),
   (
-    '80e829e5-d23f-4c3e-ae12-221896c0517c',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'f8b302bc-ea35-4c89-ac7a-f99f69f3985d',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'un_a3',
     '226',
@@ -13983,8 +13983,8 @@ VALUES
     NOW()
   ),
   (
-    '8e7ecb8b-cfae-4f2c-8552-e2f4d04b1b6d',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '05ebb8a2-5feb-4e78-8c9f-f694e2970860',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'world_bank_a2',
     'GQ',
@@ -13993,8 +13993,8 @@ VALUES
     NOW()
   ),
   (
-    '9bc0d853-8bfa-4aa8-8e60-5c8aa24ea92b',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '55a25d38-8862-4968-a116-f2ec833af194',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'world_bank_a3',
     'GNQ',
@@ -14003,8 +14003,8 @@ VALUES
     NOW()
   ),
   (
-    'fd563c6f-25f1-41b9-8144-49415fdf9e75',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '0618db89-549c-480f-afe3-d163f5af50da',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'natural_earth',
     'wikidata',
     'Q983',
@@ -14013,8 +14013,8 @@ VALUES
     NOW()
   ),
   (
-    'a6d989cf-3492-47a6-8085-f9c9f55d1371',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '3af0fbed-1dd9-4bbf-8e26-989cce266c5b',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'natural_earth_admin',
     'SLV',
@@ -14023,8 +14023,8 @@ VALUES
     NOW()
   ),
   (
-    '51fe3cdf-6284-4e4b-9370-e13a51f585be',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'c57b2c04-14bc-4d84-8909-af433e4165e7',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'iso3166-1-alpha2',
     'SV',
@@ -14033,8 +14033,8 @@ VALUES
     NOW()
   ),
   (
-    '52f50e29-ddf6-48e9-97ac-7b116af0e846',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '000cc479-2794-4fa3-8e3e-26f9abbc95eb',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'iso3166-1-alpha3',
     'SLV',
@@ -14043,8 +14043,8 @@ VALUES
     NOW()
   ),
   (
-    'b6671025-4818-493d-b7af-30ef99ac1990',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '6ec66a63-3327-48c9-b9df-e01855f4fbd2',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'iso3166-1-numeric',
     '222',
@@ -14053,8 +14053,8 @@ VALUES
     NOW()
   ),
   (
-    'f292a43d-02e1-4c5e-a581-0104b87150b5',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'a3f41409-2fb6-4d1a-81aa-addd85a675c8',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'un_a3',
     '222',
@@ -14063,8 +14063,8 @@ VALUES
     NOW()
   ),
   (
-    'd7501fb4-acc7-4210-a9bb-597cf2e9226a',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'b792cdcc-5135-4462-8bbe-43be267cec9c',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'world_bank_a2',
     'SV',
@@ -14073,8 +14073,8 @@ VALUES
     NOW()
   ),
   (
-    '3fce2623-6235-4a8c-a7a1-5e95740cfb2f',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '9c729857-d6d7-4685-9078-afc2795d3742',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'world_bank_a3',
     'SLV',
@@ -14083,8 +14083,8 @@ VALUES
     NOW()
   ),
   (
-    '269390fe-5d6f-4cee-be9a-1137ddfbe82d',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'b1442dc9-ea46-4734-aca9-1ed3abfeda42',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'natural_earth',
     'wikidata',
     'Q792',
@@ -14093,8 +14093,8 @@ VALUES
     NOW()
   ),
   (
-    '5dd3f0fe-c5c2-4d79-99e8-7aa14e8a2e5e',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'f46567c5-a95a-482f-a7e5-d4c8ac733b20',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'natural_earth_admin',
     'EGY',
@@ -14103,8 +14103,8 @@ VALUES
     NOW()
   ),
   (
-    'd86da736-0e77-4758-90d8-65e1e96df61c',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'f143bf20-c2b0-43d8-8125-d9fba6825945',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'iso3166-1-alpha2',
     'EG',
@@ -14113,8 +14113,8 @@ VALUES
     NOW()
   ),
   (
-    '353c2159-8e20-4ff9-bafc-a4e361507a34',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '48c0a197-6357-456b-be57-03a10cb62ee1',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'iso3166-1-alpha3',
     'EGY',
@@ -14123,8 +14123,8 @@ VALUES
     NOW()
   ),
   (
-    'fa2d148b-0873-4942-a6e2-79aee055b8fa',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '19b51313-fb8a-4eca-9ae5-04776d832a12',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'iso3166-1-numeric',
     '818',
@@ -14133,8 +14133,8 @@ VALUES
     NOW()
   ),
   (
-    '8c57316f-25a2-4d23-9c1a-7d041acc1ecd',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'c5e7abef-2bfb-4865-8305-965627fd330f',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'un_a3',
     '818',
@@ -14143,8 +14143,8 @@ VALUES
     NOW()
   ),
   (
-    '0df1186f-4cf9-4f43-8501-949e7a778e3c',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'd4614235-63ad-4496-8cb9-b1d239d3a847',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'world_bank_a2',
     'EG',
@@ -14153,8 +14153,8 @@ VALUES
     NOW()
   ),
   (
-    '0cc664e6-a6c9-4dd7-8374-8157d4a7e4cc',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '0ac80360-16cf-498d-852e-48e230d51fee',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'world_bank_a3',
     'EGY',
@@ -14163,8 +14163,8 @@ VALUES
     NOW()
   ),
   (
-    '6b1258b7-aa27-4163-81d4-565f70ba1904',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'fcfd48db-5495-4e8c-889a-ada5aae6ea8b',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'natural_earth',
     'wikidata',
     'Q79',
@@ -14173,8 +14173,8 @@ VALUES
     NOW()
   ),
   (
-    '24caf0fc-4447-48ef-94ae-1b459da91b0a',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '41216943-ba21-4276-ac3e-c3f18daa7b30',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'natural_earth_admin',
     'ECU',
@@ -14183,8 +14183,8 @@ VALUES
     NOW()
   ),
   (
-    'baeff8d6-47f0-439f-95fc-b8e811ed6c21',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '0272cc1d-e26b-4aad-8770-28c8a4768016',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'iso3166-1-alpha2',
     'EC',
@@ -14193,8 +14193,8 @@ VALUES
     NOW()
   ),
   (
-    '750fe9ae-ba4d-4b22-b547-320641ba692f',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '3927dded-ffee-4fbb-8c92-c90ccb4718bf',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'iso3166-1-alpha3',
     'ECU',
@@ -14203,8 +14203,8 @@ VALUES
     NOW()
   ),
   (
-    '211d9b8a-e10a-4d78-b371-7e19957a1eb4',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '93127599-1199-4a45-a99a-134cd6240372',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'iso3166-1-numeric',
     '218',
@@ -14213,8 +14213,8 @@ VALUES
     NOW()
   ),
   (
-    '656e990b-a738-495e-9ada-3cddf82b9d65',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'fbc7073f-aaee-40b8-9f81-b46e906b14d6',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'un_a3',
     '218',
@@ -14223,8 +14223,8 @@ VALUES
     NOW()
   ),
   (
-    '0c27cbfc-43d2-4fe6-842c-6e9b1b191c93',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '6211d431-df54-4a6e-bf71-d6457f5464b2',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'world_bank_a2',
     'EC',
@@ -14233,8 +14233,8 @@ VALUES
     NOW()
   ),
   (
-    '5752cd70-ec93-4228-83b8-8728413a1b1b',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '5ec83054-f211-45c2-b268-7e5ead4805b7',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'world_bank_a3',
     'ECU',
@@ -14243,8 +14243,8 @@ VALUES
     NOW()
   ),
   (
-    '5e82754b-7143-40f3-a419-14f54f6236e7',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'a668cd97-3b86-4ce4-823f-57fe6722f425',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'natural_earth',
     'wikidata',
     'Q736',
@@ -14253,8 +14253,8 @@ VALUES
     NOW()
   ),
   (
-    '0f7c4d1a-9cf6-4364-892f-a4c615718c4f',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '8e84ae61-c241-40ee-b790-5afa2b455e3a',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'natural_earth_admin',
     'DOM',
@@ -14263,8 +14263,8 @@ VALUES
     NOW()
   ),
   (
-    'cc698446-305e-4903-a5ce-48f0b69343bd',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '22adbf40-4400-4caa-bcc3-2243e0f34315',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'iso3166-1-alpha2',
     'DO',
@@ -14273,8 +14273,8 @@ VALUES
     NOW()
   ),
   (
-    'e31344af-80f6-45ff-b1e5-41c5a280210d',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '6ddbf32f-0e56-42d1-b22d-15e33cafcf2e',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'iso3166-1-alpha3',
     'DOM',
@@ -14283,8 +14283,8 @@ VALUES
     NOW()
   ),
   (
-    '05f9d1af-25af-4364-90d6-b4df1d33b015',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '9ef64cca-e50e-4a40-b85e-e39cd6328c4d',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'iso3166-1-numeric',
     '214',
@@ -14293,8 +14293,8 @@ VALUES
     NOW()
   ),
   (
-    '223a3c54-52bc-4d03-89c9-024413a762ca',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '13f73734-77a0-453e-bddf-ed36837d5096',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'un_a3',
     '214',
@@ -14303,8 +14303,8 @@ VALUES
     NOW()
   ),
   (
-    'e0e5c67b-a894-4979-aded-b47c7517930d',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '586cc2a5-70f6-49e9-9553-92c3c95ff566',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'world_bank_a2',
     'DO',
@@ -14313,8 +14313,8 @@ VALUES
     NOW()
   ),
   (
-    'c3af476f-3121-480c-a232-02646e2c9a8c',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    'd1564a0a-cbb8-43a2-812b-091d2caebcc9',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'world_bank_a3',
     'DOM',
@@ -14323,8 +14323,8 @@ VALUES
     NOW()
   ),
   (
-    '8224c6c1-4d5c-4a75-b8f0-99f9354e5db1',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '1eb65282-7d0f-4603-94b7-21c3803dc185',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'natural_earth',
     'wikidata',
     'Q786',
@@ -14333,8 +14333,8 @@ VALUES
     NOW()
   ),
   (
-    '75f1a1ce-874b-4743-afcc-108ab7eb4285',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '01213b7f-ba86-40ca-bce3-78f2efb4f979',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'natural_earth_admin',
     'DMA',
@@ -14343,8 +14343,8 @@ VALUES
     NOW()
   ),
   (
-    'a9e735bf-6bae-473f-9097-ec2d5d7a90b8',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '65bc93e6-2123-4015-a187-3c8793486885',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'iso3166-1-alpha2',
     'DM',
@@ -14353,8 +14353,8 @@ VALUES
     NOW()
   ),
   (
-    '89806d34-be4b-49e8-a98a-27d6c19c0698',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '361420bc-832c-4dec-85cf-3b3170a9ca6c',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'iso3166-1-alpha3',
     'DMA',
@@ -14363,8 +14363,8 @@ VALUES
     NOW()
   ),
   (
-    'aa9c5e28-83b7-436d-a03b-e8817169f777',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '9a729708-876e-4b6f-9093-555ee0811a81',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'iso3166-1-numeric',
     '212',
@@ -14373,8 +14373,8 @@ VALUES
     NOW()
   ),
   (
-    '56149bdd-430f-4ab3-8985-a03d76eefb2f',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '6b75b802-6f41-475a-aad3-b8838ce798f9',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'un_a3',
     '212',
@@ -14383,8 +14383,8 @@ VALUES
     NOW()
   ),
   (
-    'd6e338f0-532c-4b0d-8397-2b58594e8ce8',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'f87b8954-10ed-496a-b642-6f3a8a7d04d3',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'world_bank_a2',
     'DM',
@@ -14393,8 +14393,8 @@ VALUES
     NOW()
   ),
   (
-    'd327f5e2-c139-43cd-90be-1bf915f3a739',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'f0ac2326-e12c-4a28-9072-26f1ae28f413',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'world_bank_a3',
     'DMA',
@@ -14403,8 +14403,8 @@ VALUES
     NOW()
   ),
   (
-    '615b956b-f443-4be5-a76d-0cf6ce559f9e',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'f7d3a80b-7878-4beb-b073-921c2ea5ffc3',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'natural_earth',
     'wikidata',
     'Q784',
@@ -14413,8 +14413,8 @@ VALUES
     NOW()
   ),
   (
-    '4f75b408-45bd-4c28-a548-855b7ecd0bac',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'ac3f47fa-efb5-4768-8f49-f98a3a473586',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'natural_earth_admin',
     'DJI',
@@ -14423,8 +14423,8 @@ VALUES
     NOW()
   ),
   (
-    '49705ee9-8815-42d9-8272-2ff51a6083b9',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '8d0d59e5-3e1a-43d6-bd19-5c448d2723c6',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'iso3166-1-alpha2',
     'DJ',
@@ -14433,8 +14433,8 @@ VALUES
     NOW()
   ),
   (
-    'cb83592a-82fe-460f-921e-d230a1cec6a3',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '45d9add1-91cd-4d21-a910-f5d42d42f772',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'iso3166-1-alpha3',
     'DJI',
@@ -14443,8 +14443,8 @@ VALUES
     NOW()
   ),
   (
-    '061c501f-6b7d-4d71-a5d8-92f3d0eb240f',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'db8ef1b4-95fa-48cb-81fa-1d14020857b4',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'iso3166-1-numeric',
     '262',
@@ -14453,8 +14453,8 @@ VALUES
     NOW()
   ),
   (
-    '2d388cca-abc7-4dd4-b60f-2e430ddad3d0',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '6134c71c-370d-4a88-9262-0d3fd11aec31',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'un_a3',
     '262',
@@ -14463,8 +14463,8 @@ VALUES
     NOW()
   ),
   (
-    '4402d672-b3d1-4d6d-b0e4-39e6e6f2d896',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '895e20ae-0e00-494b-adeb-397ee64a2362',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'world_bank_a2',
     'DJ',
@@ -14473,8 +14473,8 @@ VALUES
     NOW()
   ),
   (
-    '6645782b-fcf4-4199-a9a7-8efefe3441cf',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'df5f5aad-0c02-43b5-b23e-e9375e79a25e',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'world_bank_a3',
     'DJI',
@@ -14483,8 +14483,8 @@ VALUES
     NOW()
   ),
   (
-    '42bc3c30-aadd-4a24-aad2-3e124cf0989b',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '3df8522b-0b24-40ce-832b-2363b8477e1a',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'natural_earth',
     'wikidata',
     'Q977',
@@ -14493,8 +14493,8 @@ VALUES
     NOW()
   ),
   (
-    'd2553691-3adf-4ef8-9ef6-0051e50bb60d',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'a2b24328-baab-45e2-86b9-8464b6e33956',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'natural_earth_admin',
     'GRL',
@@ -14503,8 +14503,8 @@ VALUES
     NOW()
   ),
   (
-    '85e0d85c-7970-4147-8ed4-258c4af3a0ed',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '197ffcb0-c6de-4ffb-95cf-ce9e9ceba19d',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'iso3166-1-alpha2',
     'GL',
@@ -14513,8 +14513,8 @@ VALUES
     NOW()
   ),
   (
-    'a0cdf94c-4639-408b-b075-3bf3942775d8',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '383e14c3-8375-4154-921a-62e24af2ef1c',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'iso3166-1-alpha3',
     'GRL',
@@ -14523,8 +14523,8 @@ VALUES
     NOW()
   ),
   (
-    '6c2aad70-9ed9-4b7b-abcc-8fab2fd9055d',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'fcfc0092-2d24-4025-93b8-a62755af387a',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'iso3166-1-numeric',
     '304',
@@ -14533,8 +14533,8 @@ VALUES
     NOW()
   ),
   (
-    '41d68cb5-40db-4397-9c38-2fb8aafaedf5',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'fce66dc9-f422-4fb9-a440-edc00abf7619',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'un_a3',
     '304',
@@ -14543,8 +14543,8 @@ VALUES
     NOW()
   ),
   (
-    '3489c69d-b03d-4b83-baf6-a4c5089a40a6',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'cba2fc30-9ce5-4809-b31d-43013420d783',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'world_bank_a2',
     'GL',
@@ -14553,8 +14553,8 @@ VALUES
     NOW()
   ),
   (
-    '35f1a726-af3a-4b59-9262-a477dc8893e7',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'afdb8dd6-c674-4b14-ac39-404463e55eff',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'world_bank_a3',
     'GRL',
@@ -14563,8 +14563,8 @@ VALUES
     NOW()
   ),
   (
-    '6b8d0bbf-1826-4898-bb5e-7e155210f129',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'af3c6cdf-60fb-44fb-af98-288616537d06',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'natural_earth',
     'wikidata',
     'Q223',
@@ -14573,8 +14573,8 @@ VALUES
     NOW()
   ),
   (
-    '55251f5d-1950-43ae-8b96-4840918374d7',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '1e76a952-bcf5-486e-bc1b-9116b14717bf',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'natural_earth_admin',
     'FRO',
@@ -14583,8 +14583,8 @@ VALUES
     NOW()
   ),
   (
-    'cff38fd5-6934-42d2-a2e3-c83de40361a4',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '1c7a24f1-43d2-4b12-a378-b9e015e7ec72',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'iso3166-1-alpha2',
     'FO',
@@ -14593,8 +14593,8 @@ VALUES
     NOW()
   ),
   (
-    '53c8bd6d-60f5-4781-8813-941b57d90264',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'ad37a1d0-7f84-4152-ba7e-4e1e8e3cf010',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'iso3166-1-alpha3',
     'FRO',
@@ -14603,8 +14603,8 @@ VALUES
     NOW()
   ),
   (
-    '285c0ab9-a941-470c-8354-9617166cdbe6',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'add1bde3-adca-42c9-809b-0b816b7a3cd8',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'iso3166-1-numeric',
     '234',
@@ -14613,8 +14613,8 @@ VALUES
     NOW()
   ),
   (
-    '031b61f3-e515-4f29-b214-663111f525f8',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '919a9b95-542d-44e0-9ac4-7040488e8f4a',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'un_a3',
     '234',
@@ -14623,8 +14623,8 @@ VALUES
     NOW()
   ),
   (
-    'e849fa56-9c5c-4c73-92c1-b6f96323100a',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'dd6ff772-e0d6-4ff3-8659-ff0788fdd62d',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'world_bank_a2',
     'FO',
@@ -14633,8 +14633,8 @@ VALUES
     NOW()
   ),
   (
-    'e286eeb0-0761-4354-9e36-f511febe9cd3',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '4ea422d2-9d5b-495f-b83c-1610d96e45ad',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'world_bank_a3',
     'FRO',
@@ -14643,8 +14643,8 @@ VALUES
     NOW()
   ),
   (
-    'e3000cc4-f08c-4c96-9ba9-b65ab90ed715',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'e50ed157-61d4-4eae-ab6e-d1e1ca779d23',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'natural_earth',
     'wikidata',
     'Q4628',
@@ -14653,8 +14653,8 @@ VALUES
     NOW()
   ),
   (
-    '34e6b6e9-79ea-4460-9d4a-948683396059',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '81341420-1137-43b8-8b8b-da3d6a58798d',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'natural_earth_admin',
     'DNK',
@@ -14663,8 +14663,8 @@ VALUES
     NOW()
   ),
   (
-    '7607f43e-2b88-4e77-8fa3-be8b9eae434f',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '95150cb2-95b6-4cd0-a823-afec4b590479',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'iso3166-1-alpha2',
     'DK',
@@ -14673,8 +14673,8 @@ VALUES
     NOW()
   ),
   (
-    '055591c9-9c72-46b7-bd5e-0e5ae277f4ef',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '172419ed-96a6-4d43-a7ad-d8e5ff2f773c',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'iso3166-1-alpha3',
     'DNK',
@@ -14683,8 +14683,8 @@ VALUES
     NOW()
   ),
   (
-    '05b23184-beca-4c66-ac19-81362e670d18',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '82192db1-6d49-4573-8433-a2dcc3ed2c70',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'iso3166-1-numeric',
     '208',
@@ -14693,8 +14693,8 @@ VALUES
     NOW()
   ),
   (
-    '9154f3f9-5e46-4a78-a33b-603dfa2b4519',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '8dd55143-7b75-4237-9e6f-8d9ff914af5a',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'un_a3',
     '208',
@@ -14703,8 +14703,8 @@ VALUES
     NOW()
   ),
   (
-    '9779a1be-7c58-4563-89ed-4df2f6ecff84',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '23d16ff3-1007-45e9-b389-5133c4a9099b',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'world_bank_a2',
     'DK',
@@ -14713,8 +14713,8 @@ VALUES
     NOW()
   ),
   (
-    'b5783a25-834e-4a32-8517-5acb3458e5e1',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '6692bf40-3ea6-47ca-bd8e-ccb13e30e9d0',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'world_bank_a3',
     'DNK',
@@ -14723,8 +14723,8 @@ VALUES
     NOW()
   ),
   (
-    '1dd205c9-70c4-42a0-9245-4f7a233a2f98',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'a7fb537b-41ab-4c58-b597-7733141d037a',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'natural_earth',
     'wikidata',
     'Q35',
@@ -14733,8 +14733,8 @@ VALUES
     NOW()
   ),
   (
-    '24260ce5-8ce4-41c8-a3e2-308de1b6eeb9',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'ccc04ee8-fc4a-4f41-9001-9b6986745f35',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'natural_earth_admin',
     'CZE',
@@ -14743,8 +14743,8 @@ VALUES
     NOW()
   ),
   (
-    '12721ee6-592c-4691-b50b-8a5bd22f20fb',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '872f13f6-33fb-4fdf-923c-a83eb9a90199',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'iso3166-1-alpha2',
     'CZ',
@@ -14753,8 +14753,8 @@ VALUES
     NOW()
   ),
   (
-    '5d304c38-dfd7-4f64-805e-9d9fbf595797',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '7a542d5f-62e7-4a08-92b3-0bf9543db792',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'iso3166-1-alpha3',
     'CZE',
@@ -14763,8 +14763,8 @@ VALUES
     NOW()
   ),
   (
-    '91871003-7771-4480-bc8c-df263f16bbfc',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'e3acf6e5-c5f5-40ee-bd33-3baf2b60c0e3',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'iso3166-1-numeric',
     '203',
@@ -14773,8 +14773,8 @@ VALUES
     NOW()
   ),
   (
-    '79fe2381-7479-4e77-80df-17844e8ec9ae',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '86418351-46a3-4f41-81a2-7b49f1baac35',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'un_a3',
     '203',
@@ -14783,8 +14783,8 @@ VALUES
     NOW()
   ),
   (
-    '4daacf3d-7429-4599-a631-cf33d5fac31e',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '488dc987-f1d9-4363-93c7-010ff98e3b33',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'world_bank_a2',
     'CZ',
@@ -14793,8 +14793,8 @@ VALUES
     NOW()
   ),
   (
-    'b165872e-2ad9-4a16-8623-f053acdf02fb',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '4e5037a3-cb93-46d2-96d3-76accc48d76b',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'world_bank_a3',
     'CZE',
@@ -14803,8 +14803,8 @@ VALUES
     NOW()
   ),
   (
-    '90a914e1-4acf-42e9-ba3c-9a65f846f1c2',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'f5bc49d7-1f99-46fc-8db3-6e13096b69f3',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'natural_earth',
     'wikidata',
     'Q213',
@@ -14813,8 +14813,8 @@ VALUES
     NOW()
   ),
   (
-    'd76dd6ff-31bb-4c49-9d67-fc1026a1a3ee',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '826a606a-3382-4089-8db1-7c622572d9b1',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'natural_earth_admin',
     'CYN',
@@ -14823,8 +14823,8 @@ VALUES
     NOW()
   ),
   (
-    'c9c56b8e-5bc7-437b-a8f9-f765f943e498',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '056f77bf-7b73-4e15-a672-f0644a5f336d',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -14833,8 +14833,8 @@ VALUES
     NOW()
   ),
   (
-    '8a29e67e-c1d6-4b3b-94e5-3cc976372055',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '6fac2b2c-66a4-4ddc-8bb4-ff812e005423',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -14843,8 +14843,8 @@ VALUES
     NOW()
   ),
   (
-    '48421aa8-759b-45dd-9d18-a76eceb1b4c4',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '89cfac8a-bae8-4144-9fc4-925b2d047f2a',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -14853,8 +14853,8 @@ VALUES
     NOW()
   ),
   (
-    '5eeca2a3-4c82-4e3d-9131-f9c803ff554e',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '5eb3eb37-f755-4d3c-8065-b7dad3f6beec',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'un_a3',
     '-099',
@@ -14863,8 +14863,8 @@ VALUES
     NOW()
   ),
   (
-    '67165090-0706-455c-a43c-627727c98a82',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'b0e6a3e6-65ad-43ba-bd00-8216bd93611e',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -14873,8 +14873,8 @@ VALUES
     NOW()
   ),
   (
-    '478fc52b-cc31-4146-89f2-75c032079723',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '969215c1-7c63-481b-8ad5-0b656a553239',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -14883,8 +14883,8 @@ VALUES
     NOW()
   ),
   (
-    '36ad66aa-630f-4d38-bbd1-af690f5ae443',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '966ef03f-fc7d-40da-a94e-e8a7a9b9557e',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'natural_earth',
     'wikidata',
     'Q23681',
@@ -14893,8 +14893,8 @@ VALUES
     NOW()
   ),
   (
-    'b44f0bab-fe07-4900-a5de-e2c78f2cb237',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '52ed402a-af4b-4f0a-abfe-083c764e3a3d',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'natural_earth_admin',
     'CYP',
@@ -14903,8 +14903,8 @@ VALUES
     NOW()
   ),
   (
-    '4c135720-4356-44cf-b2ae-54bb2458bcd9',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'aea8d163-a19a-45e0-a7c1-d961a91688e1',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'iso3166-1-alpha2',
     'CY',
@@ -14913,8 +14913,8 @@ VALUES
     NOW()
   ),
   (
-    'e20628f1-f816-457c-b947-4155aa9fefe8',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '8af230ae-e65b-43ec-91c5-85aec9f66be2',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'iso3166-1-alpha3',
     'CYP',
@@ -14923,8 +14923,8 @@ VALUES
     NOW()
   ),
   (
-    'b1589490-f518-4fd3-af81-c19ce4b2bb58',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '6bc6f1c2-2ff7-48af-bd78-dfc695879f51',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'iso3166-1-numeric',
     '196',
@@ -14933,8 +14933,8 @@ VALUES
     NOW()
   ),
   (
-    '9a952f12-dba1-40be-9c76-6472c1b1ce6b',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '0abe2a51-0b9f-4709-8590-4418c366d1a7',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'un_a3',
     '196',
@@ -14943,8 +14943,8 @@ VALUES
     NOW()
   ),
   (
-    '6b566ad7-c276-4df0-b91b-f4e44816a38b',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '10e8b9cd-d711-4595-855f-424851252840',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'world_bank_a2',
     'CY',
@@ -14953,8 +14953,8 @@ VALUES
     NOW()
   ),
   (
-    '7b35bdd2-a128-4f14-9062-bef3fec90209',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'c2f186b9-128b-4ac3-9175-97bb4c1c8204',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'world_bank_a3',
     'CYP',
@@ -14963,8 +14963,8 @@ VALUES
     NOW()
   ),
   (
-    '69b13567-9f45-4127-8908-37ab443ce5b1',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '2fdc33e2-c0f8-48df-8eda-ab1af979efbd',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'natural_earth',
     'wikidata',
     'Q229',
@@ -14973,8 +14973,8 @@ VALUES
     NOW()
   ),
   (
-    'c5c05973-6195-4c11-a71a-db31444fa992',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'fb1d96fe-e709-4c7d-b6d5-53255931aa73',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'natural_earth_admin',
     'CUB',
@@ -14983,8 +14983,8 @@ VALUES
     NOW()
   ),
   (
-    'e9719f4b-dc33-4f76-9d3e-c646083acf3c',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '92a984e4-1325-4015-95bf-1b4b23ecafcf',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'iso3166-1-alpha2',
     'CU',
@@ -14993,8 +14993,8 @@ VALUES
     NOW()
   ),
   (
-    '59db119b-5213-4c51-95b4-d6a3c75fcb12',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '8e223610-f54b-466c-9664-1ebf2ee1c39b',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'iso3166-1-alpha3',
     'CUB',
@@ -15003,8 +15003,8 @@ VALUES
     NOW()
   ),
   (
-    'f0fc2eec-c5cf-4a38-90d7-b2c7c0217df0',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '501405ca-5fe7-4810-8f73-8f42224570c1',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'iso3166-1-numeric',
     '192',
@@ -15013,8 +15013,8 @@ VALUES
     NOW()
   ),
   (
-    '245c8e52-409b-4f7b-804c-bc34df981b70',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'd89aa24e-0036-4305-847d-220a70f70b36',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'un_a3',
     '192',
@@ -15023,8 +15023,8 @@ VALUES
     NOW()
   ),
   (
-    '0039ca75-fa11-4ce1-bafd-d8277d16f0e2',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '39e448c5-3264-4f9d-b641-432785fd9d7a',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'world_bank_a2',
     'CU',
@@ -15033,8 +15033,8 @@ VALUES
     NOW()
   ),
   (
-    '26112329-56ac-4440-a2bd-36cbf584c3ee',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '768a9df8-ed3b-45f3-926a-9066b4bd931f',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'world_bank_a3',
     'CUB',
@@ -15043,8 +15043,8 @@ VALUES
     NOW()
   ),
   (
-    'b80f2ace-eacb-406f-b33d-f284d806fd7a',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '60627d4d-4c30-44e1-80b1-1765d89d907c',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'natural_earth',
     'wikidata',
     'Q241',
@@ -15053,8 +15053,8 @@ VALUES
     NOW()
   ),
   (
-    '81f22391-d344-4353-bca7-328786e1a0e0',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'c5f397f2-57f3-44f6-81d6-bcafa9b6b6d9',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'natural_earth_admin',
     'HRV',
@@ -15063,8 +15063,8 @@ VALUES
     NOW()
   ),
   (
-    'd9b7b9c9-dde2-4580-bd26-89228ed97e1e',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '8687a2c4-77b6-4df1-a5a2-f42144579a33',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'iso3166-1-alpha2',
     'HR',
@@ -15073,8 +15073,8 @@ VALUES
     NOW()
   ),
   (
-    'a529208a-d1da-4a78-917b-1a526fbc4f09',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'e50cc6d7-baaa-451e-83c8-17d2eda53acf',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'iso3166-1-alpha3',
     'HRV',
@@ -15083,8 +15083,8 @@ VALUES
     NOW()
   ),
   (
-    '26a7184f-b312-4855-86cf-9aa322945b1a',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ceb45fd9-33b9-481b-a2ed-ec7f4baf8861',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'iso3166-1-numeric',
     '191',
@@ -15093,8 +15093,8 @@ VALUES
     NOW()
   ),
   (
-    '61d70e1f-ee0f-475c-b061-0489df4014db',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '8aa2640d-07ae-46d0-a59d-eabfd8c15333',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'un_a3',
     '191',
@@ -15103,8 +15103,8 @@ VALUES
     NOW()
   ),
   (
-    'e4be225e-0325-427b-8739-6afe6be4b1ef',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'bb2b07ff-aaae-41b1-8484-f2f25056c918',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'world_bank_a2',
     'HR',
@@ -15113,8 +15113,8 @@ VALUES
     NOW()
   ),
   (
-    'caa313f3-faa6-4caf-910f-93dcc24bd387',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ffc25357-86da-40ed-8181-cefd880586ff',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'world_bank_a3',
     'HRV',
@@ -15123,8 +15123,8 @@ VALUES
     NOW()
   ),
   (
-    'ec448ddb-c2d2-42c4-a6c1-8722483081f3',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '8baf94c0-655d-4221-a8cb-0f536df2a945',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'natural_earth',
     'wikidata',
     'Q224',
@@ -15133,8 +15133,8 @@ VALUES
     NOW()
   ),
   (
-    'a3a91969-5705-4e9a-ad43-41d74c1a5fd6',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '08285a86-d654-465e-aeb2-661aeb475889',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'natural_earth_admin',
     'CIV',
@@ -15143,8 +15143,8 @@ VALUES
     NOW()
   ),
   (
-    '74a6d2b0-23f2-480b-8a7b-7f5e8c0cd1de',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '0d34f637-21f7-4981-b585-d6eb9fc2d487',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'iso3166-1-alpha2',
     'CI',
@@ -15153,8 +15153,8 @@ VALUES
     NOW()
   ),
   (
-    'fa6cf275-1e1d-4ac2-a8a2-46f1b020c530',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'b30a81b3-69c9-4677-83ee-9c0c8dbc42e5',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'iso3166-1-alpha3',
     'CIV',
@@ -15163,8 +15163,8 @@ VALUES
     NOW()
   ),
   (
-    '9216d53e-61b0-45cb-a616-2e63f328b40d',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '58068928-fa87-4c07-a592-3be5b37c748f',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'iso3166-1-numeric',
     '384',
@@ -15173,8 +15173,8 @@ VALUES
     NOW()
   ),
   (
-    '213a74d5-867b-4f49-b3d5-72c4533e4e8e',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '4394f91e-f7bf-4606-a01c-fd29e8f9c2fc',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'un_a3',
     '384',
@@ -15183,8 +15183,8 @@ VALUES
     NOW()
   ),
   (
-    'd0aeba96-e994-4ee3-8a98-56500136e420',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '6d8ad95d-bb45-469a-8436-93541acb8fd7',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'world_bank_a2',
     'CI',
@@ -15193,8 +15193,8 @@ VALUES
     NOW()
   ),
   (
-    '04eb2fef-cef0-40e8-ad4d-bd2f59fe29d9',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'ad4ed8c8-e2eb-4f6b-b9ef-5b9bc1731528',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'world_bank_a3',
     'CIV',
@@ -15203,8 +15203,8 @@ VALUES
     NOW()
   ),
   (
-    'f915dd0a-6e2a-4736-b32d-7172da97b192',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '4f11ff50-e90b-405a-b3af-89c05e5bcc4b',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'natural_earth',
     'wikidata',
     'Q1008',
@@ -15213,8 +15213,8 @@ VALUES
     NOW()
   ),
   (
-    'a2fd76ba-f2a9-46af-beb9-fd61e4351565',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e3214de8-534e-4e88-8485-11fc786e94bb',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'natural_earth_admin',
     'CRI',
@@ -15223,8 +15223,8 @@ VALUES
     NOW()
   ),
   (
-    '702ec98a-2645-48fc-abd4-a47c5a8f8826',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '04124dab-81da-4368-a78f-d03ca275f2a0',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'iso3166-1-alpha2',
     'CR',
@@ -15233,8 +15233,8 @@ VALUES
     NOW()
   ),
   (
-    'bf4ea682-1a02-4f2b-a461-d15a52bad407',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e275694a-1b41-47e3-9a3e-39e14e948344',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'iso3166-1-alpha3',
     'CRI',
@@ -15243,8 +15243,8 @@ VALUES
     NOW()
   ),
   (
-    'f1adcbbb-ce4f-4578-bb43-1b23be38d888',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '9f9a258c-15cd-4401-822a-f836f713e193',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'iso3166-1-numeric',
     '188',
@@ -15253,8 +15253,8 @@ VALUES
     NOW()
   ),
   (
-    '466f1181-7837-491c-9bc1-c139fa718b9a',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '04e11cd2-ac53-4d42-90cb-903fa2c5db6a',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'un_a3',
     '188',
@@ -15263,8 +15263,8 @@ VALUES
     NOW()
   ),
   (
-    '1200401f-224c-486c-ba04-593bdcabec95',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '6a5efe78-290c-48dd-828c-5c1478b02a90',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'world_bank_a2',
     'CR',
@@ -15273,8 +15273,8 @@ VALUES
     NOW()
   ),
   (
-    '47c53265-0496-4a7e-a913-dbfa5232320d',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e7cefccd-77b5-4a9c-a7c4-056f9bbf7a01',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'world_bank_a3',
     'CRI',
@@ -15283,8 +15283,8 @@ VALUES
     NOW()
   ),
   (
-    'fad40fe1-55f9-4cd3-b638-d4221f7c6fa3',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'f173e7a2-72d1-4b89-b026-0d2a90077fe7',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'natural_earth',
     'wikidata',
     'Q800',
@@ -15293,8 +15293,8 @@ VALUES
     NOW()
   ),
   (
-    '642b432a-87ca-4d10-8a60-b09dcd7316a4',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '2ec34cc3-e630-45f2-9168-65fcfec4300a',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'natural_earth_admin',
     'COD',
@@ -15303,8 +15303,8 @@ VALUES
     NOW()
   ),
   (
-    '34f8f189-e6cd-4a85-ac0f-9a3a5b1ad94d',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'f10b241e-5f16-4f50-a7bd-7d3f04243ca8',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'iso3166-1-alpha2',
     'CD',
@@ -15313,8 +15313,8 @@ VALUES
     NOW()
   ),
   (
-    'd643988e-fceb-4fc0-adbb-fc4d3759eac5',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '3cff73b9-7072-4ddb-9d3d-65cabcfa8fd6',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'iso3166-1-alpha3',
     'COD',
@@ -15323,8 +15323,8 @@ VALUES
     NOW()
   ),
   (
-    'a7b345ed-75d8-4ae8-aae5-a367f57a9002',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '74b31a16-f1fb-4035-8778-f4d00d2d5688',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'iso3166-1-numeric',
     '180',
@@ -15333,8 +15333,8 @@ VALUES
     NOW()
   ),
   (
-    '05d45103-e7c3-4819-a976-7b4621fc903c',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'f24030ff-552c-4c70-8f90-32310b432623',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'un_a3',
     '180',
@@ -15343,8 +15343,8 @@ VALUES
     NOW()
   ),
   (
-    '456626bf-4e42-4ee5-9214-1d2e6b209da2',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'bcab9bde-cd19-4924-b502-1c836396fa60',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'world_bank_a2',
     'ZR',
@@ -15353,8 +15353,8 @@ VALUES
     NOW()
   ),
   (
-    'b9c34205-c9cc-4bd7-87f5-0a7e965b5187',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'b42a3370-dfa3-49c3-baf9-aaa8060a491f',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'world_bank_a3',
     'ZAR',
@@ -15363,8 +15363,8 @@ VALUES
     NOW()
   ),
   (
-    'e7898c35-75fe-454b-a2ea-6ef516efe1fb',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'e92ba3b2-1b95-40b0-a8b7-454bd97bcec2',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'natural_earth',
     'wikidata',
     'Q974',
@@ -15373,8 +15373,8 @@ VALUES
     NOW()
   ),
   (
-    '856b6641-99be-4820-b51a-c04246b6ba0a',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '7ba92577-b50d-4462-9bfc-e523f48f057a',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'natural_earth_admin',
     'COG',
@@ -15383,8 +15383,8 @@ VALUES
     NOW()
   ),
   (
-    '42e59008-0185-4cad-a084-45e36b6372a5',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '2e633578-42ad-4564-b9e7-41923d373a11',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'iso3166-1-alpha2',
     'CG',
@@ -15393,8 +15393,8 @@ VALUES
     NOW()
   ),
   (
-    '20b36cfe-539e-4485-a5e1-ec56c49912e2',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '592a9eb9-9e7e-4a7f-aac8-ffc5524c04fe',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'iso3166-1-alpha3',
     'COG',
@@ -15403,8 +15403,8 @@ VALUES
     NOW()
   ),
   (
-    '1da55063-8205-4358-bdf4-a53b66faf905',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'bc50dfb6-7bf3-4fe8-8941-ab0d392d3e3f',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'iso3166-1-numeric',
     '178',
@@ -15413,8 +15413,8 @@ VALUES
     NOW()
   ),
   (
-    '10a530f0-34a6-4430-971c-387d523724fc',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '7b4c22ca-64c3-4678-85c5-f03449f542c3',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'un_a3',
     '178',
@@ -15423,8 +15423,8 @@ VALUES
     NOW()
   ),
   (
-    '0527164a-1bbc-485b-8023-388e9f2b3ba4',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '0b21ba4b-3c4e-4c81-ad91-aafe3ec76f63',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'world_bank_a2',
     'CG',
@@ -15433,8 +15433,8 @@ VALUES
     NOW()
   ),
   (
-    '91579e10-72d9-4872-8226-befcc5515aa3',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'f94ed9c4-f0b5-4072-9e4e-0c01e6990031',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'world_bank_a3',
     'COG',
@@ -15443,8 +15443,8 @@ VALUES
     NOW()
   ),
   (
-    'ad81c17c-40b8-4108-8ad2-73a2cfd7afbb',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '941dc8f8-71eb-4dbf-9da2-960e4cd5bb11',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'natural_earth',
     'wikidata',
     'Q971',
@@ -15453,8 +15453,8 @@ VALUES
     NOW()
   ),
   (
-    '0084c4d6-00f5-47b5-b82a-eead4657ee1c',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'd7c8e932-41d5-4463-809f-0c7bb30d0226',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'natural_earth_admin',
     'COM',
@@ -15463,8 +15463,8 @@ VALUES
     NOW()
   ),
   (
-    '50fd30df-4e26-492d-9db6-d26ee7e722df',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '757f253c-2859-47be-8960-5c3d944375ff',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'iso3166-1-alpha2',
     'KM',
@@ -15473,8 +15473,8 @@ VALUES
     NOW()
   ),
   (
-    '127a55df-655c-492e-a305-5b14896da3f7',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '60dac1ae-ef02-4d3c-8ed7-b73c34e89c99',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'iso3166-1-alpha3',
     'COM',
@@ -15483,8 +15483,8 @@ VALUES
     NOW()
   ),
   (
-    '399809c1-fa65-4770-9c2c-c5bdbb8945a3',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '0a420534-05ed-4f79-8180-11f56f4a6db3',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'iso3166-1-numeric',
     '174',
@@ -15493,8 +15493,8 @@ VALUES
     NOW()
   ),
   (
-    'dfba93d7-60f4-447d-8bf0-348ae36ab959',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '0f93d3c9-64c9-48c1-b81b-adf5e23a9650',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'un_a3',
     '174',
@@ -15503,8 +15503,8 @@ VALUES
     NOW()
   ),
   (
-    '1a9b50dc-c940-43ec-9de6-79b08f330c86',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '88503b3a-cab6-49b3-8657-4a6d69d1d424',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'world_bank_a2',
     'KM',
@@ -15513,8 +15513,8 @@ VALUES
     NOW()
   ),
   (
-    '76c15478-a5fc-4f1a-a469-81ca321f46c3',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'afb1491e-64c3-4020-9e05-6a309e512285',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'world_bank_a3',
     'COM',
@@ -15523,8 +15523,8 @@ VALUES
     NOW()
   ),
   (
-    'bccfbe10-2d42-40dc-b4d0-e6c9ddcdb4e8',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'c2ff36a2-a404-4efd-bc74-53bf1a90a19c',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'natural_earth',
     'wikidata',
     'Q970',
@@ -15533,8 +15533,8 @@ VALUES
     NOW()
   ),
   (
-    'a63226df-f431-4668-bfbc-49ec0cd41310',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '93e671ee-d8d1-4b55-8692-8d1aeb8638d8',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'natural_earth_admin',
     'COL',
@@ -15543,8 +15543,8 @@ VALUES
     NOW()
   ),
   (
-    '25914a3f-6d52-483d-a1ac-03bf7b3f2ac5',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '539b757e-b737-4c2b-a5ed-7b1458c65edd',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'iso3166-1-alpha2',
     'CO',
@@ -15553,8 +15553,8 @@ VALUES
     NOW()
   ),
   (
-    '6f9caddc-86ee-4e48-868a-0ce4d09615ea',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    'fc596fb4-51ee-4d89-979d-0ff6fd7913ea',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'iso3166-1-alpha3',
     'COL',
@@ -15563,8 +15563,8 @@ VALUES
     NOW()
   ),
   (
-    '3738cccd-d31a-4b91-94bf-03d9dc339268',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '7cac86a3-bf4b-45f5-9b5c-48640814feb0',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'iso3166-1-numeric',
     '170',
@@ -15573,8 +15573,8 @@ VALUES
     NOW()
   ),
   (
-    '97382adf-055d-49d1-abc9-a2cb1106afda',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    'aa4e253e-61db-429e-818d-e28ce3ddacbd',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'un_a3',
     '170',
@@ -15583,8 +15583,8 @@ VALUES
     NOW()
   ),
   (
-    '20823f60-6c67-4f92-9f74-aba111c212f2',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '7503b484-fe2f-4366-b478-657a689022ac',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'world_bank_a2',
     'CO',
@@ -15593,8 +15593,8 @@ VALUES
     NOW()
   ),
   (
-    '006e2527-51d5-462b-adb1-614b507f09af',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '6002af7c-e466-42a8-a5eb-5a5a72ba0c47',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'world_bank_a3',
     'COL',
@@ -15603,8 +15603,8 @@ VALUES
     NOW()
   ),
   (
-    'b9095227-af55-41fd-9cce-f7adadd92458',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '826f4e1d-fc26-4f35-8380-773a5bad55aa',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'natural_earth',
     'wikidata',
     'Q739',
@@ -15613,8 +15613,8 @@ VALUES
     NOW()
   ),
   (
-    '85128806-c93c-41d6-8813-eb740132f598',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '4d0532be-dd1d-494f-bca9-e37afca9e418',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'natural_earth_admin',
     'CHN',
@@ -15623,8 +15623,8 @@ VALUES
     NOW()
   ),
   (
-    '4679fa31-7b7e-45e6-adce-e4f0ac97d756',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '192288b3-aa6f-4cef-a4a3-7ee0cdffa041',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'iso3166-1-alpha2',
     'CN',
@@ -15633,8 +15633,8 @@ VALUES
     NOW()
   ),
   (
-    'a2f969d4-e7df-437b-b033-377bb7feb4eb',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '4b9dfd24-6af6-4711-8a3b-0d78119f3763',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHN',
@@ -15643,8 +15643,8 @@ VALUES
     NOW()
   ),
   (
-    '4e07b85f-ee38-4b95-bb8a-e4e4de87e4aa',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '6657c6ca-502f-49e6-9c55-a2e6e68ab480',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'iso3166-1-numeric',
     '156',
@@ -15653,8 +15653,8 @@ VALUES
     NOW()
   ),
   (
-    '88fee297-f501-4a17-b830-83c55136556e',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '35c8dea6-8c79-4f83-a3a0-58c5c2279a7c',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'un_a3',
     '156',
@@ -15663,8 +15663,8 @@ VALUES
     NOW()
   ),
   (
-    'bba85c76-baab-4e32-bae7-95573d42ccdb',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '6dcacbf4-ecb2-4a5a-9717-8308df046afa',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'world_bank_a2',
     'CN',
@@ -15673,8 +15673,8 @@ VALUES
     NOW()
   ),
   (
-    'e2fbab22-55fa-4d28-b9f4-d01f07ae4b62',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    'f6d89e9c-0b94-4daf-80ae-344e5c0ea077',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'world_bank_a3',
     'CHN',
@@ -15683,8 +15683,8 @@ VALUES
     NOW()
   ),
   (
-    '32061cda-4012-4b05-ab68-68eb3d6c5b7c',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '97b22d6d-797d-4f77-91be-5f674a2aacde',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'natural_earth',
     'wikidata',
     'Q148',
@@ -15693,8 +15693,8 @@ VALUES
     NOW()
   ),
   (
-    'a46e34d2-8017-45b7-8294-ca5c8111196a',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '42b8b024-057e-4956-800e-03836c5b3395',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'natural_earth_admin',
     'MAC',
@@ -15703,8 +15703,8 @@ VALUES
     NOW()
   ),
   (
-    'a13b23a3-8659-43f8-891c-ba7cb9bc3a55',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '91197a6c-3832-498e-bece-fe34924b0ca1',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'iso3166-1-alpha2',
     'MO',
@@ -15713,8 +15713,8 @@ VALUES
     NOW()
   ),
   (
-    'd555421a-a755-4fb0-8eb4-deaa6e50edf3',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'dde8e411-faa7-4fa6-84e2-76f3835029ce',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'iso3166-1-alpha3',
     'MAC',
@@ -15723,8 +15723,8 @@ VALUES
     NOW()
   ),
   (
-    '0a8c0f4b-377e-43f2-97d5-4040afb6f8d6',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'c373c140-aca7-48f1-bc47-b45540b90885',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'iso3166-1-numeric',
     '446',
@@ -15733,8 +15733,8 @@ VALUES
     NOW()
   ),
   (
-    'e3772425-cf64-4caa-a7eb-5b2b1d921a9e',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'd6d798e1-d949-41a6-8d48-bb2a3c6490ff',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'un_a3',
     '446',
@@ -15743,8 +15743,8 @@ VALUES
     NOW()
   ),
   (
-    '5f4f2d1d-ce24-42a4-8ce7-e8930994fd77',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '6c5c327e-a606-4da4-8954-4298fdf9dbce',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'world_bank_a2',
     'MO',
@@ -15753,8 +15753,8 @@ VALUES
     NOW()
   ),
   (
-    '5c8f8a8a-96d1-4bdf-a5af-613a0bccfe2c',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '8fa4bd78-3ec2-4393-8e9d-9d58b2588c30',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'world_bank_a3',
     'MAC',
@@ -15763,8 +15763,8 @@ VALUES
     NOW()
   ),
   (
-    'dbc1e4fb-b571-4341-8b3e-74db2581e53d',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '94d98319-9378-4931-a1ca-40099d034582',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'natural_earth',
     'wikidata',
     'Q14773',
@@ -15773,8 +15773,8 @@ VALUES
     NOW()
   ),
   (
-    '509cfaf0-de71-4ae5-b86a-141989cd6347',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'b0667c59-32fa-4b2a-ba9f-8d4eb442f8d8',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'natural_earth_admin',
     'HKG',
@@ -15783,8 +15783,8 @@ VALUES
     NOW()
   ),
   (
-    '03d4ed8e-5393-4726-9a63-98f1c5681bb1',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'ed4eb226-e865-4fc3-a89d-d502967f5e85',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'iso3166-1-alpha2',
     'HK',
@@ -15793,8 +15793,8 @@ VALUES
     NOW()
   ),
   (
-    'ad9e6872-5c1c-497e-826d-d95009cad37b',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'd3a7c033-9acb-4c49-ac59-c85b25bea8f9',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'iso3166-1-alpha3',
     'HKG',
@@ -15803,8 +15803,8 @@ VALUES
     NOW()
   ),
   (
-    '215824c3-86b6-4c8f-b98a-ad5a57e6bf74',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '773f3186-4c3c-4293-bb0e-87efa4503551',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'iso3166-1-numeric',
     '344',
@@ -15813,8 +15813,8 @@ VALUES
     NOW()
   ),
   (
-    '3a7d0990-99e9-4c71-9017-5a316c3b86e5',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'cfca1a8a-d0a6-460c-ac5e-e926a71df711',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'un_a3',
     '344',
@@ -15823,8 +15823,8 @@ VALUES
     NOW()
   ),
   (
-    'bfc174ea-63e2-4202-8b49-431ba806ebe8',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '86c6ac40-c74f-4f37-8a26-9ad8ab60c792',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'world_bank_a2',
     'HK',
@@ -15833,8 +15833,8 @@ VALUES
     NOW()
   ),
   (
-    'df390dfb-5b30-4e99-977c-601ef8b6b65c',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '46e71c03-5f08-454a-bb24-af4f972d6fe4',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'world_bank_a3',
     'HKG',
@@ -15843,8 +15843,8 @@ VALUES
     NOW()
   ),
   (
-    '8e02dce1-ae96-45a6-9dd0-a7c922324093',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'b889e670-d11e-43fd-960a-e56d2c466017',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'natural_earth',
     'wikidata',
     'Q8646',
@@ -15853,8 +15853,8 @@ VALUES
     NOW()
   ),
   (
-    'ef605046-3937-48ba-890d-dfc086f036e1',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'f4597128-f29f-42d6-9579-e27c53faf0f3',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'natural_earth_admin',
     'CHL',
@@ -15863,8 +15863,8 @@ VALUES
     NOW()
   ),
   (
-    '111f0317-0ef2-42f3-9521-bf7bd1310a19',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '8b519bb7-0a7d-4633-b044-dae34ad31109',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'iso3166-1-alpha2',
     'CL',
@@ -15873,8 +15873,8 @@ VALUES
     NOW()
   ),
   (
-    '5e93c1d8-458c-4b23-8bc0-bac53fbeb64c',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '07fc43cb-0ec0-4506-936e-738a73fa1da0',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'iso3166-1-alpha3',
     'CHL',
@@ -15883,8 +15883,8 @@ VALUES
     NOW()
   ),
   (
-    '377b2b64-3038-4ae2-ba1f-b94b9ffac540',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'e235fa79-477a-4ea5-beec-eb8b72133b1b',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'iso3166-1-numeric',
     '152',
@@ -15893,8 +15893,8 @@ VALUES
     NOW()
   ),
   (
-    'b0ad167a-05c4-4986-af8c-672ffd50fe0f',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '18e621f1-a74d-4180-9b5a-580981ab604a',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'un_a3',
     '152',
@@ -15903,8 +15903,8 @@ VALUES
     NOW()
   ),
   (
-    'd4adab08-9c53-4ae4-9295-012176c3497b',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'bdb48670-4174-42c3-9fc5-e7778c869ddc',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'world_bank_a2',
     'CL',
@@ -15913,8 +15913,8 @@ VALUES
     NOW()
   ),
   (
-    '85728e53-83ca-44e5-b3ca-2aec3e64cc5c',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'e394c30d-4d62-4b98-875c-a76462562c44',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'world_bank_a3',
     'CHL',
@@ -15923,8 +15923,8 @@ VALUES
     NOW()
   ),
   (
-    'f316cfcf-6e9a-44ba-a0a0-c9770b3f1a67',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '58ba807e-f673-438d-8dd2-ca526c5c5563',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'natural_earth',
     'wikidata',
     'Q298',
@@ -15933,8 +15933,8 @@ VALUES
     NOW()
   ),
   (
-    '2f7481dc-2df0-4a84-ac55-f427a1f2dd04',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '7151b7e8-3703-46ce-8677-68339b5432c5',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'natural_earth_admin',
     'TCD',
@@ -15943,8 +15943,8 @@ VALUES
     NOW()
   ),
   (
-    '542836e5-803f-45a6-a9dd-2649f7e61483',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'de3d6ba1-bf40-49b7-9444-b1402df243b7',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'iso3166-1-alpha2',
     'TD',
@@ -15953,8 +15953,8 @@ VALUES
     NOW()
   ),
   (
-    'f83ee6d7-f0ba-4cbb-aa07-ccd0ecbe9ced',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '582583b8-c6a4-40b3-802d-eef47ddbc881',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'iso3166-1-alpha3',
     'TCD',
@@ -15963,8 +15963,8 @@ VALUES
     NOW()
   ),
   (
-    'f2c724a6-08fc-42d8-a11c-84c64a052585',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '70ce7e40-841a-4a5c-926f-7eb8463ce10b',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'iso3166-1-numeric',
     '148',
@@ -15973,8 +15973,8 @@ VALUES
     NOW()
   ),
   (
-    '040ff86c-0018-4e61-bb8b-119d30c44a60',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'cd09b76f-e12e-443d-80fa-b9eec86d9620',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'un_a3',
     '148',
@@ -15983,8 +15983,8 @@ VALUES
     NOW()
   ),
   (
-    '80b13fdf-8482-45a1-9c00-3771f6cd6476',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'd7a3ddd4-59cb-477c-a0fa-ed92a0451fa3',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'world_bank_a2',
     'TD',
@@ -15993,8 +15993,8 @@ VALUES
     NOW()
   ),
   (
-    'e5d58a0c-76bc-4ea7-a458-57a933d026dd',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '2d8eafb5-5fb5-40e9-823c-896a64f40ba4',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'world_bank_a3',
     'TCD',
@@ -16003,8 +16003,8 @@ VALUES
     NOW()
   ),
   (
-    '2e9a7973-4c30-4e7d-9798-5c1f88c1a960',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'cfa28ec3-d701-41fc-8d10-475fd7e09c8c',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'natural_earth',
     'wikidata',
     'Q657',
@@ -16013,8 +16013,8 @@ VALUES
     NOW()
   ),
   (
-    '9dee75ff-29c1-4787-8cb9-63d719569ca6',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'd6ae719d-a28b-4e49-89c0-4b1999cbf9a2',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'natural_earth_admin',
     'CAF',
@@ -16023,8 +16023,8 @@ VALUES
     NOW()
   ),
   (
-    '085fc511-8d91-44cb-98e6-48b8a8bc6029',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '4c77156d-ddce-4704-b3b3-e043b7a67a00',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'iso3166-1-alpha2',
     'CF',
@@ -16033,8 +16033,8 @@ VALUES
     NOW()
   ),
   (
-    '3bdd4b2e-d2f2-436b-acf8-7a99261c7782',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'e780b4bd-857a-4726-b306-ec6e4a677d1b',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'iso3166-1-alpha3',
     'CAF',
@@ -16043,8 +16043,8 @@ VALUES
     NOW()
   ),
   (
-    '26e37d13-fb73-4c48-8f0c-7198470aab34',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '956be44e-ca76-4994-bda9-a831d0bd57a8',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'iso3166-1-numeric',
     '140',
@@ -16053,8 +16053,8 @@ VALUES
     NOW()
   ),
   (
-    '84537217-6e63-4f18-92c5-5b84712883ac',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '1b5f18dd-07a7-44e6-89cb-1c7c04d60c32',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'un_a3',
     '140',
@@ -16063,8 +16063,8 @@ VALUES
     NOW()
   ),
   (
-    'f9dd47f0-7405-4083-83ff-945a38f88e59',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '4c998e70-5daf-4030-9940-57104b973b06',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'world_bank_a2',
     'CF',
@@ -16073,8 +16073,8 @@ VALUES
     NOW()
   ),
   (
-    '2978670a-5e5d-4709-9949-d23fbe1124c2',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '73a0a72f-893f-4dc4-a072-22f0ef73d030',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'world_bank_a3',
     'CAF',
@@ -16083,8 +16083,8 @@ VALUES
     NOW()
   ),
   (
-    '9a3a1c84-4839-42c6-a8e1-fa968db64ab6',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'd461d500-6897-49ab-9325-dca04837189a',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'natural_earth',
     'wikidata',
     'Q929',
@@ -16093,8 +16093,8 @@ VALUES
     NOW()
   ),
   (
-    'fa8e848a-3d3f-4889-8e2d-70aafc70cf3a',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '903c523c-fc78-4dc3-8541-750fb2cfbd5f',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'natural_earth_admin',
     'CPV',
@@ -16103,8 +16103,8 @@ VALUES
     NOW()
   ),
   (
-    '02a23c16-9203-4e4e-b75a-1f4a20b9da4a',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '8ff1ad8e-23e4-4ae8-8571-881417be6df6',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'iso3166-1-alpha2',
     'CV',
@@ -16113,8 +16113,8 @@ VALUES
     NOW()
   ),
   (
-    '5b888fa7-613e-4905-a7b6-68f4449190d4',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'ebe19597-09b4-46c9-960a-86e6c9326907',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'iso3166-1-alpha3',
     'CPV',
@@ -16123,8 +16123,8 @@ VALUES
     NOW()
   ),
   (
-    '84389e09-1ca7-4ded-8c34-827040f27965',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'b8da0246-bb87-40ff-9b72-7d225f53e2ae',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'iso3166-1-numeric',
     '132',
@@ -16133,8 +16133,8 @@ VALUES
     NOW()
   ),
   (
-    'ca299215-f9ec-4ca8-aeff-0ab3868ae7f3',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'fda3cdd6-8d7d-4ce3-b43d-9f01879f0e1f',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'un_a3',
     '132',
@@ -16143,8 +16143,8 @@ VALUES
     NOW()
   ),
   (
-    '3d586d8c-fae7-430c-a48c-d45e5f357b77',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'e34f6db2-d9e3-4bdf-859e-9edea72bf07a',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'world_bank_a2',
     'CV',
@@ -16153,8 +16153,8 @@ VALUES
     NOW()
   ),
   (
-    'b09ccaf8-cb68-415c-9e88-1431699a0797',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '3a42941f-e6c0-4086-b16c-a69164d98b78',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'world_bank_a3',
     'CPV',
@@ -16163,8 +16163,8 @@ VALUES
     NOW()
   ),
   (
-    'd6446b55-c87d-4110-b654-6f651d10b6ef',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '3f78402a-2567-461a-8c2f-b06bdf824aa6',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'natural_earth',
     'wikidata',
     'Q1011',
@@ -16173,8 +16173,8 @@ VALUES
     NOW()
   ),
   (
-    'efb71945-22f6-4417-b3e1-6bbf72b1b83f',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '83ce64a3-ee93-4db7-8abd-01f78b600e7b',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'natural_earth_admin',
     'CAN',
@@ -16183,8 +16183,8 @@ VALUES
     NOW()
   ),
   (
-    'c2840cc1-b75d-4c37-83f9-fa958d2707b2',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '6af713ed-5295-4a49-80cc-399f2f910bc7',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'iso3166-1-alpha2',
     'CA',
@@ -16193,8 +16193,8 @@ VALUES
     NOW()
   ),
   (
-    '856a9d5d-4d65-4a87-8b3b-6041c0afcf1e',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '2ea1c1d8-bad4-4f7b-b82f-0939b2b2a584',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'iso3166-1-alpha3',
     'CAN',
@@ -16203,8 +16203,8 @@ VALUES
     NOW()
   ),
   (
-    '2103f63c-58bf-4030-a8b2-caa78be38383',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '8fc9c6ed-4b4d-4e47-bb71-8f89c6ba2c9f',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'iso3166-1-numeric',
     '124',
@@ -16213,8 +16213,8 @@ VALUES
     NOW()
   ),
   (
-    'b14b58d0-eb60-4c5f-abaa-ad61fa4eed0c',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'a4bc3606-26f0-4b06-af36-a4c7589a5764',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'un_a3',
     '124',
@@ -16223,8 +16223,8 @@ VALUES
     NOW()
   ),
   (
-    '8fdb9d74-dacf-4e21-aa78-5a50f48346f4',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '16c6633c-56f1-4a60-8239-cecfc1c28388',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'world_bank_a2',
     'CA',
@@ -16233,8 +16233,8 @@ VALUES
     NOW()
   ),
   (
-    'c06d6690-ae62-48b7-abc5-5293cb82b463',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '2fb9b9cd-a88a-4847-9a29-05b091bcef05',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'world_bank_a3',
     'CAN',
@@ -16243,8 +16243,8 @@ VALUES
     NOW()
   ),
   (
-    'adf932cb-163d-4873-a237-6c135bea5efa',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '6ae415de-35e9-4c45-b188-c1e89261be6c',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'natural_earth',
     'wikidata',
     'Q16',
@@ -16253,8 +16253,8 @@ VALUES
     NOW()
   ),
   (
-    'd39e4c62-e5db-42e7-b1ba-2de596153271',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '6ad5bede-04de-4362-aae2-db5d86fe819f',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'natural_earth_admin',
     'CMR',
@@ -16263,8 +16263,8 @@ VALUES
     NOW()
   ),
   (
-    '7206d2ce-ab9c-42f4-b755-64ebaa0e403b',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '3fcd5739-5415-432a-a447-fff0fa744c09',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'iso3166-1-alpha2',
     'CM',
@@ -16273,8 +16273,8 @@ VALUES
     NOW()
   ),
   (
-    '79776e70-afb3-44aa-83a3-8d1628b10653',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '705d0412-5b8e-471a-9970-557caf48b1b0',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'iso3166-1-alpha3',
     'CMR',
@@ -16283,8 +16283,8 @@ VALUES
     NOW()
   ),
   (
-    '1195aec4-1a50-44e9-a933-2946d0d63bb7',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '67de4565-9d6a-46c9-8615-9789f609ad40',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'iso3166-1-numeric',
     '120',
@@ -16293,8 +16293,8 @@ VALUES
     NOW()
   ),
   (
-    'ca658594-7bfd-434d-9627-e7327168136e',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '35047736-6f43-45a3-b243-faf6f73d019a',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'un_a3',
     '120',
@@ -16303,8 +16303,8 @@ VALUES
     NOW()
   ),
   (
-    'f57c3370-d05a-4186-8863-f07442ef4f92',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    'b5d91561-0091-4d54-a09d-dc78305bff16',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'world_bank_a2',
     'CM',
@@ -16313,8 +16313,8 @@ VALUES
     NOW()
   ),
   (
-    'd6fb0661-b036-4b54-8045-ee356bd102a3',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '42faaee5-85eb-47b6-a088-797d2d529809',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'world_bank_a3',
     'CMR',
@@ -16323,8 +16323,8 @@ VALUES
     NOW()
   ),
   (
-    '79f2d0fd-d1a2-46aa-94aa-689d8d538d8e',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '7cf3220b-436b-4c0e-bd2c-fead9f4810b8',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'natural_earth',
     'wikidata',
     'Q1009',
@@ -16333,8 +16333,8 @@ VALUES
     NOW()
   ),
   (
-    '1aedc010-07d8-4433-87bb-7c4886570271',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'd5674bfb-d2db-4de5-9bb4-741dbdecedef',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'natural_earth_admin',
     'KHM',
@@ -16343,8 +16343,8 @@ VALUES
     NOW()
   ),
   (
-    'd823aa41-d07d-4bdb-8470-392deff27685',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '99b5964a-d850-43da-90f3-ab4bbca4f50b',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'iso3166-1-alpha2',
     'KH',
@@ -16353,8 +16353,8 @@ VALUES
     NOW()
   ),
   (
-    'f8535d40-7bae-4a6b-80d4-b2fe3ae53362',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'd33414ed-8fce-4b38-9f20-f2dbb5997e27',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'iso3166-1-alpha3',
     'KHM',
@@ -16363,8 +16363,8 @@ VALUES
     NOW()
   ),
   (
-    '78574762-bb63-46c8-807f-d147dd1a3635',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '45bce626-6a87-4a53-a8d3-7b419c59fefa',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'iso3166-1-numeric',
     '116',
@@ -16373,8 +16373,8 @@ VALUES
     NOW()
   ),
   (
-    '99bde75a-752e-4fbf-830b-3909beab38d0',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '555bac84-bd76-436d-a5b5-0720694b6efa',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'un_a3',
     '116',
@@ -16383,8 +16383,8 @@ VALUES
     NOW()
   ),
   (
-    '6edee035-1fde-4442-9f1b-f60ce0dc3769',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '4a10cd97-bb97-48c2-9b60-47dae24dd1e8',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'world_bank_a2',
     'KH',
@@ -16393,8 +16393,8 @@ VALUES
     NOW()
   ),
   (
-    'a8ab70e7-21be-40a6-869b-cda090165afd',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '6501f61c-73a1-4dfd-9677-aa0480d0f1fa',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'world_bank_a3',
     'KHM',
@@ -16403,8 +16403,8 @@ VALUES
     NOW()
   ),
   (
-    '3dbb1a67-e6d7-411c-b06a-ef1fdf311268',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'be2b50cd-2db6-44a4-9e27-ff88e7eba6c1',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'natural_earth',
     'wikidata',
     'Q424',
@@ -16413,8 +16413,8 @@ VALUES
     NOW()
   ),
   (
-    'a304bbf8-9db7-4524-b21b-ce220e8cb8fc',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'd494b735-54cb-4931-9ab7-c9ac2126efb3',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'natural_earth_admin',
     'MMR',
@@ -16423,8 +16423,8 @@ VALUES
     NOW()
   ),
   (
-    '3027ed7e-6e66-4b66-8462-c1ed89e8de89',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '19470667-6819-4cfd-b547-a8202c03c6d3',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'iso3166-1-alpha2',
     'MM',
@@ -16433,8 +16433,8 @@ VALUES
     NOW()
   ),
   (
-    'e820960e-7ec9-4673-9de0-22aedb936ec4',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '533b0baa-6032-45f9-a2b5-3351204cacee',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'iso3166-1-alpha3',
     'MMR',
@@ -16443,8 +16443,8 @@ VALUES
     NOW()
   ),
   (
-    '71802060-83b3-466b-8778-3fa09f7f0543',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'da5b43ce-6388-4d80-9f56-f6efeb6f172f',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'iso3166-1-numeric',
     '104',
@@ -16453,8 +16453,8 @@ VALUES
     NOW()
   ),
   (
-    'e1f237b5-b9e9-4422-8af6-a0b8e988fbfa',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'be5367c7-b6bf-45c8-8813-20ac912af363',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'un_a3',
     '104',
@@ -16463,8 +16463,8 @@ VALUES
     NOW()
   ),
   (
-    '914daff0-fbf9-484c-8790-5ce1ffea7e99',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '01f4fc02-1f86-4c81-ab77-8743fb9ccc3b',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'world_bank_a2',
     'MM',
@@ -16473,8 +16473,8 @@ VALUES
     NOW()
   ),
   (
-    'ff1a4ea8-e93b-42eb-bb67-525e5965eb4d',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'e2042c2e-2907-4b38-96b8-ff445c03a916',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'world_bank_a3',
     'MMR',
@@ -16483,8 +16483,8 @@ VALUES
     NOW()
   ),
   (
-    '36b21cbc-78d3-4869-896e-b19152de467e',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'f08584b0-c48e-45e7-b94a-acc84d88d132',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'natural_earth',
     'wikidata',
     'Q836',
@@ -16493,8 +16493,8 @@ VALUES
     NOW()
   ),
   (
-    'f9d5bbf7-cff2-4dd8-88bd-e21bd8439c8a',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '85517c05-7160-4891-a9aa-e06144d6f3e1',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'natural_earth_admin',
     'BDI',
@@ -16503,8 +16503,8 @@ VALUES
     NOW()
   ),
   (
-    '50f8b599-8c04-4379-9d0e-1ececac62582',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'cebe9eb4-f466-4e34-831c-b5dd7cb6804a',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'iso3166-1-alpha2',
     'BI',
@@ -16513,8 +16513,8 @@ VALUES
     NOW()
   ),
   (
-    '9c72937e-1fce-4ab5-80bb-e7588f8fc63c',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'ed993a63-33f6-480b-939c-ccd40bfd98f8',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'iso3166-1-alpha3',
     'BDI',
@@ -16523,8 +16523,8 @@ VALUES
     NOW()
   ),
   (
-    'd74aa137-b1ef-4621-8ae9-59f296189dd9',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '57c8c898-7b89-426d-93fb-9aced26556b2',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'iso3166-1-numeric',
     '108',
@@ -16533,8 +16533,8 @@ VALUES
     NOW()
   ),
   (
-    '7fea6e4f-3711-4c88-9298-d0d13a4527ac',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '5d6af44d-ce52-45d8-87ba-84b7fbd68530',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'un_a3',
     '108',
@@ -16543,8 +16543,8 @@ VALUES
     NOW()
   ),
   (
-    '1fd8ab53-3bfe-48d4-90a2-15484b2c46ab',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '483ff008-10bd-4568-9349-65c49df0872c',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'world_bank_a2',
     'BI',
@@ -16553,8 +16553,8 @@ VALUES
     NOW()
   ),
   (
-    'b5d2e06a-4f0b-4cea-a321-091cf48dbe94',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'c52baac9-2ebf-49ff-be2f-9925ee972907',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'world_bank_a3',
     'BDI',
@@ -16563,8 +16563,8 @@ VALUES
     NOW()
   ),
   (
-    'fd340ef3-4481-4df5-b122-8e4caad54948',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '7aecdab7-e5f8-4898-ac82-b44ade8a1e6d',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'natural_earth',
     'wikidata',
     'Q967',
@@ -16573,8 +16573,8 @@ VALUES
     NOW()
   ),
   (
-    '36f8f6e7-8bbd-470e-b7f6-e5b0b51e7606',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '7d2d53a5-7040-4e02-8ea9-126021e864bb',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'natural_earth_admin',
     'BFA',
@@ -16583,8 +16583,8 @@ VALUES
     NOW()
   ),
   (
-    'e31858e8-8cac-4544-95f3-5f1b1bc59b7c',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'd0f4e158-44ac-4455-b4b5-e929f930d428',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'iso3166-1-alpha2',
     'BF',
@@ -16593,8 +16593,8 @@ VALUES
     NOW()
   ),
   (
-    '36bd12ec-bc87-4bf2-bfce-4c56980189f7',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'e9bd7225-e120-4986-afbb-2ba45e3e7be8',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'iso3166-1-alpha3',
     'BFA',
@@ -16603,8 +16603,8 @@ VALUES
     NOW()
   ),
   (
-    'de59c634-13bb-46a6-8cbc-a27b3e82f2b0',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '23636f8e-3f7e-4039-a285-aeec32d6a5a2',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'iso3166-1-numeric',
     '854',
@@ -16613,8 +16613,8 @@ VALUES
     NOW()
   ),
   (
-    'b128229e-3e8a-47d4-905c-520b2f570a74',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '6fb655ea-1740-460c-93d9-77a8caa20ef4',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'un_a3',
     '854',
@@ -16623,8 +16623,8 @@ VALUES
     NOW()
   ),
   (
-    'bc9a662a-b673-416d-8bf0-cc2698043cb6',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '43942f70-445f-4c9e-9461-19c8b5a5ad43',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'world_bank_a2',
     'BF',
@@ -16633,8 +16633,8 @@ VALUES
     NOW()
   ),
   (
-    'b7452ee2-29c1-48fa-8ceb-e309e544d830',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '06396b93-d7f3-40a8-93e9-ad71ab8babea',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'world_bank_a3',
     'BFA',
@@ -16643,8 +16643,8 @@ VALUES
     NOW()
   ),
   (
-    'dd19f020-838f-44cc-9cc5-9df09a2b6535',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '3d542947-f7bc-422d-aee5-7055f613b7ec',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'natural_earth',
     'wikidata',
     'Q965',
@@ -16653,8 +16653,8 @@ VALUES
     NOW()
   ),
   (
-    'd5851329-b2ec-463f-80cf-0442a1dd6a17',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '8ff8b52f-db81-49c4-ab04-e8c4a815e11a',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'natural_earth_admin',
     'BGR',
@@ -16663,8 +16663,8 @@ VALUES
     NOW()
   ),
   (
-    '229e0a75-b35d-472b-b263-0579d0e34182',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'fb6ab8b0-2f37-425f-9517-9610bf41745a',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'iso3166-1-alpha2',
     'BG',
@@ -16673,8 +16673,8 @@ VALUES
     NOW()
   ),
   (
-    '33552ad8-fc77-4245-8a75-8889ef5ed730',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '0d866e52-e0db-4c65-b02b-9a7753e9cbf5',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'iso3166-1-alpha3',
     'BGR',
@@ -16683,8 +16683,8 @@ VALUES
     NOW()
   ),
   (
-    '3821b6e9-c13c-4d3a-9ad7-f21ce24eeb35',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '95762bb9-9943-47a7-8571-f58ca265f4d4',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'iso3166-1-numeric',
     '100',
@@ -16693,8 +16693,8 @@ VALUES
     NOW()
   ),
   (
-    '397a2a6c-195a-4245-8444-10a38f9e0af0',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '41cfe960-df78-45ff-860a-3cb60a6b7078',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'un_a3',
     '100',
@@ -16703,8 +16703,8 @@ VALUES
     NOW()
   ),
   (
-    'bff6b12d-8b9b-407c-877d-2bbdbea2e1dd',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '3e147134-c8e9-41e8-bccc-2d09deaeddbb',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'world_bank_a2',
     'BG',
@@ -16713,8 +16713,8 @@ VALUES
     NOW()
   ),
   (
-    '986987e2-24b6-44e5-9b44-e25817f3834d',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '3ec85e31-5f89-418e-9c8c-df329d9387e8',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'world_bank_a3',
     'BGR',
@@ -16723,8 +16723,8 @@ VALUES
     NOW()
   ),
   (
-    '4df7717a-1b70-4ac6-82f4-c0be8362c04a',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'c9fd24df-b36d-4acd-818c-87adf9da7e7b',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'natural_earth',
     'wikidata',
     'Q219',
@@ -16733,8 +16733,8 @@ VALUES
     NOW()
   ),
   (
-    '8c084cc7-6b98-44b1-9742-7393f7fd41b2',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '3c3b8afc-0414-4792-a7ba-49a3d8eacd71',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'natural_earth_admin',
     'BRN',
@@ -16743,8 +16743,8 @@ VALUES
     NOW()
   ),
   (
-    '8a96e735-36f9-4910-ae62-f728fb49b633',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '07b312e8-c82c-444b-ad21-87b4ecdc6800',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'iso3166-1-alpha2',
     'BN',
@@ -16753,8 +16753,8 @@ VALUES
     NOW()
   ),
   (
-    'fa54c25d-a196-432b-abe2-35ab0e357168',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '7b7a60d8-2e1d-479f-81bd-a1f36939f235',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRN',
@@ -16763,8 +16763,8 @@ VALUES
     NOW()
   ),
   (
-    '5fc560cb-af69-4d7f-8c9f-aefcd744cc02',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '15b467cc-6be9-4633-8b6e-dcaa6d711e93',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'iso3166-1-numeric',
     '096',
@@ -16773,8 +16773,8 @@ VALUES
     NOW()
   ),
   (
-    '8e211b6c-0b6b-4c44-b231-1b11f984f7b0',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'f2142015-fc6a-4a69-86c9-efad4772c018',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'un_a3',
     '096',
@@ -16783,8 +16783,8 @@ VALUES
     NOW()
   ),
   (
-    '6a81b791-48a5-4f58-bcd9-246d0a4b89fe',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'd79e8fda-5598-42b1-a613-21123c8d4626',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'world_bank_a2',
     'BN',
@@ -16793,8 +16793,8 @@ VALUES
     NOW()
   ),
   (
-    'e5c49e58-5a74-4f5e-9fd1-20c94e011e92',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '73787be5-da1a-4563-a817-8f97f419ba45',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'world_bank_a3',
     'BRN',
@@ -16803,8 +16803,8 @@ VALUES
     NOW()
   ),
   (
-    'd1136934-7b45-4c84-8902-e3c84849af45',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '5e2eecd0-4fc8-40b6-9fe5-0f1cb37379f9',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'natural_earth',
     'wikidata',
     'Q921',
@@ -16813,8 +16813,8 @@ VALUES
     NOW()
   ),
   (
-    '4fad79f7-e4d2-44e5-849f-0d6a628dbe9a',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'db375b6f-e821-4792-8167-6b69e9132c2d',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'natural_earth_admin',
     'BRA',
@@ -16823,8 +16823,8 @@ VALUES
     NOW()
   ),
   (
-    '4781e18a-06f2-4f92-9f4e-08c7760ba317',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'e40c0e5a-bb4c-4b23-94c2-f5f90f3dd26b',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'iso3166-1-alpha2',
     'BR',
@@ -16833,8 +16833,8 @@ VALUES
     NOW()
   ),
   (
-    '1bafc8f9-5fa6-4f3a-8226-457e967543f4',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'da1bfe8a-17dc-45cd-aac0-cabb5bdc9276',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRA',
@@ -16843,8 +16843,8 @@ VALUES
     NOW()
   ),
   (
-    '384b12cb-e172-4b89-bd4c-0b6e8f7ea8b1',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'cabdbf28-211d-4dbe-ac5c-e971c21306cb',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'iso3166-1-numeric',
     '076',
@@ -16853,8 +16853,8 @@ VALUES
     NOW()
   ),
   (
-    '3d4edbba-a354-4331-8d5a-540d15963c57',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '1d99ea17-0976-4ccd-890c-4fac3a5378ff',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'un_a3',
     '076',
@@ -16863,8 +16863,8 @@ VALUES
     NOW()
   ),
   (
-    '348d4467-6d57-4d90-a18c-f8a350e1fa91',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'f676e828-4431-4d73-8bde-d59ff7645cfc',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'world_bank_a2',
     'BR',
@@ -16873,8 +16873,8 @@ VALUES
     NOW()
   ),
   (
-    'a4055271-4112-431b-83bb-6f34d528424d',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'acc1db07-116e-4f68-ad2c-b727e85eaecd',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'world_bank_a3',
     'BRA',
@@ -16883,8 +16883,8 @@ VALUES
     NOW()
   ),
   (
-    '5843dd69-cfa9-4999-a2cb-be1502dc8eb2',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '75e5ea9c-49e2-44a3-adf7-352f1b8de327',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'natural_earth',
     'wikidata',
     'Q155',
@@ -16893,8 +16893,8 @@ VALUES
     NOW()
   ),
   (
-    'b258316b-7cba-4c7f-b98d-92f6aaf65656',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '47c8ccd1-c988-4d82-9b9f-06a0060a52e2',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'natural_earth_admin',
     'BWA',
@@ -16903,8 +16903,8 @@ VALUES
     NOW()
   ),
   (
-    'ca24d692-0e82-4a17-9663-a8c663d69186',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '278ff1e6-868c-4e71-94b1-27e0637903ce',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'iso3166-1-alpha2',
     'BW',
@@ -16913,8 +16913,8 @@ VALUES
     NOW()
   ),
   (
-    '6310909b-a8df-48cc-8d71-fd3f6e817a03',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '793310fe-e8c5-4ee4-9b3b-5235a67fb26d',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'iso3166-1-alpha3',
     'BWA',
@@ -16923,8 +16923,8 @@ VALUES
     NOW()
   ),
   (
-    '19fc0649-2c09-4112-ab1b-5fb950cfa08e',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '5ea320c5-4093-479d-a1af-9b9d11619c8c',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'iso3166-1-numeric',
     '072',
@@ -16933,8 +16933,8 @@ VALUES
     NOW()
   ),
   (
-    '2a0aac77-0b1a-488a-b29c-06f8d6f250f2',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '08e8d380-f0fb-4cd6-9e6c-7fc210682164',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'un_a3',
     '072',
@@ -16943,8 +16943,8 @@ VALUES
     NOW()
   ),
   (
-    'c7019be7-e30e-44a2-9a5d-31e6cbc095d2',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'd8a2e089-4002-458d-90b1-0e30a3f283b0',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'world_bank_a2',
     'BW',
@@ -16953,8 +16953,8 @@ VALUES
     NOW()
   ),
   (
-    '65b0d84d-c436-4d8b-bfbb-3e18d77208e2',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'bc9a9648-899d-4d97-824a-49eff94e389f',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'world_bank_a3',
     'BWA',
@@ -16963,8 +16963,8 @@ VALUES
     NOW()
   ),
   (
-    'cea84057-e403-4f8f-b56d-09aac734d5cf',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '37cc65fe-3a1c-4270-9115-d7ff3c4a4683',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'natural_earth',
     'wikidata',
     'Q963',
@@ -16973,8 +16973,8 @@ VALUES
     NOW()
   ),
   (
-    'dfbd11ec-ea48-4afe-8613-2b445fb00ca0',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'd9ac42a7-aa88-406f-bcfc-a29fa880b799',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'natural_earth_admin',
     'BIH',
@@ -16983,8 +16983,8 @@ VALUES
     NOW()
   ),
   (
-    '1bd768e9-9aa1-4b05-92b8-7e6947e015c5',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '2d723724-84a6-4580-8bbd-e6980b26d3e0',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'iso3166-1-alpha2',
     'BA',
@@ -16993,8 +16993,8 @@ VALUES
     NOW()
   ),
   (
-    'b8d8384b-8d09-47bc-b861-ff4eb4608e96',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'a5b7fe5c-4bcc-42f3-9a77-1137c6c43ba9',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'iso3166-1-alpha3',
     'BIH',
@@ -17003,8 +17003,8 @@ VALUES
     NOW()
   ),
   (
-    '9fa21b00-1b87-4f7d-8136-1940a02183c6',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'f0b53968-958a-486e-87f6-ccbaefd391a5',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'iso3166-1-numeric',
     '070',
@@ -17013,8 +17013,8 @@ VALUES
     NOW()
   ),
   (
-    '1d1cdc04-d241-438f-a7f8-569af48e5adc',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '76c2d414-140c-46c7-af08-9d382139126a',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'un_a3',
     '070',
@@ -17023,8 +17023,8 @@ VALUES
     NOW()
   ),
   (
-    'e6f04ea7-bb9c-47b0-aad5-dd9f98d0e8a9',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '4d71d456-fffa-4a80-a52f-2ea39891d174',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'world_bank_a2',
     'BA',
@@ -17033,8 +17033,8 @@ VALUES
     NOW()
   ),
   (
-    '1bd6c25e-78be-42d2-85b5-1fce20e8c392',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '611f450c-78fd-4aaf-a4ae-d461b4d0dbd2',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'world_bank_a3',
     'BIH',
@@ -17043,8 +17043,8 @@ VALUES
     NOW()
   ),
   (
-    'f5f53c71-1397-4785-8890-d7aedf5682f8',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '53300d19-46d2-45b3-ab05-de324ac4b2db',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'natural_earth',
     'wikidata',
     'Q225',
@@ -17053,8 +17053,8 @@ VALUES
     NOW()
   ),
   (
-    '1c68e282-7912-4860-ac60-fc4c52d021b8',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    'acf77688-f954-4f45-8313-6700a98052e3',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'natural_earth_admin',
     'BOL',
@@ -17063,8 +17063,8 @@ VALUES
     NOW()
   ),
   (
-    'a6a746d3-1c4d-424e-8e82-b03c56a36824',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '6b934b04-9549-43b1-8a56-cbdab039936a',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'iso3166-1-alpha2',
     'BO',
@@ -17073,8 +17073,8 @@ VALUES
     NOW()
   ),
   (
-    'bda7aa3a-5657-4bd2-a977-e3216aa45506',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    'fa13a850-a452-42a1-824d-36be4e921e7e',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'iso3166-1-alpha3',
     'BOL',
@@ -17083,8 +17083,8 @@ VALUES
     NOW()
   ),
   (
-    'd471e453-0db2-4a5b-a554-f81f9027bcf1',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '05f24ba9-0267-4344-90f5-dd391243c016',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'iso3166-1-numeric',
     '068',
@@ -17093,8 +17093,8 @@ VALUES
     NOW()
   ),
   (
-    '5ef6527b-4dc7-430e-ae63-163d5c3d9668',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '0f0574b1-624a-4883-b067-5da24979553c',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'un_a3',
     '068',
@@ -17103,8 +17103,8 @@ VALUES
     NOW()
   ),
   (
-    '29eb0401-b5f1-4b7f-80a1-949fa438c6ca',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '2ad39010-e96a-4870-a4fe-d8e256fdee0f',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'world_bank_a2',
     'BO',
@@ -17113,8 +17113,8 @@ VALUES
     NOW()
   ),
   (
-    '0090d97c-e97f-4836-98e0-77aec86160f2',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '28468c4f-8e74-4cb9-b14e-294d13afc401',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'world_bank_a3',
     'BOL',
@@ -17123,8 +17123,8 @@ VALUES
     NOW()
   ),
   (
-    '0ed8c5f0-110e-4a22-a326-b82cd169e305',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '396e2f8a-8bf7-48b4-a53c-1fb0b9288989',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'natural_earth',
     'wikidata',
     'Q750',
@@ -17133,8 +17133,8 @@ VALUES
     NOW()
   ),
   (
-    '717c37e4-4d51-491f-ae73-7fc1960311d0',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '9cd657f5-ab84-4906-8ee0-5e6e7a821b78',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'natural_earth_admin',
     'BTN',
@@ -17143,8 +17143,8 @@ VALUES
     NOW()
   ),
   (
-    'a03519e6-a063-4b8d-9058-fe42db08b3eb',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'f4ecb2c7-3b72-41c0-b1c3-3b93734854df',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'iso3166-1-alpha2',
     'BT',
@@ -17153,8 +17153,8 @@ VALUES
     NOW()
   ),
   (
-    '3f8f010f-96a4-45c1-b05e-fb22433c7a76',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '5fc30968-cc15-4fcd-af80-686dccbf47c4',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'iso3166-1-alpha3',
     'BTN',
@@ -17163,8 +17163,8 @@ VALUES
     NOW()
   ),
   (
-    'fc1310b4-2010-426e-9dbe-b5af2b24dfbf',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '467cb1e5-86b1-43e4-ac2a-5e87aa0a1e70',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'iso3166-1-numeric',
     '064',
@@ -17173,8 +17173,8 @@ VALUES
     NOW()
   ),
   (
-    'fc39cf7b-8f61-461d-a91f-939f7204c556',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '905b8243-6dd5-4fff-951c-85053da4f20c',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'un_a3',
     '064',
@@ -17183,8 +17183,8 @@ VALUES
     NOW()
   ),
   (
-    '159389a4-b37d-4e1e-a9cb-19b5d6c8a699',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'b1ca0682-80b9-4811-b680-4d1303c84c0d',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'world_bank_a2',
     'BT',
@@ -17193,8 +17193,8 @@ VALUES
     NOW()
   ),
   (
-    'd6947253-3b82-46ce-a438-d70dff075c35',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'b03d8033-42e6-4e86-b240-9f4a87896cc6',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'world_bank_a3',
     'BTN',
@@ -17203,8 +17203,8 @@ VALUES
     NOW()
   ),
   (
-    'b0c098af-479c-4bc3-bc48-0886610f59f3',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '6b73abbb-994c-4ae7-9811-e4368450ca2d',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'natural_earth',
     'wikidata',
     'Q917',
@@ -17213,8 +17213,8 @@ VALUES
     NOW()
   ),
   (
-    'd4beb2b1-e8de-4342-9abf-478dab64f293',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '830cd4b9-b8e1-4c84-8891-2c111a8bf2f6',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'natural_earth_admin',
     'BEN',
@@ -17223,8 +17223,8 @@ VALUES
     NOW()
   ),
   (
-    '018a4b37-0b16-4627-a116-5847c8f6f2a5',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '6b81a1bc-b5cf-4976-b458-28f077331116',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'iso3166-1-alpha2',
     'BJ',
@@ -17233,8 +17233,8 @@ VALUES
     NOW()
   ),
   (
-    'd99c79c2-fa1a-4de6-8793-3afaae57f8fb',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '734b6488-0122-4467-90b3-945f1d19bb36',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'iso3166-1-alpha3',
     'BEN',
@@ -17243,8 +17243,8 @@ VALUES
     NOW()
   ),
   (
-    'b16fea36-b1db-4408-acce-0c96d99c26ac',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '56d9aef9-fc13-487c-a204-03a648bcbbd0',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'iso3166-1-numeric',
     '204',
@@ -17253,8 +17253,8 @@ VALUES
     NOW()
   ),
   (
-    'dc7601e6-bd20-4887-9fd5-16d6e79d3722',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '73e05cf4-a3b4-4a61-a042-6e2bb86fa83c',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'un_a3',
     '204',
@@ -17263,8 +17263,8 @@ VALUES
     NOW()
   ),
   (
-    '92cfa643-b2c6-4364-a94a-6a174ee007cd',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '558ee66e-7913-461f-9edd-3c75d1c8180a',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'world_bank_a2',
     'BJ',
@@ -17273,8 +17273,8 @@ VALUES
     NOW()
   ),
   (
-    '6ead373d-f3ef-4a55-b552-607d10d8cd63',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '1657a918-3d45-43a2-8a18-94f3bcc21a35',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'world_bank_a3',
     'BEN',
@@ -17283,8 +17283,8 @@ VALUES
     NOW()
   ),
   (
-    'c320033f-c571-41ff-b7d0-f260253cd68d',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '5ea84f27-50a4-43d1-9dce-2f349f1d7d5c',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'natural_earth',
     'wikidata',
     'Q962',
@@ -17293,8 +17293,8 @@ VALUES
     NOW()
   ),
   (
-    'f4666a56-a086-44c2-bb63-8720a8dd16a3',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '52496746-85ec-42c6-bb78-bff7b395c994',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'natural_earth_admin',
     'BLZ',
@@ -17303,8 +17303,8 @@ VALUES
     NOW()
   ),
   (
-    'bc7c6449-cdb4-4338-a728-1824ed96148f',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '447b2f79-3b30-44e1-909c-dcd96089dbca',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'iso3166-1-alpha2',
     'BZ',
@@ -17313,8 +17313,8 @@ VALUES
     NOW()
   ),
   (
-    'e982e9da-08c0-4007-9b57-3316c22a2f86',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'e53d16aa-fd7e-417c-8872-dc0a69850816',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLZ',
@@ -17323,8 +17323,8 @@ VALUES
     NOW()
   ),
   (
-    'aaa83929-eee7-4d4f-b409-792dc9b5ad64',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '6dc8ebab-ec84-499d-82ae-39fda668a657',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'iso3166-1-numeric',
     '084',
@@ -17333,8 +17333,8 @@ VALUES
     NOW()
   ),
   (
-    'f6e11364-cc0b-465c-af4b-c923e3c69153',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '9bf43aeb-afd1-4f57-8bc2-35cf6ad3d681',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'un_a3',
     '084',
@@ -17343,8 +17343,8 @@ VALUES
     NOW()
   ),
   (
-    '0767ee29-dceb-436b-a8b4-84fd6a85caa7',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'dc68b89d-9585-430a-a390-0905a5fec0ca',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'world_bank_a2',
     'BZ',
@@ -17353,8 +17353,8 @@ VALUES
     NOW()
   ),
   (
-    '40db2370-63fe-49b4-a103-3158ff4e6184',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'eb4eb5e3-424f-4c8e-93c0-0f005ca23ddf',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'world_bank_a3',
     'BLZ',
@@ -17363,8 +17363,8 @@ VALUES
     NOW()
   ),
   (
-    '43b4bb62-4a11-45e2-8cac-049fa966b4c4',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '57441933-70af-49ad-9846-df61b1f764bc',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'natural_earth',
     'wikidata',
     'Q242',
@@ -17373,8 +17373,8 @@ VALUES
     NOW()
   ),
   (
-    '70b2ace1-888b-4850-9d2c-e3e4bd35ed70',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'a5f4bba8-ebf4-4bc5-b538-d4c3029478c6',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'natural_earth_admin',
     'BEL',
@@ -17383,8 +17383,8 @@ VALUES
     NOW()
   ),
   (
-    '6b08d767-1e3d-4f81-9716-7b04c50cfc0e',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'df58e37b-7b4c-4e84-826f-358eed5556be',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'iso3166-1-alpha2',
     'BE',
@@ -17393,8 +17393,8 @@ VALUES
     NOW()
   ),
   (
-    '9a1cfa82-616b-4f91-9b49-6c354c94848a',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '7cdbf351-ea88-4d4a-8a67-5c156fad1027',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'iso3166-1-alpha3',
     'BEL',
@@ -17403,8 +17403,8 @@ VALUES
     NOW()
   ),
   (
-    '5bd2670d-de49-4564-a8b8-ec6dd883a1b9',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'ca55a9b8-1fbd-49fd-ba65-9dadf4dd81b6',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'iso3166-1-numeric',
     '056',
@@ -17413,8 +17413,8 @@ VALUES
     NOW()
   ),
   (
-    'a3b5fd71-c8bc-4f43-ade3-48f8488758db',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'c5fdd57f-fe9d-4b44-b80f-f18bff3e6c7a',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'un_a3',
     '056',
@@ -17423,8 +17423,8 @@ VALUES
     NOW()
   ),
   (
-    '4430b3c1-657c-4b78-b076-158be8f93f4d',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '421ce0cc-21b5-43a0-b309-2a4d2f22e248',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'world_bank_a2',
     'BE',
@@ -17433,8 +17433,8 @@ VALUES
     NOW()
   ),
   (
-    '9aa81ed1-a1b4-4afe-9800-995e1a4b636b',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'd88d55bd-290a-450b-bf36-8ce4e06c79dc',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'world_bank_a3',
     'BEL',
@@ -17443,8 +17443,8 @@ VALUES
     NOW()
   ),
   (
-    'db0c83bc-0243-45a9-8f74-5545e004625b',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '6322ad97-47e0-46a5-9df7-116e7e0b59f9',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'natural_earth',
     'wikidata',
     'Q31',
@@ -17453,8 +17453,8 @@ VALUES
     NOW()
   ),
   (
-    '55adfb76-5851-441a-9dbd-1f3fe2a81006',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '3e48a6b0-f698-4d9c-9863-cc746039d40e',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'natural_earth_admin',
     'BLR',
@@ -17463,8 +17463,8 @@ VALUES
     NOW()
   ),
   (
-    'b5c9d6ac-4265-4d3b-bda4-1cf716aa1615',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '3b627a63-be53-4917-bf1d-760bca79966b',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'iso3166-1-alpha2',
     'BY',
@@ -17473,8 +17473,8 @@ VALUES
     NOW()
   ),
   (
-    '182d2710-19aa-4fed-a51a-8c96484f13e6',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '298989c9-b468-4f16-a89b-f8a9e92277f9',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'iso3166-1-alpha3',
     'BLR',
@@ -17483,8 +17483,8 @@ VALUES
     NOW()
   ),
   (
-    '9bef6f79-78e2-4011-94c8-63185474ee1e',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '43fac0a0-efce-40df-9c6c-8fc3472225f7',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'iso3166-1-numeric',
     '112',
@@ -17493,8 +17493,8 @@ VALUES
     NOW()
   ),
   (
-    '412a0499-7bc5-4720-a9f1-8f44a3979add',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'dedaba31-47a8-465b-acfa-ac2898554c93',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'un_a3',
     '112',
@@ -17503,8 +17503,8 @@ VALUES
     NOW()
   ),
   (
-    'e31bfe98-d44b-48f3-bd2c-37df2f6d21fd',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'de8f8307-2e3e-48ee-89d1-c9ecde08e47c',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'world_bank_a2',
     'BY',
@@ -17513,8 +17513,8 @@ VALUES
     NOW()
   ),
   (
-    'e708e27d-6de6-4639-b59d-f72b1cf60f0e',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '01c1f79a-cd18-4a8c-8fb0-c61a6a41ac37',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'world_bank_a3',
     'BLR',
@@ -17523,8 +17523,8 @@ VALUES
     NOW()
   ),
   (
-    '4491e60a-1086-4b4e-b7a7-885f3b0cde08',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'f5437888-78bb-4b9d-a780-d46392907441',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'natural_earth',
     'wikidata',
     'Q184',
@@ -17533,8 +17533,8 @@ VALUES
     NOW()
   ),
   (
-    '2851b4e7-c6e3-4d48-819e-f60ff4cbc902',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'a8c4acf0-6903-4ee6-91e9-99d7494747fa',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'natural_earth_admin',
     'BRB',
@@ -17543,8 +17543,8 @@ VALUES
     NOW()
   ),
   (
-    'e0ab0aba-0d42-499d-a152-78e076ab2280',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'e1f9ab27-5e94-41db-a5e5-2a0532f7a430',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'iso3166-1-alpha2',
     'BB',
@@ -17553,8 +17553,8 @@ VALUES
     NOW()
   ),
   (
-    'fca16bc9-a4e6-4733-8cab-23aaec9d7a1f',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'cad02b13-7d72-4c85-92be-302d8d7f0f78',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'iso3166-1-alpha3',
     'BRB',
@@ -17563,8 +17563,8 @@ VALUES
     NOW()
   ),
   (
-    '0f8d6dfa-de3e-4552-ba17-aa30eb9254db',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '7d418572-8868-4626-bfdc-d8f3d5804531',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'iso3166-1-numeric',
     '052',
@@ -17573,8 +17573,8 @@ VALUES
     NOW()
   ),
   (
-    'c7cbc0d2-809f-43ec-a8f0-000e6382168a',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'f1265399-e9ca-4d92-b973-e9cac49429cd',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'un_a3',
     '052',
@@ -17583,8 +17583,8 @@ VALUES
     NOW()
   ),
   (
-    'c5609231-b119-4bb7-88a2-aba90b155031',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '93bb339a-b28d-4f02-9817-a91e75cf4e3f',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'world_bank_a2',
     'BB',
@@ -17593,8 +17593,8 @@ VALUES
     NOW()
   ),
   (
-    '4421bff8-a9ed-47f3-aa5a-a1abb1c4f0b5',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'eaa72169-48bb-4794-bb42-7000124c0428',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'world_bank_a3',
     'BRB',
@@ -17603,8 +17603,8 @@ VALUES
     NOW()
   ),
   (
-    'cb5d0dd9-44f0-4391-8009-9b596cb8e3aa',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '4b5681e3-838e-4ba2-994b-75d8bb7cd71c',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'natural_earth',
     'wikidata',
     'Q244',
@@ -17613,8 +17613,8 @@ VALUES
     NOW()
   ),
   (
-    '52a2f3be-4a61-42ba-9baa-98eb4aeb125d',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '5e47edbe-5a5d-410e-85c1-f95e58b61e91',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'natural_earth_admin',
     'BGD',
@@ -17623,8 +17623,8 @@ VALUES
     NOW()
   ),
   (
-    '1f570a35-349f-42bc-abb5-be076650123f',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '9490f94f-65a1-4f55-bbef-7e0d0e587597',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'iso3166-1-alpha2',
     'BD',
@@ -17633,8 +17633,8 @@ VALUES
     NOW()
   ),
   (
-    '183e69a3-d170-425e-8410-9d9e452792b4',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '48376d6c-353d-49db-a620-24d6fa3efe58',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'iso3166-1-alpha3',
     'BGD',
@@ -17643,8 +17643,8 @@ VALUES
     NOW()
   ),
   (
-    '9155fc93-720c-4f27-b58b-c570c97e163a',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '1bfe9aab-75b0-461e-b1ab-679a300d90bb',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'iso3166-1-numeric',
     '050',
@@ -17653,8 +17653,8 @@ VALUES
     NOW()
   ),
   (
-    'cd1169a4-cd4a-40de-b3d9-18b9aa5ecd0d',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '702ad4d7-30a4-494f-9a37-c3316fb7692d',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'un_a3',
     '050',
@@ -17663,8 +17663,8 @@ VALUES
     NOW()
   ),
   (
-    'ef9a21ad-de37-4a96-b3d4-a8d10b3c5994',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'c6cc5277-bae6-4794-b875-c1051a44c81d',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'world_bank_a2',
     'BD',
@@ -17673,8 +17673,8 @@ VALUES
     NOW()
   ),
   (
-    'e2683a0d-b6bc-4765-a514-f1861edfadff',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '3edf36ab-eb79-4a67-8015-40255b1d2c5a',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'world_bank_a3',
     'BGD',
@@ -17683,8 +17683,8 @@ VALUES
     NOW()
   ),
   (
-    '0b95317c-7a71-4b34-8097-a795c737614b',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'e0239d9a-36ed-41b4-abc3-0d818847fca4',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'natural_earth',
     'wikidata',
     'Q902',
@@ -17693,8 +17693,8 @@ VALUES
     NOW()
   ),
   (
-    'd2078534-2880-451b-95e6-65b167c17b8c',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '5a6a312b-34b6-4cd2-bc00-d2dff4b2e0e1',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'natural_earth_admin',
     'BHR',
@@ -17703,8 +17703,8 @@ VALUES
     NOW()
   ),
   (
-    '5427fc2b-493f-468a-9800-0523c3b49820',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'd5badcde-9064-4446-a791-9393e9968630',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'iso3166-1-alpha2',
     'BH',
@@ -17713,8 +17713,8 @@ VALUES
     NOW()
   ),
   (
-    '0f262aeb-a290-4c8d-a4fb-ea8597916f2e',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'a9dd5608-413d-4ee6-98a2-d6a69048ea7f',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'iso3166-1-alpha3',
     'BHR',
@@ -17723,8 +17723,8 @@ VALUES
     NOW()
   ),
   (
-    'c7753353-9b7f-4324-b18d-c86c6aa4d6cf',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '7b9992f9-960b-4613-be2c-34fabe8c93af',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'iso3166-1-numeric',
     '048',
@@ -17733,8 +17733,8 @@ VALUES
     NOW()
   ),
   (
-    '7560b30e-7f7d-4138-9c29-e21d90f78b40',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '4c0161fb-b687-4ad4-a299-172f753dc72d',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'un_a3',
     '048',
@@ -17743,8 +17743,8 @@ VALUES
     NOW()
   ),
   (
-    '2bd9a4c1-54f8-48df-be6c-98e0aeba128a',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '9bcf4cd3-494a-41af-a12f-3bbbf22ecf5b',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'world_bank_a2',
     'BH',
@@ -17753,8 +17753,8 @@ VALUES
     NOW()
   ),
   (
-    '1c7243d7-2ad8-47f0-a224-ba002ef26842',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '3d39e246-9c04-40b6-8408-14fc0c22c03e',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'world_bank_a3',
     'BHR',
@@ -17763,8 +17763,8 @@ VALUES
     NOW()
   ),
   (
-    'ac675de6-14f7-40e5-b36c-f8b903b6f646',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '90b663a0-f691-4991-86ae-bed4d1b21d17',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'natural_earth',
     'wikidata',
     'Q398',
@@ -17773,8 +17773,8 @@ VALUES
     NOW()
   ),
   (
-    '112909d1-a482-43f0-94b7-bfd5827ff436',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '91992b1c-3699-4d4f-8e9b-492c651d6f89',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'natural_earth_admin',
     'BHS',
@@ -17783,8 +17783,8 @@ VALUES
     NOW()
   ),
   (
-    'f810ac63-7f86-422c-a5a5-b8e2115da591',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '59f4020f-8412-43b6-8737-6f9d33b643b9',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'iso3166-1-alpha2',
     'BS',
@@ -17793,8 +17793,8 @@ VALUES
     NOW()
   ),
   (
-    'aba6cafa-ef19-49a3-ba62-a44ebdb51973',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'c9db0d77-2d93-4364-b105-c4dba2208014',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'iso3166-1-alpha3',
     'BHS',
@@ -17803,8 +17803,8 @@ VALUES
     NOW()
   ),
   (
-    '51b88904-18e2-4cba-b414-5ed64f23c090',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '625a6620-217f-407b-9521-31ed6bc1fd99',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'iso3166-1-numeric',
     '044',
@@ -17813,8 +17813,8 @@ VALUES
     NOW()
   ),
   (
-    'bd364a11-88e0-4212-8770-a631cab2af56',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '657188c7-fcdf-44e3-8ebb-be0ad25722b0',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'un_a3',
     '044',
@@ -17823,8 +17823,8 @@ VALUES
     NOW()
   ),
   (
-    '3257a12c-9c1d-45c3-9705-1cc28cf5b866',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '3e7db602-576b-48cf-b800-cd8885be9834',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'world_bank_a2',
     'BS',
@@ -17833,8 +17833,8 @@ VALUES
     NOW()
   ),
   (
-    'aada47d1-b980-40f3-80a2-e5580d979c08',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '8cb956c0-4e2b-464a-a6b3-68cbfaa31c9a',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'world_bank_a3',
     'BHS',
@@ -17843,8 +17843,8 @@ VALUES
     NOW()
   ),
   (
-    '62a33523-10cc-4009-af29-ae11669829ec',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '25c3ee05-27a7-48b0-9f83-a23d1d768420',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'natural_earth',
     'wikidata',
     'Q778',
@@ -17853,8 +17853,8 @@ VALUES
     NOW()
   ),
   (
-    '8da94321-a200-43eb-82bf-4448fc7acce7',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '6ee4f9ec-6fdd-4150-8105-7b191dcd7664',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'natural_earth_admin',
     'AZE',
@@ -17863,8 +17863,8 @@ VALUES
     NOW()
   ),
   (
-    '5f7e8c56-b99d-4a6b-acfa-84390dcc6005',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '69bdbb8f-b1a4-4105-922a-4622d4056b81',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'iso3166-1-alpha2',
     'AZ',
@@ -17873,8 +17873,8 @@ VALUES
     NOW()
   ),
   (
-    '8c6d34ea-af10-49d4-857d-5fd0675f9157',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'd6498aea-b62a-4059-97ad-e798444a2907',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'iso3166-1-alpha3',
     'AZE',
@@ -17883,8 +17883,8 @@ VALUES
     NOW()
   ),
   (
-    '58e13f2d-0cd3-4685-903f-7391e1439dfd',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '91ae3ac4-5619-4da7-935f-5964a3080c90',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'iso3166-1-numeric',
     '031',
@@ -17893,8 +17893,8 @@ VALUES
     NOW()
   ),
   (
-    '98c00c49-d350-4997-ae65-35612c5f63ce',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '482791de-61cc-40ef-a932-e829940ee758',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'un_a3',
     '031',
@@ -17903,8 +17903,8 @@ VALUES
     NOW()
   ),
   (
-    '6d9f9af9-ea82-4191-a5ad-370435130401',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'c59276c4-823f-4092-97d6-bcdcf3a16491',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'world_bank_a2',
     'AZ',
@@ -17913,8 +17913,8 @@ VALUES
     NOW()
   ),
   (
-    '89dbc4c9-610f-49ce-8772-e8ba360de1f0',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '7a167e12-7450-4879-b6ba-efd512a9e0d1',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'world_bank_a3',
     'AZE',
@@ -17923,8 +17923,8 @@ VALUES
     NOW()
   ),
   (
-    '5288086d-023a-4f19-b390-aeb7c80069ed',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'a7bdf292-b184-44eb-99cb-5ee32b2b9681',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'natural_earth',
     'wikidata',
     'Q227',
@@ -17933,8 +17933,8 @@ VALUES
     NOW()
   ),
   (
-    '5e548971-246d-4070-b475-f642b68818bc',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '30e583a7-71ae-4e86-b346-76713b53d23b',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'natural_earth_admin',
     'AUT',
@@ -17943,8 +17943,8 @@ VALUES
     NOW()
   ),
   (
-    '8337afb5-9f8e-48c9-a09a-c8fa805435aa',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '1dcd5e08-b223-4354-8044-99fd90177ffd',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'iso3166-1-alpha2',
     'AT',
@@ -17953,8 +17953,8 @@ VALUES
     NOW()
   ),
   (
-    'e8461de7-4fa1-4bca-8c3f-02acb6cc6b24',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'ecd16294-ad07-482a-9804-8c08ee3f7620',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'iso3166-1-alpha3',
     'AUT',
@@ -17963,8 +17963,8 @@ VALUES
     NOW()
   ),
   (
-    '2b3ad2ab-e905-4700-8aaf-5c2e00e41383',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '9d5d4fd5-fded-45f0-be26-93995cda53c1',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'iso3166-1-numeric',
     '040',
@@ -17973,8 +17973,8 @@ VALUES
     NOW()
   ),
   (
-    '5f1513d1-ec09-4f68-aa6d-84b26cecb41c',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '71c8b38d-0920-43f1-b15a-14120dab22f3',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'un_a3',
     '040',
@@ -17983,8 +17983,8 @@ VALUES
     NOW()
   ),
   (
-    'db475e86-ad14-435e-8f68-aa2ccf37e2be',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '8ab5c2f0-6eb2-49b4-9ad3-b80db67137be',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'world_bank_a2',
     'AT',
@@ -17993,8 +17993,8 @@ VALUES
     NOW()
   ),
   (
-    '69ca6fd9-db46-4623-8045-7ea432b37893',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'ae9228a7-c1d2-46e8-bd3d-5ec4fbef3d62',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'world_bank_a3',
     'AUT',
@@ -18003,8 +18003,8 @@ VALUES
     NOW()
   ),
   (
-    '15a56555-188a-4637-93dc-c656c78d83d9',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '3bd7b9f9-e30d-4440-a0d5-c78fec8cb850',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'natural_earth',
     'wikidata',
     'Q40',
@@ -18013,8 +18013,8 @@ VALUES
     NOW()
   ),
   (
-    'db614d37-58a0-476c-ae87-517bed2a0974',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'a0b5abd6-2a36-4eeb-a256-4a83637ac94f',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'natural_earth_admin',
     'AUS',
@@ -18023,8 +18023,8 @@ VALUES
     NOW()
   ),
   (
-    'a68ba24e-1093-4a79-b4af-5de394825856',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '1570236d-c428-4a22-b370-eeeb1279b2a2',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'iso3166-1-alpha2',
     'AU',
@@ -18033,8 +18033,8 @@ VALUES
     NOW()
   ),
   (
-    '939b234a-49a1-4ef4-8aaf-600fa5fcd416',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '4d54e2b0-2780-46b4-a43e-e362591f1e5e',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'iso3166-1-alpha3',
     'AUS',
@@ -18043,8 +18043,8 @@ VALUES
     NOW()
   ),
   (
-    'db89095c-3ed5-4939-be2c-aa8fb2622b52',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '798f3146-9af3-46d1-b053-0d2f9e1f93bb',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'iso3166-1-numeric',
     '036',
@@ -18053,8 +18053,8 @@ VALUES
     NOW()
   ),
   (
-    '7cdac61d-1ea1-491f-8033-5e93e1acd0bf',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '55e9b6e2-ada0-414a-8560-5475197dc925',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'un_a3',
     '036',
@@ -18063,8 +18063,8 @@ VALUES
     NOW()
   ),
   (
-    '119861ab-6def-45b7-919a-6023de1cfd18',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b0bac1ff-4148-40a9-9b84-5e988c5460de',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'world_bank_a2',
     'AU',
@@ -18073,8 +18073,8 @@ VALUES
     NOW()
   ),
   (
-    '7c68f171-d97f-4687-8c64-2a9fbdbb7ec8',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b02b40ae-275d-46a4-b392-dbabd17b98d1',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'world_bank_a3',
     'AUS',
@@ -18083,8 +18083,8 @@ VALUES
     NOW()
   ),
   (
-    '7eb217c6-8597-4f6c-b833-b93ec3af3623',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b8093d3c-4a20-4eec-8023-0ffc2ef1cbb1',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'natural_earth',
     'wikidata',
     'Q408',
@@ -18093,8 +18093,8 @@ VALUES
     NOW()
   ),
   (
-    '96db9748-8c3b-42ba-ab93-66fa81434c19',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '70f06a53-cc99-4967-a485-c35dea201298',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'natural_earth_admin',
     'IOA',
@@ -18103,8 +18103,8 @@ VALUES
     NOW()
   ),
   (
-    '4fb777c9-b6c8-4f18-84a2-528bb392aa54',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '18e18873-5659-4ddf-9a68-8234d6e055de',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -18113,8 +18113,8 @@ VALUES
     NOW()
   ),
   (
-    '9669c5f4-d750-40ae-b039-3e2428b5333e',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '3cfeb637-5f8e-4e34-9378-0c4d61128863',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -18123,8 +18123,8 @@ VALUES
     NOW()
   ),
   (
-    '2ee41b21-8604-4dbe-92a5-b42e91d3d94e',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'd92b33ef-b876-4211-9ce7-67542fe89599',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -18133,8 +18133,8 @@ VALUES
     NOW()
   ),
   (
-    '3649aff4-963e-4e21-be31-5e42a58340a6',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '767c1719-bf7d-4e6f-8a13-d14cbce41b9f',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'un_a3',
     '-099',
@@ -18143,8 +18143,8 @@ VALUES
     NOW()
   ),
   (
-    'e7afe583-f082-4703-ac73-6d51e335d2f4',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '261a7870-ac64-49a0-94b2-c91b13a44370',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -18153,8 +18153,8 @@ VALUES
     NOW()
   ),
   (
-    'f9988a70-6b8f-45f7-bc3c-f599f42c37d1',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '6f1f7709-293b-4f2e-bdfd-4fd390e2a1c1',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -18163,8 +18163,8 @@ VALUES
     NOW()
   ),
   (
-    'e053b71d-9bce-47d9-b3bf-591b65c35273',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'ae0c346d-10c4-4f57-92c8-5d8707a6e7de',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'natural_earth',
     'wikidata',
     'Q4824275',
@@ -18173,8 +18173,8 @@ VALUES
     NOW()
   ),
   (
-    'f05a90ee-9633-4036-a07c-e43b1ccf3a63',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'a1845e90-7cc6-4ace-8d10-0956f02af5dd',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'natural_earth_admin',
     'HMD',
@@ -18183,8 +18183,8 @@ VALUES
     NOW()
   ),
   (
-    'e2ada161-9ac7-4697-a65e-789162f0d106',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'cc68bf76-49f9-42cf-9a1d-35967a8cca02',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'iso3166-1-alpha2',
     'HM',
@@ -18193,8 +18193,8 @@ VALUES
     NOW()
   ),
   (
-    '6d1acdda-d4ad-4ce4-80b5-4f7bfa789a6e',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '3c1a65f0-f436-410d-944a-e911e565caab',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'iso3166-1-alpha3',
     'HMD',
@@ -18203,8 +18203,8 @@ VALUES
     NOW()
   ),
   (
-    '82f94d50-8cff-492d-a614-6c8ad272c3c2',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'ae5cd6a9-1699-4650-b109-89dd95ef84cd',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'iso3166-1-numeric',
     '334',
@@ -18213,8 +18213,8 @@ VALUES
     NOW()
   ),
   (
-    '609db563-09e9-4e98-96a3-8250322c8c5e',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'ce8f0a87-7925-4319-bdaf-de78103463ea',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'un_a3',
     '-099',
@@ -18223,8 +18223,8 @@ VALUES
     NOW()
   ),
   (
-    '962bc18a-b188-4050-adf3-438880e7a7ff',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '921ead84-c2cc-46b5-9902-3293ec27ef92',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -18233,8 +18233,8 @@ VALUES
     NOW()
   ),
   (
-    'cbaee24e-133f-4d53-ad2e-8d1a5152e703',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '6248ddea-e39a-4aa6-87e1-37a0365c02fd',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -18243,8 +18243,8 @@ VALUES
     NOW()
   ),
   (
-    '47e70421-a9c1-4474-9fea-fd2819e0810b',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '0838e146-2e37-420a-82fc-c2b0f74f1693',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'natural_earth',
     'wikidata',
     'Q131198',
@@ -18253,8 +18253,8 @@ VALUES
     NOW()
   ),
   (
-    'e4784da0-1249-49fe-a9aa-3dc1436a0500',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '5f2bb1a1-59b7-44c3-bf78-fddf54466563',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'natural_earth_admin',
     'NFK',
@@ -18263,8 +18263,8 @@ VALUES
     NOW()
   ),
   (
-    '34486dbe-5c19-4966-b440-5475c8d83475',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '023cf134-96f9-494f-adc2-5a47040a12b0',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'iso3166-1-alpha2',
     'NF',
@@ -18273,8 +18273,8 @@ VALUES
     NOW()
   ),
   (
-    'da503bfb-6eb9-4fe4-bef8-454fe8814ca3',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'a29e8e61-74b2-4585-ab17-dd7f1a0c2855',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'iso3166-1-alpha3',
     'NFK',
@@ -18283,8 +18283,8 @@ VALUES
     NOW()
   ),
   (
-    'e43e2639-94a8-412e-9e71-7f841616d13e',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'a8c0f5a4-c93b-4e00-ae28-fdb092c14941',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'iso3166-1-numeric',
     '574',
@@ -18293,8 +18293,8 @@ VALUES
     NOW()
   ),
   (
-    '99dff7c6-b954-4d80-a039-9062780dd7ba',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '467f4dbc-c107-4991-b252-855d1273cdce',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'un_a3',
     '574',
@@ -18303,8 +18303,8 @@ VALUES
     NOW()
   ),
   (
-    'a6761a41-0cf9-4ec8-b2d0-fb3aea5d2fcd',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '7007a1f0-074e-4861-a710-430b5de46764',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -18313,8 +18313,8 @@ VALUES
     NOW()
   ),
   (
-    'de751162-6eba-4364-9a57-8fcc0a35e505',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'd94eb3d5-0f6d-443d-9c06-8fba2fed4fe4',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -18323,8 +18323,8 @@ VALUES
     NOW()
   ),
   (
-    '84cceb27-ee81-4def-9a82-16eb0a5b3bc7',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '69fb5893-3e77-4c8a-ac08-4c331bae206e',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'natural_earth',
     'wikidata',
     'Q31057',
@@ -18333,8 +18333,8 @@ VALUES
     NOW()
   ),
   (
-    'b9851121-0e01-4db6-9a33-5e1d5d9b0003',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '278169bd-139a-4441-933a-419426f98d96',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'natural_earth_admin',
     'ATC',
@@ -18343,8 +18343,8 @@ VALUES
     NOW()
   ),
   (
-    '2dff6131-cad7-4879-9027-ce2f0e40ec70',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '92f8fb69-d85c-4cec-92f0-fd6970692eea',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -18353,8 +18353,8 @@ VALUES
     NOW()
   ),
   (
-    'c00e149f-dbd1-4652-b038-981990a61791',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'b5dca5f3-f8df-48ef-98f8-ac5387a64111',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -18363,8 +18363,8 @@ VALUES
     NOW()
   ),
   (
-    '7bef85f0-696e-4baa-afbe-19025ff29456',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '60a581ea-070d-49e2-a05d-8b138eec0b79',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'iso3166-1-numeric',
     '036',
@@ -18373,8 +18373,8 @@ VALUES
     NOW()
   ),
   (
-    'f785ee9a-40e4-460b-8592-524466f08cf7',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'c6661e39-fa68-46ce-914f-767d35a90964',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'un_a3',
     '-099',
@@ -18383,8 +18383,8 @@ VALUES
     NOW()
   ),
   (
-    'ad891294-db3d-4b08-9c60-1a7bb12f76c2',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '37d131f9-f6d7-4f03-b7ea-065146de4aea',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -18393,8 +18393,8 @@ VALUES
     NOW()
   ),
   (
-    '1bbbaafa-791a-4442-927d-f4d6c2599c64',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '3947d15e-9fea-4a10-85e9-8922f49e13cd',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -18403,8 +18403,8 @@ VALUES
     NOW()
   ),
   (
-    '5dc593f6-fb9f-4120-9085-dde16628db46',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'ba2defb5-42eb-432d-b026-ca527c41032f',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'natural_earth',
     'wikidata',
     'Q133888',
@@ -18413,8 +18413,8 @@ VALUES
     NOW()
   ),
   (
-    '7c82f49a-2dc2-4683-9ad4-8c0933762797',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '31b343a7-8070-47da-841c-fe8cda76f42e',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'natural_earth_admin',
     'ARM',
@@ -18423,8 +18423,8 @@ VALUES
     NOW()
   ),
   (
-    '60588890-9661-486c-a42c-47e304c8f4e7',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'cd6839c7-02cb-433a-95f3-490280b93d91',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'iso3166-1-alpha2',
     'AM',
@@ -18433,8 +18433,8 @@ VALUES
     NOW()
   ),
   (
-    'a8aa2aac-688e-43d5-b1e7-3f838abf70db',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'ac5cb9ab-f837-42a0-83b6-b01dad18a7ba',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARM',
@@ -18443,8 +18443,8 @@ VALUES
     NOW()
   ),
   (
-    '7b59cea6-2d9c-46d3-9652-a0b08dfa2c59',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '4e1b241b-3fe3-445e-afc9-dafadbfae636',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'iso3166-1-numeric',
     '051',
@@ -18453,8 +18453,8 @@ VALUES
     NOW()
   ),
   (
-    '356572e8-9903-4649-8657-c5eda16b3ac9',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '640845f3-46bf-43ae-9023-0db2cf8fb045',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'un_a3',
     '051',
@@ -18463,8 +18463,8 @@ VALUES
     NOW()
   ),
   (
-    'd83cbb1d-f9d9-428f-9e99-38f034f8fde0',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '7f5d4e3d-8305-4296-bcfe-4eb53fae9f27',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'world_bank_a2',
     'AM',
@@ -18473,8 +18473,8 @@ VALUES
     NOW()
   ),
   (
-    'ae9a0aa4-fa38-49d9-97d7-a6619959c5df',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '4b64eb7f-0150-4080-b141-f9628b755f8a',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'world_bank_a3',
     'ARM',
@@ -18483,8 +18483,8 @@ VALUES
     NOW()
   ),
   (
-    '9da10854-cf37-4d02-bbac-5fd7ad755415',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '8ab5817d-181e-43b9-8d80-751e740f6cc0',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'natural_earth',
     'wikidata',
     'Q399',
@@ -18493,8 +18493,8 @@ VALUES
     NOW()
   ),
   (
-    '728ad66a-bce5-4388-8e62-1d801fb71efc',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'f47ed799-86e9-41b0-b6c7-148adc146aad',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'natural_earth_admin',
     'ARG',
@@ -18503,8 +18503,8 @@ VALUES
     NOW()
   ),
   (
-    '580fcefb-09d9-4b37-bc56-f681f0245272',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '5cebe0a7-63f2-4391-9448-61201d777d21',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'iso3166-1-alpha2',
     'AR',
@@ -18513,8 +18513,8 @@ VALUES
     NOW()
   ),
   (
-    'cda9fba9-4109-403c-b7d1-8800468a9237',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '1868ac9b-3d8d-4f19-b9bc-9b4895eb5302',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'iso3166-1-alpha3',
     'ARG',
@@ -18523,8 +18523,8 @@ VALUES
     NOW()
   ),
   (
-    '7c93ac01-6495-48f9-81aa-161519f6dcc6',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'f0317671-8214-45b7-8fd7-cb0588733bfb',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'iso3166-1-numeric',
     '032',
@@ -18533,8 +18533,8 @@ VALUES
     NOW()
   ),
   (
-    'ff62fa8a-6196-490e-a10b-86d6920202c2',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'c09eac16-4291-4d93-8092-13d3a7514406',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'un_a3',
     '032',
@@ -18543,8 +18543,8 @@ VALUES
     NOW()
   ),
   (
-    '5e9f5d99-a3f7-499a-a605-696974817f80',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '21a0be09-2c16-415a-8057-2357f2d99794',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'world_bank_a2',
     'AR',
@@ -18553,8 +18553,8 @@ VALUES
     NOW()
   ),
   (
-    '13954e83-ccc0-4532-9110-a63fb07ec4de',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '5321bf11-664a-4aa7-9680-b5d2b724bc3c',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'world_bank_a3',
     'ARG',
@@ -18563,8 +18563,8 @@ VALUES
     NOW()
   ),
   (
-    '841f799b-5291-4dca-bac0-3f4e3d5d7190',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'a3143873-0aa4-44e9-8cdc-f50291cb912d',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'natural_earth',
     'wikidata',
     'Q414',
@@ -18573,8 +18573,8 @@ VALUES
     NOW()
   ),
   (
-    '6f4bfa6e-771d-4985-83ec-b75ce1ceb588',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '6a9b8b6a-cca0-490b-b0d4-962175990709',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'natural_earth_admin',
     'ATG',
@@ -18583,8 +18583,8 @@ VALUES
     NOW()
   ),
   (
-    'e233d296-9ac9-4113-872f-4e3cd2f53391',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'e6d4229b-3de5-405b-9a17-feb7611eef75',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'iso3166-1-alpha2',
     'AG',
@@ -18593,8 +18593,8 @@ VALUES
     NOW()
   ),
   (
-    '7659a66a-29a6-4ce3-8fac-4519e07409f9',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'c8204263-5b7f-4b10-b791-15a167287a91',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATG',
@@ -18603,8 +18603,8 @@ VALUES
     NOW()
   ),
   (
-    'f94cbb30-60c6-40c8-baa7-24111ea723d4',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '58a5c430-5ff6-4f9d-9eaf-60572bd3a00d',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'iso3166-1-numeric',
     '028',
@@ -18613,8 +18613,8 @@ VALUES
     NOW()
   ),
   (
-    '8d52ed2a-ad9a-4dc1-9ce4-1b772ba11aea',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '52345a93-911c-4f40-b924-26c762300306',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'un_a3',
     '028',
@@ -18623,8 +18623,8 @@ VALUES
     NOW()
   ),
   (
-    'b4ece76d-154e-4b31-a02e-54549c71ea6d',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '223ce761-ad4f-4dc6-ba75-a33d0718b651',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'world_bank_a2',
     'AG',
@@ -18633,8 +18633,8 @@ VALUES
     NOW()
   ),
   (
-    'ed4ffcdc-fda7-4e0e-a952-308c6bd03fd4',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '2f86cc2b-dd6d-4fe2-8752-021cf0d4fc73',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'world_bank_a3',
     'ATG',
@@ -18643,8 +18643,8 @@ VALUES
     NOW()
   ),
   (
-    '36d67017-1d0f-4518-b9f3-84bc9e6b3daf',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '96a23001-c5a7-4c25-9c9c-47af3c24e16f',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'natural_earth',
     'wikidata',
     'Q781',
@@ -18653,8 +18653,8 @@ VALUES
     NOW()
   ),
   (
-    'b9698f4f-60ee-4d2a-abd2-1d6ff155fe39',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'fcbf33f4-3506-4c52-bc1f-d3327d0cccf4',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'natural_earth_admin',
     'AGO',
@@ -18663,8 +18663,8 @@ VALUES
     NOW()
   ),
   (
-    '928371e9-a94c-496a-a06a-044eab123e75',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '063ccc34-35f9-4967-8d09-bb38cfc3f6f2',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'iso3166-1-alpha2',
     'AO',
@@ -18673,8 +18673,8 @@ VALUES
     NOW()
   ),
   (
-    'c2c075b6-6e27-44c6-b909-8b6b071dd3c8',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '86546881-9fed-4fa9-8195-4bba7a7524bd',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'iso3166-1-alpha3',
     'AGO',
@@ -18683,8 +18683,8 @@ VALUES
     NOW()
   ),
   (
-    'b066df2e-c292-4de2-a3df-2a2c81527b6b',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '02cb87ca-ee47-4b9d-90dd-77bcc36f24ac',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'iso3166-1-numeric',
     '024',
@@ -18693,8 +18693,8 @@ VALUES
     NOW()
   ),
   (
-    '53025a60-c01a-40ed-837d-ec3b92be8773',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '90bbe95a-48cb-412f-b118-c73818aa6869',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'un_a3',
     '024',
@@ -18703,8 +18703,8 @@ VALUES
     NOW()
   ),
   (
-    'faae49bf-2482-4473-b05f-622e2a2c1f22',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '3a04055a-815e-47ce-a3c9-83738b1ab467',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'world_bank_a2',
     'AO',
@@ -18713,8 +18713,8 @@ VALUES
     NOW()
   ),
   (
-    '0b0fb08c-64be-4ec3-be06-0b6e73bf50b8',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'd9d24b48-4418-4141-9690-9ccd16122f3b',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'world_bank_a3',
     'AGO',
@@ -18723,8 +18723,8 @@ VALUES
     NOW()
   ),
   (
-    '0073efd5-de2f-44e7-ab71-784b8ef80302',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'd00376d2-e500-451f-bd8c-73c005d1e795',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'natural_earth',
     'wikidata',
     'Q916',
@@ -18733,8 +18733,8 @@ VALUES
     NOW()
   ),
   (
-    '86ff87c3-21e5-4e5a-a460-58fe9a48a742',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '9426115c-65a9-41f3-aaae-57a93f6224b2',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'natural_earth_admin',
     'AND',
@@ -18743,8 +18743,8 @@ VALUES
     NOW()
   ),
   (
-    '1975592f-5949-40e6-97cd-5580ef63a8e6',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'cb9bf856-0063-4650-b42a-7c33fc824fd9',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'iso3166-1-alpha2',
     'AD',
@@ -18753,8 +18753,8 @@ VALUES
     NOW()
   ),
   (
-    '5c0d9c41-4550-4989-aed0-659dcac898c2',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '84cd0bdd-fe83-4397-83b8-4c55b58773d5',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'iso3166-1-alpha3',
     'AND',
@@ -18763,8 +18763,8 @@ VALUES
     NOW()
   ),
   (
-    '47dd229f-c5fa-47b2-98f4-b6bdc3d703b6',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'ca4874c9-fbf3-4a3e-a619-eb24e1ac403e',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'iso3166-1-numeric',
     '020',
@@ -18773,8 +18773,8 @@ VALUES
     NOW()
   ),
   (
-    '8afe5e5f-77e1-474e-a5b4-390d953e8142',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '2aea0d2d-d8c8-47f4-b337-b300fc9265d5',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'un_a3',
     '020',
@@ -18783,8 +18783,8 @@ VALUES
     NOW()
   ),
   (
-    '3f9b4aba-e1d1-4d49-9855-20d030ca1697',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '5dd2077d-fb6c-450d-b9a7-378470f0be15',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'world_bank_a2',
     'AD',
@@ -18793,8 +18793,8 @@ VALUES
     NOW()
   ),
   (
-    '082bd996-806b-4a14-833a-8f5c62131803',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'b7f3c101-79b7-4a39-9335-0dfd65338c21',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'world_bank_a3',
     'ADO',
@@ -18803,8 +18803,8 @@ VALUES
     NOW()
   ),
   (
-    '78714f37-9a80-490a-8b90-a72fef32b3e3',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'cd1eb9c9-6a20-4372-beed-491784b417ae',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'natural_earth',
     'wikidata',
     'Q228',
@@ -18813,8 +18813,8 @@ VALUES
     NOW()
   ),
   (
-    '818d194c-b9c8-4f7a-a0fb-c95d1d76fb9b',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '6c9519ae-4600-4c82-b82d-78979ad27912',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'natural_earth_admin',
     'DZA',
@@ -18823,8 +18823,8 @@ VALUES
     NOW()
   ),
   (
-    '373d8ad4-a308-41ce-9cfb-2fc69ec0dacc',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'd95b04b8-3125-46c1-b19e-3795e339fd4b',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'iso3166-1-alpha2',
     'DZ',
@@ -18833,8 +18833,8 @@ VALUES
     NOW()
   ),
   (
-    'b7aeee33-b02d-480a-9b8f-1d8ea1261bdd',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '645a2969-bd85-497a-8821-9c499c523b8b',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'iso3166-1-alpha3',
     'DZA',
@@ -18843,8 +18843,8 @@ VALUES
     NOW()
   ),
   (
-    '73dfb8e3-d97b-4f7e-8add-9c0579b66f36',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '469ee3c5-e596-4bb8-80db-c27b8c9275d4',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'iso3166-1-numeric',
     '012',
@@ -18853,8 +18853,8 @@ VALUES
     NOW()
   ),
   (
-    '4e4eb784-6ddc-4173-a70c-21f84ac8cfee',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '272f822d-d808-485c-a252-72a5719922d9',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'un_a3',
     '012',
@@ -18863,8 +18863,8 @@ VALUES
     NOW()
   ),
   (
-    '78f03af6-8500-42ee-995f-9d46a0799757',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '776b1ddc-c22f-4266-ba14-1919fbeb57f8',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'world_bank_a2',
     'DZ',
@@ -18873,8 +18873,8 @@ VALUES
     NOW()
   ),
   (
-    '75fbabe7-230f-4608-9aa2-9ce0c9ec1ea7',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '4a28c391-cba8-47ef-a371-b9dbf4c20857',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'world_bank_a3',
     'DZA',
@@ -18883,8 +18883,8 @@ VALUES
     NOW()
   ),
   (
-    '8712ab15-510c-472c-ad39-00cc5dbd9275',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'e94022e7-5f07-4f06-b987-1fc15faf06b7',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'natural_earth',
     'wikidata',
     'Q262',
@@ -18893,8 +18893,8 @@ VALUES
     NOW()
   ),
   (
-    '457d2be8-1cf4-43aa-b672-eef7053c5f38',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '36ff363f-c396-4285-b0c4-98f9b56b96e5',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'natural_earth_admin',
     'ALB',
@@ -18903,8 +18903,8 @@ VALUES
     NOW()
   ),
   (
-    'd9861fd1-bed5-4aaf-8235-e2ecd7e89900',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'f0876e43-bc02-47bf-8d50-8e36d5181e12',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'iso3166-1-alpha2',
     'AL',
@@ -18913,8 +18913,8 @@ VALUES
     NOW()
   ),
   (
-    '4e411508-48ac-4d42-850e-b79421c4f1af',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '316171c0-9ac6-4568-ac70-14b9d2c64c87',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'iso3166-1-alpha3',
     'ALB',
@@ -18923,8 +18923,8 @@ VALUES
     NOW()
   ),
   (
-    '923bfc8a-2aa9-4a26-920a-d668380a4d33',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'c17b88ba-bae5-4e05-9819-1ae223fb132b',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'iso3166-1-numeric',
     '008',
@@ -18933,8 +18933,8 @@ VALUES
     NOW()
   ),
   (
-    'ef730f0d-a3b6-4180-92e2-b57c3fd2d100',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '120a3da5-de6a-42c2-9140-71ccbc19dd25',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'un_a3',
     '008',
@@ -18943,8 +18943,8 @@ VALUES
     NOW()
   ),
   (
-    '6f003371-3a85-4f5b-b842-2e354a491d4e',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '9abc50e8-caa8-4dc8-87e8-a72f52730f21',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'world_bank_a2',
     'AL',
@@ -18953,8 +18953,8 @@ VALUES
     NOW()
   ),
   (
-    '86eb6715-3851-4b62-8439-3692ff758bf7',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '8e890b84-18d6-4ae1-8359-09809ff7d7a7',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'world_bank_a3',
     'ALB',
@@ -18963,8 +18963,8 @@ VALUES
     NOW()
   ),
   (
-    '7fba20ec-59db-46ec-8b17-4f63e4e1de3b',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '58dbc0e8-df50-4c3e-a8c1-e49a2cdc4078',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'natural_earth',
     'wikidata',
     'Q222',
@@ -18973,8 +18973,8 @@ VALUES
     NOW()
   ),
   (
-    'b32d7814-3f01-4aa7-b4a4-9e504f1ef610',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '13bd641d-bd66-4cea-b819-16ac51497e51',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'natural_earth_admin',
     'AFG',
@@ -18983,8 +18983,8 @@ VALUES
     NOW()
   ),
   (
-    'f14104ab-331d-4d8d-bed6-d6940cf1aa65',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '40c8ddda-8d06-4036-b8e3-cb517115d050',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'iso3166-1-alpha2',
     'AF',
@@ -18993,8 +18993,8 @@ VALUES
     NOW()
   ),
   (
-    '64a05df2-0003-49c8-947f-152c6aa48b4e',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '881a4f47-2f7d-4d07-9082-a08b4710c83d',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'iso3166-1-alpha3',
     'AFG',
@@ -19003,8 +19003,8 @@ VALUES
     NOW()
   ),
   (
-    '6bb99dac-9eb8-4b07-8077-b490338eab13',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    'c3d1c47e-9c1d-4786-9553-31e9253c68a1',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'iso3166-1-numeric',
     '004',
@@ -19013,8 +19013,8 @@ VALUES
     NOW()
   ),
   (
-    '33e1d4d1-2509-400d-96a1-b0f2c6966748',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '6f860299-cfd6-4121-943a-983a64f76b1e',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'un_a3',
     '004',
@@ -19023,8 +19023,8 @@ VALUES
     NOW()
   ),
   (
-    '3b998e89-3254-4ca1-8434-bda5259eacfe',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '7c589c2c-967a-47df-ab0e-27c2da550975',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'world_bank_a2',
     'AF',
@@ -19033,8 +19033,8 @@ VALUES
     NOW()
   ),
   (
-    '149271f1-e844-4c3c-9c72-48cca1561782',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '12ced2eb-119f-4104-99e1-a070a8a4faa4',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'world_bank_a3',
     'AFG',
@@ -19043,8 +19043,8 @@ VALUES
     NOW()
   ),
   (
-    '47b99daf-08ec-4cc2-9274-65e924ec70c3',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '61b8d01c-c77f-4c9a-8500-95a3d854a29f',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'natural_earth',
     'wikidata',
     'Q889',
@@ -19053,8 +19053,8 @@ VALUES
     NOW()
   ),
   (
-    'd779a43d-fbdf-4768-9503-948680cad53e',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'e3a711f4-49c8-45dc-8d22-56e0bc596703',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'natural_earth_admin',
     'KAS',
@@ -19063,8 +19063,8 @@ VALUES
     NOW()
   ),
   (
-    '021cc8dd-a6f8-4deb-8b95-deeb7fd0b29e',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'c5ec537f-d599-444d-9fad-2e12554a856e',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'iso3166-1-alpha2',
     '-99',
@@ -19073,8 +19073,8 @@ VALUES
     NOW()
   ),
   (
-    '19e8d7f8-6d54-4cdf-a7c9-301c178bca7e',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'f49faee5-e53c-434b-86aa-3f0b324189af',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'iso3166-1-alpha3',
     '-99',
@@ -19083,8 +19083,8 @@ VALUES
     NOW()
   ),
   (
-    '6d484edf-4388-48ae-8c33-dddd088decfa',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'fc7d047d-c7d3-4f54-bdba-29b73c5cfb70',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'iso3166-1-numeric',
     '-99',
@@ -19093,8 +19093,8 @@ VALUES
     NOW()
   ),
   (
-    'af191f4e-162a-4c2b-9a6e-8d0d25404222',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '3b573310-edf6-4a00-845b-b5f855597e83',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'un_a3',
     '-099',
@@ -19103,8 +19103,8 @@ VALUES
     NOW()
   ),
   (
-    '78097074-abc3-4509-b3b1-e80fc7c234ff',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '13402049-f0e1-46cd-8026-711f3d6d6a5f',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -19113,8 +19113,8 @@ VALUES
     NOW()
   ),
   (
-    '71bbcd33-b5e4-48c0-8fdb-fb04d3aa6285',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '0bc0a2b0-4287-4566-8eda-0a636026b9a0',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -19123,8 +19123,8 @@ VALUES
     NOW()
   ),
   (
-    '8e406072-253f-4790-ad08-f7bc2ffa7a31',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '30d7deec-1ab3-437d-a20b-ed5570763346',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'natural_earth',
     'wikidata',
     'Q333946',
@@ -19133,8 +19133,8 @@ VALUES
     NOW()
   ),
   (
-    'dd8f1e5a-2c33-4e13-87ec-ad71f224d0ff',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '9885d828-b3b7-439e-adf5-549bfebc45ae',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'natural_earth_admin',
     'ATA',
@@ -19143,8 +19143,8 @@ VALUES
     NOW()
   ),
   (
-    '3a6848ba-7bc3-4a43-a0ea-81f3ebd2a28c',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'cfb0eb95-b1a1-4f4d-bc2a-921442fd99ac',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'iso3166-1-alpha2',
     'AQ',
@@ -19153,8 +19153,8 @@ VALUES
     NOW()
   ),
   (
-    '4d9e27c2-bf09-47c1-85c4-46889e884641',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '6840bb70-a1e5-41e2-940a-ddbb723b1910',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'iso3166-1-alpha3',
     'ATA',
@@ -19163,8 +19163,8 @@ VALUES
     NOW()
   ),
   (
-    '9ecf50ab-1873-4b13-a271-8807acbc9710',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '05c29031-08c9-405f-bf80-ffe78fa65809',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'iso3166-1-numeric',
     '010',
@@ -19173,8 +19173,8 @@ VALUES
     NOW()
   ),
   (
-    '6b495c2a-8521-48f1-ad7f-0e6bb3c85e2d',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '74644ded-1174-42b2-9834-01d8dcf128e4',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'un_a3',
     '010',
@@ -19183,8 +19183,8 @@ VALUES
     NOW()
   ),
   (
-    'a7d8e77a-7f19-4716-ade8-afff15c58275',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'd567fb8e-961c-40bd-a81a-830df8a8d594',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'world_bank_a2',
     '-99',
@@ -19193,8 +19193,8 @@ VALUES
     NOW()
   ),
   (
-    '301c2e55-a81a-4008-8bee-04c05cc94ba1',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '4161e225-192a-48bd-acb8-16f15fa8b302',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'world_bank_a3',
     '-99',
@@ -19203,8 +19203,8 @@ VALUES
     NOW()
   ),
   (
-    'c1823c88-73c1-4021-b44e-f8753b920499',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'f78f85e8-a133-49bd-a3e7-2126a838682f',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'natural_earth',
     'wikidata',
     'Q51',
@@ -19213,8 +19213,8 @@ VALUES
     NOW()
   ),
   (
-    '16456953-5410-4b12-ba86-0725c4b6b7ed',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '5e7dc27b-bce0-405a-a818-df4758568be4',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'natural_earth_admin',
     'SXM',
@@ -19223,8 +19223,8 @@ VALUES
     NOW()
   ),
   (
-    '3102a622-ce1e-4b4f-8039-8a004da10824',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'b615fbdd-c4cf-4ece-83ef-4138cb5ad676',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'iso3166-1-alpha2',
     'SX',
@@ -19233,8 +19233,8 @@ VALUES
     NOW()
   ),
   (
-    'f425689a-87e1-4caf-a22f-4053139c09cc',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '3a4fe89f-6d36-4ac9-9ca6-6e4e8fa1f257',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'iso3166-1-alpha3',
     'SXM',
@@ -19243,8 +19243,8 @@ VALUES
     NOW()
   ),
   (
-    '6c107c17-82a9-40ea-a123-ba1a5c6a3d9b',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'ea957dd3-52d4-4f93-bb42-790decf93c99',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'iso3166-1-numeric',
     '534',
@@ -19253,8 +19253,8 @@ VALUES
     NOW()
   ),
   (
-    '8058f368-9243-4d48-b6bb-a3bdac758f41',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '45328b20-a020-4a97-a2a7-d1dbfdb139d7',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'un_a3',
     '534',
@@ -19263,8 +19263,8 @@ VALUES
     NOW()
   ),
   (
-    '1d15898b-2369-4aab-a3b4-03d65ef29e47',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'c8fbc034-9a55-463a-95d7-3fef3c0fd261',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'world_bank_a2',
     'SX',
@@ -19273,8 +19273,8 @@ VALUES
     NOW()
   ),
   (
-    '5ea676c5-3983-4e1d-83be-bc9088a3583d',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'ce2d855b-e2cd-46dc-8467-64d0325f3794',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'world_bank_a3',
     'SXM',
@@ -19283,8 +19283,8 @@ VALUES
     NOW()
   ),
   (
-    '218068a6-7ae8-4af2-a013-5b9f2af066b0',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '64b967ce-24ae-4ea4-b98f-c04b6293fad6',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'natural_earth',
     'wikidata',
     'Q26273',
@@ -19293,8 +19293,8 @@ VALUES
     NOW()
   ),
   (
-    '0bd9c3a5-b468-4621-8443-4f22926628ac',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '466dbca8-61cb-457c-bb3c-f696fc858584',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'natural_earth_admin',
     'TUV',
@@ -19303,8 +19303,8 @@ VALUES
     NOW()
   ),
   (
-    'a1f769bd-c1dc-4e9a-a7f2-6dadf41c25dc',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'aedcf6a1-0b39-4586-a343-08fbf5894f7b',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'iso3166-1-alpha2',
     'TV',
@@ -19313,8 +19313,8 @@ VALUES
     NOW()
   ),
   (
-    'da4022ff-4ecc-45ac-b95d-c5a0fb556a77',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'bdc554ee-94a9-4b3f-8470-b276e959da63',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'iso3166-1-alpha3',
     'TUV',
@@ -19323,8 +19323,8 @@ VALUES
     NOW()
   ),
   (
-    'cfb7bd20-47ff-4e8e-8795-e69aa01482c3',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'fad28ee4-01a1-4ff0-b37c-677a5ce976b6',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'iso3166-1-numeric',
     '798',
@@ -19333,8 +19333,8 @@ VALUES
     NOW()
   ),
   (
-    '43678640-a360-4ea9-90de-7d1caab0a514',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '310c4e3e-fdc7-41dd-aef1-85e7ef53964f',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'un_a3',
     '798',
@@ -19343,8 +19343,8 @@ VALUES
     NOW()
   ),
   (
-    '71517dcd-86ba-4488-89cb-06b90887fba3',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'a38caf42-b6c9-48eb-a82c-1ee05dae1382',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'world_bank_a2',
     'TV',
@@ -19353,8 +19353,8 @@ VALUES
     NOW()
   ),
   (
-    '1b2df1db-bda8-4928-beea-d4e716cf0d17',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'f3fb41d6-7b0b-4db8-b762-144d42faf115',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'world_bank_a3',
     'TUV',
@@ -19363,8 +19363,8 @@ VALUES
     NOW()
   ),
   (
-    '84503053-da94-4ee6-9b19-953bc99b38af',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '9210bf24-af41-4a09-8ede-c92fa8253b4e',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'natural_earth',
     'wikidata',
     'Q672',
