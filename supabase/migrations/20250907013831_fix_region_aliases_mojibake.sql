@@ -7,7 +7,7 @@ BEGIN;
 -- Repair region_aliases.alias_name
 UPDATE public.region_aliases
 SET
-  alias_name = CONVERT_FROM(CONVERT_TO(alias_name, 'LATIN1'), 'UTF8')
+  alias_name = CONVERT_FROM(CONVERT_TO(alias_name, 'WIN1252'), 'UTF8')
 WHERE
   alias_name ~ '[ÃÐØ]'
   OR alias_name LIKE '%Â%'
@@ -18,7 +18,7 @@ WHERE
 -- Optionally repair regions.name if ever impacted (commented by default)
 UPDATE public.regions
 SET
-  name = CONVERT_FROM(CONVERT_TO(name, 'LATIN1'), 'UTF8')
+  name = CONVERT_FROM(CONVERT_TO(name, 'WIN1252'), 'UTF8')
 WHERE
   name ~ '[ÃÐØ]'
   OR name LIKE '%Â%'
