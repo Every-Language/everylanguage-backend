@@ -36,12 +36,13 @@ CREATE OR REPLACE FUNCTION public.refresh_region_spatial_cache (p_region_id UUID
 SET
   search_path = public AS $$
 DECLARE
+  raw geometry(Geometry, 4326);
   g geometry(MULTIPOLYGON, 4326);
   pt geometry(POINT, 4326);
 BEGIN
-  SELECT boundary INTO g FROM public.regions WHERE id = p_region_id;
+  SELECT boundary INTO raw FROM public.regions WHERE id = p_region_id;
 
-  IF g IS NULL THEN
+  IF raw IS NULL THEN
     UPDATE public.regions
     SET bbox_min_lon = NULL,
         bbox_min_lat = NULL,
@@ -54,6 +55,8 @@ BEGIN
     RETURN;
   END IF;
 
+  -- Normalize any POLYGON to MULTIPOLYGON
+  g := ST_Multi(ST_CollectionExtract(raw, 3));
   pt := ST_PointOnSurface(g);
 
   UPDATE public.regions
@@ -63,7 +66,7 @@ BEGIN
       bbox_max_lat = ST_YMax(g),
       center_lon = ST_X(pt),
       center_lat = ST_Y(pt),
-      boundary_simplified = ST_SimplifyPreserveTopology(g, 0.02) -- ~2km tolerance at equator
+      boundary_simplified = ST_Multi(ST_SimplifyPreserveTopology(g, 0.02)) -- ~2km tolerance at equator
   WHERE id = p_region_id;
 END;
 $$;
@@ -199,8 +202,15 @@ SET
   search_path = public AS $$
   SELECT
     CASE
-      WHEN p_tolerance IS NULL THEN COALESCE(r.boundary_simplified, r.boundary)
-      ELSE ST_SimplifyPreserveTopology(r.boundary, p_tolerance)
+      WHEN p_tolerance IS NULL THEN
+        COALESCE(r.boundary_simplified, ST_Multi(ST_CollectionExtract(r.boundary, 3)))
+      ELSE
+        ST_Multi(
+          ST_SimplifyPreserveTopology(
+            ST_Multi(ST_CollectionExtract(r.boundary, 3)),
+            p_tolerance
+          )
+        )
     END AS boundary
   FROM public.regions r
   WHERE r.id = p_region_id AND r.deleted_at IS NULL AND r.boundary IS NOT NULL
