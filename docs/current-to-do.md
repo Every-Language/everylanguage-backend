@@ -1,4 +1,6 @@
 cron job for refreshing materialized views
+? RLS for amterialized views / views
+
 In Supabase dashboard → Edge Functions → Add Schedule:
 Name: refresh-progress-cron
 Function: refresh-progress
