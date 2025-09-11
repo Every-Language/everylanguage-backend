@@ -125,7 +125,7 @@ WITH
       MAX(ad.downloaded_at) AS last_download_at
     FROM
       public.app_downloads ad
-      JOIN public.shares sh ON sh.id = ad.origin_share_id
+      LEFT JOIN public.shares sh ON sh.id = ad.origin_share_id
       LEFT JOIN latest_session_country_by_download ls ON ls.app_download_id = ad.id
       LEFT JOIN countries c ON (
         ls.country_code IS NULL
@@ -134,9 +134,12 @@ WITH
       )
       LEFT JOIN LATERAL (
         SELECT
-          COALESCE(ls.country_code, c.country_code) AS code
+          COALESCE(ad.country_code, ls.country_code, c.country_code) AS code
       ) e ON TRUE
       LEFT JOIN vw_iso_country_to_region icr ON UPPER(TRIM(e.code)) = icr.code
+    WHERE
+      e.code IS NOT NULL
+      AND sh.language_entity_id IS NOT NULL
     GROUP BY
       e.code,
       COALESCE(c.id, icr.region_id),
@@ -167,7 +170,7 @@ WITH
       COALESCE(c.id, icr.region_id),
       mfl.language_entity_id
   ),
-  p AS (
+  p_raw AS (
     SELECT
       e.code AS country_code,
       COALESCE(c.id, icr.region_id) AS region_id,
@@ -188,11 +191,65 @@ WITH
           COALESCE(s.country_code, c.country_code) AS code
       ) e ON TRUE
       LEFT JOIN vw_iso_country_to_region icr ON UPPER(TRIM(e.code)) = icr.code
+    WHERE
+      e.code IS NOT NULL
     GROUP BY
       e.code,
       COALESCE(c.id, icr.region_id),
       cl.language_entity_id,
       cl.chapter_id
+  ),
+  p_top AS (
+    SELECT
+      *
+    FROM
+      (
+        SELECT
+          country_code,
+          region_id,
+          language_entity_id,
+          chapter_id,
+          listen_count,
+          recent_listen_at,
+          ROW_NUMBER() OVER (
+            PARTITION BY
+              country_code,
+              region_id,
+              language_entity_id
+            ORDER BY
+              listen_count DESC,
+              recent_listen_at DESC
+          ) AS rn
+        FROM
+          p_raw
+      ) ranked
+    WHERE
+      rn <= 5
+  ),
+  pc AS (
+    SELECT
+      country_code,
+      region_id,
+      language_entity_id,
+      JSONB_AGG(
+        JSONB_BUILD_OBJECT(
+          'chapter_id',
+          chapter_id,
+          'listen_count',
+          listen_count,
+          'recent_listen_at',
+          recent_listen_at
+        )
+        ORDER BY
+          listen_count DESC,
+          recent_listen_at DESC
+      ) AS popular_chapters
+    FROM
+      p_top
+    GROUP BY
+      country_code,
+      region_id,
+      language_entity_id
   ),
   s AS (
     SELECT
@@ -210,35 +267,22 @@ WITH
       AND d.language_entity_id = t.language_entity_id
   )
 SELECT
-  country_code,
-  region_id,
-  language_entity_id,
-  NULL::TEXT AS chapter_id,
-  downloads,
-  last_download_at,
-  total_listened_seconds,
-  last_listened_at,
-  NULL::BIGINT AS listen_count,
-  NULL::TIMESTAMPTZ AS recent_listen_at
+  s.country_code,
+  s.region_id,
+  s.language_entity_id,
+  s.downloads,
+  s.last_download_at,
+  s.total_listened_seconds,
+  s.last_listened_at,
+  COALESCE(pc.popular_chapters, '[]'::JSONB) AS popular_chapters
 FROM
   s
-UNION ALL
-SELECT
-  country_code,
-  region_id,
-  language_entity_id,
-  chapter_id,
-  NULL::BIGINT AS downloads,
-  NULL::TIMESTAMPTZ AS last_download_at,
-  NULL::BIGINT AS total_listened_seconds,
-  NULL::TIMESTAMPTZ AS last_listened_at,
-  listen_count,
-  recent_listen_at
-FROM
-  p;
+  LEFT JOIN pc ON pc.country_code = s.country_code
+  AND pc.region_id = s.region_id
+  AND pc.language_entity_id = s.language_entity_id;
 
 
-comment ON view vw_language_listens_stats IS 'Unified analytics: per-country stats per language (downloads + listening time) and per-chapter popularity rows (chapter_id set).';
+comment ON view vw_language_listens_stats IS 'Unified analytics: one row per (country_code, region_id, language_entity_id) with downloads, listening time, and top popular_chapters (JSON).';
 
 
 -- 4) Refactor heatmap view to use helper mapping (drop/recreate)
@@ -332,9 +376,7 @@ CREATE INDEX mv_language_listens_stats_lang_country ON mv_language_listens_stats
 CREATE INDEX mv_language_listens_stats_region ON mv_language_listens_stats (region_id);
 
 
-CREATE INDEX mv_language_listens_stats_chapter ON mv_language_listens_stats (chapter_id);
-
-
+-- Popular chapters embedded in JSON; no chapter index
 -- 6) Ensure refresh functions include these MVs (idempotent overwrite)
 CREATE OR REPLACE FUNCTION refresh_progress_materialized_views_full () returns void language plpgsql security definer AS $$
 BEGIN
