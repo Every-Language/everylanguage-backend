@@ -31,7 +31,6 @@
     "dev": "supabase start",
     "stop": "supabase stop",
     "reset": "supabase db reset",
-    "migrate": "supabase db push",
     "generate-types": "supabase gen types typescript --local > types/database.ts",
     "build-types": "tsc types/database.ts --declaration --emitDeclarationOnly --outDir types/",
     "prepare-package": "npm run build-types && echo '// Re-export all types from the TypeScript definitions\nexport * from \"./database.d.ts\";' > types/database.js",

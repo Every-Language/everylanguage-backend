@@ -70,7 +70,11 @@ function cleanText(text) {
   if (!text) return '';
   // Remove null characters and other problematic Unicode
   const nullChar = String.fromCharCode(0);
-  return text.toString().replace(new RegExp(nullChar, 'g'), '').trim();
+  return text
+    .toString()
+    .replace(new RegExp(nullChar, 'g'), '')
+    .trim()
+    .normalize('NFC');
 }
 
 function generateId() {
@@ -80,6 +84,25 @@ function generateId() {
 function escapeSqlString(str) {
   if (!str) return '';
   return str.replace(/'/g, "''");
+}
+
+// Fix common UTF-8/Latin1 mojibake patterns while preserving already-correct text
+function fixMojibakeIfNeeded(text) {
+  if (!text) return '';
+  const value = text.toString();
+  // Heuristics: apply only if typical mojibake markers are present
+  // - 'Ã', 'Â' (UTF-8 bytes misread as Latin1)
+  // - 'Ð', 'Ø' (common for Cyrillic/Arabic mojibake)
+  // - 'ä¸' sequence (very common at start of Chinese mojibake)
+  if (/[ÃÂÐØ]/.test(value) || value.includes('ä¸')) {
+    try {
+      return Buffer.from(value, 'latin1').toString('utf8').normalize('NFC');
+    } catch {
+      // Fallback: return original if conversion fails
+      return value;
+    }
+  }
+  return value;
 }
 
 function generateHierarchySQL() {
@@ -183,7 +206,11 @@ function generateHierarchySQL() {
 async function generateCountriesSQL(parentMap, shapefilePath) {
   console.log('Processing Natural Earth shapefile...');
 
-  const source = await shapefile.open(shapefilePath);
+  // Explicitly set DBF decoding to UTF-8 and provide .dbf path to ensure attributes load
+  const dbfPath = shapefilePath.replace(/\.shp$/i, '.dbf');
+  const source = await shapefile.open(shapefilePath, dbfPath, {
+    encoding: 'utf8',
+  });
 
   let countriesSQL = '-- Countries Seed Data\n';
   countriesSQL += '-- Generated from Natural Earth data\n\n';
@@ -240,7 +267,7 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
     }
 
     // Main region record
-    const cleanName = cleanText(props.NAME);
+    const cleanName = fixMojibakeIfNeeded(cleanText(props.NAME));
     const geometrySQL = boundaryGeometry
       ? `ST_GeomFromGeoJSON('${JSON.stringify(boundaryGeometry).replace(/'/g, "''")}')`
       : 'NULL';
@@ -340,7 +367,7 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
     const addedAliases = new Set();
 
     countryAliases.forEach(alias => {
-      const cleanAlias = cleanText(alias);
+      const cleanAlias = fixMojibakeIfNeeded(cleanText(alias));
       if (cleanAlias && !addedAliases.has(cleanAlias.toLowerCase())) {
         addedAliases.add(cleanAlias.toLowerCase());
         aliases.push({
@@ -353,15 +380,15 @@ async function generateCountriesSQL(parentMap, shapefilePath) {
 
     // Create properties
     const countryProperties = [
-      { key: 'continent', value: props.CONTINENT },
-      { key: 'region_un', value: props.REGION_UN },
-      { key: 'subregion', value: props.SUBREGION },
-      { key: 'region_wb', value: props.REGION_WB },
+      { key: 'continent', value: fixMojibakeIfNeeded(props.CONTINENT) },
+      { key: 'region_un', value: fixMojibakeIfNeeded(props.REGION_UN) },
+      { key: 'subregion', value: fixMojibakeIfNeeded(props.SUBREGION) },
+      { key: 'region_wb', value: fixMojibakeIfNeeded(props.REGION_WB) },
       { key: 'population', value: props.POP_EST?.toString() || '0' },
       { key: 'gdp_md', value: props.GDP_MD?.toString() || '0' },
-      { key: 'economy', value: props.ECONOMY },
-      { key: 'income_group', value: props.INCOME_GRP },
-      { key: 'type', value: props.TYPE },
+      { key: 'economy', value: fixMojibakeIfNeeded(props.ECONOMY) },
+      { key: 'income_group', value: fixMojibakeIfNeeded(props.INCOME_GRP) },
+      { key: 'type', value: fixMojibakeIfNeeded(props.TYPE) },
       { key: 'label_x', value: props.LABEL_X?.toString() || '' },
       { key: 'label_y', value: props.LABEL_Y?.toString() || '' },
     ];
