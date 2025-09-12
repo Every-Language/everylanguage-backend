@@ -687,11 +687,13 @@ Deno.serve(async (req: Request): Promise<Response> => {
             | undefined;
           if (loc && loc.type === 'Point' && Array.isArray(loc.coordinates)) {
             const [lon, lat] = loc.coordinates;
-            const { data: ccData, error: ccErr } =
-              await supabaseClient.rpc<string>('get_country_code_from_point', {
+            const { data: ccData, error: ccErr } = await supabaseClient.rpc(
+              'get_country_code_from_point',
+              {
                 lon,
                 lat,
-              });
+              }
+            );
             if (!ccErr && ccData) {
               // Apply to sessions and app_downloads
               if (table === 'sessions' || table === 'app_downloads') {
