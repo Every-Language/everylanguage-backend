@@ -4,18635 +4,18635 @@ INSERT INTO
   region_properties (id, region_id, key, value, created_at)
 VALUES
   (
-    '9cc46f0b-773a-4ca8-89ce-0821e9fc1092',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '207dd3c1-463d-4917-af51-f1afc846b4b0',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '7db3e93e-7320-4426-b2b0-42424018fcf7',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'eedbfc4e-4c85-4287-8d45-df30a17bff74',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'aeed74a5-4729-4a9c-985a-0920606ccddd',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '31da076b-c592-4dd0-9bb9-1b6cc2099a8e',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'd7203d0d-7dc7-435e-96c2-3e4b120ae8dd',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '46170079-77a2-4968-a5b9-3d0037b2ce2f',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'bc004996-c65d-4dae-9434-5aeec07004e1',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'e37dd09a-8a24-4fea-9114-cd41adaec6ac',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'population',
     '14645468',
     NOW()
   ),
   (
-    'c98a7aaf-c112-4214-9857-0534806a9f6e',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '3a02a7ba-68d4-4bd2-a9d9-d126959c1c3d',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'gdp_md',
     '21440',
     NOW()
   ),
   (
-    'f64f2728-c71a-449c-8eee-04cbe5c21969',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '4c4e507d-1193-4754-929b-fcc3a13e3465',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '28f08ab0-eb06-4571-99f5-f15aaa303e58',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'f29df1f6-3dcf-49ea-a64d-dc17c83e956a',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '1aaca06a-b43f-441b-9453-c73a30087107',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '9dafdc28-f54f-46ff-98ff-310c11d3be78',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8824f646-bc39-487c-ba24-a169d1201918',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'bb080204-0615-43b5-ba43-60e71a994289',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'label_x',
     '29.925444',
     NOW()
   ),
   (
-    '22176c38-86c7-4edc-a216-9e0932e09171',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '1a75fede-f45d-4e73-b148-c2440766429c',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'label_y',
     '-18.91164',
     NOW()
   ),
   (
-    '0a01e8eb-7d62-4206-b9b0-bc71d491e871',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '150ed21c-5b1b-4724-ad7d-0b93a16899fe',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'cac0084a-d492-464d-b0dc-d846e5959555',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '18eb382f-a153-47de-9275-69fda4c46201',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '9daa32c3-acf8-440f-b11f-ae3aaa998f26',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'a6abc8a8-3ead-467c-a0dd-2f205be748b2',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '5d953b81-9ec7-48cb-b6d4-4828983917b9',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'd59b9297-6519-4d8d-b0be-73f88b4f83b4',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'ffcf5994-d896-4347-844a-38a9d25261be',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'b0a91494-cb47-472e-99cb-7ec265fa124f',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'population',
     '17861030',
     NOW()
   ),
   (
-    'f813e6bf-24e7-49dd-8f19-ce412555536a',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '53c70b7c-3d89-4712-a13b-164993f25fe0',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'gdp_md',
     '23309',
     NOW()
   ),
   (
-    '219d1700-fc36-49cc-a6ba-691494236db0',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '99cae8cf-addf-4088-8676-c41d1ef592e5',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'b3f0959b-1362-4908-8ea6-352588c9d81c',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '1c389c3e-1ccf-44e0-8e13-8724303d8d53',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'e206e53e-c89c-46b8-b1b8-d6a51554b9b1',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'bfa2efb9-6c9b-499e-a3f8-1c6c626227aa',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '762f2bba-9f06-4ab4-b550-7eb0cbd71375',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '59f29054-ab7a-42c6-b628-166d66e8f7d8',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'label_x',
     '26.395298',
     NOW()
   ),
   (
-    'd7618c5b-d6b8-49fd-bebb-2b90a19a7116',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'ff7d7fc6-2805-4537-96b4-0437fb5857b0',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'label_y',
     '-14.660804',
     NOW()
   ),
   (
-    'd036a9e5-256e-4efe-8864-aaf1d056dd84',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '054d2ffc-16be-4a1b-9cbd-46ab78866572',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '6cdf2d80-873c-4ef1-b9f0-0e1235104cc3',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '63f33d4a-37a0-479f-b5c0-9970cec9d033',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '98262f70-5c15-47f2-8c21-e85cb40951bb',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'c86edfac-b65b-46f8-8ad5-db487f71768f',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '33acb794-a819-4251-b56f-6d56ccca7c09',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '67902f6d-2c33-4575-b1b1-9161370d98c2',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '638150c0-bf8c-4d1c-a10b-2ca423848fe4',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '33434949-1852-4f25-9e7a-78c28249ec00',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'population',
     '29161922',
     NOW()
   ),
   (
-    '7630dd86-2c9c-4e57-9581-9dd5c73560e6',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '020d801d-6ffa-410b-b557-3354dfebff4e',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'gdp_md',
     '22581',
     NOW()
   ),
   (
-    '2fce7839-743b-4a5e-aebf-9ceb0223aa0b',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'aaa59f1a-322d-4c74-a22a-f044329a924d',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '595d3f12-5837-4752-892e-36cf47b78c47',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '211eca64-614e-47f8-9de3-bff1ff6213c6',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '23f8a9a9-5276-42a1-8489-c94bf851ff68',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'c676eed6-39e1-4f28-ba35-fbaef4986654',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '59f71c2e-7992-421e-9b50-1aab596cb409',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'e8d7a936-0314-4a6f-9ec0-b24174efad9e',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'label_x',
     '45.874383',
     NOW()
   ),
   (
-    '7ff7b102-2db7-4c43-ab43-2e366f9c7ab1',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '3722d8bf-fa84-4a49-ab39-470a8f7918ab',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'label_y',
     '15.328226',
     NOW()
   ),
   (
-    'f815194d-c6b8-43fe-9cff-6746167ee849',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'bac57b62-c63c-46f2-ba57-5b5ee6e306b5',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'd251efaa-6cfe-4c7f-b7ca-0f12f8ca4bbf',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '8df2d879-2ca1-4e99-86db-5cd19e40e791',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'dce8e82f-9f42-4754-ba98-46e29408adcf',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '78ecdb96-8c6a-4322-89e2-d2500d07f715',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '5fe81a85-b719-4f16-9bde-a61bdef3fd9a',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'ee6180d3-193e-4127-a037-207b119e2e4c',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '25dc06de-d3d3-48bb-b28f-c738d291ea85',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '13af6ace-a930-42e8-a5d9-f39d2700ebae',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'population',
     '96462106',
     NOW()
   ),
   (
-    'eece9652-36f1-40d0-bdf6-bcda46aa5672',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'c18b0fde-7046-4047-b2bd-bacd926ee881',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'gdp_md',
     '261921',
     NOW()
   ),
   (
-    'deb877b4-cd40-4bf1-80fe-3819facdf5ee',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '666827e6-5ed8-4603-aa3e-f47c138a8cd5',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'b6508252-f546-4e59-b1f5-d6a4efecddaf',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '7600c6d8-c29d-413f-8f3a-cd113a2cf7d9',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '96aeb7f5-e739-4603-ade1-c938b6f41378',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '23c3d8af-5495-4864-8e38-719f017b2f10',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '14e7a612-9c17-4f39-a2bd-7c5d63480c22',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '4a29ab5c-ad27-4251-9776-b4cfc796d4ab',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'label_x',
     '105.387292',
     NOW()
   ),
   (
-    'd68e623d-06c2-4a0b-a25a-212f6de96aa6',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '5f58f867-8d15-4258-8bf3-6cbc5a91c050',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'label_y',
     '21.715416',
     NOW()
   ),
   (
-    'ecbe8a88-b987-4e3c-8c03-7a21153dc190',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '6bb27514-fcf5-4e7d-a355-afd88e2c1539',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'continent',
     'South America',
     NOW()
   ),
   (
-    '53dcb1b5-bd03-4af0-928a-daf139f23458',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'bc16b0ac-e447-4252-9d26-ffd5074b2865',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '07ea6731-4e49-4919-b0d4-bc5d7cf1566f',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '84fdcf89-ae0b-48a7-989b-b19c12a0f2d1',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '3e8704cc-1a73-4c42-932e-70cbe3da3fb1',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '34cb4cff-049b-42c3-be7a-d13fbe859116',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'f74fddc3-33a5-48f4-b1fe-fe1c4c9c737d',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '1ef8b48a-a37d-489e-8fd3-bc913cc08397',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'population',
     '28515829',
     NOW()
   ),
   (
-    '092d0296-d3ab-4ca5-b12e-7922cbbdb4c4',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'b0819d90-7770-40be-8a11-776c17336122',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'gdp_md',
     '482359',
     NOW()
   ),
   (
-    '9ac0f01c-0dc9-4b30-9063-b31224d9e8d1',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '2acf4776-87af-4612-a77c-ee374abf73aa',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'c9bdd611-ae13-4c2c-9920-4134f7fcd18b',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '7f2a9ee8-4e88-4fbe-abc6-fbbb9cdff216',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '57e124c8-68ca-40fd-ace6-4cb9e0cae053',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '15bd77e6-1b1d-40c1-91ab-1de41720046b',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '29ffb621-213e-4ce2-a65d-71c3d9e4d269',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '07dda829-5150-43c8-879e-80229428f53a',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'label_x',
     '-64.599381',
     NOW()
   ),
   (
-    '78d615a6-8349-4f6f-b790-fcebb9516fb0',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'bb116c87-461b-47ae-9f77-9c5d9759343f',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'label_y',
     '7.182476',
     NOW()
   ),
   (
-    'a703352c-f5d2-40f3-8d46-aa0c8adf8dc0',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'ac7603a1-592b-4454-bf50-38d42bac4ef2',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'ac1a374c-6b02-49d0-9467-dc4b8c9821bb',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '910c1db2-655d-45bb-8059-e8a023f7ba28',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4e656c19-dc84-4bae-93de-53daa7a6d696',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'a8903569-7336-42c4-992f-d1eece2a4deb',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    'e7226b2d-a1e1-415b-9841-b061885a2982',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'eb919801-cd8f-4143-b5fd-58367c7b8834',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '76e0c8d5-c7d2-439e-935e-dabc5503e360',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'a1cfb1fe-7f30-44e0-8479-5d35f1c61b13',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'population',
     '825',
     NOW()
   ),
   (
-    '548caa90-6c47-49c7-92db-7dcfcabd0e8c',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'd9e90f6c-3c66-4e94-92ab-adda6739e88a',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'gdp_md',
     '-99',
     NOW()
   ),
   (
-    'b845ca01-64c2-4a8a-a2c3-0cd64994388f',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '932f9c2a-512a-4124-a59a-c94b8f874927',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'cef6cedb-cb35-47e8-8771-d4191ca854f3',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '1439b704-2051-4a2b-adb4-f846c0b0ab08',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '5ef4376c-d7cc-4c6a-b3c0-6319357cb747',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'c4320312-8387-4db2-911a-1d837822b50b',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ab58e392-2a34-4535-abb5-5d258b956ee6',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '92bbe050-40a1-42f1-90f1-3f85d6c0b7ab',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'label_x',
     '12.453418',
     NOW()
   ),
   (
-    'a7f154ff-b5ee-437a-879c-b07079b3a3f5',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '6276134c-dd2b-4448-9101-28f226a84e32',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'label_y',
     '41.903323',
     NOW()
   ),
   (
-    'b328011a-a52d-47da-9377-e11ba8bf6a7c',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'a450d8d2-ee16-4ba5-8120-0f1a2b5f440f',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '0b1e56d7-de2f-4914-b2c0-56333e7799c0',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '41d9a552-aa38-43b0-a7c2-64b5a07ef780',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '4fe115d3-0417-4479-9397-cd7f77364877',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '047e2d72-ab88-427b-84ba-02639fd785a5',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'subregion',
     'Melanesia',
     NOW()
   ),
   (
-    'd1381899-b322-4e0c-8b78-9b39b04895ca',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '30d0eecd-3064-4358-86ac-06489ec42275',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'b1be0e9b-a344-482d-98b8-dec31e8f8948',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '819d60b7-9fe5-4fd9-b8c3-87e248b16a18',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'population',
     '299882',
     NOW()
   ),
   (
-    '44e58723-f0d8-46d4-ac55-336891985aee',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'b91912a3-adf9-4f16-bfb8-1d5d36f16040',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'gdp_md',
     '934',
     NOW()
   ),
   (
-    'ea98ec87-5dd3-48c1-b876-34084b96278d',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '24107729-06d9-4486-ab74-6873c00d789d',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '945bda17-a46d-4c26-966f-cc90cfa4414f',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'ee48e0ad-539b-4b76-a908-fd28f378115e',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '51ca2e26-8470-4a6c-84eb-36ab233ba225',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '456f6473-40cd-470d-8775-e989aadc4941',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'edc16609-b69d-438d-9ef5-808ee35a7e2f',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '82148870-4df6-4e9b-aeaa-8e8a3164c68d',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'label_x',
     '166.908762',
     NOW()
   ),
   (
-    '7bfe676a-e02e-47e2-8b0e-fa7b7e128078',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'dd9aaaff-e514-4efb-b621-97eaf9e7560d',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'label_y',
     '-15.37153',
     NOW()
   ),
   (
-    'c387f96d-5725-4505-9106-5de0be8fe2bd',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '7f1a29c8-9d78-4d1d-b319-1a05a2339d2f',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '79de8c00-8034-42c3-8385-826b57206447',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '311b4400-4e1e-4011-9a38-39d98100ec9a',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '75e72644-f2ff-4190-8d42-a86cd4e197a2',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '63196e98-d6c2-4d35-a50f-1be3595526ff',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'subregion',
     'Central Asia',
     NOW()
   ),
   (
-    'c5016f75-c841-4a2b-bfa4-e52790320d8e',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '6e48dd2d-34be-404c-a043-a8f18cfacf82',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2c262321-d6d9-46b7-b9ba-3059c2db5f07',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '7f4fb261-1c2d-42c4-a540-6f8a42f16343',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'population',
     '33580650',
     NOW()
   ),
   (
-    'cf059096-aecf-4e6e-ac16-bd4449ee5b6b',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '8d930673-5861-4d66-aa22-6495dbd34284',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'gdp_md',
     '57921',
     NOW()
   ),
   (
-    'a437efac-f5dd-43f2-ae2f-7db7f98b570c',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'c5f3b95e-dce9-408c-a20c-19ac33b3cc23',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'c99be5a8-314e-45af-bb42-576bf92b4e34',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '496a252e-6bb3-49a8-b28d-b2f33bc52eda',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'e733cb74-0da3-4a03-834a-6fb0cc5831d3',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '41e257f1-3447-4c35-8ff7-7506838f422b',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '41b139fb-c3d2-4449-905c-d42848d9dc2b',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '66f23cd6-ba1c-4cf6-b4d3-624bcdbff34d',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'label_x',
     '64.005429',
     NOW()
   ),
   (
-    '509d604f-eb0c-4cbf-b3ca-e5e69c0c1bfe',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '269db08d-e3a5-48a3-88e8-8c0f9094b3f6',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'label_y',
     '41.693603',
     NOW()
   ),
   (
-    'dfe0c258-335e-43d6-babc-fad7f2ce2e21',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'cdc69081-697f-452d-9652-4367c0cb4636',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'cf3dc203-1c2b-4bc5-8342-915a58d19b68',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '000d5bb6-2e98-4a27-97d1-bcf32bc770db',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'ea4c948b-1732-4b61-9455-3b5f34b6e520',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'fca2fec4-d570-4ac5-b354-444653c36c4f',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    'e0156bb6-84e7-4085-8d1f-ccaab1033319',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '8534b90e-beb1-46dc-89c9-9773d8d3719a',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '6bd92963-608f-4623-9290-b87cb45cb38c',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '3849be92-00aa-45bd-9a54-614d2b8d323a',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'population',
     '3461734',
     NOW()
   ),
   (
-    '12dcdbbf-e98a-4e58-aefe-efb990ce3444',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '0cbbb8b6-7ab7-4b59-bbd1-7a7690ade889',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'gdp_md',
     '56045',
     NOW()
   ),
   (
-    '5d0b7060-e7b2-4d8b-8d58-4d1f3d56a2e0',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '309fc9aa-868d-4bdc-8909-97a69771b0f0',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'b87db660-e05b-44c9-843a-56931f911616',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'd7543a85-dacd-468e-9cbd-445e5d427dd1',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '4d61b1ba-d91e-4090-a981-553eef489c7f',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'e59d3292-cba5-4cfb-b012-b3c102f398ff',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c9daca17-8763-4617-9fe6-d36b2c4bede6',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '63434d79-037a-4fa6-acd7-1a9930f5ec20',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'label_x',
     '-55.966942',
     NOW()
   ),
   (
-    '637b5bd2-b544-47a8-965a-8c11a99f9b7c',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'f5eef563-6fcb-48a6-af43-e93b35b9aef8',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'label_y',
     '-32.961127',
     NOW()
   ),
   (
-    'a76d2c81-1dfc-44c3-9591-685fdd450844',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'e5ce1ba1-0e18-450c-b0b6-8662ca99e874',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'b8f4c498-fc95-4dad-87ed-952c23a6a5c4',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '21e34649-f3e7-40d9-9623-f1796dec5385',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '092cff50-42e7-42bd-b34e-6f39ffabaf89',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'ae8e11de-b260-4825-b32d-f840b6d36623',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    '4d422e43-77ec-47ac-875e-9998763d077a',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '62238b4c-658a-4a05-93f2-c3369124ff72',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '418a79c2-dbc1-445d-a355-2fc60756651c',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '530b120d-15e4-4ab4-91be-cc93f2ec95e2',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'population',
     '113815',
     NOW()
   ),
   (
-    '082c4c77-c052-42f2-872d-6a3c362af25f',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '497e08a6-1210-4e3a-8ed7-1696657a252e',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'gdp_md',
     '401',
     NOW()
   ),
   (
-    'e3a21264-a160-4ca1-ba2b-147eb8c928d8',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '84fd708e-fd58-4664-90b7-fb151061584d',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '6904e202-e73a-4f52-8f24-295b3fec8d16',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '16c081b0-b4a7-4e99-ba94-a76fda71976f',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'cfff9ad8-623e-42e0-940a-2a50e31daeef',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'd5a44e7f-2312-469b-8b2e-d54c6ceef60e',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0e2bd267-5afa-408a-a115-94ed370ba7c9',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '02a8d72c-be12-417f-8821-f9c12937e99d',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'label_x',
     '158.234019',
     NOW()
   ),
   (
-    'f85ddb15-6cd0-4a8a-bb20-75af9b7ea7cd',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '7d41a131-a3df-4803-8394-a87090926366',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'label_y',
     '6.887553',
     NOW()
   ),
   (
-    '6802452b-b540-4cd6-89f3-c94966b2950f',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '9e613b5f-e7c0-4cc0-b7ed-5276f96e1568',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '01be838a-662a-47f3-b2c6-df19530de746',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '0b999460-edd8-4a40-8c77-0a005b95d6b5',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '0505add1-579d-4a14-a390-a1c267fc4702',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'f2ab8f9d-e37f-4ef2-ae00-85edc5255e06',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    '8d07ec0c-4e9d-46ff-8f1e-2718a78c8053',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '191cf886-28de-4d75-9ae4-779c72881ada',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '9b81142d-16d9-4f84-a757-f72922be1ed5',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '913376f0-04a7-441c-a0f0-3fb380077079',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'population',
     '58791',
     NOW()
   ),
   (
-    '4b1ec265-8148-41ae-b159-b9999d80e1af',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '1c193b85-05d5-4010-8408-6be7e6369201',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'gdp_md',
     '221',
     NOW()
   ),
   (
-    '60aa64ab-ebcc-4023-a2e0-7c789dd48f07',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'b4307c3d-027e-4117-a467-65b73cab113c',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8a505c0c-8893-4a05-a66f-45139d1710ca',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '4f38f165-d2db-47e9-90d2-e8331a3cecbf',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '45257990-8fd7-4c15-b5c0-7ea7d13f3957',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '01ae980f-fa7d-4dc1-b1c5-61dcd40d55f1',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '5a9a38a4-70be-4253-89d3-c085d249895b',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '9b8808ed-5464-43fe-995f-243f9ade388a',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'label_x',
     '171.193609',
     NOW()
   ),
   (
-    '33f6e99d-d79b-4aaa-80ae-5cf476f315cf',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '9dade9ff-581b-47f5-bbf9-f949960a350a',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'label_y',
     '7.082568',
     NOW()
   ),
   (
-    '8e11354e-9ee2-4ed8-bec2-ba6759fbb620',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'e111be53-59dd-4613-91d5-36abaa2d2d30',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '2c9c5594-2ea2-4dd6-83e7-672beafa3b75',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '77364327-0805-4a4f-867c-0798cb5f5543',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'f1f6358c-e50e-4b84-a2a0-2eab9bd0bb8d',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '3e8996de-6c3f-4632-8efa-cdf1b0ec2040',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    'dad8097f-49db-43a6-81c3-b42e76b392b1',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '6cb3dcc8-da29-47d4-8be9-c4a4e16236ce',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '3d14c75d-e955-4b65-a133-aa1d974dcc9f',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '4d08db2c-b910-4d91-9ffc-a8bd4715405d',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'population',
     '57216',
     NOW()
   ),
   (
-    '60c1a4f8-7ce3-494d-b200-dfb1ddcf28f9',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'de09182c-5216-4651-8fca-5b5d7cc2b83b',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'gdp_md',
     '1323',
     NOW()
   ),
   (
-    'f7f05124-56a2-4fc2-b930-5a18453f3c93',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'bfa2b733-1711-44e8-8eb7-df0f44e21ef5',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '50900ea7-31ae-4356-bdbf-adcde1c1998d',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '5aa218fa-068b-46fa-ad29-f44bc0dc8c28',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '70a8eb6b-068f-4957-9727-304fd009a078',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '09475dd1-aaf5-4d81-b5f1-641508b4451a',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '08f3eb13-c7a5-4226-8cd7-6edebba9795f',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '68d75455-99b8-430d-a910-22111b21ed4c',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'label_x',
     '145.734397',
     NOW()
   ),
   (
-    '266ee635-d46b-453e-8b42-383d84f382dc',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '71a1cfa1-4dd8-41b5-8e39-23377b12fb7b',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'label_y',
     '15.188188',
     NOW()
   ),
   (
-    'f35bafa8-3047-408b-8ed0-ff47f6913ea3',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '391c4f6f-bfa6-4f95-aadf-620eb7770654',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '3a8c0361-2d5c-4c05-a203-da85f7c6aba8',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '11c0567a-e60b-46a8-8828-cde0a651b58a',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '7b6065fc-fc8a-413f-bc63-5b1464a7ef3d',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '39c372eb-5c36-4fec-beb3-c2faea2642e8',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '6c79fb65-0c33-42cf-ab17-23b837b2d061',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'db96a9c8-8716-4d4a-a679-f6c801460f3a',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '9527baef-f4f9-4f71-89f5-b7f928addb35',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'fe04b6f2-f62e-4a9a-8ebe-757f975aebaf',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'population',
     '106631',
     NOW()
   ),
   (
-    '3951ca3c-0ce6-4826-a3f0-08e36d65aacb',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '662054cf-1e78-479b-815d-e83d3c2d774c',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'gdp_md',
     '3855',
     NOW()
   ),
   (
-    '0c76231f-e023-4cca-bac8-8b3209aaef1e',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '994f2a9f-74a7-41d7-a751-78b1b7931c65',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '81d547c3-226c-450f-881b-0655a5d27975',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '139151a3-2e02-405e-aaf2-81627468c2bc',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'b5f07741-7672-4415-a067-e252ad827e97',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '534724e5-8346-4e02-be6e-146167c387b4',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '01291237-49c0-468f-8365-d922396ea955',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '4a06d24f-0f6d-40d5-a3be-63bcb7e6dbf4',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'label_x',
     '-64.779172',
     NOW()
   ),
   (
-    'f2aaafcb-6bd4-4590-9472-d9f34b32edaa',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '9aae6ef0-6b1b-4fd1-9c3c-ae2fd68a192d',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'label_y',
     '17.746706',
     NOW()
   ),
   (
-    '0d1f8ff8-35f7-46b6-9d28-90cfc930ba69',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '1545f769-44b7-4ac4-a796-50e3d6a56a7e',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'ceee7d7c-9a82-4f23-9556-bd8d78640d1f',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '30f5ea57-985b-4538-a7d8-08b4ea12ead4',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '560ad7d3-fec9-49b4-9c86-cab760316d07',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '710d4241-03fe-480d-8527-34c9ccb5ead3',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    'a932fde7-eb25-4ed5-ba65-1031f3e65753',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '59334644-3d9b-4dcf-9a5e-aa3ade5e1a24',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '70c38e2a-c8cc-45c0-ba0d-cf62847f9876',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '0b9f73a3-bcf6-4fc7-a7c9-0e2f607c5b5b',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'population',
     '167294',
     NOW()
   ),
   (
-    '11513c13-a05e-4f5e-9a4e-e34fc06c6e21',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '01f813f8-1e08-4be8-8555-5641f5202014',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'gdp_md',
     '5920',
     NOW()
   ),
   (
-    'fa6bd5c9-b30d-4a5c-bd54-50e7ef515f98',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '0267e04a-5e14-4d6c-8e88-b024283e9580',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '405d8690-d30c-4428-bb14-b4421320f4e2',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'a520a0e8-4df6-4b4d-b65e-354f2a5c78d4',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '2eef0570-0223-4c9b-a3db-0fb099901023',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '0635074e-c013-43fc-80a6-c445045226a0',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'afa224fb-2509-4c77-b9c6-84259b0115ad',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '7704026f-309e-4a26-8735-8904263db62b',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'label_x',
     '144.703614',
     NOW()
   ),
   (
-    'b3dfd8cc-2629-4401-b8e4-c521a057f540',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '92d62a17-baa5-4895-bb6f-a4e8def21cc9',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'label_y',
     '13.354173',
     NOW()
   ),
   (
-    'ba6d848d-25b8-4bfc-a935-db7de74f1d72',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '07182ba3-1683-4a86-8bf4-f73fe83c8796',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '08e2419d-6f86-420f-9cbc-400a255afb9d',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'f961ea49-b41b-416d-b982-b2c3a5ccbcbf',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'cb9bdcb9-fd67-4dcc-b12e-bc254133688e',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '677ba799-d4a1-4d7d-99d4-93363239606f',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'aafda46d-4f1c-443b-8c3b-5a12cbdf2a65',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '6eb2a678-3c4f-4ebd-a976-29fc7643b307',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '438ce72b-3fb2-43cb-bed4-5ac49d40f925',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '4dc4a4ff-e2a9-4659-9259-e81d3440fb0e',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'population',
     '55312',
     NOW()
   ),
   (
-    'b34c3020-b687-48ba-9ccb-78a8b876377b',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'af08de76-5886-49c5-bd3e-fee09ce343b1',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'gdp_md',
     '636',
     NOW()
   ),
   (
-    'd11f27e5-c876-438f-a25f-bb024ab4e234',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'cd0ed724-6b4d-416c-a5d3-0622c554b99f',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '1b80a498-bd56-4830-bcec-3bbff3afb5c8',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '1dd01ade-5558-4ec3-b941-f7c137d62965',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '71dbd2a9-88c8-4f17-a4f9-c7042511b85f',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'bd1cbdbf-02c8-47e0-ac7a-a7b2f4293185',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'aed4db17-512a-488b-99e2-a64465b53ee4',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '7d992c73-778e-4963-bd43-43d57a9d6078',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'label_x',
     '-170.747153',
     NOW()
   ),
   (
-    '4c1ec240-98da-40ac-b80c-856122b1b18c',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '4f911919-4eb8-46b7-9109-9271a38f6360',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'label_y',
     '-14.32671',
     NOW()
   ),
   (
-    'ce3d6128-1d2c-4cb3-a8c6-ba3620b85ef6',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '365f0c71-6334-4d37-84fe-3494278fdbe2',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '231ee1a2-86be-41ae-8599-f338b3b2f978',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '973e263a-4ba5-45a3-9c09-1eb558ab7a43',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '3507d48e-0c05-472f-b119-73ea041b62da',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '033bc6e6-2085-4af2-93c9-339e1175ac5f',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'a0add3b5-5381-4591-bb9f-645df74a254b',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '3d5ebdb0-8164-4358-8c5c-6ea2874e5b85',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'ada39759-59bc-4317-9551-63ca5899cdd1',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'dd8b2517-edad-4fbb-94ac-275a6d48decd',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'population',
     '3193694',
     NOW()
   ),
   (
-    'e259d49f-5fc7-4c24-905e-6b0a7084af39',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '9dd819a0-61a3-4098-be9d-c7e0e661d208',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'gdp_md',
     '104988',
     NOW()
   ),
   (
-    'a1d9311b-725d-423c-8ea3-1b8946af7512',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '3773fc33-2bff-4b7e-93f7-ddbe0242b0ce',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ae801a39-4143-45a4-ba96-0665f3250945',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '68a4bd74-c358-4731-8796-b55364e33e20',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'e26217de-f7d4-4a7d-bce1-26a585057b09',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '7202da11-fe13-424e-9f9e-98c6dec635ce',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '2afe9bb6-35ed-401a-b55a-22f7a4e4d12a',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '6b25b318-29fe-4cab-af72-26a9466fd59d',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'label_x',
     '-66.481065',
     NOW()
   ),
   (
-    '9b0d405d-0ab8-4e10-80d8-f987a1da870f',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'e4a6facb-71ce-4658-bcae-c97fb8492886',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'label_y',
     '18.234668',
     NOW()
   ),
   (
-    '3ef86349-1de4-4cf3-84f9-efce646cd44c',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '5651cb2b-1af7-4a98-a777-f5580caaef52',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '1d74a704-fb31-4876-a25e-06e2ed1ea494',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'f111d462-aa89-4fc9-95fb-3397165d64b5',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '2e657117-069c-481e-9f51-facedb0b2a3d',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'f9a43ebf-601d-47b3-aeca-360656a237e8',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'subregion',
     'Northern America',
     NOW()
   ),
   (
-    'd65430ad-61ed-41ac-a9ec-a7eebe44f937',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'f97d89e2-59e2-4e42-8d09-764bc7df28a4',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'region_wb',
     'North America',
     NOW()
   ),
   (
-    '54da48f8-dd12-4121-b19c-adf953659bc6',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '43471677-8a32-4080-96ce-0425dab64e56',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'population',
     '328239523',
     NOW()
   ),
   (
-    'a27cd2d5-2063-4404-aa63-1e02ab17166e',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '6d19c18c-4daf-4797-aef3-7d14a342f07e',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'gdp_md',
     '21433226',
     NOW()
   ),
   (
-    '7bded32e-89c4-41cc-be64-1513b06323bd',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '382f9a87-5a98-4c93-980a-2af26f0b6e7b',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    'd089b078-d36e-4f3f-9b60-cfb796c9af53',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '7d629a97-e514-4d91-bf34-c074ffc06d60',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '43b270be-11c1-492e-a0a5-5eb7bd4c83e9',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '1d3201df-b434-4723-9c67-2c67e64997e5',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'type',
     'Country',
     NOW()
   ),
   (
-    '7a7d5393-e951-4b63-8a80-41e2450a451e',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'e79db768-f520-4de4-b4e8-831a3fbdb08f',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'label_x',
     '-97.482602',
     NOW()
   ),
   (
-    'ae347cbf-9ed8-4b75-9b7b-017933adc690',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'e1284a11-f2e2-4ca3-9232-545aa9c703b8',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'label_y',
     '39.538479',
     NOW()
   ),
   (
-    'f54f05e8-5862-489a-90d4-f1abbce72cc0',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'fd12665e-a92e-41f3-b266-94ca043760c5',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    '23b89637-b293-40e7-9a74-208f4a7d6e3e',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '25a98717-4993-4403-9492-a8ed4a29f0f8',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '37ba40cc-8bb9-4216-95eb-af9637efa57a',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '4f167d93-e708-489e-912f-8bb343347519',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'b76660d7-f57e-46a8-86f1-06b5f3a57cd3',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'b101e961-537b-453e-aeae-ff38ef576bc7',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'region_wb',
     'Antarctica',
     NOW()
   ),
   (
-    '86aa20ad-1be3-4721-b633-ee2db8458db3',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '9a4542cd-67fe-4250-9a53-b062da802c21',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'population',
     '30',
     NOW()
   ),
   (
-    '9bb671c4-55df-4450-b899-7e9a7aa3cf01',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '436d6186-8d72-4d0c-aa72-51fa2e117c1e',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'gdp_md',
     '0',
     NOW()
   ),
   (
-    'c0b0395d-a219-4884-9780-8fe0d436a866',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '096e2129-c52c-462e-bdb4-76f501272ae4',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '9b8a1490-f3f5-4a75-bbf5-e98f6c449535',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '6269852f-4487-4ecd-a43a-7cb620b1d949',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '1b75bb16-aa3e-425b-8949-bf1e7c3f87ec',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '3338e6f5-61b3-43ed-991f-d24cf9a1cd9f',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '27954457-6716-4bf2-acd7-5a52ef345fb8',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'af83b3e1-1397-4744-83f4-ccbdd2b4e530',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'label_x',
     '-31.063179',
     NOW()
   ),
   (
-    'f4efbe5e-2152-4a60-9b21-549e65e51b67',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'fb4d9cd9-66f0-4fc5-bc12-db6219089f68',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'label_y',
     '-55.683402',
     NOW()
   ),
   (
-    '3c6a7f8d-1a80-4335-89b1-dbf3b1fbc53a',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'fc55ebcd-b8fc-4d17-b4d2-246962b24966',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'd4e4ee5d-8f47-49ed-a357-686e53ecc029',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'ed5938c5-a0be-41d3-81e3-70d0c6683d5d',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'ab578aa4-8fb1-456b-8c34-59d07a259693',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'b3752bc1-bcfa-4e20-9967-5b9246e7c77a',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'f4f2c08b-e46e-44de-b14f-baaca5e7b168',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '2c4a4cc8-8f3a-42f4-adb5-80bf79497ca7',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '5f0ae995-e2c2-4eef-b7dd-e8cb9e59b474',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '02d6d2bc-7790-46f1-bd84-4b303cd0f9d1',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'population',
     '3000',
     NOW()
   ),
   (
-    '88d39c3a-3e2a-4158-9287-0ce8e3fbd7c6',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '0bb2b078-a63f-44b9-b272-ba98caf3f6d4',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'gdp_md',
     '120',
     NOW()
   ),
   (
-    '988766eb-4434-4930-b8f5-85c944306d85',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '4fd7f421-468e-4d80-86d0-3c96b63eb9c3',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '3720e9a6-817e-47e2-952c-786a8d04090e',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'd01a441c-86b1-41cc-999a-e2802d368ac1',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '24ae1bc7-6cc2-4a91-920b-fb25d5c72f37',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'fcebaf38-9468-43ed-ac0f-708ebb4d9f18',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'type',
     'Disputed',
     NOW()
   ),
   (
-    '2cfc4fea-026f-4269-b798-dabde85229c5',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '1c965b4f-97c9-4749-b2e4-f3c243d249d1',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'label_x',
     '71.348349',
     NOW()
   ),
   (
-    'f4704bca-9b69-413f-b28e-0e15790c7d31',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'c7c32f3e-4618-4b47-9786-8496afad338d',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'label_y',
     '-6.190826',
     NOW()
   ),
   (
-    '1f8af4c6-2661-44b1-addb-119416998f89',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'f0229bbd-0984-4fb8-b559-624034817588',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    '519ca4ce-dff3-415b-a27a-df83526305b9',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '1c4c8a6d-f400-4319-a89a-2df082bc22c3',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '209cc5bc-da36-4332-a27a-bbb1e42c8369',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '439e9dfc-6bdd-4402-97c2-010587e24911',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '2074cc41-bd30-4c05-a401-e1ce45c455bd',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '6cac4dfa-b3dc-44f9-92e0-97669d81c790',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '1274a0fd-142c-4458-b545-39934c532236',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '4b496d94-264e-477f-b3a6-a32b2c3ad366',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'population',
     '4534',
     NOW()
   ),
   (
-    '43725515-b229-43f5-8d45-10c36a05ba94',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'a7c23651-94a3-43d0-a0f9-1205b3594450',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'gdp_md',
     '31',
     NOW()
   ),
   (
-    'b1d73bf8-ee39-455c-ae3c-ed1797399a7f',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'f937db3d-a309-498f-84d7-c5d46d28b337',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '60ff363d-a747-444c-9cd8-70231f1d9ee5',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '29ec7b26-65a7-46b2-a08e-ba716a44c8a8',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'f91bc915-f078-48db-bf93-4ac40534416b',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '7781e9f1-aad2-41da-9904-1dc8104a6e8c',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'd17f24ea-8351-4b3e-83df-41f36996b04a',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '0496ec20-e25d-460d-8b04-f5eafc2f33e1',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'label_x',
     '-5.71262',
     NOW()
   ),
   (
-    'abc50261-4fa4-48b1-b387-4cfe4fb58c3b',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '89c0c1bc-801b-416f-b2cc-9c8b00868f01',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'label_y',
     '-15.950487',
     NOW()
   ),
   (
-    'bd41505d-6b38-45ac-a42f-b4aaf7fe67ef',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'aefad688-fb7b-48b7-8827-514847bbe3ef',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'e8e81bec-4fb3-4104-b2a4-ef7797c1f117',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'b4abaa88-1b0f-4cba-a3bc-2a6b2026765c',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '3917c530-a0fa-483a-820c-9f36ebed7fe3',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '660931d3-badc-4f4b-bc13-874e567d800b',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'e132a6c5-ecd9-4423-b4e5-802cb0f27390',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '824c01af-7b03-44c5-873c-b4e05363b313',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'd8e099e6-a52f-445c-abf7-fec8a5b327a5',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'a54f6e49-1d03-4656-aba5-f606f0f761fa',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'population',
     '54',
     NOW()
   ),
   (
-    'c70f897c-78f7-4bf3-a361-38f000d5ca0a',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'cdceb626-4eaa-4f13-bc7a-72f434efd4ef',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'gdp_md',
     '0',
     NOW()
   ),
   (
-    '9b705b25-be9c-4d7e-8a44-1165ae605809',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'aa5a6514-4c13-4b51-a199-e02bd6154350',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '202c0031-55ae-4ed0-b495-0cd90975cb6b',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'ddcbc218-31da-4df6-8670-6202668bfe8e',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'eb9ba609-6809-4c6d-9193-368710c119ea',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '551d4919-7599-4267-8b4b-62635c0231da',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '43b10942-5715-4a92-9c8e-c931521ebf77',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '10802a87-2e0d-43ac-bddd-a2908e1b275e',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'label_x',
     '-128.317536',
     NOW()
   ),
   (
-    'eb5a7426-b1ec-456b-8acb-82e260c9dde8',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'a11bd82e-b8b1-41ac-aa35-351d0cdc7c32',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'label_y',
     '-24.364576',
     NOW()
   ),
   (
-    '0d1be48f-c30e-45e5-bcd2-426cd6c878ef',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '9349432e-65c4-4717-9050-3c3f82ccf175',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'ac7630c3-dfc4-4c47-959c-a312f17bbb59',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'bedffa69-cc8a-4b0f-84fb-aac32d3f79e8',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '1c8dbcfb-aa53-4d41-b3bc-6c57555120ec',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '3dd7360b-dfb4-4ecf-b39a-8b7ef8723745',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'bb6b2aa8-33d8-453f-806e-79e165442d2b',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '2e68422c-ebbe-4426-ba3c-9c499afb670e',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '47f4c320-3e1c-46c8-877c-9c2549a0839e',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '11e44ad7-6747-4cf2-811f-b8a16295941d',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'population',
     '14731',
     NOW()
   ),
   (
-    '1ced95c8-6ba6-4a03-9d43-77ed3a742684',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '749655b8-43fe-45d4-93c5-6b7d3e737a61',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'gdp_md',
     '175',
     NOW()
   ),
   (
-    'd462b59c-9cd7-41a8-822f-204bde860384',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'a6769304-bdc7-41ea-8e99-d6ae560d10fd',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '1529196d-e338-4f1a-9195-4b2c41dbab71',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '86ca6781-30d8-45c3-9054-ff838612e2a5',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '62b8e1d8-f506-4d89-b62a-29dd7425b15f',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'a10fd146-d1bb-4b00-800c-02b39493aeba',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '129c1d0d-4fc3-4573-8131-2c4b4e33d623',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '64cce043-624d-4965-aff8-d166b53fd943',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'label_x',
     '-63.026361',
     NOW()
   ),
   (
-    '9efd4aa8-5c2b-4ba4-b601-044daae83735',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '438913d0-3c67-497f-8bb3-7db984c9fa47',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'label_y',
     '18.242979',
     NOW()
   ),
   (
-    'd6e5bb7b-0ef5-47b9-974d-bf5483c2e13f',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'df14bbf2-bb55-43f3-9438-8945f9490bf8',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'f5ad5bae-9041-4468-8852-38be409b9e96',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '3f37d3a1-6da0-4300-b2d6-d4492bd32388',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'eb332355-1b2c-495b-9451-e60cc6b4c114',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '57d4f1e6-955a-42c7-9643-ca671cced8fb',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    'ad19a2e6-a960-4888-8469-f9cdb72abd15',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '7a923dd2-d3d3-4006-9244-28ecdc799bc6',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '02df8641-4920-4c69-89ed-419af1d23d88',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '19db26e9-5c20-47bb-9588-d399c56af6a3',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'population',
     '3398',
     NOW()
   ),
   (
-    'b4baf3bc-8f5d-48e1-8826-c80916386ed1',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '3b0888e6-869c-4b4f-a255-63cbe222ca4a',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'gdp_md',
     '282',
     NOW()
   ),
   (
-    'f96bf4c9-fa62-4c75-b440-feab13cad1ac',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '2981bd3a-1f50-4c49-8040-4d89708581f9',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'a05978ec-ed63-4679-b789-f0c183d65be3',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'e3349f03-180a-4b7e-9cce-dc777952f751',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '57e8df1c-26fa-4401-bcef-534f8eca2030',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'fbdb8994-dbaf-49e5-a373-062de1f423ae',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'type',
     'Disputed',
     NOW()
   ),
   (
-    '13d9fab8-d739-4b0b-bdeb-4855f417abe7',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'b40f7962-292b-4773-8914-b4e188ee1896',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'label_x',
     '-58.738602',
     NOW()
   ),
   (
-    '13b33e2d-0180-4ac3-adbf-c6348de07cf5',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'ea2f3035-f845-4581-9fee-358ed8766581',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'label_y',
     '-51.608913',
     NOW()
   ),
   (
-    'a4e5cdb4-6ef1-449d-9bf7-11901365ccdf',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'c17ede9c-4bcc-4325-a801-7404e80ecf3a',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '2a6df8b4-a8ce-4a85-b97f-e145b2fac070',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '36d5977a-4fd6-480b-b2ad-0dff3892228a',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '646969e4-20fa-490e-ad0f-fbb88729ff93',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '1da2e2cb-67a4-4fe3-86c8-65b28559e34c',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'b2c0ad0e-37c1-47ac-b080-41d05da237d1',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '861d9819-46c9-47c5-94ad-e432d79ca180',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'b3a9fbb2-f9be-400f-8658-65b88228c152',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '91297903-bbd8-4026-8773-e39d8800f582',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'population',
     '64948',
     NOW()
   ),
   (
-    'fc181fa6-ce38-48c3-9d64-2dbc53edd7f7',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '9ad4fa0c-fcad-477d-ba56-5a53c0158858',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'gdp_md',
     '5517',
     NOW()
   ),
   (
-    '4c703de2-29b9-4090-8808-7219e891f83a',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'e65a1669-4690-48fc-8e53-8949a0a8e906',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '8ff84451-4e4b-46da-aba5-0c5225eb934b',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'dc752423-c26e-4026-81d8-0b7bbaf1e157',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '6bdfbd29-4469-49a5-8bb2-0d170a6658b1',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '2e556770-7a93-4a56-9b3f-614f76a13def',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'eab1ce7a-aea4-4852-a89c-4da8ded273c2',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '9896476c-f232-4012-bba4-07abac0d5780',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'label_x',
     '-81.24055',
     NOW()
   ),
   (
-    '3657ec09-b1c8-4867-95b0-84d7fb9e4be7',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '42eb64ff-15d4-4e00-b070-5f34065d2f51',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'label_y',
     '19.319862',
     NOW()
   ),
   (
-    '9679530f-9420-482a-a7b4-a1c6a941e70d',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'e335dabe-28c1-46d3-8c2b-05f7f1ac1516',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '5bb9d9bc-fa7b-4b2d-a8c8-7ba863d8d35e',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '6bfdd4b5-c3d3-4bfc-a2b3-12f65e494ab7',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '54859c50-fecf-453c-9c0f-d3780abc5c07',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '227edc18-54cb-46b3-94f6-72e235bd2f73',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'subregion',
     'Northern America',
     NOW()
   ),
   (
-    '5ed070cf-05d8-4c47-886f-ccf79862a919',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '14f21523-d201-4a4e-92bd-647f973879a9',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'region_wb',
     'North America',
     NOW()
   ),
   (
-    '13ed9751-86b9-477d-b11e-22c4e07ed8e9',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '57d54180-ab4d-406f-9015-1ba1f8a555c9',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'population',
     '63918',
     NOW()
   ),
   (
-    '1c14864a-b21b-4d2d-a820-cdce9a0bb589',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '78d310a7-f2de-4567-90df-05665498d4aa',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'gdp_md',
     '7484',
     NOW()
   ),
   (
-    '3c44ef2d-1805-4244-8f03-dc14c5759ee8',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '01df5f5e-0123-44ea-97ce-8cfbff2cc311',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '9c53f832-3b50-422e-b4bc-24f49006d995',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '75e13d20-e92c-450d-bcb4-68a4cebe8d3c',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '143bc062-2395-420e-9a68-910272eaa276',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'e019d99d-bace-4c77-b004-44dbd3913896',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '42297806-43d1-40e2-856d-e96eddbd822c',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '58682ca0-fef4-4a48-88a8-89725375668b',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'label_x',
     '-64.763573',
     NOW()
   ),
   (
-    'f36938c7-e2ef-4d2c-a532-8398ae73100b',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '1775eece-db1b-4522-9fde-a773f1865c2e',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'label_y',
     '32.296592',
     NOW()
   ),
   (
-    '3d792f64-4745-47ff-8d06-8273285b10cf',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '0f54440f-40e8-40e3-b5fc-cfacf9e758f0',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'b285d708-9f16-46df-b5f3-e3ca744ed081',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'f2d1277c-b7d2-4e7f-b67c-d8454154a5f0',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '02d04aa5-1722-42a6-9bf0-347f250d211b',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'f3d356e6-5f71-40a8-b455-08b2b4a5f835',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '875871d4-7716-47c6-a157-bc4ffab487bb',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '3d1f8e57-92df-4c75-938e-7069554d02e1',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'd8834416-db5c-4111-adf4-d8cddbb88bc7',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'd48845b4-d4fd-497f-9ad8-a671de3ccf37',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'population',
     '30030',
     NOW()
   ),
   (
-    'e53dbf3a-7ecb-4475-ac10-96e4471d0157',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '4a86fad0-c85b-4d29-87c7-de2b4be5da9d',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'gdp_md',
     '500',
     NOW()
   ),
   (
-    '0f2648f0-8566-442b-88d3-d30bb7823d62',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'ad8dc8f8-386d-4d75-8d84-7c9a18e403fb',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '5463c994-edbf-4856-8eb7-65c77a5ed602',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'c7ab33ef-bd8e-460d-ae39-ffc05fa19700',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '3e92e173-b201-4f5f-ac08-d59d69d78add',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '63cafd23-9829-462f-8237-6af93d8acdf7',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'a5d41850-e2ec-4a9d-8b02-46bce75a6d55',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'c0e7af1d-f3db-4fd4-bbad-c0dbc1464f61',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'label_x',
     '-64.63661',
     NOW()
   ),
   (
-    'ef0b6efc-a94a-472c-8dc5-b7f31cad56ad',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'd4802e63-e0ce-4fc6-b023-16186d6ed430',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'label_y',
     '18.426606',
     NOW()
   ),
   (
-    'f5b9a9d7-9eea-4dd4-baba-306f79e5f1e7',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '7180c6b5-3f23-4cf1-a2ca-2b779be1ce31',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '940262a9-86d0-4b6d-9902-137ffa5963c3',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '52d756bf-67f6-418b-b89b-7dadcd18513c',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '51994ad8-1749-4373-9d42-e76acb1ad28b',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'e9804db9-b1cc-4a75-b1d2-42aea93da78f',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '8e4ec6fe-74f2-44bd-9443-c6c4df1649ac',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'bd6ae510-0cad-4e68-9cb2-cdb3c9b120d6',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '3475d572-b5fe-477a-92dc-eaf701335b38',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'c268cd6f-6ea8-4004-b9d3-820dc96963f3',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'population',
     '38191',
     NOW()
   ),
   (
-    '092a818d-b0b2-46f7-84ed-8db73bda18d3',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'eea7d969-6e8b-4e49-93c0-93f2dc573438',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'gdp_md',
     '1197',
     NOW()
   ),
   (
-    '370ee2fe-5db8-4816-8a1a-42622a32f166',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '38c43278-117e-4c0c-b3eb-8d7825de3bb3',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'e5eb79e6-334e-4e72-8e49-02b1b7c2aac3',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'b005a7c0-9c37-420a-84fc-53814faa2f75',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '2669fe11-7fba-4197-ac6a-a88da6510d56',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'd832abb4-1473-443c-8bcc-5cb37e1e61f4',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '6842053b-2bb9-433c-b78c-3396f470c6a9',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '7c89452c-cdeb-4c78-a172-a51ed63a9674',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'label_x',
     '-71.752704',
     NOW()
   ),
   (
-    '39c04cb6-26bc-4b07-abc6-af8fbdbeefd6',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'edbb4b85-4c61-4af2-82ce-c1995f46e593',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'label_y',
     '21.81663',
     NOW()
   ),
   (
-    'bdf6b749-b535-49d0-828f-44032ebc5279',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'f9032f6f-cc03-4c66-8763-9ea9dbb5fb41',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'd54e28f3-1ca1-4c56-b40e-bbfbbac68894',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '05678771-76a5-45e8-a0ff-fe93762d0657',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '45156c2f-3fe7-4a75-8d9e-08e285d42be6',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '12292cbe-07bf-4079-b468-7482bdccf858',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '419c9376-b305-457e-b75c-6703057befd2',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '595a90ef-693b-4b1a-a7db-f4807faf4ecd',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'b67490b6-4010-46fc-832e-0bee8f67a63a',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '6aaa3847-25d5-4894-b4aa-8a995d1d7136',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'population',
     '4649',
     NOW()
   ),
   (
-    'fccd328b-731a-4d7f-867e-872b6b50ae94',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '7f4b9066-58bf-4052-9e69-0570a68454c7',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'gdp_md',
     '44',
     NOW()
   ),
   (
-    '7eadea81-5014-4c6e-845e-6f6c708d34db',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '88c100fe-b002-4f2a-8e5e-e638ebed4d94',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '24f95864-12b8-4198-b9de-2c43597f9dfc',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '598a436b-2821-4001-a8a1-abcdd1d32d59',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '21235771-bc9f-4b19-8885-1f4413c0b50f',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'd611b1f4-e7cb-4a54-a0f9-b3c5c6953b11',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '3ead753d-12c4-4d45-96e5-79c2fe88e51f',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'c873ca36-f282-4868-a394-d76ecd4410a2',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'label_x',
     '-62.188252',
     NOW()
   ),
   (
-    '2a79b994-ecf3-481d-a91f-80e54f38ee0b',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '3ca81160-cd12-4708-825f-a31b9571ae3c',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'label_y',
     '16.73717',
     NOW()
   ),
   (
-    'b3e89d77-a4b5-478c-b92b-f4cf5af43109',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'f32b4a5d-4992-4b5d-b981-df4db33a5d40',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'a7bfa712-c17b-4fca-9505-321b76758988',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '53de361f-06d7-4fb2-a6d1-a1c203c483da',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'fea56381-b0e1-4140-b173-c5a013a67941',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'f4c6caf7-13b3-4940-bf54-c885e7843b36',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '2a6dcb53-44f6-4469-bd21-d16d948b8d64',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '0d0b9933-65d3-40f1-93da-f8ceba771179',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '9c093f2f-1e16-4494-89a7-cb49b8f1d46d',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'ae5b442c-6c52-48af-a1f8-ba33a5609b56',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'population',
     '107800',
     NOW()
   ),
   (
-    '374e22b7-3a23-477f-889b-df48a30cf417',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'ef523b1e-6955-40db-aad8-da5394da3f59',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'gdp_md',
     '5080',
     NOW()
   ),
   (
-    '7546f59d-c5ba-4d9f-8eac-4b7edf123459',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '4fe9d9ed-e4ed-4277-86a6-46b1f79e7c64',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'bdbe6d22-5df2-46d0-94ee-d16bbf61cc84',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'cafb413e-579e-47d5-8ed9-5a66c6c7c88e',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'bf2f9257-1e67-49be-861d-f2b6a9d08979',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'f6d10d05-5273-43c6-abef-00d85a2abb3c',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'type',
     'Country',
     NOW()
   ),
   (
-    '4ab2f36c-87f5-4347-b35f-3c29b860a777',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'c9b2fccf-5022-46da-9cc0-1ed787f2507a',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'label_x',
     '-2.090146',
     NOW()
   ),
   (
-    '09b43b6a-4207-44a8-bcb9-e35a2289165f',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '3236edfe-9e28-4004-b0d0-80496f95cfe4',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'label_y',
     '49.220808',
     NOW()
   ),
   (
-    'bc2ba938-031d-4432-9cd0-d5c642e18f8e',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'b31d0901-a157-4c40-bbde-48ec19127e1e',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '2ba3345a-6a0d-4f40-b9ee-9a6974b9346a',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '757fe3cb-4195-4ea3-bc70-69ab08d94a93',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '0286f4df-8a88-460c-8e68-244d6422302d',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'a58d9bb3-b590-4ced-a69f-ad752ac60164',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '58d0c1f3-8df2-462f-848e-abf12d8fab37',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '7bf0319d-8f68-471c-89ac-c60adbbc0fcb',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'ac27d400-80cd-4c7b-9170-5c434b017011',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '3209f2df-d9fe-4421-a470-a8b853cd1d17',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'population',
     '62792',
     NOW()
   ),
   (
-    'e1dca73d-5e21-40d3-ba66-ff827841d242',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '478471e0-c3de-4c2b-a0e1-7df5455fae0f',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'gdp_md',
     '3465',
     NOW()
   ),
   (
-    '733d57d8-804d-43dc-ad57-d06edb3411e3',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '8f785efe-ff55-4e87-b87e-905f761a2652',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '04bce651-0812-4db1-b20f-a43ae9155f50',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'ab5ec422-2d13-452a-a30e-62cf1df94427',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'ee79a6a6-edad-475c-91c8-ca6ee94463fc',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'a00b0300-f80c-4b60-ad98-24ca70cf76e9',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'type',
     'Country',
     NOW()
   ),
   (
-    '47ecc2bd-971f-4645-9425-c836ad44447a',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '1fd95b5b-09be-4870-bea4-aff112630442',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'label_x',
     '-2.561736',
     NOW()
   ),
   (
-    'c9c66c41-ff46-45be-8e9e-cfe08138442a',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '7529a48a-7800-40a8-9afd-cd9b06016fbc',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'label_y',
     '49.463533',
     NOW()
   ),
   (
-    'a7e6444c-a44c-4139-ba2e-e69be09f6258',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '4a2df25b-583a-4281-a51b-b4ab119afa4a',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '8b9e3e04-5093-4416-83d9-7e4ae6ad7073',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '884bbc66-c261-4ba9-b26f-9035e6453126',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '298bacdf-eacd-48d2-8992-8a6421fd10ec',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '9bbc39e9-9520-4aa5-be62-aac36f2728a6',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    'b936eabd-2dda-4647-8882-621e0473e8bc',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '3f649e30-bc3d-44a7-a2a6-ce4086900749',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2c9cc11c-08bc-49db-bb5c-79720287c957',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '37299de8-5c71-4eb5-8c34-c10a63242ad6',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'population',
     '84584',
     NOW()
   ),
   (
-    '8f13445e-2120-4d7c-9cc7-7801c065b77b',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '4acc6038-c8e2-437e-aa7d-ea718698e2ce',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'gdp_md',
     '7491',
     NOW()
   ),
   (
-    '8063cd1e-078f-4680-9fb1-2c7cd523a611',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '279fe7db-d193-475e-a09c-2ab92cd764b0',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '42e27208-4ad1-434d-9ae8-64c60a85df48',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '4883be9a-b65f-4333-a736-57be0e412d03',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'cdfcf953-3a51-42f8-b65b-047a33db0576',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '27124209-8e0e-413f-b347-6ed8960cf78c',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'type',
     'Country',
     NOW()
   ),
   (
-    '09fd140d-e4b0-453f-a795-220bd63a4608',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    'f2670975-4666-48c4-be11-ecaa14c9e46b',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'label_x',
     '-4.530069',
     NOW()
   ),
   (
-    '2aa252ef-7ce7-4ee6-89cd-2b23aae70dc6',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '8b5ca979-985a-4cc6-a749-7a876770385c',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'label_y',
     '54.220833',
     NOW()
   ),
   (
-    'f466c159-f32a-4530-9da8-0c3e385f0689',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '4ee82789-eabb-42d9-95ae-340c8d37b89d',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '416acfe0-0478-4532-9027-eb79145f2835',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '3c603769-eaa0-4d16-b79e-ff5d5f718b81',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '67a06a45-a9db-46c3-bb60-9b946087475d',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '930d3075-0d68-4502-bed4-6a1685ca221a',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '7fae4e11-d9a3-44e2-a826-502b9522e955',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '62f08b25-43c2-4754-9a0c-78a3eb4ddf24',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '38b7cba7-6be3-4ada-9b92-5267a7650603',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'b76e6c2e-e97d-4fba-9e14-91c39e626b2f',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'population',
     '66834405',
     NOW()
   ),
   (
-    '41c74fe5-7d5c-4037-8a9e-e9e1c5f8ddde',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '7ee5c272-3c78-4413-bb79-a9acad50d1c4',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'gdp_md',
     '2829108',
     NOW()
   ),
   (
-    '4b752601-1e26-4070-8f61-6dd4e10227ec',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'a50493d4-01fa-4ed2-9935-294d7ee3e261',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    '68ea2845-a4c8-4888-b863-0a7682a68274',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '98d5c713-d673-430c-8783-f7671ec3c46b',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '75d7f709-cb1a-4375-a139-da56f6484b8d',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '0378b44b-6e8a-4033-867d-874702dcb87e',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'type',
     'Country',
     NOW()
   ),
   (
-    'cf3e6fe3-27b0-44f8-9065-9719231dea9d',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'db0ea38b-13d0-4b79-8647-16aea05be779',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'label_x',
     '-2.116346',
     NOW()
   ),
   (
-    '19a961cb-eeab-4095-90e4-357feef2c691',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '826e2162-a233-4aa7-963f-13d2388b218c',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'label_y',
     '54.402739',
     NOW()
   ),
   (
-    'd1a0c8e8-d6c8-4317-bae9-5cfadfe08540',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'e3996af8-0118-4bea-b3c9-60ac39df85f6',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '79dc270e-531f-4e30-a955-b1ea162a5a76',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '50ee7917-f00d-4b8f-987c-66fa60d58efa',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '32602cce-a79c-4024-a29c-0bdd1e38c208',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'c1248535-27d3-46c6-a18d-60cf0697c1cb',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    'f42cd3ef-bc26-4843-8a73-049922d230d7',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'e1287c80-92bb-4e7a-9513-3357ee2dfc8a',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '98e9fcc3-6451-46de-acd9-9d37c42beac1',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '5c1929ac-450e-445b-b994-f0c284c9ec3e',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'population',
     '9770529',
     NOW()
   ),
   (
-    '1fa8df0e-36ee-4a4a-be7e-a523a7005357',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '6cd8a88f-1f34-447d-8756-ac57c882ad31',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'gdp_md',
     '421142',
     NOW()
   ),
   (
-    'd20e59ac-f80e-4e53-891c-c6b48b3b2b80',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '1d9256b1-2711-4538-8abc-1bb70b333289',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'd0ac728f-7872-4d2f-835d-a984d38ee424',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '3507212a-b5c8-4c05-9d43-31a22f4d1e81',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'dd1a2661-a5ba-4f69-9087-0933d0f156f8',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '9011bf46-da10-4631-8917-0f9ef432b81f',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b9445491-aa1d-4a68-a5ea-5117fa718e15',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '23f3cbe0-97f2-41c5-80ac-399b1e25e148',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'label_x',
     '54.547256',
     NOW()
   ),
   (
-    '8bf83976-ff55-4fb4-915b-29ef241f6e8f',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '0dee93ac-5c71-4ea9-8708-1ea3825ef7b2',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'label_y',
     '23.466285',
     NOW()
   ),
   (
-    '5a523607-aa4a-4a82-97e5-696055703acb',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '2a2e869f-e2af-4199-9282-dea2aa4e45d3',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '4cdd6692-e4d2-4440-a3db-26c69576d628',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '4fc5eaf1-ee7b-45ff-bce7-d4d553005892',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '3d93b697-6454-4b85-8427-fdab05d7ce8b',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '1f3a0572-ecb0-4222-b741-2f1482f3bdc2',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '6b8b9c0c-f38e-44b6-ba07-89615bc2a91b',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '4390f2da-68bf-4bf0-be33-c48ef699f3ec',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'cf349bc6-2e26-42f6-995e-376f7f43eb24',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'b7f359d2-61cb-4341-b306-20780177ab81',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'population',
     '44385155',
     NOW()
   ),
   (
-    'a6e26df0-6276-44b4-921c-61003de38d16',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    'deb4fee6-19fc-4b58-8ea0-96d3c1f5ebc5',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'gdp_md',
     '153781',
     NOW()
   ),
   (
-    'ea44b5b6-c328-4a37-93e4-e3d838088514',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '4d7afd4d-9804-4212-984f-80cede401d85',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '0b7e11b3-868e-498d-8030-4dc57c051bbe',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '7f8663ed-0857-42b3-b6af-afa2b9fd0a53',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'b922b483-c6ce-4d10-b361-ef1fd9330fd5',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '1a411354-6650-459a-943b-2f1de5bd4f07',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '9f093cfb-9230-4385-90dc-54264f6a6474',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '2eb6a2ed-1671-4e44-8a70-cd6057b9eeb4',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'label_x',
     '32.140865',
     NOW()
   ),
   (
-    '5fba3e9e-cefe-47a2-bf1d-38a40a0347e4',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '2b758fe1-6547-4001-a6f0-f68a1faa1afa',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'label_y',
     '49.724739',
     NOW()
   ),
   (
-    '02167c6f-535c-4594-9692-c8b0f728bbc8',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '53913c0d-5586-4be1-be08-9e81ef4146ad',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '663a7e4b-be4c-4f76-a0db-002b297fdecb',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '2838460d-f7a8-4e7c-ad07-e5f43affb276',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '49d7c2b4-769b-4602-98fe-0638fdbadd57',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '16a59b7a-25ab-498d-a2af-b8ff79a4aa1b',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '043460e7-9640-4e57-a5fc-af278f9a0d2e',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'bc69b5cb-ad5d-4156-b36f-0af887b5349b',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '2eeca09c-fa6a-4728-b48e-2da487eef413',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '37fc2766-f029-427b-9b13-10457031d292',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'population',
     '44269594',
     NOW()
   ),
   (
-    '46dd0c58-c09a-4ab1-a28d-3218a18f1ba9',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '72de948e-ed0d-4fce-be24-ca05bd0fecb8',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'gdp_md',
     '35165',
     NOW()
   ),
   (
-    '4de72170-6620-4562-8962-9cede478c91a',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'adbab155-815d-48b7-aed0-a0ad03cb007c',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'c3557f60-e767-4ae0-876e-c4f9f4942a90',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'fa0c3da1-c89d-4755-8fd8-93951690035a',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '3b470234-3dcb-4b44-881f-85a71b00c31e',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'e9b01aec-a156-45cb-81ec-a54688510425',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f5922f97-7316-4c0f-9c97-5d5a16a5ff76',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'ecd753bd-b3dc-47ed-ac78-e783aa9d1bc1',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'label_x',
     '32.948555',
     NOW()
   ),
   (
-    'ece8078c-2f42-4ca1-9dd8-9511e54cab72',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '0e3749a0-fc4e-4177-80c1-4942e14c1b00',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'label_y',
     '1.972589',
     NOW()
   ),
   (
-    '69c8f4a8-16d6-44df-8bd9-47b56c985db1',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '0ca4a02a-d8b3-4f54-bedc-cb5473ab8189',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'f8e6a863-b7de-41fe-bdb8-73e3df030f75',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'c3d9eda9-002a-42e8-b8e5-cd9d052591ec',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'cd62ad68-ad99-48f9-80c2-0e1658bf8941',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '3dce290f-3b73-4f5a-9ff1-52c09b6733f3',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'subregion',
     'Central Asia',
     NOW()
   ),
   (
-    '66f314f5-6bf3-4724-8236-fd7594bcb178',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '5911a0d2-acd4-41bb-a07e-c25fdb44349b',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '42b50615-0166-44bf-84aa-b211d3cbb91f',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'f5b32244-7a73-4da1-b52c-647fc03e55c1',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'population',
     '5942089',
     NOW()
   ),
   (
-    '8d3020e4-b41c-409c-8da7-75a4cd825042',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '4caba8cf-b162-41f0-bbbb-e59193c3743f',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'gdp_md',
     '40761',
     NOW()
   ),
   (
-    '2dfef967-7cf2-4d7a-b9f6-357fd09ea9ff',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '2616593c-97cd-4e70-a586-f8fa7b0e9f71',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '51180a2b-09bb-495b-a1a2-45fea4127cd5',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '68b58660-d2fc-4058-8835-448bf623d427',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'be9cfab6-ede5-46c9-8cf1-1f500711a1ba',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '72cde406-f925-49e0-9a07-9d2da1e6f4dd',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ec9ad7ea-4bbc-44dd-8a82-58e17bb6b71d',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '961e2e4b-8473-4296-912a-34772cec798d',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'label_x',
     '58.676647',
     NOW()
   ),
   (
-    'd0a49cbb-d9b9-423d-9219-c3550136066d',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'f647a081-10dc-402e-bf05-541087b88db4',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'label_y',
     '39.855246',
     NOW()
   ),
   (
-    '8a4a54b8-2a5e-40b0-b11e-dee2e78ac072',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '9d9bea77-9958-4f15-8832-35ac22b701f1',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '6716df6c-1911-4dc3-8ab1-ab46a08bd84d',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '1da1ad29-66d3-45e5-aded-a78772ca7d67',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'd7ab11a8-2c39-4c1e-a2eb-12a453a70b30',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '4c467902-d5a8-44d9-ac8f-e4079648d487',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '161a3125-8fa7-4747-b737-00fece901847',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '88a79457-15b6-44af-9cd6-2db7e6fe9dd6',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'dc8a27ab-37cc-4cf4-a50b-ae6d20465940',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '254b6c63-4f53-4486-9bad-70b039e14cce',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'population',
     '83429615',
     NOW()
   ),
   (
-    'dc989e82-541a-40e3-91ca-61a7f9798032',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'cf42e383-4c9e-4ce8-86ab-dd9cb1cf667c',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'gdp_md',
     '761425',
     NOW()
   ),
   (
-    '7dd4a91e-ec30-40af-bb7e-54bf18bbc5b0',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '2575f456-3559-4fc0-a3c6-ab6b5ef4327c',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
   ),
   (
-    '2454e8aa-7e5f-4880-910d-50642e08f45d',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '992356c3-ab5b-472e-b658-b199e46d08c1',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'b476f248-1f37-4115-8934-a616b08f5b18',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '37bacec6-f4a1-450f-a775-9c0ade5f9920',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '31ec3bd4-8b02-4bd5-bd4f-905b017bb2de',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '34b93e78-6262-47c2-a632-dc86eb3a9ac9',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'label_x',
     '34.508268',
     NOW()
   ),
   (
-    '45f874b7-c7aa-4f58-b888-b7c49db49004',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'b27bb5fd-6e68-4e33-a800-8e508f390467',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'label_y',
     '39.345388',
     NOW()
   ),
   (
-    'cea96bf1-7eaf-43f9-8e05-0ea915893a89',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'a7498a72-b854-4037-a501-1594c1ac9148',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '8416f818-f8fd-449b-8665-7cabb5b75090',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'c9f3f0dd-1778-474f-9101-9075bc428d47',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '708a4fb2-ad9a-41e3-9544-f2d8eaed1a34',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'f09ceb54-8a47-4d7e-9f3f-b8f1d69bc652',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    '3d275121-391e-42f5-96b6-0e187f80a547',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'c3ed31ec-04c3-45cc-be9f-151f5f73f333',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '5a24bde4-0da8-45bc-865e-3e8e4273c386',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'a7989fd6-074b-4067-9655-80f2a56b41d4',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'population',
     '11694719',
     NOW()
   ),
   (
-    'a6d58f2c-c9e8-4bbe-884b-95dff1b96b8a',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'e1e488e8-8711-43eb-acd1-9d9be55ac1ef',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'gdp_md',
     '38796',
     NOW()
   ),
   (
-    '65f9d139-4b24-4e03-83f1-2226797fc314',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'b7e76a9f-8113-4d51-a1e2-f45e615906ef',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '99d87d75-bd7c-49d6-a09d-bbb15bc444fe',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    'eca97ad9-445d-45c2-9bb7-be7d7bec2ecc',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '6c5f960d-2701-47fd-b1f5-263d8cb4d050',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '2cf8b878-1fcd-41a1-9951-e55173e33382',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2e64a899-0c15-4fa4-9f20-f9d2c30f2aee',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '587fd2de-1bda-41f7-a341-101b5af3a3fc',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'label_x',
     '9.007881',
     NOW()
   ),
   (
-    '1722b703-0aae-48b8-b4a9-18c236cf4f2d',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '7e8af042-ddca-421b-a3f2-dcb206c1d252',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'label_y',
     '33.687263',
     NOW()
   ),
   (
-    'e65915f1-0d2d-4cd5-93c5-bb062eca3527',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'b43eada3-c65b-4358-ae2e-b9a7f29d8e41',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '4267e644-3f8e-4086-89e2-f744b9a53b68',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'd27d6e16-ad59-4bdd-a9f5-fd5ba23b5eec',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '7ddb16c8-2213-422a-841d-40ed292e1238',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'd42027a7-311c-49fd-9e56-d353a6db758c',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '3db4d815-6e62-4af2-a9ad-98a9d1ef4c38',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'ab0bd9a2-d293-4095-8e03-fde07a37c7f4',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '3b8a4758-c00b-4fc1-a6f9-b2db771bb26b',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '6968f41f-8fca-4998-a0e8-8c37d8e4dbd3',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'population',
     '1394973',
     NOW()
   ),
   (
-    '3e616021-6814-4ed9-a8bd-5c17108d80e1',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '0cbf6d2c-bf92-42a4-b34e-9669a6306b6c',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'gdp_md',
     '24269',
     NOW()
   ),
   (
-    'eba17139-1dc9-4be5-9c2a-217fbb1d4d4f',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'b08a69ba-cffe-46e8-ae79-d6d4189d990b',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8abd2530-4d0a-4d8e-9f2d-9d876749fa0f',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'cb282582-0ce0-4b85-9c78-475214f706bc',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'f9a96d54-b015-4c53-a426-3a0fab73305b',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '538d1f41-02cc-417f-a5e6-2dbdde0ab3a5',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '4075a1df-a023-486d-820a-0d894a99eae4',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '62df3fd5-9363-4bd3-be04-0eb5e703f24b',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'label_x',
     '-60.9184',
     NOW()
   ),
   (
-    '70e8175f-c08e-4fe6-8f29-d98723f7cfa9',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '71b04454-3c5f-4037-b9c6-b0700cc279bb',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'label_y',
     '10.9989',
     NOW()
   ),
   (
-    '11de111c-e2a7-451b-be71-7414a7828cb1',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'd57b7322-7092-43e9-a44c-449748e9ed8a',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '993a94bc-cfbf-42d6-a00e-e517ba1a083c',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '0f3eac8b-22fd-4635-9dd0-796146024c42',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '71357a7e-ffa9-4d5f-847f-e20004ee8aae',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '33f5c021-fe8a-44fd-b19b-fe25cecd7a65',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'fa44d7fa-1bc6-4652-834f-89dc6c60b70d',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '754f7446-e07c-4e49-8ac1-36f02842f4f5',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'd0ffc069-cd22-4fb1-a5bb-be55e8311ac2',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '5019f14c-81a3-44e6-9724-1cad1028838b',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'population',
     '104494',
     NOW()
   ),
   (
-    'b94c5e32-eb92-4888-82a1-5e30db451f67',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '9d3d985e-fcaa-47de-8929-306e5e7a4d78',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'gdp_md',
     '512',
     NOW()
   ),
   (
-    'd50e90de-f596-43b7-8c79-3ce1c9757016',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'f964f347-1e8d-4a47-a173-680312279a40',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'bb60d7b9-4735-431e-8330-d52559684b1f',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '69b27c5d-1022-4c24-80e5-fadf0354786b',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '40564973-61d7-4035-bfce-a26581a9b31b',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'ccdce1c8-89ac-4f7b-a290-5b8e56834a3e',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f9aa2b8b-582e-4541-9bc9-20d0d2741dd5',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '19dfadb1-432e-4944-bc99-15dbaec19784',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'label_x',
     '-175.163014',
     NOW()
   ),
   (
-    '9267548a-7d32-4466-afda-7ef6a7a421c4',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '4066f29b-a12c-44de-8f55-b34bebe3ab1c',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'label_y',
     '-21.210026',
     NOW()
   ),
   (
-    'f06b5a8f-2377-44fa-84b7-30d346fc9d00',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '2dea4f1e-508e-4d79-a5be-633ac192ea73',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '9364351a-7b40-42c1-9a20-1699a711e312',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '5e4d92b7-2c3a-434e-bf4f-34acb8e56e0b',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'fb4cf554-c9b4-4ab7-8671-0ca9257f3ece',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '928a3401-c2c9-431b-b35a-37b3eee8f1b8',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '93dd4c51-608e-4563-8ab9-ee1a573e8b1b',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '14705982-2019-4407-be67-c2593798bb56',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '73ed01a5-fca2-4ee2-be56-3e45a74ef419',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '90183087-c17a-40f9-b2f9-d23a74c57289',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'population',
     '8082366',
     NOW()
   ),
   (
-    '70edbb7a-aaa9-4597-98a6-9008bbca9fff',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '9613c60b-c877-479a-b730-f80a871933cb',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'gdp_md',
     '5490',
     NOW()
   ),
   (
-    '48749f41-0c78-414c-96ee-68316299d23b',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '70c1f1d0-9adc-486d-bce2-c4e9396d5c15',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '452cb5d4-a370-4d0f-8f5a-09e9beb1c057',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '032fe90e-2b11-42aa-a8eb-e5fbe0d432ba',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '8e00730a-9e56-4d61-9378-399a2d471791',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '148e3c86-6b9b-4f6e-a314-a4fd10052634',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b3c2d104-4882-4b50-8e04-27b35b8b1570',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '2ac02e73-ff82-470c-9b24-174cb793f4ea',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'label_x',
     '1.058113',
     NOW()
   ),
   (
-    '89c7a72f-0dbb-465f-aa17-911f191251fd',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '0b1ebab8-9b62-4dc6-9c1b-b627b83309c5',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'label_y',
     '8.80722',
     NOW()
   ),
   (
-    'b2ba26c9-ebef-404c-bd14-d815344675bc',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    'bf702037-d886-4778-b879-7be5f00d64e9',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '6f459a4d-f29a-4890-abd7-5be49a630832',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '261b6019-4814-4cb6-9e10-037df7c59a7e',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'cb6cee21-6a06-417d-af8c-43f8010b83d1',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    'a36de633-b7eb-418e-aa36-3110ab75ed4c',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '72b14474-e5b6-4d12-938d-33e7b45010fc',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '2773cfb4-7a85-4add-9a85-da0e4fbc291f',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'e4c00d9c-e8f4-4020-8642-0e4c27d7825d',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    'ab784942-35e2-40c8-8996-642fe646e09d',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'population',
     '1293119',
     NOW()
   ),
   (
-    'ae7a9ae0-83f1-430e-bf0d-c9068c4caf76',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '4224ef63-ece0-4185-b4fe-cbb29cb8a400',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'gdp_md',
     '2017',
     NOW()
   ),
   (
-    'e5c95c2a-f0c3-437a-a865-1e8544b59711',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '4ded96cf-394e-4f34-85d3-8826790d3425',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '583b3fa2-900a-4841-8ae8-b6a9b26cd199',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '72dbcf9e-c7e4-4933-b680-6d7319aaeedb',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '78562ac9-ef4d-402f-b72f-cabae18c875d',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '2871ca34-8e5b-457c-b894-525c68becef3',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'cebcec6f-f9d7-49d1-bd89-0b15ced53235',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '115f7146-0138-469d-be76-584a30793628',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'label_x',
     '125.854679',
     NOW()
   ),
   (
-    '73212f88-50d1-4dcf-acc3-21b7e53bb016',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '7af2a209-9da8-4e5b-9a37-3635b54b6b5e',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'label_y',
     '-8.803705',
     NOW()
   ),
   (
-    'f68168b4-e536-40f8-b529-35f7442f1a9e',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'c34f240e-1cc8-4bf9-b582-b103a2596679',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '4e0e97c7-9fa9-4036-b305-a7a7a27c8c4b',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '41227032-0ef6-40bb-9c0a-c123c9ce973c',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'df26528c-2393-4b0a-a191-a4cf22e3dc2a',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '14cd8a8f-a41e-4e2e-a67c-134283a4da4a',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '021ac121-9b45-4dc7-8e50-536ed6a2ca70',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'a6d18161-7bf6-4850-b820-f3ba94aa6775',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'f6ab41dc-a9ad-4445-ba51-d67cfa8f8ae2',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '8b81e74d-900d-4cb1-812d-3d3b84445f63',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'population',
     '69625582',
     NOW()
   ),
   (
-    'd7443a7b-534a-4d44-9e1d-2da646b2357a',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '9c685c0a-a9a3-4817-acb5-f528be4cb87e',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'gdp_md',
     '543548',
     NOW()
   ),
   (
-    '8b0974d7-cfa0-4312-9634-8b332fc643d1',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '9fcbbda2-4a39-4789-993f-d8d980740512',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '67d1bf30-8347-4786-966c-729df559f043',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '6dbb0181-ef9a-4500-9b6e-068db87dc51d',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'da6a73e2-759c-4438-917d-901a1d7c9e78',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '22899fc0-bb62-45ad-b68e-a20b05f12ca4',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '9e142c95-c767-4623-80c9-ce240cace026',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '9ee28273-e5a0-4256-9de0-06777d8d1bac',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'label_x',
     '101.073198',
     NOW()
   ),
   (
-    'b73e4edf-3030-48e4-bfba-84182195b57d',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '53638338-24a5-44bf-8fcc-b08a333b0eb5',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'label_y',
     '15.45974',
     NOW()
   ),
   (
-    'b3948115-6b50-42d1-b7fb-c889fea12be3',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '88b48d15-3edc-4b2c-9db3-9be131f21571',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '86e80080-63b8-4149-b626-c287508a8401',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'c008d8ef-8d2b-467c-ba84-44b874965579',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '61aaded1-aac2-4e60-951d-7a9a593ed877',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'b71e7c56-05ca-460d-8674-bb24aee9efd2',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '0e4e17d7-9104-4697-b03d-d3368c54bb5e',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '1e7c7f8e-4c14-4fb5-95a4-d63e035ba417',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'c0ab067c-83f8-4df4-83e2-182caf1fb192',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '7aef46d4-49d8-4aba-bcf8-fd657b35366d',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'population',
     '58005463',
     NOW()
   ),
   (
-    'aa2ff661-3ad4-4831-ab91-f602bf819f00',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '1f21fdc0-0ffd-46f7-859c-e6317a961eba',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'gdp_md',
     '63177',
     NOW()
   ),
   (
-    '24bea46a-b605-4268-ac28-c34d7c97607b',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '4754941c-5089-4014-90f6-ccbd5e0b88bc',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '95305cef-bc5e-42ce-9dc8-620efc660353',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '7077b00b-84ce-419c-b52d-efa2fbf3203b',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'dab6822f-9742-4f45-bc00-b55a8ce6c111',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'eb6d8f66-561c-4f48-906b-fdcd7fdbc3ce',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8bcf983e-c466-4dd2-b7a4-bb7199ccf409',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '6c88706a-f475-4846-9066-65e0c829db0b',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'label_x',
     '34.959183',
     NOW()
   ),
   (
-    'b1ce6679-4706-4f92-a962-e1120b2c39f3',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'a28b2fe8-df58-43dc-8ed2-6c89cdf53c8c',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'label_y',
     '-6.051866',
     NOW()
   ),
   (
-    '70d7b3a7-ff5e-4809-8a9f-ac83283f9788',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '3347b534-53ea-4a4c-a885-bc5e7623f957',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'eb6167ea-ee88-4eca-a217-f90723ceb09f',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '967749f1-7990-4565-a630-53ea0774f3fe',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '2c7aa88d-d31e-470d-906e-2a6f1400b539',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '6fd224ba-441d-4d6c-844b-1004d94a64f5',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'subregion',
     'Central Asia',
     NOW()
   ),
   (
-    '157d684e-73f1-4823-b22f-0c57d09c925a',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'c1899d42-bc8a-406d-bc23-ccbfab4e6609',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'f4f23f49-5762-4840-b9ca-d451c977932c',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '2e808d2e-ed78-40e4-a54c-2e6d2461926e',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'population',
     '9321018',
     NOW()
   ),
   (
-    '7885309e-4109-444b-a5c7-c946fa6ed54b',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'f1f56992-7ae6-43b7-a23c-99398fc67061',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'gdp_md',
     '8116',
     NOW()
   ),
   (
-    '1efa1708-aa70-47c3-aafc-cc75a5bcf29b',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '7255664b-5e65-4e38-acfa-f4883232d868',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'cba26084-ea7c-4f4d-bebd-486702d81fe1',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '8e4e7771-4a81-44e6-85c1-0a292d37ebe1',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '1916656d-0abf-4978-a411-12df5bbd8548',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'a780f380-e6b4-483a-9589-c0ff61394c97',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f8e4ff25-2149-460f-8041-03a552542291',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '715c962b-eae7-4c57-8cbd-41a9e00b88ce',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'label_x',
     '72.587276',
     NOW()
   ),
   (
-    'fbb45671-deca-4dd7-9e64-60ca4bbfa9b5',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '64bd8513-5ce5-42cb-8c53-f5a3132954b2',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'label_y',
     '38.199835',
     NOW()
   ),
   (
-    '3f5a0da7-ed8f-483c-9c1f-8d9d85a0135d',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '64b2a561-d98f-4313-a726-13ad31aaecad',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '3ad2096f-c434-4df1-9c5a-38bb18b0e4da',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '59851dfe-8973-4779-af89-28771912c50c',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '0d65b2c2-951f-4488-8a78-d9bdbd2f4d44',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '2275a9e5-856b-42f8-b3fc-9baf469ad489',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    '9ce8cbd1-e988-4875-923d-34082958b761',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '8e1987eb-ab8c-406b-bc7f-54847aaebea5',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '39046a43-6878-4d47-b8dc-8cc2cff753cd',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'f7bbcb3f-b07c-4f25-a055-19490748c6eb',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'population',
     '23568378',
     NOW()
   ),
   (
-    'b15228f1-1dd4-4122-8e69-95f1dc2306f7',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '3b59df4d-69fc-4da0-a772-f3326d60d4ad',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'gdp_md',
     '1127000',
     NOW()
   ),
   (
-    '7e8e5322-0010-4c9a-9a38-e7965e63d2a3',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '8162e713-7218-4c79-a19b-9fb09dc79876',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '2d256a8f-0db0-46d0-9f3c-bdaabf18dab6',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'a4c10424-5f0c-40f4-a337-70fff60bffbd',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '91ee44fb-9edb-4a1c-a290-43dce942b2c6',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'b8c4e418-a287-411b-8182-22ebb497e114',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0fb15373-a032-4625-80e2-54895f4988af',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'ac04d4fc-7da5-4e6f-9bfc-caa7243a9623',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'label_x',
     '120.868204',
     NOW()
   ),
   (
-    '0615d3f4-307e-4de2-890a-0e2bee8242f9',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'e27e0265-91ed-4f68-8d41-8750e4d66243',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'label_y',
     '23.652408',
     NOW()
   ),
   (
-    'c1389e59-54a2-4987-b0fd-478703261ad5',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'db43edbc-79c2-4f79-a409-c71393b21760',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'd696db12-7315-4af9-a3ca-51834076ad39',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '68027970-e334-41a4-8579-3d09d1f047f6',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '287c68f1-f157-49b2-b85c-695fbd4f5d80',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '24c7254f-35b1-4921-b541-8e22093db662',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '877b012f-48f8-43c9-881a-bf2fb30ac48b',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'ef94b020-c3ad-4ad0-81db-a5619768bfcd',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '9a6eab6f-870f-45b8-b17b-6fe8ecf5c24a',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'df4182a3-246d-427d-a8b6-ee296672c156',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'population',
     '17070135',
     NOW()
   ),
   (
-    'b560aa04-3c3b-4750-9512-5196e59480d5',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'b9144f5d-a3d0-40bd-890d-497e869e8385',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'gdp_md',
     '98830',
     NOW()
   ),
   (
-    '543a0a52-9cb8-4040-9ad3-da7dc9dae71a',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'bdd75d24-566d-4264-9744-9136752e00f4',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'c9cded51-e012-46ee-a5ff-34f17fedeb39',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '88c48464-444c-4186-93d3-f1f6e27d0608',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '5442e821-0338-46a4-9f4a-85ab8ebe5221',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'b131e158-1a6d-4732-bf5a-936ad3f5f6d4',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '56b5359b-5ab9-458f-870d-286454c71d25',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '505a6747-25eb-4a87-948e-e87aa1d3bbdc',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'label_x',
     '38.277783',
     NOW()
   ),
   (
-    '6def260b-a34e-4b4a-9cb2-09ecaf23eab1',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '3cf485b1-1424-4e24-97ba-d536333e2268',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'label_y',
     '35.006636',
     NOW()
   ),
   (
-    '21463141-b5f8-4453-979e-4253a065606a',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '91e3e2b5-4aea-4a02-9d92-5cc149b69ba4',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '67adc79a-db76-416d-b1f5-d8411b1cd493',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'f1bb8f39-9d78-435d-bd87-e03547cc3cb5',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'd9d701aa-7129-4bf8-b479-6c11a70716e7',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '0c82614f-b5e5-4ec8-a3cd-063d7fcf7afb',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    '1a3357aa-4874-4ccf-8b4f-5da195d46fb7',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'cd5561de-6618-474f-aebf-188fe633d844',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '8f114cff-85b8-429f-855c-7f3f749f5e48',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '4dfbe1db-4251-4c35-b06b-bf838ccfe172',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'population',
     '8574832',
     NOW()
   ),
   (
-    'c9843b0e-d989-4433-9287-9d00ffe1387c',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '918931e6-37ca-4110-aa1d-2f3b197dfd23',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'gdp_md',
     '703082',
     NOW()
   ),
   (
-    '8c907e57-3c4b-4368-b655-144afeb419a3',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'b8c528d1-826b-444d-8c31-8a82d099a144',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'a97d0c86-d36e-46d0-816d-5e574d2bb794',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'c22da4ad-fca3-4148-bfd6-baae1a33f516',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '39c77c60-efb8-454e-afb8-2f483290e7d0',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'd4b4f57e-4a9e-455d-9630-b38b3db94848',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'db483323-e547-4178-a178-f6850ad894dc',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'c4123b4f-04aa-46d3-9103-040e3e3ca1eb',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'label_x',
     '7.463965',
     NOW()
   ),
   (
-    'a9f884d2-fad3-43f0-bc1b-f9bbb4dd3dd3',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'c016fa06-7df4-4ca2-bf5e-2326e94716d8',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'label_y',
     '46.719114',
     NOW()
   ),
   (
-    '948206eb-32d6-4029-a7e1-c619555ce635',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '5b14f282-a2c2-4a74-8ce8-4b594c28e499',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '7fd12ae2-925a-4b7e-99a7-0500c40463f3',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '4abf86f4-41ce-43f1-bd9b-5f8a1fa6d2ea',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '189ae7e0-240c-4b54-a571-968a09110945',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'c10334b2-56f9-4da6-ba41-7b6fb43f69c9',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '42702586-6acb-4069-8d7f-e95269fc87f5',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '7c2b9b5e-606a-4110-9eea-e7573c70fd90',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'd7f0b738-f7c6-45ab-a157-b9d76961f5bc',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'c19057a6-38c2-40c3-81ab-fd1516de5fdb',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'population',
     '10285453',
     NOW()
   ),
   (
-    '96dd79a3-8d9d-475f-aaba-1986c9d6b091',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '520ad1ea-1313-4bc4-b0d5-daf7ed27cfaa',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'gdp_md',
     '530883',
     NOW()
   ),
   (
-    '066fe166-c83b-461b-9c32-6b9f45201003',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '613d2b6e-8b3b-4d99-85f9-635126e52cf7',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '86a6e0f8-67ac-42bb-9c48-897886243733',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'a55372b2-ff81-4493-9f01-790ba283affa',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '9d0327f6-bdaa-4255-ba7d-99587dd6afda',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'c7fb3690-5740-411b-a170-76fdb54bb30b',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '20960393-a0ca-48e9-8dd7-86e6ea914857',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'ae551293-26c7-4e52-afd3-01c899192d6c',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'label_x',
     '19.01705',
     NOW()
   ),
   (
-    'a5237f32-b09b-42f6-8659-94d87cfb578d',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '933745af-9a15-4580-92e0-87fbf93bb381',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'label_y',
     '65.85918',
     NOW()
   ),
   (
-    '6e389072-c0a3-4134-a34a-694e9ac38f71',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'c2559512-6960-4bbd-8091-d7dffb8a7fff',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'c2a186cc-c999-4836-a1b7-87dfe4fe3d84',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '352fa57b-531a-4dde-b0ce-8274f712dd99',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'c879c753-57c7-4028-b213-07f5865210db',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '20bb458f-365a-4ff8-b716-bc244a4c370e',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'subregion',
     'Southern Africa',
     NOW()
   ),
   (
-    '806ef95f-692c-4128-99f8-0754501b6656',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'a6236a1e-c25b-4982-a743-7c40708e7cbb',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '3238a635-f0d0-469c-ab36-84577ab4bdec',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'b0f31ad9-f0ac-4298-aa17-0e8fc3d12683',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'population',
     '1148130',
     NOW()
   ),
   (
-    'ee276169-ee1c-4351-b2b7-e3f5e162b912',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '77c02cbe-3043-4468-8783-6ea7bac44bdf',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'gdp_md',
     '4471',
     NOW()
   ),
   (
-    '43a46207-cc9c-4d7e-909f-b9c29265a32d',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '97bf65c4-d395-48bb-8871-d335acbcc971',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '2e6d7dec-a7cd-4c52-8b7d-3a5558fc726d',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '4ec915ba-c6ab-4d59-93ca-48f5d92f8ef0',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '0864c4d2-06a3-48bb-9a12-b40b6012c69d',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'b6ca73b5-f706-4117-8d6d-d4811e2b2363',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '454d54dd-ccd0-4392-b687-4f4202eda8cd',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'c571dcbc-c265-42b3-b53c-bf4404cd2d4b',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'label_x',
     '31.467264',
     NOW()
   ),
   (
-    'e241cff8-8164-4943-8d67-df6ab4b38edb',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '3f7a4664-46d1-4d33-a410-c1996c8665aa',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'label_y',
     '-26.533676',
     NOW()
   ),
   (
-    '87685471-76a9-4a08-9a52-58f2e7a89093',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'de55d64c-a57a-426d-9ca2-bbe42a4c1ab1',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'e220f1f0-6f1a-4400-bdbb-631e6c0dc403',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'bf3d8604-2135-4842-a69c-7afcfe804bca',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '7c2fcdf0-60c3-43e8-ad70-27ce104d1077',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'be21fbb9-e250-4a46-8f77-860605f87eee',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '04c4b52a-367b-4716-9b60-29016f0272b8',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '3f15b897-870f-44b7-b574-38b71fc453f9',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '955713b9-8c42-47e5-8da7-c01c9512e55e',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '82f6dafa-ad22-4c3a-b9ed-c6181204c860',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'population',
     '581363',
     NOW()
   ),
   (
-    '39e15647-b29b-4c32-95fa-c077ca15fe06',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '490cc64d-cb2e-4994-9f43-46d9a70902db',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'gdp_md',
     '3697',
     NOW()
   ),
   (
-    '2431cd1f-9577-43ad-8a2c-192ca5eb6fde',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '4c73e453-3736-4477-a0af-7184433adf66',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '783c7d40-b902-49a7-a95d-2cad4479ffdf',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'f417cb80-610c-4d33-b3b1-f2e6da93d129',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '58919723-976c-467a-ab9f-a35f6bc35a3d',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '5397cce4-19b7-4036-8174-b873d69fc705',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '488377b1-0e0e-48f5-a6d9-06f130a988ba',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '810f631f-7d08-4fee-abe5-7766c4170a74',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'label_x',
     '-55.91094',
     NOW()
   ),
   (
-    'f5256c14-7f1b-495b-a677-29101b3000bc',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '2c021212-ce8a-4f25-9069-98af058dcc52',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'label_y',
     '4.143987',
     NOW()
   ),
   (
-    '4b1a2362-6a49-4041-a018-a045fecedcc7',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'bfe1eba4-cd39-4208-9ff4-ffa2125f5041',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'b762de32-c253-454a-84c5-22cc61c251cd',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'd6707547-2f0b-43ef-976e-b39200de1f1e',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'f74dcc8b-0156-45bf-8dec-f682a96804c3',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '6f35d906-28ab-4cb1-8935-e186edd37ea6',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'e5e033a4-172e-405b-858e-dfd98ace0230',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '78d0a780-4354-4451-9c19-3169bd2ac713',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'a09b1518-d40e-47ed-b569-e4cdf70dbc03',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '7f16fecf-fba8-422d-9edb-86f861b051f4',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'population',
     '11062113',
     NOW()
   ),
   (
-    '1fd7e620-3e3a-4aea-a363-fb2e6bf7b73f',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '1438f1fc-df95-4f2b-85a9-957445f5d08b',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'gdp_md',
     '11998',
     NOW()
   ),
   (
-    '441ef223-1a4a-4b2e-a5d8-101b0e0b597b',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '78179e5c-a815-4910-b43e-59a5744df09d',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'f0da297f-26c2-48dd-8447-6a95c96b4d03',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '54e4931d-c8f6-4d74-bfaa-cbb3527e0f46',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '8ed811ab-177d-4e84-9da9-bf71870d0086',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'eeb67d96-e54c-46a7-97c8-2e5f86b25573',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '01b45a62-511e-4b0a-86dc-cea3c3748fb5',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'd5aac11f-936d-4e9d-988c-bd216cf3048a',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'label_x',
     '30.390151',
     NOW()
   ),
   (
-    '8d43f4f0-d939-45e1-bfba-a26ee0c41d34',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'c1e2381e-3cd0-4056-8d33-81440ff42770',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'label_y',
     '7.230477',
     NOW()
   ),
   (
-    '292f3ed8-9c27-45bd-b44f-a7b55456a0a4',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    'd3eb551e-425f-44e1-92cd-2063fdf9d5d2',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '77f48b52-80e6-47c0-9b7a-ce19106e299b',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '25cdd024-1f51-48ef-81c8-0fce2ffc858f',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'b8811642-ad8d-449c-9dde-ea62c9095da3',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '64fee9a3-485d-43c6-8d2d-0aecd25aa2e0',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    'de9c32c4-ecbe-4848-8494-750454aa75e9',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '06876825-bd16-49bb-84cf-4956062e0f06',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '95d67519-1139-40d3-9373-076df1ef4baf',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '083a6258-4c1f-4300-ad30-a262f06ad093',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'population',
     '42813238',
     NOW()
   ),
   (
-    '630560fd-cdc1-4ed6-98bc-22bce6d91107',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '6ec9b674-5e3a-4c45-b530-d3e002e062bc',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'gdp_md',
     '30513',
     NOW()
   ),
   (
-    '9e4b899e-0f5e-4ad3-983a-9380f19731d7',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '782b9224-da9b-4374-ba80-843a49603d36',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ad5b3fbd-11ad-499b-8a1d-e69a2ed2311e',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '752e62a6-a336-45c0-81ed-afca800458f9',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '7ca0fe88-44c2-4e11-aaac-b6f508727542',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    'c1863ea7-b000-4a8e-8982-10315292d4b7',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f19f9076-ba28-4763-a276-feee9966658b',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    'b3f157f7-3845-4fa7-ad79-90c9d7c8ba92',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'label_x',
     '29.260657',
     NOW()
   ),
   (
-    '20c7f5b9-4935-4581-b65e-bdafc4351450',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '03e5330d-b6e7-463a-aa13-45c50a5c65c0',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'label_y',
     '16.330746',
     NOW()
   ),
   (
-    'e13ad3d3-049c-46e9-a76c-06153c870cc3',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '3a249ff9-e4a9-4967-b3b0-d6d6679d5fa2',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'b1db4742-2ba4-42ef-ac79-0727089ce6c9',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '2189c264-1fd8-4498-8291-0c1383b46815',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'aafc5f8c-5882-4c56-88f5-9f0a0de605de',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '97d55788-1eb5-4e07-8bbb-ae048f92153c',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    'a039ef8e-b75f-4885-a44e-312fa2a0cc31',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '38624d3c-0f62-4cde-bbf5-626bf761bad2',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '56fec476-476b-4cfc-9045-c6146dcf4072',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'da3c1df8-d69b-472c-9e60-b1d6ffc5d03d',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'population',
     '21803000',
     NOW()
   ),
   (
-    '86845bfd-2e8c-4051-8c0d-ef55a5743cd5',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '5b93bcce-4141-44eb-a7c7-64f69a8989ef',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'gdp_md',
     '84008',
     NOW()
   ),
   (
-    'aec7275a-917f-48a3-83bf-ebb9fb0f6ea2',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '307f0d03-e965-4a62-b9bb-6834d7f0b567',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4def9e9a-f0b6-45ab-aa44-3c7ceb161e75',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'bbfd6c0f-5bf9-4724-8410-03bc6654af71',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '2ed6a5ba-00fc-4463-acd2-e9ad9086087d',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '22f397e9-6d66-4cff-851f-c73a33233302',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '095af3dd-8ee7-4e23-8fa8-9bfa9c11d245',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '9e15dca6-ede7-4299-8220-70621981ebb8',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'label_x',
     '80.704823',
     NOW()
   ),
   (
-    'a1b7731a-773a-4d01-a611-1082c06fdff4',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '33559e5e-91b5-4e03-9eef-865a65c83d4a',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'label_y',
     '7.581097',
     NOW()
   ),
   (
-    '311cd79c-0362-45b1-aa6c-56792c949f60',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '06e48898-0bf7-4f6e-8acb-06b3ac9afec3',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '66d8f3ff-9864-4990-8ffc-c08ec89cbafa',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '0893c3bc-6834-4255-b0ed-5ee48161978f',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '7c5f8c00-36b2-409c-95b6-befb87212a25',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '1b43f610-68d8-4a71-93c9-a450e3940f44',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    'bd94c269-8597-42a3-9101-3fc87275bcc5',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '79289661-8476-449b-88e5-d4720ed53ea2',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '3057ac51-7683-4e47-864d-1cf866a25880',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '70e87e32-ce14-49e3-8440-6aba28b88c2b',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'population',
     '47076781',
     NOW()
   ),
   (
-    '61b6cc72-20d3-4bd6-ba04-a9155e202189',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '4f17c05d-b0fd-42b6-a46c-80e65de76225',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'gdp_md',
     '1393490',
     NOW()
   ),
   (
-    '3fc3a693-cb18-498b-9e75-1f7adf725a74',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '579ea49e-a369-49f0-926d-855ef6782867',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'e788c68c-4d43-455d-a756-31eccbd634c9',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '9d0fbed7-5c94-4ab9-80b0-777df58a51a4',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '8b9a5b0d-8aed-4996-9965-5d90bffe3cf2',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'dc2f300d-8993-486c-9e27-851cb99eff59',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b749ffcd-f467-46a1-85f3-3dcc905d1381',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '706d2613-9c5a-4676-a8ed-7c80a85c0984',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'label_x',
     '-3.464718',
     NOW()
   ),
   (
-    'c0282c5c-6f95-4fa3-8a19-bc9e57676e5e',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '32d3bbf6-8af4-4b81-8bb3-9ca5d5a3b4c6',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'label_y',
     '40.090953',
     NOW()
   ),
   (
-    'd570cde2-c85e-4ec2-a385-5d437f32eb53',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '1ff15c0f-0e56-4c85-8e99-99933cadc74d',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '2916b883-4d0b-4600-90fa-5a8c9a3eb8cc',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'f2e8c5cd-011c-4a3f-bbd6-9e4a02adee5d',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '67d66422-3cc1-4a52-85cc-08e4ba68ba0d',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '7cc48c93-de48-4d60-acdd-af8653a873df',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    '19c0f6c3-5c72-43fa-bfd9-9820efbc1e23',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'c995fbc0-d147-4415-9ce9-cab3d8c11157',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'c8c26a4d-0b58-43fd-9a54-da78ee5e433a',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'dbf3b175-870d-4714-80e2-63913e77fc81',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'population',
     '51709098',
     NOW()
   ),
   (
-    'c35f0ce9-822d-45e2-89ac-bdafa53a0739',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '6de0165b-13a7-4745-adc8-879f93b0bf08',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'gdp_md',
     '1646739',
     NOW()
   ),
   (
-    'a753aea9-6252-481b-b135-12d58cf40a57',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'b9b718c2-c25c-4a5c-ac5e-5a8e09ccfb6c',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
   ),
   (
-    '58b31773-6297-46d0-a23c-2e1fd55acc05',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '0ac07f8f-fd83-449a-b5ab-4441cb2332ad',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '3907b572-be64-4b86-b2ff-1ba81b30b831',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'bc67c425-7157-4a95-9267-9d96ae6a7b98',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '7c68d927-cbcc-4e57-bdc7-89bd735acaba',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    'c448ac19-1858-4416-a52d-0d76dd5db4c0',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'label_x',
     '128.129504',
     NOW()
   ),
   (
-    '8ff1dd42-1e31-45f0-86be-76e7a8f22619',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '35e0df5c-461c-4bee-b9cd-3987cad6b123',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'label_y',
     '36.384924',
     NOW()
   ),
   (
-    '67c0b355-7ba3-423f-8695-713049855e24',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'b55fd037-737f-4920-a41e-3f6714a86e9b',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '09f14fbc-bf49-47fc-b29d-5b78e4627650',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'b77e4927-6bd8-4e2b-8ff0-b020eb001b7b',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '57a5e1de-d4e2-4992-85bc-cb78cb02eb9f',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'ec9c216a-44d7-44c8-85ae-eba58c7bb07a',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'subregion',
     'Southern Africa',
     NOW()
   ),
   (
-    '720a51e1-235d-41b6-94d5-3c98c45d7850',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'd8ead8d6-71e2-4ca4-8b64-d38484e50cd3',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '4528d3cf-eb88-4277-9777-c826cd258c4a',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'b917c760-df72-4dca-be47-1293cbf55747',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'population',
     '58558270',
     NOW()
   ),
   (
-    '0caf6ff6-120e-4707-b698-5bc8a85abb2a',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '3615f471-62cc-43dc-a586-6f59e7f57c98',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'gdp_md',
     '351431',
     NOW()
   ),
   (
-    '93b36ecf-cb31-492d-8402-28ec9f76aece',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'af4f3bd7-e761-48c6-9f8b-02a6b4908011',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '405d1b6d-ca88-456b-8169-f446d10ef714',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '0521564b-ffc5-4e93-a42d-ce7125765a75',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '786df3d7-63bc-4c7a-9d3b-83caa784db2d',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '6d35ec59-9347-4288-824d-cab4a11f33e8',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'fde26310-3ee5-4454-86d0-1cbf86b8f12f',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '25d96fee-40b8-4355-a825-88b5a2889fa9',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'label_x',
     '23.665734',
     NOW()
   ),
   (
-    '8453d828-a151-4644-8162-4ca64b408957',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '30b4f8c9-2f0e-4516-8aa4-25a9495d0393',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'label_y',
     '-29.708776',
     NOW()
   ),
   (
-    '20c251bd-bdfc-474c-8063-e31440fe9233',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'ab82548c-b6c7-4cad-918f-9377eb98736a',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'b5ea33a8-01ca-453d-bbd5-26831fe5c398',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'e68d5120-4a0d-43e8-ae38-712be54df834',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '3b697476-f0af-4362-92da-1cd057e5ea6a',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '57700e84-3802-4c34-87e1-33da6a3145cd',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '62eb4c06-7058-46b9-ad05-088678177e71',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '2d70e978-af5e-4e94-bcc5-851a2bcea779',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '20bbc486-4789-429c-9464-d2f79672661c',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'fceeb118-5097-4d0f-a8f0-3ebb05bfe3b0',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'population',
     '10192317.3',
     NOW()
   ),
   (
-    '3303850d-b5b3-4fd3-adf2-ba8fc80c016b',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'ac9ef176-b899-407d-a05c-3c3401b470ce',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'gdp_md',
     '4719',
     NOW()
   ),
   (
-    'a9600461-59d4-4406-873d-e08b1f919651',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '59eb12c4-3ea8-4f6b-baf2-17827aa93f4d',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '241c4d1c-1e37-4e1c-89fe-d363ca0921d4',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '4ae1573b-fa10-4a5a-8f62-2c12c4471128',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '26ae1a06-b530-4dbd-95e3-61155c428dce',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'da7daf70-7a2f-43fb-aaf1-50922e47c35f',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c503e217-716f-4283-a625-0b163d979d9e',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '7b392062-5997-4632-9005-6328a4235b46',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'label_x',
     '45.19238',
     NOW()
   ),
   (
-    'e4c6d2a8-1dab-4387-8c6f-bece7a0001d8',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '41430a39-641f-4bfa-a830-489e44d0da3d',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'label_y',
     '3.568925',
     NOW()
   ),
   (
-    'a689f108-3a65-48a6-a6d0-b34b11137fd1',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '97b0ff71-bceb-4d84-b97b-72ba403df03b',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '14fe2d1d-869f-4dc9-b50b-7fd969f74086',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '58ee57c1-ea3e-44b9-9236-33d3bdad589b',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'd1481f88-72c3-4958-bc07-4fcbdc70c1f0',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '69c62c26-4c00-4834-b857-cad4ee279c99',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'e6afb77c-bb32-42d1-b3f5-c0226460abcf',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'b0cbd64d-a07e-46ba-ac7f-cee1cfe19061',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'ec75466a-2081-4aa8-8bf9-82a4b7c8eb53',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '203eed7d-c090-4a28-944c-6768d1a518e4',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'population',
     '5096159',
     NOW()
   ),
   (
-    'b8cbca32-a68b-4a38-9ad7-6971785e9bef',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '02ab96ff-0e3c-4c3c-b373-0891263f392d',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'gdp_md',
     '17836',
     NOW()
   ),
   (
-    '79ccf09a-a07a-4191-a58a-5d5e67d490be',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '039a42ef-5891-4dc4-b978-4d5ee3db902e',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'dde3a2e2-9030-4037-884d-35913c690f72',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'b7be8a43-1774-48c5-be4b-07f8f500ad0c',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '0495daec-f621-4d30-9216-a5a036050b7f',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '5c954504-11f6-401d-ad9b-abecf6550f84',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ddef1650-abe7-4695-b462-7ed8158ec13b',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '9d35ca52-2409-422c-a415-40928bf31ddb',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'label_x',
     '46.731595',
     NOW()
   ),
   (
-    '73c2115b-e125-4e26-97a8-b80d64876c1e',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '82484078-27a5-4958-8882-399ab74bf349',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'label_y',
     '9.443889',
     NOW()
   ),
   (
-    '75df9e64-966f-41be-8ea9-e6b03af16481',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'a56ea808-1632-4120-97d8-e4b48e95805b',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '36888dee-56fa-4c73-81ed-ede457dfb26c',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'c8f0c06d-94f9-4e1b-98f6-3dab6ab45e20',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'bd6f5d4b-80c1-4cfd-a61b-a8ace3e5b498',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'faeb95c4-52b7-4e69-b54f-d28663f9da26',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'subregion',
     'Melanesia',
     NOW()
   ),
   (
-    '23328a93-0bf0-4dd4-bf6f-6a5182247f1a',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '0880771a-956e-438a-bdaf-f6d69e92fdc0',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'a12b88e7-4220-455d-af30-8b70ce57b772',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'ed9c464b-0c9e-4c09-a271-ca1b61f52628',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'population',
     '669823',
     NOW()
   ),
   (
-    '4bd951bb-e84d-494d-9799-690c5b90d825',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '606a3677-c4eb-4270-9180-679ba64156d5',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'gdp_md',
     '1589',
     NOW()
   ),
   (
-    '1600fa58-18d4-4552-9326-8fb79b03db01',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'dd358c6a-2a8a-4399-aeb0-dea7edbce94f',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '0098307c-58e8-470c-a7a1-a62ee5d572ee',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'ec2cf65c-6f98-4c9c-8f1c-37587dabf59e',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '5494f01d-f3a0-4b9d-8910-99ff7265b71b',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'a38457fe-bb7f-4945-88c2-8a85bb7c4b02',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '648a1982-729b-40c8-9172-d7a1244b39f7',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '52fd9f42-5651-4d46-a377-cfa20f855317',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'label_x',
     '159.170468',
     NOW()
   ),
   (
-    '8e45cb5b-3b38-4096-9280-70a4fc42611b',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'f2d0cfd2-1d14-412a-982a-a72ac45e9128',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'label_y',
     '-8.029548',
     NOW()
   ),
   (
-    '67ee1dfb-c6ed-457c-8910-e1f71a868ecc',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '8e374757-148f-4844-af50-e5a0e21b99c8',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '467ac159-fa7f-410c-bde4-edf206060888',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'a7509e00-c3b7-4519-a6dd-ca0715ea4ac7',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'c122e896-be7d-40b7-9d7e-57b5c1c45c71',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '0bf85b5e-5554-4a24-8984-e0675d450aa7',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '04f93a05-9bbc-400f-9218-b67a9176b0ca',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'b6fbec42-6c37-464e-853e-7c5be1d7d501',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'c797d7bc-8504-44f0-a038-3d11a8084d50',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '05b0d9fc-ead0-4836-95d8-7787529e3c71',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'population',
     '5454073',
     NOW()
   ),
   (
-    '9670cdd3-5712-4996-9f72-7f54f2fc8b01',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '3d190bf4-7beb-4536-9671-3aaa4f4a3828',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'gdp_md',
     '105079',
     NOW()
   ),
   (
-    '84fcbeb7-c67a-49e1-901e-5ade513c6f1d',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '85a1a634-dbbc-4831-90ff-621a892b637f',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '89622516-576a-44d8-a73c-d0cbc6f2279a',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'be9131d2-21b7-4eb5-a5cc-ee46fb0d7e17',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'b43540b2-a5e2-4b51-883e-18ce45fa7832',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'c0964f25-a838-43e1-b289-248e16cf8caf',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '1df79db8-9113-431e-a0cf-2bc1db4c162a',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'fe15c83b-3264-44ab-8b14-81d72aa6cd59',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'label_x',
     '19.049868',
     NOW()
   ),
   (
-    'e688c48a-d12f-4acd-8b96-b0b870e3e581',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    'a2a06ad7-474a-478a-84e1-86f50d3ac98a',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'label_y',
     '48.734044',
     NOW()
   ),
   (
-    '6dad02cd-1e90-4ca2-9d87-42dfc720d948',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'cc765bff-1ee3-4753-b06e-7a6dfc5ccb41',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'ed119863-8e4a-44dc-afa8-4f635f0ebcf0',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'b46c8b84-c72a-48a0-9b81-4c2335e1a732',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4bf1ae5e-0742-4e84-87c3-9b8aa0d9b654',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '88df9657-e3cf-4d77-bb6d-610d71d4baa3',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    'ca4a29c0-aefa-4244-b703-1e2e19b5c90e',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '17ab8cb4-84e7-4a6d-adfa-7274402e7ea6',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'ff61db8a-c2a4-46c3-88fc-2e5620b3bc9c',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '8f3b2d8f-b2c6-4106-a209-017c244fbb0b',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'population',
     '2087946',
     NOW()
   ),
   (
-    '840042b7-4568-4177-a6e3-0eae94b81f64',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '04a9aef9-097b-4e11-a860-09ee1bd14189',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'gdp_md',
     '54174',
     NOW()
   ),
   (
-    'fe8b78cf-1dc1-40c9-979a-520b6299ce74',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '0ccb5b79-b795-4734-a793-e926d01ffdb6',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '119fc4b3-826e-4f2d-a09c-786f18a10768',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '3124b573-f2f6-4710-b43e-5673ca26b24f',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'ceb55714-6fc8-4852-883c-6f59128506ce',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'db34b94d-3114-45ae-bf29-bdf546deb151',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '7df7566f-1a01-46e2-9795-6896e9a7e938',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '71a99371-3683-4a47-9860-5d5f24784923',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'label_x',
     '14.915312',
     NOW()
   ),
   (
-    '8a5532ea-76d4-4382-82b5-ad66282cf4c9',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '6c95bbd1-9969-4d16-997d-dce58bfcfa21',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'label_y',
     '46.06076',
     NOW()
   ),
   (
-    '55a4f248-b181-416e-b2f1-373dd9c6aa60',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'c49fc95d-5121-4cad-b07c-dd78f18816e2',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'cdd85ae0-2091-4129-962f-594a94fd35dd',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'ba27a4ca-a76e-4be8-a56f-ce9ff1971f6e',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '6028c3d6-dbb6-494a-b2c4-6dc03575a935',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '9b00621a-aca6-403b-a839-2bb1a921ca5b',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '2ff7f0f2-cf8f-499c-863f-f49774fcff64',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'e5e8be5d-7dc8-455a-aa4d-659885971399',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'd1a2aec0-80c4-4ae3-817a-21d0698914ae',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'f387fcd9-1972-4e5d-be57-e7d452da468d',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'population',
     '5703569',
     NOW()
   ),
   (
-    'c3427bcc-7319-445e-8f15-608fdfbbc847',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '20c35c0e-59a8-4e7e-b3e9-ee24f86057f3',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'gdp_md',
     '372062',
     NOW()
   ),
   (
-    '1ac3f49a-9eed-43f4-8a53-8c4a8dac97b7',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '594b2f78-1d1c-48df-9e17-f04e6c1ebd2a',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8dd20428-5573-4e2f-96ec-48a7452fdd70',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'ff1de8aa-db2e-4bd0-8ed1-b68cfa7dc3a4',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '23cb1522-3c6e-4f02-aee1-2ae0278ac905',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '1a815c66-2663-4ed1-babe-ce33147c640f',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '7aa267cf-38e9-47c1-8b09-6aca1b2174e6',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '7072cfca-3256-4533-ae93-d08effeca7bf',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'label_x',
     '103.816925',
     NOW()
   ),
   (
-    '79e80b35-ec08-4304-b3e1-645bc6d7f543',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '1e347977-71da-491a-9cbc-4e69309c59bb',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'label_y',
     '1.366587',
     NOW()
   ),
   (
-    '2d81e98a-3921-4d1f-82b0-00ddadc12938',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '11d9934b-ff01-480f-9771-36e73a929a0a',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'f0517f23-7c5d-4cab-8a4f-146dca16577e',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'a8198913-5a35-4e6d-b23b-5ea8e14c37b1',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '916e9e45-c0f3-4d3f-9983-d0870364f48e',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '0871b1dd-07cf-49e2-9dc9-8d9f3a8ab4eb',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '135a2219-ff84-4228-998c-7b28a54969f9',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '2d5ec7af-43ad-4f20-a372-421a696296f8',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '2b022fdc-7ce8-4788-bbe2-f4a1414c0874',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '73a592b0-3d6b-4e74-bb89-261b1ad79515',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'population',
     '7813215',
     NOW()
   ),
   (
-    '4997fbbc-253f-4ff3-8d7f-419a2ea543de',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '83822820-40b8-4906-ac0c-40ec24cc810d',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'gdp_md',
     '4121',
     NOW()
   ),
   (
-    '9bd26647-b694-437d-8eb1-eeddc093f3a6',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '52fa2fa4-87d7-4352-86a8-b2d8456915d9',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '99e28b54-edeb-4f7e-945c-6b75d4d695b1',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '3168009e-2097-4803-a68c-8946148598f4',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'f57be171-cccc-47a2-96b9-871b913ed04c',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'c1bec62d-93ae-4fc8-b8dd-3f90e6fd5f1a',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f3f1eef0-c20c-499a-bc91-2653804ad7c0',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '6dc48a5f-c21b-43f0-970f-d7bbc5e10278',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'label_x',
     '-11.763677',
     NOW()
   ),
   (
-    '0fc4d3fb-623f-4441-a307-9f11919136df',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '1bf0c4f2-c381-4bd1-92f9-2418844731b6',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'label_y',
     '8.617449',
     NOW()
   ),
   (
-    'bd636cca-d21c-4f8e-a886-b8c3389fa09f',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '3b69a2f2-1f72-4c90-ae04-4ca05d7cb698',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'cfe34516-df1e-41dd-b6cd-fe2be0912282',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '23c7e280-5f97-4de5-bd69-ef735a3273e7',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '588891b4-bd58-4dcc-bfdd-b2ddbe214e1e',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'c37f9e9f-8156-414c-8b9f-fe232fa0f933',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'b8ef4446-557b-4858-a88d-02a2a520735f',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'e65decca-41df-4501-a0da-611c66f33e86',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'c0ec56d5-0f14-42c1-8862-9605d6f554e7',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '837b9fbb-db11-42ae-92ee-20efd0bb5d43',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'population',
     '97625',
     NOW()
   ),
   (
-    '6ad640d4-432e-4225-a4d5-ce6cef6ada4a',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'df1cb472-7d12-4f50-94d6-3790907d250a',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'gdp_md',
     '1703',
     NOW()
   ),
   (
-    'f15c3f17-cbfc-46d3-b7cf-51d9d9dd0ae7',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '562d447f-d262-47df-a78c-71b421fd051e',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '59ea26d8-274c-43a6-a17a-c57a0ca17378',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '96fa9d0c-a830-40c2-9573-09c8d3282686',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '445683b6-f5c7-4e7c-bac7-91e0872ee431',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '7bfb06bd-c307-428e-b30c-36c749316392',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '6f5a6741-acb9-4959-ba55-cd9b12ceba42',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '4319e107-8806-4b13-9160-649d5f6eae51',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'label_x',
     '55.480175',
     NOW()
   ),
   (
-    'af731fbe-6267-45e1-8850-6da03f9cb646',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '9c7a893a-b3a2-47b8-9cef-360ccfbcb199',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'label_y',
     '-4.676659',
     NOW()
   ),
   (
-    'cb259036-6acb-466c-9f1f-631c3fcb8822',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'da87ebb7-0b1a-4cfa-b6ff-fa6e4bb4ccf6',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'd40aeddf-2983-4dcf-b188-7ad18de11e66',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'c03d7be1-a4bc-4ac8-80a2-ba911e5d3910',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'a4f0274a-ab78-4f29-828b-5a00b4931733',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'a5c3dc37-fcf3-4a40-a6ab-fc1658ff6181',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '1d8a573d-71d4-4356-b95f-70263a849fa7',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '37d37d53-07ad-4932-bffd-e1d7cc667387',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '15c66238-870c-41e7-9e45-256a94305f79',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '6e1a1cc5-0737-4522-9917-71f64a37fdf8',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'population',
     '6944975',
     NOW()
   ),
   (
-    '7790cf49-b740-4a93-9f6d-c39528d308fc',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '332a3e78-bd67-4f4b-a848-1288526c2707',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'gdp_md',
     '51475',
     NOW()
   ),
   (
-    'af839a58-acb3-4f3c-9cb3-3d401541208a',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '8bd3ea46-7a5b-4431-952a-90f8062b59cb',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ce496781-f575-4ad5-8afd-da2d7379a562',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '62dab8f6-c69b-4887-b756-51abac8e1027',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'a32074db-5667-40f9-a192-a1f62ec9a5b8',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'c6a7da7b-7a83-4f5f-9309-8c9859944057',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2f9dc2d2-bcd1-4b55-b845-1cf0ea8c1fd4',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '294c9d28-d2ca-4dc5-8e8c-18f6a69bad3a',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'label_x',
     '20.787989',
     NOW()
   ),
   (
-    '9d587411-efcc-4571-9ac7-215953c35206',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '260449d8-c2c9-444a-86de-bc432bcb2ef9',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'label_y',
     '44.189919',
     NOW()
   ),
   (
-    '4b4d29c7-78d8-41de-993f-5d3d49c896d0',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '66969625-239b-4ee1-9ed9-3337559c0bb6',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '65af1fdd-9f4d-44f7-b1e1-35b477924110',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '4fdeb591-56be-47b3-9d3d-424925e506ed',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '3e93d5f6-613d-40da-a719-45b6348e37eb',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'aa9648ba-1898-4a3d-b6ec-84012ec0e118',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '9d9b11c1-1356-4c92-b7a9-1b57296be738',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '95c9d19f-3310-4ef3-8dd3-bc836e180fa5',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '97ffce24-c33a-476c-83f4-3bc7b9dae399',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'f2de0d53-d72c-4956-8ad3-86ec94d5b74d',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'population',
     '16296364',
     NOW()
   ),
   (
-    'b7e3c3b6-3106-4cfd-834f-700b88671869',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'c3576436-15b1-40ec-894b-e1dcc374d833',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'gdp_md',
     '23578',
     NOW()
   ),
   (
-    '421227a4-202e-42d9-95ce-080f482b0636',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'edfe72de-7d2f-4a8e-9654-7fa61855762f',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '401ad29c-3f1b-4d20-aa4a-c456dfb059df',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '57f8a637-5bae-435c-bdf0-99cab58af429',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'f44c6b87-9418-4f9a-abb4-487b665832d6',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'c1fcb68d-85a6-42ba-b2f2-9937b258ca73',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f4d970fb-6010-41e7-b3b2-e192afd37801',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'fe640668-8b7f-4a2b-be6c-cfb42ac60356',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'label_x',
     '-14.778586',
     NOW()
   ),
   (
-    '962b242f-77c6-4b4f-85dd-9784de819c38',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '31eb23b2-a3a6-411f-9b22-a49a7c402977',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'label_y',
     '15.138125',
     NOW()
   ),
   (
-    'f153e53f-14dc-4f9b-9159-37b2b80cdead',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '62222dea-95e7-46ec-911e-f55eb610a9cd',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '419829b2-05e2-4479-9e8d-00f6f3944246',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    'b6a415cf-ce6d-41cd-8db9-313c30e8e9ce',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '21a5008b-eb89-4ed0-91b7-6189ee88a213',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    'f27b3923-f5ef-41d7-a67d-0137517f79ee',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '1a527517-cca7-4faf-b431-6126e1312f7d',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '81e0e8bb-8aca-48fc-934e-b1167ec89920',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '536da65d-fc9b-4963-a752-4a07399ec1ba',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '8e00842a-5849-48fa-b9b9-6e6b6365da35',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'population',
     '34268528',
     NOW()
   ),
   (
-    '388e897d-36e6-4b56-b0a1-c2987e3d04d6',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '3a803cc8-11ce-4aed-a192-d39ed410fb0e',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'gdp_md',
     '792966',
     NOW()
   ),
   (
-    '2ade9b68-8735-4cd4-b86d-c81e9df9a702',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '044b3d34-40b5-4439-80f9-4c78797ceefe',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'ffb2e408-db26-4404-8a97-0b91ff14f7fb',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '62c829ba-2f31-4c9f-bb1c-e6733e17d582',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'b6ba4a8c-f357-4c66-9ce9-7a28d0bcff8c',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    'f974bcdf-c66c-48dc-98a9-0f85eba3a721',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e81c022f-d23d-4e15-8788-94313e235ae3',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '574c6d57-0ffe-49b7-80f9-e49fbecdfa61',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'label_x',
     '44.6996',
     NOW()
   ),
   (
-    '4083c3f4-ebaf-42ce-8bcf-0b181b276e02',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '62fd2d18-7983-4e0f-8d4a-857fd855c90a',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'label_y',
     '23.806908',
     NOW()
   ),
   (
-    'e03d9e29-2c8a-4333-958c-9a3a6cf483af',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'd1ca3a83-8973-4681-b1ba-57ca58b044c5',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '0808f3c4-9d77-46dd-8ff5-24d5539ac05b',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '839cce74-1e23-47ce-9334-cf3a40871866',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '29efcd0a-ae50-4bca-a46b-335ed36c7f71',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '33460a7a-dc8d-45d4-bc18-8dc425ba3153',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '35b0cccc-5956-45f4-96e8-8ead546ab3da',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '0687a390-fc5d-496f-b304-0e657823e515',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '1f467209-a6e2-406b-9d08-c009aeac1d82',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '2cdd174d-4512-4dd2-bec6-633a3ce1581c',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'population',
     '215056',
     NOW()
   ),
   (
-    '61e16b01-7a6c-428d-9df1-386a9152b153',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '3fe4f213-a2a3-4bdf-a845-8fb6addeba41',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'gdp_md',
     '418',
     NOW()
   ),
   (
-    '26d8a469-28c5-4caa-862e-975bd706b86b',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '44e5284c-e67b-4fe2-9631-3a7da1d0d6fd',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'c1a91e49-f01f-4b4f-b30c-9eb256e70d12',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'f1c346e5-4e55-4c81-a8db-54b130c8db09',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'f6e4013d-f2c4-4abd-a5d0-30ffb28f12e5',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '24a7ce20-0a1a-431d-a7a4-92d5b246f34f',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '58e18543-aed4-414d-94c5-9c4a58ad1055',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    'e58d53c4-c3ad-4744-b5ee-67ca8135c12e',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'label_x',
     '7.021',
     NOW()
   ),
   (
-    'a8c73329-4a41-4b72-b168-0b7c90b74fb6',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '65bdbc83-816e-4054-919f-600080cfb0cf',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'label_y',
     '0.9709',
     NOW()
   ),
   (
-    '78ad82b1-3235-4280-94a7-34bfe1b675fb',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'dea4e0ca-624d-4cf6-883e-9d689d45216e',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'f07b89e0-feda-4116-b0e4-1728bb9cf8c5',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'f70ce825-13f5-40ba-857d-d2c749117757',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '89676326-360d-45e0-908b-159e7e78d2c7',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '81658745-692d-4c79-b644-ff60e3736d1c',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '51486a96-d56e-425b-880b-a93e5d54cd34',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '41b8a3e4-0bf6-43e5-a0f4-875056c9523c',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '993ff165-6f28-4644-b8b4-63974ea0ae37',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'ddbc7372-546e-4f50-8575-45423eb8d011',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'population',
     '33860',
     NOW()
   ),
   (
-    '945e111b-2ecb-445b-895e-31b9fc3203bd',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '8199cd1e-537f-4e66-b8ce-500e8305ea89',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'gdp_md',
     '1655',
     NOW()
   ),
   (
-    '99af07e3-c613-4d7f-ab55-8d735aa82ebc',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'e26f9016-943b-40f8-a328-6c2666f5b52e',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'e60f194a-0a3d-4d90-89bc-ff077c8a9c5d',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '90c4a18f-5d74-423d-b3d9-23e443159598',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'cf506e68-f79e-465a-afd2-7df3dc2aa3f9',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '6b4a074b-0ffc-4b75-aa2e-e8f7faf2769f',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'dbd50305-16fb-4561-9749-7f0f3691968b',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'eaa26c25-9919-4e5e-8a31-3c4ed742564e',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'label_x',
     '12.441206',
     NOW()
   ),
   (
-    'c06aee9c-b067-402f-bf58-9793372e8f4a',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'c09d494b-16dc-4485-88d8-ce492b969c10',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'label_y',
     '43.933916',
     NOW()
   ),
   (
-    'c6a172df-ae76-4e8f-a814-7e717a5138e8',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'f82894d2-4eef-4716-8d26-8b48684eb905',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '5b0129ac-d859-4e7a-9415-2f37b93b99a5',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '0f8da571-5e1c-4405-8577-dd978daebc76',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '3a357d36-d54f-4c47-a0a1-3967d62dd251',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '0c56394d-5a09-4d40-b456-8f35f6bf687a',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'c69eceff-cacb-4f41-9181-f346fc8be11f',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '3965b6a7-eeb5-4441-a755-4a9222538978',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '5c5206fb-0879-470a-8be5-08e2e5f500f7',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'f7157a98-4fd5-4ab9-9a9c-2b28540e9cf5',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'population',
     '197097',
     NOW()
   ),
   (
-    '7fd839f2-04d9-4cca-91a7-67bfbf4e5981',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '58a19657-3dae-4ba7-9e5e-71f540bcaa5d',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'gdp_md',
     '852',
     NOW()
   ),
   (
-    '52a570c4-fff0-456b-b947-de608390a50b',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'edd8749c-0e80-4601-8a90-14aec542f40e',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'f5f34343-a2c4-4f7c-973d-d833557cd44c',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '86a95edb-6e6b-4651-b4d4-fec53ba779ea',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'cf2d4444-32d5-4438-9002-c51523f482d8',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '7c39873c-630a-456a-bcb4-1afe0b5b4de5',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '92eeb0a3-341e-4c46-a590-9f792fb45834',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '5ef38f58-8d7c-4565-a7ea-f97d7f716856',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'label_x',
     '-172.438241',
     NOW()
   ),
   (
-    '5bdb5191-c95d-475f-bf0f-0a7bb50e01cf',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'c5f8e01a-d889-4d7d-acd8-96742017f3c9',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'label_y',
     '-13.639139',
     NOW()
   ),
   (
-    '8f041395-93a9-4d62-b5d1-3ed3dc171ac0',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '62169f1a-c79c-4f8f-84dc-cb3eedc05086',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '46e48ced-72fa-4dc1-9d8d-81723fd943b2',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '19800580-dd1c-40dd-a531-4197e88abcf5',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'b58b78a0-b344-41c7-938e-57af591eaea9',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'd4abf84b-a895-435b-b4bc-5dcfd85b4320',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'fb3b2aad-5e5b-4cac-aaf5-755f5dad4c46',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'b4f63a78-2c3d-411b-8b7b-6428dbb7586a',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '67674225-9c37-4165-9225-aec24a101e49',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'e9d4f8f7-71f9-49c7-b2bc-220b436d3009',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'population',
     '110589',
     NOW()
   ),
   (
-    '8b6a2a3f-88a9-4d95-9005-ef539852c248',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '430c3d67-2ecc-4ab6-8a65-bf8ed501fec0',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'gdp_md',
     '824',
     NOW()
   ),
   (
-    '1fbb1a0c-4803-4486-9ed7-ae0cca85cee4',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '3c0c3001-d8fd-4b42-91bc-0e21a0a4b7d5',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '72ff17c3-01a8-4830-8df8-3f0dccdd48b8',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'eaeb32e1-39a7-420c-a648-36dd37b6da75',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'dded4ce4-7bb7-421d-b802-f6bb1dd3e4d2',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'fc26416a-473b-4b69-84ed-9bb1885b2717',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd4a38344-bb24-436c-bde2-34e2ac67a4eb',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '995deec2-ad95-45f4-9786-d1c94e7d8cb2',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'label_x',
     '-61.3359',
     NOW()
   ),
   (
-    '71d3feef-e42d-4c6c-89b8-1b5a0257213c',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'cb833904-4f2f-46b7-85a0-ba378ca902c3',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'label_y',
     '13.0879',
     NOW()
   ),
   (
-    'edd973ae-d76c-4038-a71e-4f93f3684481',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'a59efa57-7dc0-4170-aedc-bbdb50774fc8',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '403dbf70-3317-4478-be42-734a256a2108',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'edba22e9-18c5-4dbd-8713-b4b2dfdcd7aa',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '93a435b2-2289-4cd8-87fd-5f9a6b8730c1',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '02f192dc-38bf-480a-82d4-0da87a0bd019',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'f0071c7f-8e34-4301-99d0-841a5a9f97de',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '88970865-1807-49a2-9abe-9b3ca4371590',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'd9f8c167-5768-43e9-a768-7b89c211bcac',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '03205615-cf27-4572-90e9-ba8c92f09f12',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'population',
     '182790',
     NOW()
   ),
   (
-    '14b49fb6-7335-4ed2-b8a9-e1bcbfd6d279',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'f4143089-8fdb-4a24-b3de-03930948f946',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'gdp_md',
     '2122',
     NOW()
   ),
   (
-    '7fba05ca-9ecf-44de-a14a-c39d89fca4c8',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '0a33927b-3676-4d4b-9eef-1f637aa69f66',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '68089a94-0eb9-4d0e-aa3b-b1aa741fa97a',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '61eae665-a324-4a22-975b-e3df3e9432d7',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'f072bdea-4830-4881-9520-661ba7386d97',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'fa67feef-2b6c-4dbe-bf81-01c650ad1470',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '4ce2931f-2ffb-4f19-ad52-5a7c2ed6fe41',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'eaaec2b6-4a49-4703-b0e2-71198917f7e7',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'label_x',
     '-60.980094',
     NOW()
   ),
   (
-    'c527c4fa-f81b-41aa-bc85-980393482edc',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'd3ec18a5-176b-42b8-94bb-ecd95f5004f7',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'label_y',
     '13.892371',
     NOW()
   ),
   (
-    '2d3a9f4e-6624-4e36-b701-0432f39ce9c9',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '8c4da205-fde6-47de-b35d-061ff9d547eb',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '69e0bd9e-7c5c-4f3e-ac0c-1e6fe5952b81',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '1e34d0cc-8cb5-4430-9b24-562f38230f5c',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '67cd9f7f-9879-4546-a533-c16a4c107563',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '1c40a221-9042-4f65-b787-c7522e7f2b16',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'c3545a0e-d1b1-4102-9019-bf57f88b3e7b',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'cb8c9d78-46ee-4eed-8831-07db464905fc',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'f17787f5-fb2f-41f4-99b3-424310f177b3',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '096b2b1a-4629-4f45-b349-5d6c6f112c04',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'population',
     '52834',
     NOW()
   ),
   (
-    'c92795be-2dcf-4bc6-af9a-b1e5c4cc67b1',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'c318e490-9f7e-48f6-8afa-8d0efee858e9',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'gdp_md',
     '1053',
     NOW()
   ),
   (
-    '5e2a0a4c-964b-4f9f-a8ac-7ab7e185fd3d',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '2df3ef8c-a471-4784-beea-df323f9a9044',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '42f50486-a8fb-46aa-be5e-d4be0ce309eb',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '6aeab5cd-b8b3-4271-88d0-a5481d148ccc',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '0d5b5972-faa3-4b77-ad78-3d01b632d88f',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'a88359d6-8ceb-42fb-97d0-4b7e42c27b63',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '489cb04c-9ddd-4f98-8ea4-95803aab8e68',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '3b6ea72f-230c-49be-9ced-20b77c7c8213',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'label_x',
     '-62.757975',
     NOW()
   ),
   (
-    '46cb76f5-bbd4-4c1c-99b1-45ca563d1002',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '40c156dc-cea5-4573-a878-147189475f4e',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'label_y',
     '17.336558',
     NOW()
   ),
   (
-    'c3c5c10a-dafd-4824-8f5b-003377c72217',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '0a7748a8-32a1-4fba-92d8-2c3d0b0042ad',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '991bc1f7-60a7-42eb-bd58-7565b970e2af',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'fc17c9ea-ffa9-46c7-9df7-e007c9750653',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'f195bd93-a00e-4a44-9330-ffb7c18ef01d',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '11a6a95a-7a13-48b0-9e5b-884b2bacc71c',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '9cfb62f1-422b-479b-8d98-45b84e37199f',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '7594291f-d72a-410d-9d25-d3953bb9d104',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'b982b264-6b6f-435d-8179-2f1d830e3bc4',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'd006b35e-960e-461f-b286-4b2896d2ebd1',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'population',
     '12626950',
     NOW()
   ),
   (
-    'eabf8499-2011-459b-ac48-e4f948a6cbe5',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '152c41e2-e264-474d-a15e-c11502b7ac1f',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'gdp_md',
     '10354',
     NOW()
   ),
   (
-    'a2224ba5-6dd6-42e8-b44d-de4608ac9c97',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '55dfd485-a799-4429-b893-9725d60583b5',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'd743e977-b97e-4926-9226-5ccba3da526c',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'ae2f4580-b06b-496e-84e0-848347448f70',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '93a2612b-804f-4c9a-8a02-4fca89f0ed4a',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '5394f17e-5a40-4ffb-b889-315782e0e041',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd4d38727-a9e1-469c-a54e-4f53cf82b679',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '408012a3-159d-496d-813f-56a5de06fd04',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'label_x',
     '30.103894',
     NOW()
   ),
   (
-    '01e35305-0537-44e0-9b47-4811266a1e23',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '87059d7b-1f00-42f6-85de-1c9354887dcf',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'label_y',
     '-1.897196',
     NOW()
   ),
   (
-    'f8e70cf9-8a7c-41e3-befa-bb141c863755',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '70638da4-ce5e-4589-b034-faeb9b61dd83',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '6064c3d1-3ffe-41d0-8771-3885c642073c',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '3989030a-d9b4-4352-ae10-75323a6d4da9',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'e868d674-150a-49ee-ae97-7e571baad930',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'cf924145-6653-415e-906a-d9b6a58726fb',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '83d93b5d-6eb8-4b91-8809-f4f51329f123',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '123d6b1f-ac41-450d-b4ba-5b33f56e9ddc',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '0379dffe-c82e-43b5-a64d-b0a580c716e0',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'dd8e01ef-65a7-4c36-816d-97ea98e07382',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'population',
     '144373535',
     NOW()
   ),
   (
-    'c269a44c-275a-4993-a9fd-d32a8ee8633d',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'ec1504b6-1166-4f18-852d-fa3f78b0c38a',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'gdp_md',
     '1699876',
     NOW()
   ),
   (
-    '198d6c2b-d84f-4e94-a662-0174bf0b2f6d',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '4746cbfc-5c42-438f-89dd-40f585d65851',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
   ),
   (
-    '299e4a13-7e0a-4548-841d-0034c301f38a',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '8acfee81-6ae0-4753-8548-6a80af41ce9d',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '0a48765a-dd76-4227-bbfe-1ed15c28b3fd',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '7e9efabd-8d03-47ab-ae0c-0279510e10ca',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e685d101-571d-4940-bd6e-c6125e38c111',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '5eacab0f-202a-432d-8a47-c53e83185c8f',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'label_x',
     '44.686469',
     NOW()
   ),
   (
-    'db00f049-0bdc-45bc-bfff-9801a07bb9f8',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'ab5bb8ec-3188-4324-a0c5-5e284da61387',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'label_y',
     '58.249357',
     NOW()
   ),
   (
-    'd40fa692-f5d4-4375-a0e8-c0d8c839c00f',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '2ad6eacf-a74d-4a4a-a1cf-0642cde72d71',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '8786373f-5501-4cce-b8fc-2de362d8b96e',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '7db729cc-9ed6-4fc4-a30c-34ed06b621af',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '83c13674-10a9-45a0-98ef-6d4bbd9d4be6',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '2f7e3e76-ff0e-46e4-ac01-a7f3f8046ba5',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '50651329-2bb6-4f26-bb2d-7fb4c3dac5b8',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '95f84942-ca92-47b9-86cb-9b9f6345b75a',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'a404df11-3290-435f-99b3-5db6297d362b',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'abeae53d-d2fe-4bf2-bf36-7617b676fd16',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'population',
     '19356544',
     NOW()
   ),
   (
-    'a53661e5-bd2e-42e0-9e72-796b88d590e7',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'ea1fcbe5-4c58-43f8-a398-80cc78601eb1',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'gdp_md',
     '250077',
     NOW()
   ),
   (
-    'a73c653c-ec11-4ead-9e2e-646d2df508e4',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'f8b9e695-2f1b-4903-8100-2eb3ab4860d9',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '99911495-2a36-42c2-9de9-24209d9e6f0a',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'c0d3ec7e-e4ba-4244-b787-537244f756f1',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '6a9f6d77-cbe5-48ef-b1e9-7cb62d0afc07',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '7e8b913e-3380-4cba-97ce-43a8a9b5e1e6',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '174a9c6d-e488-4a80-85e8-1b2767fa9e55',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '2a477b7e-d421-4bc3-b75f-047b7f35f9c5',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'label_x',
     '24.972624',
     NOW()
   ),
   (
-    'd1fa8ac0-17e0-4e3d-8de8-79fa04884015',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '731513f9-638d-4271-a4d3-c3a90c197126',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'label_y',
     '45.733237',
     NOW()
   ),
   (
-    'd6012062-0ac1-42a6-9844-b9bdea4aff2e',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '3eff0e5e-ed30-4324-939e-7318d799b3ec',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '950df621-7155-46d5-a39a-2a2c50946411',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'e0850e6e-65f2-45b6-aa09-df556e0544ec',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'af721e3b-399e-4b90-9772-c45c9188d526',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '4400f1fd-382e-47d1-b948-477bbf9345fc',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '428dfe31-c6a6-4ee1-a965-f4aeb5b678ea',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '461ccabd-710e-4ba1-9cf8-26a5cd4cc5d9',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'e2fdd73a-2a06-4e36-8abc-826a00fc54cc',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '08522b00-81fe-4707-8c75-6f45bde17da6',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'population',
     '2832067',
     NOW()
   ),
   (
-    'c4e0b5b3-1d14-430c-8ac5-c616eb744d64',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'd85af4d6-478f-4c22-8c34-02aaa9f42bcc',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'gdp_md',
     '175837',
     NOW()
   ),
   (
-    '39df5efc-f331-4c5e-b478-1f00d7a8a09d',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '7585eccc-44f8-49e0-be47-c78fdc5d815b',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'a1ef2d39-b83a-4051-9cc3-f5e886abbf0f',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'e293e30e-6bc4-4d79-ab76-857d3137ed43',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'cb69c151-2daa-46cb-9244-3ce0a6e47e9f',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'f169305b-cd3c-4323-92b9-b5906db0e695',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '33e28214-08b1-493b-9ae2-eb3d092579f3',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'ead58b1e-0f56-4b54-9985-2969af34bf5b',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'label_x',
     '51.143509',
     NOW()
   ),
   (
-    '8e37098f-cdf7-4bf7-881d-d7d34b8435ff',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '69c0559c-2b33-44cc-831c-2e3a2161ed68',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'label_y',
     '25.237383',
     NOW()
   ),
   (
-    '04d673c6-2661-4cfd-b81a-b21f9bfef413',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '8f95a7a4-5f53-446f-8cd8-39e5564caa96',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'ed08704d-ccc8-45a3-8d77-8096f3036775',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'bd1a7bad-b0c8-4ba4-825e-3b0c967fe583',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '2aed8645-de0d-4bce-825d-8cf5ce6c2abe',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'b5ad30af-fd93-472b-8171-9aeb0c8623b1',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '69265068-aacb-46e5-9728-db2ea1fcc42a',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'f2245042-1afe-44d3-84b8-36b9cdff53a3',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'a8164466-060c-492c-845a-206244a6450b',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'f7fe6c0b-1fd5-462d-9b49-9b08cd2b8b3f',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'population',
     '10269417',
     NOW()
   ),
   (
-    '47862313-5b46-4ba0-8b82-7be07b4ec839',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '1cb307d7-f3a6-44ce-8dc8-3b0cc6bcb809',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'gdp_md',
     '238785',
     NOW()
   ),
   (
-    'b8befbd1-2fbe-42b4-981e-b98548210f60',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '3cd2d74f-b507-4ebe-b84f-e2ac7ebe678d',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'd7acb61f-a7ed-4ecb-b059-27be7c0688fb',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'cb92ab17-ff40-43a8-aeaf-356a7f7e800b',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '62bd3eb6-8561-414b-8285-12d90aad30f2',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'fffd278e-51a0-454b-9d97-e5db25901f6a',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'de8df3b0-0283-46e7-88e2-9f44c807cef2',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '75c7a74b-0e2d-4887-bf7a-a0b1c76be366',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'label_x',
     '-8.271754',
     NOW()
   ),
   (
-    '85a53adb-14f5-4e4a-9d85-6f0b9764488f',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '94dea944-0933-475c-a7c2-eb9e1c612dc1',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'label_y',
     '39.606675',
     NOW()
   ),
   (
-    'dcacf836-f9d0-41c0-aa23-64a62edfaec8',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '5e59a131-86c8-47a9-82c2-f487a1fecf9e',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '7cbde4ca-a072-4b5d-a53f-239adc0cecba',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '380c3813-539a-4e40-8e21-bd6eda4e7f7f',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '2d308b04-8156-41b7-8835-5d615c85fc64',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'adf1f9a6-4925-475f-aee5-bb1e49ff3c24',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    'f8b24329-3d09-487b-bc4f-b5062eaaac66',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '6d6a8dac-fed4-4164-94cd-e073af0518bd',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2376bc6d-e5b0-4dc6-bbcb-35f946332bf7',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'f3d5f9d1-cbb0-41e1-b02e-f86323295a46',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'population',
     '37970874',
     NOW()
   ),
   (
-    'd4bc187b-288b-448b-8c15-2079b5973d3e',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '94468485-1f9d-4e1b-85b1-6e2640638b12',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'gdp_md',
     '595858',
     NOW()
   ),
   (
-    '6d36e0ce-f8e9-4e6e-a288-a2674683271b',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '2584c4ca-dfd3-469f-bb7d-e85c2f423e7d',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '5546bf93-2579-405c-8021-31777f3d9c9a',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '5be03929-c9e5-4f84-ae80-599038e7c8c6',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '936d7ddd-72cf-4caa-83b9-9cf31965ad6d',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'bbb97a03-7b91-4b98-815a-afac0eee8773',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '6382369b-119f-4072-b648-f15653fcf02b',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '3546821d-971a-47af-8fc5-e39521e38a7a',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'label_x',
     '19.490468',
     NOW()
   ),
   (
-    '60f4ca6e-5951-427c-a884-9597d39f8a17',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '75e930c9-01ac-4f24-8100-a9a3201e6490',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'label_y',
     '51.990316',
     NOW()
   ),
   (
-    '988b22d8-ad5c-4e40-9fde-1bc177981ead',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '5718222b-c7e7-4f78-9074-0145591bcee5',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '64fc894c-7ab0-426d-b7ca-7c8bb0210ae5',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'a60c310e-65dd-497f-8a0b-1b8dfc51a21c',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '9d53eb75-a70b-4be8-b3a2-97cf1a710203',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '823377f7-7b72-40fd-a624-43254961c64b',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '7a96010d-156c-48fb-9c6d-af1531e8ef51',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '9156672a-5ad0-401f-be41-c0dcabbbd539',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'f7760001-81fd-4817-8b86-b29f43e7f327',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'bf6290f3-66b0-4c3c-9a0f-11df0e2f90c8',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'population',
     '108116615',
     NOW()
   ),
   (
-    'cb0572f8-8a24-428f-9010-fe13f4d85d52',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '012c0e3e-51b2-41e1-bbce-080974680a5d',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'gdp_md',
     '376795',
     NOW()
   ),
   (
-    'e6c0e131-3f1b-4e07-92f4-b685f8cfeab5',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'e98f7202-8f81-4b1c-8f24-05cbf230ee05',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '7574a498-4204-4c37-8f14-2635e0c7df42',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'b8fac1b9-9f5c-4184-923b-8f23ab89ba61',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '06bede36-4f13-4901-a1f7-6c00d5a3ac6d',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'd69f86c6-f968-413b-b235-2018c4bb472a',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '3b3238c6-bc6c-4b0a-9c29-1fe301abc3aa',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'a605b919-c3ba-4d43-80ab-df3c793ce378',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'label_x',
     '122.465',
     NOW()
   ),
   (
-    'b491585c-396e-493c-a772-e542a7fd58dc',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'ee158207-c94b-423a-952c-62e3a8735889',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'label_y',
     '11.198',
     NOW()
   ),
   (
-    'c203a6c9-71ba-478a-966d-20d8710f4800',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'bba9bffb-f856-48b0-aca2-c3c9a1eedde3',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'dc5f7740-25f4-4865-976b-60b16491e2f2',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'f5dc81fe-141f-448f-b0a4-3b28e3c45145',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '2bf158ab-a560-4265-b06a-ff0108b93829',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'e5992cb3-73c8-4352-8873-43b8bd585b71',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '0c339c9f-d790-42de-b1b6-142bbd651f68',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '79e9057a-e1bc-4398-a2a9-d411bac006d7',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '330ca1d8-d9df-43f0-86f2-c7fae1951bd1',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '3d5bbae3-d180-438d-a357-60be82d542c7',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'population',
     '32510453',
     NOW()
   ),
   (
-    '191cabfa-9e73-489d-8449-f0efe06e2411',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '902f411a-e335-459c-8b00-d6581afeb2bb',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'gdp_md',
     '226848',
     NOW()
   ),
   (
-    '3a26a0e6-6dbc-47a4-94f1-118a99072eba',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'b75ecc1a-800c-4087-a5d4-1ec09029b4af',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'a4c59554-9d53-4fed-b848-567591daec98',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '3bcfaa30-2444-44ed-a2af-ce32e64a5f72',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'beb6cb84-ef35-4716-ba97-786da7bcda68',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'fb8aea27-7734-47e0-954e-dbaa00e3547f',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ce113fd6-9c44-4d86-beed-25968b4b476e',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '1b121022-c073-45ff-ae9e-ebe466eeca6e',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'label_x',
     '-72.90016',
     NOW()
   ),
   (
-    'ab5eed2b-284f-416a-b37e-e8bc049d62e7',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    '94ee5bce-9629-4269-b862-3ade659af764',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'label_y',
     '-12.976679',
     NOW()
   ),
   (
-    'e1aa792b-2104-4cfd-80e6-86c5dea193ae',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'f923c478-10be-4731-b602-80cdb164ca73',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'dea66985-5b39-49cf-87be-7ead5aa91727',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '1c8023f7-d37b-4686-b543-b6c62b75ae7e',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '582ce5fc-c50f-4cba-a596-61f124052923',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '455d8283-d6fc-4987-94d6-708606c52a11',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '3f7e816d-d84d-460d-9062-a8bed16766bb',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'a9afee55-1df6-4569-9411-6cae81f4f794',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '242f1444-1718-4e73-b6d7-407010a11181',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '89649611-0c19-45d4-95a8-d042976ddc93',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'population',
     '7044636',
     NOW()
   ),
   (
-    'c593450f-35c3-420e-b083-378fb826f1bf',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '53f8565d-0f0e-4af1-827a-8a8562ca5040',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'gdp_md',
     '38145',
     NOW()
   ),
   (
-    '05c046b1-6078-4136-9845-7e7040d9cb50',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '5dce3e15-8b23-42ca-9da2-35c75e214a7a',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '1c6baeaf-c7b0-4fd9-bd2b-68435b9bbc33',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'fafda38d-5da8-4631-bd79-ece1e276a494',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '70c63da0-8c5a-490d-98eb-6a7f50c4c6f4',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '4d57037e-22a0-47df-813b-2e7b10734272',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8a280446-24f0-432e-9314-5696330d6f11',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '7320fa2a-e5ed-4396-8094-dc3ed8703821',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'label_x',
     '-60.146394',
     NOW()
   ),
   (
-    '1c6c3e9f-f785-4855-beb9-6204b31422b0',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'a9828193-7639-4cd1-9220-00f01277bc7b',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'label_y',
     '-21.674509',
     NOW()
   ),
   (
-    '64a52dc6-4f7e-4c13-90e8-deb917da175f',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'b6f4faf1-edbe-4e9b-aea9-0cc50f08cd41',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'a3df050a-38a2-4b56-a73b-ed34d0e1bccf',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '1eacc7c1-569b-4d9e-ae6d-ad3da9d0d480',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '34b05778-fabb-497e-ada4-8289a00866f1',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'a23a97e7-a32a-4720-9c1f-a8a00156c33f',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'subregion',
     'Melanesia',
     NOW()
   ),
   (
-    '71e44b7b-f7c4-40d4-b683-75e23de50195',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '8cca8a5d-3417-494d-91f8-9dafaf740c01',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '6e57ff18-1edb-4f17-86ff-389a67133216',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'bea9e090-34af-4179-a3d1-6ece4936ab79',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'population',
     '8776109',
     NOW()
   ),
   (
-    '30e45519-cb25-49a8-aa10-1d928397a2eb',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'b69f2ebc-402e-41b7-aa2a-06bee465402b',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'gdp_md',
     '24829',
     NOW()
   ),
   (
-    'e0161359-456f-4bb1-b862-e83f5baec139',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'a5addfbd-009b-4a7c-9924-c41a5514de53',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '7a9d4a1e-1b42-476a-8597-42f49d464fe0',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '00619672-384c-43aa-9951-9456660674e1',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '3b02842f-c435-454b-a6eb-4845abeffdcf',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '9d873747-e1a7-4473-a1b7-6b59cba85789',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '6c71683d-29fd-4919-a1e1-9e020eaf83d2',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '7e95fa52-d514-4327-b8ef-b1b8f1aa38b1',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'label_x',
     '143.910216',
     NOW()
   ),
   (
-    '6f0120a8-7c81-4276-b58a-7aecd4bee7dd',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '9239f103-f34a-4dfa-a6f8-04591c25e174',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'label_y',
     '-5.695285',
     NOW()
   ),
   (
-    '2a654bfb-130e-4f4e-bfd1-51f893a8c2fb',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '99a63ad3-2165-47e4-93f7-cbd76d32554d',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '512988fd-07d4-40f3-9d9b-40dc07da20ee',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'c25274e5-7509-4954-9e8e-ac80ff5f09b5',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'b31b798e-b101-438d-ab4a-e5c973e00591',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '2a40c8d6-38fd-49d5-91b9-368a42a708a3',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    '8e7edc4b-d2eb-429b-a05a-2c8b76f3be79',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '8ae19987-d212-447b-815e-e2b2fbf563fa',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'b66e0806-a7f3-4f2c-b964-32e0bfcfafa0',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'f688413c-8add-4f15-b7ef-96379d57b7c6',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'population',
     '4246439',
     NOW()
   ),
   (
-    '3c920882-bf2c-40b3-b92b-d31ce45dac28',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '432f6831-219d-4db4-adf7-b298524cd903',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'gdp_md',
     '66800',
     NOW()
   ),
   (
-    '01725d1c-0e07-4533-a520-1a2c8008ca9a',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'f0dee6ae-5de3-4704-b210-d2cbc33f8f81',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ac473630-994c-4f3e-ac99-f75863f8575c',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '271215ed-f1b7-4a44-963f-592df6c2a337',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'e57cbc26-d003-42b7-8e53-1f2a0bbe4c92',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'a6c07178-48d8-4c8c-8657-b2fbdaac67ab',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '97451323-2bf8-4c07-8e67-bb1fbfa4482b',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '953f3464-4b44-4f04-a282-21bda2902c01',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'label_x',
     '-80.352106',
     NOW()
   ),
   (
-    '080d7c31-8ef6-44f0-aeb1-d13aa274e4f3',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '82e8d9f0-e57a-4da4-8f1b-d28aa86096a2',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'label_y',
     '8.72198',
     NOW()
   ),
   (
-    '3ce51f18-72e5-4723-b0d9-9ee2e4454157',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'ae91693c-8d80-4533-a496-f04f1273bed0',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '700499d9-983a-42e9-a76f-080e19ae8b20',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '709b46b3-b3b7-464c-87cf-9637cb0bbc81',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '19ce21ac-fbef-4d50-a17c-8a1e6ffad62f',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'af97cb31-967d-4f70-b6ec-84cb13802d97',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    'a26763dc-b5ae-4306-8a99-cc9f66cf9a9d',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '1ad8c757-57b1-4e1c-84c7-baf19d8a9e15',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'a02f88e8-bd4e-43be-a5d5-df34c6a05dca',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '18389e7a-5f7f-49b2-845e-acfd3d656024',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'population',
     '18008',
     NOW()
   ),
   (
-    '28ad0c64-2504-4c53-b27a-99a58845e1ba',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'ce9d0d81-280e-453b-8ed8-a46133b01b67',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'gdp_md',
     '268',
     NOW()
   ),
   (
-    '966f28a0-500a-4600-bfaa-281ebcb6820f',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'c681bea4-e6b4-427a-8e86-5f2d24c78a6a',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8ac0c5e6-9018-4962-a983-2b91084c466a',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '60f27b85-3456-4732-9ca6-a9e2feb126d7',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '420b5a08-3da7-449e-81e4-86c0cfc909e5',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '018ecf21-c13b-4887-9346-a9b72a79c61f',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ec0f83dc-ab31-48da-854f-c0e6cc42da67',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '7d3ab173-ac32-448e-9fbf-5c4e8cd1e9ae',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'label_x',
     '134.580157',
     NOW()
   ),
   (
-    '19b853e1-54dc-4a20-b6e7-49ade3dcaeba',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '33ec7687-607e-4f57-92d7-873a2692d682',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'label_y',
     '7.518252',
     NOW()
   ),
   (
-    '188a8ddc-7c7a-495b-82d9-0d3a8c82ab22',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '11e0c5d0-54b2-4f20-b9a3-786c81ed62ea',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '7a500618-16b2-457f-a105-5ea3500cfc9b',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '6241885f-6bb8-45b6-90fc-1d0f78a72ae3',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'ab6b1c20-e79e-4ed4-ba3b-77f2c18d3140',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'cc8b4c26-b228-45c1-a2e4-8c4cd4026efe',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '7cdaa2be-4a6a-463d-9c5f-dd76aeaf9b06',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'da3a62ee-7025-4330-af92-8faaa7695a4e',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '7ff92e44-d6ca-4465-9dbb-5d69707e681e',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '9ee20823-cf0b-467a-bbb0-7ed23dfd0e09',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'population',
     '216565318',
     NOW()
   ),
   (
-    '744cebc1-c850-4f3a-980b-6c2635b6a25d',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '93cd6f18-2c6d-41a0-a28c-296d5a245621',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'gdp_md',
     '278221',
     NOW()
   ),
   (
-    '74a7a813-24b3-46b6-9071-4f40b1f56e78',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '870c0eaf-192e-4bb4-8e61-ff0b00894d47',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'de2cbcf5-ea38-4912-a906-4b666ef9e122',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '2581cf58-a71b-49c9-a3bb-47b9c49d46da',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '620ab2e6-d9cb-4fff-b05c-1521bfa63e51',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '8cc3ff5c-acbb-41a8-af76-0f9a28785a50',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2cce9efa-939e-4fb4-a491-b4b1ad73046e',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'b0124271-af93-472b-90b7-09ebc870f4ac',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'label_x',
     '68.545632',
     NOW()
   ),
   (
-    '52a81bda-d72f-4916-88a7-2d69f1834666',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '79f0a3b6-b85a-4f3a-bf78-12b56c30535c',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'label_y',
     '29.328389',
     NOW()
   ),
   (
-    'a4f28c83-7796-498c-a7b6-e6c205953ba3',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '6b621d19-8be0-4433-b693-ced694e1e820',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '823cf0a5-0c60-4a19-90d9-46e5bd7a0f65',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '37dd91cf-dddb-4186-855a-137779a74a4b',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '424632fc-38a7-431f-9fe5-044d3009cc3e',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '73a02c1b-523a-4dca-bdc4-061e238e49ac',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '88b7de8f-4d32-4bf0-92c0-24cbb802bbd5',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '52a190f3-7dee-4180-9906-e42fbebb951b',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'ae683098-1873-4f15-8f14-3d7e7a337498',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '47e44295-cfba-497f-b5f7-2639dd6b0df2',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'population',
     '4974986',
     NOW()
   ),
   (
-    '5f1a572a-7989-4356-ba5c-e7e401ec2192',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '432c49c2-fd21-456f-b912-01fb17c11d69',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'gdp_md',
     '76331',
     NOW()
   ),
   (
-    'eeeb864a-7715-4079-9021-84ca06bad90c',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '09bf9dda-7123-4d0f-a11c-9837fd51200e',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '826e501c-e496-4589-89b1-48bd1aef568a',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'a5091e59-9bac-4d29-bfd4-9aeda95e9235',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'ffde5b2a-d530-4fc3-898b-f438aaa215aa',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '44ea7321-977a-4cbc-b31d-113adf6e788c',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2b836234-e838-40ae-8b40-e3be6f168697',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '4ca0b370-80cc-4594-ad50-6427f20cb451',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'label_x',
     '57.336553',
     NOW()
   ),
   (
-    '42be6d84-4818-4306-98f7-a9257e9484a2',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'd2cdd1bb-7a81-433f-a45c-caa59c0cf46c',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'label_y',
     '22.120427',
     NOW()
   ),
   (
-    'f80de8d1-135f-4011-a25b-06b54b9611f9',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '11055733-e6f8-4e2c-9aac-0f967b3940c2',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '70c5f1dd-4c03-409f-9754-a35cfa038c24',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '99843f06-a5ab-412f-adcf-08d38a5e2ed2',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'b506f293-a375-429f-87b9-fa814d3bd6c0',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '8bbf76bd-2348-49db-9c73-6f15f78eff54',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '79ef99c2-e135-410a-a726-9f86ad5dec4c',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'd36a7877-f591-4836-951e-7ac626c21bb2',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'faa80b14-6773-463f-80aa-4d2fa09ec0f0',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'f5cf1cc0-ecbc-47fa-936b-9cf37cc2cd1d',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'population',
     '5347896',
     NOW()
   ),
   (
-    'adddaca0-12cf-4313-9784-988ef465053c',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'f6315614-9791-4e61-9821-3287cd7b739a',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'gdp_md',
     '403336',
     NOW()
   ),
   (
-    '092a0ef2-e57e-4caf-83fe-cbc601c7a66b',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '0051ec71-1f15-4cdb-8b4c-02096b5a33cf',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '7a9c07fc-c1d8-42c9-a275-74669b7d0883',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '17187beb-d348-4543-86dc-f6bde2609768',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '085adfe6-5265-4d5d-94f5-189763f391e3',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '990742fb-0016-465d-9866-329ef78a77a5',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '92c5265e-91de-44d5-a80c-ca48a8d19472',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'd3c24acc-587b-4324-9731-63e2b5c253de',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'label_x',
     '9.679975',
     NOW()
   ),
   (
-    '62b16d26-9b6a-4b38-8a45-63d354cd6111',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'f70cabf1-9273-4127-af67-e6d1a54b6df4',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'label_y',
     '61.357092',
     NOW()
   ),
   (
-    'ba50d050-c4f7-43e9-89e3-7c5380afe349',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '8726121b-c88f-4e8d-a100-8901880b85df',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '361d378a-d5f4-4fd6-8f94-cb567f7a3951',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '65d36880-5c6f-4286-8110-81c87b504c8f',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'b278b61c-fe78-490b-b187-4fea7a18a6ed',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '5e2efa0a-b798-4504-8df5-071868b94d3c',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    '2e5cc93d-a336-4e3b-aee6-118560af4ed8',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '1f6a8754-f979-478d-bb15-17771c9e932b',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'aa47be07-72b9-4ef8-8dd8-be85b9327440',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'd61616c1-e755-4bc0-bbb5-630be7797666',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'population',
     '25666161',
     NOW()
   ),
   (
-    '90486fb6-d4d7-49d7-a3e8-259f8a2342ad',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'c2fb8310-f9f4-4989-a78b-641567d5f1e2',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'gdp_md',
     '40000',
     NOW()
   ),
   (
-    '9dc29a45-a3a7-4d5d-9dd9-46d5b5897aed',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '5b90ab9c-ab31-4071-a3d7-2322bd38e6ed',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '49c547b1-9926-4005-a3d3-e19874078ac4',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'c34aaa30-2a08-4dbd-9b2b-55cb84adf146',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '698ed318-d83d-4bd5-b91b-25431dece39f',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'f8405218-6617-4cbb-8050-06ec3e14183c',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '844e463e-8c5e-4b88-ac31-481105f16fbc',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'c26c6619-fba7-4da0-ba7c-a0f64272992e',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'label_x',
     '126.444516',
     NOW()
   ),
   (
-    '6e68acf4-a257-49d3-8860-8d487499e28a',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'b48ada5e-ce94-422c-8ce7-43340a5e64e2',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'label_y',
     '39.885252',
     NOW()
   ),
   (
-    '9ccd3cd6-1be4-44ac-bd7a-61f5d4153e42',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'c3cc58e0-62b9-4de4-bb4b-23413ee8a77b',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '93a66e29-5811-4a3a-a5e8-ea32f041d8bb',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '08f313a6-70ee-4c0f-88df-7550ffb27630',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'b6ed6d29-6e88-4c8c-a994-74bb88c3da10',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'c74526f5-6b79-4617-8553-e4902754f53d',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    'b44eb155-86ed-4161-8ed2-97308ccf2f5a',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '96bf7ca0-1dc0-4278-bd44-7f657916aa7f',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'e4648ad3-7faf-4cf0-b2bd-2dfd87590e9f',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'e3bf4db0-a0a5-4fe2-b9d6-44e34fb05045',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'population',
     '200963599',
     NOW()
   ),
   (
-    '0fb6a5af-f8d8-4013-8911-e416298a4d5d',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '896ac213-aec9-4a86-86ad-4fe35d67b645',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'gdp_md',
     '448120',
     NOW()
   ),
   (
-    '8a4a7d1d-4652-4553-85f0-2d57d3b7650b',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'd4a3b60f-2b77-4ebf-9670-023899266fb2',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'aba327a9-1650-4d69-bc47-6b6e1f557b89',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'd5e9dec3-87b5-4ad9-be5f-2c75e2f69ee8',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'a0e8f057-c40f-46b1-8662-fb54f864537f',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'a6d6884e-09c1-4959-827d-9c42862956da',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'df3fda35-26c8-46b5-ae95-0e437e731888',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '017c4185-6662-4119-8930-4533552e02e3',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'label_x',
     '7.50322',
     NOW()
   ),
   (
-    'd2d88a6b-f7d2-4871-a532-264c067d7dee',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '3ac93dea-577a-4e43-8e43-53bd2c426c5e',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'label_y',
     '9.439799',
     NOW()
   ),
   (
-    'dd22194f-b269-4e86-b23b-82d46f447d73',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '0dc84af4-5401-4773-912b-052cd2313124',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '0e7e3f96-1092-491e-a1a2-f5872a471c90',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '167e6b50-22c9-4c5c-9012-3d6c63b1792a',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '4b9c3e07-33dc-4d8e-b785-81b85918a506',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'c07f7f1b-072a-4275-9326-db6fafa12aae',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '8dc191ad-60c1-4440-b948-83b5e53112d3',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '11cd24b0-a71c-493c-b466-0923a116e0e6',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '9b575028-63b0-414c-ab4a-27bead19dbd5',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'fb45cace-26d1-400c-83a9-ef352fdd6130',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'population',
     '23310715',
     NOW()
   ),
   (
-    '2b1f22dd-2162-43f7-a64d-9272b2284611',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'ae68f513-1b37-4b81-98c8-827d83080551',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'gdp_md',
     '12911',
     NOW()
   ),
   (
-    '0c6f2e3a-8cf8-42c8-b0fd-2328c2b42e0a',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'c38572b4-741a-496c-b9c2-9c0129823cff',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '55fc1f87-f577-41a8-b50e-a0adb57d4b3a',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '07c0bc39-a7dc-4b2f-9c2e-14de731411ab',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '806122fd-79fa-441d-bc81-38fe045f7a9a',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'd60d951e-f9d0-4d78-b05c-5b7fd16477f1',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '47b6128a-f507-4214-9b57-0705f513cf1d',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '5fdb777d-57d1-4006-97fb-4559d39ffa57',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'label_x',
     '9.504356',
     NOW()
   ),
   (
-    '3250f0d2-d33d-45b6-bc7c-a60dc96f773b',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'ee3ff598-981e-4abb-8e85-5a5c6b4fcb76',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'label_y',
     '17.446195',
     NOW()
   ),
   (
-    '32294142-0ad9-49e8-a362-ac93fcb44ac7',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '0807d023-98eb-4994-9d6c-529c63d6c0b9',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '50f13292-5815-4384-b62e-942188446bd7',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'fcc92169-1c66-43c3-9713-3224a7445c36',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '2477a998-520d-41be-8b2f-b5286dd7a555',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '0d23ac34-efd6-457f-8648-7084130def14',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    'bd6485d8-fa44-4dea-b1c7-68670ec8a319',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '821d79dc-f732-4c59-a14d-9844fbdc0527',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'cb5c4a1b-ee4d-42dc-b23c-6489cee99b07',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '1fc133c6-a295-4717-b817-c255a77b1249',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'population',
     '6545502',
     NOW()
   ),
   (
-    'ef6fbc0c-b879-46da-bfe9-4cd6032fc979',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '63de6c4e-6bc0-4196-a1d5-b6e6d7997c8d',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'gdp_md',
     '12520',
     NOW()
   ),
   (
-    'd14ace01-f927-453e-b0f1-3eb6f131c91c',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'fcf89a0a-584d-4221-85e8-52561b55d169',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4fd32816-ebb3-460f-84b8-5b9a37915ba2',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '6e97b4b3-f460-4cf5-b11f-2f9651c7bbb7',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '11b7dbe1-57f8-4641-abb7-4083ca15124a',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'cb465f4d-fb3d-4a70-b7bd-5008a171079e',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '82a9d366-2a28-4117-9953-e58bfd765f8d',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '85e8e324-5d3b-4842-a39c-34242c5b9e5a',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'label_x',
     '-85.069347',
     NOW()
   ),
   (
-    'ca00b6ed-c9b7-464d-9e6f-3d8b5ea29dcd',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '4f1b4dec-787e-4210-9ed6-d090284d3922',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'label_y',
     '12.670697',
     NOW()
   ),
   (
-    '247ba7c5-f1ad-421c-896a-f4ecb1767f26',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '1dc575dc-b007-42d9-beb0-f55aeb6cf0a7',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '020f26e2-3a4a-48ad-b177-ccfa9f12653d',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '4f2c3a84-6579-4b96-87fa-1801a2a4285f',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'c2ca1258-ee78-4ed6-a15f-e8f56d3202c0',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '9fdc552b-3f53-4324-aec5-83c71dc59b49',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'subregion',
     'Australia and New Zealand',
     NOW()
   ),
   (
-    'a895efc7-07bf-4d5d-85b6-94693b549727',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'eabd594a-0ac5-48a8-b9d8-dff396341543',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '04c6cdba-fd59-42fb-8331-4b6c7f698abf',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '76ee4a77-ed3c-4210-ad27-765b717e2b4d',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'population',
     '4917000',
     NOW()
   ),
   (
-    '56466623-eecd-43b0-90db-ac9b327fd434',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '2add052f-fbcb-4e11-8b42-8364178abb16',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'gdp_md',
     '206928',
     NOW()
   ),
   (
-    '3f509a8e-aad4-456d-b773-bcef2654885d',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '44691f0f-44e4-4145-a162-0849f85c7ffb',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '81d2022c-43b1-4c26-bfca-b1f660e0b3f6',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '2b5c1df4-cb4c-4090-8f69-15e39ffe84ea',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '767ae93b-ca67-4b82-b871-120a6c8d4668',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'aa1eae6b-1f73-45ac-b2dc-2105d858909b',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'type',
     'Country',
     NOW()
   ),
   (
-    '93410d0c-ccf5-49b1-b469-fc982ecf036e',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'e3745dad-a5bc-4edb-831c-660283fbcb36',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'label_x',
     '172.787',
     NOW()
   ),
   (
-    '667c0e98-e1bf-4f77-9f78-652e87221cb6',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '4a39d27e-f0d0-4b40-9a63-aca2bbbad852',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'label_y',
     '-39.759',
     NOW()
   ),
   (
-    'f365d42a-d191-4ab1-8f4f-d47e88f7827a',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'fe0d83e0-097a-4af6-9665-50da2736a6ca',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'd07cf3ae-f778-4fcf-b24b-33bb8a941478',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '16d39e0c-c37a-4eab-9d38-34cdbc76d391',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '01cdea65-070f-438c-9222-315b1d6c3071',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '4a253741-e8c7-43ee-9ec0-5f20aa11e5b2',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    '8c9477ee-c411-48aa-87d1-1e64b90007f1',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'd6ea9100-d795-408c-b159-05ec4c0a75f2',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '5432d55d-bf90-4fee-8817-97c25fd25ccc',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'fe7e90a8-a764-480e-aff0-ed1992dde9bf',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'population',
     '1620',
     NOW()
   ),
   (
-    'd14970f1-b81f-42fe-b70b-9ee4cf3a3140',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'a5459bbc-4fc5-4b32-9172-a553b549d361',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'gdp_md',
     '10',
     NOW()
   ),
   (
-    '2f2f702b-a83c-40e6-a3a2-8f733d597537',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '7828d9b0-5d08-4f5b-87c0-84058ec4526a',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '85be7986-f5d1-4489-8461-3ab14c318456',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '282c1003-5270-4f57-875d-68723c31b385',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'f17cdb0c-e9d3-4b98-a8d0-566089fd59ae',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'f3f39ebc-f68d-4720-803c-4c4af304f365',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'e2fe41e7-38ac-4b60-9ecd-624844c168aa',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '7c6f15a7-0870-4f6f-9c11-ed75899ca409',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'label_x',
     '-169.862565',
     NOW()
   ),
   (
-    '16e70e0a-c99f-44b6-9da2-321ec919c5f5',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    '03d8ca59-b512-4797-97ed-8c91813e6615',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'label_y',
     '-19.045956',
     NOW()
   ),
   (
-    'dca3d07b-c059-476e-bf39-c3d9451d290f',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'f1a99d09-f437-49df-a785-1fda017cadd1',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '989a08e4-2028-4492-a064-8edf7abbfe99',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '41164602-af64-4510-b2d3-aa06eac6f1b7',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '8ef1fe98-dbc8-4357-bec1-d75653fb13b0',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '9a9676ee-bdd5-4619-bd3b-b28c239d441f',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'ece98e23-bf6e-4fa4-9edc-67770d06450c',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '3e33f399-7351-4bbc-bcc9-087d8edbb6ed',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'abfa1c1e-78ea-4e75-b946-b6c4a5ecad10',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '5e9cc75b-366e-4091-9ea1-7135b16831bf',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'population',
     '17459',
     NOW()
   ),
   (
-    'cef95097-ab20-43fd-866f-f9f65617ac4c',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '664af902-0791-4216-985d-c83271eb793c',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'gdp_md',
     '244',
     NOW()
   ),
   (
-    '42a2e74a-1d71-4da7-9248-fe552fc9c005',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '6f6835b2-94f5-43cd-9c5a-637d183f13f0',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'bb63aa9a-d569-4cac-964a-87811b10f821',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'd8641ae0-0ca7-4b99-b851-358eb10b80fd',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'acad78f6-0db8-4dad-876b-b86025bbb7fc',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '40f208b6-79a2-477a-b6d0-9ef87162369c',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '840627ec-8c8d-4af8-b31d-169a71bbafde',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '771567e9-a267-4694-9d9d-a284c6d5a20f',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'label_x',
     '-159.785675',
     NOW()
   ),
   (
-    '7307f8fa-a2a6-4f81-ac0e-e856f70d70b1',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'e0a0be0e-0524-4b22-bb03-7b22d5bd93f6',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'label_y',
     '-21.215993',
     NOW()
   ),
   (
-    '162a985b-01ae-454c-8489-20e8b35acd4c',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '571c2c7b-f5ea-40a2-a436-9246f3d0a766',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'ded3e71c-dc2b-4f9a-990f-2167b31b25fd',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '98cf4ae2-9def-4a13-846b-ce186742d02b',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'cf387306-edbd-4937-ad0e-7efa08f03cbd',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '68673aff-ec94-4c79-83f7-87ce784bad16',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    '9c0d4817-cdf7-47ad-aa96-8020aad6f509',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '99e42e03-8ee1-4eaa-a033-5a8dda6d7efc',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '93859957-0bf7-4ff4-8ad1-36804097349d',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '34718d9b-9d88-47f4-9eec-7baf6d52728e',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'population',
     '17332850',
     NOW()
   ),
   (
-    '8d6086c0-2fa1-4204-a5ba-a7c32f701b13',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '1c497840-7e7b-4330-b5c3-e90225529147',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'gdp_md',
     '907050',
     NOW()
   ),
   (
-    '418dcf4c-45d7-4fd0-8b8a-bd65d1d25ec9',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'bbd4bfb7-0f8a-4888-b551-d558728b21a8',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'b3e29e07-29e7-415d-8b61-ef226ef2ce3b',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '3c1049ec-9fee-40d9-b77b-13d3123f7a08',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '50123d90-8ef1-4e43-b74e-4df76105eac3',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '2389b5e9-3b63-49ba-9e80-408d008ea084',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'type',
     'Country',
     NOW()
   ),
   (
-    'ebd24a67-3838-40e6-b313-a8ecdd3d0de1',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '6448dc37-e47c-4a67-a42b-b31e40f19e1d',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'label_x',
     '5.61144',
     NOW()
   ),
   (
-    '63d5743b-f389-4418-ad96-044298121be2',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '90770a28-850b-482e-83df-381cf10d3602',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'label_y',
     '52.422211',
     NOW()
   ),
   (
-    '2f4be7be-cfb9-429e-80ca-4b3962c5484c',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '1b9822ef-32e7-48f4-8a6f-f16faf5070da',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '8c1c0e16-a976-43eb-b416-3d65211cefcf',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'fd0dfffb-b255-42a1-baa4-9714a3f8b3e3',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '3a541420-f314-4d62-80b7-0c9d1a708f59',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'fdd3c97e-d647-4250-898f-b8a176dd28be',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '04daebb7-689d-4ad7-9f11-3d5d230f5664',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '92864fc3-430f-406a-9749-2d4a5b42f368',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '72cf7541-7672-44ae-a9d7-5c38e9445009',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '19e3c29a-bcd7-45c8-9a90-e43f9093468a',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'population',
     '106314',
     NOW()
   ),
   (
-    'c7e287f1-e4fb-42d8-b50c-1f941aef6315',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '2230fdf7-7b97-4c3d-8b3b-b74b6eb4142d',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'gdp_md',
     '3056',
     NOW()
   ),
   (
-    'f6094021-7dfe-4584-92cd-60eb7266b9ec',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '89d62e11-d32a-4b85-950d-fd627a119837',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '47feff9f-aaad-4ba2-818b-a97562f690d2',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'f71906b1-89d2-41c3-9b6f-1f7eb6c6b859',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'cc38d78e-37fa-4d34-af70-906ec0007928',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '575b7b9d-eee7-4092-bda7-72f145f49fb5',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'type',
     'Country',
     NOW()
   ),
   (
-    '911fff68-d8d7-4980-a4c0-a86a31af6da2',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'b53cc316-658f-4d6f-b78f-22692bc8e480',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'label_x',
     '-69.972795',
     NOW()
   ),
   (
-    '0d07d4a8-fb4b-4b3b-8677-374b4e8f92c6',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'c6546c57-2b84-4c82-b741-d92143c8aed7',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'label_y',
     '12.5174',
     NOW()
   ),
   (
-    '14c5e85e-6fc3-433c-b3f0-301959a87f3f',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'e7981a1b-0956-4a28-abae-9e087c285c1f',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'd8dfe9c9-76d2-44f8-9f99-dbbe7ad763cd',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '0e655d2b-568f-42f5-b9aa-2f1cddf23ff9',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '21d5e0c3-cf51-4f52-a672-955b4e55373b',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'bc17271d-35bf-435f-b43b-19e2e042b00f',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '110bc91e-6ca7-4c68-8eb5-828d3c9c9b03',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'f58e9aec-a545-478f-adf5-b4aff00c810d',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '4d30bfed-6b45-4529-ab28-669ea7718cba',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '84a87a42-53d0-486d-87f4-775485e0d41b',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'population',
     '157538',
     NOW()
   ),
   (
-    '5ad82964-995f-4e18-a09e-c56f2b694e98',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '7a649e87-75d2-4d6f-bfcd-8e9bf999f9be',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'gdp_md',
     '3101',
     NOW()
   ),
   (
-    '7c15bc1e-fb04-45bd-b6ae-1f8f63dc8f59',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '7f38ee24-a00c-4044-ae71-4f081ccb5d4e',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'd3e41d7e-b48e-435e-9256-efb460895d0d',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'ee33d6e3-aec5-464e-bedc-70f13c040a4b',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '4c838a66-3383-4ec4-b5bd-3c051e78d48e',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '8e7a9440-304a-483c-8a64-375af76f6d0d',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'type',
     'Country',
     NOW()
   ),
   (
-    '038e4fc2-6178-4107-846c-64b77c0f0468',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '4fa8f655-8528-47b4-8a83-1ed7e63c5cd6',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'label_x',
     '-68.920578',
     NOW()
   ),
   (
-    '0eb02f10-c735-4a48-bbfd-672b37f0b485',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '6be9adcd-a17c-4cbb-951e-92db637b5c5a',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'label_y',
     '12.145039',
     NOW()
   ),
   (
-    '1824a953-5c3d-4ba9-92de-936b26c45007',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '7f6d7429-8eab-4344-a6e6-763d82b630bc',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'e9285064-7bf0-4122-b6dc-b721d76dd8e7',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '16e721e1-b552-449f-a6f0-95a8722596d7',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '0d91307a-a6b6-4a68-b889-1802cfb5c851',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '24555c87-4491-4f09-b92b-318924d50b54',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '567b68eb-e47a-41c6-8b23-25239860a764',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '51a6301d-6cc8-4ea4-b350-36434ca4ecd4',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '1fb3d67e-f855-460a-95f3-3c4503a3c286',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'f1657a8c-5304-4e8f-8e09-622c5ae0e090',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'population',
     '28608710',
     NOW()
   ),
   (
-    '4af82e1c-5e85-4e4f-843f-8f417d6b4399',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '56c89a61-a870-460b-968d-953e1a33adb6',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'gdp_md',
     '30641',
     NOW()
   ),
   (
-    'a2ee3439-67ee-4314-a714-9da56cc7a3e4',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '91a742b2-867c-4686-bf0c-7e5afdf6a7ef',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'e9affa2a-7c8f-44d0-ae15-d59134e904b0',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '6401f8e6-edda-4cb0-b32d-6e1603a48dc1',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'f43148e3-1c53-44a3-a969-6a7ce73a1efe',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '5b36f631-c29a-4b77-9944-94172bdc01e5',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ce2803a9-6b6c-4db2-a2c1-40b05e802644',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'cc084c78-1f8d-403e-bce3-7f715a18044e',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'label_x',
     '83.639914',
     NOW()
   ),
   (
-    '6b01d207-226d-41b6-9e2b-0a984fdb2e63',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    'b1970c71-fd91-476b-9448-05550f608723',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'label_y',
     '28.297925',
     NOW()
   ),
   (
-    'edcf2b29-af60-4b57-8b68-88453fd5fcd0',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '9d87ea7f-76af-480b-b310-d608209ebff9',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'c6147043-c7ac-4fa7-a7f8-fae6462e5168',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'fe2591e8-e9f8-42bd-b651-87a7f5a4e052',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '27d838f5-af89-4be4-94f2-2fe821336c0c',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '4aacb40a-eb95-4174-aab9-748d861b011b',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    '35819a60-a396-48f9-a1dd-c74ad42bbc77',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '3776e714-5683-4694-a776-93f62e184ed7',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '08a86d22-5246-4412-8ed9-5e2bb214be1c',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '33d0562b-c089-41c4-8259-45f9c95a31d7',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'population',
     '12581',
     NOW()
   ),
   (
-    '8572c5d6-75e4-479c-afde-2345dbabee99',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'd02b7d94-d774-4a7d-8ef0-0f0ce2c4569e',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'gdp_md',
     '118',
     NOW()
   ),
   (
-    'c520c14c-9e00-4d2b-829d-9958845855aa',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'a5200ab7-56ac-48e4-894b-0b1f704a778a',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '50733cc5-669b-408b-8704-2b7b47cb5a6b',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'e5999ff4-ae63-4567-b0bc-886682379af4',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'c23d556a-17e1-4556-8c7c-3bec3ffdf56c',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '525822e5-f3c7-4995-b585-84abce7edc91',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b2b149a5-65b5-4ea9-8a01-24e3bb6010c9',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '9efb24bb-d865-430a-a254-c7ce743d57c8',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'label_x',
     '166.932644',
     NOW()
   ),
   (
-    'fdde866d-7b94-4cea-9fd5-c18b7f84965d',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '49ac74f4-1e68-46be-b9bb-def1e688a978',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'label_y',
     '-0.520261',
     NOW()
   ),
   (
-    '4e4aac17-0224-420c-a319-b9d23506a1a4',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '5636e561-53ff-4fdb-97a8-397adf2e9c58',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'fe1ffccc-8381-4a60-a57e-462e7e469036',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '35d408ab-039e-4eb2-8e20-d9dccf0851bc',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '03dca0d3-03a3-482d-a4fe-499a332580f2',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '3e3b0f16-146b-43b8-84b3-ba99b8ea9c5c',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'subregion',
     'Southern Africa',
     NOW()
   ),
   (
-    '157ef84a-bc28-441a-8c19-7718ca9ad037',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'cdffaaca-676d-495c-a4d1-fb482af707e1',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'f76a2e9f-1691-427d-846f-d8455c46d3bd',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '4813ea04-2a02-4af8-8c03-bddc5c6682c3',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'population',
     '2494530',
     NOW()
   ),
   (
-    '5c3b3564-589f-4779-8297-5fc0400609a4',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '0e9bc255-c3b5-4809-ba4b-19872e0e5a77',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'gdp_md',
     '12366',
     NOW()
   ),
   (
-    'a9fdfeeb-098d-4aff-975b-043d68575423',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '70cc22e3-345f-4b9e-b419-065ad7e52dbc',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '5e2324dd-0fb9-48e3-aa39-372d552540de',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'db03cc12-6ed6-4f9d-adc7-b630ca9883b7',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '003d3275-7740-41e2-9448-fa2941225274',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '66f86756-39ab-4a1a-9ea6-a4f7593bc65f',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0016798f-2a6c-4f39-a086-b9b25f3496d1',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '3202916e-6405-41dc-9dc2-6966506072f9',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'label_x',
     '17.108166',
     NOW()
   ),
   (
-    '4730f15c-38af-4f67-9093-6e29abc88d9d',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'fa972c04-c9f4-479e-8345-27eebbae74ab',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'label_y',
     '-20.575298',
     NOW()
   ),
   (
-    'a25450ad-66cd-4dde-aec8-b41c75794c61',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '687a244d-36cc-4872-9a71-1ddc13f0c8b5',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '09d5e009-3b00-4f1f-bf21-bac5f11d5d71',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '6aa677e5-ae42-4201-8fda-fbd61da9fc4e',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '2db0c6c6-c60e-4ca0-8829-0bf0710b4adf',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '2e6e2360-b190-49c5-8fe2-caef060b5b2b',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '5daba359-1307-4c37-b399-64c33cb7c0d3',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'ac86fed4-0d3d-4f1a-a16d-78dcaec99df2',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'e6b74970-cccb-49fb-9c06-f39abc291154',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '9a3b0c3d-7bd7-4ccc-b645-0bafb8cbbc50',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'population',
     '30366036',
     NOW()
   ),
   (
-    'f52200c5-969d-4905-ac89-3ced4f6da137',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '6ec82b0c-1be2-499f-8567-3ee80319b1e8',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'gdp_md',
     '15291',
     NOW()
   ),
   (
-    '2adc1679-94fa-40f5-8554-5a0f3feef06f',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '1d1f4fee-fe71-4a37-ba10-0c419ba7e084',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '5247bb3a-25ce-40c5-9e43-a44307f51816',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '0b75428f-8e37-47e8-aafa-d3f7690ef886',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'd0318c55-706c-422d-91ba-bbea7e5a6080',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'd2aa5b84-5f2e-4477-9900-8c5a06806e24',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2aa7f742-2c61-4063-914f-5b58c710bfb4',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'af6fd922-ea86-4a35-b6bc-a2d309d646e5',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'label_x',
     '37.83789',
     NOW()
   ),
   (
-    '5d005f4c-2287-4e73-8dee-f96c316a4867',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'b33af68c-99aa-4122-b1bf-2253e6c2dbf0',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'label_y',
     '-13.94323',
     NOW()
   ),
   (
-    'c8730817-6869-491a-acd3-df2c3dbf03da',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'fb30055b-f6f6-4e27-a1d1-3f4df1890309',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '27c9735a-ac20-4938-82f7-2fdaea3fe199',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'd67e8ad7-a038-4f0d-a56d-b485125b3c09',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'c3fcb1fc-0599-4465-90f7-7227d0c3399b',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '0103a6db-c0b8-4af3-bedf-1bbb9f0ad521',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    '83f3ca2a-413d-4743-ab97-eff065295a4f',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'f450be4d-2180-41fa-96a1-7e45543020d9',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'ae4679f5-4cce-4ff2-8fe1-1e8e5c944cbd',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'e7730dba-9015-479d-8104-efaaa7dd11de',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'population',
     '36471769',
     NOW()
   ),
   (
-    'fab9204e-c97e-4c3f-a537-261eac3fe553',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'fe699904-1f9d-4248-b4a1-f2b7b88894a0',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'gdp_md',
     '119700',
     NOW()
   ),
   (
-    'd8cf02a7-43a1-460c-9384-365a9e29d9c3',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '50e38a67-8cfb-4bc7-b94f-77a50ce83190',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '55a20d4d-1e8e-413b-82fd-4b848f1e5733',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'df68fed1-1cb4-4ed0-a59d-2477bf18c295',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '14a9442d-97b2-4d62-854f-3e6e55542130',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'edb80e94-7546-44b6-8472-22a420479a2d',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b4936ecc-4b56-4c84-8979-6414184d6931',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'e1a4dde5-0edd-4d6b-b46b-b6b24807e9e2',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'label_x',
     '-7.187296',
     NOW()
   ),
   (
-    '992c425f-41b7-40ec-944b-063508e3cad7',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '7539551c-f321-46f5-b14f-93d2bc292244',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'label_y',
     '31.650723',
     NOW()
   ),
   (
-    '2f4d233a-9050-43a9-a0bb-dc495338a057',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '383bacf1-9c89-4d19-ae21-2d2ffc0a3291',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'bc7d5f70-aaa4-4568-910c-08c09906c895',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '163f5a51-88d1-436a-80bd-a5966cf2abf6',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'd3d02f71-9cd9-4e7a-9c65-b4878e88645b',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '33cde259-ad00-47dd-bb0d-2c3484364591',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    '98cb3334-c303-4eec-9c04-e5a0d7ee92e5',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'a9aa4330-293f-440a-ae9d-4db9f01d4764',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'd3d74946-9e2a-421b-a098-5e627de4e173',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'ce152415-e509-4df2-987d-a35433e160ae',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'population',
     '603253',
     NOW()
   ),
   (
-    '77aba3d1-650c-4d51-b0b5-c018d37e0e01',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '4ce16c75-0061-4a80-b9ba-a86d83badf61',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'gdp_md',
     '907',
     NOW()
   ),
   (
-    'b4e6b7dd-a048-4b2b-8abe-5217108a709d',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '9ce1e56f-459d-4fbf-98b8-5a5f1a472afe',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '7648c0ab-7ab0-49e6-8cf9-5c68be1cb019',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'f430cc60-1d19-41e6-a9ef-6b95ce4ba4fe',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'd098b7e9-4cdb-4581-8e20-52d960f67ab3',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '1ae2c588-5148-4ddf-b77e-83535c2b777d',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'type',
     'Indeterminate',
     NOW()
   ),
   (
-    'df86e673-8911-4224-944b-2fbc381cbb38',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '2bde74c8-c737-4af1-b941-3f4e4bb34210',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'label_x',
     '-12.630304',
     NOW()
   ),
   (
-    '528d9c83-af84-455c-9446-971d9402d669',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'a9639a8f-fac0-4764-8a38-c11c9cebc240',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'label_y',
     '23.967592',
     NOW()
   ),
   (
-    'a475ae96-a081-406e-979f-3d8be128e212',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'c76b1300-0e80-439d-aec3-abb2387f822a',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '5c8e08fd-477e-41c8-aaf3-c443a199171a',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '75e0cd38-d98f-4356-a2cc-7844223c0740',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'b1e758e3-93db-4c6f-80e1-31d08c7daf13',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'ebab8d1a-48d6-498d-8975-55ada4411c94',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    'c9d08520-3d8c-4fbc-a5b2-8d579dd0fc30',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'c46bfbc4-4874-4e96-a2be-3e0618ae643c',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '784769ff-3fd8-49c3-859f-4fb2057f6873',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '3c825cd1-c52d-4470-90d3-05332bed43da',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'population',
     '622137',
     NOW()
   ),
   (
-    '4a4b5fc9-7657-4376-9501-beaaa380cfb8',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'cdd87697-562a-4514-bb0e-8c98787860b6',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'gdp_md',
     '5542',
     NOW()
   ),
   (
-    '9b7fedf5-ea8d-4e58-9523-44c58748d134',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '5ff98f1e-7637-48c5-8e8f-aa62050db6d3',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'fb637f84-9a82-436b-b76f-761067f8b3fc',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '5f437cce-6f5a-4bea-b556-98f70e0a8740',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'ef11b2e5-ae41-43ad-b3b1-28c848980e9d',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '484892c7-37f7-456e-9e2a-755ddb8490cc',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e7bb466d-3d34-410c-b1cb-633fef64ccbd',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'd63b06cf-8c10-43c8-9036-d214126d6adf',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'label_x',
     '19.143727',
     NOW()
   ),
   (
-    '69dad82a-9b12-4feb-912f-d4c934d075e5',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    '289f52bb-0ff6-461f-8e8d-628e0e8f8f39',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'label_y',
     '42.803101',
     NOW()
   ),
   (
-    '2b15dc7a-ebd3-4ba4-811f-172138e780dc',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'ee9e4fa4-d9ca-42ea-a524-2b9e5f3025f7',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '93900a08-e68c-453a-9468-554c47a35561',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '00bf526b-6401-4644-a8e1-5d06bf3a44e0',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '5029c220-c2eb-49d0-a53c-b3e4cb3a097d',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'c7ffcadd-5ada-442d-8745-89b1fca5a3cf',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    'e6b413a8-e45a-4f25-b7a2-d4be0911dad6',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '7ee4bdeb-9051-4798-a109-d5f32015af1c',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '058ae21a-4dab-4c60-838a-277b2bf6ab2f',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'ed6937d4-ff12-4ff8-b64e-9be9dffcae55',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'population',
     '3225167',
     NOW()
   ),
   (
-    'd3c6a46b-97f5-474b-9296-c8ad0a6f35ea',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'bcfcfdde-77cb-4637-b610-0e9938259f8d',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'gdp_md',
     '13996',
     NOW()
   ),
   (
-    'bb7211f3-3022-4955-9801-71532261d7b5',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '538997cd-ef90-4e5d-a360-e21c68490eff',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '635ffca9-1a8d-4e7a-8867-58c46e521851',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'f29bc077-dd2a-4e64-bc13-707123e39d20',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '87cfdfab-a2f5-4a1f-895d-53641892041e',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'd7607377-09ae-4c4a-89bb-816ab7825df9',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8cef9f37-5086-4fde-9af2-586c17eaa37f',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '52b70109-6159-4ac2-b6a6-025652866bdd',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'label_x',
     '104.150405',
     NOW()
   ),
   (
-    '803328b8-9ea9-4040-8195-681fd46a3cea',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'ccb3390c-5239-403c-a521-2aff60d68946',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'label_y',
     '45.997488',
     NOW()
   ),
   (
-    'a4fde1ee-1add-47df-88a2-36967f6423ae',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '0a8498ec-e211-41e3-8635-c3e1e09521ff',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '67b96fb3-87fd-4b81-9d31-10de60505cf1',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '678cc95d-ec56-4339-99f3-d56f744b2ef3',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'bc22af1e-06c3-4a1f-8840-d26005560465',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '856ec17d-b26c-49e7-83c1-82ddb54231bd',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '23325ce5-321a-414c-98ed-b7ada2ddfb22',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '4cee5e48-f0db-4059-af60-7b5734808a65',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'd5148878-66eb-444b-a770-536d1e726c0e',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'fd0cee96-fb15-486c-b45d-498e1fbf0b38',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'population',
     '2657637',
     NOW()
   ),
   (
-    '3d86c293-3662-436d-b900-42dd7dd6e07e',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '8ec4ab05-2232-4241-be32-29548553867a',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'gdp_md',
     '11968',
     NOW()
   ),
   (
-    '2ed3e304-6189-4b75-b74c-5aba1b0c9cb2',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'b0871b06-735a-4856-938e-3b7e00d4856a',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '711a3b10-9b9a-442b-85af-9dc034dfd4de',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'ef1bbb4e-cb6c-4d7a-8560-8e0ab33b364a',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'c527038f-fd74-47e5-9fe8-0123dc18a62d',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '29e3814e-3ebe-474e-89b0-3fd1299c6dc0',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b0e943f2-9467-4cb5-b393-325909cfb9f5',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '9a877813-849b-4b3c-a18b-31358643d67b',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'label_x',
     '28.487904',
     NOW()
   ),
   (
-    '25356b77-b3da-47c6-96bc-5949a59b7d39',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'd8e83882-8b64-4f8d-b8bd-211afa6d692c',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'label_y',
     '47.434999',
     NOW()
   ),
   (
-    'fe1afe3d-b6fa-442f-ad3f-efdbd905d380',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '83181a5b-4deb-4e0a-8ac5-799588ead7bd',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'b6917217-12d3-41fe-9fca-c1ac058a415b',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '7b2f69eb-ae62-4181-b9a3-9dc4b8c7d831',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '39b2040c-ad89-48d6-bbec-2e1ec05bacf9',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '01322cda-15de-452f-968c-6a436ab83a53',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    '3ccba1ca-aa23-4c2c-ab95-343ee4cf4d9c',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '37a42fb5-6e91-4f3c-9d23-05677499722c',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '08bb81b7-2510-47e7-89ba-28a2b118c865',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '6e21f2cc-b343-4255-a88c-cdbac8b17c9b',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'population',
     '38964',
     NOW()
   ),
   (
-    '199abced-7b20-4733-b10e-a0f2dcafb256',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '2ac46ed5-702c-4946-b087-ca328761d7ea',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'gdp_md',
     '7188',
     NOW()
   ),
   (
-    '7c9903a1-95c1-434d-93d3-d0088d95ed1f',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '606e9cd6-fef9-4684-94a3-509bee83d767',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '26ecd366-a8d2-4975-b6da-5e3f85b330e9',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'cda69cf2-cf7c-46bb-867b-f54df530f9fc',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'c56fbdd2-301a-4141-8dd8-188e9289d317',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '8eaf9fd3-a973-4757-b625-fd713f179edf',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '92839a29-5d62-440e-83bd-68cb4ed9d127',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '87cb3dd5-a8a0-4483-99fe-a1e568399cfb',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'label_x',
     '7.398291',
     NOW()
   ),
   (
-    '4e46937a-a327-4703-ab19-822f1dff4ea3',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'c0877fa2-062f-41a2-98bb-b07e789a347b',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'label_y',
     '43.739652',
     NOW()
   ),
   (
-    'b3a9f927-b626-4e4e-9ed4-7a90576f4921',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '5f86417c-630c-4cdc-84f0-1bc7ea0230ff',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'd942adca-fa0d-4fc6-88cd-a611d7f83338',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'bbb5d541-8a0a-4cfb-b9e7-66a2eec98791',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '2c5c8fd8-98e0-4390-9666-70bbf45b9e4f',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '782ee9fe-df89-4cff-9c13-72c04b0a209b',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    '5fd147f1-5600-4d6e-89c4-07f50315bb15',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '4e20e3cd-706d-403b-8abc-c2e5928800f3',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'd1d60da8-5314-45e0-bf1e-09d170c2ac6c',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '87664693-e73a-438b-b32c-a9f32ff23649',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'population',
     '127575529',
     NOW()
   ),
   (
-    '1b8e54cc-5d9d-4485-8104-e1d55e3192c3',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'b3c7ae84-0a15-40bd-9293-ce09b7a4b998',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'gdp_md',
     '1268870',
     NOW()
   ),
   (
-    'a870c5a0-698f-4266-be4e-116710998f77',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'dd1ba54e-03d5-40aa-8c38-f12ce6ffd841',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
   ),
   (
-    'cad16f2c-b5f0-4a2b-b0ab-cafd2a6e675c',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'd1340c72-f7e5-4af8-aed9-9e28482ed903',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '4281cccf-b007-4572-9307-ac7ebe0d8bfb',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '7cd5e4f9-9835-4d32-a81a-228b05d2eaaa',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0ef7e201-cb44-486c-9d54-04af96074d0e',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'f417e08e-69a5-42f5-94a5-4be41bea2034',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'label_x',
     '-102.289448',
     NOW()
   ),
   (
-    '736c7d78-a491-4d6e-9ac7-395af5fe5a8f',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'eda264ea-bc15-40a7-9db2-cce4cc6db1cd',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'label_y',
     '23.919988',
     NOW()
   ),
   (
-    '66d08248-f90e-4a06-9fc6-de0f420b9d75',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '91fa9e7e-7048-4e77-8458-bc644bf64044',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'ebf2ab89-d9ce-4351-b610-2715d69a87b0',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '613b1ca6-1d3d-489d-a13b-307c740857b6',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '88ac9627-217a-401b-8a3b-7b491754b0de',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '461ee211-0114-49dc-b807-2f4abe747e05',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '105856eb-f3c8-4cf4-8c2c-f839a45df3f6',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '43cb310e-a4c0-4347-959e-5c6a6757ef34',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '983335c9-933d-45fb-b1d6-52a9477511bf',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '44415481-264e-4682-8740-dc04b414ecc4',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'population',
     '1265711',
     NOW()
   ),
   (
-    '1a9e6aa9-d152-4124-9a09-a388f3028c4e',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'bd28f068-dbdc-41d3-81da-fd58b0ea2f7d',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'gdp_md',
     '14048',
     NOW()
   ),
   (
-    'cdbf8371-1cbc-47f2-90e8-f35303b7e840',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '954fb138-7a67-4028-a5b2-19dd36207574',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '62bea522-5f55-43eb-8946-c2b87247693c',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'b40405f7-a696-4bb3-947d-5d79439e99c6',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'aa735388-4f77-471c-88fd-68af018ffbb0',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '1e035b47-16cb-46c2-87c4-0530f718933e',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '5866e781-d67f-4696-bfee-44848fa6ea46',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'ebfbe743-b128-4f5f-bdfd-f9dc47513699',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'label_x',
     '57.565848',
     NOW()
   ),
   (
-    '532114ff-3f24-4617-9087-ce9efbf00b1b',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'f5861fc8-5381-4395-97a2-f2f733cf07a8',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'label_y',
     '-20.299506',
     NOW()
   ),
   (
-    'cd41b7a0-7697-490b-93f0-c0a42338c2fe',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '43c15084-7fe3-4449-8ab6-b659c09786e6',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '565f0354-0008-4dd0-975a-68beb62e3bc1',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    'cf56bcc3-57a7-4914-8006-0a17b91b0f3b',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '19f627ac-c6c3-492d-b8f5-2456395c52b1',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '075f40b1-de64-4d9a-93ca-80b0adf4d7e2',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    'c390a107-0018-4b12-b65a-ba8e899e4c75',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    'a21a171f-0056-4e44-b5c2-b271f7d22d86',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'd69f65b8-987b-4902-9a54-9d5ac2d7021b',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '4236cbc8-ea65-4feb-b5b6-79eb58255a3c',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'population',
     '4525696',
     NOW()
   ),
   (
-    '571b771d-fc9d-4390-baf6-bc5d5a4d9b3d',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '5239092a-4011-4390-9352-c68794c34aed',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'gdp_md',
     '7600',
     NOW()
   ),
   (
-    '47e2b0d2-e3bd-43be-9526-3b2e4f3f8726',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '8d82c82f-4d11-4977-887f-f075b42f87c1',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'ba6ca6d4-8e05-4978-930d-49bf92dadf1e',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '901555e6-c60a-4e9c-9232-a468f9025ffe',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'dba19e7c-36b0-4aff-bde7-0073101da6c9',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '53bbc576-5195-4337-9a68-7674ebe78a6e',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '73ae8c94-376e-478b-8109-4c0926a410f6',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '3ab8fd1d-c167-4784-9c2e-0c530aa5e7cd',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'label_x',
     '-9.740299',
     NOW()
   ),
   (
-    'c323c5b3-436f-49f0-9419-75e20e4fabaa',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '438dcf5f-f609-4e79-a252-79561031e3f2',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'label_y',
     '19.587062',
     NOW()
   ),
   (
-    '9e9b7759-6292-4046-9e49-4c4b76c8d736',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '63de6763-1733-4a53-aec4-5db7bcfa6db8',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'e7a85503-589b-4c90-8bad-fd3d847f1d51',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '4ec06ee9-8cce-4ad8-a9ef-b239fd8e55f5',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4ec34fc6-a1c5-4a90-a68f-a9c4459eb138',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'a1fedaf2-8c90-4010-bbf2-285e1d9d3071',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '897ad581-2cc8-4aee-8183-a429ca41f2e3',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'feec90a0-bc21-429f-bf4e-ed51721a2d60',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '80742628-8e26-4133-a765-96d4587393bf',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'cb52ee1d-b89c-4817-b584-1f53a6086651',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'population',
     '502653',
     NOW()
   ),
   (
-    'da01be23-83c8-44c7-8f68-3b382b27fc40',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'cad32baa-70c9-4ff6-b0c3-7fc1b6bb8a87',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'gdp_md',
     '14989',
     NOW()
   ),
   (
-    '14fb4a53-2a5a-42c9-a361-991e5ace4733',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'c952c315-7a19-475d-a79a-c4a1ce602751',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '86092a7a-0171-41ed-94d6-4b29da121a80',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'c4fa0364-683b-47bb-91d4-8a6ec43b0420',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '92ee5927-4795-413b-8801-76fddf1ece5d',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '35068632-c1fd-4af2-b645-54bc06f084e2',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8c2be27b-ff4a-4089-9fd2-eff3a3ccbfa2',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'a2dd2729-58f1-4937-a28b-8f95581992d5',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'label_x',
     '14.433005',
     NOW()
   ),
   (
-    '4b157043-1e02-420c-aa48-7a6075e117e4',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'fbedc8d5-7e4b-40ce-bfd5-df977ac01b55',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'label_y',
     '35.892886',
     NOW()
   ),
   (
-    '15db1e84-f054-414a-9876-8e8a38f0e286',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'ea57b822-6823-4c3a-a609-3b0a84c104b9',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '1a029dc6-1cd6-4a47-bed6-5aabda696482',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '17897f80-a1a9-4c0a-89cb-7b8f2c13d573',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '4b2f6690-89ac-426a-b031-821bcee711cd',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'bd546a34-aedb-4ac5-93ed-12cc64c43038',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '83d290b0-fd58-4387-9ee1-fc6261c6dd70',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '1632ae86-f682-4687-8aec-c98ad3a44f21',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'f550a99a-ea1f-421c-ad29-b5421eba4644',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'b701f5c1-0e43-4974-b6a2-200b295e158c',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'population',
     '19658031',
     NOW()
   ),
   (
-    '67f75078-42d2-423a-95c3-10e22e880861',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'd1edaa6e-7863-4f27-bec5-05a62546008f',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'gdp_md',
     '17279',
     NOW()
   ),
   (
-    '0b86d065-376f-42e7-bd17-a47c63b38bfa',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '07f5b1b2-3ca2-478a-b07a-19c51466930d',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '3d97ba8f-969a-40e4-9a15-82f091b57ec1',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'a9fe75cb-5634-4adb-90fb-2e6a7fef2bea',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '7bc8237c-307b-4cf6-b09a-ee81ea9baa5b',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '4a282495-d2fd-4ef0-b5b9-8cc10d3e0601',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c9d85cf4-aac0-48d6-aa87-3bd04bc402fc',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '87e8cf48-f93b-4708-bb08-8e5193a1ea7e',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'label_x',
     '-2.038455',
     NOW()
   ),
   (
-    'ebaf4080-80d1-4f5d-a414-84def9f5881f',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '2f661ee2-0455-472e-8039-388e8db64eec',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'label_y',
     '18.692713',
     NOW()
   ),
   (
-    'd22e6f08-8518-4777-8a96-38e7a57560c0',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '9914f549-d774-4564-b525-120b78f395c2',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    '368a277c-8bd1-4cdc-9f67-24967b8334d0',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'c5286c8d-d76e-459b-b436-2f3e4ff8455b',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '89b7a96d-c1a4-405a-8b12-b884ed55c386',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'cd41eca0-eac8-431d-a630-a2686bd524b1',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '9685ade6-d705-4939-a0ed-ef559d21411e',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '65fe46f6-36f5-44c5-bfc5-feac2db9cd1b',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    'd642d4e3-fa55-4035-afac-4bac5ab24143',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'dbf2bc3c-8928-4a3d-b88d-6d52350c96bc',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'population',
     '530953',
     NOW()
   ),
   (
-    'df23d1c6-01e9-4bd5-9592-f52893b20c7c',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'e4a0510e-1985-4711-91be-b4e38eb56f03',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'gdp_md',
     '5642',
     NOW()
   ),
   (
-    'a63ff191-8f9f-4197-b630-cb828b218ccd',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'b4597e61-04fa-40ae-9741-f72f216de3d7',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'a77a3ff1-ad41-4cfb-aad2-03cd4ccaf168',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '90e126b4-84d5-4108-9b32-024bbc4347e2',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'b31d3bb2-4763-4dff-a53d-1cc3894da252',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    'eba77e51-dddb-4262-b480-fa2796d07202',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '224fee53-9f17-4b7f-9b19-3053ecee721d',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '51e29f06-f80f-4efb-88fc-8fa649391d91',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'label_x',
     '73.507554',
     NOW()
   ),
   (
-    '754f760f-f42b-43ad-be7f-46b838aa673c',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '4260e797-a3e8-4760-acaa-59d7ebbff8ab',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'label_y',
     '4.174441',
     NOW()
   ),
   (
-    'cfd64c70-3eae-4293-97fd-510d5b79122e',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'd948b43f-385d-4dfa-99c2-6fcdd0415074',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'e99ac86a-d7c9-4273-8269-fa9b9054ebbc',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '615c861e-e15b-4371-b722-91028d990277',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '954d47de-6f8f-4160-aab0-af23a6081eb3',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '217ea155-40c4-4a6b-aba0-614aae1663b4',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '4802e26e-d84b-4280-ab29-87f663c6c7b6',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '8c68f169-9d10-4594-be3c-4eee2d3aab46',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '2e6bb935-a393-4bc3-be2e-6e864c3eac95',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '7416e16e-7a49-4f82-8eac-fa3dbb4e7b53',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'population',
     '31949777',
     NOW()
   ),
   (
-    '22d2a32b-f56f-4187-b64e-37ccb74553d1',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'b4fffd28-745f-4650-8e74-dd53f97f9674',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'gdp_md',
     '364681',
     NOW()
   ),
   (
-    '657b1b26-12d5-4f37-9e3c-d0be62d46b40',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'ef05659c-3b42-4197-b145-6bd2508352a1',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '1ff4f1c2-b6d9-4bdb-b883-660ff1c87e7d',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '330a5bab-24db-43d2-a5d4-e3d7a4c1e988',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'e9a74b12-4faf-4cb0-be8c-3a37c99960d7',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'b19cab46-2b10-4da1-86b0-726d40d798fa',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '15c806b5-accd-4de8-af6b-3ab5175043e0',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '279a0e4a-5d29-46bc-87cd-ad87187bb3d3',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'label_x',
     '113.83708',
     NOW()
   ),
   (
-    '71b89b9e-3af6-47f5-96cc-ae3b27dd8abd',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '9803847c-020f-4bec-b8b0-9d2f6fea183a',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'label_y',
     '2.528667',
     NOW()
   ),
   (
-    '98b0daae-fe1b-4206-bf96-8b09d9863c80',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'a499df9b-e1e1-492b-b369-b5ec20c2e52b',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '4145e1cd-f7f0-4859-a8aa-488a2a98f3ee',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '0b860b4c-9699-4cf1-83cf-6164591e8c95',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '991dc3a8-b3a7-4ef8-801b-814f16209751',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '9f2761c0-add4-427c-aedb-13a1b8de0a3b',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '8f59d901-93a2-4842-b93e-72dce43c0800',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '389389ab-977d-4a99-8d4a-29ef98ee8bba',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'e832ea92-0d74-4dbd-bcce-c31f8c9032a3',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'b3aeb44c-ebf9-443b-919d-0fca034aa9b8',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'population',
     '18628747',
     NOW()
   ),
   (
-    'de9380c4-6671-4ead-a821-c5d948952f7f',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'eb97b404-1eec-4f0c-9b6c-06d9b7ceaf84',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'gdp_md',
     '7666',
     NOW()
   ),
   (
-    'db06d851-4534-493a-b92f-08eedd214a0e',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'a91180b6-7b49-4f29-bf1f-eeba6afc8893',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '543b065d-9dfc-4db7-b48f-66fdb10ff3e0',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '3b6adfa9-9599-43a7-b093-47c6640afd8f',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '2e8865cd-d52c-4a96-9e9d-c06ffac8ec3c',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '764b690c-5626-4f56-a56d-9a58d7ebf632',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '82c7a4e4-7bbd-4127-894e-01f603bb88f8',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '08c76590-5fc0-4ebb-bdc0-0482f03dfb3d',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'label_x',
     '33.608082',
     NOW()
   ),
   (
-    '10d29365-2217-4b6f-8575-b2000c81dfce',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '905658a7-7a5f-45b5-9b1d-7f661c577427',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'label_y',
     '-13.386737',
     NOW()
   ),
   (
-    '31907028-fc31-4341-b5b8-ece076f938c5',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'd1c660f4-7603-4654-91bf-41bd54cabb44',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'c80e1c66-327e-485f-9e6c-dd74cff7d445',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '0b93a4f9-3ed3-459d-9baf-61c87a6671ef',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '78e1a6c3-f9a3-4d52-be99-29c1960f2e52',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'b4308fc3-7741-4514-95ef-82b391ea8f96',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '0c428e0a-b5dc-48f2-a3fe-c56817b6fc0c',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'b5fdd035-41ce-4663-82f2-a374cd4269c0',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '3a710098-7446-499d-9c83-f03d3c89e4d9',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '1fd9a30c-1be7-4896-a65a-9b1bb6ca1ac9',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'population',
     '26969307',
     NOW()
   ),
   (
-    'd2ebfb9d-b1c3-4306-88d3-ca01aee50389',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '071d5962-1e5a-4259-bbd8-f74239f74636',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'gdp_md',
     '14114',
     NOW()
   ),
   (
-    'dfd75304-0e15-43b4-b331-fc4a1920b339',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'f23ba5b7-69bb-402b-9250-77c6fab51d31',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '4850831c-b403-4390-b192-471ffc661505',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '47018b7a-6d8c-48a5-ae4b-83a8548dc073',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'e9276344-6db2-4ddc-8be4-7e8f838d5973',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '03c7a073-4af0-46b4-a4f5-b18f82db518f',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e28ccda9-ac7d-4409-a6a4-99fb3941060c',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '4a867623-1e45-453f-84ad-d995abb16820',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'label_x',
     '46.704241',
     NOW()
   ),
   (
-    'b84e6339-16a9-4d8b-801c-7c51db75218a',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'c9647757-7f37-413b-a86b-d264fd1fb059',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'label_y',
     '-18.628288',
     NOW()
   ),
   (
-    '40f7e6e4-7792-49fc-959e-ea247e2da464',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '2fd321b7-15a6-429c-8a99-9c4ae88f0e90',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'bd9031de-50e1-4795-9253-bb0d125cc332',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '7e506e2b-4c09-4c58-8bf3-caee02b6279c',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '23d08afa-b982-4770-93f1-3100982494c3',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '5d450a6b-90a5-4d6c-aadf-0b176e57e0cb',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    'f2a65d1b-e938-49df-9aa9-d2b1950e9a7c',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '50b313d9-fa55-4183-a895-4222bbad464b',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'af6d0b63-a0b6-4e72-91a7-722048c09ab6',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'c27845eb-386a-4733-bfaa-a0163c8f4290',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'population',
     '2083459',
     NOW()
   ),
   (
-    '8fe37e41-ac3b-4d88-9389-fd5d26540ab6',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '53833f5c-c72f-4785-ae27-70dfefb7f3a0',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'gdp_md',
     '12547',
     NOW()
   ),
   (
-    'cde0dbfb-93c1-4e28-a26a-ef4dc0362704',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'fbfa5130-e376-4f50-8acb-c1ca99f86ba7',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '6a3d3109-b19a-48e0-a8cc-da4722165c99',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '06846923-556e-43fa-a103-a345047118f7',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'ddc041f3-f1ae-428b-ac41-5da5dd910d7b',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'bd6bf69c-3494-49e4-b774-13128460479f',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '38d71546-c3bc-4f2d-9fe4-de0fd5e3220d',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '83f34c40-1bbb-47d9-ae67-9d547cf7aa69',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'label_x',
     '21.555839',
     NOW()
   ),
   (
-    'be3dc2f4-7f73-4993-841a-6586629e9b96',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '370500cd-6166-4395-ba88-916b35b0a1eb',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'label_y',
     '41.558223',
     NOW()
   ),
   (
-    'a24d783c-4d85-45a9-8f86-9fa522447b0e',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '1f1cbec2-aa37-466f-90f4-f077dbd8fec4',
+    'c6745687-a436-492f-8e48-200a98440445',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '2330481a-8161-4166-acbf-c06740009509',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '2f28137c-a3ce-4f1c-9785-1f563bf96237',
+    'c6745687-a436-492f-8e48-200a98440445',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '384e2417-ef14-4f57-991f-4539c58e790a',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'b8ba1897-f873-4ad0-9395-8fc5a7825620',
+    'c6745687-a436-492f-8e48-200a98440445',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    'a3803723-cf11-42d3-8711-5bf67356481a',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '1c4797fc-1f6c-4b72-b681-d706c2e8b104',
+    'c6745687-a436-492f-8e48-200a98440445',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '29fb818c-df72-4b15-b5d3-1b3e3fa3eb41',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'fd4724bc-c24b-4a9f-8e01-cb515cffe56a',
+    'c6745687-a436-492f-8e48-200a98440445',
     'population',
     '619896',
     NOW()
   ),
   (
-    'fdec9d56-0071-464d-b3b0-3df90da5c894',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'f122d63a-9173-41c5-847f-38e8b0ef2c4b',
+    'c6745687-a436-492f-8e48-200a98440445',
     'gdp_md',
     '71104',
     NOW()
   ),
   (
-    '67df368d-1b75-486e-aa64-7ef51204e5eb',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'cf250b74-7c8c-4ffc-b466-ab82a1dbd1af',
+    'c6745687-a436-492f-8e48-200a98440445',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '09595ab7-e5b3-4acc-a644-da7d0313575d',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '86df80d5-1dd8-4f39-b3b8-acef58baffb1',
+    'c6745687-a436-492f-8e48-200a98440445',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'ca498bfb-2087-487a-9524-cd79c0324a93',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '8ccec64e-52f9-44bd-b0f1-1e6bb965280e',
+    'c6745687-a436-492f-8e48-200a98440445',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f54c9c8d-954b-4be8-a9b6-a8ebdce9b003',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '53fac39d-ec11-4623-9d2e-cac07cb1d45c',
+    'c6745687-a436-492f-8e48-200a98440445',
     'label_x',
     '6.07762',
     NOW()
   ),
   (
-    'c53bdcbd-63b3-4a7a-b5cc-28dd87efc9da',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '329a1797-7ee8-4f42-9ceb-ae3310ee20dd',
+    'c6745687-a436-492f-8e48-200a98440445',
     'label_y',
     '49.733732',
     NOW()
   ),
   (
-    'b2b3402f-9aa2-4839-a89b-bc08801b72bc',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '7999670e-67b2-4150-af85-6dd1bb2416e2',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'dcb97884-3d2b-4653-9da2-bc920283bf59',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    'eabc10b9-0061-4113-a63e-dda372e43b61',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'e8a655b1-8eb9-41f1-a2f2-5c0c90672606',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '502fce28-253a-44ec-b99c-a376864f192f',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    'aa13f974-dfd8-4404-858d-55351dbd609c',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '73c046c7-d1a1-4a47-a5a8-042d0595bd1c',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'b667b2e3-f3f3-4e81-b943-626e7acdb160',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '00c31f7c-7f31-4f47-8fa2-d065fdf6b870',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'population',
     '2786844',
     NOW()
   ),
   (
-    '44938ef4-30a8-4502-9d84-32cc8f573742',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    'bf16912b-5abc-4911-bb20-4b1e91ac30fe',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'gdp_md',
     '54627',
     NOW()
   ),
   (
-    '122d808f-81ba-4fe6-9851-a75b7b127f1a',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '9c0517dc-cb9c-4bc7-a5c7-a2e50a4873e9',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '69f2b9cd-dfb3-4a3c-8a0c-dc03e7e7a946',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '5bd02c11-b96c-45e7-87a1-45dd5a31eda8',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '600d1ea4-8946-4321-9359-20b01a9f09d1',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    'd6dd1cc4-a932-4372-8603-4612c8fcf5d7',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'eab9a18e-4955-4c17-b844-e39adb723239',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '96a2e6cd-f18a-4fb8-8367-020e1647f10d',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'label_x',
     '24.089932',
     NOW()
   ),
   (
-    '202a12eb-efbd-444f-a1f3-a30883e40927',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '66ed6231-40f3-4013-9bd3-f49486d37f23',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'label_y',
     '55.103703',
     NOW()
   ),
   (
-    'efe71b2c-a125-4da7-a54d-77c480cf0a33',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '45c81fca-7d42-454b-a5ba-0fced2c210d4',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '8ebf1729-ba81-4d3e-9d84-f1d1fc5cff8f',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '64cc867a-6007-4f02-a0ac-c1877233fbf4',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '2f60fadd-c24c-42b5-958f-918085000c03',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '0d944145-48f5-4734-b140-a12d5aca9b51',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    'a475e536-0e2a-4a37-ba8c-a8d87590c069',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '080ee550-5c96-4cc9-a5c2-20a81ed48ccd',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '4f15de88-8487-4648-82e4-409fc43a244c',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '55064bc7-3109-4b57-81f1-f003e0ba14bc',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'population',
     '38019',
     NOW()
   ),
   (
-    '1f9b01f6-2483-45ae-bab7-c0aefb71f218',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    'c8e813da-7957-4a86-8d64-5281bddb96ea',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'gdp_md',
     '6876',
     NOW()
   ),
   (
-    '00065751-e8ca-447e-9657-5e747b55b174',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '09ed6b66-fa03-4e3a-9c67-53fa16bbea49',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '3d79178d-283d-4b34-b49b-7a0a95943992',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '65617349-d93c-453b-8fe9-9b72a05addb8',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '9831cda9-dddd-4d13-b494-de59387720e3',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    'a2bb7f52-7474-4f9b-b8b6-067567c4ee2b',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ebd3d8e0-aa08-41f8-b13a-f0439e956e77',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '1d073564-fa77-49ba-9dfb-0164280f5220',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'label_x',
     '9.559439',
     NOW()
   ),
   (
-    'f88a2c4c-36ed-4418-9a6e-b21cd4480f76',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    'd5785f1e-c68d-4da6-b837-9499cb3668c3',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'label_y',
     '47.111405',
     NOW()
   ),
   (
-    '5cf9f2b9-f805-4286-8cc7-f4fd350941af',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '13beea11-365b-4ea3-a11c-fce1b503b4d4',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '2e8c6bf1-329e-4b55-a674-4862b120fbce',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'c5e6159d-6072-420b-b958-59e05a0fecdd',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'ae4f5028-ca14-4877-8e8f-ea4646f1c06f',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'f89524d3-4177-41ad-8fa9-cbcb5f298ce9',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    '2a7d24f7-b2a4-4fb4-80c5-97386968f56b',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '3bb106c8-205f-43cb-93d0-6da5f402890d',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'a583172e-57d2-49e0-91f8-28e6a80a4655',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '487a48a0-04cf-447f-b2e8-71c7b66551fb',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'population',
     '6777452',
     NOW()
   ),
   (
-    '8cf5b9c6-92d0-40ec-a95d-1452a2dc079d',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '85699e6f-8f12-4be8-9026-cdbe73f9f0a4',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'gdp_md',
     '52091',
     NOW()
   ),
   (
-    '266b3e8c-048a-49e0-a03e-331e22397cd6',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '3ba2db0c-7e8e-4636-814c-05f8e883b001',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '08ef3b33-0f9e-42e2-bbc2-ece8b7d3b56c',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'da5ffde1-e61e-4d45-a02e-efd440cbdbcf',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'dbf5c4f1-65f6-4c71-a170-9bb7f3395b0f',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'bbbf8085-b52b-4052-ab10-3cd428fc03cf',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '8b8f5247-3481-4e01-a82f-a5924a9cfceb',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'e84207db-18bb-412d-843b-c03fd6f9c381',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'label_x',
     '18.011015',
     NOW()
   ),
   (
-    '560c4659-09a9-4f94-aef7-c57f6fe81891',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'e613effa-01f8-428e-8c0f-cececd49502d',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'label_y',
     '26.638944',
     NOW()
   ),
   (
-    '5ad29fb9-31c6-4778-8063-042a618337cf',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'deadd5fb-b613-4ff7-88d3-3c1f380ebe03',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '0a8aa6ef-723a-4240-b2fa-06f795836349',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'ede0c5b8-5ef1-411f-a5f7-1cd4626fec2b',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '2ab05288-51ca-4c26-b570-611c73489743',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '6bd54b8d-4ae1-4ec0-aedb-bbc473bdebf3',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '08b9fb3d-a46c-49a2-981f-235dd2f65719',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '5297d3d6-7e54-4b70-8d14-91f7f01aa312',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '037c8b99-d754-45ae-accb-16bdc8fc2b75',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'e144e5cb-4047-4670-9b96-09e10d37f5f7',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'population',
     '4937374',
     NOW()
   ),
   (
-    'b981e75c-aeb7-4c38-a44c-d84b97623e97',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '9cc4bd1d-ac63-40f6-911c-214ec0e8b09c',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'gdp_md',
     '3070',
     NOW()
   ),
   (
-    '98c811b6-4702-436d-b0af-11e37a2ab622',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'a3b60ba0-99c7-4419-9c44-01a23172e5e2',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '10f3779e-ecaa-4d95-8d7e-0fae96d6dc8e',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'dc8b8693-e84d-46e0-9bc9-1346237ac921',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'fb4c2838-80ac-4ab3-ac05-a08f0a3b88ad',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '2b8c9757-18e7-451a-ad3a-9494aeab9338',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '3b3cbeb2-2279-4a23-8794-7292f61ba5b6',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'e1f350ff-9fb8-42b5-b87e-c3b46d879053',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'label_x',
     '-9.460379',
     NOW()
   ),
   (
-    'e245f34a-b896-49ea-b489-5b28d8780e37',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    'a174446f-f2a6-43bf-859f-1635b5483ff3',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'label_y',
     '6.447177',
     NOW()
   ),
   (
-    '6dbd0581-3a16-43e9-87ed-5d962d6dbc88',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '315c68b7-d6bd-44d7-a276-0693841b02c2',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'ef93c744-235a-4929-ad99-9bd1eb9817e0',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '9831e9fc-ec5d-47f1-a356-121fae7f1940',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '2ee6145c-7abf-4f90-9267-a8c5e007e2a5',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'b6cbe46d-0147-4e95-99d5-a8edaff755d8',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'subregion',
     'Southern Africa',
     NOW()
   ),
   (
-    '375978e1-0f2e-4e05-91e2-ca8bd43644b3',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '16c2c6c8-0f78-4308-887b-31a1aa2512cc',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '7bb62de7-a5bf-4715-9ffa-cec6d9774f16',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '741c484b-f363-4b4b-b1d3-a7f077546091',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'population',
     '2125268',
     NOW()
   ),
   (
-    'f2e8fbda-0f42-4c64-8ac4-db2fc47ac8ac',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'e8722af7-62d2-4c0f-aee1-861281792ece',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'gdp_md',
     '2376',
     NOW()
   ),
   (
-    '0e9fc074-61ac-46fa-9126-d50e0b29c6d4',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '965cb9f3-6fa8-4bee-b28f-66c6eb1dbcb2',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '6c1c8582-bf35-4149-b9a3-e40f9342d878',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '7fdb374e-26a6-4ed1-bf07-c48c795de83f',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '73e20fe0-2974-40fc-b8fd-55fb512d51c5',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '1944795c-54f4-4117-a207-b05f42ab1012',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '700e8c04-6095-4097-87ab-02b9572c5d4c',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'b94b284b-61b2-4342-8ebd-5218e7a151ae',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'label_x',
     '28.246639',
     NOW()
   ),
   (
-    'a8a32fc4-0674-4cfe-8ea9-7ff0df6b61fc',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'c770f5e5-7a5f-4bff-b300-a075ac2285fb',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'label_y',
     '-29.480158',
     NOW()
   ),
   (
-    '0e60a318-9590-43fb-a4f7-4a276d33278a',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '84fbd0d1-543e-41cf-ac3c-519a91ce4ec6',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '5db0c172-94b7-4be3-bdb6-ff9cb9f4e084',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '29cc20cc-d30c-44cd-bfa4-c73082a2b1fe',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '4394fbe6-3a25-440e-9c75-7b0fdd07a2ab',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '46ad7888-7480-4d64-a0cb-aacb67e0992b',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '7a3bc702-df86-46cd-966d-69967e02a92a',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'b0cc4c04-fe39-43fa-bbf6-6a4d9af7a188',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '1050c74b-2fa1-4b13-a6d6-de084c686fe5',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '62821334-79df-495a-ac1f-89d672b1de82',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'population',
     '6855713',
     NOW()
   ),
   (
-    '33beb9e0-043a-4f97-b72c-b861a6f43628',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '444146b1-76c1-45ab-8df9-76720c7cbfd4',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'gdp_md',
     '51991',
     NOW()
   ),
   (
-    '9947b815-bc4e-440d-8350-7a3dd48a42f3',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '47d10452-77d3-438f-98ed-50a51e67381a',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'acd318ec-220d-4cef-b248-00f657d748f9',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '5b5fa980-b36e-4ea8-94ac-c81cb80753f4',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'f78dbcc1-7e43-4ffb-b863-cd4987d76ab3',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '27107d23-154f-487c-b361-a2c0854b3876',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0371535d-7f78-441c-b294-b690707e785a',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    'e463d21b-da5f-4b98-b342-3b73bc649b30',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'label_x',
     '35.992892',
     NOW()
   ),
   (
-    'e0b096f2-cd37-454a-83d4-56121d32194d',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '75c05e85-4f71-4113-81bb-73736715f48e',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'label_y',
     '34.133368',
     NOW()
   ),
   (
-    '535d8302-70ad-4cde-9c1a-ad99dbc756cd',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '5c782f36-4470-498a-a90a-674084d3ff4a',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '6f31c8fb-c658-457d-93db-a1aa3fd9db3d',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '631e286a-28ee-431d-9040-552a4abeed9c',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4dea49b6-8fe2-4a1c-850d-d63e923aef39',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'ccfb2001-fb67-4c77-9201-892373d843bf',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '5b34c9a4-d17d-45a0-90da-9c4351820e0d',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'f48ce474-b861-4ef5-ace6-b68f47d17fdb',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '66d1f87a-dd2e-47f9-8268-abfce509918d',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'bee2148a-9ef1-4c3d-bfac-18515857d585',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'population',
     '1912789',
     NOW()
   ),
   (
-    '58fa3f6e-0c24-47e8-93a2-01ea6df6e406',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'eefbb29d-41b5-46af-8238-9ad272151898',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'gdp_md',
     '34102',
     NOW()
   ),
   (
-    'd0401987-d50f-479c-be3a-585ddd080083',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '5f732022-b418-4223-a5b3-597b6f64c183',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '77cfaf4e-5e81-4e8e-884f-bbe4b7852126',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'ae1bcaf7-a21d-4d53-be36-c2a0410a1604',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '292e060e-b269-416c-8e54-e6ef09c631f7',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '776ceea6-ecc2-4384-bd02-4406bd978baa',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '45d9bc8f-1238-4ddb-a219-6d0f3646c01e',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '8cf517d0-f8c5-41b2-80f3-f163b20acfbf',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'label_x',
     '25.458723',
     NOW()
   ),
   (
-    '86e200ee-4888-41b6-9308-bd6fd336e8e1',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '6dfcc92a-d563-49d2-a57e-2cb90700eb6f',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'label_y',
     '57.066872',
     NOW()
   ),
   (
-    'a7f69cfa-266f-4a7e-8d30-b63e6edd4680',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '1f1f25c0-cb2a-488c-a43f-3bff407ddf10',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '7c7d806f-d977-4c85-b426-5d50255e53b6',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'e3dd66e1-5b53-4c3e-815b-a67e2d0cea7f',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '00de7fc2-cbba-4392-a43d-fd258d2ab87f',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'f2bef2a0-7f83-42d5-8ea5-67bc36fb71c7',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    'fa06fdbf-e73a-495c-a4e2-f64a5711e110',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '4a77cfdd-b141-4f2c-a1be-1a689d077ab3',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '6ba9190b-8962-41be-ac41-e72c0d8d97f7',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '372a38d0-5125-4b9a-b8de-ff0eacd5f6ce',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'population',
     '7169455',
     NOW()
   ),
   (
-    'ba664878-d3b2-417e-a152-4c14223f4cfa',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'b9119ba0-aff4-44d5-a70f-e88c2f5dbfdf',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'gdp_md',
     '18173',
     NOW()
   ),
   (
-    'b3d6f300-e97a-48aa-a466-0735b00c0c9d',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'e44d8edc-de90-4121-bb28-476b3b907f7e',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'ce939c0f-693f-4085-8a19-b12e8caadbae',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'f0a52f76-efba-4395-b9de-77400ad54192',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '13a83c0c-7cce-4277-b0f4-c7b133c025e8',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '579915d4-89cd-4e79-96b5-6f8128a01691',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '14608ab6-f8e9-45c6-b71e-bd3695e83c46',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '68e6ba39-0b08-4f32-89b6-5d57b8607c69',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'label_x',
     '102.533912',
     NOW()
   ),
   (
-    '10620603-ace9-4ea7-bbe1-61a1e7e4f91b',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'eee374b4-f46b-47ca-834a-1175e345a4aa',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'label_y',
     '19.431821',
     NOW()
   ),
   (
-    '592b5560-6148-4f76-a7c3-718d0219fddb',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '23e516d5-eb69-42af-95d3-90a210218382',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '78091170-3d1c-48a9-a83c-250cd478111c',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '2e0c2bd1-4ef4-4f73-a53b-d2caef12c693',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '504c5254-3f74-448a-bf8f-4691d4d35ae4',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '6ed981a6-e135-474c-a547-d15cffb7ed0e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'subregion',
     'Central Asia',
     NOW()
   ),
   (
-    '258446ab-d4dd-40e8-91d0-c80cfdd6539d',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '63e2bbe7-3c9e-460c-9f22-31ce756e18e4',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '043a6588-1ec7-47b7-99f4-8ecd6db67d62',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '2c64dc0a-a35b-492d-80a8-67c1d5b89d06',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'population',
     '6456900',
     NOW()
   ),
   (
-    '6b7bdb70-cec2-47da-81d4-c860588fbb13',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'd16dbd2f-91d7-4462-b98b-797c904d9477',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'gdp_md',
     '8454',
     NOW()
   ),
   (
-    '82ad5818-e21a-4e9f-a4dc-c0032a3d201e',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '4a832423-e346-418a-af4e-1e5f3e2a2535',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '99f41a8c-cc4c-47d4-8153-cded2d7ce71f',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '401ca21d-9293-4d4f-8c9c-adca601cc2e1',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '4ad9eeda-85f7-479b-8124-5b25cb1c2194',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '780d38f9-e88d-4fd4-ab5d-9c29fa414aa6',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '874cf37a-327b-4e40-b092-9749f4b11ad6',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'fb3414ec-af8a-4789-bf8b-dc261aae0594',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'label_x',
     '74.532637',
     NOW()
   ),
   (
-    'e872ffca-7b89-4024-be09-f674302597fd',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '7fa9fca4-0b3d-47d8-b304-8eda4313a66e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'label_y',
     '41.66854',
     NOW()
   ),
   (
-    'cd3a73f0-25a7-43f9-b3d2-1dc103372519',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'd4a7163c-9196-41c4-833c-ac556859f116',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'a95e2afb-658c-459a-8376-3264cfd32f63',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '2abc23a0-0858-49d3-9ac8-a037f2aa7abd',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '60d7bc6b-0808-444b-9697-6018078f427b',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'c676aec7-29f9-4f3f-8cc5-761239c07d47',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '5895f6f3-b26c-4012-a9a5-194199c47303',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '111d92af-a5cb-49bc-90a7-194a60321b4a',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'b78d21d1-de8c-403f-b478-3bc28a8051d0',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '40de6a32-4280-4c4b-8b56-bd7dc5ee2e56',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'population',
     '4207083',
     NOW()
   ),
   (
-    '81ee2c1b-2649-4e7e-956c-ed487c7c5090',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '261fd5c7-d916-4f00-acc1-8163b32cd17a',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'gdp_md',
     '134628',
     NOW()
   ),
   (
-    '19c419d9-d818-45d3-93d0-f2606b83d552',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '8d9094cc-6934-4730-89c8-b5954da88079',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '89b317ca-aa27-45a9-a27a-06952da68f17',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '4f6780ec-9a76-4ac9-b8d9-6e24e7e830e0',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '2505954a-777c-4c50-b475-5d06a11c7898',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '4b1002a1-cad6-4c9e-9341-f59a3c55c5f2',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c7f99cd7-85bf-43b4-a870-fc5c49284850',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '4badcf1c-3a75-4197-b7f0-f4bcbe81be16',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'label_x',
     '47.313999',
     NOW()
   ),
   (
-    '84d10d6f-cd5b-4344-9102-9469a19f194a',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'b4b374c4-2dcd-48d2-9617-29ef26710d32',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'label_y',
     '29.413628',
     NOW()
   ),
   (
-    '4c08e245-0a88-489b-9c61-b0b60407574f',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '998770ba-1298-47bc-a912-ce847059f04d',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '6ca76b59-7af3-4bec-a787-dd13e8159b13',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'eb573866-6205-4b2d-82e8-e73dab3ca433',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'dc377e17-0928-41d1-a302-97a119274076',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'd5c6394d-f6fe-4f95-94d0-32821f7f57c9',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '6107ba62-9f48-434b-b065-298083dd811d',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '888d7af2-d02d-4a85-94d7-97cd209c309f',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '57fd60aa-b519-41e5-a39e-2aac36c6583f',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '64483d36-ab0c-4df1-9be3-e695774b4643',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'population',
     '1794248',
     NOW()
   ),
   (
-    '862042a5-88b2-4ec4-ac9d-7977b9d2a7d7',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'cbe41e10-e10a-4266-93c8-ed0968bcb0bb',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'gdp_md',
     '7926',
     NOW()
   ),
   (
-    '24e1bde8-619d-46b4-97c1-b66bef4b0e73',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '4ae1ae85-ff00-4e87-bd6f-4dd479fdff8b',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '34ed8eb3-b1ca-4860-baf8-50b7e91188cf',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'fc7dea3f-8e19-4d5f-bc6a-b080b77f02e8',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '8b7e9136-070f-4103-886e-3c7bea95e719',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '13cbb06e-9e19-488a-88e4-f28a84358646',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'type',
     'Disputed',
     NOW()
   ),
   (
-    '4b71d22a-86e6-48f0-97e0-f01b4c8f45f7',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'e30f7170-bfbe-4903-9ef9-694ae07a6e45',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'label_x',
     '20.860719',
     NOW()
   ),
   (
-    '4e185a48-a7d8-4c58-9555-a8fdad221474',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '499d5317-8e20-43d4-ad78-8be4706abe41',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'label_y',
     '42.593587',
     NOW()
   ),
   (
-    'fa817b4a-5f11-418f-8081-041fd9575d0b',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '808388bd-a85e-40ef-9347-ce636ebe8f64',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '86ad57e8-5dbb-4911-ae65-3c1f69b9b67a',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '2a3ae59f-daaf-41df-a7e8-5dbb0fffddc5',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '007411eb-5f17-4462-9822-356bfc392c1a',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'aac391e9-643f-4346-a673-eeffaacaad82',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'subregion',
     'Micronesia',
     NOW()
   ),
   (
-    'edcde053-da38-48e9-8b9e-64d381c3394d',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '954cae9d-4177-40a0-be72-d7c4128c111e',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '03c07162-e7b9-42ec-82d8-c7c2cc033efe',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '06238e55-3d1b-4645-8212-d3e68aa86ce9',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'population',
     '117606',
     NOW()
   ),
   (
-    'f07bea23-c459-4411-98ef-fe2a8417758d',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '986c2e09-d045-4612-b657-7c90b323eb65',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'gdp_md',
     '194',
     NOW()
   ),
   (
-    'f4b08fc9-91b4-4038-aea9-c082ebd665ff',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '85608830-9c2b-4f07-9ead-8dd66fc230ca',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '2b44336d-0d94-46e3-af95-9eab050aa256',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '78ce348a-2cdb-4014-8281-79bec5f9418c',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '9480b5fd-bcd4-4099-b1aa-de012bb441cf',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '2c9518ad-4a3d-4263-8a36-faeffbea19f4',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0a2032bc-cba0-4f71-87e8-9d072b37c658',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'fddb17ef-3b04-4cb9-a483-a914caac0ae3',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'label_x',
     '-157.384577',
     NOW()
   ),
   (
-    'c14bb3da-31be-4a5e-91be-240ade68a009',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '2f1aeec8-db5b-4929-b629-26df9e982b40',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'label_y',
     '1.820437',
     NOW()
   ),
   (
-    'c44ac566-0128-42d2-baaa-ab8a3d9b4e6e',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '1aecd33d-cd4c-40b2-95fa-b089fe39e682',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '71e86e08-8fd5-4069-9e52-5f83d4090e60',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '01adff86-de88-41b2-afc3-1b5c569d8947',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '3df114f8-34db-4816-adb6-145411d49cb3',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'a043c8f9-b0d3-471b-820e-9aa5aae29ec0',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'b44efbfc-97a4-4068-8bf1-b0384bf66cba',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '1de6b1e3-0f14-4dcf-942b-de5b04745f0d',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '134a7c09-8f42-4d51-bbe0-832203953488',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '2bf667f2-42db-4048-a7fe-86627af78530',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'population',
     '52573973',
     NOW()
   ),
   (
-    'aea1b1ef-30c8-48e6-9ada-ab6a134fe234',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'b4d6e633-5235-4a8f-bb5d-8ff169ee4e55',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'gdp_md',
     '95503',
     NOW()
   ),
   (
-    '81699916-7794-4a74-baf2-d39331bb6d80',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '94436402-06f4-49dd-88af-33fc3bde78a1',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'f708c893-0ced-43e5-a073-42bf185967a0',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '78cfa940-8e89-493b-b572-9a55fde41853',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'ecdb6a27-f1c1-476d-a9f7-34c72c42feca',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '6cd79710-6258-4f65-8d93-b1f096278ca2',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '760aec9a-5912-4779-b527-4cdf7c89aa49',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '708cca07-f5ba-46b3-8e74-d68a49cdcfdc',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'label_x',
     '37.907632',
     NOW()
   ),
   (
-    'f635f909-f89a-4225-a7ca-434473e74b9f',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'cee7d9dc-e744-4519-ab3e-2a6dfc618704',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'label_y',
     '0.549043',
     NOW()
   ),
   (
-    '04d148f4-0a4e-4b65-be99-52d6e21f5bd5',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'cc217844-9955-4ab5-a623-23dcac3d125a',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '598e8eb8-46e8-4190-9cb5-69b68c5fb955',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '5a746e67-ff76-4d25-8e5b-8f812f5fc43a',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '04d1f2e4-c626-4b07-871e-ea60dd40a6e6',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'd99387fe-84f9-481b-8bc4-c057a668bd17',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'subregion',
     'Central Asia',
     NOW()
   ),
   (
-    'ba1ca8e2-3eb2-4f6e-93e4-8cc509f3b909',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'fc70cdb4-1287-4c16-b94d-e4280d289a41',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '3f95d8f5-16fd-463e-9865-0efd2965d358',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '4ace2c22-4c7f-4d97-8253-89768af728a9',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'population',
     '18513930',
     NOW()
   ),
   (
-    '5d70d918-05b6-47c3-858b-393e9fa79cdc',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '54de56a8-338a-4b6a-adeb-ca7bab817a45',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'gdp_md',
     '181665',
     NOW()
   ),
   (
-    'fcb2ffb4-30df-4ba4-ba9b-5eb8d3161371',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    'b95c2f52-53a8-4ad9-890c-6d7ea667d224',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '41e634ef-c7d9-4c78-980f-63e4fd82469b',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '12cf250b-3907-4d7b-b785-b74709c71de0',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '6ae17d12-700f-472c-986f-4c36c886d88c',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '424219ac-f186-44c7-9bb5-37c945b63b93',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'type',
     'Sovereignty',
     NOW()
   ),
   (
-    '58a83312-3fca-4537-9aff-d8b294b4f3f2',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '9bdda1cb-da67-4ad6-abad-3ba27a9c651f',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'label_x',
     '68.685548',
     NOW()
   ),
   (
-    '6160bc6a-db00-4ead-b591-1a606a43e28d',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '3dc24c5c-d425-469b-80c9-bf0fc805ebe2',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'label_y',
     '49.054149',
     NOW()
   ),
   (
-    'ff610771-d49d-4543-9982-2baceef26e82',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'de09ba24-4ef2-4343-910c-4fe1bb8f0d63',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'dc7b6f63-599d-4391-bb31-766ded240efb',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'bcf4aa94-59f5-4ff0-b98b-fb5ff9ec5cb1',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'f3d5f3b3-79ba-455c-94b1-6eac90febe00',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '948e5051-d478-4000-8527-d1be342869ad',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '3365a6b9-9b57-4af7-ac11-aa13429b1bf0',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '2172a998-5ada-4706-8c6c-d4601714bdb0',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '8038e22e-e1e4-41be-b3ee-9aab2a53c04b',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '6b0243b6-46db-4747-9b7e-6f0c185fbbd8',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'population',
     '10101694',
     NOW()
   ),
   (
-    'bf83c104-0ac6-4231-9f4a-e8ffd9fae0d1',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '4747f400-3f9a-4efb-80b3-3afe719749c9',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'gdp_md',
     '44502',
     NOW()
   ),
   (
-    'cb0c040d-87c2-4ab3-8763-d937f106be7b',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '4f5f2822-2e4f-4744-8d84-34a9aa2b6d6a',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4359df68-f130-4b87-8a3b-d207c0c6b1b8',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '6c004c4f-dd92-4b9d-b459-ad0a915ff363',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '0967d61d-ce60-4ce3-b97f-469603937aa5',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '1f41e7b5-52e7-4296-bd94-06919cdb4e3a',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e46e1050-fbdb-440e-b759-3148238c28a1',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '2ffaa7f4-d2ac-42ab-a0fd-7389b467460d',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'label_x',
     '36.375991',
     NOW()
   ),
   (
-    'b59901ab-4333-4c62-a650-117e485183b5',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '452a0d4e-26f5-4f26-847e-0ad92601c85d',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'label_y',
     '30.805025',
     NOW()
   ),
   (
-    '4243597e-a703-47ea-91bb-a4f42a0c6c42',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'cf9ced10-0096-4d9e-9024-3832d28985cc',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '87268a1a-c822-4f94-ac79-91b38ad5b1a4',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '1186be45-3e95-482d-8057-8c6c1d124dfe',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '49b0ea72-9a57-45c8-a7e5-b46cd4a92137',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'caec533c-e9bb-4d4a-9ca3-28a4f6eebfe5',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    'f093cc91-7bfe-4e0e-a28a-1799e97adcf6',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'b66cee31-2049-4a81-a9be-1f4db7c169d4',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '76d8995c-a064-4d55-bc49-20f4518a050d',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'bae5cf06-0786-4c65-a44f-ac176838a980',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'population',
     '126264931',
     NOW()
   ),
   (
-    'd6996aab-c98e-4206-a7c7-ceac0d874592',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'a07b859e-efe3-484c-a8aa-5eba11e9535b',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'gdp_md',
     '5081769',
     NOW()
   ),
   (
-    '69c7ee46-48e9-485a-af36-a6af51696900',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '9587963f-9969-43ee-81cb-99bc2b364a48',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    '8ea489c5-3f74-4ff9-a4cb-d65ffef64d6e',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '3e5a5473-37f6-4187-802b-2d2cb13757b8',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '0f12b086-5af6-4caf-9325-b89e4ae54250',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '69134137-bec6-49bf-b282-4cd6109fe180',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'cbbe9029-8c16-4708-b449-dc659307a591',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '3abc2655-6792-4e10-babc-710620b19c18',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'label_x',
     '138.44217',
     NOW()
   ),
   (
-    'eb3acb40-891d-48b9-ba46-d845316a2714',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'ae1a1442-5dd7-4419-87a2-9c0bc6ac5040',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'label_y',
     '36.142538',
     NOW()
   ),
   (
-    '2dd62aa1-a01e-4b1f-a7f1-08d1eb278a78',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '0b4b38c7-3922-4e0c-b12c-bb83a88feedb',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '318c9223-fd15-4da1-95a4-d3cfc5acfeba',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'e8a1e456-f2d7-446c-89bc-988c016809b4',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'b87655bd-450f-4603-8ec0-661727655fee',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '13c9a043-177a-4445-b351-18c879285b0d',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '1f076585-b157-481b-bc09-5d2041a8c357',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'a75ec11f-e477-4641-92a1-74a1d76861b4',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '77f7ac8c-88a6-4f6d-afce-8717a86f8f0b',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '66073bed-8e82-45dc-8d18-2100bd2d944d',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'population',
     '2948279',
     NOW()
   ),
   (
-    'cc12632b-8f50-4f1c-a50d-ae3055ac2276',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '17f7f895-85fd-4b20-9897-da76283bff07',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'gdp_md',
     '16458',
     NOW()
   ),
   (
-    '62111c3c-95d2-45a7-b5c0-31e801295de0',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '7b588687-92a6-4fa4-9ac2-db5d6bf1b1d1',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8f50192c-0d21-4d2a-9645-75459bb902f6',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '3e25c279-0ecb-4cf0-b09d-f60f2fcb7200',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '4bcc6508-eaae-45f6-90fb-02c46dea35f1',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'f61d2986-bbdd-4293-88da-a7701c9563c9',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '40deb7ef-26cf-4307-908f-7503ba48811f',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'ffea5877-692c-4b21-a3c4-05b30ca0501c',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'label_x',
     '-77.318767',
     NOW()
   ),
   (
-    '6b055450-283b-4637-a3fc-53758cba7166',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'd9fe5189-1cd9-41d7-ae92-a0aed24cd488',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'label_y',
     '18.137124',
     NOW()
   ),
   (
-    '61829a63-a41e-4b23-9883-b8ad11acf946',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '6128d08e-fe1a-4209-99c4-876f31212c45',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'b5bbc317-c5b9-4b39-8e73-ece4a3483660',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'b67a2a8e-17f1-410e-af53-5747d2c02d81',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '0ec9aaec-e950-48f3-a86f-44747b8e3e30',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '00587f60-049f-4671-b3c6-93c098113fab',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '1ac82635-7d3f-44c3-bdbe-b04fec6a23ee',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '1b243d02-dd26-4997-ad55-6805dab513c3',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '32fa7e21-face-4cd0-b3b1-f9b75c509d59',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'a9e0bf7a-8801-47ee-8585-6cfe5b0ab110',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'population',
     '60297396',
     NOW()
   ),
   (
-    '9d427421-012d-4791-ad7e-82691a7a246a',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '6fd5fcb2-9086-4269-b1fd-f295fea934d4',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'gdp_md',
     '2003576',
     NOW()
   ),
   (
-    'c343a73a-cf04-459c-9835-2072c9227bb4',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'e320df53-f116-4fb1-b63e-b22b37eaebfc',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    '6e43c5ac-4b10-4d21-846b-97e469b3e4d5',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '799c1805-c048-471d-868b-2c129d9b6922',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '2a2c8452-17da-41d4-9cbc-60ca06e04ecb',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'd643feff-2d67-41a3-ad1e-edeb89239878',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '31bc4844-545b-405f-92df-750744445bab',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '0855ccbb-d7ba-4923-b705-5162b3fce200',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'label_x',
     '11.076907',
     NOW()
   ),
   (
-    '91a8749b-acd7-4f9c-b4f4-78f047ea97c1',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'e248b46b-98aa-4a8e-91fa-eb181c354323',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'label_y',
     '44.732482',
     NOW()
   ),
   (
-    '3f847bfd-2859-463f-bd1a-0c07ceb21356',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'bca7d33a-7542-4d37-90dc-6a6607e1c345',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '6db55e30-2aa2-4279-9c2d-a98ff58996dc',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '0eae3aaf-035c-4835-bcbe-6b8da09c4022',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'e93f8f97-4ce0-40eb-b8f1-5dd7515f75c1',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'fb018060-8b8f-4557-9c1d-1aac677a0412',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '864cd757-8c38-4e06-9000-aa4cb3d6bb43',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '518eff7f-c217-4a8e-8723-b09ea3792aa4',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'bf4a970a-209b-4e71-8c7e-bca58f84bf6c',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '6ebf5c61-8f69-4a40-9d76-148ef9ca4996',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'population',
     '9053300',
     NOW()
   ),
   (
-    'f64f83bc-02a7-49f7-b969-a2b102abdf28',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '52dec732-7c48-44bb-af39-762babd50319',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'gdp_md',
     '394652',
     NOW()
   ),
   (
-    'b08663e9-ecb6-4835-9426-616c7e0d2bd6',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '8707c106-7614-40c2-b4b8-e09d70dd62eb',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '9c0d200b-4dc4-445d-9661-80665a5b89ee',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'd9635f2a-b1a1-4271-8ca0-b3b0f674a8da',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '7b24da19-7cb9-4f91-be7e-df33e6546d91',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'b6860ff8-0138-4263-840d-65cdb1e96eee',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'type',
     'Disputed',
     NOW()
   ),
   (
-    '261c7922-9a34-483d-a74d-310f92722dd5',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '6771f007-2995-4af2-9f24-65eef935cc5e',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'label_x',
     '34.847915',
     NOW()
   ),
   (
-    '98698199-387c-4cf2-a5a9-ee6aee804a63',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '2b50e5c5-42f1-446c-a71e-790d85b5287c',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'label_y',
     '30.911148',
     NOW()
   ),
   (
-    '79f1e155-690f-487f-b6d4-6eb7b6d2598c',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '5be18423-365c-4fcb-baad-3898d602ff5e',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '1f6c5c8e-36d6-400b-9df7-73886c0bffd7',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '1592446f-a33f-461a-b8fb-9d441fb1471f',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'ff9edd98-0996-4d18-b786-764f58d9daf1',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '7cac43eb-84b1-4dfd-b8ee-be2326c6d4f8',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '659bb9d0-de24-47bf-bbf2-364d30f6cbaf',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '50d68c86-a695-4011-8f51-143a4fe04f62',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '347cfa36-7997-48f0-a448-fa5866f7470c',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '66f688ec-78e6-4142-92a6-fd6bfac8dcd5',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'population',
     '4685306',
     NOW()
   ),
   (
-    '83057777-af1f-43aa-857c-1aacf208f69c',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '66c5d8e0-f717-4984-8ce0-2d508ebae19b',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'gdp_md',
     '16276',
     NOW()
   ),
   (
-    '31176479-5b7a-4f43-b5aa-e487f666fabc',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'bc5e4a11-416a-4036-b060-8fed13fbd072',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '772fc3d2-9058-4f7d-882d-5b6d0723eaf5',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '72db454a-67b5-41e9-9e7d-d22ec01af4b0',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'ef1bb134-f8dd-47b1-ab44-8e1dd7457c27',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '65fb9988-64c7-441f-bd27-5854b5750d33',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'type',
     'Indeterminate',
     NOW()
   ),
   (
-    '6ef4a2c9-a794-4b24-bb5f-6c7fde821e45',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'a701dfbc-9d8d-4dc8-8ece-ca8ff47844ed',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'label_x',
     '35.291341',
     NOW()
   ),
   (
-    '41660970-37aa-40dc-83f0-214808f63ca7',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '23046493-7960-4f46-8d70-35d43dd598ec',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'label_y',
     '32.047431',
     NOW()
   ),
   (
-    'ab1e53fd-41b7-4d02-92f7-273ecb28b0e3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '8edc0f50-b0c9-4f73-a660-f00bc0ca4810',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '89011bdd-5b62-4913-b63f-743316448efa',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '90d37bab-d8c4-4d52-9d5f-df9393d0c1e8',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'b9dbbf1d-b079-49bc-a8bb-b780dd65a615',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '2de0c403-e77b-4166-91d9-aeba73045da7',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '329fd2ae-5583-4390-b749-51cf7103819c',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'c0e09b2e-f325-42ce-831e-44dc9c957332',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2f5fff6d-2c2e-48b2-8fbd-a25566ea84a0',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'fe25a2ee-3f87-4f16-8f7c-0be50fa925ff',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'population',
     '4941444',
     NOW()
   ),
   (
-    '93424867-0cb8-471d-8e74-8085d41fbaca',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'cda2ccbf-bbe4-4f54-ad26-03093ac4e222',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'gdp_md',
     '388698',
     NOW()
   ),
   (
-    '6533e29f-106d-43f9-a283-f736612b4d04',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'a55120e1-bd38-48a1-94b8-6f9e19d1fdf5',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'daf92bb4-fb39-4b08-a546-4d5a823050a3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '9186520d-2d84-4d6d-a003-bb7611b1d92a',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'cd615ee4-db38-482b-b79d-967b762c3b73',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '09545f08-ca44-4bf4-adfa-76fab5f9e2d4',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'e331e25f-8d7e-4fd1-9eb0-be10ad8e5ba3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '37e1b1ae-05b5-43b2-ac31-70e9c76551a6',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'label_x',
     '-7.798588',
     NOW()
   ),
   (
-    '0221a921-1498-42a1-af13-a8b706ea91b3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'fa5271f4-2f38-48f1-a9e6-ab521526f0bf',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'label_y',
     '53.078726',
     NOW()
   ),
   (
-    '61ab1a58-4eee-4ec1-a045-2673a11f3b5e',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '84c4e810-3f88-4301-b7ff-4b1694bb4791',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '58fdd155-70ae-43d2-932f-5001bde8527d',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '10b35d08-0196-4182-8ac1-206774e811d2',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '68366175-6011-498c-840b-68295b3b80b7',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '89869fdc-94c9-43f8-822e-361bb3fac1cf',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    'cafb52c3-d729-4690-a2d0-c3a19dbf17fa',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '317742c7-8d9a-4642-9a5e-ea0d4fb4af2a',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'e2936949-c13c-45b2-b1dc-103cf13b1ccd',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '4b245a22-ea2e-477a-83ea-9771c35d5dbd',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'population',
     '39309783',
     NOW()
   ),
   (
-    '7218b5f6-1234-4c03-b3df-71319987d350',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '49456cc2-06bf-45ef-a576-bc24238f8054',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'gdp_md',
     '234094',
     NOW()
   ),
   (
-    '00fb682e-ead8-4018-9a88-8678fa60452f',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '343b7f94-4bed-4396-9aee-7edf7a3ae56c',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ad055e4f-ab96-4951-a6e4-c0edaceebdfa',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '7c997840-a9fb-4284-a80c-ff02bb59ca23',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '029b9d91-4880-4e97-b28f-edb32f25c145',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '617f7244-fd4c-4b44-b7ea-8d6a27258bd2',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'a8a64bc2-3b26-4d5e-991e-8e4e7a2d1dc4',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'db1edda3-6829-4b66-951f-1a78276413c2',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'label_x',
     '43.26181',
     NOW()
   ),
   (
-    'fda41688-d4ca-46d0-b5d4-f44ee11ef7d9',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'f095ffba-acf9-4227-93cb-c275c2b75e92',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'label_y',
     '33.09403',
     NOW()
   ),
   (
-    'a9d54b11-ef09-44dd-9910-b69eb778ffa0',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '2b1cb4a2-3f6a-4877-a92c-fbeb3dafc957',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '7fcdd0f4-4ead-41aa-ad2e-3177582b1b38',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'b1751d23-f378-4fa5-894e-3501f99322fc',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '3dde5178-1dfb-4ffd-b3cb-2fddd41a86d3',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '901a700a-6d35-4b11-be59-28624abbab7b',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '7480c325-db45-4cce-8bd6-da1746c7d5f8',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '51134d6a-ff82-474b-9d0c-1f55c7a4d610',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'fcf2e6a2-9209-4823-b298-7c5a31ae180d',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '6a546a41-7f4b-43ee-bc48-4fd2e7072090',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'population',
     '82913906',
     NOW()
   ),
   (
-    '9c68040a-330f-4a70-806c-d93dc934a0ac',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '27d8038b-32ce-4cb8-8f7b-76bd17cd6b09',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'gdp_md',
     '453996',
     NOW()
   ),
   (
-    '1116ce89-6358-4014-adb9-e9841cfdc8e9',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'a51295d8-3235-48d1-a700-baf339509dcb',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'a5f27583-1b4f-42c3-aa0e-d61bc7ea6749',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '45dc4dd7-d2d9-4e0b-ba27-911cc589c77a',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'a36bd527-c6fa-4172-bc9c-044338164344',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    '14bb70a7-324c-485c-8ff1-82fd10292266',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '15836f2d-09d3-4793-b806-8d863fc31286',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'c840e872-18cc-4b6b-be65-09a5d95b17cb',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'label_x',
     '54.931495',
     NOW()
   ),
   (
-    '6b041574-c0f4-4c2a-a5c8-f39f1bfcead4',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'ea1f1e31-cefa-4916-a896-681c17a7822a',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'label_y',
     '32.166225',
     NOW()
   ),
   (
-    '2c39b5bc-cfb2-40a3-8eb2-d63b0780e5ce',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '7618018d-7484-43a0-a85a-3a40b99652bd',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '9290f59e-80c3-40b5-ae41-437d0d04446a',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'fc70afce-9560-4ced-bc2b-9df09383c4c3',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '7ff45f4c-e188-4842-a66f-84c64b1e7fb2',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '55638c86-09bd-419e-bbcd-fc59d3328659',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '85e3e851-3ae0-439b-b1e8-ea72965b17a7',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'bdc42c9e-74df-41e4-badb-07bdfa6a2744',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'e637ffd9-da16-448e-ab7a-91bf5b77fb69',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '5047e55f-e9ec-4349-a5e0-b1ab3b67f71f',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'population',
     '270625568',
     NOW()
   ),
   (
-    '41b28890-9b45-44e4-981f-0e08b3f55864',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '7cbb9ff4-cfea-47ad-9356-8f25ecbec769',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'gdp_md',
     '1119190',
     NOW()
   ),
   (
-    '9db3a1ab-46cb-45f2-836e-3256b87aa96d',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'f8e4c5d6-37f7-48dc-b8c8-d58442324679',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'economy',
     '4. Emerging region: MIKT',
     NOW()
   ),
   (
-    'cb570281-29ec-4b22-b14b-dcb9e1e495de',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '7885be01-8eed-432b-a755-2cb143ebb6b5',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '5b4b5e14-0b4b-4f09-8dae-6ae0f4f849d6',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '44abf9e7-7c0d-4371-9513-664b583ebed5',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '546cfcc5-7816-40a5-880e-96721fd71f1f',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '1105a89b-6dcc-4054-b04e-5d7fafabc788',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'label_x',
     '101.892949',
     NOW()
   ),
   (
-    'f5874095-e864-47fe-aa09-f87667a7fe4c',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '4fa9b301-0072-4e3e-9d86-4b8b67d7feca',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'label_y',
     '-0.954404',
     NOW()
   ),
   (
-    '6397791e-3d1a-4270-94f6-08a9d59a7249',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '32b4b63b-cbc8-46e7-8ef8-e8690ff2dafe',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '7eba07bf-da14-46ce-b923-148237daa018',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '3f6ca5b4-2ca7-42d3-ab77-b7ff2e7bb569',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '2d52c169-fa34-406d-8f16-dcbb723589fe',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '8588b023-7c3a-4a61-a950-b799be94fbad',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '842ac4a6-6b4e-42bd-8542-5812740f5d89',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '8b2baa9a-c950-48cd-aab7-f5bef669ab91',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    'e6cc8447-4235-415c-82cd-dfc6a5774d84',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '5d5dbf76-d53d-499f-a25d-7c4aa1cacaf3',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'population',
     '1366417754',
     NOW()
   ),
   (
-    '1906ce5b-9d06-4ce6-b0b5-ded41a2867ab',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'a8a08b7b-fafc-4196-9f06-3cec0973b0af',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'gdp_md',
     '2868929',
     NOW()
   ),
   (
-    'fb35f6a2-ce7d-4c3d-9274-406dc88f6d6e',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '0fd26331-68d6-46cf-adc2-7565e9a949f0',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
   ),
   (
-    'ae304d25-667d-4f84-91f1-24f3a534ffe7',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'b3a932e7-d647-4dfe-b6aa-0958b1974a65',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '43b5cb20-b732-45c7-aed1-915883ccc942',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '224e2186-84ed-4182-976d-7f5da2c0cae6',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '235eb56c-a341-4850-b641-d0cd8d6e54fc',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '3f6bfac7-ec70-42e7-b54f-c0b214719c51',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'label_x',
     '79.358105',
     NOW()
   ),
   (
-    'e50fd446-0e9f-4a63-b510-4e5d5dff899b',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '3f4faa7a-c5a5-4964-86da-a81a06b0c49e',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'label_y',
     '22.686852',
     NOW()
   ),
   (
-    'd6f30554-df33-498e-9747-e6d2f6b7fe6d',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'b9fa4924-bb33-40fa-95a0-d26a4952f48e',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '77c94f46-e7d9-4d20-b1aa-deea59cd19c6',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'bd437490-2e04-4c15-bb80-5f03440c937a',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'f41341a9-e0d4-4ea7-8fbb-e3287e653e02',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '7d66c90c-9cae-43d1-8f50-4e7a1c1f03b0',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '8379a0ee-8e0e-4b72-beaf-2f880b52b8df',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '0b1a6cbf-3839-4d61-b293-a6758521c742',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'a146ce83-ba95-4bce-ab7d-0d71810d4ab7',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '68f84f81-97f7-4c91-926a-de7e6d70e4f2',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'population',
     '361313',
     NOW()
   ),
   (
-    '442369d5-134a-4da7-ba99-df24bc80353e',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'c1dcbe24-523e-472e-9374-8208edcc06f3',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'gdp_md',
     '24188',
     NOW()
   ),
   (
-    'b7e5a3b6-94c7-4856-9444-10c73c285826',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '07659803-0ffb-4a7e-877f-66232c27008a',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '39bc0497-0579-406b-9fcb-5ffbe6b3a8f1',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'ec95193c-9669-4c7c-9ced-3cba6f37702e',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '3ab1a71f-ba86-4e96-ab26-bad3960625f6',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '4f1e72a2-6bad-4d38-8b53-5279003b027b',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '9ad341e1-04a1-4114-9721-ca7b76788597',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'c560dc4c-6f72-4946-9efb-b307481cbc12',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'label_x',
     '-18.673711',
     NOW()
   ),
   (
-    'a6df06e6-7c5a-4960-aba9-de289ab5a31c',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'ee310a61-4512-4b86-a9b1-39037fcebd27',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'label_y',
     '64.779286',
     NOW()
   ),
   (
-    '57bda778-c88b-430b-8caf-3ab6c065b234',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '8b9f7dbc-7ab7-46c0-9668-9670f30dcd5b',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'e72fcd7b-41ed-4255-a1fa-80ccf32b4845',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '8912f920-47e2-4398-b619-006bdd052900',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '326c06ee-8d9e-4a15-b6c8-d2e6c308c962',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'e548789b-f844-4531-9d56-249b3ee79393',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '5c685e5a-96fa-4268-9e4c-7a848270475a',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '9053cb27-3905-4541-a889-b4fc4de749fd',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '7f114480-95a0-4e33-b51b-59c50485eb92',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'b7fd21d8-9782-4a72-bf63-9b27260f9967',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'population',
     '9769949',
     NOW()
   ),
   (
-    '9c8ae025-1ef4-4480-bea9-35ad91828ebb',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '696bf63d-d178-4d34-9d0f-c96e30c78ef7',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'gdp_md',
     '163469',
     NOW()
   ),
   (
-    '9e8c4fb6-7c5f-408a-9d98-183fd945a950',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '8762f8cb-3e5c-4eac-85c1-4a4eaef628e3',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '04c79719-1c80-455f-8dd6-4614c3f6e29e',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'dcc16f83-d594-4461-979d-2e0116e1d1f7',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '19068032-73ea-4b40-bd7c-f5fedba6e804',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '5afa82cb-2463-4b36-bf71-bb5e9febabbd',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '086a0e48-d48c-49b8-ae8e-a370e11ebeaa',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'f800f7d5-77bc-4ee2-837b-dd7a562f0e80',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'label_x',
     '19.447867',
     NOW()
   ),
   (
-    'ed7a5b38-7b6e-4bd5-9125-8143e589b763',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '8bbc4323-3b69-4266-8ef2-d5bc508f60df',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'label_y',
     '47.086841',
     NOW()
   ),
   (
-    '6ba88f8d-cdce-4a3c-9ed1-fdd8edfef7b3',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'bf0f6408-03b5-47ca-b107-8c9456dfcdb5',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '6788eb34-100a-4d64-95b3-f435110524c0',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'da38d1c1-0c88-48b6-83b4-1ea15c9517ab',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'c34735a6-95f9-47c0-8f3f-2dafb0131d93',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '0f6a5542-f5cd-4181-9004-daf63a8f8aca',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    '570b3898-fbc5-4daa-97c8-2807333f225a',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '96c9a70a-ea44-46a8-83bc-554bbfd2fd46',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '381e95e7-bf38-427c-a2a4-9ed4a8c1885f',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '809ef78c-999f-4ab2-959b-6f2ce1ac8170',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'population',
     '9746117',
     NOW()
   ),
   (
-    '569bce70-3acb-4b3f-b581-4e9ad5278944',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'ed350a7a-d622-4c67-858f-05d0906c92c6',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'gdp_md',
     '25095',
     NOW()
   ),
   (
-    '0a6e591c-e8e0-4b8a-ad42-13fb5ffcda51',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'b3b522b2-4a0b-43df-9660-07d5718c3386',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '14cfd74b-5c49-4951-8ece-8c473ad22b20',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'e255d160-8bf1-4afb-84a6-d041ff02301d',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '045e116f-284c-4269-922c-2a6ec61af762',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '68d213c8-bf44-472c-b415-642f33fbdb36',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '4aa263ac-ee8f-4356-8e3e-64fb9553451e',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '76758aaa-1f10-4e9f-9710-caa86dd61bd1',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'label_x',
     '-86.887604',
     NOW()
   ),
   (
-    'b979146a-0689-4b0f-86ab-c77ce778ee02',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '25b83c83-c871-4631-b25f-883bcc19f826',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'label_y',
     '14.794801',
     NOW()
   ),
   (
-    '02a4514b-8265-4a8a-a085-e2d74c89f167',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'a311384a-011b-4acd-b82b-e543e593356d',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '9bb8ebe4-9a0d-429e-a92a-31de476d7e39',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'f920f2e7-86da-4410-a904-a5a74bd5259b',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '57a81b31-3b7c-4f4d-be80-b619b13659b8',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '6be47798-fd2c-464f-8398-f86386db329d',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '61c6ac39-672b-4384-b59f-8879bc323d05',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '46586bdf-3ff7-4ee5-bd9a-41aa60df75e0',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'aedf1f1f-fb3a-4130-8b9b-e5226651f5c4',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '90f3f2d4-d8ae-4634-8eb7-d92f79ed6b7e',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'population',
     '11263077',
     NOW()
   ),
   (
-    'a2b681c5-59f8-4060-a8ad-29b225f29d7f',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'ce22a483-5e0b-4bc3-b7b7-c094d257c799',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'gdp_md',
     '14332',
     NOW()
   ),
   (
-    '93e7cde8-8308-4a00-b749-620777469d1e',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'bfad42e8-9b36-49a2-89a5-9789027746af',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'd031fa45-fbc8-4ca9-aeb6-fc93e159fd00',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'd85a786e-c758-4a6b-b3dd-65f8103d1750',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '8ec461d2-2340-4db5-b630-87511d456fc1',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '2c0526cb-3de5-4e0d-bbca-0313489d5f71',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ecb9aac2-0037-407c-b015-b01f0f1689fd',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'b15fcafb-dcab-4589-8514-055f5ec78e17',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'label_x',
     '-72.224051',
     NOW()
   ),
   (
-    '7289bd2d-20d5-4ae3-94c1-339d73a4dd0a',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    '94096fc7-5536-4705-b5a8-edee8a9892a1',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'label_y',
     '19.263784',
     NOW()
   ),
   (
-    '0aaad75d-f3ef-4f6d-9f42-666fb91cb0a8',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '1aabd1c5-cdc0-41ce-9995-f78009967167',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'continent',
     'South America',
     NOW()
   ),
   (
-    '88c1f814-aff3-4807-b082-b92fcb2a3988',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'dcda058b-7298-4541-aa46-934d574c4ef8',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'd89bb0d6-8490-491b-bb99-0f85200faaa9',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '543ee4ed-aa18-49e1-8dfa-0b1702f244eb',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '6f1e339f-8f58-4a98-be96-a363f440787a',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'e3be04cc-3aef-4506-898d-eed6077280e7',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'a96b9fc5-da05-4bc2-a986-39ffe119e25e',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'a6980bc9-23e4-4d6f-a652-f00934aa75d8',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'population',
     '782766',
     NOW()
   ),
   (
-    '5af2234d-1a57-4100-890d-4909cd0c2977',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '69bfa15f-9c5f-44b9-9752-592ed6a26627',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'gdp_md',
     '5173',
     NOW()
   ),
   (
-    'fcbf7b96-fae0-4e8b-8a2c-46a0b53a2cdd',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '1cb16d78-ab5b-4945-b1ee-e17a942b67c0',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '30310faf-8c41-4490-9dd2-12f107a18c65',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'bd8338a4-6431-446d-b192-ea5b2f8b4b10',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '2d9d29e5-f190-4df5-b4ee-6354476ab834',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '9f84d7f0-011d-47e4-9438-cdb921beabc9',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'df3b419c-3543-4cc2-b3da-110d064d988e',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'cfc2b5bb-2318-4ab3-818b-8149a0ccc1dd',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'label_x',
     '-58.942643',
     NOW()
   ),
   (
-    '5d441f59-1d73-490a-9512-19d190650751',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '57efc4cc-4874-49f6-ac97-5894563267e6',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'label_y',
     '5.124317',
     NOW()
   ),
   (
-    'f7c47c55-2a39-4757-a1ab-e98355211eee',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '9798681b-71a0-449b-9960-576f6129acaa',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '9e346dac-e3b3-409d-ab35-d09e47283ab6',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '09642a53-a6e2-47d7-9314-7845a2c3dde6',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '16a4f04b-6715-4406-85c7-fa9ddef0bd8d',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '7ecb89d6-b423-4f20-9ccd-ea06076cb721',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '5c804de4-8a14-458f-8cd1-2e5d66d17f25',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '2856e1a2-f71d-4f96-b6c5-7e8f8fb1d216',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'd0be739e-fd91-409c-8f11-d3e711b90c5f',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'a8802a8b-d6de-4eb7-9912-59cd4f4ba3cd',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'population',
     '1920922',
     NOW()
   ),
   (
-    '91ef2011-efe9-4031-b381-e409aace0a78',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '0178efef-7076-4ff4-bdd6-32429d5e714d',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'gdp_md',
     '1339',
     NOW()
   ),
   (
-    'f4d39cba-6d5f-4c1d-b62f-bd11d641519e',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'a20bb138-c216-4695-9fd7-ba664a43b6b8',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'b830b4d0-9803-42a3-8aac-ee447527142c',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '7f85240a-2362-4a22-b179-5cc2eb18dda6',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '4b580002-eb9b-43f8-a158-6a97e3bcd7f2',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '5e6aeef9-10b0-40d7-befe-c7ebb6bb56cc',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f622e461-2dd9-4a5e-9133-83601b54a336',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'f8ca263b-ea76-4ebf-aafc-636d6808a815',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'label_x',
     '-14.52413',
     NOW()
   ),
   (
-    '2113b018-d061-4170-866c-4e9ea3dfeed7',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'fcf3e6e5-829d-4fef-a84b-90d584c6011c',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'label_y',
     '12.163712',
     NOW()
   ),
   (
-    'e0b956cf-e1a9-40f6-b601-da716763c53e',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '9327c1b9-822d-4410-a492-a31dccd6849b',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '2e8a45e3-0988-4f86-8ba0-9977cf4c1655',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '54adc240-7e5c-4cbc-b697-187a6f4c046b',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '9d6ec2af-d705-447f-b828-6ea8b911ace4',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '06c81f5d-c304-42a3-a550-0ddbc7262707',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '59cf1874-a7d2-4fc0-b004-b2f251530407',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'a33bace9-a66f-47f5-b9d3-9a9108a8c600',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '7cf7d359-1506-4089-a65a-68bc209c66ea',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '74396373-400e-4a58-8597-e2dd37d678a8',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'population',
     '12771246',
     NOW()
   ),
   (
-    'cfaea2c1-eb27-4a96-ae97-71f3e9e1b74e',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'b54b8596-a6cb-4107-bd69-3b09a226ab01',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'gdp_md',
     '12296',
     NOW()
   ),
   (
-    'd0b5235a-9a2b-48fd-a6ff-1fb9e0baeca3',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '24a95281-6bd4-4cfe-aebb-076f358541df',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '341a5af8-bfbb-47ab-bb53-7eaaf54529ea',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '042b8456-1ea9-42f0-9cf0-f1db000b4d1a',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '69f0e946-dd05-489f-9579-3d622d341987',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'fc8ed9ee-5210-465d-95d0-93f71a6d10a1',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '5e7a32ee-dccd-4d63-a3fd-4c539f2349ee',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '761e0739-bb74-4c5c-a240-da22c7e34d96',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'label_x',
     '-10.016402',
     NOW()
   ),
   (
-    'ad1c0534-f208-45f7-8a74-1a358f4796bc',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '996cfa6c-227d-4cae-9f8e-ee44d1277781',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'label_y',
     '10.618516',
     NOW()
   ),
   (
-    '52bd9146-0b50-4ca3-b129-09ecb9693202',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '9bf58222-3268-47ad-83a3-58dbe8ec9ed5',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '33f84a59-2afa-4d3e-bda8-a65bcd9fa07e',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'bcece901-31e9-4101-8bdf-622dba691852',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '7d5df09e-4e5c-4e43-a5cb-aa57c11db191',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '83c0cb5d-4f5a-448b-87d7-dd164a35b96d',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    'da2f2893-412c-4eb2-bca6-8a5286622ddf',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '1e408f7f-339a-46d4-814d-6494f4f7d88c',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '7e344973-74c9-43bb-8cba-578192be4571',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '379a3372-f20d-4736-a8c3-a8ee14c04613',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'population',
     '16604026',
     NOW()
   ),
   (
-    '9dcab336-e605-4dee-8156-1f1fec22411c',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '09dfbd16-3bec-41d8-b7d6-cadd80f9a052',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'gdp_md',
     '76710',
     NOW()
   ),
   (
-    '14b14243-3995-4a27-86d2-109d0f701430',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '454995d1-ceba-46a1-ad28-e3b4a9a3d7d9',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '1484335c-7b24-48a0-9668-16f275fb714a',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '62d4509c-785d-4b2d-b922-f43fb0cb7b77',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '7c9ac486-f0e5-4f20-bf32-9e43ab1d46cf',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'c7d8b790-6c58-49f2-a849-d44b613912a4',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b9783823-eccb-4666-85a4-11cce878c37b',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'a196b1cd-ebf6-43e2-ae45-21afac439932',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'label_x',
     '-90.497134',
     NOW()
   ),
   (
-    'd61d5e11-2dba-4f71-b42d-ffc4e91b4d40',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '9ef3abe2-4262-45a9-83d6-35cd91606243',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'label_y',
     '14.982133',
     NOW()
   ),
   (
-    'e9cd5f5e-2519-4dcc-a42b-9eef1d5a4340',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '57fa786c-a2cd-4251-9071-b9943ebeb040',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'cae4ba4c-1745-4a9b-86a8-b3ae651b774f',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '5ef2da05-a4fe-4332-af14-5055ae679bd2',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'eb02bb71-b348-4c4d-b15a-40dae1af0ce5',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '6006d87d-33d1-4322-a333-63e8b0db9ceb',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    'c46f475e-34df-405a-b66d-2d2dfa499e20',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'd3b65150-8570-470e-9351-9a060fa62c22',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '3469ad8a-3280-4632-bc34-9669dd346573',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '195c63fb-967b-4aad-9da5-98bc4bf234f5',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'population',
     '112003',
     NOW()
   ),
   (
-    '3ba18a87-467e-4ad3-b8b8-358a505253e1',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '8b1928f3-06a9-4a5f-8b7c-f91063ad3aac',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'gdp_md',
     '1210',
     NOW()
   ),
   (
-    '68237f7e-66aa-4cb5-a9b3-f9cae90824db',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '1d4a0118-6ef3-45c2-be92-e830d4ede513',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '591e690c-62f2-4e4e-865c-f9815f460c93',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'e414acd8-b2d5-4420-9f12-3e6444f7ce3d',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '7d75bebe-fceb-4d4b-9ab6-a3fc153b3f63',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '6845f790-fbf7-4ba3-8b12-5aea006500cc',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'f3700b19-4987-448c-b336-e6fa7eb2ad1b',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '9c160389-de6d-430e-894e-36c94cdca6d7',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'label_x',
     '-61.680461',
     NOW()
   ),
   (
-    '06b67ee1-5097-41e2-b75f-776dd1e3611f',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '76251232-a492-4f0e-9b47-d2862b4b8a5b',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'label_y',
     '12.113156',
     NOW()
   ),
   (
-    'dc495174-477f-4b2b-a360-0c7728a5641e',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'e16e0b03-2f6e-47fd-ac37-807106a9f72f',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '989f5b16-4616-456b-b54f-bcea8e5960d1',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '3aeb12ef-19c0-4a92-9352-efe424d0e929',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'fc679996-7271-4d69-a6d0-013f8391d26a',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '55ef31e5-447a-4e8a-b3f2-a09599d949c2',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '05660bd9-49d9-4aaf-8462-66ef0d048f84',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'ab43256b-b3ca-4602-b025-e71900fe129a',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2d6cca37-d1bf-4c3b-9b64-a734fde3606d',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '7e13bbcd-0cd1-4736-ba24-8b9562b9f957',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'population',
     '10716322',
     NOW()
   ),
   (
-    'd8782903-eaba-495e-8201-6e671c1c6197',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'c4dfb452-c8e5-4b2e-841a-33eb1ead2cca',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'gdp_md',
     '209852',
     NOW()
   ),
   (
-    'b65d9e4f-fed7-46b7-8cf7-ddb972a210dd',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'c14a7c0c-96f1-4d3c-8fc0-d0586636ee56',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '117ad6fe-d67a-40f3-a2c2-505bb15b439c',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'c558c7c7-9553-4b25-9071-d33d53b04b1c',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'ff82f2b6-6a8a-47c7-8032-7582dac99a3c',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '5df15a7a-315d-4944-bc19-41297970ca46',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2ff93ef0-ca22-46f2-b38a-3802c5bca904',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '77865366-8bf9-4e16-bf4d-cd5b27595288',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'label_x',
     '21.72568',
     NOW()
   ),
   (
-    '4c8061ad-4ff4-42af-9142-b4d98a44b728',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '28cb5b84-5103-40a5-8ab5-a124536071d8',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'label_y',
     '39.492763',
     NOW()
   ),
   (
-    '294e88fc-e846-4524-ae24-0aa2eb165109',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '29fd07bf-37fb-450b-b01e-66a3dca52c27',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'a51e0f1f-fc57-4c7f-9041-77247179ec05',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '920efd8e-cfea-4c8e-be49-a3a48fa8aad6',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'f6c8522e-34ba-4d5e-ad92-424bed1b0e6a',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '2e3a7a94-33f2-416b-ac7b-e9d93fed47d2',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    'c9e75c35-d489-4602-9d75-4c0260f4c748',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '08bc6946-4743-453c-8343-b8091f51db46',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '7bd3f9f4-8750-447d-a709-78d2f9b62548',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '64500bb4-1a96-4614-8fd8-6c45d9ddf2fb',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'population',
     '30417856',
     NOW()
   ),
   (
-    'e18d5806-dd3c-49b2-b5a9-3a2a26106f28',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '0d2f9c45-c41f-40f5-80e6-d704d4230715',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'gdp_md',
     '66983',
     NOW()
   ),
   (
-    '92b29d4d-6b03-49c7-ab28-724ea63ad620',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    'b80a7877-5058-49f9-9c9e-13ada95728de',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4c1677c8-e9ad-41f1-867f-44d3d4bb5771',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    'e4ae8683-440e-4b3f-8468-fcefb69c099c',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'de7f591e-5a49-4352-a3a6-69d188ee5915',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '8f97acf4-6ee0-433e-80e0-375232d6a37f',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'fd7195fc-7c5a-461e-8ab7-6e1b725fb05c',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '0b5259ae-98c4-4593-94ca-52f6286b922e',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'label_x',
     '-1.036941',
     NOW()
   ),
   (
-    'e6c1b5ee-477b-4851-8840-8748e989b04b',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '95f188a5-7255-449f-a95e-a38ae6b96157',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'label_y',
     '7.717639',
     NOW()
   ),
   (
-    'ad72daa2-6b4b-4543-afd3-416204d130ca',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '1315dd7c-6bed-4f77-a385-345fd429247f',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '640495e5-7714-43e3-8fca-6dd0474c70e2',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'a654eba6-6757-4fb7-915f-acedade0a867',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4ab56dd7-b95d-4301-a060-f747e92cabf2',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '0c7480f0-b9e1-412e-9afa-6aa2138eea6d',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    'cfb54b72-a4d8-4d53-8f38-1b083f99084a',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '09db2068-c9e2-4a94-a684-9c1e995687b0',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '6e3f8da9-5c9e-43fd-9b66-80793669a601',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'e4313648-892f-4460-82d0-9c743d9c6b7e',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'population',
     '83132799',
     NOW()
   ),
   (
-    '703c4d7c-fc6b-406e-ba56-e95e4b0bf231',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '3db2ad07-fb1e-4480-97e6-3d2014ebf943',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'gdp_md',
     '3861123',
     NOW()
   ),
   (
-    '08d3efc7-fa95-4d90-8cc1-79a58c39fc94',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '7427ce66-c8d1-4504-8703-220361e9ab3b',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    'c257c2e2-c62f-4ce2-91c1-5d37244ff9e9',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '3a012908-4845-4a2c-8fb1-a42fcf6f17f0',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '7ad51ce0-a0ea-41ae-8a5a-a6d777faf27f',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '838d5578-0e7b-423a-bfab-7b76530f6568',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c018ee6b-9eaa-4a96-aed8-5b895f6f97c4',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'ace053fc-210f-4937-be4e-7340496b4af3',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'label_x',
     '9.678348',
     NOW()
   ),
   (
-    '501ff447-00a6-4258-8f89-8b052946621a',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    '12ff5133-a127-4711-ae9f-422b795a995c',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'label_y',
     '50.961733',
     NOW()
   ),
   (
-    '1ebd5181-6434-495a-8e1e-864a5445fec6',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '80099a58-73b5-47c3-83f3-a57604873c76',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'c7a207b0-2075-4245-ad21-d46eb8d9802b',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'ed589856-8c24-4e8d-a4fd-995e4999316b',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'a771f9e4-0a80-44fb-8a2d-c9f3c6eccbdd',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '77d07e6a-e856-46a9-9110-d2c4be7682ef',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '7e1c066d-1b90-4c4e-8f4e-2dc901573fe8',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '40cf0866-43a2-4cdb-a12c-6af008a7c3e9',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '34f4a958-1587-4fa9-a72a-df8ef6e82ce3',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'f4ee8710-caf4-46cc-aaff-7351be50b94c',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'population',
     '3720382',
     NOW()
   ),
   (
-    'd1dd8d15-4227-4ad5-ba1b-61c0d860b3cf',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'ca1d9dfa-5995-4c14-8292-95cac984289a',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'gdp_md',
     '17477',
     NOW()
   ),
   (
-    '714c70d4-4d21-4b43-a2fc-053ae5497ea7',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'ef3a3263-c634-44d9-9245-1d1d23e24e10',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '0500aaca-692d-4d78-8887-86bb2384b55b',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '383ac67f-a787-494b-ae99-ddf06143d08d',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '3baa43d9-7c3a-4e0a-89bc-31da3e09fed6',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '6763d921-e67a-470b-ac06-37e8e161a705',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '26945251-a3e1-4f05-a514-403a70f6591d',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    'ebb1d6c4-65e3-4cd0-85a1-389a65f124a5',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'label_x',
     '43.735724',
     NOW()
   ),
   (
-    '6ba00e19-b2e0-41fc-94c7-7626ff6b107c',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '5c6684ec-90ba-4655-a5d2-7ad74169e7b7',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'label_y',
     '41.870087',
     NOW()
   ),
   (
-    '853f0a5c-1ea5-4c5e-ab35-e05076e945cd',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '2073639c-69bc-448a-a903-c5ad45c0ba5e',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '1e29d144-ed33-47ae-9402-c549a71e0195',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '7217b29e-7c8c-46a1-b905-24615eb1542e',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'aeef6c84-6d5a-43b2-86c3-b8eb9618aa22',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'e7a8a848-1ed2-4cca-bb1f-2f5531badde2',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '2ceaa672-3e9b-4987-9bdf-68159cd742cf',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '2966dbc8-2bb8-4ee5-b1be-66b833b915d8',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'ebb7606d-aa30-438d-a236-f4db3cb8d92c',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'd66c2a55-b3b1-443b-9f41-2bfcb73ea659',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'population',
     '2347706',
     NOW()
   ),
   (
-    'c70f7906-fdac-4b03-b819-554ee07b84d4',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '11a61626-c8a3-42c6-bd0a-58253ff61b49',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'gdp_md',
     '1826',
     NOW()
   ),
   (
-    '300459d8-ffbd-4382-a86f-f48644527a1a',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '9eaeada6-20df-42e6-b61b-4f12ac49b6c4',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'a549dd40-7327-4d21-94ee-9d0109429af0',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'd65b0460-9074-4270-9a90-7909aa72e741',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '03231bf8-f6a4-474b-aca0-8c8a7b10f9d6',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '0fcb58b7-378e-41e5-9b6b-25c56ce176a7',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0b9913c5-15cc-4c5d-b060-439967be28cb',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '7fbb61dd-b34c-4bf5-be1f-12aa612faf5f',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'label_x',
     '-14.998318',
     NOW()
   ),
   (
-    'c3e21137-fab1-4271-9ba8-314a916a7fa5',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '89b1d8d9-9087-45c3-8704-0a7424d7dcbb',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'label_y',
     '13.641721',
     NOW()
   ),
   (
-    '48a1f05d-c97d-452b-9c4d-43d6dc7cfab2',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '43e4b41b-d37d-40e0-aad2-9abed6a9714b',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'c9059b8a-23c5-41a7-89e9-188b57862a85',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'f1307cf8-d7f5-4ac3-a797-176a7158f9fa',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '4d417f57-8785-4e56-813e-3d7680030b36',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'd3ca27d8-483d-4619-9d64-be5107177025',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    'cfbb607d-ddc7-44b1-ad22-00b6f5241268',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '9ae4109a-4f76-4143-bca2-8c7e5de493f6',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'e1ef7353-e537-4a83-a017-22e578cfb225',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '7350ed8c-8ad3-4c72-a24b-f834bba6fd53',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'population',
     '2172579',
     NOW()
   ),
   (
-    '8c9ea5e4-1205-42ed-8942-8e8fd7ee73c0',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '4b703c89-124e-4e8b-90b2-36c93f50b0f9',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'gdp_md',
     '16874',
     NOW()
   ),
   (
-    '5ef279d1-6949-437d-810c-252e9ed38bc2',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'e282b6a0-3fe6-40dd-b0ce-40a7056716de',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '6b8cedf1-ebcb-4e86-bbee-016ed3977ff8',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'a89cc998-2742-4dff-8305-0296d9a7a263',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'c735a00d-3ee8-40cc-bd93-e29bf576869c',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'dbbd3d43-d325-4de8-be17-3734666cf075',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'eacb1b95-6d5a-4e4b-8db1-3daeaf06bd18',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'e42aa99a-bb37-458c-9024-6ec55393ad2b',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'label_x',
     '11.835939',
     NOW()
   ),
   (
-    '80e15719-3ef0-436a-bc91-83bf957e33f3',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '4840cf5d-bbeb-436b-98b6-96e5949ca8e1',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'label_y',
     '-0.437739',
     NOW()
   ),
   (
-    'f8a9a579-d7c3-4f12-b822-a54d940f7cf7',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '5703aba7-c541-4763-91eb-8b413e7325f7',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'fcbca68b-2e8b-4e3b-b153-2b75374c924f',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '84bd1506-f7e6-47f3-b395-78ae8f73d8d8',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '6ecd6832-b627-4b4f-a2d1-8993475d6862',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'ca9dd17d-ac62-49c4-afb8-d9bd154fbd34',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    '716ac7bb-d374-4501-b457-6ce954ce66b6',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'a277d210-b2d9-46c2-9727-1f759a8d084d',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'c65ec4e3-5930-4fdf-a83b-e2a298c10f16',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'a5d8e5b3-b3cc-41cd-a33a-eedde44a5cfd',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'population',
     '67059887',
     NOW()
   ),
   (
-    '58013ec7-7912-4425-8347-425d6644076b',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'e9eef25e-fa5f-4338-ba17-11efd109a04e',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'gdp_md',
     '2715518',
     NOW()
   ),
   (
-    '32218425-5bc8-42e7-958b-27a0d05bd5df',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'bb850946-fc0d-4ce5-934e-11fdcc7b7f44',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    '73cd10a2-93b7-448f-bb69-f62eb8667ae6',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '22c540a6-3a25-4849-a9de-a89e7d1e9a3f',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '0af6e94b-5405-475e-a78d-343b41e5bf9a',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '4682af4d-81b6-4561-94ed-d2ce479083da',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'type',
     'Country',
     NOW()
   ),
   (
-    'ac26881a-9e12-4ac4-9821-b46ef6c2313c',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '933fd79e-4515-44f8-b937-ddbbfefca7f1',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'label_x',
     '2.552275',
     NOW()
   ),
   (
-    'ff16245e-9120-4afc-8aa9-72d7e5435660',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '61472867-3a32-4679-ab3f-5dfb90491236',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'label_y',
     '46.696113',
     NOW()
   ),
   (
-    '1abb1dcf-7e92-4055-8de0-470335beff71',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'fe81c0a7-a9b6-47fc-b7ed-329a08d41e88',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'fca18dd6-289d-417c-bbb0-a375af8f92a2',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '32be2d82-6881-4cdf-801c-8bfa52195660',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '7cf40a79-2045-48fb-b3a4-479426edda6d',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'e608ce78-781f-4e2e-919f-5a317117ea3e',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'subregion',
     'Northern America',
     NOW()
   ),
   (
-    'e0d343dc-753e-4899-8d6e-c73e43798af3',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'a10f99de-980d-4b89-9355-a26ffadc0960',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'region_wb',
     'North America',
     NOW()
   ),
   (
-    '49d064f0-bc30-4be0-abed-71985e4edb1b',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '52e77044-1003-4c4a-b2c2-e191af5655df',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'population',
     '5997',
     NOW()
   ),
   (
-    'a3c61182-4deb-46ae-b323-b7e5e7303df8',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '3ad73040-d755-4f47-8077-b2cf0e36d44f',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'gdp_md',
     '215',
     NOW()
   ),
   (
-    'a0d8b1ff-44d7-4b8f-ba44-61794a413588',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '49b47437-7211-43f6-97dd-63fdd4fd0bed',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '6fd7f161-5940-4154-aa05-676ba77bd74b',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'b836a667-6c60-4113-8f9e-165b5cec3e1c',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '735a691c-e5d3-498d-a6dc-c17aad47fd9e',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '414b81b8-60c1-48d5-b37c-93eef86d035d',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '315c5e27-c328-447e-bd85-0967ada5d8d5',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '59929ed8-f530-4594-abc2-939d0b9c67ea',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'label_x',
     '-56.332352',
     NOW()
   ),
   (
-    '8ded4966-d55e-4fde-94ab-90f3c3a9cfea',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'bcb330f3-9d18-46e6-af03-570235fe8a82',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'label_y',
     '47.040344',
     NOW()
   ),
   (
-    'ff5c40d1-c6d2-4d3e-8f27-dab195432333',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'a430217b-706a-4ca7-8b87-8b12ea287757',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '38fe6935-c85f-492f-9e8e-7b3b031d5e91',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '12532f30-6c38-4ee0-8256-82edb0aed5bc',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '98ebc42b-5ee8-4720-a900-dcfcad2f9f66',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '2ecf6de9-7f67-4123-b406-67113aa5f3a0',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    '7f5ecb3f-8d09-4d31-b894-f85f3046ffdc',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '9c128a27-595f-4ddd-bc19-8a90c603372d',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '91f149d6-bea2-4dcf-8b8a-270258449d24',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '90b2c483-78d0-4c61-a8ee-de646c2895f0',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'population',
     '11558',
     NOW()
   ),
   (
-    '2ea31a5e-28e6-4ee9-8eb1-8291c65c10ac',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'b3beeacc-32b2-43cf-8f27-ec478c35edb5',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'gdp_md',
     '60',
     NOW()
   ),
   (
-    'da56ce01-10f6-4ff1-8e6f-8ec4d0ea797c',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '1cc3eaf8-9bda-43d2-b519-f6f58e483631',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'e907d5f7-c298-4de0-bf4a-4686921c1c0d',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '9f5aea11-b8f7-4d08-91b7-93c491d7a73a',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '0888d604-a8b4-409e-a771-6185f8905df7',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'e56ec00c-c379-4ba2-aec9-cb8c168554d8',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '3660d3f0-144e-4cf4-980e-bcdc51a0df04',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '324ddace-cc98-4a78-b532-5808c6b01df9',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'label_x',
     '-178.137436',
     NOW()
   ),
   (
-    'f1d0b21a-0717-43e5-91f5-4f40a46f3ab5',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '66323b88-7d7f-43f9-9f9b-8e05ccfb1c5f',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'label_y',
     '-14.286415',
     NOW()
   ),
   (
-    'e5e2c8f8-8e9f-4d48-a59d-1ea1d3a6f3b4',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'e132471b-8550-4710-b743-7a0ac1d8b656',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '54e444ad-eb73-4828-8d8d-66b78265425d',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'fb22c7e2-a3d8-4bd3-8bf4-392e0b2ddf1d',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'e52613af-7396-4671-acef-66c3a2dc1273',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'b3bb8720-3db5-4def-a405-f96c05edd197',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '7fe0c8c7-abd4-4084-bbfe-e8c0e89a0b8c',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '3c975859-806d-4310-9e61-13fb03f81f02',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '283a0898-2180-4b11-8612-c6360abb061b',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '86ce6ad5-2b9a-4345-843d-b078bbc9a3e6',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'population',
     '38002',
     NOW()
   ),
   (
-    'b571958e-ba01-4302-ba81-c0e334e13d1d',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '2766b3f9-e0cd-4f5d-a2a2-7151cb3088ca',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'gdp_md',
     '562',
     NOW()
   ),
   (
-    '8f799949-1321-45a8-aaf5-84aa1491082c',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '78dd131b-4de8-4bc8-aa41-2baddee69601',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '6613de60-c1a7-4ff5-b50a-7dc3c1951b8d',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'd5dbf87b-55e9-41e4-9325-3eba71670d18',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'b4d794ef-06ed-44f2-9492-790ea15062ed',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '1813f358-acc1-49c7-9123-543b5397f303',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '5460e206-7827-4b0d-ac4c-95146b63fc09',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '81e831a9-c63b-41e4-8550-a084b9125236',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'label_x',
     '-63.049399',
     NOW()
   ),
   (
-    'bc140e6f-72fd-4f8f-b278-17f36cfba3f9',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'e51861d0-a2d8-4b80-8726-e9cefd206758',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'label_y',
     '18.081302',
     NOW()
   ),
   (
-    'ad613200-c9a2-435c-abcf-019df5a98372',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '28eceebc-58af-4415-b3da-94913c4a8ad2',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '5cf8ae9f-09e9-4dde-a7a4-64dc81d2e746',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'b45af877-1d35-4db9-8b2c-b2b35b1ae21d',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '402a974d-3f31-4298-b8b3-fc0c3361713f',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'c54fd5d7-11cd-4d43-9e1b-6bba7a987f60',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '3d949b03-ab3f-47fe-b2b4-00bbf6e09f84',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '192a0a31-37ba-40d2-9850-d9a7ddf48577',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '094f6359-8069-44d6-9520-ff0d0612ba85',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '403a6b74-08d0-47e3-a04b-bad1fd507fde',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'population',
     '9961',
     NOW()
   ),
   (
-    '6a197fa6-b5a3-4f6e-b38f-eca8e6f57805',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '2b2a7abe-d61a-4a6d-91a2-e624ec987da6',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'gdp_md',
     '255',
     NOW()
   ),
   (
-    '80daf6d5-df08-45a7-aa18-90205db2901e',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'd68da879-6e18-444b-85d4-a1fce11ddfc9',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '81d0d857-aefb-426c-a7b9-27eec18374b2',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '2ec7cf50-f922-4986-9037-e4d5469ac9f4',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '69cb66c5-b0ac-49e4-bdb0-766c22c6a917',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '2ce302a5-6f57-495f-ba8c-246e6c0e72db',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '3e14c9ca-a6ac-447e-a5d8-8262e04965c8',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'b61dfa5d-8005-42d1-a10a-57d2fdf3a401',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'label_x',
     '-62.833193',
     NOW()
   ),
   (
-    'a8490c17-bf7b-4511-8f7b-6623266db68a',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '97a8bf04-cff3-4e22-9736-17e56b7ab837',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'label_y',
     '17.901987',
     NOW()
   ),
   (
-    '87c778ba-e521-43c4-b85c-1bf847f37ae0',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '0da2762f-3a15-44ad-93e9-08f38eca0954',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'f1d9f52c-5737-4c36-bb9c-2735c8dfbe3b',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'd8772a65-be5b-4813-8c28-58fb61b0c5ad',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '4bbe28a5-84e7-4140-a526-61f8f1cbfdf0',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'f333f7da-2412-4eb5-bc32-3e4452b5b6b2',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    'f4d6474f-35fc-4b95-bfe5-81c36d63eb6c',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'd5a899e5-5ed5-40a7-baf4-530980ec6980',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '149a27f6-d1ce-402d-828e-af3ff5e0d06b',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '5dcfef64-98f6-49cd-a388-18e1cffb71ae',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'population',
     '279287',
     NOW()
   ),
   (
-    '0ec4c0a3-59bc-46ce-99b7-e155f6ebf64b',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '54b6179b-bd73-4742-b7fe-f214a5f3a909',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'gdp_md',
     '5490',
     NOW()
   ),
   (
-    '02c1333f-ed52-4f81-926c-8b4e564f1553',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'b8779c8c-d21e-489a-aef5-941df7f99ce1',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ff2455e9-3ac8-4061-88ec-922322847605',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'd450c1b4-adbe-4ec5-9dae-85524a6b78f5',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'ae44d29c-5697-4cc0-90cb-1b71184ef7a5',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '25f52b55-cb48-4946-9b87-f7716c063c5a',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '480ad0b9-89d1-459b-b568-cc005cff5ef0',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'a72a53d0-9ea9-4463-9c0e-c708b650aab0',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'label_x',
     '-149.46157',
     NOW()
   ),
   (
-    'e76fd281-1b15-4a68-a153-67db03e034cb',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    '2a852e61-b13f-43c2-9c75-a281c68f9142',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'label_y',
     '-17.628081',
     NOW()
   ),
   (
-    '24c0f92f-39f2-46c0-989f-a6c7b209e6cb',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'e7336d49-29ae-458d-8583-80aeaf29f806',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '7d4ac1c3-109a-4e29-a10e-b66b99b17722',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'b0ac31c5-5fd5-4a3b-b595-bf92bab287b3',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '4deb9a31-3335-4ff6-8766-b7cf9d1cd4bb',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'ba327b06-9261-4b3e-9e2d-90276cee1f1f',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'subregion',
     'Melanesia',
     NOW()
   ),
   (
-    '4e187b32-5815-45ae-96eb-6723fc03758c',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '794d888a-cc6c-4007-b665-5e104f683443',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '777fc966-7131-484e-a48b-fbb5b6e36beb',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '65ea3c3f-1c1b-48c0-8e20-ea974d058e0b',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'population',
     '287800',
     NOW()
   ),
   (
-    'f98612d1-8771-47a2-946d-9ed1f3173b2b',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '4e755bcf-d378-4f89-b53d-213c5a143113',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'gdp_md',
     '10770',
     NOW()
   ),
   (
-    'a0773406-6762-4338-b169-4ec4cecdc867',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'e1da51c6-3b41-4e0e-b385-2a50dbea3791',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '182da5a1-7e62-4afb-9680-839c01a994b2',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'ad81f066-c255-45ad-a3ee-7173e59eadab',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '3a9c1840-7ad0-49d7-bc23-6722c7c03cfb',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '1a15ccc8-a346-426d-989b-c247cbca98f3',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '4ef74686-bcf9-4897-87ae-a7a09aa571ad',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'de9dd368-1ab9-4361-916d-dd6221897b5e',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'label_x',
     '165.084004',
     NOW()
   ),
   (
-    '34945e30-2848-4571-9144-83f9661a056b',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'b4202863-1eff-430e-a445-db33ac74af00',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'label_y',
     '-21.064697',
     NOW()
   ),
   (
-    '846a2ae3-409c-4ca4-ab47-60f858e85861',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'b905cc5b-e4ed-46a1-b902-5cc2b7a6818b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'bffff688-5cae-473e-8e3c-3748d50b24f0',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '1f0c079f-2c95-4335-a987-51730ac072a0',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '73d92474-07f8-4e05-a03b-de70224c3a28',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '87c29e7a-c23e-4cc7-bff7-49084e89723d',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'a57fa110-5b7d-4ff0-a8c3-2c0b93414e60',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'e1c474d1-215b-4f4c-9c77-30ba40243e94',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'a53d84b6-a8b1-4586-8bf8-f9866370e808',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '72a5af62-2a5d-486e-be45-ba32658f7c77',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'population',
     '140',
     NOW()
   ),
   (
-    '0a0cc3dc-6c20-49fd-bbcd-be44eafc2c81',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '6214007f-4be8-46a9-9b4f-a027f95d6194',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'gdp_md',
     '16',
     NOW()
   ),
   (
-    '86a6d8b1-1d77-4061-8404-e59578d6c340',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '9bd336ca-0409-4e27-934c-eb7954a6f768',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'ac3634aa-739e-480e-8a02-a88a1938c41f',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'a391fa26-2295-4c1c-b6da-0e38622b0021',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '1f233c39-c217-4389-8003-b81f06ade6eb',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '9cddca3a-8a7e-4a9d-af79-b6d397f2b2b2',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '69ee4c62-eb6e-4a47-89be-a90a4518f67f',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '1e8bce03-f258-41bf-a12e-3dc2f32c688b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'label_x',
     '69.122136',
     NOW()
   ),
   (
-    '7fcdd196-3bd8-4ca4-a1d1-a403615164a7',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'e7dfb220-1053-417c-9025-0f91420d6b8b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'label_y',
     '-49.303721',
     NOW()
   ),
   (
-    '63ea862d-c7cd-4b5d-aba4-e8ba649c5f77',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'f2132655-7020-41cc-aefd-8119ff2dcdb6',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'c188a933-672d-46b9-bb20-642c07887c91',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '6c8f9655-0380-4081-9523-8f45b4d85b5e',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'f1e9d1ea-c226-4044-b7e6-954ac8683789',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '19490a86-f479-4156-9326-8e32961277ce',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '7c36e365-425e-4249-8574-799441ae540c',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '58567f00-abc7-4cef-b3c0-065d92dcf21a',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '4f64fab3-32c4-4d59-aab7-e1cad77dbff0',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '460d0c7a-4d8c-47b4-becb-637e5844ce3a',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'population',
     '29884',
     NOW()
   ),
   (
-    '15975845-d1e1-4a27-b73d-dba715994c66',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '51ce518e-72ec-475d-84a3-be6d219f8d84',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'gdp_md',
     '1563',
     NOW()
   ),
   (
-    '87eafa6a-2c0a-4c52-93fd-898d4b7bd27c',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'b39c5bba-0af7-46c4-be01-d6a676f8b516',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '777bca8d-dc6a-48e8-80d2-cdee1f296cda',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'f2d5740e-6b5d-4804-91e8-da45267a1d5e',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'd3cadf24-9940-4823-828b-1b2882aa1720',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '9a418f00-9c05-4766-bbae-2cd71fab0c6f',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'type',
     'Country',
     NOW()
   ),
   (
-    '435e55ff-2f0e-459f-a7c8-5f70f21cbeb1',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    'cbf3c8df-f3b4-4c91-b836-78a8d92b0243',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'label_x',
     '19.869671',
     NOW()
   ),
   (
-    '2295a0a5-ed03-4d12-8b02-b5d60e343910',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '91a00fc6-dc95-44b6-ac15-de0ea569ae9e',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'label_y',
     '60.156467',
     NOW()
   ),
   (
-    'bfc61bf3-01f9-49d9-8251-9502ef8c6f9f',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '4db03bcb-4512-4d07-897d-63c5d483d9e2',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'd65852a0-a551-4c06-925d-5274cf177fdf',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '0c9a1c7d-ec62-4b5c-8a52-1f36475bf12f',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '5622aa8e-61e8-4a38-a0af-f3218cfe74d7',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'f381458f-86b7-4e8a-b5bb-605ffd47ac26',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '4f614f17-dc53-4398-ab3f-ac1712f8ae64',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '6249a778-de52-4237-8041-e0d0257c9131',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '0ca70dca-a5c5-4722-aed9-88bd55bad9e8',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '5ae64685-a66a-4632-b954-2ffbf5db2a07',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'population',
     '5520314',
     NOW()
   ),
   (
-    '6db61477-ac2e-4023-b582-6a0abea5394a',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'd66477a3-e246-4d6f-93d8-63ec98cb0624',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'gdp_md',
     '269296',
     NOW()
   ),
   (
-    'e097f4f6-c471-4ffd-b65d-113bf5bafbb5',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '12a9dc00-118c-4b4c-bcf9-469804e96985',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'f9f9d93e-4e7e-431b-adac-3b1272a8db41',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '3c7a095e-03c5-4133-b3de-9561e828c0c7',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'c008c081-c721-4848-88c8-b4d9f283c6a9',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'ec175bec-b2b8-4dd8-9a07-93a326a75425',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'type',
     'Country',
     NOW()
   ),
   (
-    '4249e69d-7352-4abd-9ba6-5b35d40fd659',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'ce52b4e8-929a-4d0c-9460-ee6ee7f3df13',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'label_x',
     '27.276449',
     NOW()
   ),
   (
-    '53df042b-9659-4573-ad74-87d0babb918a',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '8a63a338-29cd-473f-a915-9082c1b894e0',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'label_y',
     '63.252361',
     NOW()
   ),
   (
-    '1f4c416d-fac1-49f5-8275-29428f04ab06',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'b9e28e2d-6d44-444a-8703-4c121694dc9a',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'bc5bbfe6-dec5-4091-9a1c-21a71766881f',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '371ee889-3fa6-4d70-9129-2ab37f15765a',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '5294ed0e-b635-411f-81a2-6c011c8c7be3',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '02113d68-75c2-4152-a0a5-995a2c45ee6d',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'subregion',
     'Melanesia',
     NOW()
   ),
   (
-    '997185d5-0d27-4f73-a60a-3f737d27f76f',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '4222c903-2e8f-47d3-861d-cba6376e16b8',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'b4198699-bee0-4e79-86c8-a2c3e85d308c',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '14ec6c2f-fcdb-4a98-874e-6ef9a759b6de',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'population',
     '889953',
     NOW()
   ),
   (
-    '326974de-4bc5-4555-a1cd-c4e0baf53de0',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'd5523103-c637-4aa3-8f84-aff756c48364',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'gdp_md',
     '5496',
     NOW()
   ),
   (
-    '06ea7b71-9bb3-4616-b654-edcff1eb303e',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'fb6b4970-a983-4891-a5cd-7bbef38a0885',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'b086b964-44e2-4082-b4db-14abe80c9292',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '4ccce5af-ac43-4d67-b247-79afaa01f628',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'fa978948-00f1-4118-bf87-06d89312a7f9',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '8976fd74-81cf-4227-9f26-404dbd22a88b',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '6e9d113d-1c86-4314-aaec-369ff20112e8',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'eeca8798-4d0c-40be-9c42-07c0c035f1dd',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'label_x',
     '177.975427',
     NOW()
   ),
   (
-    'f061e026-428d-49a9-b6aa-777cd652580a',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'f303cbca-87b4-4fa9-a6b0-cd78e7307da4',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'label_y',
     '-17.826099',
     NOW()
   ),
   (
-    '1505f6d5-1628-45b5-a9d3-8aa701932d64',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '8e5b6e7b-d15c-4db6-8156-ebed4d76ba2b',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'ae8fb058-79f1-4721-83d4-93c75744b73c',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '920d5891-c55b-49e3-9c0c-769219ec51d4',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'f203df63-1591-41f7-bd07-661439fa5f72',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '4ab9923e-152c-4551-8b48-71066d7404e1',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'be9ded29-e014-40d5-b2be-8efc1abfa4fd',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'e7992df3-0659-40ef-b106-7e6c18ab587d',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'a677c2be-b192-46d2-adc9-2f33adcc1337',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'fc610ba4-dfa9-4e5f-ab1e-3f71ad13e5a0',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'population',
     '112078730',
     NOW()
   ),
   (
-    '0e12aa6e-2a90-48c8-a1bf-4e3b8d08a050',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '43c3bf49-c965-468f-8084-f6eda8f8cb7c',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'gdp_md',
     '95912',
     NOW()
   ),
   (
-    '37bc9cb4-9bf5-403c-8300-f7ef32608ecc',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '7a33cf1a-7385-4ba1-9a48-265096afdb4b',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '296f5d91-e50c-464f-9484-5787baa925ff',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '519e9ecf-56ec-4f53-be42-3b0ddd0584fb',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '653728fc-b001-49fe-a3a8-e7b1074259e3',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '7ac7d7e8-7fba-4ede-840f-adae0a56074b',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2a5ae05f-7f80-41d6-9e0d-bb1e6c0cc874',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'f9901e5c-9463-4d01-a460-31ce65a3d3a4',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'label_x',
     '39.0886',
     NOW()
   ),
   (
-    'f31909b9-9424-4faf-a2ee-0a12261ef7cc',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'b564e602-3511-444e-8e4d-5d1d382f6259',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'label_y',
     '8.032795',
     NOW()
   ),
   (
-    '29615a0c-9ee6-4407-938f-344f33d24570',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '1ad33dad-b47a-451e-beda-b0c4500e4da5',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '66f2d311-c739-4c79-a644-962d190eaebb',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'aa1cbd0d-0e4f-471b-9c5d-70388d235556',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'f7f6309f-0264-45ee-86c7-44b5a79d2b78',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'c6444ed1-5ded-4cee-b973-9057ba67a864',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    '3c865058-b734-41cb-b583-ef07676bcaba',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'fc9e585c-30f1-43b5-a3bd-cb52e846760e',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '7d93176a-9712-4dcf-8140-18b3c6e3e003',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'eb4408c4-465d-4a47-b12e-dc5786164d57',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'population',
     '1326590',
     NOW()
   ),
   (
-    '53ef1e94-8550-49a2-9ed4-2b0a84e7bf15',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'dae1c666-8190-4c1a-a0fe-b2f119b6394c',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'gdp_md',
     '31471',
     NOW()
   ),
   (
-    '5e3325e4-a913-4e5f-b6ae-69744eed7a26',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'ed0266e3-9a9c-43d3-bc48-141e07a5f75e',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'a595a3a3-fe53-4965-8bcb-cfc91c22c89c',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '7d5052d7-c197-4f32-a077-2cb7c90d329c',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '4e569152-869a-4dec-a3ce-fc5509d0b795',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'e7d53840-383c-4395-b5fd-aa7688f29f1c',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '06d071f8-04f2-416d-a9d6-b59c8fd482db',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'b7f33154-06b3-41a2-9edc-faa85839e3d8',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'label_x',
     '25.867126',
     NOW()
   ),
   (
-    '29a9125b-02b6-4767-92fa-ab5833b4f403',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'd9caf703-4bd7-4b85-a691-c9f7c1cb17e1',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'label_y',
     '58.724865',
     NOW()
   ),
   (
-    'c30eebb7-79bb-47d2-80c6-e7db7d492ba9',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'c6b324cc-2503-41c2-b85b-37333ad04335',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'de41c426-a5d5-4a4f-86c9-c2f255b984a6',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '3aadb1d7-b43d-4ab5-8cb4-5e113f944f9b',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '7c0b5aac-b28b-4b38-9757-bdc385367961',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '0e2e2612-4f09-498b-81c0-78fe438c3578',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    'e99d732c-a9b8-44d9-bb3a-fc579ffe98ed',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '57029231-f17b-4c7b-8444-6455faaa4cdb',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'e97d218c-b2bc-4cb4-8e96-d07961c672ae',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '04a0b84c-a3ea-493e-80b4-9ff6efc1d8bf',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'population',
     '6081196',
     NOW()
   ),
   (
-    '5edad01a-e929-42ea-8ade-adaae6d7d52c',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'd70498a8-4688-4b64-bd5c-761626fe0220',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'gdp_md',
     '2065',
     NOW()
   ),
   (
-    '57955092-b254-4be1-a3a8-5b450598291e',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '7c276b18-10d7-4a06-8fd4-a807dc5ecd1b',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '49248800-f389-4524-95d7-295e2c282bf3',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '6541306e-be18-404f-9767-667ed51e01c6',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '5f621e11-4672-489f-85b1-6126b40834fc',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '35d264c1-8c53-4709-a008-d6df2ec45784',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd76716b4-d7f7-4c89-adac-392108328553',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'dd55892c-1f06-43bd-aea8-93382aa4885c',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'label_x',
     '38.285566',
     NOW()
   ),
   (
-    '07e535c8-a17a-4d67-9499-46db5c027e6b',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '31099d0b-7dc7-42ec-b7ff-68011e3d18f9',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'label_y',
     '15.787401',
     NOW()
   ),
   (
-    'c9f5438c-f0c5-4cbd-aa1d-d731131ad83f',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '9959c8d7-55c4-46ec-b2dc-75aac5ca76c9',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'f7ffc301-60b8-44cf-92f2-04ffc4a153ea',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'da75afe2-ba66-4cd8-b4ba-911e5807f665',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'a5b51a9e-c1a7-4ad9-83fe-a219a3194808',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '0354f43e-56cb-44b8-bac3-5a611a2154d8',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '262bd19f-8b83-40b1-9917-6a384aa4a538',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'ba97a0a8-1310-48dd-9d51-3522f635c860',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '0babadad-ca9a-45a6-82b2-b156da212101',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'd917c6ed-4c30-4711-a955-0be71e0ad0a7',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'population',
     '1355986',
     NOW()
   ),
   (
-    '2796f568-cf0d-485c-b99d-6a696e48641b',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'e9276397-142e-404d-9331-c4867d1092db',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'gdp_md',
     '11026',
     NOW()
   ),
   (
-    'c67d4f03-6b80-4f32-bc39-66a61fc0fded',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '0c219f02-9a97-46f5-b25a-306c14648a12',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'acd6637d-0666-4fd2-9930-0c433d29a56a',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '294abe48-7221-4877-86bf-746fe4f9c851',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '6ecc7129-f2c1-4e5a-8788-d4b5ed14a26b',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '6ad8a294-b398-4731-9e43-4df908167536',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'fe4a7fd7-4a6d-4fd7-9cfb-ae4fcd174a94',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '59433ab1-a86c-41ea-8d5d-66310a2bb36f',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'label_x',
     '8.9902',
     NOW()
   ),
   (
-    'dd2e2c25-e087-446d-80ea-720505d87bba',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '7d548e57-2e7d-48d9-8165-5c1caaf1d6f6',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'label_y',
     '2.333',
     NOW()
   ),
   (
-    '413b0168-0171-4cd7-98c7-ae8489793108',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '41a383ca-eb8b-4f77-bb7f-dac73ffc2ec6',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'bf54b897-f7bd-40c7-97f7-fd5ae4b195d6',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '0eaed254-3cbe-4e52-b6a9-771de00f6ba2',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '755b2fd3-c381-47e0-9b45-3fcc0825db85',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '69f1092e-3eb0-4f77-a1d9-32d28a8429cd',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    '8f19e9aa-4beb-4e78-b3cd-609ee42146d7',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'd14b0a1f-13a4-4f58-99a2-8f616392d7d4',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '2bc35454-daf8-48ad-bbeb-bd111e0eb266',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '2e9b66a5-4da9-453a-a047-044bb65011f9',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'population',
     '6453553',
     NOW()
   ),
   (
-    '21e62cc7-7abf-49ee-808c-e745c188df17',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'a5b2ee58-825f-460b-9d2a-b483d159f5ed',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'gdp_md',
     '27022',
     NOW()
   ),
   (
-    'fdd99401-caee-460e-9227-96d8b51bb2ec',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '81625326-8034-42ac-85da-c3ea7c902f1c',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '2aa3a849-5424-4cc0-90fe-4c6a3ef9f086',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '2832a359-3b20-46c8-b54d-4f15f22e0af5',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'd349c359-3cfe-4a6f-b378-3474a979a00d',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'deeefd0f-b097-4715-a6d8-66466c3fa5a9',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0f45b756-6c00-409b-b8e8-39785ad81ec1',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'a12cb05a-6d83-46ea-8a89-beeb9c6d3196',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'label_x',
     '-88.890124',
     NOW()
   ),
   (
-    '3d915702-20e4-4719-a944-90c30491fe3c',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '55045d60-9b53-4270-9659-d0484b88c422',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'label_y',
     '13.685371',
     NOW()
   ),
   (
-    'b6455ff1-9a4e-4445-ba78-68b57f9684d1',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '34be2e82-e494-41e7-9bd2-e10f03ecc0fa',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '96e43295-c8b7-497c-958b-1433574a3d92',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '93b8a076-148d-4d86-a2d2-3b69e02a1ab6',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'ddf54fad-ea65-4a4d-b425-bb4bd6d6e55e',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '4301fc30-56eb-4510-8c69-f6d4c33e2d2a',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    'b75ad751-a474-4f91-93ac-169782610fbc',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '6335235a-e33c-4817-9676-e64838ad334e',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'efd59dfb-64c4-4630-b31d-b7be427fed4a',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '56db1c7e-8f56-4fc3-a8f6-edf23938dedc',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'population',
     '100388073',
     NOW()
   ),
   (
-    'ebe81077-6ae2-4f31-a213-305042fa2a81',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '8d04d698-fac8-4aa9-828e-a3026de6cd43',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'gdp_md',
     '303092',
     NOW()
   ),
   (
-    'be4f1589-1374-45fb-9f92-6e2e07bad4ce',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'a68e8cd9-a045-471b-a891-5079e306eba2',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'c5b57850-87c4-409d-9c9f-b30a7809c6f4',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '50a1883c-ef7b-402b-9185-6555b0bdc02e',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'a33f883f-8758-4209-8cb9-208cd67119f5',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '31836929-bc64-46c8-9b6c-9a4c38daeed9',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '4331f8f6-06db-4f8e-9017-d425dc781bf7',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '426808cc-c28f-4f2d-9ed6-15bbf0a8c229',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'label_x',
     '29.445837',
     NOW()
   ),
   (
-    '26430ac0-349e-4ac7-b0b5-17f4a0a04b0a',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '17935cb9-663c-410e-9a50-0fe0aac9fa27',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'label_y',
     '26.186173',
     NOW()
   ),
   (
-    '38648042-255a-43fa-bb33-724513e134d4',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '7f2039d3-a75c-430c-a1cf-7490f62bda5f',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'cd9bf4f2-330d-4964-94ee-969c068dd7c3',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'bb30f3bd-c97e-44c7-9803-bf9be8b1e0df',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'ac9b3b59-a740-4303-ba84-b52414c987a7',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'a13a30af-e5fd-4b04-a6d6-100fd5e0d01f',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    'f5b26870-ddad-4020-9345-b483450e096c',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'c8f19347-e989-4d1a-932a-54f43ab7f42a',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '32080cb7-a965-4ff1-984e-ca59dd26bbe2',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '3db9dd17-4cd5-41d4-acae-5854bc2140ae',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'population',
     '17373662',
     NOW()
   ),
   (
-    '9b18182d-6895-4baa-8c9b-86146452b335',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'e0df7caa-8cef-4be3-bfd2-4d93e74c0ab5',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'gdp_md',
     '107435',
     NOW()
   ),
   (
-    'a04ca330-d155-405d-906a-4b0dd3af1502',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '3a9ef713-dfb5-4d72-b5b6-9798d1a2de75',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '3d556573-bd05-48cb-a310-23ef6a2f36b4',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '92c52eff-2b31-4048-ae42-ff1019262fca',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'd518b67b-fa6d-416e-834b-fcd3b2190242',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '69b47506-6ef4-4c22-a982-821dc7ae1ebc',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '95923932-a9f3-4ed3-8f7f-609a658b8b67',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'a6ed50e3-8ae4-4e32-aa01-fe68d5948503',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'label_x',
     '-78.188375',
     NOW()
   ),
   (
-    '81c27344-088e-443c-ba7b-d53f428e5661',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'd7ff09bb-4b54-4a3d-a8ef-fbb0840bfb67',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'label_y',
     '-1.259076',
     NOW()
   ),
   (
-    'f91d2fe5-3ab8-45b9-9744-a43790ed69d4',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '9c5b5ee9-c1c4-47f0-bb4d-32fb1a03527c',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '2e482540-9288-4282-ab6a-7d3435319223',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '1a944a4a-e629-486f-98c8-fc1db98d167c',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'acfd8748-610c-4159-a9f9-d96a7c592e1d',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '158bbc3f-2a93-41a4-bc86-456adbbebfb7',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '69f942e3-482a-404e-8f38-12aa9b758ded',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    'a8ca6ff0-8042-4493-b21a-3277127eb836',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'd028fc4f-ca08-4ca2-91fe-61dfe6e07c3f',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '5608ca73-e751-4dd9-bdb9-6817c644a2dc',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'population',
     '10738958',
     NOW()
   ),
   (
-    '4395e1f1-35ea-4f10-b91b-ac81383b7fa5',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '7b36fdf9-5b6e-40f6-807b-924b8a0aad90',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'gdp_md',
     '88941',
     NOW()
   ),
   (
-    'eff8c85d-9696-47fe-b501-cfe2d0e52854',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    'b08bd7ff-d048-4d07-83b4-f1d74e80fc64',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '7f9beb1d-f941-4860-a899-0199c23bb564',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '65a913d2-c720-46d2-9f69-af3a41e47264',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '444a566e-e2d0-499c-a1f6-f91632602ae6',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    'ffcf5cb6-c8af-4b80-be63-4192353a3717',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '701e89a0-4ff0-46ba-8eb6-d87e97231c97',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '7e235867-e7fb-495a-b071-110e51c631c9',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'label_x',
     '-70.653998',
     NOW()
   ),
   (
-    'e734184f-8bdb-413c-917a-25aa71ced7b1',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '52e31582-df57-4686-b23c-f1baa6532a0a',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'label_y',
     '19.104137',
     NOW()
   ),
   (
-    '1ed8759f-6f76-4b32-980c-917260600f59',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '837e6f17-447f-4520-961b-0db51189a9c0',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '00001014-8161-4bf2-8820-baa5ad2fc157',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'd10cedfe-088b-4b0a-acfe-6a0bb07676da',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '490f4dac-4aa5-4aac-aba2-bb57608a7df5',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '9875a090-3196-49e4-864b-d314cf56431c',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '762df94e-10f0-4d3e-9b47-93b0c581683c',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'eb18f129-9fcc-45ea-8fba-dde6757bbe1b',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'ef212db2-bd2d-401d-8fc3-5e52ed7a1be3',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'ab160f15-3cb0-4ea2-990b-556d15a54475',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'population',
     '71808',
     NOW()
   ),
   (
-    'bf9c287f-d3d2-4bc5-a762-f18f6f362adc',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'f3386fa7-bebb-4af4-a493-7a4a870edf80',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'gdp_md',
     '582',
     NOW()
   ),
   (
-    '145ad4a9-0448-48a0-9160-dc766e8ac34f',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '62858c2e-997c-42b9-ab3c-c54f3169e036',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'bec09209-7103-414f-b48c-525856586187',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '010e5c2a-8b99-4a82-b36e-f21a29c94adf',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '4be0d715-75fa-4b1e-aa4b-27e3116a0f7b',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '519e9d4e-e054-4f78-9dbf-2c86e9cc6e29',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd6fc2ec4-4a53-47ef-aedf-ab20d486464a',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '408da870-65b5-40bf-8c25-0c189686b089',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'label_x',
     '-61.344958',
     NOW()
   ),
   (
-    'c90b3341-7ca2-43f8-9737-c1d7fa02ca72',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'd307b8d5-44ac-4d46-89d4-a1fe150feae3',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'label_y',
     '15.458829',
     NOW()
   ),
   (
-    '58ee60de-f80d-4d4f-83aa-b8e361415a9a',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'c3a2738e-b9f0-4afd-b8b3-be0625549fb4',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'e2f3e2ea-291f-4179-8c38-df405d5a3691',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'd70224cb-09e2-4a22-94e7-480af5554400',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'a6a4fdbf-cde6-4e2e-80b4-f97281aff064',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '7f39fc49-b434-430c-aab5-7ecc76d08f3a',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '513de4c3-c18a-4118-8957-857a36d8ad00',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '30fece9d-9753-4493-8191-3007b88b9167',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    'a3ab894b-3d03-4857-8ad6-3a9bd5cc7320',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '4b8bc3e3-60bc-4303-a10c-4cd52b5b563e',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'population',
     '973560',
     NOW()
   ),
   (
-    '56f691c0-ac58-4750-badc-d56f308a9149',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '852b3a53-ba32-4fef-8491-af6b905c1928',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'gdp_md',
     '3324',
     NOW()
   ),
   (
-    'df2113ce-751c-4e9b-81f9-da3a27c17dd5',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '02143860-97b7-4fda-a3d1-f1e93d1be02d',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '2fcabf1d-85c3-42ef-b981-729fca7e9c2d',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '933ad10f-ab81-4a07-88da-2e6511452e22',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '342d3728-33e3-4f1d-a199-dbf6c7c8419e',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '192c3c90-5fe2-4ad2-a872-d03164f91f6d',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd9c91379-2004-4b81-9adb-8a2d3c9f2531',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'a7f4fc60-19a5-4141-b16a-860ce2d7b9e5',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'label_x',
     '42.498825',
     NOW()
   ),
   (
-    '006f0f01-87d2-4cfb-a773-2d4a93991ecd',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '101896f0-8826-4b75-80c4-c91e4c8eb449',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'label_y',
     '11.976343',
     NOW()
   ),
   (
-    '8cc17988-e8fc-483a-be28-e83b80b0092f',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '92f309f7-db68-42e0-a3dc-ca3ab34f5fdb',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '16b4b9e7-5e37-47d0-aeda-4f6e5d3befc3',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '2a12b5dd-22a2-460c-a40c-b86c8105a88f',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '62670fb9-9116-4912-b285-b5c14f5f49d1',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '50c02980-3d38-46f8-92af-344d47a99925',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'subregion',
     'Northern America',
     NOW()
   ),
   (
-    '4b2e4a44-806a-41e8-b88a-a16363c8ab30',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'c053045c-fd5f-44d6-ba2e-55586dc93f94',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'e5908290-43ba-4aed-b8b8-e26f4954b9ad',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'f6b100d6-7aa0-4aff-9137-4bd2f5dba294',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'population',
     '56225',
     NOW()
   ),
   (
-    '787cdaff-a9a5-4857-8052-a6abe324a8c6',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'f6f1d4e5-bfc6-4fec-a2d0-829d1d683eff',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'gdp_md',
     '3051',
     NOW()
   ),
   (
-    '2e2c4dd4-c2c7-4b1e-abb4-c4c65d977f57',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '2816d63c-c0cf-4475-a064-19a8fcd81d34',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '75e6136f-e86a-4470-920a-b4410c9fb75a',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '435c2b86-fc45-4a76-aa83-33ea54c4cba5',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '5177c25e-3bd8-44e3-9579-ddc110809e84',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'aa4d55a3-c710-46cf-add5-739437d7a63a',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'type',
     'Country',
     NOW()
   ),
   (
-    '14728953-d357-4ddb-b67d-cfbd5742cd0e',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'fd546e42-0ef8-48f1-86da-8198c1328d07',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'label_x',
     '-39.335251',
     NOW()
   ),
   (
-    '4e0948ee-ad51-4429-be56-38a8f3e8ee7e',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '68bac641-f21f-460e-8cc0-c74d368424d4',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'label_y',
     '74.319387',
     NOW()
   ),
   (
-    '125c7c6f-c863-4934-a87a-964dbe4739cb',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '0e5df50f-7429-40c7-b2aa-cd5a6cac4a59',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'b4cd4c9b-b941-463c-b9b3-0abd93f46a56',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'abc998b7-bce6-4a88-9a89-e100b7f3b6b5',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '5d663fe6-a91b-4558-bd67-a7ec28bea974',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '0a1236bc-998c-4f41-9644-b3e171d776a3',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    'b5080afc-4297-43a8-a3a3-006a9ef06bf4',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '4090c9d4-5ee7-458c-8cf2-4293c93cab70',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'a0f37afd-6788-4e2c-bd3a-a725cc093a25',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '8b0bb3c0-a929-400f-b5f0-4088cab28a23',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'population',
     '48678',
     NOW()
   ),
   (
-    'f7cf60e4-4e59-4e67-af15-385bd1c84b90',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '665092c8-ae8b-4ada-b7f5-d6fc09aed28d',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'gdp_md',
     '3116',
     NOW()
   ),
   (
-    'cce51c7a-dc3f-46c6-b2fd-16794afd767b',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '1866b1ba-4c26-41cb-8f65-42a68c0a3fb6',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '751edd7c-71b4-4f85-b6ee-14dd2746e7c0',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'b31d9095-7871-42f5-8314-9cb6c75d63d4',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '3df47d9d-ba47-4034-b9ca-c146357bb015',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'bb88ffe9-f0dc-4712-820d-f87f18bb3140',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '11f5e7c6-0d73-4936-be3a-4ce043b651d5',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'bc60ac7b-2dbb-4016-b5e5-3d245f32f575',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'label_x',
     '-7.058429',
     NOW()
   ),
   (
-    '327d1b50-aa98-4f8f-8851-fc50c9e8c933',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    'dc9835b2-54ff-4d93-92aa-0713b3179202',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'label_y',
     '62.185604',
     NOW()
   ),
   (
-    'e1eb85e4-841d-46e3-8352-8e662b44a110',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '93e1f8e5-2b1a-4cdc-a4d8-982bc3fbafaa',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '9ebac4f2-9de0-4257-a9c5-fce4ee27c910',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'a68a2182-2f71-46a0-b3c0-80b4915fbfaa',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '3fe9b5ea-d1f2-4f18-8460-9336871b6590',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'aa38205e-8ff9-4c1d-aa97-48fcac24c1c0',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'subregion',
     'Northern Europe',
     NOW()
   ),
   (
-    'c37ceb2f-af96-4192-9390-36372f3d5845',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'f66484a8-4764-465a-b9bf-5d4df3fd87df',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '27fcc128-5d08-4a92-8d37-f6a06bf40358',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'ff40f980-bc9f-48a2-aa78-c2c075e28a7a',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'population',
     '5818553',
     NOW()
   ),
   (
-    '5cc1d645-ef89-4970-a424-c5e355087203',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'f133b501-7ecb-45ae-a4ae-c5384335b108',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'gdp_md',
     '350104',
     NOW()
   ),
   (
-    '4febf893-ebd6-40ae-b5da-7e19bdfea2cb',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '72781c68-45cb-4436-a7d1-b117a67dabef',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '02031a70-21ce-4a7f-ad32-2ce5e61b8464',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '6cfea112-abb0-487f-b49a-f9d1fa8f984c',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '50ffacbb-8a50-4f66-826b-07e063954df9',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '0882edf6-f73b-4fce-88dc-b506b98036a8',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'type',
     'Country',
     NOW()
   ),
   (
-    'd1edc746-98f5-44f2-8f89-492213040044',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'c76498a3-44f6-4e1a-8cad-ed4b706b5793',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'label_x',
     '9.018163',
     NOW()
   ),
   (
-    'afb06432-51b1-418e-a8ab-21712527f0de',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'cb765d6e-e029-499e-b43a-20fcf8406f2f',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'label_y',
     '55.966965',
     NOW()
   ),
   (
-    '75d454c4-e900-4918-a92a-57d5442ebd63',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '5ae490e1-77a1-4918-b6a5-548707d726c4',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'aadfac46-e886-4771-8dc7-362e30681358',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'a862c052-8025-4153-8c17-00cbf6300e3d',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'cd781476-e4f7-4831-95d3-bde23a81f5cb',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'fc107cd2-9cdb-4135-a078-d0bba0a9a26f',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    '867d31de-1892-4025-9a99-e0eaf141a683',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'a8e26cb6-eae3-495d-900b-7f761fbb35be',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '9f1bc8f0-95be-4177-ab59-f0bdad5bedbd',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'e2354efa-ff13-4c85-ad0b-b8d36e3e2f79',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'population',
     '10669709',
     NOW()
   ),
   (
-    '118112ea-381a-4a1d-aea0-9b32c88781be',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '09b320e1-6fb8-4242-aece-7f4ee6c3e8b5',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'gdp_md',
     '250680',
     NOW()
   ),
   (
-    '5381d1e0-7ce4-4d0b-9ed9-42b16e5a015a',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '1c7c3849-0e0d-47cd-a457-f52f5256f88c',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '1dd01f58-24f0-4dbd-bd63-61da2a797b6d',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '6b9bbe80-624a-4a00-8879-b03c45ad0cfb',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '8339b002-0083-46dd-aa29-7c65a6dc74e4',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'fdafafaa-984e-40b0-a9f3-38a52c57f2c0',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0d0a5be7-6a85-4a9a-b02b-9f8a85f96842',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '1b15af1b-69c5-4377-ab6a-4829b31a88d0',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'label_x',
     '15.377555',
     NOW()
   ),
   (
-    'e68b853d-1e60-4dad-a1aa-a772683d2aac',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '022d8f6d-7fab-4fef-ad94-39fe6e822758',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'label_y',
     '49.882364',
     NOW()
   ),
   (
-    'fc2366fc-a6a9-4822-b21d-a6ec4ffadca4',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'a1371375-9b12-44d5-a22a-5ec5288925ee',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '19aa2c7c-1d78-4ba9-ae2d-5d09e31963bd',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'ea931988-bf39-4165-b9bb-1f5f65816d8b',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '24f65f94-226b-4aca-befd-0b2eb3631675',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '0a4ad248-8500-4960-b44b-3ab63343974d',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '98fcfe90-018c-4f94-bd27-4a2999458990',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '48c1ccec-5997-47ae-a34c-29b03b40dcd1',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'b2f288a5-3120-4c4e-88ac-3960d4be4aa6',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'd7aaa007-11ae-47d0-80b8-8ad817e94b88',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'population',
     '326000',
     NOW()
   ),
   (
-    '99a7f81b-cba8-4071-9b24-6596eaabdadc',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'f979b70b-7750-4cb2-a80a-356e53e47031',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'gdp_md',
     '3600',
     NOW()
   ),
   (
-    '868d00e1-deab-494d-aa96-620a37809cd6',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '92fa9d8c-a214-4155-a576-5fbb7e175320',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '1e7d7c5b-4cf1-4cb2-83c8-99f52409cbb3',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'e3353ae9-a5bd-48f2-85b3-e6837579698f',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '9fdef3a3-fe1d-4275-b153-f1100f8c0295',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'fa8f4c2e-32ed-41e4-a528-f548640f9604',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '01fd0fb5-373c-4092-a37a-14c8f89e28d7',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '393bab19-c2d2-408b-bd35-31f3b3a24299',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'label_x',
     '33.692434',
     NOW()
   ),
   (
-    '36669771-f010-453a-8cdf-dbbd85a965fa',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '353475ad-16a4-495f-9348-0316244f56b5',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'label_y',
     '35.216071',
     NOW()
   ),
   (
-    '1bd386d4-33de-4622-8572-3978f8006866',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '4ee9ba26-f133-4238-ae21-3256047bee71',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '1150aaa3-27b6-4a78-9a9a-f1af5127b27f',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '82dbe238-14f3-42df-b74b-228d5f0dd3ef',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '9f8be16e-895a-4e43-8acf-1880b42d91fe',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'd3b94595-0fcb-4ee4-8e05-3f5660eb5197',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '47cd6b1a-f5d9-44e4-87d2-39d822ca80a9',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '82e1ab2b-2216-47ea-badd-b5778f5e25ea',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '5a603648-9be0-433d-ba2d-a3856c202fc8',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '2f16201e-1bb2-455f-855e-b14d4a7e0e02',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'population',
     '1198575',
     NOW()
   ),
   (
-    '091266c5-8364-4ef1-b54f-162fdc5ed5b5',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'ed2ac15b-b371-4abf-95f3-0451302907cc',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'gdp_md',
     '24948',
     NOW()
   ),
   (
-    '5c89d893-12ff-4709-aebd-883632a97cdc',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'e9835ebf-98cf-4b21-ac71-8f69c7d52c99',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'c41cfeea-727f-4309-90bd-0864b99893db',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'ccda0a93-2f6d-4b4f-b660-b8e8ef650053',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '1cf44664-1a75-4961-9d48-c22dd377fc3a',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'b64795a1-4b95-4cc1-88a0-c4c89918e2fd',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '09e45177-0f12-42f8-a0c8-e6871e4ab511',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '8106b7b1-fbb8-422d-99b9-4312ec3e6e53',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'label_x',
     '33.084182',
     NOW()
   ),
   (
-    'd1645104-8ab9-4144-b508-0c9c08954763',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'a36ea7be-b928-4c19-b298-44a074a179d9',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'label_y',
     '34.913329',
     NOW()
   ),
   (
-    '1ad5eafa-eb2e-471b-991c-655bf1d0f0f0',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'b1d988e0-5c59-4c16-846f-aa255411b154',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'a910cd1c-fcca-41a7-8319-0d9d74c8a75f',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '45a649d3-ed3a-4bb9-a6cc-625329951c52',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '85acdbb4-42e3-4a66-af1d-1e279f826aa4',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '95d5511d-639b-4b62-8b9f-79f0d5598101',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '7ab2173a-97b8-4f6c-be1b-e91b52e9e908',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '8dd3e7fd-3853-4069-9e77-70c9111e97d8',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '40e1f8ce-06a9-498f-8385-a5b5ac49d126',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'b4bb504f-9047-4639-b457-ca8873141b50',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'population',
     '11333483',
     NOW()
   ),
   (
-    '6ecc785e-b998-4945-86a6-8f4782b05a78',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '859596e1-0ed8-437b-9a0b-920551333ba8',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'gdp_md',
     '100023',
     NOW()
   ),
   (
-    '68930448-aafc-4993-970e-47cf4817aa95',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '6cc99b5f-8ede-42a9-8396-ae68ad97e621',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'b0938b95-1df8-4d40-9209-f28c5f0e0d48',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '346198f6-0012-4e52-b6a4-4d449675a725',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '0a74cd48-b53b-4d71-a3f2-ee5c0ee7e69c',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'd4e314cb-b8d5-4022-9d7f-540863a18e15',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'type',
     'Sovereignty',
     NOW()
   ),
   (
-    'a3d1fa83-4d82-462d-960f-1617f9e32c0d',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '3a130544-8738-46bc-88ca-49103a65e36e',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'label_x',
     '-77.975855',
     NOW()
   ),
   (
-    'df8f6529-8d6f-4c0e-b28f-20257ba239e0',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '39a47584-e079-4f5a-89f5-65928c0bdf2f',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'label_y',
     '21.334024',
     NOW()
   ),
   (
-    '11a7a76a-ee81-4621-90ab-cb2ab1204ac5',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ba56e2cd-a8d6-41b0-b4bb-e24f412cf062',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '568bb80e-1934-424c-a11d-52cda8715c54',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ff32509a-66cc-4115-8006-066099cfffd1',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '524776d3-60f5-4ffc-b3fa-70d31519a24a',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'c6f06d09-ddfa-45a5-9e2e-3cc4bd18a958',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '7595049b-d03b-4751-b52f-7d008e60d478',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'e7133f68-8d0a-46aa-9faa-2e85a55af1f0',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '1de7f84a-405c-4c92-b0c3-37ac7b9a8dec',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '42e6bf77-dd23-4518-b221-30a82f5b192d',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'population',
     '4067500',
     NOW()
   ),
   (
-    '0156a59d-432d-43fe-9f00-159078e24015',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '478c4748-e357-47a8-a663-1cf84f12c4b9',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'gdp_md',
     '60752',
     NOW()
   ),
   (
-    'd29a792a-c045-490c-8acb-e83dc615b475',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ae36e945-7153-4c3a-ae12-e1f6713df560',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '650754d6-930c-49f2-ae1c-dec379e11b52',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '148c54af-7634-4767-9605-f71672f5b713',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '2690f1e4-78aa-40cf-9f9c-a43d1b832d78',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '9783404e-5932-4b59-aba2-bb0262fd675c',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '5a8b1305-3e44-42d7-a5e1-33cba07caf0a',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'a3a1ba78-d017-4070-9e2a-dc2546c33c00',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'label_x',
     '16.37241',
     NOW()
   ),
   (
-    '2940aa6a-2377-4a95-b3cc-7a20f9612eb5',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '61a513f3-0c33-48d6-8b67-541115dcdeff',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'label_y',
     '45.805799',
     NOW()
   ),
   (
-    'b12fefcc-91e3-42fe-b2fd-b9b24e3d271a',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '4c4a596c-7d0f-4e69-bfa1-e2d500afa5a5',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '0ca84500-dce5-489c-8110-d077d0613945',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '2c8ffdfe-a554-4893-809b-f7d8295a8dba',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'c3be6262-de1a-4d88-b5de-7e9bb440c3ef',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '3351d40a-b02e-4d3f-b984-5832157a3603',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    'c2a2ef9c-0738-492e-95e6-3386d9b7b845',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'e6607287-ca8b-4dd1-87fa-cdde8cfdb7f5',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '59654e65-4088-4334-8867-3d2d784ed5fc',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '79c65e95-3997-46a8-86c4-4db2a0b70867',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'population',
     '25716544',
     NOW()
   ),
   (
-    'e86afa08-e46b-42f1-8a5f-e46c223b11ab',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '42c3d982-9fbb-4c2c-a239-d3a624d3e1f9',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'gdp_md',
     '58539',
     NOW()
   ),
   (
-    'f802b95f-da36-4692-bdb7-6b82c1faec84',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '6ae153f4-9be1-4c05-96ca-e9a5e6456259',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'fe9d597f-da44-4529-ac10-3ae559b81255',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '7ea1cf21-e540-4053-a559-5131ddb13d38',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '941d7f41-ae48-4e4c-8125-f0da0230c844',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'b8cae819-9e4f-4eba-b716-fb2d7b31f27a',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '77a04e6a-3996-4375-8c67-f2103408e58f',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '28b078d1-2304-4a0e-b0f8-365a31c2eb31',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'label_x',
     '-5.568618',
     NOW()
   ),
   (
-    'a6003e6c-4065-4fad-a0f2-a77f914c337a',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'cd93cb01-6bc2-45fd-8215-a6c669df05c6',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'label_y',
     '7.49139',
     NOW()
   ),
   (
-    'a75c9f25-433a-4a39-9288-4cd211a9d8ef',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e9076242-1c2e-4e1e-ab30-0bf94ac99127',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '644bc7c1-3248-47ff-a683-bbc9f6c7a6d5',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '7abcd653-1e37-4cb7-b509-d668526a7cd9',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'd908e4af-6f39-4191-9181-cf8618e1b073',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '15675860-ed97-4d3d-a738-5067c8c1a70f',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    'e4a6ecb3-7836-4fee-9153-418d52419cf6',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'ef7b3ccd-3589-45bb-8996-1484e01232bc',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'aa02b3b0-ac76-4778-ba23-dd44ab9bcf5b',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e4d169db-f088-4a4c-b773-f256ab9b8c28',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'population',
     '5047561',
     NOW()
   ),
   (
-    'c78b71c7-f404-46aa-a172-924b02820abd',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'cf77f447-886e-48cb-a495-e9e64ffeb751',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'gdp_md',
     '61801',
     NOW()
   ),
   (
-    'bf81acb6-a16c-4c17-98af-9c1085b6ee85',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '3848716d-d2c5-4f17-b654-551e0e427ff1',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'd7aa0feb-e992-4483-aa34-6e1ee95d588f',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'af73e60d-6c85-4929-a141-53f1c9ea94f2',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '896ab963-0fe4-4a9d-bd47-bf9a36c072ef',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '89979a32-d037-412d-bb8d-29d7470be87d',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '08ecc852-bb98-401f-b241-159a609b0853',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'de5ee144-480d-414c-8b0f-4f28abd3564c',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'label_x',
     '-84.077922',
     NOW()
   ),
   (
-    '1babd70d-d462-43c2-91c7-fba2bd9d29c2',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'a1bb993a-8aa2-40f9-a50f-db26363a1adc',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'label_y',
     '10.0651',
     NOW()
   ),
   (
-    '8e31f9e2-5760-471c-83f0-64fc5cbc856a',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '8cf65dfd-4952-4f50-944d-94acf18bce17',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'dd824e7b-2c19-4bd4-8e4d-f80d207b37b7',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '0b17dc21-5209-4595-bc69-bb3dc57ff4b2',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '7ce051a1-24fe-4fcb-bacb-4f277483b016',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '10cf5da2-6b9a-4a5f-89d5-5341bdcbab64',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    'c20ef7e5-081b-4d4c-8ce1-d707d6d4a5c2',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'd70833eb-0f92-4296-9dda-effc3672b46a',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '6edf8221-f37b-4f20-86fa-c033e88a5d14',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '0b406e5a-9103-470b-bf4f-007fda86d438',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'population',
     '86790567',
     NOW()
   ),
   (
-    '82c06523-d1a3-4917-83d4-2e47f64a8d58',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'e8738a6c-cac4-4e5a-85ed-710f6e54df02',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'gdp_md',
     '50400',
     NOW()
   ),
   (
-    '2b2d7073-f71e-4cf5-bf6d-8b18a3610721',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '6cd5e072-d859-4a8e-b560-80ae71c59cbb',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '52a1d350-4e6a-4cae-86e9-b3e9a1fced85',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '42d488e2-d2f6-4253-8e50-48348f7ebf4a',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '6f072883-ed7f-48ab-9b29-0af1f61d1e7d',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'e081e376-e9ad-40ec-9cb7-fd5abad5e471',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '87db6dc3-4d95-4865-8e09-1677b9316d05',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '941d6044-e27a-450b-97f7-06385ec52e74',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'label_x',
     '23.458829',
     NOW()
   ),
   (
-    '20f68a31-8045-445e-aa9a-84cf4d355c95',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'f68a9f02-405b-4b64-a09f-8b81703d999e',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'label_y',
     '-1.858167',
     NOW()
   ),
   (
-    'c2600d68-4746-4d67-b489-d653e5d32a62',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '3de44129-1bc4-45c8-973d-d5c88814a3c8',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '9d7010a8-9974-4376-b288-517eefe11380',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'bd04996b-ac5c-4c55-bbf0-ab1c0ce97ee7',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '0befd768-e2f8-4f53-9577-525cd3cffaa6',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'ee06e30f-3c16-464e-8ad3-00bbd4fa950f',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    'ccd049a1-ff17-4cbc-bc85-4ef2dc441b77',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '15f784a5-df14-4e3f-a00d-9421b68babc8',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '4d5e19a3-d5fc-4854-8911-36b6618f5e02',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '89ac0e80-7380-4e31-a8d3-17b420cec1fa',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'population',
     '5380508',
     NOW()
   ),
   (
-    '46d8d0a1-8d09-4953-9939-d01b698a587f',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '1ee6a61d-3b49-4bd7-909c-a5b7de2f03d8',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'gdp_md',
     '12267',
     NOW()
   ),
   (
-    'eea830aa-365a-4c0d-a35f-e5ba9a039932',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '05f854c6-18ec-439f-89ef-35457b6698f9',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '3901b749-dade-454e-a7fd-1fbc0d17917e',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'bff8b5cb-61ee-4b29-890d-9520b45a6338',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '44683606-8d1e-4112-8146-2ed8e952c1b9',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '312b4ae0-27c2-4dff-a57a-b828979efded',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '6a112ed6-9cf9-4140-8198-e8741c6dfbed',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'd4518bf9-67ff-4007-a44e-67ec8fb8dfc4',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'label_x',
     '15.9005',
     NOW()
   ),
   (
-    'dd647ad5-4502-4d26-af62-59af94f3de47',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '00874e05-9dd7-4ae3-9fa6-fff1e2f827c9',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'label_y',
     '0.142331',
     NOW()
   ),
   (
-    '59e8b60d-eea7-447c-9423-0b681e54e798',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '722a671d-ed22-49f3-98a2-b37c1dc3026a',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'fe45868c-e3bd-4d0e-9e50-9c7358c01a08',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '2908d3e6-678b-4bbc-887a-8019eb748152',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '1f8ae181-a723-4910-92c4-652141b66033',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '49616d0e-cc84-43d0-aaef-0b44e4cd4b3f',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '743be3da-c2e7-421d-93ba-208ee1e1721a',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '396493a5-4b0e-4f59-b7c5-bffe48424b98',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'a403d5de-396c-462c-8d16-53d2b4ff667b',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '1e456baa-0a01-45dd-a7ac-fe331dee19c5',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'population',
     '850886',
     NOW()
   ),
   (
-    'dd3e4975-e58c-4749-a67c-1d0f4ececda9',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '40fdf069-24ab-43b7-89c4-423c49b86bbd',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'gdp_md',
     '1165',
     NOW()
   ),
   (
-    '3736cca6-a0cb-4618-8b91-ad6834bcf445',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'f1a05b9c-f053-4849-9959-87383006d3c9',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '700fa319-481d-4019-ae27-e0c7400f7338',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '2ad2224a-8aa5-47b3-bd04-c2044660fe9b',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'a3ac9d64-f0f8-451a-a41d-9f909143dc95',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'd7e2d6b6-53b9-462c-91fe-c4f69d80f665',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd4d66f9d-983c-4fa7-b6a4-70b11891b51d',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '3ce5411a-0643-41e5-9eae-92b2b284e91e',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'label_x',
     '43.318094',
     NOW()
   ),
   (
-    'aebf8bf0-2a96-47c2-ad2f-a12a5215518b',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'bacb4c4c-7c98-4255-9609-9cf1ef54e7b2',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'label_y',
     '-11.727683',
     NOW()
   ),
   (
-    '8897c5dd-32f4-49b5-8e34-f713416dd1a4',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '634a4cb5-2a88-4e0b-8670-679b98e68a7f',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'a398bb57-8a6d-4aff-a635-58efc67cac66',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '01835d57-5c97-4fb1-9377-bc26a1ac0690',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '1a8f2fca-38b0-4bc1-bd0e-ca6ca45dd82e',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '37a8b5c5-196d-4265-a0c2-e1b40bd5bff8',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '27d96d45-199a-42fb-8e09-72a28682bdf5',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    'dac2bde5-9961-4116-8e35-02c1c920ec10',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '895a01fc-fe21-4e4e-a40e-c74129ab505a',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '4b8fa17a-06b0-4386-8ace-f6574831ed8b',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'population',
     '50339443',
     NOW()
   ),
   (
-    '59c9bb8a-7982-4d3d-9fd7-d03869fd8e25',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '2e27edb8-6e52-4696-9bf5-3a5a26f8ecc8',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'gdp_md',
     '323615',
     NOW()
   ),
   (
-    '84f041e3-dd5a-4742-9e7e-f736f45dc60a',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '64b986b2-a8f8-4ebf-9513-35df64953b2f',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '79fcfb76-3f6a-4253-a333-a906d97bdb4c',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '4fb337c8-576c-4227-9c6e-b9858f788834',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '3399cf21-3268-42be-b943-0d8f3e263891',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    'd07c6f64-751f-4a12-8ab3-ce02cb2bc463',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'd1a00c03-3541-4d4c-83bb-55ce625b482d',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '0e1b93a4-2304-4371-b54f-16e0a4627a83',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'label_x',
     '-73.174347',
     NOW()
   ),
   (
-    '7cf6dbf7-507a-4718-8f3e-90dd083c4d97',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '78aee455-3f50-4ec8-8085-7efd7a8935a0',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'label_y',
     '3.373111',
     NOW()
   ),
   (
-    '9f284aae-5e7e-4a41-a8b5-4290a6ae7505',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '641cdcad-94df-4fa6-9923-98975ed21d61',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'da7dd227-0076-4c98-a4ea-57ef68efff90',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '50f56b81-6aa6-42a6-a7b8-9197f126ed84',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '249ec30e-8787-4c3c-acaa-06d4beaf42a5',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    'bed74993-a133-4769-b927-b4b76e8b7dfd',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    '0bb9cfdd-8fdf-4281-86db-e7b7cc7488c6',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '532e27ff-fc5c-4d63-a37e-e0bbbd97c660',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'cdfecd06-fce0-4311-8370-3bb9a90dda8f',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '5b45d594-33fc-4611-b222-f1d64d0bfbde',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'population',
     '1397715000',
     NOW()
   ),
   (
-    '1c554a3d-9e0c-4f11-993c-1f55bd0bc5b4',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '7b8b9489-45d6-4560-ad14-524a11789f3c',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'gdp_md',
     '14342903',
     NOW()
   ),
   (
-    '6046733a-7529-4970-828d-06e90a8ba207',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '74258042-8162-468c-bf18-97405932497e',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
   ),
   (
-    '0a2d02e6-88a5-4ed0-8fc6-00f67abb7f23',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '34ba793f-d4c9-4de2-bd16-44fbddf0b7f8',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'b110a7aa-015b-4958-99d2-7ff81c3dffd5',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '8dd19e1d-847c-4f19-bd91-d478e8b3aee3',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'type',
     'Country',
     NOW()
   ),
   (
-    '9102dc29-da5c-452d-a6af-60b9446be11c',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '098289b4-9d94-4c16-9281-60c6408684cf',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'label_x',
     '106.337289',
     NOW()
   ),
   (
-    '0f93bce7-9e04-4d05-ac26-13593d14c180',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    'f43a4d1f-5f6d-48ee-a605-9c6a1262e3fc',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'label_y',
     '32.498178',
     NOW()
   ),
   (
-    'a3b02299-88ba-49a3-8366-66515465825d',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '2bd74747-067b-4005-9878-72a40d1b76a4',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '6791e63b-7c75-4db1-85a7-e696275ec467',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '38e1ebe7-7ea4-42a2-b378-2ddeae27fa59',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '03c83f3f-87ab-4d1d-b0e0-e4e2d3ef4e6e',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '9067328b-dfee-4756-b5b9-5210eaad92fa',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    'acebc3a7-9f16-41ec-98e3-6e98c0e7c19e',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'df7ae1ec-8681-4505-996e-dcbeed1ec290',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '42921fa0-6a8a-4afd-a2e1-2e38eb80c221',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'ae91301c-2096-472c-b9d2-ab49189c5cde',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'population',
     '640445',
     NOW()
   ),
   (
-    '111d076f-c2ff-48ba-9603-a8efd695a6ea',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '6bb474e3-baeb-4f90-a017-14c2f9bd5e01',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'gdp_md',
     '53859',
     NOW()
   ),
   (
-    'a45a1b42-d919-4b41-aebb-953e493ba97e',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '1ef25eec-2381-4af1-b1b9-22a25957eec1',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '8e9c1273-76aa-4925-9169-4d087c33dbc4',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '7799d0a9-856a-49ad-868f-5c58eb7f31cb',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '57d08308-42ef-44e3-8c48-aa5aad05ad92',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '1a456ef8-97ba-431d-9411-e5e94e7cfbb1',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'type',
     'Country',
     NOW()
   ),
   (
-    'b292f3af-aa58-4fdb-8cc3-010704880f0f',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '07425a8c-0c72-4abd-9158-04dd8e2abce9',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'label_x',
     '113.556038',
     NOW()
   ),
   (
-    '5fd10410-e0c6-4be8-ac94-f727a64b3375',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '123f0019-8829-4691-83e7-06ccd6b2172a',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'label_y',
     '22.129735',
     NOW()
   ),
   (
-    'f16b9f15-6d51-4e0e-a0f4-b6ef8864ff6f',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'fc4bddff-c079-49ff-825d-1fda2260156b',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '52d37ef3-30fd-4005-be7b-e269781e4f4a',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '6f338f50-1d04-4826-992e-a6a092cfe406',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '1ef5a7d7-b7b8-4a87-b848-a516d5a16dcb',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'ac6e0287-2970-488e-ad0c-caad83408925',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'subregion',
     'Eastern Asia',
     NOW()
   ),
   (
-    'ef0267ed-8f91-4a88-8882-f7afeb13cb63',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '731f6999-09ed-4d9a-8409-7597b44fafd4',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '1dc111df-106d-492a-9d54-b62d6775f313',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '80adf1b7-dc36-4569-84ba-6494b5901eb3',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'population',
     '7507400',
     NOW()
   ),
   (
-    '53bc85cb-b0c3-488e-8acd-0f17b0f7886d',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'fca18a39-d26d-4295-9caa-cf11abd9f35c',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'gdp_md',
     '365711',
     NOW()
   ),
   (
-    '005dd57a-e26d-4732-a955-3eaa28e0b28f',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'c3495269-bb60-4314-b11c-680f70fbdd71',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '6fbb350f-c606-434d-ba6f-a92453b3127f',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '7487bfe8-c61c-4b60-9be9-6c94ca54b577',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '2c633eef-37bc-4c6f-800f-61b3e0f03644',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '75874391-f7d8-4a6a-a183-0fee6a5ae107',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'type',
     'Country',
     NOW()
   ),
   (
-    'c551aa09-3eb9-47ac-a59e-9705cc0df3e2',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'af640d04-8df2-487a-bb11-9374e0d1d369',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'label_x',
     '114.097769',
     NOW()
   ),
   (
-    'd4041846-d060-4659-8976-c25a772e5ddf',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '56aa425d-2616-42ba-964c-2edd07a3c467',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'label_y',
     '22.448829',
     NOW()
   ),
   (
-    '6230acdd-c893-4937-9d14-829681034da3',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '7a16e308-59ca-4285-831d-677d402ce4b8',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'continent',
     'South America',
     NOW()
   ),
   (
-    'e590bd79-8160-428b-abd3-01f0becfb3ad',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '5b4a6176-81d6-469a-ba92-0fe5e9f58735',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'b68f7326-0cce-40f1-b5f4-c781162c0fe5',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '811c5218-1aa9-4e9d-8afe-06a716278241',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    'f4037784-cabe-4d98-b6b7-44b3f45a56da',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '2157286a-25da-4278-b8f5-86164b3ff51e',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'e362a5ae-14a5-4fae-bc42-7ee18529c17f',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '92d4835e-9aab-4804-a67e-ca1db8fee267',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'population',
     '18952038',
     NOW()
   ),
   (
-    '5cd7f860-4e5f-4c1c-a0f9-39eace685e3c',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '31bb46ba-f317-423a-9f92-cd5375da3cf2',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'gdp_md',
     '282318',
     NOW()
   ),
   (
-    '83240182-8609-48c4-acf2-96726168f8af',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '1ca088d3-d59f-4c87-8ea8-cbfc62c38fb2',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'b3d274c6-b82e-4e15-ac30-794aea58182c',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '2a784527-f3c7-4dfb-a279-a38dcd6bcf51',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'b6fb42c7-e86b-49b9-b146-5422893dfbed',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '2f2ad2bf-84c0-41ac-9cc5-15f6683f83d8',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c202409b-b435-4adc-9715-298967bc1fb4',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '6f1df43a-ea11-4d74-af48-007ad078741b',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'label_x',
     '-72.318871',
     NOW()
   ),
   (
-    '39b6cb65-6482-4856-b304-3937d5a56067',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '2ab516fa-e007-4a26-979b-61842c9c8f7f',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'label_y',
     '-38.151771',
     NOW()
   ),
   (
-    '8fe12149-6782-431c-818a-b1882647b35a',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '27255c89-264b-4761-a4b8-fcf9d8282961',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '082e5da0-996b-4ece-9a4d-b51a62b6a098',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '3ab032c0-41be-4fd2-b0a0-99d2d67efa31',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'efbf49a5-7ba9-4112-8e70-64da225ea44e',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'acba9103-b675-4b60-8497-7101a64d11ea',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '0be83fae-8ec0-4107-b073-664fbf8daee0',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '6e85c10d-f018-4187-af11-2ad470c075ed',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '7f771dd3-de3a-4f4e-b518-28ec9fe582b1',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '05560139-a020-484b-9a0a-d968d6476ba2',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'population',
     '15946876',
     NOW()
   ),
   (
-    '96d6e924-a1ad-48d4-8669-b82d4cbba948',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '56712107-ebc7-4484-995e-9fbf72987ce9',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'gdp_md',
     '11314',
     NOW()
   ),
   (
-    '218eacc8-4f12-4ce8-8406-98903002cafc',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '47ae07be-c3ec-4aed-bfb9-7598be423357',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '00e59c9b-aece-4798-83a0-8a0862d4b456',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '523ab677-5b84-44a5-a203-1003684bcc26',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'a1f0cdf8-3570-4521-b4a2-9ac28dcb8ba8',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '055dd81b-3796-465d-a9a2-83e9d14ef4f2',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '459c99f1-5481-4565-a7d4-ef7976068415',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '00f1afe4-72e3-46a7-ae93-2d5f7103a087',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'label_x',
     '18.645041',
     NOW()
   ),
   (
-    '2e785748-1f79-42d2-a060-8a825dfca5c9',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '04811c0e-7f29-44ea-8de8-0867268a7388',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'label_y',
     '15.142959',
     NOW()
   ),
   (
-    '5e620f92-cf07-4c5f-991f-70f2877e4eb5',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'cc10a2d5-de75-4d93-b3b4-38fff60991e5',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'e24e37ab-bb11-4243-8da2-89bf7fbd211a',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'f6be8290-5069-4e2c-b2cb-af5d9f351d43',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '98c340d6-6380-4537-9fb0-c604a3e34e26',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '1ca42cdb-1e5a-41f0-9c05-3c7b7401dda5',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '03a3165c-e184-4cb2-854f-34dc6da8674a',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '624383a3-3e77-4203-a367-ce450cd71d43',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '265b2c7f-0a05-4889-82cf-841e649605f2',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'ea933477-2eee-47f4-9079-f566b1946db4',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'population',
     '4745185',
     NOW()
   ),
   (
-    '55bd63e8-ac89-467c-948f-c3588b9ee48c',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '75045960-a8f0-4db6-8aa9-bc0625578765',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'gdp_md',
     '2220',
     NOW()
   ),
   (
-    'ae208a64-f818-4390-aee6-499854b9bd22',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'e16ac4c6-6077-4504-8782-6f24d9dff185',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'c8e296bf-64b4-4515-882c-d283395e497c',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '4755e4b3-e6f2-4346-a6fb-f2eb04141059',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '4b3f497b-7054-4271-be5d-3abd9c37a3d3',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '3a2eb2d9-6b46-4764-8a5b-d1c0612c5274',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '54831213-7d86-4676-a342-3491e28a1f29',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'a0a66a20-2ab5-4c39-a1ee-418877d02363',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'label_x',
     '20.906897',
     NOW()
   ),
   (
-    'd786ba38-0788-4ac6-8d35-c3b5dbab6ffa',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    'f8fdd144-b2a3-4c75-994e-84996944d308',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'label_y',
     '6.989681',
     NOW()
   ),
   (
-    'e1608448-dc71-4f31-8c25-24bae5f338cd',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '45dd93a3-87c3-4fd6-a68e-a4608d543554',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '842a1f5a-d572-43e1-b887-50097bbb26db',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '00ed3fa5-ff92-4f63-8716-b09d0cc10588',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '7cb2d8a1-df48-4afc-be7f-7bda977d0922',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '4efd31c1-56e8-4267-a5ea-c4f457b604a4',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '7936b4ec-ea3e-4236-a370-0950be842b04',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'a6b80d40-b14a-434a-b24f-c523eb3220eb',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '5a2f6500-ea7a-42ae-b4d5-314506bd7cfb',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '7c95757c-fa58-4f88-a9e2-b0797d4bfdc1',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'population',
     '549935',
     NOW()
   ),
   (
-    '460114f0-2f78-4664-a2c9-c4d29d7a5a2d',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'ab604fd8-48d9-4f80-b84a-8d13e890193e',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'gdp_md',
     '1981',
     NOW()
   ),
   (
-    'f6c5ef78-e801-4800-b443-f4bc71efe720',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '702aeb8c-dc6b-42b8-9238-0afd649c9ce1',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'bf6ec8c2-a85d-4e1a-a596-8430750cf57f',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'bfc1a824-e2a7-4a57-9446-19c915ac0ae4',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '5d7027f5-9f32-47a5-ac55-c6d097b7feba',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'a1f7f4a2-b4f8-489b-a3fe-2de6af1b31f1',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '28df1acf-56d3-4cec-a14a-f8c00931c593',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '485d59ff-91e9-4d41-9296-7d6f21c00fd3',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'label_x',
     '-23.639434',
     NOW()
   ),
   (
-    '4684ac81-b6f1-4034-9472-63dfd068eaa9',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '3c386ed1-23b0-4ae2-ba48-0fe8711f39fd',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'label_y',
     '15.074761',
     NOW()
   ),
   (
-    '375fb259-1264-433f-8635-05483df1ae66',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'ec67f7f2-b96f-4756-a7d4-31b29958aac3',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '518a5ed8-c8b9-468d-bbfc-b23c0cba50a8',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '2a9d207e-9ebf-4647-94a9-233f8fbfd323',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '5d7c6cd4-38c1-438e-8bf8-af9ddd35f3a6',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '6363f92a-90c9-44e9-900b-65ce08114d72',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'subregion',
     'Northern America',
     NOW()
   ),
   (
-    '92507adb-b83b-4c62-93c5-5ae9a3bcab94',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'bff9d215-5ea0-400c-b74d-700d452ebaba',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'region_wb',
     'North America',
     NOW()
   ),
   (
-    '2cc31137-eeb8-4699-bc85-f5e58fa2876a',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'f26cf915-eca6-4160-b5cd-47ef7afcf6d7',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'population',
     '37589262',
     NOW()
   ),
   (
-    '44b87f0a-c668-43da-8576-be38c4a7141d',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '92c8bf85-90f3-4e9d-aa92-276efff20d03',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'gdp_md',
     '1736425',
     NOW()
   ),
   (
-    'c7128d56-ac6b-4016-a9fb-5b6c330425d0',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '1a46ee91-dacb-4271-b2c9-2e78c403d6dd',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'economy',
     '1. Developed region: G7',
     NOW()
   ),
   (
-    '11acb0fd-487f-457f-b00f-e1e63cdb6ba9',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '326d92a4-d858-48eb-a0ed-2b1234eeff2c',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    'd549a4c7-2ce4-4325-acd9-3854bc9bc3d0',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'd08f8ea8-165b-47f5-b8e3-6a5a4090dd7f',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '724d1dbf-39ec-45e2-850d-5e18ee5e433b',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'a0793e25-238e-4d89-a956-e8d4de563b88',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'label_x',
     '-101.9107',
     NOW()
   ),
   (
-    '06474cb0-6ebe-432b-ad55-a495e9d09938',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '40a63229-eaac-4cd2-af5f-5221033cdd78',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'label_y',
     '60.324287',
     NOW()
   ),
   (
-    'de5b60ba-86c5-4b84-8cec-b6c5b20d5bd6',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '38ed81c8-c3b3-453d-abcf-c461e246dd03',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '1f23421e-6cde-4327-95da-cbefae692d16',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    'dffc2648-5a1f-441d-bf34-f014bc3d1cd9',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '1d676ccd-15b0-45cf-b6d9-f0b74e0981fa',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '3a55a9bf-0c0d-4a2a-9764-cd760d34680a',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '3e855fdc-06cf-4dba-b2e3-470069dbea0b',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    'f0903f29-549b-429f-bfff-8e14923a1733',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '1ce2f56b-a69f-4826-8f66-e3dfde6703d2',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '7d1f6939-d4d6-46ec-9213-ba2469098f41',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'population',
     '25876380',
     NOW()
   ),
   (
-    'd5163089-6654-4915-9532-1b24953876bd',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '9bf5e22b-e20f-42d4-81d6-76e6daaa35f5',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'gdp_md',
     '39007',
     NOW()
   ),
   (
-    '3622a67b-89d3-4aa3-a179-fd6e18533d36',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    'f9c93021-5f1d-46ee-856b-50763ed7d8ea',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '57bd7787-2e13-4d71-b49e-fba7e184f9eb',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '642426eb-8cb8-47b5-92ab-e16bdac2d0e8',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'ed8087e2-0441-4b45-b7a1-8af65bdd2f75',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '5cb227db-015c-4ca5-bd9f-7069db035362',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '90028729-b749-400a-b012-6a5973455b38',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '241077dd-0527-4bf7-aa10-32cc59131db5',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'label_x',
     '12.473488',
     NOW()
   ),
   (
-    'c5d6ae6c-5c18-478f-87b8-ceb46a832595',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '2b0cd86b-5fc8-439c-b0aa-f485f6842960',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'label_y',
     '4.585041',
     NOW()
   ),
   (
-    '04d8e6ce-7910-4871-a54b-cc465178092c',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '5ba3c851-65c9-49bd-bb6d-ac0f24261c77',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'f8d89a89-1f44-45a9-949d-2541b8c666ee',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '61718ed0-a954-4f8c-8fc8-d0a5c030356f',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '8c0b0a47-66f9-4387-8019-153e7e524751',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '64cd160a-9c3d-464c-ab2d-bf3a1ae2e17a',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    '9ddbf451-6942-4fc1-9ceb-214fc843b2ec',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '904b3e39-7f9a-4125-9698-36eeb53f97f7',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '565467fe-db9f-4b16-bcbc-2ea1af11d835',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'b653a738-f63e-4dfe-a7e8-f262b282593c',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'population',
     '16486542',
     NOW()
   ),
   (
-    '016ba699-6f52-4e45-9e19-face12312e09',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'bf1bdc58-d787-4fb4-bdcc-259353e235c6',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'gdp_md',
     '27089',
     NOW()
   ),
   (
-    'd7fa85ae-984e-483c-bc08-c5c6615b00fa',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '22bd3bfe-ff25-40a3-86ee-fdaf01d1ae0c',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '7b4367c3-e94f-4289-b8ba-0e5943b8a6fb',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '371d02e9-c06e-4445-b199-d3ebee56513b',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '38faf753-4231-4dc7-a1b9-3681d0821a08',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '385b634a-4099-4de9-a2b8-124799a7a921',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'fb46de38-260d-4547-a316-faf19bcaa9e5',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'cc461f16-d159-4434-b0af-5039b34d37f0',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'label_x',
     '104.50487',
     NOW()
   ),
   (
-    '24b0f146-c8e7-4bd8-bc83-f5cdfd0670f8',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'd2bd2195-2f02-4498-8112-63193bae72b0',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'label_y',
     '12.647584',
     NOW()
   ),
   (
-    'eb3d77f8-f7af-4f1d-b57b-ff7ecdf5a6c9',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '1b6de8af-27f1-4a09-9964-855e07762b5f',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'cc34c40a-433e-4486-9da2-004d7193fc85',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '782342d3-fba1-40ea-b782-0378c66f6211',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'de5e96f9-a285-4e7d-9a17-0405e8b6683d',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '70385ac5-f54e-4b1a-87a8-5adbb6dc5d69',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    'ce0b1a9b-771a-4081-b453-bef58cd2ddd7',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '7aed9574-217b-4e46-ae51-29890c80b98d',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'f6d8dd6c-b0be-4d3d-9633-54bd46227203',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '9492cd0c-f5f0-4b37-acc0-834df50d023b',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'population',
     '54045420',
     NOW()
   ),
   (
-    '21795ed7-9764-4bad-8d05-d0dc35e5db79',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '2ecfb8f6-c3ca-47ab-9d97-f50b10e4c18f',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'gdp_md',
     '76085',
     NOW()
   ),
   (
-    'd1cad86c-7f88-4460-a498-86d348c66e21',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '6a746166-3d41-410d-926a-f5c391a1c2cc',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '45cad29a-52ec-4468-bc08-0ff2b556c8a9',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '34b3b439-0d2b-4218-85de-c51b401af897',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '8180692d-006e-4aa4-8474-6b5371247909',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'feb245ee-81d5-4a83-95ca-1b4551f40d4c',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c4a5b554-9ef6-49dd-98e0-b892c95df5b4',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'c4967732-5403-4d91-8b2b-281f3f65bef2',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'label_x',
     '95.804497',
     NOW()
   ),
   (
-    '08c4a3a5-9cb6-43f1-a30e-986c998629ec',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '50e29796-01d9-44bc-b030-109a69bcac7f',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'label_y',
     '21.573855',
     NOW()
   ),
   (
-    '99f990db-304c-4cd9-bd93-1ad9a04de7f4',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '26273283-b959-4a1d-be48-c31c85ca1fb2',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '0895c763-ef49-4662-a5d6-5953621333c7',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'f389a0e0-c530-472e-b2d9-15206c0e20e0',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '73e492f1-ae5f-4238-b50f-b8bcf3c817d3',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'a6dfac54-cd5f-45d8-8096-1c55676ba13e',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'subregion',
     'Eastern Africa',
     NOW()
   ),
   (
-    '42047d18-28f1-4308-ae65-179f78320f54',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'd82ef745-e4ab-4a30-9ca7-559fa360e9e4',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '14bbff56-019c-4598-a241-1fbbcaa384b4',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '9ecbc4ad-8e33-47dd-ab5f-a578a3b8c4dc',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'population',
     '11530580',
     NOW()
   ),
   (
-    'af32b932-b548-46a0-bfe0-c81fc36f01c4',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '262bd46d-e5da-40c6-a487-c133d95588a2',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'gdp_md',
     '3012',
     NOW()
   ),
   (
-    'cfb93579-3414-4118-9188-6dc506d1c14d',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '09009983-f53f-46c3-937d-a522188fe729',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '5e78b031-12c2-4fba-88fe-fb143af9e9cf',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    'c5ec9314-face-42c1-aa9c-1490163690f8',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'ca254410-ea2d-4851-89f7-d722de9d1395',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '3f8d685e-8e12-4b78-8d0d-2746fcd9c100',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b22816af-4c05-4993-a14c-1faf920ba07f',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '0e0be158-20df-44e8-88fd-00ceba4c6a48',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'label_x',
     '29.917086',
     NOW()
   ),
   (
-    'd02ab6b9-2507-4d3d-8016-1712ba6435eb',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '4e219d30-bf66-4f7e-aee4-9eab35115163',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'label_y',
     '-3.332836',
     NOW()
   ),
   (
-    '85a77c61-f742-475f-9692-3d820766d189',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'c17a76bb-475b-46e7-9b0b-22ddff8982a1',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '40ef1422-3402-4526-9eeb-7c7762e708d4',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'b9503675-d196-4ee5-93f4-34f0460576ea',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'b48929d9-9262-418f-a8de-ae2e0f88aba4',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '4a0be6dd-9671-4eb8-b838-7cfd731f861b',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    '1b75a564-2e41-4271-9512-bc9b6b6e8c08',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '383353ac-3d8b-457d-93bd-1e41125c239b',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'd07f7fd0-3f38-4d7b-b93d-496cb44d457b',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'e9af057a-87dd-40a2-9efe-8de09fa04954',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'population',
     '20321378',
     NOW()
   ),
   (
-    '3b629806-1038-4755-a6b6-1483173e5722',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '44d526e7-2e49-4bf7-b4bf-60258bd53821',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'gdp_md',
     '15990',
     NOW()
   ),
   (
-    '793bef7d-ae44-408f-8cf7-9b95990b03ad',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'c2a9875e-6095-4e53-8e62-cc6e918d5021',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'ae28b712-23ba-4515-8baf-0fba5280c7d7',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'add3a1f2-c9ad-4e57-bb8d-9f9f3cef836d',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'aed6f1e7-d950-4fd3-99b6-50c708b4eb35',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'd15575bb-587f-413a-a4c1-8ecc66dc2ec6',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '9bacd165-8586-45b1-8535-db3c04893a5d',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'cb56809d-f972-42cc-9f3e-f040d4eda4c4',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'label_x',
     '-1.36388',
     NOW()
   ),
   (
-    '5cfc0a00-c11b-434f-ba31-43fd961d197a',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '62643c4e-cd4d-49d2-80a0-bb435c495792',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'label_y',
     '12.673048',
     NOW()
   ),
   (
-    '9dc8af57-e9b0-4de0-b318-a4996b591ae4',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '1ad5408a-396b-40fc-8a82-0bc2f5af3221',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '1cab6a27-c302-4f69-89b8-0f24eceb9c34',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '13e27ece-7a3e-4e74-afc2-ee7f152fc38d',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'c476e352-fc4c-4c62-a5c5-f27759ea85b7',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '92597bb7-90a0-46d5-86f5-031142a9cfdd',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    'fbf7a4cc-f6b9-4757-a32f-a51d5ec98814',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '79574a46-2d4d-478a-86bb-c6cbe001bb1c',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '95ccc726-9480-490a-b40a-de2aa9a6e8da',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '95301c2e-d2ba-43b0-9948-3ef27c19d7f0',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'population',
     '6975761',
     NOW()
   ),
   (
-    '05b31452-a0e9-4515-85b8-f98f491d3565',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '50a3e758-43d0-48db-8abc-72479f74b3e6',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'gdp_md',
     '68558',
     NOW()
   ),
   (
-    'f3fc3b7c-09c6-4889-ad7f-35c57c786ba9',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'e9421fe2-5165-4a39-a570-7a2eb8c3589a',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'a81a0643-5b7d-430e-ada4-ef7a74926a97',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '4dc38887-871e-42d1-ac3a-98730752d7d6',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'ac5c2e33-0699-4187-a615-a05439634fc8',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'a5501d5c-7053-4a64-ab50-204d8ce81ed1',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b568fb7a-8a13-4099-ac16-377da1719c5b',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '784943f1-f29f-4964-b96d-be50fae7e9dc',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'label_x',
     '25.15709',
     NOW()
   ),
   (
-    '0f79c5c9-a479-4c43-8a0d-2b52ad7bf5ba',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'c6b8cfc3-6549-452a-a1a8-17613734e4c3',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'label_y',
     '42.508785',
     NOW()
   ),
   (
-    'e6391e53-bb97-40fa-a59b-28be6e789e48',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '001b0ce9-3e86-4421-867a-9e67b84b7cfa',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '06393341-01b1-4d8a-9bbb-d7f7c0fd309c',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '114cb3cc-f62b-4398-9757-50254cc57fc6',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '03131f67-6212-4ae5-a96b-75d6fb7dc5ab',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '4a3389d7-fe60-460b-88e7-4221f5709bc7',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'subregion',
     'South-Eastern Asia',
     NOW()
   ),
   (
-    'd3379978-fbed-46e6-a1cd-0bd26c74b771',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '50339719-950e-4b05-9db2-3aa6ce0d29ed',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'acbf4d3c-60c8-4cd4-91df-eb50a6390561',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'bfd4953e-80b4-44b2-86f7-887e645f7139',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'population',
     '433285',
     NOW()
   ),
   (
-    '4bb57ddc-d4e4-4ff4-b7ae-0b54fd8c3458',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'a1348c7f-ff5e-486c-a3b4-caf604d08c84',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'gdp_md',
     '13469',
     NOW()
   ),
   (
-    'ac12cdc2-e9a3-42a3-aae8-33253d26c981',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'de00f8c4-b8d7-47dc-bbf5-1a28762ef550',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '27ad2987-2301-4f20-a422-784097ce47d1',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'd6474b1d-7d27-440d-922d-432402bdb1f5',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'f62ed171-e23b-4cbb-9e35-5f76942c93c6',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '817d357a-8d64-4e7c-b553-0cf21dd5d1e0',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'b0fb4cd4-d065-439e-801a-51ab6b06698a',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'ddeda9ea-dc82-4df2-bc12-5c7b58300386',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'label_x',
     '114.551943',
     NOW()
   ),
   (
-    'b99302da-86bd-413f-9c32-54cd990a22f1',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '284310f9-cd7a-4251-80e1-4bc217478cdb',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'label_y',
     '4.448298',
     NOW()
   ),
   (
-    '3b3fa0a5-6f19-46ca-948a-8b5bfab24345',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '9eaec4c0-0ab4-4a30-804b-45e02e532996',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'continent',
     'South America',
     NOW()
   ),
   (
-    '634f5868-35bb-4352-ba03-41ffcd95f875',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '12a0e82f-ee2f-4856-a21a-6be40e28affd',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'b35e2f4b-6c5d-4bdd-9386-9f9ed63d707f',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'a4d71850-56dc-49ca-8f33-9b970bf763bc',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '548f7797-5e61-4391-bec0-9647a64c0478',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '0acf6022-a609-40e2-8c41-94009f99cbb2',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '0f47b9bf-3de9-4a89-9d45-720ea1b49d61',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '7b7beb40-5a97-47e7-b7ad-10a47fd03e63',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'population',
     '211049527',
     NOW()
   ),
   (
-    'fdd5eaf1-0455-4e04-8330-b99da796dcfe',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'a30556c2-83d5-4cb9-ade5-1e8939eb8655',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'gdp_md',
     '1839758',
     NOW()
   ),
   (
-    '0b696720-7bd7-4aec-9333-c42373bc14db',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'f96873c4-6029-492d-8bcf-520448550ae4',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'economy',
     '3. Emerging region: BRIC',
     NOW()
   ),
   (
-    'd0f3917f-46d8-40ab-945d-fcedcd228bba',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '7f2b70f1-452b-418f-92e0-3411242d834d',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '537908fd-13d0-4750-9646-d426941ef965',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '40bb6a0d-6cd4-4ae1-80e9-3a08bccf5b34',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'a8afe65f-7db3-46d5-ad89-13fe0c391a6b',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'fdd5fd6e-3ffe-4056-ace7-c9cd1c616d79',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'label_x',
     '-49.55945',
     NOW()
   ),
   (
-    'e906f4b6-4c57-4f2e-9ff6-5be258d33820',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '0c28dad1-eb2d-4b7d-a8e2-ba78934300b9',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'label_y',
     '-12.098687',
     NOW()
   ),
   (
-    '9295e7c4-547a-42b6-b802-9f46a537f166',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'ad61811b-89e0-4653-96fb-199541413610',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    'd4937de2-dce4-4aca-abae-4dc675fce96d',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '7336c4b9-6e38-4c22-b00c-df8d9cb0a0d0',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '434caf69-5ff9-461e-b14e-98daefecf3c1',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '66856171-5007-4808-97d4-ab00c05079b7',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'subregion',
     'Southern Africa',
     NOW()
   ),
   (
-    '84095eae-7868-46cf-8490-d9013bd2db94',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '6d8014d9-200b-4df7-90d3-fc14887e4cb3',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '5b61e51c-45ef-4b9c-a9d2-f03695c25d44',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'e23d141d-64d5-4e5f-8b73-432e76e8b3a5',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'population',
     '2303697',
     NOW()
   ),
   (
-    '99af01b7-a480-4c4f-9a76-3d930ea81f83',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '7c58c541-9f81-4566-8ee6-ed792bd131ef',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'gdp_md',
     '18340',
     NOW()
   ),
   (
-    '5b0e67b5-572c-49f1-832c-7f1fb7bad1e2',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'd8189596-972a-4622-8abb-56374000b669',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '2b63cf4a-6236-46d9-9a1c-54a93c0fc4dd',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '1831f98a-1464-4cbf-900f-b05ee19a2058',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'c9bc4d08-35ec-4222-81ce-ccb46ffabe69',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '60d2ac07-94b3-4e5e-bccb-61cd3a68308f',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '861bce4f-788c-404a-9b2c-28b0b95d87de',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'eee5f974-3279-4ced-85e8-11e31df6eb4d',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'label_x',
     '24.179216',
     NOW()
   ),
   (
-    'e3ef6b36-ad4c-4c87-bb84-45a321e2b425',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '7fd8d3f6-f4fb-405f-9f18-2980bbd2c0e3',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'label_y',
     '-22.102634',
     NOW()
   ),
   (
-    '0bcb80cb-48b6-4fa9-9185-25c0dc825f75',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'a6cbe57b-dc38-4164-9b17-8171150f625b',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '77771952-6944-432c-b04e-b5ea1cbe1db5',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '8dc38ea4-1bb0-47a6-8226-2765e0bf494a',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'f899758e-7794-4f48-a026-c27280f7b83f',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '3b17666f-ae65-484b-af2b-13232315e4ff',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '7efe2181-42ac-4179-9f2c-a0880dc22bc0',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '66e0ac4b-0e18-49c0-9ee1-27672959eaac',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '67a772cc-5d35-4898-a1ae-d6149e911abc',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '06384711-77ff-4403-94bc-8e9d1e725b44',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'population',
     '3301000',
     NOW()
   ),
   (
-    '207c55b7-d468-4338-aabc-d47290d60c1d',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '4b24f35f-09cc-4e74-9189-2153d4955ba4',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'gdp_md',
     '20164',
     NOW()
   ),
   (
-    '44b30c5d-a887-46cb-853d-a9ae1c7d1f93',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'db60fcc3-d9fc-4109-81ab-5f4fe24a1192',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '801d3906-a6a1-48a5-a3a2-91472b45aeb5',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'bf48603f-1c1c-41df-9a38-965bb3ed04cb',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '88832281-e333-4fea-887e-fe787d8c7e44',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '774f4265-0245-4c89-b43d-c0606d684e3a',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '5b8ef96d-4405-49b4-abf8-90af265862b1',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'bd9f6cb6-23fc-4557-ada4-dddf060cad4f',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'label_x',
     '18.06841',
     NOW()
   ),
   (
-    '37f1ab8f-ec7d-4b75-856c-2d923138283f',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '24155456-4e06-4633-a36c-15e889166d37',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'label_y',
     '44.091051',
     NOW()
   ),
   (
-    '6e7e26fb-c81a-41f7-8c14-5ee28a125bc3',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '38f36d43-f1a9-4eba-93f8-f84ea345e780',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'continent',
     'South America',
     NOW()
   ),
   (
-    '30d2d5cd-99ae-41f9-80a0-ea63a6cf938a',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '975d67ad-64df-4bbb-a4cc-ecf8afaae435',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '8867bb95-27c9-4681-8a48-6ced2d7732ab',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '9d341c04-cc5e-4373-b8f2-c11894c3ecbe',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '32b951d7-869d-4d47-b565-8b38826d8570',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '7d0b76cb-a142-4b6c-8f78-f12e032a4b1b',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '7b8ecc44-4e10-4722-bdaf-1b89e4f8487e',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    'a486363d-4238-464f-97fd-3d161ef69fc8',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'population',
     '11513100',
     NOW()
   ),
   (
-    '6f613ccf-e3f6-40a6-8435-905808ad41ac',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '7c51a263-9b18-4c03-8871-89f2e3621b7e',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'gdp_md',
     '40895',
     NOW()
   ),
   (
-    'ecc1c403-12bc-42a6-850a-877e593131d7',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    'ae279e93-2701-457b-8251-c1042432bf67',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    'f75885e0-5d1c-4e0c-bd5f-41e342237eb8',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '14aff3a7-2c1b-4d8a-b376-1784e453562a',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '82a4aad7-8be0-4f51-8f7b-e2c2114dd395',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '25cdd700-ad42-448b-ad03-ae62f7f15d0e',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '2c72439c-6d0c-44ec-a997-6ce389a746cc',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '8d081616-0b15-4331-98c7-c093428ae193',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'label_x',
     '-64.593433',
     NOW()
   ),
   (
-    '77026fac-0061-487c-a098-4c12acc54fd4',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '49168784-c959-4876-858f-d7f42653e32a',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'label_y',
     '-16.666015',
     NOW()
   ),
   (
-    'f06f4855-916e-48ba-8baf-90d0d5425e83',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '9504f0f3-86b5-4cab-8a5a-8c92072da1fa',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '1667dff9-76d5-44f2-9d32-d9c5d85c4a75',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'e67d2fca-8a91-4920-8961-87378009319e',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '5891127e-76b4-497e-8e4d-c02d0c21063f',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '1ffb7efb-99d8-4eec-aad7-741779dd47c5',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    'eeb41344-2625-479d-bf21-f272eb46d21d',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '4f119e2e-da0c-47e6-8112-69659e215909',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '65a5015e-0d73-4d39-8327-5f9d987ebf13',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'b9449c83-248e-4457-8805-0baa0628c56d',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'population',
     '763092',
     NOW()
   ),
   (
-    '707f9f17-371a-4f91-a976-85c5bc0d6978',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '44fbd268-a6d7-4b25-89e4-fa6e060a130e',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'gdp_md',
     '2530',
     NOW()
   ),
   (
-    '26562141-8ead-4a25-be76-5919fcc1ac5e',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'ecbb446d-2d5f-4314-a216-8466703fc520',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'c6185a6e-f8c2-4bc9-a728-f9a39373f18d',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '10ee7888-2ebc-4bbb-83c9-1aef0d68cd79',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '70dc40d8-57bc-479d-8e21-5ddd6b9303c4',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'ddcc7225-88e1-471c-835c-e2284073ce6d',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '88ee94a6-a993-4caf-ba1e-63156e0016ed',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '162b6a14-7296-4387-a0d2-b3afd46c9186',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'label_x',
     '90.040294',
     NOW()
   ),
   (
-    '5fb61647-5fe5-475c-adde-5a006bc7a271',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '1439453b-1fdf-4aad-88c8-617cd3bce143',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'label_y',
     '27.536685',
     NOW()
   ),
   (
-    'bccfd52d-ec11-495c-a89a-0a4e0075d452',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '1ff4bc50-140d-4775-96a3-0cc516e25eb8',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '8ec87b51-9522-4333-ad7f-0ce273445538',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '7e8c3106-4d82-4cd0-8d49-e08c17da3662',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'c4b1ba2e-af35-493c-a149-3323cc59eb33',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    'b0a20089-a827-47c0-989b-bdce1aa37c45',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'subregion',
     'Western Africa',
     NOW()
   ),
   (
-    'e6853fe9-c77f-4d6f-b7c0-03d80b3ceb68',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '70c8b725-3653-4dd3-8be3-b20b91f70783',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    'dad265ca-f401-4181-9d2f-f397d7a16166',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '7b0c62bd-6975-479a-90ca-baa9141b01fc',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'population',
     '11801151',
     NOW()
   ),
   (
-    '40a219bd-62ef-452d-87d6-617a7342af74',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '1ceed0de-32b5-4ef0-a6f7-44bcb9185728',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'gdp_md',
     '14390',
     NOW()
   ),
   (
-    '87e736b6-3811-454d-a5ed-4476f7bf2aaf',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '6a72af6b-d1c7-4bf3-ae80-1bf7ae3df2db',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '8b85feac-c695-4789-a74b-e41bbc8a710f',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '9dfd90c5-614c-43db-9654-1d66b135cc09',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '914a488f-d4ed-4cfb-8e39-a490b6518778',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    'd2cd8a85-4e3c-43da-893c-b79d1a3c4b49',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0473c4b5-87b8-494b-9bc4-c16ec73525ef',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    'f1cd5410-6eca-4511-81eb-872d44551a2e',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'label_x',
     '2.352018',
     NOW()
   ),
   (
-    '4dbaaa18-1bcc-4587-ba01-2bfaf914d85a',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '00aa2bbd-894f-4d4b-a358-e6c235e5b6ea',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'label_y',
     '10.324775',
     NOW()
   ),
   (
-    'b5ec3771-5468-4f74-a4ad-6c8cdb89b7b9',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '6d8461d8-e3ad-429e-8c01-ba641140567a',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'e1926819-b1cb-4e11-8ff0-e7e9fc45c644',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'e54bf787-6310-481e-9797-3edda54a2f7c',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'e6a7f5b4-3699-4781-bdfa-e852a49d7c9b',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '151032ad-59bf-4169-b480-58e08306fe10',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'subregion',
     'Central America',
     NOW()
   ),
   (
-    '84a54938-d3f1-4fa9-9259-044aed32a8f9',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '84f0f977-5eef-45dd-a174-ee3c6cdb54dd',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '0f0833ed-3783-46b4-a074-63b5f5961703',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '55596d0f-31ea-47bc-9764-f336bd94c2a6',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'population',
     '390353',
     NOW()
   ),
   (
-    '3a3ac19c-d9b7-47b5-a11e-36b76e54764a',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'dcc8cf3a-46a7-4156-b9d3-bc3dc7fbd3f8',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'gdp_md',
     '1879',
     NOW()
   ),
   (
-    '5031ec29-0c77-4734-8a8f-358ecb7c9d85',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'b65378b5-28ef-412c-a17a-816b4a65b81a',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '7dbb7d84-22a1-4d32-a8f5-11c4a68d986d',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'cf189ef1-8b8c-471e-8340-a854185c3a42',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'a973c34e-1ada-4d8a-92f5-ce807a9ed7d7',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '094f6966-210a-4481-b40f-ea400bf5bb66',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '0d1f44f4-c2c7-46d2-8fbd-cfd67b9e4c97',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'e3bdb1a6-e924-44b4-9403-be6e15227117',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'label_x',
     '-88.712962',
     NOW()
   ),
   (
-    '605a3ff8-3f8c-4dcb-b210-ac91f4da8d45',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '91dc15a1-3f26-42af-9155-d481307aff6c',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'label_y',
     '17.202068',
     NOW()
   ),
   (
-    'f8473cfd-55d7-44cc-b669-5e0b949c4f7a',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '1ae48543-523c-483b-abb9-7b635ccd5e7e',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '815974b4-4b5a-478f-8020-edde7cccc1e5',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '7725c3be-3618-4d22-8fe3-29bdb47d66fd',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '74521057-1cf8-4403-b6a9-00c4600238b6',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'a30e8566-5dd3-4bd5-969e-f72be6a35652',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    '30df9f78-0f05-4cac-8bd9-ce032bd764a1',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '8d5f48ff-d907-4e93-8377-4f281078ef60',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '25d811e1-225f-486e-8d98-90133d05543e',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'c8db079e-e3c1-451d-9481-68696a117122',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'population',
     '11484055',
     NOW()
   ),
   (
-    '3db5ca0b-aeaa-4d59-9912-f823633faab8',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '3aef4a2e-3311-4bd3-825e-56e6a01d94d9',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'gdp_md',
     '533097',
     NOW()
   ),
   (
-    '50150d82-fadb-46ca-8073-62c37cac06e7',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '704e1ad9-3d33-4fc9-8e11-9171593d81b2',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '8639c5e1-9ca7-43b2-9273-6436717eecbb',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '31a0d874-ba76-4167-8b94-705a41f54a95',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '67a77cbd-e85c-45ce-bd91-cc2aee0a8f75',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'f49b17b1-0f7d-4dbe-af26-1cc517642aee',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '873ad06e-8405-45a6-85af-8ac501a53639',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'c223d41c-287e-4511-b768-aa0f70a036a0',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'label_x',
     '4.800448',
     NOW()
   ),
   (
-    'ec7faa5a-e3d2-47c6-9d42-95b96cf212c7',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '0029be17-1d19-42de-8f4b-07e0ad9319df',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'label_y',
     '50.785392',
     NOW()
   ),
   (
-    'cf221cf5-d096-43af-8e63-f8fb2dfa0a5d',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'a49ec2af-928a-4fa0-8d52-2bf635042290',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '9d0a8bc8-bf3b-4d95-9925-86e16d736be9',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '65475ce6-d1ba-479f-b3a9-3b6085060ee0',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '2bcf3943-988c-4582-ac3a-56c76c1f7258',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '29d4fef8-c444-4d11-872b-9581a1a6c510',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'subregion',
     'Eastern Europe',
     NOW()
   ),
   (
-    'b17ab350-9229-4835-b946-5c3d6184eeb0',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '02103e3b-6272-42ed-9dbe-efbd0f0489d8',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '4568f2c5-0f04-4c4a-9ee1-e00971c63ae8',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '98006e96-b9f4-4b9d-ab92-e2152a0c34ef',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'population',
     '9466856',
     NOW()
   ),
   (
-    'e260883e-6a42-49c2-8db7-534e39e44564',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '114c31ef-212b-40a8-93d4-f056562f0f52',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'gdp_md',
     '63080',
     NOW()
   ),
   (
-    '7245ea9b-ce09-4ffe-b36c-42d63b528bc9',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '0b0ee1c5-50e7-45a9-b88e-464581196944',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'dbbdda0a-77b6-491c-af72-0d08c1f383b3',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '8903324b-9d04-4b8e-a78a-36ade37e59cd',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '8ab5c8b5-a78b-4333-9a88-718d9598fa80',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'c5083cac-ffa2-429e-aa45-b80639e37190',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'cbaa54d0-800b-43b4-98fc-3afb721a8cd2',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '0b803c3a-84a6-4f37-9250-e578f74b1a46',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'label_x',
     '28.417701',
     NOW()
   ),
   (
-    'bd189ddd-d579-4256-942b-b84fbb21af9e',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '51e4d1ae-f9b1-4e88-b887-bbc231996b54',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'label_y',
     '53.821888',
     NOW()
   ),
   (
-    '61180c0a-537d-49d1-850f-0d6c11e3618d',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'e7b56c99-da9f-4ad3-b0ca-a5b2e3fadfe8',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '4d266ab8-955f-4c4f-89a4-74a14975ff2c',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '402f7341-4537-415a-8b9e-dd92a1a4964c',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '4c7fb422-7b3c-4821-b275-5c52804aee1a',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '4f428997-4eee-4cf8-8678-bd0de73c03f1',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '4d5d02f8-4647-4b19-8a57-221a2974182d',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '34825837-792d-4b1b-b492-c20eb6fd4b72',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'b37691be-4ab7-4685-b57e-e8cd39719fa0',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '0da49517-d73f-499f-828e-500197cdc59d',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'population',
     '287025',
     NOW()
   ),
   (
-    '62253078-7753-4a47-8d22-3f1fc18f1fe5',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '49096858-8dff-4198-875c-e1a617f916c4',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'gdp_md',
     '5209',
     NOW()
   ),
   (
-    '58809bfe-090f-4cee-b210-ab788358a0bc',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'b1ae5150-5624-48f7-99f6-94c2019f2285',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '988eea4c-29af-4647-a055-604f54688006',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '3fe91d08-a854-4cc3-84fa-b57d90142cce',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'd9f9127b-fd83-4aba-921c-29bb8276a683',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '523ad5a4-2f4f-42dd-ab84-2f908dcf3bdc',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c20d916a-08fb-47be-b5aa-13964e346e8a',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '19fc5e9b-d2df-446f-91ab-3cfd7b11848a',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'label_x',
     '-59.568966',
     NOW()
   ),
   (
-    'c7af4609-2c14-4a28-9037-74c87d697266',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '1135beff-a7c4-4152-b9d4-df866986b021',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'label_y',
     '13.163709',
     NOW()
   ),
   (
-    '595a9e50-b6d7-429c-b946-e6c34bc5ae41',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '8357d3cb-fd45-4ade-aa3e-2027e0db33a4',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'e7553259-52cb-424b-8e48-137c43d63e6f',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '79754f69-0076-4520-bada-1d008615c29a',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'd4e0fd98-59be-4ea6-a295-c17e08102f9e',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '4aa8f091-46e5-43d9-818c-7056fe8a2244',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '62fea831-8ec6-4177-9f21-9ee50cbd6aeb',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'c0923035-c7af-4247-9939-2cb836817fa9',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '444df405-73c4-4563-a623-a972895c2cf2',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '889465ed-e697-462b-a10a-246bdbd01fab',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'population',
     '163046161',
     NOW()
   ),
   (
-    'b8a2dac3-72a4-43f7-b874-7fc24168c3c7',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '55dbc5c1-447c-4dae-80a0-2bdd419953d9',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'gdp_md',
     '302571',
     NOW()
   ),
   (
-    '9ae6cad7-b9b6-4f9d-adc5-3856d76a3ba5',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'cdcb5b61-62b4-42b4-a047-12d5e5c5ed6f',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'd39c3e2b-08a9-4956-8528-32d700644b61',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '1274805d-45f0-4d5e-9a5c-7e9477df35af',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'd33f23ad-cc74-4011-ab60-7ba48b67b632',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'af3790a9-8cf3-407c-8524-5b2c618bfa97',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '981b14da-d02b-4508-8a87-980cbd690e19',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'f1385eff-b9d9-4aca-a712-ca9d4a1c861b',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'label_x',
     '89.684963',
     NOW()
   ),
   (
-    'c7031d9a-1134-49b6-8b90-9a53db863c1c',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    'a8558ab7-18c0-44fb-8f08-631e2f02053b',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'label_y',
     '24.214956',
     NOW()
   ),
   (
-    '6573ac67-4714-41e2-bdb1-7fde4e69672a',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '7fe0d7d7-87ab-4d67-8230-5cb66edcbf97',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '506ecc07-c252-415e-9709-7d9191b412be',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '11140e38-a001-4aa0-a134-f700630f8e8f',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'a77fd2ff-02b1-41b1-a270-373f21fc29cd',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '03c16e1f-6c8a-4509-bf43-9a3b2357df3a',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    'ed280550-fe93-43c8-92fc-43f5270c5299',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'b0f25505-fd42-48f1-9f6d-c8b8a3ba31eb',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '0c9de648-a0dc-4ceb-aeef-8393224d481e',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '64186d74-bb7e-460a-a5d5-6deca1f911b6',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'population',
     '1641172',
     NOW()
   ),
   (
-    '1b50d2c6-b9ee-47ea-94b4-8c16fb65863e',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '297619bb-a4f5-4879-9849-8be1ca876abc',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'gdp_md',
     '38574',
     NOW()
   ),
   (
-    'c6dce1dc-b3a8-48ad-9dd1-8e1446438b7a',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '56280e08-78bf-4b15-a177-315f3e7a4999',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4c9c43b8-574b-45ee-a277-48f7d8725807',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'cc5b2363-adc4-44d8-8057-d1d1800cdc6d',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '88fc443a-6445-4069-8908-6a2a92136d9f',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '0fbcfd64-fdc7-4db7-a9e0-9975aae94c0f',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '00553ed5-1b99-4630-a7b9-3459b3274436',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '6165c592-acf4-4118-be33-fd986d1b54b0',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'label_x',
     '50.554816',
     NOW()
   ),
   (
-    'e10cfc47-20b1-4ac8-8d3b-4bb528f1642c',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'ee054c39-1fa1-4c58-a483-42ed208725f8',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'label_y',
     '26.055972',
     NOW()
   ),
   (
-    '15c626ae-fea4-4e8c-b64a-79a3703c8ec0',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '0ce15857-bf6e-42c8-9a8a-6a1b9bae2c52',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'continent',
     'North America',
     NOW()
   ),
   (
-    'ef2c05f8-554f-4cc8-b11a-ea5215bf06b2',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'a0621bbb-36eb-4a9c-9b60-74e58b3f8042',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'c0ac039e-a26a-49d0-b9ee-9b7b1a05ea85',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'dadcb9c7-4fe9-4320-8ab2-fdc19b2c189b',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '26a5ee3b-5140-4c95-86cc-316516d75d4a',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '85d5fcf6-1a60-4612-b52d-7fc9558be76e',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    'd2d88c43-416f-4b5c-b721-1c6717bb9fb3',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'fa7eec37-7464-4fa9-ac06-3b3874629195',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'population',
     '389482',
     NOW()
   ),
   (
-    '156a2e0b-1037-4d52-850d-bc11674fdda2',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'cdbf4e25-6dd8-47d2-b17e-6c2785b90c25',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'gdp_md',
     '13578',
     NOW()
   ),
   (
-    '04275cb4-f32c-4b15-812b-fc813710a748',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'adf71b84-b6a4-4209-abaf-437241880da1',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '43ef6d04-830c-4afd-9560-0feb29d56849',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '5176b24f-75ac-4729-b7b6-c77807d1f014',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '8936c079-c2e7-47f6-b050-dca6d8b367e2',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '9088b3bd-a64b-47c0-b1d0-28bfa941e47d',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '55e69891-dc36-4f64-95f1-708f9452b938',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'aad4f350-8ac7-49e0-b22d-8bc525844110',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'label_x',
     '-77.146688',
     NOW()
   ),
   (
-    'ddab5fc9-00ac-4e50-980a-cba58df39514',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'dd4fefc3-822d-4613-9e9b-d5a9af57d7c7',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'label_y',
     '26.401789',
     NOW()
   ),
   (
-    '910f52b1-d917-44fe-b256-b129514e239e',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'ac5bd565-f889-48e1-90a8-1f05e8bb8f23',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '32cd8a07-903a-4645-bd59-222ffda544d1',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'c8c276ac-415b-4d15-a47f-d0bdc47844ed',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'ff628cab-c503-42cf-9470-195eee4e404b',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'e3463210-0dde-4add-800d-5d6a5e6c7db3',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    'f2b344bf-d1f9-4bf5-808a-c1639298de18',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '8e3d68e8-ed6c-4bb8-a0d6-f3758b7a74f2',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '5e2bc697-4753-4ae8-a654-1718ce6a9e72',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'e9a56d41-b9d9-4cfa-9bde-659bdf97af5c',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'population',
     '10023318',
     NOW()
   ),
   (
-    'dfa5e01d-141b-42d5-90c4-2c45727cd1c4',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'da4353bd-8d14-4010-a5d3-11b996b52d8f',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'gdp_md',
     '48047',
     NOW()
   ),
   (
-    '8ef21f92-9f4d-467a-8251-b541d66181f9',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '1cdf8c25-9457-4c50-b49e-69ab11ddfdae',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '664fbbb1-4cce-4187-a591-8e04849f52c7',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '5000718a-5f1b-46db-85de-6b5b8746b28b',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '05d6f62f-dc22-4739-a3d2-7236453a0c2e',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'e5d4a43b-79e1-45d8-b89a-bb3525f2d485',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '7a5af859-e1b5-44e9-81be-12fb0f29fd53',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '3a332048-9f43-4a3c-bd96-73836edb5fea',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'label_x',
     '47.210994',
     NOW()
   ),
   (
-    'e16807b0-9d41-4c39-a58f-073cf1c5a525',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '528a04c8-5128-4f39-bb90-5e08d194d7e7',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'label_y',
     '40.402387',
     NOW()
   ),
   (
-    'e674625b-bf52-4673-a53f-c883725b8ec9',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '64944e71-8821-4d13-a3fc-bd36654e7c31',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    'eda84404-03a1-4ad8-ac54-a369e0523f00',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'a82dd8e3-987c-4a77-b5b3-2cc8a79c505f',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'fe0df41e-4cd6-46ec-aa91-eca8a03111f0',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'c3274a8c-eeb2-4147-aff5-e02b72e3e767',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'subregion',
     'Western Europe',
     NOW()
   ),
   (
-    'd4db2544-8bcb-418f-baf1-0510a6de4503',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '55566675-0095-4538-9eec-9d2a16478636',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'f16eb34e-dde3-4e55-8234-102716e1d6fb',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '04913382-1301-4d5b-be80-7acc4600d325',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'population',
     '8877067',
     NOW()
   ),
   (
-    '53315282-276c-4f60-b76f-8277ae1561f5',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'ff57c5de-eade-4b52-b283-b964b250ccb2',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'gdp_md',
     '445075',
     NOW()
   ),
   (
-    '3146aedf-1fc1-480f-a2ed-c7938c45ff76',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'b26898c5-a974-4559-b6b4-da51d85dc651',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '885c5896-9e9e-4552-ace5-69ca0127826e',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'bd2678f6-9ebd-41e5-8265-950e037415e7',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '854abef5-6bac-4a40-8f85-bf87fd035d5e',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '411ad737-9f2a-4377-8660-e7d69c8ad4a2',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '3ae2a202-1c6c-4c93-9f46-f69cc7cac091',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    '14e2cfe9-836c-4b38-b6bf-c08e01928794',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'label_x',
     '14.130515',
     NOW()
   ),
   (
-    '26ef4574-fbfa-4176-b487-306df915f2e5',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'f63661a7-bd39-41fc-8cd9-30ffa103d241',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'label_y',
     '47.518859',
     NOW()
   ),
   (
-    'bfb23a48-5249-46e1-91eb-b8974993456d',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'ab31bd43-a469-4e3f-b784-2768cfffdfad',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '3a85920e-43e1-4a05-8d09-e3d9af6dd1ec',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'd7fd3e57-e62d-4c41-8b31-f89cc1bb3256',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '94469095-89f3-4ef6-866f-c16a459bd554',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '254f947c-0f71-442f-bf07-126782d7a224',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'subregion',
     'Australia and New Zealand',
     NOW()
   ),
   (
-    'e7986f87-0540-499c-8214-fe7fc497a535',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'bc251b08-649d-4d72-ba58-5b85201cee37',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '1a671539-365d-4030-a222-4262c54b13aa',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'fdde67b3-14f9-4b03-bc7e-8e943ae440d0',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'population',
     '25364307',
     NOW()
   ),
   (
-    'ffa85921-ab12-47f3-8757-60ab7451890d',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '512bdf78-edd9-49ce-a43c-e463137fd646',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'gdp_md',
     '1396567',
     NOW()
   ),
   (
-    '1c38ddfc-b87f-4c72-83bb-c4018d56a299',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b09e244d-a1b2-4007-b6ee-7e93d35dbe71',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'e46c513d-89bc-42b6-9851-296c42655800',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '7eae6d4d-05bb-4884-8010-06fe6cb5b8b3',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'income_group',
     '1. High income: OECD',
     NOW()
   ),
   (
-    '40eac916-7e87-4970-8cec-b5bc08e14cb3',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'ed278576-a15f-4c5a-bf47-ffb551796cf1',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'type',
     'Country',
     NOW()
   ),
   (
-    '60560aba-e678-4858-bef5-ba8a1852a5ed',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'c327b294-3a49-4010-8cd1-0cdf872c2558',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'label_x',
     '134.04972',
     NOW()
   ),
   (
-    '5daca442-31f1-4682-aec3-f82f02135b1c',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b5c79475-91db-4537-801e-5e0760856bf9',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'label_y',
     '-24.129522',
     NOW()
   ),
   (
-    '9b362822-c908-4eb3-82af-304183da55df',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '5af597ce-acfb-4f36-a322-2e5542abc2c2',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    'dc581e8c-66f3-4b34-89c0-20acc180d614',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '62b91925-81c5-4b8f-9fba-cf3e94c94efa',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'b7781792-908d-40d2-a2c3-fcd80fcc3fee',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'a396475c-53d9-4c1a-9f3f-58aae4dd4f49',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    '196db83d-e503-4f31-8f8c-fc49765476d0',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '9f1b3922-a2fe-401b-8577-26cb04bda990',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    'e0e8515b-bc8b-4799-9018-2f4997f6eac1',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'd3cbc849-8594-4ac9-bbe0-2b87f7893fc4',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'population',
     '2387',
     NOW()
   ),
   (
-    'dfdf958e-287d-4a54-a752-0ef39b2cef5c',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '0b41f977-f753-439f-9895-c0768724be62',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'gdp_md',
     '35',
     NOW()
   ),
   (
-    '06a80d9b-c073-4afc-a77f-75a209d94372',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'd3d2f663-3821-42b4-b57e-2fc59a7e9dda',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    'c49098a4-3ada-4d4a-9f6d-0e519ee858c2',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '9d432add-4ceb-445e-90a4-cb4eba2e3ad3',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    'be054a93-2a0c-4d2b-8273-2369b5550dc4',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '358484b4-5f09-4773-ace7-86edb3c69bc1',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'c6e97b17-de81-46a0-ae93-971d1a52fe41',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'a8e21c9a-2e07-4178-a0a8-bc93a7bfc620',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'label_x',
     '105.67259',
     NOW()
   ),
   (
-    '05b14a09-1019-4938-8dff-148767e3b42b',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'a3d045c3-1d2b-49e4-bb1c-fe2819e7aae0',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'label_y',
     '-10.490789',
     NOW()
   ),
   (
-    'fa388912-e60e-4f71-9438-be585a0af67a',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '853a37aa-2144-44df-a5e0-b657317f7772',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'continent',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    '515591a5-b343-4c1d-957b-9439ba5667f9',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'df88cb9b-aa94-4ac9-87f6-c19afd255682',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'ef94479a-b070-45f4-9f7b-58408f94c333',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '0240a421-06d5-42c0-ab82-a83357104e6b',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'subregion',
     'Seven seas (open ocean)',
     NOW()
   ),
   (
-    'a9a973f8-a891-4a16-82c7-18f631b20aec',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'f55782bb-97bc-4453-9976-2189499ef18c',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '78873cd5-db4f-4950-ac4a-78424453f3e9',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '9ad8fdb0-9846-48d4-8814-0ab0f7606021',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'population',
     '0',
     NOW()
   ),
   (
-    '4c4980d1-10d2-430b-8d1f-5f9729cfa050',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '32ed5efe-0b54-4c24-96c5-4222ab659991',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'gdp_md',
     '0',
     NOW()
   ),
   (
-    'd8f0f7be-ad93-4239-a16f-6310a3d39368',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '6130c838-c6c4-4779-8ff7-603fffe0ddae',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '626a4363-62f0-44bc-ac20-ff95e964b7e0',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'debea95d-7459-45d5-b282-1f1954ace87f',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '2fcef0d7-36a8-4aa6-87ea-e37e0a9c115b',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '58a51a82-9fc1-47ab-8b33-6295f16656f6',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '7514b497-3946-458c-bc2b-6e7e4f70384b',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '5088dbfc-7c4e-46f5-a71b-e968084939cb',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'label_x',
     '73.50521',
     NOW()
   ),
   (
-    '8773450b-f452-43a1-b098-0308f41c819f',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'cad665e5-687b-40cb-ba92-18321369d48c',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'label_y',
     '-53.103462',
     NOW()
   ),
   (
-    '4a3f76ae-7cca-4507-89ca-e8f4fa57d57e',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '0241bfef-0102-42d5-a909-5776db95bb18',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '784e9342-4474-409b-a799-f07467e02072',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'fc52eaab-146c-404b-8160-3dafb2f47c2a',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'a53dcb3a-1d16-4897-921e-e5628be06e5d',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'ee6e9917-a939-4d07-a721-079882646d43',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'subregion',
     'Australia and New Zealand',
     NOW()
   ),
   (
-    '20e19de4-8faf-449f-9fa7-9e99b7ae0ab7',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '058d7ffc-77db-48d1-8a0e-7f8462bb8926',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '1f70d6aa-1023-45cd-9fde-39961da4136f',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '3a4a54fa-a9b8-4770-b384-97ed812b6054',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'population',
     '2169',
     NOW()
   ),
   (
-    '21c97dcb-a3bb-410d-80a0-1389a59f33bf',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '1a66d7f5-52ab-4057-826a-306b7660bd4b',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'gdp_md',
     '32',
     NOW()
   ),
   (
-    '767c7922-d26b-4b93-a541-d7c4b8e8fedb',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '0ada0902-310e-4109-9f75-07e30ca17927',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'd3e8561c-3a39-4a97-96e8-223843f53667',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '80978928-18fb-4bbe-8530-7cae6ef736ac',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '72aef49a-953f-4adc-8802-0f124aeb1c9a',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'b171968d-aa23-4ce8-8d93-dce79c6b0c87',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    '4c4b3f75-dd99-4955-bc3c-9f644b99ca53',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '0fb2ccdb-b631-4c6e-b99a-5d46105765fa',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'label_x',
     '167.954531',
     NOW()
   ),
   (
-    'f378f537-0961-4573-a9b5-19da3a367996',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '0b9104ea-78d6-46ad-b6c0-ab26fbb6548e',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'label_y',
     '-29.033042',
     NOW()
   ),
   (
-    '30b4c467-b6db-4028-a517-503096e7c80c',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '8671ef9d-34d2-4813-81e3-bfd2d09f0520',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    'da5e2178-b0a7-4a68-acbf-f64837e6d6ce',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '0cd88bfb-14a6-4c2f-9dcd-2e3317d0d48f',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    'c49dbe7b-2adb-4433-b769-bb85abe2ebcd',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '5b2a3771-a247-4a9c-be00-967b1e8de4b7',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'subregion',
     'Australia and New Zealand',
     NOW()
   ),
   (
-    '964cc07d-c5bc-4cc2-8806-d52800749c5a',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '1edaf3fa-72a7-4c8a-bb08-c1e56eb599cf',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '5bbd15ba-0723-4832-a943-27bcde7aa3a8',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '25bc6dfc-7e3b-4b2a-b64e-54f10cd0d2a7',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'population',
     '0',
     NOW()
   ),
   (
-    '8eb83b3a-9736-4331-8d7c-6624c8007eed',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '69253b46-23bf-4e34-b1b3-e883778cb898',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'gdp_md',
     '0',
     NOW()
   ),
   (
-    '63ce0156-05a0-4be1-8ff2-bd4656ad4fdf',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'ab2f67d3-99ca-449a-a830-4ff6a21bfcdd',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '88799395-e2bf-469b-ad3e-ae26b873a55e',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'e25e2d61-63ed-49db-8744-cdfd1d7fbccd',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    'cca10ef2-7acc-4739-a93d-2e6244906a2a',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '0848079e-195f-4734-87f2-28e99103e6d3',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'type',
     'Dependency',
     NOW()
   ),
   (
-    'af71c628-6697-4df6-8853-1d83297bdd75',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '6218b17f-f66a-45fe-8185-2b98e44df3e3',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'label_x',
     '123.586368',
     NOW()
   ),
   (
-    'a3ecc811-77c9-42b1-895a-21cd211acb1a',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '14d078ae-0d12-456b-823a-f3366fbf6b25',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'label_y',
     '-12.432571',
     NOW()
   ),
   (
-    '1d15b413-3352-48c6-8a8b-cba7d8c99697',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '75530b76-be28-45bf-b1e0-293d1a51d894',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '63da5c27-23f7-4507-8785-8aa81688633b',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'c8621d95-6c41-48f0-b614-f028fdeb3b4c',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'd6938e63-128b-4537-9d6e-89b48e67fd04',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '2b2d5e10-3ca3-4266-9cd7-f4199022e9de',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'subregion',
     'Western Asia',
     NOW()
   ),
   (
-    '25ffcbbb-d004-48bd-9b55-ac1edf2684c7',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'fef6b047-841f-49b3-ba2b-1d80b3b98039',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '2cfafb43-0a0c-4624-94db-bd8e2f0ddf65',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '0025b9a7-ba4b-4d88-8047-0524f043a5d6',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'population',
     '2957731',
     NOW()
   ),
   (
-    '2bdf9a15-0cce-419b-a52c-5d33bdaef495',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'f6ddaf10-119f-4710-94c3-4497370e0dfb',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'gdp_md',
     '13672',
     NOW()
   ),
   (
-    'fae8aac5-c702-44a3-840b-313e4c738c10',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'c2595e9c-d993-4ecf-8d2f-963db3fde52c',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '9f7cac48-df32-42ba-b689-4a6f06deaa02',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '992d8fc5-a94e-4521-bd49-f6ff282ec643',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'cc003f00-bca5-4aad-9c35-4ff058f1047f',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'f5d6cba3-85b6-4c16-9f12-3068651ecc40',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '1676d76d-d540-4e31-8c5c-7c2054acdb36',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '24c1b1d4-a31d-4bd5-8698-250911f9eb32',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'label_x',
     '44.800564',
     NOW()
   ),
   (
-    '0d9d68ec-4741-4c29-a9d0-e61787104348',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '5852169f-0385-49cc-a367-39b07d1588ef',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'label_y',
     '40.459077',
     NOW()
   ),
   (
-    '6c80d425-8799-45f6-b075-d4905d96256c',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '185efeb4-ea81-4396-9d9f-8db1d6f08588',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'continent',
     'South America',
     NOW()
   ),
   (
-    '19fc88bc-56a3-4424-885f-6847ddfa7d0d',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '871435c0-c4a6-4fd1-9ef2-55716c822168',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '74a41642-16a6-4e39-93fa-6fcde2524108',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '4772e796-fb65-4463-ae19-a108df933d26',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'subregion',
     'South America',
     NOW()
   ),
   (
-    '2c9fbbbd-90a6-4b28-8126-f8f6bd93cea8',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '11edb961-6f9a-420e-8fba-3096025b80a1',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '08678119-9098-4b76-b9f2-857d48c1dc23',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'e2e0b602-86af-488c-b4e4-42d05d99d155',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'population',
     '44938712',
     NOW()
   ),
   (
-    '5e6c585e-5071-41a2-ad0d-37adb898b5a6',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '12c51fea-5afe-4b98-8e47-3f842b3b8999',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'gdp_md',
     '445445',
     NOW()
   ),
   (
-    'ab52f27c-a031-4544-908d-21f12854b5c3',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'ff93296a-d5d7-4ed4-919a-1a812922ac13',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'economy',
     '5. Emerging region: G20',
     NOW()
   ),
   (
-    '5b67620f-96ca-437f-ba55-b14e937ccc1d',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'da86cd56-1f21-4839-884d-b35d2604aa79',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '951811c0-a882-4796-b8ae-e237188948ed',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '57dc1bb5-7b7e-4147-b710-bd4583b3c205',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '774fea19-f49a-4ee1-a8bf-e560b3499b67',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'c598e328-b77b-445d-a65a-7ea3c446132b',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'label_x',
     '-64.173331',
     NOW()
   ),
   (
-    'f48a00ea-7498-4b05-9fa8-70359f752054',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '399e6b9a-a8dd-4eb4-b1c6-ea7829b19312',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'label_y',
     '-33.501159',
     NOW()
   ),
   (
-    'e69b100b-1ae6-4071-975b-e9081ed5124a',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'bfc1c253-2cbb-4ce4-80b9-58a2a5054229',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '21bbfbcd-efb2-4440-af74-bbe17ff7490c',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'e7a2a1e2-82e3-4625-9075-88f1a9d3f0d9',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    '251a3660-b5bb-4e3e-af79-dfdebecd25c9',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '468f491f-9aee-408b-9132-4298fc2d4b76',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '97cf8921-f553-45f9-b7de-9764b5b681bf',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'ed7c33c0-2a0a-484c-8c75-d1cd7e0aec1d',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '9cc22e7b-cd0c-4566-89ff-93de699e0473',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '52af6dc8-a6d3-4b76-b45d-6a8e379f0e86',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'population',
     '97118',
     NOW()
   ),
   (
-    'ccd5cc16-bb9f-4432-b9df-62fdeb9f6409',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '3681d51c-7b45-489b-98b7-7f6ed5537acc',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'gdp_md',
     '1661',
     NOW()
   ),
   (
-    'a2b36d42-210e-4bc5-afdd-9f8c39cbc2d3',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'a7e15e76-5ed2-49eb-8382-22bf3f6f5668',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '2af22126-e1f2-4451-8ae0-da85e57c97ee',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'c3bdcdeb-2d05-4b24-a87a-2ea248a1c552',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '66049c6a-7c9a-4662-916b-a197ac9dfb95',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '90b95b15-9626-42df-a0ff-5d2685340920',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '1aee24ba-7223-4ba8-8953-13e1a6328f2c',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'ee66386c-03fd-4ba5-9595-bf0eb00d7383',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'label_x',
     '-61.790612',
     NOW()
   ),
   (
-    '4ea3c040-83c3-466d-b3b4-81214c57bb44',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'ae334172-49cb-4bd7-a6e1-e313f3c86a2e',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'label_y',
     '17.352249',
     NOW()
   ),
   (
-    'd037e0a4-5e65-4c33-85d2-7f544e2424cc',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'ae14c400-bd77-464e-ad20-cd2fc318e054',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '88a441ac-398e-4ef8-bf53-5d4fe78cba58',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '1ee52dab-c258-4bfc-9b00-55f3a26b81fd',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    'bd094cba-5b04-4a8d-9258-66967a65a9d1',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'bdbd57d2-8658-4622-b1dd-3132db43ba92',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'subregion',
     'Middle Africa',
     NOW()
   ),
   (
-    '0c951631-8f98-4bbd-a7f2-ea089d553f0c',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '0f9a97de-6b8c-4f71-8530-f7260b70b8c8',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'region_wb',
     'Sub-Saharan Africa',
     NOW()
   ),
   (
-    '33078640-8597-43fc-b9b4-cdbd9bf759fe',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'f2d31974-0ae3-4c11-b9eb-395ba2b7b945',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'population',
     '31825295',
     NOW()
   ),
   (
-    'e390309a-9cbc-42e4-a9c4-68b8ade33da7',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '2fa86bb6-9438-4fee-9698-995b5b9e213d',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'gdp_md',
     '88815',
     NOW()
   ),
   (
-    '3b82a8c4-d1a4-4e83-8ed5-65c8df538bb9',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'e6ce4e84-07b8-4cff-9c57-5025c458a7de',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '1896b046-5485-4df5-b569-8531a77e1801',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'ed309e45-a527-4f4f-9bee-518a6945cade',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'cf5cd2dd-fb20-4a54-8001-3bac66f7bf63',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '702092ea-74c7-40de-9e82-6a456bbcbf5b',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '58b3030d-6d20-48cc-8e8a-3067f81739ed',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'b94fd5dc-a34a-4e7a-a862-36c1b59a0f4a',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'label_x',
     '17.984249',
     NOW()
   ),
   (
-    'b1b59ce4-bedd-4334-8c61-801b057c3849',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'bc0a054d-d321-4eaa-8017-6e849cc584b1',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'label_y',
     '-12.182762',
     NOW()
   ),
   (
-    'ce8b5696-eb7b-44cf-8b2c-ba8416e2a46f',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'ebc9d4b3-444f-46ed-8883-b79c2e078c00',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '2dbb8469-101d-43d7-a454-8fb6505abdd3',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'e50037c8-a237-4dee-8690-d3fbb0618359',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    'cbabcada-2ca5-43ad-9aa5-b5292b5752e8',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'dc5c5c04-ce8e-44b6-acce-6885034dc367',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '4d003084-4f0e-44b9-9b69-5c2b8125f9d8',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '73a86b2c-b8f5-46ec-93a1-f37558c6e9a9',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    '35c42b16-d0b5-4e28-ab34-de244f22e75c',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '088f233f-4143-41ee-8b67-a062da6eb727',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'population',
     '77142',
     NOW()
   ),
   (
-    '08a71a11-68d8-4fb4-ad06-c62c7773964a',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'c57c5303-88ee-4570-ba12-5789b440b4af',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'gdp_md',
     '3154',
     NOW()
   ),
   (
-    'adf2326d-d8c2-452e-8613-e3a1dda88893',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '0f00e518-0de9-4c5b-a647-6cdc31cbefe1',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'economy',
     '2. Developed region: nonG7',
     NOW()
   ),
   (
-    '9181d062-9d23-498b-acf3-3706237b7642',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '6bb67e2d-d016-4936-8ba3-f14f85d05aa4',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '587b0bac-e5e5-49e0-abbb-2e3318d3e785',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '29c325e9-613b-4ffe-a895-bb18a4674104',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '9302002f-b6bf-4344-af42-0fa9c73b25e0',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '27946516-ff06-480b-9dde-a54889c0be97',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'label_x',
     '1.539409',
     NOW()
   ),
   (
-    '855ccf32-8817-4250-b632-239961bb9d2c',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '74fa1b57-ad1f-4d27-9db6-e9508b711225',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'label_y',
     '42.547643',
     NOW()
   ),
   (
-    'd762dc2e-0c0a-4248-a2d4-0de8ce57c5ce',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '0ac7b833-4b47-491e-a8c2-7a56d5b74b30',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'continent',
     'Africa',
     NOW()
   ),
   (
-    '56b4bc56-d118-4a7f-9c63-65cd4b1a2d73',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'ae988a15-635b-4af2-9d73-5d43c3d1e573',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'region_un',
     'Africa',
     NOW()
   ),
   (
-    '20fe86a8-72ef-4c08-b721-c51121912e89',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'fb5c511b-8823-4c81-a02d-e202d393ef12',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'subregion',
     'Northern Africa',
     NOW()
   ),
   (
-    '98e72ec9-03cb-44d5-b270-d11416802faa',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '91eb3f56-9e79-4b8b-84ff-c14def4c5b06',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'region_wb',
     'Middle East & North Africa',
     NOW()
   ),
   (
-    '8f1dcfed-e803-4695-ad22-87d0e5b9ac50',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '8b9cd1db-b07d-47ec-ae14-4b48f6a84d69',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'population',
     '43053054',
     NOW()
   ),
   (
-    '1a104cdc-9c94-46e1-a0aa-f99916b454af',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'd6668663-1b42-4c0b-b9e1-9ba23bbbed9a',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'gdp_md',
     '171091',
     NOW()
   ),
   (
-    'be81355d-7d46-4bb2-8d0f-8ae4925b9b95',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '89065873-08c6-4cf9-be04-0c8b13895c66',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    'a751077b-5c89-4c69-95bc-9b29e3138b72',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'bf8b4c52-ca71-4457-a224-f759ea9516e0',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    'ddc5d7b5-7137-4156-9437-11242b8829a0',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '4be4b2e6-7c05-46f9-8fb5-c3e50c2102d2',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '991564c1-053e-4164-9d07-0293ad969da7',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '416ecc0f-9c26-4046-8067-0bdf4b0fbb1e',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'label_x',
     '2.808241',
     NOW()
   ),
   (
-    '8dc6231b-81be-4c2e-902d-de2557dc66a4',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'f454b53c-b4d0-4254-b48b-2a633c6fbf67',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'label_y',
     '27.397406',
     NOW()
   ),
   (
-    '1c63e160-1b56-49e5-b36f-bc5c44f967e1',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'ec2f6744-bb73-4728-acff-01b1773a8c0e',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'continent',
     'Europe',
     NOW()
   ),
   (
-    '11b92450-1bcd-4bd4-b8a1-709cc019c5c5',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '7379f44f-8d4a-41b8-bab4-64fbf4bd25f6',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'region_un',
     'Europe',
     NOW()
   ),
   (
-    '4cb2aa65-fe28-49d9-ad61-24151600b027',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '6eeb2798-22fc-4bf1-9acd-2b1816b58113',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'subregion',
     'Southern Europe',
     NOW()
   ),
   (
-    '4503bf61-19f6-416d-8a65-e07a728a20f7',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '6c9c44e2-6de7-4107-9b8e-5bc889c9359d',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'region_wb',
     'Europe & Central Asia',
     NOW()
   ),
   (
-    'ee6ef442-bf1f-408c-a652-90759d4faebe',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'f6b02837-c803-48fc-983d-470edff19b8a',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'population',
     '2854191',
     NOW()
   ),
   (
-    'eab1af49-59ea-4a00-a98c-c02b6a26177d',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '42863c92-21d4-4564-beca-ae6d5d39c802',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'gdp_md',
     '15279',
     NOW()
   ),
   (
-    'fa8a3c6a-0328-4d55-b430-254d1ceda6fe',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '92c8ecbc-8576-42fc-9204-e94e2b44762c',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '55d5991e-634f-4edb-830a-9c56d6af4a55',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '6d57bcfc-47be-4341-a858-996dd2d194f6',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    '68e91886-d2d9-43b3-9ec5-1df905f5b2c9',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '892a5551-cf3a-49c6-b1fd-2ffbee5e9cf0',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'ca0796c9-8b9e-4a2d-aa47-73dac04c2d64',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '3d3f12bb-a7c6-472c-8343-bf20048db21b',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'label_x',
     '20.11384',
     NOW()
   ),
   (
-    'a27ec7b6-8e8a-45f5-a7ec-597cab93c9f1',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '83d1b464-4adc-456c-849c-1d72d566402b',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'label_y',
     '40.654855',
     NOW()
   ),
   (
-    'f2dd6628-a025-4a19-ac27-5cf0e5827365',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '92a89c18-b915-4d1d-90da-33f181538007',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '67bed320-ff89-4e88-a226-2dd3f60ea916',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '4720f91f-480d-414c-8200-7cf0b176e5b7',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    'df70043a-c66f-4c23-b88f-3a2029e98016',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    'e7ce14b2-619e-4b1b-ac8f-c016b08a5d8d',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    '9fbabf92-d2bd-4267-88b9-96c0bb81fc7e',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '76df5cc3-3329-42a0-81ea-bd5e1628ff1d',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    '750bbd5b-95d5-4a25-b1b9-1e3369c8ad76',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '43db2219-2323-4e23-8210-d062dc769134',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'population',
     '38041754',
     NOW()
   ),
   (
-    '31e1f227-20f9-4736-a6d6-9598aec1a3f6',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '1195f8c8-e290-48bf-ad9f-cc8e993d3078',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'gdp_md',
     '19291',
     NOW()
   ),
   (
-    '292c2f6a-19dc-47f9-9dfa-f981d73fda9e',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '0da42b2b-9047-4667-9f3f-a714ff17c603',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    '992b40e9-cba3-4889-ab85-fc31a9080156',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '2c71b511-757c-44f0-8433-841b28ab9ec0',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'income_group',
     '5. Low income',
     NOW()
   ),
   (
-    '77fef37c-fcdc-4899-b5b0-57d29245a278',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    'a4261cec-3951-46f6-83e9-7e6d8cc32af0',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    '826cc33b-f855-40ec-b573-28276fdbc873',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '6c441644-9d37-4e5b-b9d5-94bf0e9df03c',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'label_x',
     '66.496586',
     NOW()
   ),
   (
-    '3f6bf5af-06e3-499c-90ca-056a7af9f39d',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '11083a38-54cb-4cff-8f0a-2712eaffe65b',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'label_y',
     '34.164262',
     NOW()
   ),
   (
-    'f1e8ef4c-973a-423f-bf61-33dafd495166',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'e6fd6547-4137-4804-88a3-dbee2f95c722',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'continent',
     'Asia',
     NOW()
   ),
   (
-    '8c8e1d0a-ccc0-4d28-959a-b3203f06f970',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '34fb066b-d024-4033-8306-c8cebec3b807',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'region_un',
     'Asia',
     NOW()
   ),
   (
-    '731d9534-989a-4b18-b556-83323b5effab',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'cb4bcd0c-f5f0-4088-8be7-13db25f830bb',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'subregion',
     'Southern Asia',
     NOW()
   ),
   (
-    'ef46245f-c658-42d8-ba4e-efcfae980f67',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '842d8b18-b5ca-454f-ac1b-530816367db6',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'region_wb',
     'South Asia',
     NOW()
   ),
   (
-    'ca4d72fa-066c-4a6a-a388-fb7f3eb82051',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '059c01bf-e4f0-4845-9eb7-cdd66bfb5067',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'population',
     '6000',
     NOW()
   ),
   (
-    '1495c31b-bc1b-4d21-882c-438525a067f4',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '596d7ab6-82ed-4b1d-ac1e-697c5c585805',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'gdp_md',
     '15',
     NOW()
   ),
   (
-    '6c4f6ded-efe6-4ccb-a740-a19eae26209f',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'dfd3fb34-d2b0-4a1a-9d9b-a7ec75d07282',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '98b80fcf-3970-4e92-9f32-9293cce5a374',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'b0da25df-c5b5-477c-b2dc-d14efd2625ab',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'income_group',
     '4. Lower middle income',
     NOW()
   ),
   (
-    'e4105365-443e-4a47-bc54-4fa5b4bb696e',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'c9bce079-fbec-4412-b621-66c1632c76dd',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'type',
     'Indeterminate',
     NOW()
   ),
   (
-    '6df03f92-9fd8-46f3-9894-5ce9d0800b54',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '031f4da2-5600-4226-90fa-c033764188c7',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'label_x',
     '77.129553',
     NOW()
   ),
   (
-    'ca0757f7-93b2-4695-890d-f69234676601',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'd3dc7df1-2aad-40cf-8636-c4a2e856c371',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'label_y',
     '35.340606',
     NOW()
   ),
   (
-    '3e33a3db-6820-4abf-a3e1-33c8ef5c4fdb',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '9e84d165-500a-47bd-b4d1-e4ebe68f0fb7',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'continent',
     'Antarctica',
     NOW()
   ),
   (
-    '1f38c410-16fe-4707-a641-d8f411edc383',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '1754c66e-cb09-4d32-bc63-c29ac966073f',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'region_un',
     'Antarctica',
     NOW()
   ),
   (
-    '71311750-ee08-43c7-bb79-ddabde6acf08',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '044a1e3b-f180-4566-b77e-d9ec301afb29',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'subregion',
     'Antarctica',
     NOW()
   ),
   (
-    '53577e38-e2f8-4a16-a2d0-ae4960b40b73',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '12839d7a-42c6-43d1-b491-3dec49a08691',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'region_wb',
     'Antarctica',
     NOW()
   ),
   (
-    '3919efc8-4b42-43b6-a403-2602e00dba6f',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'f7557353-dffa-4b3c-a023-ce00e81618a7',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'population',
     '4490',
     NOW()
   ),
   (
-    '77ed284d-61b6-48ee-8854-20599195217e',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'fd94222c-f1da-4fe1-89e4-cd2f29365241',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'gdp_md',
     '898',
     NOW()
   ),
   (
-    '1c9ae570-a616-4f01-88df-e17809caecae',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '673a8539-541f-4e04-9b6b-08c677a4ee6b',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '93b2c8f1-e8bd-423d-bc1c-060a22a897fb',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '556c2bad-d622-4750-aad8-6183d8a67138',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '060a9075-dcbc-4bf4-a316-bee445208dcb',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '3741563b-a63c-411a-9524-709858f8ee3a',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'type',
     'Indeterminate',
     NOW()
   ),
   (
-    '7035f6cd-5058-4ee5-9b74-cda7b851e9ed',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '0d8d4595-1270-41ad-abe7-492064e81e09',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'label_x',
     '35.885455',
     NOW()
   ),
   (
-    '407e34c7-799b-4c7d-bd98-1e476fad44aa',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    'cf4a9245-18b5-4b16-a872-1fae2e909241',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'label_y',
     '-79.843222',
     NOW()
   ),
   (
-    '78d0f00e-a618-4427-b8d3-66fb1113cc19',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '7c5ea943-b000-491c-9ed5-4a9d6bee314f',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'continent',
     'North America',
     NOW()
   ),
   (
-    '4e4f9606-3779-4b03-939d-0be6b73e0ff5',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '6213379b-4f2b-423b-b7bc-bd1418ad51f8',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'region_un',
     'Americas',
     NOW()
   ),
   (
-    'c955510b-ce2b-44b9-9e42-348654158744',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '4009e7c4-e74c-4baf-8a2b-d87797a050fa',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'subregion',
     'Caribbean',
     NOW()
   ),
   (
-    '37b8cf2a-087c-47bf-8fb9-1e5404aba290',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'ae8da3e0-2f7e-4ee1-9251-1893bbf289fc',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'region_wb',
     'Latin America & Caribbean',
     NOW()
   ),
   (
-    '8a0e1572-da0c-4e9f-bf48-fe7c3a08ee2c',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'fdc8cb89-81bf-46b3-9e91-b70b471435fc',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'population',
     '40733',
     NOW()
   ),
   (
-    '0895280a-0a8f-49d0-b630-47c475f3a540',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'bcead136-0261-4572-aef1-ff48e204cb4a',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'gdp_md',
     '1185',
     NOW()
   ),
   (
-    '8ccba513-021c-4c17-b7b4-4aec13115af3',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '985e1dec-3758-4b39-8424-2a1617c14b50',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'economy',
     '6. Developing region',
     NOW()
   ),
   (
-    '4f7a1e5c-9495-4e22-949b-2266b19c4e8d',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'a2844b84-71c6-44ed-bea4-fb14c3824408',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'income_group',
     '2. High income: nonOECD',
     NOW()
   ),
   (
-    '30469244-2546-4fa8-83f7-ce2730d3b6dc',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '9767e7c2-36cb-4e47-b5fe-e34e152877cf',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'type',
     'Country',
     NOW()
   ),
   (
-    '38d8c052-80e4-450a-a6aa-17904cb47a63',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '835f8f9a-b77e-4c18-a38d-9032f11ab2db',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'label_x',
     '-63.070133',
     NOW()
   ),
   (
-    'dfc534fc-8174-4471-b72b-918a9eb0f880',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'cc1574e0-579a-4f2b-be25-81422b597485',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'label_y',
     '18.04088',
     NOW()
   ),
   (
-    '4005c992-1113-400f-b4f7-9f412333c1af',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'b8648251-b691-4af0-945a-e0cefe667503',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'continent',
     'Oceania',
     NOW()
   ),
   (
-    '45a17356-9348-47b4-a70f-3ff5f73dd431',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '68d897bd-c891-4952-9476-63c853426b3a',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'region_un',
     'Oceania',
     NOW()
   ),
   (
-    '32fdf2f9-33ac-49ef-8088-700a3a8d00ba',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'b3845664-ace0-4101-b0a8-20ff101706fd',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'subregion',
     'Polynesia',
     NOW()
   ),
   (
-    '75c14bb6-4191-4584-8251-0fe73ece4433',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'bc6e02a3-427a-47f8-904e-a286829be2f3',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'region_wb',
     'East Asia & Pacific',
     NOW()
   ),
   (
-    '378fef17-c14d-4470-8640-50255c67c4b2',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '14818ebf-4818-4f51-9b26-99b8db26c557',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'population',
     '11646',
     NOW()
   ),
   (
-    '411c98ab-3294-4dc8-9173-0f0be5c819d0',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '7ea4946e-55c0-4e26-8915-70c039857c53',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'gdp_md',
     '47',
     NOW()
   ),
   (
-    'ec50acf8-7837-46e9-88f1-12811e197376',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '188059e5-e933-49ec-9fab-effe1b01c228',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'economy',
     '7. Least developed region',
     NOW()
   ),
   (
-    'cde2adc5-7755-4cb4-a2a6-7cb30a2ef963',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'ea5446ad-1d5b-44ed-837d-15bf8bb44081',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'income_group',
     '3. Upper middle income',
     NOW()
   ),
   (
-    '46fc8db7-a72d-4caa-9b87-36cd3af5eb41',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '845f066a-82b9-4f54-8941-97aa2c8d14c3',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'type',
     'Sovereign country',
     NOW()
   ),
   (
-    'c31ad2b6-f8c1-4280-a5ba-104f6acdc912',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'cf8ca835-cdd8-43fd-932e-792de2d5ddec',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'label_x',
     '179.209587',
     NOW()
   ),
   (
-    'd8f5d039-0f5c-4c56-8cb7-4210974c444c',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    'f20c3e57-99ad-49db-bdae-b5ad7014e5a4',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'label_y',
     '-8.513717',
     NOW()

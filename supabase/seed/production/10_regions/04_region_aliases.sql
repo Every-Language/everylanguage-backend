@@ -4,12351 +4,12351 @@ INSERT INTO
   region_aliases (id, region_id, alias_name, created_at)
 VALUES
   (
-    '850d48d8-2c72-427d-8aa9-3a17f3d97ea4',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '00890e36-a3d4-411e-b3e7-c61f8fd57e08',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'Zimbabwe',
     NOW()
   ),
   (
-    'a8dd8285-26f2-42a9-a498-0a87cecb4b5f',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    'c3988e9a-a514-4058-b8ca-d83c718afb49',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'Republic of Zimbabwe',
     NOW()
   ),
   (
-    'f4105d9d-3456-4b29-af07-16bfcc893572',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '10bf6c64-5acd-4565-abdd-91e5ee944ad9',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'Zimb.',
     NOW()
   ),
   (
-    '9fa4fdba-fbbe-4689-b23c-b653dce23bf8',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
-    'Ø²ÙŠÙ…Ø¨Ø§Ø¨ÙˆÙŠ',
+    'd557a041-f114-49bc-828a-ece950951ede',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
+    'زيمبابوي',
     NOW()
   ),
   (
-    '38f35ba8-5c05-43e9-8010-72d16f95c7bd',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '85436416-37c1-478d-9007-4886fb2eebb9',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'Simbabwe',
     NOW()
   ),
   (
-    '3bcb8628-1930-49dd-94b3-bc6c5e7a398c',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
+    '6a5f641b-80d6-46be-8fd5-013f17c04207',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
     'Zimbabue',
     NOW()
   ),
   (
-    '7210a9ec-a952-4202-9fde-f6608345a6b6',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
-    'æ´¥å·´å¸ƒéŸ¦',
+    'a63a26f1-4df9-45d5-8b2c-65de21d3bcde',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
+    '津巴布韦',
     NOW()
   ),
   (
-    'c6ba6593-3d90-48ce-bd42-7c9e49adde0d',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
-    'Ð—Ð¸Ð¼Ð±Ð°Ð±Ð²Ðµ',
+    '0e4a6f16-6454-4471-9196-266f6f00bf29',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
+    'Зимбабве',
     NOW()
   ),
   (
-    '3fd1d15b-37d2-4f6d-8d79-0c0ff9976097',
-    '8a91cc9e-7961-4c6b-bc33-16cc109db69e',
-    'ZimbÃ¡bue',
+    '978a0a7c-ee53-4704-8c99-60d034221331',
+    '05e06eb9-a4fa-4ea3-a7aa-d9d5ad87b263',
+    'Zimbábue',
     NOW()
   ),
   (
-    'd481be5c-04df-4fe1-829e-5d7d0fbb7555',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '9ea57afd-7640-43a0-89d9-4fa7c0a735d8',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'Zambia',
     NOW()
   ),
   (
-    '56e8ee45-fbb1-4626-ab7a-b065d6847a2c',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    '3c8bde43-c010-4ea8-8003-242c8fd25189',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'Republic of Zambia',
     NOW()
   ),
   (
-    'fe1f89b9-5728-4d4d-9595-f90c73b19aa4',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
-    'Ø²Ø§Ù…Ø¨ÙŠØ§',
+    '8834a5f0-54cf-47d7-b9c9-d0db9dd8103c',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
+    'زامبيا',
     NOW()
   ),
   (
-    'c5bc8517-5beb-41f0-8509-715e5cd379c9',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'ac2c49cd-678a-4320-8d77-d5e78d950bf6',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'Sambia',
     NOW()
   ),
   (
-    '088eb0ef-ffd0-44f6-9f61-d534db0431bd',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
+    'a17eacc3-f206-4c62-9be3-8ee99b1aa670',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
     'Zambie',
     NOW()
   ),
   (
-    '783e148e-c0e6-4e6e-ba0a-7b69181ee2d7',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
-    'èµžæ¯”äºš',
+    '43ba77f4-1a7c-4fcf-9b2f-5cd686b3d637',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
+    '赞比亚',
     NOW()
   ),
   (
-    '46cc2d58-898b-42e2-ae37-60317f47095e',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
-    'Ð—Ð°Ð¼Ð±Ð¸Ñ',
+    'd1e9cea9-fbfb-477b-a0c2-b1d293f0885a',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
+    'Замбия',
     NOW()
   ),
   (
-    '04ab84cf-3341-4142-98e2-84eed9828af9',
-    '741822d2-5ea2-4d1b-969b-c29e4db36baa',
-    'ZÃ¢mbia',
+    'ea88aed9-c73c-451d-a213-6d02cf8a8bd3',
+    'd06d2e88-ff4b-4cd5-8507-7f8cc9c36718',
+    'Zâmbia',
     NOW()
   ),
   (
-    '523abb14-f7ec-49b1-8396-1c154027c5ba',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '62cc6e92-ebec-4c3e-b2b9-ac194fbbab9a',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'Yemen',
     NOW()
   ),
   (
-    '9a1eb6dc-e3cb-4fe2-9ace-fb26b0a6e561',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '23daa0a1-c401-4590-a3e8-dfa500a32353',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'Republic of Yemen',
     NOW()
   ),
   (
-    '24a1fa1c-71da-4341-8e2a-e3dcec677cac',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    'ad580cae-1f14-4a5d-af60-e9a11f6a2954',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'Yem.',
     NOW()
   ),
   (
-    '5ee5f69f-60c2-4bd4-919c-7e40c8da2cd7',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
-    'Ø§Ù„ÙŠÙ…Ù†',
+    '0c45591e-2d37-4281-8630-3ec862c56ab3',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
+    'اليمن',
     NOW()
   ),
   (
-    'edfebb36-5af0-4076-88c4-7700833ec4ef',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
+    '1e8df4da-b5d0-4b14-a011-8f8c11838958',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
     'Jemen',
     NOW()
   ),
   (
-    'ac33d4b7-6d4a-478c-a680-efa929e639d2',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
-    'YÃ©men',
+    '028eae91-8f1f-4b1d-9ac6-3e9c9102f97c',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
+    'Yémen',
     NOW()
   ),
   (
-    '66bbceea-2d95-4f68-b5b0-834dde81cbd1',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
-    'ä¹Ÿé—¨',
+    'd4028ec1-8433-4b8b-a452-e4e654f93455',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
+    '也门',
     NOW()
   ),
   (
-    '4c073690-c87b-4a6c-b514-3cbbbaf4a50b',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
-    'Ð™ÐµÐ¼ÐµÐ½',
+    '66f70a4a-9704-466d-9308-b24015d1c8bc',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
+    'Йемен',
     NOW()
   ),
   (
-    'ae40bbcc-ca4e-4f0c-ad00-ae670bc985fa',
-    '4704c06e-8ec5-45a8-aa59-c0db5d700471',
-    'IÃ©men',
+    'c5b8d640-9621-43be-99cd-cefe8e28af56',
+    '05e8c167-c5a9-48c2-8851-dcde09bbcb7f',
+    'Iémen',
     NOW()
   ),
   (
-    '50a9f0f6-5f7b-4a4c-a910-ee88264baad6',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    'fc86595b-dbac-451b-948c-b4bfd62b1227',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'Vietnam',
     NOW()
   ),
   (
-    'ba8bfb19-6c64-40c9-a428-1d72136692b0',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '1bdac47c-2973-45e2-8dcb-b3db7dc732bc',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'Socialist Republic of Vietnam',
     NOW()
   ),
   (
-    '8a6fdcde-9cf0-4d25-be65-cc1451342f50',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '2eab00a9-9136-4f65-824e-b68d9ae3fc46',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'Viet.',
     NOW()
   ),
   (
-    'e294e612-0464-4651-90b8-3b1cfc8a0ab7',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
-    'ÙÙŠØªÙ†Ø§Ù…',
+    'fde16f24-3202-4cb0-aebe-dd151a41ceea',
+    'fa219356-5947-428a-84c1-ba10e061945a',
+    'فيتنام',
     NOW()
   ),
   (
-    'e6feb47d-2c4d-4a03-8f31-37659550e100',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
-    'ViÃªt Nam',
+    '632a8f16-6d02-45c2-b1e9-9e68509032a9',
+    'fa219356-5947-428a-84c1-ba10e061945a',
+    'Viêt Nam',
     NOW()
   ),
   (
-    'e35e6a24-54ba-402d-ab17-35812aa9a1cb',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
-    'è¶Šå—',
+    'e490a207-deea-4135-aedc-e293b1504a79',
+    'fa219356-5947-428a-84c1-ba10e061945a',
+    '越南',
     NOW()
   ),
   (
-    'c74f2c21-61f5-4e57-9d76-6a4b7c555f52',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
-    'Ð’ÑŒÐµÑ‚Ð½Ð°Ð¼',
+    '3e62b370-a3e7-4e08-be2b-919e68f916ec',
+    'fa219356-5947-428a-84c1-ba10e061945a',
+    'Вьетнам',
     NOW()
   ),
   (
-    'd5fa25c6-81d3-441a-878d-67d65c7d6935',
-    'ec9db5e1-c465-413f-9d5c-8370d90192b5',
+    '0ac844b7-156a-4859-b559-4366d03ad2f6',
+    'fa219356-5947-428a-84c1-ba10e061945a',
     'Vietname',
     NOW()
   ),
   (
-    '04f0f676-18d1-4b63-8db3-d572d1c650bf',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    'f616bfc8-127d-40df-b570-ed69291286e5',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'Venezuela',
     NOW()
   ),
   (
-    '079987a2-7d6d-4552-8bed-3ff1103ca2c6',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '92e398ca-e8c3-42cb-9ee5-cc623b7eef83',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'Bolivarian Republic of Venezuela',
     NOW()
   ),
   (
-    'fa762551-f958-4b51-a295-9c748d883f10',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
-    'RepÃºblica Bolivariana de Venezuela',
+    '2ff10cb1-b9a2-4492-98e7-842ff97fbf68',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
+    'República Bolivariana de Venezuela',
     NOW()
   ),
   (
-    '7fd11612-d306-4a1a-82a9-ac0e3e7a670c',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
+    '4ebc8df9-cec8-4ea2-a079-f3319eccb2af',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
     'Ven.',
     NOW()
   ),
   (
-    'fdca63f5-cc71-4082-9a87-56373b081a56',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
-    'ÙÙ†Ø²ÙˆÙŠÙ„Ø§',
+    '59e8d22c-ed0a-424f-84c3-48dcc5c76a69',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
+    'فنزويلا',
     NOW()
   ),
   (
-    'd77139f2-c3ce-4947-b6b4-a7466427d9e4',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
-    'å§”å†…ç‘žæ‹‰',
+    'ace6a54a-3fb3-4d57-a234-477e403748a6',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
+    '委内瑞拉',
     NOW()
   ),
   (
-    '22bce85b-3b6b-4080-8a3f-e591d05d985e',
-    '9bb6b81a-73cd-4841-9982-b9bf3c3cdafc',
-    'Ð’ÐµÐ½ÐµÑÑƒÑÐ»Ð°',
+    'bc8a58dd-33d5-4eca-a856-41735ba214f8',
+    '53c9544e-d102-490e-b3c7-9bbe5855b804',
+    'Венесуэла',
     NOW()
   ),
   (
-    '14f1d366-0872-424d-b76c-11ca7a40356e',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '5cfb78c6-e828-4558-b707-dc83d8fd2921',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'Vatican',
     NOW()
   ),
   (
-    '9ef965e8-f5d8-4f35-9c0e-a4d2092c07f6',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'f7d92731-c9bb-4618-96c9-c68fb856daf0',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'State of the Vatican City',
     NOW()
   ),
   (
-    'bb784a15-e252-41c7-874a-5450a27f5f1b',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '392ba24a-34a8-4fe8-8211-d99eea166013',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'Vat.',
     NOW()
   ),
   (
-    'b222ee99-b6d1-4ba8-94f7-8ee1bf8217da',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
-    'Ø§Ù„ÙØ§ØªÙŠÙƒØ§Ù†',
+    '68ac9f3d-9518-492d-946c-179ebc6812df',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
+    'الفاتيكان',
     NOW()
   ),
   (
-    'ce409b36-6d2e-4239-80c6-65ccf9c0db22',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    'da34c877-7e0f-487d-8b95-19f6436fe520',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'Vatikanstadt',
     NOW()
   ),
   (
-    '5b87b0a3-ff82-4884-99d7-e5fabd62ac34',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '75b28153-6ee6-4c4b-86b8-d922813585ac',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'Ciudad del Vaticano',
     NOW()
   ),
   (
-    '2f994049-4667-4426-a01c-0c52d8449f09',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
-    'CitÃ© du Vatican',
+    '1fc1e22d-8370-49e4-87a3-88af8ee698be',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
+    'Cité du Vatican',
     NOW()
   ),
   (
-    '24fad5ee-cf66-4e3a-b81f-bbf8d3bcc71d',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
-    'æ¢µè’‚å†ˆ',
+    'a181c189-b3aa-44b5-ad5c-90ee79a947dd',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
+    '梵蒂冈',
     NOW()
   ),
   (
-    'a02613bc-c084-44c7-9434-9fb4fce17881',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
-    'Ð’Ð°Ñ‚Ð¸ÐºÐ°Ð½',
+    '66fd0687-a1a5-447d-ae2e-9ea6aa988cb5',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
+    'Ватикан',
     NOW()
   ),
   (
-    'b962c3bf-a337-44da-89a3-e22e7a593be8',
-    '2407d161-8f50-4582-98f9-d1e3ea1585df',
+    '408afaba-0159-4650-ba89-e4e063d27d1f',
+    '492e581b-91fe-4e88-8b15-60a0579dd18a',
     'Vaticano',
     NOW()
   ),
   (
-    '04fd71ee-3563-4adf-9543-0a8255c23d1e',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '72234fe6-813d-461f-adff-1da9e3a7dd53',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'Vanuatu',
     NOW()
   ),
   (
-    '34a56881-17f8-42ad-9b2e-3e8d27b598e0',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    '4582e1ca-3fa2-42ec-9dd0-3dbc7b581db8',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'Republic of Vanuatu',
     NOW()
   ),
   (
-    '46358247-ef8f-4db4-a153-8171e843fe91',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
+    'f8b7b104-5ce6-4d6c-9c24-d908d61a083b',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
     'Van.',
     NOW()
   ),
   (
-    'fe10e06a-4280-4b76-ae43-83dd0342311c',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
-    'ÙØ§Ù†ÙˆØ§ØªÙˆ',
+    'f3a31dc3-3a71-4a7e-9fba-6b93b4cd61c1',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
+    'فانواتو',
     NOW()
   ),
   (
-    '3d48b65b-3f8c-46ad-8456-f4b15a191325',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
-    'ç“¦åŠªé˜¿å›¾',
+    '9c494845-ab29-48c6-a38b-246001737db9',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
+    '瓦努阿图',
     NOW()
   ),
   (
-    '236934d5-e46d-481b-b991-13a77e4ab47b',
-    'a299004f-b3d0-4ac9-b796-7fc0830c6df4',
-    'Ð’Ð°Ð½ÑƒÐ°Ñ‚Ñƒ',
+    '79587340-ec7a-437c-8fc3-7943f52e2c7d',
+    '161a0b84-f6f2-4ada-afdc-0134075d3924',
+    'Вануату',
     NOW()
   ),
   (
-    '24331812-d953-456f-bc28-20a0bce6ed98',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'f837abcc-03e1-4f27-9017-df2d1303b259',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'Uzbekistan',
     NOW()
   ),
   (
-    '033a4730-6334-4b08-8b5b-4163176f500d',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    'ab9c4f1c-ad15-4b4a-9aa2-024ebc519f3c',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'Republic of Uzbekistan',
     NOW()
   ),
   (
-    '02d6a23b-1aa2-4165-b627-51ebb3819038',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '8b054571-3e20-47ac-a9dd-12dc234fbfe7',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'Uzb.',
     NOW()
   ),
   (
-    '29e9898f-b09f-4ee5-9b56-6645b5cb77b5',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'Ø£ÙˆØ²Ø¨ÙƒØ³ØªØ§Ù†',
+    'ff6cc91a-b5e0-41b4-a77a-045dade351ca',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    'أوزبكستان',
     NOW()
   ),
   (
-    '2a74aadb-7da3-4284-a29b-f0f052b89256',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
+    '9a56195c-fdb1-4f54-9a35-c5640aff08ea',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
     'Usbekistan',
     NOW()
   ),
   (
-    '82dc7a02-7161-4dca-aa4e-72472ad6f0ea',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'UzbekistÃ¡n',
+    '1e47d815-4a31-4dc8-972a-227207dfafd8',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    'Uzbekistán',
     NOW()
   ),
   (
-    '56b95f52-a37c-45b1-b922-236af9bb1773',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'OuzbÃ©kistan',
+    '9aaebba1-474a-4350-9177-9b3750c98972',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    'Ouzbékistan',
     NOW()
   ),
   (
-    '61966278-659f-48cd-a568-4a284ddef89f',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'ä¹Œå…¹åˆ«å…‹æ–¯å¦',
+    '495fe1ca-bd5a-4f5e-827e-0c92c9c3eb7e',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    '乌兹别克斯坦',
     NOW()
   ),
   (
-    '6042c0ae-f0d5-4476-94e1-ae58ce2cddba',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'Ð£Ð·Ð±ÐµÐºÐ¸ÑÑ‚Ð°Ð½',
+    '2ec0ea1a-b30f-493c-976e-88b8b0bdc040',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    'Узбекистан',
     NOW()
   ),
   (
-    '9cf89d00-508d-44b4-805a-eb708a15c168',
-    '372799a5-1bc8-47ea-b6d1-ee517afd8d40',
-    'UzbequistÃ£o',
+    'b54af473-eb63-40ea-8ed3-b7130446a9f2',
+    '31e4f9a4-5c2e-4cfe-9e69-8430649f0fa2',
+    'Uzbequistão',
     NOW()
   ),
   (
-    '625aa1ae-780a-4432-9cc2-010fe2030aed',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'cae45f09-e473-4cde-be94-096bb2b01c7e',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'Uruguay',
     NOW()
   ),
   (
-    'a6f67015-2fc6-4d4f-ac1a-f4b016c2e3e0',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    '19939db7-c6fb-44e6-ad84-3497de3c29e5',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'Oriental Republic of Uruguay',
     NOW()
   ),
   (
-    '87a701ed-1108-413b-803d-bfdec9f35364',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'fb8d67f1-d890-4916-96f5-9c8723edf92d',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'Ury.',
     NOW()
   ),
   (
-    'd60555f6-fe20-42ed-91f0-bd9c607c066f',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
-    'Ø§Ù„Ø£ÙˆØ±ÙˆØºÙˆØ§ÙŠ',
+    'b03db472-0650-4e4e-87f8-b053c1a8aa96',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
+    'الأوروغواي',
     NOW()
   ),
   (
-    '962d5509-ecf8-4594-8467-06b0880fe6bb',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
-    'ä¹Œæ‹‰åœ­',
+    '155647f2-91ca-4010-a22c-9fbb1a01f0d5',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
+    '乌拉圭',
     NOW()
   ),
   (
-    '9d652def-aead-4546-b93b-044d06012cda',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
-    'Ð£Ñ€ÑƒÐ³Ð²Ð°Ð¹',
+    '457dda66-203d-4de2-913f-99ec2f0a5cc0',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
+    'Уругвай',
     NOW()
   ),
   (
-    'd071f4df-3e16-4440-872c-e26e9812dbf8',
-    '2d939647-6ac6-4895-aa07-b0d5702d4d14',
+    'daeb4c72-5002-4327-a967-26e786939495',
+    '79699d94-96d0-481b-ba13-110051cc7a97',
     'Uruguai',
     NOW()
   ),
   (
-    '9e65c420-1084-4d6d-b082-0c12c2689d2a',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'b171a881-358c-4c63-83ff-a582cbcee68b',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'Micronesia',
     NOW()
   ),
   (
-    '949b5180-d2cf-4639-8281-e987e56cac34',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '7b5da3c1-7d8c-42ec-9edb-bbf8d888c089',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'Federated States of Micronesia',
     NOW()
   ),
   (
-    '7b9b7a61-a50b-4e4b-975c-0e6befd8aa20',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    'f9356cba-ec4c-489b-872f-5138c008bc6f',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'F.S.M.',
     NOW()
   ),
   (
-    '2b28f68a-9efa-433d-94c0-33c353ed3fcf',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'ÙˆÙ„Ø§ÙŠØ§Øª Ù…ÙŠÙƒØ±ÙˆÙ†ÙŠØ³ÙŠØ§ Ø§Ù„Ù…ØªØ­Ø¯Ø©',
+    '74232c2d-8fdf-413b-8445-f4ca7d8d665c',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    'ولايات ميكرونيسيا المتحدة',
     NOW()
   ),
   (
-    '388a2678-2f98-4edb-8588-7187d1f6e16c',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'FÃ¶derierte Staaten von Mikronesien',
+    'e90d5d84-21b1-4e2b-b7ce-ba241e2e1a77',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    'Föderierte Staaten von Mikronesien',
     NOW()
   ),
   (
-    'fde2fc5e-3b00-44fe-85c4-603fb5f494c0',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
+    '53bade87-f30f-473a-91d0-fdafdf26c5bd',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
     'Estados Federados de Micronesia',
     NOW()
   ),
   (
-    'e2e27c33-6aa0-412a-bd68-8ea4afc98e67',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'Ã‰tats fÃ©dÃ©rÃ©s de MicronÃ©sie',
+    'b3b8ec2c-7ca0-4dfd-8253-dd6b9bc594c6',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    'États fédérés de Micronésie',
     NOW()
   ),
   (
-    '56fc597d-ed3e-4751-be97-5041fca3ffdc',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'å¯†å…‹ç½—å°¼è¥¿äºšè”é‚¦',
+    'f77ff0c0-5d72-45ee-b6bd-aa5da501376d',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    '密克罗尼西亚联邦',
     NOW()
   ),
   (
-    '11fda293-4b94-4058-b9e8-be806e2d85a9',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'ÐœÐ¸ÐºÑ€Ð¾Ð½ÐµÐ·Ð¸Ñ',
+    '57904a33-a1d5-41f4-9989-54d83257f37e',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    'Микронезия',
     NOW()
   ),
   (
-    'e4ccd22a-36d3-4ce8-a5a0-18949ecda07f',
-    '3f1ba816-f6f4-4ece-b79e-f9627a3cf2f4',
-    'MicronÃ©sia',
+    'fb69f508-c2ed-4d1b-8930-bbd404a13512',
+    '12f99092-2f89-48fe-966f-acb7715b42d9',
+    'Micronésia',
     NOW()
   ),
   (
-    '861b7f88-c5dc-4d82-9945-5f5144535c5b',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'd018fa1b-7fed-4197-b8f3-cdcbba8dd62e',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Marshall Is.',
     NOW()
   ),
   (
-    '5e8d1f0a-b5a9-4283-97dc-d15249e29867',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '154221d9-b3ef-4a63-b749-a32aa29c24d8',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Marshall Islands',
     NOW()
   ),
   (
-    'f8ebd53c-59c5-43f4-a077-baf6f515ef82',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'c1d357f4-8d34-42f0-bc68-40895b12fba1',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Republic of the Marshall Islands',
     NOW()
   ),
   (
-    '0600f41c-7a1f-444e-8677-84d2df01d253',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '856d961c-c832-452d-bfb3-6f0b14c397be',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'M. Is.',
     NOW()
   ),
   (
-    'e0245a03-eb9c-48d8-ae07-06636916ed6b',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
-    'Ø¬Ø²Ø± Ù…Ø§Ø±Ø´Ø§Ù„',
+    'cfedc28d-ed02-4c22-bec6-0cd3e570f06c',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
+    'جزر مارشال',
     NOW()
   ),
   (
-    'd5206ad3-6662-4ea7-81f9-c337cd613dec',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    'b72a011d-c4cc-4516-b0d5-487eed7e5139',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Marshallinseln',
     NOW()
   ),
   (
-    'ff7706ae-eafb-4e07-a2f9-3e3291018ed7',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '2cc27599-7477-491f-8b32-6c4d82005183',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Islas Marshall',
     NOW()
   ),
   (
-    '1a05492a-f0bd-4bba-9019-c1e981144352',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
-    'ÃŽles Marshall',
+    'ae3934f6-8129-4b90-9c27-6fc494ff581e',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
+    'Îles Marshall',
     NOW()
   ),
   (
-    '3b80642c-95d2-478a-b4a7-5e3925a54e47',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
-    'é©¬ç»å°”ç¾¤å²›',
+    'ffe83507-9fed-4f41-a1f8-98c51d3c2000',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
+    '马绍尔群岛',
     NOW()
   ),
   (
-    'db1d1b7f-87a0-4f20-a85b-1c76210d91b1',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
-    'ÐœÐ°Ñ€ÑˆÐ°Ð»Ð»Ð¾Ð²Ñ‹ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '6152c5c2-ec35-41ba-880f-bc176130d06f',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
+    'Маршалловы Острова',
     NOW()
   ),
   (
-    'aa7494c5-5581-4553-ba5a-6ead1272f846',
-    '2c8d7593-bac4-4cb2-8c94-6512bbd6363a',
+    '743b56c3-f84a-43ff-b876-041351776565',
+    'ff9dd1f5-0d10-4742-8098-89c2f2003b97',
     'Ilhas Marshall',
     NOW()
   ),
   (
-    '48290bc4-e0e4-428f-b860-3b73ef8b81ee',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'dc6fd87d-35de-4c59-9101-e4a25ef44c3d',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'N. Mariana Is.',
     NOW()
   ),
   (
-    '51506c8e-c538-4c1d-b9ed-925217dfabc0',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '43de0570-62a9-40f2-b924-8e7992c2da3b',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'Northern Mariana Islands',
     NOW()
   ),
   (
-    '653c4aa6-0a9d-4d1d-8f14-30ae2552158e',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    'da661e60-62ea-46ac-b245-7a7187d2661d',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'Commonwealth of the Northern Mariana Islands',
     NOW()
   ),
   (
-    '3f91c8d4-c501-46f6-8bde-75cda859aaec',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '5aecb1a7-1500-467e-86e9-ccf9eaf0ee96',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'United States of America',
     NOW()
   ),
   (
-    'e463f774-0c0d-4b73-a0b9-1e9bbedef899',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '057dc403-589e-4e0e-89a4-1ee14b829f6d',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'N.M.I.',
     NOW()
   ),
   (
-    '39ff4747-281a-4f2a-a84a-2085339eaea4',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
-    'Ø¬Ø²Ø± Ù…Ø§Ø±ÙŠØ§Ù†Ø§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
+    '9ccf9c20-1900-48da-8d90-95b01064f641',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
+    'جزر ماريانا الشمالية',
     NOW()
   ),
   (
-    'a5b333f6-ed4b-4221-b87b-1d33c2e92420',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
-    'NÃ¶rdliche Marianen',
+    'd95340a6-9406-4370-a67b-4198e7b955fe',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
+    'Nördliche Marianen',
     NOW()
   ),
   (
-    '7208b80a-0bda-46d1-ad70-922ba169dd83',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '1e3ef763-0d51-4e4f-9459-c83f7d689e4c',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'Islas Marianas del Norte',
     NOW()
   ),
   (
-    '00e0aa22-ddf4-4dcd-a284-9d4703c3e8e8',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
-    'Ã®les Mariannes du Nord',
+    'e0cad835-34c9-4c79-a354-888943adf2b9',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
+    'îles Mariannes du Nord',
     NOW()
   ),
   (
-    '5274d073-3061-42bd-854e-ef1603f89cba',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
-    'åŒ—é©¬é‡Œäºšçº³ç¾¤å²›',
+    '975a1621-e4e5-41b0-bf0d-44fe61c2b155',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
+    '北马里亚纳群岛',
     NOW()
   ),
   (
-    '0e37f5aa-0dc2-4426-967b-cad809678b0a',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
-    'Ð¡ÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ ÐœÐ°Ñ€Ð¸Ð°Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '1b4c0933-36e5-4012-8693-8aa5aecb2964',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
+    'Северные Марианские острова',
     NOW()
   ),
   (
-    'dae525e0-4b1f-4c03-b377-51e75dc07c84',
-    'db5ca8a3-6281-4e3d-be43-6a8f01b1b6f6',
+    '6efe23e5-abe4-42a1-9aac-5de9098151af',
+    '8a8ae33b-e4b7-422e-9d27-758a0c7fdc62',
     'Ilhas Marianas do Norte',
     NOW()
   ),
   (
-    '60804854-fbf6-43e0-bcbc-b1b64a77439f',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '6220dd22-42ac-4ff7-b57e-a5dec12787e0',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'U.S. Virgin Is.',
     NOW()
   ),
   (
-    'fd7c01bb-a4bd-455b-a353-165c184f0cbc',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '771fac91-50d0-4cb7-b2ca-935fb13450a0',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'United States Virgin Islands',
     NOW()
   ),
   (
-    '5cfbab56-f381-4390-8f6f-46373d5c3fc1',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '3b76675c-74d6-4a93-aa96-6e1bbc703d9a',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'Virgin Islands of the United States',
     NOW()
   ),
   (
-    '43725af7-f2ce-4c9b-95ca-95e8fbe1733b',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '5f0f6b6c-441e-49a1-abd6-47304275a6f7',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'United States of America',
     NOW()
   ),
   (
-    'fd0feba8-0320-453c-911a-07a04b0f09f1',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '2fcaec39-59cc-46dd-8642-a561fac3ea21',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'V.I. (U.S.)',
     NOW()
   ),
   (
-    '5412b24d-db59-446e-a999-a3ae1b043c94',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
-    'Ø¬Ø²Ø± Ø§Ù„Ø¹Ø°Ø±Ø§Ø¡ Ø§Ù„Ø£Ù…Ø±ÙŠÙƒÙŠØ©',
+    '7aedb3e1-8acc-4235-8a07-7ecc1370e20f',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
+    'جزر العذراء الأمريكية',
     NOW()
   ),
   (
-    '01b4ddea-a894-4b3f-aa9b-358b56c8d3d2',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    'd22ee632-a8e2-4d78-88f4-e06c9d17c670',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'Amerikanische Jungferninseln',
     NOW()
   ),
   (
-    '4b328866-6c49-45d1-ba9e-41ab490a8360',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
-    'Islas VÃ­rgenes de los Estados Unidos',
+    '6aeda21e-dbd1-429f-945f-b99af43fec22',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
+    'Islas Vírgenes de los Estados Unidos',
     NOW()
   ),
   (
-    '050f41b4-cd27-4786-a218-29fbad4eb565',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
-    'Ã®les Vierges des Ã‰tats-Unis',
+    'f9453996-1a3b-4e52-90ac-d5c37144fb41',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
+    'îles Vierges des États-Unis',
     NOW()
   ),
   (
-    'd1f6abcf-574f-433c-ac7d-6eab73b28859',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
-    'ç¾Žå±žç»´å°”äº¬ç¾¤å²›',
+    '3f479cd4-9d94-4d13-818c-083c49118566',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
+    '美属维尔京群岛',
     NOW()
   ),
   (
-    'ada0a10a-9fb3-40f8-9686-33936c7efb8e',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
-    'ÐÐ¼ÐµÑ€Ð¸ÐºÐ°Ð½ÑÐºÐ¸Ðµ Ð’Ð¸Ñ€Ð³Ð¸Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '5c1d4499-8459-4bc8-ab26-4b872109889e',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
+    'Американские Виргинские острова',
     NOW()
   ),
   (
-    '9ce92a26-fa53-4bed-b69d-02be8582ea9f',
-    'ecb324eb-3353-4e71-b981-69cbb9bf08a1',
+    '6d768b6c-918f-494e-9398-4eecf42682d9',
+    '4e0d241b-2a45-41ee-93ee-4f6d6c5eceff',
     'Ilhas Virgens Americanas',
     NOW()
   ),
   (
-    '9e2e031c-025f-4daf-826d-1cb140c161c2',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    'f1b14bf0-4d7f-4902-8483-008c2d5c2644',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'Guam',
     NOW()
   ),
   (
-    '2485b48f-2b3a-4d4c-85ad-e4fdd2a50663',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '86b43c22-498e-4d7e-bbb2-efc6a6f9d041',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'Territory of Guam',
     NOW()
   ),
   (
-    '58b44945-cec2-4248-821f-6106b7225962',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
+    '8c9eb7c6-b457-40f9-adc7-581b9811a61e',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
     'United States of America',
     NOW()
   ),
   (
-    '64ed1708-78c6-4e6d-b1b4-fe7c827af29b',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
-    'ØºÙˆØ§Ù…',
+    'ee4cca2e-d792-4f54-b960-cefb5f64f14b',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
+    'غوام',
     NOW()
   ),
   (
-    'd4291e6c-e9f8-4b0d-8c99-620a881ddb3a',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
-    'å…³å²›',
+    'bf00a02c-bff6-4a2d-9884-e751a3151000',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
+    '关岛',
     NOW()
   ),
   (
-    '815e81e8-46fe-4b88-8494-d14a8f699f17',
-    'c4a36483-6442-43ee-94ce-14dce96afddb',
-    'Ð“ÑƒÐ°Ð¼',
+    'b2e40c25-2dce-41a4-836c-038536ca5522',
+    '54a52dda-3efd-4c2e-9311-5b61af033d1a',
+    'Гуам',
     NOW()
   ),
   (
-    'daf9883b-0b0f-41af-8676-7e6f1937a154',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '118c15a3-490a-48f1-ad32-b5198e84435f',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'American Samoa',
     NOW()
   ),
   (
-    'ffc3bf19-c8c2-4b71-b8ff-bb06e4a2e3f3',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    'b734c51b-12ea-4819-80be-59aa12a4f642',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'United States of America',
     NOW()
   ),
   (
-    '55fa63df-e7f1-4b96-bb2e-34bce2422c54',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '5d89dddd-230e-4b5b-9248-67f52185b313',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'Am. Samoa',
     NOW()
   ),
   (
-    'ccc33a6e-0ee2-4d52-a4f2-d8ac2b4bf6b8',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
-    'Ø³Ø§Ù…ÙˆØ§ Ø§Ù„Ø£Ù…Ø±ÙŠÙƒÙŠØ©',
+    'f4cdede6-608f-49a8-aea2-298c5018fc3c',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
+    'ساموا الأمريكية',
     NOW()
   ),
   (
-    '994b5174-de12-4951-9e94-869a2fded855',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '682a316c-382a-4d29-96b9-8779b8d0bd6d',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'Amerikanisch-Samoa',
     NOW()
   ),
   (
-    '9fc4fd68-8971-4e11-a6bb-fe5577ff189e',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '751a45b2-fe78-4e5d-8e5b-03054537d59c',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'Samoa Estadounidense',
     NOW()
   ),
   (
-    '236c885b-9dac-42fc-a675-16d899cddf55',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
-    'Samoa amÃ©ricaines',
+    '1026877e-71ac-47a1-9098-b046ef3895f7',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
+    'Samoa américaines',
     NOW()
   ),
   (
-    'a6355bfd-8ad6-4409-aea7-0d87877ae0e0',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
-    'ç¾Žå±žè¨æ‘©äºš',
+    'd8d4bfae-acdb-4b2d-987f-5ec40f0ceb1e',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
+    '美属萨摩亚',
     NOW()
   ),
   (
-    'd8d7312c-94a9-400f-8831-3114d6c9d63c',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
-    'ÐÐ¼ÐµÑ€Ð¸ÐºÐ°Ð½ÑÐºÐ¾Ðµ Ð¡Ð°Ð¼Ð¾Ð°',
+    '834ef7bc-d3c3-4a9f-abef-dc900c9af593',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
+    'Американское Самоа',
     NOW()
   ),
   (
-    'e4888df6-13de-4ce8-b207-280d90783668',
-    'b0fbe676-4801-42c2-807e-f9d97496fc89',
+    '9b64da13-3dda-4280-a232-438f4894ccbe',
+    'ca14e964-5881-40f3-8211-79822c3231e5',
     'Samoa Americana',
     NOW()
   ),
   (
-    'dad110f7-8fc9-4002-b275-cd64c871076f',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    'c0c6652c-6427-4744-9b0e-1bfb0466c5e0',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'Puerto Rico',
     NOW()
   ),
   (
-    'a0d12411-e73c-4e22-9661-74892cf6a2a1',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '517a303c-e30c-40b7-b4dd-b029df9b1842',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'Commonwealth of Puerto Rico',
     NOW()
   ),
   (
-    '4161ec4c-b6b5-42a2-a44c-4eb4455027c3',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '6834c206-1f50-4cfa-a8b4-23122db0a487',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'United States of America',
     NOW()
   ),
   (
-    'd111a53b-ae99-450c-adfb-e050607fb5e7',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '18b8b300-c423-4131-b99a-90f5679f2cf6',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'P.R.',
     NOW()
   ),
   (
-    'a10dd6fe-488d-4d14-b6bf-396f46117696',
-    '404323cd-b307-4962-aace-e6259747bc43',
-    'Ø¨ÙˆØ±ØªÙˆØ±ÙŠÙƒÙˆ',
+    'f88a2af0-bbb9-425d-b495-c60232f2dfef',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
+    'بورتوريكو',
     NOW()
   ),
   (
-    '9ef685ad-e56d-4557-acba-c910d558bd15',
-    '404323cd-b307-4962-aace-e6259747bc43',
+    '6a5258ec-066d-4fd9-aa2e-36e24cd3e97f',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
     'Porto Rico',
     NOW()
   ),
   (
-    '9cae870d-6ffe-4abc-afea-5787bfcebb75',
-    '404323cd-b307-4962-aace-e6259747bc43',
-    'æ³¢å¤šé»Žå„',
+    'e4fe5d7c-f487-4d7b-93c4-bd0903e8ebf9',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
+    '波多黎各',
     NOW()
   ),
   (
-    '2bd00824-100e-41e0-8e35-7d7de2930450',
-    '404323cd-b307-4962-aace-e6259747bc43',
-    'ÐŸÑƒÑÑ€Ñ‚Ð¾-Ð Ð¸ÐºÐ¾',
+    '21b46fca-3b2d-4e58-a997-84b1e76cb718',
+    '6045ac00-d26e-4219-b7fe-cd94f79c5b3e',
+    'Пуэрто-Рико',
     NOW()
   ),
   (
-    '3969f098-1220-48cc-9b07-246031ea08d2',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'b8c8538b-b7a7-407e-987a-d5fe5a7a55ee',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'United States of America',
     NOW()
   ),
   (
-    '96ef42fa-0d71-4779-933f-383d8fe0a576',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'f99f38c2-b4f0-4e46-b6f5-09d4c2978fb4',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'United States',
     NOW()
   ),
   (
-    'd42d010f-9f61-4e7d-bc04-a6d04dab825b',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'c8af4b38-109f-4c50-9c01-43c097ccf7ec',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'U.S.A.',
     NOW()
   ),
   (
-    '6e9b31d9-9cd7-403b-9b06-6474216680a8',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
-    'Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø©',
+    '4f2ae9a0-611d-4768-a574-871abcd8ce97',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
+    'الولايات المتحدة',
     NOW()
   ),
   (
-    'aa76794f-01fc-4086-a17f-51230deb47c2',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    '176050b8-13db-4388-adf7-c263a71c4366',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'Vereinigte Staaten',
     NOW()
   ),
   (
-    'c16b5f6b-8c95-4beb-8c66-46f27e30190d',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
+    'f9631dd3-ef1b-4faa-8c65-f4e88dbadb4b',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
     'Estados Unidos',
     NOW()
   ),
   (
-    '253443f8-4cd7-4b47-ac07-5033a7929f0e',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
-    'Ã‰tats-Unis',
+    'b15743e8-156f-46a8-b773-af0662907de1',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
+    'États-Unis',
     NOW()
   ),
   (
-    '979375cc-d0b6-4e63-a9b2-0bdb6f188e50',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
-    'ç¾Žå›½',
+    '8f0859ff-5546-4b68-b775-2d79a2c2a2c1',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
+    '美国',
     NOW()
   ),
   (
-    '52d13b45-2908-4855-b3b7-93809a38cb4d',
-    '580b94c6-c84e-41c1-86c5-28fe41a6b438',
-    'Ð¡Ð¨Ð',
+    '39736ab2-a61a-4504-abba-b11b5ddee250',
+    'f60284b3-d7f7-46a2-865c-62ca16a24e46',
+    'США',
     NOW()
   ),
   (
-    '6ae38183-6e8a-4834-9473-a44ddda74c90',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '12eaae62-b081-4a73-93d5-c791ba152928',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'S. Geo. and the Is.',
     NOW()
   ),
   (
-    'e50f541d-8bc8-421a-af8c-31b3516c43bf',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'f8caaa01-2c20-4c9f-9edc-49418b52e08e',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'South Georgia and the Islands',
     NOW()
   ),
   (
-    '77bb5797-4e98-4daa-b6f1-74937f621a3a',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    '7082a4b7-3e37-4a6a-a219-af670e9a7631',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'United Kingdom',
     NOW()
   ),
   (
-    '2dbe6ff6-13ea-438a-a16e-9561dca73cd2',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'fd9b2b64-26d5-4b9f-baeb-d7a5f7450c45',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'S.G. & Is.',
     NOW()
   ),
   (
-    'eeb5adc1-e79c-4438-b4c4-fce2608833ed',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'Ø¬ÙˆØ±Ø¬ÙŠØ§ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ© ÙˆØ¬Ø²Ø± Ø³Ø§Ù†Ø¯ÙˆÙŠØªØ´ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
+    'e5b11639-0e7c-4d66-a977-1e4d353f1fc1',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    'جورجيا الجنوبية وجزر ساندويتش الجنوبية',
     NOW()
   ),
   (
-    '9c20b178-167a-4875-aeac-554a8e66424b',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'SÃ¼dgeorgien und die SÃ¼dlichen Sandwichinseln',
+    '4f377ccb-044e-4cfc-8e5e-f626971279ea',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    'Südgeorgien und die Südlichen Sandwichinseln',
     NOW()
   ),
   (
-    'b7656d88-4dd1-4fb9-94b4-1b028d4b8c8c',
-    '45eae273-2790-4b36-bafd-62932a838d26',
+    'ca869f7e-9587-4278-be6b-cde7978941b2',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
     'Islas Georgias del Sur y Sandwich del Sur',
     NOW()
   ),
   (
-    '0280d0f9-3e30-4cec-9212-7b8620645262',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'GÃ©orgie du Sud-et-les ÃŽles Sandwich du Sud',
+    '59669ac9-3b5d-47ee-9d95-f1c1e11d1800',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    'Géorgie du Sud-et-les Îles Sandwich du Sud',
     NOW()
   ),
   (
-    'c1164727-e2af-474f-8703-32ee4c87103d',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'å—ä¹”æ²»äºšå’Œå—æ¡‘å¨å¥‡ç¾¤å²›',
+    '883bece7-3910-4f37-8c1f-f4f3d2cb9fbe',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    '南乔治亚和南桑威奇群岛',
     NOW()
   ),
   (
-    '3ee5a681-578f-45dc-ab7d-06138c6e7270',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'Ð®Ð¶Ð½Ð°Ñ Ð“ÐµÐ¾Ñ€Ð³Ð¸Ñ Ð¸ Ð®Ð¶Ð½Ñ‹Ðµ Ð¡Ð°Ð½Ð´Ð²Ð¸Ñ‡ÐµÐ²Ñ‹ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '2c8ed442-0d90-49bf-9999-0a88d9daccbb',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    'Южная Георгия и Южные Сандвичевы острова',
     NOW()
   ),
   (
-    '5ab270fa-1b76-4cef-a24a-c39524aa911b',
-    '45eae273-2790-4b36-bafd-62932a838d26',
-    'Ilhas GeÃ³rgia do Sul e Sandwich do Sul',
+    'e5bf4e0c-daf3-4bbc-acaa-48fbe29bcafb',
+    'd2e39c4b-1bbc-4601-a5f7-e7f527cdaa5a',
+    'Ilhas Geórgia do Sul e Sandwich do Sul',
     NOW()
   ),
   (
-    '1d07e43c-19ef-4301-b43c-a7a997b06433',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '5796ed9b-a191-4791-8a38-5d8e5585f04c',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'Br. Indian Ocean Ter.',
     NOW()
   ),
   (
-    'a865d428-ec5f-4db5-924f-e59e28ddcbe9',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '57def70f-a69c-4019-88ce-f3c6eeabb04a',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'British Indian Ocean Territory',
     NOW()
   ),
   (
-    '5b7f92f1-efb6-41d5-8def-cb35a5223a49',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '5e0d6135-d617-4802-8821-1fe0411756fd',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'United Kingdom',
     NOW()
   ),
   (
-    'dfe30595-eb4d-45e3-ab0f-d3e57fa6fcfa',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    'e288c08e-989a-43d2-aed2-61e47fc44883',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'I.O.T.',
     NOW()
   ),
   (
-    '1645e52b-5b7f-4aaf-b51d-8da1388b1a2a',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'Ø¥Ù‚Ù„ÙŠÙ… Ø§Ù„Ù…Ø­ÙŠØ· Ø§Ù„Ù‡Ù†Ø¯ÙŠ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠ',
+    'b7e1a371-f0b3-4329-a17e-457714da2a36',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    'إقليم المحيط الهندي البريطاني',
     NOW()
   ),
   (
-    '332d615a-c8e1-42a8-9f8e-4937d6442378',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
+    '888838e1-b5b3-48f9-93b2-0e0bd0114815',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
     'Britisches Territorium im Indischen Ozean',
     NOW()
   ),
   (
-    'bc87548d-f64b-4e68-b58e-8d98e6216d14',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'Territorio BritÃ¡nico del OcÃ©ano Ãndico',
+    '12c17fc3-c9b0-45eb-986a-e81028e7e60f',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    'Territorio Británico del Océano Índico',
     NOW()
   ),
   (
-    'e3bd55c3-a0d0-4f44-bca8-6a1574c30735',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'Territoire britannique de lâ€™ocÃ©an Indien',
+    '4ff8371e-7d5b-4894-b5f6-6fd2cb3e78c2',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    'Territoire britannique de l’océan Indien',
     NOW()
   ),
   (
-    'ca2d44d0-7734-46a5-8f4d-6eb040c4d054',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'è‹±å±žå°åº¦æ´‹é¢†åœ°',
+    'e29f3ef8-203d-4055-8136-e4d55b5fb381',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    '英属印度洋领地',
     NOW()
   ),
   (
-    '6c7c2c92-9350-4e3f-8424-a29b70185797',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'Ð‘Ñ€Ð¸Ñ‚Ð°Ð½ÑÐºÐ°Ñ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ñ Ð² Ð˜Ð½Ð´Ð¸Ð¹ÑÐºÐ¾Ð¼ Ð¾ÐºÐµÐ°Ð½Ðµ',
+    'c655d964-0957-4008-8477-88d7661e1848',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    'Британская территория в Индийском океане',
     NOW()
   ),
   (
-    '8f040270-8fa0-4248-a5a0-682cf7eaa554',
-    '0a470504-207a-4339-a29f-ed808955a6cf',
-    'TerritÃ³rio BritÃ¢nico do Oceano Ãndico',
+    '698756a8-b7bc-484f-9f41-58429ee8eb90',
+    '97dd5792-91ca-4ef0-adbe-efd05331815f',
+    'Território Britânico do Oceano Índico',
     NOW()
   ),
   (
-    '8c67663c-49e7-4fde-91c9-e544aa37ed95',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '9a342315-5902-47f3-b9b7-7abf1003aa5c',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'Saint Helena',
     NOW()
   ),
   (
-    'de907f57-7c58-40f3-b9b2-97f0338916e6',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'f01a2450-3dbb-4343-889a-d20f870a5ac4',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'United Kingdom',
     NOW()
   ),
   (
-    '053eb7b5-3c66-4e27-8650-63abdfb6c760',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '7421d52d-8b0f-4238-9063-60b872f0c365',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'St.H.',
     NOW()
   ),
   (
-    '75e42014-5d45-4467-86fe-e198691c9b7f',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
-    'Ø³Ø§Ù†Øª Ù‡ÙŠÙ„ÙŠÙ†Ø§',
+    'f387dd03-9858-49e8-8ff5-e360606e2828',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
+    'سانت هيلينا',
     NOW()
   ),
   (
-    '4ae30560-a463-47f7-9770-b8c9357789bb',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '5ce4566f-c014-41dc-b06c-10598f3cf3e3',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'St. Helena',
     NOW()
   ),
   (
-    '053ee2b4-6380-4c65-920f-c149d13f6eb7',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    '837982a1-a51d-4a69-9eda-a105568e2709',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'Isla Santa Elena',
     NOW()
   ),
   (
-    '6537ee68-1d69-45dd-b45f-d9799592f8e9',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
-    'Sainte-HÃ©lÃ¨ne',
+    '34c83e53-c072-4756-b09f-5eb2bdc48063',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
+    'Sainte-Hélène',
     NOW()
   ),
   (
-    'bbf0c52c-8f0f-473b-adc5-795f68a5c541',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
-    'åœ£èµ«å‹’æ‹¿',
+    '56ef5191-db52-4e5f-b04b-c9f467c27da3',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
+    '圣赫勒拿',
     NOW()
   ),
   (
-    '3ce88f5e-2336-4979-be1c-d6ac4d213ca8',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
-    'ÐžÑÑ‚Ñ€Ð¾Ð² Ð¡Ð²ÑÑ‚Ð¾Ð¹ Ð•Ð»ÐµÐ½Ñ‹',
+    '895f4cb4-5110-46f1-9ecb-948a926eab2d',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
+    'Остров Святой Елены',
     NOW()
   ),
   (
-    '6cf9a72b-c5b5-4d41-8402-663c8898f06b',
-    '8d81b431-39f5-4827-9c1a-9c57635b1485',
+    'd1bdea97-db4f-4792-8524-2ecb0de51ce1',
+    'e215b976-18c2-4b48-9846-b4e7f51f7a33',
     'Santa Helena',
     NOW()
   ),
   (
-    '1a36e421-728b-4ef0-ab05-3a26f13211b8',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'e7e0dd7d-1351-4966-a14d-c24c647e0bda',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Pitcairn Is.',
     NOW()
   ),
   (
-    '913ed309-d798-43c0-b532-597b256e3e5a',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '105625f2-14ed-48c6-9475-f73e8bfc126d',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Pitcairn Islands',
     NOW()
   ),
   (
-    '826b9d80-a4a0-4a1a-8586-fac2f9cfffe6',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '94394b4d-f704-40e6-b8d7-67a488ffd5e8',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Pitcairn, Henderson, Ducie and Oeno Islands',
     NOW()
   ),
   (
-    '56a66228-4b6d-4e0f-a0d6-edc113de2867',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'ede25319-12c1-4578-8a01-248281e54268',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'United Kingdom',
     NOW()
   ),
   (
-    '2c5a60c4-7a39-42f6-90fe-570224dc05b7',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '9f95f62c-ebae-465b-83b4-3bba6dc361bd',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Pit. Is.',
     NOW()
   ),
   (
-    '62b96122-1655-4462-b996-ccddebaed0ae',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
-    'Ø¬Ø²Ø± Ø¨ÙŠØªÙƒÙŠØ±Ù†',
+    '992630bb-3e5f-4ce3-bb3e-75f6d48912d5',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
+    'جزر بيتكيرن',
     NOW()
   ),
   (
-    '439ca3fd-9b4d-4a05-b6d4-33b5b7eb6adf',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'fa2e95c8-8f70-4a05-8348-794a5d1cde2e',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Pitcairninseln',
     NOW()
   ),
   (
-    '20709705-19bf-4d73-bbbe-1b57ad35900b',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '988df917-aa30-4702-9715-943c19a9d9c9',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Islas Pitcairn',
     NOW()
   ),
   (
-    '54aefb93-d9c0-40a2-a0e4-f3bb468dd029',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    '5aa4465f-10f9-4114-be21-bdc7c0a71267',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Iles Pitcairn',
     NOW()
   ),
   (
-    '471724dd-676d-4d26-9af5-e29bd6430a9c',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
-    'çš®ç‰¹å‡¯æ©ç¾¤å²›',
+    'a9518c49-39d3-4763-b3a5-dffb362471a0',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
+    '皮特凯恩群岛',
     NOW()
   ),
   (
-    '84a6f82a-c40f-4a5b-9469-e1aed83ed761',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
-    'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐŸÐ¸Ñ‚ÐºÑÑ€Ð½',
+    '49218935-e2b9-4e92-aea7-591d59e43849',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
+    'Острова Питкэрн',
     NOW()
   ),
   (
-    '59c8caee-cb81-45ce-9b03-9c7778565578',
-    '1ffe03e4-4726-40ba-9696-16c70cecf7d4',
+    'c837d59a-3564-4fdf-acbe-9adc6394d339',
+    '85416d30-94aa-4bc8-a9bc-5b8d9fb9886f',
     'Ilhas Pitcairn',
     NOW()
   ),
   (
-    '2d959b1f-83e9-43f4-9c98-eea037ce3304',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    'a32bb3ba-933c-419a-8399-1c3bd9accc1b',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'Anguilla',
     NOW()
   ),
   (
-    'b55b5409-61c1-493a-933f-788546d1dfb2',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '2709dc99-a574-4605-a202-38427c142f96',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'United Kingdom',
     NOW()
   ),
   (
-    '25eef2c4-31ef-4b6c-9d6e-669c23c569ea',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '08679265-fcc0-4bd9-8bff-f9a6986ad642',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'Ang.',
     NOW()
   ),
   (
-    '70444d06-cb52-4a21-b735-c7516e7eb530',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
-    'Ø£Ù†ØºÙˆÙŠÙ„Ø§',
+    '3e6cae43-e0b4-4c7f-a095-b2e6c4df5ea5',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
+    'أنغويلا',
     NOW()
   ),
   (
-    '07f35d9a-3849-4d9a-b5be-ae36d871ba9a',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
+    '95dc660c-9874-4e8e-8e45-71b1dba9cfff',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
     'Anguila',
     NOW()
   ),
   (
-    '0576b2f3-85be-41af-bcf1-66a319232c89',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
-    'å®‰åœ­æ‹‰',
+    '9f282419-06a6-426d-99bc-2fb1362e1339',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
+    '安圭拉',
     NOW()
   ),
   (
-    '8f2b85f3-da29-4c50-af2b-ca4cdadf553c',
-    '8711f5fc-7228-494b-a364-1f45796ba504',
-    'ÐÐ½Ð³Ð¸Ð»ÑŒÑ',
+    'ef7f87ed-2419-4797-9ca3-6dcb75a08a7c',
+    '94d7dd79-ab0e-4e0a-810b-8f6a8137f7c2',
+    'Ангилья',
     NOW()
   ),
   (
-    '5bf3645f-90b3-4bbc-8165-62f7c19d4f65',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '316e979c-58e8-4cdd-a7cc-56e12667bc97',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Falkland Is.',
     NOW()
   ),
   (
-    'ab95f71a-ad4e-47e5-85ee-0c1618261dfe',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '8a242b5c-bbf6-4ef2-b91b-5bff043172bb',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Falkland Islands / Malvinas',
     NOW()
   ),
   (
-    '1a4cb507-2c24-4ca4-ae30-cff06d332c0d',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '6e679381-59eb-4073-8c62-80b5e3583833',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Falkland Islands',
     NOW()
   ),
   (
-    '82562c2f-8f47-41c7-afed-08d755991444',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    'cd3b935e-27d7-4c1e-a932-af0e22d0e2b1',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'United Kingdom',
     NOW()
   ),
   (
-    '83362e9e-844c-450f-8964-bbadcc018982',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '14afe2f1-0b48-4009-9480-0e1d2f4d5d24',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Flk. Is.',
     NOW()
   ),
   (
-    '21135b8d-0057-4ec1-a73b-cf77f66609bd',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
-    'Ø¬Ø²Ø± ÙÙˆÙƒÙ„Ø§Ù†Ø¯',
+    'd1194e51-0ccd-4256-8e07-c7a74d7bc0f1',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
+    'جزر فوكلاند',
     NOW()
   ),
   (
-    '9cac4071-bd38-4f32-9331-38ff1f550c04',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '89a6810d-1405-4430-bea1-9310c75007f3',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Falklandinseln',
     NOW()
   ),
   (
-    '511df1e5-bbb8-4174-bab0-565f101e0d10',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '9b32d9f4-268b-49c2-b034-4e2b4802777b',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Islas Malvinas',
     NOW()
   ),
   (
-    '63c3975e-bcb6-4ed2-b666-a57b3fe52432',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
-    'Ã®les Malouines',
+    '7cdd1558-4e76-4a10-9d76-8c8e0b4a835a',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
+    'îles Malouines',
     NOW()
   ),
   (
-    '20487a1d-9be0-49c4-80d4-ce919762a15a',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
-    'ç¦å…‹å…°ç¾¤å²›',
+    '2f889bb8-fa15-41eb-9cef-97e14b272ad1',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
+    '福克兰群岛',
     NOW()
   ),
   (
-    '4c5ee718-f2c7-40ac-9f38-8ed6986dc653',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
-    'Ð¤Ð¾Ð»ÐºÐ»ÐµÐ½Ð´ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    'd6353f6f-c39f-4ba3-a66e-7a8a1bdbb4a9',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
+    'Фолклендские острова',
     NOW()
   ),
   (
-    '96216343-9634-443f-8d76-a94bec1ac75a',
-    'bef97a27-913e-4fa1-8cb9-e361a4bd6b0d',
+    '5fd2aba1-ceb8-40c1-8ab0-c1a539f08fac',
+    'c6654067-8b65-4eb1-9fd5-f8528a7d0611',
     'Ilhas Malvinas',
     NOW()
   ),
   (
-    '6f1a2745-ab59-4443-9ad8-f5c4a021e6cf',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'ed5c5788-7f47-44d1-bd83-daa992774c49',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'Cayman Is.',
     NOW()
   ),
   (
-    '65bc0209-60ab-46cd-809d-ee9ff621b646',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '08530565-e484-465b-be7e-27569b9bd692',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'Cayman Islands',
     NOW()
   ),
   (
-    '30404dd6-1bf9-4101-8f9e-c95092ee8f78',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    '18911d51-9787-4101-be87-ba555aacde35',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'United Kingdom',
     NOW()
   ),
   (
-    '3b047448-2db3-407e-beea-229f22adb756',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
+    'b6a4ef1e-4f17-4e42-bbfd-af518dbea29d',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
     'Cym. Is.',
     NOW()
   ),
   (
-    '9cc6bb3d-14e6-4af5-a94f-abc4adcf4044',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'Ø¬Ø²Ø± ÙƒØ§ÙŠÙ…Ø§Ù†',
+    '81545825-7f71-4b22-80c8-753a7d397105',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    'جزر كايمان',
     NOW()
   ),
   (
-    'dd608379-c238-483f-b0d4-97582ef66d69',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'Islas CaimÃ¡n',
+    'bb634b0a-9c40-468d-99ce-f55cd5e1209e',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    'Islas Caimán',
     NOW()
   ),
   (
-    '9e709174-cf1a-4c0b-9d52-8649651f333b',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'Ã®les CaÃ¯mans',
+    '8ecd7ffe-7a0f-4d8e-88f7-46c71d5dcb0d',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    'îles Caïmans',
     NOW()
   ),
   (
-    'a9ee2c41-82b1-4fa7-b553-17a0a1e3fa47',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'å¼€æ›¼ç¾¤å²›',
+    'ac164a69-b2b2-4bc6-b6ee-1b28ebe375b7',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    '开曼群岛',
     NOW()
   ),
   (
-    'a8f826ad-614b-43b0-acf5-6bbbac5797d0',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð° ÐšÐ°Ð¹Ð¼Ð°Ð½',
+    'e1391210-58c5-4a75-b37b-b2355805f9d2',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    'острова Кайман',
     NOW()
   ),
   (
-    '9a6d51fb-0915-442c-9f66-eb5bdbd7447a',
-    '8eb08497-6fe2-4550-b768-151bf2a0a00e',
-    'Ilhas CaimÃ£o',
+    '2bc73819-bfd5-44a9-9fa4-c2cf34a7f3d3',
+    'ab5f33ea-6779-4237-b883-a270c937de2b',
+    'Ilhas Caimão',
     NOW()
   ),
   (
-    '3294fb40-eb81-4f54-8e40-281739cdd4f8',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'e84fb8f6-36e9-43f2-a33e-25abcceaca32',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'Bermuda',
     NOW()
   ),
   (
-    'd0d1934d-ca4e-4af9-acc5-6c52950915e1',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '94e813ab-e61a-431c-bb39-7cd05268273b',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'The Bermudas or Somers Isles',
     NOW()
   ),
   (
-    '0582727c-57ae-4011-8aa2-dd7c90803b2e',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'a0cf3e4d-deac-47e8-8c9f-b413a65a9d98',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'United Kingdom',
     NOW()
   ),
   (
-    '4fb835b7-12c3-46f2-9a79-20ca8d691470',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '4be5f8ba-2f67-4a0d-94e6-fb08151a774d',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'Berm.',
     NOW()
   ),
   (
-    '10845b0c-0f8d-4b6f-b80e-9d35b014072d',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
-    'Ø¨Ø±Ù…ÙˆØ¯Ø§',
+    '6868d674-2955-49bc-a55e-5ade28c9328d',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
+    'برمودا',
     NOW()
   ),
   (
-    '305926ba-926f-481c-abf9-eeeb35857ab9',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    '1fb09704-0988-499b-b001-9fe8ac486505',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'Bermudas',
     NOW()
   ),
   (
-    '8f2d6a89-e5ba-40a4-8094-83d53baa0a0c',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
+    'e3e17ccc-f4ce-4f7d-ad36-e4f6f0edb227',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
     'Bermudes',
     NOW()
   ),
   (
-    'fc06e344-3efe-4952-a70a-ebafa222d9f4',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
-    'ç™¾æ…•å¤§',
+    '7417d122-6e58-45b6-9696-3a2642501b1a',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
+    '百慕大',
     NOW()
   ),
   (
-    '78fe4d56-ffd7-4619-bd98-236b633ce25a',
-    '9cba9753-fc8d-4b86-98c2-e820a6492ef5',
-    'Ð‘ÐµÑ€Ð¼ÑƒÐ´ÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '3178d8dd-d4a3-4fee-b22b-e6aabb0ed994',
+    '38bc14aa-17e4-4c42-98a3-01e18082193b',
+    'Бермудские Острова',
     NOW()
   ),
   (
-    'be9fcfe4-a18c-4a7d-bb39-fd37acf06d33',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '70386292-d937-4abd-a089-927a8051b2f9',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'British Virgin Is.',
     NOW()
   ),
   (
-    'c383b0aa-3da0-4c5b-93a5-f94051289d6d',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '9ea6048c-d138-4ff2-a459-d86aba92761a',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'British Virgin Islands',
     NOW()
   ),
   (
-    'ed4fca51-b4b2-435e-9c35-4355335445a8',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '5bc899ee-5b8e-4f68-b6b7-e71b6db1be25',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'United Kingdom',
     NOW()
   ),
   (
-    '45a4f925-eb17-4b0f-b437-6295dd74cc84',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    'fb369e73-4cbd-43f9-acd6-47216bb269dc',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'V.I. (Br.)',
     NOW()
   ),
   (
-    'c5c63d91-b4d0-4849-acfa-1f0ed6e9317d',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'Ø¬Ø²Ø± Ø§Ù„Ø¹Ø°Ø±Ø§Ø¡ Ø§Ù„Ø¨Ø±ÙŠØ·Ø§Ù†ÙŠØ©',
+    '52a0bd36-fda7-4c3a-a4e4-f5cae6cade45',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    'جزر العذراء البريطانية',
     NOW()
   ),
   (
-    'd04963f1-9ebc-4c3d-84ff-7be7ff0198d9',
-    '98de6477-b098-4729-aa45-87c853854b9d',
+    '0838985e-53cc-46af-975c-96a85f9d8d4f',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
     'Britische Jungferninseln',
     NOW()
   ),
   (
-    '2045aaeb-edb2-4105-847c-eba1c70dd656',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'Islas VÃ­rgenes BritÃ¡nicas',
+    'f8f58bca-2ece-4a60-8de2-d332e07126a1',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    'Islas Vírgenes Británicas',
     NOW()
   ),
   (
-    '1c451d4d-837e-417f-9d8c-acde48d3bb16',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'Ã®les Vierges britanniques',
+    '668b4c0b-61d4-43fa-8fa8-3ff5552ca3de',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    'îles Vierges britanniques',
     NOW()
   ),
   (
-    '2f87d177-c620-4af2-9c42-16154affece5',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'è‹±å±žç»´å°”äº¬ç¾¤å²›',
+    '8644c519-5aa7-41e4-88f1-c02f81b163e6',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    '英属维尔京群岛',
     NOW()
   ),
   (
-    '4514ba7e-0724-4c20-809b-e8bb65f65887',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'Ð‘Ñ€Ð¸Ñ‚Ð°Ð½ÑÐºÐ¸Ðµ Ð’Ð¸Ñ€Ð³Ð¸Ð½ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '2c60e717-4efc-4baf-a27a-7fcfd011b0ca',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    'Британские Виргинские острова',
     NOW()
   ),
   (
-    '6b2afccf-4466-4f7f-a770-cfd643882619',
-    '98de6477-b098-4729-aa45-87c853854b9d',
-    'Ilhas Virgens BritÃ¢nicas',
+    'eaa36cd3-b8d8-4863-aa2c-b55c74e38dbe',
+    'e15eb948-3c8e-48ea-b52a-64cf6a528ef5',
+    'Ilhas Virgens Britânicas',
     NOW()
   ),
   (
-    'a4c81cb9-1abe-4d2a-9d1c-940b60455e0c',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '563768f1-20d7-4ef5-852f-6c9525d5a275',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'Turks and Caicos Is.',
     NOW()
   ),
   (
-    'ff737a02-17e2-492e-a5f5-1b531b8b496c',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '46307155-4220-4e64-80cc-ecdd0e01479b',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'Turks and Caicos Islands',
     NOW()
   ),
   (
-    '62aa6df9-3869-464d-8772-e53b7d09b568',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '00ca16cc-82eb-4f18-9bd9-53f51954422b',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'United Kingdom',
     NOW()
   ),
   (
-    'c00b33d2-32fa-4a3d-a9f7-1096a2625ccb',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'e746152c-d96d-4e67-b59f-8ae28e0e0dd5',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'T.C. Is.',
     NOW()
   ),
   (
-    '05da9715-76ad-4b4a-9d64-f6570fef91e8',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
-    'Ø¬Ø²Ø± ØªÙˆØ±ÙƒØ³ ÙˆÙƒØ§ÙŠÙƒÙˆØ³',
+    '3044ef15-84b2-4761-b8e8-7e0cbf62d933',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
+    'جزر توركس وكايكوس',
     NOW()
   ),
   (
-    '6d072df0-b3a2-46f1-89b3-13178ae36586',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '412abe09-d221-48da-9c4d-0a0925ee45f8',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'Turks- und Caicosinseln',
     NOW()
   ),
   (
-    '6a2274f5-0561-455e-8a82-51827168fbff',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    'b81a0493-c85c-4258-9033-b6d67831327b',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'Islas Turcas y Caicos',
     NOW()
   ),
   (
-    '569e2e01-a783-4b74-bcc6-7523df8ffcd7',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
-    'Ã®les Turques-et-CaÃ¯ques',
+    '7bc75aaa-b574-44af-a501-a7748447506c',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
+    'îles Turques-et-Caïques',
     NOW()
   ),
   (
-    '321ddf19-2fec-4b58-af4a-63355fde685d',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
-    'ç‰¹å…‹æ–¯å’Œå‡¯ç§‘æ–¯ç¾¤å²›',
+    'ef374793-5907-4a2d-9841-5198ec649007',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
+    '特克斯和凯科斯群岛',
     NOW()
   ),
   (
-    '14451072-ed1f-4b99-a6a6-a26fa29da3fb',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
-    'Ð¢Ñ‘Ñ€ÐºÑ Ð¸ ÐšÐ°Ð¹ÐºÐ¾Ñ',
+    'c3e1d91f-41d0-4f5c-85d7-c8b39dbd58bb',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
+    'Тёркс и Кайкос',
     NOW()
   ),
   (
-    '638cdfaa-d26d-481a-9468-1296e9922f66',
-    'd4056c2f-00e1-41ad-a5f8-cb916909de0e',
+    '778902bf-a87a-4143-96a4-1f9c3a3617ad',
+    '728536cf-5814-4e75-92ff-003c8fdccf32',
     'Turks e Caicos',
     NOW()
   ),
   (
-    'de21af2d-431d-417f-82a0-6146b3df773a',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'cc6f85e8-4bf9-4c9f-9292-728a97755568',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'Montserrat',
     NOW()
   ),
   (
-    'c787bc93-38a0-4322-aef3-fbf5948637e6',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    '7576a445-43f7-4988-abfb-6480b251676b',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'United Kingdom',
     NOW()
   ),
   (
-    '14ef25ef-8f1e-45f3-9feb-594c30ea27e7',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
+    'd175359f-8651-47e7-88bb-eb094f8c7022',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
     'Monts.',
     NOW()
   ),
   (
-    '54b4d773-44bf-43e8-9bbd-e7b838a9f168',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
-    'Ù…ÙˆÙ†ØªØ³Ø±Ø§Øª',
+    'ff330b24-1082-4203-821d-b284ef4673f3',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
+    'مونتسرات',
     NOW()
   ),
   (
-    'eb35e622-e56f-4ef5-a105-c070910debbb',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
-    'è’™ç‰¹å¡žæ‹‰ç‰¹',
+    '64a6cfa7-fb83-4aa3-9cad-b2149d6031ad',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
+    '蒙特塞拉特',
     NOW()
   ),
   (
-    'c900bfec-4b61-484d-b3ec-8c9168f031f6',
-    '92c7d25a-a123-4074-a4df-ecd8d69e2c17',
-    'ÐœÐ¾Ð½Ñ‚ÑÐµÑ€Ñ€Ð°Ñ‚',
+    '9407b3f4-ecb1-4d8e-b253-7bf962418131',
+    'd243a8d7-05fe-46ed-830f-b35444e37152',
+    'Монтсеррат',
     NOW()
   ),
   (
-    'b2174a0c-7af2-4e3c-9c20-807cfc014a1b',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'b0ffc82b-0c62-4314-8811-06b74992dde2',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'Jersey',
     NOW()
   ),
   (
-    'dc8a0285-57c7-4637-8cd8-b3e1e1362341',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '5df4c7a7-39f9-44c2-8270-88b8d806fcc5',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'Bailiwick of Jersey',
     NOW()
   ),
   (
-    '2a9dd817-5d43-47d7-8ffc-91b0805d1631',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    '58699621-0d4b-4d79-9027-d5dcc34e3a53',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'United Kingdom',
     NOW()
   ),
   (
-    'dcdda3d7-f362-4e6d-9fe0-cdcd93daa297',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
+    'ab4cdcf4-9ccf-4aaf-875a-df09b334ff6a',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
     'Jey.',
     NOW()
   ),
   (
-    '83a0e565-6f3e-4903-aa76-28fef58a54f3',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
-    'Ø¬ÙŠØ±Ø²ÙŠ',
+    '0b692723-4a60-4a3a-b7cc-1ff988a2381c',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
+    'جيرزي',
     NOW()
   ),
   (
-    'ee8bd984-5535-41b0-bee9-341be066f341',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
-    'æ³½è¥¿',
+    '752022a2-6e77-4973-86ef-1803576aa7c9',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
+    '泽西',
     NOW()
   ),
   (
-    '4d395686-3a01-4b18-92db-4eb539b45de2',
-    '8e648df2-1b7b-4ab7-97bc-cd35d9e22fb5',
-    'Ð”Ð¶ÐµÑ€ÑÐ¸',
+    'dca3a3fd-7199-48c6-bcbc-b533b6b34f5a',
+    '548528c3-f921-4868-87f6-f83b7d8a79a8',
+    'Джерси',
     NOW()
   ),
   (
-    '3959642f-b113-4d84-bd18-86d0b8967f6d',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '8a6e4256-ab31-4da9-bad3-f1044d02880a',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'Guernsey',
     NOW()
   ),
   (
-    '751e5f7d-4388-4b87-9d74-e135bc250c65',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '3bd5cf2f-572d-4357-9831-3c9357cbdf46',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'Bailiwick of Guernsey',
     NOW()
   ),
   (
-    'b375b440-cc2e-405c-95ee-0e7357cc5836',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'c6f72de5-ad6b-4dea-b7cf-6473e86e4d8c',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'United Kingdom',
     NOW()
   ),
   (
-    '14f691a3-d7f6-49b2-830c-1c8a9d4e9582',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    'c669bf60-dc2d-4d4f-8621-29f01517cc04',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'Guern.',
     NOW()
   ),
   (
-    'bc42ba18-4873-46ce-978a-83142c1e188c',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
-    'ØºÙŠØ±Ù†Ø²ÙŠ',
+    '5decf7ff-837a-4dd9-bdca-a967cefa1818',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
+    'غيرنزي',
     NOW()
   ),
   (
-    '99e6b244-a034-40de-8ba1-df69f435bfc3',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
+    '47ce98b4-2c84-437b-8a13-a82e9bbf3c81',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
     'Guernesey',
     NOW()
   ),
   (
-    '6cd9f6a6-3d94-45e1-91cb-f908c4ee44d1',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
-    'æ ¹è¥¿',
+    '7eec8d07-58b1-44a6-a56d-d38323a548ff',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
+    '根西',
     NOW()
   ),
   (
-    'db4425d0-ee0c-4e7b-a8ca-bb9d4fcca54c',
-    '2dab19a1-e878-429d-a659-05d7889041a6',
-    'Ð“ÐµÑ€Ð½ÑÐ¸',
+    '906ad68d-295e-4aae-9030-5c20370b76ac',
+    '0f28899f-0cf3-49c5-9080-a28ea7fc7b73',
+    'Гернси',
     NOW()
   ),
   (
-    'df7279eb-9100-4562-af56-7c0b2758b338',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '7712b774-7e5d-46d8-a2f8-da47b69ff475',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'Isle of Man',
     NOW()
   ),
   (
-    'fe7f15fe-2f7c-45ee-a29f-020a40a8c882',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '78bf2458-a4f6-4b32-8595-dc941c4dfdf6',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'United Kingdom',
     NOW()
   ),
   (
-    '4c9ff1f6-d340-450f-b69e-b0d5e94ad12a',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '63a44d8c-4024-4b2a-aece-3aeb1eb6fa85',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'IoMan',
     NOW()
   ),
   (
-    '6675aa98-cfb9-444a-bf03-4b74e6cf5b35',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
-    'Ø¬Ø²ÙŠØ±Ø© Ù…Ø§Ù†',
+    '9d290e5c-d854-4795-b941-5e2e8a5f8f10',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
+    'جزيرة مان',
     NOW()
   ),
   (
-    'f4ce2e50-30b8-43d3-afad-aa748d429116',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '3177f027-6a74-47e6-be0c-b8ae30310a63',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'Isla de Man',
     NOW()
   ),
   (
-    '49cbbdfb-730b-4424-9021-cb49220ecb43',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
-    'Ã®le de Man',
+    'b3061cc2-3a85-4e7d-9115-f90a8717e6a5',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
+    'île de Man',
     NOW()
   ),
   (
-    '7cb5c463-18c7-4949-b5c8-28bdb704d5d6',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
-    'é©¬æ©å²›',
+    '3aee2f5c-f983-4fc6-8172-1ea61b5b30d6',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
+    '马恩岛',
     NOW()
   ),
   (
-    'b3bfd221-b487-43bb-bec4-9765b59d899e',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
-    'Ð¾ÑÑ‚Ñ€Ð¾Ð² ÐœÑÐ½',
+    'd88328f9-bdaa-471f-af7f-e641ff56eae0',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
+    'остров Мэн',
     NOW()
   ),
   (
-    '909f0a36-9fcb-4f4e-94ea-03b87a3b7409',
-    'ac051cb9-e4b4-4f90-b63a-475b314fea21',
+    '7c18c424-bf2c-4aad-ae6b-5c38ab4c5457',
+    '57abd9fd-2772-4a00-b395-c1229c3631e5',
     'Ilha de Man',
     NOW()
   ),
   (
-    'c7a510cb-3732-432a-bd07-e8e91ee4def0',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '844557a2-016b-4c19-b696-f32d919a9d82',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'United Kingdom',
     NOW()
   ),
   (
-    'bdb7fcac-1eab-400e-b010-4daa26fdbbd2',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'f5836ae7-26ca-4183-bc4f-e9e4b3a40c60',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'United Kingdom of Great Britain and Northern Ireland',
     NOW()
   ),
   (
-    '36500024-82fc-474b-ba69-f62df60fe716',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    'dc93f0bb-c6f1-4022-8653-337b991b4d54',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'U.K.',
     NOW()
   ),
   (
-    '57278653-2479-42e3-994f-a4b692cd2b22',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
-    'Ø§Ù„Ù…Ù…Ù„ÙƒØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©',
+    'adfb274a-4971-41f9-8311-04752f08bea8',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
+    'المملكة المتحدة',
     NOW()
   ),
   (
-    '35c4fbf0-d4e9-4450-bbb3-77005f7af8eb',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
-    'Vereinigtes KÃ¶nigreich',
+    'a560aca3-b103-47ff-9714-c6daddfe3c8a',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
+    'Vereinigtes Königreich',
     NOW()
   ),
   (
-    'cfac1e1a-ccb9-4f83-a97e-1fb93cf5f2ab',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '4da1796a-dfa0-47ff-a8df-0b5b54acaa43',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'Reino Unido',
     NOW()
   ),
   (
-    'b6e87a9b-c712-4fbf-a2af-06216f862194',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
+    '589e64d0-2b6c-446d-b097-6567f37cfb28',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
     'Royaume-Uni',
     NOW()
   ),
   (
-    '1a49ec58-0725-496d-bf02-3f459aa48983',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
-    'è‹±å›½',
+    'c487d43c-bb6d-4ce2-b1f5-05dace1b5384',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
+    '英国',
     NOW()
   ),
   (
-    '5bfdaf07-38fe-4a49-8b63-f05706544dcd',
-    'b694bc30-4bc4-4bf3-8004-0b53a3ac340a',
-    'Ð’ÐµÐ»Ð¸ÐºÐ¾Ð±Ñ€Ð¸Ñ‚Ð°Ð½Ð¸Ñ',
+    '37c9c397-0ce1-46a2-afda-ae765b1da02c',
+    '19e11054-2abd-4c7a-af09-a2ee336a5981',
+    'Великобритания',
     NOW()
   ),
   (
-    'c99877be-1b6f-4011-81f7-d715f5a98cbf',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '670f6697-ebe7-42ed-bdae-87ec04a15ca8',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'United Arab Emirates',
     NOW()
   ),
   (
-    'db2d6050-1149-41d5-a89d-99aff069c869',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    'b771584b-5984-4e49-88cd-fc352c5ae154',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'U.A.E.',
     NOW()
   ),
   (
-    '9acd0d14-a72d-4a9d-82b2-61d7d881ce7f',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©',
+    '4aeeb0da-a265-4f47-bda2-607846767a83',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    'الإمارات العربية المتحدة',
     NOW()
   ),
   (
-    'c54c7997-3754-4cf3-856a-2eef8a2a033a',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
+    '21b37cc5-b15c-41e8-a36d-602b6aa4f3b2',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
     'Vereinigte Arabische Emirate',
     NOW()
   ),
   (
-    '0cf0033c-c0ed-4355-8fa8-07bc2ddb2888',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'Emiratos Ãrabes Unidos',
+    '68e11912-654c-4901-b7b9-e9dfe5d14ec7',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    'Emiratos Árabes Unidos',
     NOW()
   ),
   (
-    'bf540bd2-f739-4e6b-8e59-ccfdc721401d',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'Ã‰mirats arabes unis',
+    '3c3a0e66-e744-482f-90e1-0b7cbceb51c4',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    'Émirats arabes unis',
     NOW()
   ),
   (
-    'ff87189d-7674-4bca-85ec-d2ef3d8e1110',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'é˜¿æ‹‰ä¼¯è”åˆé…‹é•¿å›½',
+    'b9cbb902-8c82-4366-b092-2358f124a0d0',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    '阿拉伯联合酋长国',
     NOW()
   ),
   (
-    'a17abb05-2ae3-4afb-a6c1-900cbec65c79',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'ÐžÐ±ÑŠÐµÐ´Ð¸Ð½Ñ‘Ð½Ð½Ñ‹Ðµ ÐÑ€Ð°Ð±ÑÐºÐ¸Ðµ Ð­Ð¼Ð¸Ñ€Ð°Ñ‚Ñ‹',
+    '81b4779f-de31-4300-a602-2c8173f95832',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    'Объединённые Арабские Эмираты',
     NOW()
   ),
   (
-    '5647813a-3eb1-44fc-9287-67de94548edd',
-    'cac7fd13-b256-4940-963a-c1e0907f8ee4',
-    'Emirados Ãrabes Unidos',
+    '9f7c9d6d-8290-4864-afb2-6e1d3a40b2ac',
+    'e98931d9-e7f0-4b4d-9bef-e952fb313c00',
+    'Emirados Árabes Unidos',
     NOW()
   ),
   (
-    'edfe0626-44c0-43bf-b319-7e1513ad0bfd',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '1015ec86-0a04-4961-844a-6c8577014399',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'Ukraine',
     NOW()
   ),
   (
-    'c0e1b140-4b78-4d91-a56c-5c61568fda01',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '944aa220-4328-44c5-8d33-20c5368bfa94',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'Ukr.',
     NOW()
   ),
   (
-    'c3702c10-e8c1-42b5-b1c3-48be3acca49a',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
-    'Ø£ÙˆÙƒØ±Ø§Ù†ÙŠØ§',
+    '8fdee045-afeb-4bff-8627-b245bfcd3dde',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
+    'أوكرانيا',
     NOW()
   ),
   (
-    '15ac243e-a7cf-431e-a70e-1309c628db73',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
+    '188adef1-ed90-4d31-b25b-4631bf71499d',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
     'Ucrania',
     NOW()
   ),
   (
-    'a64da718-8e86-498b-8ac7-64599faf43fc',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
-    'ä¹Œå…‹å…°',
+    '9220299c-35c3-437d-8d1f-f70297a51566',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
+    '乌克兰',
     NOW()
   ),
   (
-    '56276d27-a213-42c2-b776-80d3209ccfa8',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
-    'Ð£ÐºÑ€Ð°Ð¸Ð½Ð°',
+    '032acb10-d3b6-451e-9685-0c47f709fa2c',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
+    'Украина',
     NOW()
   ),
   (
-    'c4a66c0f-83a0-432d-9ff4-c92e1a81d27f',
-    'c79ca828-7cf2-48ee-bfdb-edc88b5a50b3',
-    'UcrÃ¢nia',
+    '84c08be8-e6be-49a9-bf7b-8b6ae9343818',
+    'caa2c479-8345-4f1f-836d-4101d5af1c37',
+    'Ucrânia',
     NOW()
   ),
   (
-    '87b12bc5-1df9-450b-a85b-3ae5f9d08019',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'a14e78ce-da57-4ca4-8811-9674ab61a171',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'Uganda',
     NOW()
   ),
   (
-    '398d4f68-d8f0-4499-a3a9-9f2286e30215',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    '0a2b1436-2768-451d-90eb-fc91fa0afa9c',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'Republic of Uganda',
     NOW()
   ),
   (
-    'f3f73481-5dda-4e1b-81cc-476e54a64846',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'c192f5fb-bc9b-48ea-be54-20d403153e9b',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'Uga.',
     NOW()
   ),
   (
-    '170cae51-37bc-4280-ae40-303bdc0f8223',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
-    'Ø£ÙˆØºÙ†Ø¯Ø§',
+    'ed7244db-4b81-4534-b701-1c6bbda5b27a',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
+    'أوغندا',
     NOW()
   ),
   (
-    'd808aa48-d1f5-417a-80f6-1a22f0797b67',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
+    'a28c7e6b-a1a5-4b72-a112-1c3ca88f1d20',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
     'Ouganda',
     NOW()
   ),
   (
-    '5eeff06f-ce5c-4101-9e6b-c2d3a33b5755',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
-    'ä¹Œå¹²è¾¾',
+    'a624a6d4-dbd7-4dc5-82b4-7c78d0ebc954',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
+    '乌干达',
     NOW()
   ),
   (
-    'bd869946-e195-4356-be8e-cc941a3cd65f',
-    '31805f0e-4614-4546-ab49-b52d1328ab1f',
-    'Ð£Ð³Ð°Ð½Ð´Ð°',
+    '113630a2-a22b-48f9-a492-ccd74a384722',
+    '25febc09-d551-46da-ba66-bcfd6b9b40db',
+    'Уганда',
     NOW()
   ),
   (
-    'f3f45fea-bf91-40a4-841e-919500116ed6',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    'e3cb31e5-da22-4863-ae03-05cbf3b4d850',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'Turkmenistan',
     NOW()
   ),
   (
-    'ee9728b3-ef42-4238-b3e8-d45c049f7de9',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
+    '933bf85e-3ff8-47be-bbee-10b19a79b530',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
     'Turkm.',
     NOW()
   ),
   (
-    '5f68461c-af32-4417-8c39-4e1f8ce250a5',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'ØªØ±ÙƒÙ…Ø§Ù†Ø³ØªØ§Ù†',
+    'bfed0a08-96e7-418b-a20b-98d3ef67bee7',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    'تركمانستان',
     NOW()
   ),
   (
-    '8623f30a-6370-43ea-a774-94e30f5a9f5f',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'TurkmenistÃ¡n',
+    'd33433eb-3435-4dae-b982-612bcac76b23',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    'Turkmenistán',
     NOW()
   ),
   (
-    '83474394-53af-457f-971e-c254761f3a01',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'TurkmÃ©nistan',
+    '60d98e51-ef2d-41d0-8662-1868d5aa188b',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    'Turkménistan',
     NOW()
   ),
   (
-    '65e5426b-c5fd-4fa5-aa5c-b171b3da040a',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'åœŸåº“æ›¼æ–¯å¦',
+    '2d7a6fd1-de66-47e3-b6db-6ab121117758',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    '土库曼斯坦',
     NOW()
   ),
   (
-    'a260035c-7f58-443d-a8ed-f1449dd512cb',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'Ð¢ÑƒÑ€ÐºÐ¼ÐµÐ½Ð¸Ñ',
+    '71f24b9a-8755-4e97-95a9-91a2da90b5f3',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    'Туркмения',
     NOW()
   ),
   (
-    '1fe971da-d270-46b4-8648-010bff1a0179',
-    'e910851d-0d70-4487-a3c7-767d6b930515',
-    'TurquemenistÃ£o',
+    'fde06e22-c47f-49a4-b954-b4fa0c76d849',
+    '46185948-37ee-4345-8b12-b23b00fd4aae',
+    'Turquemenistão',
     NOW()
   ),
   (
-    '531643c6-7813-408b-8c4a-76b1eb9c5b00',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    '67e75c66-a991-4605-9ba5-080a8489d02c',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'Turkey',
     NOW()
   ),
   (
-    '584aa5b9-757b-4400-af20-53c89763dbba',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'd120fb77-c011-4f95-90f8-901317f99fb8',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'Republic of Turkey',
     NOW()
   ),
   (
-    '76b9bd8b-815c-43ed-913e-364a40796994',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'f30ff316-19e6-467b-9140-cca3343a6f0d',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'Tur.',
     NOW()
   ),
   (
-    'e6abfd6a-21b9-42ff-a50d-67b059093c6c',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
-    'ØªØ±ÙƒÙŠØ§',
+    '1034db80-6767-4d6c-93ef-525be437244b',
+    '228882ae-3f77-4649-a8e2-58593861326e',
+    'تركيا',
     NOW()
   ),
   (
-    '309fccbe-8b71-4006-9036-213d98fc45bf',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
-    'TÃ¼rkei',
+    'e4ed272f-fd8e-4b43-a5e7-298a03effd7e',
+    '228882ae-3f77-4649-a8e2-58593861326e',
+    'Türkei',
     NOW()
   ),
   (
-    'b860c39e-0980-4002-bc8b-7f9689c2044c',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
-    'TurquÃ­a',
+    '8211d271-fbe7-43da-8e1d-ae5c14baeec1',
+    '228882ae-3f77-4649-a8e2-58593861326e',
+    'Turquía',
     NOW()
   ),
   (
-    'de303268-f84f-49b4-9b63-3ba7651e79f6',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'ae1a94f7-d9c5-4bef-bf30-fb2a3a935a5f',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'Turquie',
     NOW()
   ),
   (
-    'eef34e4c-680d-47d7-8924-affe86a7d422',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
-    'åœŸè€³å…¶',
+    '0dca8b6b-a823-4d15-888c-3a6b9cc7e5e0',
+    '228882ae-3f77-4649-a8e2-58593861326e',
+    '土耳其',
     NOW()
   ),
   (
-    '7d94b788-4741-43d2-a9d0-a5614a104b13',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
-    'Ð¢ÑƒÑ€Ñ†Ð¸Ñ',
+    'fc62d34f-9ea1-4610-8533-a9424e819f84',
+    '228882ae-3f77-4649-a8e2-58593861326e',
+    'Турция',
     NOW()
   ),
   (
-    'fe3c28ef-56f7-4aba-b9a6-7cac054124e5',
-    'd0ce4bdd-094a-44ac-ad0b-61d9782dc5e2',
+    'd3cb5522-b93e-49dc-82ba-f7fd00b245b5',
+    '228882ae-3f77-4649-a8e2-58593861326e',
     'Turquia',
     NOW()
   ),
   (
-    '736e0d4a-b95e-49d3-9021-b1dce448407e',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '9a3ed1e2-8010-41e5-9a6b-28a079da9c1c',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'Tunisia',
     NOW()
   ),
   (
-    'c334b1b7-d446-4755-b3b9-53cd8c6cb30d',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '666c38f8-dbdd-440c-9333-2249ed9b555d',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'Republic of Tunisia',
     NOW()
   ),
   (
-    '6a8a2ffe-993d-47ae-9737-6c6d07c71883',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '1322562b-c23d-46ab-9c64-e6d2d28e8219',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'Tun.',
     NOW()
   ),
   (
-    '6a704071-c3bb-4e4f-877c-dfb277b69c93',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
-    'ØªÙˆÙ†Ø³',
+    '4e1bd111-0808-469c-8c26-69ee5d76456b',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
+    'تونس',
     NOW()
   ),
   (
-    'd93edfb0-8d38-4633-a2d6-a5da2acb2379',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '33b3abd2-459a-4dc5-8fec-a8ac28b73f08',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'Tunesien',
     NOW()
   ),
   (
-    'fafc62ca-5a9e-4156-b2f5-b7d60df2ac27',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
-    'TÃºnez',
+    '9200bcdb-8c9a-4558-9296-1e0261d77849',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
+    'Túnez',
     NOW()
   ),
   (
-    '0e2ade87-c0e6-462f-aeed-a64bb53b97a1',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
+    '7467164e-b2cd-4702-a631-4abf83b11875',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
     'Tunisie',
     NOW()
   ),
   (
-    '25e5af4f-7ac6-40c9-948e-afee818050e2',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
-    'çªå°¼æ–¯',
+    '809c72b6-dbe2-4a71-9669-a7f27de96505',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
+    '突尼斯',
     NOW()
   ),
   (
-    '6b2a8211-40b3-4e33-b6ac-9dbb4b465e59',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
-    'Ð¢ÑƒÐ½Ð¸Ñ',
+    '2299afca-89f7-40fe-8d9b-14d9fb6c102c',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
+    'Тунис',
     NOW()
   ),
   (
-    '59f196e1-b41a-4704-8a42-0e93318dabda',
-    '0c3a4051-2e4d-4bbd-90d4-a5b7abf5963d',
-    'TunÃ­sia',
+    '0a2c72b4-4780-4ea9-ba32-0e70d796be86',
+    '5abb82db-fc7b-4e89-ab62-1cce65e6e71a',
+    'Tunísia',
     NOW()
   ),
   (
-    '4d5a8840-9681-4a8e-be93-b9772b939e04',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '620c1369-6ec3-4bf3-bf6a-021a0a9e84cb',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Trinidad and Tobago',
     NOW()
   ),
   (
-    'deb76f11-8bff-40a7-9d8a-20c44243c37d',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'f57222ac-43d9-4980-8c68-4a93f5a5e0aa',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Republic of Trinidad and Tobago',
     NOW()
   ),
   (
-    'e05413e1-7223-4002-9987-b13867821162',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '09ba3b22-cda3-483e-a9f8-83bd881d127d',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Tr.T.',
     NOW()
   ),
   (
-    'd4a35d46-6f6e-4c7c-93af-449dabf12d82',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
-    'ØªØ±ÙŠÙ†ÙŠØ¯Ø§Ø¯ ÙˆØªÙˆØ¨Ø§ØºÙˆ',
+    'a1daf64d-1f41-4f97-b1b8-2a9191c83b36',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
+    'ترينيداد وتوباغو',
     NOW()
   ),
   (
-    'bf5d1299-5cc6-431f-9563-6afa821e5d42',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'f2beb841-6bff-47c4-b259-ac05127976ba',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Trinidad und Tobago',
     NOW()
   ),
   (
-    '0c02ddda-852f-4f4a-826e-ebe6ba13e2dd',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    '0572a9a6-5296-414b-bac2-8b61d3d8fe95',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Trinidad y Tobago',
     NOW()
   ),
   (
-    'f74ac8bd-5751-4ab6-85c7-7990703b7f64',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
-    'TrinitÃ©-et-Tobago',
+    '6e2a832b-5cfb-4403-8409-e2ffc356f996',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
+    'Trinité-et-Tobago',
     NOW()
   ),
   (
-    '4e4c8622-6463-4cce-98d1-d019ee5b864b',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
-    'ç‰¹ç«‹å°¼è¾¾å’Œå¤šå·´å“¥',
+    'f77b41ac-1aed-44d7-94b2-83cf23e989b8',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
+    '特立尼达和多巴哥',
     NOW()
   ),
   (
-    'cdc6a888-ef35-4041-900c-94dfb2720f64',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
-    'Ð¢Ñ€Ð¸Ð½Ð¸Ð´Ð°Ð´ Ð¸ Ð¢Ð¾Ð±Ð°Ð³Ð¾',
+    '1ddb1bb4-d5c4-42e3-a1d5-917581cfd7f1',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
+    'Тринидад и Тобаго',
     NOW()
   ),
   (
-    'd4410f26-7518-4088-be21-0409175f69c8',
-    '7be9350f-df1e-473d-bc68-74ea63294a94',
+    'abb936c1-4ec4-4e5d-96d8-b4ef00a811b3',
+    '08272e5b-2e12-4e60-b689-2cad0d3bfc05',
     'Trinidad e Tobago',
     NOW()
   ),
   (
-    'b78522e8-406f-438f-9a90-73afb7c268a5',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '7e099b98-5d0e-4b32-9c29-c4acd56dd834',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'Tonga',
     NOW()
   ),
   (
-    '720f0479-c3c0-404d-9b75-ca80c2f817a1',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    '861279e3-97e7-4023-99eb-c69d2d4ec8cd',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'Kingdom of Tonga',
     NOW()
   ),
   (
-    '0b2afb4b-347e-4c94-9644-b668b5595c0f',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
+    'e8d50f74-100e-49df-b0c6-2c7175c25c28',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
     'Tongo',
     NOW()
   ),
   (
-    '2190d9df-2ab9-4e31-b1fd-9e9439a9adee',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
-    'ØªÙˆÙ†ØºØ§',
+    '7e285d96-87e5-4c36-80c7-7cec34d78e88',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
+    'تونغا',
     NOW()
   ),
   (
-    '83f105d9-0d78-4138-b59b-f88b7047832f',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
-    'æ±¤åŠ',
+    '54951507-8e6a-4c46-96ec-7e043b0a8995',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
+    '汤加',
     NOW()
   ),
   (
-    'b24fd961-fece-4e00-ad9d-774b7a2c10c7',
-    'c7280f8d-a4c5-4523-bcbd-2cfcdb1b7207',
-    'Ð¢Ð¾Ð½Ð³Ð°',
+    '0f0a9fc7-c32f-49a2-ba0b-d9f737da32f4',
+    'b5dd2456-8d58-4adf-8e70-e65070bd405d',
+    'Тонга',
     NOW()
   ),
   (
-    'c917fa70-fb55-4802-bfce-f0da6c783e34',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '27d4c2fe-ee5b-4cb3-b454-bd56b77ef551',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'Togo',
     NOW()
   ),
   (
-    '739c2c2b-674b-4305-814c-f620df916d5d',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
+    '03556f34-0fef-4934-a9e7-e3e5b255be88',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
     'Togolese Republic',
     NOW()
   ),
   (
-    'f1eba810-e2ec-4de5-9932-1b1ada6db11f',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
-    'RÃ©publique Togolaise',
+    '176c709d-e8d0-4ebf-9d01-4257cbfa83b7',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
+    'République Togolaise',
     NOW()
   ),
   (
-    '809bf080-0784-4d93-8d61-d40cf77cf2be',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
-    'ØªÙˆØºÙˆ',
+    'cd6db802-1944-4966-a18d-d619e0d6654f',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
+    'توغو',
     NOW()
   ),
   (
-    '39304d67-dd0a-4676-93ec-2860c894de6d',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
-    'å¤šå“¥',
+    '66c6db24-d8dd-46ee-9ea9-b978270794e5',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
+    '多哥',
     NOW()
   ),
   (
-    'fa25b202-40ed-41b7-94ad-09445d90b4b3',
-    '49e859a7-b7d4-4837-82bf-9d8c75fac700',
-    'Ð¢Ð¾Ð³Ð¾',
+    '733f490a-4bdf-4f00-b892-6a9d5d3b3217',
+    'dedce7d3-fd31-4db8-aa7f-1c34ad29a494',
+    'Того',
     NOW()
   ),
   (
-    '7b01b5c7-edfa-4348-947b-2cae7a08c163',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    'dce15d6e-d3c9-4bf7-9439-798e8ad2050b',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'Timor-Leste',
     NOW()
   ),
   (
-    'd067701e-798c-4d60-9105-6686cec44cd3',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '4ea4cbf9-b6cb-40d2-bf96-d247056f52eb',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'Democratic Republic of Timor-Leste',
     NOW()
   ),
   (
-    'c42cd4e2-73fc-4be8-b825-2aec7fc1eff7',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '7216d34f-7843-4299-b7bc-ebb8592f4a86',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'East Timor',
     NOW()
   ),
   (
-    'a05bca29-3601-4b74-afd3-60debbb7c9b0',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '8012ea89-243d-4d6d-add5-6ea374044243',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'T.L.',
     NOW()
   ),
   (
-    '8eb6c938-c63b-4934-87f5-ca903e108000',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
-    'ØªÙŠÙ…ÙˆØ± Ø§Ù„Ø´Ø±Ù‚ÙŠØ©',
+    'f946bfb6-9259-48c5-a154-c4b0f31e6531',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
+    'تيمور الشرقية',
     NOW()
   ),
   (
-    'b234535b-a234-4a48-8860-e28056be719b',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '4de40805-5bb8-48ba-b462-6906e66801c3',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'Osttimor',
     NOW()
   ),
   (
-    '6f8ebd49-954e-4df6-8ac0-eaabf00d9869',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
+    '418fa966-98e7-4058-a4d2-b81459a949e0',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
     'Timor Oriental',
     NOW()
   ),
   (
-    'a21d8c50-224f-42d0-acef-8b7c85cfc02c',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
-    'ä¸œå¸æ±¶',
+    '87c59e84-8a59-4019-b5ee-d280b306744e',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
+    '东帝汶',
     NOW()
   ),
   (
-    '41e4bfbc-1447-4be3-8a59-6a42c1e404cd',
-    '9e5c5c6d-59bb-4c30-92b7-f50405b6d400',
-    'Ð’Ð¾ÑÑ‚Ð¾Ñ‡Ð½Ñ‹Ð¹ Ð¢Ð¸Ð¼Ð¾Ñ€',
+    '20dcb0cc-9e45-48b3-84af-91c2db28f20b',
+    '0cd00179-211c-49fd-8bee-86af5299d110',
+    'Восточный Тимор',
     NOW()
   ),
   (
-    'de84cdc1-802d-41f8-9965-ce7bf2a3d136',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'a9e6a8aa-4484-4e0d-91c3-d29a38ae6042',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'Thailand',
     NOW()
   ),
   (
-    'fed3abc4-62f3-486b-810f-4eb380bae8a8',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'da7f258d-9fbe-4a4e-ade8-80f0db060dad',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'Kingdom of Thailand',
     NOW()
   ),
   (
-    'a0851a7c-2b18-4d92-bbb2-e27005a0ac7d',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    '6a7b494f-441d-422c-b236-2f4ba6178df3',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'Thai.',
     NOW()
   ),
   (
-    '7531ba7a-98bd-402b-884a-c5c8ebf61c00',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
-    'ØªØ§ÙŠÙ„Ø§Ù†Ø¯',
+    'acc6f4b9-41f3-4fc6-962e-2fda60e4a032',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
+    'تايلاند',
     NOW()
   ),
   (
-    '4b492156-c856-415a-840d-cc124e7a9174',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
+    'b9671fef-cbfb-4499-9d93-91366c1aea2c',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
     'Tailandia',
     NOW()
   ),
   (
-    '1e57fa62-8d24-4317-9f3a-9463dc51aedf',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
-    'ThaÃ¯lande',
+    '27fabf4f-eda5-4a05-8195-886568548dbd',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
+    'Thaïlande',
     NOW()
   ),
   (
-    'd1309963-44d7-48f9-add8-e2ffa6c8ad56',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
-    'æ³°å›½',
+    '3ea56947-4834-4035-b94f-c056ee4497f3',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
+    '泰国',
     NOW()
   ),
   (
-    'df4a4062-4a9f-4f72-b7db-4094177820d5',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
-    'Ð¢Ð°Ð¸Ð»Ð°Ð½Ð´',
+    'd4e2510f-7104-46a1-8e61-9ba414e3eb79',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
+    'Таиланд',
     NOW()
   ),
   (
-    '13de624e-30e7-4098-831b-c59fc24d225b',
-    '22555cdd-69be-4cd1-9667-1f7b225a73a5',
-    'TailÃ¢ndia',
+    '4fc5fc4b-0b90-4318-adbd-c768405d812d',
+    'd811bd12-1bc9-4f42-86a5-063246864988',
+    'Tailândia',
     NOW()
   ),
   (
-    '2ad69e72-f8d7-46a0-8c78-db5d99d8f9d8',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    'efccda14-314a-47a5-8932-fcb2bc7b77b2',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'Tanzania',
     NOW()
   ),
   (
-    '72dc90e8-0569-44ac-bbc7-63e7a977b503',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '3eca7de9-c135-4435-997f-ef296b09f895',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'United Republic of Tanzania',
     NOW()
   ),
   (
-    '35e5c08f-7f50-464d-a039-a710d40e91a5',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '45bccb6e-64a0-4ea4-8421-7178e6ade350',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'Tanz.',
     NOW()
   ),
   (
-    '9db252aa-4d8b-4a4b-b41d-1a45f679fa6f',
-    'baa348c7-3246-4def-899c-8f1970d99457',
-    'ØªÙ†Ø²Ø§Ù†ÙŠØ§',
+    '8468fd08-86d6-4f73-8e6a-993723068eea',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
+    'تنزانيا',
     NOW()
   ),
   (
-    'aa7bffcf-a3cd-4a07-8dae-d387a724c716',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '2ada7069-565c-4727-9da9-ceaebc15bdcd',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'Tansania',
     NOW()
   ),
   (
-    '82751fcd-53c5-4bb5-8722-d13d1d32d8bf',
-    'baa348c7-3246-4def-899c-8f1970d99457',
+    '1469b616-972b-47cf-935f-0d55ebd9f8f9',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
     'Tanzanie',
     NOW()
   ),
   (
-    'dd1e9fff-50ad-4032-8418-c0dabcb9ce83',
-    'baa348c7-3246-4def-899c-8f1970d99457',
-    'å¦æ¡‘å°¼äºš',
+    '3af87b06-f6f0-463a-bf5e-f8610a2866c3',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
+    '坦桑尼亚',
     NOW()
   ),
   (
-    '038c9dcb-6a01-4075-b351-fa8208874361',
-    'baa348c7-3246-4def-899c-8f1970d99457',
-    'Ð¢Ð°Ð½Ð·Ð°Ð½Ð¸Ñ',
+    '89c6cfdb-1e8a-4fee-b970-bbe760e1549d',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
+    'Танзания',
     NOW()
   ),
   (
-    'cdb05549-8ae6-43c1-87b9-f6451b775270',
-    'baa348c7-3246-4def-899c-8f1970d99457',
-    'TanzÃ¢nia',
+    '7cc5f96f-0ab7-454b-abf0-fc3b7e260b66',
+    'ebb6b6db-11fd-4c50-9c9b-db982b7f130c',
+    'Tanzânia',
     NOW()
   ),
   (
-    'a69a055c-de23-4a26-b8e0-91eb5167bb6f',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '08370444-c137-47cb-8681-9603846c0c8b',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'Tajikistan',
     NOW()
   ),
   (
-    '2c1de6d1-b73f-432e-9b7d-723607b06be6',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    'c15bba05-7231-46ae-8076-d85d04d1bac4',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'Republic of Tajikistan',
     NOW()
   ),
   (
-    'a988ccaa-642b-4d0b-a664-f9f5609b1d65',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '4b59c6f6-b8dc-4cf1-92b7-2fb0669f3e55',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'Tjk.',
     NOW()
   ),
   (
-    '675e93aa-b55e-4844-af58-2a0742eed27a',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
-    'Ø·Ø§Ø¬ÙŠÙƒØ³ØªØ§Ù†',
+    'd64c96b7-94af-4562-bcce-db42e076292f',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
+    'طاجيكستان',
     NOW()
   ),
   (
-    'aa265171-22d8-4011-a996-74aac5a69937',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '0083fccb-2ddb-40d3-9ba6-a43f148495be',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'Tadschikistan',
     NOW()
   ),
   (
-    'd3d881d5-100c-432e-a8b6-f42c3ce45c2e',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
-    'TayikistÃ¡n',
+    'd559be4c-c547-44b9-a7da-e272c019636d',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
+    'Tayikistán',
     NOW()
   ),
   (
-    '92d666d2-5d0b-4f6e-8e29-520b991a5844',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
+    '8af328cd-9940-4263-9854-05a55c10b004',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
     'Tadjikistan',
     NOW()
   ),
   (
-    'a3adc03a-8f6f-4804-b901-d22e5884a97a',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
-    'å¡”å‰å…‹æ–¯å¦',
+    'bb293680-06ab-4483-bed5-5b1eb667518b',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
+    '塔吉克斯坦',
     NOW()
   ),
   (
-    'ca62b6af-c203-4f8f-8bbf-3572d571d211',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
-    'Ð¢Ð°Ð´Ð¶Ð¸ÐºÐ¸ÑÑ‚Ð°Ð½',
+    '10d7bb3f-b041-4ef1-af3d-5de391362f2f',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
+    'Таджикистан',
     NOW()
   ),
   (
-    '23694908-df5d-4a79-b5ab-31749cd4ef94',
-    '79277dfc-0019-44d9-90b9-984c08fa026b',
-    'TajiquistÃ£o',
+    'd8a45091-ed62-4aa9-ad4e-5e5f657983bf',
+    '68a524ea-7e6f-4cf3-a1c2-1804048bf849',
+    'Tajiquistão',
     NOW()
   ),
   (
-    'f210297e-61e5-499b-9db9-6163fadd7d1f',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    '0edfdd38-c48e-4b78-9276-d2168baa15e4',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'Taiwan',
     NOW()
   ),
   (
-    '2d88dd40-3a68-4954-a32a-7d3c47ab6d26',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
-    'ØªØ§ÙŠÙˆØ§Ù†',
+    'd1d56ea5-ee4d-41d8-86f8-808aaa1e64a8',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
+    'تايوان',
     NOW()
   ),
   (
-    '73bc3ded-4c54-4356-8bb5-0fa3ad181ecd',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
+    'de2fe614-7df6-4be6-86f0-b73a90741274',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
     'Republik China',
     NOW()
   ),
   (
-    '42b472bf-cd47-40af-8710-cde5097a5710',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
-    'RepÃºblica de China',
+    'd4fa4945-5a1b-4c8e-8cc7-62846a3dfe2a',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
+    'República de China',
     NOW()
   ),
   (
-    'fa75cf17-7ef4-4ea8-8a86-78065250fc60',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
-    'TaÃ¯wan',
+    '46d4ef55-d6e8-4f28-9a3e-316dd93e4097',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
+    'Taïwan',
     NOW()
   ),
   (
-    '24342eaf-a8df-4684-9d58-d7decd7f3364',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
-    'ä¸­åŽæ°‘å›½',
+    '0e225f75-8698-4855-8b60-7d25c2c4e15c',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
+    '中华民国',
     NOW()
   ),
   (
-    '1197a1d1-aad9-47e1-a0db-65097781c142',
-    '27f7d424-e5b3-4647-aa77-84572b7b1e16',
-    'Ð¢Ð°Ð¹Ð²Ð°Ð½ÑŒ',
+    'a2386114-ea00-401d-baf1-e38a9937a054',
+    'bb5d1d08-4e05-4cd8-9baa-187d689ec036',
+    'Тайвань',
     NOW()
   ),
   (
-    'fdda505b-f3eb-45f3-9dfc-6f911347c619',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '282c0d88-9c24-49f7-b06e-f0e3d0de7159',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'Syria',
     NOW()
   ),
   (
-    'e6efa237-5153-464e-acf9-4aae1c42a0de',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    'e0e7cf42-06b1-4344-82d8-b55529f8708e',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'Syrian Arab Republic',
     NOW()
   ),
   (
-    '65133943-ad47-40b2-ad7d-eb857728cdb3',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
-    'Ø³ÙˆØ±ÙŠØ§',
+    '11dfd6b1-ee1f-4a50-8e20-1598d632db84',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
+    'سوريا',
     NOW()
   ),
   (
-    'aa78d661-316c-4629-955b-475a1053a8bf',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '92833f49-9bda-44f1-b4f4-36db61f70135',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'Syrien',
     NOW()
   ),
   (
-    '8fc4111c-28df-44e1-92dd-91962f6cafb4',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '9807af8c-5446-49cc-9d19-46b530850204',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'Siria',
     NOW()
   ),
   (
-    'a48bb419-b8aa-41e5-a37f-1425662cbfc7',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
+    '45ba9f69-6816-440e-8c11-daeed911a2f4',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
     'Syrie',
     NOW()
   ),
   (
-    '12021328-aa51-4492-ad2a-952aa06eddaf',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
-    'å™åˆ©äºš',
+    '242aed20-1a10-4d63-b93a-b1f5412a9b4a',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
+    '叙利亚',
     NOW()
   ),
   (
-    '415960d5-a7f9-46cc-b91f-50b29ffa5bd8',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
-    'Ð¡Ð¸Ñ€Ð¸Ñ',
+    '14415424-803a-476e-aecd-214a751875ef',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
+    'Сирия',
     NOW()
   ),
   (
-    '94beaca2-64b9-4bcb-b632-a28b4e800b13',
-    '31e9ffac-b774-49d7-b2b0-9f42faf21e40',
-    'SÃ­ria',
+    'aa327f6e-26f3-4856-bd7a-fa79be285012',
+    '6db7ddaa-b30f-40fa-b55e-57315e3ef04f',
+    'Síria',
     NOW()
   ),
   (
-    '9ed1b36b-b481-47af-ae40-904b91fdfa99',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'bc107e4e-0515-43de-9d86-a08ff4d6b383',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Switzerland',
     NOW()
   ),
   (
-    'b8f4eeac-8a7d-47de-ba52-cb6358d5aef8',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '2443336b-919e-4a73-bbc3-64daa5a391da',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Swiss Confederation',
     NOW()
   ),
   (
-    '146dc3fe-6dd3-4c35-8866-af04b7afa39b',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'dc4132de-33a8-4162-88e8-d686a3a54947',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Switz.',
     NOW()
   ),
   (
-    'f05844ea-3db0-402f-915a-e590e95ca51a',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
-    'Ø³ÙˆÙŠØ³Ø±Ø§',
+    '741201a7-0a84-40ef-bd11-4375a4a6c9fd',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
+    'سويسرا',
     NOW()
   ),
   (
-    '6a1bff5a-c7ed-4c25-94a8-506c1b0c2b2c',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'fa85983c-0918-4f0b-8a85-95809c8dc553',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Schweiz',
     NOW()
   ),
   (
-    '5fbc1eed-2f28-41bc-bf19-0aaaee1d7591',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    'c62c1be6-542a-4d4e-a182-cb85edcf3d56',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Suiza',
     NOW()
   ),
   (
-    'd8516330-f74a-43fb-acdc-a900301d76fe',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
+    '1adfebb9-3834-4846-b84f-bf53afbaa0b5',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
     'Suisse',
     NOW()
   ),
   (
-    'ff43dc74-a12a-4151-a7e2-461a7aeba20b',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
-    'ç‘žå£«',
+    '5b35bd15-ee14-4375-8f11-d21fe13128ab',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
+    '瑞士',
     NOW()
   ),
   (
-    'ccb4d5f4-aa85-4689-b9cb-fc89e922ea45',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
-    'Ð¨Ð²ÐµÐ¹Ñ†Ð°Ñ€Ð¸Ñ',
+    '99dc8580-049c-4fcc-9a74-cef800e8acf7',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
+    'Швейцария',
     NOW()
   ),
   (
-    '5b154351-2c1d-4c6e-b87a-95f185afd4cc',
-    '2f683ba8-1be1-4ec7-b00e-bab722e2465d',
-    'SuÃ­Ã§a',
+    '82e67941-d89a-49d8-ad2d-3da246f857ae',
+    '315d14fd-43ca-4c18-9308-75e669092f26',
+    'Suíça',
     NOW()
   ),
   (
-    '4af7143f-ded8-4357-a350-e8c3fe633585',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '8470a374-785e-4a38-98fe-527562e1e819',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'Sweden',
     NOW()
   ),
   (
-    '43f4487f-aa0d-4ccf-af27-3811caa02118',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'eb8216b8-afca-4275-a2e8-d0ca34d51393',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'Kingdom of Sweden',
     NOW()
   ),
   (
-    '404e7e0d-ffe5-473d-ad25-14ef95f87638',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    '570693c7-453a-4c3c-8c71-86213907bb72',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'Swe.',
     NOW()
   ),
   (
-    '6de3d87e-d16b-4706-b608-82efcb1ef880',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
-    'Ø§Ù„Ø³ÙˆÙŠØ¯',
+    '58f87e01-11d5-4fd7-9b86-4559d7922bf1',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
+    'السويد',
     NOW()
   ),
   (
-    'fc566e49-aa95-4730-931e-83942e4a0ba9',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'e825daa3-bc44-40e2-84c0-6b02869232f0',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'Schweden',
     NOW()
   ),
   (
-    'a5e3f592-c876-41d7-ad7a-9363dfffb350',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
+    'c706dd7b-89c4-4bc4-a54b-dabe88f1e927',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
     'Suecia',
     NOW()
   ),
   (
-    '4d00a1f5-5263-4e1f-83b7-c799bc023b85',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
-    'SuÃ¨de',
+    'b5b56b61-b49e-4284-99b0-5e576e44b486',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
+    'Suède',
     NOW()
   ),
   (
-    '85417eab-1188-46fc-9da4-e440ae5c6755',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
-    'ç‘žå…¸',
+    '0e0cf146-c573-4ce3-aca5-9ed7a5ef529e',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
+    '瑞典',
     NOW()
   ),
   (
-    '7a5a82ab-2b0d-4650-add1-5f1e12751049',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
-    'Ð¨Ð²ÐµÑ†Ð¸Ñ',
+    'dd8d142c-0183-4294-afb2-0d2fd3fd785f',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
+    'Швеция',
     NOW()
   ),
   (
-    '6dcf37fb-7919-4404-be66-61d8b4b71a0f',
-    'd38b027e-1056-4e73-bfc8-3049b74748e9',
-    'SuÃ©cia',
+    '886888d7-bbea-424a-b4f3-f99638cbfd8b',
+    'd1efb714-b41e-4f0a-961d-3d8cd01cc04f',
+    'Suécia',
     NOW()
   ),
   (
-    '7d77ffec-2ac3-4caa-8bcf-13ba3b5e631e',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '40ec7d93-1ee5-4b97-8165-3ca56c6dadde',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'eSwatini',
     NOW()
   ),
   (
-    '5af2f14f-ed48-4d00-8da9-3e9bc499059f',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '869a74df-bcae-4032-a342-bbafa62e0c28',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'Kingdom of eSwatini',
     NOW()
   ),
   (
-    'fecb08ff-ea6d-426d-bf04-18e8523654ef',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    '60ff3cdc-04ea-45e2-b34a-ace4ba77f403',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'eSw.',
     NOW()
   ),
   (
-    'f0c92ee9-040d-4361-ab58-7355b3239b41',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
-    'Ø¥Ø³ÙˆØ§ØªÙŠÙ†ÙŠ',
+    '1bb1f775-28a4-456a-a182-26bc21139681',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
+    'إسواتيني',
     NOW()
   ),
   (
-    '9e765c33-aeb7-462e-8db3-6d6798a773e8',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
+    'b130ca35-2b52-4217-8766-1c5daeaa63bb',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
     'Suazilandia',
     NOW()
   ),
   (
-    '82f2754f-cb47-4255-bb8e-282576fe7caf',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
-    'æ–¯å¨å£«å…°',
+    'd8cf0b1e-503d-4854-93a6-9ec4f51eefb5',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
+    '斯威士兰',
     NOW()
   ),
   (
-    '0d965801-611a-4460-a63e-d2e3794c9e5f',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
-    'Ð­ÑÐ²Ð°Ñ‚Ð¸Ð½Ð¸',
+    '10e8ec89-d32a-41ca-8b8b-341061e4bfb1',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
+    'Эсватини',
     NOW()
   ),
   (
-    '8b095af0-6b41-4047-a5da-e110bc0e61fc',
-    'a4737793-f60e-4f0d-a564-d6c4577312c5',
-    'EssuatÃ­ni',
+    'dc0534da-4c84-4338-ad25-773ae99a75a1',
+    'fb17ef99-8944-4cdd-8b83-ca32e0d152ed',
+    'Essuatíni',
     NOW()
   ),
   (
-    '852a42b8-e4ed-4cff-aceb-0fb2e9aa129a',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '178c72f7-2f24-40a7-9d8f-f317bcefd231',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'Suriname',
     NOW()
   ),
   (
-    '14bfbeb1-b16c-461a-96f8-52ce4589d4c9',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'a4539bd8-3226-406b-9e70-ae42a7170a59',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'Republic of Suriname',
     NOW()
   ),
   (
-    'c8586332-f16f-44b4-becc-b628f911a263',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    'a809b7fa-03c4-4d7e-a7b1-58981070dc62',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'Sur.',
     NOW()
   ),
   (
-    '6249b419-31fe-4a99-83c8-0018d898b62f',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
-    'Ø³ÙˆØ±ÙŠÙ†Ø§Ù…',
+    '3a2846ef-0679-4735-afea-854e4ed9dfe1',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
+    'سورينام',
     NOW()
   ),
   (
-    'fa3649ad-9f4b-4870-88c6-c44670beb1da',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
+    '5b9a0a9b-391c-4d6d-8c6d-2143fe87e27f',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
     'Surinam',
     NOW()
   ),
   (
-    '51061ba1-94e7-4cc9-b2b3-a72c8e43dfb8',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
-    'è‹é‡Œå—',
+    'd0500bd6-4409-4a8c-8ff4-cb0eb2840fd2',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
+    '苏里南',
     NOW()
   ),
   (
-    '89319fef-790a-454b-af91-298f62d137e6',
-    'e6dbaf22-6036-4817-836b-f3c249995746',
-    'Ð¡ÑƒÑ€Ð¸Ð½Ð°Ð¼',
+    '82fefacb-1dcd-4df2-ad3c-a5b7eb4d0480',
+    'cf1c1dfd-fe34-4871-84b7-1ee5f3e9dbcf',
+    'Суринам',
     NOW()
   ),
   (
-    '3f00c7db-1d31-4790-95b3-01cfd33e6129',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'bdd04206-7649-4bbc-ae08-93bd032dd5dc',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'S. Sudan',
     NOW()
   ),
   (
-    '491b3fd3-eebe-4f44-97ad-31d823701784',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'cddf8640-9505-4d54-a8dd-2b7ca3d01f65',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'South Sudan',
     NOW()
   ),
   (
-    '237be8ee-b378-4b89-99bc-5f3435358b16',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    'a34df269-ff0b-4a2d-866e-7fbe5a2d7388',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'Republic of South Sudan',
     NOW()
   ),
   (
-    '3315bf10-c114-4ad9-9593-b7844be52658',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '37247165-2cdc-4233-ab39-afb99cd34e8c',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'S. Sud.',
     NOW()
   ),
   (
-    '98cc954d-81d1-43a6-b06d-f5660f924134',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'Ø¬Ù†ÙˆØ¨ Ø§Ù„Ø³ÙˆØ¯Ø§Ù†',
+    'fbd57062-ba40-439c-9266-574240e626df',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    'جنوب السودان',
     NOW()
   ),
   (
-    'eacd1647-93b3-4f04-8508-97c53d54f758',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'SÃ¼dsudan',
+    '1fb6b6b7-70eb-4697-ad0e-02c7af25c8d3',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    'Südsudan',
     NOW()
   ),
   (
-    '3ddeedfc-2d77-4ac1-990a-921a751a4e2b',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'SudÃ¡n del Sur',
+    'e9ae7921-1d87-4cb2-aa9d-78ba6689b10c',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    'Sudán del Sur',
     NOW()
   ),
   (
-    '5ea2208b-9416-4466-a997-9068261442f4',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
+    '445a842f-355b-44c3-8018-2037142cf5c2',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
     'Soudan du Sud',
     NOW()
   ),
   (
-    'f745fd8b-17b7-46d0-b0f8-66610b149f5c',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'å—è‹ä¸¹',
+    'c5de12b5-2fc1-4384-9f50-aaac2c0284f4',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    '南苏丹',
     NOW()
   ),
   (
-    'b4708b34-49a0-444c-bcf0-309eed6852a9',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'Ð®Ð¶Ð½Ñ‹Ð¹ Ð¡ÑƒÐ´Ð°Ð½',
+    '87964b9b-f7ef-4d59-aae3-e2a93668f6d6',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    'Южный Судан',
     NOW()
   ),
   (
-    'f1cd2c96-82fd-4a4b-8252-f213db3af8d0',
-    '00a2f240-ee18-47cc-992d-4a67e1fe582e',
-    'SudÃ£o do Sul',
+    '1b29d1b0-6b19-4eef-a471-bfeb15d8910e',
+    'a5b2cdae-a5d8-47be-8f39-55203834b498',
+    'Sudão do Sul',
     NOW()
   ),
   (
-    'b3e5dd39-1f6c-475d-973b-9925428a5f74',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '50daaf84-ee7f-4f7f-9c9a-29b2e42b48b7',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'Sudan',
     NOW()
   ),
   (
-    '8c6a5030-9e71-4705-bfa2-94fe81924071',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    'c8178df6-babe-48b9-b78e-720a42e2074f',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'Republic of the Sudan',
     NOW()
   ),
   (
-    '34b75593-117d-4894-ad95-1195754bfac7',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
-    'Ø§Ù„Ø³ÙˆØ¯Ø§Ù†',
+    '1eb43891-a730-4015-ab41-3f686cf736d5',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
+    'السودان',
     NOW()
   ),
   (
-    'cd360dec-b06f-48ce-96ca-f0e52e92d32f',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
-    'SudÃ¡n',
+    'a1894dd3-93bd-49db-81e4-77991cd09ba3',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
+    'Sudán',
     NOW()
   ),
   (
-    '915962d1-9b64-4be1-818b-5d9065fbd9de',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
+    '30fdd780-9c48-4af3-8f8d-361c459bd2d6',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
     'Soudan',
     NOW()
   ),
   (
-    '860a3376-acec-4f8c-b2ca-88c3ccb100b7',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
-    'è‹ä¸¹',
+    '805cd35f-f237-4c0d-ad36-5f8b151f0445',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
+    '苏丹',
     NOW()
   ),
   (
-    '034faed7-dc12-4b2b-bd3e-5d04b599feef',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
-    'Ð¡ÑƒÐ´Ð°Ð½',
+    '4371ca85-704a-4c9f-9f0c-5a16ee875d44',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
+    'Судан',
     NOW()
   ),
   (
-    '25397e98-9e12-4b72-9025-80cf2ec334c1',
-    '1afe8142-fda7-4334-ba0e-f734cce8f0ae',
-    'SudÃ£o',
+    '6cb948ac-c47a-4259-8013-fec12fd56243',
+    '7863266c-0b9d-48f6-9930-5d7a68c4ce5d',
+    'Sudão',
     NOW()
   ),
   (
-    '6c16af91-5833-49e6-ae7c-ec07c8b25100',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '0fcc0c6d-7d50-465e-9848-a895bcc4a1d1',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'Sri Lanka',
     NOW()
   ),
   (
-    'e211a0b6-f7f3-48c0-9608-e853d8b59964',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    'ea8557ef-7b38-4b4d-87cb-5b4ac261e95e',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'Democratic Socialist Republic of Sri Lanka',
     NOW()
   ),
   (
-    'c4e4f008-e30c-4fff-83b4-44c6e641bd47',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
+    '5bd80056-823f-47f7-b902-10affac34cfe',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
     'Sri L.',
     NOW()
   ),
   (
-    'dd09b721-1b41-47d0-bf71-72e461333c37',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
-    'Ø³Ø±ÙŠÙ„Ø§Ù†ÙƒØ§',
+    '02722eb6-5adf-4543-8131-6d3302d7a56d',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
+    'سريلانكا',
     NOW()
   ),
   (
-    'dcd7c2ee-1342-464c-8656-06df5ce09f55',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
-    'æ–¯é‡Œå…°å¡',
+    'f2f14133-e086-4642-aa4f-ac46f6d7218a',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
+    '斯里兰卡',
     NOW()
   ),
   (
-    'b7ab2e05-1311-4d53-89fd-e7c5b6c51332',
-    '1abe0119-b52a-474f-865a-5589f889f2fc',
-    'Ð¨Ñ€Ð¸-Ð›Ð°Ð½ÐºÐ°',
+    'f6e36396-a4d0-41f2-a401-42a6ca574774',
+    '237d6d48-5d01-4477-bba8-0cc506033e12',
+    'Шри-Ланка',
     NOW()
   ),
   (
-    '337cb520-8716-411b-992b-8b93d0c2d71b',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'aeddce69-a025-47b4-9ddb-3acbc2a65c0d',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Spain',
     NOW()
   ),
   (
-    '0b763c3c-90c4-429a-b3cc-fb7b41fdcc28',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '0790ff89-18b3-4f06-852c-159ce37af896',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Kingdom of Spain',
     NOW()
   ),
   (
-    '89266693-699d-4d5b-9a6f-cf2a4105b85a',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '024e4c4d-5542-420a-b766-8440ac42b9ff',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Sp.',
     NOW()
   ),
   (
-    'ab727a66-b35a-4121-ac91-a6c45fde9390',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
-    'Ø¥Ø³Ø¨Ø§Ù†ÙŠØ§',
+    '1801f603-41db-46da-99dd-03da5908bc69',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
+    'إسبانيا',
     NOW()
   ),
   (
-    'a0cf2579-47a3-40b5-b7f5-8b616a9a4ca1',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '0fdc3df6-dece-4a04-a67b-40951c41290d',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Spanien',
     NOW()
   ),
   (
-    '4da9bbfb-ede6-4c40-8f29-3e15a4efbbee',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
-    'EspaÃ±a',
+    'de5cee4a-dce7-4b3b-a465-d2aab0ce342a',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
+    'España',
     NOW()
   ),
   (
-    '0acae9d2-09ca-4cd3-89bb-b6e7a118443d',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    'f7c2291c-889b-4c58-8bbe-647499628f99',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Espagne',
     NOW()
   ),
   (
-    '2ed209b7-7b96-4dac-b08d-90f6996a84d7',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
-    'è¥¿ç­ç‰™',
+    '35df1990-56d8-410b-897e-2fde32e40e38',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
+    '西班牙',
     NOW()
   ),
   (
-    '872575c5-c5ec-4ba9-ba7b-7f22a206ad97',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
-    'Ð˜ÑÐ¿Ð°Ð½Ð¸Ñ',
+    '2b61ead6-7ba1-4541-96fd-04a2bcba3367',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
+    'Испания',
     NOW()
   ),
   (
-    'b94039bf-34f3-4093-9567-80d7bacb1f9b',
-    'b6f10666-e906-4c29-8c47-858b9ee93211',
+    '4e52d485-ed8f-4682-89d0-b4441dec5d45',
+    '30097f60-82dd-4b37-91b6-ffb9f0843fe7',
     'Espanha',
     NOW()
   ),
   (
-    '5b5c6a19-df19-4afe-9c40-8f1221d055b0',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '32c5234c-7fa7-4049-9216-27ad6e69a220',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'South Korea',
     NOW()
   ),
   (
-    'f75b3cac-9b11-449c-85c1-9658feb9e63f',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '8e6b4a24-bfb4-4710-a8a7-97711b017fbc',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'Republic of Korea',
     NOW()
   ),
   (
-    '28b7ad27-0db2-4af8-bd1f-240974cc7a51',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '92b4098a-1342-4bc3-b758-31188bc718e6',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'S.K.',
     NOW()
   ),
   (
-    '1a49ffbb-bb98-49f8-8427-1ca1c7c63ebb',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
-    'ÙƒÙˆØ±ÙŠØ§ Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
+    '45a6a391-076f-4caa-8cb5-2772fd0231ee',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
+    'كوريا الجنوبية',
     NOW()
   ),
   (
-    'ae2a3a86-36db-430a-8cb8-54dd9e5489cb',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
-    'SÃ¼dkorea',
+    '3bf34603-345f-4cb5-80b2-b1e142679f27',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
+    'Südkorea',
     NOW()
   ),
   (
-    '2730241c-87ae-4452-bb8c-dc471e9e0a29',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '82d30410-d604-4d66-a62f-c69a88ce86ad',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'Corea del Sur',
     NOW()
   ),
   (
-    'e2e5027b-6b60-4b02-b434-d3fda5ba68b3',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
-    'CorÃ©e du Sud',
+    '4fedd3cf-5244-4ec7-88b9-1c57a0edcee8',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
+    'Corée du Sud',
     NOW()
   ),
   (
-    '3104ee4f-0b6e-493b-aa31-067eadaaeee0',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
-    'å¤§éŸ©æ°‘å›½',
+    '4b4f2391-d584-451b-8321-a7e135982e9a',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
+    '大韩民国',
     NOW()
   ),
   (
-    'fa9f5cef-b0cf-4fac-bb0a-6d4128413707',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
-    'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ñ€ÐµÑ',
+    '4123e081-1e74-42d6-addf-b49db6c4bb3c',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
+    'Республика Корея',
     NOW()
   ),
   (
-    '3db68c40-df0f-4893-9874-2ef936fb45cd',
-    '2024eadf-4e79-44c3-85ee-85607d0bcee1',
+    '2cacc4dc-fe35-4064-8f11-602308d4c9f9',
+    'f10114d1-492f-4d7e-8123-e093b3076641',
     'Coreia do Sul',
     NOW()
   ),
   (
-    '17e9f5f7-d16f-46e9-823d-cb6d94e97903',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '821c0cc5-3c2b-4b61-8f17-472fe909389c',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'South Africa',
     NOW()
   ),
   (
-    '8cd006ad-612a-49f9-929f-1d5683554299',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'e9a8e048-a542-4e1e-90d8-cb2e6c99a9a8',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'Republic of South Africa',
     NOW()
   ),
   (
-    'bb5ce115-c871-4540-8eac-c8425ecab10e',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    'd4fa3511-c6f9-40ff-868d-9ef19ad4f76d',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'S.Af.',
     NOW()
   ),
   (
-    'df464b9a-2381-44d7-98e9-7510ae2df99c',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'Ø¬Ù†ÙˆØ¨ Ø£ÙØ±ÙŠÙ‚ÙŠØ§',
+    'd8208ff4-7fed-479b-80ad-09a9259e3a28',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    'جنوب أفريقيا',
     NOW()
   ),
   (
-    'a0bcea50-d48a-49cd-b4aa-95b5070fa8a6',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'SÃ¼dafrika',
+    'e4de15ec-93a9-4e5d-97af-388e48b1ef41',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    'Südafrika',
     NOW()
   ),
   (
-    'c56824f9-5e63-440f-a529-cd3078c51639',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'SudÃ¡frica',
+    'af8783b0-18a4-4dd2-b94a-da3c6f1d2bbc',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    'Sudáfrica',
     NOW()
   ),
   (
-    '8e469b0a-f484-4ed2-ba29-7e37174a78cb',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
+    '0ce49d90-7e6c-4e9f-837a-03790f4f888b',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
     'Afrique du Sud',
     NOW()
   ),
   (
-    '8a766a0b-9e4c-4d8a-aa40-98c6f864e00f',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'å—éž',
+    '00538050-d8b2-4889-9ac4-00408d436dd1',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    '南非',
     NOW()
   ),
   (
-    '4b2b137d-8957-451b-8a69-e1731a4ebc62',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'Ð®ÐÐ',
+    'd3d933f0-39e6-47e9-979e-591289676667',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    'ЮАР',
     NOW()
   ),
   (
-    '699c7ddf-f399-4b1b-baf0-0ae8a7b04a2d',
-    'e5bba08d-a129-49e4-ada0-fa1dbfcc3fa2',
-    'Ãfrica do Sul',
+    'bb11c81d-166e-49ee-8874-782ed7459ede',
+    'c33ee10b-fbd3-41c6-a0ac-4f8469656a79',
+    'África do Sul',
     NOW()
   ),
   (
-    '368f5aa4-ee7e-4862-9755-cd28c47cff9c',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'd645ac67-d3e2-4ad1-aabb-976ac413f299',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'Somalia',
     NOW()
   ),
   (
-    '7a30e267-d421-4820-a36f-e0f88c271197',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    'c66b83e7-b021-4be9-8d7f-0530f9ad4767',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'Federal Republic of Somalia',
     NOW()
   ),
   (
-    'ad212512-57ca-4500-9ca8-ceb21cdb530b',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '9d9ca2e2-92ce-47d3-8e2c-5d20d9ecae5e',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'Som.',
     NOW()
   ),
   (
-    '9e43df15-2b88-473a-b684-db6457c2ce3b',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
-    'Ø§Ù„ØµÙˆÙ…Ø§Ù„',
+    '980868e4-64ca-47fa-a937-aa4d24b8d580',
+    'a239c276-f2df-442c-8edd-8415707a02be',
+    'الصومال',
     NOW()
   ),
   (
-    '78ab3a3f-2137-42e5-819d-eda473833a53',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
+    '3ef8e74e-fa6e-4460-ba5e-644d0833482f',
+    'a239c276-f2df-442c-8edd-8415707a02be',
     'Somalie',
     NOW()
   ),
   (
-    'a8a506a8-9365-4945-8d67-ba8585dddd64',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
-    'ç´¢é©¬é‡Œ',
+    '69adf2a7-5a6b-4d3d-885d-3c6169ffe654',
+    'a239c276-f2df-442c-8edd-8415707a02be',
+    '索马里',
     NOW()
   ),
   (
-    '2677762c-f044-414e-9df8-7b7fffe6bc39',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
-    'Ð¡Ð¾Ð¼Ð°Ð»Ð¸',
+    '38d1e518-2bf5-481c-afa9-92177f0aebbc',
+    'a239c276-f2df-442c-8edd-8415707a02be',
+    'Сомали',
     NOW()
   ),
   (
-    '44330e38-2eee-41df-b26f-d635ad2982ae',
-    '90fa7ff1-1e25-4448-9225-3744fef252fb',
-    'SomÃ¡lia',
+    '25108d04-3fe5-40fb-9389-043a7902fbf2',
+    'a239c276-f2df-442c-8edd-8415707a02be',
+    'Somália',
     NOW()
   ),
   (
-    'd644e5dc-d575-4c4e-bbee-441307bae596',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '9dbc8865-b2bf-4f7b-870c-5164099d9298',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'Somaliland',
     NOW()
   ),
   (
-    '63a29e88-cfb6-426d-8203-c78ed409a4d2',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    'b749d889-7688-4f99-9e8a-d0861db1d364',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'Republic of Somaliland',
     NOW()
   ),
   (
-    'db7d5a06-9333-492c-a121-f395df39e012',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '6f95724c-6160-44a6-a3f4-99b425b9bad9',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'Solnd.',
     NOW()
   ),
   (
-    '9bf621f3-664f-4c0e-b63f-852c7793b13e',
-    '16e80210-a436-49c8-85c8-beebc0505021',
-    'ØµÙˆÙ…Ø§Ù„ÙŠÙ„Ø§Ù†Ø¯',
+    'e299ef0a-b751-4b37-9eac-00c2e2f22573',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
+    'صوماليلاند',
     NOW()
   ),
   (
-    'ae6f8a7a-2e04-4df4-9f01-c891c821bffd',
-    '16e80210-a436-49c8-85c8-beebc0505021',
+    '53ec7c55-0736-440e-a1a9-6121e87ab46a',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
     'Somalilandia',
     NOW()
   ),
   (
-    '9a10c825-4ca6-4267-bb05-385c295df9d1',
-    '16e80210-a436-49c8-85c8-beebc0505021',
-    'ç´¢é©¬é‡Œå…°',
+    '39b1c29c-3a61-4438-9bbf-6beaec069fd9',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
+    '索马里兰',
     NOW()
   ),
   (
-    'bf606505-c4bb-4b4b-9f7c-0caa3ddd005f',
-    '16e80210-a436-49c8-85c8-beebc0505021',
-    'Ð¡Ð¾Ð¼Ð°Ð»Ð¸Ð»ÐµÐ½Ð´',
+    '80118ac8-6693-4f14-b1bc-2f9cdce2a57c',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
+    'Сомалиленд',
     NOW()
   ),
   (
-    '9d00b046-c134-4330-951d-9fbb82159bf4',
-    '16e80210-a436-49c8-85c8-beebc0505021',
-    'SomalilÃ¢ndia',
+    '330fe516-dd0b-4a90-8801-3b2b2d5eb48a',
+    '3ab69253-a83a-4d7e-82a4-0468ef2fdbcd',
+    'Somalilândia',
     NOW()
   ),
   (
-    'de7af622-3b4a-462f-8359-389d7615155c',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    'ce681b6e-e8cb-4fde-863e-3912df8e9d75',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'Solomon Is.',
     NOW()
   ),
   (
-    '58dac662-26d7-4855-8ddc-64949611701e',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '68534eeb-01d6-40ee-812d-f97fb15eb44c',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'Solomon Islands',
     NOW()
   ),
   (
-    '172fa60c-7475-4c08-8195-e6efe3987215',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '4924d69c-6e5c-48e9-b55b-94a845452804',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'S. Is.',
     NOW()
   ),
   (
-    '124ca804-df34-4102-a43a-cadbd405cb74',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'Ø¬Ø²Ø± Ø³Ù„ÙŠÙ…Ø§Ù†',
+    '9832bdc1-23d2-4d97-92eb-b05176002a34',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    'جزر سليمان',
     NOW()
   ),
   (
-    '6cd82c9b-6456-4e7d-a9d0-9822ce626492',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
+    '18e56c88-05a8-480f-aaf9-bd153b854214',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
     'Salomonen',
     NOW()
   ),
   (
-    'f9fc7fc7-206c-4b2f-b59c-73e4b7546ad2',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'Islas SalomÃ³n',
+    '5cb9ae76-cf3e-4d7e-a990-0552fb33ee2b',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    'Islas Salomón',
     NOW()
   ),
   (
-    '0b9382f1-8616-418c-aae2-900cf88b820a',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'ÃŽles Salomon',
+    '371c1029-af7c-4a0f-9708-db8b3ce8d696',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    'Îles Salomon',
     NOW()
   ),
   (
-    'c55ef9e7-0cad-4988-a06d-5c80dff86364',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'æ‰€ç½—é—¨ç¾¤å²›',
+    '78c329d6-cc45-4c48-8591-2fdf79633423',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    '所罗门群岛',
     NOW()
   ),
   (
-    'ba79903c-efab-4549-9467-e0c952b59c88',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'Ð¡Ð¾Ð»Ð¾Ð¼Ð¾Ð½Ð¾Ð²Ñ‹ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '9f3aba82-e0cc-43ee-88de-7dda9c78b1a9',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    'Соломоновы Острова',
     NOW()
   ),
   (
-    'f37d09d5-b83b-4bb9-91c5-f84b95a6ff0c',
-    'c1e43ff5-c21f-4dee-a120-97a5adb415dd',
-    'Ilhas SalomÃ£o',
+    'd7618b52-492f-4c68-b238-777e1be1b0e3',
+    '79a260fd-8f6a-4c41-ac11-71691209fe8c',
+    'Ilhas Salomão',
     NOW()
   ),
   (
-    '59aec6ca-d282-4332-afc2-06ddedcf0cbe',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '8fc9c9f8-5a6a-4066-b8bb-30a3b4ee72d3',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Slovakia',
     NOW()
   ),
   (
-    'ce40b90a-29ee-4dac-b515-490e0e7c256d',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '2ab12fda-4b4e-495c-a152-bad2bb5f82fe',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Slovak Republic',
     NOW()
   ),
   (
-    '1a53089b-d8f9-4464-80db-f7a4cfafef97',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '5694a86e-8c08-4fb8-83d4-48f8fde03f64',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Svk.',
     NOW()
   ),
   (
-    'fc545a66-9bc0-4a31-b863-593beacb2c4d',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
-    'Ø³Ù„ÙˆÙØ§ÙƒÙŠØ§',
+    '27283c0c-0587-4eb1-8d4c-6a91897a6685',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
+    'سلوفاكيا',
     NOW()
   ),
   (
-    'ac255dec-2016-4e9c-86d9-36af7663c32f',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '209658a8-afd5-43fa-a563-0460d967a195',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Slowakei',
     NOW()
   ),
   (
-    '4e36fae3-c9d1-46cb-8241-3198ac99388e',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '86ec744e-d8dd-40b1-ae83-1280f65f9d77',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Eslovaquia',
     NOW()
   ),
   (
-    '3f2cda41-1437-42ea-b6e0-40ff4cf098fd',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
+    '067bac3b-4a1b-4dd0-b136-083d9143f416',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
     'Slovaquie',
     NOW()
   ),
   (
-    '43a569dc-2640-47c8-a02e-afa901628d61',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
-    'æ–¯æ´›ä¼å…‹',
+    '48a51185-1c6a-49a5-a640-196becae0c6c',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
+    '斯洛伐克',
     NOW()
   ),
   (
-    '67ebb991-abab-4eba-a055-3a2c18d720a6',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
-    'Ð¡Ð»Ð¾Ð²Ð°ÐºÐ¸Ñ',
+    '78da87c0-bf2c-4a5a-bbe8-5668f5e85db4',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
+    'Словакия',
     NOW()
   ),
   (
-    '4dbf81cf-5026-42f0-a68c-6521927ad33b',
-    '88852e82-ec33-49ba-b477-6a3e17d1777a',
-    'EslovÃ¡quia',
+    '24ea4627-4168-46ec-957a-2ce2636ba3c2',
+    'a24c81b0-7aa8-4553-9e0a-9862828e88af',
+    'Eslováquia',
     NOW()
   ),
   (
-    'cfe28211-b157-42ee-9113-3839a78ece69',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '0e27ce13-6d9b-4b3a-af27-6ce75d509cda',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'Slovenia',
     NOW()
   ),
   (
-    '5d4ee047-b8c8-4689-a61c-c0a3698c80bc',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    '3b236396-b5c9-49fe-aa03-2f45687b193e',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'Republic of Slovenia',
     NOW()
   ),
   (
-    '0a9092ba-c5d2-47a7-bca3-68e692d7c6aa',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'f3969244-6d71-4fe5-b789-ed508e0ee08d',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'Slo.',
     NOW()
   ),
   (
-    'e9e28b31-3235-466a-a879-deeab9f6bdf0',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
-    'Ø³Ù„ÙˆÙÙŠÙ†ÙŠØ§',
+    '16514b46-0619-4f05-bf18-763615807721',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
+    'سلوفينيا',
     NOW()
   ),
   (
-    '9bd74b80-037f-466e-8a59-6becfa70398b',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'dd7f942f-2a05-4269-b6c5-6a9de549b4d4',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'Slowenien',
     NOW()
   ),
   (
-    '421bf07a-035a-4abc-a26f-0572636a6bf8',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
+    'cf10707a-54a8-4279-a30c-0316c4208cb8',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
     'Eslovenia',
     NOW()
   ),
   (
-    '5de79fd6-6767-44b4-a42c-ea620c2ddb9b',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
-    'SlovÃ©nie',
+    '9fbe8544-6313-4798-adaf-2b8ad49b80a2',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
+    'Slovénie',
     NOW()
   ),
   (
-    '6e013c18-1d41-412b-8034-e7b77a33769c',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
-    'æ–¯æ´›æ–‡å°¼äºš',
+    'c91df833-9bfb-4743-9b00-84f775629d0a',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
+    '斯洛文尼亚',
     NOW()
   ),
   (
-    '5b129dc0-f860-4426-8966-270a80aa8c7e',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
-    'Ð¡Ð»Ð¾Ð²ÐµÐ½Ð¸Ñ',
+    '32a47181-bbcb-41da-961d-9e979af94cbf',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
+    'Словения',
     NOW()
   ),
   (
-    '712f17f5-3022-4b31-b93d-dc81998e62df',
-    'f9b940de-2e43-4111-85a1-7094042c52a2',
-    'EslovÃ©nia',
+    '8cda9db2-60ea-426f-ae81-8c84378d722a',
+    '94652321-3aeb-41b6-b646-70f2109300a3',
+    'Eslovénia',
     NOW()
   ),
   (
-    'ba3bc137-2f48-4eda-952e-8a3a982c8548',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '73aa82b2-3470-4ff3-bc3d-d20d70c88e8a',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Singapore',
     NOW()
   ),
   (
-    '6294fa30-9a2a-4331-b851-eade9b575e2d',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '223fddb3-22dc-4b2f-80fa-67dabae5e300',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Republic of Singapore',
     NOW()
   ),
   (
-    '610026b4-4ed4-4c6f-9749-e2d2e5973966',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'eaa93a0d-c521-48d0-8e00-2fa1d5045323',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Sing.',
     NOW()
   ),
   (
-    'df196e49-e540-4b44-ae4c-af625f3c4d13',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
-    'Ø³Ù†ØºØ§ÙÙˆØ±Ø©',
+    '6dc191ea-2a5c-4c97-942f-7a203ca82c32',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
+    'سنغافورة',
     NOW()
   ),
   (
-    'c57f8f86-7da9-4f98-a86c-3953ce66c87b',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    'e560ed50-7a6b-4e93-89f1-6839b0aac26c',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Singapur',
     NOW()
   ),
   (
-    '1e6c607e-2ce0-41ca-9154-a325ed50a168',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '0c95341c-81ca-435a-ae54-09ed10da492b',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Singapour',
     NOW()
   ),
   (
-    '14be068e-39f1-44ca-9e2e-608298fbd27b',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
-    'æ–°åŠ å¡',
+    'f348e3d2-0361-4782-9399-da1e1f92fa9b',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
+    '新加坡',
     NOW()
   ),
   (
-    'c3354dac-66e7-4eee-8559-ba5db6dd4008',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
-    'Ð¡Ð¸Ð½Ð³Ð°Ð¿ÑƒÑ€',
+    'b9d680d4-b4f5-4281-b5ab-319a49e0984e',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
+    'Сингапур',
     NOW()
   ),
   (
-    '630afa82-c17a-4aa2-bd03-7fa022203542',
-    'c4fd1edf-18c9-449c-8e3b-011bd6c1d198',
+    '9a4c571d-fecb-4880-9163-3ec767164b74',
+    '1c7b5752-2249-48c4-b8b5-b71f66255526',
     'Singapura',
     NOW()
   ),
   (
-    '8ae2fd1e-e434-47f6-81e4-91fb28b3906d',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '052b3502-0fef-42e0-ac20-7a97030c5794',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'Sierra Leone',
     NOW()
   ),
   (
-    '868bf6cf-807b-4706-8448-bbfb490d992c',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '5fa533ef-16ba-485c-9a26-d5a67bd84637',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'Republic of Sierra Leone',
     NOW()
   ),
   (
-    'dd04a4ca-2ea6-485d-8ab9-33e95bee24fb',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '61a5abfe-c7d3-46b0-8d0e-48d5bcce0c99',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'S.L.',
     NOW()
   ),
   (
-    '42a0c622-a59d-4fea-ac70-af6c5fab4599',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
-    'Ø³ÙŠØ±Ø§Ù„ÙŠÙˆÙ†',
+    '7428048f-3794-4604-96db-89a6b77076d2',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
+    'سيراليون',
     NOW()
   ),
   (
-    '933d62a6-9d81-4766-85b7-fc4fca15dbb2',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    '1f7aa33e-1791-49de-92ee-1c12471426c7',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'Sierra Leona',
     NOW()
   ),
   (
-    '6316c008-9364-4a76-a789-116348a6a6fb',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
-    'å¡žæ‹‰åˆ©æ˜‚',
+    'e7508cf3-45c3-4731-b715-7336aef6ae35',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
+    '塞拉利昂',
     NOW()
   ),
   (
-    'bf3e8799-f198-4bd8-83a0-e45954463dea',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
-    'Ð¡ÑŒÐµÑ€Ñ€Ð°-Ð›ÐµÐ¾Ð½Ðµ',
+    '9342e345-9d39-4ef6-b784-35eb8957bf08',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
+    'Сьерра-Леоне',
     NOW()
   ),
   (
-    '929797f2-5534-4aa2-b426-0509a3fdb4e0',
-    '9e086c9f-cbbe-4b0c-be05-fb12d3debf0d',
+    'ab57b890-2ae3-4d7a-8cd3-60282036ee96',
+    '13ebdc98-66ab-491d-b796-d4653962caa5',
     'Serra Leoa',
     NOW()
   ),
   (
-    '28fea611-025b-4576-8cab-df20edef2470',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'fad8c18e-ef06-4559-a264-299564c71870',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'Seychelles',
     NOW()
   ),
   (
-    'dd324beb-8272-421e-8c13-25a5b294095c',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '87847d5a-3d37-4d9a-89ab-89d17f268689',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'Republic of Seychelles',
     NOW()
   ),
   (
-    '1c9d7b89-7307-43b2-b143-c4a4b899fdc8',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    '2f78971d-3e06-4070-b65b-491f69b7bc39',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'Syc.',
     NOW()
   ),
   (
-    '55c945a5-90ba-4902-81cd-4a1eb1e9ce12',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
-    'Ø³ÙŠØ´Ù„',
+    'dbb663b4-a87d-4599-9899-9145218a3d90',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
+    'سيشل',
     NOW()
   ),
   (
-    'af44a313-fb02-473b-bbe1-9b3c49ee2936',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
+    'c8868ba7-e76c-4c11-b5b6-37ecc2ede44a',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
     'Seychellen',
     NOW()
   ),
   (
-    '52a2534a-1e32-4421-a8fe-4fe1c1568531',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
-    'å¡žèˆŒå°”',
+    '9ce8a710-d0ea-4318-9f45-3abfb3c400a7',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
+    '塞舌尔',
     NOW()
   ),
   (
-    '874d6443-2a22-48ee-a866-cc7d6d670c3e',
-    '5ca0980a-50a9-4975-9763-0ee2c8ceb9f4',
-    'Ð¡ÐµÐ¹ÑˆÐµÐ»ÑŒÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '3b6517fb-091b-49d6-a1d2-fbbe88a2e53e',
+    'f62d4457-e826-4a92-bd4e-7beb870c231c',
+    'Сейшельские Острова',
     NOW()
   ),
   (
-    '0ce0e67f-d33b-47d3-83e3-d66f27118b8c',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '2016c429-1f0a-47ac-9fbf-5d8e24aa0e3b',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'Serbia',
     NOW()
   ),
   (
-    'f43771b9-a8ec-4d36-a488-09b6828f023d',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'eba74a04-333f-4e43-a58d-a13044c96e75',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'Republic of Serbia',
     NOW()
   ),
   (
-    '18b7c002-5e7b-4737-840c-31f17b7fc5f7',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '95ab45f7-eb92-47c6-9194-0a85e985b85b',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'Serb.',
     NOW()
   ),
   (
-    '791a4c3d-b32e-4787-88d8-59ea52d264fb',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
-    'ØµØ±Ø¨ÙŠØ§',
+    'b6ad6456-e5ed-4c85-ba35-2fe338d06776',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
+    'صربيا',
     NOW()
   ),
   (
-    '73a5a604-f3ff-42fc-8202-5371104d6ebb',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    '7b658e5e-4df5-45b2-93e8-56acf8b66906',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'Serbien',
     NOW()
   ),
   (
-    'f12f1783-51b6-4897-a2b1-1d79d51b25a8',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
+    'b478688e-226c-4608-9e20-e665bc976d0b',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
     'Serbie',
     NOW()
   ),
   (
-    '508dfc76-31a9-4f7a-a0ca-2a0014851657',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
-    'å¡žå°”ç»´äºš',
+    'd8530f0e-eed6-44fa-bf4a-87477e13cff4',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
+    '塞尔维亚',
     NOW()
   ),
   (
-    '937caf53-e1a1-41f2-b526-7560e657e827',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
-    'Ð¡ÐµÑ€Ð±Ð¸Ñ',
+    '38af098a-4553-4746-9174-5ff0cac95c2b',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
+    'Сербия',
     NOW()
   ),
   (
-    '8e6d6a44-68e9-414a-8aec-6b31d7e10133',
-    'b8bf96fd-fe94-4960-b4e7-883ecc6ffe03',
-    'SÃ©rvia',
+    '8679da7e-3146-465d-aeeb-0499dc6581f9',
+    'ba0bf4e5-5d9f-481b-9321-d17863c98d97',
+    'Sérvia',
     NOW()
   ),
   (
-    '9350ae2a-8d72-48aa-aa24-31d0c597d326',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    'dcbc1c0f-67a8-4ca1-8c48-8bf4d23938a9',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'Senegal',
     NOW()
   ),
   (
-    '503ed205-da3e-43ca-bcf6-4ccbdb016828',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '0fc56609-a9d0-4822-8fc2-df589f510677',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'Republic of Senegal',
     NOW()
   ),
   (
-    '5a733237-748b-4b2d-bb94-1ad7a3300dd8',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
+    '1b218c9f-d5f2-44e2-b0e4-d84469c72a6d',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
     'Sen.',
     NOW()
   ),
   (
-    'c1999f6b-86b0-4ea0-99ee-63fa02ede97f',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
-    'Ø§Ù„Ø³Ù†ØºØ§Ù„',
+    '3174b5b9-847d-47b4-b719-75495ce39b5b',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
+    'السنغال',
     NOW()
   ),
   (
-    '400da282-4aac-41ed-a02c-792f0f218028',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
-    'SÃ©nÃ©gal',
+    '2279c064-30bf-44f5-9d23-68f63731b6e1',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
+    'Sénégal',
     NOW()
   ),
   (
-    'ffab0173-c576-49cf-9522-76d01bc6bd13',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
-    'å¡žå†…åŠ å°”',
+    'efdac91b-3175-4c86-8de6-d81bc8e5b705',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
+    '塞内加尔',
     NOW()
   ),
   (
-    '362c2227-7fcd-4b4f-b3d1-65f30dc26f0f',
-    'cf69c2a5-66ff-42f7-bd24-1a0d532241f0',
-    'Ð¡ÐµÐ½ÐµÐ³Ð°Ð»',
+    '0186b534-8ab9-487b-ad7c-6b00b162590e',
+    '131d18f1-ed2a-4ade-84c7-d199106b8043',
+    'Сенегал',
     NOW()
   ),
   (
-    'd94477d2-3fe3-4978-8be0-006e38720a81',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '6826f97d-fa99-499d-860b-2f8aa643fb47',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Saudi Arabia',
     NOW()
   ),
   (
-    '703a990a-0435-4c16-85cb-62b0ab5be603',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    'd53769d2-6df9-4786-bc9b-25ed10991b39',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Kingdom of Saudi Arabia',
     NOW()
   ),
   (
-    '63e8792b-ec06-40db-9853-b03481436633',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '0cdb1d01-82ec-459c-b79b-f7ac775fe38f',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Saud.',
     NOW()
   ),
   (
-    '67694657-ef96-453c-8606-a9dd51a8b0c1',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
-    'Ø§Ù„Ø³Ø¹ÙˆØ¯ÙŠØ©',
+    '2d31e291-3894-4a5f-8908-acffabd74f31',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
+    'السعودية',
     NOW()
   ),
   (
-    '403fb235-f55f-4e3d-8e1c-85b28b25bada',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '03aa8e63-ed0e-4a3b-baa3-1565d1de1492',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Saudi-Arabien',
     NOW()
   ),
   (
-    '491ce26c-517c-4caa-82d1-732df5c4d14a',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '3f3f7478-cd0f-4eb6-b9b1-3a43283dbffc',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Arabia Saudita',
     NOW()
   ),
   (
-    'd406989e-83b2-47d2-96e6-86660f41d4e4',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
+    '3f781f04-c616-44e0-954e-b34aebb1e688',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
     'Arabie saoudite',
     NOW()
   ),
   (
-    'aacfaa76-0fb8-4089-88f0-320fc031625a',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
-    'æ²™ç‰¹é˜¿æ‹‰ä¼¯',
+    '23efe381-7390-4843-ba26-ec762500086f',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
+    '沙特阿拉伯',
     NOW()
   ),
   (
-    '07a7b965-ce84-4527-bbb1-bc15a9198a93',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
-    'Ð¡Ð°ÑƒÐ´Ð¾Ð²ÑÐºÐ°Ñ ÐÑ€Ð°Ð²Ð¸Ñ',
+    '4ee8d2bb-8a9e-44bb-97f9-aa0e59bb0646',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
+    'Саудовская Аравия',
     NOW()
   ),
   (
-    'ef876421-59e5-4ba0-8bb0-8d32889f2411',
-    '9eda2d43-4f92-49d2-af9b-2ede5fd0d0f0',
-    'ArÃ¡bia Saudita',
+    '1edee1fc-8350-458b-a823-e765e0924410',
+    'c769406e-a06f-48ed-8e2b-e0644cbcafc2',
+    'Arábia Saudita',
     NOW()
   ),
   (
-    '1056747e-6334-4b67-850e-d3d5016b2984',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'SÃ£o TomÃ© and Principe',
+    '039b077b-187a-4d2a-a320-319de22a2279',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'São Tomé and Principe',
     NOW()
   ),
   (
-    'c1cdcb42-fb27-45da-8b48-514009545a64',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'Democratic Republic of SÃ£o TomÃ© and Principe',
+    '18973ce3-b176-4e75-9dcc-ba651212a3b5',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'Democratic Republic of São Tomé and Principe',
     NOW()
   ),
   (
-    'd5145d33-b91b-46dd-a5b1-7e97bf33230a',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
+    '74580e1b-0771-4e7b-ad0b-f69f1533ac46',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
     'S.T.P.',
     NOW()
   ),
   (
-    'be97ead7-42ee-49f2-a94b-dad5563c1c98',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'Ø³Ø§Ùˆ ØªÙˆÙ…ÙŠ ÙˆØ¨Ø±ÙŠÙ†Ø³ÙŠØ¨',
+    '182535c2-094d-4224-ba66-31e692ad5b44',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'ساو تومي وبرينسيب',
     NOW()
   ),
   (
-    'b0406a0c-16b8-42f6-9070-368a062282da',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'SÃ£o TomÃ© und PrÃ­ncipe',
+    'fb4eb309-b319-4a7a-bc21-8e4b71aa8f82',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'São Tomé und Príncipe',
     NOW()
   ),
   (
-    '99b49477-85f3-4968-a3cc-0c1f56e2cf27',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'Santo TomÃ© y PrÃ­ncipe',
+    '25fffabd-e14f-44ec-9ef2-3cda58098ecf',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'Santo Tomé y Príncipe',
     NOW()
   ),
   (
-    '7f601a1f-4b08-42bc-babf-a7914b47c632',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'Sao TomÃ©-et-Principe',
+    '861ad012-759c-4ed3-ba65-56fdcf585498',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'Sao Tomé-et-Principe',
     NOW()
   ),
   (
-    'e6cb74cd-85fa-4fdd-8513-ff0f26c9505c',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'åœ£å¤šç¾Žå’Œæ™®æž—è¥¿æ¯”',
+    '4d1635e5-a376-43ea-951c-fbc01b2b8393',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    '圣多美和普林西比',
     NOW()
   ),
   (
-    'a1be87d6-4c1e-4cc1-b088-964cf054fa5d',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'Ð¡Ð°Ð½-Ð¢Ð¾Ð¼Ðµ Ð¸ ÐŸÑ€Ð¸Ð½ÑÐ¸Ð¿Ð¸',
+    '666adf2a-4919-46ef-b14c-74324c9fc9bb',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'Сан-Томе и Принсипи',
     NOW()
   ),
   (
-    '6e90949c-30ff-4072-92c2-73e046c2cf10',
-    '91183ee4-8085-4e2d-8939-53d7966611ac',
-    'SÃ£o TomÃ© e PrÃ­ncipe',
+    '1f23e2ac-4591-407e-b670-9681e385bcca',
+    '444614cc-e19e-4c39-a8ae-e2c05cd4b857',
+    'São Tomé e Príncipe',
     NOW()
   ),
   (
-    '7cde9b47-1577-449a-82c7-75b93a7a0cce',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    'ff396f5d-76bc-4024-aa23-7fc16b97b05d',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'San Marino',
     NOW()
   ),
   (
-    '259e0e35-f05f-448b-ad81-30c7c09f210b',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '7befabb8-8b3f-435b-b9b5-75d2c1c9618c',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'Republic of San Marino',
     NOW()
   ),
   (
-    'a0b2a184-7fc7-47b4-88af-950e9554a3c6',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '9dca1ff9-69b3-4d1d-8eeb-f8f237d2ca2f',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'S.M.',
     NOW()
   ),
   (
-    '4ef5a227-a68d-46cc-864d-0212fb91cbae',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
-    'Ø³Ø§Ù† Ù…Ø§Ø±ÙŠÙ†Ùˆ',
+    'c5279623-0006-4529-8aa8-17d05b3cc619',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
+    'سان مارينو',
     NOW()
   ),
   (
-    '8799d7e7-10d8-45a1-8b7b-fc18fbaf159d',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
+    '88ae3a6f-4b79-4a57-aafe-3c1f27932ccc',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
     'Saint-Marin',
     NOW()
   ),
   (
-    '2732d468-abe7-420e-9a4a-51284b63e57a',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
-    'åœ£é©¬åŠ›è¯º',
+    '1029260b-3c6f-4d66-85ed-d55f16dd68e2',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
+    '圣马力诺',
     NOW()
   ),
   (
-    'ce7a2f3f-dbea-43e6-b03f-66a9b39d8e83',
-    '4bd72a64-7952-480f-9e6d-d9818b3ebcf1',
-    'Ð¡Ð°Ð½-ÐœÐ°Ñ€Ð¸Ð½Ð¾',
+    'e377ec91-2a39-4951-8a11-b23440dd278a',
+    '0c5088ab-b77e-4e86-9c6e-9da140909539',
+    'Сан-Марино',
     NOW()
   ),
   (
-    '7a7611c7-39b4-422e-9302-7d2e556cdbda',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    '69a225fc-cbc1-42ff-b797-1a7fd82b83f3',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'Samoa',
     NOW()
   ),
   (
-    'c8f905c1-9a12-498e-aaf9-5565e5358e4c',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
+    'ffd0b0b5-4be9-46ca-b317-2a8e16097821',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
     'Independent State of Samoa',
     NOW()
   ),
   (
-    'f15dd37a-acd6-46e2-9fbd-173b4c56e90d',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
-    'Ø³Ø§Ù…ÙˆØ§',
+    'f4dc6f1b-5014-4784-9fed-1dd10b8a71d6',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
+    'ساموا',
     NOW()
   ),
   (
-    '1ec03742-50f1-46e0-8a03-9df735b81cf4',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
-    'è¨æ‘©äºš',
+    'd810ec60-627e-4b0c-81e6-aeb8131cfe87',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
+    '萨摩亚',
     NOW()
   ),
   (
-    '9296ec13-cdfe-456a-85b6-81ee19150351',
-    '960c8c2c-30d5-4e10-8833-d1227eaf715e',
-    'Ð¡Ð°Ð¼Ð¾Ð°',
+    '0c528a35-8a5a-46f0-b53b-09873502e85a',
+    'f9edbd74-24bd-4e5e-99db-fc605f1950fa',
+    'Самоа',
     NOW()
   ),
   (
-    'd82e366e-4aa9-4aa7-bc43-45c7cc5f56c6',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'c9487b52-f17f-4492-b1da-22011e64c26a',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'St. Vin. and Gren.',
     NOW()
   ),
   (
-    '5b06b428-7250-4eae-98e8-f084612cb064',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    'ad18b2a8-f520-4075-8176-618a24d8fff8',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'Saint Vincent and the Grenadines',
     NOW()
   ),
   (
-    '472c9e45-6fdb-46ac-b09a-9570cf923917',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '3192a66d-3de7-4a7d-adb2-9b6f85cd41eb',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'St.V.G.',
     NOW()
   ),
   (
-    'df1e03e3-62fe-4c27-b47f-8a77fd12aee3',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
-    'Ø³Ø§Ù†Øª ÙÙŠÙ†Ø³Ù†Øª ÙˆØ§Ù„ØºØ±ÙŠÙ†Ø§Ø¯ÙŠÙ†',
+    'f6a0f963-749c-4467-a4a9-5da6239f4f3f',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
+    'سانت فينسنت والغرينادين',
     NOW()
   ),
   (
-    'dcf05e65-0c86-4b03-aad7-70cddcf8e736',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '06b03e44-f927-470f-86fa-24f6f909c174',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'St. Vincent und die Grenadinen',
     NOW()
   ),
   (
-    '62eb1864-59d6-4018-a616-9e3006881efc',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '5b05e211-3401-494c-881a-da12d6752a05',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'San Vicente y las Granadinas',
     NOW()
   ),
   (
-    '858fc8a4-039f-443b-8f1b-4d6aa9748e7a',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
+    '901806b4-d29c-426d-a864-9ba656135b8a',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
     'Saint-Vincent-et-les-Grenadines',
     NOW()
   ),
   (
-    '184d16dc-3e0e-49b3-9bcb-4139ccaff003',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
-    'åœ£æ–‡æ£®ç‰¹å’Œæ ¼æž—çº³ä¸æ–¯',
+    '7a440a0f-5814-4c26-81cb-c4f4f4b1884d',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
+    '圣文森特和格林纳丁斯',
     NOW()
   ),
   (
-    'a3a7a879-413b-4643-95fe-4711da772007',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
-    'Ð¡ÐµÐ½Ñ‚-Ð’Ð¸Ð½ÑÐµÐ½Ñ‚ Ð¸ Ð“Ñ€ÐµÐ½Ð°Ð´Ð¸Ð½Ñ‹',
+    '4ead61a3-499b-4623-a570-d34ee956c8c2',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
+    'Сент-Винсент и Гренадины',
     NOW()
   ),
   (
-    'a808be17-c9d7-472a-8083-5ef07ad05f4f',
-    'a9d1bcdc-d55b-4d37-be16-b26f420228a3',
-    'SÃ£o Vicente e Granadinas',
+    'fecfe92b-d30b-4fed-98be-b93e4d90de06',
+    '11576bcd-d318-4c2a-930d-bb123fb34cd4',
+    'São Vicente e Granadinas',
     NOW()
   ),
   (
-    'dc3d7c45-ad3d-4aba-95d3-cdaf709c2bfa',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'a352d843-6390-43c7-882b-106c2f57fe82',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'Saint Lucia',
     NOW()
   ),
   (
-    'aa16e520-d3d3-40d7-a4b1-238b250a64ce',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'd69f38d8-7c93-4f4c-b705-1cb5f4721f45',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'S.L.',
     NOW()
   ),
   (
-    '0910cf83-4065-4b49-b320-bc58ccef0f2b',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
-    'Ø³Ø§Ù†Øª Ù„ÙˆØ³ÙŠØ§',
+    'b7fb18ec-08cf-41d1-bd4b-536689983a59',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
+    'سانت لوسيا',
     NOW()
   ),
   (
-    '4481a335-d987-4e61-b879-fd514fe772ff',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    'a924a3c2-6294-4f42-a673-9d314ce9365b',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'St. Lucia',
     NOW()
   ),
   (
-    'b370958f-bda0-4180-a5cb-244626b8b211',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
-    'Santa LucÃ­a',
+    '29eed826-a2b3-49c7-8d6c-843682b7b4dc',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
+    'Santa Lucía',
     NOW()
   ),
   (
-    '829d2227-c2a5-430c-8c3b-f46c0cfbbc2d',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
+    '18ba90d8-daf3-4287-9151-fb10f5b8abd0',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
     'Sainte-Lucie',
     NOW()
   ),
   (
-    '5ea07b6d-cfea-4bd9-8db5-fa6314d2edc9',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
-    'åœ£å¢è¥¿äºš',
+    'a9f5a92d-0465-447a-ac4e-342ce44ae80f',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
+    '圣卢西亚',
     NOW()
   ),
   (
-    '6c0e8aa9-31a4-4b07-b8b8-8895a6cccade',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
-    'Ð¡ÐµÐ½Ñ‚-Ð›ÑŽÑÐ¸Ñ',
+    '9383e66d-2ce1-47e0-b9da-4c29ab772bb3',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
+    'Сент-Люсия',
     NOW()
   ),
   (
-    '61112d95-36cc-4324-bf0c-dc8845bb0492',
-    '25886a5d-c93d-4da5-b7b7-de336acd7a72',
-    'Santa LÃºcia',
+    '799953f4-3fd8-4fcb-b953-c78b73a729fb',
+    '20cf0187-c7f3-4fa9-9faf-e64f62f80cb5',
+    'Santa Lúcia',
     NOW()
   ),
   (
-    '93275c2d-e7d6-48bc-bde2-f97803f5ee4e',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '4c26aa26-5775-4b7a-a692-bce77881d5ff',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'St. Kitts and Nevis',
     NOW()
   ),
   (
-    'd3f7640a-99e1-459c-9673-44d2ceb27bde',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'b4fef407-d5ac-4c6d-abdf-13952c0fe6ca',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'Saint Kitts and Nevis',
     NOW()
   ),
   (
-    '4e016e2e-e5b2-4b08-80a0-cf0c0bb41dff',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'fa7b0e54-e72a-4adf-a5ba-150078fdcd2f',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'Federation of Saint Kitts and Nevis',
     NOW()
   ),
   (
-    '66df873b-0276-4b71-8291-0e834658b0ff',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    '29e40ba3-7288-4307-8f3b-37dc960a2309',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'St.K.N.',
     NOW()
   ),
   (
-    '169daa94-284e-4b2c-a354-6773aa2ebfd9',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'Ø³Ø§Ù†Øª ÙƒÙŠØªØ³ ÙˆÙ†ÙŠÙÙŠØ³',
+    'a802b1f9-5cfb-4065-b8ad-47e4820a93bd',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    'سانت كيتس ونيفيس',
     NOW()
   ),
   (
-    '823547ee-43e2-4d98-97d2-f7f2eda02fa8',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
+    'a8751976-6135-4109-be15-2f7a53004cce',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
     'St. Kitts und Nevis',
     NOW()
   ),
   (
-    'f6bd23e9-aeda-4b54-ad23-285da934c2c9',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'San CristÃ³bal y Nieves',
+    '1ab176d4-e2e7-4b1b-a16b-0b01879ac919',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    'San Cristóbal y Nieves',
     NOW()
   ),
   (
-    'c83d3a30-90b0-48d5-ad32-c27d81395de0',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'Saint-Christophe-et-NiÃ©vÃ¨s',
+    '99265162-704b-41f8-8882-f151ebd116cf',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    'Saint-Christophe-et-Niévès',
     NOW()
   ),
   (
-    '6d9b1836-a27f-41e1-ba06-63a0420b7762',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'åœ£åŸºèŒ¨å’Œå°¼ç»´æ–¯',
+    '789b13ac-f3ec-4b5c-8c41-bee2ce5b3e04',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    '圣基茨和尼维斯',
     NOW()
   ),
   (
-    '5ac6c719-66b2-441d-b98c-91e2d824c340',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'Ð¡ÐµÐ½Ñ‚-ÐšÐ¸Ñ‚Ñ Ð¸ ÐÐµÐ²Ð¸Ñ',
+    '5def572e-0b33-4f3c-a21e-aa16d649f689',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    'Сент-Китс и Невис',
     NOW()
   ),
   (
-    '5c02ad63-fa44-4df7-bd29-4d5d9f71b822',
-    'bdeede6b-3eae-40a9-84ec-f83d370efffe',
-    'SÃ£o CristÃ³vÃ£o e Nevis',
+    '46ba0844-1b94-4970-86f2-97a0207b72dd',
+    '01fc8935-4e88-40c0-9b42-8779edab69ea',
+    'São Cristóvão e Nevis',
     NOW()
   ),
   (
-    '879936ec-7147-4975-b597-88895da7d178',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '6f2a4df8-6803-4ac3-b1fd-8d20e2173a28',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'Rwanda',
     NOW()
   ),
   (
-    '84885f6b-d7be-42fe-a0c1-3cb58478fd15',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'dfc5e463-8860-47f6-8068-6276540b9170',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'Republic of Rwanda',
     NOW()
   ),
   (
-    'e54143cc-41f5-4708-a768-717f04887594',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    '40a6eee3-91f3-4387-be5a-c6106872a807',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'Rwa.',
     NOW()
   ),
   (
-    '13eed4eb-5b82-4b72-9aff-0b5cc6998bf6',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
-    'Ø±ÙˆØ§Ù†Ø¯Ø§',
+    '9b2e5fab-e2bc-4b56-948d-2742dc5132d2',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
+    'رواندا',
     NOW()
   ),
   (
-    '1e86f822-8d75-4ef7-8d82-29b1230f88e9',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
+    'be287a84-acce-4b75-a6cf-e92ce42a1a95',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
     'Ruanda',
     NOW()
   ),
   (
-    'e191fb85-761b-4d2e-971e-231b3380c48f',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
-    'å¢æ—ºè¾¾',
+    '8395fbd5-4952-4a4f-9185-99ae58f82ec9',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
+    '卢旺达',
     NOW()
   ),
   (
-    '6584fc1d-c60e-4cba-a4df-4018fd1cc08a',
-    'f6b416da-988a-43f2-8642-78f650ec76cd',
-    'Ð ÑƒÐ°Ð½Ð´Ð°',
+    '1d777f43-767d-4a7c-999d-ce55e8e2dce1',
+    '550593d3-1bed-42db-8c98-a572a039b7f5',
+    'Руанда',
     NOW()
   ),
   (
-    'b311c755-e3e7-442c-9595-3bff45a4ec13',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '3d1dd61d-9a5a-4619-974b-95aaabcbd3b9',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Russia',
     NOW()
   ),
   (
-    'a9519239-9f45-4723-9765-5e7713515eb2',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '167a6fda-3dba-43a5-921f-00d769d595c5',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Russian Federation',
     NOW()
   ),
   (
-    '890b3a28-941b-4abf-9c99-a12b8e825116',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    'f6b5220e-b492-4bef-94eb-9a8f76432cbb',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Rus.',
     NOW()
   ),
   (
-    '5f6e4a9c-de60-4b34-b54f-af67322823c8',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
-    'Ø±ÙˆØ³ÙŠØ§',
+    '83c3e2cf-0075-4140-86c5-f3e687cef799',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
+    'روسيا',
     NOW()
   ),
   (
-    '87d3dc8a-9b98-46a5-b29a-8a661a2de999',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '20d97df1-b4f6-49d9-b03f-566a81ddfa12',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Russland',
     NOW()
   ),
   (
-    'a790388b-db44-4757-8a3b-31633c818462',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '0bde9721-5b9c-470e-9268-3536b92f1aed',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Rusia',
     NOW()
   ),
   (
-    '04de7098-491d-41d0-a0ae-f896a2aa13b2',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
+    '4ea0fddd-10c8-44fa-8ead-35f923a55709',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
     'Russie',
     NOW()
   ),
   (
-    'bea4227f-24a9-45fc-bc1d-2e83409d79e9',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
-    'ä¿„ç½—æ–¯',
+    'c8b82e1a-c17b-4bcb-a258-2a6f36fff02a',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
+    '俄罗斯',
     NOW()
   ),
   (
-    '89093b5e-a08f-4033-a4cb-56679513434a',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
-    'Ð Ð¾ÑÑÐ¸Ñ',
+    '99a1ca05-dcc2-43d5-ab4a-2ff9d15086f6',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
+    'Россия',
     NOW()
   ),
   (
-    'e2fdcb88-369e-48a2-a41e-66bccbe1ed1f',
-    '0a9dd995-5337-45af-92f9-d25b43725e92',
-    'RÃºssia',
+    '730137a5-d132-4a2a-bb9a-f8f920cbb6d6',
+    'af4b04bb-b5f0-432b-a35a-b4e1af2e7807',
+    'Rússia',
     NOW()
   ),
   (
-    '0ecbe022-a931-405e-8799-3bc72ff4e92d',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'dff49cff-5f56-4f6d-9d69-51b71c4f67aa',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'Romania',
     NOW()
   ),
   (
-    '90eda54c-3e41-418c-bf12-ec38fd1f4511',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '41154742-f409-41fb-82a5-26b6b8bb57ef',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'Rom.',
     NOW()
   ),
   (
-    '46c0efaf-77f5-4dbb-bdee-a6fcd80d57f3',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
-    'Ø±ÙˆÙ…Ø§Ù†ÙŠØ§',
+    '504ce03d-7238-4248-af81-47eebebc6d27',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
+    'رومانيا',
     NOW()
   ),
   (
-    'e92736cd-0fc4-4868-b4cc-aaf56608b406',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
-    'RumÃ¤nien',
+    'c85433f5-090b-44f0-af95-d14278ea232d',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
+    'Rumänien',
     NOW()
   ),
   (
-    '2f62fdd3-61f2-41a6-8037-7087718bc96a',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    '38ed8628-386c-4f48-88e4-bfa68a8a59e4',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'Rumania',
     NOW()
   ),
   (
-    'ab76dee6-790c-46db-a051-0711146fb558',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
+    'a0f7c7ac-3aa8-4f50-bd93-ec24163bccdc',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
     'Roumanie',
     NOW()
   ),
   (
-    'fe5e2214-34d3-4a81-8d59-43dd9cca1764',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
-    'ç½—é©¬å°¼äºš',
+    '97026978-e6ce-42fe-836f-19d038ff66ac',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
+    '罗马尼亚',
     NOW()
   ),
   (
-    'c4ef6831-8d33-48d6-afda-ddad4beff957',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
-    'Ð ÑƒÐ¼Ñ‹Ð½Ð¸Ñ',
+    'bf0a0094-6fae-46ad-9d49-1d87faa5ec4f',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
+    'Румыния',
     NOW()
   ),
   (
-    'b3a82512-8b07-415e-b0d1-757138c407ab',
-    'b1314f10-4e27-4434-87ff-54e320e587b0',
-    'RomÃ©nia',
+    'eb4bc59f-071f-45cd-bc20-e65c059a8ddd',
+    'a06cfd2f-da5b-47db-9b71-d15c6cf78433',
+    'Roménia',
     NOW()
   ),
   (
-    '864b8132-c3c3-4c6b-b66e-cf1e2d56b316',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'db0d2526-f0ff-4d79-a911-1dcf10b0c007',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'Qatar',
     NOW()
   ),
   (
-    'c7b57c2c-a938-4ce0-b973-bbbbfe955896',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '8fcd6156-bf41-4d29-9d9a-83a0817c3977',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'State of Qatar',
     NOW()
   ),
   (
-    'baaff9a7-9189-4f31-8400-454a31e2d182',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
-    'Ù‚Ø·Ø±',
+    '85ce8f6a-2b2a-4be6-b503-7037c56160d7',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
+    'قطر',
     NOW()
   ),
   (
-    'e2304abb-13bf-4f00-82ab-a8a30a98568d',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    'fbb03bb1-b9ed-442f-9643-52ecdae93981',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'Katar',
     NOW()
   ),
   (
-    'a2f90b14-cf58-42f3-8804-0d8766055b18',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
+    '32c037c6-1b12-4cdf-9f8e-c36f7d0469fb',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
     'Catar',
     NOW()
   ),
   (
-    'a04fb34c-8fe0-4c1e-8e0e-f353dc421ad7',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
-    'å¡å¡”å°”',
+    '84709b9f-05c1-4567-a1aa-e999feea048e',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
+    '卡塔尔',
     NOW()
   ),
   (
-    '10b4617e-90c0-4a31-86d6-fb71c23b377a',
-    '25b80a57-b96e-4864-99e1-9cba27934c1b',
-    'ÐšÐ°Ñ‚Ð°Ñ€',
+    'e193cbfe-a745-4e36-87c4-ff22c7221442',
+    'd118a4bd-b19f-4f87-b0f1-f5e4221df1e4',
+    'Катар',
     NOW()
   ),
   (
-    'f3f52936-e157-4798-83cb-54b4c173c7df',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '1de8d4f4-1fae-43e5-8478-ef03381f644f',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'Portugal',
     NOW()
   ),
   (
-    '31a0979e-93b7-44f1-aa3f-deda9a263573',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    '558f6951-954d-4613-891d-5335c0af79dd',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'Portuguese Republic',
     NOW()
   ),
   (
-    '2c5790dd-ab33-46b1-a5e5-46fd19fd4a94',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
+    'b3f7164c-6550-4a15-893e-13a2e40c6deb',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
     'Port.',
     NOW()
   ),
   (
-    '777baaaa-8dfd-437c-b327-1b288349368d',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
-    'Ø§Ù„Ø¨Ø±ØªØºØ§Ù„',
+    '0fdcdc66-8006-4c9f-950e-3487cb02c272',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
+    'البرتغال',
     NOW()
   ),
   (
-    '58646a3a-024a-4e58-abf3-783397bbd322',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
-    'è‘¡è„ç‰™',
+    'cfcf0d0e-d61f-4b8c-883f-94a570bd12c7',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
+    '葡萄牙',
     NOW()
   ),
   (
-    '643c3c18-f089-4791-837b-fc09b6117852',
-    'f07f11d3-f36a-4077-8132-96fb6959f304',
-    'ÐŸÐ¾Ñ€Ñ‚ÑƒÐ³Ð°Ð»Ð¸Ñ',
+    'fa24d3e6-ff4d-40c9-a7b9-02fe2a481677',
+    'a5464bcd-30df-4da5-8ccc-cead86e31dd4',
+    'Португалия',
     NOW()
   ),
   (
-    '33daa94d-2043-488c-9564-482a76063b28',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'e5915356-8039-43f1-9b19-3e237b01dc67',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Poland',
     NOW()
   ),
   (
-    'b358e310-25ea-4dac-80b1-43b1e7f27ee4',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '6b831f45-808a-464c-b93d-84bbe7186287',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Republic of Poland',
     NOW()
   ),
   (
-    '35e44825-e3e4-478d-bd36-4fec42600046',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '8d9ff018-53e6-40aa-9a21-c0fc5be1e68b',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Pol.',
     NOW()
   ),
   (
-    '5247b0a6-0a05-479f-b8f8-2bdf0c928582',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
-    'Ø¨ÙˆÙ„Ù†Ø¯Ø§',
+    '8804b5de-4fad-48bd-9461-8baaab351342',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
+    'بولندا',
     NOW()
   ),
   (
-    '0ed5d27c-a6cc-4052-a195-69a4fd67c9cc',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '772ad741-66f1-4766-ad53-bb9611921874',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Polen',
     NOW()
   ),
   (
-    'ab44b1a8-da75-4f08-82ab-6d50e04a6ce6',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    '9960e9be-d416-4869-8ac5-cbd6d2dd5748',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Polonia',
     NOW()
   ),
   (
-    '876c1e63-ae26-438a-9de2-5fddc7cbcaec',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
+    'e5002eb2-8b19-46e6-a8d4-c02a3ac8174f',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
     'Pologne',
     NOW()
   ),
   (
-    '4f908bf3-437c-4fb4-80e7-36fdcf334e12',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
-    'æ³¢å…°',
+    '46dda267-0f1f-4ad7-b939-b435fb1c46be',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
+    '波兰',
     NOW()
   ),
   (
-    'cad41900-a920-4c7a-a535-10a324d188a0',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
-    'ÐŸÐ¾Ð»ÑŒÑˆÐ°',
+    '1c3eb62a-8f11-4a80-bc37-a1b95dee6b79',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
+    'Польша',
     NOW()
   ),
   (
-    '1a2e01b1-826b-471a-aa21-69a44c141236',
-    'ccd2c715-d43f-4d3b-aba6-75b003280aec',
-    'PolÃ³nia',
+    'f3295827-c100-41b4-a282-9cdcf81c8ddf',
+    '5503d356-f8f5-4d0d-9925-f3e12ba0c388',
+    'Polónia',
     NOW()
   ),
   (
-    '97d0ca5b-fe2f-4881-aa08-4c2878a5f5d3',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '9db8ab28-7dd9-411e-a4b0-d178a2ad9356',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'Philippines',
     NOW()
   ),
   (
-    'd1436b61-11f5-4fe6-8dd1-8794b020323d',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '9f7d5608-1cb3-46ad-ba38-302b3c1f7b79',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'Republic of the Philippines',
     NOW()
   ),
   (
-    'a0bc50da-c126-4d3b-8552-752e338b4976',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    'c9045857-2d53-41e8-ad93-0aee4e651eed',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'Phil.',
     NOW()
   ),
   (
-    '1b031a14-64e7-439d-ad24-17df6713b5f2',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
-    'Ø§Ù„ÙÙ„Ø¨ÙŠÙ†',
+    'd471841f-91e7-4b12-92e1-7fb37ed6826c',
+    '3380f90d-aa37-498c-bf16-527e77135978',
+    'الفلبين',
     NOW()
   ),
   (
-    'a144c263-c229-44da-8307-9be5ce04b377',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '063ec858-4b69-4719-a29c-95b74a237c81',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'Philippinen',
     NOW()
   ),
   (
-    '0bb8aadb-ada2-4a27-902c-2ccfc32fea2f',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
+    '2fb69010-0b48-4d0d-9b79-574264b13bea',
+    '3380f90d-aa37-498c-bf16-527e77135978',
     'Filipinas',
     NOW()
   ),
   (
-    'dea27f80-d6e8-4c1f-89f1-93658d2b9a49',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
-    'è²å¾‹å®¾',
+    '9bfdcdf6-3daa-4dae-a94a-32dbce4d5f26',
+    '3380f90d-aa37-498c-bf16-527e77135978',
+    '菲律宾',
     NOW()
   ),
   (
-    '7e730372-ee57-4e14-acf9-c7fbba12aece',
-    '3b7adfe2-f7fb-4724-b460-315369bd3ed1',
-    'Ð¤Ð¸Ð»Ð¸Ð¿Ð¿Ð¸Ð½Ñ‹',
+    '992d79c9-785d-4bda-953b-3b7b096c0560',
+    '3380f90d-aa37-498c-bf16-527e77135978',
+    'Филиппины',
     NOW()
   ),
   (
-    'd4a567cf-5bd4-4f63-86f2-1be1735df50e',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'e704d966-2914-4c92-812c-baa080a34f8f',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'Peru',
     NOW()
   ),
   (
-    '4cdcb312-2bb8-4aa9-bc37-26e456529fdc',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
+    'e2ca09c1-f68f-42cb-a660-95977b1b5509',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
     'Republic of Peru',
     NOW()
   ),
   (
-    '5c1adf3d-809f-43a5-9164-b624ea4e5f1f',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
-    'Ø¨ÙŠØ±Ùˆ',
+    'c45562da-a8fb-450c-94c3-63c586f2a7bc',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
+    'بيرو',
     NOW()
   ),
   (
-    'd55121f9-a731-4a7b-a9a7-df3a54148be5',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
-    'PerÃº',
+    '70b62b2c-0c67-48b4-bb8a-d3e6b98b920f',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
+    'Perú',
     NOW()
   ),
   (
-    'c6436ada-09e8-4bc9-af27-39021606c528',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
-    'PÃ©rou',
+    '0d437bd0-341e-4cdd-8553-e72417395b24',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
+    'Pérou',
     NOW()
   ),
   (
-    '50dc5e37-0711-4205-9900-87806f3e166a',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
-    'ç§˜é²',
+    '1c61118e-74b1-43fd-af21-9144e93f5995',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
+    '秘鲁',
     NOW()
   ),
   (
-    '8ebd8d01-6681-45d5-ab16-67a64e927ff7',
-    'c8dee43e-adb8-457b-b468-69fbbcd650cc',
-    'ÐŸÐµÑ€Ñƒ',
+    '1e84b2e0-a0ea-4ac3-8169-713d87c0aa9c',
+    'a228c12c-387a-4d28-aff0-7cb318a3da26',
+    'Перу',
     NOW()
   ),
   (
-    'a6624584-14e0-4f9f-afd0-8377b49bb036',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'fbd3ec00-4bb3-4fa6-a8b4-6f4832162eb9',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'Paraguay',
     NOW()
   ),
   (
-    'f13ef61d-a806-4937-83c2-33373eaf44d9',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '84256c84-967d-4ba2-b443-037c110297b0',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'Republic of Paraguay',
     NOW()
   ),
   (
-    'dff968e5-7dee-4345-bb50-7ae51027f365',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    '1cbe433b-40ab-4458-b0b1-b4f1c633f1e1',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'Para.',
     NOW()
   ),
   (
-    '1245824b-519c-4d48-96f7-389f18094b5b',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
-    'Ø¨Ø§Ø±Ø§ØºÙˆØ§ÙŠ',
+    'fe6e6eec-21ad-46a5-ba06-cf3c2ecf121f',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
+    'باراغواي',
     NOW()
   ),
   (
-    'f9c47646-6cec-48a6-af72-79075b4ea0eb',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
-    'å·´æ‹‰åœ­',
+    'f8b321f8-d54e-4dd7-8816-4347cd04baaf',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
+    '巴拉圭',
     NOW()
   ),
   (
-    'cf22a8d3-8ad1-4463-834a-0b8b155ee96e',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
-    'ÐŸÐ°Ñ€Ð°Ð³Ð²Ð°Ð¹',
+    '9a85224d-d568-4a12-9ba5-747589495119',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
+    'Парагвай',
     NOW()
   ),
   (
-    '69fe9fa2-5e58-46d7-91ec-13620ec9ae22',
-    '176f5f76-ce3f-40d1-b4f9-229964a34cb5',
+    'f631dc72-1739-454a-b14b-57fbfdeb6d4c',
+    'd5625dfa-bc98-4e0e-a35e-eb93f613d806',
     'Paraguai',
     NOW()
   ),
   (
-    '266bff19-5338-4b7f-8cbe-3a7180ea9dd9',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '20408064-ab47-4e1b-8bc6-c7d5d57afc91',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'Papua New Guinea',
     NOW()
   ),
   (
-    'b590d923-151b-4bd3-b0bf-60f452ecd4a8',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '2d27417d-20db-4e03-8323-aceb7d6ec6c4',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'Independent State of Papua New Guinea',
     NOW()
   ),
   (
-    '45921944-4551-4776-bbb9-7891859e4ac2',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    '9837cb08-cdaa-4185-b54b-270923a12e79',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'P.N.G.',
     NOW()
   ),
   (
-    '555b4bf2-45bd-405e-8f08-b64c6f3ca91d',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'Ø¨Ø§Ø¨ÙˆØ§ ØºÙŠÙ†ÙŠØ§ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©',
+    'b37ed63a-375b-4601-94f1-43c0c502dd85',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    'بابوا غينيا الجديدة',
     NOW()
   ),
   (
-    '4d1bff7f-6b78-42b6-b1f8-673ebbf5a00e',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
+    'cf42f79f-7c08-4848-8253-62aa11949db3',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
     'Papua-Neuguinea',
     NOW()
   ),
   (
-    'ea843e50-d981-44fc-b2fe-ba0913a96df2',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'PapÃºa Nueva Guinea',
+    'bb445639-85f6-4353-8c6a-d5d1b33aba24',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    'Papúa Nueva Guinea',
     NOW()
   ),
   (
-    'e90bb5c9-9061-4710-8ddd-1df2a2739838',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'Papouasie-Nouvelle-GuinÃ©e',
+    '8f1fd146-9e2b-47c4-be1e-46c7682638df',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    'Papouasie-Nouvelle-Guinée',
     NOW()
   ),
   (
-    '16d70601-b25d-49b2-aa07-202d4be2cbcc',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'å·´å¸ƒäºšæ–°å‡ å†…äºš',
+    'da84499b-089d-487d-a30d-efdffa8df3a1',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    '巴布亚新几内亚',
     NOW()
   ),
   (
-    '132ab965-2016-41bd-8cbe-4d88bbe30a56',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'ÐŸÐ°Ð¿ÑƒÐ° â€” ÐÐ¾Ð²Ð°Ñ Ð“Ð²Ð¸Ð½ÐµÑ',
+    'eabaa87c-e166-47aa-91e3-ae00533e5bed',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    'Папуа — Новая Гвинея',
     NOW()
   ),
   (
-    '9b2133b9-f251-4b02-9526-273deef99b30',
-    'fe97bc9c-85b5-4cb8-aac8-eacef4365886',
-    'Papua-Nova GuinÃ©',
+    '60699a85-ad60-47ee-9cd2-41c2a0271b64',
+    '17697258-8273-4714-8912-9ab0cafe3a6c',
+    'Papua-Nova Guiné',
     NOW()
   ),
   (
-    '053c9f87-ab18-4e42-aaf0-b8d3185acd8d',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    'f249dfbc-5b65-40e0-8ea7-413177d62dc8',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'Panama',
     NOW()
   ),
   (
-    'ef2e6fd0-083f-404f-a662-ed7a624f48df',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '8c3ee8d0-11b5-475b-8992-49ba0919c7ff',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'Republic of Panama',
     NOW()
   ),
   (
-    '9ca8873f-4c04-4c06-b8ca-4847187ff992',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
+    '5c55c7c6-c02d-4209-bc15-5af0c4590ec8',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
     'Pan.',
     NOW()
   ),
   (
-    '34684616-6568-4d4a-8d0e-7db8f55ea7de',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
-    'Ø¨Ù†Ù…Ø§',
+    '144afa95-17e1-4f14-a44f-5421534294a7',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
+    'بنما',
     NOW()
   ),
   (
-    '50391719-e7cf-48d6-987d-dbe9c7e76d6d',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
-    'PanamÃ¡',
+    'a7f988d7-3f18-4adc-9918-408db47a499b',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
+    'Panamá',
     NOW()
   ),
   (
-    '9a424b47-87cc-45ea-8309-ffb7d059f74a',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
-    'å·´æ‹¿é©¬',
+    '409c6259-9eea-46d1-b92a-009d490d6824',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
+    '巴拿马',
     NOW()
   ),
   (
-    'b28a1e66-a43d-4aca-8026-8c1bead3e142',
-    '1bf2cf9f-7896-46ca-b158-629e269ee763',
-    'ÐŸÐ°Ð½Ð°Ð¼Ð°',
+    'c98a8a88-e8af-4b77-a662-93ccc6a11739',
+    '2f5ca918-306c-4877-b809-92e7baf671e1',
+    'Панама',
     NOW()
   ),
   (
-    'b5e5f4c1-9e7e-40d6-ba45-ee3afd1d60f3',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    '115f847c-01e3-496e-aafc-36b0587523d4',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'Palau',
     NOW()
   ),
   (
-    'c495a006-7875-4704-aab9-cb0f7b7062e2',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'f6a25dae-e670-46ee-bb65-da05062e216a',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'Republic of Palau',
     NOW()
   ),
   (
-    '24676a3e-81b1-42ae-91a2-6411694eb37d',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
-    'Ø¨Ø§Ù„Ø§Ùˆ',
+    'ea0148b6-c8f5-4554-b25e-14fada1adb6c',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
+    'بالاو',
     NOW()
   ),
   (
-    '38cca29f-61e0-42d8-9a6b-bb27756007c4',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
+    'f1071f17-aed8-4552-acb7-b460053aedee',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
     'Palaos',
     NOW()
   ),
   (
-    '9002d0ff-222c-4c6e-ba5c-ca9c5b8555e4',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
-    'å¸•åŠ³',
+    'd49e6e4b-8683-47cd-8d3f-b43b495b620b',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
+    '帕劳',
     NOW()
   ),
   (
-    'd513d232-6fde-4b13-8fd8-9f21ce945a78',
-    '9e05e507-3cbe-477d-8feb-7d0d67ec4207',
-    'ÐŸÐ°Ð»Ð°Ñƒ',
+    '6f0e8838-305f-4620-b363-6caad98cd57c',
+    '571ab617-9f45-40f5-8e19-79124036ef17',
+    'Палау',
     NOW()
   ),
   (
-    '1011566e-b750-4683-94a5-ae241e7e75ab',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '61b01624-ae73-4806-8e8f-8de15048771c',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'Pakistan',
     NOW()
   ),
   (
-    '6eac5947-6956-4f01-ab60-b23c0273cb47',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    'e95d03a8-7a41-4ea2-a192-bb45b3ee87cd',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'Islamic Republic of Pakistan',
     NOW()
   ),
   (
-    'fb5ec2c3-6a4d-4d7c-9b15-28523152348a',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
+    '947d2d60-5da7-445d-888b-ddb60e3670c5',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
     'Pak.',
     NOW()
   ),
   (
-    '739b14bb-3d1a-42fd-ba82-b64b45bf628a',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
-    'Ø¨Ø§ÙƒØ³ØªØ§Ù†',
+    '6adabac8-fba0-4959-82fd-f3554675cf4c',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
+    'باكستان',
     NOW()
   ),
   (
-    '237cb27e-237f-4f21-b31a-62b1be41ba06',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
-    'PakistÃ¡n',
+    '13264c08-29f6-4aeb-83c0-94f58c1809f1',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
+    'Pakistán',
     NOW()
   ),
   (
-    'd57a866d-a234-4a82-98ac-fb801fdc2d27',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
-    'å·´åŸºæ–¯å¦',
+    'aa9de22b-a675-4023-a927-e82812ad5602',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
+    '巴基斯坦',
     NOW()
   ),
   (
-    '0d90092d-49bb-4120-bc7d-95f14537e49b',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
-    'ÐŸÐ°ÐºÐ¸ÑÑ‚Ð°Ð½',
+    'c68a9966-20f3-4745-b1b3-8ca360c4d5cc',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
+    'Пакистан',
     NOW()
   ),
   (
-    'bb339651-5a96-49c1-a632-c28f477df52f',
-    '9446145b-a4cf-4bfb-9ef0-e3670f311bf7',
-    'PaquistÃ£o',
+    'f2fc555c-d66d-486d-8c66-578f91e1fc8b',
+    'de01a940-a8e1-497a-8e5b-f4f7db76faa5',
+    'Paquistão',
     NOW()
   ),
   (
-    'c6716070-1fac-4af6-b716-c709cef6a14f',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    'a34a4c6a-ca40-41a3-be3d-5cc09b444afe',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'Oman',
     NOW()
   ),
   (
-    'a380c999-3004-4b38-bf78-115cb31b23fb',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
+    '9475d17a-9e67-4814-9eca-2e08424a57c5',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
     'Sultanate of Oman',
     NOW()
   ),
   (
-    'df023d7b-7ae8-47e3-973e-1ccee430c211',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
-    'Ø³Ù„Ø·Ù†Ø© Ø¹Ù…Ø§Ù†',
+    '526ee186-f18f-4f32-8b3d-d2b72451da27',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
+    'سلطنة عمان',
     NOW()
   ),
   (
-    'fa6c9be0-e50f-484f-b4c4-2e86219e0d74',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
-    'OmÃ¡n',
+    'e05cc6ae-8d19-4eeb-9c48-78e4460b0abc',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
+    'Omán',
     NOW()
   ),
   (
-    '78aff8a4-85b3-4fec-b404-8307e43b2cd7',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
-    'é˜¿æ›¼',
+    'a47c8cfe-747a-4d92-a838-0b067b1a816c',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
+    '阿曼',
     NOW()
   ),
   (
-    'beb73def-7467-448e-8e81-0162139d1982',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
-    'ÐžÐ¼Ð°Ð½',
+    'b9951fd6-907d-4a83-ab52-161e5f26bdb5',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
+    'Оман',
     NOW()
   ),
   (
-    '3b9d8599-a2a5-4683-8932-cf86da218e8a',
-    '93ff2c6e-012f-4672-a853-c287ea62351d',
-    'OmÃ£',
+    '30de33b1-1a8b-4a87-ac52-c09174d6ca8f',
+    '2f4c5da3-a3b0-4a4c-8838-f18380dafe21',
+    'Omã',
     NOW()
   ),
   (
-    '6ebe8a2c-d092-4cc9-a50b-587778c3cf71',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'cb47b7f7-d6cb-4fc7-980b-08e0b82ff25c',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'Norway',
     NOW()
   ),
   (
-    '43c0e749-54f8-4c45-ba5a-68b27cd75377',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '322817f4-2732-4daa-a0b1-9162056bacb3',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'Kingdom of Norway',
     NOW()
   ),
   (
-    '8acf1952-b387-4691-a212-106d55df7243',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '80eb9be5-b26f-47a5-8cac-372c598c38e8',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'Nor.',
     NOW()
   ),
   (
-    '15c36cbd-7e9e-4149-b80b-db4113130216',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
-    'Ø§Ù„Ù†Ø±ÙˆÙŠØ¬',
+    '4773f532-b293-4989-9c13-5da0e0ba1aa1',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
+    'النرويج',
     NOW()
   ),
   (
-    '3597f61e-a10f-40d9-bc22-4f6d19ef5b55',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    'ff1c5fe6-946e-47c2-afc0-dcefe912208d',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'Norwegen',
     NOW()
   ),
   (
-    'b22136f7-e616-4ec8-975c-06a78d032392',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
+    '3a35c37e-82c7-457b-bc3f-e56c73321e05',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
     'Noruega',
     NOW()
   ),
   (
-    'eeb8414c-8b4f-4f0e-bdbe-352253b3491f',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
-    'NorvÃ¨ge',
+    '012fffdb-c555-46cb-a444-d1202491b0ca',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
+    'Norvège',
     NOW()
   ),
   (
-    'ebd701da-a7b2-417b-887c-f9aa6c896c65',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
-    'æŒªå¨',
+    '98bbf538-85bb-47ca-a7f5-486ba1735d4f',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
+    '挪威',
     NOW()
   ),
   (
-    '28b1bee5-4a81-42ce-8114-ba3ae424b554',
-    'dfa4baf7-b1d7-41be-87a9-745bd41b7964',
-    'ÐÐ¾Ñ€Ð²ÐµÐ³Ð¸Ñ',
+    '5765fc07-865f-41b3-8906-489bb08a60e5',
+    '5e2fc4fa-4e98-4cac-810a-2062a020f2b7',
+    'Норвегия',
     NOW()
   ),
   (
-    'b10fe397-667b-4109-99db-23f98319daee',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '53ee5adb-8275-4703-b24b-cc994b32e0b3',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'North Korea',
     NOW()
   ),
   (
-    'd740cee6-ba59-4281-a267-33c8081af44e',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '1273cb33-d53a-49cb-82ce-395fe7a4e135',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'Dem. Rep. Korea',
     NOW()
   ),
   (
-    '5e3927c7-5e7a-4dd8-b704-45f1a41ea739',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    'f3e3511e-720c-4f15-a934-feca925185d2',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'Democratic People''s Republic of Korea',
     NOW()
   ),
   (
-    '7ade39ce-840c-4261-aae4-c701529f26e8',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '2241cc89-b62c-4c37-9987-79a787fd2279',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'N.K.',
     NOW()
   ),
   (
-    '9d120046-aac1-4a5a-8e1a-db5b3711a5b4',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
-    'ÙƒÙˆØ±ÙŠØ§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
+    'a623c92e-61c6-49c8-8d4c-bfbd2d6799cd',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
+    'كوريا الشمالية',
     NOW()
   ),
   (
-    'd660787f-390f-4b0a-807e-22a5e16232bf',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '877feaf5-314b-4a14-9b7a-7c6a56044b1c',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'Nordkorea',
     NOW()
   ),
   (
-    'fbed62a8-1a17-40ab-8e02-c382664815cc',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '5d2408be-6164-4048-afed-fb9ca1716933',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'Corea del Norte',
     NOW()
   ),
   (
-    '9daf19a0-59ba-4050-83ab-0a00253d752f',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
-    'CorÃ©e du Nord',
+    '8ce6c152-3fc3-4225-a650-360626720ca2',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
+    'Corée du Nord',
     NOW()
   ),
   (
-    'b2446ce7-5d6b-434d-a121-785ece67542e',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
-    'æœé²œæ°‘ä¸»ä¸»ä¹‰äººæ°‘å…±å’Œå›½',
+    '663deee4-4d69-47b1-a181-b5de827da085',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
+    '朝鲜民主主义人民共和国',
     NOW()
   ),
   (
-    'b295dd83-0c91-443b-a382-f6af4e380dba',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
-    'ÐšÐÐ”Ð',
+    '4e3fd0d7-9577-4744-9204-ceb4833947e2',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
+    'КНДР',
     NOW()
   ),
   (
-    'c1a95b57-4a76-49b6-9a23-81a3d02deba8',
-    '7dfea1af-5914-48a0-aaf0-95a3e2e29475',
+    '0bce9c5e-6516-4867-94b7-e5ca1e5597e3',
+    'd38180f2-283a-4e2c-8b90-fdc7c2d0b653',
     'Coreia do Norte',
     NOW()
   ),
   (
-    '9770959a-ab1a-4d99-b0c7-ae314c680e0a',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    '8bce027e-c5ee-4dca-b906-3d0ae9e30459',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'Nigeria',
     NOW()
   ),
   (
-    '91a40f58-f022-4592-af5f-eca1198b16a0',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
+    'd74c7fd6-83ab-45de-a5c0-97c30571447a',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
     'Federal Republic of Nigeria',
     NOW()
   ),
   (
-    'a41da74b-f2f6-402c-8471-e0a12fb8c45a',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
-    'Ù†ÙŠØ¬ÙŠØ±ÙŠØ§',
+    '73dadf95-bf9d-4598-8585-532676561c2c',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
+    'نيجيريا',
     NOW()
   ),
   (
-    'ebf0d6e4-9e7e-457f-84a5-d9509830e14d',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
-    'å°¼æ—¥åˆ©äºš',
+    '6bcde6bd-18da-4e21-9ca3-ef25b22c5b36',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
+    '尼日利亚',
     NOW()
   ),
   (
-    'ab0b0afd-e152-4788-bfe5-90a66af40e82',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
-    'ÐÐ¸Ð³ÐµÑ€Ð¸Ñ',
+    'f885dd27-c736-4afa-82a1-ca62a2528810',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
+    'Нигерия',
     NOW()
   ),
   (
-    '777f0453-28d4-44d2-98d3-b639ad8d7bb8',
-    '65895b06-ed6b-44ce-b89f-31402d7dd972',
-    'NigÃ©ria',
+    'f433d5b4-1aec-4d26-adda-05d06e6dec1c',
+    'd7e02c56-225d-4e90-b355-bdb31c96a7a8',
+    'Nigéria',
     NOW()
   ),
   (
-    '6fdf1146-97cd-4935-a621-6a33a53f7614',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    'bead7506-0ac4-470d-b52e-9d2fdd0a2b61',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'Niger',
     NOW()
   ),
   (
-    '88e835c0-6aeb-4c8c-80e5-1046268049a2',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
+    '2c160f99-9d11-4bfb-9a18-298b49a6ba77',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
     'Republic of Niger',
     NOW()
   ),
   (
-    '43e51ae3-c676-4344-8181-e4bc2ffe5d2d',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
-    'Ø§Ù„Ù†ÙŠØ¬Ø±',
+    '1736b5e3-84e8-42c2-9615-19296b3746cf',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
+    'النيجر',
     NOW()
   ),
   (
-    'a6234d1f-de26-44c6-a042-c2c114391bf7',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
-    'NÃ­ger',
+    '2e0763f2-f3c5-43ad-974c-dcd607501f92',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
+    'Níger',
     NOW()
   ),
   (
-    '952033b2-1ca5-45d9-bfd2-53adf81f39eb',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
-    'å°¼æ—¥å°”',
+    '2a73cc08-1e03-460f-963f-508f0c8dea81',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
+    '尼日尔',
     NOW()
   ),
   (
-    'c58d3ea0-f2a0-45ae-a53a-db254c15d45c',
-    'e1186571-87d3-402d-9354-9b2d9889cffe',
-    'ÐÐ¸Ð³ÐµÑ€',
+    '03c565a7-6a89-48db-a970-37bc40fb7698',
+    'c588a0b5-c9ae-46cc-a299-55936772c5d8',
+    'Нигер',
     NOW()
   ),
   (
-    'f0cdea00-67ed-4107-9c14-d6fb6e059adc',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    '276597b5-7c5f-4f99-bae7-aed1d85a0948',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'Nicaragua',
     NOW()
   ),
   (
-    '301620a8-e435-48d4-8e9f-9ec5ac14b80e',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'fda8f869-5688-4aa1-a773-c1547dcf9d81',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'Republic of Nicaragua',
     NOW()
   ),
   (
-    'e17c8865-7822-4685-a8b6-dd6c16667768',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
+    'ad81a64d-62e1-4a56-bec4-42135b881bc2',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
     'Nic.',
     NOW()
   ),
   (
-    '278355d7-ed61-41e1-ba7c-a5c15835be98',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
-    'Ù†ÙŠÙƒØ§Ø±Ø§ØºÙˆØ§',
+    'cd89bfa9-6bba-400d-a729-6a97085c7501',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
+    'نيكاراغوا',
     NOW()
   ),
   (
-    '9f72bd3e-f330-4956-990c-fd53837f0efd',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
-    'å°¼åŠ æ‹‰ç“œ',
+    'db53d990-c26d-408f-8ca0-a026881d912f',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
+    '尼加拉瓜',
     NOW()
   ),
   (
-    '6d8e4491-8fe8-4a76-a3d9-dbc223fa868d',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
-    'ÐÐ¸ÐºÐ°Ñ€Ð°Ð³ÑƒÐ°',
+    'db73d745-06eb-441c-97bd-eb8295c624b2',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
+    'Никарагуа',
     NOW()
   ),
   (
-    '545aaf86-3fab-4ea4-8ecf-d01d8a4ec9f4',
-    '57ee13ee-20c1-45ff-87f1-c06d3a153101',
-    'NicarÃ¡gua',
+    '0cd546fb-377b-4fcb-8e39-fda3aa13453c',
+    'a9f7ec7e-2632-48c5-9e75-59be3c579546',
+    'Nicarágua',
     NOW()
   ),
   (
-    '7596d1d0-7e25-4ded-bb4b-ca570514ad52',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '29f64886-3313-4a82-8cee-e7b6cdfa9f6d',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'New Zealand',
     NOW()
   ),
   (
-    'bbbf1bf0-3d64-40a1-b9c4-0b917c0cba86',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    '24a0a3eb-954b-48f5-a942-8a650b406a12',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'N.Z.',
     NOW()
   ),
   (
-    '74506fc5-d1fb-4b9e-b967-cbc42712a4f3',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
-    'Ù†ÙŠÙˆØ²ÙŠÙ„Ù†Ø¯Ø§',
+    'c981b046-0c65-47f3-b62e-e4ca73fd62e6',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
+    'نيوزيلندا',
     NOW()
   ),
   (
-    '6661f183-2086-46da-84f5-9f245d29452c',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'd16deaa2-fcf8-48e8-855c-0b7100611c0e',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'Neuseeland',
     NOW()
   ),
   (
-    '5754ba11-c3a5-4b56-95f6-63721934d25a',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
+    'a45d2c9e-4c51-4e95-acd4-2d55fcf3e8ad',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
     'Nueva Zelanda',
     NOW()
   ),
   (
-    '76a55915-8137-4722-b744-e868b011e8b7',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
-    'Nouvelle-ZÃ©lande',
+    '08fdeb3d-9d57-4a09-a728-76ffe3919107',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
+    'Nouvelle-Zélande',
     NOW()
   ),
   (
-    'c4d6631d-c37d-4e94-9d03-f70a4a7a5694',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
-    'æ–°è¥¿å…°',
+    '98651c5d-3fc7-4db9-b429-386d34c7930d',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
+    '新西兰',
     NOW()
   ),
   (
-    '80c5fdc8-67e6-46c2-a3e0-e07585fa859a',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
-    'ÐÐ¾Ð²Ð°Ñ Ð—ÐµÐ»Ð°Ð½Ð´Ð¸Ñ',
+    'ad749455-bb57-4310-a496-8fe0fe75d98e',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
+    'Новая Зеландия',
     NOW()
   ),
   (
-    '75dc06f4-50b2-4f29-84e1-34e1386f8044',
-    'aa726639-9abc-4fa1-a568-784153ffe485',
-    'Nova ZelÃ¢ndia',
+    '4dea354c-97e1-48a9-99a3-2950c689f4d0',
+    'ab0c7a53-b3d9-4ca0-9365-60960e477689',
+    'Nova Zelândia',
     NOW()
   ),
   (
-    'f88d7173-5c5a-45c6-8cdf-7c747d7fa0a7',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'cf32a507-4a07-4e1d-92bf-b388c4d44e9a',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'Niue',
     NOW()
   ),
   (
-    '7f6f145b-ec4b-4312-b1ce-946e92590b72',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
+    'f0065a23-d2f8-43bc-93e1-fac4caeefb4e',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
     'New Zealand',
     NOW()
   ),
   (
-    'aeddf161-f05a-41a7-9e91-689595cb113b',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
-    'Ù†ÙŠÙŠÙˆÙŠ',
+    'd5c96ddb-79bc-4284-ba51-97a0410aa8c2',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
+    'نييوي',
     NOW()
   ),
   (
-    '97018383-9071-478b-b7f2-2190f00bcea2',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
-    'çº½åŸƒ',
+    'f25327c9-3af2-4f4c-891a-cc2f4aa5ad45',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
+    '纽埃',
     NOW()
   ),
   (
-    'aa6b80d7-f39e-4032-9ccd-ece6ed62da34',
-    '861651de-d9de-4499-b432-fbe02b2dd074',
-    'ÐÐ¸ÑƒÑ',
+    '27c50e6c-3710-41a9-b790-716eded23f57',
+    '1dcf0d42-d050-4557-bcbf-5dda48af3e98',
+    'Ниуэ',
     NOW()
   ),
   (
-    'a7d08632-ec84-408b-b40b-ee088fb6d17b',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'e60cdb9c-1198-47c9-8c55-58863667ce96',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'Cook Is.',
     NOW()
   ),
   (
-    '5529a423-27c1-4d0c-bf6c-e8679e94f60c',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '33bd9f4e-aab1-4c8c-9783-6175186e7f93',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'Cook Islands',
     NOW()
   ),
   (
-    'af06da80-4a6f-4823-9c9b-7b56feb6a3ae',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '1eda1da5-97fe-4931-b166-2f89efba2b77',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'New Zealand',
     NOW()
   ),
   (
-    '7bd8c21e-b868-4cf4-b0b5-77a79e4f761e',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
-    'Ø¬Ø²Ø± ÙƒÙˆÙƒ',
+    '0cb121e0-c679-4cff-a95b-9a29e212d865',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
+    'جزر كوك',
     NOW()
   ),
   (
-    '1100e8ac-408c-4108-ba16-a4ffc0f36014',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '9f22b80c-33ed-41e5-a82d-467debe0f062',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'Cookinseln',
     NOW()
   ),
   (
-    '5b951e74-57f6-4c0b-9be4-14c10fa25843',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    'da354634-d3aa-4612-b249-a720beba4c2b',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'Islas Cook',
     NOW()
   ),
   (
-    'b0b1dff5-0ec2-4e7c-9d98-c54aa9fdda46',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
-    'ÃŽles Cook',
+    '53f0846c-19c6-4eb0-b350-4a3cc1d800bf',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
+    'Îles Cook',
     NOW()
   ),
   (
-    'c51aa2e3-ae79-41df-9484-bb0dee0a0204',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
-    'åº“å…‹ç¾¤å²›',
+    'ee4f23ee-465e-4d14-ba4a-7ac560d7b410',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
+    '库克群岛',
     NOW()
   ),
   (
-    'ebdeace6-4f0e-4c4d-b2e3-ce645a723733',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
-    'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐšÑƒÐºÐ°',
+    'c10546b3-e702-4e1e-93ab-f0633f04a0bd',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
+    'Острова Кука',
     NOW()
   ),
   (
-    '53537363-1f9a-42b5-9ccd-2ca36b3d2434',
-    'b02496d5-b75c-4737-a3fc-1d2c5669ef43',
+    '9aaab37e-f5d3-492f-bbe4-dc44ae0f2e73',
+    '505a6cb8-c47a-4929-bdff-3da131ae801b',
     'Ilhas Cook',
     NOW()
   ),
   (
-    '9b0d464d-848f-4778-b1d2-74f3af0252b7',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '74b3ddc8-08ad-4606-9b64-98f942af96c8',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'Netherlands',
     NOW()
   ),
   (
-    '1ef4f02f-11a5-4584-87f6-c727476cd59f',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'e0f8d49b-ae9e-4014-8da6-6fb10745aa74',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'Kingdom of the Netherlands',
     NOW()
   ),
   (
-    'a3f4e6ec-9fa1-4541-976c-5ee3c53b8930',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'b3d7337c-ea9a-4039-ac67-3923e17f4523',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'Neth.',
     NOW()
   ),
   (
-    '1e3d226f-d9f1-438e-b394-a7a81161832c',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
-    'Ù‡ÙˆÙ„Ù†Ø¯Ø§',
+    'de765f4f-028d-4cb5-a3b1-5570a2653f1a',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
+    'هولندا',
     NOW()
   ),
   (
-    '395408a4-c907-463f-bc71-e923ecc35610',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    '06a23901-46b7-4956-9ccb-034567ffe05f',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'Niederlande',
     NOW()
   ),
   (
-    '8a92a91a-f8a3-4e0d-bb5c-50ec46d19501',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
-    'PaÃ­ses Bajos',
+    'af21cf0b-1e48-4169-a144-6beab23e6dad',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
+    'Países Bajos',
     NOW()
   ),
   (
-    '69d17d53-764f-4278-85ba-3d3de5f02e16',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
+    'a93faca6-1144-4002-a05e-2c57bc61977a',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
     'Pays-Bas',
     NOW()
   ),
   (
-    'e859d686-3c17-48f3-b8c0-9f15c7492fac',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
-    'è·å…°',
+    '902e4169-3ece-4db5-bae8-aba1f46f3b09',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
+    '荷兰',
     NOW()
   ),
   (
-    'ee12b175-5044-469e-9373-552518e7a9f9',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
-    'ÐÐ¸Ð´ÐµÑ€Ð»Ð°Ð½Ð´Ñ‹',
+    '5bd839f3-c7ea-4319-9637-e03c4c4682d5',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
+    'Нидерланды',
     NOW()
   ),
   (
-    'abbad652-6f79-43af-9440-bdcc47293a77',
-    '74ffa911-da58-471f-a734-1d8b73cd9907',
-    'PaÃ­ses Baixos',
+    'c6f7750a-5a3d-482f-91e7-7db8d9ce7f27',
+    'fcab9586-3834-4dc9-a11a-9c6a91913a33',
+    'Países Baixos',
     NOW()
   ),
   (
-    'a8d488a8-805b-4eec-9218-a837ee977c33',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    'dd4fe472-7b29-4561-8602-b1389b53bf95',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'Aruba',
     NOW()
   ),
   (
-    '8b4005c2-4090-44ec-aef3-3a62842387e7',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
+    '59ef0732-6078-4004-a81c-d903aa9d93b2',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
     'Netherlands',
     NOW()
   ),
   (
-    '72ba4bc6-e65e-4733-824a-888cbbe50c42',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
-    'Ø£Ø±ÙˆØ¨Ø§',
+    'd7c4cb46-ca51-478c-9394-cdd0d57909cc',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
+    'أروبا',
     NOW()
   ),
   (
-    '71ac6d7b-b4a0-4d32-adf6-07ab235613a0',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
-    'é˜¿é²å·´',
+    'bfb4e4fd-1cb3-4898-b171-f2ee5158cde8',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
+    '阿鲁巴',
     NOW()
   ),
   (
-    '1b7503d9-b879-48f2-b813-f5fe9087fb93',
-    '843f6d46-0901-4eb0-b250-f6183a874d3b',
-    'ÐÑ€ÑƒÐ±Ð°',
+    'd63baf7b-2485-4963-bd05-6fd1f267fdf4',
+    '71ba35ae-c85a-4531-8bce-8ec7362dcdeb',
+    'Аруба',
     NOW()
   ),
   (
-    '27940825-ef47-4417-8c96-75a175374b50',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
-    'CuraÃ§ao',
+    '0229a44e-2a28-42ec-9e5e-c31ecccecafe',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
+    'Curaçao',
     NOW()
   ),
   (
-    'dbb88c13-5728-45bf-be2b-0edbf60658c2',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'e69a2fd3-a1ff-4933-91e6-a7e93e5c196d',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'Netherlands',
     NOW()
   ),
   (
-    'c3092efc-ebaf-4905-a1af-887536c46437',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    '013ddd5d-321e-4413-bfc5-7cf2d60610e4',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'Cur.',
     NOW()
   ),
   (
-    'd1e3a3d2-539c-448b-a427-265dcbf8a32c',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
-    'ÙƒÙˆØ±Ø§Ø³Ø§Ùˆ',
+    '2c510986-6ead-471f-aae0-d981ce5133e5',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
+    'كوراساو',
     NOW()
   ),
   (
-    '7edb067d-cea0-4d30-a2f0-d2932af8876a',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
+    'e26e0a57-c019-46c6-be9f-4d4aa5af839b',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
     'Curazao',
     NOW()
   ),
   (
-    '6a830482-c765-4330-a448-45cb75b9a5b6',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
-    'åº“æ‹‰ç´¢',
+    '3f68c0c2-d43f-430c-859b-396c5ff5e5e0',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
+    '库拉索',
     NOW()
   ),
   (
-    'b6e69a28-1e15-48d4-a6e7-2778e826b3f7',
-    '2bbf8820-cb9c-4149-a505-3846e88d3ef8',
-    'ÐšÑŽÑ€Ð°ÑÐ°Ð¾',
+    'b489f771-2551-436a-b3e2-bc4965a9f1ce',
+    'e5e0933a-9894-4053-97a7-e1d37ee86344',
+    'Кюрасао',
     NOW()
   ),
   (
-    '5d968f4f-f0cc-4a22-b707-f5bdfd1c521a',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
+    '41f2d5cb-979c-4a74-a584-05d944ef9ccf',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
     'Nepal',
     NOW()
   ),
   (
-    '1d6ca955-25ac-48bd-b54b-8b914a42d687',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
-    'Ù†ÙŠØ¨Ø§Ù„',
+    '03630246-804c-40a5-b40c-5edc50a3823d',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
+    'نيبال',
     NOW()
   ),
   (
-    '6071afed-bc96-409f-895e-4fb8a245d890',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
-    'NÃ©pal',
+    '0c9dce37-046b-4e9a-bb70-4ebd25784e0e',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
+    'Népal',
     NOW()
   ),
   (
-    '398fa91a-3687-44a0-9d42-b63d491ec1cb',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
-    'å°¼æ³Šå°”',
+    '45b7767a-3afe-4d57-96a6-8169d03cf4a7',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
+    '尼泊尔',
     NOW()
   ),
   (
-    '61b4235a-d8b6-49f4-ab0b-f30d75dd53af',
-    'd41526e3-00ed-4c27-bd2f-bc67bff257d5',
-    'ÐÐµÐ¿Ð°Ð»',
+    '00bb736a-c69c-4d80-8965-aa42dd0cdf5f',
+    'c74c78ac-6251-4d11-a6d2-f2f7d7a13727',
+    'Непал',
     NOW()
   ),
   (
-    '5e6063f1-95bd-44ea-93ed-faba62d3b246',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    'a04ed453-6ec8-4d36-ae44-6d629058ca68',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'Nauru',
     NOW()
   ),
   (
-    'fc3e79e1-0589-465d-a516-72edcc85843c',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
+    '482568b7-1387-495b-a0f8-b6f60319f16e',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
     'Republic of Nauru',
     NOW()
   ),
   (
-    'aae0002d-c0a6-4560-ba5a-3b337a282062',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
-    'Ù†Ø§ÙˆØ±Ùˆ',
+    '251a6e89-97ca-4970-b610-e8c76465518b',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
+    'ناورو',
     NOW()
   ),
   (
-    '696a34c2-6a17-4907-afd2-eb071ea1d09a',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
-    'ç‘™é²',
+    '7293bb18-749e-413b-b337-4a8d99931b41',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
+    '瑙鲁',
     NOW()
   ),
   (
-    '6a8d49a4-7643-48e0-9be7-b22bc909647a',
-    '216b6442-3c5d-4e6e-89bd-1dbd7bc08b4c',
-    'ÐÐ°ÑƒÑ€Ñƒ',
+    '026531c8-4241-441e-96e1-8a53a392d9a7',
+    '0b27bad2-c3de-468a-96eb-671350e7dca5',
+    'Науру',
     NOW()
   ),
   (
-    '399b7859-c5c5-45bc-ad9a-6dc6e0c6dbaf',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '9779808a-f1ef-455a-b372-c3a1a68604ca',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'Namibia',
     NOW()
   ),
   (
-    '00c0e514-528a-499d-a410-c9f427111dfd',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'c041bf4d-980a-4e91-8f23-a6163cc5dd8d',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'Republic of Namibia',
     NOW()
   ),
   (
-    '37448339-f8a0-47be-8023-6ebf7e6235f0',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    '07bb8b9c-efad-45c5-bf96-1402cc08969c',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'Nam.',
     NOW()
   ),
   (
-    '3d0c8f22-5951-4324-8fa0-b7757c4a58c7',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
-    'Ù†Ø§Ù…ÙŠØ¨ÙŠØ§',
+    '15c4d8bc-eb91-4e69-b9ed-f4a5d7c9987c',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
+    'ناميبيا',
     NOW()
   ),
   (
-    'c659857c-f326-4988-8605-7bde2efa8055',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
+    'e2c4c8c2-6333-41b9-a800-9f9826996c6a',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
     'Namibie',
     NOW()
   ),
   (
-    '07ab4c6c-8211-4d07-a7a9-ac0543264e6b',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
-    'çº³ç±³æ¯”äºš',
+    'cd2e966c-6025-4c8b-80c5-da9a0570cc5c',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
+    '纳米比亚',
     NOW()
   ),
   (
-    '4054866d-58ed-4fec-a356-ce0a80c4c31f',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
-    'ÐÐ°Ð¼Ð¸Ð±Ð¸Ñ',
+    '7cd2b826-6950-4456-8846-b9067f462338',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
+    'Намибия',
     NOW()
   ),
   (
-    '7c98f624-eeae-411b-a5ea-c6845ce51f5b',
-    '2fd722dc-3f81-4564-9c48-725042615b22',
-    'NamÃ­bia',
+    'd243f126-80cd-46e8-9c8d-c2262c36dace',
+    'd6ba2e56-11ae-4094-9e74-7cfcf2e54138',
+    'Namíbia',
     NOW()
   ),
   (
-    '62ead009-6c9a-41a0-9119-b056fb20f097',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '6e46fb01-dee4-4ee1-8bcd-82b43205ac16',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'Mozambique',
     NOW()
   ),
   (
-    '39b29d38-beca-4bbb-a9f6-abf0f1f3bd30',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'b427061c-bbe6-4b22-80c2-910930c8a804',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'Republic of Mozambique',
     NOW()
   ),
   (
-    '3e8d6438-dbf3-436a-ac39-ac5821714503',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    '0cc90313-7a5d-4bab-88fb-92d8fb2e1174',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'Moz.',
     NOW()
   ),
   (
-    '46cb6e3f-a57e-4525-a59a-bc7409568e60',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
-    'Ù…ÙˆØ²Ù…Ø¨ÙŠÙ‚',
+    '8fa73aaf-2b9d-4d8e-aafe-dc66370e1489',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
+    'موزمبيق',
     NOW()
   ),
   (
-    '3e7f9f92-0f77-4caf-be66-568903ff9071',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
+    'f33b234f-197e-4421-b401-7e35abe691b6',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
     'Mosambik',
     NOW()
   ),
   (
-    '4f0388f8-53b7-4958-bcd4-bfc284d149a8',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
-    'èŽ«æ¡‘æ¯”å…‹',
+    '376dd8e8-e97e-4417-a642-c0f149d632db',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
+    '莫桑比克',
     NOW()
   ),
   (
-    '7fde7d6e-f03b-4f87-b032-6f4ed5e4fc65',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
-    'ÐœÐ¾Ð·Ð°Ð¼Ð±Ð¸Ðº',
+    'ed99cb7b-4dd5-4e87-9e58-c2737d4b7dcb',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
+    'Мозамбик',
     NOW()
   ),
   (
-    '4cc6e55c-c9a9-429e-b6f1-98eebb7484c1',
-    'f71938c1-8ad2-467c-a2bf-8864e44e6c42',
-    'MoÃ§ambique',
+    'ef760128-7b70-44c1-9036-fb5311f7ffa9',
+    '654e6481-ef13-4fd4-b6c4-0a31b4047764',
+    'Moçambique',
     NOW()
   ),
   (
-    'b296af08-c21f-44be-982c-9f22e28dfcd5',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '51a09ae4-9bbf-4baa-b27c-994d5e8dd212',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Morocco',
     NOW()
   ),
   (
-    '4b190cfe-feb6-485f-b5df-c4f82bc3f74d',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    'cc1bcdda-7311-4176-8a97-c609ee8c00a7',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Kingdom of Morocco',
     NOW()
   ),
   (
-    'c085ff7b-55df-4da0-a1e1-e1eb73ebebde',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '72e87bf2-154e-408b-8df6-e83f480213f7',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Mor.',
     NOW()
   ),
   (
-    '5bd9481e-3b2f-4d4c-bf33-1021450eda34',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
-    'Ø§Ù„Ù…ØºØ±Ø¨',
+    '01074398-b311-422e-8162-b454f33ea48f',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
+    'المغرب',
     NOW()
   ),
   (
-    'df92f1fb-7055-4a5e-ab7c-37008a51027c',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '2bec1275-fd59-481a-bce9-dd91040a0a6a',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Marokko',
     NOW()
   ),
   (
-    '6bff74b4-4178-410e-8af4-90142573a1c4',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '538e6bb9-da77-4ea2-86eb-14594d56fb17',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Marruecos',
     NOW()
   ),
   (
-    '620f05d6-34f9-4538-876d-0e575b479d81',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '515f867b-7de7-4169-8af9-878e2baa9875',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Maroc',
     NOW()
   ),
   (
-    'a88bb376-a264-4afc-b077-7b6defb47ea5',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
-    'æ‘©æ´›å“¥',
+    'e5333cab-8c10-44ad-b095-4b021ef5174e',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
+    '摩洛哥',
     NOW()
   ),
   (
-    '12683981-f4c7-4b7c-aa85-32bdc8504367',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
-    'ÐœÐ°Ñ€Ð¾ÐºÐºÐ¾',
+    'f6cba7ca-04a1-4c4e-9c18-7b22d2815d7d',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
+    'Марокко',
     NOW()
   ),
   (
-    '20403c17-1fc8-440c-84d1-1a24d2d072a0',
-    'dd838161-11cf-4538-bd4c-420ac27c562f',
+    '607242e3-ae6c-49b5-ac46-0afcb7f5684e',
+    '9963107f-59fb-4b3c-af58-e58a9406761d',
     'Marrocos',
     NOW()
   ),
   (
-    '4f9e4dea-3994-482b-94b9-000734265339',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'c777b031-0814-4de8-bfca-5aeab0d154b2',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'W. Sahara',
     NOW()
   ),
   (
-    '197b2d63-ce9f-4d92-8040-cc2e82c84f50',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '8cd76ea3-d018-4b7e-9054-08a1e67755ed',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'Western Sahara',
     NOW()
   ),
   (
-    '183ce139-a064-410f-a39b-278d34ed9253',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'c6c25113-9fe9-4e52-ab0b-d2e1bde4300c',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'Sahrawi Arab Democratic Republic',
     NOW()
   ),
   (
-    '4d416a5c-7e2b-4808-b409-d16ef3c8048c',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'f04b91be-45bb-42e0-9466-77ee8d07be33',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'W. Sah.',
     NOW()
   ),
   (
-    '72e600bd-3469-4633-92b8-97c789b4f8b6',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
-    'Ø§Ù„ØµØ­Ø±Ø§Ø¡ Ø§Ù„ØºØ±Ø¨ÙŠØ©',
+    '4513be76-46f3-45cd-b629-043a4437ee99',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
+    'الصحراء الغربية',
     NOW()
   ),
   (
-    '861fcd9e-983d-4951-922d-61b61a9e5061',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    'eb94b3c7-e740-4788-a087-914e7ebd2c03',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'Westsahara',
     NOW()
   ),
   (
-    '24463ff5-d71e-461d-91ae-31196c0f91d6',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '22fe37ae-bb50-4667-968f-82aeed2d25e2',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'Sahara Occidental',
     NOW()
   ),
   (
-    '79886d17-7397-4bef-b964-555d133e2365',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
-    'è¥¿æ’’å“ˆæ‹‰',
+    'd1199261-1cda-464b-baaf-6b07715a8f04',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
+    '西撒哈拉',
     NOW()
   ),
   (
-    '7112af0c-5255-4cd3-9271-7e43e9ee36a7',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
-    'Ð—Ð°Ð¿Ð°Ð´Ð½Ð°Ñ Ð¡Ð°Ñ…Ð°Ñ€Ð°',
+    '15e1fb14-7f11-406e-aec7-3329117b3a0c',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
+    'Западная Сахара',
     NOW()
   ),
   (
-    '037e0225-cd4b-427f-aa1e-a7570ba2d7c1',
-    '844f29fd-d35d-43a6-89ff-3a165ba33757',
+    '2ceca2a2-8465-4ec8-8800-817db28d0a9e',
+    '6f827a33-5a37-4f67-abea-f6f30358f84e',
     'Sara Ocidental',
     NOW()
   ),
   (
-    '3886fffe-15e4-4881-a4e4-f2aa09489e5a',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'b56a0d14-6c9a-4c49-bb0f-c89f9c4a4fb2',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'Montenegro',
     NOW()
   ),
   (
-    '13593293-20d2-4812-9e20-bfd4ade1bb85',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
+    'c4323561-ead7-4255-b47a-1b7b0cab32cf',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
     'Mont.',
     NOW()
   ),
   (
-    '8693f7eb-7540-43ce-9968-392c77182e0d',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
-    'Ø§Ù„Ø¬Ø¨Ù„ Ø§Ù„Ø£Ø³ÙˆØ¯',
+    'e01d321a-632a-418d-a022-d4f6e6898525',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
+    'الجبل الأسود',
     NOW()
   ),
   (
-    '66fad77a-32e4-4abd-8e3a-4684b1262c2e',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
-    'MontÃ©nÃ©gro',
+    '7dd8f3c6-1c00-48e8-959a-453cf28a94bf',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
+    'Monténégro',
     NOW()
   ),
   (
-    '8706217b-7654-4380-91b9-0e9e73dc7ca4',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
-    'é»‘å±±',
+    'c8f6c877-d647-4a5f-b4b2-c1a58cea2abe',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
+    '黑山',
     NOW()
   ),
   (
-    'ed1440c9-a6f0-4d75-93dd-ccc43bdc76b5',
-    'c560dab7-4bec-41bf-98c3-abb4d13d0c89',
-    'Ð§ÐµÑ€Ð½Ð¾Ð³Ð¾Ñ€Ð¸Ñ',
+    '3d1f5ccb-1caa-4576-950b-f6c5c2c210e8',
+    '6494d6a1-7bd9-4bee-9f3d-1b52f427e37a',
+    'Черногория',
     NOW()
   ),
   (
-    '9d0cf144-1a71-4fe8-9fae-a0ef3f16bb93',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '2c293a63-2428-4e68-aa1e-5927b3b71c54',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'Mongolia',
     NOW()
   ),
   (
-    'b4a6cd18-d47d-49e0-b894-67af50ce657a',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '1c3a5074-d6b0-44b2-889a-b4719d465029',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'Mong.',
     NOW()
   ),
   (
-    'd18f129f-75db-49b0-bc8d-7a6bcb13415b',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
-    'Ù…Ù†ØºÙˆÙ„ÙŠØ§',
+    '6da1624a-fd2a-49f4-a6ca-7566db0171c9',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
+    'منغوليا',
     NOW()
   ),
   (
-    '0dd8779e-fd2c-4b4c-b541-948f341df277',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    'a15c0cf3-9024-4249-afd4-5b8413f1c964',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'Mongolei',
     NOW()
   ),
   (
-    '3190cf53-8f69-4f30-85f7-5c2b5dcda49d',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
+    '2bb93535-bf15-4ba0-bf7f-cbe1726351cb',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
     'Mongolie',
     NOW()
   ),
   (
-    '52e39ce7-16af-4d9f-99cd-9190e62e9cf8',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
-    'è’™å¤å›½',
+    '7dc8b299-35da-441a-8ff7-dd5f07290a89',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
+    '蒙古国',
     NOW()
   ),
   (
-    'fed7931b-2f92-4dd2-8adb-1c87ab2183da',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
-    'ÐœÐ¾Ð½Ð³Ð¾Ð»Ð¸Ñ',
+    '1de0bda8-e35d-495e-925c-39f212d017a9',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
+    'Монголия',
     NOW()
   ),
   (
-    'c4041395-fd4e-489c-bc25-f499bb9e9e15',
-    'f93667e7-7f1d-4ae6-9bf0-3db95742c98f',
-    'MongÃ³lia',
+    '44445bf5-f7b1-4f5b-8e69-51d403e7b6aa',
+    '0ed829f2-6f93-4fbc-b8e8-aac5b8606639',
+    'Mongólia',
     NOW()
   ),
   (
-    '22b75203-f0dc-445f-b9d2-23535e19b923',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '4dd5b070-d756-40d9-92f8-cb4286c13754',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Moldova',
     NOW()
   ),
   (
-    '3ce667ff-1c70-4122-bb78-7073a651b654',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '93526633-e423-4f42-b529-480e43dfb756',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Republic of Moldova',
     NOW()
   ),
   (
-    'eb5c3b3b-3ae7-41cd-8e66-df555dd2ed5b',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '5aca41c9-c2e3-4533-af2c-e3ae01fa0970',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Mda.',
     NOW()
   ),
   (
-    'b2b595b0-a67c-40b9-9f92-cf717fd823f6',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
-    'Ù…ÙˆÙ„Ø¯ÙˆÙØ§',
+    '25999c14-a230-43a1-b07a-d75ff72613ad',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
+    'مولدوفا',
     NOW()
   ),
   (
-    'cc3781a2-7cd9-4eb2-92a1-9e565195b8f1',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '337e5716-5f12-4c28-87b2-3ba90bf71dc3',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Republik Moldau',
     NOW()
   ),
   (
-    '9f8dd30d-6537-4a3f-9eb6-f3e3143deb49',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    '3bacb75d-4437-4d1a-9636-caf81226e602',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Moldavia',
     NOW()
   ),
   (
-    'b314d8df-3941-44e8-8b9f-1473df646b21',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
+    'd0034a36-5456-4112-a394-9ed3f3b91330',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
     'Moldavie',
     NOW()
   ),
   (
-    '145d7999-3d0f-4624-867a-e04e61a42cfa',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
-    'æ‘©å°”å¤šç“¦',
+    '489158c9-ac5a-4b25-b7fc-195d7881452b',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
+    '摩尔多瓦',
     NOW()
   ),
   (
-    'dbe7de2b-f2de-4965-8a68-823e91a6f7e6',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
-    'ÐœÐ¾Ð»Ð´Ð°Ð²Ð¸Ñ',
+    '4815dce5-05ff-4ddb-80c5-7d7d00b55f19',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
+    'Молдавия',
     NOW()
   ),
   (
-    '90f2c980-6c94-4b2f-83c3-0ccb11319f4a',
-    'b51cbe43-dbe8-487b-b303-ff9c0133dcfd',
-    'MoldÃ¡via',
+    'd16203cb-1ab5-4b7b-aa62-e3929d4be3bf',
+    '2fd3a592-88c4-4751-a715-8ff836338fe6',
+    'Moldávia',
     NOW()
   ),
   (
-    'e020e36f-c2fc-4250-b0d2-a3191cccaab6',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '303e945c-e13e-4754-8f34-e3f5f8893c5e',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'Monaco',
     NOW()
   ),
   (
-    '9634ffc7-6afb-4cf0-897b-f5c94aab99ac',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    'fdc6e02d-cd78-4e70-a31b-feb8c17ab4bf',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'Principality of Monaco',
     NOW()
   ),
   (
-    '55cd7ced-a97c-4b49-aa59-f81c0310029d',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
+    '8a266727-f97c-47fa-a94b-de9bf62d1fe5',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
     'Mco.',
     NOW()
   ),
   (
-    '0830250e-37d0-4b58-9b1b-c1a4ade643a7',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
-    'Ù…ÙˆÙ†Ø§ÙƒÙˆ',
+    '465f21af-666e-41a4-8b0f-7520150dc5a1',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
+    'موناكو',
     NOW()
   ),
   (
-    '5b5454a3-684e-4930-8aad-4812479fe4a1',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
-    'MÃ³naco',
+    '1d397f5b-5295-4c8c-b1a9-185afecb662b',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
+    'Mónaco',
     NOW()
   ),
   (
-    'bb2ac5e0-a37d-479a-95f0-d05520b33c38',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
-    'æ‘©çº³å“¥',
+    'd88b6159-73c0-4ea9-be9a-b8c0b27232d6',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
+    '摩纳哥',
     NOW()
   ),
   (
-    'ae635aa8-7da0-49cd-82ed-fa4448f1bbc0',
-    '3f88d0b5-0d24-47d3-934f-7b8b01164afd',
-    'ÐœÐ¾Ð½Ð°ÐºÐ¾',
+    'a22b9845-56ab-4949-9586-4de7709f4c3c',
+    '8a17a269-0e9b-4e3d-8310-97ef4f436338',
+    'Монако',
     NOW()
   ),
   (
-    'f55e3ee6-2771-4497-8218-2e0b03a63486',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '4d41e8a4-d7a4-43a8-83d8-555f91bebc80',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'Mexico',
     NOW()
   ),
   (
-    'f92f79af-457e-4a70-a10b-616303324567',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'db4bc54d-bd02-408a-97c6-51db9eec6cc8',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'United Mexican States',
     NOW()
   ),
   (
-    '76d7559a-5ba7-47b3-9d6c-723c408ed551',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '34d57210-902c-474e-ae2b-51dec4cd8a50',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'Mex.',
     NOW()
   ),
   (
-    'cffbebba-ea49-4ef9-84f0-53959e50d1c9',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
-    'Ø§Ù„Ù…ÙƒØ³ÙŠÙƒ',
+    'c63d1d2e-da00-49a4-9d37-e3d4525b6760',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
+    'المكسيك',
     NOW()
   ),
   (
-    '2cf06775-ada9-4679-bd38-005b2d4344af',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    'ffe3d743-089c-4273-8cf4-79263ac91301',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'Mexiko',
     NOW()
   ),
   (
-    '0539804b-bafb-4e99-bd9e-4ab32f654b1b',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
-    'MÃ©xico',
+    '0cf0bf96-0ee7-4da9-a37e-1a3e0581a0e3',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
+    'México',
     NOW()
   ),
   (
-    '4ed1d94c-f83a-4282-90ab-2523581043ca',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
+    '3d89891b-36a8-4eab-bf2e-5795bdb4dcde',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
     'Mexique',
     NOW()
   ),
   (
-    'b2653424-01d8-4ec1-aead-10c118a6af3d',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
-    'å¢¨è¥¿å“¥',
+    'f4fd7dcf-1419-4493-a984-39e05e105625',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
+    '墨西哥',
     NOW()
   ),
   (
-    '3292e911-38ae-440f-8442-cf9e6b417654',
-    'bad1a9f3-aef1-4101-903e-1ea0cefb7ff0',
-    'ÐœÐµÐºÑÐ¸ÐºÐ°',
+    '33d9c501-21f9-4e3c-8255-b86136011e42',
+    '24d75f5b-f091-4fca-8b2c-2a1dd17322d9',
+    'Мексика',
     NOW()
   ),
   (
-    '9a068971-40b2-4387-a533-f9674702e7f6',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '2429d9f6-33ab-44d8-8d89-9f913d7420cb',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'Mauritius',
     NOW()
   ),
   (
-    '5b67f72c-d533-4a9c-a1cf-6d41e433b8b5',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '4fd5d466-ea09-441d-a214-da0d38115426',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'Republic of Mauritius',
     NOW()
   ),
   (
-    '59fcff3a-57b4-4187-9ea1-c938cc3dcf4e',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '977b90fc-6a62-4b7f-b48c-d332beb89638',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'Mus.',
     NOW()
   ),
   (
-    '8cf87514-4e8f-4383-aa33-5c98a508cd3f',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
-    'Ù…ÙˆØ±ÙŠØ´ÙŠÙˆØ³',
+    '03acf29f-b4ab-4598-a978-2f06db1c3923',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
+    'موريشيوس',
     NOW()
   ),
   (
-    '1c32436d-1ea3-43f4-9dc1-71a0391ea363',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    '93ba7496-bf07-44f6-bf0b-8b319dc2a392',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'Mauricio',
     NOW()
   ),
   (
-    '568c5f39-0142-4015-be01-e87c22a00d31',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
+    'db27034f-5482-4114-a0c7-ad1e0a1b4454',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
     'Maurice',
     NOW()
   ),
   (
-    '767cfd6b-4c6a-442d-8298-cf65a2fdd324',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
-    'æ¯›é‡Œæ±‚æ–¯',
+    '5782ca04-b2a9-415f-8fe9-a4e881126e3f',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
+    '毛里求斯',
     NOW()
   ),
   (
-    'c3660ae9-57a9-412b-bcf1-86ff886b9ec6',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
-    'ÐœÐ°Ð²Ñ€Ð¸ÐºÐ¸Ð¹',
+    '3a8e07e8-a662-4e64-a30b-a613de33f047',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
+    'Маврикий',
     NOW()
   ),
   (
-    'bb4d5ee9-c3e8-4603-b590-41e39ea0271b',
-    '97720cf3-56af-4e1b-9d88-c83dfa0dbfa1',
-    'MaurÃ­cia',
+    '931c52b9-e3ac-41b3-a3d3-42074b184e03',
+    'bb4433a0-0f42-46a0-9529-ea73bed60cc2',
+    'Maurícia',
     NOW()
   ),
   (
-    '29c26581-c7e2-42a8-a265-724a1344039b',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '890053f1-525f-4035-b933-e9f9280d1105',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'Mauritania',
     NOW()
   ),
   (
-    '033b21a5-66bb-4c6f-b10d-a11fcebbd108',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '5ff627bc-50a7-409a-9340-577dcbdbfad2',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'Islamic Republic of Mauritania',
     NOW()
   ),
   (
-    'e0d0c7ec-3874-4b3f-b951-737adc6e2925',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    'e3989a28-05ac-436f-9e85-42d85da41578',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'Mrt.',
     NOW()
   ),
   (
-    'b6d5206d-78d4-436d-853a-fd785a6be686',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
-    'Ù…ÙˆØ±ÙŠØªØ§Ù†ÙŠØ§',
+    'd1381167-7897-4784-af48-b04657d759c7',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
+    'موريتانيا',
     NOW()
   ),
   (
-    '00f31dc3-063c-40b3-bb3a-cbda57c3ba0d',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '77d36712-f43b-436e-bb7b-695d7dcb16f7',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'Mauretanien',
     NOW()
   ),
   (
-    'e03e2fe4-33d1-4794-b664-0a4807c9f9f8',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
+    '7baf5433-6dd4-4f05-8353-5fa1f77ec4cb',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
     'Mauritanie',
     NOW()
   ),
   (
-    '20d82288-da76-431c-a565-97f53a69c041',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
-    'æ¯›é‡Œå¡”å°¼äºš',
+    '736b24a3-108c-4a62-bb88-11e4a89bf0e7',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
+    '毛里塔尼亚',
     NOW()
   ),
   (
-    '69c9609e-bf24-482e-b01b-8465462a3e60',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
-    'ÐœÐ°Ð²Ñ€Ð¸Ñ‚Ð°Ð½Ð¸Ñ',
+    '93ed76b2-210d-4f0b-aa68-de89a1b6a29a',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
+    'Мавритания',
     NOW()
   ),
   (
-    '4250535c-e4bf-420a-852b-9cf5e90909f5',
-    'c5ba276a-a598-42af-8311-aa0d0872086a',
-    'MauritÃ¢nia',
+    '3d7f8bfd-af80-4d15-b361-d60d4dd391b1',
+    '54c4c6df-3bc2-40a7-ba12-468907ed60f3',
+    'Mauritânia',
     NOW()
   ),
   (
-    '416d5b74-9b39-4001-8b82-50ff51a5b437',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '46af7538-c0fa-427e-b955-ac704e44a489',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'Malta',
     NOW()
   ),
   (
-    '0bfa48cd-0531-4bac-a765-f5b16f371a9c',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    '3f9dbf9d-6b10-4443-bd3f-87680b805b61',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'Republic of Malta',
     NOW()
   ),
   (
-    '0a7f56e0-3d02-4613-a768-69992b992849',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
-    'Ù…Ø§Ù„Ø·Ø§',
+    '7f76057e-5d7e-4611-8020-56d466c47b3e',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
+    'مالطا',
     NOW()
   ),
   (
-    '4a429d5f-4a68-4cf8-931f-742b0ebbda77',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
+    'ff308fc5-52ff-44f8-a49e-ba6af29cbd8b',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
     'Malte',
     NOW()
   ),
   (
-    'd3f4c700-06b3-43f4-9add-d8ecc84d7f2d',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
-    'é©¬è€³ä»–',
+    'e40c9b8b-66a2-4dcd-ab1f-823351fe4eb4',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
+    '马耳他',
     NOW()
   ),
   (
-    '252e8b41-e104-4622-9e75-13e4482118d2',
-    '0611b394-1a5e-4b07-93f3-c696217288c5',
-    'ÐœÐ°Ð»ÑŒÑ‚Ð°',
+    '14d22fc1-7755-4e54-b4cc-9402b3e2d6b7',
+    '90541699-363d-4d19-8d73-99591fefbdf4',
+    'Мальта',
     NOW()
   ),
   (
-    '1041d305-b2c5-4e92-83e8-091b7997f636',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    'b4f6713c-6f19-4f3c-8bc1-8f0366757221',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'Mali',
     NOW()
   ),
   (
-    '7c4a7b9e-dadb-442f-8a46-71379b380ae5',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
+    '8111862d-5cdd-4a99-bd6d-6735c3fab76b',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
     'Republic of Mali',
     NOW()
   ),
   (
-    'f3773a89-b6b9-420c-b492-5441f6c12f66',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
-    'Ù…Ø§Ù„ÙŠ',
+    '909d1e0b-598a-4b48-b3f1-8c0245262806',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
+    'مالي',
     NOW()
   ),
   (
-    '30d6332e-ad75-46b5-9d61-a4ba17d85b5c',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
-    'MalÃ­',
+    '8a9ab579-6d9b-4c6b-8297-39de030d6f1a',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
+    'Malí',
     NOW()
   ),
   (
-    '870b5299-08f5-4e03-911b-20c983568ab1',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
-    'é©¬é‡Œ',
+    '835ae988-fd17-4fa4-b96e-d8999a253d90',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
+    '马里',
     NOW()
   ),
   (
-    '3d48833e-7175-4736-90eb-ad21112dcb4e',
-    '33a86139-1bf7-4ce3-b5bd-66ebda3d24be',
-    'ÐœÐ°Ð»Ð¸',
+    'a4645d96-94cb-4d83-a2b1-e434ecbfc712',
+    'b5f61c29-7214-46ae-9fe2-518dffc540cf',
+    'Мали',
     NOW()
   ),
   (
-    '2f1983d0-2ff2-4bae-a36c-aa79aa7738a6',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '39e08b89-89ce-40f6-bebd-5d4db3b1cd69',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'Maldives',
     NOW()
   ),
   (
-    'c718e610-40f4-46f9-a1d1-e4bffca2eb23',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '4f229266-3b3c-4b2e-8f32-11e6b36e0e2c',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'Republic of Maldives',
     NOW()
   ),
   (
-    '9a1c0008-d059-4e7d-8e38-28f8791f59b9',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '7a4092cc-e1a4-4f87-96dd-592f5a3698ae',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'Mald.',
     NOW()
   ),
   (
-    '509fd4ba-108a-4e9a-afcb-4f997699bc9a',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
-    'Ø§Ù„Ù…Ø§Ù„Ø¯ÙŠÙ',
+    '4edc7d4e-365e-48f8-952e-2703e1258cdf',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
+    'المالديف',
     NOW()
   ),
   (
-    '3bbe2760-c2e7-4c00-b1fa-2fc2175f60fd',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '38b47257-3b78-4eab-830b-9b0e5c9d0a94',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'Malediven',
     NOW()
   ),
   (
-    '21f9ec08-5f7e-4a58-96b3-6cd621abcc2d',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
+    '5d931eb1-0412-447f-b86f-97bfdcfa96d9',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
     'Maldivas',
     NOW()
   ),
   (
-    'ea416db9-a4a9-421f-96f8-c075eff32f92',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
-    'é©¬å°”ä»£å¤«',
+    '39cc4c22-b7fc-4c54-b162-7e434a684290',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
+    '马尔代夫',
     NOW()
   ),
   (
-    'a6acf3d4-f5d4-46c4-aeec-0f703466751e',
-    '9659f99b-7de9-4786-8c7d-91ea69296554',
-    'ÐœÐ°Ð»ÑŒÐ´Ð¸Ð²Ñ‹',
+    '398fcbd3-b495-4957-bb41-377647a43ae9',
+    '0df43a53-d4cc-4916-8911-657a43b69c0c',
+    'Мальдивы',
     NOW()
   ),
   (
-    '93f3a1e6-3b7f-4ad2-bd4c-121097d157df',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    '7ef68ad1-c32b-49ec-ac16-2f7e2def2d2b',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'Malaysia',
     NOW()
   ),
   (
-    '4a42d983-95c5-4848-b5f9-e05dcb76c4cd',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'd1e1b2ee-6f1d-462f-95eb-a00ae77b2cec',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'Malay.',
     NOW()
   ),
   (
-    '7bea150e-2649-49ff-956d-ce57d99a6ec0',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
-    'Ù…Ø§Ù„ÙŠØ²ÙŠØ§',
+    '70e6bc60-d5bc-47d8-8be9-1f0529fe7802',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
+    'ماليزيا',
     NOW()
   ),
   (
-    '4d519290-64b5-4955-b699-26182926ae75',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'a49c25c1-d03a-47f1-b74c-5ada61ad328c',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'Malasia',
     NOW()
   ),
   (
-    'e401230c-de1c-4374-862f-1f19828ba771',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
+    'dcb96dbf-4d22-4801-9682-64eb28a62b80',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
     'Malaisie',
     NOW()
   ),
   (
-    'd866a462-3a49-4a1b-aacb-e9295a2992df',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
-    'é©¬æ¥è¥¿äºš',
+    'de50424c-8d9a-4c1f-bf6c-9dda49420e60',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
+    '马来西亚',
     NOW()
   ),
   (
-    'd0d4e82a-0e1b-4dd9-8c10-a6a1b5795f5f',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
-    'ÐœÐ°Ð»Ð°Ð¹Ð·Ð¸Ñ',
+    '5cf726fd-9b2c-4a3f-b332-fa1e8d028eb7',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
+    'Малайзия',
     NOW()
   ),
   (
-    '518ea9f7-9469-457b-b218-4cb2e24696c9',
-    'ae61d330-7c8e-4dc7-9fda-1c032af6782e',
-    'MalÃ¡sia',
+    'd1c4c5f3-1872-4532-901e-17c882dcd193',
+    '6c02b159-bfca-47a6-ace8-9295a0c6a01a',
+    'Malásia',
     NOW()
   ),
   (
-    '3df70daf-fb2e-4c8f-aab9-2013dfac1973',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    'f2bdca5d-bb95-4e61-94f7-f8b04c223ebb',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'Malawi',
     NOW()
   ),
   (
-    '6d28ad22-55ef-43ef-8caa-312aa38e2305',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '826854d7-af82-446d-9aa6-1de74e23aa18',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'Republic of Malawi',
     NOW()
   ),
   (
-    '2de94230-16d4-4ead-8f4d-08b2bd99a250',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '8c96100f-c53c-40a0-bed9-41c84ae9dde8',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'Mal.',
     NOW()
   ),
   (
-    'da18a201-a081-4b11-b3d2-620b0bb90b32',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
-    'Ù…Ø§Ù„Ø§ÙˆÙŠ',
+    '0d985933-6134-4183-840c-60c54a2e0539',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
+    'مالاوي',
     NOW()
   ),
   (
-    '5c047900-f5b4-45b4-a4d1-39dc18161e7f',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
+    '40d261c8-de13-4ca9-a5d6-813afa8ced88',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
     'Malaui',
     NOW()
   ),
   (
-    'a24b1a7d-5271-4657-bcfb-1910d0ec0a27',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
-    'é©¬æ‹‰ç»´',
+    'c3acb3fa-257d-4b5d-b1fb-cf5de64aec12',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
+    '马拉维',
     NOW()
   ),
   (
-    '7c427a38-c254-4041-bef7-7cf45b30eae5',
-    '7982f82e-dccb-4e78-adb2-774c7869adf1',
-    'ÐœÐ°Ð»Ð°Ð²Ð¸',
+    '2975052a-9a06-4e1d-8bd2-4dd728f3ce06',
+    'eded3295-7cb3-4309-a3ad-c3053e9a9578',
+    'Малави',
     NOW()
   ),
   (
-    '37b550f4-0062-4b44-a178-2eb1eb08553c',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'cd4ac29e-399e-4809-82ff-6a87cf9c77b5',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'Madagascar',
     NOW()
   ),
   (
-    'c968adfc-ed36-4852-a1a0-f794cf6d987d',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'b575a90a-78da-4341-ad6b-594f2e890381',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'Republic of Madagascar',
     NOW()
   ),
   (
-    '653de9fe-9397-4b2e-af0e-dcba0a21471c',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    'af6b23e8-739d-418d-9e78-c4f6581b8cfb',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'Mad.',
     NOW()
   ),
   (
-    '14ab883f-9fbf-4dd1-8e24-7dcdef367cde',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
-    'Ù…Ø¯ØºØ´Ù‚Ø±',
+    '123ded9b-d07d-4956-9cfa-9abcc11d2767',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
+    'مدغشقر',
     NOW()
   ),
   (
-    '776257d5-052d-4e15-a560-09a7ce167541',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
+    '7473ecee-3329-4a1a-9b64-07adf2451c22',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
     'Madagaskar',
     NOW()
   ),
   (
-    '0f4e3c0b-ff5a-486f-b301-e4b4a0040382',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
-    'é©¬è¾¾åŠ æ–¯åŠ',
+    '54046f5b-bcee-4f3e-9424-088a7c1ba77b',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
+    '马达加斯加',
     NOW()
   ),
   (
-    '1ef91790-7a28-4b60-8d49-c58a1a3448a1',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
-    'ÐœÐ°Ð´Ð°Ð³Ð°ÑÐºÐ°Ñ€',
+    '167e4a0d-11ca-4706-81c9-abbdf05cc915',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
+    'Мадагаскар',
     NOW()
   ),
   (
-    '98b84d82-e3c5-40b4-8930-d1e6376e7fed',
-    'c33ce059-e519-4314-b01f-09b9be77040e',
-    'MadagÃ¡scar',
+    'a4091787-e29d-44c3-9185-3bb9da71fa11',
+    'cf87b1a7-6ba1-46ed-bce4-8c1481dd4f60',
+    'Madagáscar',
     NOW()
   ),
   (
-    'e7d9683c-6b90-414d-91c9-15655fc364be',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'f107b4d9-ed54-4d6c-9dbf-9e2dad4ad08d',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'North Macedonia',
     NOW()
   ),
   (
-    'ec97bf78-0604-45ab-9c03-2aadb1403377',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'f4dddcfe-9ca9-4e78-bea5-7d01fe155a3d',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'Republic of North Macedonia',
     NOW()
   ),
   (
-    'dd8d55b6-028b-4f15-8dc5-3cee3930f363',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'd898e188-4a21-448a-81ab-6413c3d8a842',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'N. Mac.',
     NOW()
   ),
   (
-    'da79df34-539c-4089-b537-5fecb3170762',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
-    'Ù…Ù‚Ø¯ÙˆÙ†ÙŠØ§ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
+    '31a36cda-1b50-4f90-8b82-7a45f4f17c21',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
+    'مقدونيا الشمالية',
     NOW()
   ),
   (
-    '1d39b9d5-65d3-49e3-920b-565ebcd35258',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    '6c5733e8-83b4-42f8-9402-778d7993ebbf',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'Nordmazedonien',
     NOW()
   ),
   (
-    '10187612-2594-45d7-acd7-43a606530bab',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
+    'aff9be80-ab76-413d-b67b-0e73d43c71ff',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
     'Macedonia del Norte',
     NOW()
   ),
   (
-    '1d52ae4d-05fb-4946-b1f6-0ccd18dee45b',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
-    'MacÃ©doine du Nord',
+    'cc604c20-1607-490a-b76e-59fb81b5de51',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
+    'Macédoine du Nord',
     NOW()
   ),
   (
-    '173f1dfd-45c0-4df0-86d0-75761ea29643',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
-    'åŒ—é©¬å…¶é¡¿',
+    '1fc6ee81-9d83-4fa1-affa-cad9231be5dd',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
+    '北马其顿',
     NOW()
   ),
   (
-    '0065ecc7-1e93-4d20-9072-a72d6afdb080',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
-    'Ð¡ÐµÐ²ÐµÑ€Ð½Ð°Ñ ÐœÐ°ÐºÐµÐ´Ð¾Ð½Ð¸Ñ',
+    '22f5f132-15aa-4572-82f8-2ff11da7cc6a',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
+    'Северная Македония',
     NOW()
   ),
   (
-    '457a854f-2821-4d61-805f-129e2c6d5e49',
-    '89a5c0af-66f7-4953-9812-aa6ec2a628fe',
-    'MacedÃ³nia do Norte',
+    '0a5c753a-c816-4d52-9d35-1643820c7eee',
+    'bec0168d-d227-4b2c-8d33-62fc2fd60f16',
+    'Macedónia do Norte',
     NOW()
   ),
   (
-    'f4787895-225b-4a7c-84c3-823ad5320cc5',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '2b410542-2481-466f-836f-73088f58c864',
+    'c6745687-a436-492f-8e48-200a98440445',
     'Luxembourg',
     NOW()
   ),
   (
-    '7d82f715-c963-4981-9a9b-9440e8fa86c4',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    '50d32004-c7bb-4bae-9e86-1520d332bb45',
+    'c6745687-a436-492f-8e48-200a98440445',
     'Grand Duchy of Luxembourg',
     NOW()
   ),
   (
-    'ec2196a7-c653-4822-8fcd-64f35ed510d7',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'bc921862-7376-4c7e-941d-217068d02159',
+    'c6745687-a436-492f-8e48-200a98440445',
     'Lux.',
     NOW()
   ),
   (
-    '6f3d54d1-d83b-413b-9c46-616f6ee2ebe0',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
-    'Ù„ÙˆÙƒØ³Ù…Ø¨ÙˆØ±Øº',
+    '6bdd1ed5-9fb2-429a-9e46-3703801afe6c',
+    'c6745687-a436-492f-8e48-200a98440445',
+    'لوكسمبورغ',
     NOW()
   ),
   (
-    'a0dd65c1-3e5e-4f2a-92c5-17277d04ff15',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'ee7b2f26-6cbe-44a2-92be-91ee0ed146c8',
+    'c6745687-a436-492f-8e48-200a98440445',
     'Luxemburg',
     NOW()
   ),
   (
-    '940997b9-d0e6-4a73-954f-3b1a035c3007',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
+    'e1627a5b-690a-4683-916f-7e3814c405ba',
+    'c6745687-a436-492f-8e48-200a98440445',
     'Luxemburgo',
     NOW()
   ),
   (
-    '5253d8f8-41a7-46f7-8c80-bb8cd38fed41',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
-    'å¢æ£®å ¡',
+    'ee4effeb-68e7-49f2-83d6-535d84612bee',
+    'c6745687-a436-492f-8e48-200a98440445',
+    '卢森堡',
     NOW()
   ),
   (
-    '83dcd3af-1ee4-418a-969d-6d534a0e0098',
-    'c751bd17-3082-4d3f-a3ec-7e0463afc264',
-    'Ð›ÑŽÐºÑÐµÐ¼Ð±ÑƒÑ€Ð³',
+    '68e5dee7-b522-4aea-9939-bc893563e508',
+    'c6745687-a436-492f-8e48-200a98440445',
+    'Люксембург',
     NOW()
   ),
   (
-    '0bf227ae-d635-403a-b363-3a89f104aa31',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '91035dfc-dee3-4743-9cc4-a2b0520eb863',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Lithuania',
     NOW()
   ),
   (
-    '21e2d5c1-7b6c-471f-9ee6-28c76bbbc3e7',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '5eae96ee-5feb-4e5e-a0c0-b8c2d5d97e18',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Republic of Lithuania',
     NOW()
   ),
   (
-    'f884ef51-7cde-41c5-acd0-ee2c6ba65722',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '78e15214-b024-422d-a9a9-a81236e079c4',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Lith.',
     NOW()
   ),
   (
-    '062c5cd5-800c-416c-9edd-8fe7159efdf7',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
-    'Ù„ÙŠØªÙˆØ§Ù†ÙŠØ§',
+    '73e7a6e2-6de5-495d-b73c-05f54bafc8c8',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
+    'ليتوانيا',
     NOW()
   ),
   (
-    'b871eda5-e09b-4e6c-bce5-5fadd008f8b6',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    'ab882f9e-6a12-443f-959f-1e458e5160d8',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Litauen',
     NOW()
   ),
   (
-    'cb210a14-463d-4e61-b97f-d8ee2fc023c8',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '5a56c2fc-060d-4708-a0b0-b01366a149ab',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Lituania',
     NOW()
   ),
   (
-    'f8063d92-ab8e-4471-82c8-cec9573ec2a5',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
+    '8f435e11-deff-47c5-97d4-3242c379bb68',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
     'Lituanie',
     NOW()
   ),
   (
-    'c760591d-0ac7-4439-aa70-153d4dd30bf8',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
-    'ç«‹é™¶å®›',
+    'be311772-a5d9-4794-a372-01e861d32369',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
+    '立陶宛',
     NOW()
   ),
   (
-    '0311074c-37b7-4661-b33d-7afb5c760206',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
-    'Ð›Ð¸Ñ‚Ð²Ð°',
+    'd26117c1-8b45-4c13-be8f-06dcd9d91e96',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
+    'Литва',
     NOW()
   ),
   (
-    '3e8a5663-9633-4f9b-8760-debadcbf22ea',
-    'd75e6932-a939-4a4c-a9cb-402fd3689ee6',
-    'LituÃ¢nia',
+    '333cf99d-172c-4032-a701-3358a84b09ed',
+    'f0f84b7d-8dcb-448c-bedb-57b56ed1a820',
+    'Lituânia',
     NOW()
   ),
   (
-    'cd88b235-02be-4aca-8883-1e509a32bbca',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '75efce88-8721-4f8a-9f49-c300574d87df',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'Liechtenstein',
     NOW()
   ),
   (
-    '766f4867-5442-4be7-b7bd-cf00b1b93423',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '819d9f69-3932-4b8b-976d-87a66d355e04',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'Principality of Liechtenstein',
     NOW()
   ),
   (
-    '2bf8163d-de70-4877-8814-93af37c58d98',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
+    '63d134ce-57cb-4a3b-b85d-2c8b3f615fd1',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
     'Liech.',
     NOW()
   ),
   (
-    '5adbd79e-6e9f-447b-aef3-c1ca518e47c8',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
-    'Ù„ÙŠØ®ØªÙ†Ø´ØªØ§ÙŠÙ†',
+    '93cac2b7-17b9-45c2-a96f-19a9029a599d',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
+    'ليختنشتاين',
     NOW()
   ),
   (
-    '9233fcd6-f295-450d-9479-3a4fb55c563d',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
-    'åˆ—æ”¯æ•¦å£«ç™»',
+    '8bb80fb1-035e-4621-a9db-0218d7e18c9c',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
+    '列支敦士登',
     NOW()
   ),
   (
-    'cb5b158e-0747-4656-ad54-568a2dc64967',
-    'ff398ee8-d967-4522-94be-d21a411daa93',
-    'Ð›Ð¸Ñ…Ñ‚ÐµÐ½ÑˆÑ‚ÐµÐ¹Ð½',
+    'b9f7b002-5a1e-460c-af85-be296b9391c7',
+    'f14a7f35-c3d3-45f3-881f-3bb415fbc5dc',
+    'Лихтенштейн',
     NOW()
   ),
   (
-    '7bcd77a0-8ee0-4209-b078-fdfcc2f539f8',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    'd41c0ad1-a4db-46c4-bfd2-ebcd494e1a28',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'Libya',
     NOW()
   ),
   (
-    '9657905e-7c6c-4206-8a1a-753e3a3ccd37',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
-    'Ù„ÙŠØ¨ÙŠØ§',
+    '83f17c02-9ce7-4927-af06-79f133e17b8d',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
+    'ليبيا',
     NOW()
   ),
   (
-    '49ff4e3d-6aee-4adb-a358-d7dda3db0041',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '3da8cecd-099a-4453-a135-3db1ee2bc3d7',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'Libyen',
     NOW()
   ),
   (
-    '17ce5310-1887-4b29-9124-d74ffa6834f2',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '1b759ca3-ff82-4030-b3fe-29c7c5a84d00',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'Libia',
     NOW()
   ),
   (
-    '44b41930-dc7c-4045-becb-c0c4386757a7',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
+    '16cb4f6e-ed2e-4190-95ad-aa35509de709',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
     'Libye',
     NOW()
   ),
   (
-    '599a0918-0ece-45e0-b3c5-529a0955a35e',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
-    'åˆ©æ¯”äºš',
+    '19418284-be88-45f2-bbf9-4798e17c1dda',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
+    '利比亚',
     NOW()
   ),
   (
-    'f67785e1-1b67-482e-8268-a89bf01c0460',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
-    'Ð›Ð¸Ð²Ð¸Ñ',
+    '4d1fcf87-70e7-4ca7-aba2-374a2eac2dff',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
+    'Ливия',
     NOW()
   ),
   (
-    '1e1ad89a-e123-49be-be00-0c7b90215c95',
-    '6b09e50a-05a3-475c-83f3-175fca91a546',
-    'LÃ­bia',
+    '8b22c430-cfaa-4086-bec8-d43a6e9d5e42',
+    'b5ba9ee3-e8a4-4437-b743-a6d61b858020',
+    'Líbia',
     NOW()
   ),
   (
-    'ae0cc24b-8904-4498-9a9d-ee1a6171210d',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '3cee67f4-4719-48bf-87b2-aae6492ad9b7',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'Liberia',
     NOW()
   ),
   (
-    '4c70b890-db16-46ab-9ca5-fa02cb8b89f2',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
+    '171565d7-0574-4a95-9ded-06cb9adf458e',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
     'Republic of Liberia',
     NOW()
   ),
   (
-    '5723ba26-0224-4c5d-8740-977685941ec6',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
-    'Ù„ÙŠØ¨ÙŠØ±ÙŠØ§',
+    '4ae6819e-54e9-44f1-9e96-f5ea014225ef',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
+    'ليبيريا',
     NOW()
   ),
   (
-    '7c5c934c-1aff-402a-9a57-bdb620b1f975',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
-    'åˆ©æ¯”é‡Œäºš',
+    'a861df4b-1ead-4648-a0ad-fad8e3206bd9',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
+    '利比里亚',
     NOW()
   ),
   (
-    '6bbb04f9-ff75-4dca-9aba-7b28104acd04',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
-    'Ð›Ð¸Ð±ÐµÑ€Ð¸Ñ',
+    '0f3bc0f3-bfab-41ba-bbc1-8bb0a3784758',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
+    'Либерия',
     NOW()
   ),
   (
-    '7e2f834b-2006-48d2-8ca7-80f0c4a2125b',
-    '30a145af-e514-4b0c-92c0-0719ba0e9f09',
-    'LibÃ©ria',
+    'c226103f-74e0-47ef-a5af-5e04c6094f66',
+    '6fabc16d-dcab-42d1-98d7-a601a78aceed',
+    'Libéria',
     NOW()
   ),
   (
-    '600c35ca-a33c-4a41-a0d3-27fc1819b637',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'd27b775e-6c92-42b9-a832-9946c474c4d1',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'Lesotho',
     NOW()
   ),
   (
-    '5e91d5d6-8e19-46b3-bf81-572dd0e3ad42',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '765bf11c-6e7d-4847-9939-7660d2572192',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'Kingdom of Lesotho',
     NOW()
   ),
   (
-    '4668c224-0385-4796-95aa-90198806f14d',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    'e3556cdd-ec0f-426f-abfe-506d900d5c5e',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'Les.',
     NOW()
   ),
   (
-    'feb48f7a-f549-4cb4-a494-3e60f3bf1e18',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
-    'Ù„ÙŠØ³ÙˆØªÙˆ',
+    '0ef66de7-52ae-49d9-9c91-28d753a97ec8',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
+    'ليسوتو',
     NOW()
   ),
   (
-    'b0a35c45-d68c-4418-a350-20fbbca94e37',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
+    '674f5c86-a0fd-478e-822a-d4ee92ddbbb8',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
     'Lesoto',
     NOW()
   ),
   (
-    'a24831e0-de6a-4ef3-be1b-bc0a75e531b8',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
-    'èŽ±ç´¢æ‰˜',
+    'c5ade49e-967a-48b8-8edc-3da4984fb328',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
+    '莱索托',
     NOW()
   ),
   (
-    '34a95603-412f-4e2d-bf60-981908037c81',
-    '2e6825cc-cec1-45d7-927d-21a80d2fcf03',
-    'Ð›ÐµÑÐ¾Ñ‚Ð¾',
+    '4ce9634f-dc13-4619-9cb6-1abeacc3d4a7',
+    'd89f662d-2c94-4003-8e65-1e2cfe783db5',
+    'Лесото',
     NOW()
   ),
   (
-    'fa2fb845-d65f-45b1-8f9c-3fccac888f59',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '38a53c1c-896a-4500-be81-484e4171f26a',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'Lebanon',
     NOW()
   ),
   (
-    '284c708d-afb2-40b7-8cb8-4635ed62e5f8',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '9cd1caa1-a6ea-4893-b86a-c445ef411e98',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'Lebanese Republic',
     NOW()
   ),
   (
-    '32d316b7-2c5f-4cc7-9bea-b9f6ca5fa938',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '34501a4e-4a9d-44a7-9691-a2ffab1cd180',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'Leb.',
     NOW()
   ),
   (
-    '8e54b312-cf76-4c2b-8f0a-8bca8dbae062',
-    '29429221-c6ad-4512-976e-e206200f8d07',
-    'Ù„Ø¨Ù†Ø§Ù†',
+    '3d0f0d17-9eff-4658-a185-da10749f7cb0',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
+    'لبنان',
     NOW()
   ),
   (
-    '3a9109ad-e15f-4d7a-98f8-81db8fe28edf',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '293734c6-c549-46e6-a819-c57a37994663',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'Libanon',
     NOW()
   ),
   (
-    'a09f1634-fa19-4121-8ee8-b073498658b1',
-    '29429221-c6ad-4512-976e-e206200f8d07',
-    'LÃ­bano',
+    'd960a3b4-9e58-41c3-b2a0-c865e487faf8',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
+    'Líbano',
     NOW()
   ),
   (
-    '4bf1de19-2a12-4f68-b37e-e1b257a9b117',
-    '29429221-c6ad-4512-976e-e206200f8d07',
+    '6e54751f-d637-46a1-baaf-ab50ad71c958',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
     'Liban',
     NOW()
   ),
   (
-    '7697597e-c8c5-4a06-a9fc-29b49fcf1d7a',
-    '29429221-c6ad-4512-976e-e206200f8d07',
-    'é»Žå·´å«©',
+    'd0ba8462-938a-444c-a631-7ad751387c5f',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
+    '黎巴嫩',
     NOW()
   ),
   (
-    '965f5322-43e5-4d01-9840-ed743affb932',
-    '29429221-c6ad-4512-976e-e206200f8d07',
-    'Ð›Ð¸Ð²Ð°Ð½',
+    'fced92b8-f18e-4bee-a26c-cf968a3fd6c3',
+    '3935be17-9d91-4366-b2f2-16b00d463dea',
+    'Ливан',
     NOW()
   ),
   (
-    '6a1a5ab9-9e24-4a1c-9fc0-4b1a1d4f1c3b',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'bacb205a-622e-42bf-a560-c297a4236e35',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Latvia',
     NOW()
   ),
   (
-    '4d9fee20-a5d0-4073-b06c-b35e125a18a8',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'a998f506-e2d1-4b15-8a2f-fbe295350e8c',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Republic of Latvia',
     NOW()
   ),
   (
-    '89d8f335-5d8e-43f3-92ea-47ea16fe22d6',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '07297978-af3d-45f0-954b-d7fe414a395b',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Lat.',
     NOW()
   ),
   (
-    'e630f558-0956-40cb-8b92-2fa6a496e11a',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
-    'Ù„Ø§ØªÙÙŠØ§',
+    '49d77cd8-bf9d-4cc7-8941-85d41b57c5ad',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
+    'لاتفيا',
     NOW()
   ),
   (
-    '61f42ee5-04e7-4250-b1b2-9e13ca71af72',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    'ac9fd33d-50a3-44fa-ba85-5dcef4727252',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Lettland',
     NOW()
   ),
   (
-    '670df7bf-f238-44bc-986b-56868e6ed253',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '657c921c-e1a7-4d07-bb54-5577ac38e66f',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Letonia',
     NOW()
   ),
   (
-    '81728cae-025e-4356-971f-938554ffd542',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
+    '666bdfbf-92f3-40e5-8993-80e8e7d28f70',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
     'Lettonie',
     NOW()
   ),
   (
-    '91179505-3f9e-4f0a-b5dc-42099daee274',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
-    'æ‹‰è„±ç»´äºš',
+    'd0a171f7-e287-41a7-a9c1-0ea6d8c04342',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
+    '拉脱维亚',
     NOW()
   ),
   (
-    '9a1f38e5-bb27-475a-b82c-34b6e23cafe1',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
-    'Ð›Ð°Ñ‚Ð²Ð¸Ñ',
+    '0a022b5a-db1c-4402-83f6-be3a76ce5f5c',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
+    'Латвия',
     NOW()
   ),
   (
-    '95baa044-1628-40d5-9e71-4271df90d8da',
-    'f7f8e477-455f-4bf2-823e-e4e4f16c6476',
-    'LetÃ³nia',
+    '60d244a8-53ce-4ad6-8c0d-021fba7af6c6',
+    'f5ccfd54-99ad-42fc-89be-7fb17f32eadd',
+    'Letónia',
     NOW()
   ),
   (
-    '6236bdad-f4a3-41fc-a471-c1b6eb91dee4',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '04e46c35-48c5-432c-a6c3-4fefd9a0ab3e',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'Laos',
     NOW()
   ),
   (
-    '75ff9efe-8033-4661-bc91-f6537416e807',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    '847e3c94-b3ab-4a84-b6c9-6a34499719fe',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'Lao PDR',
     NOW()
   ),
   (
-    '68a80d65-cde2-4475-8249-aaeb4370e525',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
+    'f859667b-50e2-49b9-a3b4-98cdde84ef24',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
     'Lao People''s Democratic Republic',
     NOW()
   ),
   (
-    '5b2e519a-41b0-48e8-96ef-3790a5ef231e',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
-    'Ù„Ø§ÙˆØ³',
+    '5b87050c-0d17-441b-8af5-060b7c43b9fa',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
+    'لاوس',
     NOW()
   ),
   (
-    '91975601-8951-41ef-8f59-237cbbfe7cb7',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
-    'è€æŒ',
+    'd6a63774-8aab-4975-9c8f-4271227d9fa8',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
+    '老挝',
     NOW()
   ),
   (
-    'f845753d-fedf-46c6-976b-f766849b387c',
-    '23419940-4f2f-4194-858b-2e645e3278d2',
-    'Ð›Ð°Ð¾Ñ',
+    '45df1dd7-8a74-4e6f-96a9-7be1a9531fba',
+    '73299a02-ff22-45b5-a44a-fd0192df7bfe',
+    'Лаос',
     NOW()
   ),
   (
-    'f8367f98-5bdb-44fe-9a48-dff04f81e18f',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '8b798fd6-e2ae-4b7c-b7a0-3312d741dc1e',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'Kyrgyzstan',
     NOW()
   ),
   (
-    'e80c7176-ec2c-449d-b9f8-5eb6c1b8d8f5',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'eefa688b-0076-4250-8b69-fa8fcd05b581',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'Kyrgyz Republic',
     NOW()
   ),
   (
-    'e0c9536f-ffcc-40c0-9ce8-4a859ff1f71b',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'da5b7afc-36c1-4702-82b1-85d3f3b6ecc6',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'Kgz.',
     NOW()
   ),
   (
-    '38b7083e-a30a-41b3-a61f-dc001a32e58e',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
-    'Ù‚ÙŠØ±ØºÙŠØ²Ø³ØªØ§Ù†',
+    '846090af-1144-41fa-b30c-a1e639ba4d4a',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
+    'قيرغيزستان',
     NOW()
   ),
   (
-    '9963dc55-b25f-4e72-bdbe-8c79295a7636',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    'ae7a792c-7b46-4d23-9083-52fd966f4814',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'Kirgisistan',
     NOW()
   ),
   (
-    '4b29b28e-c29b-4f5e-aefc-9f11ec369211',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
-    'KirguistÃ¡n',
+    'de6ae370-2a82-45fc-a629-5841b381ad72',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
+    'Kirguistán',
     NOW()
   ),
   (
-    '9dd27419-1d17-4ad5-bd4c-5609fc926d18',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
+    '470e2113-1a36-4d15-90ec-2d6e6848a41b',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
     'Kirghizistan',
     NOW()
   ),
   (
-    'ecca3c3b-989e-4912-8283-fdde52c44672',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
-    'å‰å°”å‰æ–¯æ–¯å¦',
+    'f081fc41-62fa-4369-a186-c5dacb46dc50',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
+    '吉尔吉斯斯坦',
     NOW()
   ),
   (
-    '4fc36f15-19ce-433c-91b6-43b983e3d750',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
-    'ÐšÐ¸Ñ€Ð³Ð¸Ð·Ð¸Ñ',
+    '0111acb4-69b1-4b49-9327-29b09018f157',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
+    'Киргизия',
     NOW()
   ),
   (
-    '96194a49-0fa3-43d6-8d0d-3198d04ff310',
-    'ffaf2fa0-2017-4db7-9d5f-906e194e80ff',
-    'QuirguistÃ£o',
+    '8f9d6610-58f6-4d81-b937-8531fcced6ea',
+    'e8e4bdd9-b18c-4e53-be36-c64a0f999493',
+    'Quirguistão',
     NOW()
   ),
   (
-    '2dc9d552-982e-454a-b331-0bf0f932a16d',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'bf9493d6-2efd-4199-b95b-dd37baccd942',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'Kuwait',
     NOW()
   ),
   (
-    '7c39aecf-d7e2-4d9c-9bc0-9c320920866c',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    'e1a2cd4a-95f2-4e4b-841c-1e9ad545d7ff',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'State of Kuwait',
     NOW()
   ),
   (
-    'c846e76e-17c9-4eee-9f2f-7296868aa428',
-    'cb30938b-9713-430d-9538-55279abb0a86',
+    '477c835e-7930-4539-9397-d26ca9d29943',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
     'Kwt.',
     NOW()
   ),
   (
-    '0eafe5e8-1d77-4770-81df-265bc21cb0cd',
-    'cb30938b-9713-430d-9538-55279abb0a86',
-    'Ø§Ù„ÙƒÙˆÙŠØª',
+    '57e065d8-36b6-4f4f-a07e-65ef57c10743',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
+    'الكويت',
     NOW()
   ),
   (
-    '69d678fb-14ab-4adf-9b45-3699348758d7',
-    'cb30938b-9713-430d-9538-55279abb0a86',
-    'KoweÃ¯t',
+    'b0b7dbb9-2399-4594-9475-eda7bff36587',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
+    'Koweït',
     NOW()
   ),
   (
-    'fc672db9-ca8b-4307-805a-fc5b677ddcd5',
-    'cb30938b-9713-430d-9538-55279abb0a86',
-    'ç§‘å¨ç‰¹',
+    'db55ec7a-bd07-4039-8b1e-d22dd7de8ef7',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
+    '科威特',
     NOW()
   ),
   (
-    'bb394ba9-265c-4905-a965-027a17f8554e',
-    'cb30938b-9713-430d-9538-55279abb0a86',
-    'ÐšÑƒÐ²ÐµÐ¹Ñ‚',
+    '4e0ea032-f47f-442b-9fa3-c28927f9d9e4',
+    'fe5d24e3-15ff-4724-bce7-b2687d28045a',
+    'Кувейт',
     NOW()
   ),
   (
-    'd55f574d-1ca9-4699-a07b-c2355c1dedf6',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '95ce4992-6e23-4db9-b92a-b25b8ab31bd4',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'Kosovo',
     NOW()
   ),
   (
-    '5aee31a8-0a1f-45a4-a76a-5280169b6d1d',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    'eb51a6c7-7630-4fe2-b710-ca7d209dd5fd',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'Republic of Kosovo',
     NOW()
   ),
   (
-    'ec12580d-c5db-4039-8c2f-aa29900b0cc5',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
+    '8c4040d1-8b26-45f1-ac21-a03f2a00232d',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
     'Kos.',
     NOW()
   ),
   (
-    '4939d85c-ae3b-4542-87df-b434a143c8d1',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
-    'ÙƒÙˆØ³ÙˆÙÙˆ',
+    '7243df3b-3237-426d-9219-05a78bd52a1e',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
+    'كوسوفو',
     NOW()
   ),
   (
-    'dcf43ff3-5175-4b23-a0f5-003c287d196c',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
-    'ç§‘ç´¢æ²ƒ',
+    'f9e69a9d-6d10-46dd-8700-0e7360a5f908',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
+    '科索沃',
     NOW()
   ),
   (
-    'e7b717b5-db18-4afb-9629-efc1eb6e0eb5',
-    'd1d2fc07-0226-470e-a4d2-47fd2a824db2',
-    'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾ÑÐ¾Ð²Ð¾',
+    '393922dd-e760-44d1-9300-d93d3ae3203b',
+    '333e7d87-0209-46dc-b158-cb4814991b7b',
+    'Республика Косово',
     NOW()
   ),
   (
-    'f210abb3-1d56-4ab3-ae67-0d82be33a148',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '183622f6-2d8d-4c4c-a6b8-334fb4ac4ef7',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'Kiribati',
     NOW()
   ),
   (
-    '373b688d-c853-40d0-9496-7bdc1f05a7f4',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    'ebcc261c-a149-45b5-80dc-0e84a46d56e1',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'Republic of Kiribati',
     NOW()
   ),
   (
-    'd7676b94-ca83-4273-8005-0f72cbcb1d6f',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
+    '722b6728-2cca-42de-bfdc-e4f8d5a42ec0',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
     'Kir.',
     NOW()
   ),
   (
-    '351c289c-16c6-4046-89d0-313fecfe35c5',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
-    'ÙƒÙŠØ±ÙŠØ¨Ø§ØªÙŠ',
+    'c323b614-84f7-4592-9f00-d3355ee26b83',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
+    'كيريباتي',
     NOW()
   ),
   (
-    '3ed15586-b19f-4000-8327-072f102da469',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
-    'åŸºé‡Œå·´æ–¯',
+    'cd318581-f58d-4482-983d-c2e94d95464c',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
+    '基里巴斯',
     NOW()
   ),
   (
-    'e6092823-b396-4c59-97a7-b8e81e026419',
-    'ccff5ccb-4107-49ff-9947-0b2e4b73af27',
-    'ÐšÐ¸Ñ€Ð¸Ð±Ð°Ñ‚Ð¸',
+    'a1380254-c4bb-4264-aa72-750e93efc540',
+    'e05d2091-7782-4dbf-b655-c6c6b5c26bfb',
+    'Кирибати',
     NOW()
   ),
   (
-    'e1640094-4014-43e1-983e-5adde9549d9e',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    '3cfedf09-f377-45d7-a5bf-1214896f227c',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'Kenya',
     NOW()
   ),
   (
-    '1d0c922e-6a03-4884-92b9-3ac01cdfb223',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'c8dc4373-e641-49ab-a386-1a0f1bb92de3',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'Republic of Kenya',
     NOW()
   ),
   (
-    '05307735-e3a8-4c72-a441-20d7dbc2ae7a',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'b9256094-ce45-4704-9050-f99176779e9a',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'Ken.',
     NOW()
   ),
   (
-    '7ba542c1-619b-4238-bc3c-24b82279bc18',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
-    'ÙƒÙŠÙ†ÙŠØ§',
+    '851cb757-94ba-4238-8c14-49ca1cac16bd',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
+    'كينيا',
     NOW()
   ),
   (
-    '92c4072a-ac7d-4ee2-83d9-8c0a4ea15804',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
+    'a7565f02-36ee-4332-84f4-bcec5f4bda18',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
     'Kenia',
     NOW()
   ),
   (
-    '3656385b-47bf-46c8-9cb2-30084f3cef0b',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
-    'è‚¯å°¼äºš',
+    '55270f70-cb92-405d-9588-f19cf28e87ef',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
+    '肯尼亚',
     NOW()
   ),
   (
-    '81a4cd76-dd8f-47a2-a344-92ea7fcc1881',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
-    'ÐšÐµÐ½Ð¸Ñ',
+    'd2d906a5-bf81-4cd9-9c67-3c2a00a3e9c9',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
+    'Кения',
     NOW()
   ),
   (
-    '3303a1f2-283c-4dfc-b076-43edee4f5d1f',
-    '372e2946-4e3f-4211-8f8f-cd5effaa609d',
-    'QuÃ©nia',
+    '611d9425-fa8e-45d6-8201-bdf6bb206ba5',
+    'a28b8a05-729f-4003-9509-112a946d2e08',
+    'Quénia',
     NOW()
   ),
   (
-    '85ed92d7-656f-4ca6-b570-8c10d25cfcd5',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '0b74cf20-2cae-48dd-9056-413aece932b5',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'Kazakhstan',
     NOW()
   ),
   (
-    'c4d17d96-1345-4e0d-b890-c623bf36845b',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '1430756d-8bd5-441a-8fd4-8776a46a38ff',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'Republic of Kazakhstan',
     NOW()
   ),
   (
-    '93e08449-0a30-4976-8440-b2da11e38569',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '766b3e80-9a3a-4536-9cea-d2e0b274e4bc',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'Kaz.',
     NOW()
   ),
   (
-    'b79f7a24-6aad-4760-b6e6-24444e71e91f',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
-    'ÙƒØ§Ø²Ø§Ø®Ø³ØªØ§Ù†',
+    '08239c2e-de75-4a5e-8368-50c1b1d12e49',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
+    'كازاخستان',
     NOW()
   ),
   (
-    '037ec04c-fbb4-4dbe-be08-f0d8d7b7c650',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
+    '7e2caf13-1b68-42a0-bf6d-9aed42323e91',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
     'Kasachstan',
     NOW()
   ),
   (
-    'a8223c70-15f4-45cf-9fd2-7d12e57e866b',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
-    'KazajistÃ¡n',
+    '3ac2a675-2ee4-40c2-b0a5-101e67f1bf90',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
+    'Kazajistán',
     NOW()
   ),
   (
-    '43c9545a-3bbf-4384-9de6-d294c81f3664',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
-    'å“ˆè¨å…‹æ–¯å¦',
+    '39383a48-89b1-48ff-a2bf-98bd2aac7457',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
+    '哈萨克斯坦',
     NOW()
   ),
   (
-    '75c09ef9-8002-45bf-b7af-468750a8801e',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
-    'ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½',
+    '6877389f-3b6e-4704-934d-26fc9bca7c9b',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
+    'Казахстан',
     NOW()
   ),
   (
-    'fc0a3e2d-86a7-4758-b7af-9e792c563bf0',
-    'db8a33e9-58a3-47dd-94b7-3b8c63b3eddd',
-    'CazaquistÃ£o',
+    '1e5b90fa-437f-44c0-a721-df9ee7a482c8',
+    'a7099882-5a9e-4172-873e-0e24dd0d3945',
+    'Cazaquistão',
     NOW()
   ),
   (
-    'de9610f2-62e6-4bc1-9e62-a9ebfc344e18',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    'd2a3829c-48ae-4e33-8994-ee44c2a568e2',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Jordan',
     NOW()
   ),
   (
-    '21ec9902-bf7f-4dab-a31b-d426cc56f979',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '0ecd084c-7663-4902-8c7d-ad46fe748d94',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Hashemite Kingdom of Jordan',
     NOW()
   ),
   (
-    'd25bf00b-ca11-403f-946b-023fc05f0dbf',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '4c7552cc-36a8-4445-9536-490edfad8732',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Jord.',
     NOW()
   ),
   (
-    'b673ac6a-22d3-452d-ace2-7719cd2f770f',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
-    'Ø§Ù„Ø£Ø±Ø¯Ù†',
+    '8b17db47-da5a-4411-9bc7-e4af00fa466c',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
+    'الأردن',
     NOW()
   ),
   (
-    'bee4509f-52f0-4b72-bee8-d69bd723d5c4',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '1eaf8064-56ac-4157-9c5a-60c69a6ef536',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Jordanien',
     NOW()
   ),
   (
-    '6941eb9c-3701-4c2d-98dd-3235e0be1b17',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '99d2aea7-ab07-4f87-85e3-34176ab86c24',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Jordania',
     NOW()
   ),
   (
-    '59b5a623-6b22-4c4b-868f-35fd49fd69fd',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
+    '63cac89c-8039-4867-9fa5-6a2773c8a22e',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
     'Jordanie',
     NOW()
   ),
   (
-    '52e3fd38-5ddf-4a6f-a54f-35ad0307b437',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
-    'çº¦æ—¦',
+    '757f65d9-752e-423d-83eb-b38ae20cbda5',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
+    '约旦',
     NOW()
   ),
   (
-    '1b616c08-4da3-4d5b-b063-5d2277b57cc7',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
-    'Ð˜Ð¾Ñ€Ð´Ð°Ð½Ð¸Ñ',
+    'f10fe553-c017-4022-a93c-81c14bfff968',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
+    'Иордания',
     NOW()
   ),
   (
-    '82d3f678-4b57-4ca8-af2f-00b7b2ca8fac',
-    'f7a2c76a-c9f6-4814-97ea-11e4ba895b89',
-    'JordÃ¢nia',
+    '9fad0955-de22-4e6a-bd55-e186a567ddab',
+    'bdae77ec-00d8-41f2-8a21-45c3b8872658',
+    'Jordânia',
     NOW()
   ),
   (
-    'c2cecfc6-6a63-4d20-8701-137001343852',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    '84af624a-6f74-4b27-83da-9b75989ade99',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'Japan',
     NOW()
   ),
   (
-    'fe8be743-1311-432b-b40b-364487ebcbdb',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
-    'Ø§Ù„ÙŠØ§Ø¨Ø§Ù†',
+    '179c90a9-aa5a-4b8c-a738-1d8fb465f652',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
+    'اليابان',
     NOW()
   ),
   (
-    '74b70a35-5f99-4ad9-b6ff-7af06a2bb179',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
-    'JapÃ³n',
+    'f6c1babe-cdab-4f39-aeaa-175bdc69fd1d',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
+    'Japón',
     NOW()
   ),
   (
-    '81489535-ccbf-4cba-bddc-efbca750fe3e',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
+    'a04f75b7-6ef4-4518-be95-5e60df9eb3e3',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
     'Japon',
     NOW()
   ),
   (
-    'a1fbf00c-3ad0-4c58-af83-ecac7a4acbf3',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
-    'æ—¥æœ¬',
+    'fb25e9c1-f7be-43bd-872e-8f298dd0a85b',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
+    '日本',
     NOW()
   ),
   (
-    '2149da02-ce79-4ec0-8c11-7270125a3673',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
-    'Ð¯Ð¿Ð¾Ð½Ð¸Ñ',
+    'a1f3093d-edf9-485d-95bd-3f604e08ce62',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
+    'Япония',
     NOW()
   ),
   (
-    'e851f2a3-0774-48e3-b65d-6333fd2fe27d',
-    '66be26e1-896e-4b99-953c-f7e77f2e2174',
-    'JapÃ£o',
+    'f7b0f5cb-fcbb-49b8-b3c0-24ca6382e121',
+    'feaf8db2-de12-4a22-8356-06feb365c698',
+    'Japão',
     NOW()
   ),
   (
-    'cf2afb34-d835-492a-a00f-21df8026e5b8',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'e00c6863-e540-42ae-8567-bfd8f596eaf7',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'Jamaica',
     NOW()
   ),
   (
-    'cc724473-4c20-4577-b6cd-e16ce1475fb8',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    'bdb9072d-8d02-4626-b50e-caf59390d4f7',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'Jam.',
     NOW()
   ),
   (
-    '16b06ae4-d897-4496-9c91-cc3b22360b1f',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
-    'Ø¬Ø§Ù…Ø§ÙŠÙƒØ§',
+    '1778d2bb-fe58-470b-a664-2ae7c6b8dfd3',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
+    'جامايكا',
     NOW()
   ),
   (
-    'c8541ecd-c512-4c04-b731-37865c833b98',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
+    '6383452d-b852-4251-a394-c091b4916f5a',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
     'Jamaika',
     NOW()
   ),
   (
-    '60f4a90a-1abf-42a7-81de-49c464b42d99',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
-    'JamaÃ¯que',
+    '86808990-5e79-47ce-a88a-9153c58efba0',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
+    'Jamaïque',
     NOW()
   ),
   (
-    '469506af-1021-4205-b7d7-7b2a1d18ee9a',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
-    'ç‰™ä¹°åŠ',
+    '61fc3c55-d02e-42a4-8089-d3f941dfd323',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
+    '牙买加',
     NOW()
   ),
   (
-    'c39ded74-f511-4b24-a029-5b656754a3d4',
-    '2a4b7a7d-a988-453c-a4a0-ac33629a682a',
-    'Ð¯Ð¼Ð°Ð¹ÐºÐ°',
+    '1d56b55b-d48d-410f-88ad-e96f0d8b08c8',
+    '470e93bc-ce94-40ed-9a5b-e8351b22196f',
+    'Ямайка',
     NOW()
   ),
   (
-    '6bb7b77c-e490-42d5-aa13-3ad4378c3f2f',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'ec6f65f0-4309-4da1-87a6-6f0a4a3ec1b2',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'Italy',
     NOW()
   ),
   (
-    '6f633357-a908-418b-8ed2-d658e7431d63',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '92c66f05-a155-4086-a232-c3eeeafeadf1',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'Italian Republic',
     NOW()
   ),
   (
-    'afaaf7d1-6435-465c-acb6-13564d506ba8',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
-    'Ø¥ÙŠØ·Ø§Ù„ÙŠØ§',
+    '9ee1f04d-6e96-4332-9ece-c89bdbdd24c4',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
+    'إيطاليا',
     NOW()
   ),
   (
-    'd93b060a-10c9-4334-ac5b-dde5e2585b1a',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'f57a55ad-95b1-4f83-adf2-62855146d0bf',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'Italien',
     NOW()
   ),
   (
-    '57afbf12-0d56-469c-887a-8f6d8583758b',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    '85d63585-e581-4a68-aa07-1d8878f2879c',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'Italia',
     NOW()
   ),
   (
-    '663fe16e-66f5-4373-a4e4-64cb5d214140',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
+    'cab41e76-cfcb-4526-be59-b50273060662',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
     'Italie',
     NOW()
   ),
   (
-    'a63a8f46-1b91-4d08-b9ae-8619a4168586',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
-    'æ„å¤§åˆ©',
+    '5675759f-8d57-4961-8fc8-997ffc5ff866',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
+    '意大利',
     NOW()
   ),
   (
-    '12b5960a-8035-4d84-8b8a-5c6e7db87160',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
-    'Ð˜Ñ‚Ð°Ð»Ð¸Ñ',
+    '66d61343-859e-47f8-a968-4ccdece8de30',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
+    'Италия',
     NOW()
   ),
   (
-    '15bb847c-e2ec-453f-8cb4-64cfc73a8123',
-    '1f52cc5a-0993-4f54-ba12-8715450208aa',
-    'ItÃ¡lia',
+    '013bb54c-bd93-457c-b3dd-09e17bdaf5e9',
+    '3ac27f03-dce2-4f24-908c-76001b1d66b5',
+    'Itália',
     NOW()
   ),
   (
-    'c2bb24f8-cad6-4252-b4c4-e684bfb9a8fe',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '4b398fb3-92ec-48b6-9002-53c158f7fde6',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'Israel',
     NOW()
   ),
   (
-    'a259e34b-bdc4-4807-80f8-2a47593f7596',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    'a236ba07-0671-411a-bb76-96030d16f3b0',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'State of Israel',
     NOW()
   ),
   (
-    '3d74da53-c163-4aa3-a3c3-1e9a13a4719a',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
+    '4236745d-8a4e-4bae-bafd-9c1608c04307',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
     'Isr.',
     NOW()
   ),
   (
-    'a2d28ce5-be4e-458b-a5d2-58b2fab9293e',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
-    'Ø¥Ø³Ø±Ø§Ø¦ÙŠÙ„',
+    'a471d273-b3bc-4ae4-bcbd-4e57a884d772',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
+    'إسرائيل',
     NOW()
   ),
   (
-    '721bced3-7778-441b-881f-6bad742e0c42',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
-    'IsraÃ«l',
+    '7ba6ee12-7291-46ab-86d3-11f8f632977e',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
+    'Israël',
     NOW()
   ),
   (
-    '1218d017-b6bc-45a3-8419-6ca23bd6f7c3',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
-    'ä»¥è‰²åˆ—',
+    'da56822a-4d6e-45ac-8681-c3085bfdfc4e',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
+    '以色列',
     NOW()
   ),
   (
-    '838b3da2-6070-431d-a2e6-02c6bb8a9c9a',
-    'ca3cb82a-8eba-4931-a4ae-84e7b2fcce64',
-    'Ð˜Ð·Ñ€Ð°Ð¸Ð»ÑŒ',
+    '694f8f70-2510-48d6-9e9e-29f9e50e446a',
+    'ac7b2158-ad59-42dd-983c-1bbf576d60d1',
+    'Израиль',
     NOW()
   ),
   (
-    '8e30b190-e87e-40ef-bafa-d7ae6d214ace',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '0fc88ff4-9091-4d7c-b750-3af298a988a6',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'Palestine',
     NOW()
   ),
   (
-    '8cfe428f-dc3c-4486-b9a6-1ac996f80002',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'f1ee0310-2a3f-44b3-b93a-2fab1873a545',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'West Bank and Gaza',
     NOW()
   ),
   (
-    '20a1a456-fa20-45af-8507-ce18ab2b7033',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    'b1dffc9c-de87-40f5-a326-9fba6410a893',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'Israel',
     NOW()
   ),
   (
-    '1f68777a-20ae-4f56-a7df-ea0001148f94',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '4e6e35bd-5dc2-4911-870d-7f7824af0b0b',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'Pal.',
     NOW()
   ),
   (
-    '355466d0-adf9-43a5-9853-3e5a81a1e69e',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
-    'ÙÙ„Ø³Ø·ÙŠÙ†',
+    'dc308089-5c79-4d75-b75e-892f0b4ce2a2',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
+    'فلسطين',
     NOW()
   ),
   (
-    '96ca3658-ad7c-4917-82ba-439536ac92ac',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
-    'PalÃ¤stina',
+    'be2000e0-33bc-467d-94af-68792b634daa',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
+    'Palästina',
     NOW()
   ),
   (
-    '58ac3b2a-09d7-4780-8a66-94d765cf697c',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
+    '988b5b55-711f-471c-b754-1c688d2bdb74',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
     'Palestina',
     NOW()
   ),
   (
-    '0595f2fe-1f25-4ae4-98a1-2e1ec91add3c',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
-    'å·´å‹’æ–¯å¦',
+    '5fc60462-1843-40da-9074-a20021d1efc6',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
+    '巴勒斯坦',
     NOW()
   ),
   (
-    'd73bc91c-cc06-4371-abf1-bfd3f51c8db7',
-    '8a729ccd-895d-4c88-9d00-cc98b88a1947',
-    'ÐŸÐ°Ð»ÐµÑÑ‚Ð¸Ð½Ð°',
+    'e4620fbb-63ea-4aaa-9e6d-a6095b904bd1',
+    '15f73e26-6012-4763-8ba4-f557ef35a0e7',
+    'Палестина',
     NOW()
   ),
   (
-    '4ff824f9-8e19-4c40-8114-3257a3beb7a1',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'e44e3cdf-6530-45c5-85af-b9c99b323b32',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'Ireland',
     NOW()
   ),
   (
-    'cb7372b1-26ca-4287-a74d-cf30b40ed0e3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    'd37c935f-03f6-447e-8127-aee650362138',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'Ire.',
     NOW()
   ),
   (
-    '589fe14e-f305-4f1d-8d6e-6339df9815f2',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
-    'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø£ÙŠØ±Ù„Ù†Ø¯Ø§',
+    '1e8c96a1-a7ed-4edc-bb3a-8e56438667d5',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
+    'جمهورية أيرلندا',
     NOW()
   ),
   (
-    '886828b4-eeff-422e-b3f4-5bcead9cd13d',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '4f237646-6201-4f04-b86f-b01d3c5a4aa0',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'Irland',
     NOW()
   ),
   (
-    '9a3415d5-b417-47da-a09b-c9c0e4ae2fe3',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '5eaaa57b-58c5-49ed-bbd1-3b02f09ffe36',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'Irlanda',
     NOW()
   ),
   (
-    '36cf6d4c-2db8-4d07-bbf7-d9677b314980',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
+    '7a09f1ad-1b88-4a5d-aea9-4da9160d4259',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
     'Irlande',
     NOW()
   ),
   (
-    '43e6f963-d25e-4c6f-afc7-02901e52d930',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
-    'çˆ±å°”å…°',
+    'ca23e527-f19f-4478-8c49-154fa4b73bd7',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
+    '爱尔兰',
     NOW()
   ),
   (
-    'c81f1635-50bb-44a6-aa8f-f7e6d001f00f',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
-    'Ð˜Ñ€Ð»Ð°Ð½Ð´Ð¸Ñ',
+    '1de20396-352e-4e25-983f-716aaa4e7e28',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
+    'Ирландия',
     NOW()
   ),
   (
-    '14128db5-6fc8-4928-b551-939ea4c241a8',
-    'df56ece6-fc42-4e00-a189-93d58e9849ad',
-    'RepÃºblica da Irlanda',
+    '7a13e548-3ece-4854-bcbe-ef8135313b2e',
+    '1c118bb2-6b62-49c5-9efa-cbb161d4c3d3',
+    'República da Irlanda',
     NOW()
   ),
   (
-    '0578c8c8-aac6-4120-b75c-35690fa86d01',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'a43869ea-4a1c-40af-ac27-54a0c85aade4',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'Iraq',
     NOW()
   ),
   (
-    'dd87d3f1-39f2-40df-b19e-ae3fda481b20',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'aed05cb4-566a-4b10-b0fe-6b13a885c114',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'Republic of Iraq',
     NOW()
   ),
   (
-    '0d108198-be87-4a64-8762-6e70b207c5c5',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
-    'Ø§Ù„Ø¹Ø±Ø§Ù‚',
+    '4013dc35-32fb-4085-a3fc-bcb33e197597',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
+    'العراق',
     NOW()
   ),
   (
-    '3f86d242-9684-40d6-ac10-69b234239f5e',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    'cb4ed26a-651a-4a98-9306-ed8c88a625a6',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'Irak',
     NOW()
   ),
   (
-    '533eae46-254c-465d-bbbe-78088ade06a4',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
-    'ä¼Šæ‹‰å…‹',
+    '7559f69e-c992-41b8-992e-23e75beb65d0',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
+    '伊拉克',
     NOW()
   ),
   (
-    '4cdb6d69-9e8d-4bfe-885a-3bf5e1d2b44b',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
-    'Ð˜Ñ€Ð°Ðº',
+    'bc85c921-21aa-4182-8d30-b2d8002618b1',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
+    'Ирак',
     NOW()
   ),
   (
-    '576040cc-c72a-4909-9816-43f3d89fe8c3',
-    '1d7d3579-8168-42b9-a23c-da818ed32c61',
+    '02228626-3741-4b03-949d-633511bea6e3',
+    'c7c2f5d7-91c9-46ea-82d8-0be166512517',
     'Iraque',
     NOW()
   ),
   (
-    'c055eb1c-f69d-46e1-82a0-b84786dc6352',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'a6ee6894-b4c8-4f9f-90a0-8ef4ef7bc66a',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'Iran',
     NOW()
   ),
   (
-    '29374237-8140-44b7-9a49-9da48a6cd00a',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
+    'fbf105af-d30e-4dd7-924f-3661b1f2fc69',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
     'Islamic Republic of Iran',
     NOW()
   ),
   (
-    '28ff07ea-768b-4437-b556-e009232738ef',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
-    'Ø¥ÙŠØ±Ø§Ù†',
+    'd0f924a0-951c-4b32-a0e4-ed3a8e9e08d5',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
+    'إيران',
     NOW()
   ),
   (
-    '136c6ec1-3821-4ed0-bc5b-0ca6a600c3d4',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
-    'IrÃ¡n',
+    '0be05b15-ff68-4c29-bb64-531690fc3d40',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
+    'Irán',
     NOW()
   ),
   (
-    '8291b4cc-b3b9-42c0-a5d3-00c886e619a7',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
-    'ä¼Šæœ—',
+    '7730bef5-ba97-448c-8410-cac5ec6a9e8f',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
+    '伊朗',
     NOW()
   ),
   (
-    'cd370ea6-5852-42dc-964a-596ddab8f595',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
-    'Ð˜Ñ€Ð°Ð½',
+    'ec7faa77-4ee6-4c7d-9db4-2dddfa508248',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
+    'Иран',
     NOW()
   ),
   (
-    '94d3d7a7-0f5f-4da9-89c1-1f4681b83d4a',
-    '1596ac22-9a4b-4caf-811f-c20dafa0607d',
-    'IrÃ£o',
+    'da2ce4b7-5ac6-4b4b-825c-de1fc5189e2b',
+    '2b50040d-a9dc-4a98-8919-3ef8a09bcf3d',
+    'Irão',
     NOW()
   ),
   (
-    '2f074d5c-fb4e-4e16-9ab5-99e001b6aa7d',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '7ae0932a-500f-41fe-a00b-8f133d280797',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'Indonesia',
     NOW()
   ),
   (
-    '64174855-2e75-4201-bdb2-2e4693c936b7',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    '627ccee1-bf18-4fa4-99b3-75f73497ceb7',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'Republic of Indonesia',
     NOW()
   ),
   (
-    '1c8f8e15-26bb-4e39-910d-6f3f74bb2024',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'bea4a412-d334-4e92-b663-88e0130d1050',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'Indo.',
     NOW()
   ),
   (
-    'cd59e5a3-c232-4af5-bee1-b285e5dbdc7b',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
-    'Ø¥Ù†Ø¯ÙˆÙ†ÙŠØ³ÙŠØ§',
+    '850cde1c-286c-4578-a6d7-b0759a59094d',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
+    'إندونيسيا',
     NOW()
   ),
   (
-    'f9d59fc0-4b10-4bf4-8567-87d3e4596b42',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
+    'df466765-4a7e-49b1-942a-da369c7c76b5',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
     'Indonesien',
     NOW()
   ),
   (
-    '138183ff-8d8e-44d9-8841-0252c0af660f',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
-    'IndonÃ©sie',
+    '977449b5-751b-4755-835d-b448a90d0ebe',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
+    'Indonésie',
     NOW()
   ),
   (
-    '3d197fb8-7728-405a-99da-cd5292efc5d8',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
-    'å°åº¦å°¼è¥¿äºš',
+    'f6acce84-e0cc-4173-af9c-4672215031df',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
+    '印度尼西亚',
     NOW()
   ),
   (
-    '5a2133cb-bc31-4493-9393-9dbd4f30ccd6',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
-    'Ð˜Ð½Ð´Ð¾Ð½ÐµÐ·Ð¸Ñ',
+    '2a1c579a-ca19-49ad-86e1-873ce3e91052',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
+    'Индонезия',
     NOW()
   ),
   (
-    'ebf6c426-c3f8-487a-a711-d8414fcef84a',
-    'f5003fd1-1adb-4f6d-ba10-6cc6b7409960',
-    'IndonÃ©sia',
+    '63068a8a-24f9-4ebb-93fc-ca1719a5ea36',
+    '78801330-84dd-49ce-8ec3-2fee87d1c52d',
+    'Indonésia',
     NOW()
   ),
   (
-    '9deaa82a-0e8d-4e3c-a1c8-61a1d524d984',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'e159653e-16de-4df2-bfc2-d617f772b63b',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'India',
     NOW()
   ),
   (
-    '70d61fe7-9da0-4cdd-b125-12d99bbc788e',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'e98ca383-7c8c-4269-8c33-e9d0c244cb5f',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'Republic of India',
     NOW()
   ),
   (
-    '0a45ee26-b244-4910-937b-f7bdb7f4a072',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
-    'Ø§Ù„Ù‡Ù†Ø¯',
+    'ffe70740-1e06-4d24-a882-34646a110fca',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
+    'الهند',
     NOW()
   ),
   (
-    '297dab97-eac3-4ae8-a0db-cee7aa0f6ea8',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    'd06b046d-ee42-428f-850d-eccbb941fae6',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'Indien',
     NOW()
   ),
   (
-    '1f1bce3b-845f-4e06-9763-c3c70bc6a188',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
+    '8c8b9340-a8de-470d-ae13-d094b6e7318b',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
     'Inde',
     NOW()
   ),
   (
-    'f8668490-1ed4-4e9d-946e-aed0b3d192bc',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
-    'å°åº¦',
+    'e3fd749f-e1de-4f00-9e4e-913c63d2eec7',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
+    '印度',
     NOW()
   ),
   (
-    'c40e7a30-c2d0-45ef-91f9-6b0f1cafc78d',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
-    'Ð˜Ð½Ð´Ð¸Ñ',
+    '9ad12287-5063-4fe1-ba68-a5a46c53d475',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
+    'Индия',
     NOW()
   ),
   (
-    'edeea20b-3f05-409e-91e5-ecb4437c1997',
-    '047ea4e5-4081-4752-97df-76118889e7e3',
-    'Ãndia',
+    'e66663e9-c487-429f-b048-e1d2ba51c805',
+    '0268b0ac-17bb-4ecd-b8e5-7aca8c13b4df',
+    'Índia',
     NOW()
   ),
   (
-    'f28c9954-4e48-48d5-adbc-595d609ce371',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '2bd7d0fc-4b69-49cd-9c16-3e776d8538b3',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'Iceland',
     NOW()
   ),
   (
-    '331510d8-cf58-4a0c-98ed-f7e0db070f91',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '245d4f57-0a9f-4e01-b84a-2cc1449e0c62',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'Republic of Iceland',
     NOW()
   ),
   (
-    'e2844f08-5ef4-4004-adc2-df3b90f7bc79',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
-    'Ø¢ÙŠØ³Ù„Ù†Ø¯Ø§',
+    '6510c804-1959-4751-8313-b25934ece6df',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
+    'آيسلندا',
     NOW()
   ),
   (
-    'e38d3fb2-cd01-429e-a6bc-2c4a424fe2ec',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'da53f584-82f8-4b45-a358-4ca5dac8d214',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'Island',
     NOW()
   ),
   (
-    '1b4662da-b5a5-4a06-bb95-f56ae6dc0be2',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    '71d01100-cc8c-40e9-98a2-5a72c411e00f',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'Islandia',
     NOW()
   ),
   (
-    '07e29131-4661-48d0-a43d-1ebc97a2d24a',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
+    'e36e3804-a9cc-4dd8-b635-9e2b07f82b56',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
     'Islande',
     NOW()
   ),
   (
-    '145f73c8-3b2f-4a64-9a7e-571770544533',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
-    'å†°å²›',
+    '5a60cf1c-3caa-45be-b544-17a3c0b7e2c8',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
+    '冰岛',
     NOW()
   ),
   (
-    'b5ead773-3722-4559-b1bf-8ab6b69c7743',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
-    'Ð˜ÑÐ»Ð°Ð½Ð´Ð¸Ñ',
+    'aa055a48-0671-4c99-9144-e7f4a576e72b',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
+    'Исландия',
     NOW()
   ),
   (
-    'fc11fde4-9983-468c-8d7a-aa16822ac278',
-    'a12d5743-de14-4488-82d1-dbf9741304ed',
-    'IslÃ¢ndia',
+    '96c09527-fa94-44c5-94b8-7596ef6809a3',
+    '0d57288c-65f2-461c-a995-cb97ffdc6409',
+    'Islândia',
     NOW()
   ),
   (
-    '2a66d81d-4f15-4d84-813b-3ccfbb806c0a',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'c3a33681-e917-4827-bc93-529fbb384117',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Hungary',
     NOW()
   ),
   (
-    '3f2a86d4-ecd0-430e-90d3-48fddcde2235',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'c0293f72-a893-44bc-9e65-67997665e4ec',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Republic of Hungary',
     NOW()
   ),
   (
-    '6e1daeef-8aa2-46ef-bc39-acf933438e9a',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'fe952138-dd64-4327-a28c-3ce2d350e3be',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Hun.',
     NOW()
   ),
   (
-    '005fee73-0a76-45bd-8353-ea78f99eaf73',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
-    'Ø§Ù„Ù…Ø¬Ø±',
+    '92e1b6f9-ccf2-434f-9e49-a4b53431e804',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
+    'المجر',
     NOW()
   ),
   (
-    '03a5fecf-2e2e-4f56-96c8-fe60d50ded21',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    '1203694d-9256-4839-8510-eb44f3a99a69',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Ungarn',
     NOW()
   ),
   (
-    '27b8c0af-7f11-44d7-9521-5b1256143c5c',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
-    'HungrÃ­a',
+    '720a650f-3661-4f47-b1f7-b97e9e38e064',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
+    'Hungría',
     NOW()
   ),
   (
-    '77197427-4186-40df-9c73-1b0329478057',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'e38e8f01-547c-40e6-bd53-3b76e2b91238',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Hongrie',
     NOW()
   ),
   (
-    '5e153d01-38f2-44b5-bef6-41c1550c28a6',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
-    'åŒˆç‰™åˆ©',
+    'e5ec90bf-a0c6-41e1-8512-1dada05f677f',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
+    '匈牙利',
     NOW()
   ),
   (
-    'c3588eea-2c17-4052-a81e-f227040ce118',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
-    'Ð’ÐµÐ½Ð³Ñ€Ð¸Ñ',
+    'd039716c-d1dd-469d-86f9-6d29da8e840d',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
+    'Венгрия',
     NOW()
   ),
   (
-    '83afa4b6-d409-4922-be4e-24ec2236acb0',
-    '602e8e7f-1081-4ab1-9b2d-01d8066fd37c',
+    'dd1aed75-0630-4b07-81cb-9e0b8a3268f1',
+    '41fff963-fab7-440c-9fe5-e37c53fe4f97',
     'Hungria',
     NOW()
   ),
   (
-    '476c48f8-b289-4d24-9d81-6671d50c423a',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    'cec1064a-a6c3-4fab-8773-ee898a0e853d',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'Honduras',
     NOW()
   ),
   (
-    'bf4cf5e4-c470-4050-90cf-67b3ebded73e',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '0dd3b13e-10f0-40e2-a92d-744e5a60e57f',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'Republic of Honduras',
     NOW()
   ),
   (
-    '92d5f823-949f-49ea-9588-5040527910f9',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
+    '2c4079b1-3c3f-4fe7-8926-df43ee9a6b08',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
     'Hond.',
     NOW()
   ),
   (
-    'd1653b28-5ca6-4202-9b28-84e07db60baa',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
-    'Ù‡Ù†Ø¯ÙˆØ±Ø§Ø³',
+    '7a15f8cb-deaa-4e3f-8504-d22774217af8',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
+    'هندوراس',
     NOW()
   ),
   (
-    '59407f3a-2e47-4c84-8fa1-1e2354c82156',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
-    'æ´ªéƒ½æ‹‰æ–¯',
+    '89fdb58a-cca6-49f2-95bc-e4eccc35a7fa',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
+    '洪都拉斯',
     NOW()
   ),
   (
-    'b7ce761f-cbca-4e2e-b586-95a1423ce037',
-    'c43c7612-dd13-4cf1-8458-6694c82aa951',
-    'Ð“Ð¾Ð½Ð´ÑƒÑ€Ð°Ñ',
+    '5ffbaa84-cd9a-44d8-99e6-5c5135e08bde',
+    '8fe6eb4b-a5d2-40d0-a45c-952e6b0864cc',
+    'Гондурас',
     NOW()
   ),
   (
-    'fa78a3dd-9e9a-45cb-a85c-e731519833c6',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'e231b892-6b5a-4b0b-a897-cfa1a2eee6ad',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'Haiti',
     NOW()
   ),
   (
-    'c61a3f96-6564-4937-8fd9-e39759e6e772',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
+    'ff61a91b-b7ba-40f3-ab12-ca9e0841d2a6',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
     'Republic of Haiti',
     NOW()
   ),
   (
-    '26d452ce-9e93-4767-958e-75946b2f161f',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
-    'Ù‡Ø§ÙŠØªÙŠ',
+    '789db9f3-8934-47e9-a071-2cc0fd868b7b',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
+    'هايتي',
     NOW()
   ),
   (
-    '9d703297-25c4-4f10-b412-32fb507b70c4',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
-    'HaitÃ­',
+    'a15b404e-be31-4540-b569-a997a5eea8da',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
+    'Haití',
     NOW()
   ),
   (
-    '9ae54cee-0ffb-4ac1-968d-e19a00adf54b',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
-    'HaÃ¯ti',
+    '0bbee1f5-bad6-4636-aed7-3936406e7166',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
+    'Haïti',
     NOW()
   ),
   (
-    '7e9e550f-e135-401f-9ce4-7da18e72fe2e',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
-    'æµ·åœ°',
+    'b88dfb14-5b8c-4063-968a-481e40db8737',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
+    '海地',
     NOW()
   ),
   (
-    '54b45aeb-a6c2-47e7-bff9-6ecb13dcc989',
-    'a87be68d-c59a-4063-94d4-c60680613b2c',
-    'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð“Ð°Ð¸Ñ‚Ð¸',
+    '107706d7-a6a5-400d-bb68-a75f947f7aa7',
+    '00e4a278-3565-4dd9-a006-a0ab977b22fc',
+    'Республика Гаити',
     NOW()
   ),
   (
-    'fb5c1976-8b38-4b6c-a2d5-b03cf03eb885',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    '5975fb40-3e00-4876-982a-d9f9b10a9385',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'Guyana',
     NOW()
   ),
   (
-    '58ca493e-f92b-470a-804a-cbcdb3fecfd2',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'd21b6329-0d80-4e3f-a0e7-ee826ef862fe',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'Co-operative Republic of Guyana',
     NOW()
   ),
   (
-    '3298423b-4872-4d40-a18f-e73f9eab1f59',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'd15e96b8-b31a-4fed-9863-ccf1c5e495cf',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'Guy.',
     NOW()
   ),
   (
-    'c173e34a-c91f-4f26-9184-88ae5c66c469',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
-    'ØºÙŠØ§Ù†Ø§',
+    'd23bd7cf-7d9b-47e8-8230-726f31c81ea8',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
+    'غيانا',
     NOW()
   ),
   (
-    'd1a41eaf-8a6a-4c14-b6ba-4e54b52adcb2',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
-    'åœ­äºšé‚£',
+    'cd885b83-6acf-48b4-a865-b4b5f789cff5',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
+    '圭亚那',
     NOW()
   ),
   (
-    'ecd1098f-5a89-4a23-9df1-8b816c303557',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
-    'Ð“Ð°Ð¹Ð°Ð½Ð°',
+    '46460145-c0d1-49bf-8498-3b4cce860d72',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
+    'Гайана',
     NOW()
   ),
   (
-    '71b399a6-c372-4a0d-8cb5-7ce7b3117428',
-    '15b93aee-d997-405b-962d-eb6b5822efae',
+    'e02fecbe-add2-4a3e-9682-59bd2ae3257d',
+    '991691a0-786f-41c3-8fbb-ee5de7cd21cd',
     'Guiana',
     NOW()
   ),
   (
-    '56303a77-6736-4e46-aefd-adf04427a1ac',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    'e40615b0-1c16-45d3-ad5b-4b50d4b108a4',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'Guinea-Bissau',
     NOW()
   ),
   (
-    '4d663e26-38f5-4b67-9248-b13a482f50a1',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '981ea9c4-290f-4e9b-9cde-c59c5cc2ec5b',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'Republic of Guinea-Bissau',
     NOW()
   ),
   (
-    '6c2cbdc8-5c78-47b8-8eaa-ae096f67572d',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
+    '370ce820-4fe6-4ddb-96b9-8380d8c6cc79',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
     'GnB.',
     NOW()
   ),
   (
-    '1c8795d2-a356-4a9b-8edb-01fece4d7a67',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'ØºÙŠÙ†ÙŠØ§ Ø¨ÙŠØ³Ø§Ùˆ',
+    '0916ec4d-5eba-4efc-8b0a-41d4241c7d09',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    'غينيا بيساو',
     NOW()
   ),
   (
-    '8e3687dc-7bb4-4fa4-a4a5-35a8e21ce0a3',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'Guinea-BisÃ¡u',
+    '741a63cf-4afc-46f7-b121-1094c7f9398d',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    'Guinea-Bisáu',
     NOW()
   ),
   (
-    '6fb40c15-19f1-4c5d-af5b-1178d0efbe15',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'GuinÃ©e-Bissau',
+    '115a5df9-841d-451c-afd7-c2606c7762a3',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    'Guinée-Bissau',
     NOW()
   ),
   (
-    '2e3b7a68-bd9e-483f-8ac9-277d255301cd',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'å‡ å†…äºšæ¯”ç»',
+    'f6c4885b-e018-4802-87d5-7286d289c308',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    '几内亚比绍',
     NOW()
   ),
   (
-    'fcea76ab-53bd-4781-8cf0-fe75256414e6',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'Ð“Ð²Ð¸Ð½ÐµÑ-Ð‘Ð¸ÑÐ°Ñƒ',
+    'efeafcbb-8f1f-4402-86c2-20c0248095c8',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    'Гвинея-Бисау',
     NOW()
   ),
   (
-    '7fd71d1d-fbf5-48f0-8cae-999811116516',
-    '9f8369e6-d6bc-4cca-bdbb-1476ef57df55',
-    'GuinÃ©-Bissau',
+    'aa7d0035-a9d8-4349-aca9-66280edcf427',
+    'f1914a72-afc6-4b36-bea8-5e90c6310631',
+    'Guiné-Bissau',
     NOW()
   ),
   (
-    'f25033a5-2488-4624-83ab-608bb71d7c8c',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '4731e6e9-b2bf-44c4-945c-8b51f3b00157',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'Guinea',
     NOW()
   ),
   (
-    '84e4ae44-ee19-4127-b0b9-270fd41b1179',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    '695fea08-0cf5-4d79-aba7-ac4e2e1616ba',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'Republic of Guinea',
     NOW()
   ),
   (
-    '08b776ce-a3a7-4881-98a5-03d4aac6114b',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
+    'd90e80c4-fd87-4bed-b279-13ec9a75c056',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
     'Gin.',
     NOW()
   ),
   (
-    'b3cc8dce-401c-4a57-bce6-ebd312c9863e',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
-    'ØºÙŠÙ†ÙŠØ§',
+    '8c9ec7c2-287f-40f1-8b5d-f8d393fe08d6',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
+    'غينيا',
     NOW()
   ),
   (
-    '371e0e41-ac65-4d8e-a69b-d33033baf8cd',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
-    'GuinÃ©e',
+    '60a26b5f-8193-4b41-a8dd-d4b0c146ef11',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
+    'Guinée',
     NOW()
   ),
   (
-    'b04d6bd8-5407-4a25-809d-8bb0786c5dba',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
-    'å‡ å†…äºš',
+    'fb2c4b51-8289-449c-a431-973c89ecdc2c',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
+    '几内亚',
     NOW()
   ),
   (
-    '2e46b101-fefa-4180-b227-de57aee39184',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
-    'Ð“Ð²Ð¸Ð½ÐµÑ',
+    '4d618633-8f2e-423c-986c-1e16e35a505d',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
+    'Гвинея',
     NOW()
   ),
   (
-    'fec2aa58-06b8-4d81-a9a7-accc29b379ae',
-    'e2dde404-169a-45bd-948b-a3e8cc9a4d84',
-    'GuinÃ©',
+    '2fb2eb82-8a75-497b-855f-f9593f98d913',
+    'b47a76c7-83f8-4740-bea6-a5107ab328b2',
+    'Guiné',
     NOW()
   ),
   (
-    '1ee29d69-6b4f-45f1-b7c7-0964c675dd8b',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'eab2ec86-a375-4b42-b3bf-f66324f4fe24',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'Guatemala',
     NOW()
   ),
   (
-    '266ff444-1d8f-4347-8668-41331c1b4dd0',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    'ebd2e872-7165-4477-ab7d-5449b0d348e4',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'Republic of Guatemala',
     NOW()
   ),
   (
-    'd38b471a-41e7-4865-9215-254cefa92501',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
+    '6287d68f-9474-4d87-89eb-c252f6873cbd',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
     'Guat.',
     NOW()
   ),
   (
-    '6b06a752-da93-4e76-a783-2b4c79d2ca26',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
-    'ØºÙˆØ§ØªÙŠÙ…Ø§Ù„Ø§',
+    'a0ca5903-0502-4359-bedb-73f08f1f6307',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
+    'غواتيمالا',
     NOW()
   ),
   (
-    'f77f0eb7-5ebd-45e8-93f1-96c0deff0e5e',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
-    'å±åœ°é©¬æ‹‰',
+    '3d115bdd-433d-4a91-93f6-05477b28b020',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
+    '危地马拉',
     NOW()
   ),
   (
-    '3a230747-aa50-406e-b591-89b7d4e83a09',
-    '2fbfd9ff-0608-4b6e-830f-ec662c635a2f',
-    'Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°',
+    'cdc27045-3a4e-47c0-84bf-18b48bc59fe4',
+    'e6e75661-b5c9-4209-b41e-81ace55351c8',
+    'Гватемала',
     NOW()
   ),
   (
-    'af714b32-5717-49cb-b8ec-61c995c5a42f',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '3287a4ff-42e8-4bb2-9136-afaf25bf8d0e',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'Grenada',
     NOW()
   ),
   (
-    '1ab0e955-fe2d-41f2-8352-a5e8fdce096b',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    '79775968-7624-4da8-b6e0-a75ad18d202d',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'Gren.',
     NOW()
   ),
   (
-    '56b75f3a-a236-4e7b-96b5-bf0ae795bd4a',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
-    'ØºØ±ÙŠÙ†Ø§Ø¯Ø§',
+    '316d52aa-9550-490f-93d8-3c296989aa7d',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
+    'غرينادا',
     NOW()
   ),
   (
-    'bacfe302-8c1e-4426-93d0-6e248418c3eb',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'ae578165-3588-433c-9f23-f18c9898d465',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'Granada',
     NOW()
   ),
   (
-    'e10c2b24-b4cf-426f-a845-e5f843e9b009',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
+    'b62270b6-9916-47bd-98b8-811ec5ab73df',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
     'Grenade',
     NOW()
   ),
   (
-    'ac4ef27a-43d9-4604-ab58-ee6f10030102',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
-    'æ ¼æž—çº³è¾¾',
+    'e8a46e08-25d3-40d3-a7ef-9442cfcf9dce',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
+    '格林纳达',
     NOW()
   ),
   (
-    '65246d22-3a8f-49ff-9ba0-b0a65a48b789',
-    '86aea7fa-48e6-4b2f-860f-b50755a5620e',
-    'Ð“Ñ€ÐµÐ½Ð°Ð´Ð°',
+    'ee6f7c0b-73a7-45a5-ab46-e161b53b3dc4',
+    'a37c4ade-c333-493f-815f-20af29e513e3',
+    'Гренада',
     NOW()
   ),
   (
-    '344910c8-c9c1-40f9-b1b3-176cc4a2c0a8',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    'f6e5738e-a280-400f-aaea-f9ad6eabb6ab',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'Greece',
     NOW()
   ),
   (
-    '421ddca3-dbf5-40bc-aca0-040cf1080201',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '134f16de-57ac-423a-9a2d-bf9c6cc5c5f7',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'Hellenic Republic',
     NOW()
   ),
   (
-    '45607665-0b7b-434a-915c-1392c0dcbced',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
-    'Ø§Ù„ÙŠÙˆÙ†Ø§Ù†',
+    '8d3bb8db-5a59-4bab-9d77-2dad87c4d857',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
+    'اليونان',
     NOW()
   ),
   (
-    '698eab22-5165-466d-bbbf-37eac2525f99',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '3b0210c3-0493-484e-9046-3848cea4c8e5',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'Griechenland',
     NOW()
   ),
   (
-    '9d000213-5ad7-4023-98ec-d1684993917a',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
+    '1a5ecfe6-bef1-4519-a09a-55525577d4c7',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
     'Grecia',
     NOW()
   ),
   (
-    '0a0a07e3-2749-4402-bb51-d0366b2203fa',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
-    'GrÃ¨ce',
+    '0db1e2fd-80a7-4af7-a1fa-2d0e193420df',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
+    'Grèce',
     NOW()
   ),
   (
-    '54d49bde-8496-4667-a6bc-8ec8623ae8db',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
-    'å¸Œè…Š',
+    'd42b89c9-0576-402a-bacd-45ac52a5e617',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
+    '希腊',
     NOW()
   ),
   (
-    '7cb783c9-2573-4022-a279-6b894cee3f4a',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
-    'Ð“Ñ€ÐµÑ†Ð¸Ñ',
+    '2b6ae154-32a1-429a-9628-07855a4fb85d',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
+    'Греция',
     NOW()
   ),
   (
-    '4ac0b26b-6560-4438-b91d-6572e6b84396',
-    '01203ccf-8403-4c6b-ba16-c0fafe5b6d02',
-    'GrÃ©cia',
+    'e87887a2-e265-43e3-88f3-631513389239',
+    'df653986-8859-4555-973e-2bf3fdc21b52',
+    'Grécia',
     NOW()
   ),
   (
-    'd94dbd5d-d9b9-4f46-be95-d9ebfe4e4f15',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '3fc11eab-a603-41b3-81da-2d0264415232',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'Ghana',
     NOW()
   ),
   (
-    'fb7e6c02-29e5-4215-99ce-611538ed5b01',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '169d40a3-79da-414e-9cd4-7e43d0213fc1',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'Republic of Ghana',
     NOW()
   ),
   (
-    '576bb44f-82a7-4c27-acec-4bfdbd94c55b',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
-    'ØºØ§Ù†Ø§',
+    '0a2359c7-a425-4841-b267-ec9daeb96528',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
+    'غانا',
     NOW()
   ),
   (
-    '35543c87-e1c3-4f7c-9f59-24d2f548f80a',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
-    'åŠ çº³',
+    'c1d8ca39-f498-4fd8-b0bf-3a6e9d3d576d',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
+    '加纳',
     NOW()
   ),
   (
-    '5b9b5644-e242-4e0d-a810-4bb72b7db233',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
-    'Ð“Ð°Ð½Ð°',
+    '2f7983bb-4c3a-4f9f-86e7-3d994880b4bf',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
+    'Гана',
     NOW()
   ),
   (
-    '6525651f-07a9-49b7-8cc6-7c031812d68f',
-    '05b64d19-fcb9-4395-bdea-4b1af0db5c91',
+    '71909743-dfaf-4733-8ad8-c54aa10332fa',
+    'aa21ac97-afbd-49ba-834c-69e8a18ff8e4',
     'Gana',
     NOW()
   ),
   (
-    '1337a1f3-92c9-4604-b739-0e6a5993cd7a',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'b2de6f68-46eb-4c46-82bf-beb7afa330e6',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Germany',
     NOW()
   ),
   (
-    'bf36240b-4ee7-4a54-8266-135cca6a613b',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'ee1c8c31-25c6-4202-889e-134899e354db',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Federal Republic of Germany',
     NOW()
   ),
   (
-    'c9ae82f3-a3e8-4f28-ad51-222da8d9f525',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'e4b914f4-4c71-4037-b07f-6a173503397a',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Ger.',
     NOW()
   ),
   (
-    '1275409c-7282-44eb-9b90-8dbb60fa6cf1',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
-    'Ø£Ù„Ù…Ø§Ù†ÙŠØ§',
+    'a6aa8704-7163-419d-9b3a-cfcb7be9ff3f',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
+    'ألمانيا',
     NOW()
   ),
   (
-    '2bb6980b-a421-4299-bc65-98ded74528dd',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'a6d7e719-093d-4791-9e4c-7e2c12898d3e',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Deutschland',
     NOW()
   ),
   (
-    'cd330e8a-e97e-4015-bc30-e8fa9bc7019c',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'd8cecca2-59c1-496c-b60c-3021740a4a34',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Alemania',
     NOW()
   ),
   (
-    '37e93e23-e9ca-4fcf-9ab3-33bc8fe32737',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'fc20cf6f-2dcd-4729-b1df-4aa5a09c7279',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Allemagne',
     NOW()
   ),
   (
-    'cc98cb94-56a4-4dff-b8bf-83d6ca3ce272',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
-    'å¾·å›½',
+    '04aa3a73-583c-4e81-9080-b99579eb99fe',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
+    '德国',
     NOW()
   ),
   (
-    'd151d4c0-9f16-4a3e-b491-c1b81df7e474',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
-    'Ð“ÐµÑ€Ð¼Ð°Ð½Ð¸Ñ',
+    '86b8a6a5-2ddf-4695-8246-bb1655b793b5',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
+    'Германия',
     NOW()
   ),
   (
-    'effd9b66-d297-4502-8c46-cf0098714d9b',
-    'e40a15ac-1dcb-496e-8f3d-9780fdc50904',
+    'ee81cc32-85c3-47cc-9ea8-8b2b0f8600ef',
+    'a9ec8148-325d-4055-93a7-73ac2634489b',
     'Alemanha',
     NOW()
   ),
   (
-    '39fdca3e-555b-4566-8561-e9a60527a85e',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '8211c121-1584-4c76-b6d6-87e6ff30bdbe',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'Georgia',
     NOW()
   ),
   (
-    '6bd350ca-b9eb-4d0f-b41e-79ab0cf87978',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '6e9e3745-ccfb-43f4-8fec-84edd8d4a272',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'Geo.',
     NOW()
   ),
   (
-    'aa58afd6-a20f-47d4-8bad-f04d78044c94',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
-    'Ø¬ÙˆØ±Ø¬ÙŠØ§',
+    '4a9931f3-6987-4d47-bca1-606294365506',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
+    'جورجيا',
     NOW()
   ),
   (
-    '89bbbfc6-b67e-4fd5-bc41-4634e65a218e',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
+    '76f624f1-0696-4b91-926f-7230d6c6fb87',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
     'Georgien',
     NOW()
   ),
   (
-    'ff0cf7c5-97e7-483b-b2e2-906b49085f7e',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
-    'GÃ©orgie',
+    '2b8be945-e433-48f2-9bb2-00ffa589d73a',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
+    'Géorgie',
     NOW()
   ),
   (
-    '0414b2dd-60f2-42bb-82eb-80a95e257faf',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
-    'æ ¼é²å‰äºš',
+    'f15c67d5-d579-41a3-95c2-d33b2eaabd1c',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
+    '格鲁吉亚',
     NOW()
   ),
   (
-    '2be77035-0d7e-45b7-8542-d3fe6f11ce90',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
-    'Ð“Ñ€ÑƒÐ·Ð¸Ñ',
+    '4f78e8c8-3fea-4b2b-b004-606a554b8494',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
+    'Грузия',
     NOW()
   ),
   (
-    'd3539af9-39a9-4b89-9644-6a91aac5b43c',
-    '181c63d1-2a3a-4eb1-abcd-d9eb21b2760a',
-    'GeÃ³rgia',
+    '1e07f010-f90e-4cbf-b4c8-9d3fe57ae5e4',
+    '0ca9d596-6c1c-4758-8ed9-7a030c9d3d7c',
+    'Geórgia',
     NOW()
   ),
   (
-    '9d196c7f-ae04-475f-af3b-2def54004aa0',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '3909da0a-ec1c-4859-b1ab-df33799f0800',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'Gambia',
     NOW()
   ),
   (
-    '83526372-6c61-4a77-8e7c-963a7180fd04',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    'ddc54838-5b9d-4f46-b1d0-724e4c6e5f35',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'The Gambia',
     NOW()
   ),
   (
-    '3fe0b0fb-edc0-47ac-a51c-a9d6b0ee4d90',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '0926f966-f97a-46ac-9a4c-7e99cced1c18',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'Republic of the Gambia',
     NOW()
   ),
   (
-    'a42e9003-e7d6-4234-a9e4-e613dac6f754',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
-    'ØºØ§Ù…Ø¨ÙŠØ§',
+    '417421f6-1b1c-452a-b691-6b2e551676cf',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
+    'غامبيا',
     NOW()
   ),
   (
-    '498cf0ad-299c-4934-95fe-0c0ac32d6112',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
+    '4aa58ce7-72db-4636-aa4c-647ecf817e20',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
     'Gambie',
     NOW()
   ),
   (
-    'd0b7ec4b-5668-4944-b881-169425e8bc69',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
-    'å†ˆæ¯”äºš',
+    '7cb30b16-e393-48b4-83f2-c68d8acd099d',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
+    '冈比亚',
     NOW()
   ),
   (
-    '6e7183c8-f35e-4bb5-ba55-fd0f2fe8cbea',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
-    'Ð“Ð°Ð¼Ð±Ð¸Ñ',
+    '8c0dee45-c315-445c-81fa-43c0452fbcf2',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
+    'Гамбия',
     NOW()
   ),
   (
-    'b79868ea-3e55-40d6-a687-bf4dd67f2e8e',
-    '7b57a2b1-48b9-43a2-b98e-ec3a39e13233',
-    'GÃ¢mbia',
+    '47e64991-fbbe-4350-95d5-4f01b52613f5',
+    'af379d6a-58bd-458a-b739-adcceedf1b0a',
+    'Gâmbia',
     NOW()
   ),
   (
-    '254a149d-37db-4149-9717-d38f0168ba28',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'b841e681-307c-41c5-a3cb-fc358f999b66',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'Gabon',
     NOW()
   ),
   (
-    'd90877a4-e9f7-4603-b2e3-715d50cbd0fa',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    '18105f56-ec32-4f82-b706-93e539b05089',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'Gabonese Republic',
     NOW()
   ),
   (
-    '1e8da550-d974-424e-abe3-cb25287eecf1',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
-    'Ø§Ù„ØºØ§Ø¨ÙˆÙ†',
+    '1e3ab803-7b89-4a94-9c0c-00dafb515352',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
+    'الغابون',
     NOW()
   ),
   (
-    '9522924d-078d-443e-9421-63c6ae5719bb',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
+    'e5fdb3a5-bc52-4e98-9b59-db81cde0513c',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
     'Gabun',
     NOW()
   ),
   (
-    'bbb379d2-348a-406c-b0af-f59b6b7f066c',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
-    'GabÃ³n',
+    'c1d9b114-5035-4bce-85ea-4aa4395bc289',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
+    'Gabón',
     NOW()
   ),
   (
-    '8e580f0b-06c0-4b83-9089-e6c7f21ee10e',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
-    'åŠ è“¬',
+    '528eebc4-b007-4a2a-bb0b-1dcb739c1ca2',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
+    '加蓬',
     NOW()
   ),
   (
-    '8b09c75f-dea5-4e67-b058-f5f66846d6be',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
-    'Ð“Ð°Ð±Ð¾Ð½',
+    '31451a37-5d7d-47aa-a337-da5d44e86eab',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
+    'Габон',
     NOW()
   ),
   (
-    '5083b0fb-5e37-42de-9ae0-ad74977ad137',
-    '34f32d70-55d3-4a5f-a81d-9b9bdd0aba07',
-    'GabÃ£o',
+    'c71545df-4fd7-4bdb-8819-120ff68a3f17',
+    '9a5433cc-abcd-4dab-9c49-1d6a79192be3',
+    'Gabão',
     NOW()
   ),
   (
-    '87a45150-c006-44ae-8164-222a9fe0ed85',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '683d403e-ab74-4407-a9ae-7e72158be1a8',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'France',
     NOW()
   ),
   (
-    'e57300eb-7993-456c-90ab-6f293e2e30a0',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'f15f6e14-1126-4f6e-aefa-7482fe9dac8f',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'French Republic',
     NOW()
   ),
   (
-    'feddc321-9b11-46ab-869b-a325e499a3b4',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    'ecc2d112-9a27-420c-a175-39ffa3738989',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'Fr.',
     NOW()
   ),
   (
-    '303c4bb7-e5bc-45e2-b98d-31cdd6d253ad',
-    '91632709-9746-43b0-ada9-582a010c4046',
-    'ÙØ±Ù†Ø³Ø§',
+    '387fc65f-8d09-46bb-9417-65cb5f232c3a',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
+    'فرنسا',
     NOW()
   ),
   (
-    '52e32b5c-37cf-4737-b7be-875addb5bed2',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '351f20f1-10cc-4dd2-98c2-982165ed76ca',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'Frankreich',
     NOW()
   ),
   (
-    '1b8f0bcf-b95b-4f78-953c-896af533596f',
-    '91632709-9746-43b0-ada9-582a010c4046',
+    '3eb3367d-a1c4-49ac-b190-0694b714082f',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
     'Francia',
     NOW()
   ),
   (
-    '6a7fa241-79a8-487d-b822-25f7dd559c5b',
-    '91632709-9746-43b0-ada9-582a010c4046',
-    'æ³•å›½',
+    '63da379b-13f8-4182-82cf-9a2227b5d6dd',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
+    '法国',
     NOW()
   ),
   (
-    '307e518e-ac88-41c3-a70d-5a19295ed88a',
-    '91632709-9746-43b0-ada9-582a010c4046',
-    'Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ñ',
+    '5e7964ae-72f8-46cb-83c2-e94e0398acae',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
+    'Франция',
     NOW()
   ),
   (
-    'e2f44285-bc8e-41f1-9747-c19952058ea5',
-    '91632709-9746-43b0-ada9-582a010c4046',
-    'FranÃ§a',
+    '432dfd22-bdd8-48b6-8eca-e69ba9de33fe',
+    'a553a443-62d5-45a3-9399-88f12a8c92b9',
+    'França',
     NOW()
   ),
   (
-    '4d9eb5cf-a7a3-4aa3-a8c8-05765b0be9d6',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '11810f2c-ec4f-4412-8c0a-e59b1528d943',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'St. Pierre and Miquelon',
     NOW()
   ),
   (
-    '907da387-391f-44b7-910c-975bf687a332',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'b950e7d5-2552-4c22-87f6-75231bc35bdb',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'Saint Pierre and Miquelon',
     NOW()
   ),
   (
-    'cd62aaaa-011a-4cfb-a3cc-9f944c4c3dfc',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '66585e9a-0c9b-4bb8-99d5-e67244ddcad5',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'France',
     NOW()
   ),
   (
-    '172a9a86-1daa-4480-9d27-111ef99807c7',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'b798fde0-8a99-4b6e-bd2c-3282b38984ba',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'St. P.M.',
     NOW()
   ),
   (
-    '9ff964e3-9187-49fd-b893-aa5da2ce13ef',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
-    'Ø³Ø§Ù† Ø¨ÙŠÙŠØ± ÙˆÙ…ÙŠÙƒÙ„ÙˆÙ†',
+    'e717eb6f-10ba-4413-a2d2-c14544af890b',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
+    'سان بيير وميكلون',
     NOW()
   ),
   (
-    'db4c1ab3-74df-4e7d-abb0-a9291c5ad84a',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'd1502c3b-593e-44ca-9ce4-f2443d74814b',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'Saint-Pierre und Miquelon',
     NOW()
   ),
   (
-    '2269500c-fc90-4e5b-822e-31853a24f611',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
-    'San Pedro y MiquelÃ³n',
+    '679b9ba3-da41-4021-89bc-08021873ad87',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
+    'San Pedro y Miquelón',
     NOW()
   ),
   (
-    '3192bd7b-ce2b-479c-b6a7-0b077edb584e',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    'a62df224-2514-4149-8408-87fc57e06006',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'Saint-Pierre-et-Miquelon',
     NOW()
   ),
   (
-    '2873adb5-4d1e-42e6-ab5f-f28081e1753c',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
-    'åœ£çš®åŸƒå°”å’Œå¯†å…‹éš†',
+    'bf91cbf6-7dc4-42c8-83ca-90cc52c8435c',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
+    '圣皮埃尔和密克隆',
     NOW()
   ),
   (
-    'b0f8e414-381a-4787-9e34-1287d22a2a80',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
-    'Ð¡ÐµÐ½-ÐŸÑŒÐµÑ€ Ð¸ ÐœÐ¸ÐºÐµÐ»Ð¾Ð½',
+    'aabb19d1-6617-472e-b20d-2c0f775f80b5',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
+    'Сен-Пьер и Микелон',
     NOW()
   ),
   (
-    'ea420a81-46ac-48bd-807d-3436075018f0',
-    'a4f89c50-c845-41c7-ad67-a462853c3022',
+    '9e0129d6-8500-4b38-ac45-fc470c7021ec',
+    '221b228f-51d5-4dd1-91a9-e631585ba52d',
     'Saint-Pierre e Miquelon',
     NOW()
   ),
   (
-    'd621298c-62d5-42c3-9222-9097e5f79ea9',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '5ef74d89-a290-44f8-8509-f68ba0fa8ff3',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis and Futuna Is.',
     NOW()
   ),
   (
-    '3c1d1de4-f1ab-43db-b90b-4726ca80600e',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'eeec85ab-6cc6-40b0-aba8-29e17b3e3023',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis and Futuna Islands',
     NOW()
   ),
   (
-    '5da1a683-62cb-4c6e-b862-ad195e3e7860',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '5818db46-01e2-4f78-8d51-7dc656f4be0d',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis and Futuna',
     NOW()
   ),
   (
-    'cf5d8d61-ecbf-4a28-806b-c6eeeb185aaa',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '35093a59-b5bf-46db-8ce9-2c5705c4cfc0',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'France',
     NOW()
   ),
   (
-    '1440b3d1-6cf3-427f-a6f3-beb58ee74f03',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    '86d2a90e-4de2-4807-aca7-9d9c8aa0f958',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wlf.',
     NOW()
   ),
   (
-    'bacdbdf9-da09-4e37-afe7-ebd8abae6ca8',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
-    'ÙˆØ§Ù„ÙŠØ³ ÙˆÙÙˆØªÙˆÙ†Ø§',
+    '8f2257e8-52ff-4c98-b3b2-a6003c29ccf3',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
+    'واليس وفوتونا',
     NOW()
   ),
   (
-    '13357363-6d2e-47d8-9519-0cac0979e75c',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'e0b885f3-75be-4f95-bf50-19b52f7b240f',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis und Futuna',
     NOW()
   ),
   (
-    '89e60a1d-fac1-4869-a5d6-f72af010b646',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'd73e12dd-c905-40c2-86f8-b6ba9df10137',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis y Futuna',
     NOW()
   ),
   (
-    'eb32ddfb-cf3a-44ac-ab66-914a3b4588a3',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'dba6aa2f-0da9-4251-a56b-5ddf9d6d8692',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis-et-Futuna',
     NOW()
   ),
   (
-    '2514af25-e497-4467-9756-984eb827316e',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
-    'ç“¦åˆ©æ–¯å’Œå¯Œå›¾çº³',
+    'ccaaf7ad-2076-4ef8-b7d5-2966d8e098f2',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
+    '瓦利斯和富图纳',
     NOW()
   ),
   (
-    '540173fe-9dd2-4638-9636-abc6d2ce624e',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
-    'Ð£Ð¾Ð»Ð»Ð¸Ñ Ð¸ Ð¤ÑƒÑ‚ÑƒÐ½Ð°',
+    '4cfe4117-2161-40b3-b55e-2fff6ddb52ae',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
+    'Уоллис и Футуна',
     NOW()
   ),
   (
-    '1b8236fd-049b-4b62-bfb2-81664413e099',
-    'b64a216e-4d67-492a-ac5e-13bb8c75e25d',
+    'd7b0e1fc-d039-4c26-bec6-7f23b9dc7cee',
+    '8216781f-a552-4297-b7fa-f3a59c65a45c',
     'Wallis e Futuna',
     NOW()
   ),
   (
-    '0bcf9ce6-4d20-42a6-9495-27f7b9835b78',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '4cf7a6e1-26e6-4c55-9672-d90ec9d6d2c4',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'St-Martin',
     NOW()
   ),
   (
-    '65779460-b5ba-4dd8-b9db-5fb8e2da60c2',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '96589ae3-8785-482e-ace9-3a397c47c867',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'Saint-Martin',
     NOW()
   ),
   (
-    '9c7dab7e-c079-491d-a057-ed7f90f05af0',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '76599655-e863-447c-bd99-68940adf5abb',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'Saint-Martin (French part)',
     NOW()
   ),
   (
-    '9a087e31-3fe1-4ed2-a140-1c40ad04d452',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '5d2c6441-868c-4449-b405-ddf019781ac5',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'Saint Martin',
     NOW()
   ),
   (
-    'babab982-0f66-411e-a171-933f31371f3c',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    '13219b23-e985-4cf6-8d3e-c0f86e1e79f9',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'France',
     NOW()
   ),
   (
-    '0977858b-d264-468c-923b-4ddc40d1b626',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
+    'ea7e153b-3a9b-4363-90c5-b5632e15df00',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
     'St. M.',
     NOW()
   ),
   (
-    '77dfb893-39f3-48af-8fde-df370016c34c',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
-    'ØªØ¬Ù…Ø¹ Ø³Ø§Ù† Ù…Ø§Ø±ØªÙŠÙ†',
+    'c77fa7bb-e5fb-4a11-a78a-3fae2688cde6',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
+    'تجمع سان مارتين',
     NOW()
   ),
   (
-    '8e9b757f-9078-46e2-8c5f-5aa0c98ac432',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
-    'San MartÃ­n',
+    '519f76ca-68b7-4c68-ac7b-d8c54d44783c',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
+    'San Martín',
     NOW()
   ),
   (
-    '69eee537-2034-4281-9035-ea644fdfd64b',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
-    'æ³•å±žåœ£é©¬ä¸',
+    '3e257884-2df6-4dce-8faa-b39d6f754e2e',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
+    '法属圣马丁',
     NOW()
   ),
   (
-    '274e7e0a-4588-4c61-b2bc-864fc18036ea',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
-    'Ð¡ÐµÐ½-ÐœÐ°Ñ€Ñ‚ÐµÐ½',
+    'e9f82791-0390-478e-a770-adab8d4da8c1',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
+    'Сен-Мартен',
     NOW()
   ),
   (
-    '7764ec00-0248-4df9-b86e-c0a82eb9b290',
-    '4863e793-83ba-4546-a770-6d04c5c97516',
-    'SÃ£o Martinho',
+    '95826588-88b9-464f-9821-5f61a7d2a7dd',
+    '1e409d32-d86f-490f-b544-b206bf9f16c3',
+    'São Martinho',
     NOW()
   ),
   (
-    'c5ba0c01-84db-47a9-99c4-9015c13b0a21',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'St-BarthÃ©lemy',
+    '62b59754-bfe8-4f0b-bff5-1da8c57a46f2',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'St-Barthélemy',
     NOW()
   ),
   (
-    'f18c467d-405e-454d-a3b8-db1ce3bba03f',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'Saint-BarthÃ©lemy',
+    '1faa2afa-442e-4295-9d19-eb5e234e3a9e',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'Saint-Barthélemy',
     NOW()
   ),
   (
-    '20ae265a-2e16-4b2c-b373-6b47f47fbfd9',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'a6dcfacb-8018-4835-a756-c754fc14f135',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'Saint Barthelemy',
     NOW()
   ),
   (
-    '7ccdf911-3802-4f44-8226-17233a1c4731',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    'ea471b48-09fd-46ca-a432-55a32d61962f',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'France',
     NOW()
   ),
   (
-    '65b746e8-c7ed-43cd-bb63-05d6679a476f',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
+    '45f2ec74-3e02-44d3-b806-55b303e9afc8',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
     'St. B.',
     NOW()
   ),
   (
-    '5f477e3b-664a-48f1-858e-0bb477367904',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'Ø³Ø§Ù† Ø¨Ø§Ø±ØªÙŠÙ„Ù…ÙŠ',
+    '8c0763b6-22d6-4f93-b08f-0443a370b135',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'سان بارتيلمي',
     NOW()
   ),
   (
-    'd99961bd-4fb5-4580-abdd-25337d05a0c7',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'San BartolomÃ©',
+    'c88864da-8d54-460e-a170-955531ef6e33',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'San Bartolomé',
     NOW()
   ),
   (
-    '349abbec-593f-457d-8780-a0834300c692',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'åœ£å·´æ³°å‹’ç±³',
+    '879c06d0-4340-4425-a9a1-afadc6b62cb7',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    '圣巴泰勒米',
     NOW()
   ),
   (
-    'bbd1f4e7-8f8d-4527-b701-46f20d504102',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'Ð¡ÐµÐ½-Ð‘Ð°Ñ€Ñ‚ÐµÐ»ÐµÐ¼Ð¸',
+    '93af3ddd-1e51-4568-b98b-a37d18cd2062',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'Сен-Бартелеми',
     NOW()
   ),
   (
-    'a0809cab-2e0d-4fec-833a-3b038c5ca5cd',
-    '5e267359-30de-4c4f-a989-dcf13e1f0ac3',
-    'Coletividade de SÃ£o Bartolomeu',
+    '7e346ade-f934-4b3e-9b1d-9b74a0259fe5',
+    '09816a77-23ac-4ee6-bffc-9bf7fe3e35fc',
+    'Coletividade de São Bartolomeu',
     NOW()
   ),
   (
-    '25654026-abdb-489b-a1a6-7c78aa215af0',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'f9b8e3a9-3f60-433d-855d-ff048c5066aa',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'Fr. Polynesia',
     NOW()
   ),
   (
-    '3d391747-050a-4870-bccd-ca78356e5502',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'eed1a3e3-4cfd-4668-b6de-de1f5a4f111b',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'French Polynesia',
     NOW()
   ),
   (
-    '1ccd6c96-273d-4411-8ae5-ca60931ed563',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'c162f756-e841-44d6-b6e4-6ce40aa96840',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'France',
     NOW()
   ),
   (
-    '6abe3f89-3f92-41d0-b507-0342800d7d0d',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'ad219f04-c613-4a94-8cca-e4375c158d0a',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'Fr. Poly.',
     NOW()
   ),
   (
-    '728109af-3a77-4566-b4fb-56a4740c12b7',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'Ø¨ÙˆÙ„ÙŠÙ†Ø²ÙŠØ§ Ø§Ù„ÙØ±Ù†Ø³ÙŠØ©',
+    'de97b42e-4552-4cca-b70c-00ca90ed4fc6',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    'بولينزيا الفرنسية',
     NOW()
   ),
   (
-    '840ba649-ce94-42b3-ae55-8820f30942bc',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'FranzÃ¶sisch-Polynesien',
+    'd7bc36fe-ea53-46b0-a9e9-9a38021ea66b',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    'Französisch-Polynesien',
     NOW()
   ),
   (
-    '6cbb375d-2b2e-43ae-ade5-86dacab97260',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
+    'edd9e99f-ce3b-4b15-9505-5181317be458',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
     'Polinesia Francesa',
     NOW()
   ),
   (
-    '35518c3e-46f3-43b4-8114-8f548f42dbbf',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'PolynÃ©sie franÃ§aise',
+    '0308050b-d49a-42eb-a5f3-3dba92a8259d',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    'Polynésie française',
     NOW()
   ),
   (
-    'ae909b45-795a-41fe-b60e-ce43e919fe64',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'æ³•å±žæ³¢åˆ©å°¼è¥¿äºš',
+    '21beafea-0b01-4a3f-9776-b3073ea5264b',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    '法属波利尼西亚',
     NOW()
   ),
   (
-    '80c35621-8088-4eeb-a060-a81748e0e7a0',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'Ð¤Ñ€Ð°Ð½Ñ†ÑƒÐ·ÑÐºÐ°Ñ ÐŸÐ¾Ð»Ð¸Ð½ÐµÐ·Ð¸Ñ',
+    '336dcf8c-9c8c-4ccd-968a-24efb20e76b5',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    'Французская Полинезия',
     NOW()
   ),
   (
-    '37c141e3-5117-4b8a-9b17-1ca449f7db38',
-    '79becc9c-7e60-4914-8509-e3fd1704cff6',
-    'PolinÃ©sia Francesa',
+    'cdb1c9e2-84ac-4767-9944-ea46f1831b6b',
+    '8151a051-0e7b-4cc6-9f23-a3bee743e0df',
+    'Polinésia Francesa',
     NOW()
   ),
   (
-    '5ac25227-7dc1-4cfb-9393-a6316188ec53',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'd98c9111-256c-4fdc-b36d-1d71aace70b0',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'New Caledonia',
     NOW()
   ),
   (
-    '86d947e4-db0d-4a34-98f4-73d04692a42b',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
-    'Nouvelle-CalÃ©donie',
+    '937e6e1a-92a2-447b-934c-7cf5ea7be6cb',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
+    'Nouvelle-Calédonie',
     NOW()
   ),
   (
-    '42326e6d-7e60-4439-b3b4-351e8298274f',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'f48389cf-c9c7-4633-ab75-1dc092566504',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'France',
     NOW()
   ),
   (
-    '41b6c23c-b4ab-40f0-b75b-efee79d03b6e',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '28fb05ee-4ff3-48b6-8f0c-b86bfeec38bf',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'New C.',
     NOW()
   ),
   (
-    '2b95592b-5210-4e6e-8967-a893646195da',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
-    'ÙƒØ§Ù„ÙŠØ¯ÙˆÙ†ÙŠØ§ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©',
+    '21c25107-3dcf-4bee-82ec-e5fd8f6c59b5',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
+    'كاليدونيا الجديدة',
     NOW()
   ),
   (
-    '1fada26e-7797-44fa-a203-7f0bcc3f3347',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    'eb24431e-e341-45b2-b5eb-0cce1ab97c12',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'Neukaledonien',
     NOW()
   ),
   (
-    'dec6f454-2f0c-466c-899f-b70a3121e738',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
+    '8c1e904c-db82-4b67-97b1-99d66b5a865d',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
     'Nueva Caledonia',
     NOW()
   ),
   (
-    '8ac8ddd7-f69d-4683-9e1c-a4bc6f3ce31b',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
-    'æ–°å–€é‡Œå¤šå°¼äºš',
+    'fc3dc34b-2470-44cc-9a26-e0e232b8d828',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
+    '新喀里多尼亚',
     NOW()
   ),
   (
-    '8f34930c-d1e8-4f6c-b659-7d698c87b763',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
-    'ÐÐ¾Ð²Ð°Ñ ÐšÐ°Ð»ÐµÐ´Ð¾Ð½Ð¸Ñ',
+    'cb3767a9-534a-43c1-9df3-bd41518a7311',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
+    'Новая Каледония',
     NOW()
   ),
   (
-    'eba03896-7b16-4902-a366-3de0debe03a9',
-    '2910bf80-420f-471f-affe-dd0e68687c02',
-    'Nova CaledÃ³nia',
+    '84d83f2b-080e-4a3e-a052-89c8f9e4ddad',
+    '38f7fcb2-5944-4953-96dd-187c25bfe305',
+    'Nova Caledónia',
     NOW()
   ),
   (
-    '69d95a14-6040-46b4-a583-4d96abf1d74c',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '24242259-f214-44bb-bff9-2b1f5fe3812b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'Fr. S. Antarctic Lands',
     NOW()
   ),
   (
-    'af515c8a-9139-467c-a4b0-ac2087c0b21f',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '9df22777-494f-4a8b-bbea-d1064e3838b4',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'French Southern and Antarctic Lands',
     NOW()
   ),
   (
-    '003033a6-2e05-471f-88fa-6f08eebb0aa6',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'fb11fe32-b47d-46a2-a5ff-1909fc8021d9',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'Territory of the French Southern and Antarctic Lands',
     NOW()
   ),
   (
-    'af630954-d9cb-4e7d-ae3d-440cccbd2d70',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    '0aadf14f-e79e-40d7-8dfc-a8c2d984a8e1',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'France',
     NOW()
   ),
   (
-    'f911e22d-b27a-4253-9e9a-0f1f75aafdfb',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
+    'e0979644-83f4-4947-ab72-343894c85cdb',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
     'Fr. S.A.L.',
     NOW()
   ),
   (
-    '1b784d9a-5513-4e8b-8ef4-d66dd33f8394',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'Ø£Ø±Ø§Ø¶ ÙØ±Ù†Ø³ÙŠØ© Ø¬Ù†ÙˆØ¨ÙŠØ© ÙˆØ£Ù†ØªØ§Ø±ØªÙŠÙƒÙŠØ©',
+    '7717f8dd-e631-435d-98f4-61ec76f5f869',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'أراض فرنسية جنوبية وأنتارتيكية',
     NOW()
   ),
   (
-    '4dfa730e-8b09-40e2-aa57-c9f0ca68f3ce',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'FranzÃ¶sische SÃ¼d- und Antarktisgebiete',
+    'dc8d9b47-33dd-44ee-a06a-71b9e78ce12c',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'Französische Süd- und Antarktisgebiete',
     NOW()
   ),
   (
-    '546663d6-4deb-45bb-b7f0-973469af4ebb',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'Tierras Australes y AntÃ¡rticas Francesas',
+    '13ed721e-276a-4b9f-8eaa-8eb8cacf7eb7',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'Tierras Australes y Antárticas Francesas',
     NOW()
   ),
   (
-    'c326ebe7-ba9e-4216-8788-66d1e984b1ad',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'Terres australes et antarctiques franÃ§aises',
+    '0e139efb-2056-4a34-b474-804409314274',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'Terres australes et antarctiques françaises',
     NOW()
   ),
   (
-    '8eb8b2fd-058d-452e-acf0-8cda713ae9d3',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'æ³•å±žå—éƒ¨å’Œå—æžé¢†åœ°',
+    'b92b5f04-3fb2-47c6-81f4-b9372c44e416',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    '法属南部和南极领地',
     NOW()
   ),
   (
-    '80d1fa16-c95c-4529-80b9-5f9c2120e500',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'Ð¤Ñ€Ð°Ð½Ñ†ÑƒÐ·ÑÐºÐ¸Ðµ Ð®Ð¶Ð½Ñ‹Ðµ Ð¸ ÐÐ½Ñ‚Ð°Ñ€ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸',
+    'cb2f99b4-60ef-45e3-bcd8-5e1bc61478a7',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'Французские Южные и Антарктические территории',
     NOW()
   ),
   (
-    '327458e3-e544-40ef-b4b5-c469762ebd50',
-    '46588e12-4c82-4026-8190-362cae0e06ea',
-    'Terras Austrais e AntÃ¡rticas Francesas',
+    '38069f7a-8534-4a71-94b0-cc78e878e38b',
+    '894a4368-f096-4a42-b5df-109fc4125c95',
+    'Terras Austrais e Antárticas Francesas',
     NOW()
   ),
   (
-    'c04221e7-ee86-4773-be2e-90704f132616',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
-    'Ã…land',
+    '565cfad4-ff5a-4c22-b911-a3cc1bfce404',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
+    'Åland',
     NOW()
   ),
   (
-    '82cbd5fa-1f5e-45ba-9d71-0fd64f6f40c1',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
-    'Ã…land Islands',
+    '5d9c290f-2b6e-402c-8760-b48f24be8675',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
+    'Åland Islands',
     NOW()
   ),
   (
-    'f81d3877-046c-4e4e-a520-f9ba49d4fce6',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '2a518c97-28b4-4ab4-b3f9-8ed253dba709',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'Aland',
     NOW()
   ),
   (
-    '6ec4d4bd-74a2-4ff8-8dba-32e965eef6b3',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
+    '87548ba0-c746-41c8-ae37-3b5e16dabf48',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
     'Finland',
     NOW()
   ),
   (
-    '7165e195-cfeb-4eeb-a8c9-881e7807d3b8',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
-    'Ø¬Ø²Ø± Ø£ÙˆÙ„Ø§Ù†Ø¯',
+    'd3ece110-9651-44b9-99be-486c2050fe48',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
+    'جزر أولاند',
     NOW()
   ),
   (
-    '4727e93e-0cb8-4a3b-9f34-e855a412755c',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
-    'å¥¥å…°',
+    'a5141116-ba70-425e-96c0-e2c9bc1944d2',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
+    '奥兰',
     NOW()
   ),
   (
-    '220b0037-904c-46c9-ac31-4e3d94ce6600',
-    'c2189ce7-0190-488d-ae56-2db2bbc4c0ab',
-    'ÐÐ»Ð°Ð½Ð´ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    '32a014cc-3300-411e-a203-6569ebe2e3c4',
+    'd06f33ef-135e-460b-a1bf-db52bc4b5ba7',
+    'Аландские острова',
     NOW()
   ),
   (
-    'e3aa1689-b22d-47bc-8187-6a1fed12a070',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '13b303e8-3d9d-4ab7-aa7d-4e3efd5f87ab',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Finland',
     NOW()
   ),
   (
-    '6d496a31-dbf0-445b-89af-54b42f7bcb8d',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'a71c5b14-11f1-4851-b889-364437c45281',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Republic of Finland',
     NOW()
   ),
   (
-    'd02b8540-990d-452c-87c8-cddbb2458879',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'd13af39a-c33d-4756-97cc-288624ac37b9',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Fin.',
     NOW()
   ),
   (
-    '38c0a524-e932-4b74-a746-122cc1d45bb1',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
-    'ÙÙ†Ù„Ù†Ø¯Ø§',
+    '76357340-b99e-4492-80ed-b3708f165823',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
+    'فنلندا',
     NOW()
   ),
   (
-    '2cd9c5d8-bd9c-41e4-a0b8-11d630e1e435',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '326afcb0-086d-4052-8e1a-1406a4ede74e',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Finnland',
     NOW()
   ),
   (
-    '2a61a544-04ec-43ca-9888-f3815ead246a',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    '37acbe68-977b-4da2-8cc0-1b12d8fc7fe3',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Finlandia',
     NOW()
   ),
   (
-    'bfed5eb7-b3ca-45d7-b7a6-8551c28dfe8c',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
+    'a32627aa-f3a9-453b-bcd1-f631f0d70e0f',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
     'Finlande',
     NOW()
   ),
   (
-    'e8028350-780d-451e-a16c-e60529ef3239',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
-    'èŠ¬å…°',
+    'a4940d92-1672-42dd-8426-a64643e206a5',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
+    '芬兰',
     NOW()
   ),
   (
-    '819dac53-f661-4bb4-8d56-bd1a54d3d321',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
-    'Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ',
+    'a15f1c6f-df31-4dde-915d-e79c292251f7',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
+    'Финляндия',
     NOW()
   ),
   (
-    'fba38467-54a4-4cb4-a4ec-d8dcaf433463',
-    'c5c73cfb-afe9-42eb-b5f5-1b68778d3834',
-    'FinlÃ¢ndia',
+    'a672c747-67a7-4822-a958-2c6988bdf228',
+    '02e6fc97-f7e0-4c52-b971-5442a5324630',
+    'Finlândia',
     NOW()
   ),
   (
-    '152ab701-33fa-4019-b395-0298357717bb',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '8acd141e-cf33-4128-9016-cdaa7d196ca3',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'Fiji',
     NOW()
   ),
   (
-    '93832562-bd8f-49d9-a41c-6c3f043de7d5',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    '99bd42a8-9074-4d73-bda7-d52b45fcc69b',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'Republic of Fiji',
     NOW()
   ),
   (
-    'aaf6f480-dbbb-44fc-8dad-4d1814539fdd',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
-    'ÙÙŠØ¬ÙŠ',
+    'b05f3c90-0655-4513-94cd-fcf4a6958777',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
+    'فيجي',
     NOW()
   ),
   (
-    '940612f7-ed1d-46cc-a224-f69edb9f95dd',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'f1844539-5ac2-4789-ad31-c763e9644d0e',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'Fidschi',
     NOW()
   ),
   (
-    '39cbbda7-1093-4cc8-93a2-45bf888963cb',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'af842087-22eb-4107-848b-853a611269fc',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'Fiyi',
     NOW()
   ),
   (
-    '77f66bdc-b881-438f-a4a8-7474928ba9c9',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
+    'e98d0242-d90e-4726-8a4a-0f0dac5f1bc1',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
     'Fidji',
     NOW()
   ),
   (
-    '55b2317c-8a0a-47e1-89b2-1dfee2109263',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
-    'æ–æµŽ',
+    '5d508484-7761-4509-881a-a6ab96ac190b',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
+    '斐济',
     NOW()
   ),
   (
-    '65347b88-1cf6-43d3-8090-d842a7f5bb5e',
-    '7e063ebf-32f7-48bf-b381-095a0e189b19',
-    'Ð¤Ð¸Ð´Ð¶Ð¸',
+    '6b63433d-1c0b-4764-9f66-0f6b99961cbd',
+    '0ae43fa4-64a1-4cff-8309-9b9b03f56bc4',
+    'Фиджи',
     NOW()
   ),
   (
-    'dca63c62-1cb3-4b81-b5e9-c30d06a4e8bc',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'e6132595-3327-4de1-ad4f-ee81e5b1be86',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'Ethiopia',
     NOW()
   ),
   (
-    '0c434b0d-a72c-4133-91d6-2e1f1f8399da',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    'c849c54b-8b15-48bc-832d-2153377ff3db',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'Federal Democratic Republic of Ethiopia',
     NOW()
   ),
   (
-    '7c8cc586-d150-4669-9bf5-d25770336ffd',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
+    '425028b1-7c69-4277-96f4-3963b97c9525',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
     'Eth.',
     NOW()
   ),
   (
-    '51bac894-18ff-4702-81e7-1e479e239d5d',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'Ø¥Ø«ÙŠÙˆØ¨ÙŠØ§',
+    '7bc279e2-606e-4832-9e6b-5a1f507826f1',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'إثيوبيا',
     NOW()
   ),
   (
-    'dfd27c1b-f9ee-4812-999e-5bc3a0a2ba2c',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'Ã„thiopien',
+    'f1336a79-5a02-4e59-96c1-6d80fe3d0c6d',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'Äthiopien',
     NOW()
   ),
   (
-    'ab56d3b6-7979-4c1d-a099-c725ea84430e',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'EtiopÃ­a',
+    '61f48eab-552c-424d-b53c-c4cf15d76021',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'Etiopía',
     NOW()
   ),
   (
-    '11d6044a-dab3-4209-94e3-055dffb5f729',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'Ã‰thiopie',
+    '05ee3537-502a-4fc8-bb41-79259ccb129c',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'Éthiopie',
     NOW()
   ),
   (
-    '36b389a8-163b-439b-b7dd-1cd96d9d859c',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'åŸƒå¡žä¿„æ¯”äºš',
+    '48277d3f-f4de-4a3b-a3f1-666d1f2846af',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    '埃塞俄比亚',
     NOW()
   ),
   (
-    '8d8e4704-f07c-4e4d-a033-5174a495ad11',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'Ð­Ñ„Ð¸Ð¾Ð¿Ð¸Ñ',
+    '94865593-d6e7-4e4e-8af9-bbd691b244fd',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'Эфиопия',
     NOW()
   ),
   (
-    '54b4c421-1cd7-4157-9838-f04bd3e0f27f',
-    '5dc52bcd-cc45-4f04-8339-60333e5b7192',
-    'EtiÃ³pia',
+    '8b73b1d4-955f-4612-9e32-55ee3c53f1c7',
+    'c2430813-7a19-4d12-a3a5-fcf71da028c9',
+    'Etiópia',
     NOW()
   ),
   (
-    'f1fc606e-4932-484d-b802-a3759a618799',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '035428a4-a524-41ca-a143-d8b090310bf7',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'Estonia',
     NOW()
   ),
   (
-    'c4cbcca9-d042-43d1-986b-b9ea972fc342',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '50a83ef7-2199-4da0-aa9a-925a5e8bd9df',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'Republic of Estonia',
     NOW()
   ),
   (
-    '0e751a18-38bd-4fd5-ac49-a04f8fb1868f',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    '243c46d7-ec83-4e68-8623-96a60cb18afa',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'Est.',
     NOW()
   ),
   (
-    'ee1d2e5b-d30b-4e11-b47e-eeac3f769803',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
-    'Ø¥Ø³ØªÙˆÙ†ÙŠØ§',
+    '3b6a052d-9c80-44d0-be32-96cfeb20428e',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
+    'إستونيا',
     NOW()
   ),
   (
-    '53da05c3-eada-47ab-96ca-8e6c483bee70',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'cb766393-6d3b-4c0d-8545-22450c82b593',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'Estland',
     NOW()
   ),
   (
-    '506f3a59-9323-497f-8a0a-de9c2591d295',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
+    'a32350a7-10a2-4569-a818-26d5d82579b8',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
     'Estonie',
     NOW()
   ),
   (
-    '316d0b60-f77f-4beb-a41f-c170d85bafb7',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
-    'çˆ±æ²™å°¼äºš',
+    'cc755d77-4db7-4e09-bce7-26c12e47f034',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
+    '爱沙尼亚',
     NOW()
   ),
   (
-    'abbe9522-8034-4076-b6aa-b1fee9304072',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
-    'Ð­ÑÑ‚Ð¾Ð½Ð¸Ñ',
+    '87c9c382-e92b-44e3-be48-750a0c3671b3',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
+    'Эстония',
     NOW()
   ),
   (
-    'db0c1de1-c108-46ee-ab9d-948be20d90c3',
-    'd19eeb13-b09a-4369-8a99-969ac1bae090',
-    'EstÃ³nia',
+    'eb80181c-abc8-493d-a4dc-2bda3905fab1',
+    '960e8bb5-a9e4-4c66-84a3-e2856ce241c7',
+    'Estónia',
     NOW()
   ),
   (
-    '12904f0e-a2c5-4182-868a-4fab4511ae0c',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '466694c1-d6b4-4d49-833f-bab95f51237c',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'Eritrea',
     NOW()
   ),
   (
-    'f37e916f-99ce-4b10-a816-fc8d71e70c8a',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    'ed6c2742-eab3-4e05-964e-0d975dc917a2',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'State of Eritrea',
     NOW()
   ),
   (
-    'bad8d4f5-8370-4b59-8993-5a321844d9ea',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '88a119d6-50c5-4332-9082-13998e00afbf',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'Erit.',
     NOW()
   ),
   (
-    '927058c1-0114-4d38-8dd5-b5655227a349',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
-    'Ø¥Ø±ÙŠØªØ±ÙŠØ§',
+    'e2b04a9d-f9f6-4fc0-9c31-4dd253d9815b',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
+    'إريتريا',
     NOW()
   ),
   (
-    'db0cb8e8-bfce-44e7-bc1d-45d2d543ad26',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
-    'Ã‰rythrÃ©e',
+    'b8b24df4-a23e-4da0-8aa1-b43639010f7d',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
+    'Érythrée',
     NOW()
   ),
   (
-    '469ca227-2f71-4290-b8e6-7ab81fb2b22d',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
-    'åŽ„ç«‹ç‰¹é‡Œäºš',
+    'df47a37d-9778-4238-864f-8a986fddc3eb',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
+    '厄立特里亚',
     NOW()
   ),
   (
-    '7a9f3a9a-9217-41a3-bd7a-b56004cc47ae',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
-    'Ð­Ñ€Ð¸Ñ‚Ñ€ÐµÑ',
+    'bbebb16b-6883-41de-8065-3a2adc22c05e',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
+    'Эритрея',
     NOW()
   ),
   (
-    'db9331ab-1f9f-4d61-a540-d6f21ffb2661',
-    'b7684993-d718-427c-bb99-2fa6296d420d',
+    '1cb55365-139c-4f61-8471-12509dd3eba5',
+    '0070c815-ea46-4475-82fb-6bbd0060fe6c',
     'Eritreia',
     NOW()
   ),
   (
-    '37482e6e-cf61-46e7-8a62-3d940c536c1c',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    'bc0da514-79d3-4b7a-bbfd-235ee502da97',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'Eq. Guinea',
     NOW()
   ),
   (
-    '292eae94-67d3-420b-829c-afa2fb4a83a9',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '81500959-6bb5-49ac-9042-31fc128b1ebf',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'Equatorial Guinea',
     NOW()
   ),
   (
-    '009b2e6f-8a89-4475-a366-a6fe3b3f62e6',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '281671a0-51d7-453c-86b9-74f7da27bc6f',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'Republic of Equatorial Guinea',
     NOW()
   ),
   (
-    '5e5057c0-6c66-46d9-a4fa-14809ceb5d34',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '754b0730-b67e-40bc-9e9e-f739ac2109fb',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'Eq. G.',
     NOW()
   ),
   (
-    '3b06b687-9342-48ce-944b-cf1222b8ccf6',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'ØºÙŠÙ†ÙŠØ§ Ø§Ù„Ø§Ø³ØªÙˆØ§Ø¦ÙŠØ©',
+    'c38f9b2f-1b1d-4849-a653-a828112f7d03',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    'غينيا الاستوائية',
     NOW()
   ),
   (
-    '81fd5e62-9727-4a14-ab51-336bf2e00545',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'Ã„quatorialguinea',
+    '5f3b94d6-4e65-46ff-8617-ee9d82b7a261',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    'Äquatorialguinea',
     NOW()
   ),
   (
-    '70196444-2d6b-40a4-a86d-1cde7016ac52',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
+    '7d780ca8-2450-4528-9b2c-f70fc846a416',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
     'Guinea Ecuatorial',
     NOW()
   ),
   (
-    '3c668480-28cb-40b7-8d94-e3546e498fa3',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'GuinÃ©e Ã©quatoriale',
+    '8a4a354e-0a05-406f-b9e2-de11a4dd2385',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    'Guinée équatoriale',
     NOW()
   ),
   (
-    '6c174d6a-7eaa-4b0e-9a95-8f29bcf7f017',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'èµ¤é“å‡ å†…äºš',
+    '59b2f51a-51be-4445-a124-d6dae2f88bad',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    '赤道几内亚',
     NOW()
   ),
   (
-    '5968520e-ac2e-4da7-81e6-9e00b01ba2e4',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'Ð­ÐºÐ²Ð°Ñ‚Ð¾Ñ€Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ Ð“Ð²Ð¸Ð½ÐµÑ',
+    '7da4fbf6-e67f-4e11-9c4d-adaaf3e63b09',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    'Экваториальная Гвинея',
     NOW()
   ),
   (
-    'bc7dc622-fa04-496b-9865-3ba6f2f6ee63',
-    '5ce0fb96-cb07-4996-9c4e-319acb45f7c0',
-    'GuinÃ© Equatorial',
+    '8cf40245-18ef-493d-8b76-fdad18e0118c',
+    '6d4867d9-7544-4348-b841-e094dce8d85b',
+    'Guiné Equatorial',
     NOW()
   ),
   (
-    'e5b2e2dc-55f2-4367-9770-3283188a0653',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'b355efd0-db71-489c-9f1a-3208a5fdeae9',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'El Salvador',
     NOW()
   ),
   (
-    'a737fa51-6e4e-4f3b-8b96-d6c022403d90',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    'f7572421-b757-4ac2-bb3c-371e4fec5a7f',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'Republic of El Salvador',
     NOW()
   ),
   (
-    '1be6a5f5-5643-4dda-ae3e-18b71d99de89',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '7b9e6e3e-2ca6-4476-8dee-c0c8ec154776',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'El. S.',
     NOW()
   ),
   (
-    '02867e27-738d-4452-a0cb-68bdf7b9ec01',
-    '452dc9d0-115d-4485-a475-6479dacac042',
-    'Ø§Ù„Ø³Ù„ÙØ§Ø¯ÙˆØ±',
+    '85a6d98c-7034-494f-a1d0-4d26ac084888',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
+    'السلفادور',
     NOW()
   ),
   (
-    'ca4a44e3-500d-44e1-a787-0895dbf24569',
-    '452dc9d0-115d-4485-a475-6479dacac042',
+    '6a9200cd-6c41-4434-8ea1-ebd93b3d6f0a',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
     'Salvador',
     NOW()
   ),
   (
-    '41971f12-a646-40cf-9aae-c96569e0a953',
-    '452dc9d0-115d-4485-a475-6479dacac042',
-    'è¨å°”ç“¦å¤š',
+    '047f9264-d402-401c-9d39-0fb32357b5cf',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
+    '萨尔瓦多',
     NOW()
   ),
   (
-    '00f3d234-d60b-4e1c-8de2-0a419b1dd66b',
-    '452dc9d0-115d-4485-a475-6479dacac042',
-    'Ð¡Ð°Ð»ÑŒÐ²Ð°Ð´Ð¾Ñ€',
+    '8a1f4800-71d4-4e38-a8a8-05a686c96c53',
+    '95f30ec8-26b6-41c0-8d29-f8638a0ac674',
+    'Сальвадор',
     NOW()
   ),
   (
-    'b0c2c376-c4b6-48d8-89c1-5c8dd9b82dd2',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'e93059f8-290e-415f-9579-420f5b3c1225',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'Egypt',
     NOW()
   ),
   (
-    '65a4474d-26a2-4286-92f1-f009644fca9b',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    '3fbcfa67-4da2-47d2-b8ba-91d35adabb8d',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'Arab Republic of Egypt',
     NOW()
   ),
   (
-    'cbedd95a-9307-4c03-9ca6-a8502089e91b',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
-    'Ù…ØµØ±',
+    '6598e810-72c6-45bf-867e-2d1d012780eb',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
+    'مصر',
     NOW()
   ),
   (
-    '536729f3-bc00-4c3a-842f-dd612083a340',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
-    'Ã„gypten',
+    'ce6cb37f-2e74-42b6-9bb7-1eab9744919d',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
+    'Ägypten',
     NOW()
   ),
   (
-    '81c6d6c2-b8d5-4e30-9bb1-78921eab1344',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'a99bbbaa-cb0b-4b67-a825-e91a7e3ec80d',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'Egipto',
     NOW()
   ),
   (
-    'ffdc9b66-d831-4440-b6bd-a833e12e5a65',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
-    'Ã‰gypte',
+    '1f89f05c-1849-461d-aeb2-edebd85fbb5f',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
+    'Égypte',
     NOW()
   ),
   (
-    '8c634401-e318-472c-a374-0e2ac53cc412',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
-    'åŸƒåŠ',
+    '7f0ec14a-4bdd-4dfd-8d43-a7f55da3144d',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
+    '埃及',
     NOW()
   ),
   (
-    'ffe9b5a8-7be0-4b5d-9c0d-c6bda6e88c22',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
-    'Ð•Ð³Ð¸Ð¿ÐµÑ‚',
+    '91861f9f-72b0-4e47-a8bb-4c35e34d5174',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
+    'Египет',
     NOW()
   ),
   (
-    'ca611fb1-78d6-486d-bfd9-0bb5c4714a2c',
-    '31d326a1-ff9f-4204-9597-ff99ca3837ea',
+    'b83a3ad2-ae8d-4d5f-a32d-5f4950012251',
+    'c315ef29-0aab-459d-b395-0b64cffb54da',
     'Egito',
     NOW()
   ),
   (
-    '1ffe427e-c337-466e-b9f6-e4148206383d',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '72258ec1-4112-40d9-96fc-553636b08f8e',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'Ecuador',
     NOW()
   ),
   (
-    '6add0777-b827-4374-ba18-b31447c02f4f',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    'd71847f1-7c8d-42d9-a558-f79473bd23ee',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'Republic of Ecuador',
     NOW()
   ),
   (
-    '5db189d9-88c9-46dd-83db-a0774e0319d8',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '29aad228-6b81-44ba-b3d8-4193ace0a570',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'Ecu.',
     NOW()
   ),
   (
-    'ed423af5-fe9a-47a7-97f1-a623bd045c35',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
-    'Ø§Ù„Ø¥ÙƒÙˆØ§Ø¯ÙˆØ±',
+    'c791fd0e-ea78-46a3-a94b-09cf9cd24053',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
+    'الإكوادور',
     NOW()
   ),
   (
-    '29908701-5768-4717-81c1-c050b9a73bd1',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
-    'Ã‰quateur',
+    'f55996b4-1f1b-43b0-9710-694880a63fce',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
+    'Équateur',
     NOW()
   ),
   (
-    '2d43af17-cc2a-4d91-b7a9-db0817d07692',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
-    'åŽ„ç“œå¤šå°”',
+    'a719db84-49b7-4bb9-b90d-ba33d19997fb',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
+    '厄瓜多尔',
     NOW()
   ),
   (
-    '80dbcd30-db5f-4beb-9a8a-186d3ddb484e',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
-    'Ð­ÐºÐ²Ð°Ð´Ð¾Ñ€',
+    'ce836bac-e35f-4ae7-8f8e-ce62f32af97a',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
+    'Эквадор',
     NOW()
   ),
   (
-    '2082c378-7eb1-4817-979e-54edae659eec',
-    'f75eef91-40e5-43e1-9e66-17cf2753f622',
+    '9f22b7ab-00ac-4ffe-8b50-00bdb96f81a8',
+    'f7cb7d08-79bc-424b-af24-f81462e86ca6',
     'Equador',
     NOW()
   ),
   (
-    '4e951f10-d32d-4ce2-81c7-542bd1735ce5',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '2023488c-cf61-4bb8-922b-c4cb2d2ece44',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'Dominican Rep.',
     NOW()
   ),
   (
-    'c0c81108-15e6-4ea1-8b00-94f162e1b7d1',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '07cc4420-2662-4506-8582-7d70d48918c4',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'Dominican Republic',
     NOW()
   ),
   (
-    'c1990ef0-a1af-4022-874c-e31684f3bfa9',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '096e4d89-5407-4b9f-81ef-38ced7a8d7ca',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'Dom. Rep.',
     NOW()
   ),
   (
-    '47c6acde-5b6c-4cef-8a31-ca5349d45f08',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
-    'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„Ø¯ÙˆÙ…ÙŠÙ†ÙŠÙƒØ§Ù†',
+    '116891db-53d0-4f0f-ac2f-5b4c883f8260',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
+    'جمهورية الدومينيكان',
     NOW()
   ),
   (
-    'c5e0b656-63c6-4a73-9534-2426f9a045b5',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
+    '0577e999-fa5c-4a69-abef-093fece50d8d',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
     'Dominikanische Republik',
     NOW()
   ),
   (
-    'b7026e6d-291b-4959-b3b8-631d1a99fb9c',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
-    'RepÃºblica Dominicana',
+    '0dc1b21c-4624-487e-9f53-d1a28e6879d1',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
+    'República Dominicana',
     NOW()
   ),
   (
-    '52db1e33-bf69-4235-b1e6-a43ae519432b',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
-    'RÃ©publique dominicaine',
+    '2b897200-9831-44de-a95f-a96ef53064ae',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
+    'République dominicaine',
     NOW()
   ),
   (
-    '2eb2b2b4-8e56-4761-b024-7efdddd6659f',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
-    'å¤šç±³å°¼åŠ',
+    '90e4062f-fd99-42e7-a098-04a72d71bc4f',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
+    '多米尼加',
     NOW()
   ),
   (
-    'f54f52de-77be-4765-b920-94834df826b9',
-    'fc13e283-4dc0-4d16-a8e0-25f80d40b12c',
-    'Ð”Ð¾Ð¼Ð¸Ð½Ð¸ÐºÐ°Ð½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
+    'a735103a-83ac-400d-bf20-fad1980cbdfe',
+    '4ee86106-f766-47ed-9eef-f03b6f5c5b12',
+    'Доминиканская Республика',
     NOW()
   ),
   (
-    'b6e605e0-75c8-4342-a67c-9f20d62751d4',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    '30c6239e-bdc8-4e41-9dcf-9ce0dca99585',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'Dominica',
     NOW()
   ),
   (
-    '38af17b2-30ec-45d9-b473-257bc1521b8b',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'ebe50f52-4b1b-4c76-8878-3e8618e20a8d',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'Commonwealth of Dominica',
     NOW()
   ),
   (
-    '2597cc9e-07d7-4fbe-a2a5-148f73bcbcac',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'ad67358e-4bad-47c3-8ac2-8a90a3dd7e73',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'D''inca',
     NOW()
   ),
   (
-    'ff339d31-1902-432d-97dd-d5d1b6b1ab07',
-    '328ef587-d640-4141-b992-8950c4a3df23',
-    'Ø¯ÙˆÙ…ÙŠÙ†ÙŠÙƒØ§',
+    'a08f2ca0-f820-4e1b-9001-93c1a2284e1a',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
+    'دومينيكا',
     NOW()
   ),
   (
-    'c8abed3e-5022-4c1b-bf7f-fc0ef0b200c3',
-    '328ef587-d640-4141-b992-8950c4a3df23',
+    'cb18f73c-1078-4312-9e54-b8e9c15fa6b3',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
     'Dominique',
     NOW()
   ),
   (
-    '524ad74b-45d9-4608-bc81-ddb17d2a2970',
-    '328ef587-d640-4141-b992-8950c4a3df23',
-    'å¤šç±³å°¼å…‹',
+    '73564d75-6305-41e8-8701-b8553e4b3893',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
+    '多米尼克',
     NOW()
   ),
   (
-    '7f4135c5-ef08-419c-b835-254526e1f321',
-    '328ef587-d640-4141-b992-8950c4a3df23',
-    'Ð”Ð¾Ð¼Ð¸Ð½Ð¸ÐºÐ°',
+    '3229bbef-3ae6-45db-916c-073acb4d806e',
+    'b45a46b1-6af3-4afd-ae90-8a1169f49af0',
+    'Доминика',
     NOW()
   ),
   (
-    '63f4959c-2f8c-4ab2-8a70-ac2cda12e856',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '7f80f885-fb76-4f23-978d-4c55137ce4d4',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'Djibouti',
     NOW()
   ),
   (
-    '6e8318b5-8065-4082-9184-8390a47b8b11',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '8fc2c277-8c36-4615-893c-4e9472277266',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'Republic of Djibouti',
     NOW()
   ),
   (
-    '6674c29b-8c1d-4820-b0eb-acfdd4480db5',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'a661ffcd-a2db-4f30-bc35-1225dfec5fdf',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'Dji.',
     NOW()
   ),
   (
-    '3715a79f-c634-4692-b945-729b01566c92',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
-    'Ø¬ÙŠØ¨ÙˆØªÙŠ',
+    'c6ba6b17-f88f-40d6-ba99-66f27869a558',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
+    'جيبوتي',
     NOW()
   ),
   (
-    '1e29f673-1862-4c85-8259-c7f1c8cd3b78',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    'b2b9347a-e89f-4989-a066-e0dec1498aa6',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'Dschibuti',
     NOW()
   ),
   (
-    'f09b5cc1-d7ea-4225-aa02-109a7a29d56d',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
+    '5910e110-6651-4549-aee9-317da2d35ab0',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
     'Yibuti',
     NOW()
   ),
   (
-    'dd499715-97f6-4b6e-84e8-b36f81462728',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
-    'å‰å¸ƒæ',
+    '76f368db-9e2d-4169-baa1-abc3df4c1cd3',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
+    '吉布提',
     NOW()
   ),
   (
-    'ea177b41-cbbe-4230-b578-585a72e8790f',
-    '4445c12d-d9a4-43bf-ba76-cdb2c4bd1f91',
-    'Ð”Ð¶Ð¸Ð±ÑƒÑ‚Ð¸',
+    'a3440875-f71f-4136-bc9f-1f3bfc5d1b95',
+    '04d7980f-d2c3-4b8b-8899-7bcce1b7a66d',
+    'Джибути',
     NOW()
   ),
   (
-    '3e0bc231-720b-4494-9d3e-19840b4586bd',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'cb59fc23-d1e8-4bae-91bc-37ed8a1e6085',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'Greenland',
     NOW()
   ),
   (
-    '811947fe-9110-41d7-b9e3-866faa1cb69d',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '17c35f4b-a7c7-40c0-8ba7-2437844e4c30',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'Denmark',
     NOW()
   ),
   (
-    '96037fd1-f891-4946-94d5-f2ca65084a69',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    'e75975cf-23cf-40e2-9261-2c75ef4a24b8',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'Grlnd.',
     NOW()
   ),
   (
-    'c2b63a56-be90-4607-80d1-226fc7615be1',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
-    'Ø¬Ø±ÙŠÙ†Ù„Ø§Ù†Ø¯',
+    '23d715b0-f756-4d98-8ea8-beedbfe7aee7',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
+    'جرينلاند',
     NOW()
   ),
   (
-    '96f6676b-a83f-46e4-8c68-9b0efd759610',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
-    'GrÃ¶nland',
+    'ea4dc755-c5c3-47ee-831b-d51fe0446e34',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
+    'Grönland',
     NOW()
   ),
   (
-    'f4f09eeb-ebbf-43d8-9a28-d50c393635c4',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '15b020ca-e2a5-46a9-b979-236987bf1fc7',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'Groenlandia',
     NOW()
   ),
   (
-    '00596a36-c243-4603-93b3-a8d1051df34f',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
+    '5d7a6f6f-de89-4df7-8779-8f5349f9b1e5',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
     'Groenland',
     NOW()
   ),
   (
-    '5ef90dcd-2ca0-4062-9986-7a873b9371a7',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
-    'æ ¼é™µå…°',
+    '7d00f075-0d18-480a-a059-7d8e0eef0e28',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
+    '格陵兰',
     NOW()
   ),
   (
-    'e5f089bb-4d71-4d80-b689-8725510687ee',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
-    'Ð“Ñ€ÐµÐ½Ð»Ð°Ð½Ð´Ð¸Ñ',
+    'deee6c03-eb95-4c7f-9818-1df33b82de62',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
+    'Гренландия',
     NOW()
   ),
   (
-    '34cfb00d-6ccd-4298-9420-762b3b4e9e13',
-    '09188e28-313b-4183-b459-a3c32f0e272c',
-    'GroenlÃ¢ndia',
+    'c68266a9-23a3-4f09-89b5-e96eeba2f675',
+    'aacbe38a-215f-4350-abf0-5b0d904903f5',
+    'Groenlândia',
     NOW()
   ),
   (
-    '1c4f279f-3afd-4b3c-83e3-568386bb51c0',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '62ade401-534c-4d88-821e-5945c03703ca',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Faeroe Is.',
     NOW()
   ),
   (
-    '0109c639-ac0d-4402-9e16-fee244c1e579',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '652741c3-794f-429b-a7ca-05535501bb28',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Faeroe Islands',
     NOW()
   ),
   (
-    '04f2ca53-8fcd-4d42-b2ca-3d32c31d28c0',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'FÃ¸royar Is. (Faeroe Is.)',
+    'c0bca1e7-3d9c-4a44-b1c9-e383d164cf99',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    'Føroyar Is. (Faeroe Is.)',
     NOW()
   ),
   (
-    'c8b41161-0df5-48ff-8a9c-3b792207fb10',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '478a85ea-9ade-430a-b1ff-a8aa169049de',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Faroe Islands',
     NOW()
   ),
   (
-    'd042a0d6-ae60-4b67-a8fe-0c8621d5fd6e',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '2809360a-412e-407d-960e-4de7a3e94923',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Denmark',
     NOW()
   ),
   (
-    '016b72fd-fc1e-4c2b-b6a0-6a0e24de7c45',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'Ø¬Ø²Ø± ÙØ§Ø±Ùˆ',
+    'edfa7d4c-dca1-4228-959d-fe5fdcdb3ff4',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    'جزر فارو',
     NOW()
   ),
   (
-    '42767d93-40f3-48d2-b6e2-0e355e82803a',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'FÃ¤rÃ¶er',
+    'c4a1077d-08d7-40e8-bc08-aa663a8548ac',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    'Färöer',
     NOW()
   ),
   (
-    'f38b6689-b006-4780-8c8a-ed8d4fcc0c90',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '5ef7ee37-2c9f-4a96-8b52-553803f847ec',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Islas Feroe',
     NOW()
   ),
   (
-    '469b0c74-f329-44d1-a5d4-39191399b396',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'Ã®les FÃ©roÃ©',
+    '50571de4-da06-4f48-97f7-398e9b1d2783',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    'îles Féroé',
     NOW()
   ),
   (
-    '003d07e1-cfac-4770-b9e4-90d2accb8766',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'æ³•ç½—ç¾¤å²›',
+    '5f94c990-5a8f-4828-b97c-3026466f32bd',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    '法罗群岛',
     NOW()
   ),
   (
-    '94cbc26e-410e-4277-b784-35f64b14e62c',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
-    'Ð¤Ð°Ñ€ÐµÑ€ÑÐºÐ¸Ðµ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°',
+    'f758920f-9bca-438c-b718-a0135df59155',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
+    'Фарерские острова',
     NOW()
   ),
   (
-    '72da475b-edc9-4c30-abb5-1c152d597d9b',
-    'de52c916-b19b-41a2-9f6a-4c3034f90815',
+    '1602eb4e-0a19-4d8d-90a1-1c37835e13b1',
+    'e174d7c3-fff9-496b-a2e5-3197f8484cc0',
     'Ilhas Feroe',
     NOW()
   ),
   (
-    'e4cfada3-8a9c-4b44-bd94-b391d58dc99a',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '49b0e446-875d-407f-88b4-fa1d68195d92',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'Denmark',
     NOW()
   ),
   (
-    '9c968736-123c-4f68-ae41-5dc349ada94e',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '92a33214-d091-45e8-9b25-c8ff656a1e24',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'Kingdom of Denmark',
     NOW()
   ),
   (
-    'dd4bbbf3-2cf8-42e4-ad27-ab35d31c87e8',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '1f0ab3e6-b230-4a85-8dc4-be6add2eada3',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'Den.',
     NOW()
   ),
   (
-    '98dd3b34-a43c-4f6c-805f-afe478e19fb0',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
-    'Ø§Ù„Ø¯Ù†Ù…Ø§Ø±Ùƒ',
+    'f158ae28-8a74-4a30-a665-208f5b6db876',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
+    'الدنمارك',
     NOW()
   ),
   (
-    'e70ca1c3-b02b-4c2d-b35f-9bef84cb049d',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
-    'DÃ¤nemark',
+    'ee04de3d-0661-44d6-82c5-6286cb93a881',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
+    'Dänemark',
     NOW()
   ),
   (
-    'c818eba6-e82d-4224-98c2-01eb844e07e8',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    '88f8d528-d21b-4a16-8690-d9032760b366',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'Dinamarca',
     NOW()
   ),
   (
-    '9e38f4e6-5edc-43d7-8c41-fdb786911ad5',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
+    'f642f462-1cdd-4eef-81c3-8371fe6b5999',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
     'Danemark',
     NOW()
   ),
   (
-    'e3f60b03-ef04-4b2c-992a-f8a6a7b310a1',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
-    'ä¸¹éº¦',
+    '8fbe819c-2f3d-4f0d-8612-69db86eb10aa',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
+    '丹麦',
     NOW()
   ),
   (
-    'd3259d20-c7af-4666-b31b-5163d649c616',
-    '91840c58-48eb-4ba5-8de0-b9dd95feed67',
-    'Ð”Ð°Ð½Ð¸Ñ',
+    'c139780d-5ab3-49ee-83e0-5830005294dc',
+    '365c9513-6e76-4fca-9c3e-0f2ad0b40a86',
+    'Дания',
     NOW()
   ),
   (
-    '408006ca-98bd-416b-9077-ece714085bb9',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '4c706741-ec9d-4de1-8c4f-a9d9fdd8f35c',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'Czechia',
     NOW()
   ),
   (
-    '7672faf2-b5e5-4d05-88a6-826cd063ee4b',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    'd50395a9-e7fa-4137-96c7-553a4ecbdc37',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'Czech Republic',
     NOW()
   ),
   (
-    '289099bf-d8f9-4010-8b7e-f3a46e2a5e69',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'la RÃ©publique tchÃ¨que',
+    'e403cce3-9a83-4613-81b9-56b87c1c32b8',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'la République tchèque',
     NOW()
   ),
   (
-    '4b80498b-4627-429e-bc84-776e23445f14',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '5819af02-6b66-4d24-bcf7-817c912f9716',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'Cz.',
     NOW()
   ),
   (
-    '8ceca508-c5d9-4ab8-857b-8effe4cb83cd',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'Ø§Ù„ØªØ´ÙŠÙƒ',
+    '8a8eab6d-b47b-4b82-a43d-bf2e8343b5fa',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'التشيك',
     NOW()
   ),
   (
-    'dafbcba8-1b0d-4ed2-9b41-e61ba784e3aa',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
+    '01a4c1d6-6648-4985-a57b-f3b4e69bba12',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
     'Tschechien',
     NOW()
   ),
   (
-    '6b0e9a79-ab10-475d-91a1-151e183c7c21',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'RepÃºblica Checa',
+    'd58999ad-8921-4986-856e-3ba7ebfd6c76',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'República Checa',
     NOW()
   ),
   (
-    '44739579-4e57-4ed2-adeb-7563393320d1',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'TchÃ©quie',
+    '4ddedbe0-c0fa-478c-8a28-bdf2f23d67e8',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'Tchéquie',
     NOW()
   ),
   (
-    '8a0621c4-a4a1-4d8c-93d3-828727999b90',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'æ·å…‹',
+    'd4a60fa2-4c44-42a0-9163-ed2a5dd8f7d2',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    '捷克',
     NOW()
   ),
   (
-    '91c00b5c-1de6-465d-970d-3e6bfbbeaa95',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'Ð§ÐµÑ…Ð¸Ñ',
+    'cc92531a-aec9-442b-b10d-1c1a5c6c8578',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'Чехия',
     NOW()
   ),
   (
-    '53dd0bb8-a952-4397-816c-dea6c1f16d3e',
-    'be7e9964-1ced-47ec-8461-e444a31ef0c4',
-    'ChÃ©quia',
+    '25388d6f-13ce-45fd-887d-68fe1a21bad0',
+    '052a9fe9-625a-436a-a617-f9ad1771df6c',
+    'Chéquia',
     NOW()
   ),
   (
-    '41eb8a8a-d9db-4042-b1ed-19a8ae57eb4e',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '08533939-53a0-4a2a-8a9e-a2549edd5200',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'N. Cyprus',
     NOW()
   ),
   (
-    'a51e1c5f-02d1-4e1b-80da-7e4518731d4e',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '982db903-8939-4c12-ad74-d3c1a5235b76',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'Northern Cyprus',
     NOW()
   ),
   (
-    'bf0e348e-03e0-4c2c-9e55-7541fbc0ee9d',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'a10d108c-efbc-4427-96e6-3772cfa5483c',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'Turkish Republic of Northern Cyprus',
     NOW()
   ),
   (
-    '9791498f-142c-41eb-920e-0783c5dbed87',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    '9adc7879-c57b-4151-8354-a1b2cf320102',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'N. Cy.',
     NOW()
   ),
   (
-    '4eb43d58-74ec-44a7-bdcc-b3b75c337c2d',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'Ù‚Ø¨Ø±Øµ Ø§Ù„Ø´Ù…Ø§Ù„ÙŠØ©',
+    '5aaf7e20-2a4d-4f45-83e2-4e27c013a944',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    'قبرص الشمالية',
     NOW()
   ),
   (
-    '8c3fe2e9-1644-428c-b59d-f0f7f0b0a20f',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'TÃ¼rkische Republik Nordzypern',
+    'c240116f-4089-4dd6-8303-0f42bb48a0e7',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    'Türkische Republik Nordzypern',
     NOW()
   ),
   (
-    'a8ddcaf3-4277-4058-b443-14ecc6558520',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'RepÃºblica Turca del Norte de Chipre',
+    '07fd8a0e-687b-449f-bf04-718e437d8e2c',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    'República Turca del Norte de Chipre',
     NOW()
   ),
   (
-    '24255b42-823d-4f87-98bb-dd71046220cc',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
+    'b506de7a-5b67-4df6-926f-3182d695aea4',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
     'Chypre du Nord',
     NOW()
   ),
   (
-    '59f33356-0a19-42db-b422-8c6739942a5c',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'åŒ—å¡žæµ¦è·¯æ–¯åœŸè€³å…¶å…±å’Œå›½',
+    'f9013ea5-7a29-4b91-80ce-f26f9e620a07',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    '北塞浦路斯土耳其共和国',
     NOW()
   ),
   (
-    '0886635e-4424-4c3e-a397-f9acd0df1798',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'Ð¢ÑƒÑ€ÐµÑ†ÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¡ÐµÐ²ÐµÑ€Ð½Ð¾Ð³Ð¾ ÐšÐ¸Ð¿Ñ€Ð°',
+    'f30d4783-3f89-4b18-913e-e5f5d8752d2d',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    'Турецкая Республика Северного Кипра',
     NOW()
   ),
   (
-    'cb5a155f-602a-4a7b-b4d4-ebd55e4ff4b8',
-    '1a5731cd-3763-45e1-a4c1-a3884bd4e0f2',
-    'RepÃºblica Turca do Chipre do Norte',
+    'f34aafe1-36a9-428d-b41d-b229c53cb258',
+    'efbe08e6-d44e-4fed-820c-9b584b12095b',
+    'República Turca do Chipre do Norte',
     NOW()
   ),
   (
-    '75620413-59b7-438b-9107-52e1539b2691',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '63c0d177-d0d3-4b0a-955c-6c3fa5e72e6d',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Cyprus',
     NOW()
   ),
   (
-    '5851593a-ada8-46f0-a44f-876602025fb9',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'ef6bd4d3-f153-4746-96fe-27bb5edc16a1',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Republic of Cyprus',
     NOW()
   ),
   (
-    '18afd581-2f77-473d-8481-0c69a4f55a96',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'c92af8ac-1ea6-407b-b8a2-f87209dfcdf4',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Cyp.',
     NOW()
   ),
   (
-    'aa5c6c32-48db-4301-be27-d186d6544d3f',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
-    'Ù‚Ø¨Ø±Øµ',
+    '5b1c9ec8-e685-40dd-8726-d9a4519de753',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
+    'قبرص',
     NOW()
   ),
   (
-    '04432acb-9dce-46f5-bedd-79b009c6be52',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    'bafcecfc-9adb-464e-8c28-f367c19608b7',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Republik Zypern',
     NOW()
   ),
   (
-    'e0eb742c-f93f-4a92-b64f-265bb1ef0f3e',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '7adf0579-dcf2-4020-af01-ba4f0b0c5cb6',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Chipre',
     NOW()
   ),
   (
-    'ef1e70fe-0c36-4c9b-96b3-8109ad9a32eb',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
+    '48d18da2-9772-4839-b83e-1df8139b28d6',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
     'Chypre',
     NOW()
   ),
   (
-    'bbcabd84-0c5f-404f-9b2f-b60eec414e6d',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
-    'å¡žæµ¦è·¯æ–¯',
+    '4a981e59-94fd-4c7e-9067-c801502350e5',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
+    '塞浦路斯',
     NOW()
   ),
   (
-    '88273fde-a648-47dd-93a0-4ea5a8ac27fc',
-    '6f3ee2ed-08bf-434c-b6c8-e6bb6d41f6f4',
-    'ÐšÐ¸Ð¿Ñ€',
+    'ee490b92-8e27-4b1a-b394-590ab96754fb',
+    '7e44e2da-19a3-4a06-9ff1-5db7ed8de463',
+    'Кипр',
     NOW()
   ),
   (
-    'b6cbf6b7-11d3-49de-8a77-1da867629361',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '4b27cef9-9763-41f9-a815-b062365a145c',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'Cuba',
     NOW()
   ),
   (
-    'ef8152b9-fc83-485e-aea0-b2cb9938a270',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    '74f1d07c-3e9b-4dc9-82df-234bca0a98e9',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'Republic of Cuba',
     NOW()
   ),
   (
-    '050cd8e5-f427-4161-806e-3731fdccda9e',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
-    'ÙƒÙˆØ¨Ø§',
+    '002f3df4-d0ca-4cd9-adc2-c393cec21e5a',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
+    'كوبا',
     NOW()
   ),
   (
-    'a671d095-e3ab-45a6-9dc2-ae3de7670af6',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
+    'f0893035-3634-4622-b3e7-a3a4b5a0414b',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
     'Kuba',
     NOW()
   ),
   (
-    '6df74223-5497-4559-986c-512f6f5c2cdf',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
-    'å¤å·´',
+    '59bd5d12-f4a2-4f89-9e86-4da61bda0290',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
+    '古巴',
     NOW()
   ),
   (
-    'df479e7a-24a2-4ca4-83ce-168db8cde7e2',
-    '8e7e3d56-8d74-4c41-9d4f-b254339e5b3f',
-    'ÐšÑƒÐ±Ð°',
+    '2bb44e23-8023-44b1-b620-148c1f757e5f',
+    'bb3fe2f4-dd41-4d7f-8799-cd7a57d5d5e1',
+    'Куба',
     NOW()
   ),
   (
-    'ad4fe632-88a0-4ac8-8f86-ccce6ac3a804',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '9ea319d4-4645-4c8b-89df-209a5b331bc1',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Croatia',
     NOW()
   ),
   (
-    '5f2747a3-9981-45de-a7e4-15b830c9cbe6',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '8a6b0e2d-1897-43f4-85a5-0ce1aa192dde',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Republic of Croatia',
     NOW()
   ),
   (
-    '779a8103-9acb-4e3e-be7d-286023672ac8',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '09472848-0d14-4162-a8e5-0b23f704380e',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Cro.',
     NOW()
   ),
   (
-    '77e0d36b-cf4f-4fc0-8a12-085ae05d23c7',
-    '8938246f-488f-4dae-8a08-0942525de05a',
-    'ÙƒØ±ÙˆØ§ØªÙŠØ§',
+    'f2608ddc-3368-4b4a-b29f-55818f643a1e',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
+    'كرواتيا',
     NOW()
   ),
   (
-    '71d34d42-68cc-4dff-a108-2e22344095bc',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'ad27af40-2002-434a-b815-73211d1a8241',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Kroatien',
     NOW()
   ),
   (
-    'ce07d7d7-f211-4bd6-8986-e5d12f858737',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    '7f5236e8-e87c-42c4-aaf0-eb342ad06946',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Croacia',
     NOW()
   ),
   (
-    'fd3ed32a-e29a-44e2-8ab2-a4025e80011a',
-    '8938246f-488f-4dae-8a08-0942525de05a',
+    'f7abe183-8547-428a-8264-c1251599c8f0',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
     'Croatie',
     NOW()
   ),
   (
-    'faef095b-0184-4707-9e5d-615ddea941b7',
-    '8938246f-488f-4dae-8a08-0942525de05a',
-    'å…‹ç½—åœ°äºš',
+    '5a62935e-3123-4354-9432-dfcab378f72a',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
+    '克罗地亚',
     NOW()
   ),
   (
-    '54e83291-a964-47cf-a72f-beaecff0e431',
-    '8938246f-488f-4dae-8a08-0942525de05a',
-    'Ð¥Ð¾Ñ€Ð²Ð°Ñ‚Ð¸Ñ',
+    'd36b98a2-c2da-46cc-9146-f5d8d920f51f',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
+    'Хорватия',
     NOW()
   ),
   (
-    '6ff40a64-5490-42cd-bc13-99178a3383f9',
-    '8938246f-488f-4dae-8a08-0942525de05a',
-    'CroÃ¡cia',
+    'ccc0a636-b9a9-4f58-9514-a2a904fb758e',
+    '93f6b24c-1ac9-4744-8464-bb340f8f192d',
+    'Croácia',
     NOW()
   ),
   (
-    'edb2edd6-b1e8-4f29-a98c-5304bcc6ec0a',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
-    'CÃ´te d''Ivoire',
+    '5c2364d1-9011-4ee2-b796-627057cdfadd',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
+    'Côte d''Ivoire',
     NOW()
   ),
   (
-    '840366a8-cd27-4cfa-a7cb-ac5dfdfb3262',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'e02b5be9-a548-4603-8a0b-ac7f924f304a',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'Republic of Ivory Coast',
     NOW()
   ),
   (
-    'dde67804-5cdc-432e-98d3-6533ae939c60',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    'e2ca8095-fa6d-440a-a606-04b0b731354b',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'Republic of Cote D''Ivoire',
     NOW()
   ),
   (
-    'f15899c6-3a56-4455-a2c9-00b143e44f00',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '0f5de54e-a90c-4837-b9e1-52c9a8ad503c',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'Ivory Coast',
     NOW()
   ),
   (
-    'f067175f-2921-41b0-8071-17d5a4953540',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '55517d7c-6715-496d-bb71-a295f7445b06',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'I.C.',
     NOW()
   ),
   (
-    '9cb31c60-6873-43fe-af4c-7e733359ec34',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
-    'Ø³Ø§Ø­Ù„ Ø§Ù„Ø¹Ø§Ø¬',
+    'e905ecc9-97fa-430f-bdb9-92af701403f9',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
+    'ساحل العاج',
     NOW()
   ),
   (
-    '8b33b545-a2ca-4289-95e3-7eedc9871736',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
-    'ElfenbeinkÃ¼ste',
+    'e5ee46ca-bab1-4e96-86d5-65e07116eabb',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
+    'Elfenbeinküste',
     NOW()
   ),
   (
-    '8e319fc2-89e3-42cd-ac23-95c78ca0e867',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '2cf7956b-bc57-4239-90ee-cbdf08faacd4',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'Costa de Marfil',
     NOW()
   ),
   (
-    '6bc6adf0-f081-44a8-ad89-2ee1d3013b20',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
-    'ç§‘ç‰¹è¿ªç“¦',
+    '54db3ec8-8123-4a57-af4e-a412b0548c21',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
+    '科特迪瓦',
     NOW()
   ),
   (
-    '7714bbe7-ce6e-47a7-8c09-fafcf84ba7b1',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
-    'ÐšÐ¾Ñ‚-Ð´â€™Ð˜Ð²ÑƒÐ°Ñ€',
+    'e6c04631-f9b5-425f-8bb8-f6d3ff26c455',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
+    'Кот-д’Ивуар',
     NOW()
   ),
   (
-    '0d46d18c-a449-498d-ab68-b3b52342f1d7',
-    'e9d84ffb-c4b4-43a1-adfd-914805072e7e',
+    '8c86cd27-bcca-41f1-a631-75cfdf1e7fb4',
+    '31b413c6-29c5-4076-a22b-b5b701ab71bb',
     'Costa do Marfim',
     NOW()
   ),
   (
-    '29ea609e-f8cd-4f5e-b053-672b45e1a3d0',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'dd89ef9a-aa5d-4c52-82a3-a32e70bbd9aa',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'Costa Rica',
     NOW()
   ),
   (
-    '75211eba-079b-44f0-aff0-709b54ebb08f',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    'e9a0b3de-33a8-42d2-953a-d7822be1dc82',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'Republic of Costa Rica',
     NOW()
   ),
   (
-    '995b0fe7-3b9c-4dd1-8e36-6a798057dcf6',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
+    '79b0aaa2-5212-408b-940d-d7de40238f0b',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
     'C.R.',
     NOW()
   ),
   (
-    '0fbf6757-43e7-491f-a649-947fd6a3f2a0',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
-    'ÙƒÙˆØ³ØªØ§Ø±ÙŠÙƒØ§',
+    'e930f910-476c-498b-8e39-c4f327ad2e0f',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
+    'كوستاريكا',
     NOW()
   ),
   (
-    '53dca958-74c9-4848-af64-d12b2adbdd57',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
-    'å“¥æ–¯è¾¾é»ŽåŠ',
+    '0535d72a-6e7e-44b7-a5f3-e4f39e73a041',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
+    '哥斯达黎加',
     NOW()
   ),
   (
-    'edbe1405-5a4b-46a5-8b8a-f9934f8dac9b',
-    'dceaef98-0ccc-4948-8c86-4b954dcda3ef',
-    'ÐšÐ¾ÑÑ‚Ð°-Ð Ð¸ÐºÐ°',
+    '2145d8a7-d9a6-4ca6-bed5-6766cf1318ee',
+    'e37cafea-3bd5-4417-9419-3c4c99f79500',
+    'Коста-Рика',
     NOW()
   ),
   (
-    '1a66fc86-4231-4f4c-97ae-9077fedf1a5d',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '45ee902f-f4b8-4dd1-934e-126f003adf3c',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'Dem. Rep. Congo',
     NOW()
   ),
   (
-    'ca037a3a-4bb7-4856-81e9-2c672e6c6d7e',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '2076a1d1-ac3a-4932-b02b-e88ae47d1ce9',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'Democratic Republic of the Congo',
     NOW()
   ),
   (
-    '3f7d3d55-3cdf-4ac9-9661-a74dfabd83d4',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    '2fdba277-7feb-4de8-8094-782973f828c3',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'D.R.C.',
     NOW()
   ),
   (
-    '34bafdbb-aa43-415e-ab36-3b1d69d0d463',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„ÙƒÙˆÙ†ØºÙˆ Ø§Ù„Ø¯ÙŠÙ…Ù‚Ø±Ø§Ø·ÙŠØ©',
+    '1227c745-bdbf-4f49-a9a3-996e97465096',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    'جمهورية الكونغو الديمقراطية',
     NOW()
   ),
   (
-    '476806c7-d7d6-4213-8d85-dfcdcae42d02',
-    'fa682643-3084-46d8-995a-9ace550c498f',
+    'fa6c1092-cc17-4bf4-b1bf-827c367173ee',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
     'Demokratische Republik Kongo',
     NOW()
   ),
   (
-    '183986da-b267-4df5-a7f6-bc0283542292',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'RepÃºblica DemocrÃ¡tica del Congo',
+    'bdab3aa1-5548-4e8e-9aae-0bd22b8d7620',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    'República Democrática del Congo',
     NOW()
   ),
   (
-    'a3dbb732-5ef6-4dd4-8387-0a22ffd770fd',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'RÃ©publique dÃ©mocratique du Congo',
+    'bf09ceac-cadd-4daf-a2a5-87ee0e41f724',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    'République démocratique du Congo',
     NOW()
   ),
   (
-    '44c16ceb-76f1-4ed5-9240-7b99a609e1e6',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'åˆšæžœæ°‘ä¸»å…±å’Œå›½',
+    'd5f91df9-cb89-465a-b672-7665e22dce1f',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    '刚果民主共和国',
     NOW()
   ),
   (
-    '2a148a57-2559-4029-9e3d-d92a78be1e62',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'Ð”ÐµÐ¼Ð¾ÐºÑ€Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ð½Ð³Ð¾',
+    '3323cad3-48b6-4436-8494-9f851f287842',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    'Демократическая Республика Конго',
     NOW()
   ),
   (
-    '505016ae-dcd8-4df0-af7e-46fcce205595',
-    'fa682643-3084-46d8-995a-9ace550c498f',
-    'RepÃºblica DemocrÃ¡tica do Congo',
+    '0e360e79-4623-485d-aaad-3492523981f2',
+    'f6c8194d-3fcc-460d-acf6-367384e5340d',
+    'República Democrática do Congo',
     NOW()
   ),
   (
-    '7332c52b-b2a0-433b-adb7-b4ac4585d605',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'c9ba885b-cfc6-4c6b-97c2-35dfe6025786',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'Congo',
     NOW()
   ),
   (
-    '33aeae9f-4b4b-4f98-8744-bb816c11a524',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '38fd8b73-0b1b-4e6a-9c27-960020b5a465',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'Republic of the Congo',
     NOW()
   ),
   (
-    'fd196bf5-7379-4ba7-82fa-ccde4b8b6a9e',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    'd5e7cc28-6e76-46c7-b9e2-63dfb5b5b964',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'Rep. Congo',
     NOW()
   ),
   (
-    '3f127b2a-a872-42c4-a9fa-d44a999d22a1',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø§Ù„ÙƒÙˆÙ†ØºÙˆ',
+    'c3440c93-6fad-4ff5-a500-339483af2ad9',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    'جمهورية الكونغو',
     NOW()
   ),
   (
-    '71d08bc8-c3ed-429c-a0e3-cc1834eb392b',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
+    '69143c6e-f016-4e68-9e27-e64275123293',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
     'Republik Kongo',
     NOW()
   ),
   (
-    'ea03df88-e4c6-43a6-a4e9-379f357d7367',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'RepÃºblica del Congo',
+    '345dd2c6-ddb3-4a62-b740-207e2f4983ba',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    'República del Congo',
     NOW()
   ),
   (
-    '6ebe6d3d-6fbc-4e01-960d-f537eaa2f8c0',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'RÃ©publique du Congo',
+    '5a9ac6a0-a275-4736-9ccd-ed334d044966',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    'République du Congo',
     NOW()
   ),
   (
-    'ddab1b22-f39f-4d9a-8172-262d6cabace1',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'åˆšæžœå…±å’Œå›½',
+    '922a5d34-8db6-4be0-a408-d210e3762be3',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    '刚果共和国',
     NOW()
   ),
   (
-    '5eb09f46-e721-4445-ac3d-9f766443160e',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ¾Ð½Ð³Ð¾',
+    'b840f6e4-b247-4b86-bab5-58ead28a5cd1',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    'Республика Конго',
     NOW()
   ),
   (
-    '90642191-713a-47cc-ac2a-60f3112a7304',
-    '6de76f56-3ba9-4c75-b370-9336ada19593',
-    'RepÃºblica do Congo',
+    '74c033f0-505b-4369-ac30-4b8536275c41',
+    '84505775-cbf0-48e6-b4e2-fcf9a1b8306d',
+    'República do Congo',
     NOW()
   ),
   (
-    'b95e409e-3852-46b5-919d-11af044c651d',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '470b9f79-c5a2-4018-a1b3-1812f242dcc2',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Comoros',
     NOW()
   ),
   (
-    '6221abdb-19b9-44f3-8a50-65f45a35a98a',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '9f6a3e69-ce37-4653-8677-6927ceafb26b',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Union of the Comoros',
     NOW()
   ),
   (
-    '6efc8f73-82dc-4597-82fc-4450acd79c3e',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '1ef4f2a3-3100-47ab-91d2-4959aaddbf43',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Com.',
     NOW()
   ),
   (
-    '9426f1ac-1294-427f-a219-85a91275a647',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
-    'Ø¬Ø²Ø± Ø§Ù„Ù‚Ù…Ø±',
+    '519eb83d-ac48-4d96-82d1-7041a94b5498',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
+    'جزر القمر',
     NOW()
   ),
   (
-    'fa81f0a7-05cb-4c50-8ad9-9f948887f232',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'b329637a-d128-4b72-8fcc-045fbd7a26ed',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Komoren',
     NOW()
   ),
   (
-    '476148a6-5aee-4a3b-86a2-5f821a1eed93',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    'b0716c5e-2fb0-4dcf-a5f7-661af3c55770',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Comoras',
     NOW()
   ),
   (
-    '7f9c8971-82d8-4d59-ac6a-504999613c5b',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
+    '32ba472e-1a4a-44dc-91cb-6c69e3917af0',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
     'Comores',
     NOW()
   ),
   (
-    'e722a9fb-f06a-4c13-b71a-dcf10f84cc7b',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
-    'ç§‘æ‘©ç½—',
+    'b28c53f1-cfb4-4531-8a66-a2ea120d006f',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
+    '科摩罗',
     NOW()
   ),
   (
-    'e26fae39-21af-42b1-b5f0-ece2c0b7b191',
-    '0fcabe0e-a811-49f7-be55-3780970dafe4',
-    'ÐšÐ¾Ð¼Ð¾Ñ€Ñ‹',
+    '5b0a07c8-ce73-4bd3-8949-2110a5f9a994',
+    '47de30e7-4d27-4d88-9e7f-f9d09f7bb373',
+    'Коморы',
     NOW()
   ),
   (
-    '755b29aa-3ce1-499c-b21a-fc9fda8a1686',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '5c92780a-72af-4c32-847c-de409dbb0d5f',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'Colombia',
     NOW()
   ),
   (
-    'b538317c-0034-4e6d-814f-0a48a9971f58',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '46d79cee-e19e-4333-8bec-19230a21db9c',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'Republic of Colombia',
     NOW()
   ),
   (
-    '3436bea8-7c44-4af8-9c17-c358e97b02ad',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '3ee70d4f-e2ef-4aae-865d-bb6b6b055b74',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'Col.',
     NOW()
   ),
   (
-    '20c973ce-d9bb-42ea-8722-dd470f53acbd',
-    '0c08b402-4401-4463-97bd-69718382014a',
-    'ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§',
+    '440a0df5-a50d-41a0-a1ae-a74430d3b447',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
+    'كولومبيا',
     NOW()
   ),
   (
-    '2c43f0a7-29fc-4d71-9ac0-8a5bb2914469',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    '5d718480-b8db-4251-aa95-6bfafe737274',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'Kolumbien',
     NOW()
   ),
   (
-    '5d9a79e7-7f30-42a3-ac27-a949826056b2',
-    '0c08b402-4401-4463-97bd-69718382014a',
+    'eec33cf5-6236-4cb1-b92c-16d767c7dfcd',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
     'Colombie',
     NOW()
   ),
   (
-    'daea4152-d4fb-418a-8eb3-b1623ab7ba3f',
-    '0c08b402-4401-4463-97bd-69718382014a',
-    'å“¥ä¼¦æ¯”äºš',
+    '4c1bad1e-1ecb-4eec-a2a4-cde7247133bc',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
+    '哥伦比亚',
     NOW()
   ),
   (
-    'c64fd494-7239-485e-8606-5a09956d5c2b',
-    '0c08b402-4401-4463-97bd-69718382014a',
-    'ÐšÐ¾Ð»ÑƒÐ¼Ð±Ð¸Ñ',
+    'e415713e-df3b-41aa-b7e9-4e6f4af896b3',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
+    'Колумбия',
     NOW()
   ),
   (
-    '8f28647e-3f12-4183-9a86-e230614b2d18',
-    '0c08b402-4401-4463-97bd-69718382014a',
-    'ColÃ´mbia',
+    'ec5c8ccb-1600-4805-a0d8-aa2f5cd2016d',
+    '1e712ca4-1a3b-49f1-8474-8efe3f6a88c1',
+    'Colômbia',
     NOW()
   ),
   (
-    'be0fd530-aa9f-4882-880e-08510c7f4bbf',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    'd416e165-4e6f-4894-9ff8-a121f851d297',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'China',
     NOW()
   ),
   (
-    'e13f145b-430d-44b7-90cb-5f2daad85793',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '86e7f036-3333-485f-9c8f-60d1cc98eaa1',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'People''s Republic of China',
     NOW()
   ),
   (
-    '832f09c2-e2cd-4d2b-81fd-145cb959cd48',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
-    'Ø§Ù„ØµÙŠÙ†',
+    '21d8548a-b3c4-409a-9a85-dbc175c7b7b4',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
+    'الصين',
     NOW()
   ),
   (
-    'fb4dd3a7-6e6c-4d27-a7f9-9231e0fdbde8',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
+    '4203c5a7-14d8-41d1-bbbc-2c496c93f85d',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
     'Volksrepublik China',
     NOW()
   ),
   (
-    '340d82fa-5737-4f07-97d4-ca628f6d53ec',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
-    'RÃ©publique populaire de Chine',
+    '80b00df8-d4b1-46f7-bcf8-67f786135220',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
+    'République populaire de Chine',
     NOW()
   ),
   (
-    'e9642b08-7fad-48d3-9f37-98e7a1ee55f9',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
-    'ä¸­åŽäººæ°‘å…±å’Œå›½',
+    '8d27f000-2891-4a11-b693-e2f70f3b78e5',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
+    '中华人民共和国',
     NOW()
   ),
   (
-    'b7f160d1-e947-4ad5-bd58-d7287b3f0728',
-    'bb55e489-498a-445e-ac97-4bb089c11c64',
-    'ÐšÐ¸Ñ‚Ð°Ð¹ÑÐºÐ°Ñ ÐÐ°Ñ€Ð¾Ð´Ð½Ð°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
+    '66417bcc-5cc4-4c50-821e-4755b267ac6b',
+    '59245cae-f187-4793-83d6-e929afaab1e6',
+    'Китайская Народная Республика',
     NOW()
   ),
   (
-    '1d6c14a1-53de-417a-ab83-7344628ddc3e',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '49ec1ff6-b2f6-4a64-9867-c708427992f2',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'Macao',
     NOW()
   ),
   (
-    'ed11c004-a5d5-476f-8ddb-bfa00efa678a',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '8371d53d-4c58-413a-8454-84134f3c228f',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'Macao Special Administrative Region, PRC',
     NOW()
   ),
   (
-    'de9a3377-826e-4f0a-ab88-498e85e482cd',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'eb0cde3b-9149-463c-b473-075295dcb441',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'Macao S.A.R',
     NOW()
   ),
   (
-    'f3d02f5d-cfd5-4572-8b0f-27f236e0a6f8',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'a71fac6e-6110-45ae-b36e-2cbfc535f794',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'China',
     NOW()
   ),
   (
-    '395a9bb9-8f33-4734-b3b8-29f8f4fb79c1',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    'fd6611c5-1b42-499a-a12a-a9ce5f65edce',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'Mac.',
     NOW()
   ),
   (
-    'c8eb2711-c5bf-4326-8876-d91414f6e34f',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
-    'Ù…Ø§ÙƒØ§Ùˆ',
+    '3011212b-261f-4dc6-91da-29b3a50ff718',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
+    'ماكاو',
     NOW()
   ),
   (
-    '3d562a29-2e04-46ad-a48f-7c4433f5db86',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
+    '9a10bacf-f700-4f15-8e0d-ff457dd864d3',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
     'Macau',
     NOW()
   ),
   (
-    '4bc2b7b9-07ff-4358-a2e1-fc69daf1f4bb',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
-    'æ¾³é—¨',
+    '11834757-0d81-4552-a4e1-1ff5f710808e',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
+    '澳门',
     NOW()
   ),
   (
-    'fed62584-38fc-4428-a2c6-c3a434cc3ca0',
-    '84f540ec-97d9-4615-8462-179b57a332ad',
-    'ÐœÐ°ÐºÐ°Ð¾',
+    '91f8885e-73dd-4001-a78e-1e949ef3b290',
+    '7bcea498-6794-407e-ab0c-0f42b90800be',
+    'Макао',
     NOW()
   ),
   (
-    '84c5a89c-e4cd-4ab5-85f1-269eb7ed638e',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'c5de35b7-5154-4c34-a3f3-001b8240a9c5',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'Hong Kong',
     NOW()
   ),
   (
-    '915c06dc-8f50-41c1-8611-b93f9825e77b',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'b628e59f-136b-4093-9ac7-0b2a01978c6e',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'Hong Kong Special Administrative Region, PRC',
     NOW()
   ),
   (
-    'a2d36cf4-e8b3-43b0-9cff-c286bf3c5daa',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '2bdc4abb-e673-4f79-a073-dbf90e503ebd',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'Hong Kong S.A.R.',
     NOW()
   ),
   (
-    'c553eaef-2865-497a-86d1-6af1429f7027',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'e15a5621-8e9f-449c-9c85-841063776e30',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'China',
     NOW()
   ),
   (
-    'bb24da44-655b-40b0-b5fe-14204455db50',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    '9db3f736-799d-4078-b1be-932d194a43be',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'H.K.',
     NOW()
   ),
   (
-    '2c47e9b3-1b7a-471c-bf72-c0ad4e9117f6',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
-    'Ù‡ÙˆÙ†Øº ÙƒÙˆÙ†Øº',
+    '253f1b59-2f1c-4717-9bdf-3ec6cb88869b',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
+    'هونغ كونغ',
     NOW()
   ),
   (
-    '1561533a-be37-4a12-9391-190907832cbc',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
+    'd555fe9c-0f71-442a-9468-d76232b190e7',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
     'Hongkong',
     NOW()
   ),
   (
-    'b70149e9-3efa-4140-a59b-bd65de54cea1',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
-    'é¦™æ¸¯',
+    'fc5a0a0f-ac63-469c-8ded-773e5b312108',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
+    '香港',
     NOW()
   ),
   (
-    'bb4ee43a-641d-4ee1-ac56-19f3357e2345',
-    '748a0bc4-9a75-426c-837d-38e92c9ff73a',
-    'Ð“Ð¾Ð½ÐºÐ¾Ð½Ð³',
+    '62584f10-9cb7-4a41-82b5-cd68d1fb6859',
+    '07123a40-d2fa-4585-9c87-5af39df5158f',
+    'Гонконг',
     NOW()
   ),
   (
-    'b2d4ccd2-27f8-4958-bfcb-beaa84125a90',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'f363f4e8-cce9-4bfb-babd-fedbf61a6664',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'Chile',
     NOW()
   ),
   (
-    '8a1aadb3-ba74-4d47-9469-f4657d74e46d',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    '408e2cc0-fd49-4229-9223-d724f7bf9d78',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'Republic of Chile',
     NOW()
   ),
   (
-    '4257314b-1207-4119-b329-56ee6aa58d5d',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
-    'ØªØ´ÙŠÙ„ÙŠ',
+    '9d92d0a7-2c22-4aa7-ba8e-e7d2ba1ef1bd',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
+    'تشيلي',
     NOW()
   ),
   (
-    'e23dd74e-4e3f-41e9-9e74-3d63028a3d3e',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
+    'f6c41bc1-8403-41e4-a4cb-adec7b261ef8',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
     'Chili',
     NOW()
   ),
   (
-    'c5a80428-96e1-4b55-9dc6-166a9b3b71a1',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
-    'æ™ºåˆ©',
+    '1db14c10-8802-45c8-81c2-59f3df75f1c6',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
+    '智利',
     NOW()
   ),
   (
-    '977ca3d0-61ea-4020-98d8-f0becefb4fa4',
-    'd5aee03d-3d3a-4b0e-84d2-51d6d6a6b85d',
-    'Ð§Ð¸Ð»Ð¸',
+    '369e7cd5-00ea-4823-9af3-ebb987923577',
+    '175e6ccd-3cab-4e55-8549-8f3abee3621a',
+    'Чили',
     NOW()
   ),
   (
-    '19167381-aa54-4dd0-b66a-3046bea5710b',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'c3db6c4d-815c-4a7b-89f4-15bbf531083f',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'Chad',
     NOW()
   ),
   (
-    '6d4c1284-d0e5-4397-8d90-eee04a45796f',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '47d3ece0-e9a5-4e1b-aef6-e62a128ea985',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'Republic of Chad',
     NOW()
   ),
   (
-    'c4d43d52-95aa-45a8-bedd-93fbdde7a5c4',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
-    'ØªØ´Ø§Ø¯',
+    'bf5a67f9-22a0-44b4-b050-225103bbf58e',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
+    'تشاد',
     NOW()
   ),
   (
-    '955b401e-fce4-4a24-bbf8-7f020a668294',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    '8316ee0c-05ae-47b2-9530-463aa276e37d',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'Tschad',
     NOW()
   ),
   (
-    'ad98aa8a-99e2-4070-9266-a064fa3ef120',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'cfeff2db-2587-40c9-8940-04f86e60359f',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'Tchad',
     NOW()
   ),
   (
-    '59ab909a-341c-4147-9da9-c6c663bb9996',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
-    'ä¹å¾—',
+    'c595f9c6-3d12-4688-8656-bdbdf2d95ea7',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
+    '乍得',
     NOW()
   ),
   (
-    '94c8baf6-e0bb-49b1-904a-2c3631c82bdc',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
-    'Ð§Ð°Ð´',
+    '33be7d76-4982-4d13-8aac-a767b1c87950',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
+    'Чад',
     NOW()
   ),
   (
-    'c96bb137-7353-46f2-ba11-b7f60173b371',
-    '3a7feb7a-7ba2-41ff-ae16-d77cdd057de0',
+    'bf6044d6-7352-4866-8816-0a4a5d86af49',
+    'd3234869-e377-4853-9b00-99cff71ee33b',
     'Chade',
     NOW()
   ),
   (
-    '74d252d8-3b6d-4833-b91c-00e5cfd60e0e',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '4a31d92b-a658-4538-af43-debe09300dab',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'Central African Rep.',
     NOW()
   ),
   (
-    '0f4e270a-6746-433d-bf77-2884d1616f07',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '0727c87c-59fa-4f31-b80b-4aa7c271cd4e',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'Central African Republic',
     NOW()
   ),
   (
-    'e60770ca-8948-4e7e-a076-084839bdf8f0',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '5e532d50-c3e2-47eb-b9d9-59778ce263f3',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'C.A.R.',
     NOW()
   ),
   (
-    '1b61c6bc-0781-4d8f-807f-589694150ed2',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'Ø¬Ù…Ù‡ÙˆØ±ÙŠØ© Ø£ÙØ±ÙŠÙ‚ÙŠØ§ Ø§Ù„ÙˆØ³Ø·Ù‰',
+    '2540ee44-0dce-455e-b8ed-2fda6fb55e83',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    'جمهورية أفريقيا الوسطى',
     NOW()
   ),
   (
-    'a8b5ef79-ac68-4e89-becd-ecc2fcf017cc',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
+    '63e2a320-ee5f-47ca-a802-6c959408a18e',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
     'Zentralafrikanische Republik',
     NOW()
   ),
   (
-    '88c6db10-22e7-47f1-a78c-df2b776e795c',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'RepÃºblica Centroafricana',
+    '05f44d45-cfc1-4b09-a1a5-77fb9d0faa03',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    'República Centroafricana',
     NOW()
   ),
   (
-    '4303057a-f192-4554-bea3-1d8e7a23f9c3',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'RÃ©publique centrafricaine',
+    '0d7a7348-87b6-4a27-add1-bd503503e8f7',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    'République centrafricaine',
     NOW()
   ),
   (
-    'ee549468-ca5c-452e-b83d-69e359b2b1c8',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'ä¸­éžå…±å’Œå›½',
+    '4e1d7ef9-44bf-4532-a98c-be05ee987137',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    '中非共和国',
     NOW()
   ),
   (
-    'df0e46a4-ef80-4c5b-891c-edff569a5da5',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'Ð¦ÐµÐ½Ñ‚Ñ€Ð°Ð»ÑŒÐ½Ð¾Ð°Ñ„Ñ€Ð¸ÐºÐ°Ð½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°',
+    'b39f1196-45d1-45ff-81d8-31733cb980ab',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    'Центральноафриканская Республика',
     NOW()
   ),
   (
-    'd6afb561-260b-4d87-91b7-b40181138ffa',
-    '085fae16-0a95-4a48-9b8a-8856e82066fd',
-    'RepÃºblica Centro-Africana',
+    '6939c3f2-2e08-4c13-875d-927c2ff92158',
+    'fa6ac756-9ea6-470e-87b0-c0e010da4317',
+    'República Centro-Africana',
     NOW()
   ),
   (
-    '836e7711-d272-44d1-ae6e-8e846a7db884',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'c7c0e115-07f8-43da-ae6b-f9df44118e08',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'Cabo Verde',
     NOW()
   ),
   (
-    '9b164ef5-905f-410d-a6d9-4e307fc429e0',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '445dcc3e-83d8-4753-be70-618bc2287b26',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'Republic of Cabo Verde',
     NOW()
   ),
   (
-    'a21161b8-764e-4b5e-8ff4-78160b79db30',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '8a1388e2-d49f-4a0b-b024-1770fad216c5',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'C.Vd.',
     NOW()
   ),
   (
-    '15b01847-c40d-4216-896a-eb9d9977b879',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
-    'Ø§Ù„Ø±Ø£Ø³ Ø§Ù„Ø£Ø®Ø¶Ø±',
+    '4526a97e-71f4-4180-a5e9-d4aaf12c8824',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
+    'الرأس الأخضر',
     NOW()
   ),
   (
-    'be495ffc-7f60-46d6-a3fc-fbe412b6831c',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    '49d4c74e-0bb5-47ef-b6b4-ce241a79ebaf',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'Kap Verde',
     NOW()
   ),
   (
-    '8d41a6ce-840b-40f4-be75-5efbb769bc52',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
+    'de6509c2-ff7b-4d83-9390-fe7b2d39e266',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
     'Cap-Vert',
     NOW()
   ),
   (
-    '48e9ee82-d1f6-4978-884d-aae966b885e3',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
-    'ä½›å¾—è§’',
+    'cb542a99-0108-461e-be18-06c5efd2ac53',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
+    '佛得角',
     NOW()
   ),
   (
-    '79702e55-db3a-475b-9b07-0e1d23c109e2',
-    '90f1ee7c-41ac-4060-9790-a578baa0fce2',
-    'ÐšÐ°Ð±Ð¾-Ð’ÐµÑ€Ð´Ðµ',
+    '0d327bf7-9118-4149-abfc-33ea81ec36a7',
+    'e707a9ba-3d2b-4379-8a6a-e3f18570ca86',
+    'Кабо-Верде',
     NOW()
   ),
   (
-    'a3c7557d-3f7e-4ac4-b546-e37e0da1f522',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    '6880f4be-dc82-46a6-8d82-0c5ca4422b31',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'Canada',
     NOW()
   ),
   (
-    '847e0b1a-cd46-4d02-b4a8-2f3b270fdad3',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'c6cd8bd5-1c67-4579-a042-eed4bb6c418f',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'Can.',
     NOW()
   ),
   (
-    '5546af24-d05e-4183-b60a-a874982306d4',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
-    'ÙƒÙ†Ø¯Ø§',
+    'a062b2d9-2701-4ab5-9416-7a05db9f2003',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
+    'كندا',
     NOW()
   ),
   (
-    '9d239de4-4650-405e-9125-d135dda5a63f',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
+    'cf8b2226-5a64-4e4a-b7c5-04a3fe15491f',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
     'Kanada',
     NOW()
   ),
   (
-    '3d9a3216-f3f8-41ba-9f4c-d9fbf46b4c88',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
-    'CanadÃ¡',
+    'eadfbca0-75ce-4727-acfb-ee1a1b234154',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
+    'Canadá',
     NOW()
   ),
   (
-    '48a25cf6-7a6c-461e-b837-ba9028400e74',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
-    'åŠ æ‹¿å¤§',
+    '5f117f43-2435-49fb-a6ef-f66dc87b7df5',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
+    '加拿大',
     NOW()
   ),
   (
-    '49636e7d-50e4-4016-b3c1-de2f576c3431',
-    '85174608-ecc4-4fcf-8356-af8cb7d35108',
-    'ÐšÐ°Ð½Ð°Ð´Ð°',
+    'dd688b7e-9259-4d22-b1c0-da2e889d517a',
+    '63fa5d30-ec4f-40f2-b5b8-0931a99c5b56',
+    'Канада',
     NOW()
   ),
   (
-    '5a0d74a3-27b7-4e6d-b21b-eab35209e98a',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '78170bc8-b079-45a6-af56-796f6d73fd0b',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'Cameroon',
     NOW()
   ),
   (
-    '77069ef8-9587-409a-9684-ba3ab27e6a35',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    'c031c702-ff4c-407c-9105-2196dad164a9',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'Republic of Cameroon',
     NOW()
   ),
   (
-    'fd544020-ac44-4044-8994-225897885ff2',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '4d894ac3-b9f2-42b6-a603-e15e33023ed0',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'Cam.',
     NOW()
   ),
   (
-    '33f763d5-a4ba-4116-80ca-9fd668df2df4',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
-    'Ø§Ù„ÙƒØ§Ù…ÙŠØ±ÙˆÙ†',
+    '3be714ab-5e9b-4e6f-9dd8-0e854c1a49c0',
+    '93424f09-49a8-4821-b24f-a816524badf0',
+    'الكاميرون',
     NOW()
   ),
   (
-    '7d614319-82b1-4fd8-8176-264c4ed43c31',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '904097b0-2319-49d3-b266-28c109648458',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'Kamerun',
     NOW()
   ),
   (
-    '0b63c002-5fce-4167-ada4-38d17f1de241',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
-    'CamerÃºn',
+    'c5d6b0cd-786e-4341-93e7-942e2b686795',
+    '93424f09-49a8-4821-b24f-a816524badf0',
+    'Camerún',
     NOW()
   ),
   (
-    '59d4f7da-91a4-47db-8d7c-0ea3589887e6',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
+    '5f5d6a49-3141-44af-aac1-2b479ba4d006',
+    '93424f09-49a8-4821-b24f-a816524badf0',
     'Cameroun',
     NOW()
   ),
   (
-    'dd0a2e2f-83c4-4901-9d33-f86961fb1667',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
-    'å–€éº¦éš†',
+    'e5dbc4c7-f823-49bd-b0c6-61a42d813e4b',
+    '93424f09-49a8-4821-b24f-a816524badf0',
+    '喀麦隆',
     NOW()
   ),
   (
-    'ca361749-9327-407e-a9bd-b6d4addacada',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
-    'ÐšÐ°Ð¼ÐµÑ€ÑƒÐ½',
+    'b892119f-bd3f-488b-a6e3-24df3f114f30',
+    '93424f09-49a8-4821-b24f-a816524badf0',
+    'Камерун',
     NOW()
   ),
   (
-    '0fe89de9-0000-408a-9e7c-f81316ed1691',
-    'ea71a127-43d2-4564-8f80-86d32996c599',
-    'CamarÃµes',
+    '0770863e-156f-4726-935a-df40fcf237b7',
+    '93424f09-49a8-4821-b24f-a816524badf0',
+    'Camarões',
     NOW()
   ),
   (
-    'a02f7cb5-2c15-460a-a004-d4d79186a3dc',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '5ab3ed91-9667-4fbb-b012-6dcfde08c3be',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Cambodia',
     NOW()
   ),
   (
-    '2fb00f68-8efc-4b9b-92ad-48dec066ffee',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '275f0fb3-15ea-4520-8343-b2b9cd8c0d64',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Kingdom of Cambodia',
     NOW()
   ),
   (
-    '35a2dbb8-a93e-4ea8-9374-7b9165b71bf8',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '421b8548-92c9-4629-b7b8-692fcd2714c6',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Camb.',
     NOW()
   ),
   (
-    'dfbdba1c-9efd-4e8b-86a3-439291cab40d',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
-    'ÙƒÙ…Ø¨ÙˆØ¯ÙŠØ§',
+    '0e12e7ce-4a14-4ff1-a503-0b667f83c656',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
+    'كمبوديا',
     NOW()
   ),
   (
-    'c7a4d84c-7d1b-4bd6-8f58-fcd982ec9db3',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '1dd5753c-0d3f-44dc-8647-397979d1410b',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Kambodscha',
     NOW()
   ),
   (
-    'b33a493e-0c9f-4f8c-be0a-b937e13201a7',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '3ee16c59-2163-4236-a020-5265158db7f3',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Camboya',
     NOW()
   ),
   (
-    'f0b9ce0b-ba86-4414-84c6-f471d9988fdc',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    'c8e6fb80-6c23-4169-ace3-783cc1dab975',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Cambodge',
     NOW()
   ),
   (
-    '10187bcb-d990-4579-a86b-604d877a0d66',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
-    'æŸ¬åŸ”å¯¨',
+    '3800d9fc-b828-4711-b721-b48db158cbe8',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
+    '柬埔寨',
     NOW()
   ),
   (
-    '8ad885c9-6aae-4b5f-a75b-03177405a72b',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
-    'ÐšÐ°Ð¼Ð±Ð¾Ð´Ð¶Ð°',
+    '49b9935d-0ab6-4df5-8b10-dc640e428ef9',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
+    'Камбоджа',
     NOW()
   ),
   (
-    '1f578240-fa8e-4ec9-84d8-1d54798b9402',
-    '15e5b8c8-7439-426a-bbdb-aeae0998ec45',
+    '85c40647-0122-4313-be32-6aa6d86bf61a',
+    '7d42d962-91a4-45af-b682-c4e41c3621b3',
     'Camboja',
     NOW()
   ),
   (
-    'eb7fb19f-2e2f-4f99-966a-a973a14a1075',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'b532619f-0756-4b68-90eb-c790888d9b79',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'Myanmar',
     NOW()
   ),
   (
-    '8f0d2aa8-db69-4ba3-be59-0d01f0e535bb',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'd3752b1a-a2f0-46e4-94af-2f50501541f9',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'Republic of the Union of Myanmar',
     NOW()
   ),
   (
-    '87f94772-90bf-4412-b779-b24700f99d0c',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '30a1c2c7-809a-4981-9ce8-d76e9c6c308a',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'Myan.',
     NOW()
   ),
   (
-    '242b6c62-ab77-4b6f-9df8-4895e17aa6eb',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
-    'Ù…ÙŠØ§Ù†Ù…Ø§Ø±',
+    '68c8103a-c228-4198-a0ed-3f2e150ea0d6',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
+    'ميانمار',
     NOW()
   ),
   (
-    'd9547f77-c752-4c97-9eff-c4989b9a5f09',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    '9bbf102a-cf89-40de-9d9b-14b0ad4c36f7',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'Birmania',
     NOW()
   ),
   (
-    'a25686b1-a40f-43e0-ba20-1d4e83f46665',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
+    'bf72e49b-abd9-43de-882c-361e05fa56a5',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
     'Birmanie',
     NOW()
   ),
   (
-    'c352eb32-6bef-4f0d-8c88-3cf42db961c5',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
-    'ç¼…ç”¸',
+    'b58f6744-731e-4524-9cea-96cb8c1be002',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
+    '缅甸',
     NOW()
   ),
   (
-    '5a55119a-ed53-4a30-80ce-41107e3b809b',
-    '0f209750-5c46-49e0-9d35-c90b9e64b44a',
-    'ÐœÑŒÑÐ½Ð¼Ð°',
+    '51659f9b-ec1e-4af5-9132-8794d47d61da',
+    '511c0816-62fc-4d31-bd50-b1424c3f6f5f',
+    'Мьянма',
     NOW()
   ),
   (
-    '923d3a90-c5ab-42ab-b6ba-db7627eb965e',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '0a4fb262-3781-4d65-96b6-2cd3167c10e9',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'Burundi',
     NOW()
   ),
   (
-    '40b67132-6eee-4a1a-9c95-ca71147c1cb0',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '7c79c91a-33a4-4ebb-8d5e-76c5ac3d9b9c',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'Republic of Burundi',
     NOW()
   ),
   (
-    '43c3df0f-f680-40a4-baa3-bfd00c15ea31',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
+    '6043e24d-38b9-405f-b17b-62a6a8a3e53d',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
     'Bur.',
     NOW()
   ),
   (
-    'ee391daa-5eb2-4175-9880-b54975b6a9ef',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
-    'Ø¨ÙˆØ±ÙˆÙ†Ø¯ÙŠ',
+    '39a0cc2b-aaaf-418c-ad0d-5f3f393a4e11',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
+    'بوروندي',
     NOW()
   ),
   (
-    'e4f47204-62f3-487c-9067-843225d38c34',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
-    'å¸ƒéš†è¿ª',
+    'cf7b4253-5dc4-412a-ad51-f7aec282e916',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
+    '布隆迪',
     NOW()
   ),
   (
-    'a30474e6-f350-42c9-83e8-af361495eb54',
-    '3ee378f8-3bf5-4f8b-a48b-a9fe7611c0e5',
-    'Ð‘ÑƒÑ€ÑƒÐ½Ð´Ð¸',
+    'abb840fa-4008-4142-9f17-f70e83905c12',
+    '41affb37-08f6-4233-8afe-cc28cb12fe4a',
+    'Бурунди',
     NOW()
   ),
   (
-    '9566867d-bccc-4f14-a426-2ce67312af92',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    'acc6031a-71cf-4538-9d71-41dffed73ed0',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'Burkina Faso',
     NOW()
   ),
   (
-    '28756367-0076-4fcd-abd6-b20cd3ee290a',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
+    '1d732cca-0a94-4e0c-9ccd-d9e69b78a750',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
     'B.F.',
     NOW()
   ),
   (
-    'f6780c93-af19-48ba-9ea6-be02ffcb8797',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
-    'Ø¨ÙˆØ±ÙƒÙŠÙ†Ø§ ÙØ§Ø³Ùˆ',
+    'c8842fe1-aa38-4e4a-bcc3-8dbb79612593',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
+    'بوركينا فاسو',
     NOW()
   ),
   (
-    'eccf3045-0793-441a-9fec-b1fb335c1316',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
-    'å¸ƒåŸºçº³æ³•ç´¢',
+    '298d2076-2a4b-4e1c-8a4a-be69ff2ef25a',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
+    '布基纳法索',
     NOW()
   ),
   (
-    '828fb8ed-965a-484d-92d8-31bab84a56b3',
-    'abb7ee88-3a4c-468c-8404-0f22c1fd0d3d',
-    'Ð‘ÑƒÑ€ÐºÐ¸Ð½Ð°-Ð¤Ð°ÑÐ¾',
+    'aef47b71-cf99-44cc-8d82-0b3c2e09d906',
+    'd3567c16-0c8d-4202-9d88-93b429023b7a',
+    'Буркина-Фасо',
     NOW()
   ),
   (
-    '0d72520f-8bb2-43df-8759-ac18e2ba92af',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '4c22b76c-17ed-4329-9ba4-f86074724ef1',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'Bulgaria',
     NOW()
   ),
   (
-    'b6baff98-469a-47e1-afe0-52501402a1ab',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    'b542aeb8-a842-40ff-8c78-f631c2879330',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'Republic of Bulgaria',
     NOW()
   ),
   (
-    '71c1a025-8768-48b5-845f-f1228401a4df',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '6b4eb75d-ec3e-4daa-b053-ba71b881e7fe',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'Bulg.',
     NOW()
   ),
   (
-    '46fc55bf-d7d5-44bf-9bfb-4398479651ba',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
-    'Ø¨Ù„ØºØ§Ø±ÙŠØ§',
+    'e13608b7-1f6a-42f8-a327-5dbf75ac6f9c',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
+    'بلغاريا',
     NOW()
   ),
   (
-    '31f8c82d-4142-4ca5-994c-4237f487facc',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '2040e511-bc2f-4d3e-a4df-13bdb7f9ee68',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'Bulgarien',
     NOW()
   ),
   (
-    '48138a45-d853-4203-a363-9206f2559a78',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
+    '9e73a662-720a-41df-b060-336f4c096712',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
     'Bulgarie',
     NOW()
   ),
   (
-    'a94ac10c-59a8-4959-81a2-ac5e927cb11a',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
-    'ä¿åŠ åˆ©äºš',
+    '7e4c7117-4aba-48cc-b652-067cdd65bb84',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
+    '保加利亚',
     NOW()
   ),
   (
-    'c9556dcc-0070-4152-afe0-1b58423b0b59',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
-    'Ð‘Ð¾Ð»Ð³Ð°Ñ€Ð¸Ñ',
+    '2ae851be-d29a-43b7-b882-b2ce4cdcf03c',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
+    'Болгария',
     NOW()
   ),
   (
-    '0a693ec1-7a1a-44b8-932f-88941b29fdd2',
-    '59492f7c-0f28-4332-b6a1-72a194e94f50',
-    'BulgÃ¡ria',
+    '3f4123bd-06fc-4983-b111-fcd6518f15db',
+    '543a5300-2408-4eba-8e79-ca18c96d4d30',
+    'Bulgária',
     NOW()
   ),
   (
-    '24594603-a806-451f-a9b1-28f5ff2912cd',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '09cec2e4-39cd-422b-b510-ae7c4129a922',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'Brunei',
     NOW()
   ),
   (
-    '05c009e8-3d8a-48e0-a2f0-eeb80114d69b',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    '44fe3f87-e016-4dbd-86fe-cbf5391e9007',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'Brunei Darussalam',
     NOW()
   ),
   (
-    '1bd43c7d-bf94-4a14-ac81-2ac88889a168',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
+    'ec3d4151-d227-4525-a919-bce65b818b2b',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
     'Negara Brunei Darussalam',
     NOW()
   ),
   (
-    '093b5936-0ac2-4373-b73d-3dab01a1c4d8',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
-    'Ø¨Ø±ÙˆÙ†Ø§ÙŠ',
+    'f63f2e0a-c56f-489d-9bbf-cc722dbc0af4',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
+    'بروناي',
     NOW()
   ),
   (
-    'ca68e5bd-7c97-4a76-9d5b-dc9a5355aa5b',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
-    'BrunÃ©i',
+    'fba3e818-0a51-4a06-8a41-ea78a1b20ab8',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
+    'Brunéi',
     NOW()
   ),
   (
-    'bd05a14f-fcb7-4e84-b228-483a611aa759',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
-    'æ–‡èŽ±',
+    '3cee8984-c9f8-4979-b8ed-aa863cf03b0c',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
+    '文莱',
     NOW()
   ),
   (
-    'd3469727-2f85-4feb-9957-9b9056551b55',
-    'ea2da9c9-8ac8-4051-9254-82334be24903',
-    'Ð‘Ñ€ÑƒÐ½ÐµÐ¹',
+    '494f5506-3423-4013-878a-3e5fd858d81e',
+    '3f55b74d-17bb-4efb-9153-4fd5bb835ddb',
+    'Бруней',
     NOW()
   ),
   (
-    '69dc2e97-c422-46a8-b148-6763f08de0e2',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    'ab7d49a9-b3ee-474b-baad-3994da0a8de5',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'Brazil',
     NOW()
   ),
   (
-    'db560542-f53c-4313-9212-a0b3947c1d78',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '2f01f414-ecac-442b-ba3a-78212c55f7d5',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'Federative Republic of Brazil',
     NOW()
   ),
   (
-    '584c0606-febc-4951-98d1-8fce59a8594a',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
-    'Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„',
+    '873a69c7-3ad5-4764-86aa-1903e8b05b2e',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
+    'البرازيل',
     NOW()
   ),
   (
-    'e909608e-75ba-4a59-8d97-21906358952e',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '86830990-7c48-4315-bbec-63f7cbeb7f94',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'Brasilien',
     NOW()
   ),
   (
-    'cf75cb1a-2853-430f-934d-46bb58d27488',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
+    '0aad6f6e-7683-4b21-865c-18da93b5f9e4',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
     'Brasil',
     NOW()
   ),
   (
-    'f943eb38-b4de-425a-a52a-9fe1ec8c13e8',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
-    'BrÃ©sil',
+    '7e07e2f8-6d69-4656-8887-863450be4bcc',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
+    'Brésil',
     NOW()
   ),
   (
-    'ccda26fd-6f28-4087-a592-157ca036fa87',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
-    'å·´è¥¿',
+    'f2ff6555-58dd-42d7-b955-615f6585a29b',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
+    '巴西',
     NOW()
   ),
   (
-    'a45fc145-86f1-4510-abb9-ba1f373d93e2',
-    '412bb546-c1f5-4ef6-b15b-5927971cfa3f',
-    'Ð‘Ñ€Ð°Ð·Ð¸Ð»Ð¸Ñ',
+    '45cc9e7a-60a2-451f-9e44-c12ce6732ae5',
+    '91d284fe-d205-4634-93c4-b48280d8ecf1',
+    'Бразилия',
     NOW()
   ),
   (
-    '1b789ed1-dbdb-4dd7-a513-1648da913ad4',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'ce6c00ff-f55b-4a73-8ff5-614c83f81cac',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'Botswana',
     NOW()
   ),
   (
-    'b6221450-24b8-4216-ae96-a8b72e70fa6e',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '2baa7dd7-3444-4a2f-af76-cedd3871fd3d',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'Republic of Botswana',
     NOW()
   ),
   (
-    'b7c541ec-e8fa-4e7d-a151-f36c93fa6a68',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    '03be1a60-f475-4d76-a887-9df17af2e556',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'Bwa.',
     NOW()
   ),
   (
-    'b6841049-18af-4c27-94c9-5bf3fc1f375b',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
-    'Ø¨ÙˆØªØ³ÙˆØ§Ù†Ø§',
+    '30faabf6-ffc2-4c4f-ae47-d8b93bde980c',
+    '1076fe86-9538-4145-8e07-2791299f496d',
+    'بوتسوانا',
     NOW()
   ),
   (
-    'b1cb3695-587a-401c-8525-1befc8312162',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
+    'a6738bbe-5e0f-4cad-bcb1-973acab5a42d',
+    '1076fe86-9538-4145-8e07-2791299f496d',
     'Botsuana',
     NOW()
   ),
   (
-    'd3e562f0-df58-406f-b25e-6e4914afeb64',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
-    'åšèŒ¨ç“¦çº³',
+    '201041bb-6cca-40fe-8a75-169fdec73053',
+    '1076fe86-9538-4145-8e07-2791299f496d',
+    '博茨瓦纳',
     NOW()
   ),
   (
-    '826194d8-e8ab-48c9-aa1c-b12c32c0bd53',
-    '18cd2b5c-0173-417f-bb07-06b8e1208b7f',
-    'Ð‘Ð¾Ñ‚ÑÐ²Ð°Ð½Ð°',
+    '0ed96878-5d5d-46e7-b1ec-592836fe6252',
+    '1076fe86-9538-4145-8e07-2791299f496d',
+    'Ботсвана',
     NOW()
   ),
   (
-    '2d9ed512-4d51-40df-9f5b-3717d5f1ec25',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '0a6c8a56-e429-4756-a9ef-fdc2c6fca92a',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'Bosnia and Herz.',
     NOW()
   ),
   (
-    '54d20243-2ec0-4f51-8eaa-fc250d89ced2',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'da1b19f1-0c28-4f62-a54c-2c154dc85ce5',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'Bosnia and Herzegovina',
     NOW()
   ),
   (
-    '0ef6ea9f-4b06-44ac-9be1-de1fbb4b11e4',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '5a13f847-ed6a-4767-887d-2c726de01fbc',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'B.H.',
     NOW()
   ),
   (
-    'f50fb58c-4f81-4497-a42d-13d27135da16',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
-    'Ø§Ù„Ø¨ÙˆØ³Ù†Ø© ÙˆØ§Ù„Ù‡Ø±Ø³Ùƒ',
+    '849e7123-af76-4b8b-9b5a-cb62c895e8fb',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
+    'البوسنة والهرسك',
     NOW()
   ),
   (
-    '513e21d1-832d-4609-9b9e-bf268b6f516b',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    'a747562c-c6d9-4c68-8578-5d2a299f0c8b',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'Bosnien und Herzegowina',
     NOW()
   ),
   (
-    '0c4ef3af-2947-472a-a13a-211a0708ab9a',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
+    '87c423ed-621b-4c06-9df6-7f27b2345f34',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
     'Bosnia y Herzegovina',
     NOW()
   ),
   (
-    '70abc0b9-1a90-4396-870b-389475df7f71',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
-    'Bosnie-HerzÃ©govine',
+    'c949fa6e-e383-40d7-ad17-17170fd01a71',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
+    'Bosnie-Herzégovine',
     NOW()
   ),
   (
-    'e5dbc0bd-ba91-40ab-87ff-bed0ff953f47',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
-    'æ³¢æ–¯å°¼äºšå’Œé»‘å¡žå“¥ç»´é‚£',
+    '4948eb49-1d2d-43ce-ae12-aa899cd428e2',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
+    '波斯尼亚和黑塞哥维那',
     NOW()
   ),
   (
-    '17bf0714-3f86-46a7-9cc4-9566c572ffca',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
-    'Ð‘Ð¾ÑÐ½Ð¸Ñ Ð¸ Ð“ÐµÑ€Ñ†ÐµÐ³Ð¾Ð²Ð¸Ð½Ð°',
+    'f14dcb85-cd61-49df-87c1-5cf732587e8d',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
+    'Босния и Герцеговина',
     NOW()
   ),
   (
-    '2a551017-141b-482e-b4f9-78749d21de38',
-    '8468611b-f3e3-4fdf-9bc3-a074d51cc073',
-    'BÃ³snia e Herzegovina',
+    '04eb65f1-627c-4453-b5c1-bd2a884277a8',
+    '7fc1c2f4-5b78-4ef3-ade8-b2fe938e319f',
+    'Bósnia e Herzegovina',
     NOW()
   ),
   (
-    '7e2bdad4-127a-49bc-8a0f-34b86cc27c4b',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '124f0536-1234-4c08-9fa9-e9cf00a0751b',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'Bolivia',
     NOW()
   ),
   (
-    '347b0c8d-71ae-480c-89b1-555797e43836',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '811257ed-ced8-4126-ace1-78f5d3585ef3',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'Plurinational State of Bolivia',
     NOW()
   ),
   (
-    '5870729c-d5de-4211-85f6-d7b39672eaa4',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
-    'Ø¨ÙˆÙ„ÙŠÙÙŠØ§',
+    '0590f0fb-c347-4e29-a472-7dc6496526d1',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
+    'بوليفيا',
     NOW()
   ),
   (
-    '7263d8b1-4d04-4167-bef2-0790f2a7c5ed',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '12a2ceb3-9a18-40ac-a168-c9edfa36743d',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'Bolivien',
     NOW()
   ),
   (
-    '933345a5-3dbd-4f67-961e-e2b785f90fc1',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
+    '814b9bf5-9a17-449e-ba4f-1c1c1a17800c',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
     'Bolivie',
     NOW()
   ),
   (
-    '0608405c-59dc-4e73-9904-f28a05d41b4a',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
-    'çŽ»åˆ©ç»´äºš',
+    '32d3dfc9-3957-44a6-a020-5790844f6f85',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
+    '玻利维亚',
     NOW()
   ),
   (
-    '60a1ccf6-39fe-44f2-9589-50331afc4d91',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
-    'Ð‘Ð¾Ð»Ð¸Ð²Ð¸Ñ',
+    '696c7043-989b-4439-93c5-c32b885c21ee',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
+    'Боливия',
     NOW()
   ),
   (
-    'a7abfb84-030c-4091-82a4-1a9fbc5cfa86',
-    '56c2ea1c-0061-4abd-893e-16024b3fa899',
-    'BolÃ­via',
+    'f0b10216-4d1d-4a31-99dc-85266cd081f7',
+    'a44de98d-b3a6-4aa7-b819-5352481197d4',
+    'Bolívia',
     NOW()
   ),
   (
-    'b24acdb5-5b16-4e4e-8ded-a25e18ed243d',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    '92703c07-8ebe-4ae4-a65f-999e61f6733a',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'Bhutan',
     NOW()
   ),
   (
-    'c0c12c96-a4c4-4776-b89e-0c3561d45ce4',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'f9d712e1-1957-45b4-b49b-a5e56cb36138',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'Kingdom of Bhutan',
     NOW()
   ),
   (
-    '458d5f5f-ad46-4d01-aa6d-5e0a33145120',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
-    'Ø¨ÙˆØªØ§Ù†',
+    '210a6044-f7f4-4621-bae9-f96da170123c',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
+    'بوتان',
     NOW()
   ),
   (
-    '735e083e-f205-44be-a577-1362b1dfd60c',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
-    'ButÃ¡n',
+    'a1b58fc3-4f42-4249-84f9-9209728f7c43',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
+    'Bután',
     NOW()
   ),
   (
-    'c824f0cd-e926-43f0-b864-e49e805e5e3b',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
+    'e7d4fd39-800e-45c5-b61c-ad343b0dc900',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
     'Bhoutan',
     NOW()
   ),
   (
-    '8447a5fc-504c-41c2-8d5e-3423e667f563',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
-    'ä¸ä¸¹',
+    'ac0e59f5-68b2-4fef-9224-e68e89d79864',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
+    '不丹',
     NOW()
   ),
   (
-    'c4235667-5f5a-462b-b78e-820433e15d4e',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
-    'Ð‘ÑƒÑ‚Ð°Ð½',
+    'eb9eeba0-e8fe-497b-a0ac-63c9b9367dc4',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
+    'Бутан',
     NOW()
   ),
   (
-    '1192eeb6-35c6-4eaa-8b75-363bec602d00',
-    '514aab08-eb42-436a-b81d-76a703bf6d25',
-    'ButÃ£o',
+    '1c983015-b2f3-4d05-89cd-e00db5ac0c4b',
+    '23042511-e1b6-4e34-8ef3-536b9bd7885b',
+    'Butão',
     NOW()
   ),
   (
-    'f53ad20b-cb5f-41c6-8e94-065970f40064',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '54215236-630e-4fe1-88d6-ebb01653669c',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'Benin',
     NOW()
   ),
   (
-    '645c111a-0595-4563-b1c7-04b223dc85b2',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    'bf5d5e8c-1e6a-43cf-8512-6dae48dac576',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'Republic of Benin',
     NOW()
   ),
   (
-    '79f48b79-87a5-4d3f-a209-efd54182ccde',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
-    'Ø¨Ù†ÙŠÙ†',
+    'a9b93026-c829-43c8-ac22-665ed97f5f19',
+    '0f401838-5205-4100-b389-07871e5e873d',
+    'بنين',
     NOW()
   ),
   (
-    'da3153a9-7ed7-4566-a8ee-78bda103deb6',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
-    'BenÃ­n',
+    '6dbac030-c5e3-48dc-acc6-3612d1b4b370',
+    '0f401838-5205-4100-b389-07871e5e873d',
+    'Benín',
     NOW()
   ),
   (
-    '90c03a2a-5091-49f5-b9de-2607753fbc4a',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
-    'BÃ©nin',
+    '903675e5-dce2-45ab-8cf4-f61b476dfa62',
+    '0f401838-5205-4100-b389-07871e5e873d',
+    'Bénin',
     NOW()
   ),
   (
-    '5b626d2b-ab17-4729-aa85-d8a5e6c440f5',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
-    'è´å®',
+    '361e9995-196e-4875-a0fc-8d9466b7968a',
+    '0f401838-5205-4100-b389-07871e5e873d',
+    '贝宁',
     NOW()
   ),
   (
-    'dd1d1aca-f3b8-4db1-ac24-ed4549070687',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
-    'Ð‘ÐµÐ½Ð¸Ð½',
+    'f0c260a4-b8c8-4acc-99be-dfddc07c1bbb',
+    '0f401838-5205-4100-b389-07871e5e873d',
+    'Бенин',
     NOW()
   ),
   (
-    'ef514e16-fc72-4ce3-b47a-6a273b93a8bf',
-    '95a3c0b9-fa5e-4365-9362-c0e6ca7fc93a',
+    '966dba63-08d8-4efa-ba1d-47a17de9269a',
+    '0f401838-5205-4100-b389-07871e5e873d',
     'Benim',
     NOW()
   ),
   (
-    '19ee8763-41b5-4338-9360-e483858ab700',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    'f75ae01d-8a48-4841-b5e9-c81d7c439421',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'Belize',
     NOW()
   ),
   (
-    'cf650ff0-a4ba-4509-8abd-1ed9d366cb4d',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
-    'Ø¨Ù„ÙŠØ²',
+    '0fd95f53-6c18-42ba-9bc7-53bab4aeae8b',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
+    'بليز',
     NOW()
   ),
   (
-    '11be16ed-c28b-423c-94fe-a263b01548ea',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
+    '1f20b1f9-6ac8-437c-b208-4a12e555fa5f',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
     'Belice',
     NOW()
   ),
   (
-    'be484fd5-281e-4663-adcb-87b1940f6080',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
-    'ä¼¯åˆ©å…¹',
+    '5b65117f-3b1c-4601-b954-8ce8ea17abee',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
+    '伯利兹',
     NOW()
   ),
   (
-    '3d9ce68a-ad1c-4d3a-bf85-3eeaada76580',
-    'f958b58e-fe3f-4201-91d1-40d38d95f43f',
-    'Ð‘ÐµÐ»Ð¸Ð·',
+    'e8278f44-ce2e-4158-8b76-d26335536150',
+    '1ef00d47-fd41-4112-afb7-4a11b69d641b',
+    'Белиз',
     NOW()
   ),
   (
-    'b0177463-7936-4901-8481-4cd09434919a',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'c2779979-5a18-4fd2-890d-fd854ba21dc3',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'Belgium',
     NOW()
   ),
   (
-    '5613747c-2334-413b-a00a-a73bbb6cfbf1',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'be3d1056-85a7-4b14-bc17-33c4194720d1',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'Kingdom of Belgium',
     NOW()
   ),
   (
-    'e0d7a9dc-49d7-490a-81f2-e698aca53948',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'c2fce437-a5f8-48c9-b067-3eb0fccfb0ae',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'Belg.',
     NOW()
   ),
   (
-    'd1535e0d-f577-4438-a134-166363e531d3',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
-    'Ø¨Ù„Ø¬ÙŠÙƒØ§',
+    '0f54e752-7a27-42b3-b64c-eeebd6c9f9a6',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
+    'بلجيكا',
     NOW()
   ),
   (
-    '37035601-2448-4aea-9857-3288a5a1d5ae',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    'facd9857-ba50-4ddd-b2d5-fbf2afcbc734',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'Belgien',
     NOW()
   ),
   (
-    'c3f8cc6c-e21f-4eb7-9f39-6fc72a03992e',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
-    'BÃ©lgica',
+    '984fd3f5-8407-47a3-85d4-4b2877997dac',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
+    'Bélgica',
     NOW()
   ),
   (
-    '79471e1d-1bce-4aa9-979b-d33a2b1829ec',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
+    '2d1b6c10-abe2-4d72-a7e6-f842171e28fd',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
     'Belgique',
     NOW()
   ),
   (
-    '45bbd2a3-c9bb-4a7f-9368-73164189aecf',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
-    'æ¯”åˆ©æ—¶',
+    '30c4122a-087f-4191-a047-48df5c9bfd9f',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
+    '比利时',
     NOW()
   ),
   (
-    '3ddaf409-a610-481f-bcb9-61f0c3b102c8',
-    '42cb3897-f497-460e-b805-c9cbc889ae6b',
-    'Ð‘ÐµÐ»ÑŒÐ³Ð¸Ñ',
+    '7fc92905-95e0-4a56-af14-e828fa4aa84a',
+    '84334c74-0922-4c4f-b1c7-ad88499b3e5c',
+    'Бельгия',
     NOW()
   ),
   (
-    '4fe5deaf-2481-4aea-aabd-a1e6e5b0532e',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '93018605-50c4-4617-a275-c5e93575683d',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'Belarus',
     NOW()
   ),
   (
-    '30a22d32-e9aa-43eb-bb10-742f83bce2e5',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '524aa8c1-9f83-4e17-8194-020a2a256a1e',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'Republic of Belarus',
     NOW()
   ),
   (
-    '4cfc2a96-bf95-42df-aea7-55d2b1524756',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    '5ca0275c-b34f-44c3-b64c-702c6bdd7329',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'Bela.',
     NOW()
   ),
   (
-    '647f4cc3-dc78-40f6-98a5-137bb71107f0',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
-    'Ø¨ÙŠÙ„Ø§Ø±ÙˆØ³ÙŠØ§',
+    'e74febc3-c82c-45fc-9a1f-d4ebc5696004',
+    '56fce416-39a0-465b-8971-5256c914306f',
+    'بيلاروسيا',
     NOW()
   ),
   (
-    'c1b66926-d2e6-48b2-a587-4c2f151e9dcf',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
+    'cd886cd3-dc92-4478-a03f-1cbb16dac29c',
+    '56fce416-39a0-465b-8971-5256c914306f',
     'Bielorrusia',
     NOW()
   ),
   (
-    'f997594e-c2f7-4423-bfba-2ecd6588c03c',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
-    'BiÃ©lorussie',
+    'aa00b05b-e642-4e09-86ef-efb03863993a',
+    '56fce416-39a0-465b-8971-5256c914306f',
+    'Biélorussie',
     NOW()
   ),
   (
-    '38082418-35ee-4c83-9035-0d71081430ad',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
-    'ç™½ä¿„ç½—æ–¯',
+    '8029c060-581f-429c-961b-e890e782cb82',
+    '56fce416-39a0-465b-8971-5256c914306f',
+    '白俄罗斯',
     NOW()
   ),
   (
-    'b5dc5aed-9747-407a-9398-da6703b8fd91',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
-    'Ð‘ÐµÐ»Ð¾Ñ€ÑƒÑÑÐ¸Ñ',
+    '0d78430e-108f-4183-8c4b-57750c9d70f1',
+    '56fce416-39a0-465b-8971-5256c914306f',
+    'Белоруссия',
     NOW()
   ),
   (
-    'c724709c-d291-4d65-a244-a00e3a06c064',
-    '0a9225e2-40d0-40af-9ba9-65bff424e5a2',
-    'BielorrÃºssia',
+    '4a8963f3-5921-4b45-aebe-6a65090790b9',
+    '56fce416-39a0-465b-8971-5256c914306f',
+    'Bielorrússia',
     NOW()
   ),
   (
-    '4bb79a4b-698c-401d-80d8-40203b2221a2',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    '5efc1631-bde7-48ca-9bc0-e5ba4a6cd5d7',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'Barbados',
     NOW()
   ),
   (
-    '6c6d4447-f771-48c7-88fb-3bd3e9127719',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'f4ffa18e-3771-4c45-aba7-2451e87fd188',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'Barb.',
     NOW()
   ),
   (
-    '6e0cd2b5-69d3-4018-9b59-c984147efa3a',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
-    'Ø¨Ø§Ø±Ø¨Ø§Ø¯ÙˆØ³',
+    '5a80a9a9-f379-4c96-9321-8e168928d5aa',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
+    'باربادوس',
     NOW()
   ),
   (
-    '2cb8798e-bf7d-4658-9921-6bdb5b7bfdfd',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
+    'c2d985c2-28d2-4bc5-b2ef-b27fbadee6ed',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
     'Barbade',
     NOW()
   ),
   (
-    '8793517c-a6c1-4199-ae76-827de6fb9173',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
-    'å·´å·´å¤šæ–¯',
+    '12523aeb-7c2a-4d8e-9843-0ffe95aaa902',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
+    '巴巴多斯',
     NOW()
   ),
   (
-    '7e437fc0-5158-4ba9-a822-0cf06456b5ac',
-    '9ae90043-a246-4b9e-9ed3-3cae402f1178',
-    'Ð‘Ð°Ñ€Ð±Ð°Ð´Ð¾Ñ',
+    'f4e94141-dbb4-40eb-823e-e0a7b67bdfb8',
+    '0e65272a-bac6-4171-a17a-d2657c84bc9d',
+    'Барбадос',
     NOW()
   ),
   (
-    '8009c5b5-5cc8-48f5-9d6b-ae26eb7cc932',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '117b47bc-7632-472e-8c90-8af5e7fdf19d',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'Bangladesh',
     NOW()
   ),
   (
-    'b8007eb5-71d1-4def-a07e-b1fc783954df',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '8f6b6eb3-eb26-4abe-a1a2-4b79ca0d70d9',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'People''s Republic of Bangladesh',
     NOW()
   ),
   (
-    '177608d8-8ea1-4264-8791-1cddbfc8f750',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '655a8deb-8bf2-44eb-a046-a0e3ed8e3078',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'Bang.',
     NOW()
   ),
   (
-    'abf69eea-9869-43a9-9d98-d8e26366e97c',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
-    'Ø¨Ù†ØºÙ„Ø§Ø¯ÙŠØ´',
+    '049da662-45b4-4321-a07a-da05bbdf69b3',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
+    'بنغلاديش',
     NOW()
   ),
   (
-    '272af840-76a2-4e34-b698-4f9531dde292',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
+    '1b2ccf37-c0bc-4f62-a33b-17f7c9d701e2',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
     'Bangladesch',
     NOW()
   ),
   (
-    '3b6a3967-4261-4efe-83f4-8433164a0a1c',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
-    'BangladÃ©s',
+    '99b98ff0-959e-43c4-8760-39eacbd7c33a',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
+    'Bangladés',
     NOW()
   ),
   (
-    '99f9201c-2b42-40b0-a959-abbad78706b7',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
-    'å­ŸåŠ æ‹‰å›½',
+    'e806ca90-fc1f-46f5-914f-09dc21dd00e7',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
+    '孟加拉国',
     NOW()
   ),
   (
-    'a3e38209-b142-4a9a-997b-b4bce9d4c2cd',
-    '3ba649d7-ca56-4154-a4d7-0c92bdf0189a',
-    'Ð‘Ð°Ð½Ð³Ð»Ð°Ð´ÐµÑˆ',
+    '67a05713-7a5c-46fb-bf3d-c6c47b4fcbf3',
+    '2aa3e9db-069c-4f91-84a7-b19817168217',
+    'Бангладеш',
     NOW()
   ),
   (
-    'b6b08419-08e3-44a6-8bb7-22f21365668b',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '700ac667-31af-468f-9feb-e6381f9bee46',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'Bahrain',
     NOW()
   ),
   (
-    'a58c5479-05ff-44a1-85d0-dca7a70ee138',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'fa0ce007-de01-49d7-84da-0b42461635d0',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'Kingdom of Bahrain',
     NOW()
   ),
   (
-    'f379d43c-8df2-4fd4-9267-785a5ed477eb',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    '1a47c9d4-6dcc-4db6-af5f-1ada04418d51',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'Bahr.',
     NOW()
   ),
   (
-    'a565f0f3-395c-4fe4-9c0f-4d4b79ce5e21',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
-    'Ø§Ù„Ø¨Ø­Ø±ÙŠÙ†',
+    '21c9da26-652d-4802-99fa-fe26bfa0a7af',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
+    'البحرين',
     NOW()
   ),
   (
-    '72e89285-133b-492c-ae6d-c67a3cae25b4',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
-    'BarÃ©in',
+    '3d0994d5-a54a-442f-bc4e-92ffd2f4c8cc',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
+    'Baréin',
     NOW()
   ),
   (
-    'f10f8e43-fca3-4b07-aa5b-82f3d520d575',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
-    'BahreÃ¯n',
+    '68e41939-7802-4cd7-b4b3-e5ac640727fc',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
+    'Bahreïn',
     NOW()
   ),
   (
-    '61038ad2-0dcd-45db-9629-03d1254d5b10',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
-    'å·´æž—',
+    'fcbfa04d-b6f5-4c8f-9c23-7ef02ba2928f',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
+    '巴林',
     NOW()
   ),
   (
-    'b2b105ce-d61f-48d1-a93b-242e39ef5b14',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
-    'Ð‘Ð°Ñ…Ñ€ÐµÐ¹Ð½',
+    '36fd9f61-f355-4ea3-b0ef-a0702ab1d291',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
+    'Бахрейн',
     NOW()
   ),
   (
-    '8725e6d0-a588-4faf-af4b-57b36ea6b530',
-    'fb6f4b65-dfd9-4c5c-971e-8ecbdc999700',
+    'a5435979-caf5-41cb-9102-88cad3f87c16',
+    '1d612ff9-e279-4c2d-b2b7-b96a56f6c1ea',
     'Bahrein',
     NOW()
   ),
   (
-    'e949b16f-810e-4ffa-96b5-64e2e01c73e1',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'b4bc83df-1992-4d32-a193-fdbadf517a39',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'Bahamas',
     NOW()
   ),
   (
-    'c1e52b86-a4c2-4b14-ae05-05c6385f5624',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    'a3162551-8f0b-45d8-8eae-1fad5b03c176',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'Commonwealth of the Bahamas',
     NOW()
   ),
   (
-    '8c412dbf-cb8d-4f01-8862-2076b8fbb9ba',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '654dd139-5159-4932-a0db-f519ff0f10c0',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'The Bahamas',
     NOW()
   ),
   (
-    '4457b0bc-ea9e-4a43-a288-4559c3ad1119',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
+    '9cb10e1c-797b-47d1-9896-ac472dc1d00a',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
     'Bhs.',
     NOW()
   ),
   (
-    'c1726839-fab7-4521-87ba-29e15fdb21ba',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
-    'Ø¨Ø§Ù‡Ø§Ù…Ø§Ø³',
+    'a4eb2be1-a5a7-4c18-952e-df94424d5373',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
+    'باهاماس',
     NOW()
   ),
   (
-    'ad926e79-477e-4947-976b-839321d67ff0',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
-    'å·´å“ˆé©¬',
+    '86b35322-0c22-4b47-9aaf-db6de8da58be',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
+    '巴哈马',
     NOW()
   ),
   (
-    '6456f1d5-ee11-41a9-9159-1b5ee6b35325',
-    'ac7d15f5-e4e1-4839-8bf6-10ccf69d72ed',
-    'Ð‘Ð°Ð³Ð°Ð¼ÑÐºÐ¸Ðµ ÐžÑÑ‚Ñ€Ð¾Ð²Ð°',
+    'c3c88f03-1858-483a-8f8f-7d0078bb5696',
+    'e8f2c64c-2cbf-46cb-b23c-48a6bc243d66',
+    'Багамские Острова',
     NOW()
   ),
   (
-    '76d02ce1-9177-4a84-a2d2-87c153128d8c',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'a6ab4bf5-33c6-4833-bd99-539553faa875',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'Azerbaijan',
     NOW()
   ),
   (
-    'b523cb79-395f-47d0-81e5-22464ceb743f',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    'eba32732-564b-41b9-aea2-77db51ebc880',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'Republic of Azerbaijan',
     NOW()
   ),
   (
-    '303a8440-4e61-4700-baf2-f9a5a9b360f7',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '251012b1-e6fa-459e-9be8-3a0f96dbd25b',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'Aze.',
     NOW()
   ),
   (
-    'a88915ca-b939-4b43-8388-bcf16f924cb4',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'Ø£Ø°Ø±Ø¨ÙŠØ¬Ø§Ù†',
+    '7fb626f0-e418-409b-b163-1d99fd1efdc7',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    'أذربيجان',
     NOW()
   ),
   (
-    'df091eae-31ef-4b8e-8291-57a792096259',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
+    '5c5ce341-4e32-4d75-9f96-6561c9d68f70',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
     'Aserbaidschan',
     NOW()
   ),
   (
-    '1f2162ba-11b5-46ec-ac88-9a831a5b1277',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'AzerbaiyÃ¡n',
+    '60acb642-f4b0-47c0-8ba5-0ce60d59f7f3',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    'Azerbaiyán',
     NOW()
   ),
   (
-    'a0d20799-d6cb-4383-951d-1893169bcc7b',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'AzerbaÃ¯djan',
+    '749301da-072f-4ad1-8cd8-e16390758ca9',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    'Azerbaïdjan',
     NOW()
   ),
   (
-    '69701c58-90f7-421e-9c73-82462f1d95c0',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'é˜¿å¡žæ‹œç–†',
+    '48b95c45-c3b6-4c63-bcb3-5ab6c21eff45',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    '阿塞拜疆',
     NOW()
   ),
   (
-    '6c4f31f1-32ef-490e-8534-9a2af2a09ea8',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'ÐÐ·ÐµÑ€Ð±Ð°Ð¹Ð´Ð¶Ð°Ð½',
+    'dc261665-015b-4144-9df5-8a51e485e7ec',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    'Азербайджан',
     NOW()
   ),
   (
-    'fc6d3360-68a4-4745-bd47-28a271fa9aed',
-    '3afdcac1-da21-4388-8590-b4447a8c6961',
-    'AzerbaijÃ£o',
+    '85ab5c00-1be1-40c5-b405-8d71fa9f0e89',
+    '2837ec5c-fedd-4de8-899b-69f07486d930',
+    'Azerbaijão',
     NOW()
   ),
   (
-    'cabb8097-c74c-41fe-b085-63563d1df52a',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'bb5b176e-e7b2-4d62-991f-c9a7e2412691',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'Austria',
     NOW()
   ),
   (
-    '7831d3af-7fa4-442e-bfa0-8fcaa234855f',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'e9058742-e02f-49e2-b918-9b37596b0fdd',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'Republic of Austria',
     NOW()
   ),
   (
-    'a7b4fefb-3e16-456d-b752-d9b8b6d86203',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'f00ba31d-489f-4d40-8a77-9d4b7987404c',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'Aust.',
     NOW()
   ),
   (
-    'e4eb935c-3878-4a38-a167-af7167b24c0e',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
-    'Ø§Ù„Ù†Ù…Ø³Ø§',
+    '9e685d94-1c6a-464f-9631-86bfda836b14',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
+    'النمسا',
     NOW()
   ),
   (
-    '7385932c-a795-4d6e-ad37-bfe586dbc68e',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
-    'Ã–sterreich',
+    '8e96a67c-4ae8-4d53-9abe-db8c9c36983e',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
+    'Österreich',
     NOW()
   ),
   (
-    '0804d129-fe83-4eaf-98bc-a25a4b3f4bae',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
+    'eda0b9e1-8c70-45b3-ac0b-e1e8c94fa8da',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
     'Autriche',
     NOW()
   ),
   (
-    'a42a11cd-ca63-4f66-a5f5-3e0b6b3e7006',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
-    'å¥¥åœ°åˆ©',
+    '757d27d3-e6d3-4a11-9997-de1b5867cc22',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
+    '奥地利',
     NOW()
   ),
   (
-    '3128d9f6-3e59-49e8-b370-fbb96fdabde9',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
-    'ÐÐ²ÑÑ‚Ñ€Ð¸Ñ',
+    '4d43f296-bfa3-4e8e-aa27-1a92c4db36b3',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
+    'Австрия',
     NOW()
   ),
   (
-    '274a48fe-640e-44e7-a687-1fca65f1fd88',
-    'd0bc5369-7b79-4c31-b7df-0fed6491ea4b',
-    'Ãustria',
+    '40a58080-af87-4773-93ad-df4f8a466d1c',
+    '2decda60-9107-476d-a121-aff2d29a6aac',
+    'Áustria',
     NOW()
   ),
   (
-    '00b60fcf-acd7-46ca-a06d-872b6bdd3e63',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '4ea6867f-aead-419d-bed4-a6c043cdeb13',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'Australia',
     NOW()
   ),
   (
-    '51b6393d-733f-4ee3-b7d9-33c064fc92ef',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'b0a6d5e5-9758-42a2-890e-bb42ba3f568c',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'Commonwealth of Australia',
     NOW()
   ),
   (
-    '1a827cab-cb73-436c-aee8-111eab3957c2',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '5e6c85ec-8713-481d-961a-9849a9a4112e',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'Auz.',
     NOW()
   ),
   (
-    '7b9032fb-8255-4a49-999c-a2aff5bdbb70',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
-    'Ø£Ø³ØªØ±Ø§Ù„ÙŠØ§',
+    '402b91f0-809a-482d-85aa-f860ac001645',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
+    'أستراليا',
     NOW()
   ),
   (
-    '76ac18b7-1f37-46fd-8981-5c4ab2a795ea',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    'f81df08e-9c9c-48b6-a55d-5979a1ee874b',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'Australien',
     NOW()
   ),
   (
-    'b253a4bf-489e-401b-b5eb-1500587ec76c',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
+    '16df884a-9fb4-48a8-9b18-5276333c6af3',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
     'Australie',
     NOW()
   ),
   (
-    '43b8a509-9fc0-498f-bd27-24c005acac5d',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
-    'æ¾³å¤§åˆ©äºš',
+    '7baa6617-4410-4a91-8d3e-fc7fccf4355e',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
+    '澳大利亚',
     NOW()
   ),
   (
-    'c85636c6-7310-4d3e-8a92-04057196ca55',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
-    'ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ñ',
+    'c3c0d22f-3a2b-4e5f-8640-f7403bbd563e',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
+    'Австралия',
     NOW()
   ),
   (
-    '4c847729-4ffe-4576-9ed2-2f6307c84954',
-    '5cd7c63d-a0ce-4f63-ab38-59161a889972',
-    'AustrÃ¡lia',
+    '8aaa4c8b-e10e-4fd2-a1d8-5fac26b64b3c',
+    '69030493-973e-433b-b1f3-a2a3dcdab942',
+    'Austrália',
     NOW()
   ),
   (
-    '3169d1ee-143f-4baf-8356-fae6b60fca51',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '5e44895a-96fa-4d86-b41e-c9f45658cce4',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'Indian Ocean Ter.',
     NOW()
   ),
   (
-    '1e360a6e-d5f7-4371-bad4-da16e82053a3',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '1d57eaeb-1fc8-4af7-9373-d250d6f9f10f',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'Indian Ocean Territories',
     NOW()
   ),
   (
-    '1652db03-4771-4c55-ae9b-a935254ddca3',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'e53c7d7e-331b-41f3-9674-d4131d4f2b5d',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'Australia',
     NOW()
   ),
   (
-    '18b5e7c4-536e-4d1c-a76b-8d80ed20f77e',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    '484c92b2-c77f-4a27-baae-a851474a668d',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'Ind. Oc. Ter.',
     NOW()
   ),
   (
-    '2a847924-962f-4dd9-b5a5-7397e7165d02',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'Ø£Ù‚Ø§Ù„ÙŠÙ… Ø§Ù„Ù…Ø­ÙŠØ· Ø§Ù„Ù‡Ù†Ø¯ÙŠ Ø§Ù„Ø£Ø³ØªØ±Ø§Ù„ÙŠØ©',
+    '3d92c16f-bac6-4b34-8396-4eb5fb331617',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    'أقاليم المحيط الهندي الأسترالية',
     NOW()
   ),
   (
-    '5604e31d-84a2-4bd3-b9b5-e0e3e45ba956',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
+    'a059483d-0e51-46b6-9d0f-7d31607c067f',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
     'Australische Territorien im Indischen Ozean',
     NOW()
   ),
   (
-    '549b51f7-7129-4254-aaa6-457a41b9e006',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'Territorios Australianos del OcÃ©ano Ãndico',
+    '1b3f33d3-4779-45c9-bb97-784f18b7ed1f',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    'Territorios Australianos del Océano Índico',
     NOW()
   ),
   (
-    'a041ac43-0a6d-4019-af8c-d2e58215ff52',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'Territoires extÃ©rieurs australiens de l''OcÃ©an Indien',
+    '0a220c0a-7de0-4d52-8521-495da5e32dd6',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    'Territoires extérieurs australiens de l''Océan Indien',
     NOW()
   ),
   (
-    'c715f0fc-b28c-4d01-a8ec-c7734391987d',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'æ¾³å±¬å°åº¦æ´‹é ˜åœ°',
+    'cb41fc85-2527-4fdf-9286-debc66cd3759',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    '澳屬印度洋領地',
     NOW()
   ),
   (
-    'd468d338-a63f-43df-b5b5-543893935356',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ð¹ÑÐºÐ¸Ðµ Ñ‚ÐµÑ€Ñ€Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸ Ð² Ð˜Ð½Ð´Ð¸Ð¹ÑÐºÐ¾Ð¼ Ð¾ÐºÐµÐ°Ð½Ðµ',
+    'bcd38b84-285c-45be-ae10-e1c76bc5948e',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    'Австралийские территории в Индийском океане',
     NOW()
   ),
   (
-    '062b2fa2-0693-401b-a2b1-09e457a3d5d5',
-    '378c299a-86b9-4651-8aa6-1c6715cbd545',
-    'TerritÃ³rios australianos do Oceano Ãndico',
+    '99539507-ac54-4bfc-9947-fa47958b63f3',
+    'f3e91ad8-2408-4b4f-ac03-c898c48d398a',
+    'Territórios australianos do Oceano Índico',
     NOW()
   ),
   (
-    '6a58b0cb-9af0-484a-96d0-5d5d8455dd9c',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '09288de8-c319-4cc9-83fe-45c118caea8a',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Heard I. and McDonald Is.',
     NOW()
   ),
   (
-    '2176b721-facc-41b6-8e69-9efabea0a53d',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '24271ea5-b4fd-4184-9a81-19988c03b3f9',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Heard I. and McDonald Islands',
     NOW()
   ),
   (
-    '89432959-105b-4a84-a0d9-ec3dd221f00d',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'cf85ee07-d63b-452b-8853-cbe393525d93',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Territory of Heard Island and McDonald Islands',
     NOW()
   ),
   (
-    '791f01c2-494d-4a41-a0ef-187802366ff5',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'c395dab0-1f98-407d-8c8e-ae12878f90d9',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Heard Island and McDonald Islands',
     NOW()
   ),
   (
-    '8154258f-7894-4958-8793-c737f5ff0381',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'a69edd50-61be-4162-a8fc-58c227791b7d',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Australia',
     NOW()
   ),
   (
-    'bff4a40e-70ad-4515-a633-729827758036',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'f82f6653-a932-4125-be94-fe3daddc204c',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'H.M.Is.',
     NOW()
   ),
   (
-    '545ebd29-106f-4709-8775-c7d65ef31dcb',
-    '83162acb-f63c-4728-81f6-ac983b102559',
-    'Ø¬Ø²ÙŠØ±Ø© Ù‡ÙŠØ±Ø¯ ÙˆØ¬Ø²Ø± Ù…Ø§ÙƒØ¯ÙˆÙ†Ø§Ù„Ø¯',
+    '2f3af72d-41fa-4bd8-bef8-d751a9d8034a',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
+    'جزيرة هيرد وجزر ماكدونالد',
     NOW()
   ),
   (
-    'fb9d167f-6a2b-4231-972c-29e0849e94b2',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '50a720b9-f596-449e-8c97-241ef22544f1',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Heard und McDonaldinseln',
     NOW()
   ),
   (
-    'e4ec5f87-5fba-440b-949f-93477b7d7bde',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    'f9887cab-74d3-4bd1-979d-267054e83c5e',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Islas Heard y McDonald',
     NOW()
   ),
   (
-    '90a2cccf-8b6d-4a1f-84c2-bb71db71b895',
-    '83162acb-f63c-4728-81f6-ac983b102559',
-    'Ã®les Heard-et-MacDonald',
+    '1e60d773-7eb0-4965-af54-5ea6296c609a',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
+    'îles Heard-et-MacDonald',
     NOW()
   ),
   (
-    'fd48df95-4aa5-490e-9da5-4d1d0f7d43ea',
-    '83162acb-f63c-4728-81f6-ac983b102559',
-    'èµ«å¾·å²›å’Œéº¦å…‹å”çº³ç¾¤å²›',
+    '07a2d09a-70a4-4b86-8e82-5724201b255c',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
+    '赫德岛和麦克唐纳群岛',
     NOW()
   ),
   (
-    'a63436a5-3576-4ca2-94c3-54e09d89a6ef',
-    '83162acb-f63c-4728-81f6-ac983b102559',
-    'ÐžÑÑ‚Ñ€Ð¾Ð² Ð¥ÐµÑ€Ð´ Ð¸ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð° ÐœÐ°ÐºÐ´Ð¾Ð½Ð°Ð»ÑŒÐ´',
+    '1c869da1-9ceb-4342-9536-0980e00f70a2',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
+    'Остров Херд и острова Макдональд',
     NOW()
   ),
   (
-    '85cfdb76-e2ae-49ce-98fc-e2c5b8c2420d',
-    '83162acb-f63c-4728-81f6-ac983b102559',
+    '587cf029-3bfc-4621-809d-7bc72ae3c333',
+    '223c0c74-233c-4e87-b319-da8f324ac305',
     'Ilha Heard e Ilhas McDonald',
     NOW()
   ),
   (
-    'd0ff1d14-cb97-4676-92fe-e9508bc0d22a',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '3ac06b87-d77b-4588-804e-e02f6e3afc43',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Norfolk Island',
     NOW()
   ),
   (
-    'f9cd346e-fec0-41fa-9b36-3c0c1f5c5872',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '82e72ed2-1e61-4862-9c64-fe53a5f73f5d',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Territory of Norfolk Island',
     NOW()
   ),
   (
-    '5ae329cd-c909-4693-8b4f-e6b045832ba0',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'ec3e1847-b824-4796-b19e-62b8bd06dbc4',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Australia',
     NOW()
   ),
   (
-    'bbfbcc38-7ee6-47fa-a619-b6874680ffbc',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '595d4e7b-a131-4c5e-b9b7-e78f4c741abd',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Nfk. I.',
     NOW()
   ),
   (
-    'a0cbbfeb-129c-42bc-8a79-f5cc47f9d5fb',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
-    'Ø¬Ø²ÙŠØ±Ø© Ù†ÙˆØ±ÙÙˆÙ„Ùƒ',
+    'b670d7c0-57d8-453a-8b34-2d79d151d7c9',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
+    'جزيرة نورفولك',
     NOW()
   ),
   (
-    'f3baf3b9-c78d-475d-b9a8-3b3bf24b83d5',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    'b018f7d9-6d47-49da-ba45-9d6fce53e93c',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Norfolkinsel',
     NOW()
   ),
   (
-    '26bba2c8-8c7b-43a0-8148-856866a3a39b',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '592b7831-0080-4f85-ad42-07a75206c395',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Isla Norfolk',
     NOW()
   ),
   (
-    '4a32d4b5-b6cc-425c-99da-283a884d6d92',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
-    'ÃŽle Norfolk',
+    '6f947437-7a26-48f6-bc44-7efb057dcfcf',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
+    'Île Norfolk',
     NOW()
   ),
   (
-    '06731593-a9b2-4dfe-9fc1-9df058b69d14',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
-    'è¯ºç¦å…‹å²›',
+    'c4fd7b26-2705-4f17-86a6-f182b8114171',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
+    '诺福克岛',
     NOW()
   ),
   (
-    'ff9b3c00-855f-45cd-b9d2-6dfacd6ab2aa',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
-    'ÐÐ¾Ñ€Ñ„Ð¾Ð»Ðº',
+    '2cc2200f-4b1f-461d-8d96-b1920826f88d',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
+    'Норфолк',
     NOW()
   ),
   (
-    'b37c1a6c-fda8-4305-9911-b437b1e46c01',
-    '202642bc-478f-4f5f-a550-af8f90f2ea65',
+    '55a58c40-9ea6-4ad5-8c3e-3c11c3ed4f73',
+    '56260a34-d583-4353-97ed-7d924cf9120f',
     'Ilha Norfolk',
     NOW()
   ),
   (
-    'b4d3465e-d22c-474f-a5b4-e435d51de89c',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'b6ca0c5c-2b2b-410c-bb99-8b86f843df20',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Ashmore and Cartier Is.',
     NOW()
   ),
   (
-    '914d3358-6d56-4d92-9c7a-1b74b40e7633',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    'a73cfe09-a5a6-499a-9002-106ad18db6f5',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Ashmore and Cartier Islands',
     NOW()
   ),
   (
-    '2867ad51-e283-416c-80bc-68f40103c266',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '65abf1d6-550f-40f7-a60e-b440efaddef7',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Territory of Ashmore and Cartier Islands',
     NOW()
   ),
   (
-    '2cde4ebf-8030-4aa1-9d95-371fd117b7ad',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '89a85afd-f7ac-46a5-8e46-4adb4b8abf5e',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Australia',
     NOW()
   ),
   (
-    '5c194ae8-e816-4efd-9d63-cc1e3e1ef4fb',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '604e22c7-0985-443b-83c8-0f9b906f0743',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'A.C.Is.',
     NOW()
   ),
   (
-    '348e364e-a718-4973-b74b-bd704cb59961',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
-    'Ø¬Ø²Ø± Ø£Ø´Ù…ÙˆØ± ÙˆÙƒØ§Ø±ØªÙŠÙŠØ±',
+    '2d942268-4af4-453a-84ea-5fbd8f1850ae',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
+    'جزر أشمور وكارتيير',
     NOW()
   ),
   (
-    'd1b4b5b8-21bf-428d-b3cd-77e680611541',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '17ec27b6-cd46-4f72-83d9-4c1a915ea5df',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Ashmore- und Cartierinseln',
     NOW()
   ),
   (
-    '5e63018b-04fc-40d1-967e-8b1128c53d60',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '4fc247ac-e2ee-4da6-a749-efda7b2dbe73',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Islas Ashmore y Cartier',
     NOW()
   ),
   (
-    '4ab88136-26ae-4935-b3da-39d679915058',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
-    'ÃŽles Ashmore-et-Cartier',
+    'e70f3971-0615-4fba-a15c-55c8710f353d',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
+    'Îles Ashmore-et-Cartier',
     NOW()
   ),
   (
-    'ead7d993-622a-47e6-b96e-f3840e06700c',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
-    'é˜¿ä»€èŽ«å°”å’Œå¡æ·ç¾¤å²›',
+    '4d5ff0f9-410c-4519-8c47-1d6fd85a9777',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
+    '阿什莫尔和卡捷群岛',
     NOW()
   ),
   (
-    '270ce424-acbb-4a57-9710-bdeb8d4946bc',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
-    'ÐžÑÑ‚Ñ€Ð¾Ð²Ð° ÐÑˆÐ¼Ð¾Ñ€ Ð¸ ÐšÐ°Ñ€Ñ‚ÑŒÐµ',
+    '30c2ea89-2a88-4e0e-9e02-790fbdbe56ff',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
+    'Острова Ашмор и Картье',
     NOW()
   ),
   (
-    '1720dcea-1b0f-4e23-8623-11ffeedce753',
-    '815430ee-c38d-4127-8f33-731e161d3bd0',
+    '1ef0464e-92be-41a7-b514-a08cb01f048b',
+    '74f0e9cd-df5f-4dc5-a97b-25cb101783e0',
     'Ilhas Ashmore e Cartier',
     NOW()
   ),
   (
-    '6d81410e-f992-444b-8cde-f3330ae33cba',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '45e199eb-2fd9-4543-9a75-56d31ad37989',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'Armenia',
     NOW()
   ),
   (
-    '07f46d42-7aec-4ad8-be29-8b6f4e9732ca',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    '0e4a9481-eb45-4828-928b-a71789568eff',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'Republic of Armenia',
     NOW()
   ),
   (
-    'f6517afd-21f1-4c6e-a5de-c7b36b279d0c',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'f50f09eb-69ec-4d5f-a7ec-2f31d3bb511c',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'Arm.',
     NOW()
   ),
   (
-    '5e3a09c5-76b0-4f94-afb3-4c9da1d06304',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
-    'Ø£Ø±Ù…ÙŠÙ†ÙŠØ§',
+    'ff2adc34-d78a-4952-972c-b6868378b75d',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
+    'أرمينيا',
     NOW()
   ),
   (
-    '1457847e-7e85-460e-b4d8-936933993f7c',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
+    'a8578656-b72b-4f3a-9fa9-aff1384e6983',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
     'Armenien',
     NOW()
   ),
   (
-    '9c63ddbb-49c5-48a7-b4a9-801e088c4ec9',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
-    'ArmÃ©nie',
+    'f4fe3f06-0cf5-415b-9026-96e6744532b3',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
+    'Arménie',
     NOW()
   ),
   (
-    '2f8a63dc-725a-42c1-943a-86fa37680708',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
-    'äºšç¾Žå°¼äºš',
+    '344fd9df-f3b5-4799-ae31-3dd16b19a919',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
+    '亚美尼亚',
     NOW()
   ),
   (
-    'cf24a1a5-c596-4f03-a613-248f1ea30efe',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
-    'ÐÑ€Ð¼ÐµÐ½Ð¸Ñ',
+    'cbcf7d9a-97aa-4635-ac10-91fbfe69f2fc',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
+    'Армения',
     NOW()
   ),
   (
-    'e5d5dfdd-8ecf-45e7-98c5-e73e46121305',
-    '71e3a58f-6a79-4e27-8f02-d68ca3d65a17',
-    'ArmÃ©nia',
+    'f935f5cc-c6d3-48fa-93a8-b1ec472ed24e',
+    '1f9eb8e1-c7ad-4f9a-a9fa-7afb10f428d1',
+    'Arménia',
     NOW()
   ),
   (
-    'e21c952e-2022-4e9d-bd46-e8aeeaa0f185',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'df40ce3d-ef67-4ba0-b15c-c06b66b92c12',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'Argentina',
     NOW()
   ),
   (
-    '44d31a24-d5c5-4d0f-94cf-7be336f9aa48',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '7439372b-2d0b-4c33-a187-e8597b8d74ad',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'Argentine Republic',
     NOW()
   ),
   (
-    '51475084-5126-480c-8727-a6df57e3dbf2',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    'a457f47d-0a29-4316-8d2a-85bbc5e9bf95',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'Arg.',
     NOW()
   ),
   (
-    '2bfac38e-29af-4fef-b5fb-9b5a0f7e6ed7',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
-    'Ø§Ù„Ø£Ø±Ø¬Ù†ØªÙŠÙ†',
+    '4c79da9f-ebe9-4e43-8bb2-677b748bdc8f',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
+    'الأرجنتين',
     NOW()
   ),
   (
-    '7d613804-4c3f-49d7-a924-f27b27a5037e',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '83c37158-e9b9-4354-abe4-21e7eb9b3b5b',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'Argentinien',
     NOW()
   ),
   (
-    '27eac234-44fb-4bc6-b971-79ce81aa87ad',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
+    '1c025094-c097-4ac4-89b2-18041d38871b',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
     'Argentine',
     NOW()
   ),
   (
-    'e22dc20e-393d-4279-957e-797d5d74cfc9',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
-    'é˜¿æ ¹å»·',
+    'bd1f3fec-849e-4019-b3af-5fe55a916df3',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
+    '阿根廷',
     NOW()
   ),
   (
-    '48cd1255-19dc-4b70-9032-e0ff799f7833',
-    'bf9df13b-4fae-46fb-b0a3-975fcafdaa67',
-    'ÐÑ€Ð³ÐµÐ½Ñ‚Ð¸Ð½Ð°',
+    '23a728af-dea7-4d08-84ac-f89e269b6685',
+    'e9bcb7f8-cf70-4b0e-8cdc-fd3917f8466c',
+    'Аргентина',
     NOW()
   ),
   (
-    'c08754a1-73ca-4c21-b4a2-c92afd2bcdda',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'c1a33bab-b05d-4c97-8055-e3c25410a985',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Antigua and Barb.',
     NOW()
   ),
   (
-    'f2026b4d-c27c-4920-9c27-d66daa7424bb',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '86383f33-328f-4054-962b-28151fd21e3f',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Antigua and Barbuda',
     NOW()
   ),
   (
-    '0f3b145c-eb1a-4d3d-91ee-21b2fb78dcfd',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'e1cfb6c2-1abc-47fa-867d-f078e3cac181',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Ant.B.',
     NOW()
   ),
   (
-    'dee6acbc-6c4a-44fb-87ed-72a46a58ad12',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
-    'Ø£Ù†ØªÙŠØºÙˆØ§ ÙˆØ¨Ø§Ø±Ø¨ÙˆØ¯Ø§',
+    'b240cf09-e5e9-453a-baca-28de233d68ed',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
+    'أنتيغوا وباربودا',
     NOW()
   ),
   (
-    '070fd339-4577-48b1-952c-106c521f1247',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    'e98cfbf6-a447-4d19-8f77-f1a1c84852ba',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Antigua und Barbuda',
     NOW()
   ),
   (
-    '464aae0b-dd27-4d28-b394-c2dd63a28fb3',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '7d7e4fdd-03b8-43fd-87e3-3f99f519fc25',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Antigua y Barbuda',
     NOW()
   ),
   (
-    '7f540eda-f283-4095-8946-c86c88c52d6c',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
+    '6578c039-dab3-45ce-8da7-a810f00d556d',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
     'Antigua-et-Barbuda',
     NOW()
   ),
   (
-    '9319aca5-a091-489e-9d47-80eef867c776',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
-    'å®‰æç“œå’Œå·´å¸ƒè¾¾',
+    '87e1448c-c566-4a3f-8ba0-78a97de15b48',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
+    '安提瓜和巴布达',
     NOW()
   ),
   (
-    'ae8fa999-4f0f-4c91-a4e4-54815fc96575',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
-    'ÐÐ½Ñ‚Ð¸Ð³ÑƒÐ° Ð¸ Ð‘Ð°Ñ€Ð±ÑƒÐ´Ð°',
+    '0064524e-c7d9-440a-ac3e-8dd2e56ba853',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
+    'Антигуа и Барбуда',
     NOW()
   ),
   (
-    'ca9503f3-69cc-49ba-b697-abc5d839cca9',
-    'e15c1415-3cb8-4dd0-8e96-02e45e20447e',
-    'AntÃ­gua e Barbuda',
+    'fb46135a-03de-4efa-a322-97bdbde7ce68',
+    '6c02cd31-a4e5-4a96-9eb8-6b47501f4bb5',
+    'Antígua e Barbuda',
     NOW()
   ),
   (
-    'de74b8d6-ede7-444a-9c77-cccbd490dda3',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    'c1c95345-2345-456d-a088-29e66b64eedd',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'Angola',
     NOW()
   ),
   (
-    'a48e8cd0-be44-4ff2-b958-9d8042e547a4',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '954c3a1c-dd55-4ef9-975d-6d0e8415e6c5',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'People''s Republic of Angola',
     NOW()
   ),
   (
-    '95f3dd2d-9d3b-4ff3-be90-ea0dda3596e3',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
+    '0b0f3d08-d02c-45f0-9b41-0959d98d6176',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
     'Ang.',
     NOW()
   ),
   (
-    '504d391d-a559-43b3-bfa1-28c51326a2d1',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
-    'Ø£Ù†ØºÙˆÙ„Ø§',
+    'c13660b4-7662-4375-9375-195c588e7cba',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
+    'أنغولا',
     NOW()
   ),
   (
-    'a874718d-7684-42ae-9704-15aaa015ecf9',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
-    'å®‰å“¥æ‹‰',
+    '3ed115da-6adb-44bf-9f81-f9019b84475f',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
+    '安哥拉',
     NOW()
   ),
   (
-    '70ee2f87-5d80-4593-a0fd-1d738d34dbf9',
-    'b91a44b4-c025-460d-bc3f-3e05b1a7bfd5',
-    'ÐÐ½Ð³Ð¾Ð»Ð°',
+    '9309ddc3-99b8-45a0-b789-37ce584d27b4',
+    'def5d3ab-8ab1-41b3-b269-ff829400a415',
+    'Ангола',
     NOW()
   ),
   (
-    '6ced5f69-8f6f-416e-94c3-dc0f4d8067fa',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '286fec63-47a3-4750-b77d-d76c092be7b4',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'Andorra',
     NOW()
   ),
   (
-    'bb1dfc3d-aecb-4b47-801b-44103b1b46d8',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '4a67fbba-455b-4883-8512-39ed777ff4ec',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'Principality of Andorra',
     NOW()
   ),
   (
-    '253224a5-1847-4134-a028-efc7acead729',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    'c6331171-3a87-41f9-9c34-f37df7799984',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'And.',
     NOW()
   ),
   (
-    '7da2593a-4c92-431d-a42a-04a6ad3694e4',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
-    'Ø£Ù†Ø¯ÙˆØ±Ø§',
+    '33c01bf4-e971-4db1-a89a-60e01167e25f',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
+    'أندورا',
     NOW()
   ),
   (
-    '5157c47a-4717-4d7a-a54c-7a0f0d5d7d41',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
+    '2c3d2d1c-4960-48d8-8f3e-dfecc69efb12',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
     'Andorre',
     NOW()
   ),
   (
-    '24cd9405-72e7-4ef5-8770-4ad32f02609c',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
-    'å®‰é“å°”',
+    '732b42f8-ca8e-47e8-84fd-ee5578b1b114',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
+    '安道尔',
     NOW()
   ),
   (
-    'a399cb0a-d3e1-4e3c-8e44-9e571c0e9442',
-    '4d8709f2-5346-4dd7-846e-f2a74547277a',
-    'ÐÐ½Ð´Ð¾Ñ€Ñ€Ð°',
+    'e965921c-fc3b-4ac9-bc85-7b113dd32dc0',
+    '4feb944a-13e2-4dc5-a111-3d9dc43c1e0c',
+    'Андорра',
     NOW()
   ),
   (
-    '019184fb-9779-4686-82f5-dd30339b0f5d',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '3080c6d4-10b1-46c6-98aa-d758c99294b4',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'Algeria',
     NOW()
   ),
   (
-    'eb042768-9496-45e7-9158-7cc5731d3c58',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '976b8d7c-4daf-46a6-9cd2-040b414828e9',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'People''s Democratic Republic of Algeria',
     NOW()
   ),
   (
-    'b214092c-673a-4251-926b-af563882d157',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    '3b2dc9ae-17d1-4f74-9fdb-fe349c74d7dd',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'Alg.',
     NOW()
   ),
   (
-    '960896cc-6751-4516-9a5d-a05418cdf97d',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
-    'Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±',
+    '00a5593f-2776-4f89-80d9-9fd0667218d3',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
+    'الجزائر',
     NOW()
   ),
   (
-    '07855e82-9dda-44ce-bc52-0526b990506c',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'bd42b114-1a43-4cd0-8fbe-a522bb0bdabb',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'Algerien',
     NOW()
   ),
   (
-    '7b012482-55b9-4900-a1b3-bf8504bdbaf9',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
+    'f7504966-298f-474f-a958-3066d5b42cb7',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
     'Argelia',
     NOW()
   ),
   (
-    '180392ad-351a-425b-bb07-fe9039d66021',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
-    'AlgÃ©rie',
+    'a568c3de-c8b1-46e3-81fb-3ac2fd40511b',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
+    'Algérie',
     NOW()
   ),
   (
-    '07ba5a31-edb2-417e-a35e-938e4b09a86e',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
-    'é˜¿å°”åŠåˆ©äºš',
+    'dd60ecf6-ac7a-47a0-9d7c-ab9ef78e8001',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
+    '阿尔及利亚',
     NOW()
   ),
   (
-    '7cd4dd9d-ecf7-42a0-9fab-d657b5ac8508',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
-    'ÐÐ»Ð¶Ð¸Ñ€',
+    '1b013404-21d4-4102-919f-f41e77c44904',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
+    'Алжир',
     NOW()
   ),
   (
-    '275c4956-733b-4c6c-a0ce-eb4b734f0b9b',
-    '9c12c7b4-7146-4f65-bc96-24015c939d92',
-    'ArgÃ©lia',
+    'a7b50225-4a8f-49ef-b9de-fe342a8ce608',
+    'abe06ae8-5f62-404b-b686-92886e211f33',
+    'Argélia',
     NOW()
   ),
   (
-    '2841d11a-0a23-44f1-8131-83719e4205bd',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'fb55ef8e-a4a3-4a85-bcb5-0d9141aac881',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'Albania',
     NOW()
   ),
   (
-    '2372dcae-e085-4608-b572-2192f2019f33',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '169feae6-2de8-4095-ba8e-975e1eb9d14d',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'Republic of Albania',
     NOW()
   ),
   (
-    'babe1685-6527-45be-af9e-41494bd7e4e2',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'aa094e35-1a96-40d3-9e6b-9adfa3f6c8a8',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'Alb.',
     NOW()
   ),
   (
-    '34a11c25-676c-4145-847f-6d8381067010',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
-    'Ø£Ù„Ø¨Ø§Ù†ÙŠØ§',
+    'f8a8e90a-532d-4024-8b77-a862f706edfe',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
+    'ألبانيا',
     NOW()
   ),
   (
-    '5e2bf114-4737-4d3f-aef1-00a091705529',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    'f96c850d-dc65-4d57-9e1c-ad878ab5932b',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'Albanien',
     NOW()
   ),
   (
-    'ee0e58a0-2084-4d02-ada7-36f74b8f3956',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
+    '3d1f3ae9-a259-40af-b683-d437b7002c6f',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
     'Albanie',
     NOW()
   ),
   (
-    '2d16842a-d593-4fcc-959f-c3e1d7372cff',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
-    'é˜¿å°”å·´å°¼äºš',
+    '31ac1f24-eeda-4117-9e1e-99069be7c2e9',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
+    '阿尔巴尼亚',
     NOW()
   ),
   (
-    'cb7cbb54-af7e-42ce-a0ba-212fb1434cfc',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
-    'ÐÐ»Ð±Ð°Ð½Ð¸Ñ',
+    'ec8749cd-1f80-42c9-b58c-3cd6c307e139',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
+    'Албания',
     NOW()
   ),
   (
-    '33f09560-be48-4a25-bc71-0686fd584929',
-    '4f31f41b-a995-4113-9a5e-b1729a3be65f',
-    'AlbÃ¢nia',
+    '63b36bac-27a8-4831-a98c-36cb27f912e8',
+    '97d2250c-2461-4e85-891d-7efe79ff06b9',
+    'Albânia',
     NOW()
   ),
   (
-    'e6f2c0e0-e411-4c5b-9f09-f4e2a6160a83',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '71793098-aa34-4258-a537-37acf4b57f51',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'Afghanistan',
     NOW()
   ),
   (
-    '5b03207d-3565-48f3-9fc9-85d079632230',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    'e32c9acb-6d9a-4c55-8196-1ea85d7abaf3',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'Islamic State of Afghanistan',
     NOW()
   ),
   (
-    '9cbad7d3-5e9b-497e-9ddf-902940c2e380',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
+    '0c4e2efe-5396-4e14-bff5-9d8a0752b369',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
     'Afg.',
     NOW()
   ),
   (
-    'c2441377-bce1-479b-8941-afd6448b56bf',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
-    'Ø£ÙØºØ§Ù†Ø³ØªØ§Ù†',
+    '574926d1-200d-4a88-bc4e-7bac7bcdd671',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
+    'أفغانستان',
     NOW()
   ),
   (
-    'b47772aa-10fb-402c-a7e2-7e0fd0f79a90',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
-    'AfganistÃ¡n',
+    'f59179d1-8dc1-4d1e-9cae-e565248dc64d',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
+    'Afganistán',
     NOW()
   ),
   (
-    'bebdd3f2-3701-4b14-b406-a9f2943a209d',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
-    'é˜¿å¯Œæ±—',
+    'a11ecf12-26df-4f52-b4d8-407bec3c486e',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
+    '阿富汗',
     NOW()
   ),
   (
-    '67b3fbc4-318b-43b2-9edc-9f3385f7e651',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
-    'ÐÑ„Ð³Ð°Ð½Ð¸ÑÑ‚Ð°Ð½',
+    '7a76888d-f48f-4fa5-b310-7b9a0909f70e',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
+    'Афганистан',
     NOW()
   ),
   (
-    'ab6c8542-3029-4dbe-bc32-e17a303febfd',
-    'ac1ed009-5e89-4412-8a43-f484c532c1bd',
-    'AfeganistÃ£o',
+    'b7974063-6c1c-4ed5-ba72-22e2ba6d31e0',
+    '4ebb945e-bb73-4ee0-b6ca-5f8211557af7',
+    'Afeganistão',
     NOW()
   ),
   (
-    '8c3b46d8-3879-4708-98f5-62ee4bfcc304',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '4a577f01-2e8a-4439-8b8d-b9b93dc20a30',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'Siachen Glacier',
     NOW()
   ),
   (
-    '10cea4b0-1ed9-4bef-857f-483393ea4c47',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '77232d1d-828a-4990-86d1-9279c4b487e8',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'Kashmir',
     NOW()
   ),
   (
-    '0ade2ece-2f68-4adc-8aa5-1e5aa0f73451',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'f81ab2a5-8bca-4b90-91f1-46c75fddba08',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'Siachen',
     NOW()
   ),
   (
-    '75d6a7c7-1a4d-452f-93bb-c3e2ffbac70e',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
-    'Ù†Ù‡Ø± Ø³ÙŠØ§ØªØ´Ù† Ø§Ù„Ø¬Ù„ÙŠØ¯ÙŠ',
+    '47df5915-92eb-4486-a663-8f1bc56938b6',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
+    'نهر سياتشن الجليدي',
     NOW()
   ),
   (
-    'ee8b29b9-3791-4784-9c60-7743a008fbbe',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'f5647892-ac63-4fa5-ac72-810b57f6684e',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'Siachen-Gletscher',
     NOW()
   ),
   (
-    'f585a851-429f-422f-a3e1-b0d593b3d95f',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    'f4aabaa3-20d5-43df-a460-6ae73efd7cdc',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'Glaciar de Siachen',
     NOW()
   ),
   (
-    'b57d69c3-715e-47d6-9f2d-034adc21952d',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
+    '9255c725-88df-4ae5-a73a-11bb10fa9e70',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
     'glacier de Siachen',
     NOW()
   ),
   (
-    'd4a3a7e0-668f-48f7-a817-46b48ea7a417',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
-    'é”¡äºšç´å†°å·',
+    'f40f53a1-ff0b-4b5f-9e01-905e6136f6bf',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
+    '锡亚琴冰川',
     NOW()
   ),
   (
-    '51b9d106-e4f2-45d8-a34a-275dae28e71c',
-    '952c8664-00f9-4fe0-ab3e-563d65370778',
-    'Ð¡Ð¸Ð°Ñ‡ÐµÐ½',
+    '48209421-86ef-43f7-8489-1346aa920d9a',
+    '32e1d21a-e45e-4e88-8592-dfef919e5d9d',
+    'Сиачен',
     NOW()
   ),
   (
-    '24ff6b00-5a94-43b3-b7df-fb77cf7c4ec7',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '4bf4453e-6d6c-4ebb-a159-2955a87622f5',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'Antarctica',
     NOW()
   ),
   (
-    'a45190c5-7955-43ca-a763-64d258a2e329',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '7091d09b-1b0c-43a4-925e-89afb8b50fe2',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'Ant.',
     NOW()
   ),
   (
-    '6631be89-a9bd-49c1-94ff-ef668f1fd203',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
-    'Ø§Ù„Ù‚Ø§Ø±Ø© Ø§Ù„Ù‚Ø·Ø¨ÙŠØ© Ø§Ù„Ø¬Ù†ÙˆØ¨ÙŠØ©',
+    '39ac94bc-97bf-400d-a438-e4eb7f8e9c82',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
+    'القارة القطبية الجنوبية',
     NOW()
   ),
   (
-    '21be00c8-8efa-4da0-b857-bad3732d6005',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '936e5006-7959-4536-b7fa-7ef17004dda9',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'Antarktika',
     NOW()
   ),
   (
-    '39542b73-9463-4cc6-ae25-a52f5c8156de',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
-    'AntÃ¡rtida',
+    '9ae758d7-0ae4-4977-bbe2-228a40b4d868',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
+    'Antártida',
     NOW()
   ),
   (
-    'e937f511-ece3-4e03-828e-2df12f71df32',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
+    '2a54c5ca-c4fe-4e76-983f-33580a87e229',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
     'Antarctique',
     NOW()
   ),
   (
-    '2c12b0ce-a317-4cea-aca7-c4b405e8aa61',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
-    'å—æžæ´²',
+    'c99705d1-c395-401f-a95d-c8769402de5e',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
+    '南极洲',
     NOW()
   ),
   (
-    'c546112c-b1f7-497f-b222-16eda30d0f24',
-    '6c4fddd8-5731-476f-bf43-bcdc88aa0675',
-    'ÐÐ½Ñ‚Ð°Ñ€ÐºÑ‚Ð¸Ð´Ð°',
+    '06182dad-ecda-4f7e-8d03-c124d1f47619',
+    '10c09482-831d-42ce-99d4-8d33e59cb608',
+    'Антарктида',
     NOW()
   ),
   (
-    '86f4d734-96d4-4754-9c4a-eb34a0b43ec3',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'c82eec14-19d6-447c-a4f1-f453fec7b669',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'Sint Maarten',
     NOW()
   ),
   (
-    '56ad2c82-891a-49f6-8603-ac2daffe703c',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    'f68219ba-01c3-4422-b930-65837feaf702',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'Sint Maarten (Dutch part)',
     NOW()
   ),
   (
-    '0e84e851-dee2-440f-a460-3727b1ecab0d',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '8885e2ea-8823-4c0c-92b5-eead71d17ddf',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'Netherlands',
     NOW()
   ),
   (
-    'c3e9f0c0-52a3-4a24-aff1-80a5e9492a3d',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '76d8961b-94d3-4d83-94f0-be92a24bd4d0',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'St. M.',
     NOW()
   ),
   (
-    '23fd11a2-104b-402a-9884-fe4ccd7e7881',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
-    'Ø³ÙŠÙ†Øª Ù…Ø§Ø±ØªÙ†',
+    '7c8e7100-394b-4b14-9b07-43f705a30454',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
+    'سينت مارتن',
     NOW()
   ),
   (
-    'a0588204-7338-4732-8542-3f8b8ede6286',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
-    'San MartÃ­n',
+    '54c470b6-1ace-4297-b6d7-04b11c6cbc6f',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
+    'San Martín',
     NOW()
   ),
   (
-    '832e4190-a5b0-4bba-9fe1-739d83650e1a',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
+    '72ac1593-4333-4ecd-ac85-8d150c16aa2c',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
     'Saint-Martin',
     NOW()
   ),
   (
-    '3e11bd98-5dad-4fd8-bbe5-c1b1a71dfa2d',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
-    'è·å±žåœ£é©¬ä¸',
+    'a8e00eac-930a-4f47-b6e3-bdd864360d72',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
+    '荷属圣马丁',
     NOW()
   ),
   (
-    '9956e0c4-551a-4933-8a7c-ee7abd8e215e',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
-    'Ð¡Ð¸Ð½Ñ‚-ÐœÐ°Ñ€Ñ‚ÐµÐ½',
+    '3797a3a3-f2da-4b19-81ba-207cd31d173f',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
+    'Синт-Мартен',
     NOW()
   ),
   (
-    '292e617e-f161-4142-be74-c80c9a609d96',
-    '5d972e69-4aaa-46dc-959c-8e9fdbfc0662',
-    'SÃ£o Martinho',
+    '265e84b2-4378-4f19-b022-86550028bec1',
+    '8fab7921-6ec1-4926-b56b-2bb01bcff313',
+    'São Martinho',
     NOW()
   ),
   (
-    '518aeb35-bb8e-40ed-a7cf-bd256e873588',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '313bbc7d-e4fe-420f-b5c4-7104e3115864',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'Tuvalu',
     NOW()
   ),
   (
-    '3809ae18-86af-49d9-9a01-ebfb619cbd57',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
+    '0a4c5683-a8af-445d-ab87-f628b04da376',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
     'Tuv.',
     NOW()
   ),
   (
-    '751d5886-e51b-4cc2-8d60-1ff99a001106',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
-    'ØªÙˆÙØ§Ù„Ùˆ',
+    'da96cfb5-c666-4666-9c9d-9adc0d180c0c',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
+    'توفالو',
     NOW()
   ),
   (
-    '7b4c41ae-8289-40bb-89fe-9c8dcc1e246e',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
-    'å›¾ç“¦å¢',
+    '099a5366-ac1b-4b18-96e1-7da0be194aa8',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
+    '图瓦卢',
     NOW()
   ),
   (
-    '05574c93-094c-4b59-9aeb-d9915309abbf',
-    '8dad416d-b9b7-45e1-8b70-4918e0a3bb4a',
-    'Ð¢ÑƒÐ²Ð°Ð»Ñƒ',
+    '3ee4ed47-4291-47a8-8a33-72cad7adad23',
+    'e41ec271-9a05-486b-a5ba-a70a19b1c7e0',
+    'Тувалу',
     NOW()
   )
 ON CONFLICT (id) DO NOTHING;

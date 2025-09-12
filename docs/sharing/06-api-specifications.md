@@ -708,6 +708,49 @@ X-RateLimit-Reset: 1640995200
 X-RateLimit-Retry-After: 3600
 ```
 
+### 14. Get Region By Point (RPC)
+
+Returns the region at a specified level (default: `country`) that contains a lon/lat point. Useful for map click selection.
+
+Call via Supabase RPC from the frontend:
+
+```typescript
+const { data, error } = await supabase.rpc('get_region_by_point', {
+  lon: clickLng,
+  lat: clickLat,
+  lookup_level: 'country', // optional, defaults to 'country'
+  include_geometry: false, // optional; set true if you need the polygon
+});
+
+// data is an array with up to one row: [{ id, name, level, parent_id, boundary? }]
+```
+
+Response shape:
+
+```typescript
+interface RegionByPointRow {
+  id: string;
+  name: string;
+  level:
+    | 'continent'
+    | 'world_region'
+    | 'country'
+    | 'state'
+    | 'province'
+    | 'district'
+    | 'town'
+    | 'village';
+  parent_id: string | null;
+  boundary?: unknown; // Returned only when include_geometry = true
+}
+```
+
+Notes:
+
+- Uses spatial index on `regions.boundary`.
+- Returns the smallest-area match if multiple polygons intersect the point.
+- Region levels come from the `region_level` enum.
+
 ## Caching Strategy
 
 ### Cache Keys

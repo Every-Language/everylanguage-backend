@@ -362,6 +362,10 @@ type PostgrestFilterLike<T> = {
 };
 type SupabaseClientLike = {
   from: <T = unknown>(table: string) => PostgrestFilterLike<T>;
+  rpc: <T = unknown>(
+    fn: string,
+    args: Record<string, unknown>
+  ) => Promise<{ data: T | null; error: PostgrestErrorLike }>;
 };
 
 // Fetch latest app_downloads.id for a user (ordered by downloaded_at desc, fallback to id desc)
@@ -645,17 +649,11 @@ Deno.serve(async (req: Request): Promise<Response> => {
             // For sessions table, also set location metadata
             if (table === 'sessions') {
               record.location_source = 'ip';
-              record.country_code =
-                cachedGeo.country_code ?? cachedGeo.country_iso;
-              record.continent_code = cachedGeo.continent_code;
-              record.region_code = cachedGeo.region_code ?? cachedGeo.region;
+              // country/continent/region codes will be normalized from point below
 
               structuredLog('info', 'IP geolocation enrichment applied', {
                 ...opLog,
                 clientIp,
-                countryCode: record.country_code,
-                continentCode: record.continent_code,
-                regionCode: record.region_code,
                 city: cachedGeo.city,
               });
             }
@@ -680,6 +678,35 @@ Deno.serve(async (req: Request): Promise<Response> => {
               // leave as-is on parse failure
             }
           }
+        }
+
+        // Normalize country_code from point for sessions and app_downloads
+        try {
+          const loc = record.location as
+            | { type: string; coordinates: [number, number] }
+            | undefined;
+          if (loc && loc.type === 'Point' && Array.isArray(loc.coordinates)) {
+            const [lon, lat] = loc.coordinates;
+            const { data: ccData, error: ccErr } = await supabaseClient.rpc(
+              'get_country_code_from_point',
+              {
+                lon,
+                lat,
+              }
+            );
+            if (!ccErr && ccData) {
+              // Apply to sessions and app_downloads
+              if (table === 'sessions' || table === 'app_downloads') {
+                record.country_code = ccData;
+              }
+            }
+          }
+        } catch (geoErr) {
+          structuredLog('warn', 'Failed to classify country from point', {
+            ...opLog,
+            error:
+              geoErr instanceof Error ? geoErr.message : 'Unknown geo error',
+          });
         }
 
         // Idempotent upsert by id
