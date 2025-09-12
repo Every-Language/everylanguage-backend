@@ -15,10 +15,16 @@ function toHex(buffer: ArrayBuffer): string {
     .join('');
 }
 
+function toArrayBuffer(bytes: Uint8Array): ArrayBuffer {
+  const ab = new ArrayBuffer(bytes.byteLength);
+  new Uint8Array(ab).set(bytes);
+  return ab;
+}
+
 async function sha256Hex(input: string | Uint8Array): Promise<string> {
-  const data =
+  const bytes =
     typeof input === 'string' ? new TextEncoder().encode(input) : input;
-  const hash = await crypto.subtle.digest('SHA-256', data);
+  const hash = await crypto.subtle.digest('SHA-256', toArrayBuffer(bytes));
   return toHex(hash);
 }
 
@@ -26,15 +32,16 @@ async function hmacSha256(
   key: ArrayBuffer | Uint8Array,
   data: string
 ): Promise<ArrayBuffer> {
-  const keyData = key instanceof Uint8Array ? key : new Uint8Array(key);
+  const keyBytes = key instanceof Uint8Array ? key : new Uint8Array(key);
   const cryptoKey = await crypto.subtle.importKey(
     'raw',
-    keyData,
+    toArrayBuffer(keyBytes),
     { name: 'HMAC', hash: 'SHA-256' },
     false,
     ['sign']
   );
-  return crypto.subtle.sign('HMAC', cryptoKey, new TextEncoder().encode(data));
+  const dataBytes = new TextEncoder().encode(data);
+  return crypto.subtle.sign('HMAC', cryptoKey, toArrayBuffer(dataBytes));
 }
 
 async function getSigningKey(
