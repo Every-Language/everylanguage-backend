@@ -34,7 +34,11 @@ WITH
         'base_member',
         'Base Member'
       ),
-      ('base'::resource_type, 'base_staff', 'Base Staff'),
+      (
+        'base'::resource_type,
+        'base_leader',
+        'Base Leader'
+      ),
       ('base'::resource_type, 'base_admin', 'Base Admin'),
       (
         'partner'::resource_type,
@@ -114,7 +118,7 @@ WITH
         ('team'::resource_type, 'team_leader'),
         ('team'::resource_type, 'team_admin'),
         ('base'::resource_type, 'base_member'),
-        ('base'::resource_type, 'base_staff'),
+        ('base'::resource_type, 'base_leader'),
         ('base'::resource_type, 'base_admin'),
         ('partner'::resource_type, 'partner_member'),
         ('partner'::resource_type, 'partner_leader'),
@@ -204,12 +208,12 @@ WITH
       ),
       (
         'base'::resource_type,
-        'base_staff',
+        'base_leader',
         'base.read'::permission_key
       ),
       (
         'base'::resource_type,
-        'base_staff',
+        'base_leader',
         'base.write'::permission_key
       ),
       (

@@ -8,23 +8,62 @@
 INSERT INTO
   roles (id, name, role_key, resource_type)
 VALUES
+  -- Team roles
   (
-    '550e8400-e29b-41d4-a716-446655440001',
-    'member',
-    'member',
-    NULL
+    '550e8400-e29b-41d4-a716-446655440301',
+    'Team Member',
+    'team_member',
+    'team'
   ),
   (
-    '550e8400-e29b-41d4-a716-446655440002',
-    'leader',
-    'leader',
-    NULL
+    '550e8400-e29b-41d4-a716-446655440302',
+    'Team Leader',
+    'team_leader',
+    'team'
   ),
   (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'administrator',
-    'administrator',
-    NULL
+    '550e8400-e29b-41d4-a716-446655440303',
+    'Team Admin',
+    'team_admin',
+    'team'
+  ),
+  -- Base roles
+  (
+    '550e8400-e29b-41d4-a716-446655440401',
+    'Base Member',
+    'base_member',
+    'base'
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440402',
+    'Base Staff',
+    'base_staff',
+    'base'
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440403',
+    'Base Admin',
+    'base_admin',
+    'base'
+  ),
+  -- Partner roles
+  (
+    '550e8400-e29b-41d4-a716-446655440501',
+    'Partner Organization Member',
+    'partner_member',
+    'partner'
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440502',
+    'Partner Organization Leader',
+    'partner_leader',
+    'partner'
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440503',
+    'Partner Organization Admin',
+    'partner_admin',
+    'partner'
   ),
   (
     '550e8400-e29b-41d4-a716-446655440101',
@@ -323,35 +362,35 @@ VALUES
   (
     '770e8400-e29b-41d4-a716-446655440001',
     '660e8400-e29b-41d4-a716-446655440001',
-    '550e8400-e29b-41d4-a716-446655440002'
+    '550e8400-e29b-41d4-a716-446655440402'
   ),
   (
     '770e8400-e29b-41d4-a716-446655440001',
     '660e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440002'
+    '550e8400-e29b-41d4-a716-446655440402'
   ),
   -- FF Pohkara January Quarter 2025 -> Pokhara base with member role
   (
     '770e8400-e29b-41d4-a716-446655440002',
     '660e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440001'
+    '550e8400-e29b-41d4-a716-446655440401'
   ),
   -- OMT Pokhara 1 -> Port Harcourt and Pokhara with administrator role
   (
     '770e8400-e29b-41d4-a716-446655440003',
     '660e8400-e29b-41d4-a716-446655440002',
-    '550e8400-e29b-41d4-a716-446655440003'
+    '550e8400-e29b-41d4-a716-446655440403'
   ),
   (
     '770e8400-e29b-41d4-a716-446655440003',
     '660e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440003'
+    '550e8400-e29b-41d4-a716-446655440403'
   ),
   -- OMT Pokhara 2 -> Pokhara only with leader role
   (
     '770e8400-e29b-41d4-a716-446655440004',
     '660e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440002'
+    '550e8400-e29b-41d4-a716-446655440402'
   )
 ON CONFLICT (team_id, base_id, role_id) DO NOTHING;
 
@@ -452,42 +491,42 @@ VALUES
   -- Sarah Johnson - Administrator in FF Kona April Quarter 2025
   (
     '880e8400-e29b-41d4-a716-446655440001',
-    '550e8400-e29b-41d4-a716-446655440003',
+    '550e8400-e29b-41d4-a716-446655440303',
     'team',
     '770e8400-e29b-41d4-a716-446655440001'
   ),
   -- Michael Chen - Leader in FF Kona April Quarter 2025  
   (
     '880e8400-e29b-41d4-a716-446655440002',
-    '550e8400-e29b-41d4-a716-446655440002',
+    '550e8400-e29b-41d4-a716-446655440302',
     'team',
     '770e8400-e29b-41d4-a716-446655440001'
   ),
   -- Priya Sharma - Member in FF Pohkara January Quarter 2025
   (
     '880e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440001',
+    '550e8400-e29b-41d4-a716-446655440301',
     'team',
     '770e8400-e29b-41d4-a716-446655440002'
   ),
   -- David Wilson - Leader in OMT Pokhara 1
   (
     '880e8400-e29b-41d4-a716-446655440004',
-    '550e8400-e29b-41d4-a716-446655440002',
+    '550e8400-e29b-41d4-a716-446655440302',
     'team',
     '770e8400-e29b-41d4-a716-446655440003'
   ),
   -- Anne Okafor - Administrator in OMT Pokhara 1
   (
     '880e8400-e29b-41d4-a716-446655440005',
-    '550e8400-e29b-41d4-a716-446655440003',
+    '550e8400-e29b-41d4-a716-446655440303',
     'team',
     '770e8400-e29b-41d4-a716-446655440003'
   ),
   -- Raj Patel - Member in OMT Pokhara 2
   (
     '880e8400-e29b-41d4-a716-446655440006',
-    '550e8400-e29b-41d4-a716-446655440001',
+    '550e8400-e29b-41d4-a716-446655440301',
     'team',
     '770e8400-e29b-41d4-a716-446655440004'
   )
@@ -506,56 +545,56 @@ VALUES
   -- Sarah Johnson - Administrator at Kona base
   (
     '880e8400-e29b-41d4-a716-446655440001',
-    '550e8400-e29b-41d4-a716-446655440003',
+    '550e8400-e29b-41d4-a716-446655440403',
     'base',
     '660e8400-e29b-41d4-a716-446655440001'
   ),
   -- Michael Chen - Leader at Pokhara base
   (
     '880e8400-e29b-41d4-a716-446655440002',
-    '550e8400-e29b-41d4-a716-446655440002',
+    '550e8400-e29b-41d4-a716-446655440402',
     'base',
     '660e8400-e29b-41d4-a716-446655440003'
   ),
   -- Priya Sharma - Member at Pokhara base
   (
     '880e8400-e29b-41d4-a716-446655440003',
-    '550e8400-e29b-41d4-a716-446655440001',
+    '550e8400-e29b-41d4-a716-446655440401',
     'base',
     '660e8400-e29b-41d4-a716-446655440003'
   ),
   -- David Wilson - Administrator at Port Harcourt base
   (
     '880e8400-e29b-41d4-a716-446655440004',
-    '550e8400-e29b-41d4-a716-446655440003',
+    '550e8400-e29b-41d4-a716-446655440403',
     'base',
     '660e8400-e29b-41d4-a716-446655440002'
   ),
   -- Anne Okafor - Leader at Port Harcourt base
   (
     '880e8400-e29b-41d4-a716-446655440005',
-    '550e8400-e29b-41d4-a716-446655440002',
+    '550e8400-e29b-41d4-a716-446655440402',
     'base',
     '660e8400-e29b-41d4-a716-446655440002'
   ),
   -- Raj Patel - Member at Pokhara base
   (
     '880e8400-e29b-41d4-a716-446655440006',
-    '550e8400-e29b-41d4-a716-446655440001',
+    '550e8400-e29b-41d4-a716-446655440401',
     'base',
     '660e8400-e29b-41d4-a716-446655440003'
   ),
   -- Lisa Martinez - Leader at Kona base (no team)
   (
     '880e8400-e29b-41d4-a716-446655440007',
-    '550e8400-e29b-41d4-a716-446655440002',
+    '550e8400-e29b-41d4-a716-446655440402',
     'base',
     '660e8400-e29b-41d4-a716-446655440001'
   ),
   -- John Doe - Member at Port Harcourt base (no team)
   (
     '880e8400-e29b-41d4-a716-446655440008',
-    '550e8400-e29b-41d4-a716-446655440001',
+    '550e8400-e29b-41d4-a716-446655440401',
     'base',
     '660e8400-e29b-41d4-a716-446655440002'
   )
@@ -574,72 +613,7 @@ INSERT INTO
     is_allowed
   )
 VALUES
-  (
-    '550e8400-e29b-41d4-a716-446655440001',
-    'project',
-    'project.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440001',
-    'base',
-    'base.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440002',
-    'project',
-    'project.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440002',
-    'project',
-    'project.write',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440002',
-    'base',
-    'base.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440002',
-    'base',
-    'base.write',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'project',
-    'project.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'project',
-    'project.write',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'team',
-    'team.read',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'team',
-    'team.write',
-    TRUE
-  ),
-  (
-    '550e8400-e29b-41d4-a716-446655440003',
-    'team',
-    'team.manage_roles',
-    TRUE
-  ),
+  -- Project roles
   (
     '550e8400-e29b-41d4-a716-446655440101',
     'project',
@@ -688,6 +662,117 @@ VALUES
     'project.invite',
     TRUE
   ),
+  -- Team roles
+  (
+    '550e8400-e29b-41d4-a716-446655440301',
+    'team',
+    'team.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440302',
+    'team',
+    'team.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440302',
+    'team',
+    'team.write',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440303',
+    'team',
+    'team.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440303',
+    'team',
+    'team.write',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440303',
+    'team',
+    'team.delete',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440303',
+    'team',
+    'team.manage_roles',
+    TRUE
+  ),
+  -- Base roles
+  (
+    '550e8400-e29b-41d4-a716-446655440401',
+    'base',
+    'base.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440402',
+    'base',
+    'base.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440402',
+    'base',
+    'base.write',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440403',
+    'base',
+    'base.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440403',
+    'base',
+    'base.write',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440403',
+    'base',
+    'base.delete',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440403',
+    'base',
+    'base.manage_roles',
+    TRUE
+  ),
+  -- Partner roles
+  (
+    '550e8400-e29b-41d4-a716-446655440501',
+    'partner',
+    'partner.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440502',
+    'partner',
+    'partner.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440503',
+    'partner',
+    'partner.read',
+    TRUE
+  ),
+  (
+    '550e8400-e29b-41d4-a716-446655440503',
+    'partner',
+    'partner.manage_roles',
+    TRUE
+  ),
   (
     '550e8400-e29b-41d4-a716-446655440200',
     'global',
@@ -697,6 +782,67 @@ VALUES
 ON CONFLICT (role_id, resource_type, permission_key) DO NOTHING;
 
 
+-- =========================================================================
+-- SET created_by for bases and teams (ownership for testing)
+-- =========================================================================
+-- Bases
+UPDATE public.bases
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440001' -- Sarah Johnson
+WHERE
+  id = '660e8400-e29b-41d4-a716-446655440001';
+
+
+-- Kona
+UPDATE public.bases
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440004' -- David Wilson
+WHERE
+  id = '660e8400-e29b-41d4-a716-446655440002';
+
+
+-- Port Harcourt
+UPDATE public.bases
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440002' -- Michael Chen
+WHERE
+  id = '660e8400-e29b-41d4-a716-446655440003';
+
+
+-- Pokhara
+-- Teams
+UPDATE public.teams
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440001' -- Sarah Johnson
+WHERE
+  id = '770e8400-e29b-41d4-a716-446655440001';
+
+
+-- FF Kona April Quarter 2025
+UPDATE public.teams
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440003' -- Priya Sharma
+WHERE
+  id = '770e8400-e29b-41d4-a716-446655440002';
+
+
+-- FF Pohkara January Quarter 2025
+UPDATE public.teams
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440005' -- Anne Okafor
+WHERE
+  id = '770e8400-e29b-41d4-a716-446655440003';
+
+
+-- OMT Pokhara 1
+UPDATE public.teams
+SET
+  created_by = '880e8400-e29b-41d4-a716-446655440006' -- Raj Patel
+WHERE
+  id = '770e8400-e29b-41d4-a716-446655440004';
+
+
+-- OMT Pokhara 2
 -- ============================================================================
 -- VERIFICATION QUERIES (run these to verify the seed worked)
 -- ============================================================================
