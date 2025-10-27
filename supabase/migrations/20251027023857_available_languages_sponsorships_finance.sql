@@ -135,54 +135,7 @@ CREATE TABLE IF NOT EXISTS public.sponsorships (
 ALTER TABLE public.sponsorships enable ROW level security;
 
 
--- Read if member of partner org OR has contribution.read on linked/allocated project
-DROP POLICY if EXISTS sponsorships_partner_or_project_read ON public.sponsorships;
-
-
-CREATE POLICY sponsorships_partner_or_project_read ON public.sponsorships FOR
-SELECT
-  TO authenticated USING (
-    -- Partner org membership via user_roles
-    EXISTS (
-      SELECT
-        1
-      FROM
-        public.user_roles ur
-        JOIN public.roles r ON r.id = ur.role_id
-        AND r.resource_type = 'partner'
-      WHERE
-        ur.user_id = auth.uid ()
-        AND ur.context_type = 'partner'
-        AND ur.context_id = partner_org_id
-    )
-    OR (
-      project_id IS NOT NULL
-      AND public.has_permission (
-        auth.uid (),
-        'contribution.read',
-        'project',
-        project_id
-      )
-    )
-    OR (
-      EXISTS (
-        SELECT
-          1
-        FROM
-          public.sponsorship_allocations sa
-        WHERE
-          sa.sponsorship_id = public.sponsorships.id
-          AND public.has_permission (
-            auth.uid (),
-            'contribution.read',
-            'project',
-            sa.project_id
-          )
-      )
-    )
-  );
-
-
+-- moved below after sponsorship_allocations is created
 -- Partner leaders/admins can write; system_admin always allowed
 DROP POLICY if EXISTS sponsorships_partner_write ON public.sponsorships;
 
@@ -322,6 +275,54 @@ CREATE POLICY sponsorship_allocations_admin_write ON public.sponsorship_allocati
 WITH
   CHECK (
     public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
+  );
+
+
+-- Now that sponsorship_allocations exists, add sponsorships read policy
+DROP POLICY if EXISTS sponsorships_partner_or_project_read ON public.sponsorships;
+
+
+CREATE POLICY sponsorships_partner_or_project_read ON public.sponsorships FOR
+SELECT
+  TO authenticated USING (
+    -- Partner org membership via user_roles
+    EXISTS (
+      SELECT
+        1
+      FROM
+        public.user_roles ur
+        JOIN public.roles r ON r.id = ur.role_id
+        AND r.resource_type = 'partner'
+      WHERE
+        ur.user_id = auth.uid ()
+        AND ur.context_type = 'partner'
+        AND ur.context_id = partner_org_id
+    )
+    OR (
+      project_id IS NOT NULL
+      AND public.has_permission (
+        auth.uid (),
+        'contribution.read',
+        'project',
+        project_id
+      )
+    )
+    OR (
+      EXISTS (
+        SELECT
+          1
+        FROM
+          public.sponsorship_allocations sa
+        WHERE
+          sa.sponsorship_id = public.sponsorships.id
+          AND public.has_permission (
+            auth.uid (),
+            'contribution.read',
+            'project',
+            sa.project_id
+          )
+      )
+    )
   );
 
 
