@@ -17,10 +17,10 @@ export type Database = {
     Functions: {
       graphql: {
         Args: {
-          extensions?: Json
-          operationName?: string
           query?: string
           variables?: Json
+          extensions?: Json
+          operationName?: string
         }
         Returns: Json
       }
@@ -37,6 +37,8 @@ export type Database = {
       app_downloads: {
         Row: {
           app_version: string
+          continent_code: string | null
+          country_code: string | null
           device_id: string
           downloaded_at: string | null
           id: string
@@ -45,10 +47,13 @@ export type Database = {
           os: string | null
           os_version: string | null
           platform: Database["public"]["Enums"]["platform_type"]
+          region_code: string | null
           user_id: string | null
         }
         Insert: {
           app_version: string
+          continent_code?: string | null
+          country_code?: string | null
           device_id: string
           downloaded_at?: string | null
           id?: string
@@ -57,10 +62,13 @@ export type Database = {
           os?: string | null
           os_version?: string | null
           platform: Database["public"]["Enums"]["platform_type"]
+          region_code?: string | null
           user_id?: string | null
         }
         Update: {
           app_version?: string
+          continent_code?: string | null
+          country_code?: string | null
           device_id?: string
           downloaded_at?: string | null
           id?: string
@@ -69,6 +77,7 @@ export type Database = {
           os?: string | null
           os_version?: string | null
           platform?: Database["public"]["Enums"]["platform_type"]
+          region_code?: string | null
           user_id?: string | null
         }
         Relationships: [
@@ -393,8 +402,22 @@ export type Database = {
             foreignKeyName: "chapters_book_id_fkey"
             columns: ["book_id"]
             isOneToOne: false
+            referencedRelation: "audio_book_coverage"
+            referencedColumns: ["book_id"]
+          },
+          {
+            foreignKeyName: "chapters_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
             referencedRelation: "books"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "chapters_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "text_book_coverage"
+            referencedColumns: ["book_id"]
           },
         ]
       }
@@ -914,8 +937,29 @@ export type Database = {
             foreignKeyName: "media_files_audio_version_id_fkey"
             columns: ["audio_version_id"]
             isOneToOne: false
+            referencedRelation: "audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "media_files_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
             referencedRelation: "audio_versions"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_audio_version"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "media_files_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
           },
           {
             foreignKeyName: "media_files_chapter_id_fkey"
@@ -1100,8 +1144,29 @@ export type Database = {
             foreignKeyName: "media_files_verses_denormalized_audio_version_id_fkey"
             columns: ["denormalized_audio_version_id"]
             isOneToOne: false
+            referencedRelation: "audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_denormalized_audio_version_id_fkey"
+            columns: ["denormalized_audio_version_id"]
+            isOneToOne: false
             referencedRelation: "audio_versions"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_denormalized_audio_version_id_fkey"
+            columns: ["denormalized_audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_audio_version"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "media_files_verses_denormalized_audio_version_id_fkey"
+            columns: ["denormalized_audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
           },
           {
             foreignKeyName: "media_files_verses_media_file_id_fkey"
@@ -1152,8 +1217,22 @@ export type Database = {
             foreignKeyName: "passages_book_id_fkey"
             columns: ["book_id"]
             isOneToOne: false
+            referencedRelation: "audio_book_coverage"
+            referencedColumns: ["book_id"]
+          },
+          {
+            foreignKeyName: "passages_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
             referencedRelation: "books"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "passages_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "text_book_coverage"
+            referencedColumns: ["book_id"]
           },
           {
             foreignKeyName: "passages_created_by_fkey"
@@ -1337,6 +1416,27 @@ export type Database = {
             referencedColumns: ["id"]
           },
         ]
+      }
+      progress_refresh_queue: {
+        Row: {
+          enqueued_at: string | null
+          id: number
+          kind: string
+          version_id: string
+        }
+        Insert: {
+          enqueued_at?: string | null
+          id?: number
+          kind: string
+          version_id: string
+        }
+        Update: {
+          enqueued_at?: string | null
+          id?: number
+          kind?: string
+          version_id?: string
+        }
+        Relationships: []
       }
       projects: {
         Row: {
@@ -1596,7 +1696,14 @@ export type Database = {
       }
       regions: {
         Row: {
+          bbox_max_lat: number | null
+          bbox_max_lon: number | null
+          bbox_min_lat: number | null
+          bbox_min_lon: number | null
           boundary: unknown | null
+          boundary_simplified: unknown | null
+          center_lat: number | null
+          center_lon: number | null
           created_at: string | null
           deleted_at: string | null
           id: string
@@ -1606,7 +1713,14 @@ export type Database = {
           updated_at: string | null
         }
         Insert: {
+          bbox_max_lat?: number | null
+          bbox_max_lon?: number | null
+          bbox_min_lat?: number | null
+          bbox_min_lon?: number | null
           boundary?: unknown | null
+          boundary_simplified?: unknown | null
+          center_lat?: number | null
+          center_lon?: number | null
           created_at?: string | null
           deleted_at?: string | null
           id?: string
@@ -1616,7 +1730,14 @@ export type Database = {
           updated_at?: string | null
         }
         Update: {
+          bbox_max_lat?: number | null
+          bbox_max_lon?: number | null
+          bbox_min_lat?: number | null
+          bbox_min_lon?: number | null
           boundary?: unknown | null
+          boundary_simplified?: unknown | null
+          center_lat?: number | null
+          center_lon?: number | null
           created_at?: string | null
           deleted_at?: string | null
           id?: string
@@ -1793,8 +1914,22 @@ export type Database = {
             foreignKeyName: "sequences_book_id_fkey"
             columns: ["book_id"]
             isOneToOne: false
+            referencedRelation: "audio_book_coverage"
+            referencedColumns: ["book_id"]
+          },
+          {
+            foreignKeyName: "sequences_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
             referencedRelation: "books"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "sequences_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "text_book_coverage"
+            referencedColumns: ["book_id"]
           },
           {
             foreignKeyName: "sequences_created_by_fkey"
@@ -2064,7 +2199,7 @@ export type Database = {
           created_at: string | null
           id: string
           opened_at: string | null
-          origin_share_id: string | null
+          parent_share_id: string | null
           session_id: string | null
           share_id: string
           user_id: string | null
@@ -2073,7 +2208,7 @@ export type Database = {
           created_at?: string | null
           id?: string
           opened_at?: string | null
-          origin_share_id?: string | null
+          parent_share_id?: string | null
           session_id?: string | null
           share_id: string
           user_id?: string | null
@@ -2082,31 +2217,17 @@ export type Database = {
           created_at?: string | null
           id?: string
           opened_at?: string | null
-          origin_share_id?: string | null
+          parent_share_id?: string | null
           session_id?: string | null
           share_id?: string
           user_id?: string | null
         }
         Relationships: [
           {
-            foreignKeyName: "share_opens_origin_share_id_fkey"
-            columns: ["origin_share_id"]
-            isOneToOne: false
-            referencedRelation: "shares"
-            referencedColumns: ["id"]
-          },
-          {
             foreignKeyName: "share_opens_session_id_fkey"
             columns: ["session_id"]
             isOneToOne: false
             referencedRelation: "sessions"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "share_opens_share_id_fkey"
-            columns: ["share_id"]
-            isOneToOne: false
-            referencedRelation: "shares"
             referencedColumns: ["id"]
           },
           {
@@ -2122,7 +2243,7 @@ export type Database = {
         Row: {
           id: string
           language_entity_id: string
-          origin_share_id: string | null
+          parent_share_id: string | null
           session_id: string
           share_entity_id: string
           share_entity_type: Database["public"]["Enums"]["share_entity_type"]
@@ -2132,7 +2253,7 @@ export type Database = {
         Insert: {
           id?: string
           language_entity_id: string
-          origin_share_id?: string | null
+          parent_share_id?: string | null
           session_id: string
           share_entity_id: string
           share_entity_type: Database["public"]["Enums"]["share_entity_type"]
@@ -2142,7 +2263,7 @@ export type Database = {
         Update: {
           id?: string
           language_entity_id?: string
-          origin_share_id?: string | null
+          parent_share_id?: string | null
           session_id?: string
           share_entity_id?: string
           share_entity_type?: Database["public"]["Enums"]["share_entity_type"]
@@ -2155,13 +2276,6 @@ export type Database = {
             columns: ["language_entity_id"]
             isOneToOne: false
             referencedRelation: "language_entities"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "shares_origin_share_id_fkey"
-            columns: ["origin_share_id"]
-            isOneToOne: false
-            referencedRelation: "shares"
             referencedColumns: ["id"]
           },
           {
@@ -2534,8 +2648,50 @@ export type Database = {
             foreignKeyName: "user_current_selections_selected_audio_version_fkey"
             columns: ["selected_audio_version"]
             isOneToOne: false
+            referencedRelation: "audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_audio_version_fkey"
+            columns: ["selected_audio_version"]
+            isOneToOne: false
             referencedRelation: "audio_versions"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_audio_version_fkey"
+            columns: ["selected_audio_version"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_audio_version"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_audio_version_fkey"
+            columns: ["selected_audio_version"]
+            isOneToOne: false
+            referencedRelation: "mv_audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_text_version_fkey"
+            columns: ["selected_text_version"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_text_version_fkey"
+            columns: ["selected_text_version"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_current_selections_selected_text_version_fkey"
+            columns: ["selected_text_version"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
           },
           {
             foreignKeyName: "user_current_selections_selected_text_version_fkey"
@@ -2709,8 +2865,29 @@ export type Database = {
             foreignKeyName: "user_saved_audio_versions_audio_version_id_fkey"
             columns: ["audio_version_id"]
             isOneToOne: false
+            referencedRelation: "audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_saved_audio_versions_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
             referencedRelation: "audio_versions"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_saved_audio_versions_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_audio_version"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_saved_audio_versions_audio_version_id_fkey"
+            columns: ["audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
           },
           {
             foreignKeyName: "user_saved_audio_versions_user_id_fkey"
@@ -2787,6 +2964,27 @@ export type Database = {
             foreignKeyName: "user_saved_text_versions_text_version_id_fkey"
             columns: ["text_version_id"]
             isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_saved_text_versions_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_saved_text_versions_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_saved_text_versions_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
             referencedRelation: "text_versions"
             referencedColumns: ["id"]
           },
@@ -2829,8 +3027,50 @@ export type Database = {
             foreignKeyName: "user_version_selections_current_audio_version_id_fkey"
             columns: ["current_audio_version_id"]
             isOneToOne: false
+            referencedRelation: "audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_audio_version_id_fkey"
+            columns: ["current_audio_version_id"]
+            isOneToOne: false
             referencedRelation: "audio_versions"
             referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_audio_version_id_fkey"
+            columns: ["current_audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_audio_version"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_audio_version_id_fkey"
+            columns: ["current_audio_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_audio_version_progress_summary"
+            referencedColumns: ["audio_version_id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_text_version_id_fkey"
+            columns: ["current_text_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_text_version_id_fkey"
+            columns: ["current_text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "user_version_selections_current_text_version_id_fkey"
+            columns: ["current_text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
           },
           {
             foreignKeyName: "user_version_selections_current_text_version_id_fkey"
@@ -3067,6 +3307,27 @@ export type Database = {
             foreignKeyName: "verse_texts_text_version_id_fkey"
             columns: ["text_version_id"]
             isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
             referencedRelation: "text_versions"
             referencedColumns: ["id"]
           },
@@ -3116,6 +3377,57 @@ export type Database = {
       }
     }
     Views: {
+      audio_book_coverage: {
+        Row: {
+          audio_version_id: string | null
+          book_id: string | null
+          complete_chapters: number | null
+          is_complete: boolean | null
+          total_chapters: number | null
+        }
+        Relationships: []
+      }
+      audio_chapter_coverage: {
+        Row: {
+          audio_version_id: string | null
+          chapter_id: string | null
+          covered_verses: number | null
+          has_any: boolean | null
+          is_complete: boolean | null
+          total_verses: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verses_chapter_id_fkey"
+            columns: ["chapter_id"]
+            isOneToOne: false
+            referencedRelation: "chapters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      audio_verse_coverage: {
+        Row: {
+          audio_version_id: string | null
+          verse_id: string | null
+        }
+        Relationships: []
+      }
+      audio_version_progress_summary: {
+        Row: {
+          audio_version_id: string | null
+          book_fraction: number | null
+          books_complete: number | null
+          chapter_fraction: number | null
+          chapters_with_audio: number | null
+          covered_verses: number | null
+          total_books: number | null
+          total_chapters: number | null
+          total_verses: number | null
+          verse_fraction: number | null
+        }
+        Relationships: []
+      }
       geography_columns: {
         Row: {
           coord_dimension: number | null
@@ -3158,63 +3470,270 @@ export type Database = {
         }
         Relationships: []
       }
-      passages_with_playlist_id: {
+      language_entity_best_audio_version: {
         Row: {
-          book_id: string | null
-          created_at: string | null
-          created_by: string | null
-          end_verse_id: string | null
-          id: string | null
-          playlist_id: string | null
-          start_verse_id: string | null
-          updated_at: string | null
+          audio_version_id: string | null
+          language_entity_id: string | null
         }
         Relationships: [
           {
-            foreignKeyName: "passages_book_id_fkey"
-            columns: ["book_id"]
+            foreignKeyName: "audio_versions_language_entity_id_fkey"
+            columns: ["language_entity_id"]
             isOneToOne: false
-            referencedRelation: "books"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "passages_created_by_fkey"
-            columns: ["created_by"]
-            isOneToOne: false
-            referencedRelation: "users"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "passages_end_verse_id_fkey"
-            columns: ["end_verse_id"]
-            isOneToOne: false
-            referencedRelation: "verses"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "passages_start_verse_id_fkey"
-            columns: ["start_verse_id"]
-            isOneToOne: false
-            referencedRelation: "verses"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "playlist_items_playlist_id_fkey"
-            columns: ["playlist_id"]
-            isOneToOne: false
-            referencedRelation: "playlists"
+            referencedRelation: "language_entities"
             referencedColumns: ["id"]
           },
         ]
       }
+      language_entity_best_text_version: {
+        Row: {
+          language_entity_id: string | null
+          text_version_id: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "text_versions_language_entity_id_fkey"
+            columns: ["language_entity_id"]
+            isOneToOne: false
+            referencedRelation: "language_entities"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      mv_audio_version_progress_summary: {
+        Row: {
+          audio_version_id: string | null
+          book_fraction: number | null
+          books_complete: number | null
+          chapter_fraction: number | null
+          chapters_with_audio: number | null
+          covered_verses: number | null
+          total_books: number | null
+          total_chapters: number | null
+          total_verses: number | null
+          verse_fraction: number | null
+        }
+        Relationships: []
+      }
+      mv_language_listens_stats: {
+        Row: {
+          country_code: string | null
+          downloads: number | null
+          language_entity_id: string | null
+          last_download_at: string | null
+          last_listened_at: string | null
+          popular_chapters: Json | null
+          region_id: string | null
+          total_listened_seconds: number | null
+        }
+        Relationships: []
+      }
+      mv_text_version_progress_summary: {
+        Row: {
+          book_fraction: number | null
+          books_complete: number | null
+          chapter_fraction: number | null
+          complete_chapters: number | null
+          covered_verses: number | null
+          text_version_id: string | null
+          total_books: number | null
+          total_chapters: number | null
+          total_verses: number | null
+          verse_fraction: number | null
+        }
+        Relationships: []
+      }
+      text_book_coverage: {
+        Row: {
+          book_id: string | null
+          complete_chapters: number | null
+          is_complete: boolean | null
+          text_version_id: string | null
+          total_chapters: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_versions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      text_chapter_coverage: {
+        Row: {
+          chapter_id: string | null
+          is_complete: boolean | null
+          text_version_id: string | null
+          total_verses: number | null
+          verses_with_text: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verses_chapter_id_fkey"
+            columns: ["chapter_id"]
+            isOneToOne: false
+            referencedRelation: "chapters"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      text_verse_coverage: {
+        Row: {
+          text_version_id: string | null
+          verse_id: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "language_entity_best_text_version"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "mv_text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_version_progress_summary"
+            referencedColumns: ["text_version_id"]
+          },
+          {
+            foreignKeyName: "verse_texts_text_version_id_fkey"
+            columns: ["text_version_id"]
+            isOneToOne: false
+            referencedRelation: "text_versions"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "verse_texts_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      text_version_progress_summary: {
+        Row: {
+          book_fraction: number | null
+          books_complete: number | null
+          chapter_fraction: number | null
+          complete_chapters: number | null
+          covered_verses: number | null
+          text_version_id: string | null
+          total_books: number | null
+          total_chapters: number | null
+          total_verses: number | null
+          verse_fraction: number | null
+        }
+        Relationships: []
+      }
+      vw_country_language_listens_heatmap: {
+        Row: {
+          country_code: string | null
+          event_count: number | null
+          grid: unknown | null
+          language_entity_id: string | null
+          last_event_at: string | null
+          region_id: string | null
+        }
+        Relationships: []
+      }
+      vw_iso_country_to_region: {
+        Row: {
+          code: string | null
+          region_id: string | null
+        }
+        Relationships: []
+      }
+      vw_language_listens_heatmap: {
+        Row: {
+          event_count: number | null
+          grid: unknown | null
+          language_entity_id: string | null
+          last_event_at: string | null
+        }
+        Relationships: []
+      }
+      vw_language_listens_stats: {
+        Row: {
+          country_code: string | null
+          downloads: number | null
+          language_entity_id: string | null
+          last_download_at: string | null
+          last_listened_at: string | null
+          popular_chapters: Json | null
+          region_id: string | null
+          total_listened_seconds: number | null
+        }
+        Relationships: []
+      }
     }
     Functions: {
-      __deprecate: {
-        Args: { newname: string; version: string; oldname: string }
+      _postgis_deprecate: {
+        Args: { newname: string; oldname: string; version: string }
         Returns: undefined
       }
-      __index_extent: {
-        Args: { col: string; tbl: unknown }
+      _postgis_index_extent: {
+        Args: { tbl: unknown; col: string }
         Returns: unknown
       }
       _postgis_pgsql_version: {
@@ -3225,8 +3744,8 @@ export type Database = {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      __selectivity: {
-        Args: { att_name: string; tbl: unknown; geom: unknown; mode?: string }
+      _postgis_selectivity: {
+        Args: { mode?: string; tbl: unknown; att_name: string; geom: unknown }
         Returns: number
       }
       _st_3dintersects: {
@@ -3312,10 +3831,10 @@ export type Database = {
       }
       _st_voronoi: {
         Args: {
-          return_polygons?: boolean
           g1: unknown
           clip?: unknown
           tolerance?: number
+          return_polygons?: boolean
         }
         Returns: unknown
       }
@@ -3330,31 +3849,31 @@ export type Database = {
       addgeometrycolumn: {
         Args:
           | {
-              new_dim: number
               column_name: string
-              use_typmod?: boolean
-              new_type: string
               new_srid: number
+              new_type: string
+              new_dim: number
+              use_typmod?: boolean
               table_name: string
+            }
+          | {
               schema_name: string
-            }
-          | {
+              use_typmod?: boolean
               new_dim: number
+              new_type: string
               new_srid: number
               column_name: string
               table_name: string
-              use_typmod?: boolean
-              new_type: string
             }
           | {
-              new_srid_in: number
+              use_typmod?: boolean
+              new_dim: number
               catalog_name: string
-              schema_name: string
-              table_name: string
+              new_srid_in: number
               column_name: string
               new_type: string
-              new_dim: number
-              use_typmod?: boolean
+              schema_name: string
+              table_name: string
             }
         Returns: string
       }
@@ -3402,32 +3921,47 @@ export type Database = {
         Args: { "": unknown } | { "": unknown }
         Returns: string
       }
+      cp1252_softmap: {
+        Args: { input: string }
+        Returns: string
+      }
       disablelongtransactions: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
+      drain_progress_refresh_queue: {
+        Args: Record<PropertyKey, never>
+        Returns: {
+          kind: string
+          version_id: string
+        }[]
+      }
       dropgeometrycolumn: {
         Args:
-          | { column_name: string; schema_name: string; table_name: string }
-          | { column_name: string; table_name: string }
           | {
               schema_name: string
               catalog_name: string
               table_name: string
               column_name: string
             }
+          | { table_name: string; column_name: string }
+          | { table_name: string; schema_name: string; column_name: string }
         Returns: string
       }
       dropgeometrytable: {
         Args:
           | { schema_name: string; table_name: string }
           | { table_name: string }
-          | { table_name: string; schema_name: string; catalog_name: string }
+          | { table_name: string; catalog_name: string; schema_name: string }
         Returns: string
       }
       enablelongtransactions: {
         Args: Record<PropertyKey, never>
         Returns: string
+      }
+      enqueue_progress_refresh: {
+        Args: { version_in: string; kind_in: string }
+        Returns: undefined
       }
       equals: {
         Args: { geom1: unknown; geom2: unknown }
@@ -3482,7 +4016,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_above: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_analyze: {
@@ -3514,7 +4048,7 @@ export type Database = {
         Returns: number
       }
       geometry_distance_centroid: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: number
       }
       geometry_eq: {
@@ -3558,11 +4092,11 @@ export type Database = {
         Returns: unknown
       }
       geometry_le: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_left: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_lt: {
@@ -3574,7 +4108,7 @@ export type Database = {
         Returns: unknown
       }
       geometry_overabove: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: boolean
       }
       geometry_overbelow: {
@@ -3590,7 +4124,7 @@ export type Database = {
         Returns: boolean
       }
       geometry_overleft: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: boolean
       }
       geometry_overright: {
@@ -3661,19 +4195,23 @@ export type Database = {
         Args: { chapter_text_id: string } | { chapter_uuid: string }
         Returns: number
       }
+      get_country_code_from_point: {
+        Args: { lon: number; lat: number }
+        Returns: string
+      }
       get_language_entity_hierarchy: {
         Args: {
-          entity_id: string
           generations_up?: number
           generations_down?: number
+          entity_id: string
         }
         Returns: {
-          hierarchy_entity_id: string
-          hierarchy_entity_name: string
-          hierarchy_entity_level: string
-          hierarchy_parent_id: string
-          relationship_type: string
           generation_distance: number
+          relationship_type: string
+          hierarchy_parent_id: string
+          hierarchy_entity_level: string
+          hierarchy_entity_name: string
+          hierarchy_entity_id: string
         }[]
       }
       get_language_entity_path: {
@@ -3684,6 +4222,37 @@ export type Database = {
         Args: { "": number }
         Returns: string
       }
+      get_region_bbox_by_id: {
+        Args: { p_region_id: string }
+        Returns: {
+          level: Database["public"]["Enums"]["region_level"]
+          id: string
+          name: string
+          parent_id: string
+          min_lon: number
+          min_lat: number
+          max_lon: number
+          max_lat: number
+          center_lon: number
+          center_lat: number
+        }[]
+      }
+      get_region_boundary_simplified_by_id: {
+        Args: { p_tolerance?: number; p_region_id: string }
+        Returns: {
+          boundary: unknown
+        }[]
+      }
+      get_region_header_and_properties_by_id: {
+        Args: { p_region_id: string }
+        Returns: {
+          id: string
+          name: string
+          level: Database["public"]["Enums"]["region_level"]
+          parent_id: string
+          properties: Json
+        }[]
+      }
       get_region_hierarchy: {
         Args: {
           region_id: string
@@ -3691,12 +4260,31 @@ export type Database = {
           generations_down?: number
         }
         Returns: {
-          hierarchy_region_id: string
           hierarchy_region_name: string
-          hierarchy_region_level: string
-          hierarchy_parent_id: string
-          relationship_type: string
+          hierarchy_region_id: string
           generation_distance: number
+          relationship_type: string
+          hierarchy_parent_id: string
+          hierarchy_region_level: string
+        }[]
+      }
+      get_region_minimal_by_point: {
+        Args: {
+          lon: number
+          lookup_level?: Database["public"]["Enums"]["region_level"]
+          lat: number
+        }
+        Returns: {
+          id: string
+          name: string
+          level: Database["public"]["Enums"]["region_level"]
+          parent_id: string
+          min_lon: number
+          min_lat: number
+          max_lon: number
+          max_lat: number
+          center_lon: number
+          center_lat: number
         }[]
       }
       get_region_path: {
@@ -3747,9 +4335,25 @@ export type Database = {
         Args: { "": unknown }
         Returns: Json
       }
+      list_languages_for_region: {
+        Args: { p_include_descendants?: boolean; p_region_id: string }
+        Returns: {
+          id: string
+          name: string
+          level: Database["public"]["Enums"]["language_entity_level"]
+        }[]
+      }
       longtransactionsenabled: {
         Args: Record<PropertyKey, never>
         Returns: boolean
+      }
+      mojibake_fix_hard: {
+        Args: { value: string }
+        Returns: string
+      }
+      mojibake_fix_multi: {
+        Args: { value: string }
+        Returns: string
       }
       path: {
         Args: { "": unknown }
@@ -3813,39 +4417,39 @@ export type Database = {
           | { use_typmod?: boolean; tbl_oid: unknown }
         Returns: string
       }
-      _addbbox: {
+      postgis_addbbox: {
         Args: { "": unknown }
         Returns: unknown
       }
-      _constraint_dims: {
-        Args: { geomschema: string; geomcolumn: string; geomtable: string }
+      postgis_constraint_dims: {
+        Args: { geomschema: string; geomtable: string; geomcolumn: string }
         Returns: number
       }
-      _constraint_srid: {
-        Args: { geomtable: string; geomschema: string; geomcolumn: string }
+      postgis_constraint_srid: {
+        Args: { geomschema: string; geomtable: string; geomcolumn: string }
         Returns: number
       }
-      _constraint_type: {
+      postgis_constraint_type: {
         Args: { geomschema: string; geomtable: string; geomcolumn: string }
         Returns: string
       }
-      _dropbbox: {
+      postgis_dropbbox: {
         Args: { "": unknown }
         Returns: unknown
       }
-      _extensions_upgrade: {
+      postgis_extensions_upgrade: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      _full_version: {
+      postgis_full_version: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
-      _geos_noop: {
+      postgis_geos_noop: {
         Args: { "": unknown }
         Returns: unknown
       }
-      _geos_version: {
+      postgis_geos_version: {
         Args: Record<PropertyKey, never>
         Returns: string
       }
@@ -3943,10 +4547,10 @@ export type Database = {
       }
       recommend_language_versions: {
         Args: {
-          filter_type?: Database["public"]["Enums"]["version_filter_type"]
-          max_results?: number
           lookback_days?: number
           include_regions?: boolean
+          filter_type?: Database["public"]["Enums"]["version_filter_type"]
+          max_results?: number
         }
         Returns: {
           similarity_threshold_used: number
@@ -3968,47 +4572,63 @@ export type Database = {
         Args: Record<PropertyKey, never>
         Returns: undefined
       }
+      refresh_progress_materialized_views_concurrently: {
+        Args: Record<PropertyKey, never>
+        Returns: undefined
+      }
+      refresh_progress_materialized_views_full: {
+        Args: Record<PropertyKey, never>
+        Returns: undefined
+      }
+      refresh_progress_materialized_views_safe: {
+        Args: Record<PropertyKey, never>
+        Returns: undefined
+      }
+      refresh_region_spatial_cache: {
+        Args: { p_region_id: string }
+        Returns: undefined
+      }
       search_language_aliases: {
         Args: {
-          search_query: string
-          max_results?: number
-          min_similarity?: number
           include_regions?: boolean
+          min_similarity?: number
+          max_results?: number
+          search_query: string
         }
         Returns: {
-          similarity_threshold_used: number
           alias_id: string
-          alias_name: string
-          alias_similarity_score: number
-          entity_id: string
-          entity_name: string
+          similarity_threshold_used: number
           entity_level: string
           entity_parent_id: string
           regions: Json
+          entity_name: string
+          entity_id: string
+          alias_similarity_score: number
+          alias_name: string
         }[]
       }
       search_language_aliases_with_versions: {
         Args: {
-          search_query: string
-          filter_type?: Database["public"]["Enums"]["version_filter_type"]
           max_results?: number
           min_similarity?: number
           include_regions?: boolean
+          search_query: string
+          filter_type?: Database["public"]["Enums"]["version_filter_type"]
         }
         Returns: {
-          similarity_threshold_used: number
-          alias_id: string
-          alias_name: string
-          alias_similarity_score: number
-          entity_id: string
-          entity_name: string
-          entity_level: string
-          entity_parent_id: string
-          regions: Json
-          audio_version_count: number
-          text_version_count: number
-          audio_versions: Json
           text_versions: Json
+          audio_versions: Json
+          text_version_count: number
+          audio_version_count: number
+          regions: Json
+          entity_parent_id: string
+          entity_level: string
+          entity_name: string
+          entity_id: string
+          alias_similarity_score: number
+          alias_name: string
+          alias_id: string
+          similarity_threshold_used: number
         }[]
       }
       search_region_aliases: {
@@ -4019,9 +4639,9 @@ export type Database = {
           include_languages?: boolean
         }
         Returns: {
+          alias_name: string
           similarity_threshold_used: number
           alias_id: string
-          alias_name: string
           alias_similarity_score: number
           region_id: string
           region_name: string
@@ -4051,7 +4671,7 @@ export type Database = {
         Returns: unknown
       }
       st_3dclosestpoint: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: unknown
       }
       st_3ddistance: {
@@ -4093,7 +4713,7 @@ export type Database = {
       st_angle: {
         Args:
           | { line1: unknown; line2: unknown }
-          | { pt2: unknown; pt1: unknown; pt3: unknown; pt4?: unknown }
+          | { pt1: unknown; pt3: unknown; pt4?: unknown; pt2: unknown }
         Returns: number
       }
       st_area: {
@@ -4208,21 +4828,21 @@ export type Database = {
       st_astwkb: {
         Args:
           | {
-              prec_z?: number
-              with_boxes?: boolean
-              with_sizes?: boolean
-              prec?: number
               prec_m?: number
-              ids: number[]
-              geom: unknown[]
-            }
-          | {
-              with_boxes?: boolean
               geom: unknown
               prec?: number
               prec_z?: number
+              with_sizes?: boolean
+              with_boxes?: boolean
+            }
+          | {
+              with_boxes?: boolean
+              ids: number[]
+              geom: unknown[]
               prec_m?: number
               with_sizes?: boolean
+              prec?: number
+              prec_z?: number
             }
         Returns: string
       }
@@ -4327,11 +4947,11 @@ export type Database = {
         Returns: boolean
       }
       st_curvetoline: {
-        Args: { toltype?: number; flags?: number; geom: unknown; tol?: number }
+        Args: { tol?: number; flags?: number; geom: unknown; toltype?: number }
         Returns: unknown
       }
       st_delaunaytriangles: {
-        Args: { flags?: number; g1: unknown; tolerance?: number }
+        Args: { g1: unknown; tolerance?: number; flags?: number }
         Returns: unknown
       }
       st_difference: {
@@ -4401,9 +5021,9 @@ export type Database = {
       }
       st_expand: {
         Args:
-          | { box: unknown; dz?: number; dy: number; dx: number }
-          | { dx: number; geom: unknown; dm?: number; dz?: number; dy: number }
-          | { dy: number; box: unknown; dx: number }
+          | { box: unknown; dx: number; dy: number }
+          | { dx: number; dy: number; dz?: number; box: unknown }
+          | { geom: unknown; dx: number; dy: number; dz?: number; dm?: number }
         Returns: unknown
       }
       st_exteriorring: {
@@ -4419,7 +5039,7 @@ export type Database = {
         Returns: unknown
       }
       st_force3d: {
-        Args: { zvalue?: number; geom: unknown }
+        Args: { geom: unknown; zvalue?: number }
         Returns: unknown
       }
       st_force3dm: {
@@ -4427,11 +5047,11 @@ export type Database = {
         Returns: unknown
       }
       st_force3dz: {
-        Args: { zvalue?: number; geom: unknown }
+        Args: { geom: unknown; zvalue?: number }
         Returns: unknown
       }
       st_force4d: {
-        Args: { mvalue?: number; geom: unknown; zvalue?: number }
+        Args: { mvalue?: number; zvalue?: number; geom: unknown }
         Returns: unknown
       }
       st_forcecollection: {
@@ -4552,11 +5172,11 @@ export type Database = {
         Returns: boolean
       }
       st_hausdorffdistance: {
-        Args: { geom2: unknown; geom1: unknown }
+        Args: { geom1: unknown; geom2: unknown }
         Returns: number
       }
       st_hexagon: {
-        Args: { origin?: unknown; cell_j: number; cell_i: number; size: number }
+        Args: { cell_j: number; size: number; cell_i: number; origin?: unknown }
         Returns: unknown
       }
       st_hexagongrid: {
@@ -4678,15 +5298,15 @@ export type Database = {
       }
       st_locatebetween: {
         Args: {
-          tomeasure: number
           leftrightoffset?: number
-          geometry: unknown
+          tomeasure: number
           frommeasure: number
+          geometry: unknown
         }
         Returns: unknown
       }
       st_locatebetweenelevations: {
-        Args: { fromelevation: number; geometry: unknown; toelevation: number }
+        Args: { geometry: unknown; fromelevation: number; toelevation: number }
         Returns: unknown
       }
       st_longestline: {
@@ -4698,11 +5318,11 @@ export type Database = {
         Returns: number
       }
       st_makebox2d: {
-        Args: { geom1: unknown; geom2: unknown }
+        Args: { geom2: unknown; geom1: unknown }
         Returns: unknown
       }
       st_makeline: {
-        Args: { "": unknown[] } | { geom2: unknown; geom1: unknown }
+        Args: { "": unknown[] } | { geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_makepolygon: {
@@ -4710,7 +5330,7 @@ export type Database = {
         Returns: unknown
       }
       st_makevalid: {
-        Args: { "": unknown } | { params: string; geom: unknown }
+        Args: { "": unknown } | { geom: unknown; params: string }
         Returns: unknown
       }
       st_maxdistance: {
@@ -4884,19 +5504,19 @@ export type Database = {
       }
       st_pointz: {
         Args: {
-          srid?: number
           xcoordinate: number
           ycoordinate: number
           zcoordinate: number
+          srid?: number
         }
         Returns: unknown
       }
       st_pointzm: {
         Args: {
-          mcoordinate: number
-          ycoordinate: number
           zcoordinate: number
           srid?: number
+          ycoordinate: number
+          mcoordinate: number
           xcoordinate: number
         }
         Returns: unknown
@@ -4928,10 +5548,10 @@ export type Database = {
       st_quantizecoordinates: {
         Args: {
           prec_y?: number
-          prec_m?: number
           g: unknown
-          prec_x: number
+          prec_m?: number
           prec_z?: number
+          prec_x: number
         }
         Returns: unknown
       }
@@ -4944,7 +5564,7 @@ export type Database = {
         Returns: string
       }
       st_removerepeatedpoints: {
-        Args: { tolerance?: number; geom: unknown }
+        Args: { geom: unknown; tolerance?: number }
         Returns: unknown
       }
       st_reverse: {
@@ -4956,7 +5576,7 @@ export type Database = {
         Returns: unknown
       }
       st_setsrid: {
-        Args: { geog: unknown; srid: number } | { srid: number; geom: unknown }
+        Args: { geog: unknown; srid: number } | { geom: unknown; srid: number }
         Returns: unknown
       }
       st_sharedpaths: {
@@ -4972,7 +5592,7 @@ export type Database = {
         Returns: unknown
       }
       st_simplifypolygonhull: {
-        Args: { is_outer?: boolean; geom: unknown; vertex_fraction: number }
+        Args: { geom: unknown; vertex_fraction: number; is_outer?: boolean }
         Returns: unknown
       }
       st_split: {
@@ -4980,7 +5600,7 @@ export type Database = {
         Returns: unknown
       }
       st_square: {
-        Args: { size: number; origin?: unknown; cell_j: number; cell_i: number }
+        Args: { cell_i: number; cell_j: number; origin?: unknown; size: number }
         Returns: unknown
       }
       st_squaregrid: {
@@ -4996,7 +5616,7 @@ export type Database = {
         Returns: unknown
       }
       st_subdivide: {
-        Args: { geom: unknown; maxvertices?: number; gridsize?: number }
+        Args: { gridsize?: number; geom: unknown; maxvertices?: number }
         Returns: unknown[]
       }
       st_summary: {
@@ -5008,7 +5628,7 @@ export type Database = {
         Returns: unknown
       }
       st_symdifference: {
-        Args: { geom1: unknown; geom2: unknown; gridsize?: number }
+        Args: { gridsize?: number; geom1: unknown; geom2: unknown }
         Returns: unknown
       }
       st_symmetricdifference: {
@@ -5017,11 +5637,11 @@ export type Database = {
       }
       st_tileenvelope: {
         Args: {
+          y: number
+          bounds?: unknown
           margin?: number
           zoom: number
           x: number
-          y: number
-          bounds?: unknown
         }
         Returns: unknown
       }
@@ -5031,9 +5651,9 @@ export type Database = {
       }
       st_transform: {
         Args:
-          | { from_proj: string; geom: unknown; to_proj: string }
-          | { from_proj: string; geom: unknown; to_srid: number }
-          | { to_proj: string; geom: unknown }
+          | { geom: unknown; from_proj: string; to_proj: string }
+          | { geom: unknown; to_proj: string }
+          | { to_srid: number; from_proj: string; geom: unknown }
         Returns: unknown
       }
       st_triangulatepolygon: {
@@ -5052,7 +5672,7 @@ export type Database = {
         Returns: unknown
       }
       st_voronoipolygons: {
-        Args: { tolerance?: number; g1: unknown; extend_to?: unknown }
+        Args: { tolerance?: number; extend_to?: unknown; g1: unknown }
         Returns: unknown
       }
       st_within: {
@@ -5068,7 +5688,7 @@ export type Database = {
         Returns: unknown
       }
       st_wrapx: {
-        Args: { move: number; wrap: number; geom: unknown }
+        Args: { geom: unknown; move: number; wrap: number }
         Returns: unknown
       }
       st_x: {
@@ -5115,23 +5735,31 @@ export type Database = {
         Args: { "": unknown }
         Returns: string
       }
+      try_fix_mojibake: {
+        Args: { value: string }
+        Returns: string
+      }
+      try_fix_mojibake_v2: {
+        Args: { value: string }
+        Returns: string
+      }
       unlockrows: {
         Args: { "": string }
         Returns: number
       }
       updategeometrysrid: {
         Args: {
+          column_name: string
           table_name: string
           new_srid_in: number
-          column_name: string
-          catalogn_name: string
           schema_name: string
+          catalogn_name: string
         }
         Returns: string
       }
       validate_verse_range: {
         Args:
-          | { start_verse_text_id: string; end_verse_text_id: string }
+          | { end_verse_text_id: string; start_verse_text_id: string }
           | { start_verse_uuid: string; end_verse_uuid: string }
         Returns: boolean
       }
