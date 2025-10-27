@@ -52,3 +52,6 @@ assets/data/
 
 # Cursor
 .cursor/
+
+# Keys
+docs/migration/keys/*
