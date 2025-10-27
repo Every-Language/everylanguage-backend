@@ -61,25 +61,37 @@ ALTER TABLE public.language_adoptions enable ROW level security;
 
 
 -- Public read access (anon + authenticated)
-CREATE POLICY if NOT EXISTS language_adoptions_public_read ON public.language_adoptions FOR
+DROP POLICY if EXISTS language_adoptions_public_read ON public.language_adoptions;
+
+
+CREATE POLICY language_adoptions_public_read ON public.language_adoptions FOR
 SELECT
   TO anon USING (TRUE);
 
 
-CREATE POLICY if NOT EXISTS language_adoptions_auth_read ON public.language_adoptions FOR
+DROP POLICY if EXISTS language_adoptions_auth_read ON public.language_adoptions;
+
+
+CREATE POLICY language_adoptions_auth_read ON public.language_adoptions FOR
 SELECT
   TO authenticated USING (TRUE);
 
 
 -- Admin-only writes
-CREATE POLICY if NOT EXISTS language_adoptions_admin_insert ON public.language_adoptions FOR insert TO authenticated
+DROP POLICY if EXISTS language_adoptions_admin_insert ON public.language_adoptions;
+
+
+CREATE POLICY language_adoptions_admin_insert ON public.language_adoptions FOR insert TO authenticated
 WITH
   CHECK (
     public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
   );
 
 
-CREATE POLICY if NOT EXISTS language_adoptions_admin_update ON public.language_adoptions
+DROP POLICY if EXISTS language_adoptions_admin_update ON public.language_adoptions;
+
+
+CREATE POLICY language_adoptions_admin_update ON public.language_adoptions
 FOR UPDATE
   TO authenticated USING (
     public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
@@ -90,7 +102,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS language_adoptions_admin_delete ON public.language_adoptions FOR delete TO authenticated USING (
+DROP POLICY if EXISTS language_adoptions_admin_delete ON public.language_adoptions;
+
+
+CREATE POLICY language_adoptions_admin_delete ON public.language_adoptions FOR delete TO authenticated USING (
   public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
 );
 
@@ -121,7 +136,10 @@ ALTER TABLE public.sponsorships enable ROW level security;
 
 
 -- Read if member of partner org OR has contribution.read on linked/allocated project
-CREATE POLICY if NOT EXISTS sponsorships_partner_or_project_read ON public.sponsorships FOR
+DROP POLICY if EXISTS sponsorships_partner_or_project_read ON public.sponsorships;
+
+
+CREATE POLICY sponsorships_partner_or_project_read ON public.sponsorships FOR
 SELECT
   TO authenticated USING (
     -- Partner org membership via user_roles
@@ -166,7 +184,10 @@ SELECT
 
 
 -- Partner leaders/admins can write; system_admin always allowed
-CREATE POLICY if NOT EXISTS sponsorships_partner_write ON public.sponsorships FOR insert TO authenticated
+DROP POLICY if EXISTS sponsorships_partner_write ON public.sponsorships;
+
+
+CREATE POLICY sponsorships_partner_write ON public.sponsorships FOR insert TO authenticated
 WITH
   CHECK (
     public.has_permission (
@@ -179,7 +200,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS sponsorships_partner_update ON public.sponsorships
+DROP POLICY if EXISTS sponsorships_partner_update ON public.sponsorships;
+
+
+CREATE POLICY sponsorships_partner_update ON public.sponsorships
 FOR UPDATE
   TO authenticated USING (
     public.has_permission (
@@ -202,7 +226,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS sponsorships_admin_delete ON public.sponsorships FOR delete TO authenticated USING (
+DROP POLICY if EXISTS sponsorships_admin_delete ON public.sponsorships;
+
+
+CREATE POLICY sponsorships_admin_delete ON public.sponsorships FOR delete TO authenticated USING (
   public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
 );
 
@@ -257,7 +284,10 @@ EXECUTE function public.validate_allocation_sum ();
 ALTER TABLE public.sponsorship_allocations enable ROW level security;
 
 
-CREATE POLICY if NOT EXISTS sponsorship_allocations_read ON public.sponsorship_allocations FOR
+DROP POLICY if EXISTS sponsorship_allocations_read ON public.sponsorship_allocations;
+
+
+CREATE POLICY sponsorship_allocations_read ON public.sponsorship_allocations FOR
 SELECT
   TO authenticated USING (
     -- Partner org membership on the parent sponsorship
@@ -283,7 +313,10 @@ SELECT
   );
 
 
-CREATE POLICY if NOT EXISTS sponsorship_allocations_admin_write ON public.sponsorship_allocations FOR ALL TO authenticated USING (
+DROP POLICY if EXISTS sponsorship_allocations_admin_write ON public.sponsorship_allocations;
+
+
+CREATE POLICY sponsorship_allocations_admin_write ON public.sponsorship_allocations FOR ALL TO authenticated USING (
   public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
 )
 WITH
@@ -344,7 +377,10 @@ ALTER TABLE public.project_budget_items enable ROW level security;
 
 
 -- Read by project members and linked partner org users
-CREATE POLICY if NOT EXISTS project_budgets_read ON public.project_budgets FOR
+DROP POLICY if EXISTS project_budgets_read ON public.project_budgets;
+
+
+CREATE POLICY project_budgets_read ON public.project_budgets FOR
 SELECT
   TO authenticated USING (
     public.has_permission (auth.uid (), 'budget.read', 'project', project_id)
@@ -366,7 +402,10 @@ SELECT
 
 
 -- Write budgets: project_admin (budget.write) and system_admin
-CREATE POLICY if NOT EXISTS project_budgets_write ON public.project_budgets FOR insert TO authenticated
+DROP POLICY if EXISTS project_budgets_write ON public.project_budgets;
+
+
+CREATE POLICY project_budgets_write ON public.project_budgets FOR insert TO authenticated
 WITH
   CHECK (
     public.has_permission (
@@ -379,7 +418,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_budgets_update ON public.project_budgets
+DROP POLICY if EXISTS project_budgets_update ON public.project_budgets;
+
+
+CREATE POLICY project_budgets_update ON public.project_budgets
 FOR UPDATE
   TO authenticated USING (
     public.has_permission (
@@ -402,7 +444,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_budgets_delete ON public.project_budgets FOR delete TO authenticated USING (
+DROP POLICY if EXISTS project_budgets_delete ON public.project_budgets;
+
+
+CREATE POLICY project_budgets_delete ON public.project_budgets FOR delete TO authenticated USING (
   public.has_permission (
     auth.uid (),
     'budget.write',
@@ -414,7 +459,10 @@ CREATE POLICY if NOT EXISTS project_budgets_delete ON public.project_budgets FOR
 
 
 -- Items: read similar to budgets
-CREATE POLICY if NOT EXISTS project_budget_items_read ON public.project_budget_items FOR
+DROP POLICY if EXISTS project_budget_items_read ON public.project_budget_items;
+
+
+CREATE POLICY project_budget_items_read ON public.project_budget_items FOR
 SELECT
   TO authenticated USING (
     EXISTS (
@@ -451,7 +499,10 @@ SELECT
 
 
 -- Items: insert/update own rows by any project member; admins can manage all
-CREATE POLICY if NOT EXISTS project_budget_items_insert ON public.project_budget_items FOR insert TO authenticated
+DROP POLICY if EXISTS project_budget_items_insert ON public.project_budget_items;
+
+
+CREATE POLICY project_budget_items_insert ON public.project_budget_items FOR insert TO authenticated
 WITH
   CHECK (
     EXISTS (
@@ -483,7 +534,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_budget_items_update ON public.project_budget_items
+DROP POLICY if EXISTS project_budget_items_update ON public.project_budget_items;
+
+
+CREATE POLICY project_budget_items_update ON public.project_budget_items
 FOR UPDATE
   TO authenticated USING (
     EXISTS (
@@ -528,7 +582,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_budget_items_delete ON public.project_budget_items FOR delete TO authenticated USING (
+DROP POLICY if EXISTS project_budget_items_delete ON public.project_budget_items;
+
+
+CREATE POLICY project_budget_items_delete ON public.project_budget_items FOR delete TO authenticated USING (
   EXISTS (
     SELECT
       1
@@ -570,7 +627,10 @@ CREATE TABLE IF NOT EXISTS public.project_budget_actual_costs (
 ALTER TABLE public.project_budget_actual_costs enable ROW level security;
 
 
-CREATE POLICY if NOT EXISTS project_actuals_read ON public.project_budget_actual_costs FOR
+DROP POLICY if EXISTS project_actuals_read ON public.project_budget_actual_costs;
+
+
+CREATE POLICY project_actuals_read ON public.project_budget_actual_costs FOR
 SELECT
   TO authenticated USING (
     public.has_permission (auth.uid (), 'budget.read', 'project', project_id)
@@ -591,7 +651,10 @@ SELECT
   );
 
 
-CREATE POLICY if NOT EXISTS project_actuals_insert ON public.project_budget_actual_costs FOR insert TO authenticated
+DROP POLICY if EXISTS project_actuals_insert ON public.project_budget_actual_costs;
+
+
+CREATE POLICY project_actuals_insert ON public.project_budget_actual_costs FOR insert TO authenticated
 WITH
   CHECK (
     (
@@ -613,7 +676,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_actuals_update ON public.project_budget_actual_costs
+DROP POLICY if EXISTS project_actuals_update ON public.project_budget_actual_costs;
+
+
+CREATE POLICY project_actuals_update ON public.project_budget_actual_costs
 FOR UPDATE
   TO authenticated USING (
     created_by = auth.uid ()
@@ -638,7 +704,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS project_actuals_delete ON public.project_budget_actual_costs FOR delete TO authenticated USING (
+DROP POLICY if EXISTS project_actuals_delete ON public.project_budget_actual_costs;
+
+
+CREATE POLICY project_actuals_delete ON public.project_budget_actual_costs FOR delete TO authenticated USING (
   created_by = auth.uid ()
   OR public.has_permission (
     auth.uid (),
@@ -674,7 +743,10 @@ CREATE TABLE IF NOT EXISTS public.contributions (
 ALTER TABLE public.contributions enable ROW level security;
 
 
-CREATE POLICY if NOT EXISTS contributions_read ON public.contributions FOR
+DROP POLICY if EXISTS contributions_read ON public.contributions;
+
+
+CREATE POLICY contributions_read ON public.contributions FOR
 SELECT
   TO authenticated USING (
     -- Partner org membership on the parent sponsorship
@@ -703,7 +775,10 @@ SELECT
   );
 
 
-CREATE POLICY if NOT EXISTS contributions_write ON public.contributions FOR insert TO authenticated
+DROP POLICY if EXISTS contributions_write ON public.contributions;
+
+
+CREATE POLICY contributions_write ON public.contributions FOR insert TO authenticated
 WITH
   CHECK (
     EXISTS (
@@ -726,7 +801,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS contributions_update ON public.contributions
+DROP POLICY if EXISTS contributions_update ON public.contributions;
+
+
+CREATE POLICY contributions_update ON public.contributions
 FOR UPDATE
   TO authenticated USING (
     EXISTS (
@@ -769,7 +847,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS contributions_admin_delete ON public.contributions FOR delete TO authenticated USING (
+DROP POLICY if EXISTS contributions_admin_delete ON public.contributions;
+
+
+CREATE POLICY contributions_admin_delete ON public.contributions FOR delete TO authenticated USING (
   public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
 );
 
@@ -789,7 +870,10 @@ ALTER TABLE public.stripe_events enable ROW level security;
 
 
 -- Only admins can read; inserts will typically use service_role which bypasses RLS
-CREATE POLICY if NOT EXISTS stripe_events_admin_read ON public.stripe_events FOR
+DROP POLICY if EXISTS stripe_events_admin_read ON public.stripe_events;
+
+
+CREATE POLICY stripe_events_admin_read ON public.stripe_events FOR
 SELECT
   TO authenticated USING (
     public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
@@ -811,14 +895,20 @@ CREATE TABLE IF NOT EXISTS public.exchange_rates (
 ALTER TABLE public.exchange_rates enable ROW level security;
 
 
-CREATE POLICY if NOT EXISTS exchange_rates_admin_read ON public.exchange_rates FOR
+DROP POLICY if EXISTS exchange_rates_admin_read ON public.exchange_rates;
+
+
+CREATE POLICY exchange_rates_admin_read ON public.exchange_rates FOR
 SELECT
   TO authenticated USING (
     public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
   );
 
 
-CREATE POLICY if NOT EXISTS exchange_rates_admin_write ON public.exchange_rates FOR ALL TO authenticated USING (
+DROP POLICY if EXISTS exchange_rates_admin_write ON public.exchange_rates;
+
+
+CREATE POLICY exchange_rates_admin_write ON public.exchange_rates FOR ALL TO authenticated USING (
   public.has_permission (auth.uid (), 'system.admin', 'global', NULL::UUID)
 )
 WITH
@@ -854,7 +944,10 @@ ALTER TABLE public.partner_wallets enable ROW level security;
 ALTER TABLE public.partner_wallet_transactions enable ROW level security;
 
 
-CREATE POLICY if NOT EXISTS partner_wallets_read ON public.partner_wallets FOR
+DROP POLICY if EXISTS partner_wallets_read ON public.partner_wallets;
+
+
+CREATE POLICY partner_wallets_read ON public.partner_wallets FOR
 SELECT
   TO authenticated USING (
     EXISTS (
@@ -873,7 +966,10 @@ SELECT
   );
 
 
-CREATE POLICY if NOT EXISTS partner_wallets_write ON public.partner_wallets FOR ALL TO authenticated USING (
+DROP POLICY if EXISTS partner_wallets_write ON public.partner_wallets;
+
+
+CREATE POLICY partner_wallets_write ON public.partner_wallets FOR ALL TO authenticated USING (
   public.has_permission (
     auth.uid (),
     'partner.manage_roles',
@@ -894,7 +990,10 @@ WITH
   );
 
 
-CREATE POLICY if NOT EXISTS partner_wallet_tx_read ON public.partner_wallet_transactions FOR
+DROP POLICY if EXISTS partner_wallet_tx_read ON public.partner_wallet_transactions;
+
+
+CREATE POLICY partner_wallet_tx_read ON public.partner_wallet_transactions FOR
 SELECT
   TO authenticated USING (
     EXISTS (
@@ -914,7 +1013,10 @@ SELECT
   );
 
 
-CREATE POLICY if NOT EXISTS partner_wallet_tx_write ON public.partner_wallet_transactions FOR insert TO authenticated
+DROP POLICY if EXISTS partner_wallet_tx_write ON public.partner_wallet_transactions;
+
+
+CREATE POLICY partner_wallet_tx_write ON public.partner_wallet_transactions FOR insert TO authenticated
 WITH
   CHECK (
     EXISTS (
