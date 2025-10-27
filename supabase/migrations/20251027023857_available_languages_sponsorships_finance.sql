@@ -1048,26 +1048,39 @@ declare
   v_rate numeric;
   v_code text;
 begin
+  -- Guard: null or empty currency yields NULL (unknown conversion)
+  if p_currency_code is null then
+    return null;
+  end if;
+
   v_code := upper(trim(p_currency_code));
+  if v_code = '' then
+    return null;
+  end if;
+
+  -- USD passthrough
   if v_code = 'USD' then
     return p_amount_cents::bigint;
   end if;
+
+  -- Try date-specific rate first
   select (rates ->> v_code)::numeric into v_rate
   from public.exchange_rates er
   where er.as_of_date = p_as_of_date
   order by fetched_at desc
   limit 1;
 
+  -- Fallback to latest available rate
   if v_rate is null then
-    -- fallback to latest available
     select (rates ->> v_code)::numeric into v_rate
     from public.exchange_rates er
     order by as_of_date desc, fetched_at desc
     limit 1;
   end if;
 
+  -- If still missing, return NULL instead of raising
   if v_rate is null then
-    raise exception 'Missing FX rate for %', v_code;
+    return null;
   end if;
 
   return round(p_amount_cents::numeric * v_rate)::bigint;
@@ -1132,6 +1145,7 @@ SELECT
   lb.estimated_total_cents,
   lb.currency_code AS budget_currency_code,
   CASE
+    WHEN lb.currency_code IS NULL THEN NULL
     WHEN lb.currency_code = 'USD' THEN lb.estimated_total_cents::BIGINT
     ELSE public.convert_to_usd (
       lb.estimated_total_cents,
@@ -1144,6 +1158,7 @@ SELECT
   CASE
     WHEN (
       CASE
+        WHEN lb.currency_code IS NULL THEN NULL
         WHEN lb.currency_code = 'USD' THEN lb.estimated_total_cents::BIGINT
         ELSE public.convert_to_usd (
           lb.estimated_total_cents,
@@ -1157,6 +1172,7 @@ SELECT
         f.funding_received_usd_cents::NUMERIC / NULLIF(
           (
             CASE
+              WHEN lb.currency_code IS NULL THEN NULL
               WHEN lb.currency_code = 'USD' THEN lb.estimated_total_cents::BIGINT
               ELSE public.convert_to_usd (
                 lb.estimated_total_cents,
