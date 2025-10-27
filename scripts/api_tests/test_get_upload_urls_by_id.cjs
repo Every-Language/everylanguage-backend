@@ -8,44 +8,56 @@ const SUPABASE_ANON_KEY =
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-async function run(mediaFileIds, imageIds, expirationHours = 1, originalFilenames) {
+async function run(
+  mediaFileIds,
+  imageIds,
+  expirationHours = 1,
+  originalFilenames
+) {
   console.log('🧪 get-upload-urls-by-id');
-  const body = { 
+  const body = {
     mediaFileIds: mediaFileIds.length > 0 ? mediaFileIds : undefined,
     imageIds: imageIds.length > 0 ? imageIds : undefined,
     expirationHours,
-    originalFilenames: originalFilenames && Object.keys(originalFilenames).length > 0 ? originalFilenames : undefined
+    originalFilenames:
+      originalFilenames && Object.keys(originalFilenames).length > 0
+        ? originalFilenames
+        : undefined,
   };
-  
+
   console.log('📤 Request body:', JSON.stringify(body, null, 2));
-  
+
   const { data, error } = await supabase.functions.invoke(
     'get-upload-urls-by-id',
     { body }
   );
-  
+
   if (error) {
     console.error('❌ Error:', error.message);
     process.exit(1);
   }
-  
+
   console.log('✅ Result:', JSON.stringify(data, null, 2));
-  
+
   // Additional validation
   if (data?.media) {
     console.log(`📁 Media files: ${data.media.length} upload URLs generated`);
     data.media.forEach((item, index) => {
-      console.log(`  ${index + 1}. ID: ${item.id}, Key: ${item.objectKey}, Expires in: ${item.expiresIn}s`);
+      console.log(
+        `  ${index + 1}. ID: ${item.id}, Key: ${item.objectKey}, Expires in: ${item.expiresIn}s`
+      );
     });
   }
-  
+
   if (data?.images) {
     console.log(`🖼️  Images: ${data.images.length} upload URLs generated`);
     data.images.forEach((item, index) => {
-      console.log(`  ${index + 1}. ID: ${item.id}, Key: ${item.objectKey}, Expires in: ${item.expiresIn}s`);
+      console.log(
+        `  ${index + 1}. ID: ${item.id}, Key: ${item.objectKey}, Expires in: ${item.expiresIn}s`
+      );
     });
   }
-  
+
   if (data?.errors) {
     console.log('⚠️  Errors encountered:');
     Object.entries(data.errors).forEach(([id, error]) => {
@@ -61,10 +73,10 @@ function parseArgs() {
   let expirationHours = 1;
   const originalFilenames = {};
   let currentType = 'media'; // default to media files
-  
+
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
-    
+
     if (arg === '--media' || arg === '-m') {
       currentType = 'media';
     } else if (arg === '--images' || arg === '-i') {
@@ -92,7 +104,7 @@ function parseArgs() {
       }
     }
   }
-  
+
   return { mediaFileIds, imageIds, expirationHours, originalFilenames };
 }
 
@@ -125,7 +137,8 @@ Examples:
   node scripts/api_tests/test_get_upload_urls_by_id.cjs --media media_id_1 --images image_id_1 --filename media_id_1=audio.mp3 image_id_1=cover.jpg`);
 }
 
-const { mediaFileIds, imageIds, expirationHours, originalFilenames } = parseArgs();
+const { mediaFileIds, imageIds, expirationHours, originalFilenames } =
+  parseArgs();
 
 if (mediaFileIds.length === 0 && imageIds.length === 0) {
   showUsage();
