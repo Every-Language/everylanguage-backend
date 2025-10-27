@@ -136,8 +136,28 @@ WITH
       ),
       (
         'project'::resource_type,
+        'project_viewer',
+        'budget.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_viewer',
+        'contribution.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
         'project_editor',
         'project.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_editor',
+        'budget.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_editor',
+        'contribution.read'::permission_key
       ),
       (
         'project'::resource_type,
@@ -148,6 +168,21 @@ WITH
         'project'::resource_type,
         'project_admin',
         'project.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_admin',
+        'budget.read'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_admin',
+        'budget.write'::permission_key
+      ),
+      (
+        'project'::resource_type,
+        'project_admin',
+        'contribution.read'::permission_key
       ),
       (
         'project'::resource_type,
@@ -244,8 +279,23 @@ WITH
       ),
       (
         'partner'::resource_type,
+        'partner_member',
+        'contribution.read'::permission_key
+      ),
+      (
+        'partner'::resource_type,
         'partner_leader',
         'partner.read'::permission_key
+      ),
+      (
+        'partner'::resource_type,
+        'partner_leader',
+        'contribution.read'::permission_key
+      ),
+      (
+        'partner'::resource_type,
+        'partner_leader',
+        'contribution.write'::permission_key
       ),
       (
         'partner'::resource_type,
@@ -256,6 +306,16 @@ WITH
         'partner'::resource_type,
         'partner_admin',
         'partner.manage_roles'::permission_key
+      ),
+      (
+        'partner'::resource_type,
+        'partner_admin',
+        'contribution.read'::permission_key
+      ),
+      (
+        'partner'::resource_type,
+        'partner_admin',
+        'contribution.write'::permission_key
       ),
       -- global
       (
